@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="screenrecorder_settings_bit_rate">
+        <item>200 Mbits/s</item>
+        <item>100 Mbits/s</item>
+        <item>50 Mbits/s</item>
+        <item>32 Mbits/s</item>
+        <item>24 Mbits/s</item>
+        <item>16 Mbits/s</item>
+        <item>8 Mbits/s</item>
+        <item>4 Mbits/s</item>
+        <item>1 Mbits/s</item>
+    </string-array>
+    <string-array name="screenrecorder_settings_orientation">
+        <item>Auto</item>
+        <item>Portrait</item>
+        <item>Paysage</item>
+    </string-array>
+    <string-array name="screenrecorder_settings_sound">
+        <item>Désactiver le son</item>
+        <item>Microphone</item>
+        <item>Son du Système</item>
+    </string-array>
+    <string-array name="screenrecorder_settings_storage_location">
+        <item>Stockage Interne</item>
+        <item>Stockage externe</item>
+    </string-array>
+</resources>

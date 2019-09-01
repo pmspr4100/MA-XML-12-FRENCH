@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="entries">
+        <item quantity="other">"%d d'éléments"</item>
+        <item quantity="one">%d élément</item>
+    </plurals>
+    <plurals name="loan_repayment_detail">
+        <item quantity="other">Remboursement détaillées (%d années)</item>
+        <item quantity="one">Remboursement détaillé (%d année)</item>
+    </plurals>
+    <plurals name="loan_repayment_detail_unit">
+        <item quantity="other">Remboursement détaillées (%d années), CNY</item>
+        <item quantity="one">Remboursement détaillé (%d année), CNY</item>
+    </plurals>
+    <plurals name="mortgage_summary_years">
+        <item quantity="other">%1$d années (%2$d mois)</item>
+        <item quantity="one">%1$d année (%2$d mois)</item>
+    </plurals>
+</resources>

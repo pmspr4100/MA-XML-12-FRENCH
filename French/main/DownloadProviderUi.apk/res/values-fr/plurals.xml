@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">Supprimer %d téléchargements ?</item>
+        <item quantity="one">Supprimer %d téléchargement ?</item>
+    </plurals>
+    <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">Supprimé %s téléchargements avec succès</item>
+        <item quantity="one">Supprimé %s téléchargements avec succès</item>
+    </plurals>
+    <plurals name="sniff_find_resource">
+        <item quantity="other">Trouvé %d fichiers</item>
+        <item quantity="one">Trouvé 1 fichier</item>
+    </plurals>
+    <plurals name="numberOfItemsAvailable">
+        <item quantity="other">Supprimer %d fichiers ?</item>
+        <item quantity="one">Supprimer ce fichier ?</item>
+    </plurals>
+    <plurals name="sniff_find_result">
+        <item quantity="other">Trouvé %d résultats</item>
+        <item quantity="one">Trouvé 1 résultat</item>
+    </plurals>
+</resources>

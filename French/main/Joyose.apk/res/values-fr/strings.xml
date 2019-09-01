@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_settings">Paramètres</string>
+  <string name="activity_title_fakecell">Protection contre les fausses stations de base</string>
+  <string name="app_name">StepsProvider</string>
+  <string name="booster_config_version">"Version actuelle: "</string>
+  <string name="cc_version">"Version actuelle: "</string>
+  <string name="connect_wifi">Non connecté au Wi-Fi</string>
+  <string name="detect_fakecell">Reconnaître les SMS de fausses stations de base</string>
+  <string name="forbidden_fakecell">Ne vous connectez pas à de fausses stations de base</string>
+  <string name="forbidden_fakecell_summary">Empêcher votre téléphone de se connecter à de fausses stations de base</string>
+  <string name="foreground_text">Utiliser les services de premier plan pour augmenter le niveau de priorité</string>
+  <string name="foreground_title">Services de premier plan</string>
+  <string name="hello_world">Bienvenue !</string>
+  <string name="joyose_name">Joyose</string>
+  <string name="lab_switch_server">Changer de serveur</string>
+  <string name="not_support_forbidden_fakecell">"Votre appareil ne prend pas en charge la protection au niveau de la puce contre les fausses stations de base."</string>
+  <string name="open_cta">"Autoriser cette application à se connecter à internet dans Sécurité."</string>
+  <string name="permstep_description">"Autoriser cette application à accéder à votre nombre de pas"</string>
+  <string name="permstep_label">Access step count</string>
+  <string name="restart_details">Pour activer ou désactiver cette fonctionnalité, vous devez redémarrer votre appareil. Redémarrer maintenant ?</string>
+  <string name="restart_later">Plus tard</string>
+  <string name="restart_now">Redémarrer maintenant</string>
+  <string name="stop_sync">Arrêter la synchronisation automatiquement ?</string>
+  <string name="support_forbidden_fakecell">Remarque: Le fait de limiter la connexion à de fausses stations de base peut réduire le signal dans les zones de faible couverture.</string>
+  <string name="switch_international">Basculer vers le serveur global</string>
+  <string name="switch_to_official">Basculer vers le serveur officiel</string>
+  <string name="switch_to_staging">Basculer vers le serveur de transfert</string>
+  <string name="unknown_error">Erreur inconnue</string>
+  <string name="update_success">Mis à jour avec succés</string>
+</resources>

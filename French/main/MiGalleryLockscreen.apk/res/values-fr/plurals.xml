@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="feed_article_entrance_title">
+        <item quantity="other">%d articles sur ce sujet</item>
+        <item quantity="one">%d article sur ce sujet</item>
+    </plurals>
+    <plurals name="llks_tools_remote_control_data">
+        <item quantity="other">%d éléments</item>
+        <item quantity="one">%d élément</item>
+    </plurals>
+    <plurals name="llks_tools_smart_devices_data">
+        <item quantity="other">%d appareils</item>
+        <item quantity="one">%d appareil</item>
+    </plurals>
+    <plurals name="lockscreen_magazine_subscribe">
+        <item quantity="other">%1$s personnes abonnées</item>
+        <item quantity="one">%1$s personne abonnée</item>
+    </plurals>
+    <plurals name="lockscreen_magazine_system_subscribe">
+        <item quantity="other">"%1$s fonds d'écran"</item>
+        <item quantity="one">"%1$s fond d'écran"</item>
+    </plurals>
+    <plurals name="time_day_ago">
+        <item quantity="other">il y a %d jours</item>
+        <item quantity="one">il y a %d jour</item>
+    </plurals>
+    <plurals name="time_hour_ago">
+        <item quantity="other">il y a %d heures</item>
+        <item quantity="one">il y a %d heure</item>
+    </plurals>
+    <plurals name="time_minute_ago">
+        <item quantity="other">il y a %d minutes</item>
+        <item quantity="one">il y a %d minute</item>
+    </plurals>
+</resources>

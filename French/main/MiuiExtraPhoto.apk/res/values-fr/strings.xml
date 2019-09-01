@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="extra_photo_common_permission_name">Bokeh</string>
+  <string name="extra_photo_common_saving">Sauvegarde…</string>
+  <string name="motion_photo_re_pick_title">Sélectionnez la meilleure photo</string>
+  <string name="motion_photo_toast_default">Défaut</string>
+  <string name="motion_photo_toast_suggest">Recommandé</string>
+  <string name="refocus_discard_confirm_message">Sauvegarder les modifications ?</string>
+  <string name="refocus_discard_negative_btn">Abandonner</string>
+  <string name="refocus_discard_positive_btn">Enregistrer</string>
+  <string name="refocus_photo_not_support">"Impossible d'appliquer le flou à cette photo"</string>
+  <string name="refocus_relighting_toast">"Déplacez le cercle pour ajuster l'angle d'éclairage"</string>
+  <string name="refocus_save_cancel">Annuler</string>
+  <string name="refocus_save_title">Sélectionnez le format</string>
+  <string name="refocus_save_to_photo">"Enregistrer en tant qu'image"</string>
+  <string name="refocus_save_to_video">Enregistrer en vidéo</string>
+  <string name="refocus_saving">Sauvegarde…</string>
+  <string name="refocus_title">Flou</string>
+  <string name="refocus_type_relighting">Éclairage de studio</string>
+  <string name="refocus_type_relighting_no_face">"Impossible de trouver un visage"</string>
+  <string name="refocus_type_relighting_small_face">"L'éclairage de studio fonctionne sur des photos où les visages occupent plus d'espace qu'ici."</string>
+  <string name="refocus_type_static">Niveau de flou</string>
+  <string name="refocus_type_video">Light trails</string>
+</resources>

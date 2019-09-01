@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sent_frequency_per_day">
+        <item quantity="other">%d notifications par jour</item>
+        <item quantity="one">%d notifications par jour</item>
+    </plurals>
+    <plurals name="sent_frequency_per_week">
+        <item quantity="other">%d notifications par semaine</item>
+        <item quantity="one">%d notifications par semaine</item>
+    </plurals>
+</resources>

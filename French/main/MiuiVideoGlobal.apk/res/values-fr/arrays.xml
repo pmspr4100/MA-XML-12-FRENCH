@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="playback_streaming_quality">
+      <item>Auto</item>
+      <item>Faible</item>
+      <item>Moyen</item>
+      <item>Haute</item>
+      <item>Très haute</item>
+    </string-array>
+    <string-array name="feedback_tag_list">
+        <item>Bug</item>
+        <item>Suggestion</item>
+        <item>Autre</item>
+    </string-array>
+    <string-array name="lang_detect">
+        <item>中</item>
+        <item>繁</item>
+        <item>英</item>
+        <item>韩</item>
+        <item>日</item>
+        <item>法</item>
+    </string-array>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ble_package_names">
+        <item></item>
+        <item>Mi Fit</item>
+        <item>Mi VR</item>
+    </string-array>
+    <string-array name="ble_profile_mi_band">
+        <item>"Vibre quand ça sonne"</item>
+        <item>"Vibrer à la réception d'un message"</item>
+        <item>"Vibrer avec l'alarme"</item>
+    </string-array>
+    <string-array name="ble_profile_mi_key">
+        <item>Prendre une photo</item>
+        <item>Trouver un téléphone</item>
+        <item>Trouver Mi-key</item>
+    </string-array>
+</resources>

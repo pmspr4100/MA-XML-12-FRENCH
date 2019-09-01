@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hd_record_scenes_entries">
+        <item>Musique</item>
+        <item>Voix</item>
+        <item>Interview</item>
+        <item>HD</item>
+    </string-array>
+    <string-array name="interview_record_scenes_entries">
+        <item>Musique</item>
+        <item>Voix</item>
+        <item>Interview</item>
+    </string-array>
+    <string-array name="record_quality_entries">
+        <item>Élevée</item>
+        <item>Normale</item>
+        <item>Faible</item>
+    </string-array>
+    <string-array name="record_quality_summaries">
+        <item>MP3, ~192kbit/s, ~90Mo/h</item>
+        <item>MP3, ~100kbit/s, ~45Mo/h</item>
+        <item>MP3, ~75kbit/s, ~32Mo/h</item>
+    </string-array>
+    <string-array name="record_scenes_entries">
+        <item>Musique</item>
+        <item>Voix</item>
+    </string-array>
+    <string-array name="record_scenes_summaries">
+        <item>Enregistrez de la musique avec une meilleure qualité</item>
+        <item>Rapprochez le micro de la source du son pour une meilleure qualité</item>
+        <item>Placez le téléphone entre 2 personnes pour enregistrer clairement leur conversation</item>
+        <item>La technologie de gamme dynamique élevée permet au microphone de capturer des sons plus détaillés</item>
+    </string-array>
+    <string-array name="record_scenes_summaries_stereo">
+        <item>Enregistrez via 2 canaux, écoutez le son stéréo dans les écouteurs</item>
+        <item>Rapprochez le micro de la source du son pour une meilleure qualité</item>
+        <item>Placez le téléphone entre 2 personnes pour enregistrer clairement leur conversation</item>
+        <item>La technologie de gamme dynamique élevée permet au microphone de capturer des sons plus détaillés</item>
+    </string-array>
+</resources>
