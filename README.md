@@ -7,7 +7,7 @@
 * Strings are under a 
 - [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 
-## Référentiel MIUI v10:
+## Référentiel MIUI v11:
 * Support de la ROM Stable pour xiaomi.eu
 * Support de la ROM Bêta pour xiaomi.eu
 
