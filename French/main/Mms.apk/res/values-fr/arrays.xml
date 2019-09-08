@@ -26,10 +26,35 @@
         <item>1 jour</item>
         <item>Maximum</item>
     </string-array>
+    <string-array name="message_sending_method">
+        <item>Service de messagerie proposé</item>
+        <item>SMS, MMS</item>
+        <item>Chat RCS, transfert de fichiers RCS</item>
+    </string-array>
     <string-array name="prefEntries_vibrateWhen">
         <item>Toujours</item>
         <item>Seulement en mode silencieux</item>
         <item>Jamais</item>
+    </string-array>
+    <string-array name="rcs_ft_fallback">
+        <item>Never ask and always send as SMS Link</item>
+        <item>Never ask and never send as SMS Link</item>
+        <item>Always ask</item>
+    </string-array>
+    <string-array name="rcs_message_fallback">
+        <item>Never ask and always send as SMS</item>
+        <item>Never ask and never send as SMS</item>
+        <item>Always ask</item>
+    </string-array>
+    <string-array name="rcs_picture_quality_setting">
+        <item>always ask</item>
+        <item>never resize</item>
+        <item>always resize a selected option which is then stored as default value</item>
+    </string-array>
+    <string-array name="rcs_video_quality_setting">
+        <item>always ask</item>
+        <item>never resize</item>
+        <item>always resize a selected option which is then stored as default value</item>
     </string-array>
     <string-array name="reason_type">
         <item>Fraude</item>

@@ -44,6 +44,10 @@
         <item quantity="other">Vous avez reçu %d invitations de groupe de discussion</item>
         <item quantity="one">Vous avez reçu %d invitation de groupe de discussion</item>
     </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">"%s messages | "</item>
+        <item quantity="one">"%s message | "</item>
+    </plurals>
     <plurals name="recipient_count">
         <item quantity="other">%1$s personnes</item>
         <item quantity="one">%1$s personne</item>
