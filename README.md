@@ -1,3 +1,4 @@
+[![MIUI11 logo](https://i.imgur.com/A44OaCG.gif)](https://xiaomi.eu/)
 
 # MIUI 11 XML FRENCH by pmspr4100 (forked from MIUI 11 Daily XML changes by xiaomi.eu / miui.com)
 [![License: CC BY-NC-SA 3.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%203.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/3.0/)
@@ -25,4 +26,3 @@
 
 ## Pour tous problèmes:
 * https://github.com/pmspr4100/MA-XML-11-FRENCH
-
