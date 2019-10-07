@@ -4,6 +4,7 @@
   <string name="activity_not_found">"L'application n'est pas installée sur votre appareil"</string>
   <string name="activity_not_unlocked">"Attendez que votre appareil soit complètement redémarré avant d'ouvrir les applications"</string>
   <string name="add_screen">Ajouter un écran</string>
+  <string name="additional_settings">Paramètres additionnels</string>
   <string name="all_apps">Toutes les applications</string>
   <string name="all_apps_no_search_results">"Impossible de trouver des résultats"</string>
   <string name="all_apps_search_app">Rechercher des applications</string>
@@ -121,8 +122,13 @@
   <string name="delete_wallpaper_message">"Supprimer %1$d fond d'écran ?"</string>
   <string name="deselect_all">Tout désélectionner</string>
   <string name="disable_wallpaper_scroll">Désactiver le défilement</string>
-	<string name="double_tap_to_lock_title">"Appuyez deux fois pour verrouiller l'écran"</string>
+  <string name="double_tap_to_lock_title">"Appuyez deux fois pour verrouiller l'écran"</string>
   <string name="download_action">Télécharger</string>
+  <string name="drawer_background">Arrière-plans</string>
+  <string name="drawer_background_dark">Sombre</string>
+  <string name="drawer_background_light">Clair</string>
+  <string name="drawer_background_transparency">"Transparence de fond du tiroir d'application"</string>
+  <string name="drawer_settings">"Tiroir d'application"</string>
   <string name="dual_app">Applications clônées</string>
   <string name="edit_folder_title">Éditer le nom du dossier</string>
   <string name="edit_mode_dual_app">Créer une application clonée</string>
@@ -213,6 +219,7 @@
   <string name="launcher_pull_down_title">"Glisser vers le bas sur l'écran d'accueil"</string>
   <string name="launcher_slide_up_title">"Glisser vers le haut sur l'écran d'accueil"</string>
   <string name="home_screen">"Écran d'accueil"</string>
+  <string name="home_screen_settings">"Écran d'accueil"</string>
   <string name="icon_reorganize_channel">Organiser les icônes</string>
   <string name="image_too_small_message">"L'image originale n'est pas assez grande."</string>
   <string name="install">Installer</string>
@@ -225,6 +232,7 @@
   <string name="liked">Ajouté aux favoris</string>
   <string name="loading_desktop">Chargement…</string>
   <string name="loading_wallpaper">Chargement…</string>
+  <string name="local_apps">Applications locales</string>
   <string name="local_wallpaper">Téléchargé</string>
   <string name="lock_screen">Écran de verrouillage</string>
   <string name="lock_screen_cells_title">"Activer le verrouillage de l'écran d'accueil"</string>
@@ -308,6 +316,7 @@
   <string name="recent_apps">Récent</string>
   <string name="recents_config_title">Récents</string>
   <string name="recommend_apk_size_and_desc">%1$d Mo | %2$s</string>
+  <string name="recommend_app">"Suggestions d'applications"</string>
   <string name="recommend_apps_default_title">Vide</string>
   <string name="recommend_apps_no_data">Aucune données</string>
   <string name="recommend_apps_no_data_toast">"Aucune recommandation pour l'instant."</string>
@@ -327,6 +336,8 @@
   <string name="screen_cells_config_title">"Modifier la disposition de l'écran d'accueil"</string>
   <string name="screen_locked_toast">"La disposition de l'écran d'accueil est verrouillée."</string>
   <string name="screen_number">%d écran</string>
+  <string name="search_in_apps_store">Rechercher \"%1$s\" dans %2$s</string>
+  <string name="search_no_result">Impossible de trouver des résultats</string>
   <string name="select_all">Tout sélectionner</string>
   <string name="select_frame">Cadre</string>
   <string name="select_photo">Photo</string>
@@ -342,6 +353,7 @@
   <string name="shortcut_share_dialog_title">Avertissement</string>
   <string name="show_all">Tout afficher</string>
   <string name="show_mem_info_title">"Afficher l'état de la mémoire"</string>
+  <string name="show_most_popular_apps_you_used">Afficher les applications les plus fréquemment utilisées dans le tiroir</string>
   <string name="show_recents_recommend_title">Afficher les suggestions</string>
   <string name="sort_by_abc">Trier par nom</string>
   <string name="sort_by_frequency">Trier par utilisation</string>
@@ -378,8 +390,6 @@
   <string name="uninstall_xspace_dialog_title_format">"Désinstaller l'application clônée \"%s\" ?"</string>
   <string name="unknown_artist_name">Artiste inconnu</string>
   <string name="unnamed_folder_name">Dossier</string>
-  <string name="user_query_notification_text">"Le fonctionnement du bureau est-il confortable ? L'animation est-elle fluide ? Parlez-nous de votre participation au sondage !"</string>
-  <string name="user_query_notification_title">"Le système MIUI vous invite à participer à l’enquête d’utilisation."</string>
   <string name="wallpaper">"Fond d'écran"</string>
   <string name="wallpaper_auto_change_title">Écran de verrouillage</string>
   <string name="wallpaper_failed_message">"Impossible de définir le fond d'écran"</string>
