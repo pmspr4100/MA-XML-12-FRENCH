@@ -187,6 +187,11 @@ Pour activer votre compte, suivez le
   <string name="passport_relogin_notice">Reconnectez-vous</string>
   <string name="passport_copy_message_text_success">Copié avec succès</string>
   <string name="passport_copy_message_vcode">Copier le code</string>
+  <string name="passport_debug_china_failed_to_get_phone_from_both_sim_activate_and_operator">国内:SIM卡激活取号失败,运营商取号失败</string>
+  <string name="passport_debug_china_failed_to_get_phone_from_sim_activate_but_successfully_from_operator_with_count">国内:SIM卡激活取号失败,运营商取号成功(成功%s张)</string>
+  <string name="passport_debug_china_successfully_got_phone_from_sim_activate_with_count">国内:SIM卡激活取号成功(成功%s张)</string>
+  <string name="passport_debug_international_failed_to_get_phone_from_sim_activate">国际:SIM卡激活取号失败</string>
+  <string name="passport_debug_international_successfully_got_phone_from_sim_activate_with_count">国际:SIM卡激活取号成功(成功%s张)</string>
   <string name="passport_message_dialog_title">SMS avec code de vérification</string>
   <string name="passport_trust_device">Ajouter cet appareil aux appareils de confiance</string>
   <string name="passport_barcode_add_account_prompt">Pour connecter un compte, scannez le code QR à nouveau après vous être connecté.</string>

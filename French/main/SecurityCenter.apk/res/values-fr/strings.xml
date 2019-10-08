@@ -1026,6 +1026,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
   <string name="usage_type_no_coverage">Temps sans signal</string>
   <string name="usage_type_gps">GPS</string>
   <string name="process_mediaserver_label">Serveur média</string>
+  <string name="process_vpnsdkmanager_label">Game Turbo</string>
   <string name="power_screen">Écran</string>
   <string name="power_setting_background_app_save_summary">"Limiter l'activité des applications en arrière-plan sans affecter les fonctionnalités"</string>
   <string name="power_setting_background_app_save_title">Économiseur de batterie de fond</string>
@@ -1045,6 +1046,11 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
   <string name="power_wifi">Wi-Fi</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_cell">Appareil en veille</string>
+  <string name="power_center_5g_save_close_detail">5G battery saver increases battery life without affecting 5G connectivity. Turn off anyway?</string>
+  <string name="power_center_5g_save_close_later">"Don't turn off"</string>
+  <string name="power_center_5g_save_close_title">Turning off 5G battery saver</string>
+  <string name="power_center_5g_save_summary_text">Make 5G connectivity less power consuming in certain scenarios</string>
+  <string name="power_center_5g_save_title_text">5G battery saver</string>
   <string name="power_phone">Appels</string>
   <string name="power_save_mode">Économiseur de batterie</string>
   <string name="power_idle">Téléphone en veille</string>
@@ -1151,7 +1157,7 @@ medical card"</string>
   <string name="legal_workday">Jours ouvrés</string>
   <string name="never">1 fois</string>
   <string name="power_20s_shutdown">"L'appareil va s'éteindre dans %d secondes"</string>
-  <string name="power_ambient_display">Affichage ambiant</string>
+  <string name="power_ambient_display">Affichage Always-on</string>
   <string name="boot_reminder">Allumer votre appareil à une heure programmée</string>
   <string name="shutdown_cancel_reminder">"Impossible d'éteindre l'appareil"</string>
   <string name="shutdown_cancel_reminder_detail">"Impossible d'éteindre l'appareil parce que vous étiez au milieu d'un appel"</string>
@@ -1222,7 +1228,7 @@ medical card"</string>
   <string name="battery_charge_full">Chargée</string>
   <string name="battery_charge_estimating">Calcul en cours</string>
   <string name="battery_charging_prompt">En charge</string>
-  <string name="battery_desc_ambient_display">"Puissance consommée par l'affichage ambiant"</string>
+  <string name="battery_desc_ambient_display">"Puissance consommée par l'affichage Always-on"</string>
   <string name="deep_save_memory_clean_summary">Vider le cache lorsque vous verrouiller votre appareil pour éviter que les applicaitons déchargent la batterie</string>
   <string name="btn_text_open_now">Activer</string>
   <string name="btn_text_already_opened">Activé</string>
@@ -1751,7 +1757,7 @@ medical card"</string>
   <string name="superpower_progress_turnoff_process">"Restreindre l'activité de fond"</string>
   <string name="superpower_savemode_limit1">Thème sombre</string>
   <string name="superpower_savemode_limit2">"Restreindre l'activité de fond"</string>
-  <string name="superpower_savemode_limit3">Limitez les activités énergivores (synchronisation, GPS, vibrations, affichage ambiant, etc.)</string>
+  <string name="superpower_savemode_limit3">Limitez les activités énergivores (synchronisation, GPS, vibrations, affichage Always-on, etc.)</string>
   <string name="superpower_savemode_limit4">Autoriser les applications sélectionnées à fonctionner normalement</string>
   <string name="superpower_settings">Économiseur de batterie ultra</string>
   <string name="superpower_settins_autoenter_summary">"Activer l'économiseur de batterie ultra automatiquement lorsque la batterie est chargée à 10% seulement"</string>

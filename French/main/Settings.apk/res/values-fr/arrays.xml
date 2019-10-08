@@ -1068,7 +1068,7 @@ Note : seulement pour Ubuntu 8.04 !"</item>
     <string-array name="screen_optimize_summary">
       <item>Optimiser le contraste en fonction de la lumière</item>
       <item>"Augmenter le contraste de l'affichage"</item>
-      <item>Le contraste restera constant</item>
+      <item>"Restaurez la couleur standard du contenu de l'écran avec l'étalonnage des couleurs"</item>
     </string-array>
     <string-array name="screen_optimize_title">
       <item>Contraste automatique</item>
@@ -1381,6 +1381,10 @@ Note : seulement pour Ubuntu 8.04 !"</item>
     <string-array name="default_vol_stream_entries">
       <item>Sonnerie</item>
       <item>Média</item>
+    </string-array>
+    <string-array name="wifi_privacy_entries">
+        <item>Use randomized MAC</item>
+        <item>Use device MAC</item>
     </string-array>
     <string-array name="aod_clock_style_entries">
       <item>Horizontal</item>

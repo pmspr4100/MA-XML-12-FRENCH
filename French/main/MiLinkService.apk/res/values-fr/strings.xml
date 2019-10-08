@@ -46,10 +46,16 @@ For more questions, please see the help."</string>
   <string name="help_page_text_11">Step 3</string>
   <string name="help_page_text_12">Select an external device from the list of the available devices to start casting.</string>
   <string name="help_page_text_13">"Can't connect to an external device?"</string>
-  <string name="help_page_text_14">"1. Millet TV screencast, please upgrade the Wireless Screening application in the TV application list to the latest version. 
-2. You can try to connect your phone to your TV to the same LAN to increase your connection success rate. However, some routers may not be able to provide a stable connection environment for the screen, resulting in no connection or frequent interruption. 
-3. If you're using Mi TV, turning on Bluetooth might improve the connection. 
-4. If there aren't any Wi-Fi networks available, make sure your external device (e.g. TV) supports Miracast functionality. The names of casting features on your external device may vary depending on the brand of your device. Refer to the information below to learn about Miracast functionality on different devices."</string>
+  <string name="help_page_text_14">"1. If you want to use a Xiaomi device, but can't find it in the list of available devices, try the following:
+Connect both your phone and the external monitor (e.g. your TV) to the same Wi-Fi network, or connect the external monitor to your phone's hotspot. If there aren't any Wi-Fi networks available or you can't connect both devices to the same network, check whether the casting features on your external monitor are up to date, turn on Bluetooth both on your phone and the external monitor, and turn on Miracast on your TV. 
+2. If you're casting on a Xiaomi device for the first time, you need to complete verification. 
+3. If you want to use a non-Xiaomi device, but can't find it in the list of available devices, try the following:
+Connect both your phone and the external monitor (e.g. your TV) to the same Wi-Fi network, or connect the external monitor to your phone's hotspot. If this doesn't help, install the LeEco casting app on your TV and follow the instructions."</string>
+  <string name="help_page_text_14_global">"1. If you want to use a Xiaomi device, but can't find it in the list of available devices, try the following:
+Connect both your phone and the external monitor (e.g. your TV) to the same Wi-Fi network, or connect the external monitor to your phone's hotspot. If there aren't any Wi-Fi networks available or you can't connect both devices to the same network, check whether the casting features on your external monitor are up to date, turn on Bluetooth both on your phone and the external monitor, and turn on Miracast on your TV.
+2. If you're casting on a Xiaomi device for the first time, you need to complete verification.
+3. If you want to use a non-Xiaomi device, but can't find it in the list of available devices, try the following:
+Connect both your phone and the external monitor (e.g. your TV) to the same Wi-Fi network, or connect the external monitor to your phone's hotspot."</string>
   <string name="help_page_text_15">Miracast functionality on different devices</string>
   <string name="help_page_text_16">Mi TV/Mi Projector</string>
   <string name="help_page_text_17">"Xiaomi mobile phone can directly connect to most of the Xiaomi TV with Bluetooth tooth function, instead of manually opening the Miracast function.
@@ -91,6 +97,10 @@ If you need to manually open the Miracast function, you can press the [Menu] but
   <string name="help_page_text_51">LeTV</string>
   <string name="help_page_text_52">Please make sure that your large screen device model supports the Miracast protocol. On some models, select Settings &gt; Network &gt; Multi-screen Interactive &gt; Wireless Display.</string>
   <string name="help_page_text_53">LeTV customer service phone: 10109000</string>
+  <string name="help_page_text_55">"If you can't connect to the network, make sure your external monitor supports Miracast functionality and it's turned on. On some models, this feature is called Wireless Display, Screen Mirroring, or Multiple screens. View the information below to learn how to turn on Miracast.
+4. If you encounter any issues, you can report them using our \"Services &amp; feedback\" app."</string>
+  <string name="help_page_text_55_global">"If you can't connect to the network, make sure your external monitor supports Miracast functionality and it's turned on. On some models, this feature is called Wireless Display, Screen Mirroring, or Multiple screens.
+4. If you encounter any issues, you can report them using our \"Services &amp; feedback\" app."</string>
   <string name="help_page_text_end">"If the brand of your device isn't listed here, contact the manufacturer to learn more about casting functionality."</string>
   <string name="notification_rc_desc">The best TV Assistant for your mobile to cast video, photo and application to XiaoMi Box (or TV), just try it now!</string>
   <string name="notification_rc_title">XiaoMi TV Assistant</string>

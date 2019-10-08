@@ -88,7 +88,7 @@ En utilisant ce service, vous acceptez %s."</string>
   <string name="i_know">OK</string>
   <string name="button_cancel">Annuler</string>
   <string name="enable_micloud">Connectez-vous pour utiliser Xiaomi Cloud</string>
-	<string name="enable_sync_setting_title">Configuration des services cloud…</string>
+  <string name="enable_sync_setting_title">Configuration des services cloud…</string>
   <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
   <string name="xiaomi_cloud_service_subtitle">Tous les éléments important dans un lieu</string>
   <string name="micloud_dspt">"Synchronisez vos contacts, vos messages, l’historique des appels et d’autres éléments sur tous les appareils.
@@ -101,11 +101,14 @@ Localisez et verrouillez votre appareil en cas de perte. "</string>
   <string name="sub_alert_notif_title">Synchroniser avec Xiaomi Cloud</string>
   <string name="sub_alert_notif_content">Activer Xiaomi Cloud</string>
   <string name="cloud_lab_title">Lab</string>
+  <string name="cloud_storage_already_full">Le stockage cloud est plein: %1$s/%2$s</string>
   <string name="cloud_storage_already_used">Occupé: %1$s/%2$s</string>
+  <string name="cloud_storage_default_title">Stockage Cloud</string>
   <string name="cloud_storage_info_type_drive">Mi Drive</string>
   <string name="cloud_storage_info_type_duokan">Duokan</string>
   <string name="cloud_storage_info_type_others">Autre</string>
   <string name="cloud_storage_info_type_pdc">Paramètres système</string>
+  <string name="cloud_storage_loading_data">Chargement…</string>
   <string name="cloud_storage_manage_title">"Gérer le stockage"</string>
   <string name="cloud_storage_no_data">"Pas encore d'éléments dans le cloud"</string>
   <string name="cloudservice_new_sync">Synchroniser %s avec Xiaomi Cloud</string>

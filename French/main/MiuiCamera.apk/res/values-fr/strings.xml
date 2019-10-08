@@ -29,7 +29,7 @@
   <string name="accessibility_filter_open_panel">Ouvrir le menu du filtre</string>
   <string name="accessibility_filter_pad_close">Le menu du filtrage est masqué</string>
   <string name="accessibility_flash_auto">Flash auto activé</string>
-  <string name="accessibility_flash_back_soft_light">闪光灯，柔光状态</string>
+  <string name="accessibility_flash_back_soft_light">Le flash fonctionne en mode de lumière douce</string>
   <string name="accessibility_flash_off">Flash désactivé</string>
   <string name="accessibility_flash_on">Flash activé</string>
   <string name="accessibility_flash_torch">Flash activé, mode torche</string>
@@ -177,7 +177,7 @@ et optimise vos photos en fonction des informations"</string>
   <string name="dialog_google_lens_option_0">Google Lens (recommandé)</string>
   <string name="dialog_ok">OK</string>
   <string name="dialog_ok_time">OK (%ds)</string>
-  <string name="dirty_tip_toast">镜头有脏污，请擦拭</string>
+  <string name="dirty_tip_toast">La lentille est sale. Essuyez-la.</string>
   <string name="do_not_remind_me">"Ne plus afficher"</string>
   <string name="dual_camera_lens_covered_toast">La lentille est couverte.</string>
   <string name="dual_camera_lowlight_toast">"On dirait qu'il fait trop sombre."</string>
@@ -388,6 +388,10 @@ regarder plus grand sur les photos"</string>
   <string name="module_name_professional">Pro</string>
   <string name="module_name_square">Square</string>
   <string name="module_name_video">Vidéo</string>
+  <string name="network_access_user_notice_agree">Accepter</string>
+  <string name="network_access_user_notice_message_live_video">&lt;Data&gt;"Camera needs to connect to the internet to provide effects, music, and other features for short videos.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;By tapping \"Agree\" below, you're agreeing to our &amp;lt;a href =%1$s&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href =%2$s&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;, and allowing Camera to connect to the internet."&lt;/Data&gt;</string>
+  <string name="network_access_user_notice_message_sticker">&lt;Data&gt;"Camera needs to connect to the internet to provide stickers for this feature.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;By tapping \"Agree\" below, you're agreeing to our &amp;lt;a href =%1$s&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href =%2$s&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;, and allowing Camera to connect to the internet."&lt;/Data&gt;</string>
+  <string name="network_access_user_notice_message_voice_caption">&lt;Data&gt;"Camera needs to connect to the internet to provide speech-to-text output functionality.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;By tapping \"Agree\" below, you're agreeing to our &amp;lt;a href =%1$s&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href =%2$s&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;, and allowing Camera to connect to the internet."&lt;/Data&gt;</string>
   <string name="multi_window_mode_not_supported">"L'appareil photo ne fonctionne pas en Écran divisé"</string>
   <string name="network_access_user_notice_title">Connexion à Internet</string>
   <string name="no_storage">"Merci d’insérer une carte SD avant d'utiliser l'appareil photo"</string>
@@ -400,6 +404,7 @@ regarder plus grand sur les photos"</string>
   <string name="pano_how_to_use_prompt_start">Appuyez sur la flèche pour changer de direction et commencez à vous déplacer lentement.</string>
   <string name="pano_how_to_use_prompt_to_move">Commencez le panoramique lentement</string>
   <string name="path_settings">Applications système/Appareil photo/Paramètres</string>
+  <string name="photo_assistance_tips_title">Live tips</string>
   <string name="pic_flaw_blink_more">照片拍摄有人眨眼</string>
   <string name="pic_flaw_blink_one">照片拍摄有眨眼</string>
   <string name="pic_flaw_cover">照片拍摄有遮挡</string>
@@ -443,6 +448,7 @@ le fond sur vos photos"</string>
 et fait ressortir les gens à l'avant."</string>
   <string name="portrait_mode_use_hint_for_bokeh">"Essayez le mode portrait.
 Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
+  <string name="pref_960_watermark_title">Filigrane 960FPS</string>
   <string name="pref_advance_settings">Paramètres additionnels</string>
   <string name="pref_ai_detect">Détection IA</string>
   <string name="pref_audio_focus_entry_front">Avant</string>
@@ -676,7 +682,8 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_google_lens_summary">"Pointez l'appareil photo sur les informations de contact, les URL et les QR codes pour afficher les options disponibles."</string>
   <string name="pref_google_lens_title">Suggestion Lens</string>
   <string name="pref_groupshot_with_primitive_title">"Enregistrer les photos d'origine également"</string>
-  <string name="pref_lens_dirty_detect_summary">镜头外部有灰尘或污垢时，会在拍照界面给我擦拭镜头的提示</string>
+  <string name="pref_lens_dirty_detect_summary">"Recevoir une notification lorsque l'objectif est sale"</string>
+  <string name="pref_lens_dirty_detect_title">"Avertir de l'objectif sale"</string>
   <string name="pref_menu_ultra_pixel_photography_32mp">32MP</string>
   <string name="pref_menu_ultra_pixel_photography_48mp">48MP</string>
   <string name="pref_menu_ultra_pixel_photography_64mp">64MP</string>
@@ -739,10 +746,10 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_watermark_on">Activé</string>
   <string name="pref_watermark_title">Filigrane</string>
   <string name="preparing_sd">Vérification carte SD…</string>
-  <string name="recommend_macro_mode">建议开启微距</string>
-  <string name="recommend_portrait">建议使用人像模式</string>
-  <string name="recommend_soft_light_tip">Use flash in the soft light mode</string>
-  <string name="recommend_super_night">建议使用夜景模式</string>
+  <string name="recommend_macro_mode">Essayez le mode macro</string>
+  <string name="recommend_portrait">Essayez le mode portrait</string>
+  <string name="recommend_soft_light_tip">Activer le flash</string>
+  <string name="recommend_super_night">Essayez le mode nuit</string>
   <string name="record_back_pressed_hint">"Appuyez à nouveau pour arrêter l'enregistrement"</string>
   <string name="screen_on_proximity_sensor_hint">Pour désactiver cette fonction, appuyez simultanément sur les touches Volume haut et Retour.</string>
   <string name="screen_on_proximity_sensor_summary">"Ne couvrez pas la zone des écouteurs"</string>
@@ -774,7 +781,10 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="start_capture">OK</string>
   <string name="sticker_tab1">Cute</string>
   <string name="sticker_tab2">Funny</string>
-  <string name="super_night_hint">画质优化中，请保持稳定</string>
+  <string name="subtitle_network_exception_tips">网络不给力，暂时无法使用语音字幕</string>
+  <string name="super_eis">Super stabilisation</string>
+  <string name="super_eis_disabled_hint">Super stabilisation est désactivée</string>
+  <string name="super_night_hint">"Optimisation de l'image… Gardez votre appareil stable."</string>
   <string name="super_night_toast">Gardez votre téléphone stable tout en prenant une photo</string>
   <string name="tap_to_exposure">"Appuyez pour régler l'exposition manuellement"</string>
   <string name="tap_to_focus">Appuyez pour faire la mise au point</string>
@@ -793,6 +803,10 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="ultra_pixel_photography_48mp_open_tip">48MP</string>
   <string name="ultra_pixel_photography_64mp_close_tip">64MP désactivé</string>
   <string name="ultra_pixel_photography_64mp_open_tip">64MP</string>
+  <string name="ultra_pixel_portrait_hint">Portrait HD</string>
+  <string name="ultra_pixel_zoom_no_support_tip">"Le zoom ne fonctionne pas %s Ultra HD mode"</string>
+  <string name="ultra_tele_use_hint_text_body">"Utilisez le zoom 50X pour capturer des objets distants
+plus en détail"</string>
   <string name="ultra_wide_bokeh_close_tip">Mode complet du corps est désactivé</string>
   <string name="ultra_wide_bokeh_open_tip">Mode complet du corps</string>
   <string name="ultra_wide_close_tip">Mode ultra grand angle est désactivé</string>
@@ -804,7 +818,7 @@ Le mode ultra grand angle vient vous aider lorsque vous ne pouvez pas vous éloi
   <string name="ultra_wide_open_tip">Mode ultra grand angle</string>
   <string name="ultra_wide_open_tip_sat">0.6X ultra grand angle</string>
   <string name="ultra_wide_recommend_tip_hint">Essayez le mode ultra grand angle</string>
-  <string name="ultra_wide_recommend_tip_hint_sat">Essayez le mode ultra grand angle 0.6X</string>
+  <string name="ultra_wide_recommend_tip_hint_sat">Basculer vers un angle ultra large 0.6X</string>
   <string name="user_agree">Accepter</string>
   <string name="user_define_watermark_cancel">Annuler</string>
   <string name="user_define_watermark_save">Enregistrer</string>
@@ -822,8 +836,13 @@ Le mode ultra grand angle vient vous aider lorsque vous ne pouvez pas vous éloi
   <string name="video_reach_size_limit">Limite de taille atteinte.</string>
   <string name="video_ultra_clear_tip">4K UHD</string>
   <string name="view_privacy_policy">Afficher la Politique de confidentialité</string>
-  <string name="vv_hint">VISION仅支持横屏拍摄</string>
-  <string name="vv_start">开拍VISION</string>
+  <string name="vv_duartion_hint">%1$s | Segment %2$d | %3$ss</string>
+  <string name="vv_hint">You can shoot vlogs only in the landscape mode</string>
+  <string name="vv_stability_hint">Keep your device stable</string>
+  <string name="vv_start">Shoot vlog</string>
+  <string name="vv_use_hint_text_body">"Vlog mode allows you
+to record and edit videos on the go"</string>
+  <string name="vv_use_hint_text_title">VLOG</string>
   <string name="wait">Chargement…</string>
   <string name="wideselfie_press_shoot_key_to_start">"Appuyez sur le bouton de l'obturateur"</string>
   <string name="wideselfie_result_image_lossless">"Impossible de créer une prise de vue panoramique"</string>
