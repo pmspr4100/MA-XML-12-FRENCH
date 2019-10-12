@@ -33,8 +33,8 @@
         <item quantity="one">%d élément restauré</item>
     </plurals>
     <plurals name="select_item_count_unit">
-        <item quantity="other">items</item>
-        <item quantity="one">item</item>
+        <item quantity="other">éléments</item>
+        <item quantity="one">élément</item>
     </plurals>
     <plurals name="select_item_summary">
         <item quantity="other">%1$s | %2$d éléments</item>
@@ -55,10 +55,6 @@
     <plurals name="trans_time_format_hours">
         <item quantity="other">%d heures</item>
         <item quantity="one">%d heure</item>
-    </plurals>
-    <plurals name="select_item_count_unit">
-        <item quantity="other">éléments</item>
-        <item quantity="one">élément</item>
     </plurals>
     <plurals name="trans_time_format_minute">
         <item quantity="other">%d minutes</item>
