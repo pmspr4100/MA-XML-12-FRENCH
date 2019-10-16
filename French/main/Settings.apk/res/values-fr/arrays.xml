@@ -1067,13 +1067,14 @@ Note : seulement pour Ubuntu 8.04 !"</item>
     </string-array>
     <string-array name="screen_optimize_summary">
       <item>Optimiser le contraste en fonction de la lumière</item>
-      <item>"Augmenter le contraste de l'affichage"</item>
-      <item>"Restaurez la couleur standard du contenu de l'écran avec l'étalonnage des couleurs"</item>
+      <item>"Augmenter le contraste d'affichage"</item>
+      <item>"Le contraste restera constant"</item>
     </string-array>
     <string-array name="screen_optimize_title">
-      <item>Contraste automatique</item>
-      <item>Augmenter le contraste</item>
-      <item>Par défaut</item>
+	    <item>Auto (recommandé)</item>
+        <item>Contraste automatique</item>
+        <item>Augmenter le contraste</item>
+        <item>Par défaut</item>
     </string-array>
     <string-array name="screen_saturation_title">
       <item>Brillant</item>

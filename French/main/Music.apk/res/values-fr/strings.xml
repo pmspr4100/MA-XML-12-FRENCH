@@ -159,6 +159,7 @@
   <string name="current_album">"Couverture de l'album actuel"</string>
   <string name="current_lyric">Paroles actuelles</string>
   <string name="current_version">Version actuelle</string>
+  <string name="dark_mode">Mode sombre</string>
   <string name="data_usage_warning">Utilisation des données</string>
   <string name="data_usage_warning_summary">"L'utilisation de votre connexion de données mobile pour écouter de la musique de haute qualité peut augmenter vos frais d'utilisation des données."</string>
   <string name="data_use_desc">Documents légaux</string>
@@ -407,6 +408,7 @@
   <string name="hungama_category_playlist">Playlists</string>
   <string name="hungama_category_radio">Radio</string>
   <string name="hungama_category_video">Vidéos</string>
+  <string name="hungama_category_vip">Vip</string>
   <string name="hungama_free_download_out_summary">Vous ne pouvez pas télécharger plus de chansons gratuites. Obtenez un abonnement PRO pour télécharger des chansons illimitées ?</string>
   <string name="hungama_playlist_category">Catégorie de playlist</string>
   <string name="hungama_privacy_desc">Politique de confidentialité de Hungama (facultatif)</string>
@@ -813,9 +815,9 @@ Be Happy"</string>
   <string name="toast_download_error_by_vip_required">Obtenir le Pack de chansons Premium pour télécharger cette chanson.</string>
   <string name="toast_download_in_process">Téléchargement en cours</string>
   <string name="toast_is_pro">Vous êtes déjà un membre PRO.</string>
-  <string name="toast_my_playlist_illegal_name">"The title of this playlist isn't valid. Rename this playlist."</string>
-  <string name="toast_my_playlist_set_to_private">"This playlist is private now. Other people can't see it."</string>
-  <string name="toast_my_playlist_set_to_public">This playlist is public now. Other people can see it.</string>
+  <string name="toast_my_playlist_illegal_name">"Le titre de cette playlist n'est pas valide. Renommez cette playlist."</string>
+  <string name="toast_my_playlist_set_to_private">"Cette playlist est maintenant privée. Les autres ne peuvent pas la voir."</string>
+  <string name="toast_my_playlist_set_to_public">"Cette playlist est publique maintenant. D'autres personnes peuvent la voir."</string>
   <string name="toast_new_playlist_name_no_enter">Impossible de commencer un nouveau paragraphe</string>
   <string name="toast_new_playlist_name_too_long">Le nom de la playlist est trop long</string>
   <string name="toast_normal_songs_for_download">La qualité de téléchargement est définie sur Standard</string>
@@ -835,8 +837,8 @@ Be Happy"</string>
   <string name="upgrade_music_message">Les mises à jour sont prêtes. Redémarrez pour appliquer.</string>
   <string name="upgrading_in_backstage">Mise à jour en arrière-plan…</string>
   <string name="user_agreement">Accord utilisateur</string>
-  <string name="v7_preference_off">OFF</string>
-  <string name="v7_preference_on">ON</string>
+  <string name="v7_preference_off">Désactivé</string>
+  <string name="v7_preference_on">Activé</string>
   <string name="version_info">Version</string>
   <string name="video_play_cellular">"Votre appareil n'est pas connecté au Wi-Fi. Utiliser les données mobiles?"</string>
   <string name="video_replay_btn">Relire</string>
@@ -852,11 +854,14 @@ Appuyez sur %s
   pour démarrer ce téléchargement la prochaine fois que vous serez 
  connecté à un réseau Wi-Fi.\""</string>
   <string name="wifi_required_title">Vous devriez vous connecter en Wi-Fi pour télécharger ce fichier</string>
-  <string name="xiaomi_update_sdk_connect_download_manager_fail">Connect Download Manager failed, please check the Download Manager state in the Application Management.</string>
-  <string name="xiaomi_update_sdk_dialog_message">"Introducing version %1$s
-Size: %2$s"</string>
-  <string name="xiaomi_update_sdk_dialog_message_diff">"Introducing version %1$s
-Delta update size: %2$s"</string>
-  <string name="xiaomi_update_sdk_dialog_title">%1$s update!</string>
-  <string name="xiaomi_update_sdk_external_storage_unavailable">Storage unavailable, please check the SD card.</string>
+  <string name="xiaomi_update_sdk_connect_download_manager_fail">"Échec de la connexion au gestionnaire de téléchargement. Veuillez vérifier l’état du gestionnaire de téléchargement dans Gestion des applications."</string>
+  <string name="xiaomi_update_sdk_dialog_message">"Présentation de la version %1$s
+Taille: %2$s"</string>
+  <string name="xiaomi_update_sdk_dialog_message_diff">"Présentation de la version %1$s
+Taille de la mise à jour Delta: %2$s"</string>
+  <string name="xiaomi_update_sdk_dialog_title">%1$s mise à jour !</string>
+  <string name="xiaomi_update_sdk_external_storage_unavailable">Mémoire indisponible, veuillez vérifier la carte SD.</string>
+  <string name="xiaomi_update_sdk_kilobytes_unit">%1$s Ko</string>
+  <string name="xiaomi_update_sdk_megabytes_unit">%1$s Mo</string>
+  <string name="you_can_switch_mode_in_settings">Vous pouvez basculer entre les modes dans les paramètres</string>
 </resources>
