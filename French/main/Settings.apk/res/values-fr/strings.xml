@@ -149,6 +149,26 @@ Il est impossible de faire un zoom avant sur le clavier ou la barre de navigatio
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Mettre à jour la loupe si transition entre applis</string>
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Mise à jour auto de la loupe</string>
   <string name="accessibility_touch_vibration_title">Vibreur pour le toucher</string>
+  <string name="accessibility_tutorial_dialog_button">Got it</string>
+  <string name="accessibility_tutorial_dialog_message_button">"Pour activer ou désactiver ce service, appuyez sur le bouton d’accessibilité en bas de votre écran.
+
+Pour basculer d'un service à l'autre, maintenez le bouton d'accessibilité enfoncé."</string>
+  <string name="accessibility_tutorial_dialog_message_gesture_settings_with_talkback">"Pour activer ou désactiver un service d'accessibilité, faites glisser votre doigt vers le haut avec trois doigts vers le haut.
+
+Pour basculer entre les services, balayez avec trois doigts vers le haut."</string>
+  <string name="accessibility_tutorial_dialog_message_gesture_settings_without_talkback">"Pour activer ou désactiver un service d'accessibilité, balayez du bas vers le haut avec deux doigts.
+
+Pour basculer entre les services, balayez vers le haut avec deux doigts et maintenez."</string>
+  <string name="accessibility_tutorial_dialog_message_gesture_with_talkback">"Pour activer ou désactiver ce service, balayez du haut vers le bas avec trois doigts vers le haut.
+
+Pour basculer entre les services, balayez avec trois doigts vers le haut."</string>
+  <string name="accessibility_tutorial_dialog_message_gesture_without_talkback">"Pour activer ou désactiver ce service, balayez du bas vers le haut avec deux doigts vers le haut.
+
+Pour basculer entre les services, balayez vers le haut avec deux doigts et maintenez."</string>
+  <string name="accessibility_tutorial_dialog_title_button">"Utilisez le bouton d'accessibilité pour ouvrir"</string>
+  <string name="accessibility_tutorial_dialog_title_gesture">Utilisez le geste pour ouvrir</string>
+  <string name="accessibility_tutorial_dialog_title_gesture_settings">"Utiliser un nouveau geste d'accessibilité"</string>
+  <string name="accessibility_usage_title">"Utilisation de l'accessibilité"</string>
   <string name="accessibility_vibration_intensity_high">Fort</string>
   <string name="accessibility_vibration_intensity_low">Faible</string>
   <string name="accessibility_vibration_intensity_medium">Moyen</string>
@@ -321,9 +341,18 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
   <string name="animator_duration_scale_title">"Échelle de durée de l'animateur"</string>
   <string name="another_migration_already_in_progress">Une autre migration est déjà en cours.</string>
   <string name="anti_spam">Antispam</string>
-  <string name="aod_and_lock_screen_settings_title">Verrouillage</string>
+  <string name="aod_and_lock_screen_settings_title">Affichage permanent et écran de verrouillage</string>
+  <string name="aod_close_color_inversion">"Cette fonctionnalité ne fonctionne pas avec l'inversion de couleur. Désactivez l'inversion des couleurs en premier."</string>
+  <string name="aod_name_wanxiang">Affichage ambiant</string>
+  <string name="aod_notification_style_animation">Afficher les animations</string>
+  <string name="aod_notification_style_none">Ne fais rien</string>
+  <string name="aod_notification_style_screen_on">Écran lumineux</string>
   <string name="aod_settings_category_name">Affichage ambiant</string>
   <string name="aod_settings_title">Affichage ambiant</string>
+  <string name="aod_show_mode_title">Afficher les fichiers</string>
+  <string name="aod_style_description">"Afficher l'horloge, la date, l'heure, les notifications et d'autres éléments lorsque l'écran est éteint"</string>
+  <string name="aod_style_title">Style</string>
+  <string name="aod_to_close">Désactiver</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">"Type d'authentification"</string>
   <string name="apn_auth_type_chap">CHAP</string>
@@ -454,6 +483,8 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
   <string name="apps_summary_example">24 applications installées</string>
   <string name="apps_with_restrictions_header">Applications avec restrictions</string>
   <string name="apps_with_restrictions_settings_button">Développer paramètres applis</string>
+  <string name="art_verifier_for_debuggable_summary">Autoriser ART à vérifier le bytecode pour les applications déboguables</string>
+  <string name="art_verifier_for_debuggable_title">Vérifier le bytecode des applications déboguables</string>
   <string name="ask_compatibility">Demander au moment du lancement</string>
   <string name="ask_for_delete">Supprimer cette règle ?</string>
   <string name="assist_access_context_summary">"Autoriser l'application d'assistance à accéder au contenu affiché à l'écran sous forme de texte"</string>
@@ -528,6 +559,11 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
   <string name="autofill_app">Service de saisie automatique</string>
   <string name="autofill_confirmation_message">"&lt;b>Assurez-vous de faire confiance à cette application&lt;/b> &lt;br/> &lt;br/> &lt;xliff:g id=app_name example=Google Autofill>%1$s&lt;/xliff:g> utilise les éléments affichés à l'écran pour déterminer les champs qui peuvent bénéficier de la saisie automatique."</string>
   <string name="autofill_keywords">automatique, saisie, saisie automatique</string>
+  <string name="autofill_logging_level_title">Niveau de journalisation</string>
+  <string name="autofill_max_partitions">Nombre maximal de demandes par session</string>
+  <string name="autofill_max_visible_datasets">Nombre maximal de données visibles</string>
+  <string name="autofill_reset_developer_options">Réinitialiser aux valeurs par défaut</string>
+  <string name="autofill_reset_developer_options_complete">Les options du développeur remplies automatiquement ont été réinitialisées</string>
   <string name="automatic_brightness">Ajuster automatiquement la luminosité</string>
   <string name="automatic_storage_manager_activation_warning">"Votre espace de stockage est désormais géré par le gestionnaire d'espace de stockage."</string>
   <string name="automatic_storage_manager_days_title">Supprimer des photos et des vidéos</string>
@@ -1556,7 +1592,13 @@ Pour continuer d'utiliser votre téléphone, vous devez rétablir la configurati
   <string name="dangerous_option_switch_title">Avertir des fonctionnalités à haut risque</string>
   <string name="dark_color_summary_lcd">"Utilisez une palette de couleurs plus sombre pour les arrière-plans du système et les applications compatibles. Le mode sombre peut vous aider à soulager la fatigue oculaire lorsque vous utilisez votre appareil dans l'obscurité."</string>
   <string name="dark_color_summary_oled">"Utilisez une palette de couleurs plus sombre pour les arrière-plans du système et les applications compatibles. Le mode sombre réduit la consommation d'énergie et aide à soulager la fatigue oculaire."</string>
-  <string name="dark_color_mode">Mode sombre</string>
+  <string name="dark_ui_mode">Mode sombre</string>
+  <string name="dark_ui_mode_disabled_summary_dark_theme_off">"Temporairement activé en raison de l'économiseur de batterie"</string>
+  <string name="dark_ui_mode_disabled_summary_dark_theme_on">"Activé / temporairement désactivé en raison de l'économiseur de batterie"</string>
+  <string name="dark_ui_mode_title">Définir le thème</string>
+  <string name="dark_ui_settings_dark_summary">Les applications prises en charge basculeront également sur le thème sombre</string>
+  <string name="dark_ui_settings_dialog_acknowledge">Got it</string>
+  <string name="dark_ui_settings_light_summary">"Ces paramètres s'appliquent également aux applications."</string>
   <string name="dashboard_suggestion_condition_footer_content_description">Réduire</string>
   <string name="dashboard_title">Paramètres</string>
   <string name="data_limit">Limite de données</string>
@@ -1704,6 +1746,7 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
   <string name="debug_app_not_set">Aucune application de débogage définie</string>
   <string name="debug_app_set">Application de débogage: %1$s</string>
   <string name="debug_applications_category">Applications</string>
+  <string name="debug_autofill_category">Remplissage automatique</string>
   <string name="debug_debugging_category">Débogage</string>
   <string name="debug_drawing_category">Dessin</string>
   <string name="debug_hw_drawing_category">Rendu matériel accéléré</string>
@@ -2358,6 +2401,8 @@ Il semblait n'y avoir ni chevaux, ni animaux d'aucune espèce ; les hommes tran
   <string name="forbidden_switch_apn_string">Les paramètres de APN ne correspondent pas avec le type de réseau actuel</string>
   <string name="force_allow_on_external">Forcer les applications à écrire sur un stockage externe</string>
   <string name="force_allow_on_external_summary">"Autoriser toute application susceptible d'être écrite dans un stockage externe, indépendamment des valeurs manifestes"</string>
+  <string name="force_desktop_mode">Forcer le mode bureau</string>
+  <string name="force_desktop_mode_summary">Forcer le mode bureau expérimental sur les écrans secondaires</string>
   <string name="force_hw_ui">Forcer le rendu GPU</string>
   <string name="force_hw_ui_summary">"Forcer l'utilisation du GPU pour les dessins 2D"</string>
   <string name="force_immersive_compatibility_dont_hide">Ne pas masquer</string>
@@ -2441,9 +2486,18 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
   <string name="gadget_toggle_wifi">Mise à jour des paramètres Wi-Fi</string>
   <string name="gadget_wifi">Wi-Fi</string>
   <string name="gallery_privacy_password_role_instruction">Vos photos privées seront stockées ici.</string>
-  <string name="game_booster">Jeux; Jeux; Turbo; Jeux; Mode de jeux</string>
+  <string name="game_booster">Jeu;Jeux;Turbo;Gaming;Gaming mode</string>
   <string name="game_booster_title">Mode jeux</string>
   <string name="game_controller_settings_category">Manette de jeux</string>
+  <string name="game_driver_all_apps_preference_title">Activer pour toutes les applications</string>
+  <string name="game_driver_app_preference_default">Défaut</string>
+  <string name="game_driver_app_preference_game_driver">Pilote de jeu</string>
+  <string name="game_driver_app_preference_prerelease_driver">Pilote préliminaire</string>
+  <string name="game_driver_app_preference_system">Pilote graphique système</string>
+  <string name="game_driver_app_preference_title">Sélectionnez le pilote graphique</string>
+  <string name="game_driver_dashboard_summary">Modifier les paramètres du pilote de jeu</string>
+  <string name="game_driver_dashboard_title">Préférences du pilote de jeu</string>
+  <string name="game_driver_footer_text">"Lorsque le pilote de jeu est activé, vous pouvez choisir d'utiliser le pilote graphique mis à jour pour les applications installées sur le périphérique."</string>
   <string name="game_storage_settings">Jeux</string>
   <string name="gesture_c">Modèle C</string>
   <string name="gesture_m">Modèle M</string>
@@ -2460,7 +2514,7 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
   <string name="gesture_setting_on">Activé</string>
   <string name="gesture_w">Modèle W</string>
   <string name="gesture_wakeup_summary">"Vous pouvez appuyer deux fois pour éteindre l'écran lorsque le thème par défaut ou classique est appliqué"</string>
-	<string name="gesture_wakeup_title">"Appuyez deux fois pour réveiller ou éteindre l'écran"</string>
+  <string name="gesture_wakeup_title">"Appuyez deux fois pour réveiller ou éteindre l'écran"</string>
   <string name="gesture_z">Modèle Z</string>
   <string name="giga_hertz">" GHz"</string>
   <string name="gigabyteShort">Go</string>
@@ -3673,6 +3727,8 @@ Sélectionnez votre système d'exploitation:"</string>
   <string name="notification_badging_title">Autoriser pastilles notification</string>
   <string name="notification_breathing_light_color_title">Couleur du voyant de notifications</string>
   <string name="notification_breathing_light_freq_title">Fréquence de clignotement du voyant de notifications</string>
+  <string name="notification_bubbles_developer_setting_summary">"Certaines notifications peuvent apparaître sous forme de bulles à l'écran"</string>
+  <string name="notification_bubbles_title">Bulles</string>
   <string name="notification_center">Notifications</string>
   <string name="notification_channel_badge_title">Afficher la pastille de notification</string>
   <string name="notification_channel_sound_title">Signal sonore</string>
@@ -4131,6 +4187,8 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
   <string name="privacy_close_dlg_button_ok">Désactiver</string>
   <string name="privacy_close_dlg_msg">Lorsque le mot de passe de protection de confidentialité est désactivé, vos éléments ne seront plus protégés.</string>
   <string name="privacy_close_dlg_title">Attention</string>
+  <string name="privacy_dashboard_summary">Autorisations, activité du compte, données personnelles</string>
+  <string name="privacy_dashboard_title">Confidentialité</string>
   <string name="privacy_delete_space_dlg_message">Pour changer le mot de passe du deuxième espace, vous devriez supprimer votre deuxième espace actuel et en créer un nouveau.</string>
   <string name="privacy_dlg_button_cancel">Annuler</string>
   <string name="privacy_factory_reset_dlg_button_text">Réinitialiser</string>
@@ -4491,6 +4549,12 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="saved_network">Sauvegarder par %1$s</string>
   <string name="saved_wifi">Gérer les réseaux enregistrés</string>
   <string name="saved_wifi_delete">Retirer</string>
+  <string name="scan_list_label">"Résultats d'analyse:"</string>
+  <string name="scanning_status_text_wifi_off_ble_off">Balayages Wi-Fi et Bluetooth désactivés</string>
+  <string name="scanning_status_text_wifi_off_ble_on">Balayage Bluetooth activé, balayage Wi-Fi désactivé</string>
+  <string name="scanning_status_text_wifi_on_ble_off">Balayage Wi-Fi activé, balayage Bluetooth désactivé</string>
+  <string name="scanning_status_text_wifi_on_ble_on">Balayages Wi-Fi et Bluetooth activés</string>
+  <string name="scheduled_style">Programmer</string>
   <string name="screen">Écran</string>
   <string name="screen_cancel">Annuler</string>
   <string name="screen_color_and_optimize">Couleurs et contraste</string>
@@ -5201,9 +5265,12 @@ Le code PIN est peut-être incorrect."</string>
   <string name="smart_battery_manager_title">Gestionnaire de batterie</string>
   <string name="smart_battery_summary">"Limiter l'utilisation de la batterie pour les applications que vous n'utilisez pas souvent"</string>
   <string name="smart_battery_title">Gérer les applications automatiquement</string>
+  <string name="smart_notifications_title">Notifications adaptatives</string>
   <string name="smartcover_lock_or_unlock_screen_tittle">Mode Étui intelligent</string>
   <string name="smartcover_sensitive_summary">"Verrouiller ou déverrouiller le téléphone automatiquement à l'aide de l'étui intelligent"</string>
   <string name="smartcover_sensitive_title">Étui intelligent</string>
+  <string name="sms_access_restriction_enabled">"Restreindre l'accès aux SMS et au journal des appels"</string>
+  <string name="sms_access_restriction_enabled_summary">"Seules les applications téléphoniques et de messagerie par défaut disposent des autorisations SMS et du journal d'appels"</string>
   <string name="sms_application_title">Messages</string>
   <string name="sms_change_default_dialog_text">Utiliser %1$s au lieu de %2$s comme application SMS ?</string>
   <string name="sms_change_default_dialog_title">"Changer d'application pour les SMS ?"</string>
@@ -5624,6 +5691,11 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
   <string name="tethering_help_button_text">Aide</string>
   <string name="tethering_settings_not_available">Veuillez changer les paramètres de partage de connexion dans le Premier Espace</string>
   <string name="the_way_of_wakeup_voice_assistant_summary">Allumer l’assistant vocal en mode plein écran (pas de boutons virtuels)</string>
+  <string name="theme_customization_accent_color_title">Couleur des accents</string>
+  <string name="theme_customization_category">Theming</string>
+  <string name="theme_customization_device_default">Appareil par défaut</string>
+  <string name="theme_customization_font_title">Titre / Police du corps</string>
+  <string name="theme_customization_icon_shape_title">"Forme de l'icône"</string>
   <string name="theme_settings_title">Thèmes</string>
   <string name="thememanager_not_found">"Impossible d'ouvrir Thèmes. Assurez-vous que l'application est installée."</string>
   <string name="three_gesture_down">Faites glisser 3 doigts vers le bas</string>
@@ -5643,6 +5715,7 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
   <string name="title_jeejen">"Écran d'accueil Jeejen"</string>
   <string name="title_layout_current">Taille de la police</string>
   <string name="title_layout_current2">Taille de la police</string>
+  <string name="title_layout_current2_weight">Taille du texte et poids de la police</string>
   <string name="title_of_auto_launch_manage">Démarrage automatique</string>
   <string name="to_close">Désactiver</string>
   <string name="toast_lockscreen_glogin_empty_password">Mot de passe</string>
@@ -5674,6 +5747,10 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
   <string name="transition_animation_scale_title">"Échelle de l'animation de transition"</string>
   <string name="translation_contributors_title">Contributeurs</string>
   <string name="trigger_carrier_provisioning">Déclencher la gestion des comptes opérateur</string>
+  <string name="trust_agents_extend_unlock_summary">Si cette option est activée, les agents de confiance garderont votre appareil déverrouillé plus longtemps, mais ne pourront plus déverrouiller un appareil verrouillé.</string>
+  <string name="trust_agents_extend_unlock_title">Les agents de confiance ne prolongent que le déverrouillage</string>
+  <string name="trust_lost_locks_screen_summary">Si activé, le périphérique se verrouille lorsque le dernier agent de confiance perd sa confiance.</string>
+  <string name="trust_lost_locks_screen_title">"Verrouiller l'écran lorsque la confiance est perdue"</string>
   <string name="trusted_credentials">Certificats de confiance</string>
   <string name="trusted_credentials_disable_confirmation">"Désactiver le certificat d'autorité du système ?"</string>
   <string name="trusted_credentials_disable_label">Désactiver</string>
@@ -6622,6 +6699,7 @@ Configurer un réseau masqué n'affectera pas les paramètres de votre routeur."
   <string name="wifi_priority_settings_title">"Paramètres de priorité des points d'accès"</string>
   <string name="wifi_priority_type_summary">"Permettre de définir la priorité pour chaque point d'accès manuellement"</string>
   <string name="wifi_priority_type_title">"Définir la priorité des points d'accès manuellement"</string>
+  <string name="wifi_privacy_settings">Privé</string>
   <string name="wifi_property">Propriété Wi-Fi</string>
   <string name="wifi_protection_on">Activé</string>
   <string name="wifi_protection_settings_title">Protection contre les requêtes Wi-Fi</string>
@@ -6646,6 +6724,8 @@ Donner cette autorisation à toutes les applications souhaitant activer la reche
   <string name="wifi_scan_notify_remember_choice">Ne plus afficher</string>
   <string name="wifi_scan_notify_text">"Pour améliorer la précision de la localisation, les applications et les services peuvent continuer de rechercher les réseaux Wi-Fi, même si le Wi-Fi est désactivé. Cette autorisation peut permettre, par exemple, d'améliorer les fonctionnalités et les services basés sur la localisation. Vous pouvez modifier cette option dans les LINK_BEGINparamètres de rechercheLINK_END."</string>
   <string name="wifi_scan_notify_text_scanning_off">Pour améliorer la précision de la position, activez la recherche Wi-Fi dans les LINK_BEGINparamètres de rechercheLINK_END.</string>
+  <string name="wifi_scan_throttling">Contrôle de la numérisation Wi-Fi</string>
+  <string name="wifi_scan_throttling_summary">"Réduit l'épuisement de la batterie et améliore les performances du réseau"</string>
   <string name="wifi_security">Sécurité</string>
   <string name="wifi_security_none">Aucun</string>
   <string name="wifi_security_wapi_psk_hexadecimal">Hexadécimal</string>

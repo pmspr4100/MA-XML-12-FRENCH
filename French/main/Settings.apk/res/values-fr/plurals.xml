@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">il y a %d jours</item>
+        <item quantity="one">il y  a %d jour</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">il y a %d min</item>
+        <item quantity="one">il y a %d min</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">il y a %d ans</item>
+        <item quantity="one">il y a %d an</item>
+    </plurals>
+    <plurals name="accessibility_usage_summary">
+        <item quantity="other">%1$d applications ont un accès complet à votre appareil</item>
+        <item quantity="one">1 application a un accès complet à votre appareil</item>
+    </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
       <item quantity="other">Délai extrêmement court (%1$d ms)</item>
       <item quantity="one">Délai extrêmement court (%1$d ms)</item>
