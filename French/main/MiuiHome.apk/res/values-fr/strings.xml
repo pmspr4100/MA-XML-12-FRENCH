@@ -14,7 +14,10 @@
   <string name="all_apps_setting_drawer_desc">"Placez toutes les applications installées dans le tiroir d'applications, que vous pouvez ouvrir en faisant glisser l'écran d'accueil vers le haut. Vous pourrez toujours trouver les applications que vous avez déplacées vers l'écran d'accueil dans le tiroir d'applications."</string>
   <string name="all_apps_setting_drawer_tips_desc">"Le tiroir d'applications s'ouvre en faisant glisser l'écran d'accueil vers le haut. Le passage en mode écran d'accueil avec App tiroir rendra la recherche indisponible. Changer quand même ?"</string>
   <string name="all_apps_setting_drawer_tips_title">"Utilisé le tiroir d'applications"</string>
-  <string name="all_apps_setting_drawer_title">With App drawer</string>
+  <string name="all_apps_setting_drawer_title">"Avec tiroir d'applications"</string>
+  <string name="all_apps_setting_letter_scrollbar">A-Z</string>
+  <string name="all_apps_setting_original_scrollbar">Mise en page originale</string>
+  <string name="all_apps_setting_scroll_bar">Barre de défilement</string>
   <string name="all_apps_setting_title">"Écran d'accueil"</string>
   <string name="all_apps_slide_up_tips">"Balayer vers le haut est réservé à l’ouverture du tiroir de l’application. Basculez sur le mode écran d'accueil normal et réessayez."</string>
   <string name="all_apps_suggestions">"Suggestions d'applications"</string>
@@ -91,7 +94,6 @@
   <string name="cant_remove_folder">Impossible de supprimer le dossier</string>
   <string name="cant_remove_retained_app">Impossible de supprimer cette application</string>
   <string name="cant_remove_system_app">Impossible de supprimer une application système</string>
-  <string name="cell_icon_size_title">"Taille d'icône"</string>
   <string name="change_wallpaper">Changer</string>
   <string name="choose_wallpaper">"Choisir un fond d'écran"</string>
   <string name="chooser_wallpaper">"Choisir un nouveau fond d'écran"</string>
@@ -222,6 +224,7 @@
   <string name="home_screen">"Écran d'accueil"</string>
   <string name="home_screen_settings">"Écran d'accueil"</string>
   <string name="icon_reorganize_channel">Organiser les icônes</string>
+  <string name="icon_size">"Taille d'icône"</string>
   <string name="image_too_small_message">"L'image originale n'est pas assez grande."</string>
   <string name="install">Installer</string>
   <string name="invalid_contact_shortcut">Contact non valide</string>
