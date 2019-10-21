@@ -1182,6 +1182,16 @@ Note : seulement pour Ubuntu 8.04 !"</item>
       <item>"Échelle d'animation 5x"</item>
       <item>"Échelle d'animation 10x"</item>
     </string-array>
+    <string-array name="true_color_screen_optimize_summary">
+        <item>"Ajustez les couleurs en fonction de l'éclairage actuel"</item>
+        <item>Toujours améliorer les couleurs</item>
+        <item>"Restaurez la couleur standard du contenu de l'écran avec l'étalonnage des couleurs"</item>
+    </string-array>
+    <string-array name="true_color_screen_optimize_title">
+        <item>Auto (recommandé)</item>
+        <item>Saturé</item>
+        <item>"Couleur d'origine"</item>
+    </string-array>
     <string-array name="tts_rate_entries">
       <item>Très lent</item>
       <item>Lent</item>

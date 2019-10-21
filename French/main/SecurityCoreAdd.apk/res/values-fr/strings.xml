@@ -66,6 +66,7 @@
   <string name="list_empty_text_xspace">"Créez plus d'applications doubles et réessayez."</string>
   <string name="xspace_label">Applications clônées</string>
   <string name="xspace_setting_label">Paramètres des applications clônées</string>
+  <string name="xspace_settins">Set</string>
   <string name="xspace_account">Comptes des applications clônées</string>
   <string name="xspace_remove">Supprimer les comptes des applications clonées</string>
   <string name="declare_dialog_title">À propos des applications clônées</string>
@@ -73,12 +74,16 @@
   <string name="stop_xspace_alert_title">Supprimer les comptes de deux applications</string>
   <string name="stop_xspace_alert_content">"Supprimer toutes les applications doubles avec leurs comptes et leurs données d'application ? Votre appareil sera redémarré pour appliquer cette modification."</string>
   <string name="xspace_loading_msg">Chargement des applications…</string>
+  <string name="xspace_notification">Dual app notifications</string>
+  <string name="xspace_notification_error">Sign in to dual WeChat and try again</string>
   <string name="xspace_header">Applications clônées</string>
   <string name="xspace_instagram_title">Instagram</string>
   <string name="xspace_introduce">Recommandé</string>
   <string name="xspace_description">"Les applications clônées sont des copies d'applications qui peuvent être utilisées séparément avec un compte différent.
 
 Certaines applications clônées nécessitent la prise en charge des Framework des services Google. Dans de tels cas, un Framework clôné des services Google est créé."</string>
+  <string name="xspace_disable">Not created</string>
+  <string name="xspace_enable">Created</string>
   <string name="xspace_facebook_title">Facebook</string>
   <string name="xspace_chocie">"Support d'application clônée"</string>
   <string name="xspace_creating">"Création de l'application clônée…"</string>
