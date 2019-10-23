@@ -12,7 +12,6 @@
   <string name="selected">Sélectionné</string>
   <string name="cloud_app_current_device">Appareil actuel</string>
   <string name="cloud_app_other_devices">Autres appareils</string>
-  <string name="cloud_app_restore_app_and_data">Configurer votre appareil</string>
   <string name="cloud_app_restore_data">Les données personnelles et les applications précédemment installées apparaitront automatiquement sur votre appareil</string>
   <string name="cloud_app_dont_restore">Configurer comme un nouvel appareil</string>
   <string name="cloud_app_restore_wifi_prompt">"Restaurer à partir de la sauvegarde sur le cloud."</string>
@@ -53,7 +52,7 @@ Note: Les données des applications que vous avez installées ne seront pas sauv
   <string name="other_device_main_space">Premier espace</string>
   <string name="other_device_second_space">Deuxième espace</string>
   <string name="process_whole_recovery">Restauration de \"%s\"</string>
-	<string name="provision_background_restore_more_data">Restaurer plusieurs éléments en arrière-plan</string>
+  <string name="provision_background_restore_more_data">Restaurer plusieurs éléments en arrière-plan</string>
   <string name="size_unknown">Taille inconnue</string>
   <string name="recovering">Restauration %s</string>
   <string name="start_recover">Restaurer %s</string>
@@ -63,6 +62,7 @@ Note: Les données des applications que vous avez installées ne seront pas sauv
   <string name="restore_from_cloud">Restaurer à partir de la sauvegarde sur le Cloud</string>
   <string name="backup_to_cloud">"Sauvegarder l'application"</string>
   <string name="restoring_file_title_no_progress">Restauration des fichiers…</string>
+  <string name="restoring_home_screen_apps">Restauration à partir de Xiaomi Cloud…</string>
   <string name="menu_item_sort">Trier par</string>
   <string name="menu_item_sort_name">Nom</string>
   <string name="menu_item_sort_size">Taille</string>
@@ -90,7 +90,7 @@ Note: Les données des applications que vous avez installées ne seront pas sauv
   <string name="wait_icon_download">Téléchargement des icônes des applications</string>
   <string name="download_settings_fail">"Impossible de télécharger les paramètres de l'écran d'accueil"</string>
   <string name="restore_init_description">Démarrer la restauration</string>
-	<string name="restore_network_pause">%s (Cliquez pour reprendre)</string>
+  <string name="restore_network_pause">%s (Cliquez pour reprendre)</string>
   <string name="restore_network_unconnect">%s (Attente de la connexion)</string>
   <string name="restore_finish_description">Restauration terminée</string>
   <string name="backup_fail_wifi_needed">Impossible de sauvegarder, besoin de Wi-Fi.</string>
@@ -150,7 +150,7 @@ Vérifiez vos paramètres réseau et réessayez."</string>
   <string name="can_not_restore_in_lite_mode">Impossible de restaurer en mode simplifié</string>
   <string name="can_not_backup_in_lite_mode">Impossible de sauvegarder en mode simplifié</string>
   <string name="restore_data_title">Restaurer les données</string>
-	<string name="restore_detail_category_apps">"Disposition de l'écran d'accueil et applications"</string>
+  <string name="restore_detail_category_apps">"Disposition de l'écran d'accueil et applications"</string>
   <string name="restore_detail_category_settings">Paramètres</string>
   <string name="restore_detail_more">Plus</string>
   <string name="restore_detail_title">Sélectionnez les éléments à restaurer</string>
@@ -158,7 +158,7 @@ Vérifiez vos paramètres réseau et réessayez."</string>
   <string name="restore_failed_reason_network_error">Erreur réseau. Attendez une minute ou deux et réessayez.</string>
   <string name="provision_error_connect_msg">Testez le réseau et réessayez. Les sauvegardes ne sont pas disponibles lorsque votre appareil est hors ligne.</string>
   <string name="provision_error_connect_title">Impossible de se connecter</string>
-	<string name="provision_restore_data">"Restauration d'éléments"</string>
+  <string name="provision_restore_data">"Restauration d'éléments"</string>
   <string name="loading_user_backup">"Chargement des sauvegardes d'utilisateur…"</string>
   <string name="error_num_placeholder">--</string>
   <string name="authentication_failed">Impossible de vérifier le compte.</string>
@@ -183,6 +183,7 @@ Vérifiez vos paramètres réseau et réessayez."</string>
   <string name="cancel_restore_home">Annulation…</string>
   <string name="cancel_backup">Annulation de la sauvegarde…</string>
   <string name="load_backup_failed">Impossible de charger les sauvegardes</string>
+  <string name="loading_progress_num">Chargée %s%%</string>
   <string name="dialog_title_require_wlan">Se connecter au Wi-Fi</string>
   <string name="dialog_msg_restore_require_wlan">La restauration des sauvegardes nécessite la connexion au Wi-Fi.</string>
   <string name="dialog_btn_next">Suivant</string>
@@ -210,10 +211,10 @@ Vérifiez vos paramètres réseau et réessayez."</string>
   <string name="btn_restore_cancel">Annuler</string>
   <string name="btn_restore_continue">Restaurer quand même</string>  
   <string name="btn_restore_resume">Reprendre</string>
-  <string name="title_alert_restore_error">Restauration impossible</string>
-	<string name="title_restore_with_current_network">Utiliser la connexion actuelle pour télécharger des fichiers</string>
+  <string name="title_alert_restore_error">Restauration impossible</string>  
+  <string name="title_restore_with_current_network">Utiliser la connexion actuelle pour télécharger des fichiers</string>
   <string name="msg_alert_restore_error">Impossible de restaurer les éléments du Xiaomi Cloud. Réessayez.</string>
-	<string name="msg_restore_start_with_metered_network">"Votre écran d'accueil sera relancé. Les applications sauvegardées seront téléchargées automatiquement. &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;%s des fichiers seront téléchargés.&lt;/font&gt;&lt;/b&gt;"</string>
+  <string name="msg_restore_start_with_metered_network">"Votre écran d'accueil sera relancé. Les applications sauvegardées seront téléchargées automatiquement. &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;%s des fichiers seront téléchargés.&lt;/font&gt;&lt;/b&gt;"</string>
   <string name="msg_restore_with_metered_network_hint">Si vous procédez à la restauration de ces éléments, les données mobiles seront utilisées pour le téléchargement..</string>
   <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt; des fichiers seront téléchargés."</string>
   <string name="btn_restore_retry">Veuillez réessayer</string>

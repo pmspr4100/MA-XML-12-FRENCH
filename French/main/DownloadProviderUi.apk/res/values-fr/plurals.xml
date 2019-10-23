@@ -12,6 +12,22 @@
         <item quantity="other">Trouvé %d fichiers</item>
         <item quantity="one">Trouvé 1 fichier</item>
     </plurals>
+    <plurals name="durationDays">
+        <item quantity="other">%1$d jours</item>
+        <item quantity="one">%1$d jour</item>
+    </plurals>
+    <plurals name="durationHours">
+        <item quantity="other">%1$d heures</item>
+        <item quantity="one">%1$d heure</item>
+    </plurals>
+    <plurals name="durationMinutes">
+        <item quantity="other">%1$d minutes</item>
+        <item quantity="one">%1$d minute</item>
+    </plurals>
+    <plurals name="durationSeconds">
+        <item quantity="other">%1$d secondes</item>
+        <item quantity="one">%1$d seconde</item>
+    </plurals>
     <plurals name="numberOfItemsAvailable">
         <item quantity="other">Supprimer %d fichiers ?</item>
         <item quantity="one">Supprimer ce fichier ?</item>
