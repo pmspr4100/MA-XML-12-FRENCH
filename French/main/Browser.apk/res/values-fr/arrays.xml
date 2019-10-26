@@ -17,6 +17,11 @@
         <item>Affichage vertical</item>
         <item>Affichage horizontal</item>
     </string-array>
+    <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Tuile</item>
+        <item>Verticale</item>
+        <item>Horizontale</item>
+    </string-array>
     <string-array name="pref_tab_restore_array">
         <item>Toujours demander</item>
         <item>Ouvrir</item>
