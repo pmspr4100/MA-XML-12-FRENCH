@@ -46,12 +46,6 @@
   <string name="catch_full_log_privacy_content_sensor">"You're generating logs and saving them on your device. The logs may contain the information collected by your device's sensors (including ambient light sensor, barometer, pedometer, magnetometer, etc.). Be careful and don't disclose these logs to other people. By tapping \"Agree\" below, you're agreeing that we'll collect the above data while generating logs, and then upload the logs to our servers in order to locate and solve the issues you report."</string>
   <string name="catch_full_log_privacy_content_signal">"You're generating logs and saving them on your device. The logs may contain your messages, call history, network info, and communication data. Be careful and don't disclose these logs to other people. By tapping \"Agree\" below, you're agreeing that we'll collect the above data while generating logs, and then upload the logs to our servers in order to locate and solve the issues you report."</string>
   <string name="catch_full_log_privacy_content_wifi">"You're generating logs and saving them on your device. The logs may contain your personal info, location info, as well as the IP and MAC addresses of your device. If you're connected to an unencrypted Wi-Fi network, we might also be able to access parts of your communication data. Be careful and don't disclose these logs to other people. By tapping \"Agree\" below, you're agreeing that we'll collect the above data while generating logs, and then upload the logs to our servers in order to locate and solve the issues you report."</string>
-  <string name="toast_report_copied_to_clipboard">Contenu du rapport copié dans le presse-papiers</string>
-  <string name="toast_report_sent_failed">"Échec de l'envoi du rapport"</string>
-  <string name="toast_report_sent_succeed">Votre rapport a été envoyé</string>
-  <string name="toast_screenshot_too_large">"Impossible d'envoyer des images ou vidéos de plus de 10 Mo."</string>
-  <string name="toast_third_packagename_required">"Saisir le nom de l'application"</string>
-  <string name="toast_title_required">Décrire votre problème</string>
   <string name="catch_full_log_start_dump_hprof">Générer un journal décalé</string>
   <string name="catch_full_log_submit_directly">Envoyer</string>
   <string name="close_feedback_main">Masquer</string>
@@ -96,7 +90,6 @@
   <string name="feedback_choose_app_tag">Sélectionner un problème</string>
   <string name="feedback_choose_module">Sélectionner un élément</string>
   <string name="feedback_choose_module_hint">Requis</string>
-  <string name="feedback_choose_occurrence_time">Time</string>
   <string name="feedback_choose_reproductivity">Reproductivité</string>
   <string name="feedback_choose_third_app_name">"Sélectionner le nom de l'application"</string>
   <string name="feedback_collect_log_failed">"Impossible d'obtenir les journaux"</string>
@@ -109,10 +102,23 @@
   <string name="feedback_description_hint_suggestion">"Dites-nous comment vous souhaitez améliorer MIUI."</string>
   <string name="feedback_description_label">Description</string>
   <string name="feedback_description_suggest_hint">"J'aimerais ajouter une nouvelle fonctionnalité () parce que je voudrais ()."</string>
-  <string name="feedback_detail_tile">Progression</string>
-  <string name="feedback_empty_report_list">Aucun commentaire</string>
-  <string name="feedback_guess">Notre avis</string>
-  <string name="feedback_hint_optional">Select</string>
+  <string name="feedback_detail_copy_toast">Copied to clipboard</string>
+  <string name="feedback_detail_feedback_attach">Attachments</string>
+  <string name="feedback_detail_feedback_attach_upload_failed">"Couldn't upload"</string>
+  <string name="feedback_detail_feedback_attach_uploading">Uploading…</string>
+  <string name="feedback_detail_feedback_category">Category</string>
+  <string name="feedback_detail_feedback_id">Report ID: %d</string>
+  <string name="feedback_detail_feedback_reply_hint">Reply</string>
+  <string name="feedback_detail_feedback_summary">Feedback</string>
+  <string name="feedback_detail_need_content">Enter content first</string>
+  <string name="feedback_detail_title">Details</string>
+  <string name="feedback_detail_upload_generate_log">Generate logs</string>
+  <string name="feedback_detail_upload_image">Upload images/videos</string>
+  <string name="feedback_detail_upload_local_log">Upload file</string>
+  <string name="feedback_detail_upload_log">Upload logs</string>
+  <string name="feedback_detail_waiting">Generating…</string>
+  <string name="feedback_empty_report_list">No reports yet</string>
+  <string name="feedback_guess">Our guess:</string>
   <string name="feedback_history_remind_login_desc">Connectez-vous avec votre Compte Mi pour voir les détails et la progression de vos commentaires</string>
   <string name="feedback_id">ID: %d</string>
   <string name="feedback_jira_key">Clé JIRA: %s</string>
@@ -177,7 +183,6 @@
   <string name="feedback_third_packagename_hint">Quelle application tierce cause problèmes ?</string>
   <string name="feedback_title">Titre</string>
   <string name="feedback_title_hint">Décrivez brièvement le problème</string>
-  <string name="feedback_title_occurrence_time">Select time</string>
   <string name="feedback_title_reproductivity">Sélectionner la reproductivité</string>
   <string name="feedback_tracking">Suivi des problèmes</string>
   <string name="feedback_version_label">Version</string>
@@ -190,6 +195,7 @@
   <string name="kr_authorization_contact">Comptes</string>
   <string name="kr_authorization_contact_desc">Pour obtenir des informations sur votre compte Mi et vérifier votre compte</string>
   <string name="kr_authorization_exit">Quitter</string>
+  <string name="kr_authorization_function">Submitting feedback, generating logs, viewing frequently asked questions</string>
   <string name="kr_authorization_log_protocol">Protocole de journalisation (facultatif)</string>
   <string name="kr_authorization_log_protocol_desc">"Afin d'améliorer les services fournis, nous téléchargerons des statistiques d'utilisation et des journaux système sur nos serveurs. Ces éléments peuvent inclure vos informations personnelles, ainsi que les informations relatives à votre appareil et aux réseaux. Nous utiliserons les éléments téléchargés pour localiser et analyser les problèmes du système."</string>
   <string name="kr_authorization_phone">Téléphone</string>
@@ -206,6 +212,10 @@
   <string name="max_error">Votre %1$s doit être plus court.</string>
   <string name="menu_copy">Copier</string>
   <string name="message_label">Message</string>
+  <string name="mi_service_dialog_cancel">Exit</string>
+  <string name="mi_service_dialog_confirm">Open</string>
+  <string name="mi_service_dialog_content">All feedback features were moved to the new \"Services &amp; feedback\" app. The Feedback app will be removed from your Home screen. Tap \"Open\" to try \"Services &amp; feedback\".</string>
+  <string name="mi_service_dialog_title">Introducing \"Services &amp; feedback\"</string>
   <string name="michat_app_name">Support en ligne</string>
   <string name="michat_artificial_customer_phone_dial_error">"Si vous ne pouvez pas appeler l'assistance technique au 400, veuillez composer le %1$s en utlisant un autre téléphone"</string>
   <string name="michat_artificial_customer_text">Assistant personnel</string>
@@ -288,7 +298,7 @@
   <string name="module_more">Plus</string>
   <string name="module_network">Réseau</string>
   <string name="module_search">Rechercher</string>
-  <string name="module_security">Sécurité et Mi Cloud</string>
+  <string name="module_security">Sécurité et Xiaomi Cloud</string>
   <string name="module_system">Système</string>
   <string name="module_tools">Outils système</string>
   <string name="modules">Sélectionner un élément</string>
@@ -421,6 +431,7 @@ Pour activer votre compte, suivez le
   <string name="passport_register">Créer un compte</string>
   <string name="passport_register_account_goto_email">Aller à la boite de réception</string>
   <string name="passport_register_account_verified_confirm">Compte vérifié</string>
+  <string name="passport_register_by_email">&lt;u&gt;Create an account using email address&lt;/u&gt;</string>
   <string name="passport_register_restricted">Trop de comptes ont été associés à ce numéro, essayez avec un autre</string>
   <string name="passport_register_restricted_title">"Impossible d'utiliser ce numéro de téléphone"</string>
   <string name="passport_registered_phone_user_ID">ID utilisateur: %s</string>
@@ -438,6 +449,7 @@ Pour activer votre compte, suivez le
   <string name="passport_restart_register_prompt">Un autre message de vérification peut être requis pour créer votre compte.</string>
   <string name="passport_restart_register_title">Créer un compte Mi</string>
   <string name="passport_retry">Veuillez réessayer</string>
+  <string name="passport_select_reg_ways_title">Other ways to sign up</string>
   <string name="passport_send_too_many_code">Trop de codes de vérification ont été envoyés à ce numéro. Attendez 24 heures et essayez à nouveau.</string>
   <string name="passport_setting">Configuration…</string>
   <string name="passport_skip_login">Ignorer</string>
@@ -494,6 +506,7 @@ Pour activer votre compte, suivez le
   <string name="select_system_app_tag">Sélectionner un problème</string>
   <string name="submit_dialog_cancel">Refuser</string>
   <string name="submit_dialog_confirm">Accepter</string>
+  <string name="submit_dialog_content">&lt;Data&gt;"You must agree to our &amp;lt;a href=\"%1$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; to be able to use Feedback. The issues you report along with the items you attach (might contain personal information, as well as the information about your device and network) will be uploaded to MIUI's servers. This will help us locate and solve the problems you report."&lt;/Data&gt;</string>
   <string name="submit_dialog_content_global">&lt;Data&gt;"Your feedback, along with attachments (if any) and logs (you can uncheck the corresponding boxes for the items you don't want to upload) will be sent to MIUI's servers. Logs may contain personal info and your location data. Selecting \"Agree\" means that you've read and agreed to our &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt; and &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="submit_dialog_title">Envoyer le rapport</string>
   <string name="submit_feedback_info_failed">"Impossible d'envoyer le rapport"</string>
