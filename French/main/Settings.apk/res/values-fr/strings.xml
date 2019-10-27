@@ -1451,6 +1451,7 @@ Cette fonctionnalité peut être désactivée dans [Paramètres]"</string>
   <string name="confirm_frp_credential_message">"Votre appareil a été réinitialisé aux paramètres d'usine, vous pouvez le déverrouiller avec votre ancien mot de passe."</string>
   <string name="confirm_frp_credential_skip_txt">Utiliser plutôt un compte Google</string>
   <string name="confirm_frp_credential_title">"Déverrouiller après réinitialisation aux paramètres d'usine"</string>
+  <string name="confirm_lock_pattern_header_text">Dessine ton schéma</string>
   <string name="confirm_new_backup_pw_prompt">Confirmez ici votre nouveau mot de passe de sauvegarde complète.</string>
   <string name="confirm_password_with_fingerprint">Utiliser les empreintes digitales</string>
   <string name="confirm_password_with_password">Entrer le mot de passe</string>
@@ -4008,7 +4009,7 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
   <string name="phone_info_label">Informations sur le téléphone</string>
   <string name="phone_language">Langues</string>
   <string name="physical_keyboard_title">Clavier physique</string>
-  <string name="pick_up_gesture_wakeup_title">"Soulever l'appareil pour allumer l'écran"</string>
+  <string name="pick_up_gesture_wakeup_title">"Soulever pour allumer l'écran"</string>
   <string name="picture_color_mode">Mode image couleur</string>
   <string name="picture_color_mode_desc">Utiliser sRGB</string>
   <string name="picture_in_picture_app_detail_summary">"Autorisez cette application à créer une fenêtre Picture-in-picture lorsqu'elle est ouverte ou après l'avoir quittée (par exemple, pour continuer de regarder une vidéo). Cette fenêtre se superpose aux autres applications en cours d'utilisation."</string>
@@ -4655,7 +4656,7 @@ Pour épingler l'écran:
   <string name="screen_projection_example_game_title">Jeux</string>
   <string name="screen_projection_help">Aide</string>
   <string name="screen_projection_sample_summary">Caster des documents, jeux, photos et vidéos</string>
-  <string name="screen_projection_sample_title">Demos</string>
+  <string name="screen_projection_sample_title">Démos</string>
   <string name="screen_projection_title">Cast</string>
   <string name="screen_reader_category_title">"Lecteurs d'écran"</string>
   <string name="screen_resolution_dialog_title">Changer de résolution</string>
@@ -4666,9 +4667,9 @@ Pour épingler l'écran:
   <string name="screen_resolution_title">"Résolution d'écran"</string>
   <string name="screen_resolution_ultrahigh_format">Ultra-haute (%1$s)</string>
   <string name="screen_saturation">Saturation</string>
-  <string name="screen_settings">Écran de verrouillage</string>
+  <string name="screen_settings">Verrouillage</string>
   <string name="screen_shot">"Faire une capture d'écran"</string>
-  <string name="screen_timeout">Délai avant la mise en veille</string>
+  <string name="screen_timeout">Mise en veille</string>
   <string name="screen_timeout_summary">"Après %1$s d'inactivité"</string>
   <string name="screen_timeout_title">"Extinction de l'écran"</string>
   <string name="screen_usage_summary">"Durée d'activation de l'écran depuis la charge complète"</string>
@@ -5913,7 +5914,7 @@ Vos empreintes digitales enregistrées seront également supprimées de ce profi
   <string name="unlock_set_unlock_off_title">Aucun</string>
   <string name="unlock_set_unlock_password_none">Aucun</string>
   <string name="unlock_set_unlock_password_summary">"Saisissez 4 lettres ou plus pour déverrouiller l'appareil"</string>
-  <string name="unlock_set_unlock_password_title">Mot de passe</string>
+  <string name="unlock_set_unlock_password_title">Désactiver avec un mot de passe</string>
   <string name="unlock_set_unlock_pattern_summary">"Dessinez un schéma simple avec votre doigt pour déverrouiller l'appareil"</string>
   <string name="unlock_set_unlock_pattern_title">Schéma</string>
   <string name="unlock_set_unlock_pin_summary" formatted="false">"Entrez %d-%d chiffres pour déverrouiller l'appareil"</string>
