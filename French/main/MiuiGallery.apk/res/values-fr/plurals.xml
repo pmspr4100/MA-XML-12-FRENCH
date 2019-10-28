@@ -16,18 +16,18 @@
         <item quantity="other">Dans une demi-heure</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="other">Immédiatement</item>
+        <item quantity="other">Bientôt</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">dans %d mins</item>
-        <item quantity="one">dans 1 min</item>
+        <item quantity="other">Dans %d mins</item>
+        <item quantity="one">Dans %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Juste maintenant</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">il y a %d mins</item>
-        <item quantity="one">il y a 1 min</item>
+        <item quantity="one">il y a %d min</item>
     </plurals>
     <plurals name="add_secret_ensure_message">
         <item quantity="other">Masquer ces fichiers ?</item>
@@ -94,8 +94,12 @@
         <item quantity="one">%d fichier est trop gros pour être sauvegardé</item>
     </plurals>
     <plurals name="backup_pause_desc">
-        <item quantity="other">%d photo ou vidéo | En pause</item>
-        <item quantity="one">%d photo ou vidéo | En pause</item>
+        <item quantity="other">Reprendra dans %d mins</item>
+        <item quantity="one">Reprendra dans %d min</item>
+    </plurals>
+    <plurals name="backup_pause_dialog_message">
+        <item quantity="other">Synchronisation en pause des photos, vidéos, contacts, notes et autres éléments avec le cloud pendant %d minutes.</item>
+        <item quantity="one">Synchronisation en pause des photos, vidéos, contacts, notes et autres éléments avec le cloud pendant %d minute.</item>
     </plurals>
     <plurals name="backuping_desc_gprs">
         <item quantity="other">%1$d photos et vidéos | %2$s</item>
@@ -241,36 +245,36 @@
         <item quantity="one">il y a 1 minute</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
-        <item quantity="other">%1$d fichiers en attente de sauvegarde</item>
-        <item quantity="one">1 fichier en attente de sauvegarde</item>
+        <item quantity="other">%1$d éléments en attente de synchronisation</item>
+        <item quantity="one">%1$d élément en attente de synchronisation</item>
     </plurals>
     <plurals name="number_of_images_synced">
         <item quantity="other">%1$d photos</item>
         <item quantity="one">1 photo</item>
     </plurals>
     <plurals name="number_of_images_to_upload">
-        <item quantity="other">%1$d photos en attente de sauvegarde</item>
-        <item quantity="one">1 photo en attente de sauvegarde</item>
+        <item quantity="other">%1$d photos en attente de synchronisation</item>
+        <item quantity="one">%1$d photo en attente de synchronisation</item>
     </plurals>
     <plurals name="number_of_uploading_images">
-        <item quantity="other">Sauvegarde de %1$d photos en cours…</item>
-        <item quantity="one">Sauvegarde de photo en cours…</item>
+        <item quantity="other">Synchronisation de %1$d photos…</item>
+        <item quantity="one">Synchronisation de %1$d photo…</item>
     </plurals>
     <plurals name="number_of_uploading_images_and_videos">
-        <item quantity="other">Sauvegarde en cours %1$d objets…</item>
-        <item quantity="one">Sauvegarde en cours 1 objet…</item>
+        <item quantity="other">Synchronisation de %1$d éléments…</item>
+        <item quantity="one">Synchronisation de %1$d élément…</item>
     </plurals>
     <plurals name="number_of_uploading_videos">
-        <item quantity="other">Sauvegarde de %1$d vidéos en cours…</item>
-        <item quantity="one">Sauvegarde de 1 vidéo en cours…</item>
+        <item quantity="other">Synchronisation de %1$d vidéos…</item>
+        <item quantity="one">Synchronisation de %1$d vidéo…</item>
     </plurals>
     <plurals name="number_of_videos_synced">
         <item quantity="other">%1$d vidéos</item>
         <item quantity="one">1 vidéo</item>
     </plurals>
     <plurals name="number_of_videos_to_upload">
-        <item quantity="other">%1$d vidéos de sauvegarde</item>
-        <item quantity="one">1 vidéo en attente de sauvegarde</item>
+        <item quantity="other">%1$d vidéos en attente de synchronisation</item>
+        <item quantity="one">%1$d vidéo en attente de synchronisation</item>
     </plurals>
     <plurals name="photo_count_format">
         <item quantity="other">%1$d fichiers au total</item>

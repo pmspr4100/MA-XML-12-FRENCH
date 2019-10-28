@@ -2337,11 +2337,14 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
   <string name="fingerprint_swipe_for_notifications_suggestion_title">Consulter les notifications rapidement</string>
   <string name="fingerprint_swipe_for_notifications_summary">"Pour consulter vos notifications, passez votre doigt de haut en bas sur le lecteur d'empreinte digitale à l'arrière du téléphone."</string>
   <string name="fingerprint_swipe_for_notifications_title">"Utiliser le lecteur d'empreinte pour afficher les notifications"</string>
+  <string name="fingerprint_unlock_press_type">Press</string>
   <string name="fingerprint_unlock_set_unlock_password">Empreinte digitale + mot de passe</string>
   <string name="fingerprint_unlock_set_unlock_pattern">Empreinte digitale + schéma</string>
   <string name="fingerprint_unlock_set_unlock_pin">Empreinte digitale + code</string>
   <string name="fingerprint_unlock_skip_fingerprint">Continuer sans empreinte digitale</string>
   <string name="fingerprint_unlock_title">"Vous pouvez déverrouiller votre téléphone à l'aide de votre empreinte digitale. Pour plus de sécurité, cette option doit être associée à un autre mode de verrouillage de l'écran."</string>
+  <string name="fingerprint_unlock_touch_type">Toucher</string>
+  <string name="fingerprint_unlock_type">"Méthode de reconnaissance d'empreintes digitales"</string>
   <string name="fingerprint_usage_category_title">Utiliser les empreintes digitales pour</string>
   <string name="fingerprint_wakeup_summary">"Réveillez l'écran lorsque aucune empreinte digitale n'a été enregistrée."</string>
   <string name="fingerprint_wakeup_title">"Appuyez sur le capteur pour réveiller l'écran"</string>
@@ -2548,6 +2551,7 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
   <string name="gxzw_add_fingerprint_put_finger_message">"Appuyez sur l'écran et levez le doigt après avoir senti des vibrations. Répétez plusieurs fois."</string>
   <string name="gxzw_add_fingerprint_put_finger_title">Appuyer et retirer après vibration</string>
   <string name="gxzw_add_fingerprint_title">Ajouter votre empreinte digitale</string>
+  <string name="gxzw_anim_aurora">Aurore</string>
   <string name="gxzw_anim_light">Néon</string>
   <string name="gxzw_anim_pulse">Pouls</string>
   <string name="gxzw_anim_rhythm">Rythme</string>
@@ -4578,6 +4582,12 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="screen_dark_mode_select_time_error_summary">"L'heure de début et l'heure de fin ne peuvent pas être identiques"</string>
   <string name="screen_dark_mode_time_title">Programmer</string>
   <string name="screen_effect">Contraste et couleurs</string>
+  <string name="screen_fps_summary_power_save">"L'utilisation d'un taux fixe consomme moins d'énergie"</string>
+  <string name="screen_fps_summary_smooth">"Certaines applications augmenteront automatiquement le taux de rafraîchissement pour améliorer la qualité de l'image"</string>
+  <string name="screen_fps_title">Fréquence de rafraîchissement</string>
+  <string name="screen_fps_unit">"%d Hz"</string>
+  <string name="screen_fps_unit_power_save">%d Hz (Économie de batterie)</string>
+  <string name="screen_fps_unit_smooth">%d Hz (Meilleure qualité)</string>
   <string name="screen_key_long_press">Appui prolongé des boutons de navigation</string>
   <string name="screen_key_long_press_action">Fonction de déclenchement</string>
   <string name="screen_key_long_press_timeout">"Définir la durée d'un appui prolongé"</string>
@@ -5921,6 +5931,7 @@ Vos empreintes digitales enregistrées seront également supprimées de ce profi
   <string name="unlock_set_unlock_pin_title">Code PIN</string>
   <string name="unlock_set_unlock_summary">Définir un écran de verrouillage</string>
   <string name="unlock_setup_wizard_fingerprint_details">"Une fois que vous avez configuré un verrouillage de l'écran, vous pouvez également configurer votre empreinte numérique dans Paramètres > Sécurité."</string>
+  <string name="unlock_type_category_title">Méthode de reconnaissance</string>
   <string name="unlogin_account_summary">Tous les services Mi. Un compte Mi.</string>
   <string name="unlogin_account_title">Se connecter avec le compte Mi</string>
   <string name="unmount_inform_text">La carte SD va être désinstallée.</string>
@@ -6432,6 +6443,9 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
   <string name="webview_uninstalled_for_user">(désinstallé pour utilisateur %s)</string>
   <string name="wechat">WeChat</string>
   <string name="welcome">Bienvenue</string>
+  <string name="wellbing_title">Bien-être numérique et contrôles parentals</string>
+  <string name="wfc_disclaimer_agree_button_text">CONTINUER</string>
+  <string name="wfc_disclaimer_disagree_text">NON MERCI</string>
   <string name="wfc_provisioned_switch_string">Appel Wi-Fi géré</string>
   <string name="wfd_available_devices">Appareils disponibles</string>
   <string name="wfd_disconnect_diag_msg">Déconnecter de %1$s ?</string>

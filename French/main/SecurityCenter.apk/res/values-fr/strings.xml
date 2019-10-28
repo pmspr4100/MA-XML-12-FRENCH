@@ -817,6 +817,7 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
   <string name="qucick_replay_instrument">Utiliser des réponses rapides dans les notifications des applications sélectionnés (par exemple, WhatsApp, WeChat, QQ)</string>
   <string name="ip_address_exception_summary">"Impossible d'obtenir une adresse IP. Si vous rencontrez à nouveau ce problème, essayez d'utiliser une adresse IP statique."</string>
   <string name="local_ip_exception_summary">"Impossible d'obtenir une adresse IP locale. Pour signaler ce problème à MIUI, allez dans l'application Commentaire et envoyez un rapport à partir de votre appareil."</string>
+  <string name="lock_all_title">Verrouiller toutes les applications</string>
   <string name="renew_ip">Réessayer</string>
   <string name="network_permission_exception_tips">"Impossible d'utiliser les données mobiles pour se connecter au réseau"</string>
   <string name="open_now">"Autoriser l'application à utiliser le réseau mobile"</string>
@@ -1355,6 +1356,7 @@ medical card"</string>
   <string name="power_center_scan_item_title_running_app">Applications fonctionnant en arrière-plan</string>
   <string name="power_center_list_item_close_bluetooth">Désactiver le Bluetooth</string>
   <string name="power_center_list_item_set_lockscreen_time">"Mettre l'écran en veille après 30 secondes d'inactivité"</string>
+  <string name="power_center_list_item_set_lockscreen_time_holder">"Verrouiller l'appareil après %d secondes d'inactivité"</string>
   <string name="power_center_one_key_save">Optimiser</string>
   <string name="power_center_list_item_auto_brightness">"Ajuster automatiquement la luminosité de l'écran"</string>
   <string name="power_center_list_item_deep_save_title">Paramètres avancés</string>
@@ -2052,17 +2054,15 @@ medical card"</string>
   <string name="fingerprint_to_lock">Déverrouiller avec empreinte digitale</string>
   <string name="system_application">Applications système</string>
   <string name="system_permission_declare_agree">Accepter</string>
-  <string name="system_permission_declare_analytics_declare">"Merci de vous être inscrit à notre programme d'expérience utilisateur. Votre appareil doit être connecté à internet pour permettre à cette fonctionnalité de fonctionner normalement. Vous devez également accorder les autorisations suivantes pour nous permettre de collecter les données qui nous aideront à améliorer nos produits et services. Ces données sont collectées à des fins statistiques uniquement. Nous ne pourrons pas utiliser ces données pour vous identifier personnellement."</string>
+  <string name="system_permission_declare_analytics_declare">"Merci de vous être inscrit à notre programme d'expérience utilisateur. Votre appareil doit être connecté à internet pour permettre à cette fonctionnalité de fonctionner normalement. Vous devez également accorder les permissions suivantes pour nous permettre de collecter les données qui nous aideront à améliorer nos produits et services. Ces données sont collectées à des fins statistiques uniquement. Nous ne pourrons pas utiliser ces données pour vous identifier personnellement."</string>
   <string name="system_permission_declare_disagree">Refuser</string>
   <string name="system_permission_declare_double_link">"&lt;Data&gt;Lisez et acceptez notre &amp;lt;a href=\"%1$s\"&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href=\"%2$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt; avant d'utiliser cette fonctionnalité.&lt;/Data&gt;"</string>
   <string name="system_permission_declare_main_purpose" formatted="false">"Bienvenue sur %1s ! Cette application vous permet d'utiliser la fonctionnalité suivante: %2s."</string>
   <string name="system_permission_declare_no_say_no">"Si vous choisissez de ne pas donner les permissions requises ou de ne pas nous permettre de collecter et d'utiliser vos données, cette application ne pourra pas fonctionner normalement."</string>
   <string name="system_permission_declare_no_say_no_analytics">"If you don't want to grant these permissions, you can unenroll in Settings &gt; Additional settings &gt; Privacy &gt; User Experience Program."</string>
   <string name="system_permission_declare_no_say_no_non_mandatory">"Si vous choisissez de ne pas donner les permissions requises ou de ne pas nous permettre de collecter et d'utiliser vos données, cette application ne pourra pas fonctionner normalement."</string>
-  <string name="system_permission_declare_privacy_declare">"Nous respectons et protégeons votre vie privée.
-Notez que %1s a besoin de collecter vos données et nécessite les permissions suivantes pour fonctionner normalement:"</string>
-  <string name="system_permission_declare_privacy_no_permission">"Notez que %1s doit collecter vos données pour fonctionner normalement.
-Nous respectons et protégeons votre vie privée."</string>
+  <string name="system_permission_declare_privacy_declare">"Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité en vigueur. Notez que Sécurité doit se connecter à internet et requiert les permissions suivantes pour collecter vos informations personnelles:"</string>
+  <string name="system_permission_declare_privacy_no_permission">"Notez que Sécurité doit se connecter à internet et collecter les informations personnelles requises pour vous fournir des services. Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité en vigueur."</string>
   <string name="system_permission_declare_privacy_policy">"&lt;Data&gt;Lisez et acceptez notre &amp;lt;a href=\"%1$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt; avant d'utiliser cette fonctionnalité.&lt;/Data&gt;"</string>
   <string name="system_permission_declare_revoke_system">Vous pouvez quitter cette application.</string>
   <string name="system_permission_declare_revoke_uninstallable">"Vous pouvez vous déconnecter, désinstaller cette application ou révoquer vos permissions dans Sécurité. &gt; Gérer les applications &gt; Permissions &gt; Permissions."</string>
@@ -2104,6 +2104,7 @@ Nous respectons et protégeons votre vie privée."</string>
   <string name="applock_not_add_account">Pas maintenant</string>
   <string name="applock_add_account">Ajouter</string>
   <string name="applock_not_login_account">"Vous n'êtes pas connecté"</string>
+  <string name="applock_settings_unlock_all_toast">Déverrouillé toutes les applications</string>
   <string name="applock_bind_account_title">Mot de passe oublié</string>
   <string name="applock_close_dialog_title">"Désactiver le Verrouillage d'application ?"</string>
   <string name="applock_close_dialog_summary">"Toutes les applications cachées seront affichées, leur écran d'accueil sera restauré et votre application sera supprimée. Désactiver le verrouillage de l'application ?"</string>
@@ -2138,6 +2139,7 @@ Nous respectons et protégeons votre vie privée."</string>
   <string name="face_unlock_finger_or_password_switch">Utilisez votre empreinte digitale ou entrez votre mot de passe pour le déverrouiller</string>
   <string name="applock_function_base_settings">"Verrouillage des applications"</string>
   <string name="applock_function_pwd_settings">Mot de passe</string>
+  <string name="applock_go_to">Paramètres</string>
   <string name="applock_face_unlock_title">Reconnaissance faciale</string>
   <string name="applock_face_unlock_summary">Déverrouiller les applis avec les données du visage</string>
   <string name="fingerprint_to_lock_summary">Déverrouiller les applis sans utiliser votre empreinte digitale</string>
