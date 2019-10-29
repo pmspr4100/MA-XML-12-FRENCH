@@ -533,7 +533,7 @@ de l'opérateur"</string>
   <string name="input_aviable_traffic">"Définir la limite d'utilisation des données"</string>
   <string name="pkg_traffic">"Définir la limite d'utilisation de données"</string>
   <string name="dialog_change_package_type_title">Changement du type de forfait de données</string>
-  <string name="dialog_change_package_type_summary">La modification du type de forfait de données réinitialisera tous les paramètres dutilisation des données (ex:les limites de données) à leurs valeurs par défaut. Changer le type de forfait de données maintenant?</string>
+  <string name="dialog_change_package_type_summary">"La modification du type de forfait de données réinitialisera tous les paramètres d'utilisation des données (ex: les limites de données) à leurs valeurs par défaut. Changer le type de forfait de données maintenant ?"</string>
   <string name="traffic_usage_warning_limit">"Avertissement de la limite d'utilisation de données"</string>
   <string name="traffic_usage_warning_title">"Alerte d'utilisation des données"</string>
   <string name="traffic_usage_warning_body">Vous avez déjà utilisé %s Go de données mobiles ce mois-ci.</string>
@@ -634,7 +634,7 @@ Votre opérateur peut vous facturer des frais supplémentaires si vous activer l
   <string name="traffic_correction_success_notify_message">Appuyez pour voir les détails.</string>
   <string name="sim_location_error_notify_title">Erreur de la Carte SIM</string>
   <string name="sim_location_error_notify_message">Appuyez pour modifier la localisation SIM.</string>
-  <string name="sim_location_error_dialog_message">La SIM que vous utilisez provient de %1$s. Cela diffère du paramètre que vous avez défini manuellement (%2$s). Changer la localisation SIM sur %3$s?</string>
+  <string name="sim_location_error_dialog_message">La SIM que vous utilisez provient de %1$s. Cela diffère du paramètre que vous avez défini manuellement (%2$s). Changer la localisation SIM sur %3$s ?</string>
   <string name="package_change_notification_title">Ajuster automatiquement la limite de données</string>
   <string name="package_change_notification_summary">Appuyez pour en savoir plus.</string>
   <string name="package_setted_error_notification_titile">Impossible de définir le forfait de données</string>
@@ -942,8 +942,8 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
   <string name="status_bar_network_flow_setup_data_plan">"   Configurer le forfait de données >"</string>
   <string name="status_bar_network_flow_phone_balance">"   Crédit du téléphone: %1$s "</string>
   <string name="status_bar_network_flow_exceed_content">"Aujourd'hui: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Dépassé: &lt;font color=%2$s>%3$s&lt;/font>"</string>
-  <string name="status_bar_network_flow_content">"Aujourd'hui:%1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Restant: %2$s"</string>
-  <string name="status_bar_network_flow_content_not_setting">"Aujourd'hui:%1$s&amp;nbsp;&amp;nbsp;&amp;nbsp; Ce mois: %2$s"</string>
+  <string name="status_bar_network_flow_content">"Aujourd'hui: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Restant: %2$s"</string>
+  <string name="status_bar_network_flow_content_not_setting">"Aujourd'hui: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp; Ce mois: %2$s"</string>
   <string name="status_bar_network_flow_content_virtual_card">%1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;%2$s&amp;nbsp;&amp;nbsp;&amp;nbsp;</string>
   <string name="pref_key_tethering_setting">Limite de données unique</string>
   <string name="pref_key_tethering_title">Limite de données unique</string>
@@ -1982,7 +1982,7 @@ medical card"</string>
   <string name="ac_notification_contentTitle">"Protéger les applications sélectionnées avec Verrouillage d'application"</string>
   <string name="ac_pre_notification_contentTitle">"Essayer Verrouillage d'application"</string>
   <string name="ac_post_notification_contentTitle">"Activer le verrouillage d'application"</string>
-  <string name="midrop_post_notification_contentTitle">Besoin de partager des fichiers?</string>
+  <string name="midrop_post_notification_contentTitle">Besoin de partager des fichiers ?</string>
   <string name="notification_masked_item">Masquer les notifications</string>
   <string name="lock_mode_title">Paramètres de verrouillage</string>
   <string name="after_the_lock_screen">"Verrouillez les applications en même temps que l'écran"</string>
@@ -2340,7 +2340,7 @@ medical card"</string>
   <string name="app_manager_data_size">Données utilisateur</string>
   <string name="app_manager_cache_size">Cache</string>
   <string name="app_manager_clear_all_data">Effacer toutes les données</string>
-  <string name="app_manager_dlg_clear_cache_title">Vider le cache?</string>
+  <string name="app_manager_dlg_clear_cache_title">Vider le cache ?</string>
   <string name="app_manager_comuting_size">Calcul…</string>
   <string name="app_manager_show_all_apps_opened">Affichage des résultats depuis toutes les applications…</string>
   <string name="app_manager_search_prompt">"Impossible de trouver des résultats ? Essayer d'afficher les résultats depuis toutes les applications."</string>
@@ -2632,7 +2632,7 @@ medical card"</string>
   <string name="gamebox_hangup_tips_title">"Éteindre l'écran"</string>
   <string name="gamebox_hangup_tips_content">"Cette fonctionnalité vous permet de désactiver l'écran, tout en maintenant le jeu en arrière-plan. Il s'éteint automatiquement une fois que vous déverrouillez votre appareil."</string>
   <string name="gamebox_immersion_tips_title">Attention</string>
-  <string name="gamebox_immersion_tips_content">"Le mode immersif restreint toutes les fonctionnalités de la carte SIM à l'exception de la connexion de données mobiles. Vous ne serez ni interrompu par des appels ou par des notifications concernant des appels manqués. Toutes les fonctionnalités de la carte SIM seront restaurées lorsque le mode Immersive est désactivé. Activer le mode immersif?"</string>
+  <string name="gamebox_immersion_tips_content">"Le mode immersif restreint toutes les fonctionnalités de la carte SIM à l'exception de la connexion de données mobiles. Vous ne serez ni interrompu par des appels ou par des notifications concernant des appels manqués. Toutes les fonctionnalités de la carte SIM seront restaurées lorsque le mode Immersive est désactivé. Activer le mode immersif ?"</string>
   <string name="gamebox_func_antimsg_open">Les notifications flottantes sont limitées maintenant</string>
   <string name="gamebox_func_antimsg_close">Les notifications flottantes sont autorisées maintenant</string>
   <string name="gamebox_func_wlan_open">Le Wi-Fi est activé maintenant</string>
