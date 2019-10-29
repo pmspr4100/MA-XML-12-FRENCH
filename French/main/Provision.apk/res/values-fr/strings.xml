@@ -56,11 +56,11 @@ Vous devez les accepter avant de pouvoir utiliser MIUI. %s et les composants du 
   <string name="terms_of_use_label_systemhelper">", Service d'enregistrement automatique"</string>
   <string name="terms_of_use_lable_smart_cards">, cartes intelligentes</string>
   <string name="terms_of_use_lable_vsimcore">, MConnService</string>
-  <string name="terms_of_use_lable_default_input_method_facemoji">"
-
+  <string name="terms_of_use_lable_default_input_method_facemoji">"r
+r
 Vous devez accepter la politique de confidentialité de Facemoji avant d'utiliser cette fonctionnalité."</string>
-  <string name="terms_of_use_lable_default_input_method_kika">"
-
+  <string name="terms_of_use_lable_default_input_method_kika">"r
+r
 Vous devez accepter la politique de confidentialité de Kika avant d'utiliser cette fonctionnalité."</string>
   <string name="user_agreement">"Conditions générales d'utilisation"</string>
   <string name="privacy_policy">Politique de confidentialité</string>
@@ -104,17 +104,20 @@ Vous devez accepter la politique de confidentialité de Kika avant d'utiliser ce
   <string name="continue_to_enable_accessibility">"Continuez à maintenir deux doigts pour permettre l'accessibilité."</string>
   <string name="voice_assist_title">Allumer avec la voix</string>
   <string name="voice_assist_desp">Dites \"Mi IA\" à votre téléphone. Mi IA reconnaîtra votre voix et sera en mesure de contrôler votre appareil.</string>
-  <string name="voice_assist_condition">"Vous pourrez utiliser Mi IA dans ces cas: 
-1. Lorsque l'écran est allumé.
+  <string name="voice_assist_condition">"Vous pourrez utiliser Mi IA dans ces cas:r 
+1. Lorsque l'écran est allumé.r
 2. Lorsque vous écoutez de la musique avec votre écran éteint."</string>
   <string name="voice_assist_advice">"Le Mi IA vous permet d'utiliser les commandes vocales, mais il consomme plus d'énergie (+ 1% toutes les heures)."</string>
   <string name="ai_button_title">Bouton IA</string>
-  <string name="ai_button_desc">Obtenez un accès instantané à votre assistant vocal intelligent</string>
+  <string name="ai_button_desc">"Le bouton IA vous permet de déclencher Mi IA et d'utiliser les raccourcis Mi IA."</string>
   <string name="ai_button_long_press">Appuyer et maintenir</string>
-  <string name="ai_button_long_press_desc">Appuyez et maintenez sur le bouton IA pour parler à IA Mi</string>
+  <string name="ai_button_long_press_desc">Appuyez et maintenez sur le bouton IA pour parler à Mi IA</string>
   <string name="ai_button_single_press">Appuyer</string>
-  <string name="ai_button_single_press_desc">Appuyez sur le bouton IA pour afficher les raccourcis IA Mi</string>
+  <string name="ai_button_single_press_desc">Appuyez sur le bouton IA pour afficher les raccourcis Mi IA</string>
   <string name="ai_button_double_press">Double appui</string>
   <string name="ai_button_double_press_desc">Appuyez deux fois sur le bouton IA pour terminer les tâches personnalisées</string>
   <string name="zone_picker_title">Choisir un fuseau horaire</string>
+  <string name="security_introduction">You can use this app to clear trash on your device, find and neutralize viruses, optimize performance for gaming, save battery, manage apps, permissions, and more.</string>
+  <string name="terms_of_use_ble_htmlViewer">, Fused Location Provider, HTML Viewer</string>
+  <string name="user_agreement_declare">Before using MIUI, you must read and agree to our User Agreement and Privacy Policy. While your device is being activated, Mi SIM Activation Service, Find device, Home screen, Frequent phrases, Translation Service, MIUI Daemon, HTML Viewer, and Updater will connect to the network. Smart services will connect to the network and access your location.</string>
 </resources>

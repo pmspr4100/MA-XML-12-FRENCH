@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="account_user_gender_name">
+        <item>Homme</item>
+        <item>Femme</item>
+    </string-array>
     <string-array name="playback_streaming_quality">
       <item>Auto</item>
       <item>Faible</item>

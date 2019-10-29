@@ -704,7 +704,14 @@ Le volume de données restant inclut l'excédent du mois précédent."</string>
   <string name="tc_sms_report_toast_text">"Obtention d'infos…"</string>
   <string name="tc_sms_report_type">Type de rapport</string>
   <string name="privacy_declare_dialog_title">"Conditions générales d'utilisation"</string>
+  <string name="privacy_description_camera">%1s is using camera in the background. You can toggle the switch below to restrict this activity.</string>
+  <string name="privacy_description_camera_mic">%1s is using camera and microphone in the background. You can toggle the switch below to restrict this activity.</string>
+  <string name="privacy_description_mic">%1s is using microphone in the background. You can toggle the switch below to restrict this activity.</string>
   <string name="sc_allow_network_dialog_tiltle">"Impossible d'utiliser cette fonctionnalité"</string>
+  <string name="privacy_notification_subtitle">Tap to manage permissions</string>
+  <string name="privacy_notification_title_camera">%1s is using camera in the background</string>
+  <string name="privacy_notification_title_camera_mic">%1s is using camera and microphone in the background</string>
+  <string name="privacy_notification_title_mic">%1s is using microphone in the background</string>
   <string name="sc_allow_network_dialog_message">"Vous avez limité la connexion réseau et l'accès à votre localisation pour l'application Sécurité. Accordez à l'application Sécurité les autorisations requises pour utiliser cette fonctionnalité."</string>
   <string name="privacy_prompt_upload">Envoyer</string>
   <string name="privacy_prompt_traffic_adjust_message">"Après que vous ayez lancé l'étalonnage, MIUI se connectera au réseau, cryptera les infos de votre opérateur, votre numéro de téléphone, votre IMEI et votre compte Mi, puis enverra ces éléments vers les serveurs Mi. Ceci se fera dans le but d'acquérir le modèle d'étalonnage et apprenez si possible à acheter des données dans votre localité.
