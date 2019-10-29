@@ -26,3 +26,6 @@
 
 ## Pour tout problème
 * https://github.com/pmspr4100/MA-XML-11-FRENCH
+
+## Dons
+* https://www.paypal.me/pmspr4100
