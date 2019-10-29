@@ -149,8 +149,8 @@ Il est impossible de faire un zoom avant sur le clavier ou la barre de navigatio
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Mettre à jour la loupe si transition entre applis</string>
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Mise à jour auto de la loupe</string>
   <string name="accessibility_touch_vibration_title">Vibreur pour le toucher</string>
-  <string name="accessibility_tutorial_dialog_button">Got it</string>
-  <string name="accessibility_tutorial_dialog_message_button">"Pour activer ou désactiver ce service, appuyez sur le bouton d’accessibilité en bas de votre écran.
+  <string name="accessibility_tutorial_dialog_button">"C'est compris"</string>
+  <string name="accessibility_tutorial_dialog_message_button">"Pour activer ou désactiver ce service, appuyez sur le bouton d'accessibilité en bas de votre écran.
 
 Pour basculer d'un service à l'autre, maintenez le bouton d'accessibilité enfoncé."</string>
   <string name="accessibility_tutorial_dialog_message_gesture_settings_with_talkback">"Pour activer ou désactiver un service d'accessibilité, faites glisser votre doigt vers le haut avec trois doigts vers le haut.
@@ -218,7 +218,7 @@ Pour basculer entre les services, balayez vers le haut avec deux doigts et maint
   <string name="activity_picker_label">Sélectionner une activité</string>
   <string name="activity_title_power_manager">Économiseur de batterie;Économiser la batterie</string>
   <string name="ad_service">Services publicitaires</string>
-  <string name="adb_keys_warning_message">"Révoquer l'accès au débogage USB pour tous les ordinateurs que vous ’avez précédemment autorisés ?"</string>
+  <string name="adb_keys_warning_message">"Révoquer l'accès au débogage USB pour tous les ordinateurs que vous-avez précédemment autorisés ?"</string>
   <string name="adb_warning_message">Le débogage USB est uniquement destiné à des fins de développement. Utilisez-le pour copier des données entre votre ordinateur et votre appareil, installer des applications sur votre appareil sans notification et lire les données de journal.</string>
   <string name="adb_warning_title">Autoriser le débogage USB ?</string>
   <string name="add_a_language">Ajouter une langue</string>
@@ -287,7 +287,7 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
   <string name="airplane_mode">Mode avion</string>
   <string name="alarm_ringtone_title">"Son de l'alarme par défaut"</string>
   <string name="alarm_sound_dialog_title">"Choisir le son de l'alarme"</string>
-  <string name="alarm_sound_title">"Son de l'alarme"</string>
+  <string name="alarm_sound_title">Alarme</string>
   <string name="alarm_stop">"Déscativez le mode Silencieux lorsque l'alarme s'arrête"</string>
   <string name="alarm_stop_info">"Le mode Silencieux sera désactivé lorsque l'alarme s'arrête"</string>
   <string name="alarm_template">à %1$s</string>
@@ -597,7 +597,7 @@ Activez optimisation batterie."</string>
   <string name="background_check_pref">Vérification en arrière-plan</string>
   <string name="background_check_title">"Accès complet à l'arrière-plan"</string>
   <string name="background_data">Données en arrière-plan</string>
-  <string name="background_data_dialog_message">"La désactivation des données en arrière-plan économise la batterie et réduit l'utilisation des données. Certaines applications peuvent continuer d'utiliser la connexion Internet en arrière-plan."</string>
+  <string name="background_data_dialog_message">"La désactivation des données en arrière-plan économise la batterie et réduit l'utilisation des données. Certaines applications peuvent continuer d'utiliser la connexion internet en arrière-plan."</string>
   <string name="background_data_dialog_title">Dés. données arr.-plan ?</string>
   <string name="background_data_summary">Synchronisation, envoi et réception de données à tout moment</string>
   <string name="background_process_stop_description">"Ceci est un ancien processus d'application qui peut toujours être exécuté en cas de besoin. Il n'existe généralement aucune raison de l'arrêter."</string>
@@ -903,8 +903,8 @@ Applications:
   <string name="bluetooth_disconnect_dialog_ok">Déconnecter</string>
   <string name="bluetooth_disconnect_headset_profile">"%1$s sera déconnecté de l'audio en mains libres."</string>
   <string name="bluetooth_disconnect_hid_profile">"%1$s sera déconnecté du périphérique d'entrée."</string>
-  <string name="bluetooth_disconnect_pan_nap_profile">%1$s sera déconnecté et ne partagera plus la connexion Internet de ce téléphone.</string>
-  <string name="bluetooth_disconnect_pan_user_profile">"L'accès à Internet via %1$s va être interrompu."</string>
+  <string name="bluetooth_disconnect_pan_nap_profile">%1$s sera déconnecté et ne partagera plus la connexion internet de ce téléphone.</string>
+  <string name="bluetooth_disconnect_pan_user_profile">"L'accès à internet via %1$s va être interrompu."</string>
   <string name="bluetooth_disconnect_title">"Déconnecter l'appareil ?"</string>
   <string name="bluetooth_disconnected">Déconnecté</string>
   <string name="bluetooth_disconnecting">Déconnexion…</string>
@@ -980,9 +980,9 @@ Applications:
   <string name="bluetooth_pairing_request">Associer avec %1$s ?</string>
   <string name="bluetooth_pairing_shares_phonebook">"Autoriser l'accès à vos contacts et à l'historique des appels"</string>
   <string name="bluetooth_pairing_will_share_phonebook">"L'association accorde l'accès à tous les contacts et à l'historique des appels une fois connecté."</string>
-  <string name="bluetooth_pan_nap_profile_summary_connected">"Partage de connexion Internet locale avec l'appareil"</string>
-  <string name="bluetooth_pan_profile_summary_use_for">"Utiliser pour l'accès à Internet"</string>
-  <string name="bluetooth_pan_user_profile_summary_connected">"Connecté à l'appareil pour l'accès à Internet"</string>
+  <string name="bluetooth_pan_nap_profile_summary_connected">"Partage de connexion internet locale avec l'appareil"</string>
+  <string name="bluetooth_pan_profile_summary_use_for">"Utiliser pour l'accès à internet"</string>
+  <string name="bluetooth_pan_user_profile_summary_connected">"Connecté à l'appareil pour l'accès à internet"</string>
   <string name="bluetooth_pb_acceptance_dialog_text">"%1$s requiert l'accès à vos contacts et à l'historique de vos appels. Autoriser l'accès à %2$s ?"</string>
   <string name="bluetooth_pb_remember_choice">Ne plus me demander</string>
   <string name="bluetooth_phonebook_request">"Demande d'accès au répertoire"</string>
@@ -996,7 +996,7 @@ Applications:
   <string name="bluetooth_preference_no_found_devices">Aucun appareil disponible.</string>
   <string name="bluetooth_preference_paired_devices">Appareils associés</string>
   <string name="bluetooth_preference_paired_dialog_contacts_option">Contacts et historique des appels</string>
-  <string name="bluetooth_preference_paired_dialog_internet_option">Connexion Internet</string>
+  <string name="bluetooth_preference_paired_dialog_internet_option">Connexion internet</string>
   <string name="bluetooth_preference_paired_dialog_keyboard_option">Clavier</string>
   <string name="bluetooth_preference_paired_dialog_name_label">Nom</string>
   <string name="bluetooth_preference_paired_dialog_title">Appareil associé</string>
@@ -1011,7 +1011,7 @@ Applications:
   <string name="bluetooth_profile_hid">Périphérique de saisie</string>
   <string name="bluetooth_profile_map">Messages texte</string>
   <string name="bluetooth_profile_opp">Transfert de fichier</string>
-  <string name="bluetooth_profile_pan">Accès à Internet</string>
+  <string name="bluetooth_profile_pan">Accès à internet</string>
   <string name="bluetooth_profile_pan_nap">Connexion internet partagé</string>
   <string name="bluetooth_profile_pbap">Partage de contacts</string>
   <string name="bluetooth_profile_pbap_summary">Utilisé pour partager contacts</string>
@@ -1130,7 +1130,7 @@ Qualité de lecture"</string>
   <string name="bootloader_locked_answer_1">"Nous verrouillons les appareils pour vous garantir leur sécurité et pour vous assurer que vos informations personnelles ne soient pas communiquées à des tiers. Si vous avez besoin d'entrer en mode Fastboot pour flasher votre appareil, vous pouvez le déverrouiller."</string>
   <string name="bootloader_locked_answer_1_warning">"Souvenez-vous: vous ne serez pas en mesure d'utiliser \"Localiser l'appareil\" après que le téléphone sera déverrouillé."</string>
   <string name="bootloader_locked_answer_2">"1. Assurez-vous d'avoir inséré une carte SIM dans votre appareil.
-2. Désactivez la Wi-Fi et activez les données mobiles. Assurez votre appareil peut être connecter à Internet en utilisant les données mobiles.
+2. Désactivez la Wi-Fi et activez les données mobiles. Assurez votre appareil peut être connecter à internet en utilisant les données mobiles.
 3. Appuyez sur \"Ajouter un compte\" ci-dessous pour associer votre compte Mi avec cet appareil.
 4. Téléchargez l'outil de déverrouillage depuis notre site web. Notez que vous devriez déverrouiller vos appareils depuis un ordinateur. Téléchargez ici:"</string>
   <string name="bootloader_locked_answer_2_no_sim">"Appuyez sur \"Ajouter un compte\" ci-dessous pour associer votre compte Mi avec cet appareil.
@@ -1219,7 +1219,8 @@ Cette fonctionnalité peut être désactivée dans [Paramètres]"</string>
   <string name="byteShort">o</string>
   <string name="cache_header_label">Cache</string>
   <string name="cache_size_label">Cache</string>
-  <string name="cached">"Processus d'arrière-plan en cache"</string>
+  <string name="cached">"Processus d'arrière-plan mis en cache"</string>
+  <string name="calendar_remind">Événements</string>
   <string name="calendar_sound_dialog_title">Choisir le son du calendrier</string>
   <string name="calendar_sound_title">Son du calendrier</string>
   <string name="call_manager_enable_summary">Autoriser ce service à gérer comment vous passez vos appels</string>
@@ -1371,7 +1372,7 @@ Cette fonctionnalité peut être désactivée dans [Paramètres]"</string>
   <string name="color_led_end_time">Heure de fin</string>
   <string name="color_led_game_mode_summary">Afficher les effets pour les jeux lorsque Game Turbo est activé</string>
   <string name="color_led_game_mode_title">Utiliser pour le Game Turbo</string>
-  <string name="color_led_hint">"Sélectionnez les scénarios lorsque la lumière LED doit être utilisée. La lumière LED s’allume lorsque l’écran est tourné vers le bas et que le mode NPD est désactivé."</string>
+  <string name="color_led_hint">"Sélectionnez les scénarios lorsque la lumière LED doit être utilisée. La lumière LED s'allume lorsque l'écran est tourné vers le bas et que le mode NPD est désactivé."</string>
   <string name="color_led_incall_pulse_title">Utiliser pour les appels entrants</string>
   <string name="color_led_lucky_dialog_message">"Cette fonctionnalité nécessite l'utilisation de l'assistant d'enveloppe rouge. Allumer maintenant ?"</string>
   <string name="color_led_lucky_dialog_title">"Activer l'assistant enveloppe rouge"</string>
@@ -1459,7 +1460,7 @@ Cette fonctionnalité peut être désactivée dans [Paramètres]"</string>
   <string name="confirm_privacy_password_fingerprint">Lisez votre empreinte digitale ou saisissez votre mot de passe de protection de confidentialité</string>
   <string name="confirm_reset_aaid">OK </string>
   <string name="connect_mode">Type de connexion</string>
-  <string name="connect_to_internet">Connexion à Internet</string>
+  <string name="connect_to_internet">Connexion à internet</string>
   <string name="connected_device_add_device_summary">"Le Bluetooth sera activé pour permettre l'association"</string>
   <string name="connected_device_add_device_title">Ajouter un appareil</string>
   <string name="connected_device_available_call_title">"Périphériques d'appel disponibles"</string>
@@ -1522,7 +1523,7 @@ Cette fonctionnalité peut être désactivée dans [Paramètres]"</string>
   <string name="credentials_unlock_hint">Saisir le mot de passe de stockage des identifiants</string>
   <string name="credentials_wrong_password">Mot de passe incorrect</string>
   <string name="crypt_keeper_button_text">Chiffrer le téléphone</string>
-  <string name="crypt_keeper_conditions">"Le chiffrement prend une heure ou plus. Vous devez commencer avec une batterie chargée et de garder votre appareil branché tout au long du processus. Si vous l'interrompez, vous ’ll peut perdre une partie ou la totalité de vos données."</string>
+  <string name="crypt_keeper_conditions">"Le chiffrement prend une heure ou plus. Vous devez commencer avec une batterie chargée et de garder votre appareil branché tout au long du processus. Si vous l'interrompez, vous perdrez une partie ou la totalité de vos données."</string>
   <string name="crypt_keeper_conditions_title">À propos de chiffrer votre appareil</string>
   <string name="crypt_keeper_confirm_title">Chiffrer ?</string>
   <string name="crypt_keeper_content">"Vous pouvez chiffrer vos comptes, les paramètres, les applications téléchargées et leurs données, les médias, et d'autres fichiers."</string>
@@ -1531,7 +1532,7 @@ Cette fonctionnalité peut être désactivée dans [Paramètres]"</string>
 
 Pour continuer d'utiliser votre téléphone, vous devez rétablir sa configuration d'usine. Une fois cette opération terminée, vous pourrez restaurer toutes les données que vous aviez sauvegardées dans votre compte Google lors de la nouvelle configuration de votre téléphone."</string>
   <string name="crypt_keeper_data_corrupt_title">Échec du déchiffrement</string>
-  <string name="crypt_keeper_decrypt_methods">"Après chiffrement de l'appareil, en supposant que vous ’ avez mis en place un verrouillage de l'écran (qui est, un motif ou un PIN numérique ou un mot de passe), vous ’ aurez besoin pour déverrouiller l'écran pour déchiffrer l'appareil chaque fois que vous l'allumez. La seule autre façon de déchiffrer consiste à effectuer une réinitialisation des données d'usine pour supprimer toutes vos données."</string>
+  <string name="crypt_keeper_decrypt_methods">"Après chiffrement de l'appareil, en supposant que vous-avez mis en place un verrouillage de l'écran (qui est, un motif ou un PIN numérique ou un mot de passe), vous-aurez besoin pour déverrouiller l'écran pour déchiffrer l'appareil chaque fois que vous l'allumez. La seule autre façon de déchiffrer consiste à effectuer une réinitialisation des données d'usine pour supprimer toutes vos données."</string>
   <string name="crypt_keeper_decrypt_methods_cannot_decrypt">"Si vous avez chiffré votre téléphone, vous devez entrer votre mot de passe, PIN, ou schéma à chaque fois que vous redémarrez l'appareil afin de le déchiffrer."</string>
   <string name="crypt_keeper_decrypt_methods_title">Déchiffrer votre appareil</string>
   <string name="crypt_keeper_desc">"Vous pouvez chiffrer l'ensemble de vos données: vos comptes, paramètres, applications et tout autre fichier. Si vous avez activé le verrouillage d'écran (avec un schéma, un code ou un mot de passe), vous devez déverrouiller l'écran pour déchiffrer le téléphone chaque fois que vous l'allumez. La seule autre manière de déchiffrer ce dernier consiste à rétablir la configuration d'usine, ce qui entraîne la suppression de l'ensemble de vos données.
@@ -1693,10 +1694,10 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
   <string name="data_usage_restrict_denied_dialog">La consommation des données en arrière-plan ne peut être restreinte que si vous avez défini une limite de données mobiles.</string>
   <string name="data_usage_summary_format">Volume des données utilisées: %1$s</string>
   <string name="data_usage_summary_title">Utilisation des données</string>
-  <string name="data_usage_sweep_limit"><font size="18">^1</font><font size="9">^2</font>"
-"<font size="12">plafond</font></string>
-  <string name="data_usage_sweep_warning"><font size="18">^1</font><font size="9">^2</font>"
-"<font size="12">alerte</font></string>
+  <string name="data_usage_sweep_limit">&lt;font size="18"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;"
+"&lt;font size="12"&gt;limite&lt;/font&gt;</string>
+  <string name="data_usage_sweep_warning">&lt;font size="18"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;"
+"&lt;font size="12"&gt;alerte&lt;/font&gt;</string>
   <string name="data_usage_tab_3g">2G-3G</string>
   <string name="data_usage_tab_4g">4G</string>
   <string name="data_usage_tab_ethernet">Ethernet</string>
@@ -1853,7 +1854,7 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
   <string name="device_miui_more">Afficher plus</string>
   <string name="device_miui_version">Version MIUI</string>
   <string name="device_miui_version_for_POCO">Version MIUI (pour POCO)</string>
-  <string name="device_miui_version_parameters">MIUI version</string>
+  <string name="device_miui_version_parameters">Version MIUI</string>
   <string name="device_miui_version_update">Mise à jour de MIUI disponible</string>
   <string name="device_name">"Nom de l'appareil"</string>
   <string name="device_name_input_error">"Impossible d'enregistrer le nom de l'appareil"</string>
@@ -1913,7 +1914,7 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
   <string name="dialog_title_hdmi_color_calibration">Correction des couleurs prédéfinies</string>
   <string name="dialog_title_login">Se connecter à votre compte Mi</string>
   <string name="dialog_yes">Oui</string>
-  <string name="direct_boot_unaware_dialog_message">Remarque: vous ne pourrez utiliser ce clavier qu’après un redémarrage uniquement si vous déverrouillez votre appareil</string>
+  <string name="direct_boot_unaware_dialog_message">"Remarque: vous ne pourrez utiliser ce clavier qu'après un redémarrage uniquement si vous déverrouillez votre appareil"</string>
   <string name="directory_access">"Accès à l'annuaire"</string>
   <string name="disable_overlays">Désactiver les superpostions HW</string>
   <string name="disable_overlays_summary">"Toujours utiliser le GPU pour le rendu d'écran"</string>
@@ -2363,16 +2364,16 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
   <string name="firewall_partial">Autoriser certaines applications à se connecter via la méthode suivante</string>
   <string name="firewall_permission">Permissions de connexion</string>
   <string name="firewall_restrict_all">Restreindre la connexion pour toutes les application via la méthode suivante</string>
-  <string name="firewall_restrict_android_dialog_content">Pour vous assurer que votre appareil fonctionne normalement, quelques applications du système Android se connecteront toujours à Internet. Ces applications utiliseront votre connexion de données mobiles et pourront être facturées par votre opérateur.</string>
+  <string name="firewall_restrict_android_dialog_content">Pour vous assurer que votre appareil fonctionne normalement, quelques applications du système Android se connecteront toujours à internet. Ces applications utiliseront votre connexion de données mobiles et pourront être facturées par votre opérateur.</string>
   <string name="firewall_restrict_android_dialog_title">Attention</string>
   <string name="firewall_restrict_data">Restreindre la consommation de données mobiles</string>
   <string name="firewall_restrict_notify_title">%s ne peut pas utiliser le réseau</string>
   <string name="firewall_restrict_wlan">"Restreindre l'utilisation de la connexion Wi-Fi"</string>
-  <string name="firewall_set_bg_firewall_default_dialog_summary">Si vous restreignez la connexion en arrière-plan, les nouvelles applications ne pourront pas se connecter à Internet en arrière-plan après leur installation. Elles pourraient être incapables de recevoir des messages ou de télécharger du contenu après cela. Restreindre quand même ?</string>
+  <string name="firewall_set_bg_firewall_default_dialog_summary">Si vous restreignez la connexion en arrière-plan, les nouvelles applications ne pourront pas se connecter à internet en arrière-plan après leur installation. Elles pourraient être incapables de recevoir des messages ou de télécharger du contenu après cela. Restreindre quand même ?</string>
   <string name="firewall_set_bg_firewall_default_dialog_title">Restreindre la connexion en arrière-plan pour les nouvelles applications</string>
-  <string name="firewall_temp_rule_reason">%2$s a restreint la connexion Internet pour %1$s</string>
+  <string name="firewall_temp_rule_reason">%2$s a restreint la connexion internet pour %1$s</string>
   <string name="firewall_wifi">Wi-Fi</string>
-  <string name="firewall_wifi_dialog_message">"L'application installée ne sera plus en mesure de se connecter à Internet via Wi-Fi lorsque cet interrupteur est désactivé."</string>
+  <string name="firewall_wifi_dialog_message">"L'application installée ne sera plus en mesure de se connecter à internet via Wi-Fi lorsque cet interrupteur est désactivé."</string>
   <string name="firmware_version">Version Android</string>
   <string name="flash_drive_backup_restore">Sauvegarder et restaurer via USB</string>
   <string name="flash_drive_backup_restore_summary">Branchez un lecteur USB</string>
@@ -2751,7 +2752,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
   <string name="keyboard_shortcuts_helper">"Outil d'aide pour raccourcis clavier"</string>
   <string name="keyboard_shortcuts_helper_summary">Afficher les raccourcis disponibles</string>
   <string name="keyguard_advance_setting_title">Paramètres additionnels</string>
-  <string name="keyguard_notification_status_title">Quand les notifications arrivent et que l’écran est éteint</string>
+  <string name="keyguard_notification_status_title">"Quand les notifications arrivent et que l'écran est éteint"</string>
   <string name="keyguard_security_setting_others">Autres</string>
   <string name="keyguard_security_setting_privacy_policy">Politique de confidentialité</string>
   <string name="keywords_accounts">compte</string>
@@ -2901,7 +2902,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
   <string name="link_turbo_usage_state_month_total">Ce mois-ci</string>
   <string name="link_turbo_usage_state_today">"Aujourd'hui"</string>
   <string name="link_turbo_usage_state_today_total">"Aujourd'hui"</string>
-  <string name="list_bg_header_text">Si vous restreignez la connexion en arrière-plan, les nouvelles applications ne pourront pas se connecter à Internet en arrière-plan après leur installation. Elles pourraient être incapables de recevoir des messages ou de télécharger du contenu après cela.</string>
+  <string name="list_bg_header_text">Si vous restreignez la connexion en arrière-plan, les nouvelles applications ne pourront pas se connecter à internet en arrière-plan après leur installation. Elles pourraient être incapables de recevoir des messages ou de télécharger du contenu après cela.</string>
   <string name="list_empty_text">Vide</string>
   <string name="loading">Chargement…</string>
   <string name="loading_notification_apps">Chargement des applications en cours…</string>
@@ -2911,7 +2912,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
   <string name="local_backup_password_summary_change">"Appuyez pour changer ou supprimer le mot de passe pour les sauvegardes complètes de l'écran d'accueil"</string>
   <string name="local_backup_password_summary_none">"Les sauvegardes complètes de l'écran d'accueil ne sont pas actuellement protégées"</string>
   <string name="local_backup_password_title">"Mot de passe de sauvegarde de l'écran d'accueil"</string>
-  <string name="local_backup_password_toast_confirmation_mismatch">Les mots de passe ne’ correspondent pas</string>
+  <string name="local_backup_password_toast_confirmation_mismatch">Les mots de passe ne correspondent pas</string>
   <string name="local_backup_password_toast_success">Nouveau de mot de passe de sauvegarde défini</string>
   <string name="local_backup_password_toast_validation_failure">Impossible de définir le mot de passe de sauvegarde</string>
   <string name="local_backup_section_summary">Paramètres système, comptes, et applis</string>
@@ -3035,7 +3036,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
   <string name="lock_settings_profile_unification_summary">"Utiliser un seul dispositif de verrouillage pour le profil professionnel et l'écran de l'appareil"</string>
   <string name="lock_settings_profile_unification_title">Utiliser un seul dispositif de verrouillage</string>
   <string name="lock_settings_profile_unified_summary">"Identique au verrouillage de l'écran de l'appareil"</string>
-  <string name="lock_settings_title">Sécurité de l’appareil</string>
+  <string name="lock_settings_title">"Sécurité de l'appareil"</string>
   <string name="lock_settings_with_fingerprint">Écran de verrouillage et mot de passe</string>
   <string name="lock_setup">La configuration est terminée.</string>
   <string name="lock_sounds_enable_title">Son de verrouillage</string>
@@ -3126,7 +3127,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
   <string name="lockpattern_pattern_same_with_security_space">Il doit être différent de celui du second espace</string>
   <string name="lockpattern_recording_incorrect_too_short">Reliez au moins %d points, puis réessayez.</string>
   <string name="lockpattern_recording_inprogress">Relâchez le doigt lorsque vous avez terminé</string>
-  <string name="lockpattern_recording_intro_footer">Appuyez sur Menu pour de l’aide.</string>
+  <string name="lockpattern_recording_intro_footer">"Appuyez sur Menu pour de l'aide."</string>
   <string name="lockpattern_recording_intro_header">Dessiner un schéma de déverrouillage:</string>
   <string name="lockpattern_recording_intro_header_second_space">Dessiner un schéma de déverrouillage pour le second espace:</string>
   <string name="lockpattern_restart_button_text">Dessiner à nouveau</string>
@@ -3153,7 +3154,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
   <string name="lockscreen_glogin_checking_password">Vérification…</string>
   <string name="lockscreen_glogin_password_hint">Mot de passe</string>
   <string name="lockscreen_glogin_submit_button">"S'identifier"</string>
-  <string name="lockscreen_label">Lock screen</string>
+  <string name="lockscreen_label">Écran de vérrouillage</string>
   <string name="lockscreen_magazine">"Fond d'écran carrousel"</string>
   <string name="lockscreen_magazine_summary">"Fond d'écran carrousel de haute qualité"</string>
   <string name="lockscreen_magazine_title">"Fond d'écran carrousel"</string>
@@ -3169,14 +3170,14 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
   <string name="long_press_menu_key">Appui prolongé sur bouton Menu</string>
   <string name="long_press_menu_key_when_lock">"Appui prolongé sur Menu à l'écran de verrouillage"</string>
   <string name="long_press_power_key">"Appuyez longuement sur le bouton d'alimentation"</string>
-  <string name="long_press_power_key_half_of_second">Appuyez et maintenez le bouton d’alimentation pendant 0.5s pour activer Google Assistant</string>
+  <string name="long_press_power_key_half_of_second">"Appuyez et maintenez le bouton d'alimentation pendant 0.5s pour activer Google Assistant"</string>
   <string name="long_press_power_key_tips">&lt;Data&gt;Long press the Power button &amp;lt;font color=#999999&amp;gt;Faster and more convenient&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
   <string name="long_press_volume_down">Appui prolongé sur le bouton inférieur du volume</string>
   <string name="lost_internet_access_cancel">Rester en Wi-Fi</string>
   <string name="lost_internet_access_persist">Ne plus afficher</string>
   <string name="lost_internet_access_switch">Se connecter au réseau mobile</string>
   <string name="lost_internet_access_text">"Vous pouvez vous connecter au réseau mobile lorsque vous rencontrez un problème de connexion Wi-Fi. Des frais liés à la consommation de données peuvent s'appliquer."</string>
-  <string name="lost_internet_access_title">"Le réseau Wi-Fi n'est pas connecté à Internet"</string>
+  <string name="lost_internet_access_title">"Le réseau Wi-Fi n'est pas connecté à internet"</string>
   <string name="mah">%d mAh</string>
   <string name="main_netcheck_summary">Tester la connexion pour des problèmes de réseau</string>
   <string name="main_running_process_description">"Processus principal en cours d'utilisation."</string>
@@ -3395,8 +3396,8 @@ D'autres personnes utilisent cet appareil.
   <string name="miui_sos_emergency_delete">Supprimer</string>
   <string name="miui_sos_emergency_delivered_sms" formatted="false">%1s (%2s) a déjà accepté.</string>
   <string name="miui_sos_emergency_delivered_sms_noname">%1s a déjà accepté</string>
-  <string name="miui_sos_emergency_failed_sms" formatted="false">Impossible d’envoyer un message à %1s (%2s).</string>
-  <string name="miui_sos_emergency_failed_sms_noname">Impossible d’envoyer un message à %1s.</string>
+  <string name="miui_sos_emergency_failed_sms" formatted="false">"Impossible d'envoyer un message à %1s (%2s)."</string>
+  <string name="miui_sos_emergency_failed_sms_noname">"Impossible d'envoyer un message à %1s."</string>
   <string name="miui_sos_enable_switch_summary">"Appuyez rapidement sur le bouton d'alimentation 5 fois pour envoyer un message d'urgence avec votre position à vos contacts d'urgence"</string>
   <string name="miui_sos_enable_switch_title">"Messages d'urgences"</string>
   <string name="miui_sos_exit_dialog_cancel">Annuler</string>
@@ -3433,7 +3434,7 @@ D'autres personnes utilisent cet appareil.
   <string name="mms_breathing_light_color_title">Couleur des messages</string>
   <string name="mms_breathing_light_freq_title">Fréquence de clignotement pour les messages</string>
   <string name="mms_privacy_password_role_instruction">Vos conversations avec vos contacts privés peuvent être stockées ici.</string>
-  <string name="mobile_connect_to_internet">Connectez-vous à Internet.</string>
+  <string name="mobile_connect_to_internet">Connectez-vous à internet.</string>
   <string name="mobile_data_always_on">Données cellulaires toujours actives</string>
   <string name="mobile_data_always_on_summary">Toujours garder les données mobiles actives, même lorsque le Wi‑Fi est actif (pour un changement rapide de réseau).</string>
   <string name="mobile_insert_sim_card">Insérez la carte SIM, puis redémarrez.</string>
@@ -3598,7 +3599,7 @@ Sélectionnez votre système d'exploitation:"</string>
   <string name="network_dashboard_summary_data_usage">conso. des données</string>
   <string name="network_dashboard_summary_hotspot">"point d'accès"</string>
   <string name="network_dashboard_summary_mobile">mobile</string>
-  <string name="network_dashboard_title">Réseau et Internet</string>
+  <string name="network_dashboard_title">Réseau et internet</string>
   <string name="network_detail">Informations réseau %s</string>
   <string name="network_error">Erreur réseau.</string>
   <string name="network_name_input_error">Impossible de sauvegarder le SSID. Réessayez.</string>
@@ -3697,7 +3698,7 @@ Sélectionnez votre système d'exploitation:"</string>
   <string name="no_default_home">Non sélectionné</string>
   <string name="no_device_admins">"Aucune application d'administration de l'appareil n'est disponible"</string>
   <string name="no_internet_access_remember">Ne plus demander pour ce réseau</string>
-  <string name="no_internet_access_text">"Ce réseau Wi-Fi %1$s n'a pas accès à Internet. Rester connecté ?"</string>
+  <string name="no_internet_access_text">"Ce réseau Wi-Fi %1$s n'a pas accès à internet. Rester connecté ?"</string>
   <string name="no_media_button_receiver">Non équipé</string>
   <string name="no_memory_use_summary">Pas de mémoire utilisée au cours des trois dernières heures</string>
   <string name="no_nearby_wifi">Aucun réseau détecté</string>
@@ -3856,8 +3857,8 @@ L'application pourra aussi activer ou désactiver le mode Ne pas déranger, et m
   <string name="oem_radio_info_label">Infos / paramètres OEM</string>
   <string name="oem_unlock_enable">Déverrouillage OEM</string>
   <string name="oem_unlock_enable_disabled_summary_bootloader_unlocked">Bootloader déjà déverrouillé</string>
-  <string name="oem_unlock_enable_disabled_summary_connectivity">"Connectez-vous d'abord à Internet"</string>
-  <string name="oem_unlock_enable_disabled_summary_connectivity_or_locked">Connectez-vous à Internet ou contactez votre opérateur</string>
+  <string name="oem_unlock_enable_disabled_summary_connectivity">"Connectez-vous d'abord à internet"</string>
+  <string name="oem_unlock_enable_disabled_summary_connectivity_or_locked">Connectez-vous à internet ou contactez votre opérateur</string>
   <string name="oem_unlock_enable_disabled_summary_sim_locked_device">"Indisponible sur les appareils verrouillés par l'opérateur"</string>
   <string name="oem_unlock_enable_summary">Autoriser le chargeur de démarrage à déverrouiller</string>
   <string name="off">Désactivé</string>
@@ -4518,7 +4519,7 @@ Interface UT: %5$s"</string>
   <string name="ring_volume_option_title">Volume de la sonnerie</string>
   <string name="ring_volume_title">Volume de la sonnerie</string>
   <string name="ringtone_slot_setting_title">Paramètres SIM</string>
-  <string name="ringtone_title">Sonnerie du téléphone</string>
+  <string name="ringtone_title">Sonnerie</string>
   <string name="ringtone_uniform_setting_title">Paramètres double SIM</string>
   <string name="ringtones_category_preference_title">Sonneries</string>
   <string name="ringtones_install_custom_sound_content">Ce fichier sera copié dans le dossier %s</string>
@@ -4632,8 +4633,8 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="screen_paper_mode_turn_on">Activé</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_again">Ne plus afficher</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Autoriser</string>
-  <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Pour mettre à jour la liste des applications qui utilisent le mode lecture, vous devez être connecté à Internet.</string>
-  <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Connexion Internet</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Pour mettre à jour la liste des applications qui utilisent le mode lecture, vous devez être connecté à internet.</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Connexion internet</string>
   <string name="screen_paper_mode_update_white_pkg_list_summary">Mise à jour des applications qui utilisent automatiquement le mode lecture</string>
   <string name="screen_paper_mode_update_white_pkg_list_title">Mise à jour automatique</string>
   <string name="screen_pinning_description">"Si ce paramètre est activé, vous pouvez épingler l'écran pour qu'il reste affiché jusqu'à l'annulation de cette opération.
@@ -4937,7 +4938,7 @@ Pour épingler l'écran:
   <string name="search_wifi_settings_title">Wi-Fi;Wi-Fi;Paramètres additionnels;Wi-Fi;Réseaux sans-fil;Sans-fil</string>
   <string name="search_wifi_tether_checkbox">"Point d'accès mobile;Point d'accès;mobile"</string>
   <string name="search_wifi_tether_configure_ap_text">"Configurer le point d'accès mobile;Définir un point d'accès;Ajouter un point d'accès;Configurer un point d'accès"</string>
-  <string name="search_wifi_tether_settings_title">"Partage de connexion et point d'accès mobile;partager Internet;Point d'accès Réseau local sans-fil;Point d'accès WiFi;Point d'accès Wi-Fi"</string>
+  <string name="search_wifi_tether_settings_title">"Partage de connexion et point d'accès mobile;partager internet;Point d'accès Réseau local sans-fil;Point d'accès WiFi;Point d'accès Wi-Fi"</string>
   <string name="search_wifi_wapi_cert_install">Installer le certificatWAPI;Certificats WAPI;WAPI</string>
   <string name="search_wifi_wapi_cert_uninstall">Désinstaller le certificat WAPI;Certificats WAPI;WAPI</string>
   <string name="search_wps_connect_title">Bouton WPS push;Connecter WPS;WPS</string>
@@ -5062,7 +5063,7 @@ Remarque: Vous ne pouvez pas utiliser votre empreinte digitale pour déverrouill
   <string name="services_subtitle">Services</string>
   <string name="set_data_limit">Définir une limite</string>
   <string name="set_data_warning">Activer une alerte</string>
-  <string name="set_jeejen_prompt_message">Jeejen sera défini comme lanceur par défaut. Vous pouvez modifier le lanceur par défaut dans Paramètres > Paramètres du système > Écran d’accueil et Récents > Lanceur par défaut.</string>
+  <string name="set_jeejen_prompt_message">"Jeejen sera défini comme lanceur par défaut. Vous pouvez modifier le lanceur par défaut dans Paramètres > Paramètres du système > Écran d'accueil et Récents > Lanceur par défaut."</string>
   <string name="set_jeejen_prompt_title">Confirmer les changements</string>
   <string name="setting_privacy_password">Définissez un mot de passe de protection de confidentialité</string>
   <string name="settings_ad_loading">Chargement…</string>
@@ -5084,7 +5085,7 @@ Remarque: Vous ne pouvez pas utiliser votre empreinte digitale pour déverrouill
   <string name="settings_notify_phone_recycled">Votre numéro de téléphone a été recyclé. Appuyez pour ajouter un autre numéro de téléphone.</string>
   <string name="settings_safetylegal_activity_loading">Chargement…</string>
   <string name="settings_safetylegal_activity_title">Informations de sécurité</string>
-  <string name="settings_safetylegal_activity_unreachable">"Vous n'avez pas de connexion de données. Pour consulter ces informations maintenant, accédez à %s depuis un ordinateur connecté à Internet."</string>
+  <string name="settings_safetylegal_activity_unreachable">"Vous n'avez pas de connexion de données. Pour consulter ces informations maintenant, accédez à %s depuis un ordinateur connecté à internet."</string>
   <string name="settings_safetylegal_title">Informations de sécurité</string>
   <string name="settings_shortcut">Raccourci vers les paramètres</string>
   <string name="setup_choose_unlock_mixed_password">Mot de passe</string>
@@ -5155,7 +5156,7 @@ Remarque: Vous ne pouvez pas utiliser votre empreinte digitale pour déverrouill
   <string name="show_user_info_on_lockscreen_label">"Afficher les infos d'utilisateur à l'écran de verrouillage"</string>
   <string name="show_wifi_name_title">Afficher le Wi-Fi</string>
   <string name="shut_down_find_device_failure_confirm">OK </string>
-  <string name="shut_down_find_device_network_failure_content">"Impossible de désactiver Localiser l'appareil. Assurez-vous que votre appareil est connecté à Internet."</string>
+  <string name="shut_down_find_device_network_failure_content">"Impossible de désactiver Localiser l'appareil. Assurez-vous que votre appareil est connecté à internet."</string>
   <string name="shut_down_find_device_network_failure_title">Impossible de se connecter au réseau</string>
   <string name="shuting_down_find_device">"Désactivation de Localiser l'appareil…"</string>
   <string name="silent_duration">Duration</string>
@@ -5311,8 +5312,8 @@ Le code PIN est peut-être incorrect."</string>
   <string name="sos_privacy_and_content_policy">"Accord d'utilisateur et politique de confidentialité"</string>
   <string name="sos_privacy_dialog_button_cancel">Annuler</string>
   <string name="sos_privacy_dialog_button_ok">Accepter</string>
-  <string name="sos_privacy_dialog_message">"Lisez et acceptez notre %s avant d’utiliser cette fonctionnalité.
-Cette fonctionnalité nécessite des autorisations pour accéder à votre localisation, utiliser les réseaux mobiles et lire vos contacts. Accepter?"</string>
+  <string name="sos_privacy_dialog_message">"Lisez et acceptez notre %s avant d'utiliser cette fonctionnalité.
+Cette fonctionnalité nécessite des autorisations pour accéder à votre localisation, utiliser les réseaux mobiles et lire vos contacts. Accepter ?"</string>
   <string name="sos_privacy_dialog_title">"Conditions Générales d'Utilisation"</string>
   <string name="sound_category_call_ringtone_vibrate_title">Sonnerie et notifications</string>
   <string name="sound_category_sound_title">Paramètres généraux</string>
@@ -5402,7 +5403,7 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
   <string name="storage_detail_apps">Applications</string>
   <string name="storage_detail_audio">Audio</string>
   <string name="storage_detail_cached">Données en cache</string>
-  <string name="storage_detail_dialog_other">"Le libellé \"Autre\" fait référence aux fichiers partagés enregistrés par les applications, aux fichiers téléchargés sur Internet ou via Bluetooth, aux fichiers Android, etc. 
+  <string name="storage_detail_dialog_other">"Le libellé \"Autre\" fait référence aux fichiers partagés enregistrés par les applications, aux fichiers téléchargés sur internet ou via Bluetooth, aux fichiers Android, etc. 
 
 Pour afficher l'intégralité du contenu de la mémoire de stockage \"^1\", appuyez sur \"Explorer\"."</string>
   <string name="storage_detail_dialog_system">"Le système contient des fichiers servant à l'exécution d'Android %s."</string>
@@ -5645,7 +5646,7 @@ Essayez d'utiliser un périphérique ^3 plus rapide, ou utilisez à la place ^4 
 %1$s"</string>
   <string name="sync_plug"><font fgcolor="#ffffffff">Bienvenue sur Google Sync !</font>"
 Une solution Google pour synchroniser vos données et vous permettre d'accéder à vos contacts, vos rendez-vous et plus, où que vous soyez."</string>
-  <string name="sync_settings">Autres Comptes</string>
+  <string name="sync_settings">Autres comptes</string>
   <string name="sync_wifi_label">Wi-Fi</string>
   <string name="sync_wifi_only">Synchronisation seulement en Wi-Fi</string>
   <string name="system">Système</string>
@@ -5706,12 +5707,12 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
   <string name="tether_settings_title_usb_bluetooth">"Point d'accès Wi-Fi"</string>
   <string name="tether_settings_title_wifi">"Partage de connexion Wi-Fi"</string>
   <string name="tether_share_qrcode_title">Partager un QR code</string>
-  <string name="tethering_footer_info">"Utilisez un point d'accès et le partage de connexion pour fournir un accès à Internet à d'autres appareils via votre connexion de données mobiles. Les applications peuvent également créer un point d'accès pour partager du contenu avec des appareils à proximité."</string>
+  <string name="tethering_footer_info">"Utilisez un point d'accès et le partage de connexion pour fournir un accès à internet à d'autres appareils via votre connexion de données mobiles. Les applications peuvent également créer un point d'accès pour partager du contenu avec des appareils à proximité."</string>
   <string name="tethering_hardware_offload">Accélération matérielle pour le partage</string>
   <string name="tethering_hardware_offload_summary">"Utiliser l'accélération du matériel de partage de connexion si disponible"</string>
   <string name="tethering_help_button_text">Aide</string>
   <string name="tethering_settings_not_available">Veuillez changer les paramètres de partage de connexion dans le Premier Espace</string>
-  <string name="the_way_of_wakeup_voice_assistant_summary">Allumer l’assistant vocal en mode plein écran (pas de boutons virtuels)</string>
+  <string name="the_way_of_wakeup_voice_assistant_summary">"Allumer l'assistant vocal en mode plein écran (pas de boutons virtuels)"</string>
   <string name="theme_customization_accent_color_title">Couleur des accents</string>
   <string name="theme_customization_category">Theming</string>
   <string name="theme_customization_device_default">Appareil par défaut</string>
@@ -5753,7 +5754,7 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
   <string name="total_size_label">Total</string>
   <string name="touch_assistant">Assistant tactile</string>
   <string name="touch_filtered_warning">"Une application masque la demande d'autorisation. Impossible de valider votre réponse via l'application Paramètres."</string>
-  <string name="touch_sensitive_summary">Rendre l’écran très sensible à la pression</string>
+  <string name="touch_sensitive_summary">"Rendre l'écran très sensible à la pression"</string>
   <string name="touch_sensitive_title">Mode gant</string>
   <string name="touch_sensitive_turn_off_cancel">Annuler</string>
   <string name="touch_sensitive_turn_off_confirm">OK</string>
@@ -6099,7 +6100,7 @@ Vos empreintes digitales enregistrées seront également supprimées de ce profi
   <string name="usb_tethering_button_text">USB</string>
   <string name="usb_tethering_errored_subtext">Erreur de partage USB</string>
   <string name="usb_tethering_storage_active_subtext">"Impossible de partager la connexion lorsque le stockage USB est en cours d'utilisation"</string>
-  <string name="usb_tethering_subtext">Partager la connexion Internet du téléphone via un câble USB</string>
+  <string name="usb_tethering_subtext">Partager la connexion internet du téléphone via un câble USB</string>
   <string name="usb_tethering_unavailable_subtext">USB non connecté</string>
   <string name="usb_title">USB</string>
   <string name="usb_use">Utiliser la connexion USB pour</string>
@@ -6335,7 +6336,7 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
   <string name="vpn_done">Ignorer</string>
   <string name="vpn_edit">Modifier le profil VPN</string>
   <string name="vpn_enable">VPN</string>
-  <string name="vpn_first_always_on_vpn_message">"Lorsque ce paramètre est activé, vous ne disposez d'aucune connexion Internet jusqu'à ce que le VPN parvienne à se connecter"</string>
+  <string name="vpn_first_always_on_vpn_message">"Lorsque ce paramètre est activé, vous ne disposez d'aucune connexion internet jusqu'à ce que le VPN parvienne à se connecter"</string>
   <string name="vpn_forget">Supprimer</string>
   <string name="vpn_forget_long">Supprimer le VPN</string>
   <string name="vpn_ipsec_ca_cert">Certificat CA IPSec</string>
@@ -6364,7 +6365,7 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
   <string name="vpn_password">Mot de passe</string>
   <string name="vpn_replace">Remplacer</string>
   <string name="vpn_replace_always_on_vpn_disable_message">Vous êtes déjà connecté à un VPN permanent. Si vous vous connectez à un autre VPN, le VPN actuel sera remplacé et le mode permanent sera désactivé.</string>
-  <string name="vpn_replace_always_on_vpn_enable_message">"Votre VPN existant sera remplacé, et vous ne disposerez d'aucune connexion Internet jusqu'à ce que le VPN parvienne à se connecter"</string>
+  <string name="vpn_replace_always_on_vpn_enable_message">"Votre VPN existant sera remplacé, et vous ne disposerez d'aucune connexion internet jusqu'à ce que le VPN parvienne à se connecter"</string>
   <string name="vpn_replace_vpn_message">Vous êtes déjà connecté à un VPN. Si vous vous connectez à un autre VPN, le VPN actuel sera remplacé.</string>
   <string name="vpn_replace_vpn_title">Remplacer le VPN existant ?</string>
   <string name="vpn_require_connection">Bloquer les connexions sans VPN</string>
@@ -6411,7 +6412,7 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
   <string name="wapi_all_sel_mode">Sélectionner</string>
   <string name="wapi_auto_sel_cert">Sélectionner automatiquement</string>
   <string name="wapi_auto_sel_cert_fail">Impossible de sélectionner les certificats automatiquement. Sélectionnez un certificat dans la liste, puis essayez de vous connecter.</string>
-  <string name="wapi_cert_is_not_exist">Aucun certificat disponible. Ajoutez d’abord un.</string>
+  <string name="wapi_cert_is_not_exist">"Aucun certificat disponible. Ajoutez d'abord un."</string>
   <string name="wapi_cert_is_not_selected">"Sélectionnez d'abord le certificat"</string>
   <string name="wapi_cert_manage_error">Impossible de définir le certificat WAPI.</string>
   <string name="wapi_cert_manage_summary">Ajouter ou supprimer le certificat WAPI</string>
@@ -6427,7 +6428,7 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
   <string name="wapi_password_is_empty">Le mot de passe ne peut être vide</string>
   <string name="wapi_password_is_not_hex_format">Caractères hexadécimaux non valides</string>
   <string name="wapi_password_length_invalid">Le mot de passe doit contenir entre 8 et 64 caractères</string>
-  <string name="wapi_password_length_is_max">Le mot de passe peut contenir jusqu’à 64 caractères</string>
+  <string name="wapi_password_length_is_max">"Le mot de passe peut contenir jusqu'à 64 caractères"</string>
   <string name="wapi_password_length_is_min">Le mot de passe doit contenir au moins 8 caractères</string>
   <string name="wapi_password_length_is_min_to_max">Le mot de passe doit contenir entre 8 et 64 caractères</string>
   <string name="wapi_psk_type">Type de mot de passe</string>
@@ -6489,7 +6490,7 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
   <string name="wifi_ask_disable">%s requiert la désactivation du Wi-Fi.</string>
   <string name="wifi_ask_enable">"%s requiert l'activation du Wi-Fi."</string>
   <string name="wifi_assistant">Assistant Wi-Fi</string>
-  <string name="wifi_assistant_auto_confirm_data_message">"Le Wi-Fi actuel ne peut pas accéder à Internet, utilisez plutôt les données mobiles, vous pouvez désactiver l'assistant Wi-Fi dans les paramètres"</string>
+  <string name="wifi_assistant_auto_confirm_data_message">"Le Wi-Fi actuel ne peut pas accéder à internet, utilisez plutôt les données mobiles, vous pouvez désactiver l'assistant Wi-Fi dans les paramètres"</string>
   <string name="wifi_assistant_confirm_always">"Plus d'indices la prochaine fois"</string>
   <string name="wifi_assistant_confirm_connection_title">Confirmer la connexion</string>
   <string name="wifi_assistant_data_prompt">"Activer l'assistant Wi-Fi"</string>
@@ -6498,9 +6499,9 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
 1.Lorsque la connexion Wi-Fi est mauvaise, le système essaie automatiquement d'autres réseaux Wi-Fi disponibles
 2.Lorsque toutes les connexions Wi-Fi existantes sont mauvaises et que les données mobiles sont activées, le système choisira intelligemment la meilleure connexion réseau"</string>
   <string name="wifi_assistant_disconnect">Déconnecter</string>
-  <string name="wifi_assistant_explicitly_confirm_data_message">Le Wi-Fi actuel ne peut pas accéder à Internet, voulez-vous basculer sur les données mobiles ?</string>
-  <string name="wifi_assistant_explicitly_confirm_disconnect">Le Wi-Fi actuel ne peut pas accéder à Internet, voulez-vous vous déconnecter ?</string>
-  <string name="wifi_assistant_explicitly_confirm_wifi_message">"Le Wi-Fi actuel ne peut pas accéder à Internet et d'autres réseaux Wi-Fi peuvent être connectés normalement, voulez-vous basculer ?"</string>
+  <string name="wifi_assistant_explicitly_confirm_data_message">Le Wi-Fi actuel ne peut pas accéder à internet, voulez-vous basculer sur les données mobiles ?</string>
+  <string name="wifi_assistant_explicitly_confirm_disconnect">Le Wi-Fi actuel ne peut pas accéder à internet, voulez-vous vous déconnecter ?</string>
+  <string name="wifi_assistant_explicitly_confirm_wifi_message">"Le Wi-Fi actuel ne peut pas accéder à internet et d'autres réseaux Wi-Fi peuvent être connectés normalement, voulez-vous basculer ?"</string>
   <string name="wifi_assistant_keep_connection">Garder</string>
   <string name="wifi_assistant_off">Désactivé</string>
   <string name="wifi_assistant_ok">OK </string>
@@ -6512,7 +6513,7 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
   <string name="wifi_auto_connect">Connexion automatique</string>
   <string name="wifi_auto_sel_wapi_cert">Sélectionner automatiquement</string>
   <string name="wifi_available_title">Connecté en Wi-Fi</string>
-  <string name="wifi_avoid_poor_network_detection_summary">"N'utiliser que les réseaux dotés de connexion Internet stable"</string>
+  <string name="wifi_avoid_poor_network_detection_summary">"N'utiliser que les réseaux dotés de connexion internet stable"</string>
   <string name="wifi_band_24ghz">2.4 GHz</string>
   <string name="wifi_band_5ghz">5 GHz</string>
   <string name="wifi_calling_mode_dialog_title">Mode appels Wi-fi</string>
@@ -6532,7 +6533,7 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
   <string name="wifi_cant_connect_to_ap">"Connexion impossible à %1$s"</string>
   <string name="wifi_carrier_connect">"Réseau Wi-Fi de l'opérateur"</string>
   <string name="wifi_carrier_content">Se connecter via %1$s</string>
-  <string name="wifi_cellular_data_fallback_summary">"Les données mobiles sont utilisées si vous n'avez pas accès à Internet via le réseau Wi-Fi. Des frais liés à la consommation des données peuvent s'appliquer."</string>
+  <string name="wifi_cellular_data_fallback_summary">"Les données mobiles sont utilisées si vous n'avez pas accès à internet via le réseau Wi-Fi. Des frais liés à la consommation des données peuvent s'appliquer."</string>
   <string name="wifi_cellular_data_fallback_title">Se connecter automatiquement au réseau de données mobiles</string>
   <string name="wifi_certificate">Certificat</string>
   <string name="wifi_check_password_try_again">Vérifiez le mot de passe et réessayez</string>
@@ -6551,14 +6552,14 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
   <string name="wifi_connect_failed_message">Impossible de se connecter au réseau Wi-Fi</string>
   <string name="wifi_connected_mac_randomization">Connexion avec adresse MAC aléatoire</string>
   <string name="wifi_connected_mac_randomization_summary">"Randomiser l'adresse MAC lors des connexions à des réseaux Wi-Fi"</string>
-  <string name="wifi_connected_no_internet">"Connecté, pas d'Internet"</string>
+  <string name="wifi_connected_no_internet">"Connecté, pas d'internet"</string>
   <string name="wifi_connection_management">Gestion des connexions Wi-Fi</string>
   <string name="wifi_context_menu_change_password">Modifier le mot de passe</string>
   <string name="wifi_context_menu_change_wapi_certificate">Changer le certificat WAPI</string>
   <string name="wifi_context_menu_connect">Se connecter</string>
   <string name="wifi_context_menu_forget">Oublier le réseau</string>
-  <string name="wifi_coverage_extend">Activer l’extension de couverture Wi-Fi</string>
-  <string name="wifi_coverage_extend_summary">Étendre la couverture Wi-Fi en utilisant un point d’accès</string>
+  <string name="wifi_coverage_extend">"Activer l'extension de couverture Wi-Fi"</string>
+  <string name="wifi_coverage_extend_summary">"Étendre la couverture Wi-Fi en utilisant un point d'accès"</string>
   <string name="wifi_data_template">^1 de données Wi-Fi</string>
   <string name="wifi_data_usage">Consommation des données Wi-Fi</string>
   <string name="wifi_datanetwork_switch_not_remind">Ne plus afficher</string>
@@ -6635,16 +6636,16 @@ Configurer un réseau masqué n'affectera pas les paramètres de votre routeur."
   <string name="wifi_hotspot_configure_ap_text_summary">"Point d'accès AndroidAP WPA2 PSK"</string>
   <string name="wifi_hotspot_connect">SE CONNECTER</string>
   <string name="wifi_hotspot_footer_info_local_only">"Les applications peuvent créer un point d'accès pour partager du contenu avec des appareils à proximité."</string>
-  <string name="wifi_hotspot_footer_info_regular">"Utilisez un point d'accès afin de créer un réseau Wi‑Fi pour vos autres appareils. Un point d'accès fournit un accès à Internet via votre connexion de données mobiles. Des frais supplémentaires peuvent s'appliquer pour l'utilisation des données mobiles."</string>
+  <string name="wifi_hotspot_footer_info_regular">"Utilisez un point d'accès afin de créer un réseau Wi‑Fi pour vos autres appareils. Un point d'accès fournit un accès à internet via votre connexion de données mobiles. Des frais supplémentaires peuvent s'appliquer pour l'utilisation des données mobiles."</string>
   <string name="wifi_hotspot_message">\"%1$s\" requiert une connexion en ligne pour autoriser la connexion au réseau.</string>
   <string name="wifi_hotspot_name_summary_connected">"D'autres appareils peuvent se connecter au point d'accès \"%1$s\""</string>
   <string name="wifi_hotspot_name_summary_connecting">"Activation du point d'accès \"%1$s\"…"</string>
   <string name="wifi_hotspot_name_title">"Nom du point d'accès"</string>
   <string name="wifi_hotspot_no_password_subtext">Aucun mot de passe défini</string>
   <string name="wifi_hotspot_off_subtext">"Ne partager ni la connexion, ni aucun contenu avec d'autres appareils"</string>
-  <string name="wifi_hotspot_on_local_only_subtext">"L'application partage du contenu. Pour partager la connexion Internet, désactivez le point d'accès, puis réactivez-le"</string>
+  <string name="wifi_hotspot_on_local_only_subtext">"L'application partage du contenu. Pour partager la connexion internet, désactivez le point d'accès, puis réactivez-le"</string>
   <string name="wifi_hotspot_password_title">"Mot de passe du point d'accès"</string>
-  <string name="wifi_hotspot_tethering_on_subtext">"Connexion Internet de ce téléphone partagée via un point d'accès"</string>
+  <string name="wifi_hotspot_tethering_on_subtext">"Connexion internet de ce téléphone partagée via un point d'accès"</string>
   <string name="wifi_hotspot_title">"Se connecter au point d'accès pour la connexion ?"</string>
   <string name="wifi_in_airplane_mode">En mode Avion</string>
   <string name="wifi_info_reconnect">Impossible de se connecter, veuillez réessayer.</string>
@@ -6684,8 +6685,8 @@ Configurer un réseau masqué n'affectera pas les paramètres de votre routeur."
   <string name="wifi_network_optimization">Connexion au réseau intelligent</string>
   <string name="wifi_network_prefix_length">Longueur du préfixe réseau</string>
   <string name="wifi_no_domain_warning">Vous devez spécifier un domaine.</string>
-  <string name="wifi_no_internet">Impossible de se connecter à Internet</string>
-  <string name="wifi_no_internet_no_reconnect">Impossible de se connecter à Internet</string>
+  <string name="wifi_no_internet">Impossible de se connecter à internet</string>
+  <string name="wifi_no_internet_no_reconnect">Impossible de se connecter à internet</string>
   <string name="wifi_not_in_range">Hors de portée</string>
   <string name="wifi_notify_cmcc_connected_summary">Afficher une notification quand vous êtes connecté à un réseau CMCC</string>
   <string name="wifi_notify_cmcc_connected_title">Notification du réseau CMCC</string>
@@ -6717,7 +6718,7 @@ Configurer un réseau masqué n'affectera pas les paramètres de votre routeur."
   <string name="wifi_p2p_wps_setup">Configuration WPS</string>
   <string name="wifi_password">Mot de passe</string>
   <string name="wifi_poor_network_detection">Éviter les connexions instables</string>
-  <string name="wifi_poor_network_detection_summary">Ne pas utiliser de réseau Wi-Fi, sauf en cas de connexion Internet de bonne qualité</string>
+  <string name="wifi_poor_network_detection_summary">Ne pas utiliser de réseau Wi-Fi, sauf en cas de connexion internet de bonne qualité</string>
   <string name="wifi_priority_changed" formatted="false">Ancienne valeur %s | Nouvelle valeur %s</string>
   <string name="wifi_priority_label">Priorité</string>
   <string name="wifi_priority_settings_label">Paramètres prioritaires</string>
@@ -6855,7 +6856,7 @@ Toucher "<b>Retour</b> pour se connecter à un autre réseau Wi-Fi.</string>
   <string name="wifi_suspend_efficiency_title">"Améliorer l'efficacité"</string>
   <string name="wifi_suspend_optimizations">Optimisation du Wi-Fi</string>
   <string name="wifi_suspend_optimizations_summary">Minimisez la consommation de la batterie lorsque le Wi-Fi est activé</string>
-  <string name="wifi_switch_away_when_unvalidated">"Utiliser les données mobiles si vous n'avez plus accès à Internet via le réseau Wi-Fi"</string>
+  <string name="wifi_switch_away_when_unvalidated">"Utiliser les données mobiles si vous n'avez plus accès à internet via le réseau Wi-Fi"</string>
   <string name="wifi_switch_to_gsm_message">Connexion Wi-Fi perdue. Utiliser la connexion de données mobile ?</string>
   <string name="wifi_switch_to_gsm_title">Utiliser le GSM ?</string>
   <string name="wifi_tap_to_sign_in">Appuyez ici pour vous connecter au réseau</string>
@@ -6983,7 +6984,7 @@ On dirait que le stockage des certificats n'est pas activé."</string>
   <string name="xiaomi_money_service">Mi Crédit</string>
   <string name="xiaomi_router_available_notif_summary">"Appuyez pour voir plus d'infos."</string>
   <string name="xiaomi_router_available_notif_title">Mi Router détecté</string>
-  <string name="xiaomi_router_notif_summary">Me notifier lorsqu’un Mi Router est disponible</string>
+  <string name="xiaomi_router_notif_summary">"Me notifier lorsqu'un Mi Router est disponible"</string>
   <string name="xiaomi_router_notif_title">Notification de Mi Router</string>
   <string name="xiaomi_transfer">Mi Share</string>
   <string name="xspace">Applications clônées</string>
