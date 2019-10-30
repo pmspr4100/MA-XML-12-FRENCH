@@ -21,7 +21,7 @@
   <string name="accessibility_camera_record_start">Commencé à enregistrer une vidéo</string>
   <string name="accessibility_camera_record_stop">"Arrêt de l'enregistrement vidéo"</string>
   <string name="accessibility_camera_shutter_finish">Prise de la photo réussie</string>
-  <string name="accessibility_camera_switch_capture_recording">拍照和录像切换</string>
+  <string name="accessibility_camera_switch_capture_recording">切换拍照和录像</string>
   <string name="accessibility_camera_ultra_wide_bokeh_off">Mode corps complet est désactivé</string>
   <string name="accessibility_camera_ultra_wide_bokeh_on">Mode corps complet est activé</string>
   <string name="accessibility_closed">Désactivé</string>
@@ -572,6 +572,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_camera_lying_title">"Notifier sur l'orientation"</string>
   <string name="pref_camera_magic_mirror_title">Miroir magique</string>
   <string name="pref_camera_manual_mode_title">Manuel</string>
+  <string name="pref_camera_manually_exposure_value">曝光</string>
   <string name="pref_camera_mfnr_sat_enable_title">Activé MFNR</string>
   <string name="pref_camera_movie_solid_title">"Stabilisation de l'image"</string>
   <string name="pref_camera_multilevel_entry_high">High</string>
@@ -706,7 +707,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_new_slow_motion_video_quality_entry_720p">720p HD</string>
   <string name="pref_pic_flaw_tip_summary">拍摄的照片人物有闭眼或照片边缘有遮挡时，会在拍照界面实时给出提示</string>
   <string name="pref_pic_flaw_tip_title">照片瑕疵提示</string>
-  <string name="pref_popup_camera_title">升降摄像头</string>
+  <string name="pref_popup_camera_title">Appareil photo pop-up</string>
   <string name="pref_priority_storage_title">Enregistrer sur la carte SD</string>
   <string name="pref_privacy_title">Politique de confidentialité</string>
   <string name="pref_retain_camera_mode_summary">"Basculez l'appareil photo vers le mode précédemment utilisé lorsque vous ouvrez l'application."</string>
