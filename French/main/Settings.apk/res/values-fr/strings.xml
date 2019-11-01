@@ -1226,9 +1226,9 @@ Cette fonctionnalité peut être désactivée dans [Paramètres]"</string>
   <string name="call_manager_enable_summary">Autoriser ce service à gérer comment vous passez vos appels</string>
   <string name="call_manager_enable_title">"Activer le gestionnaire d'appels"</string>
   <string name="call_manager_title">"Gestionnaire d'appels"</string>
-  <string name="call_records_name_1">Debbie Smith</string>
-  <string name="call_records_name_2">Jason Lee</string>
-  <string name="call_records_name_3">Tom Fowles</string>
+  <string name="call_records_name_1">Voltaire</string>
+  <string name="call_records_name_2">Montesquieu</string>
+  <string name="call_records_name_3">Denis Diderot</string>
   <string name="call_records_summary_1">9:35 | 26 secondes | China Unicom</string>
   <string name="call_records_summary_2">16 Août | 1 min 16 sec | China Mobile</string>
   <string name="call_records_summary_3">16 Août | 2 min 24 sec | China Unicom</string>
@@ -4944,8 +4944,8 @@ Pour épingler l'écran:
   <string name="search_wps_connect_title">Bouton WPS push;Connecter WPS;WPS</string>
   <string name="search_xiaomi_account">Compte Mi; Identifiant de compte Mi; Compte; Identifiant de compte; Compte Xiaomi; Protection de compte; Protéger le compte; Sécurité du compte; Mon compte</string>
   <string name="search_xspace">Application double;Applications doubles;Double application;Doubles applications;Application clônée;Applications clônées;Derux applications;2 applications;Deux comptes;2 comptes</string>
-  <string name="second_space">Créer un deuxième espace</string>
-  <string name="secondspace_category">Créer un deuxième espace</string>
+  <string name="second_space">Deuxième espace</string>
+  <string name="secondspace_category">Deuxième espace</string>
   <string name="secondspace_delete_space_title">Supprimer le deuxième espace</string>
   <string name="secspace_fod_finger_tips">Impossible de vérifier. Réessayez.</string>
   <string name="secspace_fod_finger_title">Vérifiez votre empreinte digitale</string>
@@ -5074,7 +5074,7 @@ Remarque: Vous ne pouvez pas utiliser votre empreinte digitale pour déverrouill
   <string name="settings_forbidden_message">Ce paramètre est restreint</string>
   <string name="settings_label">Paramètres</string>
   <string name="settings_label_launcher">Paramètres</string>
-  <string name="settings_license_activity_loading">Chargement...</string>
+  <string name="settings_license_activity_loading">Chargement…</string>
   <string name="settings_license_activity_title">Licences open source</string>
   <string name="settings_license_activity_unavailable">Un problème est survenu lors du chargement des licences.</string>
   <string name="settings_manual_activity_title">Manuel</string>
@@ -5288,7 +5288,7 @@ Le code PIN est peut-être incorrect."</string>
   <string name="smart_battery_summary">"Limiter l'utilisation de la batterie pour les applications que vous n'utilisez pas souvent"</string>
   <string name="smart_battery_title">Gérer les applications automatiquement</string>
   <string name="smart_notifications_title">Notifications adaptatives</string>
-  <string name="smartcover_lock_or_unlock_screen_tittle">Mode Étui intelligent</string>
+  <string name="smartcover_lock_or_unlock_screen_tittle">Mode étui intelligent</string>
   <string name="smartcover_sensitive_summary">"Verrouiller ou déverrouiller le téléphone automatiquement à l'aide de l'étui intelligent"</string>
   <string name="smartcover_sensitive_title">Étui intelligent</string>
   <string name="sms_access_restriction_enabled">"Restreindre l'accès aux SMS et au journal des appels"</string>
@@ -5966,7 +5966,7 @@ Vos empreintes digitales enregistrées seront également supprimées de ce profi
   <string name="usage_app_weekday_limit">Jours de la semaine</string>
   <string name="usage_app_weekend_limit">Week-Ends</string>
   <string name="usage_log">"Statistiques d'utilisation des apps"</string>
-  <string name="usage_state_app_timer">"Gestionnaire d'utilisation"</string>
+  <string name="usage_state_app_timer">"Gestionnaires d'utilisations"</string>
   <string name="usage_state_app_usage_detail_title">"Détails d'utilisation de l'application"</string>
   <string name="usage_state_app_usage_list_title">"Temps d'utilisation"</string>
   <string name="usage_state_app_usage_list_week_title">"Temps d'utilisation"</string>
@@ -6009,7 +6009,7 @@ Vos empreintes digitales enregistrées seront également supprimées de ce profi
   <string name="usage_stats_label">Données statistiques</string>
   <string name="usage_stats_normal_day">Jours de la semaine</string>
   <string name="usage_stats_week_day">Week-end</string>
-  <string name="usage_time_label">"Gestionnaire d'utilisation"</string>
+  <string name="usage_time_label">"Gestionnaires d'utilisations"</string>
   <string name="usage_type_actual_power">Consommation observée</string>
   <string name="usage_type_audio">Audio</string>
   <string name="usage_type_camera">Appareil photo</string>
@@ -6636,7 +6636,7 @@ Configurer un réseau masqué n'affectera pas les paramètres de votre routeur."
   <string name="wifi_hotspot_configure_ap_text_summary">"Point d'accès AndroidAP WPA2 PSK"</string>
   <string name="wifi_hotspot_connect">SE CONNECTER</string>
   <string name="wifi_hotspot_footer_info_local_only">"Les applications peuvent créer un point d'accès pour partager du contenu avec des appareils à proximité."</string>
-  <string name="wifi_hotspot_footer_info_regular">"Utilisez un point d'accès afin de créer un réseau Wi‑Fi pour vos autres appareils. Un point d'accès fournit un accès à internet via votre connexion de données mobiles. Des frais supplémentaires peuvent s'appliquer pour l'utilisation des données mobiles."</string>
+  <string name="wifi_hotspot_footer_info_regular">"Utilisez un point d'accès afin de créer un réseau Wi-Fi pour vos autres appareils. Un point d'accès fournit un accès à internet via votre connexion de données mobiles. Des frais supplémentaires peuvent s'appliquer pour l'utilisation des données mobiles."</string>
   <string name="wifi_hotspot_message">\"%1$s\" requiert une connexion en ligne pour autoriser la connexion au réseau.</string>
   <string name="wifi_hotspot_name_summary_connected">"D'autres appareils peuvent se connecter au point d'accès \"%1$s\""</string>
   <string name="wifi_hotspot_name_summary_connecting">"Activation du point d'accès \"%1$s\"…"</string>
