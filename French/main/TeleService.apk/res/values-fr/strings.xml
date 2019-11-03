@@ -880,6 +880,8 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="lable_network_not_supported">"Le réseau n'est pas pris en charge"</string>
   <string name="lafs_disable">"Les horaires de vols de l'aéroport local sont désactivés"</string>
   <string name="lafs_enable">"Les horaires de vols de l'aéroport local sont activés"</string>
+  <string name="last_sim_callback_summary">"Lorsque vous appelez à partir de l'historique des appels, utilisez la carte SIM utilisée lors du précédent appel avec ce contact."</string>
+  <string name="last_sim_callback_title">Mémoriser les préférences des cartes SIM</string>
   <string name="launch_defaults_none">Aucun paramètre par défaut défini</string>
   <string name="launch_defaults_some">Certains paramètres par défaut définis</string>
   <string name="list_language_dtitle">Langues</string>
@@ -892,10 +894,10 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="local_backup_password_toast_confirmation_mismatch">Le nouveau mot de passe et sa confirmation ne correspondent pas.</string>
   <string name="local_backup_password_toast_success">Le nouveau mot de passe de secours a bien été défini.</string>
   <string name="local_backup_password_toast_validation_failure">Échec de la définition du mot de passe de secours.</string>
-  <string name="local_disable">Les informations locales sont désactivées</string>
-  <string name="local_enable">Les informations locales sont activées</string>
-  <string name="local_weather_disable">La météo locale est désactivée</string>
-  <string name="local_weather_enable">La météo locale est activée</string>
+  <string name="local_disable">Informations locale désactivée</string>
+  <string name="local_enable">Informations locale activée</string>
+  <string name="local_weather_disable">Météo locale désactivée</string>
+  <string name="local_weather_enable">Météo locale activée</string>
   <string name="lodgings_disable">Les hébergements sont désactivés</string>
   <string name="lodgings_enable">Les hébergements sont activés</string>
   <string name="lte_band_sel_setting">band list</string>
