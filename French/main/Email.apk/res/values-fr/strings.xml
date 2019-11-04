@@ -531,7 +531,7 @@
   <string name="login">Se connecter</string>
   <string name="login139">Se connecter avec China Mobile</string>
   <string name="login_err_message">"%1$s Vous aurez peut-être également besoin d’un code de vérification pour vous connecter. Si vous devez réinitialiser votre mot de passe, rendez-vous à https://email.163.com/ pour voir les options qui s'offrent à vous.."</string>
-  <string name="login_err_sina_message">%1$sYou might also need a verification code to sign in. If you need to reset your password, visit https://mail.sina.com.cn/ to see the options available to you..</string>
+  <string name="login_err_sina_message">"%1$s Vous aurez peut-être également besoin d’un code de vérification pour vous connecter. Si vous devez réinitialiser votre mot de passe, rendez-vous à https://mail.sina.com.cn/ pour voir les options qui s'offrent à vous.."</string>
   <string name="login_failed_ticker">Impossible de se connecter à %s.</string>
   <string name="login_failed_tip">Login help feedback add WeChat public number:</string>
   <string name="login_failed_title">Impossible de se connecter</string>
@@ -544,11 +544,11 @@
   <string name="mail_description_content">"E-mail est un client de messagerie capable de gérer plusieurs comptes, envoyer et recevoir des e-mail, ainsi que synchroniser les informations de l'agenda et des contacts. Assurez-vous que pouvez vous passer de ces fonctionnalités avamt de désinstaller l'application. Vos contacts Exchange et vos informations d'agenda seront également supprimés."</string>
   <string name="mail_description_title">À propos de E-mail</string>
   <string name="mail_header_network_not_available">Vous ne disposez pas de connexion réseau.</string>
-  <string name="mail_login_help">Login help</string>
-  <string name="mail_login_help_bottom_tip">If you need to reset your password or check the settings status,visit https://email.163.com/ to see the options available to you:</string>
-  <string name="mail_login_help_details1">1.Email password: If you haven’t set up client verification code and already open the POP3/IMAP/SMTP protocol,you can use email password to sign in.</string>
-  <string name="mail_login_help_details2">2.Client verification code:If you already set up a client verification code,you need use this to sign in.And make sure the POP3/IMAP/SMTP protocol was open.</string>
-  <string name="mail_login_help_title">Email password or client verification code description:</string>
+  <string name="mail_login_help">Aide connexion</string>
+  <string name="mail_login_help_bottom_tip">"Si vous devez réinitialiser votre mot de passe ou vérifier le statut des paramètres, visitez le site https://email.163.com/ pour voir les options qui s'offrent à vous:"</string>
+  <string name="mail_login_help_details1">"1. Mot de passe de messagerie: si vous n'avez pas configuré le code de vérification du client et que vous avez déjà ouvert le protocole POP3/IMAP/SMTP, vous pouvez utiliser un mot de passe de messagerie pour vous connecter."</string>
+  <string name="mail_login_help_details2">"2. Code de vérification du client: Si vous avez déjà configuré un code de vérification du client, vous devez vous en servir pour vous connecter. Assurez-vous également que le protocole POP3/IMAP/SMTP était ouvert."</string>
+  <string name="mail_login_help_title">Mot de passe E-mail ou description du code de vérification client:</string>
   <string name="mailbox_list_account_selector_combined_view">Compte combiné</string>
   <string name="mailbox_name_display_ad">Publicités</string>
   <string name="mailbox_name_display_circular">Notifications</string>
@@ -650,7 +650,7 @@
   <string name="message_details_title">Détails du message</string>
   <string name="message_discarded">Brouillon supprimé.</string>
   <string name="message_invite_accept">Oui</string>
-  <string name="message_invite_calendar_view">Voir dans le calendrier</string>
+  <string name="message_invite_calendar_view">Afficher dans le calendrier</string>
   <string name="message_invite_decline">Non</string>
   <string name="message_invite_tentative">Peu-être</string>
   <string name="message_invite_title">Ajouter au calendrier</string>
@@ -686,7 +686,7 @@ Essayez un autre compte de messagerie."</string>
   <string name="no_content_in_body">[No Body]</string>
   <string name="no_conversations">Aucun message</string>
   <string name="no_filtrable_email_account">Aucun compte à filtrer</string>
-  <string name="no_mails">Aucun e-mail.</string>
+  <string name="no_mails">Aucun E-mail.</string>
   <string name="no_matched_attachment">Aucun résultat.</string>
   <string name="no_more_mail">Pas plus de messages</string>
   <string name="no_recognize_describe">"Impossible de trouver des E-mails contenant des billets ou des réservations.
@@ -765,16 +765,16 @@ Essayez une autre boîte de réception."</string>
   <string name="password_expired_dialog_content_fmt">"Les données du compte %s sont en train d'être supprimées de votre appareil. Vous pouvez les restaurer en modifiant le code PIN ou le mot de passe de l'Écran de votre écran. Le modifier maintenant ?"</string>
   <string name="password_expired_dialog_title">"Le mot de passe de l'Écran de l'écran a expiré"</string>
   <string name="password_expired_ticker">"Le code PIN ou le mot de passe de l'Écran d'écran a expiré."</string>
-  <string name="path_about_account_setting">Mail/Paramètres/Comptes</string>
-  <string name="path_about_add_account">Mail/Paramètres/Ajouter un compte</string>
-  <string name="path_about_battery_saver">Mail/Paramètres/Économiseur de batterie</string>
-  <string name="path_about_confirm_before_delete">Mail/Paramètres/Confirmer avant la suppression</string>
-  <string name="path_about_confirm_before_send">"Mail/Paramètres/Confirmer avant l'envoi"</string>
-  <string name="path_about_conversation_view">Mail/Paramètres/Vue de conversation</string>
-  <string name="path_about_delete_message_flow">Mail/Paramètres/Supprimer le flux de messages</string>
-  <string name="path_about_email_setting">Mail/Paramètres</string>
-  <string name="path_about_send_feed_back">Mail/Paramètres/Envoyer votre commentaire</string>
-  <string name="path_about_upload_logs">Mail/Paramètres/Envoyer les journaux</string>
+  <string name="path_about_account_setting">E-mail/Paramètres/Comptes</string>
+  <string name="path_about_add_account">E-mail/Paramètres/Ajouter un compte</string>
+  <string name="path_about_battery_saver">E-mail/Paramètres/Économiseur de batterie</string>
+  <string name="path_about_confirm_before_delete">E-mail/Paramètres/Confirmer avant la suppression</string>
+  <string name="path_about_confirm_before_send">"E-mail/Paramètres/Confirmer avant l'envoi"</string>
+  <string name="path_about_conversation_view">E-mail/Paramètres/Vue de conversation</string>
+  <string name="path_about_delete_message_flow">E-mail/Paramètres/Supprimer le flux de messages</string>
+  <string name="path_about_email_setting">E-mail/Paramètres</string>
+  <string name="path_about_send_feed_back">E-mail/Paramètres/Envoyer votre commentaire</string>
+  <string name="path_about_upload_logs">E-mail/Paramètres/Envoyer les journaux</string>
   <string name="perference_change_pw_notnull_tips">Le mot de passe ne peut pas être vide</string>
   <string name="perference_change_pw_ok_tips">Mis à jour</string>
   <string name="perference_setup_pop_del">Supprimer les messages du serveur</string>
@@ -833,7 +833,7 @@ afin de recevoir des rappels concernant les paiements et les voyages"</string>
   <string name="print_scheduler_title">Imprimer tout le planificateur</string>
   <string name="privacy_des">"Les journaux contiennent des informations de débogage du client de messagerie et les informations de votre périphérique. Cette information est utilisée pour localiser les problèmes plus rapidement. En tapotant \"%1$s\" ci-dessous, vous acceptez notre \"%2$s\"."</string>
   <string name="privacy_policy">Politique de confidentialité</string>
-  <string name="prompt_title">Prompt</string>
+  <string name="prompt_title">Rapide</string>
   <string name="protocol_setting_toast">Appuyez sur le coin supérieur droit pour accéder aux paramètres après avoir accepté</string>
   <string name="pull_to_refresh">Tirer vers le bas pour actualiser</string>
   <string name="push_wps_better_confirm_download">Télécharger</string>
@@ -971,7 +971,7 @@ Attendez la synchronisation complète ou visualisez le message sur votre ordinat
          respectées"</string>
   <string name="security_notification_content_update_title">Mise à jour de sécurité requise</string>
   <string name="security_unsupported_ticker_fmt">Le compte \"%s\" ne peut pas être synchronisé en raison des exigences de sécurité.</string>
-  <string name="see_more_content">Voir plus</string>
+  <string name="see_more_content">Afficher plus</string>
   <string name="select_attachment_type">Choisir la pièce jointe depuis</string>
   <string name="select_no_file">Aucune pièce jointe sélectionnée</string>
   <string name="select_path">"Sélectionnez le chemin d'accès"</string>
@@ -1004,8 +1004,8 @@ Attendez la synchronisation complète ou visualisez le message sur votre ordinat
   <string name="share_choose">Choisissez un fichier à partager</string>
   <string name="sharing">Partager</string>
   <string name="shortcut_name_title">Nom du raccourci</string>
-  <string name="show_elided">▶ Voir le texte cité</string>
-  <string name="show_images">Télécharger et voir les images</string>
+  <string name="show_elided">▶ Afficher le texte cité</string>
+  <string name="show_images">Télécharger et afficher les images</string>
   <string name="show_password">Afficher le mot de passe</string>
   <string name="signature">"
 
@@ -1104,10 +1104,10 @@ Supprimer le compte ?"</string>
   <string name="upload_logs_keywords">envoyer les journaux</string>
   <string name="uploading_logs">Chargement…</string>
   <string name="user_privacy_settings">Paramètres de confidentialité</string>
-  <string name="user_privacy_settings_agreement_authorization">"(By tapping \"Authorize\" you're giving WPS Mail all the required permissions)"</string>
-  <string name="user_privacy_settings_path">Tip: You can withdraw your consent in the user privacy settings, setting - user privacy settings.</string>
-  <string name="user_privacy_settings_summary">We will collect your Android ID (encrypted as your unique user ID using MI Mail) or operation log. You have the right to withdraw your consent at any time through user privacy settings.</string>
-  <string name="user_privacy_settings_title">MI Mail Privacy Rights Reminder</string>
+  <string name="user_privacy_settings_agreement_authorization">"(En appuyant sur \"Autoriser\" vous accordez à WPS Mail toutes les autorisations requises.)"</string>
+  <string name="user_privacy_settings_path">"Conseil: Vous pouvez retirer votre consentement dans les paramètres de confidentialité de l'utilisateur, paramètres - paramètres de confidentialité de l'utilisateur."</string>
+  <string name="user_privacy_settings_summary">"Nous collecterons votre identifiant Android (chiffré comme identifiant unique à l'aide de MI Mail) ou votre journal d'opération. Vous avez le droit de retirer votre consentement à tout moment via les paramètres de confidentialité de l'utilisateur."</string>
+  <string name="user_privacy_settings_title">Rappel des droits à la confidentialité de MI Mail</string>
   <string name="validation_failed_prompt">Impossible de vérifier le compte, vérifiez les paramètres serveur de %s</string>
   <string name="verify_code">Code de vérification</string>
   <string name="version_string">Version: %s</string>
