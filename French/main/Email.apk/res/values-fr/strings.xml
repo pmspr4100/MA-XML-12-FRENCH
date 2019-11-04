@@ -131,8 +131,8 @@
   <string name="account_setup_incoming_username_label_default_hint">Vous devez inclure un domaine</string>
   <string name="account_setup_need_password_verification">"Votre compte dispose d'une authentification en 2 étapes. L'authentification est requise."</string>
   <string name="account_setup_options_actionbar_title">Paramètres rapides</string>
-  <string name="account_setup_options_mail_check_frequency_10min">Toutes les 10 minutes</string>
   <string name="account_setup_options_mail_check_frequency_12hour">Toutes les 12 heures</string>
+  <string name="account_setup_options_mail_check_frequency_15min">Toutes les 15 minutes</string>
   <string name="account_setup_options_mail_check_frequency_1hour">Toutes les heures</string>
   <string name="account_setup_options_mail_check_frequency_4hour">Toutes les 4 heures</string>
   <string name="account_setup_options_mail_check_frequency_imap_push">Automatique (Push)</string>
@@ -526,11 +526,12 @@
   <string name="loading_conversations">Chargement…</string>
   <string name="loading_from_remote">Chargement…</string>
   <string name="local_search">Recherche locale</string>
-	<string name="local_search_result">%s résultats dans les messages synchronisés</string>
+  <string name="local_search_result">%s résultats dans les messages synchronisés</string>
   <string name="log_save_path">Emplacement du journal</string>
   <string name="login">Se connecter</string>
   <string name="login139">Se connecter avec China Mobile</string>
   <string name="login_err_message">"%1$s Vous aurez peut-être également besoin d’un code de vérification pour vous connecter. Si vous devez réinitialiser votre mot de passe, rendez-vous à https://email.163.com/ pour voir les options qui s'offrent à vous.."</string>
+  <string name="login_err_sina_message">%1$sYou might also need a verification code to sign in. If you need to reset your password, visit https://mail.sina.com.cn/ to see the options available to you..</string>
   <string name="login_failed_ticker">Impossible de se connecter à %s.</string>
   <string name="login_failed_tip">Login help feedback add WeChat public number:</string>
   <string name="login_failed_title">Impossible de se connecter</string>
@@ -994,8 +995,8 @@ Attendez la synchronisation complète ou visualisez le message sur votre ordinat
   <string name="ser_resp_err_map_max_connections">Trop de tentatives de connexion</string>
   <string name="ser_resp_err_map_nouser">"L'utilisateur n'existe pas"</string>
   <string name="ser_resp_err_map_or">%1$s ou %2$s</string>
-  <string name="ser_resp_err_map_pserr">"Nom d'utilisateur ou mot de passe incorrect."</string>
-  <string name="ser_resp_err_map_serclosed">%s serveur fermé</string>
+  <string name="ser_resp_err_map_pserr">"Nom d'utilisateur ou mot de passe incorrect"</string>
+  <string name="ser_resp_err_map_serclosed">%s serveur fermé.</string>
   <string name="ser_resp_err_map_ssl">"Choisissez 'SSL / TLS (Accepter tous les certificats)' dans 'Type de sécurité'"</string>
   <string name="service_protocol_title">Contrat de service</string>
   <string name="set_network">Configurer le réseau</string>
@@ -1102,6 +1103,11 @@ Supprimer le compte ?"</string>
   <string name="upload_logs">Envoyer les journaux</string>
   <string name="upload_logs_keywords">envoyer les journaux</string>
   <string name="uploading_logs">Chargement…</string>
+  <string name="user_privacy_settings">Paramètres de confidentialité</string>
+  <string name="user_privacy_settings_agreement_authorization">"(By tapping \"Authorize\" you're giving WPS Mail all the required permissions)"</string>
+  <string name="user_privacy_settings_path">Tip: You can withdraw your consent in the user privacy settings, setting - user privacy settings.</string>
+  <string name="user_privacy_settings_summary">We will collect your Android ID (encrypted as your unique user ID using MI Mail) or operation log. You have the right to withdraw your consent at any time through user privacy settings.</string>
+  <string name="user_privacy_settings_title">MI Mail Privacy Rights Reminder</string>
   <string name="validation_failed_prompt">Impossible de vérifier le compte, vérifiez les paramètres serveur de %s</string>
   <string name="verify_code">Code de vérification</string>
   <string name="version_string">Version: %s</string>
@@ -1110,7 +1116,7 @@ Supprimer le compte ?"</string>
   <string name="wait_for_manual_sync_body">"\"Ce compte n'est pas configuré pour synchroniser automatiquement.
 Appuyer sur \""<b>Synchroniser maintenant</b> pour la première synchronisation des e-mails, ou <b>Modifier les paramètres de synchronisation</b> pour configurer ce compte afin de synchroniser automatiquement le courrier.</string>
   <string name="wait_for_sync_title">En attente de synchronisation</string>
-	<string name="wait_help_context">patienter</string>
+  <string name="wait_help_context">patienter</string>
   <string name="wait_while_update_db">"Attendez un moment lors de la mise à niveau de la base de données, s'il vous plaît !"</string>
   <string name="webview_logout">Vous pouvez essayer de vous connecter à nouveau</string>
   <string name="webview_logout_cancel">Plus tard</string>

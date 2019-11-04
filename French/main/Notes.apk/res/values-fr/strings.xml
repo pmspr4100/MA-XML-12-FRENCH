@@ -23,6 +23,8 @@
   <string name="app_notification_info">Notes are working in the background</string>
   <string name="app_widget">Notes</string>
   <string name="application_icon">"Icône de l'appli"</string>
+  <string name="audio_create_normal_state">Relâchez pour créer. Faites glisser pour annuler.</string>
+  <string name="audio_create_will_cancel_state">Relâchez pour annuler</string>
   <string name="audio_toast_file_invalid">"Le fichier audio n'est pas valide"</string>
   <string name="audio_toast_file_undownload">"Le fichier audio n'est pas entièrement téléchargé ou a des parties manquantes"</string>
   <string name="audio_toast_network_is_not_available">Impossible de se connecter au réseau</string>
@@ -124,6 +126,10 @@
   <string name="menu_todo_show_finished_todo">Afficher les tâches terminées</string>
   <string name="menu_unhide">Démasquer</string>
   <string name="menu_unstick">Détacher</string>
+  <string name="new_audio_create_cancel_talkback_des">Annulé</string>
+  <string name="new_audio_create_done_talkback_des">Créer</string>
+  <string name="new_audio_create_guide_tip">Appuyez longuement pour créer une note vocale</string>
+  <string name="new_audio_create_talkback_des">"Appuyez pour créer une note de texte. Appuyez longuement pour créer une note vocale. Relâchez le bouton pour arrêter l'enregistrement et créer la note, ou faites glisser vers le haut pour annuler."</string>
   <string name="not_now">Pas maintenant</string>
   <string name="note_description_content">"L'application Notes est un bon outil pour enregistrer vos idées. Elle a intégré les rappels et synchronise vos éléments dans le Cloud afin de vous permettre de les accéder en tout lieu, à n'importe quel moment. Assurez-vous de pouvoir vous passer de ces fonctionnalités avant de supprimer l'application."</string>
   <string name="note_description_title">À propos de Notes</string>
