@@ -27,9 +27,9 @@
   <string name="intelligent_recognition_item_title">Identifier les services</string>
   <string name="mms">Messagerie</string>
   <string name="more_ringtone">Toutes les sonneries</string>
-  <string name="network_error">网络连接错误，请重试</string>
+  <string name="network_error">Erreur de connexion réseau, veuillez réessayer.</string>
   <string name="notification_sound">Sons de notification</string>
-  <string name="retry">重试</string>
+  <string name="retry">Réessayer</string>
   <string name="ringtone_slot_setting_title">Sonneries double SIM</string>
   <string name="ringtone_sound">Sonneries</string>
   <string name="ringtone_title">Sonneries</string>
@@ -41,7 +41,6 @@
   <string name="sim_slot_2">" (SIM 2)"</string>
   <string name="sms_delivered_sound_title">Message livré</string>
   <string name="sms_received_sound_title">Nouveau message</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="stop_app_timer">停用屏幕时间管理</string>
   <string name="stop_app_timer_fail">停用屏幕时间管理失败</string>
   <string name="stop_app_timer_success">已停用屏幕时间管理</string>
@@ -81,9 +80,9 @@
   <string name="usage_home_premission_main_summary">"欢迎您使用屏幕时间管理。您可使用本应用以实现屏幕及APP使用时间统计、设备使用时间提醒、专注模式等功能。为实现以上功能，需要收集屏幕使用相关信息，例如设备解锁次数、设备亮屏次数、各应用使用时长。
 "</string>
   <string name="usage_home_premission_second_summary">为提供基本服务，需要联网以收集必要的个人信息。我们将严格遵守相关法律和隐私政策以保护您的个人信息。</string>
-  <string name="usage_state_accurate_date">MMMM dd, yyyy</string>
+  <string name="usage_state_accurate_date">dd MMMM, yyyy</string>
   <string name="usage_state_add_up_count">Sessions</string>
-  <string name="usage_state_add_up_days">Days</string>
+  <string name="usage_state_add_up_days">Jours</string>
   <string name="usage_state_add_up_time">Total time</string>
   <string name="usage_state_addup_time">累计专注总时长</string>
   <string name="usage_state_app">Applications</string>
