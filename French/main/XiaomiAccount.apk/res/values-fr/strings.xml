@@ -455,6 +455,7 @@ Vous pouvez vous connecter à votre compte Mi en utilisant %s maintenant."</stri
   <string name="push_notification_title">Vous êtes connecté à votre compte Mi sur un appareil inconnu</string>
   <string name="push_notification_content">Obtenir le code de vérification</string>
   <string name="push_notify_dialog_title">Vérification du compte</string>
+  <string name="pwd_width_phone_number_or_mail_num">"Le mot de passe ne peut pas contenir votre numéro de téléphone, votre email ou votre identifiant de compte Mi"</string>
   <string name="push_notify_dialog_message">"Un appareil inconnu est utilisé pour se connecter à votre Compte Mi. Saisissez ce code de vérification sur votre appareil. Si ce n'était pas vous, veuillez changer le mot de passe de votre Compte Mi dès maintenant. Ne dévoilez pas le code de vérification à d'autres personnes."</string>
   <string name="account_secure_info_pref_title">Informations du compte</string>
   <string name="account_user_email">E-mail de secours</string>
@@ -462,7 +463,8 @@ Vous pouvez vous connecter à votre compte Mi en utilisant %s maintenant."</stri
   <string name="input_new_pwd">Entrez le nouveau mot de passe</string>
   <string name="confirm_new_pwd">Confirmer le nouveau mot de passe</string>
   <string name="inconsistent_pwd">Les mots de passe ne correspondent pas</string>
-  <string name="same_new_and_old_pwd">Ne peut pas être identique au mot de passe actuel</string>
+  <string name="risky_pwd_not_allow">"Le nouveau mot de passe n'est pas sécurisé. Définir un autre."</string>
+  <string name="same_new_and_old_pwd">"Le nouveau mot de passe doit être différent de l'ancien"</string>
   <string name="account_security_info_pref_title">Informations de sécurité</string>
   <string name="account_bind_settings">Comptes</string>
   <string name="account_bind_devices">Appareils</string>

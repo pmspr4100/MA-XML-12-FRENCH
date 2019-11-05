@@ -159,6 +159,7 @@
   <string name="current_album">"Couverture de l'album actuel"</string>
   <string name="current_lyric">Paroles actuelles</string>
   <string name="current_version">Version actuelle</string>
+  <string name="daily_recommendation">Mix quotidien</string>
   <string name="dark_mode">Mode sombre</string>
   <string name="data_usage_warning">Utilisation des données</string>
   <string name="data_usage_warning_summary">"L'utilisation de votre connexion de données mobile pour écouter de la musique de haute qualité peut augmenter vos frais d'utilisation des données."</string>
@@ -199,9 +200,13 @@
   <string name="dialog_my_playlist_set_to_public">Partager cette playlist sur Mi Musique</string>
   <string name="dialog_queued_body">"Ce fichier est mis en file d'attente pour un téléchargement à venir."</string>
   <string name="dialog_renew_failure">"Désolé, l'action a échoué"</string>
-  <string name="dialog_renew_free_end">Votre essai gratuit est terminé. Abonnez-vous à Hungama PRO?</string>
+  <string name="dialog_renew_free_end">Votre essai gratuit est terminé. Abonnez-vous à Hungama PRO ?</string>
   <string name="dialog_renew_positive_text">OUAIS, JE VEUX PROFITER COMME UN PRO</string>
   <string name="dialog_renew_success">Merci pour votre confirmation</string>
+  <string name="dialog_score_btn_good">Taux</string>
+  <string name="dialog_score_prompt_bad">"Merci pour vos commentaires ! Nous ferons de notre mieux pour améliorer notre application et nos services."</string>
+  <string name="dialog_score_prompt_good">Merci pour votre aide ! Évaluez notre application dans Google Play également ?</string>
+  <string name="dialog_score_title">Évaluez notre application</string>
   <string name="dialog_song_sort_type">Trier les chansons</string>
   <string name="dialog_song_sort_type_name">Par nom</string>
   <string name="dialog_song_sort_type_playing_times">Par le nombre de lectures</string>
@@ -219,6 +224,7 @@
   <string name="dialog_title_remove_tracks">Retirer</string>
   <string name="disallow_add_to_fm">"Impossible d'ajouter des chansons à la radio FM"</string>
   <string name="do_not_remind_this_version">Ne pas me rappeler cette version</string>
+  <string name="do_not_support_google_voice_search">"Google Voice Search n'est pas pris en charge sur votre appareil.."</string>
   <string name="download">Télécharger</string>
   <string name="download_added_to_list">"Ajouté à la file d'attente des téléchargements"</string>
   <string name="download_apk_desktop_installing">Installation</string>
@@ -404,13 +410,15 @@
   <string name="home_tab_yandex">Yandex Musique</string>
   <string name="hot_icon_in_fast_indexer">H</string>
   <string name="hungama_batch_download_alert_summary">Seuls les membres PRO peuvent télécharger plusieurs chansons. Obtenez dès maintenant un abonnement PRO ?</string>
-  <string name="hungama_category_chart">Hit-parade</string>
+  <string name="hungama_batch_download_alert_summary_toast">Obtenez un abonnement pour télécharger la playliste complète.</string>
+  <string name="hungama_category_chart">Graphiques</string>
   <string name="hungama_category_playlist">Playlistes</string>
   <string name="hungama_category_radio">Radio</string>
   <string name="hungama_category_video">Vidéos</string>
   <string name="hungama_category_vip">Vip</string>
   <string name="hungama_free_download_out_summary">Vous ne pouvez pas télécharger plus de chansons gratuites. Obtenez un abonnement PRO pour télécharger des chansons illimitées ?</string>
-  <string name="hungama_playlist_category">Catégorie de playlist</string>
+  <string name="hungama_free_download_out_summary_toast">"Vous avez déjà téléchargé %d chansons. Obtenez un abonnement pour télécharger plus."</string>
+  <string name="hungama_playlist_category">Catégorie de playliste</string>
   <string name="hungama_privacy_desc">Politique de confidentialité de Hungama (facultatif)</string>
   <string name="hungama_privacy_tips_content">Pour avoir accès au contenu en ligne, vous devez accepter &lt;a href="/link/click"&gt;Politique de confidentialité de Hungama&lt;/a&gt;.</string>
   <string name="hungama_privacy_tips_title">Politique de confidentialité de Hungama</string>
@@ -505,6 +513,7 @@
   <string name="more_settings">Paramètres avancés</string>
   <string name="more_settings_summary">Minuteur de sommeil, filtrage de fichiers et plus</string>
   <string name="more_share">Partager</string>
+  <string name="more_splendid_contents">Plus</string>
   <string name="mtrl_chip_close_icon_content_description">Effacer %1$s</string>
   <string name="mulit_choice_management">Gérer plusieurs éléments</string>
   <string name="music_browser_label">Musique</string>
@@ -776,6 +785,7 @@ Be Happy"</string>
   <string name="tab_album_list">Albums</string>
   <string name="tab_artist">Artistes</string>
   <string name="tab_artist_list">Artistes</string>
+  <string name="tab_chart">Graphiques</string>
   <string name="tab_folder">Dossiers</string>
   <string name="tab_playlist">Playlistes</string>
   <string name="tab_track">Chansons</string>
@@ -864,4 +874,5 @@ Taille de la mise à jour Delta: %2$s"</string>
   <string name="xiaomi_update_sdk_kilobytes_unit">%1$s Ko</string>
   <string name="xiaomi_update_sdk_megabytes_unit">%1$s Mo</string>
   <string name="you_can_switch_mode_in_settings">Vous pouvez basculer entre les modes dans les paramètres</string>
+  <string name="you_may_like">Tu pourrais aussi aimer</string>
 </resources>

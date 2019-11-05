@@ -1,26 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="app_usage_day">
-        <item quantity="other">"Haven't used for %d days"</item>
-        <item quantity="one">"Haven't used for %d day"</item>
+        <item quantity="other">"Je n'ai pas utilisé pendant %d jours"</item>
+        <item quantity="one">"Je n'ai pas utilisé depuis %d jour"</item>
     </plurals>
     <plurals name="app_usage_month">
-        <item quantity="other">"Haven't used for %d months"</item>
-        <item quantity="one">"Haven't used for %d month"</item>
+        <item quantity="other">"Je n'ai pas utilisé pendant %d mois"</item>
+        <item quantity="one">"Je n'ai pas utilisé depuis %d mois"</item>
     </plurals>
     <plurals name="app_usage_year">
-        <item quantity="other">"Haven't used for %d years"</item>
-        <item quantity="one">"Haven't used for %d year"</item>
+        <item quantity="other">"Je n'ai pas utilisé depuis %d ans"</item>
+        <item quantity="one">"Je n'ai pas utilisé depuis %d ans"</item>
     </plurals>
     <plurals name="clean_long_msg_p1">
-        <item quantity="other">"Cleaning %1$d files (%2$d%%)
+        <item quantity="other">"Nettoyage de %1$d fichiers (%2$d%%)
 "</item>
-        <item quantity="one">"Cleaning %1$d file (%2$d%%)
+        <item quantity="one">"Nettoyage de %1$d fichier (%2$d%%)
 "</item>
     </plurals>
     <plurals name="clean_long_msg_p2">
         <item quantity="other">%1$d éléments par secondes | Temps restant: %2$s</item>
         <item quantity="one">%1$d élément par seconde | Temps restant: %2$s</item>
+    </plurals>
+    <plurals name="dc_group_title_normal">
+        <item quantity="other">Take %1$d steps to free up %2$s</item>
+        <item quantity="one">Take %1$d step to free up %2$s</item>
+    </plurals>
+    <plurals name="dc_item_summary_apk">
+        <item quantity="other">"&lt;Data>Vous pouvez supprimer &lt;font color=#0097FF>%d&lt;/font> paquets d'installation&lt;/Data>"</item>
+        <item quantity="one">"&lt;Data>Vous pouvez supprimer &lt;font color=#0097FF>%d&lt;/font> paquets d'installation&lt;/Data>"</item>
+    </plurals>
+    <plurals name="dc_item_summary_app_data">
+        <item quantity="other">&lt;Data>Vous pouvez effacer les données pour &lt;font color=#0097FF>%d&lt;/font> applications&lt;/Data></item>
+        <item quantity="one">&lt;Data>Vous pouvez effacer les données pour &lt;font color=#0097FF>%d&lt;/font> application&lt;/Data></item>
+    </plurals>
+    <plurals name="dc_item_summary_image">
+        <item quantity="other">&lt;Data>Vous pouvez supprimer &lt;font color=#0097FF>%d&lt;/font> photos inutiles&lt;/Data></item>
+        <item quantity="one">&lt;Data>Vous pouvez supprimer &lt;font color=#0097FF>%d&lt;/font> photo inutile&lt;/Data></item>
+    </plurals>
+    <plurals name="dc_item_summary_large_file">
+        <item quantity="other">&lt;Data>Vous pouvez supprimer &lt;font color=#0097FF>%d&lt;/font> gros fichiers&lt;/Data></item>
+        <item quantity="one">&lt;Data>Vous pouvez supprimer &lt;font color=#0097FF>%d&lt;/font> gros fichier&lt;/Data></item>
+    </plurals>
+    <plurals name="dc_item_summary_uninstall_app">
+        <item quantity="other">&lt;Data>Vous pouvez désinstaller &lt;font color=#0097FF>%d&lt;/font> applications rarement utilisées&lt;/Data></item>
+        <item quantity="one">&lt;Data>Vous pouvez désinstaller &lt;font color=#0097FF>%d&lt;/font> application rarement utilisée&lt;/Data></item>
+    </plurals>
+    <plurals name="dc_item_summary_video">
+        <item quantity="other">&lt;Data>Vous pouvez supprimer &lt;font color=#0097FF>%d&lt;/font> vidéos&lt;/Data></item>
+        <item quantity="one">&lt;Data>Vous pouvez supprimer &lt;font color=#0097FF>%d&lt;/font> vidéo&lt;/Data></item>
     </plurals>
     <plurals name="days_ago">
         <item quantity="other">il y a %1$d jours</item>

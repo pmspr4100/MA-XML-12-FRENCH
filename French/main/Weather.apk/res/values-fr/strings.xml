@@ -3,6 +3,11 @@
   <string name="about_weather_setting">À propos de la météo</string>
   <string name="about_weather_setting_feedback">"Retour d'information"</string>
   <string name="abrupt_weather_settings_summary_type">"Recevez des alertes sur les précipitations attendues, les changements de la qualité de l'air et d'autres changements importants"</string>
+  <string name="abrupt_weather_settings_summary_type_a">Unusual Weather Warning Switch</string>
+  <string name="abrupt_weather_settings_summary_type_b">Unusual Weather Warning Switch</string>
+  <string name="abrupt_weather_settings_title">Unusual Weather Warning</string>
+  <string name="accessibility_ad_close">关闭推荐内容</string>
+  <string name="accessibility_webview_share">分享</string>
   <string name="act_find_city_hint">Saisir la ville</string>
   <string name="act_find_city_hot_attractions_title">Sites populaires</string>
   <string name="act_find_city_hot_city_title">Villes populaires</string>
@@ -122,7 +127,8 @@ Faites glisser vers le bas pour actualiser ou vérifier les paramètres réseau"
   <string name="hourly_forecast_date">dd/MM</string>
   <string name="hourly_forecast_title_24_hours_desc">Prévisions sur 24 heures</string>
   <string name="hourly_forecast_title_hourly_desc">Prévision par heure</string>
-  <string name="index_item_downloading">Téléchargement en cours</string>
+  <string name="index_item_download_pause">Continuer à télécharger</string>
+  <string name="index_item_downloading">Téléchargement</string>
   <string name="index_item_experience_now">Installer maintenant</string>
   <string name="index_item_install_now">Installer maintenant</string>
   <string name="index_item_installing">Installation</string>
@@ -256,6 +262,8 @@ Appuyer sur l'écran pour ajouter manuellement ou repositionner une ville"</stri
   <string name="warning_weather_day_and_night_settings_title">Résumés quotidiens</string>
   <string name="weather_alert_channel_name">Alertes</string>
   <string name="weather_introduce">Toujours avec toi, quil pleuve ou quil vente.</string>
+  <string name="weather_list_info">相关资讯</string>
+  <string name="weather_list_title">天气头条</string>
   <string name="weather_permission_agree">Accepter</string>
   <string name="weather_service_channel_name">Services darrière-plan</string>
   <string name="wind_direction_no_data">Vent</string>

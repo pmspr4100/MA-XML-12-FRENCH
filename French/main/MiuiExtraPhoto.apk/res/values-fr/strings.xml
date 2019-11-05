@@ -2,8 +2,17 @@
 <resources>
   <string name="extra_photo_common_permission_name">Bokeh</string>
   <string name="extra_photo_common_saving">Sauvegarde…</string>
-  <string name="motion_photo_re_pick_title">Sélectionnez la meilleure photo</string>
+  <string name="motion_photo_cancel">Annuler</string>
+  <string name="motion_photo_re_pick_title">Live photo</string>
+  <string name="motion_photo_save_fail">"Impossible de sauver"</string>
+  <string name="motion_photo_save_gif">Enregistrer au format GIF</string>
+  <string name="motion_photo_save_gif_ing">Enregistrement GIF…</string>
+  <string name="motion_photo_save_image">Enregistrer la meilleure image</string>
+  <string name="motion_photo_save_image_ing">Enregistrer la meilleure image…</string>
+  <string name="motion_photo_save_video">Enregistrer en vidéo</string>
+  <string name="motion_photo_save_video_ing">Enregistrer une vidéo…</string>
   <string name="motion_photo_toast_default">Défaut</string>
+  <string name="motion_photo_toast_long_press_play">Press and hold the photo to play</string>
   <string name="motion_photo_toast_suggest">Recommandé</string>
   <string name="refocus_discard_confirm_message">Sauvegarder les modifications ?</string>
   <string name="refocus_discard_negative_btn">Abandonner</string>

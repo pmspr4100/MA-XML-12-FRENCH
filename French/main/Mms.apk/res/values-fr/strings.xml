@@ -157,7 +157,7 @@
   <string name="copy_to_sdcard">Enregistrer la pièce jointe</string>
   <string name="copy_to_sdcard_fail">"Impossible d'enregistrer la pièce jointe"</string>
   <string name="copy_to_sdcard_success">Pièce jointe enregistrée sous %s</string>
-  <string name="current_data_version">Version de Message Mi</string>
+  <string name="current_data_version">Version de Mi Message</string>
   <string name="delete">Supprimer</string>
   <string name="delete_block_conversation">Supprimer cette conversation</string>
   <string name="delete_bookmark">Retirer des favoris</string>
@@ -348,22 +348,24 @@
   <string name="millionbyte">Mo</string>
   <string name="mms">MMS</string>
   <string name="mms_block_alert_message">All MMS except the messages sent from authorized senders will be blocked. Authorized senders include network carriers, national railway booking systems, etc.</string>
-  <string name="mms_block_alert_ok">Block</string>
-  <string name="mms_block_alert_title">Block MMS</string>
-  <string name="mms_block_hint">"This sender isn't in your contacts.
-This message might be unsolicited."</string>
-  <string name="mms_block_hint_highlight">Block MMS</string>
+  <string name="mms_block_alert_ok">Bloquer</string>
+  <string name="mms_block_alert_title">Bloquer MMS</string>
+  <string name="mms_block_hint">"Cet expéditeur n'est pas dans vos contacts.
+Ce message peut être non sollicité."</string>
+  <string name="mms_block_hint_highlight">Bloquer MMS</string>
+  <string name="mms_main_purpose">"Pour accéder à toutes les fonctionnalités de la messagerie, activez Mi Message et Smart Messaging."</string>
+  <string name="mms_title">Messagerie</string>
   <string name="more">Plus</string>
   <string name="move_down">Déplacer vers le bas</string>
   <string name="move_up">Déplacer vers le haut</string>
   <string name="msg_no_member_selected">Sélectionner au moins un contact</string>
   <string name="msg_type_hint_mms">Message multimédia (MMS)</string>
   <string name="msg_type_hint_mms_omit">MMS</string>
-  <string name="msg_type_hint_mx">Messages Mi</string>
-  <string name="msg_type_hint_mx_omit">Mess Mi</string>
+  <string name="msg_type_hint_mx">Mi Messages</string>
+  <string name="msg_type_hint_mx_omit">Mi Messages</string>
   <string name="msg_type_hint_sms">Message texte</string>
   <string name="msg_type_hint_sms_omit">SMS</string>
-  <string name="msg_type_sms_rcs">Messages SMS, MMS et Internet</string>
+  <string name="msg_type_sms_rcs">Messages SMS, MMS et internet</string>
   <string name="msglist_continue_to_pull_for_more">Tirer vers le bas pour voir plus</string>
   <string name="msglist_more_refreshing">Actualisation…</string>
   <string name="msglist_no_more_to_refresh">Déjà à jour</string>
@@ -411,12 +413,15 @@ This message might be unsolicited."</string>
   <string name="mx_filter_message_from_stranger_dialog_desc">"Vous pourrez toujours recevoir les SMS réguliers venant de numéros inconnus. Vous pouvez activer ou désactiver cette fonctionnalité à n'importe quel moment dans Messages > Paramètres."</string>
   <string name="mx_filter_message_from_stranger_dialog_title">Bloquez les Mi Messages venant de numéros inconnus</string>
   <string name="mx_filter_message_from_stranger_summary">Vous pourrez toujours recevoir des SMS réguliers venant de numéros inconnus</string>
-  <string name="mx_message">Message Mi</string>
-  <string name="mx_msg">Messages Mi</string>
-  <string name="mx_msg_pageview_setting_title">Paramètres Message Mi</string>
+  <string name="mx_main_purpose">"Mi Message vous permet d'envoyer des messages à d’autres utilisateurs de Mi Message sur internet, sans frais.
+Un message SMS sortant est requis pour activer le Mi Message. Votre opérateur vous facturera ce message."</string>
+  <string name="mx_main_purpose_short">"Mi Message permet aux utilisateurs de MIUI d'envoyer et de recevoir des SMS et MMS gratuits."</string>
+  <string name="mx_message">Mi Message</string>
+  <string name="mx_msg">Mi Messages</string>
+  <string name="mx_msg_pageview_setting_title">Paramètres Mi Message</string>
   <string name="mx_offline">Hors ligne</string>
-  <string name="mx_on_sim_1">Message Mi SIM slot 1</string>
-  <string name="mx_on_sim_2">Message Mi SIM slot 2</string>
+  <string name="mx_on_sim_1">Mi Message SIM slot 1</string>
+  <string name="mx_on_sim_2">Mi Message SIM slot 2</string>
   <string name="mx_online">Activée</string>
   <string name="mx_reactivate">Réactiver la messagerie Mi</string>
   <string name="mx_recommend_msg">Appuyer pour activer Messages Mi</string>
@@ -813,7 +818,7 @@ This message might be unsolicited."</string>
   <string name="storage_limits_message">Souhaitez-vous limiter le nombre de messages enregistrés par fil ?</string>
   <string name="storage_limits_setting">Définir les limites</string>
   <string name="storage_limits_setting_dismiss">Aucune limite</string>
-  <string name="storage_unavailable">"Pas assez d' espace libre"</string>
+  <string name="storage_unavailable">"Pas assez d'espace libre"</string>
   <string name="sub_sim_card">Sub</string>
   <string name="sub_sim_card_indicator">Sub %d</string>
   <string name="sub_sim_not_support_mms">"Impossible d'envoyer des MMS avec une carte SIM secondaire"</string>
@@ -824,11 +829,18 @@ This message might be unsolicited."</string>
   <string name="summary_pref_cm_smart_sms">Modèles de cartes, numéros de service SMS, et plus.</string>
   <string name="switch_to_editor">Mode éditeur</string>
   <string name="switch_to_menu">Mode menu</string>
+  <string name="system_permission_declare_agree">Accepter</string>
+  <string name="system_permission_declare_disagree">Annuler</string>
+  <string name="system_permission_declare_double_link" formatted="false">"Lisez et acceptez notre %1s et %2s avant d'utiliser cette fonctionnalité."</string>
+  <string name="system_permission_declare_main_purpose" formatted="false">Bienvenue à %1s ! %2s</string>
+  <string name="system_permission_declare_no_say_no">"Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité en vigueur.
+Si vous n'acceptez pas d'accorder de telles autorisations ou de partager et télécharger vos informations personnelles, vous ne pourrez pas utiliser cette application."</string>
+  <string name="system_permission_declare_privacy_declare">%1s doit collecter vos données et nécessite les autorisations suivantes pour fonctionner normalement:</string>
   <string name="text_in_popup_saved_to_clipboard">Copié dans le presse-papiers</string>
   <string name="text_message">SMS</string>
   <string name="timed_message_expired_title_2">Les envoyer maintenant ?</string>
   <string name="timed_message_to">à</string>
-  <string name="title_activity_rcs_login">Sign in</string>
+  <string name="title_activity_rcs_login">Se connecter</string>
   <string name="title_activity_rcs_maps">Location</string>
   <string name="title_allow_network_access">Mettre à jour automatiquement les informations</string>
   <string name="title_collapse_sp_messages">Regrouper les notifications</string>
