@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="app_usage_day">
-        <item quantity="other">"Je n'ai pas utilisé pendant %d jours"</item>
-        <item quantity="one">"Je n'ai pas utilisé depuis %d jour"</item>
+        <item quantity="other">"Non utilisé depuis %d jours"</item>
+        <item quantity="one">"Non utilisé depuis %d jour"</item>
     </plurals>
     <plurals name="app_usage_month">
-        <item quantity="other">"Je n'ai pas utilisé pendant %d mois"</item>
-        <item quantity="one">"Je n'ai pas utilisé depuis %d mois"</item>
+        <item quantity="other">"Non utilisé depuis %d mois"</item>
+        <item quantity="one">"Non utilisé depuis %d mois"</item>
     </plurals>
     <plurals name="app_usage_year">
-        <item quantity="other">"Je n'ai pas utilisé depuis %d ans"</item>
-        <item quantity="one">"Je n'ai pas utilisé depuis %d ans"</item>
+        <item quantity="other">"Non utilisé depuis %d ans"</item>
+        <item quantity="one">"Non utilisé depuis %d ans"</item>
     </plurals>
     <plurals name="clean_long_msg_p1">
         <item quantity="other">"Nettoyage de %1$d fichiers (%2$d%%)
