@@ -28,6 +28,10 @@
   <string name="ad_pop_des">Application de téléchargement:</string>
   <string name="add_cw_fail_tip">"Impossible d'ajouter un fond d'écran"</string>
   <string name="add_cw_success_tip">"Ajout du fond d'écran avec succès"</string>
+  <string name="add_first_cw_toast1">Added successfully. Turned on Wallpaper Carousel and started the slideshow.</string>
+  <string name="add_first_cw_toast2">Added some items successfully. Turned on Wallpaper Carousel and started the slideshow.</string>
+  <string name="add_first_cw_toast3">Added wallpapers successfully. Turned on Wallpaper Carousel and started the slideshow.</string>
+  <string name="add_first_cw_toast4">Turned on Wallpaper Carousel and started the slideshow</string>
   <string name="add_launch_hint_text">"Ajouter un raccourci vers l'écran d'accueil"</string>
   <string name="add_to_cw">Ajouter au diaporama</string>
   <string name="add_to_trust_device">Ceci est un appareil de confiance</string>
@@ -147,9 +151,18 @@
   <string name="detail_toast_deny_favor">"Can't add to favorites."</string>
   <string name="detail_toast_dislike_fail">"Couldn't delete"</string>
   <string name="detail_toast_favor_permission">Allow Wallpaper Carousel to access storage in Security.</string>
+  <string name="disable_dlg_cancel">Cancel</string>
+  <string name="disable_dlg_content">"You won't be able to have fresh images delivered to your Home screen and Lock screen if you turn off Wallpaper Carousel. Turn off anyway?"</string>
+  <string name="disable_dlg_ok">Turn off</string>
+  <string name="disable_dlg_title">Turn off Wallpaper Carousel?</string>
   <string name="dislike">Delete</string>
   <string name="dlg_cancel">Cancel</string>
   <string name="double_click_to_exit_activity">Tap again to exit</string>
+  <string name="edit_wallpaper">Manage wallpapers</string>
+  <string name="enable_toast_ar">Switched to recommendations</string>
+  <string name="enable_toast_cw">Switched to slideshow</string>
+  <string name="enable_toast_cwo">Turned on Wallpaper Carousel and started the slideshow</string>
+  <string name="enable_toast_subscribe">Turned on Wallpaper Carousel and activated subscriptions.</string>
   <string name="explorer_activity_title">Wallpaper Carousel</string>
   <string name="facebook_login_protocol_scheme">com.xiaomi.passport.ui</string>
   <string name="favor_list_no_data">Aucun article ici.</string>
@@ -201,6 +214,7 @@
   <string name="llks_tools_smart_devices_name">Mi Home</string>
   <string name="load_hdpicture_complete">"Image d'origine chargée avec succès"</string>
   <string name="loading">Chargement…</string>
+  <string name="local_default_category">本地预置分类</string>
   <string name="lock_screen_date">EEEE dd MMMM</string>
   <string name="lock_screen_date_12">EEEE dd MMMM</string>
   <string name="lockscreen_h5_back_tv">Retour</string>
@@ -216,6 +230,12 @@
   <string name="main_fragment_title_search">Top</string>
   <string name="main_fragment_title_user">Paramètres</string>
   <string name="minutes_15">Toutes les 15 minutes</string>
+  <string name="mode_auto_desc">Turn on Wallpaper Carousel to receive new images automatically</string>
+  <string name="mode_auto_desc_open">Receive new images automatically</string>
+  <string name="mode_auto_desc_selected">Receiving new images automatically</string>
+  <string name="mode_cw_desc">Turn on Wallpaper Carousel to customize your slideshow</string>
+  <string name="mode_cw_desc_open">Add your images to the slideshow</string>
+  <string name="mode_cw_desc_selected">Using your images in the slideshow</string>
   <string name="mode_des">Wallpaper Carousel is showing recommendations now. Switch to the slideshow to be able to view your custom items.</string>
   <string name="mode_ok">Switch to slideshow</string>
   <string name="mode_title">Showing recommendations</string>
@@ -279,6 +299,7 @@
   <string name="platform_unavailable_weibo">Installer Weibo</string>
   <string name="psw_hint">Mot de passe</string>
   <string name="psw_sign_in">Se connecter avec un mot de passe</string>
+  <string name="pull_to_refresh_loading_label">Just a sec…</string>
   <string name="pull_to_refresh_pull_down_label">Pull down to refresh</string>
   <string name="pull_to_refresh_pull_up_label">Pull up to refresh</string>
   <string name="pull_to_refresh_refreshing_label">Refreshing…</string>
@@ -298,6 +319,9 @@
   <string name="search">Rechercher</string>
   <string name="search_menu_title">Rechercher</string>
   <string name="search_str">Populaire maintenant</string>
+  <string name="see_all">View all</string>
+  <string name="see_more">View more</string>
+  <string name="see_more_content">View more</string>
   <string name="select_package">Sélectionnez la version</string>
   <string name="setting_about_item_des">Version</string>
   <string name="setting_about_item_title">A propos</string>
@@ -312,6 +336,7 @@
   <string name="shortcut_created">Created shortcut successfully</string>
   <string name="shortcut_exist">Shortcut already exists</string>
   <string name="shortcut_failed">"Couldn't create shortcut"</string>
+  <string name="show_wallpaper_loop_entry_title">Home screen slideshow</string>
   <string name="sign_in_title">Se connecter avec votre compte Mi</string>
   <string name="sliding_on_unlock">Swipe up to unlock</string>
   <string name="sns_sign_in">Autre méthode de connexion</string>
@@ -342,6 +367,8 @@
   <string name="sst_morning_greeting_desc">Obtenez une image fraîche chaque matin</string>
   <string name="sst_morning_greeting_disable_toast">This feature will be available soon</string>
   <string name="sst_morning_greeting_title">Recevoir les salutations du matin</string>
+  <string name="sst_morning_history_desc">View previous morning greetings</string>
+  <string name="sst_morning_history_title">Morning greetings history</string>
   <string name="sst_new_feature">Nouvelles fonctionnalités</string>
   <string name="sst_no_favor_wallpaper_hint">No favorite wallpapers</string>
   <string name="sst_privacy_policy_title">Privacy Policy</string>
@@ -359,16 +386,20 @@
   <string name="sst_subscribe_title">Subscriptions</string>
   <string name="sst_subscrible_manager_title_bar_text">Manage subscriptions</string>
   <string name="sst_subscripted">Subscribed</string>
+  <string name="sst_subscripted2">Available categories</string>
   <string name="sst_switch_wallpaper_order_desc">Select the order with which wallpapers are updated</string>
   <string name="sst_switch_wallpaper_order_fixed">Sequence</string>
   <string name="sst_switch_wallpaper_order_random">Random</string>
   <string name="sst_switch_wallpaper_order_title">Update order</string>
   <string name="sst_wallpaper_define_desc">Gérer</string>
   <string name="sst_wallpaper_define_title">Mon diaporama</string>
+  <string name="sst_wallpaper_define_title2">Add images</string>
   <string name="sst_wallpaper_history_des">Afficher les recommandations récentes</string>
   <string name="sst_wallpaper_history_title">Historique</string>
   <string name="sst_wifi_only_desc">Turn off to update wallpapers over Wi-Fi only</string>
   <string name="sst_wifi_only_title">Update wallpapers using mobile data</string>
+  <string name="status_wallpaper_loop_not_start">Off</string>
+  <string name="status_wallpaper_loop_start">On</string>
   <string name="subscribe_apply_wp">Applied Lock screen wallpaper successfully</string>
   <string name="subscribe_dlg_content">Subscribe to get fresh wallpapers delivered to your Lock screen daily and receive morning greetings.</string>
   <string name="subscribe_item_checked">Subscribed</string>
@@ -376,6 +407,9 @@
   <string name="summary">"Agree to our &lt;a href='%s'&gt;Privacy Policy&lt;/a&gt; to view online content. If you disagree, local wallpapers will still be available."</string>
   <string name="summary2">"By using this feature, you're agreeing to our &lt;a href ='%1$s'&gt;User Agreement&lt;/a&gt; and &lt;a href='%2$s'&gt;Privacy Policy&lt;/a&gt;. This feature needs to connect to the internet to work normally.​"</string>
   <string name="summary_international">"By using this feature, you're agreeing to our &lt;a href ='%1$s'&gt;User Agreement&lt;/a&gt; and &lt;a href='%2$s'&gt;Privacy Policy&lt;/a&gt;. This feature needs to connect to the internet to work normally.​"</string>
+  <string name="sure_close_gallery">Turn off Wallpaper Carousel?</string>
+  <string name="sure_close_gallery_des">"You won't be able to have fresh images delivered to your Home screen and Lock screen if you turn off Wallpaper Carousel. Turn off anyway?"</string>
+  <string name="system_default">系统默认</string>
   <string name="tab_user_title_bar_text">Paramètres</string>
   <string name="theme_apply_lockscreen_success">Appliqué avec succès</string>
   <string name="theme_apply_failured">"Impossible d'appliquer, réessayez plus tard"</string>
@@ -395,6 +429,8 @@
   <string name="time_current">Juste maintenant</string>
   <string name="toast_ad_down_tip">Téléchargement app…</string>
   <string name="toast_ad_down_tip2">Téléchargement %s…</string>
+  <string name="toast_connect_failed_tip">"Couldn't connect. Wait a minute or teo and try again."</string>
+  <string name="toast_load_failed_tip">"Couldn't load items"</string>
   <string name="toast_load_hd_fail">"Couldn't load original image"</string>
   <string name="toast_neterror_tip">A network error occurred</string>
   <string name="toast_update_no_more_newest_feeds">No new items for now</string>
@@ -411,4 +447,6 @@
   <string name="wallpaper_relations_title">Recommandé</string>
   <string name="wlan_download">Mise à jour via Wi-Fi uniquement</string>
   <string name="wlan_download_cn">Mise à jour via Wi-Fi uniquement</string>
+  <string name="wp_desktop_enable_title">Home screen slideshow</string>
+  <string name="wp_lockscreen_enable_title">Lock screen slideshow</string>
 </resources>

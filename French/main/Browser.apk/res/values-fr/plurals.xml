@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="hot_word_hot_count">
+        <item quantity="other">%d vues</item>
+        <item quantity="one">%d vue</item>
+    </plurals>
+    <plurals name="info_flow_tips">
+        <item quantity="other">%d nouveaux articles pour vous</item>
+        <item quantity="one">%d nouvel article pour vous</item>
+    </plurals>
     <plurals name="adblock_rules_number_text">
         <item quantity="other">%d éléments bloqués</item>
         <item quantity="one">%d élément bloqué</item>
@@ -46,5 +54,37 @@
     <plurals name="video_subtitle_last_message">
         <item quantity="other">%d minutes restantes</item>
         <item quantity="one">%d minute restante</item>
+    </plurals>
+    <plurals name="vo_comment">
+        <item quantity="other">%s commentaires</item>
+        <item quantity="one">%s commentaire</item>
+    </plurals>
+    <plurals name="vo_image_mark">
+        <item quantity="other">%d images</item>
+        <item quantity="one">%d image</item>
+    </plurals>
+    <plurals name="vo_short_video_play_count">
+        <item quantity="other">%s views</item>
+        <item quantity="one">%s view</item>
+    </plurals>
+    <plurals name="vo_source_comment">
+        <item quantity="other">%1$s | %2$s commentaires</item>
+        <item quantity="one">%1$s | %2$s commentaire</item>
+    </plurals>
+    <plurals name="vo_vote_num">
+        <item quantity="other">%d personnes ont déjà voté</item>
+        <item quantity="one">%d personne a déjà voté</item>
+    </plurals>
+    <plurals name="vo_wei_bo_publish_time_hour">
+        <item quantity="other">· il y  a %s hrs</item>
+        <item quantity="one">· il y a %s hr</item>
+    </plurals>
+    <plurals name="vo_wei_bo_publish_time_minute">
+        <item quantity="other">· il y a %s mins</item>
+        <item quantity="one">· il y a %s min</item>
+    </plurals>
+    <plurals name="vo_zhi_hu_answer">
+        <item quantity="other">%d réponses sur Zhihu</item>
+        <item quantity="one">%d réponse sur Zhihu</item>
     </plurals>
 </resources>
