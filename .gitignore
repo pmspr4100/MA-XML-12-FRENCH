@@ -4,6 +4,7 @@
 ehthumbs.db
 Icon?
 Thumbs.db
+*.tmp
 
 # Compiled source #
 ###################
@@ -12,8 +13,7 @@ Thumbs.db
 *.dll
 *.exe
 *.o
-*.tmp
-*.bak
+*.so
 *.xml~
 
 # Packages #
@@ -26,11 +26,10 @@ Thumbs.db
 *.iso
 *.rar
 *.tar
+*.zip
 
 # Logs and databases #
 ######################
 *.log
 *.sql
 *.sqlite
-
-unknown/
