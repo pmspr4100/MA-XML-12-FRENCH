@@ -59,14 +59,16 @@
   <string name="accessibility_setting">Paramètres</string>
   <string name="accessibility_shutter_button">Bouton de déclenchement</string>
   <string name="accessibility_stereo_button">Focus adjustment</string>
+  <string name="accessibility_ultra_pixel_photography_off">%s Ultra HD désactivé</string>
+  <string name="accessibility_ultra_pixel_photography_on">%s Ultra HD activé</string>
+  <string name="accessibility_ultra_wide_off">Mode ultra grand angle désactivé</string>
+  <string name="accessibility_ultra_wide_on">Mode ultra grand angle activé</string>
   <string name="accessibility_ultra_pixel_photography_32mp_off">32MP désactivé</string>
   <string name="accessibility_ultra_pixel_photography_32mp_on">32MP activé</string>
   <string name="accessibility_ultra_pixel_photography_48mp_off">48MP désactivé</string>
   <string name="accessibility_ultra_pixel_photography_48mp_on">48MP activé</string>
   <string name="accessibility_ultra_pixel_photography_64mp_off">64MP déactivé</string>
   <string name="accessibility_ultra_pixel_photography_64mp_on">64MP activé</string>
-  <string name="accessibility_ultra_wide_off">Mode ultra grand angle désactivé</string>
-  <string name="accessibility_ultra_wide_on">Mode ultra grand angle activé</string>
   <string name="accessibility_video_btn_play">Lecture vidéo</string>
   <string name="accessibility_video_capture_button">Bouton pour prendre des photos tout en prenant des vidéos</string>
   <string name="accessibility_video_pause_button">Enregistrement vidéo en pause</string>
@@ -667,7 +669,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_camera_video_tag">视频标记</string>
   <string name="pref_camera_video_tag_description">录像中点击“标记”，回放时可查看标记位置</string>
   <string name="pref_camera_volumekey_function_entry_shutter">Déclencheur</string>
-  <string name="pref_camera_volumekey_function_entry_timer">Comte à rebours</string>
+  <string name="pref_camera_volumekey_function_entry_timer">Compte à rebours</string>
   <string name="pref_camera_volumekey_function_entry_volume">Volume</string>
   <string name="pref_camera_volumekey_function_entry_zoom">Zoom</string>
   <string name="pref_camera_volumekey_function_title">Fonction des boutons de volume</string>
