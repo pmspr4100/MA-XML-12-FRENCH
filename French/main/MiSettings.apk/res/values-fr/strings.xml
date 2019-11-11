@@ -42,10 +42,10 @@
   <string name="sim_slot_2">" (SIM 2)"</string>
   <string name="sms_delivered_sound_title">Message livré</string>
   <string name="sms_received_sound_title">Nouveau message</string>
-  <string name="stop_app_timer">停用屏幕时间管理</string>
-  <string name="stop_app_timer_fail">停用屏幕时间管理失败</string>
-  <string name="stop_app_timer_success">已停用屏幕时间管理</string>
-  <string name="stop_app_timer_tip">停用后将清除屏幕时间管理相关数据及调用的权限，包括设置项、本地及云端数据等​</string>
+  <string name="stop_app_timer">"Désactiver le temps d'écran"</string>
+  <string name="stop_app_timer_fail">"Le temps d'écran n'a pas pu être désactivé"</string>
+  <string name="stop_app_timer_success">"Le temps d'écran a été désactivé"</string>
+  <string name="stop_app_timer_tip">"Les données et les autorisations liées au temps d'écran seront effacées après la désactivation, y compris les paramètres, les données locales et dans le cloud, etc."</string>
   <string name="thememanager_not_found">"Impossible d'ouvrir les thèmes. Assurez-vous que cette application est installée sur votre appareil."</string>
   <string name="usage_app_get_it">"C'est compris"</string>
   <string name="usage_app_limit_alter_summary">"On dirait que ce délai est plus court que le temps que vous avez utilisé cette application aujourd'hui. Fixer la limite quand même ?"</string>

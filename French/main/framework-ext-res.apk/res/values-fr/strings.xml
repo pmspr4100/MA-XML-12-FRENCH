@@ -30,11 +30,12 @@
   <string name="select_all">Tout sélectionner</string>
   <string name="send_files_to">Envoyer le fichier à</string>
   <string name="cut">Couper</string>
-  <string name="default_device_name">未知设备</string>
+  <string name="data_usage_context">If WLAN is not turned on, your device will connect to a mobile network, which may result in additional charges depending on your payment plan.Thank you!</string>
+  <string name="default_device_name">Appareil inconnu</string>
   <string name="copy">Copier</string>
   <string name="customer_location_judgment">Chine</string>
   <string name="paste">Coller</string>
-  <string name="pc_device_model_name">笔记本</string>
+  <string name="pc_device_model_name">Ordinateur</string>
   <string name="replace">Remplacer</string>
   <string name="frequent_phrases">Phrases fréquentes</string>
   <string name="functions_are_being_developed">"Les fonctionnalités sont en cours de développement, alors restez à l'écoute"</string>
@@ -232,7 +233,8 @@
   <string name="eighthours">8 heures</string>
   <string name="remain">Restant: %s</string>
   <string name="configure_input_methods">Choisir des claviers</string>
-  <string name="confirm_cancel_task">是否取消向%1$s发送%2$s</string>
+  <string name="confirm_cancel_task_files">"Annuler l'envoi de fichiers à %1$s ?"</string>
+  <string name="confirm_cancel_task_images">"Annuler l'envoi d'image à %1$s ?"</string>
   <string name="content_description_dial">Appel</string>
   <string name="content_description_search">Rechercher</string>
   <string name="content_description_share">Partager</string>

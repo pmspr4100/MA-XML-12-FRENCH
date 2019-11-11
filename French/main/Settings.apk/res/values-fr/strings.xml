@@ -632,6 +632,8 @@ Activez optimisation batterie."</string>
   <string name="backup_set_null_pw">Entrez le mot de passe en premier</string>
   <string name="backup_set_pw_confirm_title">Confirmer le nouveau mot de passe de sauvegarde</string>
   <string name="badge_title">"Afficher les badges d'icône d'application"</string>
+  <string name="band_24G">(2.4G)</string>
+  <string name="band_5G">(5G)</string>
   <string name="band_mode_failed">Échec</string>
   <string name="band_mode_loading">Chargement de la liste de bandes…</string>
   <string name="band_mode_set">Définir</string>
@@ -2066,6 +2068,20 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
   <string name="dual_clock_open_message">"La double horloge s'affichera sur l'écran de verrouillage, l'écran d'accueil."</string>
   <string name="dual_setting_simcard1">SIM 1</string>
   <string name="dual_setting_simcard2">SIM 2</string>
+  <string name="dual_wifi">Dual WLAN network acceleration</string>
+  <string name="dual_wifi_acceleration">Slave WLAN acceleration</string>
+  <string name="dual_wifi_avaliable_slave_wifi">Available slave WLAN</string>
+  <string name="dual_wifi_avaliable_slave_wifi_24G">Available slave WLAN(2.4G)</string>
+  <string name="dual_wifi_avaliable_slave_wifi_5G">Available slave WLAN(5G)</string>
+  <string name="dual_wifi_enabler_summary">Simultaneously use two WLAN for acceleration</string>
+  <string name="dual_wifi_off">Désactivé</string>
+  <string name="dual_wifi_on">Activé</string>
+  <string name="dual_wifi_primary_wifi_connected">Connected primary WLAN</string>
+  <string name="dual_wifi_slave_wifi_connected">Connected slave WLAN</string>
+  <string name="dual_wifi_summary">Connect to the primary WLAN, turn on the slave WLAN, and increase the network speed.</string>
+  <string name="dual_wifi_switching_not_remind">No more hints next time</string>
+  <string name="dual_wifi_switching_prompt">WLAN switching prompt</string>
+  <string name="dual_wifi_switching_summary">Dual WLANs require different frequency bands, and if you want to change the frequency band of the primary WLAN, the slave WLAN will be disconnected.</string>
   <string name="dump_log">Obtenir les journaux liés aux problèmes</string>
   <string name="dump_log_summary">"Cette fonctionnalité est conçue pour générer le journal 284 dans les versions Alpha et Bêta de MIUI. Utilisez-le avec prudence.
 Vous pouvez afficher les journaux générés dans le Gestionnaire de fichiers."</string>
@@ -3486,6 +3502,8 @@ Sélectionnez votre système d'exploitation:"</string>
   <string name="msg_wlan_signal_found">Se connecter à %s ?</string>
   <string name="msim_sim_radio_off">Désactivé</string>
   <string name="mtp_ptp_mode_summary">La fonctionnalité MTP ou PTP est active.</string>
+  <string name="mtrl_picker_range_header_prompt">Pick a Date Range</string>
+  <string name="multi_network_acceleration_app_settings">Multi-network accelerated application management</string>
   <string name="multi_touch_points_category_title">Multi-touch points</string>
   <string name="multi_touch_points_preference">Ce paramètre prendra effet après avoir redémarré votre appareil</string>
   <string name="music_app_unavailable">"Assurez-vous que l'application Musique Mi est disponible."</string>
@@ -4469,7 +4487,7 @@ Interface UT: %5$s"</string>
 "&lt;li&gt;Bluetooth&lt;/li&gt;</string>
   <string name="reset_network_final_button_text">Réinitialiser les paramètres</string>
   <string name="reset_network_final_desc">"Réinitialiser tous les paramètres réseau maintenant ? Cela peut prendre plusieurs secondes. Vous ne pourrez pas inverser cette action"</string>
-  <string name="reset_network_title">Réinitialisation</string>
+  <string name="reset_network_title">Réinitialiser le Wi-Fi, les réseaux cellulaires et le Bluetooth</string>
   <string name="reset_network_wifi">Wi-Fi</string>
   <string name="reset_second_space_passwd">Réinitialiser le mot de passe du deuxième espace</string>
   <string name="reset_second_space_passwd_cancel">Annuler</string>
@@ -4575,7 +4593,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="screen_cancel">Annuler</string>
   <string name="screen_color_and_optimize">Couleurs et contraste</string>
   <string name="screen_color_and_optimize_disabled">Impossible de régler la température de couleur en mode lecture</string>
-  <string name="screen_color_temperature">Couleurs</string>
+  <string name="screen_color_temperature">Température couleurs</string>
   <string name="screen_color_temperature_and_saturation">Couleurs et saturation</string>
   <string name="screen_compatibility_label">"Compatibilité de l'écran"</string>
   <string name="screen_compatibility_text">"Cette application n'est peut-être pas adaptée à votre écran. Vous pouvez modifier les paramètres d'ajustement ici."</string>
@@ -6681,6 +6699,7 @@ Configurer un réseau masqué n'affectera pas les paramètres de votre routeur."
   <string name="wifi_metered_label">Mesuré</string>
   <string name="wifi_modify">Modifier</string>
   <string name="wifi_more">Paramètres additionnels</string>
+  <string name="wifi_multi_network_acceleration">Intelligent multi-network acceleration</string>
   <string name="wifi_multiple_cert_added">(Plusieurs certificats ajoutés)</string>
   <string name="wifi_network_optimization">Connexion au réseau intelligent</string>
   <string name="wifi_network_prefix_length">Longueur du préfixe réseau</string>
