@@ -750,17 +750,17 @@ sont disponibles"</string>
   <string name="fmt_date_long_month">MMMM</string>
   <string name="fmt_date_long_month_day">d MMMM</string>
   <string name="fmt_date_long_year_month">MMMM yyyy</string>
-  <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
+  <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
   <string name="fmt_date_numeric_day">d</string>
   <string name="fmt_date_numeric_month">M</string>
-  <string name="fmt_date_numeric_month_day">dd/MM</string>
+  <string name="fmt_date_numeric_month_day">dd.MM</string>
   <string name="fmt_date_numeric_year">yyyy</string>
-  <string name="fmt_date_numeric_year_month">MM/yyyy</string>
-  <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+  <string name="fmt_date_numeric_year_month">MM.yyyy</string>
+  <string name="fmt_date_numeric_year_month_day">dd.MM.yyyy</string>
   <string name="fmt_date_short_month">MMM</string>
   <string name="fmt_date_short_month_day">d MMM</string>
   <string name="fmt_date_short_year_month">MMM yyyy</string>
-  <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+  <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
   <string name="fmt_date_time">D T</string>
   <string name="fmt_date_time_timezone">D T z</string>
   <string name="fmt_date_timezone">D z</string>
@@ -774,10 +774,10 @@ sont disponibles"</string>
   <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
   <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
   <string name="fmt_time_12hour_pm">ha</string>
-  <string name="fmt_time_24hour">"H 'o''horloge'"</string>
-  <string name="fmt_time_24hour_minute">H:mm</string>
-  <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
-  <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+  <string name="fmt_time_24hour">"HH 'o''horloge'"</string>
+  <string name="fmt_time_24hour_minute">HH:mm</string>
+  <string name="fmt_time_24hour_minute_second">HH:mm:ss</string>
+  <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
   <string name="fmt_time_millis">"S'ms'"</string>
   <string name="fmt_time_minute">"m'min'"</string>
   <string name="fmt_time_minute_second">"m'min' s's'"</string>
@@ -796,7 +796,7 @@ sont disponibles"</string>
   <string name="fmt_weekday_time">W T</string>
   <string name="fmt_weekday_time_timezone">W T z</string>
   <string name="fmt_weekday_timezone">W z</string>
-  <string name="frame_not_support_image_ratio">"Ce format n'est pas pris en charge"</string>
+  <string name="frame_not_support_image_ratio">Format non pris en charge</string>
   <string name="free_view_desc">Vue en 3D</string>
   <string name="friday">Vendredi</string>
   <string name="friday_short">Ven</string>
@@ -809,7 +809,7 @@ sont disponibles"</string>
   <string name="gif_tip">GIF</string>
   <string name="gigabyteShort">Go</string>
   <string name="grant_permission_go_and_set">Définir</string>
-  <string name="grant_permission_text">"Galerie a besoin de se connecter à 
+  <string name="grant_permission_text">"La Galerie a besoin de se connecter à 
 %s
  pour fonctionner normalement, appuyez sur \"Définir\" pour aller à Permissions."</string>
   <string name="grant_permission_title">"Autoriser l'accès"</string>
