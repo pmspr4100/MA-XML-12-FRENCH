@@ -543,6 +543,7 @@ de l'opérateur"</string>
   <string name="power_save_on_time_end_time_summary_na">À</string>
   <string name="power_save_ps_clean">Effacer le cache chaque fois que le périphérique est verrouillé</string>
   <string name="power_save_ps_close_setting">"Désactiver les services d'arrière-plan (Synchro, GPS) pour économiser la batterie"</string>
+  <string name="power_save_ps_close_setting_5g">"Limitez les fonctions consommant de l'énergie (synchronisation, connectivité 5G, GPS)"</string>
   <string name="power_save_ps_freeze">Geler les applications en arrière-plan</string>
   <string name="power_save_ps_limit">"Restreindre l'activité des applications système"</string>
   <string name="power_save_settings">Paramètres de la batterie</string>
@@ -714,6 +715,8 @@ Le volume de données restant inclut l'excédent du mois précédent."</string>
   <string name="privacy_notification_title_mic">%1s is using microphone in the background</string>
   <string name="sc_allow_network_dialog_message">"Vous avez limité la connexion réseau et l'accès à votre localisation pour l'application Sécurité. Accordez à l'application Sécurité les autorisations requises pour utiliser cette fonctionnalité."</string>
   <string name="privacy_prompt_upload">Envoyer</string>
+  <string name="privacyapp_number_masked_text">Contenu de la notification est masqué</string>
+  <string name="privacyapp_number_unmasked_text">Contenu de la notification peut être masqué</string>
   <string name="privacy_prompt_traffic_adjust_message">"Après que vous ayez lancé l'étalonnage, MIUI se connectera au réseau, cryptera les infos de votre opérateur, votre numéro de téléphone, votre IMEI et votre compte Mi, puis enverra ces éléments vers les serveurs Mi. Ceci se fera dans le but d'acquérir le modèle d'étalonnage et apprenez si possible à acheter des données dans votre localité.
 
 Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recevoir le modèle d'étalonnage."</string>
@@ -991,6 +994,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
   <string name="power_center_ontime_boot">Horaire de démarrage</string>
   <string name="power_center_time_to_boot">Horaire de démarrage</string>
   <string name="power_center_repeat">Répéter</string>
+  <string name="power_center_scan_item_title_5g">Connectivité 5G</string>
   <string name="power_center_ontime_shutdown">"Horaire d'extinction"</string>
   <string name="power_center_power_save_summary_text">"Augmenter le temps restant jusqu'à %1$d h %2$d m"</string>
   <string name="power_center_power_save_title_text">Économiseur de batterie</string>
@@ -1003,6 +1007,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
   <string name="power_dialog_cancel">Annuler</string>
   <string name="power_dialog_ok">OK </string>
   <string name="power_dialog_super_save_msg">"Ultra économiseur de batterie restreint la plupart des fonctionnalités énergivores et diminue les performances de votre appareil afin de laisser les fonctionnalités de base (appels, SMS, connexion au réseau, par exemple) disponibles aussi longtemps que possible. Activer l'économiseur de batterie Ultra ?"</string>
+  <string name="power_dialog_super_save_msg_5g">"Ultra économiseur de batterie restreint la plupart des fonctions consommant de l’énergie (connectivité 5G, par exemple), réduisant ainsi les performances de votre appareil. Seuls les appels, les messages et la connectivité réseau ne seront pas affectés. Activer l'économiseur de batterie Ultra ?"</string>
   <string name="power_dialog_super_save_title">Ultra économiseur de batterie</string>
   <string name="power_consume_rank_title">"Consommation d'énergie"</string>
   <string name="power_consume_rank_software">Applications</string>
@@ -1195,6 +1200,7 @@ medical card"</string>
   <string name="power_analysis_suggestion_need_optimize">"Problèmes d'utilisation de la batterie détectés."</string>
   <string name="power_optimize_save_on_lockscreen">"Économiser de l'énergie pendant que l'appareil est verrouillé"</string>
   <string name="power_optimize_close_app">"Fermer les applications qui consomment excessivement de l'énergie"</string>
+  <string name="power_optimize_disable_5g">Restreindre la connectivité 5G</string>
   <string name="power_optimize_disable_app_autostart">"Empêcher les applications de s'ouvrir automatiquement"</string>
   <string name="power_optimize_disable_start_other_app">"Empêcher les applications d'ouvrir d'autres applications"</string>
   <string name="power_optimize_brightness">"Luminosité de l'écran"</string>
@@ -1983,7 +1989,7 @@ medical card"</string>
   <string name="ac_pre_notification_contentTitle">"Essayer Verrouillage d'application"</string>
   <string name="ac_post_notification_contentTitle">"Activer le verrouillage d'application"</string>
   <string name="midrop_post_notification_contentTitle">Besoin de partager des fichiers ?</string>
-  <string name="notification_masked_item">Masquer les notifications</string>
+  <string name="notification_masked_item">Comment masquer le contenu de la notification ?</string>
   <string name="lock_mode_title">Paramètres de verrouillage</string>
   <string name="after_the_lock_screen">"Verrouillez les applications en même temps que l'écran"</string>
   <string name="set_applock_password">Définir un mot de passe</string>
@@ -1993,10 +1999,10 @@ medical card"</string>
   <string name="ac_pre_notification_contentText">Protégez vos infos personnelles</string>
   <string name="ac_post_notification_contentText">Obtenir une protection de niveau système</string>
   <string name="midrop_post_notification_contentText">"Transférer des fichiers à une vitesse jusqu'à 50 Mbps avec Mi Drop."</string>
-  <string name="notification_masked_subtitle">"Masquer les notifications des applis protégées avec le Verrouillage d'application"</string>
+  <string name="notification_masked_subtitle">Utiliser le verrouillage des applications pour masquer le contenu des notifications pour les applications sélectionnées</string>
   <string name="ac_enter_applock">Ouvrir Verr. App</string>
-  <string name="ac_mask_all_apps">Masquer pour toutes les applications</string>
-  <string name="ac_unmask_all_apps">Démasquer pour toutes les applications</string>
+  <string name="ac_mask_all_apps">Masquer pour tous</string>
+  <string name="ac_unmask_all_apps">Afficher pour tous</string>
   <string name="ac_summaryOn">Entrez le mot de passe pour ouvrir les applications protégées</string>
   <string name="ac_summaryOff">"Désactivé, aucun mot de passe n'est requis pour ouvrir les applications"</string>
   <string name="lockpattern_tutorial_cancel_label">Annuler</string>
@@ -2016,7 +2022,7 @@ medical card"</string>
   <string name="convenient_mode">Déverrouiller toutes vos applications à la fois</string>
   <string name="convenient_summary">Entrez le mot de passe une fois pour déverrouiller toutes les applications</string>
   <string name="suggest_app_tolock">Suggestions</string>
-  <string name="suggest_app_tolock_masked">Masqué</string>
+  <string name="suggest_app_tolock_masked">Contenu caché</string>
   <string name="suggest_app_tolock_unmasked">Notifications visibles</string>
   <string name="forget_password_button_text">Mot de passe oublié</string>
   <string name="forget_password_button_text_normal">Mot de passe oublié</string>
