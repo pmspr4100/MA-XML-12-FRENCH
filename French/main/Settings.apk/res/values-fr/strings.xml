@@ -473,6 +473,7 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
   <string name="applications_settings_summary">Applications  installées</string>
   <string name="applications_settings_title">Gestion des applications</string>
   <string name="apply">Appliquer</string>
+  <string name="apply_fingerprint_to">Utiliser les empreintes digitales pour</string>
   <string name="apply_fingerprint_to_category_title">"Appliquer l'empreinte digitale à…"</string>
   <string name="apply_now_button_text">Mise à jour</string>
   <string name="apply_password_to_category_title">Demande le déverrouillage</string>
@@ -2174,6 +2175,7 @@ Cela permet de protéger les données de votre appareil en cas de perte ou de vo
   <string name="encryption_progress_summary">Chiffrement en cours, ne redémarrez pas votre appareil.</string>
   <string name="enhanced_4g_lte_mode_summary">Utiliser les données LTE pour améliorer les appels et les communications (recommandé)</string>
   <string name="enhanced_4g_lte_mode_title">Mode LTE 4G avancé</string>
+  <string name="enrol_fingerprint_data">Ajouter une empreinte digitale</string>
   <string name="enter_password">Pour lancer Android, saisissez votre mot de passe.</string>
   <string name="enter_pattern">Pour lancer Android, dessinez votre schéma.</string>
   <string name="enter_pin">Pour lancer Android, saisissez votre code PIN.</string>
@@ -3275,6 +3277,7 @@ D'autres personnes utilisent cet appareil.
   <string name="max_cpu6_info">"Hexa-Core Max "</string>
   <string name="max_cpu8_info">"Octa-Core Max "</string>
   <string name="max_fingerprint_number_reached">"Impossible d'ajouter plus de 5 empreintes digitales. Pour en ajouter une, supprimez d'abord une existante."</string>
+  <string name="max_fingerprint_reached_toast">"Vous pouvez ajouter jusqu'à 5 empreintes digitales"</string>
   <string name="maximum_memory_use">Utilisation mémoire (maximale)</string>
   <string name="media_button">Touches multimédias</string>
   <string name="media_category">Média</string>
@@ -6399,9 +6402,9 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
   <string name="vpn_settings_not_available">Les paramètres VPN ne sont pas disponibles pour cet utilisateur</string>
   <string name="vpn_settings_password">Mot de passe VPN</string>
   <string name="vpn_settings_summary">"Protéger les paramètres de VPN avec le mot de passe de l'écran de verrouillage"</string>
-  <string name="vpn_settings_title">VPN</string>
+  <string name="vpn_settings_title">Paramètres VPN</string>
   <string name="vpn_show_options">Afficher les options avancées</string>
-  <string name="vpn_title">VPN</string>
+  <string name="vpn_title">Paramètres VPN</string>
   <string name="vpn_turn_on">Activer</string>
   <string name="vpn_type">Type</string>
   <string name="vpn_username">"Nom d'utilisateur"</string>

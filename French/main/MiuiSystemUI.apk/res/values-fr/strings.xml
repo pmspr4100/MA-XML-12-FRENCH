@@ -1435,7 +1435,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="quick_settings_screenshot_label">"Capture d'écran"</string>
   <string name="quick_settings_secondary_label_until">"Jusqu'à %s"</string>
   <string name="quick_settings_settings_label">Paramètres</string>
-  <string name="quick_settings_sim_disabled">(Désactivé)</string>
+  <string name="quick_settings_sim_disabled">" (Désactivé)"</string>
   <string name="quick_settings_sync_label">Synchro</string>
   <string name="quick_settings_tethering_label">Partage de connexion</string>
   <string name="quick_settings_time_label">Durée</string>
@@ -1535,7 +1535,9 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="screenshot_edit">Éditer</string>
   <string name="screenshot_failed_title">"Impossible d'effectuer une capture d'écran."</string>
   <string name="screenshot_failed_to_capture_text">"Effectuer des captures d'écran n'est pas autorisé par l'application ou votre organisation"</string>
+  <string name="screenshot_failed_to_capture_title">"Cette application ne permet pas de prendre des captures d'écran"</string>
   <string name="screenshot_failed_to_save_text">"Impossible d'enregistrer la capture en raison de l'espace limité de stockage."</string>
+  <string name="screenshot_failed_to_save_title">"Pas assez d'espace de stockage pour les nouvelles captures d'écran"</string>
   <string name="screenshot_failed_to_save_unknown_text">"Une erreur s'est produite lors de l'enregistrement de la capture d'écran."</string>
   <string name="screenshot_feedback_txt">Commentaires</string>
   <string name="screenshot_insert_failed">"Impossible de charger la capture d'écran. Effectuer une nouvelle ou aller voir l'image dans Galerie."</string>

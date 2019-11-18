@@ -22,12 +22,15 @@
   <string name="back">Retour</string>
   <string name="calendar_sound">"Rappels d'événements"</string>
   <string name="calendar_tip">"Le rappel d'événement semble fonctionner pour les rappels d'agenda, les notes et les tâches"</string>
+  <string name="category_other">Autre</string>
+  <string name="first_unlock_time">"First unlocked: "</string>
   <string name="focus_time_exception_tip">"On dirait que l'heure du système a changé. Désactivé le mode de mise au point."</string>
   <string name="follow_sim1">Appliquer les paramètres de la carte SIM 1</string>
   <string name="intelligent_recognition_item_summary">"Utilisez une sonnerie spécifique pour les appels des services de livraison et de taxi. Cette fonctionnalité fonctionnera lorsque %s est défini comme sonnerie par défaut."</string>
   <string name="intelligent_recognition_item_title">Identifier les services</string>
   <string name="mms">Messagerie</string>
   <string name="more_ringtone">Toutes les sonneries</string>
+  <string name="most_unlock_week_day">"Most unlocks: "</string>
   <string name="network_error">"Une erreur de réseau s'est produite. Réessayer."</string>
   <string name="notification_sound">Sons de notification</string>
   <string name="retry">Réessayer</string>
@@ -38,6 +41,7 @@
   <string name="screen_confirm">Activer</string>
   <string name="screen_paper_mode_apps_loading">Chargement…</string>
   <string name="search_menu_title">Recherche</string>
+  <string name="several_days_use_time">"Temps d'écran: %2$s"</string>
   <string name="sim_slot_1">" (SIM 1)"</string>
   <string name="sim_slot_2">" (SIM 2)"</string>
   <string name="sms_delivered_sound_title">Message livré</string>
@@ -47,6 +51,15 @@
   <string name="stop_app_timer_success">"Le temps d'écran a été désactivé"</string>
   <string name="stop_app_timer_tip">"Les données et les autorisations liées au temps d'écran seront effacées après la désactivation, y compris les paramètres, les données locales et dans le cloud, etc."</string>
   <string name="thememanager_not_found">"Impossible d'ouvrir les thèmes. Assurez-vous que cette application est installée sur votre appareil."</string>
+  <string name="today_usage_title">"Aujourd'hui"</string>
+  <string name="today_use_time">"Temps d'écran: %1$s"</string>
+  <string name="trend_from_yesterday_equal">"Pareil qu'hier"</string>
+  <string name="trend_from_yesterday_less">"%1$s moins qu'hier"</string>
+  <string name="trend_from_yesterday_less_simple">"%1$s moins qu'hier"</string>
+  <string name="trend_from_yesterday_more">"%1$s plus qu'hier"</string>
+  <string name="trend_from_yesterday_more_simple">"%1$s plus qu'hier"</string>
+  <string name="unlock_times_per_day">"Moyenne quotidienne: "</string>
+  <string name="unlock_times_per_hour">"Unlocks per hour: "</string>
   <string name="usage_app_get_it">"C'est compris"</string>
   <string name="usage_app_limit_alter_summary">"On dirait que ce délai est plus court que le temps que vous avez utilisé cette application aujourd'hui. Fixer la limite quand même ?"</string>
   <string name="usage_app_limit_alter_title">"Vérifier le temps limite de l'écran"</string>
@@ -110,6 +123,7 @@
   <string name="usage_state_focus_call">"Appel d'urgence"</string>
   <string name="usage_state_focus_level1">Étoile montante</string>
   <string name="usage_state_focus_level_summary">Niveau actuel: %s</string>
+  <string name="usage_state_focus_mode_experience_warning_message">"Le mode de mise au point permet uniquement d'utiliser l'appareil photo et de faire des appels d'urgence. Vous ne pourrez pas désactiver le mode de mise au point prématurément."</string>
   <string name="usage_state_focus_mode_summary">"Restreindre toutes les fonctions sauf les appels d'urgence et l'appareil photo"</string>
   <string name="usage_state_focus_mode_summary1">Bien commencé est à moitié fait</string>
   <string name="usage_state_focus_mode_summary2">Reste concentrée</string>

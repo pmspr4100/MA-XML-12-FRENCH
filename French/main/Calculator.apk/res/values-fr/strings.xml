@@ -132,6 +132,7 @@
   <string name="loading_message">"Chargement de l'application…"</string>
   <string name="loading_slogan">Utilisez des applications sans les installer</string>
   <string name="loading_tips">"Paramètres téléchargé avec succès. Relancez la calculatrice pour l'appliquer."</string>
+  <string name="loan_basic_point">Point de base</string>
   <string name="loan_edittext_hint_commercial">Saisir le montant</string>
   <string name="loan_edittext_hint_commercial_combined">Commercial (×10K)</string>
   <string name="loan_edittext_hint_fund">Saisir le montant</string>
@@ -143,11 +144,16 @@
   <string name="loan_pay_years">Période de prêt</string>
   <string name="loan_payback_way">Remboursement</string>
   <string name="loan_repayment_detail_loading">Chargement de la modalité de remboursement…</string>
-  <string name="loan_unit">(×à 10K)</string>
+  <string name="loan_type_title">"Taux d'intérêt standard"</string>
+  <string name="loan_unit">(×10K)</string>
+  <string name="lpr_ok">"C'est compris"</string>
+  <string name="lpr_tips_msg">"À partir du 8 octobre 2019, le taux d'intérêt des prêts au logement commerciaux et personnels sera calculé en fonction du taux préférentiel du prêt (LPR) au lieu du taux de référence de 4,9% précédemment appliqué. Maintenant, le taux final sera confirmé en ajoutant un point de base LPR.
+
+Les RAPI sur un an et cinq ans seront indiqués le 20 de chaque mois (des retards peuvent être dus à des jours fériés) sur le site Web de la Banque populaire de Chine."</string>
+  <string name="lpr_tips_title">LPR (Prêt au taux préférentiel)</string>
   <string name="medical_treatment">Traitement médical</string>
   <string name="menuDesc">menu</string>
   <string name="minusDesc">moins</string>
-  <string name="month" />
   <string name="mortgage_amount">Total (×10K)</string>
   <string name="mortgage_average_repayment_first_month">Premier mois de rembousement</string>
   <string name="mortgage_average_repayment_monthly">Remboursement mensuel</string>
