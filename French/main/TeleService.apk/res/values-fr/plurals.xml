@@ -9,8 +9,8 @@
         <item quantity="one">"L'action sélectionnée n'est pas disponible en mode appel d'urgence. Le téléphone sera dans ce mode pendant %s minute. Voulez vous quitter maintenant ?"</item>
     </plurals>
     <plurals name="auto_answer_summary_delay">
-        <item quantity="other">délai: %s secondes</item>
-        <item quantity="one">délai: %s seconde</item>
+        <item quantity="other">délai: %d secondes</item>
+        <item quantity="one">délai: %d seconde</item>
     </plurals>
     <plurals name="call_record_add_white_list_over_reminder">
         <item quantity="other">"Vous pouvez ajouter jusqu'à %s personnes, sélectionner à nouveau."</item>

@@ -6085,8 +6085,12 @@ Vos empreintes digitales enregistrées seront également supprimées de ce profi
   <string name="usb_eject_summary">Éjecter le stockage USB pour le retirer en toute sécurité</string>
   <string name="usb_format">Effacer le stockage USB</string>
   <string name="usb_format_summary">Efface toutes les données sur le stockage USB (ex: musique et photos)</string>
+  <string name="usb_headset_not_support_cancel">"C'est compris"</string>
+  <string name="usb_headset_not_support_message">"Impossible de lire de l'audio via un adaptateur. Utilisez des écouteurs numériques
+ou des écouteurs avec fiche de 3,5 mm."</string>
+  <string name="usb_headset_not_support_tile">"Impossible de lire l'audio"</string>
   <string name="usb_host_mode_subtext">"Utiliser des manettes de jeu ou autres périphiques sur le port USB peut consommer plus d'énergie"</string>
-  <string name="usb_host_mode_text">Mode USB host</string>
+  <string name="usb_host_mode_text">Mode hôte USB</string>
   <string name="usb_insert_summary">Connecter le stockage USB</string>
   <string name="usb_install_app">Installer via USB</string>
   <string name="usb_install_app_desc">"Autoriser l'installation des applications via USB"</string>

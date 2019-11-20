@@ -656,4 +656,31 @@
         <item>Répéter</item>
         <item>Rejeter</item>
     </string-array>
+    <string-array name="bedtime_guide_repeat_type">
+        <item>Lundi au vendredi</item>
+        <item>Tous les jours</item>
+        <item>Jours de travail</item>
+    </string-array>
+    <string-array name="bedtime_repeat_entries">
+        <item>Tous les jours</item>
+        <item>Lundi au vendredi</item>
+        <item>Jours de travail</item>
+        <item>Personnaliser</item>
+    </string-array>
+    <string-array name="days_of_week">
+        <item>Dim</item>
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mer</item>
+        <item>Jeu</item>
+        <item>Ven</item>
+        <item>Sam</item>
+    </string-array>
+    <string-array name="notification_adv_time_entries">
+        <item>"À l'heure fixée"</item>
+        <item>"15 minutes à l'avance"</item>
+        <item>"30 minutes à l'avance"</item>
+        <item>"1 heure à l'avance"</item>
+        <item>Aucun</item>
+    </string-array>
 </resources>
