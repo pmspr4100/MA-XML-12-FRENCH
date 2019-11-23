@@ -186,6 +186,10 @@ et optimise vos photos en fonction des informations"</string>
   <string name="dialog_ok_time">OK (%ds)</string>
   <string name="dirty_tip_toast">La lentille est sale. Essuyez-la.</string>
   <string name="do_not_remind_me">"Ne plus afficher"</string>
+  <string name="document_blackwhite">黑白</string>
+  <string name="document_blur_warn">文字拍摄模糊</string>
+  <string name="document_origin">原图</string>
+  <string name="document_strengthen">增强</string>
   <string name="dual_camera_lens_covered_toast">La lentille est couverte.</string>
   <string name="dual_camera_lowlight_toast">"On dirait qu'il fait trop sombre."</string>
   <string name="dual_camera_too_close_toast">"L'appareil photo est trop proche de l'objet."</string>
@@ -259,7 +263,14 @@ puis créez une photo avec un minimum de bruit."</string>
 et créera une pause sur laquelle tout le monde sera beau."</string>
   <string name="hint_groupshot_beauty">"Impossible d'utiliser Embellir dans les captures de groupe"</string>
   <string name="hint_slow_motion">La vidéo que vous enregistrez sera lue plus lentement.</string>
+  <string name="hint_subtitle">边录边说，语音自动转字幕</string>
+  <string name="hint_subtitle_prompt">已开启语音字幕，请边录边说</string>
   <string name="hunt_dual_water_mark">"Le filigrane double appareil photo sera ajouté automatiquement."</string>
+  <string name="id_card_mode_hint_back">请拍摄身份证国徽面</string>
+  <string name="id_card_mode_hint_front">请拍摄身份证人像面</string>
+  <string name="id_card_mode_use_hint_text_body">"身份证双面拍摄，1:1生成A4证件复印件
+发送和打印更方便"</string>
+  <string name="id_card_mode_use_hint_text_title">身份证影印模式</string>
   <string name="image_file_name_format">"'IMG'_ddMMyyyy_HHmmss"</string>
   <string name="install_confirmed">Installer</string>
   <string name="lens_dirty_detected_content">"Il semble que la lentille de votre appareil photo est sale.
@@ -528,7 +539,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_camera_face_info_watermark_title">"Ajouter un timbre d'âge sur les photos"</string>
   <string name="pref_camera_facedetection_auto_hidden_title">Masquer le cadre de détection de visage automatiquement</string>
   <string name="pref_camera_facedetection_title">Détection faciale</string>
-  <string name="pref_camera_first_tag_tips">已标记，回放视频可查看</string>
+  <string name="pref_camera_first_tag_tips">Marqué avec succès</string>
   <string name="pref_camera_flashmode_entry_auto">Auto</string>
   <string name="pref_camera_flashmode_entry_back_soft_light">Lumière douce</string>
   <string name="pref_camera_flashmode_entry_off">Désactivé</string>
@@ -673,8 +684,8 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_camera_video_duration_entry_30">30 minutes</string>
   <string name="pref_camera_video_duration_entry_mms">30 secondes (MMS)</string>
   <string name="pref_camera_video_log_tips">LOG</string>
-  <string name="pref_camera_video_tag">视频标记</string>
-  <string name="pref_camera_video_tag_description">录像中点击“标记”，回放时可查看标记位置</string>
+  <string name="pref_camera_video_tag">Allow marking videos</string>
+  <string name="pref_camera_video_tag_description">Tap \"Mark\" while shooting a video to be able to go back to marked moments during playback</string>
   <string name="pref_camera_volumekey_function_entry_shutter">Déclencheur</string>
   <string name="pref_camera_volumekey_function_entry_timer">Compte à rebours</string>
   <string name="pref_camera_volumekey_function_entry_volume">Volume</string>
@@ -710,6 +721,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_camera_zsl_entry_off">Désactivé</string>
   <string name="pref_camera_zsl_entry_on">Activé</string>
   <string name="pref_capture_settings">Appareil photo</string>
+  <string name="pref_document_mode">文档模式</string>
   <string name="pref_face_beauty_title">Beauté</string>
   <string name="pref_fingerprint_capture_title">"Capteur d'empreinte comme déclencheur"</string>
   <string name="pref_front_mirror_entry_auto">Quand des personnes sont identifiées</string>
@@ -739,8 +751,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_popup_camera_title">Appareil photo pop-up</string>
   <string name="pref_priority_storage_title">Enregistrer sur la carte SD</string>
   <string name="pref_privacy_title">Politique de confidentialité</string>
-  <string name="pref_qc_focus_position_title">F</string>
-  <string name="pref_qc_focus_position_title_abbr">AF</string>
+  <string name="pref_qc_focus_position_title_abbr">A/M F</string>
   <string name="pref_retain_camera_mode_summary">"Basculez l'appareil photo vers le mode précédemment utilisé lorsque vous ouvrez l'application."</string>
   <string name="pref_retain_camera_mode_title">Conserver le mode précédent</string>
   <string name="pref_scan_qrcode_summary">"Seule l'appareil photo arrière peut numériser les QR codes en mode \"Photo\"."</string>
@@ -774,6 +785,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_video_speed_entry_slow">Lent</string>
   <string name="pref_video_speed_fast_title">Time-lapse</string>
   <string name="pref_video_speed_slow_title">Ralenti</string>
+  <string name="pref_video_subtitle">语音字幕</string>
   <string name="pref_video_time_lapse_frame_interval_entry_10">"10X (0.3-seconde d'intervalle)"</string>
   <string name="pref_video_time_lapse_frame_interval_entry_120">"120X (4-seconde d'intervalle)"</string>
   <string name="pref_video_time_lapse_frame_interval_entry_150">"150X (5-seconde d'intervalle)"</string>
@@ -885,7 +897,7 @@ Le mode ultra grand angle vient vous aider lorsque vous ne pouvez pas vous éloi
   <string name="video_effect_entry_polaroid">Polaroid</string>
   <string name="video_file_name_format">"'VID'_ddMMyyyy_HHmmss"</string>
   <string name="video_reach_size_limit">Limite de taille atteinte.</string>
-  <string name="video_tag_flag_title">标记</string>
+  <string name="video_tag_flag_title">Mark</string>
   <string name="video_ultra_clear_tip">4K UHD</string>
   <string name="view_privacy_policy">Afficher la Politique de confidentialité</string>
   <string name="vv_duartion_hint">%1$s | Segment %2$d | %3$ss</string>

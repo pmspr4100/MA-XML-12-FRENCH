@@ -98,6 +98,13 @@
         <item>" | Activé (média)"</item>
         <item>" | Activé (téléphone)"</item>
     </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>Désactivé</item>
+        <item>Activé filtre</item>
+        <item>Activé</item>
+        <item>Activé \"En-têtes filtrés\"</item>
+        <item>Activé \"Paquets de média filtrés\"</item>
+    </string-array>
     <string-array name="bluetooth_avrcp_version_values">
         <item>avrcp14</item>
         <item>avrcp13</item>

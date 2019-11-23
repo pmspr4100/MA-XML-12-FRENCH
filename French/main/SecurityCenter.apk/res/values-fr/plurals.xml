@@ -344,6 +344,14 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
       <item quantity="other">"Patientez %d secondes et réessayez. "</item>
       <item quantity="one">"Patientez %d seconde et réessayez. "</item>
     </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%s heures</item>
+        <item quantity="one">%s heure</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%s minutes</item>
+        <item quantity="one">%s minute</item>
+    </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
       <item quantity="other">Connecter au moins %d points</item>
       <item quantity="one">Connecter au moins %d point</item>

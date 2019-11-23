@@ -57,6 +57,9 @@
   <string name="color_change_with_time_title">Changer de couleur automatiquement</string>
   <string name="deep_space_planet">Cosmos</string>
   <string name="deep_space_planet_des">\"Cosmos\" reflète les changements de lumière qui se produisent autour de vous pendant la journée. Les levers et couchers de soleil dans ce thème sont synchronisés avec votre emplacement.</string>
+  <string name="digital_clock">Numérique</string>
+  <string name="disable_aod_in_power_save_mode">"Désactiver lorsque l'économiseur de batterie est allumé"</string>
+  <string name="disable_aod_in_power_save_mode_summary">"Ne pas afficher d'éléments pour économiser de l'énergie"</string>
   <string name="large_time">Grande horloge</string>
   <string name="mini_time">Petite horloge</string>
   <string name="mtrl_chip_close_icon_content_description">Supprimer %1$s</string>
@@ -65,14 +68,14 @@
   <string name="paper_mode_end_time_title">Désactiver</string>
   <string name="paper_mode_start_time_title">Activer</string>
   <string name="password_toggle_content_description">Afficher le mot de passe</string>
+  <string name="photo_editor_saving">Sauvegarde…</string>
+  <string name="please_input_signature">Entrer la signature</string>
   <string name="scheduled_style">Programmer</string>
   <string name="search_menu_title">Recherche</string>
   <string name="show_battery_status">"Afficher l'état de la batterie"</string>
   <string name="show_notification">Afficher les notifications</string>
   <string name="standard_style">Standard</string>
-  <string name="summary">"Pour réduire la consommation d'énergie, les éléments ne seront pas affichés dans les situations suivantes:
-1. Lorsque votre appareil est dans le noir pendant longtemps.
-2. Lorsque le mode NPD est activé."</string>
+  <string name="summary">"Pour réduire la consommation d'énergie, les éléments ne seront pas affichés lorsque votre appareil restera longtemps dans l'obscurité."</string>
   <string name="temporary_style">Pendant 10 secondes après avoir tapé</string>
   <string name="text_color">Couleur du texte</string>
 </resources>

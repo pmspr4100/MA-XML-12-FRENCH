@@ -361,6 +361,13 @@
       <item>Une heure</item>
       <item>Aucun délai</item>
     </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>Désactivé</item>
+        <item>Enabled Filtered</item>
+        <item>Activé</item>
+        <item>Enabled \"Headers filtered\"</item>
+        <item>Enabled \"Media packets filtered\"</item>
+    </string-array>
     <string-array name="button_light_timeout_entries">
       <item>1 seconde</item>
       <item>2 secondes</item>
