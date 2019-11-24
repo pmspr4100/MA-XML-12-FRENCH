@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="arr_prompt_label">
-        <item>Reasonable</item>
+        <item>Raisonnable</item>
         <item>Long</item>
-        <item>Too long</item>
+        <item>Trop long</item>
     </string-array>
     <string-array name="arr_sedentary_reminder">
-        <item>Time to move!</item>
-        <item>Learn more</item>
-        <item>Drink some water and take a walk.</item>
-        <item>Learn more</item>
-        <item>Climb a flight of stairs</item>
-        <item>Learn more</item>
-        <item>"Don't sit for too long"</item>
-        <item>Learn more</item>
+        <item>"C'est le moment de partir !"</item>
+        <item>Apprendre encore plus</item>
+        <item>"Buvez de l'eau et promenez-vous."</item>
+        <item>Apprendre encore plus</item>
+        <item>Monter un escalier</item>
+        <item>Apprendre encore plus</item>
+        <item>"Ne restez pas assis trop longtemps"</item>
+        <item>Apprendre encore plus</item>
     </string-array>
     <string-array name="arr_time_label">
-        <item>1 hour</item>
-        <item>2 hours</item>
+        <item>1 heure</item>
+        <item>2 heures</item>
     </string-array>
     <string-array name="energy_unit">
         <item>" kcal"</item>
@@ -29,15 +29,15 @@
         <item>" km"</item>
     </string-array>
     <string-array name="pager_titles">
-        <item>Day</item>
-        <item>Week</item>
-        <item>Month</item>
+        <item>Jour</item>
+        <item>Semaine</item>
+        <item>Mois</item>
     </string-array>
     <string-array name="run_in_background_state">
-        <item>No restrictions</item>
-        <item>Limit background activity</item>
-        <item>Stop after 10 minutes</item>
-        <item>Never</item>
+        <item>Pas de restrictions</item>
+        <item>"Limiter l'activité en arrière-plan"</item>
+        <item>Arrêtez-vous après 10 minutes</item>
+        <item>Jamais</item>
     </string-array>
     <string-array name="speed_unit">
         <item>" km/h"</item>
@@ -57,22 +57,22 @@
         <item>°F</item>
     </string-array>
     <string-array name="week">
-        <item>Sunday</item>
-        <item>Monday</item>
-        <item>Tuesday</item>
-        <item>Wednesday</item>
-        <item>Thursday</item>
-        <item>Friday</item>
-        <item>Saturday</item>
+        <item>Dimanche</item>
+        <item>Lundi</item>
+        <item>Mardi</item>
+        <item>Mercredi</item>
+        <item>Jeudi</item>
+        <item>Vendredi</item>
+        <item>Samedi</item>
     </string-array>
     <string-array name="week_label">
-        <item>Sun</item>
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-        <item>Sat</item>
+        <item>Dim</item>
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mer</item>
+        <item>Jeu</item>
+        <item>Ven</item>
+        <item>Sam</item>
     </string-array>
     <string-array name="weight_unit">
         <item>" g"</item>
