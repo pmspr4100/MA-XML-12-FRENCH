@@ -1,7 +1,6 @@
 [![MIUI11 logo](https://i.imgur.com/A44OaCG.gif)](https://xiaomi.eu/)
 
 # MIUI 11 XML FRENCH by pmspr4100 (forked from MIUI 11 Daily XML changes by xiaomi.eu / miui.com)
-* https://www.paypal.me/pmspr4100
 
 ## Référentiel MIUI v11
 * Support de la ROM Stable pour xiaomi.eu
@@ -9,7 +8,7 @@
 
 ## Traducteur
 * Pseudo : pmspr4100
-* Téléphone : Redmi Note 7 Pro
+* Appareil : Redmi Note 7 Pro
 * Contact : (pms.pr4100@gmail.com)
 
 ## Améliorations
@@ -19,6 +18,4 @@
 * Ajustement des traductions
 * Correction orthographique
 
-## Pour tout problème
-* https://github.com/pmspr4100/MA-XML-11-FRENCH
 

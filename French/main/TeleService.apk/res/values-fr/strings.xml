@@ -935,26 +935,26 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="mobile_data_activate_cancel_button">Annuler</string>
   <string name="mobile_data_activate_diag_message">Vous devrez peut-être ajouter des données avec %s</string>
   <string name="mobile_data_activate_diag_title">Ajouter des données ?</string>
-  <string name="mobile_data_activate_footer">"Vous pouvez ajouter un forfait de données mobiles ou d'itinérance avec votre opérateur %s."</string>
-  <string name="mobile_data_activate_prepaid">Pas de donnée mobile disponible</string>
+  <string name="mobile_data_activate_footer">"Vous pouvez ajouter un forfait de données cellulaires ou d'itinérance avec votre opérateur %s."</string>
+  <string name="mobile_data_activate_prepaid">Pas de donnée cellulaires disponible</string>
   <string name="mobile_data_activate_prepaid_summary">Ajouter des données mobiles avec %s</string>
   <string name="mobile_data_activate_roaming_plan">"Aucun forfait d'itinérance"</string>
   <string name="mobile_data_activate_roaming_plan_summary">"Ajoutez un forfait d'itinérance avec %s"</string>
   <string name="mobile_data_always_on">Données mobiles toujours actives</string>
   <string name="mobile_data_always_on_summary">"Maintenir les données mobiles à l'état actif, même lorsque le Wi‑Fi est actif (pour changer rapidement de réseau)"</string>
-  <string name="mobile_data_settings_summary">Accédez aux données en utilisant le réseau mobile</string>
+  <string name="mobile_data_settings_summary">Accédez aux données en utilisant le réseau cellulaires</string>
   <string name="mobile_data_settings_title">Données Mobiles</string>
-  <string name="mobile_data_status_no_plan_subtext">Pas de donnée mobile disponible</string>
+  <string name="mobile_data_status_no_plan_subtext">Pas de donnée cellulaires disponible</string>
   <string name="mobile_data_status_roaming_turned_off_subtext">Itinérance des données désactivée</string>
   <string name="mobile_data_status_roaming_turned_on_subtext">Itinérance des données activée</string>
   <string name="mobile_data_status_roaming_with_plan_subtext">Actuellement en itinérance, forfait de données mobiles actif</string>
   <string name="mobile_data_status_roaming_without_plan_subtext">Itinérance activée, besoin de forfait de données mobiles</string>
-  <string name="mobile_network_settings_not_available">Paramètres de réseau mobile ne sont pas disponibles pour cet utilisateur</string>
-  <string name="mobile_networks">Paramètres du réseau mobile</string>
+  <string name="mobile_network_settings_not_available">Paramètres de réseau cellulaires ne sont pas disponibles pour cet utilisateur</string>
+  <string name="mobile_networks">Paramètres du réseau cellulaires</string>
   <string name="mock_location_app">"Sélectionner l'application de position fictive"</string>
   <string name="mock_location_app_not_set">Aucune application de position fictive définie</string>
   <string name="mock_location_app_set">Application de position fictive: \"%1$s\"</string>
-  <string name="modem_dialog_body">"Le réseau mobile n'est pas stable provoquant ainsi des interruptions ou des problèmes de réseau. Envoyer un rapport de bogue à Mi pour analyse ? Ce rapport peut contenir des informations personnelles identifiables. Votre rapport sera utilisé pour aider à résoudre ce bogue et ne sera jamais partagé dans un contexte commercial."</string>
+  <string name="modem_dialog_body">"Le réseau cellulaires n'est pas stable provoquant ainsi des interruptions ou des problèmes de réseau. Envoyer un rapport de bogue à Mi pour analyse ? Ce rapport peut contenir des informations personnelles identifiables. Votre rapport sera utilisé pour aider à résoudre ce bogue et ne sera jamais partagé dans un contexte commercial."</string>
   <string name="modem_dialog_title">"Le réseau n'est pas stable"</string>
   <string name="modem_set_title">MODEM SETTING</string>
   <string name="modem_setting_button_title">Enter into setting manu</string>
@@ -965,7 +965,7 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="msim_default_setting">Paramètres par défaut</string>
   <string name="msim_disable_sim_card_btn_text">OK </string>
   <string name="msim_disable_sim_card_summary_default_card">"Cette carte est actuellement définie comme votre carte SIM par défaut. Si vous arrêtez de l'utiliser, vous ne serez plus en mesure de passer des appels ou d'utiliser votre connexion de données mobile. Vous pourrez arrêter cette carte SIM après avoir défini une autre carte SIM comme votre carte par défaut."</string>
-  <string name="msim_disable_sim_card_summary_non_default_card">"Vous ne pouvez pas être en mesure de passer des appels ou d'utiliser votre connexion de données mobile. Arrêter d'utiliser la carte SIM %s ?"</string>
+  <string name="msim_disable_sim_card_summary_non_default_card">"Vous ne pouvez pas être en mesure de passer des appels ou d'utiliser votre connexion de données cellulaires. Arrêter d'utiliser la carte SIM %s ?"</string>
   <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">"Ne pas restreindre votre carte SIM secondaire en mode rappel d'urgence."</string>
   <string name="msim_disable_sim_card_title">"Arrêter d'utiliser la carte SIM"</string>
   <string name="msim_enable_sim">Activer</string>
@@ -1736,7 +1736,7 @@ Cette tablette ne possède pas d'écouteur. Vous pouvez passer en mode Mains lib
   <string name="vowifi_emergency_notification_content">"Les appels d'urgence sont possibles dans les zones couvertes par le réseau mobile"</string>
   <string name="vowifi_emergency_notification_title">Appels Wi-Fi Vodafone</string>
   <string name="vowifi_emergency_warning_check">Ne plus afficher</string>
-  <string name="vowifi_emergency_warning_message">"L’appel Wi-Fi ne peut pas être utilisé pour les appels d’urgence. 
+  <string name="vowifi_emergency_warning_message">"L'appel Wi-Fi ne peut pas être utilisé pour les appels d’urgence. 
 
 Votre appareil passe automatiquement sur un réseau mobile (2G/3G) pour passer un appel d'urgence.
 

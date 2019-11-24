@@ -193,29 +193,34 @@
         <item>720p, 1080p (double écran)</item>
     </string-array>
     <string-array name="preferred_network_mode_choices">
-        <item>LTE / WCDMA</item>
-        <item>LTE</item>
-        <item>Global</item>
-        <item>GSM/WCDMA/LTE</item>
-        <item>CDMA + LTE/EvDo</item>
-        <item>CDMA/EvDo/GSM/WCDMA</item>
-        <item>EvDo uniquement</item>
-        <item>CDMA sans EvDo</item>
-        <item>CDMA/EvDo automatique</item>
-        <item>GSM/WCDMA automatique</item>
-        <item>WCDMA uniquement</item>
+        <item>GSM/WCDMA préféré</item>
         <item>GSM uniquement</item>
-        <item>GSM/WCDMA de préférence</item>
+        <item>WCDMA uniquement</item>
+        <item>GSM/WCDMA automatique</item>
+        <item>CDMA/EvDo automatique</item>
+        <item>CDMA w/o EvDo</item>
+        <item>EvDo uniquement</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>Global</item>
+        <item>LTE</item>
+        <item>LTE/WCDMA</item>
+        <item>TDSCDMA uniquement</item>
+        <item>TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA</item>
+        <item>TDSCDMA/GSM</item>
+        <item>LTE/TDSCDMA/GSM</item>
+        <item>TDSCDMA/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_world_mode">
-        <item>International</item>
-        <item>LTE/CDMA</item>
-        <item>LTE/GSM/UMTS</item>
-    </string-array>
-    <string-array name="preferred_network_mode_values_world_mode">
-        <item>10</item>
-        <item>8</item>
-        <item>9</item>
+        <item>Global</item>
+        <item>LTE / CDMA</item>
+        <item>LTE / GSM / UMTS</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
         <item>Désactivé</item>
@@ -270,6 +275,14 @@
         <item>"Échelle d'animation x 0,5"</item>
         <item>"Échelle d'animation x 10"</item>
     </string-array>
+    <string-array name="tts_demo_strings">
+        <item>This is an example of speech synthesis in English.</item>
+        <item>Voici un échantillon de synthèse vocale en Français.</item>
+        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
+        <item>Questo è un esempio di sintesi vocale in Italiano.</item>
+        <item>Este es un ejemplo de síntesis de voz en Español.</item>
+        <item>이것은 한국어 음성 합성의 예입니다.</item>
+    </string-array>
     <string-array name="tts_rate_entries">
         <item>Très lente</item>
         <item>Lente</item>
@@ -280,6 +293,18 @@
         <item>Rapide</item>
         <item>Très rapide</item>
         <item>La plus rapide</item>
+    </string-array>
+    <string-array name="uplmn_prefer_network_mode_td_choices">
+        <item>GSM</item>
+        <item>TD-SCDMA</item>
+        <item>LTE</item>
+        <item>Triple mode</item>
+    </string-array>
+    <string-array name="uplmn_prefer_network_mode_w_choices">
+        <item>GSM</item>
+        <item>WCDMA</item>
+        <item>LTE</item>
+        <item>Triple mode</item>
     </string-array>
     <string-array name="tty_mode_entries">
         <item>TTY désactivé</item>
