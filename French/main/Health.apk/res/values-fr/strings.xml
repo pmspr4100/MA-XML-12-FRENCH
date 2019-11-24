@@ -133,7 +133,7 @@ Mi Health will only notify you about important items."</string>
   <string name="dialog_menstruation_purpose">Welcome to Mi Health! \"Menstruation\" allows you to record periods, determine estimated dates of upcoming periods, and receive reminders. All the related data will be stored locally on your device, which allows you to manage it easily.</string>
   <string name="dialog_no_more_prompt">"Don't show again"</string>
   <string name="dialog_ok">OK</string>
-  <string name="dialog_open">Allow</string>
+  <string name="dialog_open">Autoriser</string>
   <string name="dialog_permission_loading_msg">Checking…</string>
   <string name="dialog_privacy_policy_statement">Privacy Policy statement</string>
   <string name="dialog_privacy_title">Terms and conditions</string>
@@ -145,9 +145,9 @@ Mi Health will only notify you about important items."</string>
   <string name="dialog_sure">OK</string>
   <string name="dialog_user_agreement_purpose">Welcome to Mi Health! You can use this app to count steps, track sleep, periods, and weight, as well as receive health advice.</string>
   <string name="drink_water">Drink some water and take a walk.</string>
-  <string name="edit_basic_info_desc">Basic info</string>
+  <string name="edit_basic_info_desc">Info de base</string>
   <string name="edit_sleep_record_button">Quitter</string>
-  <string name="enter_mi_health">Open Mi Health</string>
+  <string name="enter_mi_health">Ouvrir Mi Health</string>
   <string name="equivalent_exercise">≈%1$s km walk (%2$s kcal)</string>
   <string name="exercise">Activité</string>
   <string name="exercise_goal_accomplished">Reached goal</string>
@@ -190,7 +190,6 @@ Mi Health will only notify you about important items."</string>
   <string name="improve_your_health_default_tips">Exercise and get enough sleep to stay healthy.</string>
   <string name="input_body_weight">Enter weight data to get health advice</string>
   <string name="jump_over">Suivant</string>
-  <string name="key_sedentary_toggle">sedentary_toggle</string>
   <string name="label_average_daily_sleep_duration">Avg sleep duration</string>
   <string name="label_average_daily_sleep_time">Avg fall asleep time</string>
   <string name="label_average_daily_sleep_time2">Avg fall asleep time</string>
@@ -198,8 +197,8 @@ Mi Health will only notify you about important items."</string>
   <string name="label_body_weight_evaluation">Weight assessment</string>
   <string name="label_body_weight_recent">Recent</string>
   <string name="label_body_weight_trend">Progress</string>
-  <string name="label_duration">Duration</string>
-  <string name="label_end_time">End</string>
+  <string name="label_duration">Durée</string>
+  <string name="label_end_time">Fin</string>
   <string name="label_exercise_goal">Goal</string>
   <string name="label_get_device_id">Get device ID</string>
   <string name="label_got_up">Got up</string>
@@ -221,7 +220,7 @@ Mi Health will only notify you about important items."</string>
   <string name="last_measure_date">"Last weigh-in: "</string>
   <string name="last_measure_hours_minutes">%1$s since last weigh-in</string>
   <string name="light_sleep">Light sleep</string>
-  <string name="manual_adjust">Adjust</string>
+  <string name="manual_adjust">Adjuster</string>
   <string name="manual_input">Enter manually</string>
   <string name="manual_page_label_body_weight_select">Select weight</string>
   <string name="manual_page_label_measure_date">Weigh-in time</string>
@@ -246,16 +245,16 @@ Mi Health will only notify you about important items."</string>
   <string name="mesens_card_title_tomorrow_begin">Period might start tomorrow</string>
   <string name="mi_health">Mi Health</string>
   <string name="minute">M</string>
-  <string name="model_card_setting">Card settings</string>
-  <string name="modify">Edit</string>
-  <string name="modify_end_date">Change end date</string>
+  <string name="model_card_setting">Paramètres de la carte</string>
+  <string name="modify">Modifier</string>
+  <string name="modify_end_date">Changer la date de fin</string>
   <string name="month">Month</string>
   <string name="more_card">More cards</string>
-  <string name="mtrl_badge_numberless_content_description">New notification</string>
-  <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
-  <string name="mtrl_picker_date_format">MMM dd, yyyy</string>
-  <string name="mtrl_picker_date_header_title">Select a Date</string>
-  <string name="mtrl_picker_date_header_unselected">Selected Date</string>
+  <string name="mtrl_badge_numberless_content_description">Nouvelle notification</string>
+  <string name="mtrl_chip_close_icon_content_description">Supprimer %1$s</string>
+  <string name="mtrl_picker_date_format">dd MMM, yyyy</string>
+  <string name="mtrl_picker_date_header_title">Sélectionnez une date</string>
+  <string name="mtrl_picker_date_header_unselected">Date sélectionnée</string>
   <string name="mtrl_picker_range_header_title">Select a Date Range</string>
   <string name="mtrl_picker_range_header_unselected">Start Date - End Date</string>
   <string name="name_title_menstruation_today_end">Period is expected to end today</string>
@@ -272,7 +271,7 @@ Mi Health will only notify you about important items."</string>
   <string name="permission_manage">Manage permissions</string>
   <string name="permission_tip">Give Mi Health the following permissions to allow it to track your sleep accurately</string>
   <string name="predict_menstruation">Expected period</string>
-  <string name="preference_about">About</string>
+  <string name="preference_about">A Propos</string>
   <string name="preference_basic_info">Basic info</string>
   <string name="preference_feedback">Feedback</string>
   <string name="preference_health_info_proposal_title">Get accurate stats and helpful tips</string>
@@ -304,11 +303,11 @@ Mi Health will only notify you about important items."</string>
   <string name="remind_title_menstruation_start">Remind when period starts</string>
   <string name="remind_title_record">Remind to record</string>
   <string name="revert_to_default">Restore defaults</string>
-  <string name="search_menu_title">Search</string>
+  <string name="search_menu_title">Recherche</string>
   <string name="sedentary_detail_title">Sitting for too long is harmful</string>
   <string name="sedentary_enhance_remind">Vibrate as well</string>
   <string name="sedentary_enhance_remind_content">This feature works when DND is off</string>
-  <string name="sedentary_harm_known">Got it</string>
+  <string name="sedentary_harm_known">"C'est compris"</string>
   <string name="sedentary_popular_science">"* Sitting or not moving for a long time isn't good for you. Unless you're sleeping, try to move for at least for 2 minutes every hour. Remember that it's not recommended to be still for more than 6 hours a day."</string>
   <string name="sedentary_reminder_channel_name">Remind to move</string>
   <string name="sedentary_reminder_subject">Remind to move</string>
@@ -317,14 +316,14 @@ Mi Health will only notify you about important items."</string>
   <string name="sedentary_toggle_content">"Mi Health will remind you to get up and walk if you've been inactive for a long period of time."</string>
   <string name="select_menstruation_end_date">Select the end date of this period</string>
   <string name="select_null">Not selected</string>
-  <string name="setting">Settings</string>
+  <string name="setting">Paramètres</string>
   <string name="setting_sedentary_off">Désactivé</string>
   <string name="setting_sedentary_on">Activé</string>
   <string name="setting_sedentary_title">Remind to move</string>
-  <string name="skip">Skip</string>
-  <string name="sleep">Sleep</string>
+  <string name="skip">Suivant</string>
+  <string name="sleep">Sommeil</string>
   <string name="sleep_auto_start_perm_grant">Permissions granted</string>
-  <string name="sleep_chart_empty">No data</string>
+  <string name="sleep_chart_empty">Aucune données</string>
   <string name="sleep_chart_loading">Chargement…</string>
   <string name="sleep_day">Jour</string>
   <string name="sleep_detector_content">Mi Health is tracking your sleep in the background</string>
@@ -366,7 +365,7 @@ sleep data"</string>
   <string name="sleep_tracing_operation">Tracking sleep…</string>
   <string name="sleep_track">Track sleep</string>
   <string name="sleep_week">Week</string>
-  <string name="splash_edit_basic_save_btn">Next</string>
+  <string name="splash_edit_basic_save_btn">Suivant</string>
   <string name="splash_header_subtitle">"Regular exercise and sleep
 can improve your health."</string>
   <string name="splash_header_title">Global health authorities say:</string>
@@ -447,7 +446,7 @@ Update now?"</string>
   <string name="v7_preference_on">Activé</string>
   <string name="weight_trend_offset_date">"From %1$s to %2$s: "</string>
   <string name="weight_unit_kg">KG</string>
-  <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
+  <string name="xiaomi_update_sdk_bytes_unit">%1$s o</string>
   <string name="xiaomi_update_sdk_connect_download_manager_fail">Connect Download Manager failed, please check the Download Manager state in the Application Management.</string>
   <string name="xiaomi_update_sdk_dialog_message">"Introducing version %1$s
 Size: %2$s"</string>
