@@ -3179,7 +3179,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
   <string name="lockscreen_remote_input">"Si l'appareil est verrouillé, empêcher la saisie des réponses ou de texte dans les notifications"</string>
   <string name="lockscreen_settings_title">"Préférences relatives à l'écran de verrouillage"</string>
   <string name="lockscreen_settings_what_to_show_category">Que montrer</string>
-  <string name="lockscreen_sidepanel_shortcuts_summary">"Personnalisez les applications affichées sur le panneau latéral de l'écran de verrouillage."</string>
+  <string name="lockscreen_sidepanel_shortcuts_summary">"Personnaliser les applications affichées sur le panneau latéral de l'écran de verrouillage"</string>
   <string name="lockscreen_sidepanel_shortcuts_title">Raccourcis des panneaux latéraux</string>
   <string name="login_account_dialog_message">Connectez-vous avec un compte Mi et activez la synchronisation avec le Cloud.</string>
   <string name="login_account_dialog_title">Se connecter avec le compte Mi</string>
@@ -3192,7 +3192,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
   <string name="long_press_menu_key_when_lock">"Appui prolongé sur Menu à l'écran de verrouillage"</string>
   <string name="long_press_power_key">"Appuyez longuement sur le bouton d'alimentation"</string>
   <string name="long_press_power_key_half_of_second">"Appuyez et maintenez le bouton d'alimentation pendant 0.5s pour activer Google Assistant"</string>
-  <string name="long_press_power_key_tips">&lt;Data&gt;Long press the Power button &amp;lt;font color=#999999&amp;gt;Faster and more convenient&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+  <string name="long_press_power_key_tips">"&lt;Data&gt;Appuyez longuement sur le bouton d'alimentation &amp;lt;font color=#999999&amp;gt;Plus rapide et plus pratique&amp;lt;/font&amp;gt;&lt;/Data&gt;"</string>
   <string name="long_press_volume_down">Appui prolongé sur le bouton inférieur du volume</string>
   <string name="lost_internet_access_cancel">Rester en Wi-Fi</string>
   <string name="lost_internet_access_persist">Ne plus afficher</string>
@@ -3617,9 +3617,9 @@ Sélectionnez votre système d'exploitation:"</string>
   <string name="network_2G">2G</string>
   <string name="network_3G">3G</string>
   <string name="network_4G">4G (recommandé)</string>
-  <string name="network_alarm">"Don't silence internet calls"</string>
+  <string name="network_alarm">"Ne faites pas taire les appels internet"</string>
   <string name="network_alarm_summary">"Remarque: certaines applications ne sont pas compatibles avec cette fonctionnalité. %1$s"</string>
-  <string name="network_alarm_summary_reg">View supported apps</string>
+  <string name="network_alarm_summary_reg">Afficher les applications prises en charge</string>
   <string name="network_alarm_support_apps">Supported apps</string>
   <string name="network_assistant">Consommation des données</string>
   <string name="network_changed_noti_summary">Avec les données mobiles</string>
@@ -4954,25 +4954,25 @@ Pour épingler l'écran:
   <string name="search_vpn_settings_title">VPN;Ajouter VPN;Activer VPN</string>
   <string name="search_wakeup_for_keyguard_notification_title">"Allumer l'écran pour les notifications;allumer l'écran;allumer l'appareil;allumer le téléphone"</string>
   <string name="search_wallpaper_settings_title">"Fond d'écran;Écran d'accueil;Écran de verrouillage"</string>
-  <string name="search_wfd_settings_title">"Affichage sans-fil; Activer l'affichage sans-fil; WiDi; Distribution; Affichage Wi-Fi; Affichage à distance; Affichage"</string>
+  <string name="search_wfd_settings_title">"Affichage sans-fil; Activer l'affichage sans-fil; Wi-Fi; Distribution; Affichage Wi-Fi; Affichage à distance; Affichage"</string>
   <string name="search_wifi_advanced_ip_address_title">Adresse IP;IP</string>
   <string name="search_wifi_advanced_mac_address_title">Adresse MAC Wi-Fi;Adresse MAC Wi-Fi</string>
   <string name="search_wifi_enable">Wi-Fi;Wi-Fi;Wi-Fi;Activer Wi-Fi;Activer Wi-Fi;Activer Wi-Fi</string>
   <string name="search_wifi_install_credentials">Installer les certificats;Certificats</string>
   <string name="search_wifi_menu_p2p">Wi-Fi Direct;Wi-Fi Direct</string>
   <string name="search_wifi_menu_wps_pin">Entrée du code WPS;WPS;Code WPS</string>
-  <string name="search_wifi_scan_always_available">Recherche toujours disponible;Rechercher des réseaux;Rechercher Wifi;Rechercher Wi-Fi</string>
-  <string name="search_wifi_setting_frequency_band_title">Bande de fréquence Wi-Fi;Fréquence WIFI;Fréquence Wi-Fi;Fréquence Wi-Fi;Bande de fréquence</string>
-  <string name="search_wifi_setting_sleep_policy_title">Garder le Wi-Fi activé en mode veille;Garder le WiFi activé en mode veille;Garder le Wi-Fi activé en mode veille;Wi-Fi activé pendant le mode veille;WiFi activé pendant le mode veille;WLAN activé pendant le mode veille</string>
+  <string name="search_wifi_scan_always_available">Recherche toujours disponible;Rechercher des réseaux;Rechercher Wi-Fi;Rechercher Wi-Fi</string>
+  <string name="search_wifi_setting_frequency_band_title">Bande de fréquence Wi-Fi;Fréquence Wi-Fi;Fréquence Wi-Fi;Fréquence Wi-Fi;Bande de fréquence</string>
+  <string name="search_wifi_setting_sleep_policy_title">Garder le Wi-Fi activé en mode veille;Garder le Wi-Fi activé en mode veille;Garder le Wi-Fi activé en mode veille;Wi-Fi activé pendant le mode veille;Wi-Fi activé pendant le mode veille;WLAN activé pendant le mode veille</string>
   <string name="search_wifi_settings_title">Wi-Fi;Wi-Fi;Paramètres additionnels;Wi-Fi;Réseaux sans-fil;Sans-fil</string>
   <string name="search_wifi_tether_checkbox">"Point d'accès mobile;Point d'accès;mobile"</string>
   <string name="search_wifi_tether_configure_ap_text">"Configurer le point d'accès mobile;Définir un point d'accès;Ajouter un point d'accès;Configurer un point d'accès"</string>
-  <string name="search_wifi_tether_settings_title">"Partage de connexion et point d'accès mobile;partager internet;Point d'accès Réseau local sans-fil;Point d'accès WiFi;Point d'accès Wi-Fi"</string>
+  <string name="search_wifi_tether_settings_title">"Partage de connexion et point d'accès mobile;partager internet;Point d'accès Réseau local sans-fil;Point d'accès Wi-Fi;Point d'accès Wi-Fi"</string>
   <string name="search_wifi_wapi_cert_install">Installer le certificatWAPI;Certificats WAPI;WAPI</string>
   <string name="search_wifi_wapi_cert_uninstall">Désinstaller le certificat WAPI;Certificats WAPI;WAPI</string>
   <string name="search_wps_connect_title">Bouton WPS push;Connecter WPS;WPS</string>
   <string name="search_xiaomi_account">Compte Mi; Identifiant de compte Mi; Compte; Identifiant de compte; Compte Xiaomi; Protection de compte; Protéger le compte; Sécurité du compte; Mon compte</string>
-  <string name="search_xspace">Application double;Applications doubles;Double application;Doubles applications;Application clônée;Applications clônées;Derux applications;2 applications;Deux comptes;2 comptes</string>
+  <string name="search_xspace">Application double;Applications doubles;Double application;Doubles applications;Application clônée;Applications clônées;Deux applications;Deux applications;Deux comptes;Deux comptes</string>
   <string name="second_space">Deuxième espace</string>
   <string name="secondspace_category">Deuxième espace</string>
   <string name="secondspace_delete_space_title">Supprimer le deuxième espace</string>
