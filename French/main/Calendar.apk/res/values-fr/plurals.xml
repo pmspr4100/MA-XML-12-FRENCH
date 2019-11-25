@@ -91,6 +91,10 @@
     <plurals name="feed_list_dislike_title">
         <item quantity="other">已选%1$d个理由</item>
     </plurals>
+    <plurals name="other_all_day_events">
+        <item quantity="other">%d autres événements</item>
+        <item quantity="one">%d autre événement</item>
+    </plurals>
     <plurals name="reminder_custom_unit_day">
         <item quantity="other">" jours"</item>
         <item quantity="one">" jour"</item>
