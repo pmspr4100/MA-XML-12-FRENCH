@@ -5,8 +5,8 @@
         <item quantity="one">Walk at least %1$d step every day</item>
     </plurals>
     <plurals name="day_index">
-        <item quantity="other">%1$d days</item>
-        <item quantity="one">%1$d day</item>
+        <item quantity="other">%1$d jours</item>
+        <item quantity="one">%1$d jour</item>
     </plurals>
     <plurals name="dialog_choose_items">
         <item quantity="other">Selected %1$d items</item>
@@ -17,16 +17,16 @@
         <item quantity="one">Delete %1$d record?</item>
     </plurals>
     <plurals name="goal_format_with_unit">
-        <item quantity="other">Goal: %1$d steps</item>
-        <item quantity="one">Goal: %1$d step</item>
+        <item quantity="other">Objectif: %1$d pas</item>
+        <item quantity="one">Objectif: %1$d pas</item>
     </plurals>
     <plurals name="goal_unit">
-        <item quantity="other">" steps"</item>
-        <item quantity="one">" step"</item>
+        <item quantity="other">" pas"</item>
+        <item quantity="one">" pas"</item>
     </plurals>
     <plurals name="goal_unit_with_number">
-        <item quantity="other">%1$d steps</item>
-        <item quantity="one">%1$d step</item>
+        <item quantity="other">%1$d pas</item>
+        <item quantity="one">%1$d pas</item>
     </plurals>
     <plurals name="hours">
         <item quantity="other">%1$d hrs</item>
@@ -65,20 +65,16 @@
         <item quantity="one">%d new notification</item>
     </plurals>
     <plurals name="sleep_goal_by_hour">
-        <item quantity="other">Goal: %1$d hours</item>
-        <item quantity="one">Goal: %1$d hour</item>
+        <item quantity="other">Objectif: %1$d heures</item>
+        <item quantity="one">Objectif: %1$d heure</item>
     </plurals>
     <plurals name="sleep_management_exp_hours">
         <item quantity="other">"Current settings won't guarantee you %1$d hours of sleep daily. You need more than that."</item>
         <item quantity="one">"Current settings won't guarantee you %1$d hour of sleep daily. You need more than that."</item>
     </plurals>
     <plurals name="step_num_format">
-        <item quantity="other">%1$d steps</item>
-        <item quantity="one">%1$d step</item>
-    </plurals>
-    <plurals name="steps_format">
-        <item quantity="other">%1$d</item>
-        <item quantity="one">%1$d</item>
+        <item quantity="other">%1$d pas</item>
+        <item quantity="one">%1$d pas</item>
     </plurals>
     <plurals name="subtitle_add_record">
         <item quantity="other">"You haven't recorded for %1$d days. Record your periods to get more accurate predictions."</item>
@@ -117,8 +113,8 @@
         <item quantity="one">%1$d step today</item>
     </plurals>
     <plurals name="unit_days">
-        <item quantity="other">" days"</item>
-        <item quantity="one">" day"</item>
+        <item quantity="other">" jours"</item>
+        <item quantity="one">" jour"</item>
     </plurals>
     <plurals name="user_age_display_format_year">
         <item quantity="other">%1$d years old</item>
