@@ -164,6 +164,17 @@ Appuyer sur l'écran pour ajouter manuellement ou repositionner une ville"</stri
   <string name="more_details">Plus de détails</string>
   <string name="network_not_available">Impossible de se connecter au réseau</string>
   <string name="network_unavailable">Impossible de se connecter au réseau.</string>
+  <string name="news_hour_minute_time_format">dd-MM-yyyy HH:mm</string>
+  <string name="news_load_more_default">上拉刷新</string>
+  <string name="news_load_more_failed">网络不可用，请检查网络后重试</string>
+  <string name="news_load_more_loading">正在刷新</string>
+  <string name="news_load_more_no_data">仅展示最近48小时的资讯</string>
+  <string name="news_refresh_loading">正在载入</string>
+  <string name="news_refresh_pull_to_refresh">下拉刷新</string>
+  <string name="news_refresh_release_to_refresh">松开刷新</string>
+  <string name="news_tips_net_error">网络不可用，请检查网络后重试</string>
+  <string name="news_tips_no_data">暂无更多新资讯</string>
+  <string name="news_tips_success">已更新%1$d条资讯</string>
   <string name="night_not_disturb_settings_summary">Bloquer les alertes entre 23h00 et 7h00</string>
   <string name="night_not_disturb_settings_title">Ne pas déranger la nuit</string>
   <string name="no_data">Aucune donnée</string>
@@ -266,6 +277,7 @@ Appuyer sur l'écran pour ajouter manuellement ou repositionner une ville"</stri
   <string name="weather_list_title">天气头条</string>
   <string name="weather_permission_agree">Accepter</string>
   <string name="weather_service_channel_name">Services darrière-plan</string>
+  <string name="widget_cta_not_agree">Cliquez pour obtenir des informations météo</string>
   <string name="wind_direction_no_data">Vent</string>
   <string name="wind_unit">%1$s km/h</string>
   <string name="xiaomi_weather_description_content">"L'application Météo vous fournit des infos météorologiques avec précision. Sans cette application, la Barre d'État et le widget de météo ne fonctionneront pas correctement. Assurez-vous que vous pouvez vous passer de ces foncitonnalités avant de désinstaller l'application."</string>
