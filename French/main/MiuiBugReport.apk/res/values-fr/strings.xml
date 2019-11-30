@@ -90,6 +90,7 @@
   <string name="feedback_choose_app_tag">Sélectionner un problème</string>
   <string name="feedback_choose_module">Sélectionner un élément</string>
   <string name="feedback_choose_module_hint">Requis</string>
+  <string name="feedback_choose_occurrence_time">Temps</string>
   <string name="feedback_choose_reproductivity">Reproductivité</string>
   <string name="feedback_choose_third_app_name">"Sélectionner le nom de l'application"</string>
   <string name="feedback_collect_log_failed">"Impossible d'obtenir les journaux"</string>
@@ -119,6 +120,7 @@
   <string name="feedback_detail_waiting">Generating…</string>
   <string name="feedback_empty_report_list">No reports yet</string>
   <string name="feedback_guess">Our guess:</string>
+  <string name="feedback_hint_optional">Sélectionner</string>
   <string name="feedback_history_remind_login_desc">Connectez-vous avec votre Compte Mi pour voir les détails et la progression de vos commentaires</string>
   <string name="feedback_id">ID: %d</string>
   <string name="feedback_jira_key">Clé JIRA: %s</string>
@@ -183,6 +185,7 @@
   <string name="feedback_third_packagename_hint">Quelle application tierce cause problèmes ?</string>
   <string name="feedback_title">Titre</string>
   <string name="feedback_title_hint">Décrivez brièvement le problème</string>
+  <string name="feedback_title_occurrence_time">"Sélectionnez l'heure"</string>
   <string name="feedback_title_reproductivity">Sélectionner la reproductivité</string>
   <string name="feedback_tracking">Suivi des problèmes</string>
   <string name="feedback_version_label">Version</string>
@@ -546,6 +549,12 @@ Pour activer votre compte, suivez le
   <string name="toast_pic_not_exists">"L'image en cache a été supprimée"</string>
   <string name="toast_post_deleted">"Ce sujet n'existe pas, il a été supprimé ou modifié."</string>
   <string name="toast_problem_class_required">Sélectionner une catégorie</string>
+  <string name="toast_report_copied_to_clipboard">Report copied to clipboard</string>
+  <string name="toast_report_sent_failed">"Can't send report"</string>
+  <string name="toast_report_sent_succeed">Report has been sent</string>
+  <string name="toast_screenshot_too_large">"Can't upload images or videos bigger than 100MB."</string>
+  <string name="toast_third_packagename_required">Enter app name</string>
+  <string name="toast_title_required">Describe your issue</string>
   <string name="try_again">Veuillez réessayer</string>
   <string name="upload_log_failed">"Impossible d'envoyer les journaux"</string>
   <string name="warning_field_empty">Entrer %1$s</string>
