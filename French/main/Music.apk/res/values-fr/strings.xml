@@ -41,6 +41,7 @@
   <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
   <string name="abc_toolbar_collapse_description">Réduire</string>
   <string name="account_and_cloud">Compte</string>
+  <string name="account_logout">Déconnexion</string>
   <string name="action_item_add">Ajouter à</string>
   <string name="action_item_add_song">Ajouter à une playlist</string>
   <string name="action_item_add_to_current_playlist">"Ligne d'attente"</string>
@@ -68,6 +69,8 @@
   <string name="agreement_desc">"Accord de l'utilisateur (obligatoire)"</string>
   <string name="alaka_required">Vous devez payer pour écouter cette chanson</string>
   <string name="alarm_clock_ringtones_successful">Alarme défini avec succès</string>
+  <string name="album_cover">"Couverture de l'album"</string>
+  <string name="album_is_empty">"Le nom de l'album ne peut pas être vide."</string>
   <string name="album_label">"Couvertures d'album"</string>
   <string name="album_name">Album</string>
   <string name="all_album_count">Tous les albums (%d)</string>
@@ -107,6 +110,8 @@
   <string name="artist_is_empty">"Le nom de l'artiste ne peut pas être vide."</string>
   <string name="artist_name">Artiste</string>
   <string name="audio_picker_title">Choisir une chanson</string>
+  <string name="auto_recommend">Auto (recommandé)</string>
+  <string name="auto_sound_quality">Auto</string>
   <string name="auto_update">Mettre à jour automatiquement</string>
   <string name="auto_update_tip">"Vous pouvez mettre à jour les applications système à l'aide de données mobiles. Cela pourrait générer des frais de données supplémentaires."</string>
   <string name="available_playlist_name_format">Nouvelle playlist %d</string>
@@ -130,6 +135,7 @@
   <string name="checking_new_version">Vérification des updates…</string>
   <string name="choose_download_quality">Choisir la qualité de téléchargement</string>
   <string name="choose_stream_quality">Qualité de diffusion préférée</string>
+  <string name="click_to_add_album_cover_and_lyric">"Appuyez pour ajouter une couverture d'album et des paroles"</string>
   <string name="click_to_shuffle">Appuyer pour une lecture aléatoire</string>
   <string name="close_music_time">"Temps restant: "</string>
   <string name="common_google_play_services_enable_button">Activer</string>
@@ -267,6 +273,7 @@
   <string name="download_running">En cours</string>
   <string name="download_running_percent">Progression %d%%</string>
   <string name="download_share_dialog">Partager via</string>
+  <string name="download_song_quality_title">Qualité des chansons téléchargées</string>
   <string name="download_start">Lancement du téléchargement…</string>
   <string name="download_start_apk">Démarrage du téléchargement… Afficher la progression dans la barre de notification.</string>
   <string name="download_start_btn">Télécharger</string>
@@ -383,13 +390,15 @@
   <string name="floating_view_dialog_desc">Music will stop playing if you leave this page now. Leave anyway?</string>
   <string name="floating_view_dialog_leave">Leave</string>
   <string name="floating_view_dialog_stay">Stay</string>
-  <string name="floating_view_dialog_title">Leave this page?</string>
+  <string name="floating_view_dialog_title">Quitter cette page ?</string>
   <string name="follow">Suivre</string>
   <string name="followed">Suivi</string>
   <string name="format_not_support">"Ce format n'est pas pris en charge."</string>
   <string name="format_unsupported_or_corrupted">"Ce format n'est pas supporté ou le fichier est corrompu"</string>
   <string name="fragment_title_artist_album">Albums</string>
   <string name="gcm_fallback_notification_channel_label">Divers</string>
+  <string name="get_more_favorite_content_after_login">Connectez-vous pour découvrir plus de chansons et de vidéos.</string>
+  <string name="google_account_login">Connectez-vous avec Google</string>
   <string name="goto_local_search">"Rechercher sur l'appareil"</string>
   <string name="goto_online_search">Recherche en ligne</string>
   <string name="handle_later">Pas maintenant</string>
@@ -399,6 +408,7 @@
   <string name="headset_and_audio_effect_title">Écouteurs et effets audio</string>
   <string name="hide_album">"Masquer la couverture de l'album"</string>
   <string name="hide_lyric">Masquer les paroles</string>
+  <string name="high_sound_quality">High</string>
   <string name="higher_quality_music">Audio haute qualité</string>
   <string name="higher_quality_music_summary">Écouter et télécharger des fichiers de haute qualité</string>
   <string name="home_tab_home">Home</string>
@@ -415,7 +425,7 @@
   <string name="hungama_category_playlist">Playlistes</string>
   <string name="hungama_category_radio">Radio</string>
   <string name="hungama_category_video">Vidéos</string>
-  <string name="hungama_category_vip">Vip</string>
+  <string name="hungama_category_vip">Pro</string>
   <string name="hungama_free_download_out_summary">Vous ne pouvez pas télécharger plus de chansons gratuites. Obtenez un abonnement PRO pour télécharger des chansons illimitées ?</string>
   <string name="hungama_free_download_out_summary_toast">"Vous avez déjà téléchargé %d chansons. Obtenez un abonnement pour télécharger plus."</string>
   <string name="hungama_playlist_category">Catégorie de playliste</string>
@@ -467,7 +477,10 @@
   <string name="local_page_artist_more">Plus de chansons par %s</string>
   <string name="local_page_playlist">Playlistes</string>
   <string name="local_page_song_download_history">Téléchargements</string>
+  <string name="login_instantly">Sign in</string>
+  <string name="login_mi_account_and_gain_more_rights">Sign in with your Mi Account to access more features.</string>
   <string name="long_press_to_select_lyric">Appuyer et maintenir pour sélectionner le fichier de paroles local</string>
+  <string name="low_sound_quality">Low</string>
   <string name="lrc_search_failed">Impossible de trouver les paroles</string>
   <string name="lrc_searching">Recherche…</string>
   <string name="lyric_is_empty">Aucune parole disponible</string>
@@ -492,6 +505,7 @@
   <string name="metered_serious_alert_msg_with_beyond_data">Vous avez déjà dépassé la limite de vos données mobiles de %s. Utilisez des données mobiles pour lire des chansons ?</string>
   <string name="metered_serious_alert_msg_with_data">Il vous reste seulement %s de données mobiles. Utilisez des données mobiles pour lire des chansons ?</string>
   <string name="metered_serious_allow">Lire quand même</string>
+  <string name="middle_sound_quality">Standard</string>
   <string name="milink_unavaliable_please_update">"Le lien Mi n'est pas disponible. Mettre MIUI à jour."</string>
   <string name="missing_title">&lt;Inconnu&gt;</string>
   <string name="miuishare_account_login_ok">Se connecter</string>
@@ -518,6 +532,7 @@
   <string name="mulit_choice_management">Gérer plusieurs éléments</string>
   <string name="music_browser_label">Musique</string>
   <string name="music_filter">Filtrer les fichiers audio</string>
+  <string name="music_recommendation">Song recommendations</string>
   <string name="music_service">Service Musique</string>
   <string name="music_settings">Musique</string>
   <string name="mv_metered_play_summary">"Ne pas afficher l'avertissement d'utilisation des données"</string>
@@ -534,6 +549,7 @@
   <string name="network_settings_error">Impossible de se connecter au réseau</string>
   <string name="network_traffic">Utilisation des données</string>
   <string name="next_time">Pas maintenant</string>
+  <string name="next_to_play">Up next</string>
   <string name="no_album_info">"Aucune info sur l'album"</string>
   <string name="no_artist_info">"Aucune info sur l'artiste"</string>
   <string name="no_downloads">Aucun téléchargement</string>
@@ -542,6 +558,7 @@
   <string name="no_local_songs">Vide</string>
   <string name="no_local_songs_selected">"Impossible d'envoyer ces chansons parce qu'elles n'ont pas été téléchargées"</string>
   <string name="no_local_source_find">Impossible de trouver la chanson</string>
+  <string name="no_longer_prompt">"Don't show again"</string>
   <string name="no_results_return">Aucun résultat</string>
   <string name="no_scanned_songs">Aucun</string>
   <string name="no_song_downloaded">Impossible de trouver des chansons à télécharger</string>
@@ -599,9 +616,11 @@
   <string name="online_service_open_tip">Les services de musique en ligne sont activés</string>
   <string name="online_service_title">Services en ligne</string>
   <string name="online_switch">Services de contenu en ligne</string>
+  <string name="online_switch_confirm_title">Turning off online content services will make all online features unavailable. Turn off anyway?</string>
   <string name="online_switch_message">Désactiver les services en ligne affectera les services et les recommandations VIP. Désactiver quand même ?</string>
   <string name="online_switch_setting">Paramètres du contenu en ligne</string>
   <string name="open_online_service">"Vous avez besoin d'activer les services en ligne afin d'utiliser cette fonctionnalité. Activer maintenant ?"</string>
+  <string name="only_pro_can_choose_hd_sound_quality">HD audio is only available to PRO members</string>
   <string name="open_service">Activer</string>
   <string name="operation_done_close">Fermer</string>
   <string name="other_song_in_album">"D'autres chansons de cet album"</string>
@@ -628,6 +647,7 @@
   <string name="pick_recent_song">Récemment lu</string>
   <string name="play_all_song">Tout lire</string>
   <string name="play_empty_playlist">Impossible de lire des chansons. La playlist est vide.</string>
+  <string name="play_history">Playback history</string>
   <string name="play_mode_all_loop">Tout répéter</string>
   <string name="play_mode_one_loop">Boucle</string>
   <string name="play_mode_play_all">Tout lire</string>
@@ -664,6 +684,7 @@
   <string name="ready_to_play">Passer au suivant</string>
   <string name="recently_played">Joué récemment</string>
   <string name="recently_played_songs">Récent</string>
+  <string name="recommend_songs_when_playing_audio_files">Get song recommendations while listening to music</string>
   <string name="recommended_file_size_download_in_mobile">Utiliser %s de données mobiles pour télécharger ce fichier ?</string>
   <string name="recommended_no_file_size_download_in_mobile">Utiliser votre connexion de données mobiles pour télécharger ce fichier ?</string>
   <string name="remove">Retirer</string>
@@ -694,6 +715,7 @@ Be Happy"</string>
   <string name="s6">"Autoriser l'annonce à créer un événement d'agenda ?"</string>
   <string name="s7">Annonce test</string>
   <string name="save_changes">Enregistrer les modifications </string>
+  <string name="save_image">Save image</string>
   <string name="search_album_and_lyric">Recherche de pochettes et paroles</string>
   <string name="search_empty">Impossible de trouver des résultats</string>
   <string name="search_empty_subtitle_online_music">Appuyez sur le bouton ci-dessous pour ouvrir %s.</string>
@@ -719,7 +741,9 @@ Be Happy"</string>
   <string name="select_desc_sub">"Vous pouvez sélectionner jusqu'à 3 langues"</string>
   <string name="select_device">Sélectionnez un périphérique</string>
   <string name="select_displayed_folders">Choisir les dossiers à afficher</string>
+  <string name="select_local_album_cover">Select image</string>
   <string name="select_local_cover">Sélectionner la couverture locale</string>
+  <string name="select_local_lyric">Select file</string>
   <string name="select_local_lyric_file">Sélectionner le fichier de paroles local</string>
   <string name="select_none">Tout désélectionner</string>
   <string name="select_one_language">Sélectionner au moins une langue</string>
@@ -769,6 +793,7 @@ Be Happy"</string>
   <string name="song_not_find">"Cette chanson n'est pas disponible."</string>
   <string name="song_offline">"Cette chanson n'est plus disponible."</string>
   <string name="song_picker_complete">Terminé</string>
+  <string name="song_quality_category">Musique</string>
   <string name="songgroup_pick_album">Albums</string>
   <string name="songgroup_pick_playlist">Playlistes</string>
   <string name="sort_by_name">Nom</string>
@@ -781,11 +806,13 @@ Be Happy"</string>
   <string name="storage_sd_card">Stockage externe</string>
   <string name="storage_usb">Stockage USB</string>
   <string name="streamloadingtext">Connexion à %s</string>
+  <string name="switch_success">Switched successfully</string>
   <string name="tab_album">Albums</string>
   <string name="tab_album_list">Albums</string>
   <string name="tab_artist">Artistes</string>
   <string name="tab_artist_list">Artistes</string>
   <string name="tab_chart">Graphiques</string>
+  <string name="tab_flow">Watch</string>
   <string name="tab_folder">Dossiers</string>
   <string name="tab_playlist">Playlistes</string>
   <string name="tab_track">Chansons</string>
@@ -837,6 +864,7 @@ Be Happy"</string>
   <string name="toast_uhd_songs_for_stream">Qualité de lecture définie sur Élevée</string>
   <string name="today">"Aujourd'hui"</string>
   <string name="top_chart_title">Chartes</string>
+  <string name="track_play_history_after_login">Sign in to view playback history</string>
   <string name="ultra_high_quality">La plus haute</string>
   <string name="unknown_album_name">Album inconnu</string>
   <string name="unknown_artist_name">Artiste inconnu</string>
@@ -850,6 +878,7 @@ Be Happy"</string>
   <string name="v7_preference_off">Désactivé</string>
   <string name="v7_preference_on">Activé</string>
   <string name="version_info">Version</string>
+  <string name="vhigh_sound_quality">HD</string>
   <string name="video_play_cellular">"Votre appareil n'est pas connecté au Wi-Fi. Utiliser les données mobiles?"</string>
   <string name="video_replay_btn">Relire</string>
   <string name="video_retry_btn">Veuillez réessayer</string>

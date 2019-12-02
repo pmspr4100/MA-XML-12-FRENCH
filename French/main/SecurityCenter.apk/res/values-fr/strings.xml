@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="HIPS_Perm_CallLog_Desc">"écrire et supprimer l'historique des appels"</string>
+  <string name="HIPS_Perm_Call_Desc">appeler directement des numéros de téléphone</string>
+  <string name="HIPS_Perm_Contact_Desc">modifier et supprimer des contacts</string>
+  <string name="HIPS_Perm_PhoneID_Desc">"numéro de téléphone d'accès, IMEI et IMSI"</string>
+  <string name="HIPS_Perm_PhoneID_Desc_Q">"Numéro de téléphone d'accès et statut de l'appareil"</string>
+  <string name="HIPS_Perm_Read_Call_Log_Desc">"lire l'historique des appels"</string>
+  <string name="HIPS_Perm_Read_Contact_Desc">lisez vos contacts</string>
+  <string name="HIPS_Perm_Read_SMS_Desc">lisez vos SMS</string>
+  <string name="HIPS_Perm_SendSMS_Desc">envoyer directement des SMS</string>
+  <string name="HIPS_Perm_add_voicemail_Desc">ajouter des messages vocaux système</string>
+  <string name="HIPS_Perm_get_accounts_Desc">"accéder à tous les comptes stockés sur l'appareil"</string>
+  <string name="HIPS_Perm_use_sip_Desc">"utiliser le protocole d'initiation de session pour diffuser de la vidéo"</string>
   <string name="exo_controls_fastforward_description">Avance rapide</string>
   <string name="exo_controls_fullscreen_description">Mode plein écran</string>
   <string name="exo_controls_next_description">Titre suivant</string>
@@ -2108,6 +2120,7 @@ medical card"</string>
   <string name="system_permission_declare_use_network_no_permission">Se connecter au réseau</string>
   <string name="system_permission_declare_user_agreement">"&lt;Data&gt;Lisez et acceptez notre &amp;lt;a href=\"%1$s\"&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; avant d'utiliser cette fonctionnalité.&lt;/Data&gt;"</string>
   <string name="system_permission_perm_answer_call">Faire des appels</string>
+  <string name="system_permission_perm_optional">" (optionnel)"</string>
   <string name="system_permission_perm_read_mms">Lire le MMS</string>
   <string name="system_permission_perm_read_numbers">Lire les numéros de téléphone</string>
   <string name="system_permission_perm_send_mms">Envoyer un MMS</string>
@@ -2661,6 +2674,8 @@ medical card"</string>
   <string name="audio_optimization_title">Audio amélioré</string>
   <string name="audio_optimization_summary">"Améliore l'audio et réduit le bruit ambiant dans les conversations"</string>
   <string name="perfermance_optimization_title">Optimisation des performances</string>
+  <string name="permdesc_in_calls">Surveiller les appels entrants</string>
+  <string name="permdesc_out_calls">Surveiller les appels sortants</string>
   <string name="perfermance_optimization_summary">Évitez la surchauffe et les problèmes liés au matériel</string>
   <string name="gamebox_positive_button_text">OK (%1$ds)</string>
   <string name="gamebox_hangup_tips_title">"Éteindre l'écran"</string>

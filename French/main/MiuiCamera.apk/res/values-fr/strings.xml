@@ -263,8 +263,8 @@ puis créez une photo avec un minimum de bruit."</string>
 et créera une pause sur laquelle tout le monde sera beau."</string>
   <string name="hint_groupshot_beauty">"Impossible d'utiliser Embellir dans les captures de groupe"</string>
   <string name="hint_slow_motion">La vidéo que vous enregistrez sera lue plus lentement.</string>
-  <string name="hint_subtitle">边录边说，语音自动转字幕</string>
-  <string name="hint_subtitle_prompt">已开启语音字幕，请边录边说</string>
+  <string name="hint_subtitle">"Dictez les sous-titres pendant que vous filmez une vidéo"</string>
+  <string name="hint_subtitle_prompt">Vous pouvez dicter maintenant les sous-titres</string>
   <string name="hunt_dual_water_mark">"Le filigrane double appareil photo sera ajouté automatiquement."</string>
   <string name="id_card_mode_hint_back">请拍摄身份证国徽面</string>
   <string name="id_card_mode_hint_front">请拍摄身份证人像面</string>
@@ -722,8 +722,8 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_camera_video_duration_entry_30">30 minutes</string>
   <string name="pref_camera_video_duration_entry_mms">30 secondes (MMS)</string>
   <string name="pref_camera_video_log_tips">LOG</string>
-  <string name="pref_camera_video_tag">Allow marking videos</string>
-  <string name="pref_camera_video_tag_description">Tap \"Mark\" while shooting a video to be able to go back to marked moments during playback</string>
+  <string name="pref_camera_video_tag">Autoriser le marquage de vidéos</string>
+  <string name="pref_camera_video_tag_description">"Appuyez sur \"Marquer\" lors de l'enregistrement d'une vidéo pour pouvoir revenir aux moments marqués de la lecture."</string>
   <string name="pref_camera_volumekey_function_entry_shutter">Déclencheur</string>
   <string name="pref_camera_volumekey_function_entry_timer">Compte à rebours</string>
   <string name="pref_camera_volumekey_function_entry_volume">Volume</string>
@@ -822,7 +822,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_video_speed_entry_slow">Lent</string>
   <string name="pref_video_speed_fast_title">Time-lapse</string>
   <string name="pref_video_speed_slow_title">Ralenti</string>
-  <string name="pref_video_subtitle">语音字幕</string>
+  <string name="pref_video_subtitle">Sous-Titre</string>
   <string name="pref_video_time_lapse_frame_interval_entry_10">"10X (0.3-seconde d'intervalle)"</string>
   <string name="pref_video_time_lapse_frame_interval_entry_120">"120X (4-seconde d'intervalle)"</string>
   <string name="pref_video_time_lapse_frame_interval_entry_150">"150X (5-seconde d'intervalle)"</string>
@@ -879,7 +879,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="start_capture">OK</string>
   <string name="sticker_tab1">Cute</string>
   <string name="sticker_tab2">Funny</string>
-  <string name="subtitle_network_exception_tips">网络不给力，暂时无法使用语音字幕</string>
+  <string name="subtitle_network_exception_tips">Impossible de se connecter au réseau. Je ne peux pas transcrire maintenant.</string>
   <string name="super_eis">Super stabilisation</string>
   <string name="super_eis_disabled_hint">Super stabilisation est désactivée</string>
   <string name="super_night_hint">"Optimisation de l'image… Gardez votre appareil stable."</string>
