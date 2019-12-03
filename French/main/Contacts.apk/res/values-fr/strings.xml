@@ -180,11 +180,12 @@
   <string name="cloud_antispam_mark">Signaler</string>
   <string name="cloud_antispam_marked">Signalé</string>
   <string name="cloud_antispam_title">ID Appelant</string>
-  <string name="cloud_recommend_msg">Appuyez pour synchroniser les contacts avec Mi Cloud.</string>
-  <string name="cloud_state_disabled">Synchroniser les contacts avec Mi Cloud</string>
+  <string name="cloud_recommend_msg">Appuyez pour synchroniser les contacts avec le Cloud.</string>
+  <string name="cloud_state_disabled">Synchroniser les contacts avec le Cloud</string>
   <string name="cloud_state_loading">Chargement…</string>
-  <string name="cloud_state_sync_finished">Synchronisé avec Mi Cloud</string>
-  <string name="cloud_state_syncing">Synchronisé avec Mi Cloud</string>
+  <string name="cloud_state_sync_finished">Synchronisé avec le Cloud</string>
+  <string name="cloud_state_syncing">Synchronisé avec le Cloud</string>
+  <string name="cloud_upgrade_recommend">"Impossible de synchroniser les contacts en raison d'un espace de stockage dans le cloud insuffisant. Mettez à niveau votre plan de stockage cloud."</string>
   <string name="composer_failed_to_get_database_infomation">"Impossible d'obtenir les informations concernant la base de données."</string>
   <string name="composer_has_no_exportable_contact">"Il n'y a pas de contacts exportables. Si vous avez des contacts sur votre appareil, certains fournisseurs de données peuvent ne pas autoriser l'exportation des contacts à partir de l'appareil."</string>
   <string name="composer_not_initialized">"Le système de composition vCard n'a pas démarré correctement."</string>

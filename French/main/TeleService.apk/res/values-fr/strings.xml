@@ -58,6 +58,7 @@
   <string name="additional_gsm_call_settings_with_label">Paramètres supplémentaires (%s)</string>
   <string name="administrative_disable">Les infos administratives sont désactivées</string>
   <string name="administrative_enable">Les infos administratives sont activées</string>
+  <string name="advanced_mobile_settings">Paramètres additionnels</string>
   <string name="advanced_options_title">Avancé</string>
   <string name="advanced_settings">Paramètres facultatifs</string>
   <string name="advanced_settings_hide">▽ Appuyer ici pour tout masquer</string>
@@ -872,7 +873,7 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="lafs_disable">"Les horaires de vols de l'aéroport local sont désactivés"</string>
   <string name="lafs_enable">"Les horaires de vols de l'aéroport local sont activés"</string>
   <string name="last_sim_callback_summary">"Lorsque vous appelez à partir de l'historique des appels, utilisez la carte SIM utilisée lors du précédent appel avec ce contact."</string>
-  <string name="last_sim_callback_title">Mémoriser les préférences des cartes SIM</string>
+  <string name="last_sim_callback_title">Mémoriser les préférences des SIM</string>
   <string name="launch_defaults_none">Aucun paramètre par défaut défini</string>
   <string name="launch_defaults_some">Certains paramètres par défaut définis</string>
   <string name="list_language_dtitle">Langues</string>
@@ -894,6 +895,7 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="lte_band_sel_setting">band list</string>
   <string name="lte_band_set_status">lte band set</string>
   <string name="lte_freq_set_button">set freq and pci</string>
+  <string name="main_netcheck_summary">Tester la connexion pour les problèmes de réseau</string>
   <string name="maintenance_disable">La maintenance est désactivée</string>
   <string name="maintenance_enable">La maintenance est activée</string>
   <string name="manageConferenceLabel">Gérer la conférence téléphonique</string>
@@ -918,7 +920,7 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="mismatchPin2">Les codes PIN2 ne correspondent pas. Veuillez réessayer.</string>
   <string name="mismatch_password">Les mots de passe ne correspondent pas</string>
   <string name="mismatch_pin">Les codes PIN ne correspondent pas.</string>
-  <string name="mismatch_pin2">Les codes PIN2 ne correspondent pas. Veuillez réessayer.</string>
+  <string name="mismatch_pin2">Les codes PIN 2 ne correspondent pas. Veuillez réessayer.</string>
   <string name="missed_call_notify_five_times">%d fois</string>
   <string name="missed_call_notify_none">Pas de rappel</string>
   <string name="missed_call_notify_once">%d fois</string>
@@ -932,6 +934,9 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="miui_notification_network_selection_title_by_sim">SIM %s: pas de service</string>
   <string name="mmiCancelled">Code MMI annulé</string>
   <string name="mmiStarted">Code MMI démarré</string>
+  <string name="mobile_advanced_dns_server_title">Adresse du serveur DNS</string>
+  <string name="mobile_advanced_ip_address_title">Adresse IP</string>
+  <string name="mobile_connection_management">Gérer la connexion au réseau cellulaire</string>
   <string name="mobile_data_activate_button">AJOUTER DES DONNÉES</string>
   <string name="mobile_data_activate_cancel_button">Annuler</string>
   <string name="mobile_data_activate_diag_message">Vous devrez peut-être ajouter des données avec %s</string>
@@ -952,6 +957,7 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="mobile_data_status_roaming_without_plan_subtext">Itinérance activée, besoin de forfait de données mobiles</string>
   <string name="mobile_network_settings_not_available">Paramètres de réseau cellulaires ne sont pas disponibles pour cet utilisateur</string>
   <string name="mobile_networks">Paramètres du réseau cellulaires</string>
+  <string name="mobile_property">Propriétés du réseau cellulaires</string>
   <string name="mock_location_app">"Sélectionner l'application de position fictive"</string>
   <string name="mock_location_app_not_set">Aucune application de position fictive définie</string>
   <string name="mock_location_app_set">Application de position fictive: \"%1$s\"</string>
@@ -986,7 +992,7 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="msim_set_sub_not_supported_slot_id_error">Erreur de la Carte SIM</string>
   <string name="msim_setting_categery_title">Paramètres de la carte SIM</string>
   <string name="msim_setting_no_sim_indicator">Pas de carte SIM</string>
-  <string name="msim_setting_operator_network_title">Réseau mobile</string>
+  <string name="msim_setting_operator_network_title">Réseau cellulaire</string>
   <string name="msim_setting_screen_title">Réseaux cellulaires</string>
   <string name="msim_setting_sim_info_editor_title">Éditer les infos de la carte SIM</string>
   <string name="msim_sim_lock">Verrouillé</string>
@@ -998,6 +1004,7 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="name">Nom</string>
   <string name="national_disable">Les informations nationales sont désactivées</string>
   <string name="national_enable">Les informations nationales sont activées</string>
+  <string name="netcheck_title">Diagnostic du réseau cellulaire</string>
   <string name="network_4G">4G (recommandé)</string>
   <string name="network_connected">Connecté</string>
   <string name="network_connecting">Connexion…</string>
@@ -1485,7 +1492,7 @@ Votre carte SIM sera bloquée en cas de nouvel échec."</string>
   <string name="standby_bucket_summary">"État de mise en veille de l'application: %s"</string>
   <string name="status_hint_label_incoming_wifi_call">Appel Wi-Fi de</string>
   <string name="status_hint_label_wifi_call">Appel Wi-Fi</string>
-  <string name="status_unavailable">Non disponible</string>
+  <string name="status_unavailable">Indisponible</string>
   <string name="stk_cc_ss_to_dial_error">Requête SS modifiée en DIAL.</string>
   <string name="stk_cc_ss_to_dial_video_error">Requête SS modifiée en requête de COMPOSITION.</string>
   <string name="stk_cc_ss_to_ss_error">Requête SS modifiée en SS.</string>

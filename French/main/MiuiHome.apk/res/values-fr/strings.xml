@@ -21,8 +21,6 @@
   <string name="all_app_category_shopping">Achats</string>
   <string name="all_app_category_tools">Outils</string>
   <string name="additional_settings">Paramètres additionnels</string>
-  <string name="all_apps">Toutes les applications</string>
-  <string name="all_apps_no_search_results">"Impossible de trouver des résultats"</string>
   <string name="all_apps_search_app">Rechercher des applications</string>
   <string name="all_apps_search_market_message">Recherche en ligne</string>
   <string name="all_apps_setting_desktop_desc">"Afficher toutes les applications installées sur l'écran d'accueil. Appuyez longuement sur l'icône d'une application pour voir les raccourcis disponibles, gérer ou désinstaller l'application."</string>
@@ -35,7 +33,6 @@
   <string name="all_apps_setting_scroll_bar">Barre de défilement</string>
   <string name="all_apps_setting_title">"Écran d'accueil"</string>
   <string name="all_apps_slide_up_tips">"Balayer vers le haut est réservé à l’ouverture du tiroir de l’application. Basculez sur le mode écran d'accueil normal et réessayez."</string>
-  <string name="all_apps_suggestions">"Suggestions d'applications"</string>
   <string name="announce_for_app_move_in_folder">Déplacé à la position %1$d dans le dossier</string>
   <string name="announce_for_checked">%1$s, vérifié</string>
   <string name="announce_for_choose_default_screen">"Définir l'écran %1$d comme l'écran d'accueil par défaut"</string>
@@ -101,6 +98,8 @@
   <string name="aqi_quality_index_light_pollution">Prudence</string>
   <string name="aqi_quality_index_moderate">Modérée</string>
   <string name="aqi_quality_index_unhealthy">Malsain</string>
+  <string name="auto_delete_category_dialog_content">移除分组下搜索图标后，将不再保留分组，是否确认删除？</string>
+  <string name="auto_delete_category_dialog_title">删除分组</string>
   <string name="backup_fail">Impossible de sauvegarder le lanceur</string>
   <string name="bad_wallpaper_source_prompt">"Impossible de charger le fond d'écran"</string>
   <string name="buffering">Mémoire tampon…</string>
@@ -113,6 +112,7 @@
   <string name="cate_order_reset">Réinitialiser</string>
   <string name="category_already_exists">Cette catégorie existe déjà</string>
   <string name="category_cannot_empty">Entrez la catégorie en premier</string>
+  <string name="category_choose_no_app_select_tip">Chaque catégorie doit contenir au moins 1 application.</string>
   <string name="category_drawer_name_hint">Entrez le nom de la catégorie</string>
   <string name="category_group">Classer les applications</string>
   <string name="category_group_summary">"Classer les applications dans le tiroir d'applications"</string>
@@ -346,7 +346,6 @@
   <string name="privacy_thumbnail_blur_summary">"Aperçu de l'application flou dans Récents"</string>
   <string name="privacy_thumbnail_blur_title">"Flouter les aperçus d'applications"</string>
   <string name="quick_app">Applications rapides</string>
-  <string name="recent_apps">Récent</string>
   <string name="recents_config_title">Récents</string>
   <string name="recommend_apk_size_and_desc">%1$d Mo | %2$s</string>
   <string name="recommend_app">"Suggestions d'applications"</string>
@@ -354,7 +353,7 @@
   <string name="recommend_apps_no_data">Aucune données</string>
   <string name="recommend_apps_no_data_toast">"Aucune recommandation pour l'instant."</string>
   <string name="recommend_apps_notice">Applications recommandées</string>
-  <string name="recommend_apps_notice_nodata">Applications recommandées (Aucune donnée)</string>
+  <string name="recommend_apps_notice_nodata">Applications recommandées (Aucune données)</string>
   <string name="recommend_apps_switch_title">Applications recommandées</string>
   <string name="recommend_apps_tips">Cette fonctionnalité doit se connecter à Internet pour fonctionner normalement. Pour la désactiver, appuyez sur le nom de ce dossier.</string>
   <string name="recommend_loading">Chargement en cours</string>
