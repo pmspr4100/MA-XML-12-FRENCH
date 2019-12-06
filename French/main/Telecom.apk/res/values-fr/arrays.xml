@@ -2,12 +2,12 @@
 <resources>
     <string-array name="animator_duration_scale_entries">
         <item>Animation désactivée</item>
-        <item>"Échelle d'animation x 0,5"</item>
-        <item>"Échelle d'animation x 1"</item>
-        <item>"Échelle d'animation x 1,5"</item>
-        <item>"Échelle d'animation x 2"</item>
-        <item>"Échelle d'animation x 5"</item>
-        <item>"Échelle d'animation x 10"</item>
+        <item>"Échelle d'animation x0.5"</item>
+        <item>"Échelle d'animation x1"</item>
+        <item>"Échelle d'animation x1.5"</item>
+        <item>"Échelle d'animation x2"</item>
+        <item>"Échelle d'animation x5"</item>
+        <item>"Échelle d'animation x10"</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Limite standard</item>
@@ -17,30 +17,25 @@
         <item>Trois processus maximum</item>
         <item>Quatre processus maximum</item>
     </string-array>
-    <string-array name="battery_labels">
-        <item>0 %</item>
-        <item>50 %</item>
-        <item>100 %</item>
-    </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>Utiliser sélection système (par défaut)</item>
-        <item>16 bits par échantillon</item>
-        <item>24 bits par échantillon</item>
-        <item>32 bits par échantillon</item>
+        <item>Utiliser la sélection du système (par défaut)</item>
+        <item>16 bits/ Échantillon</item>
+        <item>24 bits/ Échantillon</item>
+        <item>32 bits/ Échantillon</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>Utiliser sélection système (par défaut)</item>
-        <item>16 bits par échantillon</item>
-        <item>24 bits par échantillon</item>
-        <item>32 bits par échantillon</item>
+        <item>Utiliser la sélection du système (par défaut)</item>
+        <item>16 bits/ Échantillon</item>
+        <item>24 bits/ Échantillon</item>
+        <item>32 bits/ Échantillon</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-        <item>Utiliser sélection système (par défaut)</item>
+        <item>Utiliser la sélection du système (par défaut)</item>
         <item>Mono</item>
         <item>Stéréo</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-        <item>Utiliser sélection système (par défaut)</item>
+        <item>Utiliser la sélection du système (par défaut)</item>
         <item>Mono</item>
         <item>Stéréo</item>
     </string-array>
@@ -51,32 +46,33 @@
         <item>Qualité de lecture optimale (débit adaptatif)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
-        <item>Optimisée pour la qualité audio (990/909 kbit/s)</item>
-        <item>Qualité audio et de la connexion équilibrée (660/606 kbit/s)</item>
-        <item>Optimisée pour la qualité de la connexion (330/303 kbit/s)</item>
+        <item>Optimisée pour la qualité audio (990kbps/909kbps)</item>
+        <item>Qualité audio et de la connexion équilibrée (660kbps/606kbps)</item>
+        <item>Optimisée pour la qualité de la connexion (330kbps/303kbps)</item>
         <item>Qualité de lecture optimale (débit adaptatif)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>Utiliser sélection système (par défaut)</item>
-        <item>44,1 kHz</item>
-        <item>48 kHz</item>
-        <item>88,2 kHz</item>
-        <item>96 kHz</item>
+        <item>Utiliser la sélection du système (par défaut)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
         <item>Utiliser sélection système (par défaut)</item>
-        <item>44,1 kHz</item>
-        <item>48 kHz</item>
-        <item>88,2 kHz</item>
-        <item>96 kHz</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
         <item>Utiliser sélection système (par défaut)</item>
         <item>SBC</item>
         <item>AAC</item>
-        <item>Audio Qualcomm® aptX™</item>
-        <item>Audio Qualcomm® aptX™ HD</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
+        <item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Activer les codecs facultatifs</item>
         <item>Désactiver les codecs facultatifs</item>
     </string-array>
@@ -84,9 +80,10 @@
         <item>Utiliser sélection système (par défaut)</item>
         <item>SBC</item>
         <item>AAC</item>
-        <item>Audio Qualcomm® aptX™</item>
-        <item>Audio Qualcomm® aptX™ HD</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
+        <item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Activer les codecs facultatifs</item>
         <item>Désactiver les codecs facultatifs</item>
     </string-array>
@@ -95,12 +92,6 @@
         <item>, actif</item>
         <item>, actif (son des médias)</item>
         <item>, actif (téléphone)</item>
-    </string-array>
-    <string-array name="bluetooth_avrcp_version_values">
-        <item>avrcp14</item>
-        <item>avrcp13</item>
-        <item>avrcp15</item>
-        <item>avrcp16</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (par défaut)</item>
@@ -199,12 +190,12 @@
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Animation désactivée</item>
-        <item>"Échelle d'animation x 0,5"</item>
-        <item>"Échelle d'animation x 1"</item>
-        <item>"Échelle d'animation x 1,5"</item>
-        <item>"Échelle d'animation x 2"</item>
-        <item>"Échelle d'animation x 0,5"</item>
-        <item>"Échelle d'animation x 10"</item>
+        <item>"Échelle d'animation x0.5"</item>
+        <item>"Échelle d'animation x1"</item>
+        <item>"Échelle d'animation x1.5"</item>
+        <item>"Échelle d'animation x2"</item>
+        <item>"Échelle d'animation x5"</item>
+        <item>"Échelle d'animation x10"</item>
     </string-array>
     <string-array name="tts_rate_entries">
         <item>Très lente</item>
@@ -255,11 +246,11 @@
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animation désactivée</item>
-        <item>"Échelle d'animation x 0,5"</item>
-        <item>"Échelle d'animation x 1"</item>
-        <item>"Échelle d'animation x 1,5"</item>
-        <item>"Échelle d'animation x 2"</item>
-        <item>"Échelle d'animation x 5"</item>
-        <item>"Échelle d'animation x 10"</item>
+        <item>"Échelle d'animation x0.5"</item>
+        <item>"Échelle d'animation x1"</item>
+        <item>"Échelle d'animation x1.5"</item>
+        <item>"Échelle d'animation x2"</item>
+        <item>"Échelle d'animation x5"</item>
+        <item>"Échelle d'animation x10"</item>
     </string-array>
 </resources>

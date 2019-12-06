@@ -132,10 +132,8 @@
         <item>Naturel</item>
         <item>Standard</item>
     </string-array>
-    <array name="data_type_name_mcc_mnc_key" />
-    <array name="data_type_name_mcc_mnc_value" />
     <string-array name="debug_hw_overdraw_entries">
-        <item>Off</item>
+        <item>Désactivé</item>
         <item>Afficher les zones de superposition</item>
         <item>Montrer les zones de deutéranomalie</item>
     </string-array>
@@ -188,7 +186,6 @@
         <item>4K (améliorée, sécurisé)</item>
         <item>720p, 1080p (double écran)</item>
     </string-array>
-    <array name="recents_blacklist_array" />
     <string-array name="select_logd_size_lowram_titles">
         <item>Désactivé</item>
         <item>64K</item>
