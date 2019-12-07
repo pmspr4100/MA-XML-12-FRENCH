@@ -1,6 +1,4 @@
-[![MIUI11 logo](https://i.imgur.com/A44OaCG.gif)](https://xiaomi.eu/)
-
-# MIUI 11 XML FRENCH by pmspr4100 (forked from MIUI 11 Daily XML changes by xiaomi.eu / miui.com)
+# MIUI 11 XML FRENCH par pmspr4100
 
 ## Référentiel MIUI v11
 * Support de la ROM Stable pour xiaomi.eu
