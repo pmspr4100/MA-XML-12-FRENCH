@@ -19,8 +19,9 @@ French/main/MiuiSystemUI.apk/res/raw/statusbar_music.maml
 *.exe
 *.o
 *.so
-*.xml~
 *.tmp
+*.bak
+*.xml~
 
 # Packages #
 ############
@@ -39,3 +40,5 @@ French/main/MiuiSystemUI.apk/res/raw/statusbar_music.maml
 *.log
 *.sql
 *.sqlite
+
+unknown/
