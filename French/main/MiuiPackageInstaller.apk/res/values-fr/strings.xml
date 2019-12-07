@@ -102,8 +102,10 @@ All your previous user data will be saved."</string>
   <string name="install_failed_incompatible">"This app isn't compatible with your phone."</string>
   <string name="install_failed_invalid_apk">The package appears to be corrupt.</string>
   <string name="install_failed_msg">"%1$s couldn't be installed on your phone."</string>
-  <string name="install_failed_system_incompatible">"This app isn't compatible with MIUI"</string>
-  <string name="install_from_appstore_hint">We recommend you to install the app from &lt;u&gt;&lt;font color=#91c727&gt;AppStore&lt;/font&gt;&lt;/u&gt;</string>
+  <string name="install_failed_system_incompatible">"Cette application n'est pas compatible avec MIUI"</string>
+  <string name="install_finished_notification_summary">Cliquez pour nettoyer maintenant</string>
+  <string name="install_finished_notification_title">%1$s installé avec succès, nettoyer %2$s maintenant</string>
+  <string name="install_from_appstore_hint">"Nous vous recommandons d'installer l'application depuis &lt;u&gt;&lt;font color=#91c727&gt;AppStore&lt;/font&gt;&lt;/u&gt;"</string>
   <string name="installing">Installation…</string>
   <string name="intercept_install">Installer</string>
   <string name="launch">Ouvrir</string>
@@ -303,11 +305,12 @@ All your previous user data will be saved."</string>
   <string name="unlike">Non merci</string>
   <string name="untrusted_external_source_always_click">Toujours autoriser</string>
   <string name="untrusted_external_source_title">Autoriser \"%1$s\" à installer des applications ?</string>
-  <string name="untrusted_external_source_warning">"For your security, your phone isn't allowed to install unknown apps from this source."</string>
+  <string name="untrusted_external_source_warning">"Pour votre sécurité, votre téléphone n'est pas autorisé à installer des applications inconnues à partir de cette source."</string>
+  <string name="untrusted_external_source_warning_summary">"Votre téléphone et vos données personnelles sont vulnérables aux attaques de sources inconnues. En autorisant l'installation d'applications à partir de cette source, vous acceptez d'assumer la responsabilité de tout dommage ou perte de données pouvant résulter de l'utilisation de ces applications."</string>
   <string name="user_is_not_allowed_dlg_text">The current user is not allowed to perform this uninstallation.</string>
   <string name="user_is_not_allowed_dlg_title">Not allowed</string>
-  <string name="virus_scan_caller_unknown">Unknown</string>
-  <string name="virus_scan_clear">Remove</string>
+  <string name="virus_scan_caller_unknown">Inconnu</string>
+  <string name="virus_scan_clear">Supprimer</string>
   <string name="virus_scan_install">&lt;u&gt;Install anyway&lt;/u&gt;</string>
   <string name="virus_scan_is_risk">"This app poses a risk to your device's security."</string>
   <string name="virus_scan_is_virus">This app contains a virus.</string>
