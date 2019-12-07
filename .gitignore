@@ -2,9 +2,9 @@
 ######################
 .DS_Store?
 ehthumbs.db
-Icon?
 Thumbs.db
-*.tmp
+Icon?
+
 tools
 misort
 miui_sort_translations.sh
@@ -20,6 +20,7 @@ French/main/MiuiSystemUI.apk/res/raw/statusbar_music.maml
 *.o
 *.so
 *.xml~
+*.tmp
 
 # Packages #
 ############
