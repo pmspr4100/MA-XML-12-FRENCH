@@ -1,5 +1,3 @@
-# MIUI 11 XML FRENCH par pmspr4100
-
 ## Référentiel MIUI v11
 * Support de la ROM Stable pour xiaomi.eu
 * Support de la ROM Bêta pour xiaomi.eu
