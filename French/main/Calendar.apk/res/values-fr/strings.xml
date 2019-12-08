@@ -509,6 +509,9 @@
   <string name="menstruation_card_error_title">当前数据请求异常</string>
   <string name="menstruation_card_private_mode_sub_title">当前为私密模式哦</string>
   <string name="menstruation_card_private_mode_title">生理周期****</string>
+  <string name="menstruation_dialog_tips">经期助手功能由小米健康提供，点击继续使用日历会为您下载或更新小米健康应用。</string>
+  <string name="menstruation_title">经期助手</string>
+  <string name="menstruation_use_button">继续使用</string>
   <string name="menu_general_preferences">Général</string>
   <string name="menu_reminder_preferences">Rappels</string>
   <string name="missing_name">(No name)</string>
@@ -713,17 +716,17 @@ Vérifiez vos paramètres réseau, puis réessayez."</string>
   <string name="saving_event_with_guest">Envoi des mises à jour…</string>
   <string name="search_calendar">Date;Solaire Conditions;Lunaire;Almanach;Fortune;Agenda;Réunion;Rappel;Vacance;Congés;Anniversaire;2016;2017;Nouvel an chinois;Jour du nouvel an;Journée internationale du travail;Fête de la mi-automne</string>
   <string name="search_calendar_edit_event">Réunion;Rappel;Agenda</string>
-  <string name="search_calendar_settings">Calendar;Agenda;Reminder</string>
+  <string name="search_calendar_settings">Calendrier;Agenda;Rappel</string>
   <string name="search_menu_title">Search</string>
   <string name="select_date">Jump to date</string>
   <string name="select_today_tip">Today</string>
   <string name="setting">Paramètres</string>
-  <string name="setting_about_calendar_version">"Version de l'agenda:"</string>
-  <string name="setting_about_imei">IMEI:</string>
-  <string name="setting_about_miui_version">Version MIUI:</string>
-  <string name="setting_about_summary">Version:</string>
+  <string name="setting_about_calendar_version">"Version du calendrier: %1$s-%2$s"</string>
+  <string name="setting_about_imei">"IMEI: %1$s"</string>
+  <string name="setting_about_miui_version">"Version MIUI: %1$s-%2$s"</string>
+  <string name="setting_about_oaid">"OAID: %1$s"</string>
   <string name="setting_accounts">Comptes de calendrier</string>
-  <string name="setting_chinese_calendar">Chinese calendar</string>
+  <string name="setting_chinese_calendar">Calendrier chinois</string>
   <string name="setting_content_promotion">内容推广</string>
   <string name="setting_daysoff_no_update">"L'information sur les jours fériés est à jour."</string>
   <string name="setting_daysoff_update">Mise à jour des informations sur les jours fériés</string>
@@ -802,6 +805,7 @@ Vérifiez vos paramètres réseau, puis réessayez."</string>
   <string name="slight_heat_tradition">小暑</string>
   <string name="sms_import_description">更好地管理与时间相关的短信事件</string>
   <string name="solar_lunar_convert_description">Gregorian to Traditional Chinese</string>
+  <string name="solar_lunar_convert_description_2">Switch between Traditional Chinese and Gregorian calendars</string>
   <string name="solar_lunar_convert_tab">Convert</string>
   <string name="solar_to_lunar_chinese_calendar">Gregorian to Chinese</string>
   <string name="spring_begins">立春</string>
@@ -812,13 +816,14 @@ Vérifiez vos paramètres réseau, puis réessayez."</string>
   <string name="subscribe_card">Subscribe now</string>
   <string name="subscribe_card_success">Subscribed successfully! Check the details on the home page.</string>
   <string name="subscribe_card_success_for_homepage">Subscribed to “%1$s” successfully</string>
-  <string name="subscribe_channel_bottom_hint">—— Mi Calendar ——</string>
+  <string name="subscribe_channel_bottom_hint">—— Mi Calendrier ——</string>
   <string name="subscribe_channel_footer_desc">Check your subscriptions or unsubscribe</string>
   <string name="subscribe_channel_footer_title">Subscribed</string>
   <string name="subscribe_channel_hint">"Subscribe to the services you like and receive daily updates on your home page.
 You can also add reminders so you don't miss anything important."</string>
   <string name="subscribe_channel_subscribe">Subscribe</string>
   <string name="subscribe_channel_subscribing">Subscribed</string>
+  <string name="subscribe_failed">订阅失败，网络异常，请稍后再试</string>
   <string name="subscribe_channel_title">Channel</string>
   <string name="subscribing_card">Subscribed</string>
   <string name="subscription_service">订阅服务</string>
