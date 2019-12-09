@@ -567,6 +567,8 @@ de l'opérateur"</string>
   <string name="power_save_ps_clean">Effacer le cache chaque fois que le périphérique est verrouillé</string>
   <string name="power_save_ps_close_setting">"Désactiver les services et les fonctionnalités à forte consommation d'énergie (synchronisation, GPS, retour haptique, \"Relever pour réveiller\", \"Taper deux fois pour réactiver ou désactiver l'écran\", \"Afficher l'icône de l'empreinte digitale lorsque l'écran est éteint\" ) pour économiser la batterie"</string>
   <string name="power_save_ps_close_setting_5g">"Désactiver les services et les fonctionnalités à forte consommation d'énergie (synchronisation, connectivité réseau 5G, GPS, retour haptique, «Soulever pour se réveiller», \"appuyer deux fois pour réactiver ou désactiver l'écran\", \"Afficher l'icône d'empreinte digitale lorsque l'écran est éteint\") pour économiser la batterie"</string>
+  <string name="power_save_ps_close_setting_5g_q">"Désactivez les services et fonctionnalités à forte consommation d'énergie (synchronisation, connectivité réseau 5G, rétroaction haptique, \"Relever pour réveiller\", \"Appuyez deux fois pour réveiller ou éteindre l'écran\", \"Afficher l'icône d'empreinte digitale lorsque l'écran est éteint\")"</string>
+  <string name="power_save_ps_close_setting_q">"Désactivez les services et les fonctionnalités à forte consommation d'énergie (synchronisation, rétroaction haptique, \"Lever pour réveiller\", \"Appuyez deux fois pour réveiller ou éteindre l'écran\", \"Afficher l'icône d'empreinte digitale lorsque l'écran est éteint\")"</string>
   <string name="power_save_ps_freeze">Geler les applications en arrière-plan</string>
   <string name="power_save_ps_limit">"Restreindre l'activité des applications système"</string>
   <string name="power_save_settings">Paramètres de la batterie</string>
@@ -2246,9 +2248,9 @@ medical card"</string>
   <string name="optimize_result_button_correct_now">Ajuster</string>
   <string name="optimize_result_button_cooldown_now">Refroidir</string>
   <string name="optimize_result_button_consume_power_analysis">Analyser la batterie</string>
-  <string name="optimize_result_button_purchase_flow">Tout voir</string>
+  <string name="optimize_result_button_purchase_flow">Tout afficher</string>
   <string name="optimize_result_button_purchase">Acheter</string>
-  <string name="optimize_result_button_cloudspace">Augmenter le volume de stockage cloud</string>
+  <string name="optimize_result_button_cloudspace">"Obtenez plus d'espace de stockage dans le cloud"</string>
   <string name="optimize_result_title_system_default_settings">Les paramètres par défaut ont été modifiés</string>
   <string name="optimize_result_summary_system_default_settings">Utiliser les applications MIUI par défaut augmente le niveau de stabilité et de sécurité du système.</string>
   <string name="optimize_result_toast_system_default_settings">Paramètres par défaut restaurés</string>

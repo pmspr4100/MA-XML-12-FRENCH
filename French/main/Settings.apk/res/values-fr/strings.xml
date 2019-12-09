@@ -1952,6 +1952,8 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
   <string name="disabled_for_user_setting_summary">"Le paramètre ne peut pas être modifié par l'utilisateur actuel"</string>
   <string name="disabled_low_ram_device">"Cette fonctionnalité n'est pas encore prise en charge sur cet appareil"</string>
   <string name="disconnected">Non connecté</string>
+  <string name="display_advanced_mode_summary">Options de gamme de couleurs</string>
+  <string name="display_advanced_mode_title">Paramètres additionnels</string>
   <string name="display_auto_rotate_rotate">Activé</string>
   <string name="display_auto_rotate_stay_in_current">Désactivé</string>
   <string name="display_auto_rotate_stay_in_landscape">Bloquer en paysage</string>
@@ -2601,6 +2603,9 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
   <string name="handy_mode_tips_full_screen">Lorsque vous utilisez des gestes en plein écran, vous pouvez activer le mode à une main en utilisant la balle rapide. Vous pouvez également utiliser les boutons plutôt que les gestes en plein écran.</string>
   <string name="haptic_feedback_enable_title">Vibration au toucher</string>
   <string name="haptic_feedback_level">Niveau de vibration</string>
+  <string name="haptic_feedback_progress">Niveau de rétroaction haptique</string>
+  <string name="haptic_feedback_summary">Recevez une réponse tactile aux gestes et aux commandes du système</string>
+  <string name="haptic_feedback_title">Retour haptique</string>
   <string name="hardkeyboard_category">Paramètres du clavier physique</string>
   <string name="hardware_info">Modèle et matériel</string>
   <string name="hardware_revision">Version du matériel</string>
@@ -2662,6 +2667,8 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
   <string name="ignore_optimizations_on_desc">"Risque de décharger la batterie plus rapidement. L'utilisation de la batterie en arrière-plan ne sera plus bloquée pour l'application."</string>
   <string name="ignore_optimizations_title">Autoriser %s à ignorer les optimisations de batterie ?</string>
   <string name="ime_security_warning">"%1$s peut enregistrer tout ce que vous tapez, y compris les mots de passe, numéros de carte de crédit et autres données personnelles"</string>
+  <string name="ime_security_warning_global">"Les méthodes de saisie peuvent être en mesure de collecter tout le texte que vous tapez, y compris les données personnelles comme le mot de passe et les numéros de carte de crédit. Utilisation %1$s ?"</string>
+  <string name="ime_security_warning_title_global">Activer le clavier</string>
   <string name="imei_information_summary">Informations relatives au code IMEI</string>
   <string name="imei_information_title">Informations sur le code IMEI</string>
   <string name="imei_multi_sim">Code IMEI (SIM %1$d)</string>
@@ -3923,6 +3930,7 @@ L'application pourra aussi activer ou désactiver le mode Ne pas déranger, et m
   <string name="open_demo_mode">Activer</string>
   <string name="open_demo_mode_warning_message">"Lorsque le mode Démo est activé, l'horloge dans la barre d'état s'arrêtera, les icônes de la batterie et du signal seront affichés comme plein. Vous pouvez désactiver le mode Démo ou redémarrer l'appareil pour modifier cela."</string>
   <string name="open_game_accelerate">Activer Game Turbo</string>
+  <string name="open_haptic_feedback">Retour haptique</string>
   <string name="open_miui_optimization_title">"Activer l'optimisation MIUI"</string>
   <string name="open_optimization_message">"Activez l'optimisation afin de profiter d'une interface utilisateur plus agréable et plus rapide."</string>
   <string name="open_optimization_option">Activer</string>
