@@ -1302,6 +1302,11 @@ Votre téléphone sera automatiquement bloqué en cas de nouvel échec"</string>
   <string name="private_dns_mode_provider_hostname_hint">"Saisissez le nom d'hôte du fournisseur DNS"</string>
   <string name="private_num">Numéro privé</string>
   <string name="progress_dialog_exiting_ecm">"Mode de rappel d'urgence en cours de désactivation"</string>
+  <string name="prompt_to_suggest_no_call_service_notification_content">"Impossible d'émettre et de recevoir des appels. Le service VoLTE est maintenant désactivé pour votre carte SIM (China Telecom)."</string>
+  <string name="prompt_to_suggest_no_call_service_notification_content2">"Impossible d'émettre et de recevoir des appels. Le service VoLTE est maintenant désactivé pour SIM %d (China Telecom)."</string>
+  <string name="prompt_to_suggest_no_call_service_notification_title">"Impossible de passer et de recevoir des appels"</string>
+  <string name="prompt_to_suggest_to_open_volte_from_operator">"Impossible de passer des appels. Contactez China Telecom pour activer le service VoLTE."</string>
+  <string name="prompt_to_suggest_to_open_volte_from_operator2">"SIM %d ne peut pas faire d'appels. Contactez China Telecom pour activer le service VoLTE."</string>
   <string name="prompt_to_turnoff_volte_when_failed">Les services VoLTE ne sont pas disponibles. Désactivez VoLTE pour passer un appel.</string>
   <string name="prompt_to_turnoff_volte_when_supp_service">"Le service n'est pas disponible. Désactivez VoLTE dans les paramètres."</string>
   <string name="prompt_when_turnon_volte_on_3g_prefered">"Sélectionnez LTE comme votre type de réseau préféré avant d'activer VoLTE."</string>

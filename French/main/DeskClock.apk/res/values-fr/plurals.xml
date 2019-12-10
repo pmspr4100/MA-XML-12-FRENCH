@@ -32,6 +32,22 @@
         <item quantity="other">%d secondes</item>
         <item quantity="one">%d seconde</item>
     </plurals>
+	<plurals name="sleep_duration_hour">
+        <item quantity="other">%1s heures</item>
+        <item quantity="one">%1$s heure</item>
+    </plurals>
+    <plurals name="sleep_duration_hour_avg">
+        <item quantity="other">%1s hrs</item>
+        <item quantity="one">%1$s hr</item>
+    </plurals>
+    <plurals name="sleep_duration_min">
+        <item quantity="other">%1$s minutes</item>
+        <item quantity="one">%1$s minute</item>
+    </plurals>
+    <plurals name="sleep_duration_min_avg">
+        <item quantity="other">%1$s mins</item>
+        <item quantity="one">%1$s min</item>
+    </plurals>
     <plurals name="snooze_duration_changed_info">
         <item quantity="other">"Changer l'intervalle de répétition pour %d minutes"</item>
         <item quantity="one">"Changer l'intervalle de répétition pour %d minute"</item>
@@ -67,21 +83,5 @@
     <plurals name="timer_message_second">
         <item quantity="other">%1$d secondes</item>
         <item quantity="one">%1$d seconde</item>
-    </plurals>
-    <plurals name="sleep_duration_hour">
-        <item quantity="other">%1s heures</item>
-        <item quantity="one">%1$s heure</item>
-    </plurals>
-    <plurals name="sleep_duration_hour_avg">
-        <item quantity="other">%1s hrs</item>
-        <item quantity="one">%1$s hr</item>
-    </plurals>
-    <plurals name="sleep_duration_min">
-        <item quantity="other">%1$s minutes</item>
-        <item quantity="one">%1$s minute</item>
-    </plurals>
-    <plurals name="sleep_duration_min_avg">
-        <item quantity="other">%1$s mins</item>
-        <item quantity="one">%1$s min</item>
     </plurals>
 </resources>
