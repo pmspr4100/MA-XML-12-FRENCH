@@ -735,11 +735,13 @@ Bluetooth"</string>
   <string name="fiveg_power_secret_code_tip">operate this through Security APP - Battery - 5G Saver</string>
   <string name="fiveg_restrict_dcnr1">Restrict DCNR[Slot1]:</string>
   <string name="fiveg_restrict_dcnr2">Restrict DCNR[Slot2]:</string>
-  <string name="fiveg_sa_switch_title">SA network</string>
-  <string name="fiveg_signal_strength1">5G Signal strength[Slot1]:</string>
-  <string name="fiveg_signal_strength2">5G Signal strength[Slot2]:</string>
-  <string name="fiveg_switch_status1">5G switch status[Slot1]:</string>
-  <string name="fiveg_switch_status2">5G switch status[Slot2]:</string>
+  <string name="fiveg_sa_switch_open_dialog_content">5G connection might be unstable in standalone mode, which might affect telephony services. Turn on SA mode anyway?</string>
+  <string name="fiveg_sa_switch_open_dialog_title">Attention</string>
+  <string name="fiveg_sa_switch_summary">Autoriser la connexion aux réseaux 5G en mode autonome</string>
+  <string name="fiveg_sa_switch_title">Mode SA</string>  <string name="fiveg_signal_strength1">Force du signal 5G [Slot 1]:</string>
+  <string name="fiveg_signal_strength2">Force du signal 5G [Slot 2]:</string>
+  <string name="fiveg_switch_status1">État du commutateur 5G [Slot 1]:</string>
+  <string name="fiveg_switch_status2">État du commutateur 5G [Slot 2]:</string>
   <string name="fiveg_switch_title">Réseau 5G</string>
   <string name="fiveg_upperlayer_indication1">Upper Layer Indication Status[Slot1]:</string>
   <string name="fiveg_upperlayer_indication2">Upper Layer Indication Status[Slot2]:</string>

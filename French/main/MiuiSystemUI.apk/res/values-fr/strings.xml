@@ -248,6 +248,11 @@
   <string name="accessibility_status_bar_headphones">Écouteurs connectés</string>
   <string name="accessibility_status_bar_headset">Écouteurs connectés</string>
   <string name="accessibility_status_bar_hotspot">"Point d'accès"</string>
+  <string name="accessibility_status_bar_no_slave_wifi">Esclave Wi-Fi déconnecté.</string>
+  <string name="accessibility_status_bar_slave_wifi_four_bars">Esclave Wi-Fi quatre barres.</string>
+  <string name="accessibility_status_bar_slave_wifi_one_bar">Esclave Wi-Fi une barre.</string>
+  <string name="accessibility_status_bar_slave_wifi_three_bars">Esclave Wi-Fi trois barres.</string>
+  <string name="accessibility_status_bar_slave_wifi_two_bars">Esclave Wi-Fi deux barres.</string>
   <string name="accessibility_three_bars">Trois barres.</string>
   <string name="accessibility_tty_enabled">TeleTypewriter activé.</string>
   <string name="accessibility_two_bars">Deux barres.</string>
@@ -1465,6 +1470,12 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="quick_settings_user_new_user">Nouvel utilisateur</string>
   <string name="quick_settings_user_title">Utilisateur</string>
   <string name="quick_settings_vibrate_label">Vibreur</string>
+  <string name="quick_settings_wifi_detail_dual_wifi_accelerated">Augmenter la vitesse</string>
+  <string name="quick_settings_wifi_detail_dual_wifi_switching_cancel">Annuler</string>
+  <string name="quick_settings_wifi_detail_dual_wifi_switching_confirm">Confirmer</string>
+  <string name="quick_settings_wifi_detail_dual_wifi_switching_not_remind">Ne plus afficher</string>
+  <string name="quick_settings_wifi_detail_dual_wifi_switching_prompt">Basculer entre les réseaux</string>
+  <string name="quick_settings_wifi_detail_dual_wifi_switching_summary">"L'amplification de la vitesse du Wi-Fi bi-bande doit utiliser deux bandes Wi-Fi différentes. Si vous vous connectez à un autre réseau principal, la connexion auxiliaire sera perdue."</string>
   <string name="quick_settings_wifi_detail_empty_text">Aucun réseau Wi-Fi disponible</string>
   <string name="quick_settings_wifi_label">Wi-Fi</string>
   <string name="quick_settings_wifi_nearby">Sélectionner un réseau à proximité</string>
