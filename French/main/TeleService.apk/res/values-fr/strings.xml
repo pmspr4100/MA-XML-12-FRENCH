@@ -122,11 +122,11 @@
   <string name="available_via_passpoint">Disponible via %1$s</string>
   <string name="back">Retour</string>
   <string name="badPin">"L'ancien code PIN saisi est incorrect. Veuillez réessayer."</string>
-  <string name="badPin2">Ancien PIN2 incorrect. Réessayez.</string>
+  <string name="badPin2">Ancien PIN 2 incorrect. Réessayez.</string>
   <string name="badPuk2">Code PUK2 incorrect. Réessayez.</string>
   <string name="bad_pin">Le code PIN que vous avez entré est incorrect.</string>
-  <string name="bad_pin2">Le code PIN2 que vous avez entré est incorrect.</string>
-  <string name="bad_pin2_old">"L'ancien code PIN2 que vous avez entré est incorrect."</string>
+  <string name="bad_pin2">Le code PIN 2 que vous avez entré est incorrect.</string>
+  <string name="bad_pin2_old">"L'ancien code PIN 2 que vous avez entré est incorrect."</string>
   <string name="bad_puk">Le code PUK que vous avez saisi est incorrect.</string>
   <string name="bad_puk2">Le code PUK2 que vous avez saisi est incorrect.</string>
   <string name="battery_info_status_charging">Batterie en charge</string>
@@ -396,7 +396,7 @@ Bluetooth"</string>
   <string name="change_num">Mettre à jour</string>
   <string name="change_password">"Modifier le mot de passe d'interdiction"</string>
   <string name="change_pin">Modifier le code PIN de la carte SIM</string>
-  <string name="change_pin2">Modifier le code PIN2</string>
+  <string name="change_pin2">Modifier le code PIN 2</string>
   <string name="change_pin_cancel_label">Annuler</string>
   <string name="change_pin_confirm_pin_header">Confirmer votre code PIN</string>
   <string name="change_pin_confirm_pins_dont_match">Les codes PIN ne correspondent pas</string>
@@ -483,12 +483,12 @@ Bluetooth"</string>
   <string name="cmcc_ut_data_enable_prompt">Ce service nécessite la connexion de données mobiles. Activez-la pour continuer.</string>
   <string name="command_error_fdn_failure">"Vous devez désactiver FDN d'abord"</string>
   <string name="config_default_data_sim">Paramètres</string>
-  <string name="confirmPin2Label">Confirmer le nouveau code PIN2</string>
+  <string name="confirmPin2Label">Confirmer le nouveau code PIN 2</string>
   <string name="confirmPinLabel">Confirmer le nouveau code PIN</string>
   <string name="confirm_enable_oem_unlock_text">"AVERTISSEMENT: Les fonctionnalités de protection de l'appareil sont désactivées tant que ce paramètre est activé."</string>
   <string name="confirm_enable_oem_unlock_title">Autoriser le déverrouillage OEM ?</string>
   <string name="confirm_password_label">Confirmez le nouveau mot de passe</string>
-  <string name="confirm_pin2_label">Confirmer le nouveau code PIN2</string>
+  <string name="confirm_pin2_label">Confirmer le nouveau code PIN 2</string>
   <string name="confirm_pin_label">Confirmer le nouveau code PIN</string>
   <string name="connect_disconnect_vibrate_none">Aucun</string>
   <string name="connect_disconnect_vibrate_normal">Normal</string>
@@ -689,7 +689,7 @@ Bluetooth"</string>
   <string name="enhanced_4g_lte_mode_title_variant">"Mode d'appel avancé"</string>
   <string name="enter_callbarring_password">"Mot de passe d'interdiction (%d chiffres)"</string>
   <string name="enter_input" formatted="false">Le message USSD doit être compris entre %d et %d caractères. Réessayez.</string>
-  <string name="enter_pin2_text">PIN2</string>
+  <string name="enter_pin2_text">PIN 2</string>
   <string name="enter_pin_text">Code PIN de la carte SIM:</string>
   <string name="entertainment_news_settings">Actualités de divertissement</string>
   <string name="eo_disable">"Les offres d'emploi sont désactivées"</string>
@@ -711,7 +711,7 @@ Bluetooth"</string>
   <string name="fdn_contact_deleted">Numéro autorisé supprimé.</string>
   <string name="fdn_contact_updated">Mise à jour du numéro autorisé effectuée</string>
   <string name="fdn_disabled">La liste de numéros autorisés est désactivée</string>
-  <string name="fdn_enable_puk2_requested">Le mot de passe est incorrect. Veuillez modifier le code PIN2 et réessayez.</string>
+  <string name="fdn_enable_puk2_requested">Le mot de passe est incorrect. Veuillez modifier le code PIN 2 et réessayez.</string>
   <string name="fdn_enabled">La liste de numéros autorisés est activée</string>
   <string name="fdn_failed">"L'opération FDN a échoué."</string>
   <string name="fdn_full">"FDN n'a pas été mis à jour parce que la liste est pleine."</string>
@@ -765,7 +765,7 @@ Veuillez contacter votre opérateur si le problème persiste."</string>
 Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="general_news_settings">Actualités générales</string>
   <string name="general_setting">Paramètres</string>
-  <string name="get_pin2">Saisir le code PIN2</string>
+  <string name="get_pin2">Saisir le code PIN 2</string>
   <string name="get_smsc_address_error">Impossible de se connecter au réseau.</string>
   <string name="get_smsc_address_timeout">Délai de connexion expiré</string>
   <string name="goPrivate">mode privé</string>
@@ -919,7 +919,7 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="mi_sim_settings_summary">Utiliser les données mobiles sans carte SIM</string>
   <string name="mi_sim_settings_title">SIM Mi</string>
   <string name="mismatchPin">Les codes PIN saisis ne correspondent pas. Veuillez réessayer.</string>
-  <string name="mismatchPin2">Les codes PIN2 ne correspondent pas. Veuillez réessayer.</string>
+  <string name="mismatchPin2">Les codes PIN 2 ne correspondent pas. Veuillez réessayer.</string>
   <string name="mismatch_password">Les mots de passe ne correspondent pas</string>
   <string name="mismatch_pin">Les codes PIN ne correspondent pas.</string>
   <string name="mismatch_pin2">Les codes PIN 2 ne correspondent pas. Veuillez réessayer.</string>
@@ -1040,10 +1040,10 @@ Le réseau préféré sera utilisé."</string>
   <string name="network_type_4g_preferred_cmcc">4G/3G/2G</string>
   <string name="network_unlock">Déverrouiller</string>
   <string name="networks_title">Réseaux cellulaires</string>
-  <string name="newPin2Label">Nouveau code PIN2</string>
+  <string name="newPin2Label">Nouveau code PIN 2</string>
   <string name="newPinLabel">Nouveau code PIN</string>
   <string name="new_password_label">Nouveau mot de passe à %d chiffres</string>
-  <string name="new_pin2_label">Nouveau code PIN2</string>
+  <string name="new_pin2_label">Nouveau code PIN 2</string>
   <string name="new_pin_label">Nouveau code PIN</string>
   <string name="no_application">Aucune</string>
   <string name="no_change">"Aucune modification n'a été apportée."</string>
@@ -1056,7 +1056,7 @@ Le réseau préféré sera utilisé."</string>
   <string name="not_a_valid_port">Le numéro de port doit être compris entre %1$d et %2$d.</string>
   <string name="not_allowed">Votre carte SIM ne permet pas de vous connecter à ce réseau.</string>
   <string name="not_voice_capable">Appels vocaux non pris en charge</string>
-  <string name="notification_network_selection_text">Réseau sélectionné (%s) non disponible</string>
+  <string name="notification_network_selection_text">Réseau sélectionné %s non disponible</string>
   <string name="notification_network_selection_title">Aucun service</string>
   <string name="notification_voicemail_no_vm_number">Numéro de messagerie vocale inconnu</string>
   <string name="notification_voicemail_text_format">Composer le %s</string>
@@ -1067,10 +1067,10 @@ Le réseau préféré sera utilisé."</string>
   <string name="oem_unlock_enable_summary">"Autoriser le déverrouillage du chargeur d'amorçage"</string>
   <string name="ok">OK</string>
   <string name="okay">OK</string>
-  <string name="oldPin2Label">Ancien code PIN2</string>
+  <string name="oldPin2Label">Ancien code PIN 2</string>
   <string name="oldPinLabel">Ancien code PIN</string>
   <string name="old_password_label">Mot de passe à %d chiffres actuel</string>
-  <string name="old_pin2_label">PIN2</string>
+  <string name="old_pin2_label">PIN 2</string>
   <string name="old_pin_label">Ancien code PIN</string>
   <string name="onHold">En attente</string>
   <string name="onscreenAddCallText">Ajouter un appel</string>
@@ -1185,20 +1185,20 @@ Veuillez réessayer ou appeler le service client pour plus d'options."</string>
   <string name="picture_color_mode_desc">Utiliser sRGB</string>
   <string name="pin2_attempts">"
 %d essais restants."</string>
-  <string name="pin2_changed">PIN2 changé avec succès.</string>
+  <string name="pin2_changed">PIN 2 changé avec succès.</string>
   <string name="pin2_error_exception">Erreur de réseau ou de carte SIM</string>
   <string name="pin2_invalid">"FDN n'a pas été mis à jour parce que vous avez saisi un code PIN incorrect."</string>
   <string name="pin2_invalid_or_name_is_too_long">Code PIN non valide ou nom trop long.</string>
   <string name="pin2_lock_warning">"
-Les fonctions relatives au Pin2 seront bloquées en cas de nouvel échec."</string>
-  <string name="pin2_or_fdn_invalid">"FDN n'a pas été mis à jour. Le PIN2 était incorrect, ou le numéro de téléphone a été rejeté."</string>
-  <string name="pin2_unblocked">"Le PIN2 n'est plus bloqué"</string>
+Les fonctions relatives au PIN 2 seront bloquées en cas de nouvel échec."</string>
+  <string name="pin2_or_fdn_invalid">"FDN n'a pas été mis à jour. Le PIN 2 était incorrect, ou le numéro de téléphone a été rejeté."</string>
+  <string name="pin2_unblocked">"Le PIN 2 n'est plus bloqué"</string>
   <string name="pin_changed">Code PIN mis à jour</string>
   <string name="pin_failed">Code PIN incorrect</string>
   <string name="pin_lock_warning">"
 Votre téléphone sera automatiquement bloqué en cas de nouvel échec"</string>
   <string name="pin_progress_change_pin">Changement du code PIN…</string>
-  <string name="pin_progress_change_pin2">Changement du code PIN2…</string>
+  <string name="pin_progress_change_pin2">Changement du code PIN 2…</string>
   <string name="pin_progress_set_fdn_lock">Paramètre du statut de verrouillage FDN…</string>
   <string name="pin_progress_set_icc_lock">Paramètre du statut de verrouillage ICC…</string>
   <string name="pin_progress_unlock_icc">Déverrouillage de la carte SIM…</string>
