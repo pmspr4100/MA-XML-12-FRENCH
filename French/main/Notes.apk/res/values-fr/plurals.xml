@@ -37,24 +37,24 @@
         <item quantity="one">Déchiffrer %1$s note avec succès</item>
     </plurals>
     <plurals name="todo_N_days_after">
-        <item quantity="other">In %1$d days</item>
-        <item quantity="one">In %1$d day</item>
+        <item quantity="other">Dans %1$d jours</item>
+        <item quantity="one">Dans %1$d jour</item>
     </plurals>
     <plurals name="todo_N_days_ago">
-        <item quantity="other">%1$d days ago</item>
-        <item quantity="one">%1$d day ago</item>
+        <item quantity="other">il y a %1$d jours</item>
+        <item quantity="one">il y a %1$d jour</item>
     </plurals>
     <plurals name="todo_alert_message_delete">
-        <item quantity="other">Delete %1$s tasks?</item>
-        <item quantity="one">Delete %1$s task?</item>
+        <item quantity="other">Supprimer %1$s tâches ?</item>
+        <item quantity="one">Supprimer %1$s tâche ?</item>
     </plurals>
     <plurals name="todo_event_description_days_ago">
-        <item quantity="other">%1$d days ago</item>
-        <item quantity="one">%1$d day ago</item>
+        <item quantity="other">il y a %1$d jours</item>
+        <item quantity="one">il y a %1$d jour</item>
     </plurals>
     <plurals name="todo_event_description_days_later">
-        <item quantity="other">In %1$d days</item>
-        <item quantity="one">In %1$d day</item>
+        <item quantity="other">Dans %1$d jours</item>
+        <item quantity="one">Dans %1$d jour</item>
     </plurals>
     <plurals name="word_count">
         <item quantity="other">%d caractères</item>
@@ -69,7 +69,7 @@
         <item quantity="one">%1$s note</item>
     </plurals>
     <plurals name="todo_terms">
-        <item quantity="other">%1$s条便签</item>
-        <item quantity="one">%1$s条便签</item>
+        <item quantity="other">%1$s remarques</item>
+        <item quantity="one">%1$s remarque</item>
     </plurals>
 </resources>
