@@ -121,6 +121,7 @@
   <string name="declaration">"Obtenez de nouveaux fonds d'écran directement sur votre écran de verrouillage tous les jours."</string>
   <string name="declaration_lockscreen_title">"Obtenez des fonds d'écran de verrouillage tous les jours"</string>
   <string name="declaration_title">Termes et conditions</string>
+  <string name="delete_pic">"Supprimer l'image"</string>
   <string name="deny_des">"Fond d'écran doit avoir accès à la Galerie pour pouvoir fonctionner normalement."</string>
   <string name="detail_ad_type_ad">AD</string>
   <string name="detail_ad_type_video">Vidéos populaires</string>
@@ -230,6 +231,7 @@
   <string name="main_fragment_title_search">Top</string>
   <string name="main_fragment_title_user">Paramètres</string>
   <string name="minutes_15">Toutes les 15 minutes</string>
+  <string name="minutes_5">Toutes les 5 minutes</string>
   <string name="mode_auto_desc">"Activer Fond d'écran pour recevoir automatiquement les nouvelles images"</string>
   <string name="mode_auto_desc_open">Recevoir de nouvelles images automatiquement</string>
   <string name="mode_auto_desc_selected">Recevoir automatiquement de nouvelles images</string>
@@ -323,9 +325,10 @@
   <string name="see_more">Afficher plus</string>
   <string name="see_more_content">Afficher plus</string>
   <string name="select_package">Sélectionnez la version</string>
+  <string name="select_photo_album">"Sélectionnez l'album"</string>
   <string name="setting_about_item_des">Version</string>
   <string name="setting_about_item_title">A propos</string>
-  <string name="setting_des">You can set up your slideshow at Settings &gt; Lock screen &amp; password &gt; Wallpaper Carousel</string>
+  <string name="setting_des">"Vous pouvez configurer votre diaporama dans Paramètres &gt; Écran verrouillage &amp; mot de passe &gt; Fond d'écran carousel"</string>
   <string name="setting_head">Paramètres</string>
   <string name="setting_ok">Paramètres</string>
   <string name="setting_tip">"Ne plus afficher"</string>
@@ -336,7 +339,7 @@
   <string name="shortcut_created">Raccourci créé avec succès</string>
   <string name="shortcut_exist">Le raccourci existe déjà</string>
   <string name="shortcut_failed">"Impossible de créer un raccourci"</string>
-  <string name="show_wallpaper_loop_entry_title">"Diaporama de l'écran d'accueil"</string>
+  <string name="show_wallpaper_loop_entry_title">Paramètres du diaporama</string>
   <string name="sign_in_title">Se connecter avec votre compte Mi</string>
   <string name="sliding_on_unlock">Swipe up to unlock</string>
   <string name="sns_sign_in">Autre méthode de connexion</string>
@@ -406,8 +409,9 @@
   <string name="subscribe_dlg_content">Subscribe to get fresh wallpapers delivered to your Lock screen daily and receive morning greetings.</string>
   <string name="subscribe_item_checked">Abonné</string>
   <string name="subscribe_item_unchecked">Unsubscribed</string>
+  <string name="subscribe_success_content_per_5_minutes">"Changer le fond d'écran toutes les 5 minutes"</string>
   <string name="summary">"Agree to our &lt;a href='%s'&gt;Privacy Policy&lt;/a&gt; to view online content. If you disagree, local wallpapers will still be available."</string>
-  <string name="summary2">"By using this feature, you're agreeing to our &lt;a href ='%1$s'&gt;User Agreement&lt;/a&gt; and &lt;a href='%2$s'&gt;Privacy Policy&lt;/a&gt;. This feature needs to connect to the internet to work normally.​"</string>
+  <string name="summary2">"By using this feature, you're agreeing to our &lt;font color='#37A5FF'&gt;&lt;a href ='%1$s'&gt;User Agreement&lt;/font&gt;&lt;/a&gt; and &lt;font color='#37A5FF'&gt;&lt;a href='%2$s'&gt;Privacy Policy&lt;/font&gt;&lt;/a&gt;. This feature needs to connect to the internet to work normally.​"</string>
   <string name="summary_international">"By using this feature, you're agreeing to our &lt;a href ='%1$s'&gt;User Agreement&lt;/a&gt; and &lt;a href='%2$s'&gt;Privacy Policy&lt;/a&gt;. This feature needs to connect to the internet to work normally.​"</string>
   <string name="sure_close_gallery">Turn off Wallpaper Carousel?</string>
   <string name="sure_close_gallery_des">"You won't be able to have fresh images delivered to your Home screen and Lock screen if you turn off Wallpaper Carousel. Turn off anyway?"</string>
@@ -431,7 +435,9 @@
   <string name="time_current">Juste maintenant</string>
   <string name="toast_ad_down_tip">Téléchargement app…</string>
   <string name="toast_ad_down_tip2">Téléchargement %s…</string>
-  <string name="toast_connect_failed_tip">"Couldn't connect. Wait a minute or teo and try again."</string>
+  <string name="toast_connect_failed_tip">Impossible de se connecter. Attendez une minute ou deux et réessayez.</string>
+  <string name="toast_has_close_gallery">Turned off Wallpaper Carousel successfully</string>
+  <string name="toast_has_open_gallery">Turned on Wallpaper Carousel successfully</string>
   <string name="toast_load_failed_tip">"Couldn't load items"</string>
   <string name="toast_load_hd_fail">"Couldn't load original image"</string>
   <string name="toast_neterror_tip">A network error occurred</string>

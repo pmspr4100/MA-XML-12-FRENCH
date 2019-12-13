@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
+  <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
+  <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
+  <string name="abc_action_mode_done">Terminer</string>
+  <string name="abc_activity_chooser_view_see_all">Tout afficher</string>
+  <string name="abc_activitychooserview_choose_application">Sélectionner une application</string>
+  <string name="abc_capital_off">DÉSACTIVÉ</string>
+  <string name="abc_capital_on">ACTIVÉ</string>
+  <string name="abc_search_hint">Rechercher…</string>
+  <string name="abc_searchview_description_clear">Effacer la requête</string>
+  <string name="abc_searchview_description_query">Requête de recherche</string>
+  <string name="abc_searchview_description_search">Rechercher</string>
+  <string name="abc_searchview_description_submit">Envoyer la requête</string>
+  <string name="abc_searchview_description_voice">Recherche vocale</string>
+  <string name="abc_shareactionprovider_share_with">Partager avec</string>
+  <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
+  <string name="abc_slice_error">Impossible de se connecter</string>
   <string name="action_add_to_workspace">"Ajouter à l'espace de travail"</string>
   <string name="activity_not_found">"L'application n'est pas installée sur votre appareil"</string>
   <string name="activity_not_unlocked">"Attendez que votre appareil soit complètement redémarré avant d'ouvrir les applications"</string>
@@ -20,6 +37,8 @@
   <string name="all_app_category_photography">Photographie</string>
   <string name="all_app_category_shopping">Achats</string>
   <string name="all_app_category_tools">Outils</string>
+  <string name="all_apps">Toutes les applications</string>
+  <string name="all_apps_no_search_results">Impossible de trouver les résultats</string>
   <string name="additional_settings">Paramètres additionnels</string>
   <string name="all_apps_search_app">Rechercher des applications</string>
   <string name="all_apps_search_market_message">Recherche en ligne</string>
@@ -33,6 +52,7 @@
   <string name="all_apps_setting_scroll_bar">Barre de défilement</string>
   <string name="all_apps_setting_title">"Écran d'accueil"</string>
   <string name="all_apps_slide_up_tips">"Balayer vers le haut est réservé à l’ouverture du tiroir de l’application. Basculez sur le mode écran d'accueil normal et réessayez."</string>
+  <string name="all_apps_suggestions">"Suggestions d'applications"</string>
   <string name="announce_for_app_move_in_folder">Déplacé à la position %1$d dans le dossier</string>
   <string name="announce_for_checked">%1$s, vérifié</string>
   <string name="announce_for_choose_default_screen">"Définir l'écran %1$d comme l'écran d'accueil par défaut"</string>
@@ -98,7 +118,7 @@
   <string name="aqi_quality_index_light_pollution">Prudence</string>
   <string name="aqi_quality_index_moderate">Modérée</string>
   <string name="aqi_quality_index_unhealthy">Malsain</string>
-  <string name="auto_delete_category_dialog_content">移除分组下搜索图标后，将不再保留分组，是否确认删除？</string>
+  <string name="auto_delete_category_dialog_content">移除该分组下所有图标后，将不再保留分组，是否确认删除？</string>
   <string name="auto_delete_category_dialog_title">删除分组</string>
   <string name="backup_fail">Impossible de sauvegarder le lanceur</string>
   <string name="bad_wallpaper_source_prompt">"Impossible de charger le fond d'écran"</string>
@@ -346,6 +366,7 @@
   <string name="privacy_thumbnail_blur_summary">"Aperçu de l'application flou dans Récents"</string>
   <string name="privacy_thumbnail_blur_title">"Flouter les aperçus d'applications"</string>
   <string name="quick_app">Applications rapides</string>
+  <string name="recent_apps">Récents</string>
   <string name="recents_config_title">Récents</string>
   <string name="recommend_apk_size_and_desc">%1$d Mo | %2$s</string>
   <string name="recommend_app">"Suggestions d'applications"</string>
