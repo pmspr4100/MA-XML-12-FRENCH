@@ -13,5 +13,3 @@
 * Pour tous les modèles Xiaomi
 * Ajustement des traductions
 * Correction orthographique
-
-
