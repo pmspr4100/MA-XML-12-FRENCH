@@ -8,6 +8,7 @@
   <string name="account_duplicate_dlg_title">Dupliquer le compte</string>
   <string name="account_failure">Session expirée</string>
   <string name="account_name_toast">Un compte avec le même nom existe déjà</string>
+  <string name="account_options_actionbar_title">Paramètres généraux</string>
   <string name="account_options_sync_title">Synchroniser</string>
   <string name="account_password_spaces_error">"Ce mot de passe débute ou se termine par un ou plusieurs
         espaces. De nombreux serveurs n'acceptent pas les mots de passe contenant des espaces."</string>
@@ -49,6 +50,7 @@
   <string name="account_settings_notify_summary">Afficher une notification quand un e-mail arrive</string>
   <string name="account_settings_param">Paramètres du compte</string>
   <string name="account_settings_policies">Politiques de sécurité</string>
+  <string name="account_settings_preference_add_account">Ajouter un compte de messagerie</string>
   <string name="account_settings_preference_att_save_path">Emplacement par défaut des pièces jointes</string>
   <string name="account_settings_preference_head_icon">Photos de profil</string>
   <string name="account_settings_preference_notify">Notifier</string>
@@ -175,6 +177,7 @@
   <string name="add_pre_message_attachments_no">Ne pas ajouter</string>
   <string name="add_pre_message_attachments_yes">Ajouter</string>
   <string name="add_star">Ajouter un étoile</string>
+  <string name="all_purpose">"Bienvenue dans E-Mail ! Ce client de messagerie a été créé par Kingsoft pour Xiaomi. Vous pouvez utiliser cette application pour envoyer et recevoir des e-mails."</string>
   <string name="allread">Tout lire</string>
   <string name="always_bcc_myself">Toujours me mettre en Cci</string>
   <string name="always_show_images">Toujours voir les images de cet expéditeur</string>
@@ -224,6 +227,11 @@
   <string name="auto_advance_summary">Choisir quel message afficher après la suppression</string>
   <string name="auto_login_fail">Impossible de se connecter automatiquement</string>
   <string name="auto_login_fail_to_retry">Impossible de se connecter automatiquement, essayez à nouveau.</string>
+  <string name="auto_mail_enable_txt">Paramètres de démarrage</string>
+  <string name="auto_mail_name">AutoMail</string>
+  <string name="auto_mail_title_note">"Recherchez l'option \"Configuration automatique de 139 Mailbox\", cliquez dessus pour commencer."</string>
+  <string name="auto_mail_window_description">Configuration automatique du service 139 Mailbox</string>
+  <string name="auto_mail_window_label">Configuration automatique de 139 Mailbox</string>
   <string name="auto_remind_bind">Ajouter</string>
   <string name="auto_remind_discribe_text">Activer pour recevoir les rappels automatiques</string>
   <string name="auto_remind_text">Rappels automatiques</string>
@@ -278,7 +286,11 @@
   <string name="compose_picturesexceedlimits">Ne doit pas dépasser 5 images par ligne dans le message</string>
   <string name="compose_send">Envoyer</string>
   <string name="compose_sent">E-mail envoyé</string>
+  <string name="config">139 Mailbox Phone Number Configured</string>
+  <string name="config_cancel">Annuler</string>
+  <string name="config_retry">Recommencez</string>
   <string name="confirm">OK</string>
+  <string name="confirm_age">"Confirmer l'âge"</string>
   <string name="confirm_before_delete">Confirmer avant suppression</string>
   <string name="confirm_before_delete_keywords">confirmer avant la suppression;supprimer confirmer</string>
   <string name="confirm_before_send">Confirmer avant envoi</string>
@@ -328,6 +340,7 @@
   <string name="contextmenu_send_mail">Envoyer un e-mail</string>
   <string name="contextmenu_sharelink">Partager le lien</string>
   <string name="contextmenu_sms_dot">SMS…</string>
+  <string name="conversation_content_provider">Fournisseur de contenu de conversation</string>
   <string name="conversation_detail_hide">Masquer</string>
   <string name="conversation_detail_show">Détails</string>
   <string name="conversation_folder_moved">Déplacé vers %1$s</string>
@@ -370,6 +383,7 @@
   <string name="device_not_activiey_lint1">"Gestionnaire d'appareil non activé"</string>
   <string name="device_not_activiey_lint2">Le service mail ne fonctionne pas avec exchange</string>
   <string name="dialog_account_auto_sync_setting_no_open">Vous avez choisi de synchroniser manuellement les e-mails. Actualiser pour synchroniser.</string>
+  <string name="dialog_agree">Accepter</string>
   <string name="dialog_change_sync_lookback">Le mail reçu il y a %s sera automatiquement supprimé. Appuyez pour changer.</string>
   <string name="dialog_disagree">"Pas d'accord"</string>
   <string name="dialog_insufficient_space_on_external">Impossible de télécharger la pièce jointe. Espace insuffisant sur le stockage externe.</string>
@@ -456,11 +470,11 @@
   <string name="file_save_path_dialog_cancel">"C'est compris"</string>
   <string name="file_save_path_dialog_ok">Changer maintenant</string>
   <string name="file_save_term">"Conditions d'enregistrement de ficher"</string>
-  <string name="filtered_tag">" [%1$s]%2$s"</string>
+  <string name="filtered_tag">" [%1$s] %2$s"</string>
   <string name="first_quick_default_reply">Appuyer sur le bouton pour envoyer \"%s\" à toutes les personnes dans la conversation</string>
   <string name="folder_list_display_all">Afficher tous les dossiers</string>
   <string name="folder_list_display_only_import">Afficher seulement les dossiers importants</string>
-	<string name="folder_no_mails">"Pas d'emails dans ce dossier."</string>
+  <string name="folder_no_mails">"Pas d'emails dans ce dossier."</string>
   <string name="folder_picker_title">Choisissez des dossiers</string>
   <string name="folder_removed">Supprimé de %1$s</string>
   <string name="folder_shortcut_widget_label">Dossier e-mail</string>
@@ -494,10 +508,10 @@
   <string name="gmail_server_authorization_deleted">"Impossible d'authentifier le compte. Essayez d'ajouter ce compte à nouveau."</string>
   <string name="gmail_web_login_go">OK</string>
   <string name="gmail_web_login_required_message">Se connecter à Gmail</string>
-	<string name="have_auth_code">"J'ai un code"</string>
+  <string name="have_auth_code">"J'ai un code"</string>
   <string name="header_category_account">Comptes</string>
   <string name="header_category_other">Commentaires</string>
-  <string name="header_label_general_preferences">Paramètres généraux</string>
+  <string name="header_label_general_preferences">Généraux</string>
   <string name="help_and_info">Aide</string>
   <string name="help_me_get_qq_auth">Obtenir le code QQ</string>
   <string name="help_weixin_title">"Si vous avez des questions, n'hésitez pas à nous laisser un message sur notre compte WeChat officiel: "</string>
@@ -533,7 +547,7 @@
   <string name="login_err_message">"%1$s Vous aurez peut-être également besoin d’un code de vérification pour vous connecter. Si vous devez réinitialiser votre mot de passe, rendez-vous à https://email.163.com/ pour voir les options qui s'offrent à vous.."</string>
   <string name="login_err_sina_message">"%1$s Vous aurez peut-être également besoin d’un code de vérification pour vous connecter. Si vous devez réinitialiser votre mot de passe, rendez-vous à https://mail.sina.com.cn/ pour voir les options qui s'offrent à vous.."</string>
   <string name="login_failed_ticker">Impossible de se connecter à %s.</string>
-  <string name="login_failed_tip">Login help feedback add WeChat public number:</string>
+  <string name="login_failed_tip">Aide à la connexion commentaires ajouter le numéro public WeChat</string>
   <string name="login_failed_title">Impossible de se connecter</string>
   <string name="login_mail">Se connecter</string>
   <string name="login_qq_psw">"Connectez-vous à l'aide d'un mot de passe / authentificateur / code de vérification QQ."</string>
@@ -549,8 +563,12 @@
   <string name="mail_login_help_details1">"1. Mot de passe de messagerie: si vous n'avez pas configuré le code de vérification du client et que vous avez déjà ouvert le protocole POP3/IMAP/SMTP, vous pouvez utiliser un mot de passe de messagerie pour vous connecter."</string>
   <string name="mail_login_help_details2">"2. Code de vérification du client: Si vous avez déjà configuré un code de vérification du client, vous devez vous en servir pour vous connecter. Assurez-vous également que le protocole POP3/IMAP/SMTP était ouvert."</string>
   <string name="mail_login_help_title">Mot de passe E-mail ou description du code de vérification client:</string>
+  <string name="mail_outlook_login_tips">"Selon les exigences de Microsoft, vous devez saisir le mot de passe dans la page d'autorisation Microsoft."</string>
+  <string name="mail_outlook_oauth_login">Connectez-vous avec OAuth</string>
+  <string name="mail_outlook_psw_login">Connectez-vous avec mot de passe</string>
   <string name="mailbox_list_account_selector_combined_view">Compte combiné</string>
   <string name="mailbox_name_display_ad">Publicités</string>
+  <string name="mailbox_name_display_add_account">Ajouter un compte de messagerie</string>
   <string name="mailbox_name_display_circular">Notifications</string>
   <string name="mailbox_name_display_drafts">Brouillons</string>
   <string name="mailbox_name_display_inbox">Boîte de réception</string>
@@ -560,6 +578,14 @@
   <string name="mailbox_name_display_starred">Favoris</string>
   <string name="mailbox_name_display_trash">Corbeille</string>
   <string name="mailbox_name_display_unread">Non lu</string>
+  <string name="mailbox_name_server_all_unread">Non lu</string>
+  <string name="mailbox_name_server_drafts">Brouillons</string>
+  <string name="mailbox_name_server_inbox">Boîte de réception</string>
+  <string name="mailbox_name_server_junk">Spam</string>
+  <string name="mailbox_name_server_outbox">Sortant</string>
+  <string name="mailbox_name_server_sent">Envoyé</string>
+  <string name="mailbox_name_server_starred">Favoris</string>
+  <string name="mailbox_name_server_trash">Corbeille</string>
   <string name="mailbox_settings_activity_title">Paramètres de synchronisation</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Options de synchronisation (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Synchroniser les e-mails à partir de</string>
@@ -661,6 +687,7 @@
   <string name="mibill_privacy_policy_button1">Plus tard</string>
   <string name="mibill_privacy_policy_button2">Accepter</string>
   <string name="mibill_privacy_policy_description">Autoriser Mi Wallet à analyser et gérer vos factures automatiquement. Cette fonctionnalités est automatiquement désactivé pour les adresses e-mails de travail.</string>
+  <string name="mibill_privacy_policy_link">"En utilisant cette fonctionnalité, vous acceptez nos "&lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Conditions d'utilisation &lt;/a&gt;"</string>
   <string name="mibill_privacy_policy_title">Gérer les factures automatiquement</string>
   <string name="min_payment_text">Paiement minimal</string>
   <string name="more_context">Plus</string>
@@ -672,6 +699,7 @@
   <string name="network_error">Pas de connexion</string>
   <string name="network_invaild">Impossible de se connecter au réseau</string>
   <string name="network_not_available">Connexion réseau non disponible</string>
+  <string name="network_tip">"L'authentification a échoué, veuillez vérifier votre connexion réseau"</string>
   <string name="network_try_again">Vérifiez la connexion réseau et réessayez</string>
   <string name="network_unavailable">Réseau non disponible</string>
   <string name="new_incoming_messages_one">Nouveau message de %s. Afficher.</string>
@@ -820,6 +848,7 @@ afin de recevoir des rappels concernant les paiements et les voyages"</string>
   <string name="policy_screen_timeout">Exiger un dispositif pour verrouiller son écran</string>
   <string name="policy_text_truncation">"Limiter la taille du texte de l'e-mail"</string>
   <string name="pop3_name">POP3</string>
+  <string name="prefDefault_autoAdvance">liste</string>
   <string name="preference_eas_tips">Appuyez sur Activer pour configurer le serveur de messagerie.</string>
   <string name="preference_pop_tips">"En POP3, les pièces jointes seront automatiquement téléchargées avec l'e-mail. Cela peut augmenter votre consommation de données mobiles."</string>
   <string name="preference_sender_image_description">"Afficher la photo de profile à côté du nom de l'expéditeur dans la Boîte de réception"</string>
@@ -833,8 +862,10 @@ afin de recevoir des rappels concernant les paiements et les voyages"</string>
   <string name="print_scheduler_title">Imprimer tout le planificateur</string>
   <string name="privacy_des">"Les journaux contiennent des informations de débogage du client de messagerie et les informations de votre périphérique. Cette information est utilisée pour localiser les problèmes plus rapidement. En tapotant \"%1$s\" ci-dessous, vous acceptez notre \"%2$s\"."</string>
   <string name="privacy_policy">Politique de confidentialité</string>
+  <string name="privacy_setting_agree">Accepter</string>
   <string name="prompt_title">Rapide</string>
   <string name="protocol_setting_toast">Appuyez sur le coin supérieur droit pour accéder aux paramètres après avoir accepté</string>
+  <string name="pull_load_more">Tirez pour charger plus</string>
   <string name="pull_to_refresh">Tirer vers le bas pour actualiser</string>
   <string name="push_wps_better_confirm_download">Télécharger</string>
   <string name="push_wps_better_confirm_exit">Pas maintenant</string>
@@ -885,6 +916,7 @@ afin de recevoir des rappels concernant les paiements et les voyages"</string>
   <string name="quick_3">Je vais le lire plus tard et revenir vers vous.</string>
   <string name="quick_4">Nous allons fixer un rendez-vous pour en discuter.</string>
   <string name="quick_reply_dialog_title">Choisir une réponse</string>
+  <string name="quick_reply_expend">Développer</string>
   <string name="quick_reply_hint_bcc">(En CCI)</string>
   <string name="quick_reply_hint_cc">(En CC)</string>
   <string name="quick_reply_hint_reply_only_from">Réponse rapide (expéditeur seulement)</string>
@@ -922,7 +954,7 @@ afin de recevoir des rappels concernant les paiements et les voyages"</string>
   <string name="recognize_ticket_train_return">Retourné</string>
   <string name="recognize_ticket_train_user_name">Passager: %1$s</string>
   <string name="recognize_title">Informations de voyage</string>
-	<string name="recommend_protocal">"Protocole d'utilisation des recommandations"</string>
+  <string name="recommend_protocal">"Protocole d'utilisation des recommandations"</string>
   <string name="reduce_the_receiving_frequencye_summary">Synchroniser la boîte de réception moins fréquemment quand le mode Ne pas déranger est activé</string>
   <string name="reduce_the_receiving_frequencye_title">Réduire la fréquence de synchronisation</string>
   <string name="refresh">Actualiser</string>
@@ -930,6 +962,7 @@ afin de recevoir des rappels concernant les paiements et les voyages"</string>
   <string name="refreshing_done">Terminé</string>
   <string name="release_to_refresh">Relâchez pour actualiser</string>
   <string name="remind_attachment_size_limit">Vos e-mails ne doivent pas dépasser %s Mo</string>
+  <string name="remote_no_mail">"Il n'y a plus d'e-mails sur le serveur."</string>
   <string name="remote_search_body_too_large_prompt">"Cet email est trop long.
 Attendez la synchronisation complète ou visualisez le message sur votre ordinateur."</string>
   <string name="remove_account">Supprimer le compte</string>
@@ -940,9 +973,14 @@ Attendez la synchronisation complète ou visualisez le message sur votre ordinat
   <string name="reply_all">Répondre à tous</string>
   <string name="reply_attribution">On %1$s, %2$s wrote:</string>
   <string name="report_phishing">Signaler un hameçonnage</string>
+  <string name="report_rendering_improvement">Cela semble bon</string>
+  <string name="report_rendering_improvement_desc">Ce message semble bon.</string>
+  <string name="report_rendering_problem">"CA n'a pas l'air bien"</string>
+  <string name="report_rendering_problem_desc">Ce message est mauvais.</string>
   <string name="report_spam">Signaler un spam</string>
   <string name="request_copy_db_to_disk">E-Mail demande à copier votre base de données dans un fichier</string>
   <string name="request_entity_large">Fichier trop gros !</string>
+  <string name="request_permission_activity">Permission requise</string>
   <string name="respond_inline">Répondre en ligne</string>
   <string name="retry_login">Se connecter à nouveau</string>
   <string name="save_action">Enregistrer</string>
@@ -998,32 +1036,41 @@ Attendez la synchronisation complète ou visualisez le message sur votre ordinat
   <string name="ser_resp_err_map_pserr">"Nom d'utilisateur ou mot de passe incorrect"</string>
   <string name="ser_resp_err_map_serclosed">%s serveur fermé.</string>
   <string name="ser_resp_err_map_ssl">"Choisissez 'SSL / TLS (Accepter tous les certificats)' dans 'Type de sécurité'"</string>
+  <string name="service_protocol_discribe">&lt;u&gt;"I've read and agree with WPS Mail Service Agreement"&lt;/u&gt;</string>
   <string name="service_protocol_title">Contrat de service</string>
   <string name="set_network">Configurer le réseau</string>
+  <string name="setting_kids_subtitle">"Confirmer l'âge de l'utilisateur"</string>
+  <string name="setting_kids_title">Plus de 16 ans.</string>
   <string name="settings_activity_title">Paramètres</string>
   <string name="share_choose">Choisissez un fichier à partager</string>
   <string name="sharing">Partager</string>
   <string name="shortcut_name_title">Nom du raccourci</string>
   <string name="show_elided">▶ Afficher le texte cité</string>
   <string name="show_images">Télécharger et afficher les images</string>
+  <string name="show_more_attachment">Plus de pièces jointes</string>
   <string name="show_password">Afficher le mot de passe</string>
   <string name="signature">"
 
 
 
 %s"</string>
+  <string name="signature_black_shark">Sent from my Blackshark phone</string>
   <string name="silent_ringtone">Silence</string>
   <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
+  <string name="sms_tip">Authentication fails, check whether the antivirus software to intercept SMS</string>
   <string name="smtp_password_error">Le mot de passe du serveur sortant est incorrect</string>
   <string name="sort_attachment">Trier par</string>
   <string name="storage">Stockage</string>
   <string name="str_select_all">Tout sélectionner</string>
   <string name="str_select_none">Tout déselectionner</string>
   <string name="subject_hint">Objet</string>
-  <string name="sync_contacts_fail_per_content">"Appuyer pour autoriser l'accès aux contacts"</string>
-  <string name="sync_contacts_fail_per_title">Ne peut pas synchroniser les contacts</string>
-  <string name="sync_contacts_fail_permission">Impossible de synchroniser les contacts, autoriser E-mail à accéder à vos contacts dans les paramètres</string>
+  <string name="sync_calendra_fail_per_content">"Appuyez pour autoriser l'accès au calendrier"</string>
+  <string name="sync_calendra_fail_per_title">"Impossible de synchroniser le calendrier"</string>
+  <string name="sync_calendra_fail_permission">"Impossible de synchroniser le calendrier, autorisez E-mail à accéder à votre calendrier dans les paramètres"</string>
+  <string name="sync_contacts_fail_per_content">"Appuyez pour autoriser l'accès aux contacts"</string>
+  <string name="sync_contacts_fail_per_title">"Impossible de synchroniser les contacts"</string>
+  <string name="sync_contacts_fail_permission">"Impossible de synchroniser les contacts, autorisez E-mail à accéder à vos contacts dans les paramètres"</string>
   <string name="sync_contacts_req_per_ignored">Autoriser E-mail à accéder à vos contacts pour la synchronisation</string>
   <string name="sync_error">Impossible de synchroniser.</string>
   <string name="sync_error_message">"Votre appareil ne dispose pas d'espace de stockage suffisant pour synchroniser."</string>
@@ -1086,6 +1133,8 @@ Attendez la synchronisation complète ou visualisez le message sur votre ordinat
   <string name="turn_auto_sync_on_dialog_title">Activer la synchronisation auto ?</string>
   <string name="unbind_dialog_text">"L'application E-mail n'analysera plus vos e-mails après cela.
 Supprimer le compte ?"</string>
+  <string name="under_16_content">Confirmer moins de 16 ans ?</string>
+  <string name="under_sixteen">"J'ai moins de 16 ans."</string>
   <string name="undo">Annuler</string>
   <string name="unknow">Inconnu</string>
   <string name="unread_string">Conversation non lue</string>
@@ -1093,6 +1142,7 @@ Supprimer le compte ?"</string>
   <string name="update_date_format_templete">HH:mm aa, dd MMMM</string>
   <string name="update_domain_summary">Mettre à jour la liste des domaines et des configurations disponibles</string>
   <string name="update_domain_title">Mettre à jour les paramètres du domaine</string>
+  <string name="update_to_wps_mail">Profitez de plus de fonctionnalités avec WPS Mail</string>
   <string name="updated_at">Dernière mise à jour: %1$s</string>
   <string name="upload_log">Envoyer</string>
   <string name="upload_log_failed">"Impossible d'envoyer les journaux"</string>
@@ -1112,9 +1162,9 @@ Supprimer le compte ?"</string>
   <string name="verify_code">Code de vérification</string>
   <string name="version_string">Version: %s</string>
   <string name="via_domain">via %1$s</string>
-  <string name="view_more_conversations">Voir plus de conversations</string>
-  <string name="wait_for_manual_sync_body">"\"Ce compte n'est pas configuré pour synchroniser automatiquement.
-Appuyer sur \""<b>Synchroniser maintenant</b> pour la première synchronisation des e-mails, ou <b>Modifier les paramètres de synchronisation</b> pour configurer ce compte afin de synchroniser automatiquement le courrier.</string>
+  <string name="view_more_conversations">Afficher plus de conversations</string>
+  <string name="wait_for_manual_sync_body">"Ce compte n'est pas configuré pour se synchroniser automatiquement.
+Appuyer sur "&lt;b&gt;Sync Now&lt;/b&gt; pour synchroniser maintenant, ou &lt;b&gt;Modifier les paramètres de synchronisation&lt;/b&gt; pour configurer ce compte pour synchroniser automatiquement le courrier."</string>
   <string name="wait_for_sync_title">En attente de synchronisation</string>
   <string name="wait_help_context">patienter</string>
   <string name="wait_while_update_db">"Attendez un moment lors de la mise à niveau de la base de données, s'il vous plaît !"</string>
