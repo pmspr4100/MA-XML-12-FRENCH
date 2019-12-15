@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-  <string name="abbrev_wday_month_day_no_year">EEEEMMMMd</string>
-  <string name="abbrev_wday_month_day_no_year_alarm">EEEMMMd</string>
-  <string name="change_theme_reboot">Changing the theme requires a restart.</string>
-  <string name="default_theme">Default</string>
-  <string name="face_data_apply_for_category_title">Unlock using face data</string>
-  <string name="face_data_apply_for_keyguard_title">Lock screen</string>
-  <string name="face_unlock_category_title">Lock screen options</string>
-  <string name="no_tiles_add">No tiles to add</string>
-  <string name="power_charging_duration">%1$s - %2$s until fully charged</string>
+  <string name="abbrev_wday_month_day_no_year">dMMMMEEEE</string>
+  <string name="abbrev_wday_month_day_no_year_alarm">dMMMEEE</string>
+  <string name="change_theme_reboot">Changer le thème nécessite un redémarrage.</string>
+  <string name="default_theme">Par défaut</string>
+  <string name="face_data_apply_for_category_title">"Déverrouiller à l'aide des données du visage"</string>
+  <string name="face_data_apply_for_keyguard_title">Écran de verrouillage</string>
+  <string name="face_unlock_category_title">"Options d'écran de verrouillage"</string>
+  <string name="no_tiles_add">Pas de tuiles à ajouter</string>
+  <string name="power_charging_duration">"%1$s - %2$s jusqu'à pleine charge"</string>
   <string name="power_discharging_duration">About %1$s left (%2$s)</string>
   <string name="power_discharging_duration_enhanced">About %1$s left based on your usage (%2$s)</string>
   <string name="qs_customize">Allow long-press customize in Quick Settings</string>
