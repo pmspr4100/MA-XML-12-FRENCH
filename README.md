@@ -1,3 +1,6 @@
+# MIUI V11 French Translation
+[![License: CC BY-NC-SA 3.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%203.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+
 ## Référentiel MIUI v11
 * Support de la ROM Stable pour xiaomi.eu
 * Support de la ROM Bêta pour xiaomi.eu
