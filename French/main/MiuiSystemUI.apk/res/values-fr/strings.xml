@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="abbrev_wday_month_day_no_year">dMMMMEEEE</string>
+  <string name="abbrev_wday_month_day_no_year_alarm">dMMMEEE</string>
+  <string name="change_theme_reboot">Changer le thème nécessite un redémarrage.</string>
+  <string name="default_theme">Par défaut</string>
+  <string name="face_data_apply_for_category_title">"Déverrouiller à l'aide des données du visage"</string>
+  <string name="face_data_apply_for_keyguard_title">Écran de verrouillage</string>
+  <string name="face_unlock_category_title">"Options d'écran de verrouillage"</string>
+  <string name="no_tiles_add">Pas de tuiles à ajouter</string>
+  <string name="power_charging_duration">"%1$s - %2$s jusqu'à pleine charge"</string>
+  <string name="qs_customize_info">Information</string>
+  <string name="qs_customize_remove">Supprimer</string>
+  <string name="qs_paging">Utilisez les nouveaux paramètres rapides</string>
+  <string name="report_rejected_touch">Rapport tactile refusé</string>
+  <string name="stream_system_enforced">Système appliqué</string>
+  <string name="stream_tts">Transmis par le haut-parleur</string>
+  <string name="theme">Thème</string>
+  <string name="tuner_doze">Affichage ambiant</string>
+  <string name="tuner_doze_always_on">Toujours allumé</string>
+  <string name="volume_stream_limited_dnd">%s — Priorité uniquement</string>
+  <string name="volume_stream_muted">%s silencieux</string>
+  <string name="volume_stream_muted_dnd">%s silencieux — Total silence</string>
+  <string name="volume_stream_suppressed">%1$s silencieux — %2$s</string>
+  <string name="volume_stream_vibrate">%s vibrer</string>
+  <string name="volume_stream_vibrate_dnd">%s vibrer — Priorité uniquement</string>
+  <string name="power_discharging_duration">About %1$s left (%2$s)</string>
+  <string name="power_discharging_duration_enhanced">About %1$s left based on your usage (%2$s)</string>
+  <string name="qs_customize">Allow long-press customize in Quick Settings</string>
   <string name="China_Mobile">China Mobile</string>
   <string name="China_Mobile_HD">China Mobile (HD)</string>
   <string name="China_Telecom">China Telecom</string>
@@ -38,9 +65,9 @@
   <string name="accessibility_action_divider_left_70">70% à gauche</string>
   <string name="accessibility_action_divider_left_full">Plein écran gauche</string>
   <string name="accessibility_action_divider_right_full">Plein écran droit</string>
-  <string name="accessibility_action_divider_top_30">Supérieur 30%</string>
-  <string name="accessibility_action_divider_top_50">Supérieur 50%</string>
-  <string name="accessibility_action_divider_top_70">Supérieur 70%</string>
+  <string name="accessibility_action_divider_top_30">Supérieur à 30%</string>
+  <string name="accessibility_action_divider_top_50">Supérieur à 50%</string>
+  <string name="accessibility_action_divider_top_70">Supérieur à 70%</string>
   <string name="accessibility_action_divider_top_full">Plein écran supérieur</string>
   <string name="accessibility_airplane_mode">Mode avion</string>
   <string name="accessibility_ambient_display_charging">Chargement</string>
@@ -228,7 +255,6 @@
   <string name="accessibility_recents_item_launched">Lancement de %s.</string>
   <string name="accessibility_recents_item_open_app_info">"Ouvrir les infos de l'application %s."</string>
   <string name="accessibility_recents_item_will_be_dismissed">Faire disparaître %s.</string>
-  <string name="accessibility_recents_task_header">%1$s %2$s</string>
   <string name="accessibility_remove_notification">Effacer les notifications.</string>
   <string name="accessibility_ringer_silent">Silencieux.</string>
   <string name="accessibility_ringer_vibrate">Vibrer.</string>
@@ -275,7 +301,7 @@
   <string name="accessibility_wimax_signal_full">Signal WiMAX maximal.</string>
   <string name="accessibility_wimax_three_bars">Trois barres WiMAX.</string>
   <string name="accessibility_wimax_two_bars">Deux barres WiMAX.</string>
-  <string name="accessibility_work_mode">Mode Travail</string>
+  <string name="accessibility_work_mode">Mode travail</string>
   <string name="accessibility_zero_bars">Zéro barre.</string>
   <string name="account_info">Non connecté</string>
   <string name="activate_usb_message">Pour activer cette fonctionnalité, insérez votre carte SIM.</string>
