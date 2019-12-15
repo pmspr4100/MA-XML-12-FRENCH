@@ -21,7 +21,7 @@
   <string name="accessibility_camera_record_start">Commencé à enregistrer une vidéo</string>
   <string name="accessibility_camera_record_stop">"Arrêt de l'enregistrement vidéo"</string>
   <string name="accessibility_camera_shutter_finish">Prise de la photo réussie</string>
-  <string name="accessibility_camera_switch_capture_recording">切换拍照和录像</string>
+  <string name="accessibility_camera_switch_capture_recording">Changer de photos et de vidéos</string>
   <string name="accessibility_camera_ultra_wide_bokeh_off">Mode corps complet est désactivé</string>
   <string name="accessibility_camera_ultra_wide_bokeh_on">Mode corps complet est activé</string>
   <string name="accessibility_closed">Désactivé</string>
@@ -74,6 +74,24 @@
   <string name="accessibility_video_pause_button">Enregistrement vidéo en pause</string>
   <string name="accessibility_video_resume_button">"Reprise de l'enregistrement vidéo"</string>
   <string name="accessibility_zoom_button">Mode zoom</string>
+  <string name="accessibility_mimovie_off">Mode vidéo désactivé</string>
+  <string name="accessibility_mimovie_on">Mode vidéo activé</string>
+  <string name="app_name">"Gestionnaire d'effets"</string>
+  <string name="ccc_temperature_warning_msg">"Votre appareil est en surchauffe. L'appareil photo sera fermée dans %d secondes. Vos photos ou vidéos seront enregistrées automatiquement."</string>
+  <string name="ccc_temperature_warning_title">"L'appareil est en surchauffe"</string>
+  <string name="color_effect_entry_classic">Classique</string>
+  <string name="config_name_mimovie">Mode vidéo</string>
+  <string name="confirm_reset_manually_parameter_message">Réinitialiser tous les paramètres à leurs valeurs par défaut ?</string>
+  <string name="fragment_tab_name_bokeh">Bokeh</string>
+  <string name="hint_mimovie">Photographiez en mode paysage pour un meilleur effet</string>
+  <string name="live_sticker_tab_name">Autocollant magique TikTok</string>
+  <string name="pref_camera_manual_description_title">Introduction aux paramètres</string>
+  <string name="pref_camera_snap_entry_summary">"Appuyez et maintenez enfoncé le bouton Volume bas lorsque l'écran est éteint pour prendre une photo"</string>
+  <string name="pref_camera_snap_value_off">Désactiver</string>
+  <string name="pref_camera_snap_value_take_movie">Film</string>
+  <string name="pref_camera_snap_value_take_picture">Image</string>
+  <string name="pref_photo_assistance_tips_off">Désactiver</string>
+  <string name="pref_photo_assistance_tips_on">Activer</string>
   <string name="ai_scene_mode_use_hint_text">"L'appareil photo IA détecte automatiquement les scènes
 et optimise vos photos en fonction des informations"</string>
   <string name="ai_scene_top_moon_off">Mode faible luminosité</string>
@@ -83,9 +101,9 @@ et optimise vos photos en fonction des informations"</string>
   <string name="autozoom_disabled_hint">"Arrêt du suivi d'un objet en mouvement"</string>
   <string name="autozoom_hint">"Suivre l'objet en mouvement"</string>
   <string name="autozoom_landscape_hint">"Tirez en mode paysage pour obtenir le meilleur effet"</string>
-  <string name="auxiliary_close_status">关闭辅助效果</string>
-  <string name="auxiliary_exposure_feedback_status">打开曝光反馈</string>
-  <string name="auxiliary_focus_peak_status">打开峰值对焦</string>
+  <string name="auxiliary_close_status">"Désactivez les effets d'assistance"</string>
+  <string name="auxiliary_exposure_feedback_status">"Activer le retour d'exposition"</string>
+  <string name="auxiliary_focus_peak_status">Activer la mise au point maximale</string>
   <string name="back_bokeh_use_hint">Gardez votre sujet à moins de 1,5 mètre pour un meilleur effet</string>
   <string name="beauty_body">Silhouette</string>
   <string name="beauty_body_body">Élancé</string>
@@ -187,7 +205,7 @@ et optimise vos photos en fonction des informations"</string>
   <string name="dirty_tip_toast">La lentille est sale. Essuyez-la.</string>
   <string name="do_not_remind_me">"Ne plus afficher"</string>
   <string name="document_blackwhite">Noir et blanc</string>
-  <string name="document_blur_warn">文字拍摄模糊</string>
+  <string name="document_blur_warn">Le texte est flou</string>
   <string name="document_origin">Originale</string>
   <string name="document_strengthen">Renforcé</string>
   <string name="dual_camera_lens_covered_toast">La lentille est couverte.</string>
