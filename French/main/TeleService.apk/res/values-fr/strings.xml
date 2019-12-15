@@ -1247,15 +1247,18 @@ Votre téléphone sera automatiquement bloqué en cas de nouvel échec"</string>
   <string name="preferred_network_mode_evdo_only_summary">Mode réseau préféré: EvDo uniquement</string>
   <string name="preferred_network_mode_global_choice">Général</string>
   <string name="preferred_network_mode_global_summary">Mode réseau préféré: Global</string>
+  <string name="preferred_network_mode_gsm_only">GSM uniquement</string>
   <string name="preferred_network_mode_gsm_only_choice">GSM uniquement</string>
   <string name="preferred_network_mode_gsm_only_summary">Mode réseau préféré: GSM uniquement</string>
+  <string name="preferred_network_mode_gsm_wcdma_auto">GSM/WCDMA automatique</string>
   <string name="preferred_network_mode_gsm_wcdma_auto_choice">GSM/WCDMA automatique</string>
   <string name="preferred_network_mode_gsm_wcdma_lte_choice">GSM/WCDMA/LTE</string>
+  <string name="preferred_network_mode_gsm_wcdma_preferred">GSM/WCDMA de préférence</string>
   <string name="preferred_network_mode_gsm_wcdma_preferred_choice">GSM/WCDMA de préférence</string>
   <string name="preferred_network_mode_gsm_wcdma_summary">Mode réseau préféré: GSM/WCDMA</string>
   <string name="preferred_network_mode_lte_cdma_evdo_summary">Mode réseau préféré: CDMA+LTE/EVDO</string>
   <string name="preferred_network_mode_lte_cdma_summary">Mode réseau préféré: LTE/WCDMA</string>
-  <string name="preferred_network_mode_lte_choice">LTE</string>
+  <string name="preferred_network_mode_lte_only">LTE uniquement</string>
   <string name="preferred_network_mode_lte_gsm_umts_summary">Mode réseau préféré: LTE/GSM/UMTS</string>
   <string name="preferred_network_mode_lte_gsm_wcdma_summary">Mode réseau préféré: GSM/WCDMA/LTE</string>
   <string name="preferred_network_mode_lte_summary">Mode réseau préféré: LTE</string>
@@ -1264,7 +1267,6 @@ Votre téléphone sera automatiquement bloqué en cas de nouvel échec"</string>
   <string name="preferred_network_mode_lte_tdscdma_gsm_wcdma_summary">Mode réseau préféré: LTE/TDSCDMA/GSM/WCDMA</string>
   <string name="preferred_network_mode_lte_tdscdma_summary">Mode réseau préféré: LTE/TDSCDMA</string>
   <string name="preferred_network_mode_lte_tdscdma_wcdma_summary">Mode réseau préféré: LTE/TDSCDMA/WCDMA</string>
-  <string name="preferred_network_mode_lte_wcdma_choice">LTE/WCDMA</string>
   <string name="preferred_network_mode_lte_wcdma_summary">Mode réseau préféré: LTE/WCDMA</string>
   <string name="preferred_network_mode_summary">Changer le mode de fonctionnement du réseau</string>
   <string name="preferred_network_mode_td_scdma_only_choice">TD-SCDMA uniquement</string>
@@ -1274,6 +1276,7 @@ Votre téléphone sera automatiquement bloqué en cas de nouvel échec"</string>
   <string name="preferred_network_mode_tdscdma_summary">Mode réseau préféré: TDSCDMA</string>
   <string name="preferred_network_mode_tdscdma_wcdma_summary">Mode réseau préféré: TDSCDMA/WCDMA</string>
   <string name="preferred_network_mode_title">Type de réseau préféré</string>
+  <string name="preferred_network_mode_wcdma_only">WCDMA uniquement</string>
   <string name="preferred_network_mode_wcdma_only_choice">WCDMA uniquement</string>
   <string name="preferred_network_mode_wcdma_only_summary">Mode réseau préféré: WCDMA uniquement</string>
   <string name="preferred_network_mode_wcdma_perf_summary">Mode réseau préféré: WCDMA de préférence</string>
@@ -1767,6 +1770,34 @@ Les appels d’urgence ne sont possibles que dans les zones couvertes par une co
   <string name="wfcmode_wifi_only">Wi-Fi uniquement</string>
   <string name="wfcmode_wifi_preferred">Préferer le Wi-Fi</string>
   <string name="wifi_ap_unable_to_handle_new_sta">"Point d'accès temporairement plein"</string>
+  <string name="wifi_auto_sel_wapi_cert">Sélectionnez automatiquement</string>
+  <string name="wifi_call_accept">Suivant</string>
+  <string name="wifi_call_available_message">"Vous pouvez maintenant passer des appels en utilisant le Wi-Fi. Si vous êtes connecté à un réseau Wi-Fi, vous pourrez parler même lorsque vous vous trouvez dans des zones sans couverture de réseau cellulaire."</string>
+  <string name="wifi_call_available_title">Activer les appels Wi-Fi</string>
+  <string name="wifi_call_cancel">"Plus d'informations"</string>
+  <string name="wifi_call_help">Aide</string>
+  <string name="wifi_call_help_message_1">"Les appels Wi-Fi sont un service fourni par Orange qui vous permet de passer et de recevoir des appels via Wi-Fi. Cette fonctionnalité peut être utilisée dans les zones à faible couverture de réseau cellulaire.
+
+Pour utiliser les appels Wi-Fi, activez-le dans Paramètres &gt; Appel Wi-Fi.
+
+Pour activer le service, Orange vous enverra un message de confirmation dès que le service sera disponible. Après cela, vous pourrez vous connecter à un réseau Wi-Fi et passer des appels.
+
+Les appels effectués via Wi-Fi seront facturés selon les conditions de votre forfait.
+
+Chaque fois que cette fonction est disponible, l'icône suivante s'affiche en haut de votre écran."</string>
+  <string name="wifi_call_help_message_2">"Si vous choisissez de préférer les réseaux Wi-Fi, ils seront utilisés par défaut pour passer des appels téléphoniques. Si vous n'êtes pas connecté au Wi-Fi ou que le signal est faible, les réseaux cellulaires seront utilisés pour passer des appels.
+
+Si vous choisissez de préférer les réseaux cellulaires, ils seront utilisés par défaut pour passer des appels téléphoniques. S'il n'y a pas de couverture de réseau cellulaire ou si le signal est faible, les réseaux Wi-Fi seront utilisés à la place."</string>
+  <string name="wifi_call_help_title">Aide appel Wi-Fi</string>
+  <string name="wifi_call_notification_message">"Ce service est fourni par Orange. L'activation de ce service peut prendre plusieurs heures. Vous recevrez un SMS de confirmation dès qu'il sera disponible."</string>
+  <string name="wifi_call_preferred_summary">"Si vous choisissez de préférer les réseaux cellulaires, les réseaux cellulaires seront utilisés pour les appels par défaut. Dans le cas où il n'y a pas de signal de réseau cellulaire ou qu'il est très pauvre, le réseau Wi-Fi sera utilisé à la place."</string>
+  <string name="wifi_call_setting_vodafone_de">Appel Wi-Fi</string>
+  <string name="wifi_call_setting_vodafone_uk">Appel Wi-Fi</string>
+  <string name="wifi_call_welcome_settings">Appels Wi-Fi</string>
+  <string name="wifi_coverage_extend">"Activer la fonctionnalité d'extension de couverture Wi-Fi"</string>
+  <string name="wifi_coverage_extend_summary">"Activer l'extension de la couverture Wi-Fi à l'aide de Hotspot"</string>
+  <string name="wifi_hand_sel_wapi_cert">WAPI certificat</string>
+  <string name="wifi_security_wapi_psk_hexadecimal">Hexadécimal</string>
   <string name="wifi_call_setting">Passer des appels Wi-Fi</string>
   <string name="wifi_calling">Passer des appels Wi-Fi</string>
   <string name="wifi_calling_settings_title">Passer des appels Wi-Fi</string>
