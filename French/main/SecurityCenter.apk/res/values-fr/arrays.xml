@@ -109,8 +109,13 @@
       <item>Lundi au vendredi</item>
       <item>Personnalisé</item>
     </string-array>
+    <string-array name="applock_password_types">
+        <item>Modèle</item>
+        <item>PIN</item>
+        <item>Mot de passe</item>
+    </string-array>
     <string-array name="pc_settings_thermal_entries">
-        <item>Défaut</item>
+        <item>Par défaut</item>
         <item>Prioriser la performance</item>
     </string-array>
     <string-array name="pc_settings_thermal_summaries">

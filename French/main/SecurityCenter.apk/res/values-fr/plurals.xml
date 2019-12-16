@@ -40,6 +40,10 @@
       <item quantity="other">%d applications</item>
       <item quantity="one">%d application</item>
     </plurals>
+    <plurals name="applock_guide_app_count_tips">
+        <item quantity="other">You can protect at least %s apps</item>
+        <item quantity="one">You can protect at least %s app</item>
+    </plurals>
     <plurals name="bg_network_allow_count">
       <item quantity="other">%d applications peuvent se connecter au réseau en arrière-plan</item>
       <item quantity="one">%d application peut se connecter au réseau en arrière-plan</item>
@@ -223,6 +227,10 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
     <plurals name="gb_ad_ten_thousand_people_play">
       <item quantity="other">%1$d personnes jouent</item>
       <item quantity="one">%1$d personne joue</item>
+    </plurals>
+    <plurals name="videobox_settings_manager_apps_count">
+        <item quantity="other">%d apps</item>
+        <item quantity="one">%d app</item>
     </plurals>
     <plurals name="view_num">
       <item quantity="other">%1$d vues</item>
@@ -443,6 +451,10 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
     <plurals name="net_booster_expire_notification_tip">
       <item quantity="other">"%d jours restants avant que la session d'augmentation de la vitesse du réseau ne se termine. Renouveler la session pour éviter des problèmes de vitesse de réseau."</item>
       <item quantity="one">"%d jour restant avant que la session d'augmentation de la vitesse du réseau ne se termine. Renouveler la session pour éviter des problèmes de vitesse de réseau."</item>
+    </plurals>
+    <plurals name="gb_record_time_title">
+        <item quantity="other">%d secs</item>
+        <item quantity="one">%d sec</item>
     </plurals>
     <plurals name="gb_signed_days_sum">
       <item quantity="other">"S'enregistrer %d jours d'affilés"</item>
