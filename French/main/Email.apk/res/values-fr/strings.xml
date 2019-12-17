@@ -58,6 +58,7 @@
   <string name="account_settings_retry_summary">Appuyez ici pour synchroniser ce compte</string>
   <string name="account_settings_ringtone">Son de notification</string>
   <string name="account_settings_servers">Paramètres du serveur</string>
+  <string name="account_settings_smime_title">S/MIME(Secure/Multipurpose Internet Mail Extensions)</string>
   <string name="account_settings_summary">Fréquence de synchronisation, notifications, etc.</string>
   <string name="account_settings_sync_calendar_enable">"Synchroniser l'agenda"</string>
   <string name="account_settings_sync_calendar_summary">"Synchroniser l'agenda pour ce compte"</string>
@@ -159,6 +160,11 @@
   <string name="account_setup_security_required_title">Administration de la sécurité à distance</string>
   <string name="account_setup_server_acc_manager_title">Comptes</string>
   <string name="account_setup_username_password_toast">Entrez une adresse e-mail et un mot de passe valide.</string>
+  <string name="account_smime">S/MIME</string>
+  <string name="account_smime_cert_title">certificate</string>
+  <string name="account_smime_encrypt">S/MIME encryption</string>
+  <string name="account_smime_install_cert">Installation certificate</string>
+  <string name="account_smime_sign">S/MIME signature</string>
   <string name="account_sync_off">La synchronisation du compte est désactivée.</string>
   <string name="account_sync_settings_settings">"Synchroniser les contacts et l'agenda"</string>
   <string name="account_sync_settingstip_description">Synchroniser</string>
@@ -265,6 +271,15 @@
   <string name="cc">Cc</string>
   <string name="cc_bcc">Cc/Cci</string>
   <string name="cc_heading">"Cc: "</string>
+  <string name="certificate_add_failed">\"%s\" certificate could not be installed.</string>
+  <string name="certificate_added">\"%s\" certificate added.</string>
+  <string name="certificate_alias_prompt_certificate_name">Certificate name</string>
+  <string name="certificate_alias_prompt_title">Name the certificate</string>
+  <string name="certificate_alias_prompt_w">Duplicate certificate name，Please rename the certificate again</string>
+  <string name="certificate_password_hit">please enter your password</string>
+  <string name="certificate_password_prompt_title">Extract certificate</string>
+  <string name="certificate_password_tips">Enter a password to extract the certificate</string>
+  <string name="certificate_password_tips_w">Please enter the correct password</string>
   <string name="change_folders_selection_dialog_title">Changement de dossier</string>
   <string name="change_sync_settings">Modifier les paramètres de synchronisation</string>
   <string name="changepw_dialog_tips">Entrez à nouveau le mot de passe de %s</string>
@@ -340,12 +355,17 @@
   <string name="contextmenu_send_mail">Envoyer un e-mail</string>
   <string name="contextmenu_sharelink">Partager le lien</string>
   <string name="contextmenu_sms_dot">SMS…</string>
+  <string name="conversation_cert_distrust">Cancel trust</string>
+  <string name="conversation_cert_info_tips">The sender has signed this message with a trusted certificate</string>
+  <string name="conversation_cert_info_title">Signed</string>
+  <string name="conversation_cert_trust">Turst the signature</string>
   <string name="conversation_content_provider">Fournisseur de contenu de conversation</string>
   <string name="conversation_detail_hide">Masquer</string>
   <string name="conversation_detail_show">Détails</string>
   <string name="conversation_folder_moved">Déplacé vers %1$s</string>
   <string name="conversation_item_mark_read">Lu</string>
   <string name="conversation_item_mark_unread">Non lu</string>
+  <string name="conversation_message_encrypt_tips">This message is encrypted. Please install a certificate file containing your encrypted identity to decrypt this message.</string>
   <string name="conversation_msg_header_collapsed_sent_to">"Envoyé à "</string>
   <string name="conversation_photo_welcome_text">"Appuyez sur l'image de l'expéditeur pour sélectionner cette conversation."</string>
   <string name="conversation_pull_ad_content">Gérer vos e-mails sans effort</string>
@@ -717,6 +737,7 @@ Essayez un autre compte de messagerie."</string>
   <string name="no_mails">Aucun E-mail.</string>
   <string name="no_matched_attachment">Aucun résultat.</string>
   <string name="no_more_mail">Pas plus de messages</string>
+  <string name="no_open_smime_toast">Please install the S/MIME certificate first</string>
   <string name="no_recognize_describe">"Impossible de trouver des E-mails contenant des billets ou des réservations.
 Essayez une autre boîte de réception."</string>
   <string name="no_search_results">Continuer la recherche sur le serveur</string>
@@ -741,6 +762,7 @@ Essayez une autre boîte de réception."</string>
   <string name="oauth_login_continue">Continuer</string>
   <string name="oauth_login_continue_qq">"Obtenez un code d'accès et connectez-vous >"</string>
   <string name="oauth_login_usr_proxy">"Se connecter à l'aide du proxy"</string>
+  <string name="obtain_new_auth_code">获取新验证码</string>
   <string name="ok">OK</string>
   <string name="okay_action">OK</string>
   <string name="one_day">1 jour</string>
@@ -885,6 +907,7 @@ afin de recevoir des rappels concernant les paiements et les voyages"</string>
   <string name="qq_auto_login_failed_dialog_positive_label">Copier le code</string>
   <string name="qq_bar_open_imap">Aide</string>
   <string name="qq_bar_send_message">Envoyer un SMS</string>
+  <string name="qq_changepw_dialog_tips">请获取%s的最新验证码之后重新登录。</string>
   <string name="qq_login_basecode">Connexion à QQ Mail Web. Saisissez le mot de passe indépendant.</string>
   <string name="qq_login_get_auth">Activer la protection de mot de passe si vous ne pouvez pas recevoir des SMS</string>
   <string name="qq_login_help_bottom_tip">If you need to reset your password or check the settings status,visit https://mail.qq.com/ to see the options available to you.More questions feedback add WeChat public number:</string>
@@ -1014,6 +1037,8 @@ Attendez la synchronisation complète ou visualisez le message sur votre ordinat
   <string name="select_no_file">Aucune pièce jointe sélectionnée</string>
   <string name="select_path">"Sélectionnez le chemin d'accès"</string>
   <string name="send">Envoyer</string>
+  <string name="send_encrypt_dialog_fail_content">This email cannot be encrypted because the recipient does not have a trusted signature certificate. Is this email sent in an unencrypted form?</string>
+  <string name="send_encrypt_dialog_fail_title">Unable to send encrypted mail</string>
   <string name="send_failed">"Le message n'a pas été envoyé."</string>
   <string name="send_feed_back">Envoyez votre avis</string>
   <string name="send_feed_back_keywords">envoyer votre commentaire</string>
@@ -1153,6 +1178,7 @@ Supprimer le compte ?"</string>
   <string name="upload_logs">Envoyer les journaux</string>
   <string name="upload_logs_keywords">envoyer les journaux</string>
   <string name="uploading_logs">Chargement…</string>
+  <string name="user_new_auth_code">使用新验证码登录</string>
   <string name="user_privacy_settings">Paramètres de confidentialité</string>
   <string name="user_privacy_settings_agreement_authorization">"(En appuyant sur \"Autoriser\" vous accordez à WPS Mail toutes les autorisations requises.)"</string>
   <string name="user_privacy_settings_path">"Conseil: Vous pouvez retirer votre consentement dans les paramètres de confidentialité de l'utilisateur, paramètres - paramètres de confidentialité de l'utilisateur."</string>
@@ -1181,6 +1207,9 @@ Appuyer sur "&lt;b&gt;Sync Now&lt;/b&gt; pour synchroniser maintenant, ou &lt;b&
   <string name="wipe_account_fail_title">Impossible de supprimer les informations personnelles</string>
   <string name="wps_title">Mail WPS</string>
   <string name="wrong_password">Le mot de passe entré est incorrect</string>
+  <string name="xiaomi_auth_toastbar">您的手机暂未授权,请点击此处进行登录授权</string>
+  <string name="xiaomi_email">小米邮件</string>
+  <string name="xiaomi_under_certification">正在进行授权</string>
   <string name="yes">Oui</string>
   <string name="you_are_in_mobile_network">Utiliser les données mobiles pour envoyer les fichiers journaux ?</string>
   <string name="youfuli">Promotion</string>

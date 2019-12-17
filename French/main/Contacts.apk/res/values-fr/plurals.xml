@@ -84,17 +84,9 @@
         <item quantity="other">%1$d numéros</item>
         <item quantity="one">%1$d numéro</item>
     </plurals>
-    <plurals name="listFoundAllContacts">
-        <item quantity="other">%d contacts trouvés</item>
-        <item quantity="one">1 contact trouvé</item>
-    </plurals>
     <plurals name="listTotalAllContacts">
         <item quantity="other">%d contacts</item>
         <item quantity="one">1 contact</item>
-    </plurals>
-    <plurals name="listTotalPhoneContacts">
-        <item quantity="other">Affichage de %d contacts avec numéros de téléphone</item>
-        <item quantity="one">Afficher 1 contact avec son numéro de téléphone</item>
     </plurals>
     <plurals name="merge_contact_message_plurals">
         <item quantity="other">%1$d contacts avec des informations partiellement identiques</item>
@@ -103,10 +95,6 @@
     <plurals name="merge_info">
         <item quantity="other">fusionnés depuis %0$d contacts sources</item>
         <item quantity="one">non fusionné</item>
-    </plurals>
-    <plurals name="notification_voicemail_title">
-        <item quantity="other">%1$d messages vocaux</item>
-        <item quantity="one">Message vocal</item>
     </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">%1$d sélectionnés</item>

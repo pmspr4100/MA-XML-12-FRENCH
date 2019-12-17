@@ -580,8 +580,11 @@ Vérifiez vos paramètres réseau, puis réessayez."</string>
   <string name="no_visiable_calendar_message_only_for_xiaomi_account">You need to add a calendar account. Tap \"Add account\" to continue.</string>
   <string name="no_visiable_calendar_select_account">Ajouter un compte</string>
   <string name="no_visiable_calendar_title">Ajouter un compte</string>
-  <string name="notification_channel_name">Rappels du calendrier</string>
-  <string name="notification_open_setting_button_exit">No thanks</string>
+  <string name="notification_channel_name">Rappels réguliers</string>
+  <string name="notification_channel_name_no_sound">Rappels silencieux</string>
+  <string name="notification_channel_name_no_vibration">Rappels sans vibration</string>
+  <string name="notification_channel_name_silent">Rappels du NPD</string>
+  <string name="notification_open_setting_button_exit">Non merci</string>
   <string name="notification_open_setting_button_ok">Allow</string>
   <string name="notification_open_setting_message">"You won't be able to receive notifications about events unless you allow Calendar to send you notifications."</string>
   <string name="notification_open_setting_title">Allow Calendar notifications?</string>
