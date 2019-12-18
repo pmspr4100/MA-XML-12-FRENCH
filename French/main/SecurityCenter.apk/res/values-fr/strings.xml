@@ -393,6 +393,9 @@ Il sera ajouté aux exceptions, mais les éléments bloqués précédemment n'ap
   <string name="kilobyte_per_second">Ko/s</string>
   <string name="megabyte_per_second">Mo/s</string>
   <string name="gigabyteShort">Go</string>
+  <string name="give_lucky_money">红包大派送</string>
+  <string name="global_wa_setting_alert_dialog_content">You can free up %s</string>
+  <string name="global_wa_setting_alert_dialog_title">WhatsApp Cleaner</string>
   <string name="megabyteShort">Mo</string>
   <string name="kilobyteShort">ko</string>
   <string name="byteShort">o</string>
@@ -488,6 +491,8 @@ de l'opérateur"</string>
   <string name="app_version">Version:</string>
   <string name="app_mobile">Données cellulaires</string>
   <string name="app_wifi">Wi-Fi</string>
+  <string name="appcleaner_wechat_notification_garbage_cleanup_summary">Clear %s of WeChat cache to free up storage space</string>
+  <string name="appcleaner_wechat_notification_garbage_cleanup_title">"Don't forget to clear cache"</string>
   <string name="traffic_none">Aucun</string>
   <string name="sorted_dialog_title">Trier par</string>
   <string name="cancel_button">Annuler</string>
@@ -1297,6 +1302,8 @@ medical card"</string>
   <string name="power_optimize_save_mode_not_opened">"L'économiseur de batterie est désactivé"</string>
   <string name="notification_exit_power_save_mode">"L'économiseur de batterie a été désactivé"</string>
   <string name="notification_exit_power_save_mode_subtitle">Batterie chargée à %s.</string>
+  <string name="notification_garbage_cleanup_summary">Clear trash (%s) to speed up your device</string>
+  <string name="notification_garbage_cleanup_title">Clear trash files</string>
   <string name="notification_low_battery_action_btn">Activer</string>
   <string name="notification_low_battery_need_charge">Chargez votre appareil</string>
   <string name="notification_low_battery_open_save_mode">"Activer l'économiseur de batterie"</string>
@@ -2554,6 +2561,7 @@ medical card"</string>
   <string name="do_clean">Nettoyage…</string>
   <string name="auto_clean_close">Les nettoyages automatiques sont désactivés</string>
   <string name="net_booster_title">Augmentation de la vitesse du réseau</string>
+  <string name="net_boostering">Augmentation de la vitesse du réseau</string>
   <string name="net_booster_tip">"Activer l'augmentation de la vitesse du réseau afin de stabiliser davantage la connexion Wi-Fi et de réduire le délai réseau."</string>
   <string name="wifi_optizition_title">Augmentation de la vitesse du Wi-Fi</string>
   <string name="wifi_optizition_tip">"Activer l'augmentation de la vitesse du Wi-Fi afin de stabiliser davantage la connexion Wi-Fi. Un petit montant de données mobiles sera utilisé."</string>
@@ -2609,7 +2617,8 @@ medical card"</string>
   <string name="gb_ad_game_size">Mo</string>
   <string name="gb_add_game_hint">Ajouter des éléments de la liste des applications</string>
   <string name="gb_new_feature">Nouvelle fonctionnalité</string>
-	<string name="gb_shortcut_pref_title">"Raccourci de l'écran d'accueil"</string>
+  <string name="gb_operat_frequently">Not so fast!</string>
+  <string name="gb_shortcut_pref_title">"Raccourci de l'écran d'accueil"</string>
   <string name="gb_sign_notification_title">Augmentez la vitesse du réseau pour les jeux</string>
   <string name="gb_sign_notification_summary">"S'enregistrer quotidiennement pour recevoir le boost Xunyou"</string>
   <string name="gs_sign_notification">Rappel de vérification à 20 heures tous les jours</string>
