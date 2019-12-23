@@ -1,5 +1,6 @@
 # MIUI V11 French Translation
 [![License: CC BY-NC-SA 3.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%203.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+[![GitHub issues](https://github.com/pmspr4100/MA-XML-11-FRENCH/issues "GitHub issues")
 
 ## Référentiel MIUI v11
 * Support de la ROM Stable pour xiaomi.eu
@@ -16,3 +17,9 @@
 * Pour tous les modèles Xiaomi
 * Ajustement des traductions
 * Correction orthographique
+
+## Structure
+dir | description
+:------------: | :------------:
+/ French / extras | Widgets, écran de verrouillage par ex.
+/ French / main | Applications MIUI (APK) pour tout les appareils Xiaomi
