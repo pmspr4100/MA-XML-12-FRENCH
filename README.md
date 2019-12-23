@@ -1,6 +1,6 @@
 # MIUI V11 French Translation
 [![License: CC BY-NC-SA 3.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%203.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/3.0/)
-[![GitHub issues](https://github.com/pmspr4100/MA-XML-11-FRENCH/issues "GitHub issues")
+[![GitHub issues](https://img.shields.io/github/issues-raw/berlinux2016/MIUI11.svg)](https://github.com/pmspr4100/MA-XML-11-FRENCH/issues "GitHub issues")
 
 ## Référentiel MIUI v11
 * Support de la ROM Stable pour xiaomi.eu
