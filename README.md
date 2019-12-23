@@ -19,7 +19,7 @@
 * Correction orthographique
 
 ## Structure
-dir | description
+Dossiers | Descriptions
 :------------: | :------------:
 / French / extras | Widgets, écran de verrouillage par ex.
 / French / main | Applications MIUI (APK) pour tout les appareils Xiaomi
