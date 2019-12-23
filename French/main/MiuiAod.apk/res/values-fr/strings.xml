@@ -34,9 +34,11 @@
   <string name="aod_close_color_inversion">"Cette fonctionnalité ne peut pas être combinée avec l'inversion de couleur. Désactivez l'inversion des couleurs en premier."</string>
   <string name="aod_dual_togother">HH:mm</string>
   <string name="aod_dual_togother_12">hh:mm aa</string>
-  <string name="aod_lock_screen_date">EEEE dd MMMM</string>
-  <string name="aod_lock_screen_date_12">EEEE dd MMMM</string>
+  <string name="aod_lock_screen_date">EE, dd MMMM</string>
+  <string name="aod_lock_screen_date_12">EE, dd MMMM</string>
+  <string name="aod_lock_screen_date_12_signature">d/M</string>
   <string name="aod_lock_screen_date_lunar">YY年 N月e</string>
+  <string name="aod_lock_screen_date_signature">d/M</string>
   <string name="aod_mode_preview">Aperçu</string>
   <string name="aod_mode_style">"Style et fond de l'horloge"</string>
   <string name="aod_mode_style_title">"Plus d'options"</string>

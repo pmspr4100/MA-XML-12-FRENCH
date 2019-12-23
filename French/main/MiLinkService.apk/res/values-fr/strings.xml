@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">UniPlay Service</string>
+  <string name="actionbar_button_up_description">Retour</string>
   <string name="casting_tips">Screening...</string>
   <string name="console_guide_btn_got_it">Got it</string>
   <string name="console_guide_subtitle_hang_up">"Don't interrupt casting when the phone's screen turns off. This feature might increase power consumption."</string>
@@ -17,14 +17,13 @@
   <string name="dialog_ok">OK</string>
   <string name="dialog_only_suport_content">Stream photos, videos, or music</string>
   <string name="dialog_open_wifi_bt">Turn on</string>
-  <string name="dialog_please_make_sure_tv_ok">Target device needs to turn on wireless screencast.</string>
-  <string name="dialog_please_make_sure_tv_ok_or_help">"Please check if the target device has the wireless screencast function enabled.
-For more questions, please see the help."</string>
+  <string name="dialog_please_make_sure_tv_ok_or_help">"Make sure that the wireless casting feature is turned on on the target device.
+View help if you have problems connecting."</string>
   <string name="dialog_recent_connected">Recent</string>
   <string name="dialog_retry">Try again</string>
   <string name="dialog_scanning_device">Searching for devices nearby…</string>
   <string name="dialog_scanning_precondition">Turn on Wi-Fi and Bluetooth on your phone to use Wireless Display.</string>
-  <string name="dialog_select_tv">Select device to connect</string>
+  <string name="dialog_select_tv">Select device (%d)</string>
   <string name="dialog_show_help">Help</string>
   <string name="disconnect">Stop casting</string>
   <string name="hang_up">Cast when screen is off</string>
@@ -80,7 +79,7 @@ If you need to manually open the Miracast function, you can press the [Menu] but
   <string name="help_page_text_34">First, make sure that Miracast functionality is supported on your device. On some of the models, you can select Apps &gt; Casting &gt; Android device &gt; Miracast.</string>
   <string name="help_page_text_35">Skyworth customer support: 95105555</string>
   <string name="help_page_text_36">Sony</string>
-  <string name="help_page_text_37">First, make sure that Miracast functionality is supported on your device. On some of the models, you can press the [SOURCE] button on the remote control and then select \"Screen Mirroring\";Some models can be selected by the network &gt; WIFIDirect setting; This feature is turned on by default on various models.</string>
+  <string name="help_page_text_37">First, make sure that Miracast functionality is supported on your device. On some of the models, you can press the [SOURCE] button on the remote control and then select \"Screen Mirroring\". On some other models, you can turn this feature on in Networks &gt; Wi-Fi Direct. This feature is turned on by default on various models.</string>
   <string name="help_page_text_38">Sony customer support: 400-810-9000</string>
   <string name="help_page_text_39">Panasonic</string>
   <string name="help_page_text_40">First, make sure that Miracast functionality is supported on your device. On some of the models, you can select Apps &gt; Screen Mirroring.</string>
@@ -102,21 +101,27 @@ If you need to manually open the Miracast function, you can press the [Menu] but
   <string name="help_page_text_55_global">"If you can't connect to the network, make sure your external monitor supports Miracast functionality and it's turned on. On some models, this feature is called Wireless Display, Screen Mirroring, or Multiple screens.
 4. If you encounter any issues, you can report them using our \"Services &amp; feedback\" app."</string>
   <string name="help_page_text_end">"If the brand of your device isn't listed here, contact the manufacturer to learn more about casting functionality."</string>
-  <string name="notification_rc_desc">The best TV Assistant for your mobile to cast video, photo and application to XiaoMi Box (or TV), just try it now!</string>
   <string name="notification_rc_title">XiaoMi TV Assistant</string>
   <string name="notification_show_more">View more features</string>
   <string name="privacy_agree">同意</string>
-  <string name="privacy_text_1">　　You are welcome to use the screencast function. The screen-casting service is provided by Milian, and some of the screen-casting functions are supported by third-party company broadcast screens. To ensure your privacy, please be sure to read&lt;a href="http://cdn.hpplay.com.cn/xm/privacy.html "&gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&lt;/a&gt;&amp;#21644;&lt;a href="http://cdn.hpplay.com.cn/xm/lawer.html"&gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#27861;&amp;#24459;&amp;#22768;&amp;#26126;&amp;#12299;&lt;/a&gt;&amp;#12290;</string>
-  <string name="privacy_text_2">　　By clicking Agree, you agree to the above&lt;a href="http://www.miui.com/res/doc/eula/cn.html"&gt;&amp;#12298;&amp;#29992;&amp;#25143;&amp;#21327;&amp;#35758;&amp;#12299;&lt;/a&gt;&amp;#12289;&lt;a href="http://www.miui.com/res/doc/privacy/cn.html"&gt;&amp;#12298;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&lt;/a&gt;content and the privilege granted.</string>
+  <string name="privacy_link_1">http://cdn.hpplay.com.cn/xm/lbprivacy/index.html?langType=en</string>
+  <string name="privacy_link_2">http://cdn.hpplay.com.cn/xm/lbservice/index.html?langType=en</string>
+  <string name="privacy_text_1">&lt;Data&gt;"Welcome to Casting! Casting allows projecting the items from your phone's screen on a bigger external monitor.
+We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies. Some features are provided by a third party service provider HappyCast. Before using this feature, read and agree to &amp;lt;a href=%2$s&amp;gt;HappyCast Legal Statement&amp;lt;/a&amp;gt; and &amp;lt;a href=%1$s&amp;gt;HappyCast Privacy Policy&amp;lt;/a&amp;gt;.
+To be able to work normally, this app needs to connect to the internet and requires the following permissions in order to collect your personal information:"&lt;/Data&gt;</string>
+  <string name="privacy_text_2">&lt;Data&gt;"If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use this app. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.
+Read and agree to our &amp;lt;a href=%1$s&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=%2$s&amp;gt;Privacy Policy&amp;lt;/a&amp;gt; before using this feature."&lt;/Data&gt;</string>
   <string name="privacy_text_pemission">"　　• WIFI network permissions are used to discover and connect devices.
 　　•Bluetooth is used to discover and connect devices.
 　　•Read the phone storage After reading the content, cast the content to the big screen device.
 　　•Get phone information Read the phone IMEI, Android_id, version and log information recording.
 　　•After reading the sound, cast the sound to the large screen device.
 　　•Targeting permissions Locate and discover surrounding devices."</string>
-  <string name="private_protect">Protect privacy</string>
+  <string name="san_wait_msg_1">Turn on wireless casting on the target device</string>
+  <string name="san_wait_msg_2">Searching for devices might take some time…</string>
+  <string name="san_wait_msg_3">"External devices are easier to find when they're connected to the same network as your phone"</string>
+  <string name="san_wait_msg_4">"View \"Help\" if you can't find devices"</string>  
   <string name="sdk_name">lebo</string>
-  <string name="service_name">UniPlay Service</string>
   <string name="small_window">Minimize window</string>
   <string name="status_bar_in_casting">Casting</string>
   <string name="status_bar_in_casting_long">Click to expand more features</string>

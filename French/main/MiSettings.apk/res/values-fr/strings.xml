@@ -36,6 +36,11 @@
   <string name="category_other">Autre</string>
   <string name="color_gamut">Gamme de couleurs</string>
   <string name="contrast_ratio">Contraste</string>
+  <string name="create">Créer</string>
+  <string name="create_failed">Impossible de créer</string>
+  <string name="create_shortcut">"Raccourci de l'écran d'accueil"</string>
+  <string name="created">Créé</string>
+  <string name="created_successfully">Créé avec succès</string>
   <string name="first_unlock_time">"Premier déverrouillage: "</string>
   <string name="focus_time_exception_tip">"On dirait que l'heure du système a changé. Désactivé le mode de mise au point."</string>
   <string name="follow_sim1">Appliquer les paramètres de la carte SIM 1</string>
@@ -45,16 +50,20 @@
   <string name="hsv_space_color_saturation">Saturation</string>
   <string name="intelligent_recognition_item_summary">"Utilisez une sonnerie spécifique pour les appels des services de livraison et de taxi. Cette fonctionnalité fonctionnera lorsque %s est défini comme sonnerie par défaut."</string>
   <string name="intelligent_recognition_item_title">Identifier les services</string>
+  <string name="lock_summary">Protégez vos informations personnelles</string>
   <string name="mms">Messagerie</string>
   <string name="more_ringtone">Toutes les sonneries</string>
+  <string name="more_settings">Paramètres</string>
   <string name="most_unlock_week_day">"Autres déverrouillages: "</string>
   <string name="network_error">"Une erreur de réseau s'est produite. Réessayer."</string>
+  <string name="no_matching">Impossible de trouver une application pour ouvrir ce lien</string>
   <string name="notification_sound">Sons de notification</string>
   <string name="other_parameter">Autre</string>
   <string name="p3_color_region_summary">"Afficher tout le contenu de l'écran dans la gamme de couleurs P3"</string>
   <string name="preview">Aperçu</string>
   <string name="primary_color_region">Originale</string>
   <string name="primary_color_region_summary">"Identifiez automatiquement la gamme de couleurs grâce à l'étalonnage des couleurs"</string>
+  <string name="privacy_policy">Politique de confidentialité</string>
   <string name="reset_edit">Annuler les modifications</string>
   <string name="restore_default">Réinitialiser</string>
   <string name="retry">Réessayer</string>
@@ -67,10 +76,12 @@
   <string name="screen_original_gamut">Renforcé</string>
   <string name="screen_original_gamut_summary">"Afficher tout le contenu de l'écran dans la gamme de couleurs la plus large possible"</string>
   <string name="screen_paper_mode_apps_loading">Chargement…</string>
+  <string name="screen_time_lock">"Verrouillage du temps d'utilisation"</string>
   <string name="search_app_name">Rechercher des applications</string>
   <string name="search_empty">Aucune applications trouvées</string>
   <string name="search_menu_title">Recherche</string>
   <string name="several_days_use_time">"Temps d'utilisation: %2$s"</string>
+  <string name="shortcut_created">Ce raccourci existe déjà</string>
   <string name="sim_slot_1">" (SIM 1)"</string>
   <string name="sim_slot_2">" (SIM 2)"</string>
   <string name="sms_delivered_sound_title">Message livré</string>
@@ -80,6 +91,8 @@
   <string name="stop_app_timer_fail">"Le temps d'utilisation n'a pas pu être désactivé"</string>
   <string name="stop_app_timer_success">"Le temps d'utilisation a été désactivé"</string>
   <string name="stop_app_timer_tip">"Les données et les autorisations liées au temps d'utilisation seront effacées après la désactivation, y compris les paramètres, les données locales et dans le cloud, etc."</string>
+  <string name="stop_summary">"Toutes les statistiques et données de temps d'utilisation seront supprimées lorsque vous désactivez cette fonction"</string>
+  <string name="suggestion">"Retour d'information"</string>
   <string name="thememanager_not_found">"Impossible d'ouvrir les thèmes. Assurez-vous que cette application est installée sur votre appareil."</string>
   <string name="today_usage_title">"Aujourd'hui"</string>
   <string name="today_use_time">"Temps d'utilisation: %1$s"</string>
@@ -90,6 +103,7 @@
   <string name="trend_from_yesterday_more_simple">"%1$s plus qu'hier"</string>
   <string name="unlock_times_per_day">"Moyenne quotidienne: "</string>
   <string name="unlock_times_per_hour">"Unlocks per hour: "</string>
+  <string name="usage_agree">Accepter</string>
   <string name="usage_app_get_it">"C'est compris"</string>
   <string name="usage_app_limit_alter_summary">"On dirait que ce délai est plus court que le temps que vous avez utilisé cette application aujourd'hui. Fixer la limite quand même ?"</string>
   <string name="usage_app_limit_alter_title">"Vérifier le temps limite d'utilisation"</string>
@@ -107,6 +121,7 @@
   <string name="usage_app_weekend_limit">Weekends</string>
   <string name="usage_beat_fans">Mieux que %s Mi Fans</string>
   <string name="usage_continuous_days">Jours continus</string>
+  <string name="usage_exit">Quitter</string>
   <string name="usage_focus_focus_premission_main_summary">"Cette application doit accéder aux informations de votre compte pour enregistrer vos statistiques d'utilisation du mode Focus."</string>
   <string name="usage_focus_focus_premission_second_summary">"Si vous n'acceptez pas d'accorder de telles autorisations, vous ne pourrez pas utiliser certaines fonctionnalités de cette application. Cependant, ses fonctionnalités de base seront toujours disponibles. Vous pouvez toujours restreindre les autorisations ou révoquer votre autorisation dans les paramètres."</string>
   <string name="usage_focus_save_success">Enregistré dans la galerie avec succès</string>
@@ -120,8 +135,19 @@
   <string name="usage_focus_title_level3">"S'élever au dessus du banal"</string>
   <string name="usage_focus_title_level4">Trouver la joie dans la cohérence</string>
   <string name="usage_focus_title_level5">Restez concentré</string>
+  <string name="usage_home_permission_account_summary">"Pour vous connecter au Compte Mi et synchroniser les statistiques de temps d'utilisation"</string>
+  <string name="usage_home_permission_account_title">Accéder aux informations du compte</string>
+  <string name="usage_home_permission_phone_summary">"Pour identifier votre appareil à l'aide de VAID"</string>
+  <string name="usage_home_permission_phone_title">"Accéder aux informations sur l'appareil"</string>
   <string name="usage_home_premission_main_summary">"Bienvenue sur le gestionnaire d'utilisation ! Vous pouvez utiliser cette application pour définir des limites de temps d'utilisation, afficher les statistiques et passer en mode de mise au point. Cette application doit collecter des informations sur le temps d'écran (par exemple, le nombre de fois que vous déverrouillez votre téléphone et allumez l'écran, ainsi que le temps d'utilisation des applications) pour fonctionner normalement."</string>
+  <string name="usage_home_premission_main_summary_new">"Bienvenue à Screen Time !
+Pour pouvoir fonctionner normalement, cette application doit collecter des informations sur le temps d'écran: le nombre de fois que vous déverrouillez votre téléphone, les noms des applications et la durée d'utilisation de l'application sont nécessaires pour générer des statistiques de temps d'écran; Les paramètres du mode de mise au point sont requis pour générer des statistiques du mode de mise au point.
+Cette application doit également se connecter à Internet et nécessite les autorisations suivantes pour collecter vos informations personnelles:"</string>
+  <string name="usage_home_premission_main_summary_new_o">"Bienvenue à Screen Time !
+Pour pouvoir fonctionner normalement, cette application doit collecter des informations sur le temps d'écran: le nombre de fois que vous déverrouillez votre téléphone, les noms des applications et la durée d'utilisation de l'application sont nécessaires pour générer des statistiques de temps d'écran.
+Cette application doit également se connecter à Internet et nécessite les autorisations suivantes pour collecter vos informations personnelles:"</string>
   <string name="usage_home_premission_second_summary">"Pour pouvoir travailler normalement, cette application doit collecter vos informations personnelles. Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité en vigueur."</string>
+  <string name="usage_home_premission_second_summary_new">"Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité applicables. Si vous n'acceptez pas d'accorder de telles permissions ou de partager et de télécharger vos informations personnelles, vous ne pourrez pas utiliser cette application. Vous pouvez révoquer votre permissions dans Gestionnaires d'utilisations > Paramètres > Désactiver le temps d'utilisation. Si vous avez plus de questions sur la confidentialité, vous pouvez nous contacter à privacy@xiaomi.com."</string>
   <string name="usage_state_accurate_date">dd MMMM, yyyy</string>
   <string name="usage_state_add_up_count">Sessions</string>
   <string name="usage_state_add_up_days">Jours</string>

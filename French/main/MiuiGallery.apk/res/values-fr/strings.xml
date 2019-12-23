@@ -446,6 +446,8 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
   <string name="delete">Supprimer</string>
   <string name="delete_album_failed">"Impossible de supprimer l'album"</string>
   <string name="delete_album_msg_format">"Supprimer l'album \"%2$s\" %1$s %3$s ?"</string>
+  <string name="delete_album_msg_format_cloud">Supprimer %1$s %2$s depuis Xiaomi Cloud et tous les appareils synchronisés ?</string>
+  <string name="delete_album_msg_format_local">Supprimer %1$s %2$s ?</string>
   <string name="delete_album_success">Album supprimé</string>
   <string name="delete_from_all_devices_and_cloud">de tous les appareils et Xiaomi Cloud</string>
   <string name="delete_from_cloud">Supprimer des éléments de Xiaomi Cloud</string>
@@ -685,8 +687,12 @@ sont disponibles"</string>
   <string name="filter_scene_vivid">Vif</string>
   <string name="filter_scene_warm">Soleil</string>
   <string name="filter_single_sky">Skyscaping</string>
+  <string name="filter_sky_clear_sky">Ciel clair</string>
   <string name="filter_sky_cloudy">Nuageux</string>
+  <string name="filter_sky_cumulus">Cumulus</string>
+  <string name="filter_sky_dawn">Aube</string>
   <string name="filter_sky_detect_forbidden_tips">"Impossible de détecter le ciel"</string>
+  <string name="filter_sky_double_rainbow">Double arc en ciel</string>
   <string name="filter_sky_download_failed">"Impossible de télécharger le plug-in. Vérifiez vos paramètres réseau et réessayez.."</string>
   <string name="filter_sky_download_finish">Plug-in téléchargé avec succès</string>
   <string name="filter_sky_download_sdk_without_wifi_msg">"Si vous n'êtes pas connecté au Wi-Fi, vous pouvez utiliser les données mobiles pour télécharger le plug-in (%1$d Mo) qui vous permet de remplacer le ciel sur vos photos."</string>
@@ -694,9 +700,13 @@ sont disponibles"</string>
   <string name="filter_sky_dusk">Crépuscule</string>
   <string name="filter_sky_glow">Lueur</string>
   <string name="filter_sky_hint">Skyscaping</string>
+  <string name="filter_sky_nimbus">Nimbus</string>
   <string name="filter_sky_rainbow">Arc en ciel</string>
+  <string name="filter_sky_snowy">Neigeux</string>
+  <string name="filter_sky_stratus">Stratus</string>
   <string name="filter_sky_sunny">Ensoleillé</string>
   <string name="filter_sky_sunset">Coucher du soleil</string>
+  <string name="filter_sky_twilight">Crépuscule</string>
   <string name="finish_create_baby_album_toast">Album de \"%s\" créé dans Xiaomi Cloud</string>
   <string name="finish_fill_baby">Créer</string>
   <string name="first_time_add_video_to_secret_tips">Mettre à jour la galerie pour pouvoir masquer les vidéos</string>
@@ -1196,6 +1206,9 @@ pour personnaliser Galerie"</string>
   <string name="request_sms_url_title">Marquer</string>
   <string name="retry_to_create_album">Veuillez réessayer</string>
   <string name="retry_to_request_qr_code">Veuillez réessayer</string>
+  <string name="risk_control_deleted_date">dd/MM</string>
+  <string name="risk_control_deleted_message">Somebody deleted your Gallery items from the cloud using a %3$s on %1$s at %2$s. Was that you?</string>
+  <string name="risk_control_deleted_title">Avertissement de sécurité</string>
   <string name="runtime_permission_ungranted">Galerie fermée, aucune autorisation requise</string>
   <string name="same_name_album_exist_and_toast">"Un album avec un même nom existe déjà. L'album '%s' a été créé."</string>
   <string name="scan_barcode_guide">Pour obtenir un QR code, appuyez sur l’icône Partage.</string>
@@ -1345,8 +1358,10 @@ pour personnaliser Galerie"</string>
   <string name="slim_running">Optimisation…</string>
   <string name="slim_space">libéré</string>
   <string name="slim_stop">"Arrêter l'optimisation"</string>
+  <string name="special_type_8k">IA 8K</string>
   <string name="special_type_eye_repair">"Correction des yeux fermés avec l'IA"</string>
   <string name="special_type_hdr">HDR</string>
+  <string name="special_type_log">LOG</string>
   <string name="special_type_night_beauty">IA Portrait faible luminosité</string>
   <string name="special_type_night_mode">IA Mode nuit</string>
   <string name="special_type_portrait">IA Portrait lumineux</string>
@@ -1454,14 +1469,15 @@ pour personnaliser Galerie"</string>
   <string name="trash_bin">Corbeille</string>
   <string name="trash_bin_key_word">Photos supprimées</string>
   <string name="trash_bin_summary">Parcourir les photos sauvegardées qui ont été supprimées récemment</string>
-  <string name="trash_empty">No items here.</string>
-  <string name="trash_menu_delete">Delete</string>
-  <string name="trash_menu_recovery">Restore</string>
-  <string name="trash_purge_all">"All photos and videos will be deleted from the cloud. You won't be able to restore them. Delete anyway?"</string>
-  <string name="trash_purge_positive_button">Delete</string>
-  <string name="trash_vip_button_login">Extend</string>
+  <string name="trash_bin_summary_local">Afficher les photos et vidéos récemment supprimées</string>
+  <string name="trash_empty">Aucun élément ici.</string>
+  <string name="trash_menu_delete">Supprimer</string>
+  <string name="trash_menu_recovery">Restaurer</string>
+  <string name="trash_purge_all">"Toutes les photos et vidéos seront supprimées du cloud. Vous ne pourrez pas les restaurer. Supprimer quand même ?"</string>
+  <string name="trash_purge_positive_button">Supprimer</string>
+  <string name="trash_vip_button_login">Étendre</string>
   <string name="trash_vip_button_login_top_level">Renew</string>
-  <string name="trash_vip_button_unlogin">Sign in</string>
+  <string name="trash_vip_button_unlogin">Connexion</string>
   <string name="try_again_later">Réessayez plus tard.</string>
   <string name="try_to_send">Envoyer</string>
   <string name="turn_off_and_move">Désactiver et déplacer</string>
@@ -1485,7 +1501,7 @@ pour personnaliser Galerie"</string>
   <string name="user_agreement2">"Conditions d'utilisation"</string>
   <string name="user_agreement4">Politique de confidentialité</string>
   <string name="user_alias_self">Auto</string>
-  <string name="user_notice_identify_summary_format">"En utilisant ce service, vous êtes d'accord avec les %1$s et %2$s de Xiaomi."</string>
+  <string name="user_notice_identify_summary_format">"&lt;Data&gt;"En utilisant ce service, vous acceptez les conditions de Xiaomi &amp;lt;a href=\"%1$s\"&amp;gt;\"Conditions d'utilisation\"&amp;lt;/a&amp;gt; et &amp;lt;a href=\"%2$s\"&amp;gt;\"Politique de confidentialité\"&amp;lt;/a&amp;gt;."&lt;/Data&gt;"</string>
   <string name="user_notice_title">"Conditions générales d'utilisation"</string>
   <string name="video_edit_file_not_exits_tip">"Télécharger d'abord la vidéo"</string>
   <string name="video_editor_abandon_changes_tip_message">Annuler vos changements ?</string>
@@ -1511,7 +1527,7 @@ pour personnaliser Galerie"</string>
   <string name="video_editor_down_load_now">Téléchargements</string>
   <string name="video_editor_download">Télécharger</string>
   <string name="video_editor_download_failed_for_notwork">Impossible de télécharger. Veuillez vous connecter au réseau puis réessayez.</string>
-  <string name="video_editor_download_with_metered_network_msg">Le téléchargement de fichiers originaux peut générer des frais de supplémentaires d’opératuer. Télécharger quand même?</string>
+  <string name="video_editor_download_with_metered_network_msg">Le téléchargement de fichiers originaux peut générer des frais de supplémentaires d’opératuer. Télécharger quand même ?</string>
   <string name="video_editor_download_with_metered_network_title">Vous êtes connecté à un réseau payant</string>
   <string name="video_editor_encode_video">Encodage de la vidéo…</string>
   <string name="video_editor_encode_video_error">"Impossible d'encoder la vidéo"</string>

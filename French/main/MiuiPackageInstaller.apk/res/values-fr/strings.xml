@@ -30,7 +30,7 @@
   <string name="app_store_installing_message">Installation…</string>
   <string name="app_store_missing_message">"Il semble que vous n'ayez pas installé notre App Store officiel. Installez-le maintenant ?"</string>
   <string name="app_store_missing_title">"L'App Store n'est pas installé"</string>
-  <string name="application_detail_tips">"Informations sur l'application et paramètres des permissions"</string>
+  <string name="application_detail_tips">"Détails de l'application et permissions requises"</string>
   <string name="auto_startup_dialog_msg">Cette application peut démarrer sans votre autorisation.</string>
   <string name="btn_text_full_scan">Scan complet</string>
   <string name="btn_text_install_new_version">Dernière version</string>
@@ -103,8 +103,8 @@ Toutes vos données utilisateur précédentes seront enregistrées."</string>
   <string name="install_failed_invalid_apk">Le package semble être corrompu.</string>
   <string name="install_failed_msg">"%1$s n'a pas pu être installé sur votre téléphone."</string>
   <string name="install_failed_system_incompatible">"Cette application n'est pas compatible avec MIUI"</string>
-  <string name="install_finished_notification_summary">Cliquez pour nettoyer maintenant</string>
-  <string name="install_finished_notification_title">%1$s installé avec succès, nettoyer %2$s maintenant</string>
+  <string name="install_finished_notification_summary">"Appuyez pour libérer de l'espace de stockage"</string>
+  <string name="install_finished_notification_title">"Installé %1$s avec succès. Vous pouvez libérer %2$s d'espace de stockage."</string>
   <string name="install_from_appstore_hint">"Nous vous recommandons d'installer l'application depuis &lt;u&gt;&lt;font color=#91c727&gt;AppStore&lt;/font&gt;&lt;/u&gt;"</string>
   <string name="installing">Installation…</string>
   <string name="intercept_install">Installer</string>
@@ -257,7 +257,7 @@ Toutes vos données utilisateur précédentes seront enregistrées."</string>
   <string name="privacyPerms">Privacy</string>
   <string name="privacy_relative">Privacy</string>
   <string name="reboot_time">Getting ready to reboot… (%1$s)</string>
-  <string name="replace_app_des_text">Voulez-vous remplacer cette application ?</string>
+  <string name="replace_app_des_text">"Remplacer l'application par cette version ?"</string>
   <string name="review_button_cancel">Annuler</string>
   <string name="review_button_continue">Continuer</string>
   <string name="risk_warning_bottom_button">Install from GetApps</string>
@@ -287,9 +287,9 @@ Toutes vos données utilisateur précédentes seront enregistrées."</string>
   <string name="uninstall_application_title">Uninstall app</string>
   <string name="uninstall_blocked_device_owner">"This app is required by your device administrator and can't be uninstalled."</string>
   <string name="uninstall_blocked_profile_owner">"This app is needed for your profile and can't be uninstalled."</string>
-  <string name="uninstall_confirm_question">Uninstall this app?</string>
-  <string name="uninstall_done">Uninstalled successfully</string>
-  <string name="uninstall_failed">"Couldn't uninstall"</string>
+  <string name="uninstall_confirm_question">Désinstaller cette application ?</string>
+  <string name="uninstall_done">Désinstallé avec succès</string>
+  <string name="uninstall_failed">Impossible de désinstaller</string>
   <string name="uninstall_failed_device_policy_manager">"Can't uninstall because this package is an active device administrator."</string>
   <string name="uninstall_failed_device_policy_manager_of_user">"Can't uninstall because this package is an active device administrator for the user %1$s."</string>
   <string name="uninstall_failed_msg">"%1$s couldn't be uninstalled."</string>
@@ -306,17 +306,17 @@ Toutes vos données utilisateur précédentes seront enregistrées."</string>
   <string name="untrusted_external_source_always_click">Toujours autoriser</string>
   <string name="untrusted_external_source_title">Autoriser \"%1$s\" à installer des applications ?</string>
   <string name="untrusted_external_source_warning">"Pour votre sécurité, votre téléphone n'est pas autorisé à installer des applications inconnues à partir de cette source."</string>
-  <string name="untrusted_external_source_warning_summary">"Votre téléphone et vos données personnelles sont vulnérables aux attaques de sources inconnues. En autorisant l'installation d'applications à partir de cette source, vous acceptez d'assumer la responsabilité de tout dommage ou perte de données pouvant résulter de l'utilisation de ces applications."</string>
-  <string name="user_is_not_allowed_dlg_text">The current user is not allowed to perform this uninstallation.</string>
-  <string name="user_is_not_allowed_dlg_title">Not allowed</string>
+  <string name="untrusted_external_source_warning_summary">"Votre appareil et vos données personnelles sont vulnérables aux attaques des applications installées à partir de sources inconnues. En permettant d'installer des applications à partir de cette source, vous acceptez d'assumer la responsabilité de tout dommage ou perte de données qui pourrait survenir lors de l'utilisation de ces applications."</string>
+  <string name="user_is_not_allowed_dlg_text">"L'utilisateur actuel n'est pas autorisé à effectuer cette désinstallation."</string>
+  <string name="user_is_not_allowed_dlg_title">Interdit</string>
   <string name="virus_scan_caller_unknown">Inconnu</string>
   <string name="virus_scan_clear">Supprimer</string>
-  <string name="virus_scan_install">&lt;u&gt;Install anyway&lt;/u&gt;</string>
-  <string name="virus_scan_is_risk">"This app poses a risk to your device's security."</string>
-  <string name="virus_scan_is_virus">This app contains a virus.</string>
-  <string name="virus_title_subtext">"This app might contain viruses: "</string>
-  <string name="waiting_tip">This may take a while, but well worth it</string>
-  <string name="wear_app_channel">Installing/uninstalling Android Wear apps</string>
-  <string name="wear_not_allowed_dlg_text">Install/Uninstall actions not supported on Wear.</string>
+  <string name="virus_scan_install">&lt;u&gt;Installer quand même&lt;/u&gt;</string>
+  <string name="virus_scan_is_risk">"Cette application présente un risque pour la sécurité de votre appareil."</string>
+  <string name="virus_scan_is_virus">Cette application contient un virus.</string>
+  <string name="virus_title_subtext">"Cette application peut contenir des virus: "</string>
+  <string name="waiting_tip">Cela peut prendre un certain temps, mais cela en vaut la peine</string>
+  <string name="wear_app_channel">Installer / désinstaller des applications Android Wear</string>
+  <string name="wear_not_allowed_dlg_text">Installation / désinstallation non prises en charge sur Wear.</string>
   <string name="wear_not_allowed_dlg_title">Android Wear</string>
 </resources>

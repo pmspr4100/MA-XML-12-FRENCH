@@ -47,21 +47,13 @@
   <string name="description_content">"Outre ses caractéristiques de base, la calculatrice fonctionne également comme un convertisseur multifonctionnel, calculateur d'impôts et de prêts hypothécaires. Assurez-vous que vous pouvez vous passer de ces fonctionnalités avant de désinstaller l'application."</string>
   <string name="description_title">À propos</string>
   <string name="devided_by_zero_reminder_message">Impossible de diviser par zero</string>
+  <string name="dialog_privacy_content">Besides the basic functionality, Mi Calculator allows you to convert currencies and measurement units, calculate mortgage repayments, and more. Some features may require connecting to the internet to be able to work normally. &lt;Data&gt;Before using this app, read and agree to our &amp;lt;a href=%1$s&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=%2$s&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
   <string name="dialog_privacy_title">"Conditions Générales d'Utilisation"</string>
   <string name="dialog_rating_desc_ask">Que pensez-vous de la Calculatrice ?</string>
   <string name="dialog_rating_desc_less">Pourriez-vous nous donner aussi vos avis ?</string>
   <string name="dialog_rating_desc_perfect">Sympa ! Évaluer la Calculatrice aussi dans lApp Store ?</string>
   <string name="dialog_rating_title">Évaluez notre application</string>
-  <string name="digit0">0</string>
-  <string name="digit1">1</string>
-  <string name="digit2">2</string>
-  <string name="digit3">3</string>
-  <string name="digit4">4</string>
-  <string name="digit5">5</string>
-  <string name="digit6">6</string>
-  <string name="digit7">7</string>
-  <string name="digit8">8</string>
-  <string name="digit9">9</string>
+  <string name="disallow">"Don't agree"</string>
   <string name="divDesc">diviser</string>
   <string name="dotDesc">point</string>
   <string name="e">e</string>
@@ -190,10 +182,19 @@ Les RAPI sur un an et cinq ans seront indiqués le 20 de chaque mois (des retard
   <string name="negDesc">Basculer entre les températures inférieures et supérieures à zéro</string>
   <string name="network_confirm_content">"Le convertisseur de devise, de taxe et des calculateurs d'hypothèque doivent se connecter à Internet et accéder aux services de localisation de votre appareil pour fonctionner normalement."</string>
   <string name="network_confirm_title">Permissions requise</string>
+  <string name="network_privacy">Note that this app needs to connect to the internet and collect the required personal information in order to provide services to you. We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.</string>
   <string name="none">Aucun</string>
   <string name="not_supported_due_to_language">Cette fonctionnalité est uniquement disponible pour la langue chinoise</string>
   <string name="ok">OK</string>
   <string name="percentDesc">pourcentage</string>
+  <string name="permission_location">Access location</string>
+  <string name="permission_location_desc">For providing location-based services</string>
+  <string name="permission_phone">Access device status and ID</string>
+  <string name="permission_phone_desc">For identifying different devices</string>
+  <string name="permission_privacy_link">&lt;Data&gt;Before using this app, read and agree to our &amp;lt;a href=%1$s&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=%2$s&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+  <string name="permission_purpose">"Welcome to Calculator! Besides the basic functionality, Calculator allows you to convert currencies and measurement units, calculate mortgage repayments, and more. We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.
+Note that this app needs to connect to the internet and requires the following permissions to collect your personal information:"</string>
+  <string name="permission_remove_desc">You can choose to uninstall this app, or restrict permissions and revoke your authorization in the Settings.</string>
   <string name="piDesc">pi</string>
   <string name="plusDesc">plus</string>
   <string name="powerDesc">puissance</string>
