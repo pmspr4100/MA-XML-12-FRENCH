@@ -197,6 +197,7 @@
   <string name="conference_call_disable_tip">Impossible de téléphone. Vérifiez que votre appareil est connecté à un réseau 4G avec un support VoLTE.</string>
   <string name="confirm_call_log_dial_summary">"Demandez une confirmation avant de composer un numéro à partir du journal d'appels pour éviter les appels accidentels."</string>
   <string name="confirm_call_log_dial_title">"Confirmer les numéros à partir des journaux d'appels"</string>
+  <string name="confirm_delete_cloud_all_call_logs">"Supprimer tous les enregistrements de l'historique des appels liés à %s à la fois dans le cloud et sur cet appareil ?"</string>
   <string name="confirm_delete_contact_all_call_logs">"Effacer tout l'historique de %s ?"</string>
   <string name="confirm_delete_selected_all_call_logs">"Effacer l'historique des appels ?"</string>
   <string name="confirm_delete_sim_entry_miui_title">Supprimer</string>
@@ -298,6 +299,7 @@ Les cartes de contact ont été désactivées"</string>
   <string name="date_time_set">Définir</string>
   <string name="date_year_toggle">Fournir une année</string>
   <string name="default_ringtone">Sonnerie par défaut</string>
+  <string name="deleteCloudConfirmationDetail">"Supprimer les coordonnées de %s à la fois depuis le cloud et cet appareil ?"</string>
   <string name="deleteConfirmation">Ce contact sera supprimé.</string>
   <string name="deleteConfirmationDetail">Supprimer \"%s\" ?</string>
   <string name="deleteConfirmation_title">Supprimer ce contact ?</string>
@@ -770,6 +772,7 @@ Raison: \"%s\""</string>
   <string name="no_contacts_dialog_message">Les contacts sont peut-être stockés sur la carte SIM. Importez-les vers le stockage interne du périphérique puis essayez à nouveau.</string>
   <string name="no_contacts_dialog_title">Impossible de trouver des contacts</string>
   <string name="no_contacts_selected">Aucun contact sélectionné.</string>
+  <string name="no_phone_no_shortcut">"Impossible de créer des raccourcis pour les contacts sans numéros de téléphone"</string>
   <string name="no_sdcard_message">Aucun stockage détecté</string>
   <string name="no_setting_menu">Aucune option de menu disponible</string>
   <string name="non_phone_add_to_contacts">Ajouter à un contact existant</string>
