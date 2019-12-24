@@ -9,12 +9,12 @@
         <item quantity="one">%1$d jour</item>
     </plurals>
     <plurals name="dialog_choose_items">
-        <item quantity="other">Selected %1$d items</item>
-        <item quantity="one">Selected %1$d item</item>
+        <item quantity="other">%1$d éléments sélectionnés</item>
+        <item quantity="one">%1$d élément sélectionné</item>
     </plurals>
     <plurals name="dialog_delete_records_confirm">
-        <item quantity="other">Delete %1$d records?</item>
-        <item quantity="one">Delete %1$d record?</item>
+        <item quantity="other">Supprimer %1$d enregistrements ?</item>
+        <item quantity="one">Supprimer %1$d enregistrement ?</item>
     </plurals>
     <plurals name="goal_format_with_unit">
         <item quantity="other">Objectif: %1$d pas</item>
@@ -33,44 +33,44 @@
         <item quantity="one">%1$d hr</item>
     </plurals>
     <plurals name="last_measure_date_interval">
-        <item quantity="other">%1$d days since last weigh-in</item>
-        <item quantity="one">%1$d day since last weigh-in</item>
+        <item quantity="other">%1$d jours depuis la dernière pesée</item>
+        <item quantity="one">%1$d jour depuis la dernière pesée</item>
     </plurals>
     <plurals name="last_measure_day_body_weight">
-        <item quantity="other">%1$d days since last weigh-in</item>
-        <item quantity="one">%1$d day since last weigh-in</item>
+        <item quantity="other">%1$d jours depuis la dernière pesée</item>
+        <item quantity="one">%1$d jour depuis la dernière pesée</item>
     </plurals>
     <plurals name="menstruation_sum_days">
         <item quantity="other">%1$d jour des règles</item>
         <item quantity="one">%1$d jour des règles</item>
     </plurals>
     <plurals name="mesens_card_title_day_in_predict">
-        <item quantity="other">Day %1$d (expected)</item>
-        <item quantity="one">Day %1$d (expected)</item>
+        <item quantity="other">Jour %1$d (attendu)</item>
+        <item quantity="one">Jour %1$d (attendu)</item>
     </plurals>
     <plurals name="mesens_card_title_days">
-        <item quantity="other">Day %1$d</item>
-        <item quantity="one">Day %1$d</item>
+        <item quantity="other">Jour %1$d</item>
+        <item quantity="one">jour %1$d</item>
     </plurals>
     <plurals name="mesens_card_title_predict_date">
-        <item quantity="other">Next period in %1$d days</item>
-        <item quantity="one">Next period in %1$d day</item>
+        <item quantity="other">Prochaine période dans %1$d jours</item>
+        <item quantity="one">Prochaine période dans %1$d jour</item>
     </plurals>
     <plurals name="minutes">
         <item quantity="other">%1$d mins</item>
         <item quantity="one">%1$d min</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d new notifications</item>
-        <item quantity="one">%d new notification</item>
+        <item quantity="other">%d nouvelles notifications</item>
+        <item quantity="one">%d nouvelle notification</item>
     </plurals>
     <plurals name="sleep_goal_by_hour">
         <item quantity="other">Objectif: %1$d heures</item>
         <item quantity="one">Objectif: %1$d heure</item>
     </plurals>
     <plurals name="sleep_management_exp_hours">
-        <item quantity="other">"Current settings won't guarantee you %1$d hours of sleep daily. You need more than that."</item>
-        <item quantity="one">"Current settings won't guarantee you %1$d hour of sleep daily. You need more than that."</item>
+        <item quantity="other">"Les paramètres actuels ne vous garantissent pas %1$d heures de sommeil par jour. Vous avez besoin de plus que cela."</item>
+        <item quantity="one">"Les paramètres actuels ne vous garantissent pas %1$d heure de sommeil par jour. Vous avez besoin de plus que cela."</item>
     </plurals>
     <plurals name="step_num_format">
         <item quantity="other">%1$d pas</item>
