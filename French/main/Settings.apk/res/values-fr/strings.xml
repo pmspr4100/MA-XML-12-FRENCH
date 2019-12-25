@@ -1798,6 +1798,88 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
   <string name="default_sound">Son par défaut</string>
   <string name="default_spell_checker">Correcteur ortho par défaut</string>
   <string name="default_suppression_title">默认（推荐）</string>
+  <string name="accessibility_screen_magnification_summary">&lt;b&gt;To zoom&lt;/b&gt;", quickly tap the screen 3 times.
+"&lt;ul&gt;&lt;li&gt;Drag 2 or more fingers to scroll&lt;/li&gt;"
+"&lt;li&gt;Pinch 2 or more fingers to adjust zoom&lt;/li&gt;&lt;/ul&gt;"
+
+"&lt;b&gt;To zoom temporarily&lt;/b&gt;", quickly tap the screen 3 times and hold down your finger on the third tap.
+"&lt;ul&gt;&lt;li&gt;Drag to move around the screen&lt;/li&gt;"
+"&lt;li&gt;Lift finger to zoom out&lt;/li&gt;&lt;/ul&gt;"
+
+You can't zoom in on the keyboard and navigation bar."</string>
+  <string name="add_broadsize_fingerprint_instruction_msg">Fingerprint sensor is located on the right edge of your device</string>
+  <string name="always_style">Always</string>
+  <string name="apn_chinaunicom_3gnet_general">沃3G连接互联网</string>
+  <string name="apn_chinaunicom_3gwap_general">沃3G手机上网</string>
+  <string name="assist_gesture_title">Assist gesture</string>
+  <string name="battery_saver_turn_on_automatically_pct">at %1$s battery</string>
+  <string name="bluetooth_enter_passkey_msg">Type the pairing code then press Return or Enter</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_huami_band">Confirm on the band.</string>
+  <string name="bootloader_tips_warning">"Don't disconnect from the network, sign out of your Mi Account, perform a factory reset, or erase system data."</string>
+  <string name="connected">Connected</string>
+  <string name="connected_tws_device_saved_title">Saved Earbuds</string>
+  <string name="debug_intent_sender_label">Debug intent sender</string>
+  <string name="font_size_preview_text">Servez à ce monsieur une bière et des kiwis.</string>
+  <string name="full_screen_keyboard_settings">Full screen display keyboard settings</string>
+  <string name="master_clear_apply_step_1">&lt;b&gt;&amp;#8220;Factory data reset&amp;#8221; will erase all data on your phone&lt;/b&gt;, including photos, songs, notes, and other personal data. Make sure you back up all the important items to your computer.</string>
+  <string name="master_clear_apply_step_2">Make sure all the important items are backed up to your computer. All the data on this device will be erased during the reset. &lt;b&gt;"You won't be able to restore the items you haven't backed up."&lt;/b&gt;</string>
+  <string name="modify_default_browser_message">If you set a third party app as your default browser, it might start collecting your browsing history and other data. Set anyway?</string>
+  <string name="mqs_privacy_automatically_upload">Upload automatically next time</string>
+  <string name="mqs_privacy_dialog_cancel">Cancel</string>
+  <string name="mqs_privacy_dialog_confirm">Upload</string>
+  <string name="mqs_privacy_dialog_content">Upload logs to help us locate and solve this problem? Logs may contain your personal info, including the info about your location.</string>
+  <string name="mqs_privacy_dialog_title">An error occurred</string>
+  <string name="network_state_label">Network state:</string>
+  <string name="networkid_label">Network ID:</string>
+  <string name="notification_animation_style">Special effects</string>
+  <string name="paper_mode_side_effect_hint">Higher intensity might affect the way content is displayed.</string>
+  <string name="power_charging_duration">%1$s - %2$s until fully charged</string>
+  <string name="power_discharge_remaining">%1$s remaining</string>
+  <string name="power_discharging_duration">About %1$s left (%2$s)</string>
+  <string name="power_discharging_duration_enhanced">About %1$s left based on your usage (%2$s)</string>
+  <string name="power_usage_enhanced_debug">%1$s left (New ML est)</string>
+  <string name="power_usage_old_debug">%1$s left (Old est)</string>
+  <string name="process_stats_total_duration">%1$s of %2$s used over last %3$s</string>
+  <string name="process_stats_total_duration_percentage">%1$s of RAM used over %2$s</string>
+  <string name="screen_paper_mode_hdr_toast_new">Reading mode will be turned off automatically during HDR video playback and fingerprint verification. Your device will switch back to Reading mode once these actions are completed.</string>
+  <string name="select_sim_card">Select SIM card</string>
+  <string name="share_this_wifi">Extend WLAN coverage</string>
+  <string name="sim_pin_disable_failed">"Can't disable PIN."</string>
+  <string name="sim_pin_enable_failed">"Can't enable PIN."</string>
+  <string name="temporary_style">10 seconds after tapping the screen</string>
+  <string name="testing_sim_toolkit">SIM toolkit</string>
+  <string name="testing_wifi_info">WLAN information</string>
+  <string name="time_zone_auto_stub">Select Time Zone</string>
+  <string name="weight_heavy">Bold</string>
+  <string name="weight_light">Light</string>
+  <string name="weight_setting_toast">You can change font weight only for the default system font</string>
+  <string name="wifi_api_test">WLAN API</string>
+  <string name="wifi_config_info">WLAN config</string>
+  <string name="wifi_display_autonomous_go">Enable autonomous GO</string>
+  <string name="wifi_display_certification_heading">Certification</string>
+  <string name="wifi_display_listen_channel">Listen channel</string>
+  <string name="wifi_display_listen_mode">Enable listen mode</string>
+  <string name="wifi_display_operating_channel">Operating channel</string>
+  <string name="wifi_display_pause">Pause</string>
+  <string name="wifi_display_resume">Resume</string>
+  <string name="wifi_display_session_info">Session info</string>
+  <string name="wifi_display_wps_config">WPS configuration</string>
+  <string name="wifi_state_label">WLAN state:</string>
+  <string name="wifi_status_test">WLAN status</string>
+  <string name="wifi_update">Refresh stats</string>
+  <string name="xiaomi_cloud_service_description_without_contacts">Xiaomi Cloud syncs your photos, backs up your apps and settings, and helps you find your phone using Find device.</string>
+  <string name="zen_onboarding_dnd_visual_disturbances_description">"Your phone can do more to help you focus.
+
+Update settings to:
+
+- Hide notifications completely
+
+- Allow calls from starred contacts and repeat callers"</string>
+  <string name="zen_onboarding_more_options">You can further customize this in Settings.</string>
+  <string name="zen_onboarding_screen_off_summary">"Don't turn on the screen or wake for notifications"</string>
+  <string name="zen_onboarding_screen_off_title">Block when the screen is off</string>
+  <string name="zen_onboarding_screen_on_summary">"Don't show notifications at all, except for basic phone activity and status"</string>
+  <string name="zen_onboarding_screen_on_title">Block when the screen is on</string>
   <string name="default_theme">Par défaut</string>
   <string name="default_usb_mode">Connexion USB</string>
   <string name="default_vol_stream_title">Contrôle du volume par défaut</string>
