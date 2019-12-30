@@ -51,6 +51,12 @@
         <item quantity="other">"Supprimer %1$d éléments de l'historique ?"</item>
         <item quantity="one">"Supprimer %1$d élément de l'historique ?"</item>
     </plurals>
+    <plurals name="video_playback_error">
+        <item quantity="other">"Couldn't load video.
+Will play the next one in %d seconds…"</item>
+        <item quantity="one">"Couldn't load video.
+Will play the next one in %d second…"</item>
+    </plurals>
     <plurals name="video_subtitle_last_message">
         <item quantity="other">%d minutes restantes</item>
         <item quantity="one">%d minute restante</item>

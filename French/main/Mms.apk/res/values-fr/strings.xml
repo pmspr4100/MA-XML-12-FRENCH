@@ -234,6 +234,10 @@
   <string name="fake_cell_timeout_hint">Impossible de vérifier la sécurité</string>
   <string name="favorite_at_time">Ajouté aux favoris sur: %1s</string>
   <string name="fdn_check_failure">Vous ne pouvez pas envoyer de SMS à un téléphone fixe.</string>
+  <string name="feature_mx">Mi Message</string>
+  <string name="feature_mx_summary">&lt;b&gt;Mi Message allows you to send messages to other Mi Message users over the internet without incurring charges&lt;/b&gt;. An outgoing SMS message is required to activate this service. Your carrier will charge you for this message. Read and agree to our &lt;font color="#B3000000"&gt;&lt;a href="http://url1"&gt;User Agreement&lt;/a&gt;&lt;/font&gt; and &lt;font color="#B3000000"&gt;&lt;a href="http://url2"&gt;Privacy Policy&lt;/a&gt;&lt;/font&gt; before using this feature.</string>
+  <string name="feature_smart_sms">Smart Messaging</string>
+  <string name="feature_smart_sms_summary">&lt;b&gt;Smart Messaging provides Sender ID recognition and smart menus&lt;/b&gt;". Smart Messaging is provided in part by Yulore. Read and agree to Yulore's "&lt;font color="#B3000000"&gt;&lt;a href="http://url3"&gt;Privacy Policy&lt;/a&gt;&lt;/font&gt; before using this feature.</string>
   <string name="festival_sms_loading">Chargement…</string>
   <string name="fetion_prefix">[Fetion]</string>
   <string name="file_create_time">"Créé: "</string>
@@ -283,6 +287,7 @@
   <string name="hybrid_service_unavailiable">Service indisponible</string>
   <string name="hybrid_try_again">Veuillez réessayer</string>
   <string name="i_know">"C'est compris"</string>
+  <string name="ignore">Not now</string>
   <string name="imageview_ad">Pub</string>
   <string name="importing_progress_private_message">Importation…</string>
   <string name="in_sms">Message</string>
@@ -566,6 +571,7 @@ Un message SMS sortant est requis pour activer le Mi Message. Votre opérateur v
   <string name="privacy_password_title3">Mettre à jour votre mot de passe</string>
   <string name="privacy_password_title4">Mot de passe mis à jour</string>
   <string name="privacy_policy">Politique de confidentialité</string>
+  <string name="privacy_term">Privacy Policy</string>
   <string name="private_message">Messagerie privée</string>
   <string name="private_new_notification">Notification de message</string>
   <string name="private_protect">Protection de la vie privée</string>
@@ -652,7 +658,13 @@ Un message SMS sortant est requis pour activer le Mi Message. Votre opérateur v
   <string name="recommend_bar_message_smart_message">Copiez les mots de passe à usage unique, suivez les packages, utilisez des menus intelligents et plus</string>
   <string name="recommend_bar_ok">Activer</string>
   <string name="recommend_bar_title_mx_rcs">Mi Message</string>
-  <string name="recommend_bar_title_smart_message">Messagerie intelligente (Smart Messaging)</string>
+  <string name="recommend_bar_title_smart_message">Messagerie intelligente</string>
+  <string name="recommend_both_dialog_title">Welcome to Messaging!</string>
+  <string name="recommend_dialog_message">You can turn on Mi Message and Smart Messaging to access additional features.</string>
+  <string name="recommend_mx_dialog_title">Welcome to Mi Message!</string>
+  <string name="recommend_mx_setting_summary">Mi Message allows you to send messages to other Mi Message users over the internet without incurring charges.</string>
+  <string name="recommend_smart_sms_dialog_title">Welcome to Smart Messaging!</string>
+  <string name="recommend_smart_sms_setting_summary">Smart Messaging provides Sender ID recognition and smart menus.</string>
   <string name="recording_failed">Enregistrement impossible</string>
   <string name="refill_now">Recharger maintenant</string>
   <string name="refreshing">Actualisation…</string>
@@ -864,6 +876,7 @@ Si vous n'acceptez pas d'accorder de telles autorisations ou de partager et tél
   <string name="too_many_unsent_mms">"Impossible d'envoyer le message maintenant. Il existe un trop grand nombre de messages multimédias non envoyés."</string>
   <string name="train_edit_destination">Ajouter</string>
   <string name="try_to_send">"Essayer d'envoyer"</string>
+  <string name="turn_on">Activer</string>
   <string name="type_attachment">pièce jointe</string>
   <string name="type_audio">audio</string>
   <string name="type_picture">Image</string>
@@ -893,6 +906,7 @@ Dernière tentative : %s."</string>
   <string name="url_scan_again">Vérifier à nouveau</string>
   <string name="url_scanning">"Vérification de l'URL…"</string>
   <string name="user_agreement">Accord utilisateur</string>
+  <string name="user_term">User Agreement</string>
   <string name="verification_code_list_title">Codes de vérification</string>
   <string name="view">Afficher</string>
   <string name="view_bookmark">Voir le favori</string>
@@ -904,6 +918,7 @@ Dernière tentative : %s."</string>
   <string name="yes">OK</string>
   <string name="yesterday">Hier</string>
   <string name="you_have_new_message">You have new messages</string>
+  <string name="yulore_term">Privacy Policy</string>
   <string name="zero_sms_feedback_message">Reported messages are uploaded to our servers along with the phone numbers of their senders. These messages are only used to improve Blocklist functionality.</string>
   <string name="zero_sms_feedback_success">Reported successfully</string>
   <string name="zero_sms_feedback_title">Report</string>

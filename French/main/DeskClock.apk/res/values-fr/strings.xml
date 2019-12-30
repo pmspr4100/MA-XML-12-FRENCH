@@ -55,9 +55,13 @@
   <string name="alarmclock_empty_text">"Pas d'alarme"</string>
   <string name="alarmclock_silent_hint">"L'alarme est en mode silencieux"</string>
   <string name="alert">Sonnerie</string>
+  <string name="alert_ringtone">"Sonnerie d'alarme"</string>
+  <string name="alert_volume">Volume de la sonnerie</string>
+  <string name="alert_volume_summary">Définir le volume de la sonnerie pour les alarmes et les minuteries</string>
   <string name="analog_gadget">Horloge analogique</string>
   <string name="app_label">Horloge</string>
-  <string name="auto_silence_never">Jamais</string>
+  <string name="auto_silence_never">Jamais</string>  
+  <string name="auto_silence_summary">"Définir l'heure après laquelle les alarmes et les minuteries seront désactivées"</string>
   <string name="auto_silence_title">Silence automatique</string>
   <string name="back">Quitter</string>
   <string name="bedtime">Bedtime</string>
@@ -129,6 +133,7 @@
   <string name="done">Terminé</string>
   <string name="dynamic_alarm_speech">Alarme intelligente</string>
   <string name="edit_alarm">"Éditer l'alarme"</string>
+  <string name="edit_label">"Éditer l'étiquette d'alarme"</string>
   <string name="edit_systemtime">"Éditer l'heure du système"</string>
   <string name="edit_systemtime_setting_summary">Date, heure et double horloge</string>
   <string name="every_day">Tous les jours</string>
@@ -141,6 +146,7 @@
   <string name="holiday_update_fail">"Impossible de mettre à jour"</string>
   <string name="holiday_update_loading">Mise à jour…</string>
   <string name="holiday_update_success">Tous les articles sont à jour</string>
+  <string name="holiday_update_title">Mettre à jour les informations sur les jours fériés</string>
   <string name="install_weather_app_error">"Impossible de charger l'application"</string>
   <string name="install_weather_app_loading">Chargement…</string>
   <string name="invalid_time">Heure non valide: %3$s %1$d: %2$d</string>
@@ -153,7 +159,9 @@
   <string name="korea_permission_storage">Stockage</string>
   <string name="korea_permission_storage_desc">Pour enregistrer des alarmes</string>
   <string name="label">Définir un label</string>
-  <string name="label_pref_summary">Label</string>
+  <string name="label_input_desc">"Cette étiquette sera affichée à l'écran lorsque l'alarme se déclenchera"</string>
+  <string name="label_input_hint">"Entrez l'étiquette"</string>
+  <string name="label_pref_summary">Étiquette</string>
   <string name="lap">Tour</string>
   <string name="lap_num">Tour</string>
   <string name="last_step">Retour</string>
@@ -232,18 +240,24 @@
   <string name="module_white_noise_download_wifi">Clock needs to download audio files for ambient noise timers. Download now?</string>
   <string name="module_white_noise_download_wifi_privacy">&lt;Data&gt;In order to download audio files for ambient noise timers and provide personalized services, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt; Agree?&lt;/Data&gt;</string>
   <string name="monday_to_friday">Lundi au vendredi</string>
+  <string name="more_alert_setting">Additional alarm settings</string>
   <string name="more_setting">Plus de paramètres</string>
   <string name="more_settings">Paramètres</string>
+  <string name="net_permission_cancel">"Don't agree"</string>
+  <string name="net_permission_ok">Agree</string>
   <string name="network_privacy">&lt;Data&gt;In order to get relevant info about local public holidays and adjust alarms, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;. Agree?&lt;/Data&gt;</string>
   <string name="network_privacy_global">&lt;Data&gt;In order to provide personalized services, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;. Agree?&lt;/Data&gt;</string>
   <string name="never">Une fois</string>
+  <string name="new_label">Add alarm label</string>
   <string name="no_alarm_setting">Aucune alarme ici</string>
   <string name="no_worldclock">"Pas d'horloge ici"</string>
+  <string name="normal_settings">General settings</string>
   <string name="not_update">Pas maintenant</string>
   <string name="oneshot_alarm">"Supprimer quand l'alarme s'arrête"</string>
   <string name="open_keep_screen">"L'écran pourra rester allumé"</string>
   <string name="open_sleep_record">Activer</string>
   <string name="other_category_title">Autre</string>
+  <string name="other_settings">Additional settings</string>
   <string name="pause">Pause</string>
   <string name="personal_recommend">Recommandations de contenu personnalisées</string>
   <string name="privacy_policy">Politique de confidentialité</string>
@@ -254,6 +268,7 @@
   <string name="revert">Revenir</string>
   <string name="ringtone_all">Toutes les sonneries</string>
   <string name="ringtone_dew">Rosée du matin</string>
+  <string name="ringtone_digital_timer">Timer</string>
   <string name="ringtone_dream">Daydream</string>
   <string name="ringtone_firefly">Lucioles</string>
   <string name="ringtone_other">Plus de sonneries</string>
@@ -318,6 +333,7 @@
   <string name="system_time_settings_category_title">"Réglages de l'heure"</string>
   <string name="temperature_unit">℃</string>
   <string name="time">Heure</string>
+  <string name="time_settings">Clock settings</string>
   <string name="timer_alarm_cancel_pad">"Appuyez sur l'écran pour arrêter la sonnerie"</string>
   <string name="timer_alarm_dot_matrix_label">MINUTEUR</string>
   <string name="timer_alert_alert_silenced">Minuteurs silencieux après %1$s.</string>
@@ -348,6 +364,7 @@
   <string name="timer_new_item">Ajouter une minuterie</string>
   <string name="timer_notify_text">Répéter ou annuler la minuterie.</string>
   <string name="timer_pause_timer">Mettre en pause le minuteur</string>
+  <string name="timer_ringtone">Timer ringtone</string>
   <string name="timer_running">"Minuteur en cours d'exécution"</string>
   <string name="timer_start_alarm">Temps écoulé !</string>
   <string name="timer_start_timer">Démarrer le minuteur</string>
