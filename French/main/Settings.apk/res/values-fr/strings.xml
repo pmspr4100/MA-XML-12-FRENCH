@@ -1363,6 +1363,8 @@ Cette fonctionnalité peut être désactivée dans [Paramètres]"</string>
   <string name="cloud_restore_section_summary">"Restaurer les paramètres du système, la position de l'écran d'accueil et les applications"</string>
   <string name="cloud_restore_section_title">Restaurer depuis Xiaomi Cloud</string>
   <string name="cmcc_hardware_version">Version du matériel</string>
+  <string name="codec_low_latency_summary">Provide a low latency experience for Audio/Video synchronization</string>
+  <string name="codec_low_latency_title">Low Latency</string>
   <string name="color_black">Noir</string>
   <string name="color_blue">Bleu</string>
   <string name="color_calibration_none">Natif</string>
@@ -1797,7 +1799,7 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
   <string name="default_rule_name">Minuteur 1</string>
   <string name="default_sound">Son par défaut</string>
   <string name="default_spell_checker">Correcteur ortho par défaut</string>
-  <string name="default_suppression_title">默认（推荐）</string>
+  <string name="default_suppression_title">Default (Recommended)</string>
   <string name="accessibility_screen_magnification_summary">&lt;b&gt;To zoom&lt;/b&gt;", quickly tap the screen 3 times.
 "&lt;ul&gt;&lt;li&gt;Drag 2 or more fingers to scroll&lt;/li&gt;"
 "&lt;li&gt;Pinch 2 or more fingers to adjust zoom&lt;/li&gt;&lt;/ul&gt;"
@@ -2059,8 +2061,8 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
   <string name="display_vr_pref_off">Réduire le scintillement</string>
   <string name="display_vr_pref_title">"Quand l'appareil est en mode RV"</string>
   <string name="display_white_balance_title">Afficher la balance des blancs</string>
-  <string name="diy_suppression_summary">根据需要自行调节防误触区域大小</string>
-  <string name="diy_suppression_title">自定义</string>
+  <string name="diy_suppression_summary">Adjust the size of the area near the edges where accidental touch will be ignored</string>
+  <string name="diy_suppression_title">Custom</string>
   <string name="dlg_cancel">Annuler</string>
   <string name="dlg_close">Fermer</string>
   <string name="dlg_confirm_unmount_text">"Si vous désinstallez la carte SD, certaines applications en cours d'utilisation s'arrêteront et risquent de ne plus être disponibles tant que vous n'aurez pas réinstallé la carte SD."</string>
@@ -2199,8 +2201,8 @@ Vous pouvez afficher les journaux générés dans le Gestionnaire de fichiers."<
   <string name="edge_mode_photo_summary">"Dans l'application Appareil photo, appuyer sur le bord de votre téléphone pour déclencher l'obturateur et appuyer à nouveau pour prendre une photo"</string>
   <string name="edge_mode_screenshot">"Capture d'écran"</string>
   <string name="edge_mode_screenshot_summary">"Appuyer deux fois sur les bords pour prendre une capture d'écran"</string>
-  <string name="edge_mode_state_summary">设置曲面屏的边缘防误触区域,该区域内的握持和触摸动作将不被响应</string>
-  <string name="edge_mode_state_title">边缘防误触</string>
+  <string name="edge_mode_state_summary">"The area around curved edges won't respond to touch"</string>
+  <string name="edge_mode_state_title">Ignore accidental touch on the edges</string>
   <string name="edit_rule">Éditer des règles</string>
   <string name="edit_rules">Éditer</string>
   <string name="eighthours">8 heures</string>
@@ -2725,7 +2727,7 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
   <string name="header_category_system">Système</string>
   <string name="header_category_wireless_networks">Paramètres réseaux</string>
   <string name="header_data_and_synchronization">Données et synchronisation</string>
-  <string name="headset_settings_title">Écouteurs</string>
+  <string name="headset_settings_title">Effets sonores</string>
   <string name="heavy_weight_stop_description">"Impossible d'arrêter cette application en toute sécurité. Si vous l'arrêtez, vous risquez de perdre une partie du travail en cours."</string>
   <string name="help_feedback_label">Aide et commentaires</string>
   <string name="help_label">Aide et commentaires</string>
@@ -4351,6 +4353,7 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
   <string name="privacy_factory_reset_dlg_button_text">Réinitialiser</string>
   <string name="privacy_factory_reset_dlg_message">"Si vous oubliez votre mot de passe, vous devrez effectuer une réinitialisation d'usine afin d'en définir un nouveau."</string>
   <string name="privacy_factory_reset_dlg_title">Sauvegarder vos données</string>
+  <string name="privacy_failed_need_to_unlock_nofingerprint">Enter password before using a new fingerprint</string>
   <string name="privacy_failed_need_to_unlock_nofingerprint">"Entrez le mot de passe avant d'utiliser une nouvelle empreinte digitale"</string>
   <string name="privacy_file">Fichiers</string>
   <string name="privacy_gallery">Photos</string>
@@ -5175,7 +5178,7 @@ Remarque: Vous ne pouvez pas utiliser votre empreinte digitale pour déverrouill
   <string name="see_all_apps_title">Afficher les %1$d applications</string>
   <string name="see_less">Afficher moins</string>
   <string name="see_more">Afficher plus</string>
-  <string name="seek_bar_info">调节防误触区域大小</string>
+  <string name="seek_bar_info">Ajuster la taille</string>
   <string name="select_all">Tout sélectionner</string>
   <string name="select_application">Sélectionner une application</string>
   <string name="select_device_admin_msg">"Applications d'administration de l'appareil"</string>
@@ -5737,8 +5740,8 @@ Essayez d'utiliser un périphérique ^3 plus rapide, ou utilisez à la place ^4 
   <string name="storageuse_settings_title">Utilisation du stockage</string>
   <string name="strict_mode">Mode strict activé</string>
   <string name="strict_mode_summary">"Flasher l'écran lorsque des applications effectuent de longues opérations sur le fil principal"</string>
-  <string name="strong_suppression_summary">防误触区域较大，效果更好，但会牺牲部分边缘操控体验</string>
-  <string name="strong_suppression_title">强防误触模式</string>
+  <string name="strong_suppression_summary">"Your device won't respond to accidental touch, some gesture controls might not work near the edges"</string>
+  <string name="strong_suppression_title">Big area</string>
   <string name="structure_add_facerecoginition_text">Ajouter des données de visage 3D</string>
   <string name="structure_face_enroll_not_able_low_electric_itle">"Impossible d'utiliser cette fonctionnalité en raison du niveau faible de la batterie"</string>
   <string name="structure_face_enroll_not_able_low_electric_msg">La batterie doit être chargée à 5% au moins pour démarrer un enregistrement.</string>
@@ -6547,8 +6550,8 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
   <string name="vt_provisioned_switch_string">Appel vidéo géré</string>
   <string name="wait_for_debugger">Attendre le débogage</string>
   <string name="wait_for_debugger_summary">"Application déboguéeen attente d'un débogueur pour joindre avant l'exécution"</string>
-  <string name="wake_suppression_summary">防误触区域较小，边缘响应更灵敏，但发生误触的概率增加</string>
-  <string name="wake_suppression_title">弱防误触模式</string>
+  <string name="wake_suppression_summary">Your device might respond to accidental touch, but will also respond to gesture controls near the edges</string>
+  <string name="wake_suppression_title">Small area</string>
   <string name="wakeup_and_sleep_settings_category_name">"Verrouiller les paramètres de l'écran"</string>
   <string name="wakeup_for_keyguard_notification_title">"Allumer l'écran pour les notifications"</string>
   <string name="wallpaper_attributions">"Fonds d'écran"</string>
@@ -6722,6 +6725,8 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
   <string name="wifi_details_subnet_mask">Masque de sous-réseau</string>
   <string name="wifi_details_title">Détails du réseau</string>
   <string name="wifi_dialog_remind_type_title">Réseau de données mobiles</string>
+  <string name="wifi_direct_close_hotspot_hint">Turn off portable hotspot before using WLAN Direct</string>
+  <string name="wifi_direct_close_slave_wifi_hint">Disconnect from auxiliary WLAN before using WLAN Direct</string>
   <string name="wifi_disabled_by_recommendation_provider">"Pas connecté à cause d'un réseau de mauvaise qualité"</string>
   <string name="wifi_disabled_generic">Désactivé</string>
   <string name="wifi_disabled_help">"Le réseau a été déconnecté à cause d'un signal trop faible"</string>
