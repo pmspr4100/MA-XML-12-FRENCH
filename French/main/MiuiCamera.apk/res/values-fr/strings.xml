@@ -95,8 +95,8 @@
   <string name="pref_camera_snap_value_take_picture">Image</string>
   <string name="pref_photo_assistance_tips_off">Désactiver</string>
   <string name="pref_photo_assistance_tips_on">Activer</string>
-  <string name="ai_scene_mode_use_hint_text">"L'appareil photo IA détecte automatiquement les scènes
-et optimise vos photos en fonction des informations"</string>
+  <string name="ai_scene_mode_use_hint_text">"Reconnaître des scènes à l'aide de l'IA
+et ajustez les préférences automatiquement"</string>
   <string name="ai_scene_top_moon_off">Mode faible luminosité</string>
   <string name="ai_scene_top_tip">Mode lune</string>
   <string name="audio_focus_exit_button_text">Désactiver le focus audio</string>
@@ -133,6 +133,7 @@ et optimise vos photos en fonction des informations"</string>
   <string name="button_fisheye_camera_title">Fisheye</string>
   <string name="button_front_camera_title">Faire un selfie</string>
   <string name="button_normal_video_title">Enregistrer une vidéo</string>
+  <string name="camcorder_tip_8k_max_video_duration">"Vous pouvez enregistrer jusqu'à 6 minutes en 8K"</string>
   <string name="camera_disabled">"L'appareil photo a été désactivé"</string>
   <string name="camera_error_title">"Erreur de l'appareil photo"</string>
   <string name="camera_facedetection_sub_option_hint">Caractéristique expérimentale</string>
@@ -208,6 +209,9 @@ et optimise vos photos en fonction des informations"</string>
   <string name="do_not_remind_me">"Ne plus afficher"</string>
   <string name="document_blackwhite">Noir et blanc</string>
   <string name="document_blur_warn">Le texte est flou</string>
+  <string name="document_mode_use_hint_text_body">"开启文档模式拍摄，智能矫正和增强
+一键拍出文档扫描效果"</string>
+  <string name="document_mode_use_hint_text_title">文档模式</string>
   <string name="document_origin">Originale</string>
   <string name="document_strengthen">Renforcé</string>
   <string name="dual_camera_lens_covered_toast">La lentille est couverte.</string>
@@ -477,7 +481,7 @@ regarder plus grand sur les photos"</string>
   <string name="parameter_lens_w">WIDE (wide angle lens)</string>
   <string name="parameter_log_format_description">"Ce format enregistre la vidéo avec une fonction logarithmique appliquée à la courbe d'exposition afin de capturer plus de détails dans les hautes lumières et les ombres, vous offrant plus d'options de post-traitement."</string>
   <string name="parameter_log_format_title">Format LOG</string>
-  <string name="parameter_metering_description">"La mesure moyenne prend en compte toutes les zones de votre image, fonctionnant mieux pour des scènes uniformément éclairées. La mesure pondérée centrale se concentre principalement sur la zone centrale du cadre et tient dûment compte de la luminosité de la zone environnante, ce qui convient pour la prise de vue de sujets au centre du cadre. La mesure spot ne couvre que la zone en un seul endroit, vous donnant un contrôle précis sur l'exposition."</string>
+  <string name="parameter_metering_description">"La mesure moyenne prend en compte toutes les zones de votre image, fonctionnant mieux pour des scènes uniformément éclairées. La mesure pondérée centrale se concentre principalement sur la zone centrale du cadre et tient dûment compte de la luminosité de la zone environnante, ce qui convient pour photographier des sujets au centre du cadre. La mesure spot ne couvre que la zone en un seul endroit, vous donnant un contrôle précis sur l'exposition."</string>
   <string name="parameter_metering_title">Modes de mesure</string>
   <string name="parameter_peak_focus_description">"Lorsque vous effectuez la mise au point manuellement, utilisez le pic de mise au point pour placer une surbrillance rouge sur la zone de mise au point."</string>
   <string name="parameter_peak_focus_title">Mise au point maximale</string>
@@ -943,6 +947,8 @@ Le mode ultra grand angle vient vous aider lorsque vous ne pouvez pas vous éloi
   <string name="user_notice_identify_summary_format">"Avant d'utiliser l'appareil photo, vous devez accepter notre &lt;a href="http://www.miui.com/res/doc/eula.html?lang=en_US"&gt;Accord de l'utilisateur&lt;/a&gt; et &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=en_US"&gt;Politique de confidentialité&lt;/a&gt;. L'appareil photo doit également se connecter à internet pour fonctionner normalement. Vous acceptez ?"</string>
   <string name="user_notice_title">Termes et conditions</string>
   <string name="video_beauty_tip">Embellir les vidéos</string>
+  <string name="video_beauty_tip_filter">Filters</string>
+  <string name="video_beauty_tip_portrait_bokeh">Bokeh</string>
   <string name="video_camera_label">Caméscope</string>
   <string name="video_effect_entry_blackwhite">Noir et Blanc</string>
   <string name="video_effect_entry_bygone">Bygone</string>
