@@ -1,4 +1,4 @@
-[!2020 logo](https://image.freepik.com/vecteurs-libre/resume-bonne-annee-2020-numeros-suspendus-or-effet-paillettes-bokeh_73174-167.jpg)
+[![2020 logo](https://image.freepik.com/vecteurs-libre/resume-bonne-annee-2020-numeros-suspendus-or-effet-paillettes-bokeh_73174-167.jpg)
 
 # MIUI V11 French Translation
 [![License: CC BY-NC-SA 3.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%203.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/3.0/)
