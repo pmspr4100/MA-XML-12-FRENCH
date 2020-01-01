@@ -1757,8 +1757,8 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
   <string name="date_time_settings">Date et heure</string>
   <string name="day_of_week">Jour de la semaine</string>
   <string name="dc_light_dialog_summary">"La qualité de l'image peut être affectée lorsque le mode anti-scintillement est activé. Allumer quand même ?"</string>
-  <string name="dc_light_summary">Apply DC dimming to reduce eye strain</string>
-  <string name="dc_light_summary_new">DC dimming reduces eye strain in low light conditions. However, image quality might be affected when Anti-flicker mode is on.</string>
+  <string name="dc_light_summary">Appliquer une gradation CC pour réduire la fatigue oculaire</string>
+  <string name="dc_light_summary_new">"La gradation CC réduit la fatigue oculaire dans des conditions de faible luminosité. Cependant, la qualité de l'image peut être affectée lorsque le mode Anti-scintillement est activé."</string>
   <string name="dc_light_title">Mode anti-scintillement</string>
   <string name="debug_app">Sélectionner une application de débogage</string>
   <string name="debug_app_not_set">Aucune application de débogage définie</string>
@@ -1799,25 +1799,25 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
   <string name="default_rule_name">Minuteur 1</string>
   <string name="default_sound">Son par défaut</string>
   <string name="default_spell_checker">Correcteur ortho par défaut</string>
-  <string name="default_suppression_title">Default (Recommended)</string>
-  <string name="accessibility_screen_magnification_summary">&lt;b&gt;To zoom&lt;/b&gt;", quickly tap the screen 3 times.
-"&lt;ul&gt;&lt;li&gt;Drag 2 or more fingers to scroll&lt;/li&gt;"
-"&lt;li&gt;Pinch 2 or more fingers to adjust zoom&lt;/li&gt;&lt;/ul&gt;"
+  <string name="default_suppression_title">Par défaut (recommandé)</string>
+  <string name="accessibility_screen_magnification_summary">"&lt;b&gt;Pour zoomer&lt;/b&gt;", appuyez rapidement sur l'écran 3 fois.
+"&lt;ul&gt;&lt;li&gt;Faites glisser 2 doigts ou plus pour faire défiler&lt;/li&gt;"
+"&lt;li&gt;Pincez 2 doigts ou plus pour régler le zoom&lt;/li&gt;&lt;/ul&gt;"
 
-"&lt;b&gt;To zoom temporarily&lt;/b&gt;", quickly tap the screen 3 times and hold down your finger on the third tap.
-"&lt;ul&gt;&lt;li&gt;Drag to move around the screen&lt;/li&gt;"
-"&lt;li&gt;Lift finger to zoom out&lt;/li&gt;&lt;/ul&gt;"
+"&lt;b&gt;Pour zoomer temporairement&lt;/b&gt;", appuyez rapidement sur l'écran 3 fois et maintenez votre doigt sur le troisième robinet.
+"&lt;ul&gt;&lt;li&gt;Faites glisser pour vous déplacer sur l'écran&lt;/li&gt;"
+"&lt;li&gt;Soulevez le doigt pour effectuer un zoom arrière&lt;/li&gt;&lt;/ul&gt;"
 
-You can't zoom in on the keyboard and navigation bar."</string>
-  <string name="add_broadsize_fingerprint_instruction_msg">Fingerprint sensor is located on the right edge of your device</string>
-  <string name="always_style">Always</string>
+Vous ne pouvez pas zoomer sur le clavier et la barre de navigation."</string>
+  <string name="add_broadsize_fingerprint_instruction_msg">"Le capteur d'empreintes digitales est situé sur le bord droit de votre appareil"</string>
+  <string name="always_style">Toujours</string>
   <string name="apn_chinaunicom_3gnet_general">沃3G连接互联网</string>
   <string name="apn_chinaunicom_3gwap_general">沃3G手机上网</string>
   <string name="assist_gesture_title">Assist gesture</string>
-  <string name="battery_saver_turn_on_automatically_pct">at %1$s battery</string>
-  <string name="bluetooth_enter_passkey_msg">Type the pairing code then press Return or Enter</string>
-  <string name="bluetooth_unlock_confirm_device_text_for_huami_band">Confirm on the band.</string>
-  <string name="bootloader_tips_warning">"Don't disconnect from the network, sign out of your Mi Account, perform a factory reset, or erase system data."</string>
+  <string name="battery_saver_turn_on_automatically_pct">à %1$s batterie</string>
+  <string name="bluetooth_enter_passkey_msg">Saisissez le code de couplage, puis appuyez sur Retour ou Entrée</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_huami_band">Confirmez sur la bande.</string>
+  <string name="bootloader_tips_warning">"Ne vous déconnectez pas du réseau, ne vous déconnectez pas de votre compte Mi, n'effectuez pas une réinitialisation d'usine ou n'effacez pas les données système."</string>
   <string name="connected">Connecté</string>
   <string name="connected_tws_device_saved_title">Saved Earbuds</string>
   <string name="debug_intent_sender_label">Debug intent sender</string>

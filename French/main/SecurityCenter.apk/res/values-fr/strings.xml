@@ -146,7 +146,7 @@ Il sera ajouté aux exceptions, mais les éléments bloqués précédemment n'ap
   <string name="open_callwait">Activé</string>
   <string name="open_dnd_mode">勿扰模式</string>
   <string name="open_dnd_mode_summary">勿扰时间段内，红包提醒与红包闹钟免打扰</string>
-  <string name="open_extreme_power_save_mode_title">"Activer l'économiseur de batterie Extreme"</string>
+  <string name="open_extreme_power_save_mode_title">"Activer l'économiseur de batterie extreme"</string>
   <string name="close_callwait">Désactivé</string>
   <string name="st_hint_add_phonenumber">Entrez un numéro de téléphone</string>
   <string name="st_hint_add_head_number">Entrez un préfixe</string>
@@ -315,7 +315,6 @@ Il sera ajouté aux exceptions, mais les éléments bloqués précédemment n'ap
   <string name="mark_agent_time_setting">Bloquer les numéros qui ont été signalés comme agences un certain nombre de fois</string>
   <string name="mark_sell_time_setting">Bloquer les numéros qui ont été signalés comme télé-vendeurs un certain nombre de fois</string>
   <string name="mark_harass_time_setting">Bloquer les numéros qui ont été signalés pour nuisances un certain nombre de fois</string>
-  <string name="mark_time_text">%d</string>
   <string name="mark_time_setting_dialog_title">Signaler un numéro</string>
   <string name="sms_smart_engine_update">Mettre à jour automatiquement le filtre des SMS</string>
   <string name="sms_smart_engine_update_now">Mettre à jour</string>
@@ -399,13 +398,12 @@ Il sera ajouté aux exceptions, mais les éléments bloqués précédemment n'ap
   <string name="megabyte_per_second">Mo/s</string>
   <string name="gigabyteShort">Go</string>
   <string name="give_lucky_money">红包大派送</string>
-  <string name="global_wa_setting_alert_dialog_content">You can free up %s</string>
+  <string name="global_wa_setting_alert_dialog_content">Vous pouvez libérer %s</string>
   <string name="global_wa_setting_alert_dialog_title">WhatsApp Cleaner</string>
   <string name="megabyteShort">Mo</string>
   <string name="kilobyteShort">ko</string>
   <string name="byteShort">o</string>
   <string name="yuan">CNY</string>
-  <string name="percent_text_formatted">%s%%</string>
   <string name="main_traffic_detail">Utilisation des données</string>
   <string name="main_toolbar_firewall">"Restreindre l'utilisation des données"</string>
   <string name="main_toolbar_statistic">"Statistiques d'utilisation des données"</string>
@@ -497,7 +495,7 @@ de l'opérateur"</string>
   <string name="app_mobile">Données cellulaires</string>
   <string name="app_wifi">Wi-Fi</string>
   <string name="appcleaner_wechat_notification_garbage_cleanup_summary">Clear %s of WeChat cache to free up storage space</string>
-  <string name="appcleaner_wechat_notification_garbage_cleanup_title">"Don't forget to clear cache"</string>
+  <string name="appcleaner_wechat_notification_garbage_cleanup_title">"N'oubliez pas de vider le cache"</string>
   <string name="traffic_none">Aucun</string>
   <string name="sorted_dialog_title">Trier par</string>
   <string name="cancel_button">Annuler</string>
@@ -741,14 +739,14 @@ Le volume de données restant inclut l'excédent du mois précédent."</string>
   <string name="tc_sms_report_toast_text">"Obtention d'infos…"</string>
   <string name="tc_sms_report_type">Type de rapport</string>
   <string name="privacy_declare_dialog_title">"Conditions générales d'utilisation"</string>
-  <string name="privacy_description_camera">%1s is using camera in the background. You can toggle the switch below to restrict this activity.</string>
-  <string name="privacy_description_camera_mic">%1s is using camera and microphone in the background. You can toggle the switch below to restrict this activity.</string>
-  <string name="privacy_description_mic">%1s is using microphone in the background. You can toggle the switch below to restrict this activity.</string>
+  <string name="privacy_description_camera">"%1s utilise l'appareil photo en arrière-plan. Vous pouvez basculer le commutateur ci-dessous pour restreindre cette activité."</string>
+  <string name="privacy_description_camera_mic">"%1s utilise l'appareil photo et le microphone en arrière-plan. Vous pouvez basculer le commutateur ci-dessous pour restreindre cette activité."</string>
+  <string name="privacy_description_mic">%1s utilise un microphone en arrière-plan. Vous pouvez basculer le commutateur ci-dessous pour restreindre cette activité.</string>
   <string name="sc_allow_network_dialog_tiltle">"Impossible d'utiliser cette fonctionnalité"</string>
-  <string name="privacy_notification_subtitle">Tap to manage permissions</string>
-  <string name="privacy_notification_title_camera">%1s is using camera in the background</string>
-  <string name="privacy_notification_title_camera_mic">%1s is using camera and microphone in the background</string>
-  <string name="privacy_notification_title_mic">%1s is using microphone in the background</string>
+  <string name="privacy_notification_subtitle">Appuyez pour gérer les permissions</string>
+  <string name="privacy_notification_title_camera">"%1s utilise l'appareil photo en arrière-plan"</string>
+  <string name="privacy_notification_title_camera_mic">"%1s utilise l'appareil photo et le microphone en arrière-plan"</string>
+  <string name="privacy_notification_title_mic">%1s utilise un microphone en arrière-plan</string>
   <string name="sc_allow_network_dialog_message">"Vous avez limité la connexion réseau et l'accès à votre localisation pour l'application Sécurité. Accordez à l'application Sécurité les autorisations requises pour utiliser cette fonctionnalité."</string>
   <string name="privacy_prompt_upload">Envoyer</string>
   <string name="privacyapp_number_masked_text">Contenu de la notification est masqué</string>
@@ -815,7 +813,7 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
   <string name="connect_internet_by_usbshare">Internet partagé via USB</string>
   <string name="connect_internet_by_mobiledata">Connexion aux données mobile</string>
   <string name="connect_internet_by_wifi">Wi-Fi</string>
-  <string name="unable_connect_internet">Pas de connexion Internet</string>
+  <string name="unable_connect_internet">Pas de connexion internet</string>
   <string name="enable_network">"Activer le réseau d'abord"</string>
   <string name="disable_air_mode">"Désactivez le mode avion d'abord"</string>
   <string name="repair">Réparer</string>
@@ -1127,7 +1125,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
   <string name="delete">Supprimer</string>
   <string name="delete_all_sms">Tout supprimer</string>
   <string name="every_day">Tous les jours</string>
-  <string name="ew_alert_arrive_location">Seismic wave arrived in %s</string>
+  <string name="ew_alert_arrive_location">"Arrivée d'une vague sismique %s"</string>
   <string name="ew_alert_dial_text">"Appel d'urgence
 contact"</string>
   <string name="ew_alert_earthquake_center_title">Epicenter</string>
