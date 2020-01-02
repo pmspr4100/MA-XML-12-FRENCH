@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Paramètres de rétroéclairage adaptatif du contenu</string>
+  <string name="cabl_enable_summary_off">"Le rétroéclairage ne se réajustera pas en fonction du contenu de l'écran"</string>
+  <string name="cabl_enable_summary_on">"Le rétro-éclairage se réajustera en fonction du contenu de l'écran"</string>
+  <string name="cabl_enable_title">Activer le rétroéclairage adaptatif du contenu</string>
+  <string name="cabl_info_default">Inconnue</string>
+  <string name="cabl_level_default">Auto</string>
+  <string name="cabl_levels_summary">"Un niveau de qualité inférieur indique que CABL essaiera d'économiser autant d'énergie que possible sans affecter de manière significative le contenu affiché. Le niveau de qualité visuelle automatique signifie que CABL essaiera de maximiser les économies d'énergie en fonction de la détection automatique du type de contenu affiché."</string>
+  <string name="cabl_levels_title">Niveau de qualité visuelle</string>
+  <string name="cabl_settings_title">Paramètres de rétroéclairage adaptatif du contenu</string>
+  <string name="cabl_version_title">Version CABL</string>
+</resources>
