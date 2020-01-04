@@ -99,6 +99,9 @@
 et ajustez les préférences automatiquement"</string>
   <string name="ai_scene_top_moon_off">Mode faible luminosité</string>
   <string name="ai_scene_top_tip">Mode lune</string>
+  <string name="ai_watermark_title">AI Watermark</string>
+  <string name="ai_watermark_toast_off">AI水印已关闭</string>
+  <string name="ai_watermark_toast_on">AI水印</string>
   <string name="audio_focus_exit_button_text">Désactiver le focus audio</string>
   <string name="autozoom_click_hint">"Appuyez sur un objet pour le maintenir au point lorsqu'il est en mouvement. Restez à au moins 3 mètres pour un meilleur effet."</string>
   <string name="autozoom_disabled_hint">"Arrêt du suivi d'un objet en mouvement"</string>
@@ -174,6 +177,7 @@ et ajustez les préférences automatiquement"</string>
   <string name="color_effect_live_none">Normal</string>
   <string name="color_effect_live_solar">Bleu ciel</string>
   <string name="color_effect_live_years">Sépia</string>
+  <string name="color_enhance">炫彩</string>
   <string name="config_name_group">Groupe selfie</string>
   <string name="config_name_hht">HHT</string>
   <string name="config_name_magic">Magique</string>
@@ -209,9 +213,9 @@ et ajustez les préférences automatiquement"</string>
   <string name="do_not_remind_me">"Ne plus afficher"</string>
   <string name="document_blackwhite">Noir et blanc</string>
   <string name="document_blur_warn">Le texte est flou</string>
-  <string name="document_mode_use_hint_text_body">"开启文档模式拍摄，智能矫正和增强
-一键拍出文档扫描效果"</string>
-  <string name="document_mode_use_hint_text_title">文档模式</string>
+  <string name="document_mode_use_hint_text_body">"Line up and enhance
+scanned documents automatically"</string>
+  <string name="document_mode_use_hint_text_title">Scan documents</string>
   <string name="document_origin">Originale</string>
   <string name="document_strengthen">Renforcé</string>
   <string name="dual_camera_lens_covered_toast">La lentille est couverte.</string>
@@ -373,7 +377,8 @@ regarder plus grand sur les photos"</string>
   <string name="mimoji_check_multi_face">Une personne à la fois !</string>
   <string name="mimoji_check_no_face">Visage non reconnu</string>
   <string name="mimoji_check_normal">"Appuyez sur le bouton de l'appareil photo"</string>
-  <string name="mimoji_confirm">Confirmer</string>
+  <string name="mimoji_confirm">OK</string>
+  <string name="mimoji_create_emoticon">一键生成表情包</string>
   <string name="mimoji_create_tips">"Regardez directement dans l'appareil photo pour créer votre Mimoji"</string>
   <string name="mimoji_delete">&lt;font fgcolor="#ffff0000"&gt;Supprimer&lt;/font&gt;</string>
   <string name="mimoji_delete_dialog_title">Supprimer Mimoji ?</string>
@@ -406,6 +411,11 @@ regarder plus grand sur les photos"</string>
   <string name="mimoji_featured_face">Face</string>
   <string name="mimoji_fragment_tab_name">Mimoji</string>
   <string name="mimoji_freckle">Taches de rousseur</string>
+  <string name="mimoji_gif_accelerate">加速</string>
+  <string name="mimoji_gif_clear_bg">去背景</string>
+  <string name="mimoji_gif_edit_hint">点击添加文字</string>
+  <string name="mimoji_gif_edit_title">GIF编辑</string>
+  <string name="mimoji_gif_reverse">倒放</string>
   <string name="mimoji_hairstyle">Cheveux</string>
   <string name="mimoji_headwear">Chapeaux</string>
   <string name="mimoji_mole">Moles</string>
@@ -419,7 +429,8 @@ regarder plus grand sur les photos"</string>
   <string name="mimoji_recapture_alert">Tous les changements seront annulés une fois que vous aurez recommencé. Recommencer quand même ?</string>
   <string name="mimoji_reset">Réinitialiser</string>
   <string name="mimoji_save">Enregistrer</string>
-  <string name="mimoji_save_success">Enregistré avec succès</string>
+  <string name="mimoji_save_finish">完成</string>
+  <string name="mimoji_save_success">形象保存成功</string>
   <string name="mimoji_selected">Sélectionner</string>
   <string name="mimoji_start_create">Création Mimoji…</string>
   <string name="mimoji_tips">Appuyez pour prendre une photo. Maintenez enfoncé pour enregistrer une vidéo.</string>
@@ -430,6 +441,7 @@ regarder plus grand sur les photos"</string>
   <string name="module_name_fun">Vidéo courte</string>
   <string name="module_name_fun_ar">Mimoji</string>
   <string name="module_name_manual">Manuel</string>
+  <string name="module_name_mimoji2">萌拍2</string>
   <string name="module_name_new_slow_motion">Ralenti</string>
   <string name="module_name_panorama">Panorama</string>
   <string name="module_name_pixel">48MP</string>
@@ -863,6 +875,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_watermark_on">Activé</string>
   <string name="pref_watermark_title">Filigrane</string>
   <string name="preparing_sd">Vérification carte SD…</string>
+  <string name="preview_back_pressed_hint">再按一次返回预览</string>
   <string name="recommend_macro_mode">Essayez le mode macro</string>
   <string name="recommend_portrait">Essayez le mode portrait</string>
   <string name="recommend_soft_light_tip">Activer le flash</string>
@@ -947,6 +960,7 @@ Le mode ultra grand angle vient vous aider lorsque vous ne pouvez pas vous éloi
   <string name="user_notice_identify_summary_format">"Avant d'utiliser l'appareil photo, vous devez accepter notre &lt;a href="http://www.miui.com/res/doc/eula.html?lang=en_US"&gt;Accord de l'utilisateur&lt;/a&gt; et &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=en_US"&gt;Politique de confidentialité&lt;/a&gt;. L'appareil photo doit également se connecter à internet pour fonctionner normalement. Vous acceptez ?"</string>
   <string name="user_notice_title">Termes et conditions</string>
   <string name="video_beauty_tip">Embellir les vidéos</string>
+  <string name="video_beauty_tip_beautification">Beautify</string>
   <string name="video_beauty_tip_filter">Filters</string>
   <string name="video_beauty_tip_portrait_bokeh">Bokeh</string>
   <string name="video_camera_label">Caméscope</string>
@@ -979,6 +993,11 @@ Le mode ultra grand angle vient vous aider lorsque vous ne pouvez pas vous éloi
 pour enregistrer et éditer des vidéos où que vous soyez"</string>
   <string name="vv_use_hint_text_title">VLOG</string>
   <string name="wait">Chargement…</string>
+  <string name="watermark_tab_city">city</string>
+  <string name="watermark_tab_festival">festival</string>
+  <string name="watermark_tab_general">general</string>
+  <string name="watermark_tab_scene">scene</string>
+  <string name="watermark_tab_spots">spots</string>
   <string name="wideselfie_press_shoot_key_to_start">"Appuyez sur le bouton de l'obturateur"</string>
   <string name="wideselfie_result_image_lossless">"Impossible de créer une prise de vue panoramique"</string>
   <string name="wideselfie_rotate_slowly">Faite pivoter le téléphone sur le côté</string>

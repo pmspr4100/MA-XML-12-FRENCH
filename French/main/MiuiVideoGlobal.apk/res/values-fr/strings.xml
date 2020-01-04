@@ -288,6 +288,7 @@ Send this code to the supervisor."</string>
   <string name="fw_loading">Chargement…</string>
   <string name="fw_reload_sub_title">"Appuyez sur l'écran pour réessayer"</string>
   <string name="fw_reload_title">Impossible de se connecter au réseau.</string>
+  <string name="gallery_fold_tags">Hide marks</string>
   <string name="gallery_folder_alias_TAOBAO">Taobao</string>
   <string name="gallery_folder_alias_camera">Appareil photo</string>
   <string name="gallery_folder_alias_download">Downloads</string>
@@ -320,6 +321,7 @@ Send this code to the supervisor."</string>
   <string name="gallery_video_operate_text">Slow-motion adjustments</string>
   <string name="gallery_video_save_video">Creating video…</string>
   <string name="gallery_video_slow_edit">Slow-motion</string>
+  <string name="gallery_view_tags">Show marks</string>
   <string name="get_back_pwd">Resetting password</string>
   <string name="get_ph_ticket">Obtenir un code</string>
   <string name="get_phone_bind_exceed_limit">"You can associate up to 3 Mi Accounts with a phone number. Can't add new accounts."</string>
@@ -348,11 +350,16 @@ for videos"</string>
   <string name="language_setting_tips_dialog">You can select language preferences for content in Account &gt; Language.</string>
   <string name="later">Later</string>
   <string name="loading">Chargement…</string>
+  <string name="local_push_title">Popular today</string>
   <string name="login">Se connecter</string>
   <string name="login_tip">Sign in to be able to receive our replies to your feedback.</string>
   <string name="logout">Se déconnecter</string>
   <string name="logout_account">Sign out</string>
   <string name="lp_base_folder">Stockage externe</string>
+  <string name="lp_play_mode_list_loop">Loop all</string>
+  <string name="lp_play_mode_pause">Play one</string>
+  <string name="lp_play_mode_single_loop">Loop one</string>
+  <string name="lp_play_mode_title">Playback mode</string>
   <string name="lp_speed_title">Vitesse de lecture</string>
   <string name="lp_speed_toast">Joué à la vitesse %sX …</string>
   <string name="lp_videoView_error_button">"C'est compris"</string>
@@ -373,6 +380,7 @@ for videos"</string>
   <string name="lv_audio_track">Son audio</string>
   <string name="lv_auto_update">Mettre à jour plus tard</string>
   <string name="lv_brightness">Luminosité</string>
+  <string name="lv_cast">Cast</string>
   <string name="lv_check_delete_file">Sélectionner les éléments à supprimer</string>
   <string name="lv_check_send_file">"Vous ne pouvez envoyer qu'un seul fichier à la fois"</string>
   <string name="lv_confirm_delete_history">Supprimer les éléments sélectionnés ?</string>
@@ -507,6 +515,7 @@ for videos"</string>
   <string name="next">Suivant</string>
   <string name="nick_name">Nickname</string>
   <string name="no_account">Not signed in</string>
+  <string name="no_more_content">"That's all for now"</string>
   <string name="no_network_tips">"Can't use this feature now. Network access is restricted."</string>
   <string name="no_recommend_data">pas de vidéo recommandée maintenant</string>
   <string name="no_phone">No phone number</string>

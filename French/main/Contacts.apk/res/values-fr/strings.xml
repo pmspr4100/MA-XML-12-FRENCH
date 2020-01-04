@@ -385,17 +385,17 @@ Les cartes de contact ont été désactivées"</string>
   <string name="device_paired_dialog_title">Obtention des contacts…</string>
   <string name="device_pairing_dialog_message">Appairage en cours…</string>
   <string name="device_pairing_dialog_title">"Appairage d'appareil"</string>
-  <string name="device_transfer_by_bluetooth_message">"1. Activer le Bluetooth sur l'autre appareil. 
+  <string name="device_transfer_by_bluetooth_message" formatted="false">"%d. Activer le Bluetooth sur l'autre appareil. 
 
 - Le bluetooth peut être trouvé dans les paramètres de réseau sur les appareils Android. 
 - Sur les appareils iOS, le Bluetooth se trouve dans Réglages. 
 
-2. Le mode Visibilité devrait aussi êre activé sur les appareil Android. 
+%d. Le mode Visibilité devrait aussi êre activé sur les appareil Android. 
 
-3. Appuyer sur \"Suivant\", et accorder à Contacts les autorisations requises."</string>
-  <string name="device_transfer_by_sim_message">"\"1. Enregistrer les contacts de l'autre appareil sur la carte SIM ; 
+%d. Appuyer sur \"Suivant\", et accorder à Contacts les autorisations requises."</string>
+  <string name="device_transfer_by_sim_message" formatted="false">"%d Enregistrer les contacts de l'autre appareil sur la carte SIM ; 
 
-2. Ouvrir les paramètres dans l'application Contacts, et puis aller à \"Importer/Exporter des contacts\" -- \"Importer de la carte SIM\", maintenir n'importe quel contact sur la carte SIM pour le sélectionner, sélectionner tous les contacts requis, puis appuyer sur \"Importer\".\""</string>
+%d. Ouvrir les paramètres dans l'application Contacts, et puis aller à \"Importer/Exporter des contacts\" -- \"Importer de la carte SIM\", maintenir n'importe quel contact sur la carte SIM pour le sélectionner, sélectionner tous les contacts requis, puis appuyer sur \"Importer\".\""</string>
   <string name="device_version_header_bluetooth">Importer par Bluetooth</string>
   <string name="device_version_header_no_bluetooth">Importer depuis la carte SIM</string>
   <string name="dial">Composer</string>
@@ -557,7 +557,7 @@ Raison: \"%s\""</string>
   <string name="import_from_sim2">Importer depuis la carte SIM 2</string>
   <string name="import_multiple_vcard_string">Importer plusieurs fichiers vCard</string>
   <string name="import_name">Nom</string>
-  <string name="import_one_vcard_string">Importer 1 fichier vCard</string>
+  <string name="import_one_vcard_string">Importer %d fichier vCard</string>
   <string name="import_selected_sim_entries_miui">Importer les contacts sélectionnés</string>
   <string name="import_sim_contacts_hint_title">Importer des contacts SIM</string>
   <string name="import_sim_entries_finish">Contacts importés depuis la carte SIM</string>
@@ -1037,7 +1037,7 @@ Pour commencer, appuyez sur l'icône Fusionner en bas de votre écran."</string>
   <string name="set_photo_failed_msg">"Impossible d'ajouter une photo"</string>
   <string name="share_contact_as">Partager le contact en tant que</string>
   <string name="share_error">Ce contact ne peut pas être partagé</string>
-  <string name="share_over_limit">Impossible de partager plus de 1000 contacts</string>
+  <string name="share_over_limit">Impossible de partager plus de %d contacts</string>
   <string name="share_qrcode">Partager QR code</string>
   <string name="share_via">Envoyer avec</string>
   <string name="share_visible_contacts">Partager les contacts</string>
@@ -1080,9 +1080,9 @@ Pour commencer, appuyez sur l'icône Fusionner en bas de votre écran."</string>
   <string name="smart_group_company_label">Entreprises</string>
   <string name="smart_group_company_unavailable">"Aucune info sur l'entreprise"</string>
   <string name="smart_group_frequency_1">Dans le dernier mois</string>
-  <string name="smart_group_frequency_2">1 à 3 mois</string>
-  <string name="smart_group_frequency_3">3 à 6 mois</string>
-  <string name="smart_group_frequency_4">Depuis plus de 6 mois</string>
+  <string name="smart_group_frequency_2" formatted="false">%d à %d mois</string>
+  <string name="smart_group_frequency_3" formatted="false">%d à %d mois</string>
+  <string name="smart_group_frequency_4">Depuis plus de %d mois</string>
   <string name="smart_group_frequency_label">Récents</string>
   <string name="smart_group_label">Regroupements intelligents</string>
   <string name="smart_group_loading">Chargement…</string>
@@ -1129,9 +1129,9 @@ Pour commencer, appuyez sur l'icône Fusionner en bas de votre écran."</string>
   <string name="t9_search_empty_send_sms">Envoyer un message</string>
   <string name="t9_search_empty_video_call">Appel vidéo</string>
   <string name="t9_search_guide_pinyin_title1">Entrez de numéros pour trouver des contacts</string>
-  <string name="t9_search_guide_pinyin_title2">Entrez \"9\" et \"4\" pour chercher \"<font fgcolor="">X</font>avier <font fgcolor="">H</font>enry\"</string>
+  <string name="t9_search_guide_pinyin_title2" formatted="false">Entrer %d et %d à rechercher &lt;font fgcolor=""&gt;X&lt;/font&gt;avier &lt;font fgcolor=""&gt;H&lt;/font&gt;enry</string>
   <string name="t9_search_guide_zhuyin_title1">Entrez de numéros pour trouver des contacts</string>
-  <string name="t9_search_guide_zhuyin_title2">Entrez \"2\" et \"3\" pour chercher \"<font fgcolor="">A</font>lan <font fgcolor="">F</font>rank\"</string>
+  <string name="t9_search_guide_zhuyin_title2" formatted="false">Entrer %d et %d à rechercher &lt;font fgcolor=""&gt;J&lt;/font&gt;eff &lt;font fgcolor=""&gt;M&lt;/font&gt;ax</string>
   <string name="take_new_photo">Prendre une nouvelle photo</string>
   <string name="take_photo">Prendre une photo</string>
   <string name="titleJoinContactDataWith">Fusionner les contacts</string>

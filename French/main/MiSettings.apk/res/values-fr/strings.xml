@@ -121,9 +121,11 @@
   <string name="usage_app_weekend_limit">Weekends</string>
   <string name="usage_beat_fans">Mieux que %s Mi Fans</string>
   <string name="usage_continuous_days">Jours continus</string>
+  <string name="usage_creating_weekly_report">Creating weekly report…</string>
   <string name="usage_exit">Quitter</string>
   <string name="usage_focus_focus_premission_main_summary">"Cette application doit accéder aux informations de votre compte pour enregistrer vos statistiques d'utilisation du mode Focus."</string>
   <string name="usage_focus_focus_premission_second_summary">"Si vous n'acceptez pas d'accorder de telles autorisations, vous ne pourrez pas utiliser certaines fonctionnalités de cette application. Cependant, ses fonctionnalités de base seront toujours disponibles. Vous pouvez toujours restreindre les autorisations ou révoquer votre autorisation dans les paramètres."</string>
+  <string name="usage_focus_new_summary">Become more mindful and focused</string>
   <string name="usage_focus_save_success">Enregistré dans la galerie avec succès</string>
   <string name="usage_focus_summary_level1">Il est facile de consacrer quelques minutes à rester concentré.</string>
   <string name="usage_focus_summary_level2">Se concentrer peut devenir une routine épanouissante.</string>
@@ -148,6 +150,11 @@ Pour pouvoir fonctionner normalement, cette application doit collecter des infor
 Cette application doit également se connecter à Internet et nécessite les autorisations suivantes pour collecter vos informations personnelles:"</string>
   <string name="usage_home_premission_second_summary">"Pour pouvoir travailler normalement, cette application doit collecter vos informations personnelles. Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité en vigueur."</string>
   <string name="usage_home_premission_second_summary_new">"Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité applicables. Si vous n'acceptez pas d'accorder de telles permissions ou de partager et de télécharger vos informations personnelles, vous ne pourrez pas utiliser cette application. Vous pouvez révoquer votre permissions dans Gestionnaires d'utilisations > Paramètres > Désactiver le temps d'utilisation. Si vous avez plus de questions sur la confidentialité, vous pouvez nous contacter à privacy@xiaomi.com."</string>
+  <string name="usage_no_net_summary">Check your network settings and try again</string>
+  <string name="usage_refresh">Try again</string>
+  <string name="usage_request_error_summary">An unknown error occurred</string>
+  <string name="usage_request_timeout_summary">Request timed out</string>
+  <string name="usage_special_feature">Special features</string>
   <string name="usage_state_accurate_date">dd MMMM, yyyy</string>
   <string name="usage_state_add_up_count">Sessions</string>
   <string name="usage_state_add_up_days">Jours</string>
@@ -194,7 +201,7 @@ Cette application doit également se connecter à Internet et nécessite les aut
   <string name="usage_state_friday">Ven</string>
   <string name="usage_state_go_more">"Plus d'applications"</string>
   <string name="usage_state_hour_minute">%1$d h %2$d m</string>
-  <string name="usage_state_less_one_minute">Moins de 1 minute</string>
+  <string name="usage_state_less_one_minute">&lt; 1 minute</string>
   <string name="usage_state_monday">Lun</string>
   <string name="usage_state_mourth_day">"Utilisé le %s"</string>
   <string name="usage_state_noti_mourth_day">Notifications le %s</string>
@@ -242,6 +249,8 @@ Cette application doit également se connecter à Internet et nécessite les aut
   <string name="usage_stats_week_day">Weekends</string>
   <string name="usage_total_days">Total jours</string>
   <string name="usage_total_times">Total sessions</string>
+  <string name="usage_weekly_report_summary">Learn how you spend time with your device</string>
+  <string name="usage_weekly_report_title">Weekly report</string>
   <string name="usagestats_app_category_miui_education">Éducation</string>
   <string name="usagestats_app_category_miui_entainment">Divertissement</string>
   <string name="usagestats_app_category_miui_financial">Finance</string>
