@@ -6,8 +6,12 @@
   <string name="abrupt_weather_settings_summary_type_a">Unusual Weather Warning Switch</string>
   <string name="abrupt_weather_settings_summary_type_b">Unusual Weather Warning Switch</string>
   <string name="abrupt_weather_settings_title">Unusual Weather Warning</string>
-  <string name="accessibility_ad_close">关闭推荐内容</string>
-  <string name="accessibility_webview_share">分享</string>
+  <string name="request_permission_location_dialog_content">Pour afficher les informations météorologiques pertinentes dans votre emplacement actuel</string>
+  <string name="request_permission_main_purpose">Affichage des informations météo</string>
+  <string name="request_permission_read_phone_state_dialog_content">Pour identifier votre appareil</string>
+  <string name="request_permission_storage_dialog_content">Pour partager les informations météo au format image</string>
+  <string name="accessibility_ad_close">Désactiver les recommandations</string>
+  <string name="accessibility_webview_share">Partager</string>
   <string name="act_find_city_hint">Saisir la ville</string>
   <string name="act_find_city_hot_attractions_title">Sites populaires</string>
   <string name="act_find_city_hot_city_title">Villes populaires</string>
@@ -20,13 +24,12 @@
   <string name="act_weather_find_city_no_result">Aucun résultat</string>
   <string name="act_weather_find_city_searching">Recherche…</string>
   <string name="activity_find_city_dialog_cancel">Annuler</string>
-  <string name="activity_find_city_dialog_message">Autorisez Météo à accéder à votre localisation pour obtenir des informations précises sur celle-ci.</string>
+  <string name="activity_find_city_dialog_message">Autorisez météo à accéder à votre localisation pour obtenir des informations précises sur celle-ci.</string>
   <string name="activity_find_city_dialog_message_global">Activez les services de localisation et laissez votre appareil déterminer lemplacement avec des réseaux sans fil.</string>
   <string name="activity_find_city_dialog_message_location_service">Pour obtenir des informations météorologiques pertinentes, autorisez Météo à accéder à votre position.</string>
   <string name="activity_find_city_dialog_set">Paramètres</string>
   <string name="activity_find_city_dialog_title">Accès à ma localisation</string>
   <string name="activity_main_pub_time">Publié à %1$s</string>
-  <string name="activity_main_time_format">E</string>
   <string name="activity_main_update_time">Mis à jour %1$s</string>
   <string name="activity_main_update_time_expire">Données expirées</string>
   <string name="activity_main_update_time_right_now">"à l'instant"</string>
@@ -76,7 +79,7 @@
   <string name="button_settings_confirm_to_revoke_msg">Vous ne pourrez plus utiliser Météo après avoir révoqué une autorisation.</string>
   <string name="button_settings_confirm_to_revoke_title">"Révoquer l'autorisation ?"</string>
   <string name="button_sure_abandon">Annuler les modifications ?</string>
-  <string name="card_item_ad_text">广告</string>
+  <string name="card_item_ad_text">Publicité</string>
   <string name="card_vote_item_vs">VS</string>
   <string name="change_alert">Vérifiez votre connexion réseau et réessayez</string>
   <string name="china_version_first_start_network_msg">Vous devez accepter %1$s et %2$s de Xiaomi pour pouvoir utiliser la météo. La météo doit accéder à votre localisation et se connecter à Internet pour fonctionner normalement. Accepter?</string>
@@ -147,11 +150,11 @@ Faites glisser vers le bas pour actualiser ou vérifier les paramètres réseau"
 Appuyer sur l'écran pour ajouter manuellement ou repositionner une ville"</string>
   <string name="location_provider_btn_text">Activer les services de localisation</string>
   <string name="location_tag">Localiser</string>
-  <string name="manager_city_option_add_city_back_search">Back to search</string>
-  <string name="manager_city_option_add_city_content">Added this city to start page successfully</string>
-  <string name="manager_city_option_add_city_title">Added successfully</string>
-  <string name="manager_city_option_add_home">Add to start page</string>
-  <string name="manager_city_option_view_on_home">View on start page</string>
+  <string name="manager_city_option_add_city_back_search">Retour à la recherche</string>
+  <string name="manager_city_option_add_city_content">Ajout de cette ville pour démarrer la page avec succès</string>
+  <string name="manager_city_option_add_city_title">Ajouté avec succès</string>
+  <string name="manager_city_option_add_home">Ajouter à la page de démarrage</string>
+  <string name="manager_city_option_view_on_home">Afficher sur la page de démarrage</string>
   <string name="menu_location">Villes</string>
   <string name="menu_speaker">Diffusion voix</string>
   <string name="minute_rain">Prévision de précipitation</string>
@@ -231,7 +234,7 @@ Appuyer sur l'écran pour ajouter manuellement ou repositionner une ville"</stri
   <string name="receive_net_mock_success">Net mock receive success</string>
   <string name="refresh_empty_data">"Impossible de charger les données. Attendez une minute ou deux et réessayez."</string>
   <string name="refresh_fail">Impossible de se connecter au réseau</string>
-  <string name="reminder_from_xiaomi_weather_app">Alerte Météo Mi</string>
+  <string name="reminder_from_xiaomi_weather_app">Alerte Mi météo</string>
   <string name="retry">Veuillez réessayer</string>
   <string name="search_weather">Météo</string>
   <string name="search_weather_keywords">"Température;Prévisions météorologiques;Météo;qualité de l'air;Degré de pollution;Humidité"</string>
@@ -279,15 +282,15 @@ Appuyer sur l'écran pour ajouter manuellement ou repositionner une ville"</stri
   <string name="warning_weather_day_and_night_settings_title">Résumés quotidiens</string>
   <string name="weather_alert_channel_name">Alertes</string>
   <string name="weather_introduce">Toujours avec toi, quil pleuve ou quil vente.</string>
-  <string name="weather_list_info">相关资讯</string>
-  <string name="weather_list_title">天气头条</string>
+  <string name="weather_list_info">Informations connexes</string>
+  <string name="weather_list_title">Titres météo</string>
   <string name="weather_permission_agree">Accepter</string>
   <string name="weather_service_channel_name">Services darrière-plan</string>
   <string name="widget_cta_not_agree">Cliquez pour obtenir des informations météo</string>
   <string name="wind_direction_no_data">Vent</string>
   <string name="wind_unit">%1$s km/h</string>
-  <string name="xiaomi_weather_description_content">"L'application Météo vous fournit des infos météorologiques avec précision. Sans cette application, la Barre d'État et le widget de météo ne fonctionneront pas correctement. Assurez-vous que vous pouvez vous passer de ces foncitonnalités avant de désinstaller l'application."</string>
-  <string name="xiaomi_weather_description_title">À propos de Météo</string>
+  <string name="xiaomi_weather_description_content">"L'application météo vous fournit des infos météorologiques avec précision. Sans cette application, la Barre d'État et le widget de météo ne fonctionneront pas correctement. Assurez-vous que vous pouvez vous passer de ces foncitonnalités avant de désinstaller l'application."</string>
+  <string name="xiaomi_weather_description_title">À propos de météo</string>
   <string name="yes_vote_ratio">Pour %1$s%%</string>
   <string name="your_location">Votre localisation</string>
 </resources>
