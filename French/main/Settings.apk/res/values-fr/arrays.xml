@@ -222,21 +222,6 @@
     </string-array>
     <string-array name="bearer_entries">
       <item>Non spécifié</item>
-      <item>LTE</item>
-      <item>HSPAP</item>
-      <item>3G+</item>
-      <item>HSUPA</item>
-      <item>HSDPA</item>
-      <item>UMTS</item>
-      <item>EDGE</item>
-      <item>GPRS</item>
-      <item>eHRPD</item>
-      <item>EVDO_B</item>
-      <item>EVDO_A</item>
-      <item>EVDO_0</item>
-      <item>1xRTT</item>
-      <item>IS95B</item>
-      <item>IS95A</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_aptxadaptive_mode_summaries">
       <item>Mode haute qualité (par défaut)</item>
@@ -348,9 +333,6 @@
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
       <item>AVRCP 1.4 (par défaut)</item>
-      <item>AVRCP 1.3</item>
-      <item>AVRCP 1.5</item>
-      <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="bluetooth_max_connected_audio_devices">
       <item>Utiliser la valeur par défaut du système: %1$d</item>
@@ -362,11 +344,11 @@
       <item>Aucun délai</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_entries">
-        <item>Désactivé</item>
-        <item>Activé filtre</item>
-        <item>Activé</item>
-        <item>Activé \"En-têtes filtrés\"</item>
-        <item>Activé \"Paquets multimédias filtrés\"</item>
+      <item>Désactivé</item>
+      <item>Activé filtre</item>
+      <item>Activé</item>
+      <item>Activé \"En-têtes filtrés\"</item>
+      <item>Activé \"Paquets multimédias filtrés\"</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
       <item>1 seconde</item>
@@ -974,13 +956,9 @@ Note : seulement pour Ubuntu 8.04 !"</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
       <item>Aucun</item>
-      <item>480p</item>
       <item>480p (sécurisé)</item>
-      <item>720p</item>
       <item>720p (sécurisé)</item>
-      <item>1080p</item>
       <item>1080p (sécurisé)</item>
-      <item>4K</item>
       <item>4K (sécurisé)</item>
       <item>4K (améliorée)</item>
       <item>4K (améliorée, sécurisé)</item>
@@ -1102,9 +1080,6 @@ Note : seulement pour Ubuntu 8.04 !"</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
       <item>Désactivé</item>
-      <item>64K</item>
-      <item>256K</item>
-      <item>1M</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
       <item>Désactivé</item>
@@ -1116,11 +1091,6 @@ Note : seulement pour Ubuntu 8.04 !"</item>
     </string-array>
     <string-array name="select_logd_size_titles">
       <item>Désactivé</item>
-      <item>64K</item>
-      <item>256K</item>
-      <item>1M</item>
-      <item>4M</item>
-      <item>16M</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
       <item>Désactivé</item>
@@ -1320,23 +1290,12 @@ Note : seulement pour Ubuntu 8.04 !"</item>
     </string-array>
     <string-array name="wifi_peap_phase2_entries">
       <item>Aucun</item>
-      <item>MSCHAPV2</item>
-      <item>GTC</item>
     </string-array>
     <string-array name="wifi_peap_phase2_entries_with_sim_auth">
-      <item>Aucune</item>
-      <item>MSCHAPV2</item>
-      <item>GTC</item>
-      <item>SIM</item>
-      <item>AKA</item>
-      <item>"AKA'"</item>
+      <item>Aucun</item>
     </string-array>
     <string-array name="wifi_phase2_entries">
       <item>Aucun</item>
-      <item>PAP</item>
-      <item>MSCHAP</item>
-      <item>MSCHAPV2</item>
-      <item>GTC</item>
     </string-array>
     <string-array name="wifi_proxy_settings">
       <item>Aucun</item>
