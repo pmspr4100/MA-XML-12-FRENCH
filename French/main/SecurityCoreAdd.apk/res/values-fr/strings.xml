@@ -163,8 +163,8 @@ Certaines applications clônées nécessitent la prise en charge des Framework d
   <string name="switch_to_second_space">Aller dans le deuxième espace</string>
   <string name="switch_to_first_space">Aller dans le premier espace</string>
   <string name="click_to_back_first_space">Appuyer pour retourner dans le premier espace</string>
-  <string name="click_to_switch">Appuyez pour voir</string>
-  <string name="confirm_main_space_password">Confirmer le mot de passe du premier Espace</string>
+  <string name="click_to_switch">Appuyez pour afficher</string>
+  <string name="confirm_main_space_password">Confirmer le mot de passe du premier espace</string>
   <string name="create_space_loading">Création du deuxième espace…</string>
   <string name="close_second_space">Deuxième espace supprimé</string>
   <string name="close_second_space_success">Deuxième espace supprimé</string>
@@ -471,16 +471,18 @@ contrôler les applications installées et restreindre l'utilisation"</string>
   <string name="undo_privacy_menu">Révoquer lautorisation</string>
   <string name="more_settings">Plus</string>
   <string name="undo_success">Révoqué avec succès</string>
-  <string name="master_clear_apply_title">Attention</string>
   <string name="button_text_next_step">Suivant</string>
   <string name="button_text_next_step_timer">Étape suivante (%d)</string>
-  <string name="dialog_tip_need_network">Votre appareil doit se connecter à Internet pour révoquer lautorisation.</string>
+  <string name="dialog_tip_need_network">"Votre appareil doit se connecter à internet pour révoquer l'autorisation."</string>
   <string name="dialog_undo_negative">Ne pas révoquer</string>
   <string name="dialog_title_service_error">Erreur du serveur</string>
-  <string name="dialog_message_service_error">Impossible de révoquer lautorisation et deffectuer une réinitialisation des données dusine. Réessayez</string>
+  <string name="dialog_message_service_error">"Impossible de révoquer l'autorisation et deffectuer une réinitialisation des données dusine. Réessayez"</string>
   <string name="dialog_verify">Vérifiez votre empreinte digitale</string>
   <string name="dialog_verify_fingerprint_retry">"Impossible de vérifier l'empreinte digitale. Veuillez réessayer."</string>
   <string name="button_touch">Placez votre doigt sur le capteur</string>
   <string name="button_input_password">Saisir le mot de passe</string>
+  <string name="master_clear_apply_title">Attention</string>
   <string name="master_clear_not_available">"La réinitialisation d'usine est limitée par votre société."</string>
+  <string name="master_clear_apply_step_1">"Pour révoquer l'autorisation, vous devez effectuer une réinitialisation des données d'usine sur votre appareil. Cette opération effacera définitivement tous les fichiers et données, y compris les comptes, les contacts, les photos et les applications. Sauvegardez tous les éléments importants sur votre ordinateur avant de révoquer l'autorisation."</string>
+  <string name="master_clear_apply_step_2">"Assurez-vous d'avoir sauvegardé tous les éléments importants sur votre ordinateur. Après avoir appuyé sur "OK", une réinitialisation des données d'usine sera effectuée sur votre appareil, effaçant définitivement tous les fichiers et données, y compris les comptes, les contacts, les photos et les applications."</string>
 </resources>

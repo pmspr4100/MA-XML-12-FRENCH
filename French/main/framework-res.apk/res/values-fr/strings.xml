@@ -109,7 +109,7 @@
   <string name="dump_heap_system_text">Le processus %1$s a dépassé sa limite de mémoire de %2$s. Un dump de tas est disponible pour que vous puissiez le partager. Attention : ce tas peut contenir toute information personnelle sensible à laquelle le processus a accès, ce qui peut inclure des choses que vous avez tapées.</string>
   <string name="dynamic_mode_notification_channel_name">"Avis d'information en mode de routine"</string>
   <string name="dynamic_mode_notification_summary">Économiseur de batterie activé pour prolonger la durée de vie de la batterie</string>
-  <string name="dynamic_mode_notification_title">La batterie peut s'épuiser avant la charge habituelle</string>
+  <string name="dynamic_mode_notification_title">"La batterie peut s'épuiser avant la charge habituelle"</string>
   <string name="ext_media_seamless_action">Sortie de commutation</string>
   <string name="face_acquired_insufficient">Impossible de saisir des données précises sur le visage. Essayez encore.</string>
   <string name="face_acquired_not_detected">Je ne peux pas voir ton visage. Regarde le téléphone.</string>
@@ -199,7 +199,7 @@
   <string name="permlab_audioWrite">modifier votre collection de musique</string>
   <string name="permlab_callCompanionApp">voir et contrôler les appels par le biais du système.</string>
   <string name="permlab_imagesWrite">modifier votre collection de photos</string>
-  <string name="permlab_manageFace">gérer le matériel d'authentification du visage</string>
+  <string name="permlab_manageFace">"gérer le matériel d'authentification du visage"</string>
   <string name="permlab_mediaLocation">lire les emplacements de votre collection de médias</string>
   <string name="permlab_requestPasswordComplexity">"complexité du verrouillage de l'écran de demande"</string>
   <string name="permlab_startViewPermissionUsage">"démarrer l'utilisation des permissions d'affichage"</string>
