@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <plurals name="dialog_content_delete_image_confirm">
+        <item quantity="other">Delete %d photos?</item>
+        <item quantity="one">Delete %d photo?</item>
+     </plurals>
+     <plurals name="dialog_content_delete_image_from_all_devices_confirm">
+        <item quantity="other">Delete %1$s photos from all devices?</item>
+        <item quantity="one">Delete %1$s photo from all devices?</item>
+     </plurals>
+</resources>
