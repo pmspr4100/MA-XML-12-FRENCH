@@ -37,6 +37,9 @@
   <string name="incall_error_supp_service_reject">"Impossible de rejeter l'appel."</string>
   <string name="incall_error_supp_service_hangup">"Impossible de raccrocher l'appel."</string>
   <string name="incall_error_supp_service_hold">Impossible de mettre les appels en attente.</string>
+  <string name="incoming_circle_text_video_answer">Relâchez pour répondre à la vidéo</string>
+  <string name="incoming_circle_text_video_answer_p">Glissez vers le haut pour répondre à la vidéo</string>
+  <string name="manager_conference_done">Terminer</string>
   <string name="onscreen_add_call_text">Ajouter un appel</string>
   <string name="onscreen_audio_mode_bluetooth">Bluetooth</string>
   <string name="onscreen_audio_mode_conference">Conférence</string>
@@ -57,7 +60,7 @@
   <string name="conference_call_single_description" formatted="false">%s etc. Total %s</string>
   <string name="separate_from_conference">Séparer les appels</string>
   <string name="caller_manage_header">Conférence %s</string>
-  <string name="incall_call_type_label_sip">Appel Internet</string>
+  <string name="incall_call_type_label_sip">Appel internet</string>
   <string name="incoming_call_forwarded_title">Transférer les appels entrants</string>
   <string name="card_title_dialing">Appel en cours</string>
   <string name="card_title_conf_call">Conférence téléphonique</string>
