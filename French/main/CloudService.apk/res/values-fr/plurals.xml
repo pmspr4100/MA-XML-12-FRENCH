@@ -41,16 +41,16 @@
         <item quantity="one">%d élément du navigateur</item>
     </plurals>
     <plurals name="dirty_calendar_count">
-        <item quantity="other">"%d éléments de l'Agenda"</item>
-        <item quantity="one">"%d élément de l'Agenda"</item>
+        <item quantity="other">"%d éléments du calendrier"</item>
+        <item quantity="one">"%d élément du calendrier"</item>
     </plurals>
     <plurals name="dirty_blocklist_count">
-        <item quantity="other">%d entrées de la Liste noire</item>
-        <item quantity="one">%d entrée de la Liste noire</item>
+        <item quantity="other">%d entrées de la liste noire</item>
+        <item quantity="one">%d entrée de la liste noire</item>
     </plurals>
     <plurals name="dirty_personalAssistant_count">
-        <item quantity="other">"%d entrées du Coffre d'applications"</item>
-        <item quantity="one">"%d entrée du Coffre d'applications"</item>
+        <item quantity="other">"%d entrées du coffre d'applications"</item>
+        <item quantity="one">"%d entrée du coffre d'applications"</item>
     </plurals>
     <plurals name="dirty_phrase_count">
         <item quantity="other">%d phrases fréquentes</item>
@@ -75,5 +75,9 @@
     <plurals name="provision_sync_items_status_title">
         <item quantity="other">%s services seront synchronisés avec Xiaomi Cloud</item>
         <item quantity="one">%s service sera synchronisé avec Xiaomi Cloud</item>
+    </plurals>
+    <plurals name="select_no_more_than">
+        <item quantity="other">Impossible de sélectionner plus de %d fichiers</item>
+        <item quantity="one">Impossible de sélectionner plus %d fichier</item>
     </plurals>
 </resources>

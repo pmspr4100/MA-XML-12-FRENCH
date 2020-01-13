@@ -149,6 +149,7 @@
   <string name="error_file_already_exists">Ce fichier existe déjà</string>
   <string name="error_filename_too_long">Le nom du fichier que vous avez entré est trop long.</string>
   <string name="error_folder_already_exists">Ce fichier existe déjà</string>
+  <string name="error_hint_copy_folder_to_self_or_sub">Impossible de déplacer ou de copier des dossiers vers eux-mêmes ou leurs sous-dossiers</string>
   <string name="error_info_cant_send_folder">"Impossible d'envoyer les dossiers."</string>
   <string name="error_invalid_path">"Chemin d'accès non valide"</string>
   <string name="error_not_support">Non pris en charge</string>
@@ -169,7 +170,7 @@
   <string name="file_info_size">Taille: </string>
   <string name="file_loading">Chargement…</string>
   <string name="file_name_invalid">Les noms de dossiers ne peuvent contenir ces caractères: /\\:*?&lt;></string>
-  <string name="file_not_exist">"File doesn't exist"</string>
+  <string name="file_not_exist">"Le fichier n'existe pas"</string>
   <string name="folder_name_empty">Le nom de dossier ne peut être vide</string>
   <string name="folder_name_illegal">Nom de dossier incorrect</string>
   <string name="found_router">Routeur connecté</string>

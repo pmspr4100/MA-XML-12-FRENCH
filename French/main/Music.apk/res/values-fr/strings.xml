@@ -130,6 +130,7 @@
   <string name="button_wait_for_wifi">En attente</string>
   <string name="cancel">Annuler</string>
   <string name="cancel_running_download">Annuler</string>
+  <string name="cannot_download_to_sdcard_hint">"Impossible de télécharger des éléments sur la carte SD en raison de restrictions de droits d'auteur. Les éléments seront téléchargés sur le stockage interne à la place."</string>
   <string name="change_download_quality">Changer la qualité de téléchargement</string>
   <string name="character_counter_content_description">Limite de caractères dépassée %1$d à %2$d</string>
   <string name="checking_new_version">Vérification des updates…</string>
@@ -162,6 +163,7 @@
   <string name="connecting_apk">Connexion…</string>
   <string name="create_playlist">Créer une playlist</string>
   <string name="create_playlist_failure">Impossible de créer la playlist</string>
+  <string name="create_playlist_input_hint">Entrez le nom de la playlist</string>
   <string name="current_album">"Couverture de l'album actuel"</string>
   <string name="current_lyric">Paroles actuelles</string>
   <string name="current_version">Version actuelle</string>
@@ -608,6 +610,7 @@
   <string name="online_apk_install_in_background">Chargement de contenu en ligne en arrière-plan…</string>
   <string name="online_apk_install_network_change_paused">"Vous utilisez des données mobiles. Mise en pause des éléments pour le moment. Appuyez sur %s pour afficher."</string>
   <string name="online_apk_install_network_error">"Impossible de se connecter au réseau. Vérifiez vos paramètres réseau et réessayez."</string>
+  <string name="online_apk_install_tips">"Vous devez télécharger le plug-in de ce fournisseur de contenu une fois. Vous pourrez accéder directement aux chansons la prochaine fois."</string>
   <string name="online_list_delete_message">Toutes les chansons téléchargées dans cette playlist seront supprimées de votre stockage interne.</string>
   <string name="online_music_joox">JOOX</string>
   <string name="online_music_yandex">Yandex</string>
@@ -636,6 +639,7 @@
   <string name="payment_success_message">Merci ! Votre paiement a été traité avec succès. Profitez des services PRO.</string>
   <string name="payment_success_title">Félicitations !</string>
   <string name="pending_apk">En attente…</string>
+  <string name="periodic_dump_memory_profile">周期性抓内存镜像log</string>
   <string name="permission_declaration_message">"Autoriser l'accès au stockage dans Sécurité > Permissions > Autorisations > Stockage > Musique pour utiliser Musique normalement."</string>
   <string name="permission_declaration_negative_text">Plus tard</string>
   <string name="permission_declaration_positive_text">Aller à Sécurité</string>

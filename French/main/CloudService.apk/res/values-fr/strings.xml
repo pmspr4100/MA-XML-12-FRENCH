@@ -47,6 +47,9 @@
   <string name="mx_sub_dspt_provision">Mi Message</string>
   <string name="mx_sub_dspt_provision_with_voip">Appel internet</string>
   <string name="phone_number_required_dspt_provision">"Ce service nécessite votre numéro de téléphone. "</string>
+  <string name="picker_list_empty">Aucun contact ici</string>
+  <string name="picker_search_empty">Impossible de trouver des contacts</string>
+  <string name="picker_search_hint">Recherche</string>
   <string name="pre_privacy_policy">Politique de confidentialité</string>
   <string name="pre_user_agreement">"Accord de l'utilisateur"</string>
   <string name="sync_dspt_provision">"Synchroniser vos photos, contacts, notes, et plus sur tous vos appareils ou y accéder sur "</string>
@@ -122,7 +125,9 @@ Localisez et verrouillez votre appareil en cas de perte. "</string>
   <string name="cloud_storage_no_data">"Pas encore d'éléments dans le cloud"</string>
   <string name="cloudservice_new_sync">Synchroniser %s avec Xiaomi Cloud</string>
   <string name="click_to_enabled">Appuyez pour synchroniser.</string>
-  <string name="calendar_sync">Agenda</string>
+  <string name="calendar_sync">Calendrier</string>
+  <string name="check_contact">Ajouter</string>
+  <string name="choose_contact_title">Contacts</string>
   <string name="antispam_sync">Paramètres du mode Ne pas déranger</string>
   <string name="micloud_space_duokan_title">Duokan</string>
   <string name="micloud_space_duokan_detail">"Télécharger et gérer les e-books avec l'application Duokan."</string>
@@ -320,6 +325,7 @@ sur votre compte Mi pour réactiver Xiaomi Cloud."</string>
   <string name="data_merge_dialog_loading">Verifying data…</string>
   <string name="data_protection_title">Protéger les données</string>
   <string name="soundrecorder_sync_records">Synchroniser avec Xiaomi Cloud</string>
+  <string name="starred_contact">Favoris</string>
   <string name="storage_manage_expansion">Avoir plus</string>
   <string name="storage_manage_list_title">Données cloud</string>
   <string name="storage_manage_list_title_action">Afficher plus</string>

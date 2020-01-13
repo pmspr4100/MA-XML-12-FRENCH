@@ -47,7 +47,6 @@
   <string name="accessibility_intent_done_retry">Réessayez</string>
   <string name="accessibility_lighting_panel_off">"La barre d'éclairage de studio est cachée"</string>
   <string name="accessibility_lighting_panel_on">"Affichage de la barre d'éclairage de studio"</string>
-  <string name="color_enhance_mode">Mode coloré</string>
   <string name="location_access_allow">Permettre</string>
   <string name="photo_assistance_tips_title">Conseils en direct</string>
   <string name="accessibility_more">Plus</string>
@@ -102,9 +101,6 @@
 et ajustez les préférences automatiquement"</string>
   <string name="ai_scene_top_moon_off">Mode faible luminosité</string>
   <string name="ai_scene_top_tip">Mode lune</string>
-  <string name="ai_watermark_title">Filigrane IA</string>
-  <string name="ai_watermark_toast_off">Filigrane AI désactivé</string>
-  <string name="ai_watermark_toast_on">Filigrane AI activé</string>
   <string name="audio_focus_exit_button_text">Désactiver le focus audio</string>
   <string name="autozoom_click_hint">"Appuyez sur un objet pour le maintenir au point lorsqu'il est en mouvement. Restez à au moins 3 mètres pour un meilleur effet."</string>
   <string name="autozoom_disabled_hint">"Arrêt du suivi d'un objet en mouvement"</string>
@@ -181,6 +177,7 @@ et ajustez les préférences automatiquement"</string>
   <string name="color_effect_live_solar">Bleu ciel</string>
   <string name="color_effect_live_years">Sépia</string>
   <string name="color_enhance">Coloré</string>
+  <string name="color_enhance_mode">Mode coloré</string>
   <string name="config_name_group">Groupe selfie</string>
   <string name="config_name_hht">HHT</string>
   <string name="config_name_magic">Magique</string>
@@ -216,9 +213,9 @@ et ajustez les préférences automatiquement"</string>
   <string name="do_not_remind_me">"Ne plus afficher"</string>
   <string name="document_blackwhite">Noir et blanc</string>
   <string name="document_blur_warn">Le texte est flou</string>
-  <string name="document_mode_use_hint_text_body">"Alignez et améliorez
-documents numérisés automatiquement"</string>
-  <string name="document_mode_use_hint_text_title">Numériser des documents</string>
+  <string name="document_mode_use_hint_text_body">"Activez la prise de vue en mode document, la correction intelligente et l'amélioration
+Numérisez des documents en un clic"</string>
+  <string name="document_mode_use_hint_text_title">Mode document</string>
   <string name="document_origin">Originale</string>
   <string name="document_strengthen">Renforcé</string>
   <string name="dual_camera_lens_covered_toast">La lentille est couverte.</string>
@@ -242,6 +239,7 @@ documents numérisés automatiquement"</string>
   <string name="edit_skin_white">Ton</string>
   <string name="edit_slim_nose">Nez</string>
   <string name="edit_smile">Sourire</string>
+  <string name="emoticon">Émoticône</string>
   <string name="error_fail_to_start_audio_capture">"Impossible de démarrer la capture audio"</string>
   <string name="eye_light">Éclat des yeux</string>
   <string name="eye_light_angel">Ange</string>
@@ -381,7 +379,6 @@ regarder plus grand sur les photos"</string>
   <string name="mimoji_check_no_face">Visage non reconnu</string>
   <string name="mimoji_check_normal">"Appuyez sur le bouton de l'appareil photo"</string>
   <string name="mimoji_confirm">OK</string>
-  <string name="mimoji_create_emoticon">Générez des émoticônes en un clic</string>
   <string name="mimoji_create_tips">"Regardez directement dans l'appareil photo pour créer votre Mimoji"</string>
   <string name="mimoji_delete">&lt;font fgcolor="#ffff0000"&gt;Supprimer&lt;/font&gt;</string>
   <string name="mimoji_delete_dialog_title">Supprimer Mimoji ?</string>
@@ -414,11 +411,6 @@ regarder plus grand sur les photos"</string>
   <string name="mimoji_featured_face">Face</string>
   <string name="mimoji_fragment_tab_name">Mimoji</string>
   <string name="mimoji_freckle">Taches de rousseur</string>
-  <string name="mimoji_gif_accelerate">Accélérez</string>
-  <string name="mimoji_gif_clear_bg">Aller en arrière-plan</string>
-  <string name="mimoji_gif_edit_hint">Cliquez pour ajouter du texte</string>
-  <string name="mimoji_gif_edit_title">Édition GIF</string>
-  <string name="mimoji_gif_reverse">"À l'envers"</string>
   <string name="mimoji_hairstyle">Cheveux</string>
   <string name="mimoji_headwear">Chapeaux</string>
   <string name="mimoji_mole">Moles</string>
@@ -432,8 +424,7 @@ regarder plus grand sur les photos"</string>
   <string name="mimoji_recapture_alert">Tous les changements seront annulés une fois que vous aurez recommencé. Recommencer quand même ?</string>
   <string name="mimoji_reset">Réinitialiser</string>
   <string name="mimoji_save">Enregistrer</string>
-  <string name="mimoji_save_finish">Terminé</string>
-  <string name="mimoji_save_success">Image enregistrée avec succès</string>
+  <string name="mimoji_save_success">Enregistré avec succès</string>
   <string name="mimoji_selected">Sélectionner</string>
   <string name="mimoji_start_create">Création Mimoji…</string>
   <string name="mimoji_tips">Appuyez pour prendre une photo. Maintenez enfoncé pour enregistrer une vidéo.</string>
@@ -444,7 +435,6 @@ regarder plus grand sur les photos"</string>
   <string name="module_name_fun">Vidéo courte</string>
   <string name="module_name_fun_ar">Mimoji</string>
   <string name="module_name_manual">Manuel</string>
-  <string name="module_name_mimoji2">萌拍2</string>
   <string name="module_name_new_slow_motion">Ralenti</string>
   <string name="module_name_panorama">Panorama</string>
   <string name="module_name_pixel">48MP</string>
@@ -878,7 +868,6 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_watermark_on">Activé</string>
   <string name="pref_watermark_title">Filigrane</string>
   <string name="preparing_sd">Vérification carte SD…</string>
-  <string name="preview_back_pressed_hint">"Appuyez à nouveau pour revenir à l'aperçu"</string>
   <string name="recommend_macro_mode">Essayez le mode macro</string>
   <string name="recommend_portrait">Essayez le mode portrait</string>
   <string name="recommend_soft_light_tip">Activer le flash</string>
@@ -891,6 +880,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="screen_on_proximity_sensor_summary">"Ne couvrez pas la zone des écouteurs"</string>
   <string name="search_settings">"Paramètres appareil photo;Qualité;Qualité de l'image;Localisation de l'image;Détection de visage;Son de l'appareil photo"</string>
   <string name="see_qrcode_detals">Afficher les détails du QR code</string>
+  <string name="share">Partager</string>
   <string name="simple_mode_button_asd_flash">Désactiver la capture avec flash</string>
   <string name="simple_mode_button_asd_hdr">Désactiver la capture HDR</string>
   <string name="simple_mode_button_text_audio_capture">Désactiver le déclencheur vocal</string>
@@ -996,11 +986,6 @@ Le mode ultra grand angle vient vous aider lorsque vous ne pouvez pas vous éloi
 pour enregistrer et éditer des vidéos où que vous soyez"</string>
   <string name="vv_use_hint_text_title">VLOG</string>
   <string name="wait">Chargement…</string>
-  <string name="watermark_tab_city">ville</string>
-  <string name="watermark_tab_festival">festival</string>
-  <string name="watermark_tab_general">générale</string>
-  <string name="watermark_tab_scene">scène</string>
-  <string name="watermark_tab_spots">tâches</string>
   <string name="wideselfie_press_shoot_key_to_start">"Appuyez sur le bouton de l'obturateur"</string>
   <string name="wideselfie_result_image_lossless">"Impossible de créer une prise de vue panoramique"</string>
   <string name="wideselfie_rotate_slowly">Faite pivoter le téléphone sur le côté</string>
