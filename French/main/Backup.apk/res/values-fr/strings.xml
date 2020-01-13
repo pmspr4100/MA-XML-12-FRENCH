@@ -624,7 +624,7 @@ Les données qui n'ont pas été importées doivent être importées encore."</s
   <string name="perm_read_contacts">Lire les contacts</string>
   <string name="perm_location">Localisation</string>
   <string name="perm_read_phone_state">"Connaître l'état du téléphone"</string>
-  <string name="perm_read_call_log">"Voir l'historique des appels"</string>
+  <string name="perm_read_call_log">"Afficher l'historique des appels"</string>
   <string name="perm_read_sms">Lire les SMS</string>
   <string name="perm_storage">Lire et écrire sur un support de stockage externe</string>
   <string name="phone_title">Paramètres du téléphone</string>
@@ -651,4 +651,7 @@ Ne récupérez que les éléments importants pour aller plus vite."</string>
 Libérez de l'espace ou faites plusieurs transferts plus petits."</string>
   <string name="usb_trans_old_phone_low_space_title">Espace de stockage insuffisant</string>
   <string name="usb_trans_old_phone_low_space_msg">"De l'espace supplémentaire est nécessaire pour préparer vos sauvegardes. Il n'y a pas assez d'espace de stockage pour continuer le transfert. Vous pouvez libérer de l'espace et supprimer les fichiers inutiles dans l'appli Sécurité, ou essayer de ne transférer que les éléments importants."</string>
+  <string name="xiaomi_bytes_unit">"%1$s o"</string>
+  <string name="xiaomi_kilobytes_unit">%1$s Ko</string>
+  <string name="xiaomi_megabytes_unit">%1$s Mo</string>
 </resources>
