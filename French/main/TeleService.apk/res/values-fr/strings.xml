@@ -195,9 +195,9 @@
   <string name="bluetooth_pairing_pin_error_message">"Impossible d'établir l'association avec %1$s en raison d'un code ou d'une clé d'accès incorrects."</string>
   <string name="bluetooth_pairing_rejected_error_message">Association refusée par %1$s</string>
   <string name="bluetooth_pairing_will_share_phonebook">"L'association vous permet d'accéder à vos contacts et à l'historique des appels lorsque vous êtes connecté."</string>
-  <string name="bluetooth_pan_nap_profile_summary_connected">Connexion Internet locale partagée</string>
-  <string name="bluetooth_pan_profile_summary_use_for">"Utiliser pour l'accès à Internet"</string>
-  <string name="bluetooth_pan_user_profile_summary_connected">"Connecté à l'appareil pour accès Internet"</string>
+  <string name="bluetooth_pan_nap_profile_summary_connected">Connexion internet locale partagée</string>
+  <string name="bluetooth_pan_profile_summary_use_for">"Utiliser pour l'accès à internet"</string>
+  <string name="bluetooth_pan_user_profile_summary_connected">"Connecté à l'appareil pour accès internet"</string>
   <string name="bluetooth_profile_a2dp">Multimédia</string>
   <string name="bluetooth_profile_a2dp_high_quality">Audio HD: %1$s</string>
   <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Audio HD</string>
@@ -206,8 +206,8 @@
   <string name="bluetooth_profile_hid">"Périphérique d'entrée"</string>
   <string name="bluetooth_profile_map">SMS</string>
   <string name="bluetooth_profile_opp">Transfert de fichier</string>
-  <string name="bluetooth_profile_pan">Accès Internet</string>
-  <string name="bluetooth_profile_pan_nap">Partage de connexion Internet</string>
+  <string name="bluetooth_profile_pan">Accès internet</string>
+  <string name="bluetooth_profile_pan_nap">Partage de connexion internet</string>
   <string name="bluetooth_profile_pbap">Partage de contacts</string>
   <string name="bluetooth_profile_pbap_summary">Utiliser pour le partage de contacts</string>
   <string name="bluetooth_profile_sap">Accès à la carte SIM</string>
@@ -945,6 +945,7 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="mmiStarted">Code MMI démarré</string>
   <string name="mobile_advanced_dns_server_title">Adresse du serveur DNS</string>
   <string name="mobile_advanced_ip_address_title">Adresse IP</string>
+  <string name="mobile_advanced_nr_network_title">Type de réseau 5G</string>
   <string name="mobile_connection_management">Gérer la connexion au réseau cellulaire</string>
   <string name="mobile_data_activate_button">AJOUTER DES DONNÉES</string>
   <string name="mobile_data_activate_cancel_button">Annuler</string>
@@ -1055,7 +1056,7 @@ Le réseau préféré sera utilisé."</string>
   <string name="no_application">Aucune</string>
   <string name="no_change">"Aucune modification n'a été apportée."</string>
   <string name="no_checked_network">Vous ne serez plus en mesure de vous connecter au réseau mobile et effectuer des appels. Sélectionner un autre réseau ?</string>
-  <string name="no_internet_available">"Pour passer un appel SIP, vérifiez tout d'abord la connexion Internet."</string>
+  <string name="no_internet_available">"Pour passer un appel SIP, vérifiez tout d'abord la connexion internet."</string>
   <string name="no_vm_number">Numéro de messagerie vocale manquant</string>
   <string name="no_vm_number_msg">Pas de numéro de messagerie vocale enregistré dans la carte SIM.</string>
   <string name="no_voip">Appels SIP non pris en charge</string>
@@ -1071,6 +1072,13 @@ Le réseau préféré sera utilisé."</string>
   <string name="notification_voicemail_text_format">Composer le %s</string>
   <string name="notification_voicemail_title">Nouveau message vocal</string>
   <string name="notification_voicemail_title_count">Nouveau message vocal (%d)</string>
+  <string name="nr_network_info">"Informations sur l'utilisation du réseau 5G"</string>
+  <string name="nr_usaged_first_used_time">Enregistré dans le réseau 5G</string>
+  <string name="nr_usaged_module">"Modèle d'appareil"</string>
+  <string name="nr_usaged_network_rate">Vitesse la plus élevée</string>
+  <string name="nr_usaged_network_usaged">"Les données d'aujourd'hui"</string>
+  <string name="nr_usaged_operator">Opérateur</string>
+  <string name="nr_usaged_used_time">"Durée d'utilisation"</string>
   <string name="number">Numéro</string>
   <string name="oem_unlock_enable">Déverrouillage OEM</string>
   <string name="oem_unlock_enable_summary">"Autoriser le déverrouillage du chargeur d'amorçage"</string>
@@ -1170,7 +1178,6 @@ Veuillez réessayer ou appeler le service client pour plus d'options."</string>
 "</string>
   <string name="pause_prompt_yes">Oui</string>
   <string name="payphone">Cabine téléphonique</string>
-  <string name="pci_num">lte pci num</string>
   <string name="phoneAppLabel">Services téléphoniques</string>
   <string name="phoneIconLabel">Téléphone</string>
   <string name="phone_account_settings">Comptes des appels</string>
@@ -1237,7 +1244,6 @@ Votre téléphone sera automatiquement bloqué en cas de nouvel échec"</string>
   <string name="preference_dial_pad_touch_tone_off">Désactivé</string>
   <string name="preference_dial_pad_touch_tone_piano">Touches de piano</string>
   <string name="preference_dial_pad_touch_tone_title">Sons des touches du pavé numérique</string>
-  <string name="preference_summary_default_combination">%1$s/%2$s</string>
   <string name="preference_telocation_summary_countrycode_off">Ne composez pas automatiquement le code pays</string>
   <string name="preference_telocation_summary_countrycode_on">Ajouter automatiquement le code Pays</string>
   <string name="preference_telocation_summary_teloc_off">Cacher la localisation du contact</string>
@@ -1348,7 +1354,7 @@ Votre carte SIM sera bloquée en cas de nouvel échec."</string>
   <string name="registration_status_done">"Réception d'appels."</string>
   <string name="registration_status_failed_try_later">"Échec de l'enregistrement au compte: %s. Un nouvel essai sera effectué plus tard"</string>
   <string name="registration_status_invalid_credentials">"Échec de l'enregistrement du compte: nom d'utilisateur ou mot de passe non valide."</string>
-  <string name="registration_status_no_data">"L'enregistrement du compte a été interrompu, car il n'y a pas de connexion Internet."</string>
+  <string name="registration_status_no_data">"L'enregistrement du compte a été interrompu, car il n'y a pas de connexion internet."</string>
   <string name="registration_status_no_wifi_data">"La procédure d'enregistrement du compte a été interrompue, car il n'existe aucune connexion Wi-Fi."</string>
   <string name="registration_status_not_receiving">"Réception d'appels impossible."</string>
   <string name="registration_status_not_running">"Échec de l'enregistrement du compte."</string>
@@ -1474,11 +1480,11 @@ Votre carte SIM sera bloquée en cas de nouvel échec."</string>
   <string name="sim_service_setting">SIM Mi et Mi Itinérance</string>
   <string name="simulate_color_space">Simuler espace colori.</string>
   <string name="singleContactImportedMsg">Contact importé</string>
-  <string name="sip_account_disable">Le compte n’est pas actif. Impossible d’accepter des appels.</string>
+  <string name="sip_account_disable">"Le compte n'est pas actif. Impossible d'accepter des appels."</string>
   <string name="sip_account_list">Comptes SIP</string>
   <string name="sip_accounts">Comptes SIP</string>
   <string name="sip_accounts_title">Comptes</string>
-  <string name="sip_add_account_tip_text">Pour utiliser les appels Internet, ajouter un compte SIP</string>
+  <string name="sip_add_account_tip_text">Pour utiliser les appels internet, ajouter un compte SIP</string>
   <string name="sip_always_send_keepalive">Toujours envoyer</string>
   <string name="sip_call_options_entry_1">Pour tous les appels quand un réseau de données est disponible</string>
   <string name="sip_call_options_entry_2">Seulement pour les appels SIP</string>
@@ -1492,7 +1498,7 @@ Votre carte SIM sera bloquée en cas de nouvel échec."</string>
   <string name="sip_menu_discard">Supprimer</string>
   <string name="sip_menu_save">Sauvegarder</string>
   <string name="sip_profile_create_error">Impossible de créer un nouveau profil SIP</string>
-  <string name="sip_receive_call_disable">Impossible d’accepter des appels. Autoriser d’accepter d’abord les appels.</string>
+  <string name="sip_receive_call_disable">"Impossible d'accepter des appels. Autoriser d'accepter d'abord les appels."</string>
   <string name="sip_receive_calls">Recevoir les appels</string>
   <string name="sip_receive_calls_summary">Utilise plus de batterie</string>
   <string name="sip_save_register_error">"Impossible d'enregistrer et de sauvegarder un nouveau profil SIP"</string>
@@ -1814,7 +1820,7 @@ Si vous choisissez de préférer les réseaux cellulaires, ils seront utilisés 
   <string name="wifi_check_password_try_again">Vérifiez le mot de passe et réessayez</string>
   <string name="wifi_connected_mac_randomization">"Sélection aléatoire de l'adresse MAC lors de la connexion"</string>
   <string name="wifi_connected_mac_randomization_summary">"Sélectionner l'adresse MAC de manière aléatoire lors de la connexion aux réseaux Wi-Fi"</string>
-  <string name="wifi_connected_no_internet">Connecté, aucun accès à Internet</string>
+  <string name="wifi_connected_no_internet">Connecté, aucun accès à internet</string>
   <string name="wifi_disabled_by_recommendation_provider">Non connecté en raison de la faible qualité du réseau</string>
   <string name="wifi_disabled_generic">Désactivé</string>
   <string name="wifi_disabled_network_failure">"Échec de configuration de l'adresse IP"</string>
@@ -1824,13 +1830,13 @@ Si vous choisissez de préférer les réseaux cellulaires, ils seront utilisés 
   <string name="wifi_display_certification_summary">"Afficher les options de la certification de l'affichage sans fil"</string>
   <string name="wifi_fail_to_scan">Impossible de rechercher des réseaux.</string>
   <string name="wifi_metered_label">"Facturé à l'usage"</string>
-  <string name="wifi_no_internet">Aucun accès à Internet</string>
+  <string name="wifi_no_internet">Aucun accès à internet</string>
   <string name="wifi_no_internet_no_reconnect">Reconnexion automatique impossible</string>
   <string name="wifi_not_in_range">Hors de portée</string>
   <string name="wifi_remembered">Enregistré</string>
   <string name="wifi_security_none">Aucune</string>
   <string name="wifi_status_mac_randomized">La sélection des adresses MAC est aléatoire</string>
-  <string name="wifi_status_no_internet">Aucun accès à Internet</string>
+  <string name="wifi_status_no_internet">Aucun accès à internet</string>
   <string name="wifi_status_sign_in_required">Connexion requise</string>
   <string name="wifi_unmetered_label">"Non facturé à l'usage"</string>
   <string name="wifi_verbose_logging">Autoriser enreg. infos Wi-Fi détaillées</string>
