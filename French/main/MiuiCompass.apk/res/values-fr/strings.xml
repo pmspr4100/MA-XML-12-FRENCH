@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="allow">Autoriser</string>
-  <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
   <string name="altitude_title">Altitude</string>
   <string name="altitude_uncalibrate_cancel">Annuler</string>
   <string name="altitude_uncalibrate_msg">"Impossible de calibrer l'altitude avec précision sans le GPS ou une connexion mobile."</string>
@@ -20,7 +19,7 @@
   <string name="calibrate_title">Étalonner la boussole</string>
   <string name="cancel">Annuler</string>
   <string name="compass_settings">Paramètres</string>
-  <string name="dialog_body_no_network">Se connecter au Wi-Fi ou activer les données mobiles.</string>
+  <string name="dialog_body_no_network">Se connecter au Wi-Fi ou activer les données cellulaires.</string>
   <string name="dialog_calibrat_altitude">Étalonnage…</string>
   <string name="dialog_title_no_network">Impossible de se connecter au réseau</string>
   <string name="direction_east">E</string>
@@ -35,6 +34,10 @@
   <string name="error_camera_unavailable">"Vérifier si une autre application utilise l'appareil photo."</string>
   <string name="error_camera_unavailable_title">Appareil photo indisponible</string>
   <string name="first_using_dialog_message">"La boussole a besoin d'utiliser la connexion réseau, l'appareil photo et les services de localisation pour fonctionner normalement."</string>
+  <string name="cta_v2_app_purpose">"montrant les directions, les coordonnées, la pression atmosphérique et l'altitude actuelle"</string>
+  <string name="keywords_search_compass">"Boussole;Calibrer la boussole;Pression;Altitude;Latitude;Longtitude;Vérifier la longue altitude;Vérifier la latitude;Boussole MIUI;Application boussole;Application boussole MIUI;Où se trouve la boussole;Télécharger la boussole;Pression atmosphérique;Vérifiez l'altitude;Quelle est l'altitude"</string>
+  <string name="permission_camera_desc">Utilisation du niveau à bulle</string>
+  <string name="permission_location_desc">Affichage des coordonnées et de la pression atmosphérique</string>
   <string name="first_using_dialog_title">"Autorisation d'accès"</string>
   <string name="guide_toast">Pour étalonner, remuez votre appareil comme montré ci-dessous.</string>
   <string name="latitude">LAT</string>
@@ -48,7 +51,7 @@
   <string name="location_south">S</string>
   <string name="location_west">O</string>
   <string name="longitude">LON</string>
-  <string name="mobiledata_alert_dialog_message">"Se connecter à Internet pour étalonner l'altitude ?"</string>
+  <string name="mobiledata_alert_dialog_message">"Se connecter à internet pour étalonner l'altitude ?"</string>
   <string name="mobiledata_alert_dialog_title">"Avertissement de l'utilisation de données"</string>
   <string name="open_perm_msg">"La boussole doit avoir accès aux informations de localisation et à l'appareil photo. Ceci est nécessaire pour déterminer les coordonnées et fournir des aperçus en direct. Autoriser ?"</string>
   <string name="open_perm_title">Permissions requises</string>
