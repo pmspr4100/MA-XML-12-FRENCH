@@ -246,7 +246,7 @@ Toutes vos données utilisateur précédentes seront enregistrées."</string>
   <string name="permission_send_sms_descx">"L'application peut envoyer des SMS et MMS"</string>
   <string name="permission_summary_enforced_by_policy">Requis par la politique</string>
   <string name="permission_title">%1$s permissions</string>
-  <string name="permission_warning_template">Autoriser &lt;b&gt;%1$s&lt;/b&gt; à %2$s ?</string>
+  <string name="permission_warning_template">Autoriser %1$s à %2$s ?</string>
   <string name="permlab_togglePermissions">Basculer les permissions</string>
   <string name="pref_ads">Recommendations</string>
   <string name="pref_key_about_privacy_title">Politique de confidentialité</string>
@@ -272,8 +272,8 @@ Toutes vos données utilisateur précédentes seront enregistrées."</string>
   <string name="security_settings_desc">Autoriser cette application à:</string>
   <string name="settings">Paramètres</string>
   <string name="settings_warning_dialog_detail">"Vous serez invité dans les cas suivants:
- "&lt;li&gt;Quand une application contient des virus.&lt;/li&gt;"
- "&lt;li&gt;Le package d'installation provient d'une source inconnue.&lt;/li&gt;</string>
+Quand une application contient des virus.
+Le package d'installation provient d'une source inconnue."</string>
   <string name="settings_warning_dialog_msg">"Votre téléphone est sujet à des risques de sécurité. Vous ne serez pas invité à installer des versions d'applications sécurisées si vous désactivez cette fonctionnalité. Désactiver quand même ?"</string>
   <string name="settings_warning_dialog_title">Attention</string>
   <string name="system_warning">Si vous refusez cette autorisation, les fonctionnalités de base de votre appareil peuvent ne plus fonctionner comme prévu.</string>
