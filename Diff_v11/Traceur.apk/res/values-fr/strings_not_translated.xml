@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-  <string name="bluetooth_dun_profile_summary_connected">Connected to Dun Server</string>
-  <string name="bluetooth_dun_profile_summary_use_for">Use for Dial-up Network access</string>
-  <string name="bluetooth_profile_dun">Dial-up Network Access</string>
-  <string name="power_charging_duration">%1$s - %2$s until fully charged</string>
-  <string name="power_discharging_duration">About %1$s left (%2$s)</string>
-  <string name="power_discharging_duration_enhanced">About %1$s left based on your usage (%2$s)</string>
-  <string name="wapi_all_sel_mode">Select mode</string>
-  <string name="wapi_auto_sel_cert_fail">Can not select certificate automatically. Please select a certificate from the list, and then try to connect.</string>
-  <string name="wapi_cert_is_not_exist">No available certificate, please install the certificate first</string>
-  <string name="wapi_cert_is_not_selected">Please select the certificate first</string>
-  <string name="wapi_cert_manage_error">Faild to setting the WAPI certificate.</string>
-  <string name="wapi_cert_manage_summary">Add or delete the WAPI certificate</string>
-  <string name="wapi_cert_manage_title">WAPI certificate management</string>
-  <string name="wapi_cert_roaming">Connecting…</string>
-  <string name="wapi_no">no</string>
-  <string name="wapi_no_vaild_cert">No available certificates, install it now?</string>
-  <string name="wapi_password_hex_format_add">The count of hexadecimal characters can not be odd number</string>
-  <string name="wapi_password_is_empty">Password field can not be left blank</string>
-  <string name="wapi_password_is_not_hex_format">Invalid hexadecimal characters</string>
-  <string name="wapi_password_length_is_max">Password can not exceed 64 characters in length</string>
-  <string name="wapi_password_length_is_min">Password can not less than 8 characters in length</string>
-  <string name="wapi_password_length_is_min_to_max">The password must be: 8-64 characters</string>
-  <string name="wapi_yes">yes</string>
-  <string name="wifi_auto_sel_wapi_cert">Select automatically</string>
-  <string name="wifi_coverage_extend">Enable WLAN Coverage Extend Feature</string>
-  <string name="wifi_coverage_extend_summary">Enable extending WLAN coverage using Hotspot</string>
-  <string name="wifi_hand_sel_wapi_cert">WAPI certificate</string>
-  <string name="wifi_security_wapi_psk_hexadecimal">Hexadecimal</string>
-  <string name="wifi_ssid_is_empty">Ssid field can not be left blank</string>
-  <string name="wifi_ssid_length_is_max">Ssid can not exceed 32 characters in length</string>
-  <string name="wifi_wapi_as_certificate">AS certificate</string>
-  <string name="wifi_wapi_cert_mode_hand_text">Hand select the certificate</string>
-  <string name="wifi_wapi_certification_dont_exist">The WAPI certificates does not exist. Please intall them.</string>
-  <string name="wifi_wapi_fail_to_auth">"WAPI authentication failed
-Please check validity of certificates"</string>
-  <string name="wifi_wapi_fail_to_init">"Unable to open WAPI certificates
-Credential storage might not enable"</string>
-  <string name="wifi_wapi_psk_type">Password type</string>
-  <string name="wifi_wapi_user_certificate">User certificate</string>
+  <string name="bluetooth_dun_profile_summary_connected">Connexion à Dun Server</string>
+  <string name="bluetooth_dun_profile_summary_use_for">Utilisation pour l'accès au réseau commuté</string>
+  <string name="bluetooth_profile_dun">Accès au réseau commuté</string>
+  <string name="power_charging_duration">%1$s - %2$s jusqu'à ce qu'il soit complètement chargé</string>
+  <string name="power_discharging_duration">Environ %1$s restants (%2$s)</string>
+  <string name="power_discharging_duration_enhanced">Environ %1$s restant en fonction de votre utilisation (%2$s)</string>
+  <string name="wapi_all_sel_mode">Mode de sélection</string>
+  <string name="wapi_auto_sel_cert_fail">Ne peut pas sélectionner le certificat automatiquement. Veuillez sélectionner un certificat dans la liste, puis essayez de vous connecter.</string>
+  <string name="wapi_cert_is_not_exist">Pas de certificat disponible, veuillez d'abord installer le certificat</string>
+  <string name="wapi_cert_is_not_selected">Veuillez d'abord sélectionner le certificat</string>
+  <string name="wapi_cert_manage_error">Défaut de paramétrage du certificat WAPI.</string>
+  <string name="wapi_cert_manage_summary">Ajouter ou supprimer le certificat WAPI</string>
+  <string name="wapi_cert_manage_title">Gestion des certificats WAPI</string>
+  <string name="wapi_cert_roaming">Connexion...</string>
+  <string name="wapi_no">non</string>
+  <string name="wapi_no_vaild_cert">Aucun certificat disponible, l'installer maintenant ?</string>
+  <string name="wapi_password_hex_format_add">Le nombre de caractères hexadécimaux ne peut pas être un nombre impair</string>
+  <string name="wapi_password_is_empty">Le champ du mot de passe ne peut pas être laissé vide</string>
+  <string name="wapi_password_is_not_hex_format">Caractères hexadécimaux non valides</string>
+  <string name="wapi_password_length_is_max">Le mot de passe ne peut pas dépasser 64 caractères</string>
+  <string name="wapi_password_length_is_min">Le mot de passe ne peut pas comporter moins de 8 caractères</string>
+  <string name="wapi_password_length_is_min_to_max">Le mot de passe doit être : 8-64 caractères</string>
+  <string name="wapi_yes">oui</string>
+  <string name="wifi_auto_sel_wapi_cert">Sélectionner automatiquement</string>
+  <string name="wifi_coverage_extend">Activer la fonction d'extension de la couverture WLAN</string>
+  <string name="wifi_coverage_extend_summary">Permettre l'extension de la couverture WLAN à l'aide de Hotspot</string>
+  <string name="wifi_hand_sel_wapi_cert">certificat WAPI</string>
+  <string name="wifi_security_wapi_psk_hexadecimal">Hexadécimal</string>
+  <string name="wifi_ssid_is_empty">Le champ Ssid ne peut pas être laissé vide</string>
+  <string name="wifi_ssid_length_is_max">Ssid ne peut pas dépasser 32 caractères</string>
+  <string name="wifi_wapi_as_certificate">certificat AS</string>
+  <string name="wifi_wapi_cert_mode_hand_text">Sélectionnez manuellement le certificat</string>
+  <string name="wifi_wapi_certification_dont_exist">Les certificats WAPI n'existent pas. Veuillez les installer.</string>
+  <string name="wifi_wapi_fail_to_auth">"L'authentification WAPI a échoué
+Veuillez vérifier la validité des certificats"</string>
+  <string name="wifi_wapi_fail_to_init">"Impossible d'ouvrir les certificats WAPI
+Le stockage des justificatifs pourrait ne pas permettre"</string>
+  <string name="wifi_wapi_psk_type">Type de mot de passe</string>
+  <string name="wifi_wapi_user_certificate">Certificat d'utilisateur</string>
 </resources>
