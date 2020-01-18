@@ -12,6 +12,9 @@
 * Contact : (pms.pr4100@gmail.com)
 * Paypal : https://www.paypal.me/pmspr4100
 
+## Contributeurs
+* Pseudo : Doryan
+
 ## Améliorations
 * Des mises à jour quotidiennes sont effectuées
 * Traduction différente de la version Global
