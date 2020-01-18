@@ -46,8 +46,6 @@
     </string-array>
     <string-array name="apn_auth_entries">
       <item>Aucune</item>
-      <item>PAP</item>
-      <item>CHAP</item>
       <item>PAP ou CHAP</item>
     </string-array>
     <string-array name="apn_protocol_entries">
@@ -289,39 +287,23 @@
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
       <item>Utiliser sélection du système (par défaut)</item>
-      <item>44.1 kHz</item>
-      <item>48.0 kHz</item>
-      <item>88.2 kHz</item>
-      <item>96.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
       <item>Utiliser sélection du système (par défaut)</item>
-      <item>44.1 kHz</item>
-      <item>48.0 kHz</item>
-      <item>88.2 kHz</item>
-      <item>96.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
       <item>Utiliser la préférence de système (par défaut)</item>
-      <item>SBC</item>
-      <item>AAC</item>
-      <item>AudioQualcomm® aptX™</item>
-      <item>AudioQualcomm® aptX™ HD</item>
-      <item>LDAC</item>
-      <item>AudioQualcomm® aptX™ Adaptive</item>
-      <item>LHDC</item>
+      <item>Audio Qualcomm® aptX™</item>
+      <item>Audio Qualcomm® aptX™ HD</item>
+      <item>Audio Qualcomm® aptX™ Adaptive</item>
       <item>Activer les codecs facultatifs</item>
       <item>Désactiver les codecs facultatifs</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
       <item>Utiliser la préférence de système (par défaut)</item>
-      <item>SBC</item>
-      <item>AAC</item>
-      <item>AudioQualcomm® aptX™</item>
+      <item>Audio Qualcomm® aptX™</item>
       <item>Audio Qualcomm® aptX™ HD</item>
-      <item>LDAC</item>
-      <item>AudioQualcomm® aptX™ Adaptive</item>
-      <item>LHDC</item>
+      <item>Audio Qualcomm® aptX™ Adaptive</item>
       <item>Activer les codecs facultatifs</item>
       <item>Désactiver les codecs facultatifs</item>
     </string-array>
@@ -892,14 +874,6 @@
       <item>Violette</item>
       <item>Pourpre</item>
     </string-array>
-    <string-array name="miui_entries_font_size">
-      <item>S</item>
-      <item>M</item>
-      <item>L</item>
-      <item>XL</item>
-      <item>XXL</item>
-      <item>XXXL</item>
-    </string-array>
     <string-array name="msd_pc_system">
       <item>Windows XP et version antérieure</item>
       <item>Windows Vista et plus récentes</item>
@@ -926,10 +900,6 @@ Note : seulement pour Ubuntu 8.04 !"</item>
     </string-array>
     <string-array name="mvno_type_entries">
       <item>Aucun</item>
-      <item>SPN</item>
-      <item>IMSI</item>
-      <item>GID</item>
-      <item>ICCID</item>
     </string-array>
     <string-array name="network_speed_slow_summary">
       <item>Le réseau est trop lent à cause du trafic important</item>
@@ -949,10 +919,6 @@ Note : seulement pour Ubuntu 8.04 !"</item>
     <string-array name="notification_shade_shortcut_entries">
       <item>Rechercher</item>
       <item>Paramètres</item>
-    </string-array>
-    <string-array name="notification_style_entries">
-      <item>MIUI</item>
-      <item>Android</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
       <item>Aucun</item>
@@ -1025,7 +991,6 @@ Note : seulement pour Ubuntu 8.04 !"</item>
       <item>Moyenne</item>
       <item>Faible</item>
       <item>Critique</item>
-      <item>\?</item>
     </string-array>
     <string-array name="screen_button_style">
       <item>Style main gauche</item>
@@ -1193,11 +1158,10 @@ Note : seulement pour Ubuntu 8.04 !"</item>
     </string-array>
     <string-array name="usb_configuration_titles">
       <item>En charge</item>
-      <item>MTP (Media Transfer Protocol)</item>
-      <item>PTP (Picture Transfer Protocol)</item>
+      <item>MTP (Protocole de transfert de média)</item>
+      <item>"PTP (Protocole de transfert d'image)"</item>
       <item>RNDIS (USB Ethernet)</item>
       <item>Source Audio</item>
-      <item>MIDI</item>
     </string-array>
     <string-array name="usb_connection_mode_entries">
       <item>Demander lors de la connexion</item>
@@ -1219,7 +1183,6 @@ Note : seulement pour Ubuntu 8.04 !"</item>
       <item>Échec.</item>
     </string-array>
     <string-array name="vpn_types_long">
-      <item>VPN PPTP</item>
       <item>VPN L2TP/IPSec avec clés pré-partagées</item>
       <item>VPN L2TP/IPSec avec certificats</item>
       <item>VPN IPSec avec clés pré-partagées et authentification Xauth</item>

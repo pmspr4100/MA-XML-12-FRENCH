@@ -188,7 +188,6 @@ et ajustez les préférences automatiquement"</string>
   <string name="color_enhance">Coloré</string>
   <string name="color_enhance_mode">Mode coloré</string>
   <string name="config_name_group">Groupe selfie</string>
-  <string name="config_name_hht">HHT</string>
   <string name="config_name_magic">Magique</string>
   <string name="config_name_scene">Scène</string>
   <string name="config_name_setting">Paramètres</string>
@@ -350,11 +349,6 @@ en mode Portrait"</string>
   <string name="live_reverse_confirm">Supprimer</string>
   <string name="live_reverse_message">"Supprimer l'élément précédemment capturé ?"</string>
   <string name="live_share_moments">Moments</string>
-  <string name="live_share_qq">QQ</string>
-  <string name="live_share_qzone">QZone</string>
-  <string name="live_share_tik">TikTok</string>
-  <string name="live_share_wechat">WeChat</string>
-  <string name="live_share_weibo">WeiBo</string>
   <string name="live_speed_extreme_fast">Super rapide</string>
   <string name="live_speed_extreme_slow">Super lent</string>
   <string name="live_speed_fast">Rapide</string>
@@ -446,7 +440,6 @@ regarder plus grand sur les photos"</string>
   <string name="module_name_manual">Manuel</string>
   <string name="module_name_new_slow_motion">Ralenti</string>
   <string name="module_name_panorama">Panorama</string>
-  <string name="module_name_pixel">48MP</string>
   <string name="module_name_portrait">Portrait</string>
   <string name="module_name_professional">Pro</string>
   <string name="module_name_square">Square</string>
@@ -456,7 +449,7 @@ regarder plus grand sur les photos"</string>
   <string name="network_access_user_notice_message_live_video">"&lt;Data&gt;"L'appareil photo doit se connecter à internet pour fournir des effets, de la musique et d'autres fonctionnalités pour les courtes vidéos.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;En appuyant sur \"Accepter\" ci-dessous, vous acceptez nos &amp;lt;a href =%1$s&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href =%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;, et permettant à l'appareil photo de se connecter à internet."&lt;/Data&gt;"</string>
   <string name="network_access_user_notice_message_sticker">"&lt;Data&gt;"L'appareil photo doit se connecter à internet pour fournir des autocollants pour cette fonction.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;En appuyant sur \"Accepter\" ci-dessous, vous acceptez nos &amp;lt;a href =%1$s&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href =%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;, et permettant à l'appareil photo de se connecter à internet."&lt;/Data&gt;"</string>
   <string name="network_access_user_notice_message_voice_caption">"&lt;Data&gt;"L'appareil photo doit se connecter à internet pour fournir une fonctionnalité de sortie de synthèse vocale.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;En appuyant sur \"Accepter\" ci-dessous, vous acceptez nos &amp;lt;a href =%1$s&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href =%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;, et permettre à l'appareil photo de se connecter à internet."&lt;/Data&gt;"</string>
-  <string name="multi_window_mode_not_supported">"L'appareil photo ne fonctionne pas en Écran divisé"</string>
+  <string name="multi_window_mode_not_supported">"L'appareil photo ne fonctionne pas en écran divisé"</string>
   <string name="network_access_user_notice_title">Connexion à internet</string>
   <string name="no_storage">"Merci d’insérer une carte SD avant d'utiliser l'appareil photo"</string>
   <string name="not_enough_space">Votre carte SD est pleine</string>
@@ -570,7 +563,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">Cadre moyen</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Mesure ponctuelle</string>
   <string name="pref_camera_autoexposure_title">"Paramètres d'exposition automatique"</string>
-  <string name="pref_camera_auxiliary_close">Off</string>
+  <string name="pref_camera_auxiliary_close">Désactiver</string>
   <string name="pref_camera_auxiliary_exposure_feedback">Exposure verification</string>
   <string name="pref_camera_auxiliary_focus_peak">Focus peaking</string>
   <string name="pref_camera_auxiliary_title">Auxiliary</string>
@@ -608,8 +601,6 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_camera_device_watermark_title">"Filigrane de l'appareil"</string>
   <string name="pref_camera_dual_enable_title">Activé le double appareil photo</string>
   <string name="pref_camera_dual_sat_enable_title">Activé le double appareil photo SAT</string>
-  <string name="pref_camera_exposuretime_entry_auto">AUTO</string>
-  <string name="pref_camera_exposuretime_entry_auto_abbr">AUTO</string>
   <string name="pref_camera_face_info_watermark_title">"Ajouter un timbre d'âge sur les photos"</string>
   <string name="pref_camera_facedetection_auto_hidden_title">Masquer le cadre de détection de visage automatiquement</string>
   <string name="pref_camera_facedetection_title">Détection faciale</string>
@@ -622,8 +613,6 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_camera_flashmode_title">Mode flash</string>
   <string name="pref_camera_focus_shoot_summary">Appuyez pour faire la mise au point, puis appuyez à nouveau pour prendre une photo.</string>
   <string name="pref_camera_focus_shoot_title">Focus et prise</string>
-  <string name="pref_camera_focusmode_entry_auto">AUTO</string>
-  <string name="pref_camera_focusmode_entry_auto_abbr">AUTO</string>
   <string name="pref_camera_focusmode_entry_infinity">Infini</string>
   <string name="pref_camera_focusmode_entry_macro">Macro</string>
   <string name="pref_camera_focusmode_entry_manual">Manuel</string>
@@ -635,21 +624,15 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_camera_front_bokeh_entry_on">Activé</string>
   <string name="pref_camera_gradienter_title">Redresser</string>
   <string name="pref_camera_groupshot_mode_title">Selfie en groupe</string>
-  <string name="pref_camera_hand_night_title">HHT</string>
   <string name="pref_camera_hdr_entry_auto">Auto</string>
   <string name="pref_camera_hdr_entry_live">Live</string>
   <string name="pref_camera_hdr_entry_normal">Pro</string>
   <string name="pref_camera_hdr_entry_off">Désactivé</string>
-  <string name="pref_camera_hdr_title">HDR</string>
   <string name="pref_camera_heic_image_format_description">Capturez des photos au format HEIF à haute efficacité</string>
   <string name="pref_camera_heic_image_format_title">Format HEIC</string>
   <string name="pref_camera_hfr_entry_off">Désactivé</string>
   <string name="pref_camera_histogram_entry_disable">Désactiver</string>
   <string name="pref_camera_histogram_entry_enable">Activé</string>
-  <string name="pref_camera_iso_entry_auto">AUTO</string>
-  <string name="pref_camera_iso_entry_auto_abbr">AUTO</string>
-  <string name="pref_camera_iso_title">ISO</string>
-  <string name="pref_camera_iso_title_abbr">ISO</string>
   <string name="pref_camera_jpegquality_entry_high">Très fine</string>
   <string name="pref_camera_jpegquality_entry_low">Fine</string>
   <string name="pref_camera_jpegquality_entry_normal">Standard</string>
@@ -687,7 +670,6 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_camera_peak_entry_off">Désactivé</string>
   <string name="pref_camera_peak_entry_on">Activé</string>
   <string name="pref_camera_peak_title">Mise au point maximale</string>
-  <string name="pref_camera_picture_format_entry_raw">Raw</string>
   <string name="pref_camera_picturesize_entry_fullscreen">Plein écran</string>
   <string name="pref_camera_picturesize_entry_standard">Standard 4:3</string>
   <string name="pref_camera_picturesize_title_simple_mode">Format de la photo</string>
@@ -766,16 +748,12 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_camera_volumekey_function_entry_zoom">Zoom</string>
   <string name="pref_camera_volumekey_function_title">Fonction des boutons de volume</string>
   <string name="pref_camera_watermark_title">Ajouter un horodatage sur les photos</string>
-  <string name="pref_camera_whitebalance_entry_auto">AUTO</string>
-  <string name="pref_camera_whitebalance_entry_auto_abbr">AUTO</string>
   <string name="pref_camera_whitebalance_entry_cloudy">Nuageux</string>
   <string name="pref_camera_whitebalance_entry_daylight">Lumière du jour</string>
   <string name="pref_camera_whitebalance_entry_fluorescent">Fluorescent</string>
   <string name="pref_camera_whitebalance_entry_incandescent">Incandescent</string>
   <string name="pref_camera_whitebalance_entry_manual">Manuel</string>
   <string name="pref_camera_whitebalance_entry_measure">Mesure</string>
-  <string name="pref_camera_whitebalance_title">WB</string>
-  <string name="pref_camera_whitebalance_title_abbr">WB</string>
   <string name="pref_camera_zoom_mode_entry_high_pixel">FAIBLE LUMINOSITÉ</string>
   <string name="pref_camera_zoom_mode_entry_macro">MACRO</string>
   <string name="pref_camera_zoom_mode_entry_macro_abbr">MACRO</string>
@@ -787,7 +765,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_camera_zoom_mode_entry_tele_abbr">TÉLÉ</string>
   <string name="pref_camera_zoom_mode_entry_tele_standalone">TÉLÉ 5X</string>
   <string name="pref_camera_zoom_mode_entry_ultra">ULTRA GRAND</string>
-  <string name="pref_camera_zoom_mode_entry_ultra_abbr">UW</string>
+  <string name="pref_camera_zoom_mode_entry_ultra_abbr">ULTRA GRAND</string>
   <string name="pref_camera_zoom_mode_entry_wide">LARGE</string>
   <string name="pref_camera_zoom_mode_entry_wide_abbr">LARGE</string>
   <string name="pref_camera_zoom_mode_title">LENS</string>
@@ -810,12 +788,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_groupshot_with_primitive_title">"Enregistrer les photos d'origine également"</string>
   <string name="pref_lens_dirty_detect_summary">"Recevoir une notification lorsque l'objectif est sale"</string>
   <string name="pref_lens_dirty_detect_title">"Avertir de l'objectif sale"</string>
-  <string name="pref_manual_exposure_title">S</string>
-  <string name="pref_manual_exposure_title_abbr">S</string>
   <string name="pref_menu_ultra_pixel_photography">%s Ultra HD</string>
-  <string name="pref_menu_ultra_pixel_photography_32mp">32MP</string>
-  <string name="pref_menu_ultra_pixel_photography_48mp">48MP</string>
-  <string name="pref_menu_ultra_pixel_photography_64mp">64MP</string>
   <string name="pref_new_slow_motion_video_quality_240_720only">"Vous ne pouvez enregistrer des vidéos 720p qu'à 240ips"</string>
   <string name="pref_new_slow_motion_video_quality_960_720only">"Vous ne pouvez enregistrer des vidéos 720p qu'à 960ips"</string>
   <string name="pref_new_slow_motion_video_quality_entry_1080p">1080p FHD</string>
@@ -841,8 +814,6 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_video_encoder_entry_h264">Haute compatibilité H.264</string>
   <string name="pref_video_encoder_entry_h265">Haute performance H.265</string>
   <string name="pref_video_encoder_title">Encodage vidéo</string>
-  <string name="pref_video_focusmode_entry_auto">Tap</string>
-  <string name="pref_video_focusmode_entry_continuous">CAF</string>
   <string name="pref_video_focusmode_title">Focus mode</string>
   <string name="pref_video_hfr_title">Vidéo HFR</string>
   <string name="pref_video_quality_entry_1080p">1080p FHD, 30ips</string>
@@ -935,11 +906,8 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="ultra_pixel_photography_close_tip">%s Ultra HD désactivé</string>
   <string name="ultra_pixel_photography_open_tip">%s Ultra HD activé</string>
   <string name="ultra_pixel_photography_32mp_close_tip">32MP désactivé</string>
-  <string name="ultra_pixel_photography_32mp_open_tip">32MP</string>
   <string name="ultra_pixel_photography_48mp_close_tip">48MP désactivé</string>
-  <string name="ultra_pixel_photography_48mp_open_tip">48MP</string>
   <string name="ultra_pixel_photography_64mp_close_tip">64MP désactivé</string>
-  <string name="ultra_pixel_photography_64mp_open_tip">64MP</string>
   <string name="ultra_pixel_portrait_hint">Portrait HD</string>
   <string name="ultra_pixel_zoom_no_support_tip">"Le zoom ne fonctionne pas %s Ultra HD mode"</string>
   <string name="ultra_tele_use_hint_text_body">"Utilisez le zoom 50X pour capturer des objets distants

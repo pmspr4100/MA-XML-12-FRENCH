@@ -5,7 +5,6 @@
   <string name="copyUrl">"Copier l'URL"</string>
   <string name="cut">Couper</string>
   <string name="defaultVoiceMailAlphaTag">Messagerie vocale</string>
-  <string name="defaultMsisdnAlphaTag">MSISDN1</string>
   <string name="emptyPhoneNumber">(Aucun numéro de téléphone)</string>
   <string name="httpErrorBadUrl">"Impossible d'ouvrir la page, car l'URL n'est pas valide."</string>
   <string name="httpErrorUnsupportedScheme">"Ce protocole n'est pas compatible."</string>
@@ -47,7 +46,6 @@
   <string name="Midnight">Minuit</string>
   <string name="NetworkPreferenceSwitchSummary">Essayez de changer le réseau préféré. Appuyez pour le modifier.</string>
   <string name="NetworkPreferenceSwitchTitle">"Impossible d'accéder au réseau mobile"</string>
-  <string name="Noon">Midi</string>
   <string name="PinMmi">Modification du code PIN</string>
   <string name="PwdMmi">Modification du mot de passe</string>
   <string name="RestrictedOnAllVoiceTitle">"Aucun service vocal ni d'appels d'urgence"</string>
@@ -215,12 +213,10 @@
   <string name="status_bar_ethernet">ethernet</string>
   <string name="status_bar_headset">"casque d'écoute"</string>
   <string name="status_bar_hotspot">hotspot</string>
-  <string name="status_bar_ime">ime</string>
   <string name="status_bar_location">location</string>
   <string name="status_bar_microphone">microphone</string>
   <string name="status_bar_mobile">mobile</string>
   <string name="status_bar_mute">muet</string>
-  <string name="status_bar_nfc">nfc</string>
   <string name="status_bar_rotate">faire tourner</string>
   <string name="status_bar_secure">secure</string>
   <string name="status_bar_speakerphone">haut-parleur</string>
@@ -390,7 +386,6 @@
   <string name="car_mode_disable_notification_title">"L'application de conduite est en cours d'exécution"</string>
   <string name="carrier_app_notification_text">Appuyez ici pour effectuer la configuration.</string>
   <string name="carrier_app_notification_title">Nouvelle carte SIM insérée</string>
-  <string name="cfTemplateForwarded">{0}: {1}</string>
   <string name="cfTemplateForwardedTime">{0}: {1} au bout de {2} secondes</string>
   <string name="cfTemplateNotForwarded">{0}: non transféré</string>
   <string name="cfTemplateRegistered">{0}: non transféré</string>
@@ -429,7 +424,7 @@ en utilisant %s"</string>
   <string name="data_usage_warning_title">Avertissement de consommation de données</string>
   <string name="data_usage_wifi_limit_snoozed_title">Limite de données Wi-Fi dépassée</string>
   <string name="data_usage_wifi_limit_title">Limite données Wi-Fi atteinte</string>
-  <string name="date_and_time" formatted="false">%-e %b %Y à %H:%M:%S</string>
+  <string name="date_and_time" formatted="false">%-e %b %Y, %-l:%M:%S %p</string>
   <string name="date_picker_decrement_day_button">Jour précédent</string>
   <string name="date_picker_decrement_month_button">Mois précédent</string>
   <string name="date_picker_decrement_year_button">Année précédente</string>
@@ -474,7 +469,6 @@ en utilisant %s"</string>
   <string name="display_manager_hdmi_display_name">Écran HDMI</string>
   <string name="display_manager_overlay_display_name">Superposition n° %1$d</string>
   <string name="display_manager_overlay_display_secure_suffix">, sécurisé</string>
-  <string name="display_manager_overlay_display_title">%1$s: %2$d x %3$d, %4$d dpi</string>
   <string name="dlg_ok">OK</string>
   <string name="done_label">OK</string>
   <string name="double_tap_toast">Conseil: Appuyez deux fois pour faire un zoom avant ou arrière.</string>
@@ -649,16 +643,7 @@ Si vous avez des questions, contactez l'administrateur de votre organisation."</
   <string name="httpErrorTimeout">Délai de connexion au serveur dépassé.</string>
   <string name="httpErrorTooManyRequests">Trop de requêtes sont en cours de traitement. Veuillez réessayer ultérieurement.</string>
   <string name="httpErrorUnsupportedAuthScheme">"Le modèle d'authentification du site n'est pas compatible."</string>
-  <string name="imProtocolAim">AIM</string>
   <string name="imProtocolCustom">Personnalisé</string>
-  <string name="imProtocolGoogleTalk">Hangouts</string>
-  <string name="imProtocolIcq">ICQ</string>
-  <string name="imProtocolJabber">Jabber</string>
-  <string name="imProtocolMsn">Windows Live</string>
-  <string name="imProtocolNetMeeting">NetMeeting</string>
-  <string name="imProtocolQq">QQ</string>
-  <string name="imProtocolSkype">Skype</string>
-  <string name="imProtocolYahoo">Yahoo</string>
   <string name="imTypeCustom">Personnalisé</string>
   <string name="imTypeHome">Domicile</string>
   <string name="imTypeOther">Autre</string>
@@ -775,7 +760,7 @@ Veuillez réessayer dans %2$d secondes."</string>
   <string name="kg_wrong_password">Mot de passe incorrect.</string>
   <string name="kg_wrong_pattern">Schéma incorrect.</string>
   <string name="kg_wrong_pin">Code PIN incorrect.</string>
-  <string name="kilobyteShort">Ko</string>
+  <string name="kilobyteShort">" Ko"</string>
   <string name="language_picker_section_all">Toutes les langues</string>
   <string name="language_picker_section_suggested">Recommandations</string>
   <string name="language_selection_title">Ajouter une langue</string>
@@ -899,7 +884,7 @@ Veuillez réessayer dans %2$d secondes."</string>
   <string name="mediasize_na_tabloid">Tabloïd</string>
   <string name="mediasize_unknown_landscape">Taille inconnue au format paysage</string>
   <string name="mediasize_unknown_portrait">Taille inconnue au format portrait</string>
-  <string name="megabyteShort">Mo</string>
+  <string name="megabyteShort">" Mo"</string>
   <string name="meid">Code MEID</string>
   <string name="menu_alt_shortcut_label">Alt+</string>
   <string name="menu_ctrl_shortcut_label">Ctrl+</string>
@@ -933,7 +918,6 @@ Veuillez réessayer dans %2$d secondes."</string>
   <string name="muted_by">%1$s coupe certains sons</string>
   <string name="needPuk">Votre carte SIM est verrouillée par clé PUK. Saisissez la clé PUK pour la déverrouiller.</string>
   <string name="needPuk2">Saisissez la clé PUK2 pour débloquer la carte SIM.</string>
-  <string name="negative_duration">− %1$s</string>
   <string name="network_available_sign_in">Se connecter au réseau</string>
   <string name="network_logging_notification_text">"Votre organisation gère cet appareil et peut surveiller le trafic réseau. Appuyez ici pour obtenir plus d'informations."</string>
   <string name="network_logging_notification_title">"L'appareil est géré"</string>
@@ -1266,7 +1250,7 @@ pour le compte \"%s\""</string>
   <string name="permlab_writeSyncSettings">activer/désactiver la synchronisation</string>
   <string name="perms_description_app">Fourni par %1$s</string>
   <string name="perms_new_perm_prefix"><font fgcolor="#ff33b5e5" size="12">NOUVEAU</font>:</string>
-  <string name="petabyteShort">Po</string>
+  <string name="petabyteShort">" Po"</string>
   <string name="phoneTypeAssistant">Assistant</string>
   <string name="phoneTypeCallback">Rappel</string>
   <string name="phoneTypeCar">Voiture</string>
@@ -1275,7 +1259,6 @@ pour le compte \"%s\""</string>
   <string name="phoneTypeFaxHome">Télécopie domicile</string>
   <string name="phoneTypeFaxWork">Télécopie bureau</string>
   <string name="phoneTypeHome">Domicile</string>
-  <string name="phoneTypeIsdn">RNIS</string>
   <string name="phoneTypeMain">Principal</string>
   <string name="phoneTypeMms">MMS</string>
   <string name="phoneTypeMobile">Mobile</string>
@@ -1284,7 +1267,6 @@ pour le compte \"%s\""</string>
   <string name="phoneTypePager">Bipeur</string>
   <string name="phoneTypeRadio">Radio</string>
   <string name="phoneTypeTelex">Télex</string>
-  <string name="phoneTypeTtyTdd">TTY/TTD</string>
   <string name="phoneTypeWork">Bureau</string>
   <string name="phoneTypeWorkMobile">Mobile pro</string>
   <string name="phoneTypeWorkPager">Bipeur pro</string>
@@ -1347,7 +1329,7 @@ pour le compte \"%s\""</string>
   <string name="relationTypeBrother">Frère</string>
   <string name="relationTypeChild">Enfant</string>
   <string name="relationTypeCustom">Personnalisée</string>
-  <string name="relationTypeDomesticPartner">Concubin</string>
+  <string name="relationTypeDomesticPartner">"Concubin(e)"</string>
   <string name="relationTypeFather">Père</string>
   <string name="relationTypeFriend">Ami</string>
   <string name="relationTypeManager">Responsable</string>
@@ -1356,7 +1338,7 @@ pour le compte \"%s\""</string>
   <string name="relationTypePartner">Partenaire</string>
   <string name="relationTypeReferredBy">Recommandé par</string>
   <string name="relationTypeRelative">Proche</string>
-  <string name="relationTypeSister">Sœur</string>
+  <string name="relationTypeSister">Soeur</string>
   <string name="relationTypeSpouse">Conjoint</string>
   <string name="replace">Remplacer...</string>
   <string name="report">Rapport</string>
@@ -1414,8 +1396,6 @@ L'écoute prolongée à un volume élevé peut endommager vos facultés auditive
   <string name="searchview_description_search">Rechercher</string>
   <string name="searchview_description_submit">Envoyer la requête</string>
   <string name="searchview_description_voice">Recherche vocale</string>
-  <string name="second">s</string>
-  <string name="seconds">s</string>
   <string name="select_character">Insérer un caractère</string>
   <string name="select_day">Sélectionner un mois et un jour</string>
   <string name="select_hours">Sélectionner une heure</string>
@@ -1525,7 +1505,7 @@ L'écoute prolongée à un volume élevé peut endommager vos facultés auditive
   <string name="system_error_manufacturer">Un problème interne lié à votre appareil est survenu. Veuillez contacter le fabricant pour en savoir plus.</string>
   <string name="system_error_wipe_data">"Un problème interne lié à votre appareil est survenu. Ce dernier risque d'être instable jusqu'à ce que vous rétablissiez la configuration d'usine."</string>
   <string name="taking_remote_bugreport_notification_title">Création du rapport de bug…</string>
-  <string name="terabyteShort">To</string>
+  <string name="terabyteShort">" To"</string>
   <string name="tethered_notification_message">Appuyez pour configurer.</string>
   <string name="tethered_notification_multi_device_message">%1$s appareils connectés</string>
   <string name="tethered_notification_no_device_message">Aucun appareil connecté</string>
@@ -1533,7 +1513,7 @@ L'écoute prolongée à un volume élevé peut endommager vos facultés auditive
   <string name="tethered_notification_title">"Partage de connexion ou point d'accès actif"</string>
   <string name="textSelectionCABTitle">Sélection de texte</string>
   <string name="text_copied">Le texte a été copié dans le presse-papier.</string>
-  <string name="time_of_day" formatted="false">%H:%M:%S</string>
+  <string name="time_of_day" formatted="false">%-l:%M:%S %p</string>
   <string name="time_picker_decrement_hour_button">Heure précédente</string>
   <string name="time_picker_decrement_minute_button">Minute précédente</string>
   <string name="time_picker_decrement_set_am_button">Définir la valeur AM</string>

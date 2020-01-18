@@ -182,7 +182,7 @@
   <string name="maml_component_customization_title">Paramètres</string>
   <string name="default_name">Nom par défaut</string>
   <string name="resource_select">Sélectionner</string>
-  <string name="scanning_device_tips">"En recherchant des appareils à proximité, l’autre partie doit ouvrir Xiaomi."</string>
+  <string name="scanning_device_tips">"En recherchant des appareils à proximité, l'autre partie doit ouvrir Xiaomi."</string>
   <string name="fp_nav_center_action_choose_dlg_title">Activer la touche rapide</string>
   <string name="frequent_email">E-mail fréquemment utilisé</string>
   <string name="fp_nav_center_action_choose_dlg_msg">"Vous pouvez retourner à l'écran d'accueil en appuyant légèrement sur le bouton d'accueil. Vous pouvez activer ou désactiver cette fonctionnalité dans Paramètres > Paramètres additionnels > Boutons > Appuyer sur le bouton d'accueil pour retourner à l'écran d'accueil."</string>
@@ -206,8 +206,6 @@
   <string name="security_permission_open_wifi_settings">Ouvrir les paramètres Wi-Fi</string>
   <string name="xspace_resolver_activity_title">Sélectionner une application</string>
   <string name="user_switching_dialog_text">Changement…</string>
-  <string name="vivo">vivo</string>
-  <string name="vivo_phone">vivo</string>
   <string name="xspace_head">Application clônée</string>
   <string name="activity_package_delete_confirm_title">Attention</string>
   <string name="button_text_cancel">Annuler</string>
@@ -230,8 +228,6 @@
   <string name="close">Désactivé</string>
   <string name="always">Toujours</string>
   <string name="onehour">30 minutes</string>
-  <string name="oppo">OPPO</string>
-  <string name="oppo_phone">OPPO</string>
   <string name="twohours">1 heure</string>
   <string name="fourhours">2 heures</string>
   <string name="eighthours">8 heures</string>
@@ -257,11 +253,11 @@
   <string name="miui_forbid_poweroff_when_device_locked">"Impossible d'éteindre, l'appareil est verrouillé."</string>
   <string name="super_resolution_maintain_tips">"La super résolution n'est pas encore disponible."</string>
   <string name="wifi_assistant_wifi_no_internet">"Ce réseau Wi-Fi n'a pas accès à internet"</string>
-  <string name="wifi_assistant_wifi_no_internet_detail">Cliquer pour voir les détails</string>
-  <string name="wireless_charging_notification_message1">"Impossible de trouver des appareils sans fil à charger. Le chargement sans fil inversé est désactivé maintenant."</string>
-  <string name="wireless_charging_notification_message2">"La batterie est chargée à moins de 30%. Le chargement sans fil inversé est désactivé maintenant."</string>
-  <string name="wireless_charging_notification_message3">Une erreur est survenue pendant le chargement. Le chargement sans fil inversé est désactivé maintenant.</string>
-  <string name="wireless_charging_notification_titile">Désactivation du chargement sans fil inversé</string>
+  <string name="wifi_assistant_wifi_no_internet_detail">Cliquer pour afficher les détails</string>
+  <string name="wireless_charging_notification_message1">"Impossible de trouver des appareils sans-fil à charger. Le chargement sans-fil inversé est désactivé maintenant."</string>
+  <string name="wireless_charging_notification_message2">"La batterie est chargée à moins de 30%. Le chargement sans-fil inversé est désactivé maintenant."</string>
+  <string name="wireless_charging_notification_message3">Une erreur est survenue pendant le chargement. Le chargement sans-fil inversé est désactivé maintenant.</string>
+  <string name="wireless_charging_notification_titile">Désactivation du chargement sans-fil inversé</string>
   <string name="input_method_clipboard_tips">Les éléments copiés seront supprimés du presse-papiers après 48 heures</string>
   <string name="service_not_subscribed">SANS ABONNEMENT AU SERVICE -33-</string>
   <string name="user_authentication_failed">"ÉCHEC DE L'AUTHENTIFICATION -29-"</string>
