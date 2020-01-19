@@ -2,8 +2,8 @@
 [![License: CC BY-NC-SA 3.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%203.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 
 ## Référentiel MIUI v11
-* Support de la ROM Stable pour xiaomi.eu
-* Support de la ROM Bêta pour xiaomi.eu
+* Support des ROM Stable pour xiaomi.eu
+* Support des ROM Bêta pour xiaomi.eu
 
 ## Traducteur
 * Pseudo : pmspr4100
@@ -15,7 +15,6 @@
 
 ## Améliorations
 * Des mises à jour quotidiennes sont effectuées
-* Traduction différente de la version International
 * Traduction différente de la version Global
 * Pour tous les appareils Xiaomi et Redmi
 * Optimisation des traductions
