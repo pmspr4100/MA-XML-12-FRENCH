@@ -38,7 +38,7 @@
   <string name="home_title_none">Sélectionner des éléments</string>
   <string name="is_checked">Sélectionné</string>
   <string name="is_go_home">"Retour à écran d'accueil"</string>
-  <string name="is_go_home_summary">"Ouvrir la page de démarrage de l/'enregistreur après l'arrêt de l'enregistrement"</string>
+  <string name="is_go_home_summary">"Ouvrir la page de démarrage de l'enregistreur après l'arrêt de l'enregistrement"</string>
   <string name="loopback_sound">Haut-parleur</string>
   <string name="low_battery">"Chargez votre téléphone avant de démarrer l'enregistrement"</string>
   <string name="low_battery_title">Batterie faible</string>
@@ -71,10 +71,13 @@
   <string name="show_hard_key_summary">Afficher les invites lorsque les boutons Accueil, Menu et Retour sont appuyés</string>
   <string name="show_screen_touch">Afficher les gestes tactiles</string>
   <string name="show_screen_touch_summary">Visualiser les gestes utilisant un point blanc</string>
-  <string name="size_byte">O</string>
-  <string name="size_gigabyte">Go</string>
-  <string name="size_kilobyte">Ko</string>
-  <string name="size_megabyte">Mo</string>
+  <string name="size_byte">" o"</string>
+  <string name="size_gigabyte">" Go"</string>
+  <string name="size_kilobyte">" Ko"</string>
+  <string name="size_megabyte">" Mo"</string>
+  <string name="permission_microphone_desc">"Utilisation du microphone comme source audio pour les enregistrements d'écran"</string>
+  <string name="settings_other">Autre</string>
+  <string name="settings_privacy">Politique de confidentialité</string>
   <string name="sound_source">Source sonore</string>
   <string name="sound_source_summary">Sons système ou du microphone</string>
   <string name="sound_source_summary_without_system_sounds">Utiliser un microphone ou désactiver le son</string>

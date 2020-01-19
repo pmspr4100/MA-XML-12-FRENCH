@@ -11,6 +11,12 @@
         <item>4 Mbits/s</item>
         <item>1 Mbits/s</item>
     </string-array>
+    <string-array name="screenrecorder_settings_frames">
+        <item>24ips</item>
+        <item>30ips</item>
+        <item>48ips</item>
+        <item>60ips</item>
+    </string-array>
     <string-array name="screenrecorder_settings_orientation">
         <item>Auto</item>
         <item>Portrait</item>
@@ -19,10 +25,10 @@
     <string-array name="screenrecorder_settings_sound">
         <item>Désactiver le son</item>
         <item>Microphone</item>
-        <item>Son du Système</item>
+        <item>Son du système</item>
     </string-array>
     <string-array name="screenrecorder_settings_storage_location">
-        <item>Stockage Interne</item>
+        <item>Stockage interne</item>
         <item>Stockage externe</item>
     </string-array>
 </resources>
