@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string-array name="ai_item_action_array">
+        <item>None</item>
+        <item>Activate Google Assistant</item>
+     </string-array>
+     <string-array name="autofill_logging_level_entries">
+        <item>Off</item>
+        <item>Debug</item>
+        <item>Verbose</item>
+     </string-array>
+     <string-array name="cdma_system_select_choices">
+        <item>Home only</item>
+        <item>Automatic</item>
+     </string-array>
+     <string-array name="select_logd_system_levels">
+        <item>Off</item>
+        <item>Error</item>
+        <item>Warn</item>
+        <item>Info</item>
+        <item>Debug</item>
+        <item>Verbose</item>
+     </string-array>
+</resources>

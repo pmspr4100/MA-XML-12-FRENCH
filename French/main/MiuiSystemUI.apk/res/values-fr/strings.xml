@@ -1938,6 +1938,14 @@ Glissez vers le bas pour verrouiller"</string>
   <string name="usb_storage_title">USB connecté</string>
   <string name="use_mtp_button_title">Monter en tant que lecteur multimédia (MTP)</string>
   <string name="use_ptp_button_title">"Monter en tant qu'appareil photo(PTP)"</string>
+  <string name="usb_port_overheated_dialog_content">Le port de charge est en surchauffe. Débranchez le chargeur de votre appareil et vérifiez si le port de charge est propre. Contactez le service client si vous avez des questions.</string>
+  <string name="usb_port_overheated_notification_content">Débranchez le chargeur de votre appareil et vérifiez si le port de charge est propre.</string>
+  <string name="usb_port_overheated_title">Le port de charge est en surchauffe. Débranchez le chargeur.</string>
+  <string name="usb_port_short_circuit_dialog_content">Le chargement de votre appareil a été restreint. Débranchez le chargeur et essuyez le port de charge en retirant tous les liquides pour restaurer la capacité de charge.</string>
+  <string name="usb_port_short_circuit_notification_content">Débranchez le chargeur et essuyez le port de charge en retirant tous les liquides.</string>
+  <string name="usb_port_short_circuit_recovered_content">"Vous pouvez l'utiliser pour charger ou vous connecter à d'autres appareils."</string>
+  <string name="usb_port_short_circuit_recovered_title">Le port de charge fonctionne normalement maintenant</string>
+  <string name="usb_port_short_circuit_title">"Il y a de la vapeur dans le port de charge "</string>
   <string name="use_system_language_to_select_input_method_subtypes">Utiliser la langue du système</string>
   <string name="user_add_user">Ajouter un utilisateur</string>
   <string name="user_add_user_message_short">"Lorsque vous ajoutez un nouvel utilisateur, cette personne doit définir son espace.
