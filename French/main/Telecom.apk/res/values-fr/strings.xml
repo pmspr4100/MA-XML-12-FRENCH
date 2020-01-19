@@ -89,7 +89,7 @@
   <string name="bluetooth_battery_level">%1$s de batterie</string>
   <string name="bluetooth_connected">Connecté %1$s</string>
   <string name="bluetooth_connected_battery_level">Connecté, batterie à %1$s%2$s</string>
-  <string name="bluetooth_connected_no_a2dp">Connecté (aucun contenu mutimédia)%1$s</string>
+  <string name="bluetooth_connected_no_a2dp">Connecté (aucun contenu mutimédia) %1$s</string>
   <string name="bluetooth_connected_no_a2dp_battery_level">Connecté (aucun contenu multimédia), batterie à %1$s%2$s</string>
   <string name="bluetooth_connected_no_headset">Connecté (aucun téléphone)%1$s</string>
   <string name="bluetooth_connected_no_headset_battery_level">Connecté (aucun téléphone), batterie à %1$s%2$s</string>
@@ -364,8 +364,6 @@ Bluetooth"</string>
   <string name="power_remaining_less_than_duration_only">Il reste moins de %1$s</string>
   <string name="power_remaining_more_than_subtext">Il reste plus de %1$s (%2$s)</string>
   <string name="power_remaining_only_more_than_subtext">Il reste plus de %1$s</string>
-  <string name="power_remaining_settings_home_page">%1$s – %2$s</string>
-  <string name="preference_summary_default_combination">%1$s/%2$s</string>
   <string name="private_dns_mode_off">Désactivé</string>
   <string name="private_dns_mode_opportunistic">Automatique</string>
   <string name="private_dns_mode_provider">"Nom d'hôte du fournisseur DNS privé"</string>
