@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="pref_debug_address">
+        <item>正式环境</item>
+        <item>预发环境</item>
+        <item>测试环境</item>
+        <item>自定义环境</item>
+    </string-array>
     <string-array name="pref_fling_gesture_entries">
         <item>Page suivante</item>
         <item>"Changer d'onglets"</item>

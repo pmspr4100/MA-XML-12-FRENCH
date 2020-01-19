@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="comment_detail_title">
-        <item quantity="other">%d条回复</item>
-        <item quantity="one">%d条回复</item>
+        <item quantity="other">%d réponses</item>
+        <item quantity="one">%d réponse</item>
     </plurals>
     <plurals name="comment_hour_ago">
-        <item quantity="other">%d小时前</item>
-        <item quantity="one">%d小时前</item>
+        <item quantity="other">il y a %d heures</item>
+        <item quantity="one">il y a %d heure</item>
     </plurals>
     <plurals name="comment_look_all">
-        <item quantity="other">查看全部%d条评论></item>
-        <item quantity="one">查看全部%d条评论></item>
+        <item quantity="other">Voir %d commentaires</item>
+        <item quantity="one">Voir %d commentaire</item>
     </plurals>
     <plurals name="comment_minute_ago">
-        <item quantity="other">%d分钟前</item>
-        <item quantity="one">%d分钟前</item>
+        <item quantity="other">il y a %d minutes</item>
+        <item quantity="one">il y a %d minute</item>
     </plurals>
     <plurals name="comment_selected">
-        <item quantity="other">已选择%d理由</item>
-        <item quantity="one">已选择%d理由</item>
+        <item quantity="other">Sélectionnées %d raisons</item>
+        <item quantity="one">Sélectionné %d raison</item>
     </plurals>
     <plurals name="hot_word_hot_count">
         <item quantity="other">%d vues</item>
@@ -72,10 +72,10 @@
         <item quantity="one">"Supprimer %1$d élément de l'historique ?"</item>
     </plurals>
     <plurals name="video_playback_error">
-        <item quantity="other">"Couldn't load video.
-Will play the next one in %d seconds…"</item>
-        <item quantity="one">"Couldn't load video.
-Will play the next one in %d second…"</item>
+        <item quantity="other">"Impossible de charger la vidéo.
+Jouera le suivant dans %d secondes…"</item>
+        <item quantity="one">"Impossible de charger la vidéo.
+Jouera le suivant dans %d seconde…"</item>
     </plurals>
     <plurals name="video_subtitle_last_message">
         <item quantity="other">%d minutes restantes</item>
