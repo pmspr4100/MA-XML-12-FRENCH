@@ -6,17 +6,19 @@
 * Support de la ROM Bêta pour xiaomi.eu
 
 ## Traducteur
-* Pseudo: pmspr4100
-* Appareil: Redmi Note 7 Pro
-* Modèle: Noir 6/128
-* Miui OS: Version Bêta 
-* Contact: (pms.pr4100@gmail.com)
-* Paypal: https://www.paypal.me/pmspr4100
+* Pseudo : pmspr4100
+* Appareil : Redmi Note 7 Pro
+* Modèle : Noir 6/128
+* Miui OS : Version Bêta 
+* Contact : (pms.pr4100@gmail.com)
+* Paypal : https://www.paypal.me/pmspr4100
 
 ## Améliorations
 * Des mises à jour quotidiennes sont effectuées
+* Traduction différente de la version International
 * Traduction différente de la version Global
-* Pour tous les modèles Xiaomi
+* Pour tous les appareils Xiaomi et Redmi
+* Optimisation des traductions
 * Ajustement des traductions
 * Correction orthographique
 
