@@ -20,6 +20,15 @@
   <string name="all_folder_name">Toutes les notes</string>
   <string name="all_terms">%1$s et %2$s</string>
   <string name="app_name">Notes</string>
+  <string name="confirm_cancel">"Pas d'accord"</string>
+  <string name="confirm_ok">Accepter</string>
+  <string name="permission_get_account_desc">Synchronisation des notes avec le cloud</string>
+  <string name="permission_microphone_desc">Prendre des notes vocales</string>
+  <string name="permission_network_for_cloud_desc">"Pour synchroniser les notes avec le cloud, vous devez vous connecter à internet. Les données mobiles peuvent être utilisées pour synchroniser des éléments. Se connecter maintenant ?</string>
+  <string name="permission_read_contact_desc">"Association des notes créées lors d'appels à des contacts"</string>
+  <string name="permission_xiaoai_desc">"&lt;Data&gt;Mi IA collectera vos enregistrements vocaux et votre ID d'appareil pour transcrire l'audio et créer des notes vocales. En savoir plus sur Mi IA &amp;lt;a href=\"%1$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;.&lt;/Data&gt;"</string>
+  <string name="privacy_note_content_empty">Aucun élément ici encore.</string>
+  <string name="remind_title">Rappels</string>
   <string name="app_notification_info">Notes are working in the background</string>
   <string name="app_widget">Notes</string>
   <string name="application_icon">"Icône de l'appli"</string>
@@ -298,7 +307,7 @@ Autorisez Notes à lire le statut et lidentité du téléphone."</string>
   <string name="todo_schedule_time_mdhm">dd/MM HH:mm</string>
   <string name="todo_schedule_time_repeat_day">, tous les jours</string>
   <string name="todo_schedule_time_repeat_month">, chaque mois</string>
-  <string name="todo_schedule_time_repeat_normal_workday">, Lundi à vendredi</string>
+  <string name="todo_schedule_time_repeat_normal_workday">, lundi à vendredi</string>
   <string name="todo_schedule_time_repeat_week">, toutes les semaines</string>
   <string name="todo_schedule_time_repeat_year">, chaque année</string>
   <string name="todo_schedule_time_today">"Aujourd'hui"</string>
