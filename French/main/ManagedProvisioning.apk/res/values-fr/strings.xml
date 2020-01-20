@@ -91,7 +91,6 @@
   <string name="dismiss">Ignorer</string>
   <string name="done">Terminé</string>
   <string name="downloading_administrator_header">Préparation de la configuration de travail…</string>
-  <string name="ellipsis">…</string>
   <string name="encrypt">Chiffrer</string>
   <string name="encrypt_device_text_for_device_owner_setup">Cet appareil doit être chiffré avant de pouvoir être configuré. Cela peut prendre un certain temps.</string>
   <string name="encrypt_device_text_for_profile_owner_setup">Pour pouvoir configurer votre profil professionnel, vous devez chiffrer votre appareil. Cela peut prendre un certain temps.</string>
@@ -100,11 +99,11 @@
   <string name="error_hash_mismatch">"Impossible d'utiliser l'appli admin à cause d'une erreur de vérification. Contacter votre admin IT pour de l'aide."</string>
   <string name="error_installation_failed">"Impossible d'installer l'appli admin"</string>
   <string name="error_package_invalid">"Impossible d'utiliser l'appli admin. Composants manquants ou corrompus. Contacter votre admin IT pour de l'aide."</string>
-  <string name="error_wifi">"Connexion au WLAN impossible"</string>
+  <string name="error_wifi">"Connexion au Wi-Fi impossible"</string>
   <string name="expand">Développer</string>
   <string name="expand_button_title">Avancé</string>
   <string name="for_help_contact_admin">"Contacter votre administrateur pour obtenir de l'aide"</string>
-  <string name="frp_clear_progress_text">Veuillez patienter...</string>
+  <string name="frp_clear_progress_text">Veuillez patienter…</string>
   <string name="frp_clear_progress_title">Suppression en cours</string>
   <string name="if_questions_contact_admin">Contacter votre administrateur en cas de questions</string>
   <string name="info_anim_title_0">Une nouvelle manière de travailler</string>
@@ -134,7 +133,7 @@
   <string name="profile_owner_info_comp">"Un profil sera créé pour vos applications professionnelles. Ce profil et le reste de l'appareil seront gérés et contrôlés par votre entreprise. Des conditions d'utilisation s'appliquent."</string>
   <string name="profile_owner_info_with_terms_headers">"Vous allez créer un profil professionnel qui sera géré et contrôlé par votre entreprise. Les conditions d'utilisation %1$s s'appliquent."</string>
   <string name="profile_owner_info_with_terms_headers_comp">"Un profil sera créé pour vos applications professionnelles. Ce profil et le reste de l'appareil seront gérés et contrôlés par votre entreprise. Les conditions d'utilisation  %1$s s'appliquent."</string>
-  <string name="progress_connect_to_mobile_network">Connexion au réseau mobile…</string>
+  <string name="progress_connect_to_mobile_network">Connexion au réseau cellulaires…</string>
   <string name="progress_connect_to_wifi">Connexion au réseau Wi-Fi en cours…</string>
   <string name="progress_data_process">Traitement des données de configuration…</string>
   <string name="progress_delete_non_required_apps">Suppression des applis système non requises…</string>
@@ -162,7 +161,6 @@
   <string name="setup_profile_progress">Configurer votre profil. Affichage de la progression.</string>
   <string name="setup_work_device">"Configuration de l'appareil professionnel…"</string>
   <string name="setup_work_profile">Configurer un profil professionnel</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="stop_setup_reset_device_question">"Arrêter la configuration et réinitialiser l'appareil ?"</string>
   <string name="sure_you_want_to_delete_profile">Si vous continuez, toutes les applications et les données associées à ce profil seront supprimées.</string>
   <string name="suw_back_button_label">Retour</string>
