@@ -106,9 +106,9 @@ Si vous décidez de supprimer vos données de santé après avoir choisi de les 
   <string name="data_safety_tip_title">Suppression des données de santé</string>
   <string name="data_source">Source de données</string>
   <string name="data_source_data_updating">Mise à jour des données de santé…</string>
-  <string name="data_source_list_description">"Mi Health gets health data (%1$s) from these sources. If the data is duplicated in multiple sources, you'll see the data from the sources that appear first on the list in Mi Health."</string>
+  <string name="data_source_list_description">"Mi Santé obtient des données sur la santé (%1$s) à partir de ces sources. Si les données sont dupliquées dans plusieurs sources, vous verrez les données des sources qui apparaissent en premier sur la liste dans Mi Santé."</string>
   <string name="data_source_manage">Gérer les sources de données</string>
-  <string name="data_source_not_support_hm_description">"%1$s doesn't provide detailed step count. You can try switching to other data sources in More &gt; Data sources."</string>
+  <string name="data_source_not_support_hm_description">"%1$s ne fournit pas de décompte détaillé. Vous pouvez essayer de basculer vers d'autres sources de données dans Plus > Sources de données."</string>
   <string name="date_format_m_d">d/M</string>
   <string name="date_format_m_d_2">dd/MM</string>
   <string name="date_format_m_d_3">dd/MM</string>
@@ -133,7 +133,7 @@ Si vous décidez de supprimer vos données de santé après avoir choisi de les 
   <string name="device_data_manage">Gérer les appareils</string>
   <string name="device_data_sync">Synchroniser les données de santé</string>
   <string name="device_list_origin_description">"Ces appareils sont associés au Compte Mi %1$s. Si vous ne trouvez pas l'appareil dont vous avez besoin ici, assurez-vous que vous l'avez déjà ajouté dans l'application correspondante."</string>
-  <string name="device_off_sync_description">"Les données de santé générées sur cet appareil ne seront pas synchronisées avec Mi Health"</string>
+  <string name="device_off_sync_description">"Les données de santé générées sur cet appareil ne seront pas synchronisées avec Mi Santé"</string>
   <string name="diagnosis_log_send_failed">Le journal de diagnostic envoyé a échoué.</string>
   <string name="diagnosis_log_sent_format">"Le journal de diagnostic a été envoyé.
 ID: %s
