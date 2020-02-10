@@ -151,6 +151,10 @@
   <string name="preference_status_bar_indicator_prompt">Show status bar shortcut while recording</string>
   <string name="preference_tip_rename">Enregistrer le nom manuellement</string>
   <string name="privacy_policy_title">Politique de confidentialité</string>
+  <string name="recognition_button_add_to_queue">Add to queue</string>
+  <string name="recognition_button_cancel">Not now</string>
+  <string name="recognition_button_start">Transcribe</string>
+  <string name="recognition_confirm_dialog_body">"Transcribing might take some time. You'll receive a notification when this task is completed. Transcribe now?"</string>
   <string name="recognition_error_cancel">Annulé</string>
   <string name="recognition_error_code">Erreur de code: %d</string>
   <string name="recognition_error_download_cancel">Plus tard</string>
@@ -166,6 +170,11 @@
   <string name="recognition_error_internal">Erreur interne</string>
   <string name="recognition_error_stopped">Transcription arrêtée</string>
   <string name="recognition_error_unknown">Une erreur inconnue sest produite. Signalez-le nous, puis réessayez.</string>
+  <string name="recognition_interrupt_current_dialog_body">"Transcribing might take some time. You'll receive a notification when this task is completed. \"%s\" is being transcribed now. Add this task to transcribing queue?"</string>
+  <string name="recognition_notification_channel">Transcribing</string>
+  <string name="recognition_notification_complete_success">Transcribed \"%s\" successfully. Tap to view.</string>
+  <string name="recognition_notification_error">"Couldn't transcribe \"%s\""</string>
+  <string name="recognition_notification_running">Transcribing \"%s\"…</string>
   <string name="recognition_process_dialog_body">Dautres enregistrements (%s) sont en cours de transcription. Arrêtez les tâches en cours et démarrez-en une nouvelle?</string>
   <string name="recognition_process_dialog_cancel">File dattente</string>
   <string name="recognition_process_dialog_confirm">Forcer le démarrage</string>
@@ -173,6 +182,7 @@
   <string name="recognition_status_downloaded">Téléchargement du moteur de transcription avec succès</string>
   <string name="recognition_status_downloading">"Téléchargement "</string>
   <string name="recognition_status_init">"Préparation en cours "</string>
+  <string name="recognition_stop_current">Stop ongoing task</string>
   <string name="recognize_choose_dialog_offline">Transcrire gratuitement</string>
   <string name="recognize_choose_dialog_offline_desp">Transcrire des enregistrements sans se connecter à Internet</string>
   <string name="recognize_choose_dialog_online">Retranscrire dans le cloud</string>

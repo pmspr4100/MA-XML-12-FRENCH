@@ -110,6 +110,7 @@
 et ajustez les préférences automatiquement"</string>
   <string name="ai_scene_top_moon_off">Mode faible luminosité</string>
   <string name="ai_scene_top_tip">Mode lune</string>
+  <string name="ai_watermark_title">AI watermark</string>
   <string name="audio_focus_exit_button_text">Désactiver le focus audio</string>
   <string name="autozoom_click_hint">"Appuyez sur un objet pour le maintenir au point lorsqu'il est en mouvement. Restez à au moins 3 mètres pour un meilleur effet."</string>
   <string name="autozoom_disabled_hint">"Arrêt du suivi d'un objet en mouvement"</string>
@@ -185,8 +186,7 @@ et ajustez les préférences automatiquement"</string>
   <string name="color_effect_live_none">Normal</string>
   <string name="color_effect_live_solar">Bleu ciel</string>
   <string name="color_effect_live_years">Sépia</string>
-  <string name="color_enhance">Coloré</string>
-  <string name="color_enhance_mode">Mode coloré</string>
+  <string name="color_enhance_mode">Couleurs améliorées</string>
   <string name="config_name_group">Groupe selfie</string>
   <string name="config_name_magic">Magique</string>
   <string name="config_name_scene">Scène</string>
@@ -593,6 +593,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_camera_coloreffect_title">Filtres</string>
   <string name="pref_camera_common_settings">Paramètres généraux</string>
   <string name="pref_camera_contrast_title">Contrast</string>
+  <string name="pref_camera_debug_info_as_watermark_title">开启水印调试</string>
   <string name="pref_camera_delay_capture_entry_10s">Délai 10s</string>
   <string name="pref_camera_delay_capture_entry_3s">Délai 3s</string>
   <string name="pref_camera_delay_capture_entry_5s">Délai 5s</string>
@@ -740,6 +741,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_camera_video_duration_entry_30">30 minutes</string>
   <string name="pref_camera_video_duration_entry_mms">30 secondes (MMS)</string>
   <string name="pref_camera_video_log_tips">LOG</string>
+  <string name="pref_camera_video_sat_enable_title">开启视频平滑变焦功能</string>
   <string name="pref_camera_video_tag">Autoriser le marquage de vidéos</string>
   <string name="pref_camera_video_tag_description">"Appuyez sur \"Marquer\" lors de l'enregistrement d'une vidéo pour pouvoir revenir aux moments marqués de la lecture."</string>
   <string name="pref_camera_volumekey_function_entry_shutter">Déclencheur</string>
@@ -963,6 +965,11 @@ Le mode ultra grand angle vient vous aider lorsque vous ne pouvez pas vous éloi
 pour enregistrer et éditer des vidéos où que vous soyez"</string>
   <string name="vv_use_hint_text_title">VLOG</string>
   <string name="wait">Chargement…</string>
+  <string name="watermark_tab_city">Ville</string>
+  <string name="watermark_tab_festival">Vacances</string>
+  <string name="watermark_tab_general">Général</string>
+  <string name="watermark_tab_scene">Scène</string>
+  <string name="watermark_tab_spots">Site</string>
   <string name="wideselfie_press_shoot_key_to_start">"Appuyez sur le bouton de l'obturateur"</string>
   <string name="wideselfie_result_image_lossless">"Impossible de créer une prise de vue panoramique"</string>
   <string name="wideselfie_rotate_slowly">Faite pivoter le téléphone sur le côté</string>

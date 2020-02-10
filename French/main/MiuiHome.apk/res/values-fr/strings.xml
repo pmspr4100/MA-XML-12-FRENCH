@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="accessibility_menu_item_split_disable">"App doesn't support Split screen."</string>
+  <string name="accessibility_menu_item_split_enable">App supports Split screen</string>
+  <string name="accessibility_recents_item_open_app_info">Open %s application info.</string>
+  <string name="accessibility_splite_screen_primary">Added as the primary app in Split screen</string>
+  <string name="accessibility_splite_screen_secondary">Added as the secondary app in Split screen</string>
   <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
   <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
   <string name="abc_action_menu_overflow_description">"Plus d'options"</string>

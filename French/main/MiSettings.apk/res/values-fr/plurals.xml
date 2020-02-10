@@ -25,6 +25,14 @@
         <item quantity="other">%d jours</item>
         <item quantity="one">%d jour</item>
     </plurals>
+    <plurals name="usage_remain_about_hour">
+        <item quantity="other">≈%s hrs</item>
+        <item quantity="one">≈%s hr</item>
+    </plurals>
+    <plurals name="usage_remain_about_miunte">
+        <item quantity="other">≈%s mins</item>
+        <item quantity="one">≈%s min</item>
+    </plurals>
     <plurals name="usage_state_device_explain_today">
         <item quantity="other">Débloqué %d fois</item>
         <item quantity="one">Débloqué %d fois</item>
@@ -84,6 +92,14 @@
     <plurals name="usage_state_work_day_hour">
         <item quantity="other">Semaines: %d heures</item>
         <item quantity="one">semaines: %d heures</item>
+    </plurals>
+    <plurals name="usage_stats_remain_hour">
+        <item quantity="other">%s hrs</item>
+        <item quantity="one">%s hr</item>
+    </plurals>
+    <plurals name="usage_stats_remain_miunte">
+        <item quantity="other">%s mins</item>
+        <item quantity="one">%s min</item>
     </plurals>
     <plurals name="usage_state_work_day_minute">
         <item quantity="other">Weekdays: %d minutes</item>
