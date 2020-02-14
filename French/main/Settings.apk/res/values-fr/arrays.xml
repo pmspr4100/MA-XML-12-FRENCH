@@ -9,6 +9,19 @@
       <item>TIÈDE</item>
       <item>FROID</item>
     </string-array>
+     <string-array name="ai_item_action_array">
+      <item>Aucun</item>
+      <item>"Activer l'assistant Google"</item>
+     </string-array>
+    <string-array name="autofill_logging_level_entries">
+      <item>Désactiver</item>
+      <item>Débug</item>
+      <item>Verbose</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+      <item>Home only</item>
+      <item>Automatique</item>
+    </string-array>
     <string-array name="ai_key_item_name">
       <item>"Parler à l'assistant Google"</item>
       <item>Ouvrir la recherche Google</item>
