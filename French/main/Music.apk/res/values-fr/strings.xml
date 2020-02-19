@@ -54,6 +54,7 @@
   <string name="action_item_hifi">Écouteurs et effets audio</string>
   <string name="action_item_play_all">Lecture aléatoire</string>
   <string name="action_item_play_next">Lire plus tard</string>
+  <string name="action_item_play_video">Play music video</string>
   <string name="action_item_remove">Retirer</string>
   <string name="action_item_remove_from_favorite">Enlever des favoris</string>
   <string name="action_item_share">Partager</string>
@@ -136,6 +137,7 @@
   <string name="checking_new_version">Vérification des updates…</string>
   <string name="choose_download_quality">Choisir la qualité de téléchargement</string>
   <string name="choose_stream_quality">Qualité de diffusion préférée</string>
+  <string name="click_and_watch_video_tip">Tap to play music video</string>
   <string name="click_to_add_album_cover_and_lyric">"Appuyez pour ajouter une couverture d'album et des paroles"</string>
   <string name="click_to_shuffle">Appuyer pour une lecture aléatoire</string>
   <string name="close_music_time">"Temps restant: "</string>
@@ -376,6 +378,7 @@
   <string name="fcm_fallback_notification_channel_label">Divers</string>
   <string name="feed_back">Commentaires</string>
   <string name="file_not_found">"Le fichier n'existe pas"</string>
+  <string name="filter_by_MP4">Display folders with MP4 files</string>
   <string name="filter_by_duration">Par longueur</string>
   <string name="filter_by_duration_max">%d min</string>
   <string name="filter_by_duration_min">%d s</string>
@@ -418,7 +421,8 @@
   <string name="home_tab_local">Ma musique</string>
   <string name="home_tab_more_music">More music</string>
   <string name="home_tab_online">Musique en ligne</string>
-  <string name="home_tab_search">Search</string>
+  <string name="home_tab_recommend">En ligne</string>
+  <string name="home_tab_search">Recherche</string>
   <string name="home_tab_yandex">Yandex Musique</string>
   <string name="hot_icon_in_fast_indexer">H</string>
   <string name="hungama_batch_download_alert_summary">Seuls les membres PRO peuvent télécharger plusieurs chansons. Obtenez dès maintenant un abonnement PRO ?</string>
@@ -757,6 +761,8 @@ Be Happy"</string>
   <string name="service_and_settings">Service et paramètres</string>
   <string name="set_as_alarm_clock_ringtone">Alarme</string>
   <string name="set_as_ring">Définir comme sonnerie</string>
+  <string name="set_online_home_subtitle">Open online recommendations when the app is launched</string>
+  <string name="set_online_home_title">Show online recommendations on startup</string>
   <string name="set_ringtones_failed">Impossible de définir la sonnerie</string>
   <string name="set_ringtones_successful">%s définir comme sonnerie</string>
   <string name="setting_feature_setting">Paramètres de fonctionnalités</string>
@@ -909,4 +915,5 @@ Taille de la mise à jour Delta: %2$s"</string>
   <string name="xiaomi_update_sdk_megabytes_unit">%1$s Mo</string>
   <string name="you_can_switch_mode_in_settings">Vous pouvez basculer entre les modes dans les paramètres</string>
   <string name="you_may_like">Tu pourrais aussi aimer</string>
+  <string name="youtube_play_history">Playback history</string>
 </resources>

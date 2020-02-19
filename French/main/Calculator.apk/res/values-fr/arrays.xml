@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="height_array">
+        <item>Centimètres</item>
+        <item>Mètres</item>
+        <item>Pieds</item>
+        <item>Pouces</item>
+    </string-array>
+	<string-array name="weight_array">
+        <item>Kilogrammes</item>
+        <item>Pounds</item>
+    </string-array>
     <string-array name="mortgage_repayment">
         <item>Versements égaux</item>
         <item>Versements dégressifs</item>

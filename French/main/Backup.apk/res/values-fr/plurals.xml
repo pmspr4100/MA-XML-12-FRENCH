@@ -16,6 +16,10 @@
         <item quantity="other">%d éléments</item>
         <item quantity="one">%d élément</item>
     </plurals>
+    <plurals name="local_main_backup_manage_summary">
+        <item quantity="other">%1$s sauvegardes (%2$s)</item>
+        <item quantity="one">%1$s sauvegarde (%2$s)</item>
+    </plurals>
     <plurals name="save_item_failed_summary_seg1">
         <item quantity="other">"%d éléments importés. "</item>
         <item quantity="one">"%d élément importé. "</item>

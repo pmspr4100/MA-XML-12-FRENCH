@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="age_label_days">
+        <item quantity="other">%d jours</item>
+        <item quantity="one">%d jour</item>
+    </plurals>
+    <plurals name="age_label_months">
+        <item quantity="other">%d mois</item>
+        <item quantity="one">%d mois</item>
+    </plurals>
+    <plurals name="age_label_yrs">
+        <item quantity="other">Année</item>
+        <item quantity="one">Année</item>
+    </plurals>
     <plurals name="entries">
         <item quantity="other">"%d d'éléments"</item>
         <item quantity="one">%d élément</item>
@@ -15,5 +27,65 @@
     <plurals name="mortgage_summary_years">
         <item quantity="other">%1$d années (%2$d mois)</item>
         <item quantity="one">%1$d année (%2$d mois)</item>
+    </plurals>
+    <plurals name="tenure_months">
+        <item quantity="other">%d mois</item>
+        <item quantity="one">%d mois</item>
+    </plurals>
+    <plurals name="a_hour_ago">
+        <item quantity="other">il y a 1 heures</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">il y a 1 heure</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Half an hour ago</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Dans 1 heures</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">In half an hour</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Immédiatement</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">dans %d mins</item>
+        <item quantity="one">dans 1 min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Maintenant</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">il y a %d mins</item>
+        <item quantity="one">il y a 1 min</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Half an hour ago</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Dans 1 hour</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">In half an hour</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Immédiatement</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">dans %d minutes</item>
+        <item quantity="one">dans 1 minute</item>
+    </plurals>
+    <plurals name="items_selected">
+        <item quantity="other">%d items selected</item>
+        <item quantity="one">%d item selected</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Just now</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">il y a %d minutes</item>
+        <item quantity="one">il y a 1 minute</item>
     </plurals>
 </resources>

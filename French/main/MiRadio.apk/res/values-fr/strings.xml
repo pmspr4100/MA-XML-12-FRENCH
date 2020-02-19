@@ -8,6 +8,16 @@
   <string name="abc_activitychooserview_choose_application">Sélectionner une application</string>
   <string name="abc_capital_off">Désactivé</string>
   <string name="abc_capital_on">Activé</string>
+  <string name="abc_menu_alt_shortcut_label">Alt+</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+  <string name="abc_menu_delete_shortcut_label">delete</string>
+  <string name="abc_menu_enter_shortcut_label">enter</string>
+  <string name="abc_menu_function_shortcut_label">Function+</string>
+  <string name="abc_menu_meta_shortcut_label">Meta+</string>
+  <string name="abc_menu_shift_shortcut_label">Shift+</string>
+  <string name="abc_menu_space_shortcut_label">space</string>
+  <string name="abc_menu_sym_shortcut_label">Sym+</string>
+  <string name="abc_prepend_shortcut_label">Menu+</string>
   <string name="abc_search_hint">Recherche…</string>
   <string name="abc_searchview_description_clear">Effacer la requête</string>
   <string name="abc_searchview_description_query">Requête de recherche</string>
@@ -104,6 +114,8 @@
   <string name="backup_empty_button">No songs selected</string>
   <string name="backup_immediate">Back up</string>
   <string name="backup_song_title">Select songs to back up</string>
+  <string name="balance_detail">使用余额：%1$s听币</string>
+  <string name="balance_insufficiently">听币不足，请充值</string>
   <string name="being_disable_auto_payment">Turning off…</string>
   <string name="being_enable_auto_payment">Turning on…</string>
   <string name="bind_sign_in_title">Bind to Mi Account</string>
@@ -125,6 +137,11 @@
   <string name="channel_name_download">Download manager</string>
   <string name="channel_name_file">File scanning</string>
   <string name="channel_tip_text">More radio stations</string>
+  <string name="chapter_pay_explain">"1．1听币=1元人民币
+2．免费节目不扣费，已购节目会自动跳过
+3．数字音频作品购买成功后不可退回"</string>
+  <string name="chapter_pay_title">从%1$s开始购买</string>
+  <string name="character_counter_content_description">Character limit exceeded %1$d of %2$d</string>
   <string name="chapter_count">(%1$s Episodes)</string>
   <string name="check_in_complete_text">Checked in</string>
   <string name="check_in_get_coin">签到赠币</string>
@@ -189,6 +206,7 @@
   <string name="data_usage_warning">Data usage</string>
   <string name="data_usage_warning_summary">Using your mobile data connection to stream high quality music may increase your data usage charges.</string>
   <string name="date_format_str">dd-MM-yyyy</string>
+  <string name="day_mode">日间模式</string>
   <string name="default_songtab_name">Playlist categories</string>
   <string name="delete">Delete</string>
   <string name="delete_comment_failed">"Couldn't delete comment"</string>
@@ -435,7 +453,10 @@
   <string name="impunity_declaration_positive_text">Agree</string>
   <string name="impunity_declaration_title">Terms of Service</string>
   <string name="individuation_recommend_message">Turn on recommendations to receive personalized suggestions based on your preferences.</string>
+  <string name="individuation_recommend_setting_title">Personalized recommendations</string>
+  <string name="individuation_recommend_switch_message">"You won't receive recommendations based on your personal interests after you turn this feature off. Turn off anyway?"</string>
   <string name="individuation_recommend_title">Recommendations</string>
+  <string name="individuation_service_switch">Personalized recommendations</string>
   <string name="input_hint_prefix">Enter %1$s</string>
   <string name="installing_apk">Installation…</string>
   <string name="insufficient_space">"Pas assez d'espace sur la mémoire interne de votre appareil"</string>
@@ -532,6 +553,7 @@
   <string name="msg_fm_starting">Démarrage…</string>
   <string name="msg_noantenna_message">Aucun écouteur détecté. Certaines fonctions pourraient ne pas être disponibles.</string>
   <string name="msg_try_plug_headset">Connect headphones and try again.</string>
+  <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
   <string name="multiple_select">Select</string>
   <string name="music_filter">Filter audio files</string>
   <string name="my_account">Mi Account</string>
@@ -643,7 +665,7 @@
   <string name="passport_user_id_intro">Sign in %1$s</string>
   <string name="passport_v_code_error">Verification code is incorrect</string>
   <string name="passport_wechat_not_install">WeChat is not installed</string>
-  <string name="password_toggle_content_description">Toggle password visibility</string>
+  <string name="password_toggle_content_description">Show password</string>
   <string name="pause_download">Pause</string>
   <string name="paused_by_app">Paused</string>
   <string name="paused_in_power_save_mode">Paused when Battery saver is on</string>
@@ -665,6 +687,10 @@
   <string name="play_continue">&lt;Data&gt;Continue playing &amp;lt;font color=#999999&amp;gt;(%1$d)&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
   <string name="play_error_program_not_find">"This program isn't available."</string>
   <string name="play_mode_circle">Circle Mode</string>
+  <string name="play_mode_circle_hint">Repeating one track now</string>
+  <string name="play_mode_circle_title">Loop one</string>
+  <string name="play_mode_normal_hint">Playing tracks in the original order now</string>
+  <string name="play_mode_normal_title">Play all</string>
   <string name="play_mode_shuffle">Shuffle Mode</string>
   <string name="play_mode_single">Single Mode</string>
   <string name="play_next">Play next</string>

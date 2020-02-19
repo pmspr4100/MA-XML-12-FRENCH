@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="accessibility_menu_item_split_disable">"App doesn't support Split screen."</string>
+  <string name="accessibility_menu_item_split_enable">App supports Split screen</string>
+  <string name="accessibility_recents_item_open_app_info">Open %s application info.</string>
+  <string name="accessibility_splite_screen_primary">Added as the primary app in Split screen</string>
+  <string name="accessibility_splite_screen_secondary">Added as the secondary app in Split screen</string>
   <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
   <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
   <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
@@ -24,8 +29,8 @@
   <string name="edit">Éditer</string>
   <string name="default_folder_title_other_apps">Autres applications</string>
   <string name="one_key_call_title">Appuyez pour composer</string>
-  <string name="system_shortcuts_remove">Supprimer</string>
   <string name="system_text">Système</string>
+  <string name="task_access_locked_app_msg">Turned on app lock</string>
   <string name="add_custom_category">Personnaliser</string>
   <string name="add_screen">Ajouter un écran</string>
   <string name="added_all_category">Ajout de toutes les applications avec succès</string>
@@ -267,13 +272,18 @@
   <string name="guide_install_app_msg">"Cette application n'est pas installée sur votre appareil. Retrouvez et installez l'application maintenant ?"</string>
   <string name="guide_install_app_title">"Trouver et installer l'application ?"</string>
   <string name="guide_tips_editing_mode">Appuyez et maintenez pour prendre un widget</string>
+  <string name="hide_apps_title">"Masquer les icônes d'application"</string>
   <string name="home_gesture_content_center">Centre de contenu</string>
   <string name="home_gesture_global_search">Rechercher</string>
   <string name="home_gesture_no_action">Aucun</string>
   <string name="home_gesture_notification_bar">Notifications</string>
   <string name="home_pull_down_action">"Glisser vers le bas sur l'écran d'accueil"</string>
   <string name="home_slide_up_action">"Glisser vers le haut sur l'écran d'accueil"</string>
+  <string name="home_switch_personal_assistant">-1 screen</string>
   <string name="launcher_pull_down_title">"Glisser vers le bas sur l'écran d'accueil"</string>
+  <string name="launcher_search_bar_title">Home screen search bar</string>
+  <string name="launcher_search_bar_value_disable">Off</string>
+  <string name="launcher_search_bar_value_enable">On</string>
   <string name="launcher_slide_up_title">"Glisser vers le haut sur l'écran d'accueil"</string>
   <string name="hide_apps_title">"Masquer les icônes de l'application"</string>
   <string name="home_screen">"Écran d'accueil"</string>
@@ -287,7 +297,6 @@
   <string name="is_system_wallpaper_message">Impossible de supprimer les ressources système</string>
   <string name="launcher_global_search_mode_title">Recherche global</string>
   <string name="launcher_global_search_provider_title">Fournisseur de recherche global</string>
-  <string name="launcher_minus_screen_title">Affichage rapide</string>
   <string name="launcher_not_exist">"Une erreur s'est produite, retournez à l'écran d'accueil et réessayez."</string>
   <string name="launcher_title">"Écran d'accueil et récents"</string>
   <string name="like">Ajouter aux favoris</string>
@@ -304,6 +313,8 @@
   <string name="manager_group_settings">"Gérer les catégories d'applications"</string>
   <string name="memory_clear_nothing_result">Rien à effacer dans le cache</string>
   <string name="memory_clear_result">"%1$s o effacés"</string>
+  <string name="memory_clear_result_giga">"%1$s Go effacés"</string>
+  <string name="memory_clear_result_mega">"%1$s Mo effacés"</string>
   <string name="menu_add">Ajouter</string>
   <string name="menu_auto_fill_of_uninstall">"Remplir les cellules d'applications désinstallées"</string>
   <string name="menu_back_desktop">"Retour à l'écran d'accueil"</string>
@@ -357,6 +368,7 @@
   <string name="photo_adjust">Prévisualiser</string>
   <string name="photo_confirm">Définir</string>
   <string name="photo_load_failed">Impossible de charger la photo</string>
+  <string name="please_slide_agian">Slide again</string>
   <string name="pref_cell_layout_size">Format de la grille</string>
   <string name="pref_enable_drawing_cache_summary">Désactiver cette option permettra de libérer plus de mémoire. Cela rendra les performances plus lentes.</string>
   <string name="pref_enable_drawing_cache_title">Cache graphique</string>
@@ -377,7 +389,24 @@
   <string name="privacy_thumbnail_blur_title">"Flouter les aperçus d'applications"</string>
   <string name="quick_app">Applications rapides</string>
   <string name="recent_apps">Récents</string>
+  <string name="recent_menu_item_info">Info</string>
+  <string name="recent_menu_item_lock">Lock</string>
+  <string name="recent_menu_item_multi_window">Split</string>
+  <string name="recent_menu_item_unlock">Unlock</string>
+  <string name="recents_app_info_button_label">App info</string>
   <string name="recents_config_title">Récents</string>
+  <string name="recents_dimiss_task">Clear</string>
+  <string name="recents_empty_message">No recent items</string>
+  <string name="recents_empty_message_dismissed_all">"You've cleared everything"</string>
+  <string name="recents_empty_message_multi_window">Open apps from the Home screen</string>
+  <string name="recents_forbid_dock_when_screening_toast_text">"Can't use Split screen while casting"</string>
+  <string name="recents_task_screening">Casting</string>
+  <string name="recents_title_app_manager">Manage apps</string>
+  <string name="recents_title_game">Games</string>
+  <string name="recents_title_garbage_cleanup">Cleaner</string>
+  <string name="recents_title_garbage_deepclean">Deep clean</string>
+  <string name="recents_title_market">Find apps</string>
+  <string name="recents_title_security_scan">Security scan</string>
   <string name="recommend_apk_size_and_desc">%1$d Mo | %2$s</string>
   <string name="recommend_app">"Suggestions d'applications"</string>
   <string name="recommend_apps_default_title">Vide</string>
@@ -425,12 +454,17 @@
   <string name="sort_by_not_defined">Tri-auto</string>
   <string name="start_activity_failed">Impossible de démarrer</string>
   <string name="starting_preset_app">Démarrage…</string>
+  <string name="status_bar_recent_memory_info1">"%1$s o - %2$s o disponible"</string>
   <string name="status_downloaded">Téléchargée</string>
   <string name="status_downloading">Téléchargement en cours</string>
   <string name="status_installing">Installation</string>
   <string name="status_paused">En pause</string>
   <string name="status_pending">En attente</string>
+  <string name="switch_personal_assistant_app_vault">App vault</string>
+  <string name="switch_personal_assistant_google">Google Discover</string>
+  <string name="switch_personal_assistant_none">None</string>
   <string name="system_shortcuts_more_operation">Informations</string>
+  <string name="system_shortcuts_remove">Supprimer</string>
   <string name="title_jeejen">"Écran d'accueil Jeejen"</string>
   <string name="title_select_live_folder">Sélectionner un dossier</string>
   <string name="title_select_shortcut">Sélectionner un raccourci</string>

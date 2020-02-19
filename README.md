@@ -8,8 +8,7 @@
 ## Traducteur
 * Pseudo : pmspr4100
 * Appareil : Redmi Note 7 Pro
-* Modèle : Noir 6/128
-* Miui OS : Version Bêta 
+* Android 10 : Pixel Expérience 
 * Contact : (pms.pr4100@gmail.com)
 * Paypal : https://www.paypal.me/pmspr4100
 

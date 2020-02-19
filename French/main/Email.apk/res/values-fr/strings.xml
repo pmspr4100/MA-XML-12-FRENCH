@@ -307,7 +307,7 @@
   <string name="certificate_add_failed">"Impossible d'ajouter le certificat \"%s\""</string>
   <string name="certificate_added">Certificat \"%s\" ajouté avec succès</string>
   <string name="certificate_alias_prompt_certificate_name">Nom</string>
-  <string name="certificate_alias_prompt_hit">veuillez entrer l'alias du certificat</string>
+  <string name="certificate_alias_prompt_hit">"Veuillez entrer l'alias du certificat"</string>
   <string name="certificate_alias_prompt_title">Nommer ce certificat</string>
   <string name="certificate_alias_prompt_w">Un certificat possédant ce nom existe déjà</string>
   <string name="certificate_password_hit">Entrer le mot de passe</string>
@@ -399,7 +399,7 @@
   <string name="conversation_folder_moved">Déplacé vers %1$s</string>
   <string name="conversation_item_mark_read">Lu</string>
   <string name="conversation_item_mark_unread">Non lu</string>
-  <string name="conversation_message_encrypt_tips">L'e-mail a été chiffré. Ajoutez le certificat adéquat pour le déchiffrer.</string>
+  <string name="conversation_message_encrypt_tips">"L'E-mail a été chiffré. Ajoutez le certificat adéquat pour le déchiffrer."</string>
   <string name="conversation_msg_header_collapsed_sent_to">"Envoyé à "</string>
   <string name="conversation_photo_welcome_text">"Appuyez sur l'image de l'expéditeur pour sélectionner cette conversation."</string>
   <string name="conversation_pull_ad_content">Gérer vos e-mails sans effort</string>
@@ -612,14 +612,14 @@
   <string name="mail_description_content">"E-mail est un client de messagerie capable de gérer plusieurs comptes, envoyer et recevoir des e-mail, ainsi que synchroniser les informations de l'agenda et des contacts. Assurez-vous que pouvez vous passer de ces fonctionnalités avamt de désinstaller l'application. Vos contacts Exchange et vos informations d'agenda seront également supprimés."</string>
   <string name="mail_description_title">À propos de E-mail</string>
   <string name="mail_header_network_not_available">Vous ne disposez pas de connexion réseau.</string>
-  <string name="mail_login_help">Comment s'authentifier</string>
+  <string name="mail_login_help">"Comment s'authentifier"</string>
   <string name="mail_login_help_bottom_tip">"Si vous avez oublié votre mot de passe ou devez vérifier le statut de votre compte, utilisez la version web de NetEase Mail. Vous pouvez aussi obtenir de l'aide sur WeChat : "</string>
-  <string name="mail_login_help_details1">1. Le mot de passe d'e-mail peut être utilisé lorsqu'aucun code d'autorisation n'a été réglé dans le client de messagerie et que des services POP3/IMAP/SMTP ont été activés.</string>
-  <string name="mail_login_help_details2">2. Les codes d'autorisation tiers peuvent être utilisés pour s'authentifier dans des clients de messagerie tiers lorsque des services POP3/IMAP/SMTP sont activés.</string>
+  <string name="mail_login_help_details1">"1. Le mot de passe d'E-mail peut être utilisé lorsqu'aucun code d'autorisation n'a été réglé dans le client de messagerie et que des services POP3/IMAP/SMTP ont été activés."</string>
+  <string name="mail_login_help_details2">"2. Les codes d'autorisation tiers peuvent être utilisés pour s'authentifier dans des clients de messagerie tiers lorsque des services POP3/IMAP/SMTP sont activés."</string>
   <string name="mail_login_help_title">Mot de passe e-mail/Client de messagerie tiers :</string>
   <string name="mail_outlook_login_tips">"Vous serez redirigé vers Microsoft pour saisir votre mot de passe"</string>
-  <string name="mail_outlook_oauth_login">S'authentifier avec OAuth</string>
-  <string name="mail_outlook_psw_login">S'authentifier par mot de passe</string>
+  <string name="mail_outlook_oauth_login">"S'authentifier avec OAuth"</string>
+  <string name="mail_outlook_psw_login">"S'authentifier par mot de passe"</string>
   <string name="mailbox_list_account_selector_combined_view">Compte combiné</string>
   <string name="mailbox_name_display_ad">Publicités</string>
   <string name="mailbox_name_display_circular">Notifications</string>
@@ -631,14 +631,6 @@
   <string name="mailbox_name_display_starred">Favoris</string>
   <string name="mailbox_name_display_trash">Corbeille</string>
   <string name="mailbox_name_display_unread">Non lu</string>
-  <string name="mailbox_name_server_all_unread">Non lu</string>
-  <string name="mailbox_name_server_drafts">Brouillons</string>
-  <string name="mailbox_name_server_inbox">Boîte de réception</string>
-  <string name="mailbox_name_server_junk">Spam</string>
-  <string name="mailbox_name_server_outbox">Sortant</string>
-  <string name="mailbox_name_server_sent">Envoyé</string>
-  <string name="mailbox_name_server_starred">Favoris</string>
-  <string name="mailbox_name_server_trash">Corbeille</string>
   <string name="mailbox_settings_activity_title">Paramètres de synchronisation</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Options de synchronisation (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Synchroniser les e-mails à partir de</string>
@@ -770,7 +762,7 @@ Essayez un autre compte de messagerie."</string>
   <string name="no_mails">Aucun E-mail.</string>
   <string name="no_matched_attachment">Aucun résultat.</string>
   <string name="no_more_mail">Pas plus de messages</string>
-  <string name="no_open_smime_toast">Ajouter d'abord certificat S/MIME</string>
+  <string name="no_open_smime_toast">"Ajouter d'abord certificat S/MIME"</string>
   <string name="no_recognize_describe">"Impossible de trouver des E-mails contenant des billets ou des réservations.
 Essayez une autre boîte de réception."</string>
   <string name="no_search_results">Rechercher sur le serveur</string>
@@ -846,7 +838,7 @@ Essayez une autre boîte de réception."</string>
   <string name="password_expire_warning_dialog_title">"Expiration du mot de passe écran de verrouillage"</string>
   <string name="password_expire_warning_ticker_fmt">"\"%s\" exige que le code PIN ou mot de passe 
             de l'écran de verrouillage soit modifié."</string>
-  <string name="password_expired_content_title">Mot de passe de l'écran de verrouillage expiré</string>
+  <string name="password_expired_content_title">"Mot de passe de l'écran de verrouillage expiré"</string>
   <string name="password_expired_dialog_content_fmt">"Les données du compte %s sont en train d'être supprimées de votre appareil. Vous pouvez les restaurer en modifiant le code PIN ou le mot de passe de l'écran de verrouillage. Le modifier maintenant ?"</string>
   <string name="password_expired_dialog_title">"Le mot de passe de l'écran de verrouillage a expiré"</string>
   <string name="password_expired_ticker">"Le code PIN ou le mot de passe de l'écran de verrouillage a expiré."</string>
@@ -869,7 +861,7 @@ Essayez une autre boîte de réception."</string>
   <string name="permission_access_provider_label">Accéder aux données utilisateur</string>
   <string name="permission_des_detail">"Si vous refusez d'accorder ces permissions, ou de partager et d'envoyer vos données personnelles, vous ne pourrez pas utiliser cet application. Vous pouvez choisir de la désinstaller, de vous déconnecter, ou de restreindre ses permissions depuis les Paramètres dans ce cas."</string>
   <string name="permission_des_external_storage">À créer de nouveaux e-mails, ou bien enregistrer ou ajouter des pièces jointes</string>
-  <string name="permission_des_phone_status">À accéder à l'IMEI pour identifier votre périphérique</string>
+  <string name="permission_des_phone_status">"À accéder à l'IMEI pour identifier votre périphérique"</string>
   <string name="permission_des_calendar">À synchroniser des événements du calendrier</string>
   <string name="permission_des_contact">À accéder aux adresses e-mail de vos contacts pour remplir automatiquement les destinataires</string>
   <string name="permission_read_attachment_desc">"Autorise l'application à lire vos pièces jointes"</string>
@@ -953,7 +945,7 @@ afin de recevoir des rappels concernant les paiements et les voyages"</string>
   <string name="qq_login_basecode">Connexion à QQ Mail Web. Saisissez le mot de passe indépendant.</string>
   <string name="qq_login_get_auth">Activer la protection de mot de passe si vous ne pouvez pas recevoir des SMS</string>
   <string name="qq_login_help_bottom_tip">"Si vous avez oublié votre mot de passe ou devez vérifier le statut de votre compte, utilisez la version web de QQ Mail. Vous pouvez aussi obtenir de l'aide sur WeChat : "</string>
-  <string name="qq_login_help_details1">1. Le mot de passe QQ peut être utilisé lorsqu'aucun code d'autorisation n'a été réglé dans le client de messagerie et que des services POP3/IMAP/SMTP ont été activés..</string>
+  <string name="qq_login_help_details1">"1. Le mot de passe QQ peut être utilisé lorsqu'aucun code d'autorisation n'a été réglé dans le client de messagerie et que des services POP3/IMAP/SMTP ont été activés.."</string>
   <string name="qq_login_help_details2">2. Independent password can be used when no authorization code was set up with IMAP/Exchange protocols.</string>
   <string name="qq_login_help_details3">"3. Authorization codes generated for third party email clients can also be used for signing in. If you forgot your code, refer to this link: "</string>
   <string name="qq_login_help_title">QQ/Independent password/Authorization code:</string>
