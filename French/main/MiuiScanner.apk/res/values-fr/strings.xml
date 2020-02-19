@@ -104,6 +104,7 @@
   <string name="error_empty_result">Impossible de trouver les résultats</string>
   <string name="error_get_image">"Impossible d'obtenir l'image"</string>
   <string name="error_media_storage_failure">"Impossible d'enregistrer la photo"</string>
+  <string name="error_null_cursor">"Oups, quelquechose s'est mal passé !"</string>
   <string name="error_permissions">"Le Scanneur n'a pas les autorisations requises pour fonctionner normalement. Allez à Paramètres et vérifiez les autorisations pour continuer."</string>
   <string name="error_server_error">"Une erreur de serveur s'est produite."</string>
   <string name="experience_new_feature_tips">"Connectez-vous à votre compte Mi pour demander l'autorisation d'utiliser la version bêta. Vous pourrez utiliser la version bêta après avoir examiné votre candidature. La version bêta pourrait contenir des bugs."</string>
@@ -130,6 +131,7 @@
   <string name="food_module_title_food">Calories</string>
   <string name="got_it">"C'est compris"</string>
   <string name="gps">Navigation</string>
+  <string name="grant_permission">Donner la permission</string>
   <string name="import_contact">Importer le contact</string>
   <string name="impunity_declaration_content">"Le scanner doit utiliser votre appareil photo et traiter les images que vous prenez lorsque vous utilisez l'application. N'utilisez pas Scanner pour prendre des photos des objets contenant vos informations personnelles. En appuyant sur \"Accepter\", vous acceptez notre &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"http://privacy.mi.com/all/%1$s\" style=\"color:#ff32b4ff;\"&gt;Politique de confidentialité&lt;/a&gt;&lt;/font&gt; et permettant à scanner de se connecter à Internet."</string>
   <string name="impunity_declaration_negative_text">Quitter</string>
@@ -170,13 +172,15 @@
   <string name="no_support_to_translate_type">Cette langue nest pas prise en charge</string>
   <string name="not_insert_contact">"Impossible d'ajouter le contact"</string>
   <string name="not_recommend_access_web_url">Aller quand même</string>
-  <string name="note">Remarque:</string>
+  <string name="note">Remarque :</string>
   <string name="open_url">"Ouvrir l'URL"</string>
   <string name="password_toggle_content_description">Afficher le mot de passe</string>
   <string name="pay_no_tip">Ne plus afficher</string>
   <string name="pay_save_this_choose">Se souvenir de mon choix</string>
   <string name="payment_text">Ouvrir avec %s</string>
-  <string name="phone">Téléphone:</string>
+  <string name="permission_denied_albums">Donnez l'accès aux photos, médias et fichiers de votre périphérique pour voir les albums</string>
+  <string name="permission_denied_images">Donnez l'accès aux photos, médias et fichiers de votre périphérique pour voir les images</string>
+  <string name="phone">Téléphone :</string>
   <string name="place_barcode_into_rectangle">Placez le QR code dans le cadre</string>
   <string name="plant_fail">Reconnaissance impossible</string>
   <string name="plant_loading">Identification en cours…</string>
@@ -189,13 +193,14 @@
   <string name="qr_code_details">Détails du QR code:</string>
   <string name="recognize">Scanner</string>
   <string name="recognize_fail">Impossible de lire le QR code</string>
-  <string name="request_server_failed">"Impossible de se connecter au serveur"</string>
+  <string name="request_server_failed">Impossible de se connecter au serveur</string>
   <string name="scan_result">Résultat</string>
   <string name="scan_support_type">WeChat, Alipay, QR code, codes à barres</string>
   <string name="sdk_not_ready">Préparation du SDK. Réessayez plus tard.</string>
   <string name="secure_access_web_url">Aller sur le site Web</string>
   <string name="see_app_details">"Afficher les détails de l'application"</string>
   <string name="select_dialog_confirm">OK </string>
+  <string name="select_from_album">"Sélectionner depuis l'album"</string>
   <string name="send_mail">Envoyer un E-mail</string>
   <string name="setting_alipay">Alipay</string>
   <string name="setting_choose_every_time">Toujours demander</string>
@@ -214,8 +219,10 @@
   <string name="study_vendor_info">Propulsé par Zuoyebang</string>
   <string name="suggested_submission_success">Commentaires soumis avec succès</string>
   <string name="switch_open">Activer</string>
+  <string name="take_a_picture">Prendre une photo</string>
+  <string name="taobao">Taobao</string>
   <string name="tel">Téléphone</string>
-  <string name="title">Titre:</string>
+  <string name="title">Titre :</string>
   <string name="to_pay">Terminer le paiement</string>
   <string name="translate_auto_lock">Verrouiller la traduction</string>
   <string name="translate_auto_unlock">Débloquer la traduction</string>
@@ -280,6 +287,11 @@
   <string name="choose_open_code_app">Select an app</string>
   <string name="close_hotspot_when_connecting_to_wifi">Hotspot is on. Turn on Wi-Fi.</string>
   <string name="copy_tracknum">Copy tracking code</string>
+  <string name="crop__cancel">ANNULER</string>
+  <string name="crop__done">FAIT</string>
+  <string name="crop__pick_error">"Aucune source d'images disponible"</string>
+  <string name="crop__saving">"Enregistrement de l'image…"</string>
+  <string name="crop__wait">Veuillez patienter…</string>
   <string name="image_file_name_format">"'scanner'_yyyyMMdd_HHmmss"</string>
   <string name="keywords_search_code">Scanner;Scan;QR code;QR;Recognition;Barcode;Barcodes;Product;Products;Alipay;WeChat;How to scan QR code;How to scan barcode;How to scan;MIUI Scanner</string>
   <string name="keywords_search_document">Scanner;Scan document;Scan documents;OCR;Scan text;Scan</string>

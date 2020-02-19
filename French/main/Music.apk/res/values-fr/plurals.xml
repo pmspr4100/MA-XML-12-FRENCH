@@ -118,6 +118,10 @@ Note : le fichier sera également supprimé de cet appareil."</item>
         <item quantity="other">%d chansons</item>
         <item quantity="one">%d chanson</item>
     </plurals>
+    <plurals name="sound_fade_duration_in_seconds">
+        <item quantity="other">Transition entre les chansons : %d secondes</item>
+        <item quantity="one">Transition entre les chansons : %d seconde</item>
+    </plurals>
     <plurals name="video_count">
         <item quantity="other">Vidéos</item>
         <item quantity="one">Vidéo</item>
