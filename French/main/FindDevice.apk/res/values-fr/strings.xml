@@ -57,13 +57,14 @@
   <string name="change_find_device_status_failed">Impossible de déverrouiller. %s.</string>
   <string name="unlock_help_title">Aide au déblocage :</string>
   <string name="unlock_help">"Rester connecté au réseau 
-Assurez-vous d'avoir inséré une Carte SIM qui fonctionne ( si votre appareil supporte cela), et que votre appareil soit connecté à un réseau Wi-Fi valide 
+Assurez-vous d'avoir inséré une Carte SIM qui fonctionne si votre appareil supporte cela), et que votre appareil est connecté à un réseau Wi-Fi valide
 
 Mot de passe oublié ?
-Rendez-vous sur id.mi.com pour réinitialiser votre mot de passe
+Rendez-vous sur id.mi.com pour réinitialiser votre mot de passe.
 
 Autres raisons
 Connectez-vous sur i.mi.com et essayez de débloquer votre appareil."</string>
+  <string name="unlock_number">Code de déblocage : %s</string>
   <string name="passport_vcode_prompt_long">Entrez le code de vérification</string>
   <string name="passport_trust_device">Faire confiance à cet appareil</string>
   <string name="passport_verify">Vérifier</string>
