@@ -30,7 +30,7 @@
   <string name="select_all">Tout sélectionner</string>
   <string name="send_files_to">Envoyer le fichier à</string>
   <string name="cut">Couper</string>
-  <string name="data_usage_context">"Si le réseau local sans fil n'est pas activé, votre appareil se connectera à un réseau mobile, ce qui peut entraîner des frais supplémentaires en fonction de votre forfait. Merci !"</string>
+  <string name="data_usage_context">"Si le réseau local sans-fil n'est pas activé, votre appareil se connectera à un réseau mobile, ce qui peut entraîner des frais supplémentaires en fonction de votre forfait. Merci !"</string>
   <string name="default_device_name">Appareil inconnu</string>
   <string name="copy">Copier</string>
   <string name="customer_location_judgment">Chine</string>
@@ -68,6 +68,10 @@
   <string name="global_actions_reboot">Redémarrer</string>
   <string name="global_actions_shutdown">Éteindre</string>
   <string name="global_actions_silent_mode">Mode silencieux</string>
+  <string name="handset_text_unsupported_handset_insert">Appuyez pour afficher les détails</string>
+  <string name="handset_text_usb_handset_insert">Appuyez pour ouvrir des paramètres supplémentaires</string>
+  <string name="handset_title_unsupported_handset_insert">"Impossible de lire l'audio via l'adaptateur"</string>
+  <string name="handset_title_usb_handset_insert">Lecture audio via USB</string>
   <string name="reboot_info_auto_boot">"L'appareil est prévu pour s'allumer à %s"</string>
   <string name="reboot_info_shutdown_alarm">Alarme suivante: %s</string>
   <string name="key_btn_space">Espace</string>
@@ -81,6 +85,8 @@
   <string name="mi_9t_pro">Mi 9T Pro</string>
   <string name="mi_a3">Mi A3</string>
   <string name="mi_drop">Mi Transfert</string>
+  <string name="miaudiovisual_notification_summary">"Activez pour afficher les effets sur l'écran de verrouillage"</string>
+  <string name="miaudiovisual_notification_title">Effets audio et visuels</string>
   <string name="memory_clear_nothing_result">Rien à effacer dans le cache</string>
   <string name="shutdown_confirm_title">"Éteindre l'appareil maintenant ?"</string>
   <string name="shutdown_progress">Extinction…</string>
