@@ -257,16 +257,20 @@
         <item quantity="one">"La photo sélectionnée (%d Mo). ne se trouve pas sur l'appareil. Voulez-vous la télécharger en utilisant vos données mobiles ?"</item>
     </plurals>
     <plurals name="picker_cancel_confirm_message">
-        <item quantity="other">Annuler le téléchargement des %d photos restantes ?</item>
-        <item quantity="one">Annuler le téléchargement de la photo restante ?</item>
+        <item quantity="other">"%d fichiers ne sont pas encore téléchargés. Annuler quand même ?"</item>
+        <item quantity="one">"%d fichier n'est pas encore téléchargé. Annuler quand même ?"</item>
     </plurals>
     <plurals name="picker_no_network_retry_image_confirm_message">
         <item quantity="other">Impossible de télécharger les %1$d photos, veuillez vous connecter au réseau puis réessayez</item>
         <item quantity="one">Impossible de télécharger la photo, veuillez vous connecter au réseau puis réessayez</item>
     </plurals>
     <plurals name="picker_no_network_retry_origin_confirm_message">
-        <item quantity="other">Impossible de télécharger les %1$d photos (%2$d Mo), veuillez vous connecter au réseau puis réessayez</item>
-        <item quantity="one">Impossible de télécharger la photo (%2$d Mo), veuillez vous connecter au réseau puis réessayez</item>
+        <item quantity="other">"Couldn't download %1$d files (%2$d Mo). Connect to the network and try again."</item>
+        <item quantity="one">"Couldn't download %1$d file (%2$d Mo). Connect to the network and try again."</item>
+    </plurals>
+    <plurals name="picker_origin_need_to_download">
+        <item quantity="other">"%1$d files (%2$d Mo) aren't downloaded yet. Download using mobile data?"</item>
+        <item quantity="one">"%1$d file (%2$d Mo) isn't downloaded yet. Download using mobile data?"</item>
     </plurals>
     <plurals name="picker_retry_image_confirm_message">
         <item quantity="other">Impossible de télécharger les %1$d photos, réessayer ?</item>
