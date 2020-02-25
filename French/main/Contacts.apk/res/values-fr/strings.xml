@@ -390,10 +390,10 @@ Les cartes de contact ont été désactivées"</string>
   <string name="device_paired_dialog_title">Obtention des contacts…</string>
   <string name="device_pairing_dialog_message">Appairage en cours…</string>
   <string name="device_pairing_dialog_title">"Appairage d'appareil"</string>
-  <string name="device_transfer_by_bluetooth_message" formatted="false">"%d. Activer le Bluetooth sur l'autre appareil. 
+  <string name="device_transfer_by_bluetooth_message" formatted="false">"%d. Activer le Bluetooth sur l'autre appareil.
 
-- Le bluetooth peut être trouvé dans les paramètres de réseau sur les appareils Android. 
-- Sur les appareils iOS, le Bluetooth se trouve dans Réglages. 
+- Le bluetooth peut être trouvé dans les paramètres de réseau sur les appareils Android.
+- Sur les appareils iOS, le Bluetooth se trouve dans Réglages.
 
 %d. Le mode Visibilité devrait aussi être activé sur les appareils Android.
 
@@ -766,7 +766,18 @@ Raison: \"%s\""</string>
   <string name="noContactHelpTextImportXiaomiAccountInfo">Restaurer les données de contact depuis le compte Mi</string>
   <string name="noContacts">Aucun contact</string>
   <string name="noContactsWithPhoneNumbers">Aucun contact avec numéro de téléphone</string>
-  <string name="noFavoritesHelpText">"\"Vous n'avez aucun favori. Pour ajouter un contact à vos favoris: \""<li>"Touchez l'onglet "<b>Contacts</b>\" \"</li>\" \"<li>\"Sélectionnez le contact que vous souhaitez ajouter aux favoris \"</li>\" \"<li>"\"Appuyez sur l'étoile près du nom du contact \""</li>\" \"</string>
+  <string name="noFavoritesHelpText">"Vous n'avez pas de favoris.
+
+Pour ajouter un contact à votre liste de favoris:
+
+"&lt;li&gt;Appuyez sur le &lt;b&gt;Contacts&lt;/b&gt;" tab
+        "&lt;li&gt;Appuyez sur le &lt;b&gt;Contacts&lt;/b&gt;" tab
+"&lt;/li&gt;" 
+"&lt;li&gt;"Appuyez sur le contact que vous souhaitez ajouter à vos favoris
+"&lt;/li&gt;" 
+"&lt;li&gt;"Appuyez sur l'étoile à côté du nom du contact
+"&lt;/li&gt;"
+    "</string>  
   <string name="noGroups">Aucun groupe</string>
   <string name="noMatchingContacts">Aucun contact ne correspond à la recherche.</string>
   <string name="noRecentContacts">Aucun contact récent</string>
@@ -977,10 +988,14 @@ Raison: \"%s\""</string>
   <string name="remove_blacklist_dialog_title">Débloquer ce numéro de téléphone ?</string>
   <string name="remove_duplicate">"MIUI va vous aider à trouver et fusionner les contacts dupliqués.
 
-Pour commencer, appuyez sur l'icône Fusionner en bas de votre écran."</string>
+Pour commencer, appuyez sur l'icône fusionner en bas de votre écran."</string>
   <string name="report_inquiry_mms">Signaler un SMS</string>
   <string name="restore_nickname">Restaurer</string>
   <string name="returnCall">Rappeler</string>
+  <string name="return_call">"Appuyez pour revenir à l'appel"</string>
+  <string name="return_call_calling">Appel en cours</string>
+  <string name="return_call_dialing">Numérotation</string>
+  <string name="return_call_incoming">Appel entrant</string>
   <string name="ringLabelsGroup">Sonnerie</string>
   <string name="save_photo_progress">Sauvegarde de la photo…</string>
   <string name="savingContact">Sauvegarde du contact…</string>
@@ -1030,6 +1045,9 @@ Pour commencer, appuyez sur l'icône Fusionner en bas de votre écran."</string>
   <string name="select_none">Aucun élément sélectionné</string>
   <string name="select_show_contacts">Liste des contacts</string>
   <string name="select_vcard_title">Choisir un fichier vCard</string>
+  <string name="send_contact_shortcut_todesktop_duplicate">Ce raccourci existe déjà</string>
+  <string name="send_contact_shortcut_todesktop_failed">"Impossible de placer un raccourci sur l'écran d'accueil"</string>
+  <string name="send_contact_shortcut_todesktop_overflow">"Impossible de placer plus de raccourcis sur l'écran d'accueil"</string>
   <string name="send_contact_shortcut_todesktop_success">Ajouté sur le bureau</string>
   <string name="send_to_voicemail_checkbox">Renvoyer les appels directement vers la messagerie</string>
   <string name="separatorJoinAggregateAll">Tous les contacts</string>

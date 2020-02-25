@@ -567,7 +567,7 @@
   <string name="header_category_other">Commentaires</string>
   <string name="header_label_general_preferences">Généraux</string>
   <string name="help_and_info">Aide</string>
-  <string name="help_me_get_qq_auth">Obtenir le code QQ</string>
+  <string name="help_me_get_qq_auth">"Obtenir le code d'autorisation"</string>
   <string name="help_weixin_title">"Si vous avez des questions, n'hésitez pas à nous laisser un message sur notre compte WeChat officiel: "</string>
   <string name="hide_elided">▼ Cacher le texte cité</string>
   <string name="hide_password">Masquer le mot de passe</string>
@@ -604,7 +604,7 @@
   <string name="login_failed_tip">"Contactez-nous sur WeChat pour obtenir de l'aide : "</string>
   <string name="login_failed_title">Impossible de se connecter</string>
   <string name="login_mail">Se connecter</string>
-  <string name="login_qq_psw">"Connectez-vous à l'aide d'un mot de passe / authentificateur / code de vérification QQ."</string>
+  <string name="login_qq_psw">"Connectez-vous à l'aide du code d'autorisation"</string>
   <string name="login_support_tip_text">"Prend en charge tous les comptes d'e-mails principaux"</string>
   <string name="long_press_to_select_tip">Appuyez et maintenez pour sélectionner une conversation, puis appuyez pour en sélectionner plus.</string>
   <string name="mail">E-mail</string>
@@ -787,7 +787,7 @@ Essayez une autre boîte de réception."</string>
   <string name="oauth_login_continue">Continuer</string>
   <string name="oauth_login_continue_qq">"Obtenez un code d'accès et connectez-vous >"</string>
   <string name="oauth_login_usr_proxy">"Se connecter à l'aide du proxy"</string>
-  <string name="obtain_new_auth_code">Obtenir un nouveau code</string>
+  <string name="obtain_new_auth_code">"Obtenez un nouveau code d'autorisation"</string>
   <string name="ok">OK</string>
   <string name="okay_action">OK</string>
   <string name="one_day">1 jour</string>
@@ -955,7 +955,7 @@ afin de recevoir des rappels concernant les paiements et les voyages"</string>
   <string name="qq_login_send_message">Appuyez sur \"Envoyer un SMS\" pour recevoir un code de vérification</string>
   <string name="qq_login_webview">Connexion au client Web QQ, appuyez sur Se connecter en utilisant le mot de passe.</string>
   <string name="qq_next_generation_auth_toast">Activer la protetion de mot de passe dans votre navigateur</string>
-  <string name="qq_pwd_or_qq_auth_code">"Entrez le code QQ ou le mot de passe de l'e-mail"</string>
+  <string name="qq_pwd_or_qq_auth_code">"Entrez le code d'autorisation"</string>
   <string name="qq_uthentication_failed">Impossible de vérifier le compte, connectez-vous à nouveau</string>
   <string name="qq_verify_code">(Nécessite un code de vérification de QQ)</string>
   <string name="qq_webview_loading">Chargement…</string>
@@ -1209,7 +1209,7 @@ Supprimer le compte ?"</string>
   <string name="upload_logs">Envoyer les journaux</string>
   <string name="upload_logs_keywords">envoyer les journaux</string>
   <string name="uploading_logs">Chargement…</string>
-  <string name="user_new_auth_code">Sign in with a new code</string>
+  <string name="user_new_auth_code">"Connectez-vous avec un nouveau code d'autorisation"</string>
   <string name="user_privacy_settings">Paramètres de confidentialité</string>
   <string name="user_privacy_settings_agreement_authorization">"(By tapping \"Agree\", you're giving Mail all the required permissions)"</string>
   <string name="user_privacy_settings_path">To revoke your authorization, go to Settings &gt; Privacy settings.</string>

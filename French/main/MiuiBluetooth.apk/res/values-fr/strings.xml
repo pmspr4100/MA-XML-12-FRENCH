@@ -75,6 +75,9 @@
   <string name="mi_band_vibrate_sms">Vibrer pour les SMS</string>
   <string name="mi_band_vibrate_sms_in_contacts">Messages des contacts</string>
   <string name="mi_band_vibrate_sms_no_contacts">Messages provenant de numéros inconnus</string>
+  <string name="mi_home_device_find">Découvrir les appareils</string>
+  <string name="mi_home_device_ignore">Ignorer</string>
+  <string name="mi_home_device_start_binding">Associer maintenant</string>
   <string name="mi_key_alert_dialog_message">"Appuyez sur OK pour arrêter l'alarme."</string>
   <string name="mi_key_alert_dialog_title">Alarme Mi Key</string>
   <string name="mi_key_find_mikey">Localiser le Mi Key</string>
@@ -84,6 +87,16 @@
   <string name="mi_key_summary_open_camera">"Double clique sur Mi Key pour ouvrir l'appareil photo"</string>
   <string name="mi_key_summary_take_photo">Clique sur Mi Key pour prendre une photo</string>
   <string name="mi_key_take_photo">Prendre une photo</string>
+  <string name="mihome_app_download">Installer maintenant</string>
+  <string name="mihome_app_update">Mettez à jour maintenant</string>
+  <string name="mihome_download_tips">"Installez l'application Mi Home afin de coupler l'appareil. Veuillez installer l'application Mi Home, connectez-vous et tenez votre téléphone près de l'appareil."</string>
+  <string name="mihome_download_title">"Installez l'application Mi Home"</string>
+  <string name="mihome_ignore">Annuler</string>
+  <string name="mihome_ignore_query">Ignorer</string>
+  <string name="mihome_ignore_tips">"Après avoir ignoré, vous pouvez continuer à ajouter dans l'application Mi Home."</string>
+  <string name="mihome_ignore_title">Ignorer cet appareil ?</string>
+  <string name="mihome_update_tips">"La version actuelle de l'application Mi Home est trop ancienne. Veuillez tenir votre téléphone près de l'appareil après la mise à jour."</string>
+  <string name="mihome_update_title">"Mettre à jour l'application Mi Home"</string>
   <string name="notify_device_lose_connection_text">Appuyez pour dissocier %1$s</string>
   <string name="notify_device_lose_connection_title">Connexion perdue avec %1$s</string>
   <string name="ok_button">OK</string>

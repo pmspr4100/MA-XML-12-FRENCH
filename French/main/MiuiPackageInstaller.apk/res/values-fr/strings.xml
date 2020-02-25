@@ -89,12 +89,19 @@ Toutes vos données utilisateur précédentes seront enregistrées."</string>
   <string name="increment_install_pause_for_wifi">En attente de réseau</string>
   <string name="increment_preparing">Préparation…</string>
   <string name="install">Installer</string>
+  <string name="install_app_progress_clear_apk">Supprimer APK</string>
   <string name="install_confirm_question">Voulez-vous installer cette application ? Elle aura accès à:</string>
   <string name="install_confirm_question_no_perms">"Voulez-vous installer cette application ? Elle ne nécessite aucune autorisation spéciale."</string>
   <string name="install_confirm_question_update">"Voulez-vous installer une mise à jour de cette application existante ? Les données d'application existantes ne seront pas perdues. L'application mise à jour aura accès à:"</string>
   <string name="install_confirm_question_update_no_perms">"Voulez-vous installer une mise à jour de cette application existante ? Les données d'application existantes ne seront pas perdues. Il ne nécessite aucune autorisation spéciale."</string>
   <string name="install_confirm_question_update_system">"Voulez-vous installer une mise à jour de cette application système ? Les données d'application existantes ne seront pas perdues. L'application mise à jour aura accès à:"</string>
   <string name="install_confirm_question_update_system_no_perms">"Voulez-vous installer une mise à jour de cette application système ? Les données d'application existantes ne seront pas perdues. Il ne nécessite aucune autorisation spéciale."</string>
+  <string name="install_control_cancel_install">Ne pas installer</string>
+  <string name="install_control_continue_install">Installer quand même</string>
+  <string name="install_control_lite_mode_explain_des">"Cette application provient d'une source inconnue et peut ne pas fonctionner en mode lite."</string>
+  <string name="install_control_lite_mode_solution_des">"Vous pouvez choisir d'installer cette application de toute façon.
+Vous pouvez également désactiver le mode lite et réessayer."</string>
+  <string name="install_control_normal_mode_explain_des">"Impossible d'installer cette application en raison de restrictions légales"</string>
   <string name="install_done">Application installée.</string>
   <string name="install_failed">"Impossible d'installer l'application"</string>
   <string name="install_failed_blocked">"L'installation du package a été bloquée."</string>

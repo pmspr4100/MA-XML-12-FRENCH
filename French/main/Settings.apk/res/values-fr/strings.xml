@@ -200,30 +200,30 @@ Here's what might be wrong:
   <string name="contextual_card_feedback_send">Send feedback</string>
   <string name="contextual_card_removed_message">Suggestion removed</string>
   <string name="contextual_card_undo_dismissal_text">Undo</string>
-  <string name="copy">Copier</string>
-  <string name="copyable_slice_toast">%1$s copied to clipboard.</string>
-  <string name="corner_assistant_gesture_summary">Swipe up from bottom-left or bottom-right corner to wake Google Assistant</string>
-  <string name="corner_assistant_gesture_title">Swipe up from corner for Google Assistant</string>
-  <string name="cross_profile_calendar_restricted_summary">Your organization doesn’t allow personal apps to access your work calendar</string>
-  <string name="cross_profile_calendar_summary">Show work events on your personal calendar</string>
-  <string name="cross_profile_calendar_title">Cross-profile calendar</string>
-  <string name="data_during_calls_summary">Allow this SIM to be used for mobile data only during calls</string>
-  <string name="data_during_calls_title">Data during calls</string>
+  <string name="copy">Copie</string>
+  <string name="copyable_slice_toast">%1$s copié dans le presse-papiers.</string>
+  <string name="corner_assistant_gesture_summary">"Balayez vers le haut depuis le coin inférieur gauche ou inférieur droit pour réveiller l'Assistant Google"</string>
+  <string name="corner_assistant_gesture_title">Balayez du coin pour Google Assistant</string>
+  <string name="cross_profile_calendar_restricted_summary">"Votre organisation n'autorise pas les applications personnelles à accéder à votre calendrier de travail"</string>
+  <string name="cross_profile_calendar_summary">Afficher les événements professionnels sur votre calendrier personnel</string>
+  <string name="cross_profile_calendar_title">Calendrier multi-profils</string>
+  <string name="data_during_calls_summary">"Autoriser l'utilisation de cette carte SIM pour les données mobiles uniquement pendant les appels"</string>
+  <string name="data_during_calls_title">Données pendant les appels</string>
   <string name="data_usage_ota">Mises à jour système</string>
-  <string name="default_for_calls">Default for calls</string>
-  <string name="default_for_calls_and_sms">Default for calls &amp; SMS</string>
-  <string name="default_for_mobile_data">Default for mobile data</string>
-  <string name="default_for_sms">Default for SMS</string>
-  <string name="device_admin_warning_simplified">This device will be managed and monitored by %1$s.</string>
-  <string name="disabled_feature">Feature not available</string>
-  <string name="disabled_feature_reason_slow_down_phone">This feature has been turned off because it slows down your phone</string>
-  <string name="display_dashboard_nowallpaper_summary">Sleep, font size</string>
-  <string name="display_dashboard_summary_with_style">Styles, wallpapers, screen timeout, font size</string>
+  <string name="default_for_calls">Par défaut pour les appels</string>
+  <string name="default_for_calls_and_sms">Par défaut pour les appels et les SMS</string>
+  <string name="default_for_mobile_data">Par défaut pour les données mobiles</string>
+  <string name="default_for_sms">Par défaut pour SMS</string>
+  <string name="device_admin_warning_simplified">Cet appareil sera géré et surveillé par %1$s.</string>
+  <string name="disabled_feature">Fonction non disponible</string>
+  <string name="disabled_feature_reason_slow_down_phone">Cette fonctionnalité a été désactivée car elle ralentit votre téléphone</string>
+  <string name="display_dashboard_nowallpaper_summary">Veille, taille de police</string>
+  <string name="display_dashboard_summary_with_style">"Styles, fonds d'écran, temporisation d'écran, taille de police"</string>
   <string name="dsds_dialog_cancel">Annuler</string>
-  <string name="dsds_dialog_confirm">Restart</string>
-  <string name="dsds_dialog_message">You need to restart your device to change this setting.</string>
-  <string name="dsds_dialog_title">Restart Device?</string>
-  <string name="dsds_switch_string">Enable DSDS</string>
+  <string name="dsds_dialog_confirm">Redémarrer</string>
+  <string name="dsds_dialog_message">Vous devez redémarrer votre appareil pour modifier ce paramètre.</string>
+  <string name="dsds_dialog_title">"Redémarrer l'appareil ?"</string>
+  <string name="dsds_switch_string">Activer DSDS</string>
   <string name="dual_cdma_sim_warning_notification_channel_title">SIM combination</string>
   <string name="dual_cdma_sim_warning_notification_summary">Using %1$s may limit functionality. Tap to learn more.</string>
   <string name="edge_to_edge_navigation_summary">To go Home, swipe up from the bottom of the screen. To switch apps, swipe up from the bottom, hold, then release. To go back, swipe from either the left or right edge.</string>
@@ -719,7 +719,7 @@ Allow this for all apps that want to scan?"</string>
   <string name="zen_mode_settings_dnd_custom_settings_footer_link">&lt;annotation id="link"&gt; Voir les réglages personnalisés&lt;/annotation&gt;</string>
   <string name="zen_mode_slice_subtitle">Limiter les interruptions</string>
   <string name="zen_mode_system_list">sons de touche</string>
-  <string name="zone_auto_title">Utiliser le fuseau horaire du réseau</string>
+  <string name="zone_auto_title">Utiliser le fuseau horaire fourni par le réseau</string>
   <string name="accessibility_daltonizer_master_switch_title">Corriger les couleurs</string>
   <string name="accessibility_description_state_stopped">Ce service ne fonctionne pas.</string>
   <string name="accessibility_disable_animations">Supprimer les animations</string>
@@ -2262,8 +2262,9 @@ Pour continuer d'utiliser votre téléphone, vous devez rétablir la configurati
   <string name="dark_ui_mode_disabled_summary_dark_theme_on">"Activé / temporairement désactivé en raison de l'économiseur de batterie"</string>
   <string name="dark_ui_mode_title">Définir le thème</string>
   <string name="dark_ui_settings_dark_summary">Les applications prises en charge basculeront également sur le thème sombre</string>
-  <string name="dark_ui_settings_dialog_acknowledge">Got it</string>
+  <string name="dark_ui_settings_dialog_acknowledge">"C'est compris"</string>
   <string name="dark_ui_settings_light_summary">"Ces paramètres s'appliquent également aux applications."</string>
+  <string name="dark_wallpaper_mode">"Ajuster le fond d'écran en mode sombre"</string>
   <string name="dashboard_suggestion_condition_footer_content_description">Réduire</string>
   <string name="dashboard_title">Paramètres</string>
   <string name="data_limit">Limite de données</string>
@@ -2496,9 +2497,9 @@ Vous ne pouvez pas zoomer sur le clavier et la barre de navigation."</string>
   <string name="screen_paper_mode_hdr_toast_new">Reading mode will be turned off automatically during HDR video playback and fingerprint verification. Your device will switch back to Reading mode once these actions are completed.</string>
   <string name="select_sim_card">Select SIM card</string>
   <string name="share_this_wifi">Extend WLAN coverage</string>
-  <string name="sim_pin_disable_failed">"Can't disable PIN."</string>
-  <string name="sim_pin_enable_failed">"Can't enable PIN."</string>
-  <string name="temporary_style">10 seconds after tapping the screen</string>
+  <string name="sim_pin_disable_failed">"Impossible de désactiver le code PIN."</string>
+  <string name="sim_pin_enable_failed">"Impossible d'activer le code PIN."</string>
+  <string name="temporary_style">"10 secondes après avoir tapé sur l'écran"</string>
   <string name="testing_sim_toolkit">SIM toolkit</string>
   <string name="testing_wifi_info">WLAN information</string>
   <string name="time_zone_auto_stub">Select Time Zone</string>
@@ -3378,13 +3379,12 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
   <string name="homepage_condition_footer_content_description">Collapse</string>
   <string name="homepage_personal_settings">Suggestions</string>
   <string name="how_backup_content">"There are 3 types of backups you can create: local, cloud, and USB.
-
 Local backups:
 Local backups allow you to save your system settings, accounts, app data, and other items in a separate file stored on your device (MIUI-backup-AllBackup). After the backup file is created, you can transfer it to your computer via USB cable.
 Note:
 You can use Mi PC Suite to back up and restore items.
 
-Local backups:
+Cloud backups:
 You can back up system settings, Home screen layout, apps, and other items to Xiaomi Cloud wirelessly.
 
 USB backups:
@@ -6459,6 +6459,8 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
   <string name="tether_settings_title_usb_bluetooth">"Point d'accès Wi-Fi"</string>
   <string name="tether_settings_title_wifi">"Partage de connexion Wi-Fi"</string>
   <string name="tether_share_qrcode_title">Partager un QR code</string>
+  <string name="tether_use_wifi6_summary">Certains appareils peuvent être incompatibles avec la norme 802.11ax. Désactivez cette fonction si vous rencontrez des problèmes.</string>
+  <string name="tether_use_wifi6_title">Prise en charge de la norme de sixième génération</string>
   <string name="tethering_footer_info">"Utilisez un point d'accès et le partage de connexion pour fournir un accès à internet à d'autres appareils via votre connexion de données mobiles. Les applications peuvent également créer un point d'accès pour partager du contenu avec des appareils à proximité."</string>
   <string name="tethering_hardware_offload">Accélération matérielle pour le partage</string>
   <string name="tethering_hardware_offload_summary">"Utiliser l'accélération du matériel de partage de connexion si disponible"</string>

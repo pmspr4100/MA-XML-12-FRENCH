@@ -8,20 +8,20 @@
         <item quantity="other">%1$s sauvegardes (%2$s)</item>
         <item quantity="one">%1$s sauvegarde (%2$s)</item>
     </plurals>
-    <plurals name="restoring_file_tile">
-        <item quantity="other">Restauration de %d fichiers</item>
-        <item quantity="one">Restauration de %d fichier</item>
-    </plurals>
-    <plurals name="restore_app_order_prior">
-        <item quantity="other">Priorité haute: %d applications</item>
-        <item quantity="one">Priorité haute: %d application</item>
+    <plurals name="restore_app_order_installed">
+        <item quantity="other">%d applications sur cet appareil</item>
+        <item quantity="one">%d application sur cet appareil</item>
     </plurals>
     <plurals name="restore_app_order_normal">
         <item quantity="other">Priorité normale: %d applications</item>
         <item quantity="one">Priorité normale: %d application</item>
     </plurals>
-    <plurals name="restore_app_order_installed">
-        <item quantity="other">%d applications sur cet appareil</item>
-        <item quantity="one">%d application sur cet appareil</item>
+    <plurals name="restore_app_order_prior">
+        <item quantity="other">Priorité haute: %d applications</item>
+        <item quantity="one">High priority: %d application</item>
+    </plurals>
+    <plurals name="restoring_file_tile">
+        <item quantity="other">Restauration %d fichiers</item>
+        <item quantity="one">Restauration %d fichier</item>
     </plurals>
 </resources>
