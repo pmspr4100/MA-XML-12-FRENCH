@@ -128,7 +128,7 @@ Higher sensitivity may conflict with any app gestures along the edges of the scr
   <string name="backup_summary_state_on">Activer</string>
   <string name="battery_saver_auto_no_schedule">Aucune planification</string>
   <string name="battery_saver_auto_percentage">Basé sur le pourcentage</string>
-  <string name="battery_saver_auto_percentage_summary">S'activera à %1$s</string>
+  <string name="battery_saver_auto_percentage_summary">"S'activera à %1$s"</string>
   <string name="battery_saver_auto_routine">Basé sur vos habitudes</string>
   <string name="battery_saver_auto_routine_summary">Battery Saver turns on if your battery is likely to run out before your next typical charge</string>
   <string name="battery_saver_schedule_settings_title">Programmer</string>
@@ -438,7 +438,6 @@ Switching to %1$s won't cancel your %2$s service."</string>
   <string name="network_could_not_connect">Connexion impossible</string>
   <string name="network_disconnected">Déconnecté</string>
   <string name="network_global">Général</string>
-  <string name="network_lte">LTE (recommandé)</string>
   <string name="network_lte">LTE (recommandé)</string>
   <string name="network_operator_category">Réseau</string>
   <string name="network_query_error">Aucun réseau trouvé. Veuillez réessayer.</string>
