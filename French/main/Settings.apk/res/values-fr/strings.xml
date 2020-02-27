@@ -107,7 +107,7 @@ Toutes les applications ne prennent pas en charge ce paramètre."</string>
   <string name="ai_key_double_click">Double appui</string>
   <string name="ai_key_long_press">Garder appuyé</string>
   <string name="ai_key_single_click">Appuyer</string>
-  <string name="ambient_display_tap_screen_summary">To check time, notifications, and other info, tap your screen.</string>
+  <string name="ambient_display_tap_screen_summary">"Pour vérifier l'heure, les notifications, et d'autres infos, appuyez sur votre écran."</string>
   <string name="ambient_display_tap_screen_title">Appuyer pour vérifier le téléphone</string>
   <string name="ambient_display_wake_screen_title">Wake up display</string>
   <string name="angle_enabled_app">Select ANGLE enabled app</string>
@@ -118,55 +118,55 @@ Toutes les applications ne prennent pas en charge ce paramètre."</string>
   <string name="asst_capability_prioritizer_summary">Automatically set lower priority notifications to Gentle</string>
   <string name="asst_capability_prioritizer_title">Adaptive notification priority</string>
   <string name="auto_brightness_summary_on">Activer</string>
-  <string name="automatic_system_heap_dump_summary">Automatically capture a heap dump for Android System when it uses too much memory</string>
-  <string name="automatic_system_heap_dump_title">Automatically capture system heap dumps</string>
+  <string name="automatic_system_heap_dump_summary">"Capturez automatiquement un vidage de pile pour le système Android lorsqu'il utilise trop de mémoire"</string>
+  <string name="automatic_system_heap_dump_title">Capture automatiquement les vidages de pile du système</string>
   <string name="back_sensitivity_dialog_message">"
-Higher sensitivity may conflict with any app gestures along the edges of the screen."</string>
-  <string name="back_sensitivity_dialog_title">Back Sensitivity</string>
-  <string name="backup_data_management_title">Manage backup account</string>
+Une sensibilité plus élevée peut entrer en conflit avec tous les gestes de l'application le long des bords de l'écran."</string>
+  <string name="back_sensitivity_dialog_title">Sensibilité de retour</string>
+  <string name="backup_data_management_title">Gérer le compte de sauvegarde</string>
   <string name="backup_summary_state_off">Désactiver</string>
   <string name="backup_summary_state_on">Activer</string>
   <string name="battery_saver_auto_no_schedule">Aucune planification</string>
   <string name="battery_saver_auto_percentage">Basé sur le pourcentage</string>
   <string name="battery_saver_auto_percentage_summary">"S'activera à %1$s"</string>
   <string name="battery_saver_auto_routine">Basé sur vos habitudes</string>
-  <string name="battery_saver_auto_routine_summary">Battery Saver turns on if your battery is likely to run out before your next typical charge</string>
+  <string name="battery_saver_auto_routine_summary">"L'économiseur de batterie s'active si votre batterie est susceptible de se vider avant votre prochaine recharge habituelle"</string>
   <string name="battery_saver_schedule_settings_title">Programmer</string>
-  <string name="battery_saver_sticky_description_new">Battery Saver turns off when your phone is at %1$s</string>
+  <string name="battery_saver_sticky_description_new">"L'économiseur de batterie est désactivé quand votre téléphone est chargé à %1$s"</string>
   <string name="battery_saver_sticky_title_new">Désactiver après une charge complète</string>
-  <string name="battery_saver_turn_on_summary">Extend battery life</string>
+  <string name="battery_saver_turn_on_summary">Étend la durée de vie de la batterie</string>
   <string name="battery_tip_dialog_message_footer">Includes high-power background activity</string>
   <string name="bluetooth_active_battery_level_untethered">Active, G: %1$s batterie, D: %2$s batterie</string>
   <string name="bluetooth_battery_level_untethered">G: %1$s batterie, D: %2$s batterie</string>
-  <string name="bluetooth_inform_messgae">"Couldn't connect to %1$s.
-Here's what might be wrong:
-1. Bluetooth is turned off on this device or it's out of range.
-2. This device isn't in discoverable mode.
-3. The device is connected to other devices. Disconnect and try again."</string>
-  <string name="bluetooth_inform_messgae_title">"Couldn't connect"</string>
-  <string name="bluetooth_left_name">Left</string>
-  <string name="bluetooth_middle_name">Case</string>
-  <string name="bluetooth_right_name">Right</string>
-  <string name="bluetooth_show_files_received_via_bluetooth">Files received via Bluetooth</string>
-  <string name="bluetooth_untethered_unpair_dialog_body">%1$s will no longer be paired with any device linked to this account</string>
-  <string name="bubbles_app_toggle_summary">Allow %1$s to show some notifications as bubbles</string>
-  <string name="bubbles_app_toggle_title">Bubbles</string>
-  <string name="bubbles_feature_disabled_button_approve">Turn on for device</string>
+  <string name="bluetooth_inform_messgae">"Connexion à %1$s impossible.
+Voici ce qui a pu mal se passer :
+1. Le Bluetooth est désactivé sur cet appareil ou il est hors de portée.
+2. Cet appareil n'est pas en mode découverte.
+3. Cet appareil est connecté à d'autres appareils. Déconnectez-le et réessayez."</string>
+  <string name="bluetooth_inform_messgae_title">"Connexion impossible"</string>
+  <string name="bluetooth_left_name">Gauche</string>
+  <string name="bluetooth_middle_name">Boîtier</string>
+  <string name="bluetooth_right_name">Droite</string>
+  <string name="bluetooth_show_files_received_via_bluetooth">Fichiers reçus via Bluetooth</string>
+  <string name="bluetooth_untethered_unpair_dialog_body">%1$s ne sera plus appairé à aucun appareil lié à ce compte</string>
+  <string name="bubbles_app_toggle_summary">Autoriser %1$s à afficher des notifications dans des bulles</string>
+  <string name="bubbles_app_toggle_title">Bulles</string>
+  <string name="bubbles_feature_disabled_button_approve">"Activer pour l'appareil"</string>
   <string name="bubbles_feature_disabled_button_cancel">Annuler</string>
   <string name="bubbles_feature_disabled_dialog_text">To turn on bubbles for this app, first you need to turn them on for your device. This affects other apps in which you previously turned on bubbles.</string>
-  <string name="bubbles_feature_disabled_dialog_title">Turn on bubbles</string>
+  <string name="bubbles_feature_disabled_dialog_title">Activation des bulles</string>
   <string name="bubbles_feature_education">Some notifications and other content can appear as bubbles on the screen. To open a bubble, tap it. To dismiss it, drag it down the screen.</string>
   <string name="call_category">Calling</string>
-  <string name="calls_and_sms_ask_every_time">Ask every time</string>
-  <string name="calls_preference">Calls preference</string>
+  <string name="calls_and_sms_ask_every_time">Demander à chaque fois</string>
+  <string name="calls_preference">Préférence des appels</string>
   <string name="cancel_lock_screen_dialog_button_label">Annuler</string>
-  <string name="cannot_change_apn_toast">This APN cannot be changed.</string>
+  <string name="cannot_change_apn_toast">Cet APN ne peut pas être modifié.</string>
   <string name="capture_system_heap_dump_title">Capture system heap dump</string>
   <string name="capturing_system_heap_dump_message">Capturing system heap dump</string>
-  <string name="carrier_settings_euicc">Carrier</string>
-  <string name="carrier_settings_title">Carrier settings</string>
-  <string name="carrier_settings_version">Settings version</string>
-  <string name="cbrs_data_switch_string">Cbrs Data</string>
+  <string name="carrier_settings_euicc">Opérateur</string>
+  <string name="carrier_settings_title">Réglages opérateur</string>
+  <string name="carrier_settings_version">Version des paramètres</string>
+  <string name="cbrs_data_switch_string">Données CBRS</string>
   <string name="cdma_lte_data_service">Set up data service</string>
   <string name="cdma_subscription_dialogtitle">subscription</string>
   <string name="cdma_subscription_summary">Change between RUIM/SIM and NV</string>
