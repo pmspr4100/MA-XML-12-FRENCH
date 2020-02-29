@@ -275,7 +275,7 @@ Selection"</string>
   <string name="cmas_opt_out_button_yes">Oui</string>
   <string name="cmas_opt_out_dialog_text">You are currently receiving Emergency Alerts. Would you like to continue receiving Emergency Alerts?</string>
   <string name="cmas_presidential_level_alert">Presidential alert</string>
-  <string name="cmas_required_monthly_test">Required Monthly Test</string>
+  <string name="cmas_required_monthly_test">Test mensuel requis</string>
   <string name="cmas_response_assess">Assess</string>
   <string name="cmas_response_avoid">Avoid</string>
   <string name="cmas_response_evacuate">Evacuate</string>
@@ -372,7 +372,7 @@ Selection"</string>
   <string name="enable_cmas_extreme_threat_alerts_title">Menaces extrêmes</string>
   <string name="enable_cmas_severe_threat_alerts_summary">Graves menaces sur la vie et la propriété</string>
   <string name="enable_cmas_severe_threat_alerts_title">Menaces graves</string>
-  <string name="enable_cmas_test_alerts_summary">Receive test messages for the safety alert system</string>
+  <string name="enable_cmas_test_alerts_summary">"Recevoir des messages texte pour le système d'alerte de sécurité"</string>
   <string name="enable_cmas_test_alerts_title">Required monthly test</string>
   <string name="enable_emergency_alerts_summary">"Afficher les émissions d'alerte d'urgence"</string>  
   <string name="enable_emergency_alerts_title">Activer les notifications</string>
@@ -546,11 +546,11 @@ Selection"</string>
   <string name="select_webview_provider_toast_text">This choice is no longer valid. Try again.</string>
   <string name="show_all_anrs">Show background ANRs</string>
   <string name="show_all_anrs_summary">Display App Not Responding dialog for background apps</string>
-  <string name="show_cmas_opt_out_summary">Show an opt-out dialog after displaying the first alert (other than Presidential Alert).</string>
-  <string name="show_cmas_opt_out_title">Show opt-out dialog</string>
+  <string name="show_cmas_opt_out_summary">"Afficher une boîte de dialogue de désactivation après l'affichage de la première alerte (autre que l'alerte présidentielle)."</string>
+  <string name="show_cmas_opt_out_title">Afficher la boîte de dialogue de désactivation</string>
   <string name="show_hw_layers_updates">Show hardware layers updates</string>
   <string name="show_hw_layers_updates_summary">Flash hardware layers green when they update</string>
-  <string name="show_hw_screen_updates">Show view updates</string>
+  <string name="show_hw_screen_updates">Afficher les mises à jour</string>
   <string name="show_hw_screen_updates_summary">Flash views inside windows when drawn</string>
   <string name="show_non_rect_clip">Debug non-rectangular clip operations</string>
   <string name="show_notification_channel_warnings">Show notification channel warnings</string>

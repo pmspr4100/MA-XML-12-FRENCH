@@ -8,41 +8,41 @@
         <item>Désactivé</item>
     </string-array>
     <string-array name="animator_duration_scale_entries">
-        <item>Animation off</item>
-        <item>Animation scale .5x</item>
-        <item>Animation scale 1x</item>
-        <item>Animation scale 1.5x</item>
-        <item>Animation scale 2x</item>
-        <item>Animation scale 5x</item>
-        <item>Animation scale 10x</item>
+        <item>Animation désactivée</item>
+        <item>"Échelle d'animation .5x"</item>
+        <item>"Échelle d'animation 1x"</item>
+        <item>"Échelle d'animation 1.5x"</item>
+        <item>"Échelle d'animation 2x"</item>
+        <item>"Échelle d'animation 5x"</item>
+        <item>"Échelle d'animation 10x"</item>
     </string-array>
     <string-array name="app_process_limit_entries">
-        <item>Standard limit</item>
-        <item>No background processes</item>
+        <item>Limite standard</item>
+        <item>"Aucun processus d'arrière-plan"</item>
         <item>At most 1 process</item>
         <item>At most 2 processes</item>
         <item>At most 3 processes</item>
         <item>At most 4 processes</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>Use System Selection (Default)</item>
-        <item>16 bits/sample</item>
-        <item>24 bits/sample</item>
-        <item>32 bits/sample</item>
+        <item>Utiliser la sélection du système (par défaut)</item>
+        <item>16 bits/échantillon</item>
+        <item>24 bits/échantillon</item>
+        <item>32 bits/échantillon</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>Use System Selection (Default)</item>
-        <item>16 bits/sample</item>
-        <item>24 bits/sample</item>
-        <item>32 bits/sample</item>
+        <item>Utiliser la sélection du système (par défaut)</item>
+        <item>16 bits/échantillon</item>
+        <item>24 bits/échantillon</item>
+        <item>32 bits/échantillon</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-        <item>Use System Selection (Default)</item>
+        <item>Utiliser la sélection du système (par défaut)</item>
         <item>Mono</item>
         <item>Stereo</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-        <item>Use System Selection (Default)</item>
+        <item>Utiliser la sélection du système (par défaut))</item>
         <item>Mono</item>
         <item>Stereo</item>
     </string-array>
@@ -59,21 +59,21 @@
         <item>Best Effort (Adaptive Bit Rate)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>Use System Selection (Default)</item>
+        <item>Utiliser la sélection du système (par défaut)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>Use System Selection (Default)</item>
+        <item>Utiliser la sélection du système (par défaut)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
-        <item>Use System Selection (Default)</item>
+        <item>Utiliser la sélection du système (par défaut)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>Qualcomm® aptX™ audio</item>
@@ -83,7 +83,7 @@
         <item>Disable Optional Codecs</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
-        <item>Use System Selection (Default)</item>
+        <item>Utiliser la sélection du système (par défaut)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>Qualcomm® aptX™ audio</item>
@@ -95,11 +95,11 @@
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
         <item>, active</item>
-        <item>, active (media)</item>
-        <item>, active (phone)</item>
+        <item>, active (média)</item>
+        <item>, active (téléphone)</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.4 (Default)</item>
+        <item>AVRCP 1.4 (par défaut)</item>
         <item>AVRCP 1.3</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
