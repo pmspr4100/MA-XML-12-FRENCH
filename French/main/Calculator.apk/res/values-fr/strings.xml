@@ -96,6 +96,7 @@
   <string name="dialog_rating_desc_perfect">Sympa ! Évaluer la Calculatrice aussi dans lApp Store ?</string>
   <string name="dialog_rating_title">Évaluez notre application</string>
   <string name="divDesc">diviser</string>
+  <string name="dob_selection_error">"La date de naissance doit être antérieure à la date d'aujourd'hui"</string>
   <string name="dotDesc">point</string>
   <string name="eDesc">"Nombre d'Euler"</string>
   <string name="equalDesc">égale</string>
@@ -152,6 +153,7 @@
   <string name="hint_annual_rate">Enter annual rate</string>
   <string name="hint_enter_amount">Entrer le montant</string>
   <string name="hint_floatwindow_alpha_guide_text">"Appuyez sur pour ajuster l'opacité"</string>
+  <string name="history_delete_confirmation">"Effacer l'histoire maintenant ?"</string>
   <string name="home_loan">Intérêts hypothécaires</string>
   <string name="home_title_calculator">Calculatrice</string>
   <string name="house_rent">Loyer</string>
@@ -181,14 +183,19 @@
   <string name="item_title_vel_conversion">Vitesse</string>
   <string name="item_title_volume_conversion">Volume</string>
   <string name="item_title_weight_conversion">Masse</string>
+  <string name="label_about">A Propos</string>
+  <string name="label_clear_history">Tout effacer</string>
   <string name="label_date_difference">Différence</string>
   <string name="label_days">Jours</string>
+  <string name="label_delete">Effacer</string>
   <string name="label_emi">EMI</string>
   <string name="label_first_repayment">Premier remboursement</string>
   <string name="label_from_date">De</string>
+  <string name="label_history">Historique</string>
   <string name="label_interest">Intérêt</string>
   <string name="label_loan_tenure">Loan tenure</string>
   <string name="label_months">Mois</string>
+  <string name="label_no_history">Aucun article ici encore</string>
   <string name="label_principal">Principal</string>
   <string name="label_share">Partager</string>
   <string name="label_start_date">Date de début</string>
