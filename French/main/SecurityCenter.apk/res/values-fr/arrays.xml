@@ -114,6 +114,13 @@
        <item>PIN</item>
        <item>Mot de passe</item>
     </string-array>
+    <string-array name="app_behavior_type_menu">
+        <item>All records</item>
+        <item>Autostart</item>
+        <item>Chain start</item>
+        <item>Using permissions</item>
+        <item>Sensitive actions</item>
+    </string-array>
     <string-array name="pc_settings_thermal_entries">
        <item>Par défaut</item>
        <item>Prioriser la performance</item>

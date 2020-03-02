@@ -35,12 +35,17 @@
   <string name="calendar_tip">"Le rappel d'événement semble fonctionner pour les rappels d'agenda, les notes et les tâches"</string>
   <string name="category_other">Autre</string>
   <string name="color_gamut">Gamme de couleurs</string>
+  <string name="contact_description">Place contact shortcuts on your Home screen and tap to make a call</string>
+  <string name="contact_title">Contact shortcuts</string>
   <string name="contrast_ratio">Contraste</string>
   <string name="create">Créer</string>
   <string name="create_failed">Impossible de créer</string>
   <string name="create_shortcut">"Raccourci de l'écran d'accueil"</string>
   <string name="created">Créé</string>
   <string name="created_successfully">Créé avec succès</string>
+  <string name="display_description">Bigger icons, large text, less visual clutter</string>
+  <string name="display_title">Bigger items</string>
+  <string name="exit_easymode">Turn off Lite mode</string>
   <string name="first_unlock_time">"Premier déverrouillage: "</string>
   <string name="focus_time_exception_tip">"On dirait que l'heure du système a changé. Désactivé le mode de mise au point."</string>
   <string name="follow_sim1">Appliquer les paramètres de la carte SIM 1</string>
@@ -87,6 +92,7 @@
   <string name="sms_delivered_sound_title">Message livré</string>
   <string name="sms_received_sound_title">Nouveau message</string>
   <string name="srgb_color_region_summary">"Afficher tout le contenu de l'écran dans la gamme de couleurs sRGB"</string>
+  <string name="start_easymode">Turn on Lite mode</string>
   <string name="stop_app_timer">"Désactiver le temps d'utilisation"</string>
   <string name="stop_app_timer_fail">"Le temps d'utilisation n'a pas pu être désactivé"</string>
   <string name="stop_app_timer_success">"Le temps d'utilisation a été désactivé"</string>
@@ -94,8 +100,11 @@
   <string name="stop_summary">"Toutes les statistiques et données de temps d'utilisation seront supprimées lorsque vous désactivez cette fonction"</string>
   <string name="suggestion">"Retour d'information"</string>
   <string name="thememanager_not_found">"Impossible d'ouvrir les thèmes. Assurez-vous que cette application est installée sur votre appareil."</string>
+  <string name="title_activity_easy_mode">Lite mode</string>
   <string name="today_usage_title">"Aujourd'hui"</string>
   <string name="today_use_time">"Temps d'utilisation: %1$s"</string>
+  <string name="touch_description">Optimized buttons and shortcuts will help you avoid accidental touch</string>
+  <string name="touch_title">Enhanced touch controls</string>
   <string name="trend_from_yesterday_equal">"Pareil qu'hier"</string>
   <string name="trend_from_yesterday_less">"%1$s moins qu'hier"</string>
   <string name="trend_from_yesterday_less_simple">"%1$s moins qu'hier"</string>
@@ -158,6 +167,8 @@ Cette application doit également se connecter à Internet et nécessite les aut
 Pour pouvoir fonctionner normalement, cette application doit collecter des informations sur le temps d'écran: le nombre de fois que vous déverrouillez votre téléphone, les noms des applications et la durée d'utilisation de l'application sont nécessaires pour générer des statistiques de temps d'écran.
 Cette application doit également se connecter à internet et nécessite les autorisations suivantes pour collecter vos informations personnelles:"</string>
   <string name="usage_home_premission_second_summary">"Pour pouvoir travailler normalement, cette application doit collecter vos informations personnelles. Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité en vigueur."</string>
+  <string name="usage_home_premission_second_summary_double_link_prefix">"We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies. If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use this app. You can revoke your authorization in Screen time &gt; Settings &gt; Turn off Screen time."</string>
+  <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">&lt;Data&gt;"Before using this app, read and agree to our &amp;lt;a href='%1s'&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href='%2s'&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="usage_home_premission_second_summary_new">"Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité applicables. Si vous n'acceptez pas d'accorder de telles permissions ou de partager et de télécharger vos informations personnelles, vous ne pourrez pas utiliser cette application. Vous pouvez révoquer votre permissions dans Gestionnaires d'utilisations > Paramètres > Désactiver le temps d'utilisation. Si vous avez plus de questions sur la confidentialité, vous pouvez nous contacter à privacy@xiaomi.com."</string>
   <string name="usage_no_net_summary">Vérifiez vos paramètres réseau et réessayez</string>
   <string name="usage_reach_device_limit">Temps écoulé ! Vous avez atteint la limite fixée.</string>

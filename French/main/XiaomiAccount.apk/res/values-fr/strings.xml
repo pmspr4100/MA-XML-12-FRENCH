@@ -324,6 +324,7 @@ Vous pouvez vous connecter à votre compte Mi en utilisant %s maintenant."</stri
   <string name="account_bind_secure_email_title">Ajouter un e-mail</string>
   <string name="update_phone_number_notice_message">Vous devez vérifier votre identité avant de mettre à jour votre numéro de téléphone.</string>
   <string name="failed_dup_secure_phone_number">Ce numéro de téléphone est déjà associé avec un autre compte Mi</string>
+  <string name="find_device">Find device</string>
   <string name="confirm_phone_number_dialog_title">Confirmer le numéro de téléphone</string>
   <string name="confirm_bundled_phone_dialog_title">Confirmer le numéro de téléphone associé</string>
   <string name="confirm_phone_number_dialog_message">Le code de vérification sera envoyé à %s.</string>
@@ -408,10 +409,16 @@ Vous pouvez vous connecter à votre compte Mi en utilisant %s maintenant."</stri
   <string name="find_device_access_denied">"Impossible d'obtenir les états, accès rejeté"</string>
   <string name="find_device_account_error">"Impossible d'obtenir l'état dû à l'erreur du compte"</string>
   <string name="find_device_null_credential_error">"Impossible d'obtenir les informations de l'appareil, contactez le service client Xiaomi"</string>
+  <string name="find_device_open">On</string>
   <string name="find_device_request_prepare_error">"Impossible d'obtenir l'état, réessayez plus tard"</string>
+  <string name="find_device_set_lost_model">Lost mode</string>
+  <string name="find_device_title">Find device</string>
   <string name="find_device_request_error">"Une erreur serveur s'est produite, attendez une minute ou deux et réessayez"</string>
   <string name="find_device_bad_response_error">"Une erreur serveur s'est produite, attendez une minute ou deux et réessayez"</string>
+  <string name="find_device_clear_data">Erase data</string>
+  <string name="find_device_close">Off</string>
   <string name="find_device_io_error">Impossible de se connecter au réseau</string>
+  <string name="find_device_location">Locate</string>
   <string name="find_device_interrupted">"L'action a été interrompue, attendez une minute ou deux et essayez à nouveau"</string>
   <string name="find_device_operation_failed_error">"Une erreur serveur s'est produite, attendez une minute ou deux et réessayez"</string>
   <string name="find_device_unknown_error">"Impossible d'obtenir l'état du périphérique, attendez une minute ou deux et réessayez"</string>
@@ -429,6 +436,7 @@ Vous pouvez vous connecter à votre compte Mi en utilisant %s maintenant."</stri
   <string name="auth_fail_warning">La session a expiré, veuillez vous reconnecter plus tard</string>
   <string name="find_device_message">Appareil verrouillé. Message: %1$s. Appeler %2$s.</string>
   <string name="find_device_owner_phone">Appareil verrouillé. Appeler %1$s.</string>
+  <string name="find_device_play_sound">Play sound</string>
   <string name="find_device_prompt_message">Appareil verrouillé. Message: %1$s.</string>
   <string name="find_device_activate_account">Activer votre compte</string>
   <string name="login_check_find_device">Obtention des informations de sécurité…</string>
