@@ -38,6 +38,11 @@ View help if you have problems connecting."</string>
   <string name="help_page_text_05">Étape 1</string>
   <string name="help_page_text_06">"1. Utilisez le petit téléphone à main mil pour vous connecter au petit téléviseur mil, vous pouvez établir une connexion d'écran verticale sans l'environnement réseau.
 2. Certains téléviseurs Xiaomi ou d'autres téléviseurs de marque qui ne prennent pas en charge le filtrage intelligent, vous devez connecter votre téléviseur (ou appareil à grand écran) à votre téléphone mobile au même réseau sans fil."</string>
+  <string name="help_page_text_06_global">"1. Mi TVs, Mi Boxes, and Mi Projectors:
+Connect both your phone and external monitor to the same Wi-Fi network for best effect. If they are connected to different networks, it might take more time to find the external monitor and connect.
+Note: Older Mi TVs might not support casting across different networks.
+2. If you're using TVs, set-top boxes, or projectors of other brands, connect both your phone and external monitor to the same Wi-Fi network.
+If the two devices can't be connected to the same network, turn on Miracast on your external monitor. The naming of Miracast functionality might vary."</string>
   <string name="help_page_text_07">"3. Certains téléviseurs Xiaomi ou d'autres téléviseurs de marque qui ne prennent pas en charge le filtrage intelligent. S'il n'y a pas de réseau sans fil, ou si le téléviseur et le téléphone portable ne peuvent pas se connecter au même réseau, vous devez allumer le téléviseur (ou un appareil à grand écran) [Miracast] Mirror projection screen]. Ce nom peut varier pour différentes marques de téléviseurs, vous pouvez glisser vers le bas de cette page pour en savoir plus."</string>
   <string name="help_page_text_08">Étape 2</string>
   <string name="help_page_text_09">"Tap the \"Cast\" toggle on your phone's Notification shade. Turn on both Wi-Fi and Bluetooth for a more stable connection."</string>
@@ -85,7 +90,7 @@ If you need to manually open the Miracast function, you can press the [Menu] but
   <string name="help_page_text_40">First, make sure that Miracast functionality is supported on your device. On some of the models, you can select Apps &gt; Screen Mirroring.</string>
   <string name="help_page_text_41">Panasonic customer support: 400-881-1315</string>
   <string name="help_page_text_42">Changhong</string>
-  <string name="help_page_text_43">First, make sure that Miracast functionality is supported on your device. On some of the models, you can select System &gt; System Tools &gt; Multiple Screens &gt; Screen Mirroring.</string>
+  <string name="help_page_text_43">Check the settings of your TV to make sure that your external monitor supports Miracast functionality.</string>
   <string name="help_page_text_44">Changhong customer support: 400-811-1666</string>
   <string name="help_page_text_45">TCL</string>
   <string name="help_page_text_46">First, make sure that Miracast functionality is supported on your device. On some of the models, you can select Apps &gt; Wireless Display.</string>
@@ -100,6 +105,7 @@ If you need to manually open the Miracast function, you can press the [Menu] but
 4. If you encounter any issues, you can report them using our \"Services &amp; feedback\" app."</string>
   <string name="help_page_text_55_global">"If you can't connect to the network, make sure your external monitor supports Miracast functionality and it's turned on. On some models, this feature is called Wireless Display, Screen Mirroring, or Multiple screens.
 4. If you encounter any issues, you can report them using our \"Services &amp; feedback\" app."</string>
+  <string name="nfc_connect_failed_toast">"Couldnt't cast. Try again."</string>
   <string name="help_page_text_end">"If the brand of your device isn't listed here, contact the manufacturer to learn more about casting functionality."</string>
   <string name="notification_rc_title">XiaoMi TV Assistant</string>
   <string name="notification_show_more">View more features</string>
@@ -121,6 +127,7 @@ Read and agree to our &amp;lt;a href=%1$s&amp;gt;User Agreement&amp;lt;/a&amp;gt
   <string name="san_wait_msg_4">"View \"Help\" if you can't find devices"</string>  
   <string name="sdk_name">lebo</string>
   <string name="small_window">Minimize window</string>
+  <string name="small_window_not_supported">"Can't minimize this app while it's being cast"</string>
   <string name="status_bar_in_casting">Casting</string>
   <string name="status_bar_in_casting_long">Click to expand more features</string>
   <string name="tile_label">Caster</string>
