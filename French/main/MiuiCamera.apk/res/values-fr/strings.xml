@@ -93,6 +93,17 @@
   <string name="app_name">"Gestionnaire d'effets"</string>
   <string name="ccc_temperature_warning_msg">"Votre appareil est en surchauffe. L'appareil photo sera fermée dans %d secondes. Vos photos ou vidéos seront enregistrées automatiquement."</string>
   <string name="ccc_temperature_warning_title">"L'appareil est en surchauffe"</string>
+  <string name="clone_don_not_move_phone">请不要移动手机</string>
+  <string name="clone_landscape_hint">分身模式仅支持横屏拍摄</string>
+  <string name="clone_no_person_found_in_viewfinder">取景区域未识别到人</string>
+  <string name="clone_offset_is_too_large">手机偏移过大，请重新拍摄</string>
+  <string name="clone_photo_mode">拍照模式</string>
+  <string name="clone_photo_mode_start_hint">请点击快门键开始拍照</string>
+  <string name="clone_preview_no_person">未识别到人,可能拍摄失败</string>
+  <string name="clone_put_phone_back_in_place">请把手机恢复原位</string>
+  <string name="clone_start_capture">开始拍摄</string>
+  <string name="clone_video_mode">视频模式</string>
+  <string name="clone_video_mode_start_hint">请点击快门键开始录制</string>
   <string name="color_effect_entry_classic">Classique</string>
   <string name="config_name_mimovie">Movie frame</string>
   <string name="confirm_reset_manually_parameter_message">Réinitialiser tous les paramètres à leurs valeurs par défaut ?</string>
@@ -120,6 +131,7 @@ et ajustez les préférences automatiquement"</string>
   <string name="auxiliary_exposure_feedback_status">Vérification exposition activée</string>
   <string name="auxiliary_focus_peak_status">Mise au point activée</string>
   <string name="back_bokeh_use_hint">Gardez votre sujet à moins de 1,5 mètre pour un meilleur effet</string>
+  <string name="background">Background</string>
   <string name="beauty_body">Silhouette</string>
   <string name="beauty_body_body">Élancé</string>
   <string name="beauty_body_head">Tête</string>
@@ -382,6 +394,9 @@ regarder plus grand sur les photos"</string>
   <string name="mimoji_check_no_face">Visage non reconnu</string>
   <string name="mimoji_check_normal">"Appuyez sur le bouton de l'appareil photo"</string>
   <string name="mimoji_confirm">OK</string>
+  <string name="mimoji_create_emoticon">Create sticker pack</string>
+  <string name="mimoji_create_emoticon_error">"Couldn't create sticker pack"</string>
+  <string name="mimoji_create_emoticon_progress">Creating sticker pack…</string>
   <string name="mimoji_create_tips">"Regardez directement dans l'appareil photo pour créer votre Mimoji"</string>
   <string name="mimoji_delete">&lt;font fgcolor="#ffff0000"&gt;Supprimer&lt;/font&gt;</string>
   <string name="mimoji_delete_dialog_title">Supprimer Mimoji ?</string>
@@ -405,6 +420,8 @@ regarder plus grand sur les photos"</string>
   <string name="mimoji_edit_cancel_alert">Tous les changements seront ignorés. Annuler quand même ?</string>
   <string name="mimoji_edit_mimoji">Éditer Mimoji</string>
   <string name="mimoji_editor">Éditer</string>
+  <string name="mimoji_emoticon_save">Save sticker pack</string>
+  <string name="mimoji_emoticon_with_jpeg_save">Save images as well</string>
   <string name="mimoji_eye">Yeux</string>
   <string name="mimoji_eye_shape">Forme des yeux</string>
   <string name="mimoji_eyebrow">Sourcils</string>
@@ -414,6 +431,12 @@ regarder plus grand sur les photos"</string>
   <string name="mimoji_featured_face">Face</string>
   <string name="mimoji_fragment_tab_name">Mimoji</string>
   <string name="mimoji_freckle">Taches de rousseur</string>
+  <string name="mimoji_gif_accelerate">Speed</string>
+  <string name="mimoji_gif_clear_bg">Remove background</string>
+  <string name="mimoji_gif_edit_hint">Tap to add text</string>
+  <string name="mimoji_gif_edit_title">Edit GIF</string>
+  <string name="mimoji_gif_record_time_short">Recorded video is too short</string>
+  <string name="mimoji_gif_reverse">Reverse</string>
   <string name="mimoji_hairstyle">Cheveux</string>
   <string name="mimoji_headwear">Chapeaux</string>
   <string name="mimoji_mole">Moles</string>
@@ -427,7 +450,9 @@ regarder plus grand sur les photos"</string>
   <string name="mimoji_recapture_alert">Tous les changements seront annulés une fois que vous aurez recommencé. Recommencer quand même ?</string>
   <string name="mimoji_reset">Réinitialiser</string>
   <string name="mimoji_save">Enregistrer</string>
+  <string name="mimoji_save_finish">Done</string>
   <string name="mimoji_save_success">Enregistré avec succès</string>
+  <string name="mimoji_select_number_error">Select at least 1 item</string>
   <string name="mimoji_selected">Sélectionner</string>
   <string name="mimoji_start_create">Création Mimoji…</string>
   <string name="mimoji_tips">Appuyez pour prendre une photo. Maintenez enfoncé pour enregistrer une vidéo.</string>
@@ -852,6 +877,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_watermark_on">Activé</string>
   <string name="pref_watermark_title">Filigrane</string>
   <string name="preparing_sd">Vérification carte SD…</string>
+  <string name="preview_back_pressed_hint">Tap again to go back to preview</string>
   <string name="recommend_macro_mode">Essayez le mode macro</string>
   <string name="recommend_portrait">Essayez le mode portrait</string>
   <string name="recommend_soft_light_tip">Activer le flash</string>
@@ -888,6 +914,8 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="snap_confirmed">Replacer</string>
   <string name="spaceIsLow_content_external_storage_priority">Votre carte SD USB est pleine</string>
   <string name="spaceIsLow_content_primary_storage_priority">Votre périphérique de stockage USB est plein</string>
+  <string name="speech_shutter_open_tip">说出“拍照”或“茄子”即可拍照</string>
+  <string name="speech_shutter_tip">语音快门</string>
   <string name="start_capture">OK</string>
   <string name="sticker_tab1">Cute</string>
   <string name="sticker_tab2">Funny</string>
@@ -900,6 +928,13 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="tap_to_focus">Appuyez pour faire la mise au point</string>
   <string name="text_ai_scene_selector_text_off">CONTRE-JOUR</string>
   <string name="text_ai_scene_selector_text_on">SILHOUETTE</string>
+  <string name="timbre">Voice</string>
+  <string name="timbre_baby">Kid</string>
+  <string name="timbre_gentlemen">Gent</string>
+  <string name="timbre_girl">Girl</string>
+  <string name="timbre_lady">Lady</string>
+  <string name="timbre_normal">Original</string>
+  <string name="timbre_robot">Robot</string>
   <string name="time_lapse_error">"Impossible d'utiliser cette taille de vidéo pour un enregistrement en accéléré"</string>
   <string name="title_snap_double_confirm">Confirmer à nouveau</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">"Impossible de prendre en rafale lorsque la capture audio est activée"</string>
@@ -928,6 +963,7 @@ Le mode ultra grand angle vient vous aider lorsque vous ne pouvez pas vous éloi
   <string name="ultra_wide_open_tip_sat">0.6X ultra grand angle</string>
   <string name="ultra_wide_recommend_tip_hint">Essayez le mode ultra grand angle</string>
   <string name="ultra_wide_recommend_tip_hint_sat">Basculer vers un angle ultra large 0.6X</string>
+  <string name="unknow_error">Unknown error</string>
   <string name="user_agree">Accepter</string>
   <string name="user_define_watermark_cancel">Annuler</string>
   <string name="user_define_watermark_save">Enregistrer</string>
