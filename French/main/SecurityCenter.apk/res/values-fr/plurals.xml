@@ -481,19 +481,19 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
       <item quantity="one">%1$d problème nécessite une optimisation</item>
     </plurals>
     <plurals name="app_behavior_desc_allow">
-        <item quantity="other">Allowed %3$d times between %1$s and %2$s</item>
-        <item quantity="one">Allowed %3$d time between %1$s and %2$s</item>
+        <item quantity="other">Autorisé %3$d fois entre %1$s et %2$s</item>
+        <item quantity="one">Autorisé %3$d fois entre %1$s et %2$s</item>
     </plurals>
     <plurals name="app_behavior_desc_deny">
-        <item quantity="other">Restricted %3$d times between %1$s and %2$s</item>
-        <item quantity="one">Restricted %3$d time between %1$s and %2$s</item>
+        <item quantity="other">Refusé %3$d fois entre %1$s et %2$s</item>
+        <item quantity="one">Refusé %3$d fois entre %1$s et %2$s</item>
     </plurals>
     <plurals name="app_behavior_privacy_manager_on">
-        <item quantity="other">"You'll be notified about sensitive actions performed by %1$d apps"</item>
-        <item quantity="one">"You'll be notified about sensitive actions performed by %1$d app"</item>
+        <item quantity="other">Vous serez notifié des actions sensibles effectuées par les applications %1$d</item>
+        <item quantity="one">"Vous serez notifié des actions sensibles effectuées par l'application %1$d"</item>
     </plurals>
     <plurals name="app_behavior_privacy_manager_off">
-        <item quantity="other">"You won't be notified about sensitive actions performed by %1$d apps"</item>
-        <item quantity="one">"You won't be notified about sensitive actions performed by %1$d app"</item>
+        <item quantity="other">Vous ne serez pas notifié des actions sensibles effectuées par les applications %1$d</item>
+        <item quantity="one">"Vous ne serez pas notifié des actions sensibles effectuées par l'applications %1$d"</item>
     </plurals>
 </resources>
