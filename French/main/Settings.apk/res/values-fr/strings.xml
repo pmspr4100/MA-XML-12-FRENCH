@@ -84,10 +84,10 @@ Toutes les applications ne prennent pas en charge ce paramètre."</string>
   <string name="accessibility_ring_vibration_title">Vibration sonnerie</string>
   <string name="accessibility_service_action_perform_description">It can track your interactions with an app or a hardware sensor, and interact with apps on your behalf.</string>
   <string name="accessibility_service_action_perform_title">Voir et effectuer des actions</string>
-  <string name="accessibility_service_screen_control_description">It can read all content on the screen and display content over other apps.</string>
+  <string name="accessibility_service_screen_control_description">"Il peut lire tout le contenu à l'écran et afficher du contenu sur d'autres applications."</string>
   <string name="accessibility_service_screen_control_title">"Voir et contrôler l'écran"</string>
-  <string name="accessibility_service_warning">%1$s is requesting full control of this device. The service can read the screen and act on behalf of users with accessibility needs. This level of control is not appropriate for most apps.</string>
-  <string name="accessibility_service_warning_description">Full control is appropriate for apps that help you with accessibility needs, but not for most apps.</string>
+  <string name="accessibility_service_warning">"%1$s demande le contrôle total de cet appareil. Le service peut lire l'écran et agir au nom des utilisateurs ayant des besoins d'accessibilité. Ce niveau de contrôle n'est pas approprié pour la plupart des applications."</string>
+  <string name="accessibility_service_warning_description">"Un contrôle total est approprié pour les applications qui vous aident à répondre aux besoins d'accessibilité, mais pas pour la plupart des applications."</string>
   <string name="accessibility_setting_item_control_timeout_title">"Il est temps de passer à l'action (délai d'accessibilité)"</string>
   <string name="accessibility_timeout_10secs">10 secondes</string>
   <string name="accessibility_timeout_1min">1 minute</string>
@@ -97,10 +97,10 @@ Toutes les applications ne prennent pas en charge ce paramètre."</string>
   <string name="accessibility_toggle_master_balance_left_label">Gauche</string>
   <string name="accessibility_toggle_master_balance_right_label">Droit</string>
   <string name="accessibility_toggle_master_balance_title">Balance audio</string>
-  <string name="adaptive_sleep_description">Prevents your screen from turning off if you’re looking at it.</string>
-  <string name="adaptive_sleep_privacy">Screen attention uses the front camera to see if someone is looking at the screen. It works on device, and images are never stored or sent to Google.</string>
+  <string name="adaptive_sleep_description">"Empêche votre écran de s'éteindre si vous le regardez."</string>
+  <string name="adaptive_sleep_privacy">"L'attention à l'écran utilise la caméra avant pour voir si quelqu'un regarde l'écran. Cela fonctionne sur l'appareil et les images ne sont jamais stockées ni envoyées à Google."</string>
   <string name="adaptive_sleep_summary_off">Désactiver</string>
-  <string name="adaptive_sleep_summary_on">On / Screen won’t turn off if you’re looking at it</string>
+  <string name="adaptive_sleep_summary_on">"On / L'écran ne s'éteindra pas si vous le regardez"</string>
   <string name="adaptive_sleep_title">Écran regardé</string>
   <string name="add">Ajouter</string>
   <string name="ai_key">Bouton IA</string>
@@ -1830,21 +1830,21 @@ Vous pouvez désactiver cette fonctionnalité dans les paramètres > Bluetooth >
   <string name="bt_hci_snoop_log">Log Bluetooth HCI snoop</string>
   <string name="bt_hci_snoop_log_summary">Capturer tous les paquets Bluetooth HCI dans un fichier</string>
   <string name="bt_ldac_declaration">"Lorsque le périphérique Bluetooth prend en charge LDAC, il sera connecté par défaut. LDAC fournit une expérience audio de haute qualité mais aussi augmente la consommation d'énergie. Des problèmes peuvent se produire pendant la lecture en raison des limites du matériel Bluetooth."</string>
-  <string name="bt_ldac_dialog_summary">LDAC provides a high-quality audio experience, but also increases power consumption. This feature can be turned off in the Settings.</string>
-  <string name="bt_ldac_dialog_title">"L'appareil actuel supporte LDAC, qui a été connecté par défaut:"</string>
+  <string name="bt_ldac_dialog_summary">"LDAC permet une expérience audio de haute qualité, mais augmente la consommation d'énergie. Cette fonctionnalité peut être désactivée dans les Paramètres."</string>
+  <string name="bt_ldac_dialog_title">"L'appareil actuel supporte LDAC, qui a été connecté par défaut :"</string>
   <string name="bt_ldac_open_dialog_summary">"LDAC fournit une expérience audio de haute qualité mais aussi augmente la consommation d'énergie. Des problèmes peuvent se produire pendant la lecture en raison des limites du matériel Bluetooth."</string>
   <string name="bt_ldac_open_dialog_title">Activer LDAC ?</string>
   <string name="bt_ldac_property">Attributs</string>
   <string name="bt_lhdc_declaration">"Lorsqu'un périphérique Bluetooth prend en charge le protocole LHDC, il sera connecté par défaut. LHDC fournit une expérience audio de haute qualité, mais augmente également la consommation d'énergie. Des problèmes peuvent survenir lors de la lecture en raison de limitations matérielles Bluetooth."</string>
-  <string name="bt_lhdc_dialog_summary">LHDC provides a high-quality audio experience, but also increases power consumption. This feature can be turned off in the Settings.</string>
+  <string name="bt_lhdc_dialog_summary">"LHDC fournit une expérience audio de haute qualité mais aussi augmente la consommation d'énergie. Cette fonctionnalité peut être désactivée dans les Paramètres."</string>
   <string name="bt_lhdc_dialog_title">Le périphérique actuel prend en charge LHDC, qui a été connecté par défaut:</string>
   <string name="bt_lhdc_open_dialog_summary">"LHDC fournit une expérience audio de haute qualité, mais augmente également la consommation d'énergie. Des problèmes peuvent survenir lors de la lecture en raison de limitations matérielles Bluetooth."</string>
   <string name="bt_lhdc_open_dialog_title">Activer LHDC ?</string>
-  <string name="bt_lhdc_property">Attributes</string>
+  <string name="bt_lhdc_property">Attributs</string>
   <string name="bt_pre_summary">Fournit une expérience audio de haute qualité</string>
   <string name="bt_rarely_used_device_title">Appareils rarement utilisés (%d)</string>
   <string name="bt_trace_log">Activer le suivi du journal Bluetooth</string>
-  <string name="bt_trace_log_summary">Log Bluetooth trace</string>
+  <string name="bt_trace_log_summary">Journal Bluetooth</string>
   <string name="btn_back">Retour</string>
   <string name="bug_report_settings">"Retour d'informations"</string>
   <string name="bugreport_in_power">Raccourci de rapport de bogues</string>
@@ -2013,7 +2013,7 @@ Vous pouvez désactiver cette fonctionnalité dans les paramètres > Bluetooth >
   <string name="cloud_restore_section_summary">"Restaurer les paramètres du système, la position de l'écran d'accueil et les applications"</string>
   <string name="cloud_restore_section_summary_new">Back up Home screen layout, apps, system settings, and more</string>
   <string name="cloud_restore_section_title">Restaurer depuis Xiaomi Cloud</string>
-  <string name="cloud_restore_section_title_new">In Xiaomi Cloud</string>
+  <string name="cloud_restore_section_title_new">Dans Xiaomi Cloud</string>
   <string name="cmcc_hardware_version">Version du matériel</string>
   <string name="codec_low_latency_summary">Minimisez la latence pendant la synchronisation audio et vidéo du jeu</string>
   <string name="codec_low_latency_title">Faible latence</string>
@@ -2387,7 +2387,7 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
   <string name="data_warning_footnote">"Le seuil d'avertissement sur la consommation des données et la limite de données sont mesurés par votre appareil. Cette mesure peut différer des données de l'opérateur."</string>
   <string name="datasize_decrease_content">"Contacts, messages, and system data are compressed while they're being backed up, which results in smaller file size.
 "</string>
-  <string name="datasize_decrease_title">6. Why are some backup files smaller than the actual items?</string>
+  <string name="datasize_decrease_title">6. Pourquoi certains fichiers de sauvegarde sont-ils plus petits que les fichiers actuels ?</string>
   <string name="date_and_time">Date et heure</string>
   <string name="date_and_time_settings_summary">"Configurer la date, l'heure, le fuseau horaire et les formats"</string>
   <string name="date_and_time_settings_title">Date et heure</string>
@@ -2473,47 +2473,47 @@ Vous ne pouvez pas zoomer sur le clavier et la barre de navigation."</string>
   <string name="assist_gesture_title">Assist gesture</string>
   <string name="battery_saver_turn_on_automatically_pct">à %1$s batterie</string>
   <string name="bluetooth_enter_passkey_msg">Saisissez le code de couplage, puis appuyez sur Retour ou Entrée</string>
-  <string name="bluetooth_unlock_confirm_device_text_for_huami_band">Confirmez sur la bande.</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_huami_band">Confirmez sur le bracelet.</string>
   <string name="bootloader_tips_warning">"Ne vous déconnectez pas du réseau, ne vous déconnectez pas de votre compte Mi, n'effectuez pas une réinitialisation d'usine ou n'effacez pas les données système."</string>
   <string name="connected">Connecté</string>
-  <string name="connected_tws_device_saved_title">Saved Earbuds</string>
+  <string name="connected_tws_device_saved_title">Earbuds enregistrés</string>
   <string name="debug_intent_sender_label">Debug intent sender</string>
   <string name="font_size_preview_text">Servez à ce monsieur une bière et des kiwis.</string>
   <string name="full_screen_keyboard_settings">Full screen display keyboard settings</string>
   <string name="master_clear_apply_step_1">"&lt;b&gt;&amp;#8220;Réinitialisation des données d'usine&amp;#8221; effacera toutes les données de votre téléphone&lt;/b&gt;, y compris des photos, des chansons, des notes et d'autres données personnelles. Assurez-vous de sauvegarder tous les éléments importants sur votre ordinateur."</string>
   <string name="master_clear_apply_step_2">"Assurez-vous que tous les éléments importants sont sauvegardés sur votre ordinateur. Toutes les données de cet appareil seront effacées lors de la réinitialisation. &lt;b&gt;"Vous ne pourrez pas restaurer les éléments que vous n'avez pas sauvegardés."&lt;/b&gt;"</string>
-  <string name="modify_default_browser_message">If you set a third party app as your default browser, it might start collecting your browsing history and other data. Set anyway?</string>
-  <string name="mqs_privacy_automatically_upload">Upload automatically next time</string>
+  <string name="modify_default_browser_message">"Si vous utilisez une application tierce comme navigateur par défaut, elle pourrait collecter votre historique de navigation et d'autres données. Régler quand même ?"</string>
+  <string name="mqs_privacy_automatically_upload">Envoyer automatiquement la prochaine fois</string>
   <string name="mqs_privacy_dialog_cancel">Annuler</string>
-  <string name="mqs_privacy_dialog_confirm">Upload</string>
-  <string name="mqs_privacy_dialog_content">Upload logs to help us locate and solve this problem? Logs may contain your personal info, including the info about your location.</string>
-  <string name="mqs_privacy_dialog_title">An error occurred</string>
-  <string name="network_state_label">Network state:</string>
-  <string name="networkid_label">Network ID:</string>
-  <string name="notification_animation_style">Special effects</string>
-  <string name="paper_mode_side_effect_hint">Higher intensity might affect the way content is displayed.</string>
-  <string name="power_charging_duration">%1$s - %2$s until fully charged</string>
-  <string name="power_discharge_remaining">%1$s remaining</string>
-  <string name="power_discharging_duration">About %1$s left (%2$s)</string>
-  <string name="power_discharging_duration_enhanced">About %1$s left based on your usage (%2$s)</string>
-  <string name="power_usage_enhanced_debug">%1$s left (New ML est)</string>
-  <string name="power_usage_old_debug">%1$s left (Old est)</string>
-  <string name="process_stats_total_duration">%1$s of %2$s used over last %3$s</string>
-  <string name="process_stats_total_duration_percentage">%1$s of RAM used over %2$s</string>
+  <string name="mqs_privacy_dialog_confirm">Envoyer</string>
+  <string name="mqs_privacy_dialog_content">Envoyer les journaux pour nous aider à repérer et résoudre ce problème ? Les journaux peuvent contenir vos données personnelles, y compris votre emplacement géographique.</string>
+  <string name="mqs_privacy_dialog_title">Une erreur est survenue</string>
+  <string name="network_state_label">État du réseau :</string>
+  <string name="networkid_label">ID réseau :</string>
+  <string name="notification_animation_style">Effets spéciaux</string>
+  <string name="paper_mode_side_effect_hint">"Une intensité plus élevée pourrait affecter la façon d'afficher le contenu".</string>
+  <string name="power_charging_duration">"%1$s - %2$s jusqu'à la recharge complète"</string>
+  <string name="power_discharge_remaining">%1$s restant</string>
+  <string name="power_discharging_duration">Environ %1$s restant (%2$s)</string>
+  <string name="power_discharging_duration_enhanced">"Environ %1$s restant d'après votre utilisation (%2$s)"</string>
+  <string name="power_usage_enhanced_debug">%1$s restant (Nouvelle estim. ML)</string>
+  <string name="power_usage_old_debug">%1$s restant (Ancienne estim.)</string>
+  <string name="process_stats_total_duration">%1$s sur %2$s utilisé durant %3$s</string>
+  <string name="process_stats_total_duration_percentage">%1$s de RAM utilisée sur %2$s</string>
   <string name="screen_paper_mode_hdr_toast_new">"Le mode de lecture sera automatiquement désactivé pendant la lecture vidéo HDR et la vérification des empreintes digitales. Votre appareil repassera en mode Lecture une fois ces actions terminées."</string>
-  <string name="select_sim_card">Select SIM card</string>
-  <string name="share_this_wifi">Extend WLAN coverage</string>
+  <string name="select_sim_card">Sélectionner carte SIM</string>
+  <string name="share_this_wifi">Étendre la couverture Wi-Fi</string>
   <string name="sim_pin_disable_failed">"Impossible de désactiver le code PIN."</string>
   <string name="sim_pin_enable_failed">"Impossible d'activer le code PIN."</string>
   <string name="temporary_style">"10 secondes après avoir tapé sur l'écran"</string>
-  <string name="testing_sim_toolkit">SIM toolkit</string>
-  <string name="testing_wifi_info">WLAN information</string>
-  <string name="time_zone_auto_stub">Select Time Zone</string>
-  <string name="weight_heavy">Bold</string>
-  <string name="weight_light">Light</string>
-  <string name="weight_setting_toast">You can change font weight only for the default system font</string>
-  <string name="wifi_api_test">WLAN API</string>
-  <string name="wifi_config_info">WLAN config</string>
+  <string name="testing_sim_toolkit">Boîte à outils SIM</string>
+  <string name="testing_wifi_info">Information Wi-Fi</string>
+  <string name="time_zone_auto_stub">Choisir fuseau horaire</string>
+  <string name="weight_heavy">Gras</string>
+  <string name="weight_light">Léger</string>
+  <string name="weight_setting_toast">Vous pouvez changer la graisse de la police uniquement pour la police système par défaut</string>
+  <string name="wifi_api_test">API Wi-Fi</string>
+  <string name="wifi_config_info">Config Wi-Fi</string>
   <string name="wifi_display_autonomous_go">Enable autonomous GO</string>
   <string name="wifi_display_certification_heading">Certification</string>
   <string name="wifi_display_listen_channel">Listen channel</string>
@@ -2526,19 +2526,19 @@ Vous ne pouvez pas zoomer sur le clavier et la barre de navigation."</string>
   <string name="wifi_state_label">WLAN state:</string>
   <string name="wifi_status_test">WLAN status</string>
   <string name="wifi_update">Refresh stats</string>
-  <string name="xiaomi_cloud_service_description_without_contacts">Xiaomi Cloud syncs your photos, backs up your apps and settings, and helps you find your phone using Find device.</string>
-  <string name="zen_onboarding_dnd_visual_disturbances_description">"Your phone can do more to help you focus.
+  <string name="xiaomi_cloud_service_description_without_contacts">Xiaomi Cloud cynchronise vos photos, sauvegarde vos applications et vos paramètres, et vous aide à localiser votre téléphone en utilisant Find device.</string>
+  <string name="zen_onboarding_dnd_visual_disturbances_description">"Votre téléphone peut en faire plus pour vous aider à rester concentré.
 
-Update settings to:
+Mettre à jour les paramètres pour :
 
-- Hide notifications completely
+- Cacher complètement les notifications
 
-- Allow calls from starred contacts and repeat callers"</string>
-  <string name="zen_onboarding_more_options">You can further customize this in Settings.</string>
-  <string name="zen_onboarding_screen_off_summary">"Don't turn on the screen or wake for notifications"</string>
-  <string name="zen_onboarding_screen_off_title">Block when the screen is off</string>
-  <string name="zen_onboarding_screen_on_summary">"Don't show notifications at all, except for basic phone activity and status"</string>
-  <string name="zen_onboarding_screen_on_title">Block when the screen is on</string>
+- Autoriser les appels pour les contacts favoris et les contacts fréquents"</string>
+  <string name="zen_onboarding_more_options">Vous pouvez personnaliser davantage cela dans Paramètres.</string>
+  <string name="zen_onboarding_screen_off_summary">"Ne pas allumer l'écran ou vous avertir des notifications"</string>
+  <string name="zen_onboarding_screen_off_title">"Bloquer quand l'écran est éteint"</string>
+  <string name="zen_onboarding_screen_on_summary">"Ne pas afficher les notifications du tout, sauf pour l'activité de base du téléphone et son état"</string>
+  <string name="zen_onboarding_screen_on_title">"Bloquer quand l'écran est allumé"</string>
   <string name="default_theme">Par défaut</string>
   <string name="default_usb_mode">Connexion USB</string>
   <string name="default_vol_stream_title">Contrôle du volume par défaut</string>
@@ -2718,8 +2718,8 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
   <string name="display_vr_pref_off">Réduire le scintillement</string>
   <string name="display_vr_pref_title">"Quand l'appareil est en mode RV"</string>
   <string name="display_white_balance_title">Afficher la balance des blancs</string>
-  <string name="diy_suppression_summary">Adjust the size of the area near the edges where accidental touch will be ignored</string>
-  <string name="diy_suppression_title">Custom</string>
+  <string name="diy_suppression_summary">Ajustez la taille de la zone près des bords où le toucher accidentel sera ignoré</string>
+  <string name="diy_suppression_title">Personnaliser</string>
   <string name="dlg_cancel">Annuler</string>
   <string name="dlg_close">Fermer</string>
   <string name="dlg_confirm_unmount_text">"Si vous désinstallez la carte SD, certaines applications en cours d'utilisation s'arrêteront et risquent de ne plus être disponibles tant que vous n'aurez pas réinstallé la carte SD."</string>
@@ -2858,8 +2858,8 @@ Vous pouvez afficher les journaux générés dans le Gestionnaire de fichiers."<
   <string name="edge_mode_photo_summary">"Dans l'application Appareil photo, appuyer sur le bord de votre téléphone pour déclencher l'obturateur et appuyer à nouveau pour prendre une photo"</string>
   <string name="edge_mode_screenshot">"Capture d'écran"</string>
   <string name="edge_mode_screenshot_summary">"Appuyer deux fois sur les bords pour prendre une capture d'écran"</string>
-  <string name="edge_mode_state_summary">"The area around curved edges won't respond to touch"</string>
-  <string name="edge_mode_state_title">Ignore accidental touch on the edges</string>
+  <string name="edge_mode_state_summary">"La zone autour des bords incurvés ne répondra pas au toucher"</string>
+  <string name="edge_mode_state_title">Ignorer le toucher accidentel sur les bords</string>
   <string name="edit_rule">Éditer des règles</string>
   <string name="edit_rules">Éditer</string>
   <string name="eighthours">8 heures</string>
@@ -3385,39 +3385,39 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
   <string name="homepage_all_settings">All Settings</string>
   <string name="homepage_condition_footer_content_description">Collapse</string>
   <string name="homepage_personal_settings">Suggestions</string>
-  <string name="how_backup_content">"There are 3 types of backups you can create: local, cloud, and USB.
-Local backups:
-Local backups allow you to save your system settings, accounts, app data, and other items in a separate file stored on your device (MIUI-backup-AllBackup). After the backup file is created, you can transfer it to your computer via USB cable.
-Note:
-You can use Mi PC Suite to back up and restore items.
+  <string name="how_backup_content">"Il existe 3 types de sauvegardes que vous pouvez créer : locales, cloud et USB.
+Sauvegardes locales :
+Les sauvegardes locales vous permettent d'enregistrer vos paramètres système, comptes, données d'application et autres éléments dans un fichier séparé stocké sur votre appareil (MIUI-backup-AllBackup). Une fois le fichier de sauvegarde créé, vous pouvez le transférer sur votre ordinateur via un câble USB.
+Remarque:
+Vous pouvez utiliser Mi PC Suite pour sauvegarder et restaurer des éléments.
 
-Cloud backups:
-You can back up system settings, Home screen layout, apps, and other items to Xiaomi Cloud wirelessly.
+Sauvegardes cloud :
+Vous pouvez sauvegarder les paramètres système, la disposition de l'écran d'accueil, les applications et d'autres éléments sur Xiaomi Cloud sans fil.
 
-USB backups:
-This method allows you to save system settings, accounts, app data, and other items to an external USB storage device.
+Sauvegardes USB :
+Cette méthode vous permet d'enregistrer les paramètres système, les comptes, les données d'applications et d'autres éléments sur un périphérique de stockage USB externe.
 "</string>
-  <string name="how_backup_title">1. How can I back up items?</string>
-  <string name="how_encrypt_content">"You can only encrypt local backups. There are 2 ways to do this:
-a) Open the page with your local backups, tap the button to turn on encryption, and sign in to your Mi Account. Backups will be encrypted automatically after that. Remember that you'll need to sign in to your Mi Account to restore items from encrypted backups.
-b) If you're using Mi PC Suite to back up items, you can use encryption options there.
+  <string name="how_backup_title">1. Comment sauvegarder des éléments ?</string>
+  <string name="how_encrypt_content">"Vous ne pouvez chiffrer que les sauvegardes locales. Il y a 2 façons de procéder :
+a) Ouvrez la page avec vos sauvegardes locales, appuyez sur le bouton pour activer le chiffrement et connectez-vous à votre compte Mi. Les sauvegardes seront chiffrées automatiquement après cela. N'oubliez pas que vous devrez vous connecter à votre compte Mi pour restaurer des éléments à partir de sauvegardes chiffrées.
+b) Si vous utilisez Mi PC Suite pour sauvegarder des éléments, vous pouvez y utiliser des options de chiffrement.
 
-Note:
-Remember the password you set for encrypted backups! You won't be able to decrypt your backups if you forget it.
+Remarque:
+N'oubliez pas le mot de passe que vous avez défini pour les sauvegardes chiffrées ! Vous ne pourrez pas déchiffrer vos sauvegardes si vous l'oubliez.
 "</string>
-  <string name="how_encrypt_title">3. How do I encrypt my backups?</string>
-  <string name="how_restore_backup_content">"Here's how you can restore items that were backed up using different methods:
+  <string name="how_encrypt_title">3. Comment chiffrer mes sauvegardes ?</string>
+  <string name="how_restore_backup_content">"Voici comment restaurer des éléments sauvegardés à l'aide de différentes méthodes :
 
-Local backups:
-Copy the backup file from your computer to your device (MIUI-backup-AllBackup). Go to Settings &gt; Back up, restore, or reset &gt; On this device, and select the backup file.
+Sauvegardes locales :
+Copiez le fichier de sauvegarde de votre ordinateur vers votre appareil (MIUI-backup-AllBackup). Accédez à Paramètres &gt; Sauvegarder, restaurer ou réinitialiser &gt; Sur cet appareil, puis sélectionnez le fichier de sauvegarde.
 
-Cloud backups:
-Sign in to your Mi Account, go to Settings &gt; Back up, restore, or reset &gt; In Xiaomi Cloud, and select the backup file.
+Sauvegardes cloud :
+Connectez-vous à votre compte Mi, accédez à Paramètres &gt; Sauvegarder, restaurer ou réinitialiser &gt; Dans Xiaomi Cloud, et sélectionnez le fichier de sauvegarde.
 
-USB backups:
-Copy the backup file to your device (MIUI-backup-AllBackup). Go to Settings &gt; Back up, restore, or reset &gt; On this device, and select the backup file.
+Sauvegardes USB:
+Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Accédez à Paramètres &gt; Sauvegarder, restaurer ou réinitialiser &gt; Sur cet appareil, puis sélectionnez le fichier de sauvegarde.
 "</string>
-  <string name="how_restore_backup_title">2. How do I restore backed up items?</string>
+  <string name="how_restore_backup_title">2. Comment restaurer des éléments sauvegardés ?</string>
   <string name="http_invoke_app">Applications Web</string>
   <string name="http_invoke_app_summary">Ouvrez les applications plus rapidement sans les installer</string>
   <string name="iCloud_ID_verification_tip">"Appuyez sur \"Autoriser\" sur votre appareil Apple pour faire apparaître le code de vérification. Entrez le code de vérification ici."</string>
@@ -4223,7 +4223,7 @@ D'autres personnes utilisent cet appareil.
   <string name="miui_sos_statusbar_summary">Appuyez pour désactiver</string>
   <string name="miui_sos_statusbar_title">Mode SOS urgence est activé</string>
   <string name="miui_special_feature">Fonctionnalités spéciales</string>
-  <string name="miui_touch_filtered_touchassistant_warning">The permissions dialog is covered by Quick ball. Move Quick ball away or turn this feature off.</string>
+  <string name="miui_touch_filtered_touchassistant_warning">"La boîte de dialogue des autorisations est couverte par Assistant tactile. Éloignez l'assitant tactile ou désactivez cette fonction."</string>
   <string name="miui_touch_filtered_warning">"Si une application bloque une boîte de dialogue d'autorisations, faites glisser l'élément qui se chevauche ou fermez l'application."</string>
   <string name="miui_updater">Mise à jour système</string>
   <string name="miui_userguide">"Guide de l'utilisateur"</string>
@@ -6347,8 +6347,8 @@ Essayez d'utiliser un périphérique ^3 plus rapide, ou utilisez à la place ^4 
   <string name="storageuse_settings_title">Utilisation du stockage</string>
   <string name="strict_mode">Mode strict activé</string>
   <string name="strict_mode_summary">"Flasher l'écran lorsque des applications effectuent de longues opérations sur le fil principal"</string>
-  <string name="strong_suppression_summary">Your device will be less responsive to accidental touch, some gesture controls might not work near the edges</string>
-  <string name="strong_suppression_title">Big area</string>
+  <string name="strong_suppression_summary">Votre appareil sera moins réactif au toucher accidentel, certains contrôles gestuels peuvent ne pas fonctionner près des bords</string>
+  <string name="strong_suppression_title">Grande zone</string>
   <string name="structure_add_facerecoginition_text">Ajouter des données de visage 3D</string>
   <string name="structure_face_enroll_not_able_low_electric_itle">"Impossible d'utiliser cette fonctionnalité en raison du niveau faible de la batterie"</string>
   <string name="structure_face_enroll_not_able_low_electric_msg">La batterie doit être chargée à 5% au moins pour démarrer un enregistrement.</string>
@@ -7158,12 +7158,12 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
   <string name="vt_provisioned_switch_string">Appel vidéo géré</string>
   <string name="wait_for_debugger">Attendre le débogage</string>
   <string name="wait_for_debugger_summary">"Application déboguéeen attente d'un débogueur pour joindre avant l'exécution"</string>
-  <string name="wake_suppression_summary">Your device will be more responsive to accidental touch, but will also react to most gesture controls near the edges</string>
-  <string name="wake_suppression_title">Small area</string>
+  <string name="wake_suppression_summary">Votre appareil sera plus réactif au toucher accidentel, mais réagira également à la plupart des commandes gestuelles près des bords</string>
+  <string name="wake_suppression_title">Petite zone</string>
   <string name="wakeup_and_sleep_settings_category_name">"Verrouiller les paramètres de l'écran"</string>
   <string name="wakeup_for_keyguard_notification_title">"Allumer l'écran pour les notifications"</string>
   <string name="wallpaper_attributions">"Fonds d'écran"</string>
-  <string name="wallpaper_attributions_values">"Fournisseurs d'images satellite:
+  <string name="wallpaper_attributions_values">"Fournisseurs d'images satellite :
 © 2014 CNES/Astrium, DigitalGlobe, Bluesky"</string>
   <string name="wallpaper_desktop">Bureau</string>
   <string name="wallpaper_live">Animé</string>
