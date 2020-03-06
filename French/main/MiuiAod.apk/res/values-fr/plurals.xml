@@ -5,11 +5,11 @@
         <item quantity="one">" %1$s heure %2$s"</item>
     </plurals>
     <plurals name="count_selected">
-        <item quantity="other">Selected %d items</item>
-        <item quantity="one">Selected %d item</item>
+        <item quantity="other">%d objets sélectionnés</item>
+        <item quantity="one">%d objet sélectionné</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d new notifications</item>
-        <item quantity="one">%d new notification</item>
+        <item quantity="other">%d nouvelles notifications</item>
+        <item quantity="one">%d nouvelle notification</item>
     </plurals>
 </resources>

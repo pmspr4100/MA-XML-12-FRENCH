@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="actionbar_button_up_description">Retour</string>
+  <string name="app_name">clientSDK</string>
   <string name="casting_tips">Screening...</string>
   <string name="console_guide_btn_got_it">Got it</string>
   <string name="console_guide_subtitle_hang_up">"Don't interrupt casting when the phone's screen turns off. This feature might increase power consumption."</string>
@@ -38,11 +39,11 @@ View help if you have problems connecting."</string>
   <string name="help_page_text_05">Étape 1</string>
   <string name="help_page_text_06">"1. Utilisez le petit téléphone à main mil pour vous connecter au petit téléviseur mil, vous pouvez établir une connexion d'écran verticale sans l'environnement réseau.
 2. Certains téléviseurs Xiaomi ou d'autres téléviseurs de marque qui ne prennent pas en charge le filtrage intelligent, vous devez connecter votre téléviseur (ou appareil à grand écran) à votre téléphone mobile au même réseau sans fil."</string>
-  <string name="help_page_text_06_global">"1. Mi TVs, Mi Boxes, and Mi Projectors:
-Connect both your phone and external monitor to the same Wi-Fi network for best effect. If they are connected to different networks, it might take more time to find the external monitor and connect.
-Note: Older Mi TVs might not support casting across different networks.
-2. If you're using TVs, set-top boxes, or projectors of other brands, connect both your phone and external monitor to the same Wi-Fi network.
-If the two devices can't be connected to the same network, turn on Miracast on your external monitor. The naming of Miracast functionality might vary."</string>
+  <string name="help_page_text_06_global">"1. Mi TVs, Mi Boxes, et Mi Projectors:
+Connectez à la fois votre téléphone et le moniteur externe sur le même réseau Wi-Fi pour un meilleur résultat. S'ils sont connectés sur des réseaux différents, il faudra peut-être plus de temps opur trouver le moniteur externe et le connecter.
+Note : les anciennes Mi TVs ne supportent peut-être pas la diffusion sur différents réseaux.
+2. Si vous utilisez des téléviseurs, des décodeurs TV ou des projecteurs d'autres marques, connectez à la fois votre téléphone et le moniteur externe sur le même réseau Wi-Fi.
+Si les deux appareils ne peuvent pas être connectés sur le même réseau, activez Miracast sur votre moniteur externe. Le nom désignant la fonctionnalité Miracast peut varier."</string>
   <string name="help_page_text_07">"3. Certains téléviseurs Xiaomi ou d'autres téléviseurs de marque qui ne prennent pas en charge le filtrage intelligent. S'il n'y a pas de réseau sans fil, ou si le téléviseur et le téléphone portable ne peuvent pas se connecter au même réseau, vous devez allumer le téléviseur (ou un appareil à grand écran) [Miracast] Mirror projection screen]. Ce nom peut varier pour différentes marques de téléviseurs, vous pouvez glisser vers le bas de cette page pour en savoir plus."</string>
   <string name="help_page_text_08">Étape 2</string>
   <string name="help_page_text_09">"Tap the \"Cast\" toggle on your phone's Notification shade. Turn on both Wi-Fi and Bluetooth for a more stable connection."</string>
