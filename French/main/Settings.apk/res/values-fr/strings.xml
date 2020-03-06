@@ -671,12 +671,12 @@ Please review your service provider’s privacy policy."</string>
   <string name="wifi_dpp_wifi_shared_with_device">WLAN shared with device</string>
   <string name="wifi_generation_icon_display">Icons</string>
   <string name="wifi_generation_status">WLAN %1$d</string>
-  <string name="wifi_generation_summary">Add the number of the wireless technology generation to the WLAN icon</string>
-  <string name="wifi_generation_title">Technology</string>
-  <string name="wifi_limited_connection">Limited connection</string>
-  <string name="wifi_metered_title">Network usage</string>
-  <string name="wifi_not_in_range_message">Network not in range</string>
-  <string name="wifi_privacy_settings_ephemeral_summary">Randomized MAC</string>
+  <string name="wifi_generation_summary">"Indiquer le numéro de la génération Wi-Fi à côté de l'icône Wi-Fi"</string>
+  <string name="wifi_generation_title">Technologie</string>
+  <string name="wifi_limited_connection">Connexion limitée</string>
+  <string name="wifi_metered_title">Utilisation du réseau</string>
+  <string name="wifi_not_in_range_message">Réseau hors de portée</string>
+  <string name="wifi_privacy_settings_ephemeral_summary">MAC aléatoire</string>
   <string name="wifi_scan_always_turn_on_message_unknown">"To improve location accuracy and for other purposes, an unknown app wants to turn on network scanning, even when WLAN is off.
 
 Allow this for all apps that want to scan?"</string>
@@ -1492,6 +1492,7 @@ Applications:
   <string name="bluetooth_broadcasting">Diffusion</string>
   <string name="bluetooth_confirm_passkey_msg">"Pour associer votre appareil à: &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Assurez-vous que le mot de passe &lt;br>&lt;b>%2$s&lt;/b> s'affiche."</string>
   <string name="bluetooth_connect_failed">Impossible de se connecter. Réessayez.</string>
+  <string name="bluetooth_connect_settings">Paramètres de connexion Bluetooth</string>
   <string name="bluetooth_connect_specific_profiles_title">Se connecter à…</string>
   <string name="bluetooth_connected">%1$s connecté</string>
   <string name="bluetooth_connected_battery_level">"Connecté |  Batterie %1$s%2$s"</string>
@@ -1555,6 +1556,7 @@ Applications:
   <string name="bluetooth_disconnected">Déconnecté</string>
   <string name="bluetooth_disconnecting">Déconnexion…</string>
   <string name="bluetooth_display_passkey_pin_msg">"Pour l'association à:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Saisissez &lt;br>&lt;b>%2$s&lt;/b>, puis appuyez sur \"Retour\" ou sur \"Entrée\"."</string>
+  <string name="bluetooth_display_settings">"Paramètres d'affichage Bluetooth"</string>
   <string name="bluetooth_dock_settings">"Paramètres de la station d'accueil"</string>
   <string name="bluetooth_dock_settings_a2dp">Pour la musique et le multimédia</string>
   <string name="bluetooth_dock_settings_headset">Comme téléphone à haut-parleur</string>
