@@ -43,7 +43,7 @@
   <string name="llks_whole_cate">Toutes catégories</string>
   <string name="lock_show_permission_exception">An error occurred. Allow Wallpaper Carousel to be shown on the Lock screen in Security.</string>
   <string name="manage">Gérer</string>
-  <string name="mode_select">Select mode</string>
+  <string name="mode_select">Choisir le mode</string>
   <string name="more">Plus</string>
   <string name="morning_bookmark_tab">Greeting</string>
   <string name="morning_greet">Good morning!</string>
@@ -51,7 +51,7 @@
   <string name="morning_greet_title">Salutations du matin</string>
   <string name="morning_picture_tab">Image</string>
   <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
-  <string name="open_gallery">Wallpaper Carousel</string>
+  <string name="open_gallery">"Diaporama fonds d'écran"</string>
   <string name="open_gallery_tips">Tap here to turn on Wallpaper Carousel</string>
   <string name="opened">Activer</string>
   <string name="password_toggle_content_description">Show password</string>
@@ -298,9 +298,9 @@
 ID:%s
 Send this code to the supervisor."</string>
   <string name="disable_dlg_cancel">Annuler</string>
-  <string name="disable_dlg_content">"Vous ne pourrez pas obtenir d'images fraîches sur votre écran d'accueil et votre écran de verrouillage si vous désactivez le fond d'écran. Désactivé quand même ?"</string>
+  <string name="disable_dlg_content">"Vous ne pourrez pas obtenir de nouvelles images sur votre écran d'accueil et votre écran de verrouillage si vous désactivez le diaporama. Désactiver quand même ?"</string>
   <string name="disable_dlg_ok">Désactiver</string>
-  <string name="disable_dlg_title">"Désactiver le fond d'écran ?"</string>
+  <string name="disable_dlg_title">"Désactiver le diaporama ?"</string>
   <string name="dislike">Supprimer</string>
   <string name="dlg_cancel">Annuler</string>
   <string name="double_click_to_exit_activity">Appuyez à nouveau pour quitter</string>
@@ -597,14 +597,14 @@ Send this code to the supervisor."</string>
   <string name="sst_favor_desc">"Afficher les fonds d'écran préférés"</string>
   <string name="sst_favor_title">Favoris</string>
   <string name="sst_feedback_title">"Retour d'informations"</string>
-  <string name="sst_grid_view_select_all">Select all</string>
-  <string name="sst_grid_view_unselect_all">Deselect all</string>
+  <string name="sst_grid_view_select_all">Tout sélectionner</string>
+  <string name="sst_grid_view_unselect_all">Tout désélectionner</string>
   <string name="sst_lockscreen_show_headline_desc">"Show wallpaper's title under the clock on the Lock screen"</string>
   <string name="sst_lockscreen_show_headline_title">Show title on Lock screen</string>
   <string name="sst_logo_desc">"Fonds d'écran actuel"</string>
   <string name="sst_mode_selection">Mode</string>
   <string name="sst_more_subscription">"Plus d'abonnements"</string>
-  <string name="sst_morning_greeting_desc">Obtenez une image fraîche chaque matin</string>
+  <string name="sst_morning_greeting_desc">Obtenez une nouvelle image chaque matin</string>
   <string name="sst_morning_greeting_disable_toast">Cette fonctionnalité sera bientôt disponible</string>
   <string name="sst_morning_greeting_title">Recevoir les salutations du matin</string>
   <string name="sst_morning_history_desc">Afficher les salutations du matin précédent</string>
@@ -674,8 +674,8 @@ Send this code to the supervisor."</string>
   <string name="toast_ad_down_tip">Téléchargement app…</string>
   <string name="toast_ad_down_tip2">Téléchargement %s…</string>
   <string name="toast_connect_failed_tip">Impossible de se connecter. Attendez une minute ou deux et réessayez.</string>
-  <string name="toast_has_close_gallery">Turned off Wallpaper Carousel successfully</string>
-  <string name="toast_has_open_gallery">Turned on Wallpaper Carousel successfully</string>
+  <string name="toast_has_close_gallery">Diaporama désactivé avec succès</string>
+  <string name="toast_has_open_gallery">Diaporama activé avec succès</string>
   <string name="toast_load_failed_tip">"Couldn't load items"</string>
   <string name="toast_load_hd_fail">"Couldn't load original image"</string>
   <string name="toast_neterror_tip">A network error occurred</string>

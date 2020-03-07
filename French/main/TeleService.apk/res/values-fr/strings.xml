@@ -541,28 +541,28 @@ Bluetooth"</string>
   <string name="daltonizer_mode_protanomaly">Protanomalie (rouge/vert)</string>
   <string name="daltonizer_mode_tritanomaly">Tritanomalie (bleu-jaune)</string>
   <string name="daltonizer_type_overridden">Remplacé par %1$s</string>
-  <string name="data_disable_warning_no_mms">"You won't be able to send and receive MMS if you turn off mobile data (WCDMA/LTE). However, you'll be able to do that when your device is connected to WLAN."</string>
-  <string name="data_disable_warning_with_mms">"You'll still be able to send and receive MMS if you turn off mobile data (WCDMA/LTE). To use the internet, connect to WLAN."</string>
-  <string name="data_disable_warning_with_mms_lgu">"You'll still be able to send and receive MMS if you turn off mobile data. To use the internet, connect to WLAN.
+  <string name="data_disable_warning_no_mms">"Vous ne pourrez pas envoyer ni recevoir des MMS si vous désactivez les données cellulaires (WCDMA/LTE). Cependant, vous pourrez le faire si votre appareil est connecté au Wi-Fi."</string>
+  <string name="data_disable_warning_with_mms">"Vous pourrez continuer à envoyer et recevoir des MMS si vous désactivez les données cellulaires (WCDMA/LTE). Pour utiliser Internet, connectez-vous au Wi-Fi."</string>
+  <string name="data_disable_warning_with_mms_lgu">"Vous pourrez continuer à envoyer et recevoir des MMS si vous désactivez les données cellulaires. Pour utiliser Internet, connectez-vous au Wi-Fi.
 
-Turn off mobile data?"</string>
-  <string name="data_enable_always_warn">Ask whether to use mobile data</string>
-  <string name="data_enable_summary">Autoriser la liste blanche à utiliser les données mobiles</string>
-  <string name="data_enable_warning">Allowing to always use mobile data may generate additional charges outside of your carrier plan. Connect anyway?</string>
-  <string name="data_enable_warning_lgu">"Unless otherwise indicated in your carrier plan, using mobile data might generate additional carrier fees.
+Désactiver les données cellulaires ?"</string>
+  <string name="data_enable_always_warn">Demander quand utiliser les données cellulaires</string>
+  <string name="data_enable_summary">Autoriser la liste blanche à utiliser les données cellulaires</string>
+  <string name="data_enable_warning">Si vous utilisez en permanence les données cellulaires, des frais supplémentaires hors forfait. Se connecter quand même ?</string>
+  <string name="data_enable_warning_lgu">"À moins que votre forfait ne mentionne autre chose, utiliser les données cellulaires peut occasionner des frais supplémentaires.
 
-Use mobile data anyway?"</string>
+Utiliser quand même les données cellulaires ?"</string>
   <string name="data_enabled">Données cellulaires</string>
-  <string name="data_plan">Forfaits des données mobiles</string>
-  <string name="data_usage_disable_mobile">Désactiver les données mobiles ?</string>
-  <string name="data_usage_template">%1$s de données mobiles utilisées %2$s</string>
+  <string name="data_plan">Forfaits des données cellulaires</string>
+  <string name="data_usage_disable_mobile">Désactiver les données cellulaires ?</string>
+  <string name="data_usage_template">%1$s de données cellulaires utilisées %2$s</string>
   <string name="data_usage_title">Consommation des données</string>
   <string name="data_usage_uninstalled_apps">Applications supprimées</string>
   <string name="data_usage_uninstalled_apps_users">Applications et utilisateurs supprimés</string>
   <string name="dc_alert_dialog_message">Certaines applications nécessitent une connexion de données mobile. Vous pouvez contacter votre opérateur pour savoir quels sont les %s disponibles pour vous.</string>
   <string name="dc_alert_dialog_title">"Alerte d'utilisation des données"</string>
-  <string name="dds_switch_warning_message_data_off">Impossible de détecter la carte SIM %1$s. La carte SIM %2$s est définie désormais comme votre carte de données mobiles par défaut. Les données mobiles sont maintenant désactivées.</string>
-  <string name="dds_switch_warning_message_data_on">Impossible de détecter la carte SIM %1$s. La carte SIM %2$s est définie désormais comme votre carte de données mobiles par défaut. Les données mobiles sont désactivées pour éviter des frais opérateur inutiles.</string>
+  <string name="dds_switch_warning_message_data_off">Impossible de détecter la carte SIM %1$s. La carte SIM %2$s est définie désormais comme votre carte de données cellulaires par défaut. Les données cellulaires sont maintenant désactivées.</string>
+  <string name="dds_switch_warning_message_data_on">Impossible de détecter la carte SIM %1$s. La carte SIM %2$s est définie désormais comme votre carte de données cellulaires par défaut. Les données cellulaires sont désactivées pour éviter des frais opérateur inutiles.</string>
   <string name="deactivate_all">Tout annuler</string>
   <string name="debug_app">Sélectionner une application à déboguer</string>
   <string name="debug_app_not_set">Aucune application à déboguer définie</string>
@@ -974,7 +974,7 @@ Always use this number"</string>
   <string name="message_decode_error">Erreur lors du décodage du message.</string>
   <string name="mhh_disable">Les infos de médecine, de santé et des hôpitaux sont déactivées</string>
   <string name="mhh_enable">Les infos de médecine, de santé et des hôpitaux sont activées</string>
-  <string name="mi_sim_settings_summary">Utiliser les données mobiles sans carte SIM</string>
+  <string name="mi_sim_settings_summary">Utiliser les données cellulaires sans carte SIM</string>
   <string name="mi_sim_settings_title">SIM Mi</string>
   <string name="mismatchPin">Les codes PIN saisis ne correspondent pas. Veuillez réessayer.</string>
   <string name="mismatchPin2">Les codes PIN 2 ne correspondent pas. Veuillez réessayer.</string>

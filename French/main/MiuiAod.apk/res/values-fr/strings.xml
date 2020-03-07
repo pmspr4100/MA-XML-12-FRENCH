@@ -36,7 +36,7 @@
   <string name="chosen_picture">Sélectionner le fond</string>
   <string name="clear_text_end_icon_content_description">Clear text</string>
   <string name="custom_image">Image personnalisée</string>
-  <string name="font_thickness">Police grasse</string>
+  <string name="font_thickness">Police en gras</string>
   <string name="icon_content_description">Dialog Icon</string>
   <string name="letter_space">Espacement des lettres</string>
   <string name="line_space">Espacement des lignes</string>
@@ -65,6 +65,8 @@
   <string name="aod_lock_screen_date_12">EEEE, dd MMMM</string>
   <string name="aod_lock_screen_date_12_signature">d/M</string>
   <string name="aod_lock_screen_date_signature">d/M</string>
+  <string name="aod_lock_screen_date_smartcover">"EE
+dd/MM"</string>
   <string name="aod_lock_screen_date_smartcover_b">EE dd/MM</string>
   <string name="aod_mode_preview">Aperçu</string>
   <string name="aod_mode_style">"Style et fond de l'horloge"</string>
@@ -80,7 +82,7 @@
   <string name="black_white_clock_panel">Horloge</string>
   <string name="cancel">Annuler</string>
   <string name="character_counter_content_description">Caractères entrée %1$d à %2$d</string>
-  <string name="character_counter_overflowed_content_description">Limite de caractères dépassée %1$d à %2$d</string>
+  <string name="character_counter_overflowed_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
   <string name="chip_text">Chip text</string>
   <string name="choose_aod_style">Sélectionner un thème</string>
   <string name="clock_panel_icon">"Cadran de l'horloge"</string>
@@ -92,12 +94,12 @@
   <string name="digital_clock">Numérique</string>
   <string name="disable_aod_in_power_save_mode">"Désactiver lorsque l'économiseur de batterie est allumé"</string>
   <string name="disable_aod_in_power_save_mode_summary">"Ne pas afficher d'éléments pour économiser de l'énergie"</string>
-  <string name="error_icon_content_description">Error</string>
-  <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
+  <string name="error_icon_content_description">Erreur</string>
+  <string name="exposed_dropdown_menu_content_description">Afficher le menu déroulant</string>
   <string name="large_time">Grande horloge</string>
   <string name="mini_time">Petite horloge</string>
   <string name="minimalist_clock">Simple clock</string>
-  <string name="mtrl_badge_numberless_content_description">New notification</string>
+  <string name="mtrl_badge_numberless_content_description">Nouvelle notification</string>
   <string name="mtrl_chip_close_icon_content_description">Supprimer %1$s</string>
   <string name="mtrl_picker_a11y_next_month">Change to next month</string>
   <string name="mtrl_picker_a11y_prev_month">Change to previous month</string>

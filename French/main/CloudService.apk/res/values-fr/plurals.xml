@@ -45,39 +45,39 @@
         <item quantity="one">%d phrase fréquente</item>
     </plurals>
     <plurals name="dirty_recorder_count">
-        <item quantity="other">%d records</item>
-        <item quantity="one">%d record</item>
+        <item quantity="other">%d enregistrements</item>
+        <item quantity="one">%d enregistrement</item>
     </plurals>
     <plurals name="dirty_secretphoto_count">
         <item quantity="other">%d photos masquées synchronisées. Déconnectez-vous une fois que tous les éléments sont synchronisés afin de les conserver ; sinon, les éléments seront supprimés.</item>
         <item quantity="one">%d photo masquée synchronisée. Déconnectez-vous une fois que tous les éléments sont synchronisés afin de les conserver ; sinon, les éléments seront supprimés.</item>
     </plurals>
     <plurals name="dirty_wlan_count">
-        <item quantity="other">%d Wi-Fi networks</item>
-        <item quantity="one">%d Wi-Fi network</item>
+        <item quantity="other">%d réseaux Wi-Fi</item>
+        <item quantity="one">%d réseau Wi-Fi</item>
     </plurals>
     <plurals name="last_sync_time_mins_ago">
         <item quantity="other">il y a %s min</item>
         <item quantity="one">il y a %s min</item>
     </plurals>
     <plurals name="micloud_manual_pause_and_resume">
-        <item quantity="other">Resuming sync in %d minutes</item>
-        <item quantity="one">Resuming sync in %d minute</item>
+        <item quantity="other">Reprise de la synchronisation dans %d minutes</item>
+        <item quantity="one">Reprise de la synchronisation dans %d minute</item>
     </plurals>
     <plurals name="provision_sync_items_status_title">
         <item quantity="other">%s services seront synchronisés avec Xiaomi Cloud</item>
         <item quantity="one">%s service sera synchronisé avec Xiaomi Cloud</item>
     </plurals>
     <plurals name="items_unsynced">
-        <item quantity="other">Items waiting to sync: %d</item>
-        <item quantity="one">Item waiting to sync: %d</item>
+        <item quantity="other">Objets en attente de synchronisation : %d</item>
+        <item quantity="one">Objet en attente de synchronisation : %d</item>
     </plurals>
     <plurals name="last_sync_time_hours_ago">
         <item quantity="other">il y a %s hrs</item>
         <item quantity="one">il y a %s hr</item>
     </plurals>
     <plurals name="select_no_more_than">
-        <item quantity="other">"Can't select more than %d items"</item>
-        <item quantity="one">"Can't select more than %d item"</item>
+        <item quantity="other">Impossible de sélectionner plus de %d objets</item>
+        <item quantity="one">Impossible de sélectionner plus de %d objet</item>
     </plurals>
 </resources>

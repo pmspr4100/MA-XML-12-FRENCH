@@ -84,10 +84,10 @@ Toutes les applications ne prennent pas en charge ce paramètre."</string>
   <string name="accessibility_ring_vibration_title">Vibration sonnerie</string>
   <string name="accessibility_service_action_perform_description">It can track your interactions with an app or a hardware sensor, and interact with apps on your behalf.</string>
   <string name="accessibility_service_action_perform_title">Voir et effectuer des actions</string>
-  <string name="accessibility_service_screen_control_description">It can read all content on the screen and display content over other apps.</string>
+  <string name="accessibility_service_screen_control_description">"Il peut lire tout le contenu à l'écran et afficher du contenu sur d'autres applications."</string>
   <string name="accessibility_service_screen_control_title">"Voir et contrôler l'écran"</string>
-  <string name="accessibility_service_warning">%1$s is requesting full control of this device. The service can read the screen and act on behalf of users with accessibility needs. This level of control is not appropriate for most apps.</string>
-  <string name="accessibility_service_warning_description">Full control is appropriate for apps that help you with accessibility needs, but not for most apps.</string>
+  <string name="accessibility_service_warning">"%1$s demande le contrôle total de cet appareil. Le service peut lire l'écran et agir au nom des utilisateurs ayant des besoins d'accessibilité. Ce niveau de contrôle n'est pas approprié pour la plupart des applications."</string>
+  <string name="accessibility_service_warning_description">"Un contrôle total est approprié pour les applications qui vous aident à répondre aux besoins d'accessibilité, mais pas pour la plupart des applications."</string>
   <string name="accessibility_setting_item_control_timeout_title">"Il est temps de passer à l'action (délai d'accessibilité)"</string>
   <string name="accessibility_timeout_10secs">10 secondes</string>
   <string name="accessibility_timeout_1min">1 minute</string>
@@ -97,10 +97,10 @@ Toutes les applications ne prennent pas en charge ce paramètre."</string>
   <string name="accessibility_toggle_master_balance_left_label">Gauche</string>
   <string name="accessibility_toggle_master_balance_right_label">Droit</string>
   <string name="accessibility_toggle_master_balance_title">Balance audio</string>
-  <string name="adaptive_sleep_description">Prevents your screen from turning off if you’re looking at it.</string>
-  <string name="adaptive_sleep_privacy">Screen attention uses the front camera to see if someone is looking at the screen. It works on device, and images are never stored or sent to Google.</string>
+  <string name="adaptive_sleep_description">"Empêche votre écran de s'éteindre si vous le regardez."</string>
+  <string name="adaptive_sleep_privacy">"L'attention à l'écran utilise la caméra avant pour voir si quelqu'un regarde l'écran. Cela fonctionne sur l'appareil et les images ne sont jamais stockées ni envoyées à Google."</string>
   <string name="adaptive_sleep_summary_off">Désactiver</string>
-  <string name="adaptive_sleep_summary_on">On / Screen won’t turn off if you’re looking at it</string>
+  <string name="adaptive_sleep_summary_on">"On / L'écran ne s'éteindra pas si vous le regardez"</string>
   <string name="adaptive_sleep_title">Écran regardé</string>
   <string name="add">Ajouter</string>
   <string name="ai_key">Bouton IA</string>
@@ -207,12 +207,12 @@ Voici ce qui a pu mal se passer :
   <string name="cross_profile_calendar_restricted_summary">"Votre organisation n'autorise pas les applications personnelles à accéder à votre calendrier de travail"</string>
   <string name="cross_profile_calendar_summary">Afficher les événements professionnels sur votre calendrier personnel</string>
   <string name="cross_profile_calendar_title">Calendrier multi-profils</string>
-  <string name="data_during_calls_summary">"Autoriser l'utilisation de cette carte SIM pour les données mobiles uniquement pendant les appels"</string>
+  <string name="data_during_calls_summary">"Autoriser l'utilisation de cette carte SIM pour les données cellulaires uniquement pendant les appels"</string>
   <string name="data_during_calls_title">Données pendant les appels</string>
   <string name="data_usage_ota">Mises à jour système</string>
   <string name="default_for_calls">Par défaut pour les appels</string>
   <string name="default_for_calls_and_sms">Par défaut pour les appels et les SMS</string>
-  <string name="default_for_mobile_data">Par défaut pour les données mobiles</string>
+  <string name="default_for_mobile_data">Par défaut pour les données cellulaires</string>
   <string name="default_for_sms">Par défaut pour SMS</string>
   <string name="device_admin_warning_simplified">Cet appareil sera géré et surveillé par %1$s.</string>
   <string name="disabled_feature">Fonction non disponible</string>
@@ -311,7 +311,7 @@ This helps protect data on lost or stolen devices. Require PIN to start your dev
   <string name="keywords_time_format">Use 24-hour format</string>
   <string name="keywords_time_zone">timezone</string>
   <string name="keywords_vibrate_on_touch">Stop vibration, tap, keyboard</string>
-  <string name="keywords_wifi_notify_open_networks">WLAN notification, wifi notification</string>
+  <string name="keywords_wifi_notify_open_networks">Notification WLAN, notification Wi-Fi</string>
   <string name="label_available">Available networks</string>
   <string name="language_and_input_for_work_category_title">Work profile keyboards &amp; tools</string>
   <string name="legacy_navigation_summary">Go back, Home, and switch apps with buttons at the bottom of your screen.</string>
@@ -600,12 +600,12 @@ Your phone can be unlocked by someone who looks a lot like you, say, your child 
   <string name="sud_next_button_label">Suivant</string>
   <string name="sunlight_mode">Mode lumière du soleil</string>
   <string name="sunlight_mode_summary">Ajustez la luminosité à une forte lumière ambiante lorsque la luminosité automatique est désactivée</string>
-  <string name="swipe_direction_ltr">Swipe right to dismiss, left to show menu</string>
-  <string name="swipe_direction_rtl">Swipe left to dismiss, right to show menu</string>
-  <string name="swipe_direction_title">Swipe actions</string>
-  <string name="system_navigation_title">System navigation</string>
-  <string name="tap_to_sign_up">Tap to sign up</string>
-  <string name="time_format_category_title">Time format</string>
+  <string name="swipe_direction_ltr">Glisser à droite pour masquer, à gauche pour afficher le menu</string>
+  <string name="swipe_direction_rtl">Glisser à gauche pour masquer, à droite pour afficher le menu</string>
+  <string name="swipe_direction_title">Action des glissements</string>
+  <string name="system_navigation_title">Navigation système</string>
+  <string name="tap_to_sign_up">"Appuyer pour s'inscrire"</string>
+  <string name="time_format_category_title">Format des heures</string>
   <string name="tx_link_speed">%1$d Mbps</string>
   <string name="tx_link_speed_label">Transmit link speed:</string>
   <string name="tx_wifi_speed">Transmit link speed</string>
@@ -613,70 +613,70 @@ Your phone can be unlocked by someone who looks a lot like you, say, your child 
   <string name="unlock_footer_low_complexity_requested">%1$s recommends a new pattern, PIN, or password and may not work as expected without one</string>
   <string name="unlock_footer_medium_complexity_requested">%1$s recommends a new PIN or password and may not work as expected without one</string>
   <string name="unlock_footer_none_complexity_requested">%1$s recommends a new screen lock</string>
-  <string name="use_otg_charge_only_summary">Faster 1.8A charging</string>
+  <string name="use_otg_charge_only_summary">Recharge rapide à 1.8A</string>
   <string name="user_dict_settings_for_work_title">Personal dictionary for work</string>
   <string name="user_settings_footer_text">Share your phone by adding new users. Each user has a personal space on your phone for custom Home screens, accounts, apps, settings, and more.</string>
-  <string name="video_calling_settings_title">Carrier video calling</string>
-  <string name="video_tool_box_title">Video toolbox</string>
+  <string name="video_calling_settings_title">Appel vidéo opérateur</string>
+  <string name="video_tool_box_title">Boîte à outils vidéo</string>
   <string name="virtual_keyboards_for_work_title">Virtual keyboard for work</string>
   <string name="volume_connectivity_panel_title">Volume</string>
-  <string name="wfc_disclaimer_emergency_limitation_desc_text">"Emergency calls over WLAN Calling are not supported by your carrier.
-The device switches automatically to a cellular network to place an emergency call.
-Emergency calls are only possible in areas with cellular coverage."</string>
-  <string name="wfc_disclaimer_emergency_limitation_title_text">Emergency calls</string>
-  <string name="wfc_disclaimer_location_desc_text">"Your service provider may collect your location in order to provide this service.
+  <string name="wfc_disclaimer_emergency_limitation_desc_text">"Les appels d'urgence en Wi-Fi ne sont pas supportés par votre opérateur.
+L'appareil bascule automatiquement sur le réseau cellulaire pour passer un appel d'urgence.
+Les appels d'urgence sont possibles uniquement dans les zones avec une couverture cellulaire."</string>
+  <string name="wfc_disclaimer_emergency_limitation_title_text">"Appels d'urgence"</string>
+  <string name="wfc_disclaimer_location_desc_text">"Votre fournisseur de service peut collecter votre emplacement pour fournir ce service.
 
-Please review your service provider’s privacy policy."</string>
-  <string name="wfc_disclaimer_location_title_text">Location</string>
-  <string name="wfc_disclaimer_title_text">Important information</string>
+Merci de prendre connaissance de la politique de données personnells de votre fournisseur de service."</string>
+  <string name="wfc_disclaimer_location_title_text">Emplacement</string>
+  <string name="wfc_disclaimer_title_text">Information importante</string>
   <string name="wifi_ap_choose_vendor_both">Both</string>
-  <string name="wifi_ap_prefer_5G">5.0 GHz Band preferred</string>
-  <string name="wifi_calling_mode_cellular_preferred_summary">If mobile network is unavailable, use WLAN</string>
-  <string name="wifi_calling_mode_wifi_only_summary">Call over WLAN. If WLAN is lost, call will end.</string>
-  <string name="wifi_calling_mode_wifi_preferred_summary">If WLAN is unavailable, use mobile network</string>
-  <string name="wifi_calling_summary">Use WLAN for calls to improve quality</string>
-  <string name="wifi_connecting">Connecting…</string>
-  <string name="wifi_disconnect_button_text">Disconnect</string>
-  <string name="wifi_disconnected">Disconnected</string>
-  <string name="wifi_dpp_add_another_device">Add another device</string>
-  <string name="wifi_dpp_add_device">Add device</string>
-  <string name="wifi_dpp_add_device_to_network">Add a device</string>
-  <string name="wifi_dpp_add_device_to_wifi">Add this device to “%1$s”?</string>
-  <string name="wifi_dpp_center_qr_code">Center the QR code below to add the device to “%1$s”</string>
-  <string name="wifi_dpp_check_connection_try_again">Check connection and try again</string>
-  <string name="wifi_dpp_choose_different_network">Choose different network</string>
-  <string name="wifi_dpp_choose_network">Choose network</string>
-  <string name="wifi_dpp_choose_network_to_connect_device">To connect your device, choose a network</string>
-  <string name="wifi_dpp_connect_network_using_qr_code">Use a QR code to add a device to this network</string>
-  <string name="wifi_dpp_connecting">Connecting…</string>
-  <string name="wifi_dpp_could_not_add_device">Couldn’t add device</string>
-  <string name="wifi_dpp_could_not_detect_valid_qr_code">Couldn’t read QR code. Re-center code and try again</string>
-  <string name="wifi_dpp_device_found">Device found</string>
-  <string name="wifi_dpp_failure_authentication_or_configuration">Try again. If the issue continues, contact the device manufacturer</string>
-  <string name="wifi_dpp_failure_generic">Make sure the device has been plugged in, charged, and turned on. If the issue continues, contact the device manufacturer</string>
-  <string name="wifi_dpp_failure_not_compatible">Something went wrong</string>
-  <string name="wifi_dpp_failure_not_supported">Adding “%1$s” isn’t supported by this device</string>
-  <string name="wifi_dpp_failure_timeout">Make sure the device has been plugged in, charged, and turned on</string>
-  <string name="wifi_dpp_hotspot_password">Hotspot password: %1$s</string>
-  <string name="wifi_dpp_lockscreen_title">"Verify it's you"</string>
-  <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">Scan this QR code to connect to “%1$s”</string>
-  <string name="wifi_dpp_scan_qr_code">Scan QR code</string>
-  <string name="wifi_dpp_scan_qr_code_join_network">Center the QR code below to connect to “%1$s”</string>
-  <string name="wifi_dpp_scan_qr_code_join_unknown_network">Join WLAN by scanning a QR code</string>
-  <string name="wifi_dpp_scan_qr_code_with_another_device">Scan this QR code to connect to “%1$s” and share the password</string>
-  <string name="wifi_dpp_share_hotspot">Share hotspot</string>
-  <string name="wifi_dpp_share_wifi">Share WLAN</string>
-  <string name="wifi_dpp_sharing_wifi_with_this_device">Sharing WLAN with this device…</string>
-  <string name="wifi_dpp_wifi_password">WLAN password: %1$s</string>
-  <string name="wifi_dpp_wifi_shared_with_device">WLAN shared with device</string>
-  <string name="wifi_generation_icon_display">Icons</string>
-  <string name="wifi_generation_status">WLAN %1$d</string>
-  <string name="wifi_generation_summary">Add the number of the wireless technology generation to the WLAN icon</string>
-  <string name="wifi_generation_title">Technology</string>
-  <string name="wifi_limited_connection">Limited connection</string>
-  <string name="wifi_metered_title">Network usage</string>
-  <string name="wifi_not_in_range_message">Network not in range</string>
-  <string name="wifi_privacy_settings_ephemeral_summary">Randomized MAC</string>
+  <string name="wifi_ap_prefer_5G">Bande 5,0 GHz préférée</string>
+  <string name="wifi_calling_mode_cellular_preferred_summary">Si le réseau cellulaire est indisponible, utilisez le Wi-Fi</string>
+  <string name="wifi_calling_mode_wifi_only_summary">"Appel Wi-Fi. Si le Wi-Fi est perdu, l'appel se terminera."</string>
+  <string name="wifi_calling_mode_wifi_preferred_summary">Si le réseau cellulaire est indisponible, utilisez le Wi-Fi</string>
+  <string name="wifi_calling_summary">"Utilise le Wi-Fi pour les appels afin d'améliorer leur qualité"</string>
+  <string name="wifi_connecting">Connexion…</string>
+  <string name="wifi_disconnect_button_text">Déconnecter</string>
+  <string name="wifi_disconnected">Déconnecté</string>
+  <string name="wifi_dpp_add_another_device">Ajouter un autre appareil</string>
+  <string name="wifi_dpp_add_device">Ajouter un appareil</string>
+  <string name="wifi_dpp_add_device_to_network">Ajouter un appareil</string>
+  <string name="wifi_dpp_add_device_to_wifi">Ajouter cet appareil à “%1$s” ?</string>
+  <string name="wifi_dpp_center_qr_code">"Centrez le QR code ci-dessous pour ajouter l'appareil à “%1$s”"</string>
+  <string name="wifi_dpp_check_connection_try_again">Vérifiez la connexion et réessayez</string>
+  <string name="wifi_dpp_choose_different_network">Choisissez un réseau différent</string>
+  <string name="wifi_dpp_choose_network">Choisissez un réseau</string>
+  <string name="wifi_dpp_choose_network_to_connect_device">Pour connecter votre appareil, choisissez un réseau</string>
+  <string name="wifi_dpp_connect_network_using_qr_code">Utilisez un QR code pour ajouter un appareil à ce réseau</string>
+  <string name="wifi_dpp_connecting">Connexion…</string>
+  <string name="wifi_dpp_could_not_add_device">"Impossible d'ajouter l'appareil"</string>
+  <string name="wifi_dpp_could_not_detect_valid_qr_code">Impossible de lire le QR code. Recentrez-le et réessayez</string>
+  <string name="wifi_dpp_device_found">Périphérique trouvé</string>
+  <string name="wifi_dpp_failure_authentication_or_configuration">"Réessayez. Si le problème persiste, contactez le fabricant de l'appareil"</string>
+  <string name="wifi_dpp_failure_generic">"Vérifiez que l'appareil est bien branché, chargé, et allumé. Si le problème persiste, contactez le fabricant de l'appareil"</string>
+  <string name="wifi_dpp_failure_not_compatible">"Quelque chose s'est mal déroulé"</string>
+  <string name="wifi_dpp_failure_not_supported">"Votre appareil ne gère pas l'ajout de “%1$s”"</string>
+  <string name="wifi_dpp_failure_timeout">"Vérifiez que l'appareil est branché, chargé, et allumé"</string>
+  <string name="wifi_dpp_hotspot_password">Mot de passe du Hotspot : %1$s</string>
+  <string name="wifi_dpp_lockscreen_title">"Vérifiez que c'est vous"</string>
+  <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">Scannez ce QR code pour vous connecter à “%1$s”</string>
+  <string name="wifi_dpp_scan_qr_code">Scannez le QR code</string>
+  <string name="wifi_dpp_scan_qr_code_join_network">Centrez le QR code ci-dessous pour vous connecter à “%1$s”</string>
+  <string name="wifi_dpp_scan_qr_code_join_unknown_network">Rejoignez le réseau Wi-Fi en scannant un QR code</string>
+  <string name="wifi_dpp_scan_qr_code_with_another_device">Scannez ce QR code pour vous connecter à “%1$s” et partager le mot de passe</string>
+  <string name="wifi_dpp_share_hotspot">Partage hotspot</string>
+  <string name="wifi_dpp_share_wifi">Partage Wi-Fi</string>
+  <string name="wifi_dpp_sharing_wifi_with_this_device">Partage du Wi-Fi avec cet appareil…</string>
+  <string name="wifi_dpp_wifi_password">Mot de passe Wi-Fi : %1$s</string>
+  <string name="wifi_dpp_wifi_shared_with_device">Wi-Fi partagé avec cet appareil</string>
+  <string name="wifi_generation_icon_display">Icônes</string>
+  <string name="wifi_generation_status">Wi-Fi %1$d</string>
+  <string name="wifi_generation_summary">"Indiquer le numéro de la génération Wi-Fi à côté de l'icône Wi-Fi"</string>
+  <string name="wifi_generation_title">Technologie</string>
+  <string name="wifi_limited_connection">Connexion limitée</string>
+  <string name="wifi_metered_title">Utilisation du réseau</string>
+  <string name="wifi_not_in_range_message">Réseau hors de portée</string>
+  <string name="wifi_privacy_settings_ephemeral_summary">MAC aléatoire</string>
   <string name="wifi_scan_always_turn_on_message_unknown">"To improve location accuracy and for other purposes, an unknown app wants to turn on network scanning, even when WLAN is off.
 
 Allow this for all apps that want to scan?"</string>
@@ -919,7 +919,7 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
   <string name="advanced_settings">Paramètres additionnels</string>
   <string name="advanced_settings_summary">"Activer d'autres paramètres"</string>
   <string name="agps_roaming">"A-GPS pendant l'itinérance"</string>
-  <string name="agps_roaming_dia">"Utiliser l'A-GPS en itinérance peut augmenter votre consommation de données mobiles. Si vous dépassez le forfait de données de votre forfait, votre opérateur pourrait vous facturer des frais supplémentaires."</string>
+  <string name="agps_roaming_dia">"Utiliser l'A-GPS en itinérance peut augmenter votre consommation de données cellulaires. Si vous dépassez le forfait de données de votre forfait, votre opérateur pourrait vous facturer des frais supplémentaires."</string>
   <string name="agps_roaming_dia_title">Utiliser le A-GPS en itinérance</string>
   <string name="agps_roaming_summary">Utiliser les données mobile pour assister le GPS en itinérance</string>
   <string name="ai_button_title">Bouton IA Mi</string>
@@ -1164,6 +1164,11 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
   <string name="auto_brightness_very_low_title">Très faible</string>
   <string name="auto_caps">Majuscules automatiques</string>
   <string name="auto_caps_summary">Mettre une majuscule en début de phrase</string>
+  <string name="auto_clean_description">"À propos de cette fonctionnalité
+    1. Lancez cette fonctionnalité une ou deux fois si vous trouvez que votre haut-parleur est légèrement bloqué par la poussière.
+    2. Si le haut-parleur est fortement bloqué, lancez cette fonctionnalité 2 à 5 fois tout en secouant votre appareil avec le haut-parleur dirigé vers le bas."</string>
+  <string name="auto_clean_summary">Joue un son de 30 secondes pour nettoyer votre haut-parleur</string>
+  <string name="auto_clean_title">Nettoyage haut-parleur</string>
   <string name="auto_disable_screenbuttons_ask">Demander avant de désactiver</string>
   <string name="auto_disable_screenbuttons_auto">Toujours désactiver</string>
   <string name="auto_disable_screenbuttons_cancel">Annuler</string>
@@ -1492,6 +1497,7 @@ Applications:
   <string name="bluetooth_broadcasting">Diffusion</string>
   <string name="bluetooth_confirm_passkey_msg">"Pour associer votre appareil à: &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Assurez-vous que le mot de passe &lt;br>&lt;b>%2$s&lt;/b> s'affiche."</string>
   <string name="bluetooth_connect_failed">Impossible de se connecter. Réessayez.</string>
+  <string name="bluetooth_connect_settings">Paramètres de connexion Bluetooth</string>
   <string name="bluetooth_connect_specific_profiles_title">Se connecter à…</string>
   <string name="bluetooth_connected">%1$s connecté</string>
   <string name="bluetooth_connected_battery_level">"Connecté |  Batterie %1$s%2$s"</string>
@@ -1555,6 +1561,7 @@ Applications:
   <string name="bluetooth_disconnected">Déconnecté</string>
   <string name="bluetooth_disconnecting">Déconnexion…</string>
   <string name="bluetooth_display_passkey_pin_msg">"Pour l'association à:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Saisissez &lt;br>&lt;b>%2$s&lt;/b>, puis appuyez sur \"Retour\" ou sur \"Entrée\"."</string>
+  <string name="bluetooth_display_settings">"Paramètres d'affichage Bluetooth"</string>
   <string name="bluetooth_dock_settings">"Paramètres de la station d'accueil"</string>
   <string name="bluetooth_dock_settings_a2dp">Pour la musique et le multimédia</string>
   <string name="bluetooth_dock_settings_headset">Comme téléphone à haut-parleur</string>
@@ -1768,7 +1775,7 @@ Qualité de lecture"</string>
   <string name="bootloader_device_bind_fail">Impossible de vérifier. Attendez une minute ou deux, puis réessayez</string>
   <string name="bootloader_device_bind_msg">"Préparation de l'ajout du compte et de l'appareil…"</string>
   <string name="bootloader_device_bind_no_account">"Connectez-vous d'abord à votre compte Mi"</string>
-  <string name="bootloader_device_bind_no_data_network">Désactivez la Wi-Fi et ajoutez votre compte et appareil utilisant les données mobiles.</string>
+  <string name="bootloader_device_bind_no_data_network">Désactivez la Wi-Fi et ajoutez votre compte et appareil utilisant les données cellulaires.</string>
   <string name="bootloader_device_bind_no_network">Connectez-vous au réseau et réessayez</string>
   <string name="bootloader_device_bind_no_sim">Insérez une carte SIM et réessayez.</string>
   <string name="bootloader_device_bind_server_code">"Ajout impossible. Code d'erreur:"</string>
@@ -1778,7 +1785,7 @@ Qualité de lecture"</string>
   <string name="bootloader_locked_answer_1">"Nous verrouillons les appareils pour nous assurer qu'ils sont sécurisés et que vos informations personnelles ne sont pas divulguées à des tiers. Si vous devez entrer en mode Fastboot et flasher votre appareil, déverrouillez-le d'abord."</string>
   <string name="bootloader_locked_answer_1_warning">"Souvenez-vous: vous ne serez pas en mesure d'utiliser \"Localiser l'appareil\" après que le téléphone sera déverrouillé."</string>
   <string name="bootloader_locked_answer_2">"1. Assurez-vous d'avoir inséré une carte SIM dans votre appareil.
-2. Désactivez la Wi-Fi et activez les données mobiles. Assurez votre appareil peut être connecter à internet en utilisant les données mobiles.
+2. Désactivez la Wi-Fi et activez les données cellulaires. Assurez votre appareil peut être connecter à internet en utilisant les données cellulaires.
 3. Appuyez sur \"Ajouter un compte\" ci-dessous pour associer votre compte Mi avec cet appareil.
 4. Téléchargez l'outil de déverrouillage depuis notre site web. Notez que vous devriez déverrouiller vos appareils depuis un ordinateur. Téléchargez ici:"</string>
   <string name="bootloader_locked_answer_2_no_sim">"Appuyez sur \"Ajouter un compte\" ci-dessous pour associer votre compte Mi avec cet appareil.
@@ -1823,21 +1830,21 @@ Vous pouvez désactiver cette fonctionnalité dans les paramètres > Bluetooth >
   <string name="bt_hci_snoop_log">Log Bluetooth HCI snoop</string>
   <string name="bt_hci_snoop_log_summary">Capturer tous les paquets Bluetooth HCI dans un fichier</string>
   <string name="bt_ldac_declaration">"Lorsque le périphérique Bluetooth prend en charge LDAC, il sera connecté par défaut. LDAC fournit une expérience audio de haute qualité mais aussi augmente la consommation d'énergie. Des problèmes peuvent se produire pendant la lecture en raison des limites du matériel Bluetooth."</string>
-  <string name="bt_ldac_dialog_summary">LDAC provides a high-quality audio experience, but also increases power consumption. This feature can be turned off in the Settings.</string>
-  <string name="bt_ldac_dialog_title">"L'appareil actuel supporte LDAC, qui a été connecté par défaut:"</string>
+  <string name="bt_ldac_dialog_summary">"LDAC permet une expérience audio de haute qualité, mais augmente la consommation d'énergie. Cette fonctionnalité peut être désactivée dans les Paramètres."</string>
+  <string name="bt_ldac_dialog_title">"L'appareil actuel supporte LDAC, qui a été connecté par défaut :"</string>
   <string name="bt_ldac_open_dialog_summary">"LDAC fournit une expérience audio de haute qualité mais aussi augmente la consommation d'énergie. Des problèmes peuvent se produire pendant la lecture en raison des limites du matériel Bluetooth."</string>
   <string name="bt_ldac_open_dialog_title">Activer LDAC ?</string>
   <string name="bt_ldac_property">Attributs</string>
   <string name="bt_lhdc_declaration">"Lorsqu'un périphérique Bluetooth prend en charge le protocole LHDC, il sera connecté par défaut. LHDC fournit une expérience audio de haute qualité, mais augmente également la consommation d'énergie. Des problèmes peuvent survenir lors de la lecture en raison de limitations matérielles Bluetooth."</string>
-  <string name="bt_lhdc_dialog_summary">LHDC provides a high-quality audio experience, but also increases power consumption. This feature can be turned off in the Settings.</string>
+  <string name="bt_lhdc_dialog_summary">"LHDC fournit une expérience audio de haute qualité mais aussi augmente la consommation d'énergie. Cette fonctionnalité peut être désactivée dans les Paramètres."</string>
   <string name="bt_lhdc_dialog_title">Le périphérique actuel prend en charge LHDC, qui a été connecté par défaut:</string>
   <string name="bt_lhdc_open_dialog_summary">"LHDC fournit une expérience audio de haute qualité, mais augmente également la consommation d'énergie. Des problèmes peuvent survenir lors de la lecture en raison de limitations matérielles Bluetooth."</string>
   <string name="bt_lhdc_open_dialog_title">Activer LHDC ?</string>
-  <string name="bt_lhdc_property">Attributes</string>
+  <string name="bt_lhdc_property">Attributs</string>
   <string name="bt_pre_summary">Fournit une expérience audio de haute qualité</string>
   <string name="bt_rarely_used_device_title">Appareils rarement utilisés (%d)</string>
   <string name="bt_trace_log">Activer le suivi du journal Bluetooth</string>
-  <string name="bt_trace_log_summary">Log Bluetooth trace</string>
+  <string name="bt_trace_log_summary">Journal Bluetooth</string>
   <string name="btn_back">Retour</string>
   <string name="bug_report_settings">"Retour d'informations"</string>
   <string name="bugreport_in_power">Raccourci de rapport de bogues</string>
@@ -2006,7 +2013,7 @@ Vous pouvez désactiver cette fonctionnalité dans les paramètres > Bluetooth >
   <string name="cloud_restore_section_summary">"Restaurer les paramètres du système, la position de l'écran d'accueil et les applications"</string>
   <string name="cloud_restore_section_summary_new">Back up Home screen layout, apps, system settings, and more</string>
   <string name="cloud_restore_section_title">Restaurer depuis Xiaomi Cloud</string>
-  <string name="cloud_restore_section_title_new">In Xiaomi Cloud</string>
+  <string name="cloud_restore_section_title_new">Dans Xiaomi Cloud</string>
   <string name="cmcc_hardware_version">Version du matériel</string>
   <string name="codec_low_latency_summary">Minimisez la latence pendant la synchronisation audio et vidéo du jeu</string>
   <string name="codec_low_latency_title">Faible latence</string>
@@ -2282,8 +2289,8 @@ Pour continuer d'utiliser votre téléphone, vous devez rétablir la configurati
   <string name="data_usage_app_info_label">Infos appli</string>
   <string name="data_usage_app_items_header_text">"Utilisation de l'appli"</string>
   <string name="data_usage_app_restrict_background">Données en arrière-plan</string>
-  <string name="data_usage_app_restrict_background_summary">Activer la consommation des données mobiles en arrière-plan</string>
-  <string name="data_usage_app_restrict_background_summary_disabled">Pour restreindre les données en arrière-plan, définissez un quota de données mobiles.</string>
+  <string name="data_usage_app_restrict_background_summary">Activer la consommation des données cellulaires en arrière-plan</string>
+  <string name="data_usage_app_restrict_background_summary_disabled">Pour restreindre les données en arrière-plan, définissez un quota de données cellulaires.</string>
   <string name="data_usage_app_restrict_dialog">"Cette fonctionnalité peut empêcher certaines applications de s'exécuter lorsque celles-ci sont dépendantes des données en arrière-plan et que seuls des réseaux mobiles sont disponibles.
 
 Vous trouverez des options plus adaptées en matière de contrôle de la consommation des données dans les paramètres de l'application."</string>
@@ -2350,9 +2357,9 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
   <string name="data_usage_pick_cycle_day">Jour du mois de réinitialisation du cycle utilisation données:</string>
   <string name="data_usage_received_sent">%1$s reçus, %2$s envoyés</string>
   <string name="data_usage_restrict_background">"Si vous limitez les données d'arrière-plan, certaines applications et services ne fonctionneront pas sauf si vous êtes connecté à un réseau Wi-Fi."</string>
-  <string name="data_usage_restrict_background_multiuser">Si vous limitez les données mobiles en arrière-plan, certaines applications et services ne fonctionneront pas correctement, sauf si vous êtes connecté à un réseau Wi-Fi.</string>
+  <string name="data_usage_restrict_background_multiuser">Si vous limitez les données cellulaires en arrière-plan, certaines applications et services ne fonctionneront pas correctement, sauf si vous êtes connecté à un réseau Wi-Fi.</string>
   <string name="data_usage_restrict_background_title">Limiter les données en arrière-plan ?</string>
-  <string name="data_usage_restrict_denied_dialog">La consommation des données en arrière-plan ne peut être restreinte que si vous avez défini une limite de données mobiles.</string>
+  <string name="data_usage_restrict_denied_dialog">La consommation des données en arrière-plan ne peut être restreinte que si vous avez défini une limite de données cellulaires.</string>
   <string name="data_usage_summary_format">Volume des données utilisées: %1$s</string>
   <string name="data_usage_summary_title">Utilisation des données</string>
   <string name="data_usage_sweep_limit">&lt;font size="18"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;"
@@ -2380,7 +2387,7 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
   <string name="data_warning_footnote">"Le seuil d'avertissement sur la consommation des données et la limite de données sont mesurés par votre appareil. Cette mesure peut différer des données de l'opérateur."</string>
   <string name="datasize_decrease_content">"Contacts, messages, and system data are compressed while they're being backed up, which results in smaller file size.
 "</string>
-  <string name="datasize_decrease_title">6. Why are some backup files smaller than the actual items?</string>
+  <string name="datasize_decrease_title">6. Pourquoi certains fichiers de sauvegarde sont-ils plus petits que les fichiers actuels ?</string>
   <string name="date_and_time">Date et heure</string>
   <string name="date_and_time_settings_summary">"Configurer la date, l'heure, le fuseau horaire et les formats"</string>
   <string name="date_and_time_settings_title">Date et heure</string>
@@ -2466,47 +2473,47 @@ Vous ne pouvez pas zoomer sur le clavier et la barre de navigation."</string>
   <string name="assist_gesture_title">Assist gesture</string>
   <string name="battery_saver_turn_on_automatically_pct">à %1$s batterie</string>
   <string name="bluetooth_enter_passkey_msg">Saisissez le code de couplage, puis appuyez sur Retour ou Entrée</string>
-  <string name="bluetooth_unlock_confirm_device_text_for_huami_band">Confirmez sur la bande.</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_huami_band">Confirmez sur le bracelet.</string>
   <string name="bootloader_tips_warning">"Ne vous déconnectez pas du réseau, ne vous déconnectez pas de votre compte Mi, n'effectuez pas une réinitialisation d'usine ou n'effacez pas les données système."</string>
   <string name="connected">Connecté</string>
-  <string name="connected_tws_device_saved_title">Saved Earbuds</string>
+  <string name="connected_tws_device_saved_title">Earbuds enregistrés</string>
   <string name="debug_intent_sender_label">Debug intent sender</string>
   <string name="font_size_preview_text">Servez à ce monsieur une bière et des kiwis.</string>
   <string name="full_screen_keyboard_settings">Full screen display keyboard settings</string>
   <string name="master_clear_apply_step_1">"&lt;b&gt;&amp;#8220;Réinitialisation des données d'usine&amp;#8221; effacera toutes les données de votre téléphone&lt;/b&gt;, y compris des photos, des chansons, des notes et d'autres données personnelles. Assurez-vous de sauvegarder tous les éléments importants sur votre ordinateur."</string>
   <string name="master_clear_apply_step_2">"Assurez-vous que tous les éléments importants sont sauvegardés sur votre ordinateur. Toutes les données de cet appareil seront effacées lors de la réinitialisation. &lt;b&gt;"Vous ne pourrez pas restaurer les éléments que vous n'avez pas sauvegardés."&lt;/b&gt;"</string>
-  <string name="modify_default_browser_message">If you set a third party app as your default browser, it might start collecting your browsing history and other data. Set anyway?</string>
-  <string name="mqs_privacy_automatically_upload">Upload automatically next time</string>
+  <string name="modify_default_browser_message">"Si vous utilisez une application tierce comme navigateur par défaut, elle pourrait collecter votre historique de navigation et d'autres données. Régler quand même ?"</string>
+  <string name="mqs_privacy_automatically_upload">Envoyer automatiquement la prochaine fois</string>
   <string name="mqs_privacy_dialog_cancel">Annuler</string>
-  <string name="mqs_privacy_dialog_confirm">Upload</string>
-  <string name="mqs_privacy_dialog_content">Upload logs to help us locate and solve this problem? Logs may contain your personal info, including the info about your location.</string>
-  <string name="mqs_privacy_dialog_title">An error occurred</string>
-  <string name="network_state_label">Network state:</string>
-  <string name="networkid_label">Network ID:</string>
-  <string name="notification_animation_style">Special effects</string>
-  <string name="paper_mode_side_effect_hint">Higher intensity might affect the way content is displayed.</string>
-  <string name="power_charging_duration">%1$s - %2$s until fully charged</string>
-  <string name="power_discharge_remaining">%1$s remaining</string>
-  <string name="power_discharging_duration">About %1$s left (%2$s)</string>
-  <string name="power_discharging_duration_enhanced">About %1$s left based on your usage (%2$s)</string>
-  <string name="power_usage_enhanced_debug">%1$s left (New ML est)</string>
-  <string name="power_usage_old_debug">%1$s left (Old est)</string>
-  <string name="process_stats_total_duration">%1$s of %2$s used over last %3$s</string>
-  <string name="process_stats_total_duration_percentage">%1$s of RAM used over %2$s</string>
+  <string name="mqs_privacy_dialog_confirm">Envoyer</string>
+  <string name="mqs_privacy_dialog_content">Envoyer les journaux pour nous aider à repérer et résoudre ce problème ? Les journaux peuvent contenir vos données personnelles, y compris votre emplacement géographique.</string>
+  <string name="mqs_privacy_dialog_title">Une erreur est survenue</string>
+  <string name="network_state_label">État du réseau :</string>
+  <string name="networkid_label">ID réseau :</string>
+  <string name="notification_animation_style">Effets spéciaux</string>
+  <string name="paper_mode_side_effect_hint">"Une intensité plus élevée pourrait affecter la façon d'afficher le contenu".</string>
+  <string name="power_charging_duration">"%1$s - %2$s jusqu'à la recharge complète"</string>
+  <string name="power_discharge_remaining">%1$s restant</string>
+  <string name="power_discharging_duration">Environ %1$s restant (%2$s)</string>
+  <string name="power_discharging_duration_enhanced">"Environ %1$s restant d'après votre utilisation (%2$s)"</string>
+  <string name="power_usage_enhanced_debug">%1$s restant (Nouvelle estim. ML)</string>
+  <string name="power_usage_old_debug">%1$s restant (Ancienne estim.)</string>
+  <string name="process_stats_total_duration">%1$s sur %2$s utilisé durant %3$s</string>
+  <string name="process_stats_total_duration_percentage">%1$s de RAM utilisée sur %2$s</string>
   <string name="screen_paper_mode_hdr_toast_new">"Le mode de lecture sera automatiquement désactivé pendant la lecture vidéo HDR et la vérification des empreintes digitales. Votre appareil repassera en mode Lecture une fois ces actions terminées."</string>
-  <string name="select_sim_card">Select SIM card</string>
-  <string name="share_this_wifi">Extend WLAN coverage</string>
+  <string name="select_sim_card">Sélectionner carte SIM</string>
+  <string name="share_this_wifi">Étendre la couverture Wi-Fi</string>
   <string name="sim_pin_disable_failed">"Impossible de désactiver le code PIN."</string>
   <string name="sim_pin_enable_failed">"Impossible d'activer le code PIN."</string>
   <string name="temporary_style">"10 secondes après avoir tapé sur l'écran"</string>
-  <string name="testing_sim_toolkit">SIM toolkit</string>
-  <string name="testing_wifi_info">WLAN information</string>
-  <string name="time_zone_auto_stub">Select Time Zone</string>
-  <string name="weight_heavy">Bold</string>
-  <string name="weight_light">Light</string>
-  <string name="weight_setting_toast">You can change font weight only for the default system font</string>
-  <string name="wifi_api_test">WLAN API</string>
-  <string name="wifi_config_info">WLAN config</string>
+  <string name="testing_sim_toolkit">Boîte à outils SIM</string>
+  <string name="testing_wifi_info">Information Wi-Fi</string>
+  <string name="time_zone_auto_stub">Choisir fuseau horaire</string>
+  <string name="weight_heavy">Gras</string>
+  <string name="weight_light">Léger</string>
+  <string name="weight_setting_toast">Vous pouvez changer la graisse de la police uniquement pour la police système par défaut</string>
+  <string name="wifi_api_test">API Wi-Fi</string>
+  <string name="wifi_config_info">Config Wi-Fi</string>
   <string name="wifi_display_autonomous_go">Enable autonomous GO</string>
   <string name="wifi_display_certification_heading">Certification</string>
   <string name="wifi_display_listen_channel">Listen channel</string>
@@ -2519,19 +2526,19 @@ Vous ne pouvez pas zoomer sur le clavier et la barre de navigation."</string>
   <string name="wifi_state_label">WLAN state:</string>
   <string name="wifi_status_test">WLAN status</string>
   <string name="wifi_update">Refresh stats</string>
-  <string name="xiaomi_cloud_service_description_without_contacts">Xiaomi Cloud syncs your photos, backs up your apps and settings, and helps you find your phone using Find device.</string>
-  <string name="zen_onboarding_dnd_visual_disturbances_description">"Your phone can do more to help you focus.
+  <string name="xiaomi_cloud_service_description_without_contacts">Xiaomi Cloud cynchronise vos photos, sauvegarde vos applications et vos paramètres, et vous aide à localiser votre téléphone en utilisant Find device.</string>
+  <string name="zen_onboarding_dnd_visual_disturbances_description">"Votre téléphone peut en faire plus pour vous aider à rester concentré.
 
-Update settings to:
+Mettre à jour les paramètres pour :
 
-- Hide notifications completely
+- Cacher complètement les notifications
 
-- Allow calls from starred contacts and repeat callers"</string>
-  <string name="zen_onboarding_more_options">You can further customize this in Settings.</string>
-  <string name="zen_onboarding_screen_off_summary">"Don't turn on the screen or wake for notifications"</string>
-  <string name="zen_onboarding_screen_off_title">Block when the screen is off</string>
-  <string name="zen_onboarding_screen_on_summary">"Don't show notifications at all, except for basic phone activity and status"</string>
-  <string name="zen_onboarding_screen_on_title">Block when the screen is on</string>
+- Autoriser les appels pour les contacts favoris et les contacts fréquents"</string>
+  <string name="zen_onboarding_more_options">Vous pouvez personnaliser davantage cela dans Paramètres.</string>
+  <string name="zen_onboarding_screen_off_summary">"Ne pas allumer l'écran ou vous avertir des notifications"</string>
+  <string name="zen_onboarding_screen_off_title">"Bloquer quand l'écran est éteint"</string>
+  <string name="zen_onboarding_screen_on_summary">"Ne pas afficher les notifications du tout, sauf pour l'activité de base du téléphone et son état"</string>
+  <string name="zen_onboarding_screen_on_title">"Bloquer quand l'écran est allumé"</string>
   <string name="default_theme">Par défaut</string>
   <string name="default_usb_mode">Connexion USB</string>
   <string name="default_vol_stream_title">Contrôle du volume par défaut</string>
@@ -2640,8 +2647,8 @@ Pour résoudre le problème, vous pouvez désactiver les services de localisatio
   <string name="dialog_location_ok">Désactiver</string>
   <string name="dialog_location_title">Désactiver les services de localisation ?</string>
   <string name="dialog_no">Non</string>
-  <string name="dialog_restrict_all_mobile_summary">La connexion aux données mobiles de %s sera restreinte pour toutes les applications une fois cela activé.</string>
-  <string name="dialog_restrict_all_mobile_title">Restreindre la connexion aux données mobiles de %s</string>
+  <string name="dialog_restrict_all_mobile_summary">La connexion aux données cellulaires de %s sera restreinte pour toutes les applications une fois cela activé.</string>
+  <string name="dialog_restrict_all_mobile_title">Restreindre la connexion aux données cellulaires de %s</string>
   <string name="dialog_restrict_all_wlan_summary">La connexion Wi-Fi sera restreinte pour toutes les applications une fois cela activé.</string>
   <string name="dialog_restrict_all_wlan_title">Restreindre la connexion Wi-Fi</string>
   <string name="dialog_restrict_negative">Restreindre</string>
@@ -2711,8 +2718,8 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
   <string name="display_vr_pref_off">Réduire le scintillement</string>
   <string name="display_vr_pref_title">"Quand l'appareil est en mode RV"</string>
   <string name="display_white_balance_title">Afficher la balance des blancs</string>
-  <string name="diy_suppression_summary">Adjust the size of the area near the edges where accidental touch will be ignored</string>
-  <string name="diy_suppression_title">Custom</string>
+  <string name="diy_suppression_summary">Ajustez la taille de la zone près des bords où le toucher accidentel sera ignoré</string>
+  <string name="diy_suppression_title">Personnaliser</string>
   <string name="dlg_cancel">Annuler</string>
   <string name="dlg_close">Fermer</string>
   <string name="dlg_confirm_unmount_text">"Si vous désinstallez la carte SD, certaines applications en cours d'utilisation s'arrêteront et risquent de ne plus être disponibles tant que vous n'aurez pas réinstallé la carte SD."</string>
@@ -2839,7 +2846,7 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
 Vous pouvez afficher les journaux générés dans le Gestionnaire de fichiers."</string>
   <string name="dump_log_title">À propos de cette fonctionnalité</string>
   <string name="eab_provisioned_switch_string">Provisionnement EAB/Presence effectué</string>
-  <string name="easymode_hint">Tap to turn off Lite mode</string>
+  <string name="easymode_hint">Appuyer pour désactiver le mode simplifié</string>
   <string name="edge_mode_back">Retour</string>
   <string name="edge_mode_back_summary">Appuyer deux fois sur le bord de votre téléphone pour revenir en arrière</string>
   <string name="edge_mode_clean">Vider le cache système</string>
@@ -2851,8 +2858,8 @@ Vous pouvez afficher les journaux générés dans le Gestionnaire de fichiers."<
   <string name="edge_mode_photo_summary">"Dans l'application Appareil photo, appuyer sur le bord de votre téléphone pour déclencher l'obturateur et appuyer à nouveau pour prendre une photo"</string>
   <string name="edge_mode_screenshot">"Capture d'écran"</string>
   <string name="edge_mode_screenshot_summary">"Appuyer deux fois sur les bords pour prendre une capture d'écran"</string>
-  <string name="edge_mode_state_summary">"The area around curved edges won't respond to touch"</string>
-  <string name="edge_mode_state_title">Ignore accidental touch on the edges</string>
+  <string name="edge_mode_state_summary">"La zone autour des bords incurvés ne répondra pas au toucher"</string>
+  <string name="edge_mode_state_title">Ignorer le toucher accidentel sur les bords</string>
   <string name="edit_rule">Éditer des règles</string>
   <string name="edit_rules">Éditer</string>
   <string name="eighthours">8 heures</string>
@@ -3113,7 +3120,7 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
   <string name="firewall_partial">Autoriser certaines applications à se connecter via la méthode suivante</string>
   <string name="firewall_permission">Permissions de connexion</string>
   <string name="firewall_restrict_all">Restreindre la connexion pour toutes les application via la méthode suivante</string>
-  <string name="firewall_restrict_android_dialog_content">Pour vous assurer que votre appareil fonctionne normalement, quelques applications du système Android se connecteront toujours à internet. Ces applications utiliseront votre connexion de données mobiles et pourront être facturées par votre opérateur.</string>
+  <string name="firewall_restrict_android_dialog_content">Pour vous assurer que votre appareil fonctionne normalement, quelques applications du système Android se connecteront toujours à internet. Ces applications utiliseront votre connexion de données cellulaires et pourront être facturées par votre opérateur.</string>
   <string name="firewall_restrict_android_dialog_title">Attention</string>
   <string name="firewall_restrict_data">Restreindre la consommation de données cellulaires</string>
   <string name="firewall_restrict_notify_title">%s ne peut pas utiliser le réseau</string>
@@ -3196,7 +3203,7 @@ Il semblait n'y avoir ni chevaux, ni animaux d'aucune espèce ; les hommes tran
   <string name="free_wifi_connect">Connecter</string>
   <string name="free_wifi_connect_dialog_summary">%1$s est fourni par %2$s.</string>
   <string name="free_wifi_connect_dialog_title">Wi-Fi disponible</string>
-  <string name="free_wifi_connect_fail">Impossible de se connecter au réseau. Vérifiez votre connexion de données mobiles et réessayez.</string>
+  <string name="free_wifi_connect_fail">Impossible de se connecter au réseau. Vérifiez votre connexion de données cellulaires et réessayez.</string>
   <string name="free_wifi_connect_fail2">Impossible de ce connecter. Attendez une minute ou deux et essayez à nouveau.</string>
   <string name="free_wifi_connect_summary">Appuyez pour se connecter à %1$s.</string>
   <string name="free_wifi_connect_title">Wi-Fi disponible</string>
@@ -3378,39 +3385,39 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
   <string name="homepage_all_settings">All Settings</string>
   <string name="homepage_condition_footer_content_description">Collapse</string>
   <string name="homepage_personal_settings">Suggestions</string>
-  <string name="how_backup_content">"There are 3 types of backups you can create: local, cloud, and USB.
-Local backups:
-Local backups allow you to save your system settings, accounts, app data, and other items in a separate file stored on your device (MIUI-backup-AllBackup). After the backup file is created, you can transfer it to your computer via USB cable.
-Note:
-You can use Mi PC Suite to back up and restore items.
+  <string name="how_backup_content">"Il existe 3 types de sauvegardes que vous pouvez créer : locales, cloud et USB.
+Sauvegardes locales :
+Les sauvegardes locales vous permettent d'enregistrer vos paramètres système, comptes, données d'application et autres éléments dans un fichier séparé stocké sur votre appareil (MIUI-backup-AllBackup). Une fois le fichier de sauvegarde créé, vous pouvez le transférer sur votre ordinateur via un câble USB.
+Remarque:
+Vous pouvez utiliser Mi PC Suite pour sauvegarder et restaurer des éléments.
 
-Cloud backups:
-You can back up system settings, Home screen layout, apps, and other items to Xiaomi Cloud wirelessly.
+Sauvegardes cloud :
+Vous pouvez sauvegarder les paramètres système, la disposition de l'écran d'accueil, les applications et d'autres éléments sur Xiaomi Cloud sans fil.
 
-USB backups:
-This method allows you to save system settings, accounts, app data, and other items to an external USB storage device.
+Sauvegardes USB :
+Cette méthode vous permet d'enregistrer les paramètres système, les comptes, les données d'applications et d'autres éléments sur un périphérique de stockage USB externe.
 "</string>
-  <string name="how_backup_title">1. How can I back up items?</string>
-  <string name="how_encrypt_content">"You can only encrypt local backups. There are 2 ways to do this:
-a) Open the page with your local backups, tap the button to turn on encryption, and sign in to your Mi Account. Backups will be encrypted automatically after that. Remember that you'll need to sign in to your Mi Account to restore items from encrypted backups.
-b) If you're using Mi PC Suite to back up items, you can use encryption options there.
+  <string name="how_backup_title">1. Comment sauvegarder des éléments ?</string>
+  <string name="how_encrypt_content">"Vous ne pouvez chiffrer que les sauvegardes locales. Il y a 2 façons de procéder :
+a) Ouvrez la page avec vos sauvegardes locales, appuyez sur le bouton pour activer le chiffrement et connectez-vous à votre compte Mi. Les sauvegardes seront chiffrées automatiquement après cela. N'oubliez pas que vous devrez vous connecter à votre compte Mi pour restaurer des éléments à partir de sauvegardes chiffrées.
+b) Si vous utilisez Mi PC Suite pour sauvegarder des éléments, vous pouvez y utiliser des options de chiffrement.
 
-Note:
-Remember the password you set for encrypted backups! You won't be able to decrypt your backups if you forget it.
+Remarque:
+N'oubliez pas le mot de passe que vous avez défini pour les sauvegardes chiffrées ! Vous ne pourrez pas déchiffrer vos sauvegardes si vous l'oubliez.
 "</string>
-  <string name="how_encrypt_title">3. How do I encrypt my backups?</string>
-  <string name="how_restore_backup_content">"Here's how you can restore items that were backed up using different methods:
+  <string name="how_encrypt_title">3. Comment chiffrer mes sauvegardes ?</string>
+  <string name="how_restore_backup_content">"Voici comment restaurer des éléments sauvegardés à l'aide de différentes méthodes :
 
-Local backups:
-Copy the backup file from your computer to your device (MIUI-backup-AllBackup). Go to Settings &gt; Back up, restore, or reset &gt; On this device, and select the backup file.
+Sauvegardes locales :
+Copiez le fichier de sauvegarde de votre ordinateur vers votre appareil (MIUI-backup-AllBackup). Accédez à Paramètres &gt; Sauvegarder, restaurer ou réinitialiser &gt; Sur cet appareil, puis sélectionnez le fichier de sauvegarde.
 
-Cloud backups:
-Sign in to your Mi Account, go to Settings &gt; Back up, restore, or reset &gt; In Xiaomi Cloud, and select the backup file.
+Sauvegardes cloud :
+Connectez-vous à votre compte Mi, accédez à Paramètres &gt; Sauvegarder, restaurer ou réinitialiser &gt; Dans Xiaomi Cloud, et sélectionnez le fichier de sauvegarde.
 
-USB backups:
-Copy the backup file to your device (MIUI-backup-AllBackup). Go to Settings &gt; Back up, restore, or reset &gt; On this device, and select the backup file.
+Sauvegardes USB:
+Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Accédez à Paramètres &gt; Sauvegarder, restaurer ou réinitialiser &gt; Sur cet appareil, puis sélectionnez le fichier de sauvegarde.
 "</string>
-  <string name="how_restore_backup_title">2. How do I restore backed up items?</string>
+  <string name="how_restore_backup_title">2. Comment restaurer des éléments sauvegardés ?</string>
   <string name="http_invoke_app">Applications Web</string>
   <string name="http_invoke_app_summary">Ouvrez les applications plus rapidement sans les installer</string>
   <string name="iCloud_ID_verification_tip">"Appuyez sur \"Autoriser\" sur votre appareil Apple pour faire apparaître le code de vérification. Entrez le code de vérification ici."</string>
@@ -3676,7 +3683,7 @@ Copy the backup file to your device (MIUI-backup-AllBackup). Go to Settings &gt;
   <string name="lights_title">Lumière de la LED</string>
   <string name="line_breaking_summary">Optimiser la rupture de la ligne de paragraphe</string>
   <string name="line_breaking_title">Optimiser le texte</string>
-  <string name="link_turbo_prompt">"Les statistiques de cette page indiquent uniquement la quantité de données utilisée pour augmenter la vitesse de connexion Wi-Fi. Ces statistiques ne reflètent pas l'utilisation réelle des données mobiles."</string>
+  <string name="link_turbo_prompt">"Les statistiques de cette page indiquent uniquement la quantité de données utilisée pour augmenter la vitesse de connexion Wi-Fi. Ces statistiques ne reflètent pas l'utilisation réelle des données cellulaires."</string>
   <string name="link_turbo_settings_all_app_display_loading">Chargement…</string>
   <string name="link_turbo_settings_all_app_reach_max">"Vous pouvez sélectionner jusqu'à 15 applications"</string>
   <string name="link_turbo_usage_state_month">Ce mois-ci</string>
@@ -4216,7 +4223,7 @@ D'autres personnes utilisent cet appareil.
   <string name="miui_sos_statusbar_summary">Appuyez pour désactiver</string>
   <string name="miui_sos_statusbar_title">Mode SOS urgence est activé</string>
   <string name="miui_special_feature">Fonctionnalités spéciales</string>
-  <string name="miui_touch_filtered_touchassistant_warning">The permissions dialog is covered by Quick ball. Move Quick ball away or turn this feature off.</string>
+  <string name="miui_touch_filtered_touchassistant_warning">"La boîte de dialogue des autorisations est couverte par Assistant tactile. Éloignez l'assitant tactile ou désactivez cette fonction."</string>
   <string name="miui_touch_filtered_warning">"Si une application bloque une boîte de dialogue d'autorisations, faites glisser l'élément qui se chevauche ou fermez l'application."</string>
   <string name="miui_updater">Mise à jour système</string>
   <string name="miui_userguide">"Guide de l'utilisateur"</string>
@@ -4225,7 +4232,7 @@ D'autres personnes utilisent cet appareil.
   <string name="mms_privacy_password_role_instruction">Vos conversations avec vos contacts privés peuvent être stockées ici.</string>
   <string name="mobile_connect_to_internet">Connectez-vous à internet.</string>
   <string name="mobile_data_always_on">Données cellulaires toujours actives</string>
-  <string name="mobile_data_always_on_summary">Toujours garder les données mobiles actives, même lorsque le Wi‑Fi est actif (pour un changement rapide de réseau).</string>
+  <string name="mobile_data_always_on_summary">Toujours garder les données cellulaires actives, même lorsque le Wi‑Fi est actif (pour un changement rapide de réseau).</string>
   <string name="mobile_insert_sim_card">Insérez la carte SIM, puis redémarrez.</string>
   <string name="mobile_no_provisioning_url">Aucun site Web de gestion des comptes connu pour %1$s</string>
   <string name="mobile_unknown_sim_operator">Opérateur de carte SIM inconnu</string>
@@ -4806,7 +4813,7 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
   <string name="power_discharge_by_only">"Durera jusqu'à environ %1$s"</string>
   <string name="power_discharge_by_only_enhanced">"Durera jusqu'à environ %1$s relativement à votre utilisation"</string>
   <string name="power_flashlight">Lampe de poche</string>
-  <string name="power_hide_mode_summary">"Économiser la batterie en limitant les processus d'applications en arrière-plan, Wi-Fi, données mobiles et GPS"</string>
+  <string name="power_hide_mode_summary">"Économiser la batterie en limitant les processus d'applications en arrière-plan, Wi-Fi, données cellulaires et GPS"</string>
   <string name="power_hide_mode_title">"Gérer l'utilisation de la batterie par les applications"</string>
   <string name="power_high_usage_title">Utilisation élevée</string>
   <string name="power_idle">Téléphone inactif</string>
@@ -4889,7 +4896,7 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
   <string name="preferred_network_type_title">Type de réseau préféré</string>
   <string name="preferred_sms_settings">Cette application sera utilisée pour la lecture et la rédaction de vos messages.</string>
   <string name="preferred_sms_title">Messagerie par défaut</string>
-  <string name="preferred_sms_warning_message">"Utiliser %1$s comme votre application de messagerie par défaut pourrait augmenter l'utilisation des données mobiles ou compromettre vos données personnelles."</string>
+  <string name="preferred_sms_warning_message">"Utiliser %1$s comme votre application de messagerie par défaut pourrait augmenter l'utilisation des données cellulaires ou compromettre vos données personnelles."</string>
   <string name="preferred_sms_warning_use_system">Ne pas utiliser</string>
   <string name="premium_sms_access">Accès aux SMS premium</string>
   <string name="premium_sms_none">"Aucune demande d'accès aux SMS premium n'a été envoyée pour les applications installées."</string>
@@ -5930,7 +5937,7 @@ Remarque: Vous ne pouvez pas utiliser votre empreinte digitale pour déverrouill
   <string name="sim_cards_changed_message_summary">Appuyez pour définir les activités.</string>
   <string name="sim_cellular_data_unavailable">Données cellulaires non disponibles</string>
   <string name="sim_cellular_data_unavailable_summary">Appuyez pour sélectionner une carte SIM pour les données.</string>
-  <string name="sim_change_data_message">Utiliser la carte SIM %1$s au lieu de la carte %2$s pour les données mobiles ?</string>
+  <string name="sim_change_data_message">Utiliser la carte SIM %1$s au lieu de la carte %2$s pour les données cellulaires ?</string>
   <string name="sim_change_data_title">Modifier SIM pour données ?</string>
   <string name="sim_change_failed">"Impossible de modifier le code PIN.
 Le code PIN est peut-être incorrect."</string>
@@ -5961,7 +5968,7 @@ Le code PIN est peut-être incorrect."</string>
   <string name="sim_lock_settings_title">Verrouillage de la carte SIM</string>
   <string name="sim_management_title">Réseaux cellulaires</string>
   <string name="sim_management_title_singlesim">Réseaux mobiles</string>
-  <string name="sim_multi_sims_summary">Sélectionnez la carte SIM à utiliser en priorité pour les données mobiles.</string>
+  <string name="sim_multi_sims_summary">Sélectionnez la carte SIM à utiliser en priorité pour les données cellulaires.</string>
   <string name="sim_multi_sims_title">Plusieurs cartes SIM détectées</string>
   <string name="sim_name_hint">Saisir le nom de la carte SIM</string>
   <string name="sim_no_inserted_msg">Aucune carte SIM insérée.</string>
@@ -5973,7 +5980,7 @@ Le code PIN est peut-être incorrect."</string>
   <string name="sim_pin_toggle">Verrouiller la carte SIM</string>
   <string name="sim_pins_dont_match">Les codes PIN ne correspondent pas.</string>
   <string name="sim_pref_divider">Carte SIM préférée pour</string>
-  <string name="sim_preferred_message">%1$s est la seule carte SIM dans votre appareil. Voulez-vous utiliser cette carte SIM pour les données mobiles, les appels et les SMS ?</string>
+  <string name="sim_preferred_message">%1$s est la seule carte SIM dans votre appareil. Voulez-vous utiliser cette carte SIM pour les données cellulaires, les appels et les SMS ?</string>
   <string name="sim_preferred_title">Modifier carte SIM préférée ?</string>
   <string name="sim_radio_off">Désactivé</string>
   <string name="sim_reenter_new">"Saisissez à nouveau le code d'accès."</string>
@@ -6084,7 +6091,7 @@ Cette fonctionnalité nécessite des autorisations pour accéder à votre locali
   <string name="sound_vibrate_settings">Sonnerie</string>
   <string name="sound_work_settings">Sons du profil professionnel</string>
   <string name="speaker">Speaker</string>
-  <string name="speaker_clean">Clear speaker</string>
+  <string name="speaker_clean">Nettoyage haut-parleur</string>
   <string name="special_access">Applications: accès spécial</string>
   <string name="speed_label_fast">Rapide</string>
   <string name="speed_label_medium">Moyenne</string>
@@ -6126,7 +6133,7 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
   <string name="status_bar_settings_status_bar">Barre de statut</string>
   <string name="status_bar_title">Barre de statut</string>
   <string name="status_bt_address">Adresse Bluetooth</string>
-  <string name="status_data_network_type">Type de réseau de données mobiles</string>
+  <string name="status_data_network_type">Type de réseau de données cellulaires</string>
   <string name="status_data_state">État du réseau mobile</string>
   <string name="status_failed_to_write">Impossible de modifier des données sur le tag NFC. Si le problème persiste, essayez avec un autre tag.</string>
   <string name="status_invalid_password">Mot de passe erroné. Veuillez réessayer.</string>
@@ -6340,8 +6347,8 @@ Essayez d'utiliser un périphérique ^3 plus rapide, ou utilisez à la place ^4 
   <string name="storageuse_settings_title">Utilisation du stockage</string>
   <string name="strict_mode">Mode strict activé</string>
   <string name="strict_mode_summary">"Flasher l'écran lorsque des applications effectuent de longues opérations sur le fil principal"</string>
-  <string name="strong_suppression_summary">Your device will be less responsive to accidental touch, some gesture controls might not work near the edges</string>
-  <string name="strong_suppression_title">Big area</string>
+  <string name="strong_suppression_summary">Votre appareil sera moins réactif au toucher accidentel, certains contrôles gestuels peuvent ne pas fonctionner près des bords</string>
+  <string name="strong_suppression_title">Grande zone</string>
   <string name="structure_add_facerecoginition_text">Ajouter des données de visage 3D</string>
   <string name="structure_face_enroll_not_able_low_electric_itle">"Impossible d'utiliser cette fonctionnalité en raison du niveau faible de la batterie"</string>
   <string name="structure_face_enroll_not_able_low_electric_msg">La batterie doit être chargée à 5% au moins pour démarrer un enregistrement.</string>
@@ -6436,13 +6443,13 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
   <string name="testing_usage_stats">Données statistiques</string>
   <string name="tether_and_hotspot_title">"Partage de connexion et point d'accès mobile"</string>
   <string name="tether_auto_disable_summary">"Désactiver automatiquement le point d'accès lorsqu'aucun appareil n'est connecté"</string>
-  <string name="tether_auto_disable_title">Désactiver automatiquement les données mobiles</string>
-  <string name="tether_custom_dialog_title">Limite de données mobiles</string>
+  <string name="tether_auto_disable_title">Désactiver automatiquement les données cellulaires</string>
+  <string name="tether_custom_dialog_title">Limite de données cellulaires</string>
   <string name="tether_data_usage_limit">Limite de données unique</string>
   <string name="tether_data_usage_limit_summary">"La limite de données sera appliquée la prochaine fois que votre point d'accès sera activé"</string>
   <string name="tether_devices_management_title">Gérer les appareils</string>
   <string name="tether_devices_max_number">"Limite d'appareils pouvant se connecter"</string>
-  <string name="tether_limit_dialog_title">Limite de données mobiles</string>
+  <string name="tether_limit_dialog_title">Limite de données cellulaires</string>
   <string name="tether_limit_value_custom">Personnaliser</string>
   <string name="tether_over_limit_dialog_cancle_btn">"Réinitialiser le point d'accès mobile"</string>
   <string name="tether_over_limit_dialog_message">"Vous avez atteint la limite de données du point d'accès mobile."</string>
@@ -6462,7 +6469,7 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
   <string name="tether_share_qrcode_title">Partager un QR code</string>
   <string name="tether_use_wifi6_summary">Certains appareils peuvent être incompatibles avec la norme 802.11ax. Désactivez cette fonction si vous rencontrez des problèmes.</string>
   <string name="tether_use_wifi6_title">Prise en charge de la norme de sixième génération</string>
-  <string name="tethering_footer_info">"Utilisez un point d'accès et le partage de connexion pour fournir un accès à internet à d'autres appareils via votre connexion de données mobiles. Les applications peuvent également créer un point d'accès pour partager du contenu avec des appareils à proximité."</string>
+  <string name="tethering_footer_info">"Utilisez un point d'accès et le partage de connexion pour fournir un accès à internet à d'autres appareils via votre connexion de données cellulaires. Les applications peuvent également créer un point d'accès pour partager du contenu avec des appareils à proximité."</string>
   <string name="tethering_hardware_offload">Accélération matérielle pour le partage</string>
   <string name="tethering_hardware_offload_summary">"Utiliser l'accélération du matériel de partage de connexion si disponible"</string>
   <string name="tethering_help_button_text">Aide</string>
@@ -7001,7 +7008,7 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
   <string name="virtual_sim_description">"Service d'itinérance fiable"</string>
   <string name="virtual_sim_global_category_title">Mi SIM</string>
   <string name="virtual_sim_global_description">Se connecter au réseau de données sans carte SIM</string>
-  <string name="virtual_sim_global_title">Service de données mobiles</string>
+  <string name="virtual_sim_global_title">Service de données cellulaires</string>
   <string name="virtual_sim_title">"Réseau d'itinérance de données"</string>
   <string name="virus_scan">Recherche de virus</string>
   <string name="virus_scan_app_continue">"Continuer l'analyse"</string>
@@ -7151,12 +7158,12 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
   <string name="vt_provisioned_switch_string">Appel vidéo géré</string>
   <string name="wait_for_debugger">Attendre le débogage</string>
   <string name="wait_for_debugger_summary">"Application déboguéeen attente d'un débogueur pour joindre avant l'exécution"</string>
-  <string name="wake_suppression_summary">Your device will be more responsive to accidental touch, but will also react to most gesture controls near the edges</string>
-  <string name="wake_suppression_title">Small area</string>
+  <string name="wake_suppression_summary">Votre appareil sera plus réactif au toucher accidentel, mais réagira également à la plupart des commandes gestuelles près des bords</string>
+  <string name="wake_suppression_title">Petite zone</string>
   <string name="wakeup_and_sleep_settings_category_name">"Verrouiller les paramètres de l'écran"</string>
   <string name="wakeup_for_keyguard_notification_title">"Allumer l'écran pour les notifications"</string>
   <string name="wallpaper_attributions">"Fonds d'écran"</string>
-  <string name="wallpaper_attributions_values">"Fournisseurs d'images satellite:
+  <string name="wallpaper_attributions_values">"Fournisseurs d'images satellite :
 © 2014 CNES/Astrium, DigitalGlobe, Bluesky"</string>
   <string name="wallpaper_desktop">Bureau</string>
   <string name="wallpaper_live">Animé</string>
@@ -7248,16 +7255,16 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
   <string name="wifi_ask_enable">"%s requiert l'activation du Wi-Fi."</string>
   <string name="wifi_assist">Assistant Wi-Fi</string>
   <string name="wifi_assistant">Sélectionnez automatiquement les meilleurs réseaux</string>
-  <string name="wifi_assistant_auto_confirm_data_message">"Le Wi-Fi actuel ne peut pas accéder à internet, utilisez plutôt les données mobiles, vous pouvez désactiver l'assistant Wi-Fi dans les paramètres"</string>
+  <string name="wifi_assistant_auto_confirm_data_message">"Le Wi-Fi actuel ne peut pas accéder à internet, utilisez plutôt les données cellulaires, vous pouvez désactiver l'assistant Wi-Fi dans les paramètres"</string>
   <string name="wifi_assistant_confirm_always">"Plus d'indices la prochaine fois"</string>
   <string name="wifi_assistant_confirm_connection_title">Confirmer la connexion</string>
   <string name="wifi_assistant_data_prompt">"Activer l'assistant Wi-Fi"</string>
-  <string name="wifi_assistant_data_prompt_summary">"Afficher un avertissement sur l'utilisation des données lors du passage aux données mobiles"</string>
+  <string name="wifi_assistant_data_prompt_summary">"Afficher un avertissement sur l'utilisation des données lors du passage aux données cellulaires"</string>
   <string name="wifi_assistant_description">"Après avoir activé cette fonction:
 1.Lorsque la connexion Wi-Fi est mauvaise, le système essaie automatiquement d'autres réseaux Wi-Fi disponibles
-2.Lorsque toutes les connexions Wi-Fi existantes sont mauvaises et que les données mobiles sont activées, le système choisira intelligemment la meilleure connexion réseau"</string>
+2.Lorsque toutes les connexions Wi-Fi existantes sont mauvaises et que les données cellulaires sont activées, le système choisira intelligemment la meilleure connexion réseau"</string>
   <string name="wifi_assistant_disconnect">Déconnecter</string>
-  <string name="wifi_assistant_explicitly_confirm_data_message">Le Wi-Fi actuel ne peut pas accéder à internet, voulez-vous basculer sur les données mobiles ?</string>
+  <string name="wifi_assistant_explicitly_confirm_data_message">Le Wi-Fi actuel ne peut pas accéder à internet, voulez-vous basculer sur les données cellulaires ?</string>
   <string name="wifi_assistant_explicitly_confirm_disconnect">Le Wi-Fi actuel ne peut pas accéder à internet, voulez-vous vous déconnecter ?</string>
   <string name="wifi_assistant_explicitly_confirm_wifi_message">"Le Wi-Fi actuel ne peut pas accéder à internet et d'autres réseaux Wi-Fi peuvent être connectés normalement, voulez-vous basculer ?"</string>
   <string name="wifi_assistant_keep_connection">Garder</string>
@@ -7265,8 +7272,8 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
   <string name="wifi_assistant_ok">OK </string>
   <string name="wifi_assistant_on">Activé</string>
   <string name="wifi_assistant_setup_wifi_assistant">Configurer</string>
-  <string name="wifi_assistant_summary">Sélectionnez le réseau Wi-Fi ou de données mobiles intelligemment lorsque la connexion Wi-Fi est faible</string>
-  <string name="wifi_assistant_switch_data">Utiliser les données mobiles</string>
+  <string name="wifi_assistant_summary">Sélectionnez le réseau Wi-Fi ou de données cellulaires intelligemment lorsque la connexion Wi-Fi est faible</string>
+  <string name="wifi_assistant_switch_data">Utiliser les données cellulaires</string>
   <string name="wifi_assistant_switch_wifi">Changer de réseau</string>
   <string name="wifi_auto_connect">Connexion automatique</string>
   <string name="wifi_auto_sel_wapi_cert">Sélectionner automatiquement</string>
@@ -7291,8 +7298,8 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
   <string name="wifi_cant_connect_to_ap">"Connexion impossible à %1$s"</string>
   <string name="wifi_carrier_connect">"Réseau Wi-Fi de l'opérateur"</string>
   <string name="wifi_carrier_content">Se connecter via %1$s</string>
-  <string name="wifi_cellular_data_fallback_summary">"Les données mobiles sont utilisées si vous n'avez pas accès à internet via le réseau Wi-Fi. Des frais liés à la consommation des données peuvent s'appliquer."</string>
-  <string name="wifi_cellular_data_fallback_title">Se connecter automatiquement au réseau de données mobiles</string>
+  <string name="wifi_cellular_data_fallback_summary">"Les données cellulaires sont utilisées si vous n'avez pas accès à internet via le réseau Wi-Fi. Des frais liés à la consommation des données peuvent s'appliquer."</string>
+  <string name="wifi_cellular_data_fallback_title">Se connecter automatiquement au réseau de données cellulaires</string>
   <string name="wifi_certificate">Certificat</string>
   <string name="wifi_check_password_try_again">Vérifiez le mot de passe et réessayez</string>
   <string name="wifi_click_login_wlan">Nécessite une connexion/autorisation</string>
@@ -7325,7 +7332,7 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
   <string name="wifi_details_ipv6_address_header">Adresses IPv6</string>
   <string name="wifi_details_subnet_mask">Masque de sous-réseau</string>
   <string name="wifi_details_title">Détails du réseau</string>
-  <string name="wifi_dialog_remind_type_title">Réseau de données mobiles</string>
+  <string name="wifi_dialog_remind_type_title">Réseau de données cellulaires</string>
   <string name="wifi_direct_close_hotspot_hint">Turn off portable hotspot before using WLAN Direct</string>
   <string name="wifi_direct_close_slave_wifi_hint">Disconnect from auxiliary WLAN before using WLAN Direct</string>
   <string name="wifi_disabled_by_recommendation_provider">"Pas connecté à cause d'un réseau de mauvaise qualité"</string>
@@ -7397,7 +7404,7 @@ Configurer un réseau masqué n'affectera pas les paramètres de votre routeur."
   <string name="wifi_hotspot_configure_ap_text_summary">"Point d'accès AndroidAP WPA2 PSK"</string>
   <string name="wifi_hotspot_connect">SE CONNECTER</string>
   <string name="wifi_hotspot_footer_info_local_only">"Les applications peuvent créer un point d'accès pour partager du contenu avec des appareils à proximité."</string>
-  <string name="wifi_hotspot_footer_info_regular">"Utilisez un point d'accès afin de créer un réseau Wi-Fi pour vos autres appareils. Un point d'accès fournit un accès à internet via votre connexion de données mobiles. Des frais supplémentaires peuvent s'appliquer pour l'utilisation des données mobiles."</string>
+  <string name="wifi_hotspot_footer_info_regular">"Utilisez un point d'accès afin de créer un réseau Wi-Fi pour vos autres appareils. Un point d'accès fournit un accès à internet via votre connexion de données cellulaires. Des frais supplémentaires peuvent s'appliquer pour l'utilisation des données cellulaires."</string>
   <string name="wifi_hotspot_message">\"%1$s\" requiert une connexion en ligne pour autoriser la connexion au réseau.</string>
   <string name="wifi_hotspot_name_summary_connected">"D'autres appareils peuvent se connecter au point d'accès \"%1$s\""</string>
   <string name="wifi_hotspot_name_summary_connecting">"Activation du point d'accès \"%1$s\"…"</string>
@@ -7420,7 +7427,7 @@ Configurer un réseau masqué n'affectera pas les paramètres de votre routeur."
   <string name="wifi_ip_settings_menu_cancel">Annuler</string>
   <string name="wifi_ip_settings_menu_save">Enregistrer</string>
   <string name="wifi_limit_optimizations_summary">Limiter la batterie util. par Wi-Fi</string>
-  <string name="wifi_link_turbo">Utiliser les données mobiles pour augmenter la vitesse</string>
+  <string name="wifi_link_turbo">Utiliser les données cellulaires pour augmenter la vitesse</string>
   <string name="wifi_link_turbo_app_settings_summary">Sélectionnez les applications qui utiliseront cette fonctionnalité</string>
   <string name="wifi_link_turbo_app_settings_title">Sélectionnez des applications</string>
   <string name="wifi_link_turbo_customize">Applications personnalisées</string>
@@ -7431,7 +7438,7 @@ Configurer un réseau masqué n'affectera pas les paramètres de votre routeur."
   <string name="wifi_link_turbo_on">Activer</string>
   <string name="wifi_link_turbo_recommendation">Applications recommandées</string>
   <string name="wifi_link_turbo_recommendation_summary">"Recevez des recommandations basées sur les statistiques d'utilisation des données"</string>
-  <string name="wifi_link_turbo_summary">"Augmentez la vitesse de connexion pour la sélection d'applications utilisant des données mobiles lorsque la connexion Wi-Fi est mauvaise"</string>
+  <string name="wifi_link_turbo_summary">"Augmentez la vitesse de connexion pour la sélection d'applications utilisant des données cellulaires lorsque la connexion Wi-Fi est mauvaise"</string>
   <string name="wifi_menu_advanced">Options avancées</string>
   <string name="wifi_menu_configure">Configurer</string>
   <string name="wifi_menu_connect">Se connecter au réseau</string>
@@ -7502,7 +7509,7 @@ Configurer un réseau masqué n'affectera pas les paramètres de votre routeur."
   <string name="wifi_quick_toggle_title">Wi-Fi</string>
   <string name="wifi_remembered">Sauvegardé</string>
   <string name="wifi_remembered_disabled_auto_connect">Enregistré, la connexion automatique est désactivée</string>
-  <string name="wifi_required_info_text">"Pour terminer la configuration, votre appareil doit avoir accès au Wi-Fi. Après l'installation, vous pouvez basculer entre les données mobiles et le Wi-Fi."</string>
+  <string name="wifi_required_info_text">"Pour terminer la configuration, votre appareil doit avoir accès au Wi-Fi. Après l'installation, vous pouvez basculer entre les données cellulaires et le Wi-Fi."</string>
   <string name="wifi_sap_no_channel_error">Fréquence 5 GHz non disponible dans ce pays.</string>
   <string name="wifi_save">Enregistrer</string>
   <string name="wifi_saved_access_points_label">Réseaux enregistrés</string>
@@ -7623,7 +7630,7 @@ Toucher "<b>Retour</b> pour se connecter à un autre réseau Wi-Fi.</string>
   <string name="wifi_suspend_efficiency_title">"Améliorer l'efficacité"</string>
   <string name="wifi_suspend_optimizations">Optimisation du Wi-Fi</string>
   <string name="wifi_suspend_optimizations_summary">Minimisez la consommation de la batterie lorsque le Wi-Fi est activé</string>
-  <string name="wifi_switch_away_when_unvalidated">"Utiliser les données mobiles si vous n'avez plus accès à internet via le réseau Wi-Fi"</string>
+  <string name="wifi_switch_away_when_unvalidated">"Utiliser les données cellulaires si vous n'avez plus accès à internet via le réseau Wi-Fi"</string>
   <string name="wifi_switch_to_gsm_message">Connexion Wi-Fi perdue. Utiliser la connexion de données cellulaire ?</string>
   <string name="wifi_switch_to_gsm_title">Utiliser le GSM ?</string>
   <string name="wifi_tap_to_sign_in">Appuyez ici pour vous connecter au réseau</string>
