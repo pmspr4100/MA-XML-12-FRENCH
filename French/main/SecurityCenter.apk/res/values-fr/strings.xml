@@ -75,6 +75,9 @@
   <string name="user_define_title">Ajouter des règles</string>
   <string name="blacklist_prefix_add_hint">Bloquer tous les numéros qui commencent avec ce préfixe</string>
   <string name="whitelist_prefix_add_hint">Ajouter tous les numéros avec préfixe aux exceptions</string>
+  <string name="wifi_danger_dialog_messgae">Current WLAN network might pose security risks. Use it with caution.</string>
+  <string name="wifi_danger_dialog_tips">You can manage WLAN security in Security &gt; Security scan &gt; Settings &gt; WLAN.</string>
+  <string name="wifi_danger_dialog_title">"WLAN network isn't secure"</string>
   <string name="customizer_mode_user_define_name">Mes règles</string>
   <string name="all_address_choose_hint">Tous les numéros de cette région</string>
   <string name="address_choose_hint">%1$s, %2$s, et %3$d autres localisations</string>
@@ -1597,7 +1600,7 @@ medical card"</string>
   <string name="apps_item_sign_dialog_title">"Installer l'application officielle"</string>
   <string name="apps_item_sign_dialog_content">"La signature de %s est différente de la version de celle qui est dans App Store. Supprimer cette application et installer la version officielle ? Note: Installer une application avec un conflit de signature pourrait conduire des pertes de données de l'application."</string>
   <string name="wifi_item_title_connection">Connexion Wi-Fi</string>
-  <string name="wifi_item_title_encryption">Chiffrement Wi-Fi</string>
+  <string name="wifi_item_title_encryption">"Wi-Fi n'est pas chiffré"</string>
   <string name="wifi_item_title_fake">Détecter un faux Wi-Fi</string>
   <string name="wifi_item_title_dns">Sécurité du serveur DNS</string>
   <string name="wifi_item_title_arp_attack">Attaques ARP</string>
@@ -1614,8 +1617,8 @@ medical card"</string>
   <string name="result_sms_info_auth">"Veuillez restreindre l'accès des applications tierces aux codes de vérification."</string>
   <string name="toast_set_success">Activé avec succès</string>
   <string name="toast_reject_sms_read_permission_success">Défini avec succès</string>
-  <string name="sp_settings_title_input_method">Méthode de saisie (IME) sécurisée</string>
-  <string name="sp_settings_info_input_method">Utiliser la méthode de saisie du système dans les applications de paiement</string>
+  <string name="sp_settings_title_input_method">Tester les claviers pour les problèmes de sécurité</string>
+  <string name="sp_settings_info_input_method">Testez les claviers pour les problèmes de sécurité lors des paiements</string>
   <string name="sp_settings_info_monitor">"Surveiller l'environnement du système lorsque les applications de paiement se mettent en marche"</string>
   <string name="scan_status_safe">Sécurisé</string>
   <string name="scan_status_risk">Risqué</string>
@@ -1665,6 +1668,7 @@ medical card"</string>
   <string name="sc_warning_updater_not_found">"Impossible de trouver l'application Mise à jour."</string>
   <string name="sp_background_risk_dialog_title">Attention</string>
   <string name="sp_background_risk_dialog_summary">, vérifier et réparer les erreurs de paiement.</string>
+  <string name="sp_background_risk_dialog_summary_new">Current payment environment might pose security risks. Take a moment to solve existing problems.</string>
   <string name="sp_background_risk_type_wifi">Ce réseau Wi-Fi est dangereux</string>
   <string name="sp_background_risk_type_messaging">"L'application système Messages a été remplacée"</string>
   <string name="sp_background_risk_type_virus">"Le virus est en cours d'exécution en arrière-plan"</string>
@@ -1834,6 +1838,7 @@ medical card"</string>
   <string name="button_text_accept">Accepter</string>
   <string name="button_text_accept_timer">Accepter (%d)</string>
   <string name="button_text_reject">Rejeter</string>
+  <string name="button_text_trust">Faites confiance à ce réseau</string>
   <string name="button_text_deny">Refuser</string>
   <string name="button_text_next_step">Suivant</string>
   <string name="button_text_next_step_timer">Étape suivante (%d)</string>
