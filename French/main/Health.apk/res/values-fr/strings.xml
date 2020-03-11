@@ -77,7 +77,7 @@ ajouter des cartes"</string>
   <string name="body_weight_severe_obesity">Très sévèrement obèse</string>
   <string name="body_weight_thin">Poids insuffisant</string>
   <string name="body_weight_unmeasure_today">"Pas de pesée aujourd'hui"</string>
-  <string name="button_record_menstruation">Record</string>
+  <string name="button_record_menstruation">Enregistrer</string>
   <string name="cancel">Annuler</string>
   <string name="cancel_mark_end">"La période n'est pas terminée"</string>
   <string name="cancel_mark_start">Supprimer cet enregistrement</string>
@@ -155,16 +155,16 @@ Mi Santé ne vous informera que des articles importants."</string>
   <string name="dialog_delete_record_confirm">Delete this record?</string>
   <string name="dialog_exercise_purpose">"Bienvenue sur Mi Santé ! \"Le compteur de pas\" vous permet de voir combien de pas vous faîtes par jour, aussi bien que définir et gérer vos buts d'activités. Toutes les données concernées seront emmagasinées localement sur votre appareil, ce qui vous permet de les gérer facilement."</string>
   <string name="dialog_exit">Quitter</string>
-  <string name="dialog_feedback_content">"If you don't agree to grant such permissions, you won't be able to use some features of this app; however, its basic functionality will still be available to you. You can always restrict permissions or revoke your authorization in the Settings."</string>
+  <string name="dialog_feedback_content">"Si vous refusez d'accorder ces permissions, vous ne pourrez pas utiliser certaines fonctionnalités de l'application. Toutefois, les fonctionnalités de base resteront disponibles . Vous pouvez restreindre ou révoquer les permissions dans les Réglages."</string>
   <string name="dialog_feedback_purpose">Mi Santé doit accéder au stockage afin de soumettre des commentaires.</string>
-  <string name="dialog_feedback_purpose2">For submitting feedback</string>
-  <string name="dialog_feedback_title">Feedback</string>
+  <string name="dialog_feedback_purpose2">Pour envoyer vos commentaires</string>
+  <string name="dialog_feedback_title">Commentaires</string>
   <string name="dialog_health_applicator">Mi Santé fournit actuellement des services uniquement aux adultes.</string>
   <string name="dialog_juveniles_details">"Selon notre politique de confidentialité, l'âge minimum pour utiliser ce produit est de 18 ans."</string>
   <string name="dialog_juveniles_link">"Selon nos &lt;font color=\"#FE6D67\"&gt;&lt;a href=\"%1$s\"&gt;Politique de confidentialité&lt;/a&gt;&lt;/font&gt;, l'âge minimum pour utiliser ce produit est de 18 ans."</string>
   <string name="dialog_keep">Conserver</string>
   <string name="dialog_known">"C'est compris"</string>
-  <string name="dialog_menstruation_purpose">"Bienvenue sur Mi Santé ! \"Menstruation\" vous permet d'enregistrer des périodes, de déterminer les dates estimées des périodes à venir et de recevoir des rappels. Toutes les données associées seront stockées localement sur votre appareil, ce qui vous permet de les gérer facilement."</string>
+  <string name="dialog_menstruation_purpose">"Bienvenue sur Mi Santé ! \"Règles menstruelles\" vous permet d'enregistrer vos règles, de déterminer les dates estimées des règles à venir et de recevoir des rappels. Toutes les données associées seront stockées localement sur votre appareil, ce qui vous permet de les gérer facilement."</string>
   <string name="dialog_no_more_prompt">Ne plus afficher</string>
   <string name="dialog_ok">OK</string>
   <string name="dialog_open">Autoriser</string>
@@ -283,15 +283,15 @@ Mi Santé ne vous informera que des articles importants."</string>
   <string name="member_name_select_purpose2">"Sélectionnez votre nom d'utilisateur pour synchroniser les données de santé"</string>
   <string name="menses_auto_start_description">"Activer les rappels permettra d'autoriser à Mi Santé de s'auto-démarrer."</string>
   <string name="menses_features_description">Enregistrez vos règles et recevez des rappels</string>
-  <string name="menstrual_assistant">Menstruation</string>
-  <string name="menstruation">Menstruation</string>
+  <string name="menstrual_assistant">Règles menstruelles</string>
+  <string name="menstruation">Règles menstruelles</string>
   <string name="menstruation_cycle">Cycle de menstruation</string>
-  <string name="menstruation_cycle_description">Intervalle entre les périodes de commençement de 2 cercles consécutifs</string>
+  <string name="menstruation_cycle_description">Intervalle entre les dates de début de règles de 2 cycles consécutifs</string>
   <string name="menstruation_days">Durée des règles</string>
-  <string name="menstruation_days_description">Durée de chaque règles</string>
+  <string name="menstruation_days_description">Durée de chaque menstruation</string>
   <string name="menstruation_last_start_date">Date de la dernière menstruation</string>
   <string name="menstruation_record">Règles enregistrées</string>
-  <string name="menstruation_record_not_found">No records here yet</string>
+  <string name="menstruation_record_not_found">Aucun enregistrement pour le moment</string>
   <string name="menstruation_setting">Paramètres de menstruation</string>
   <string name="menu_title_settings">Paramètres</string>
   <string name="mesens_card_title_stop_today">"La période se termine aujourd'hui"</string>
@@ -316,7 +316,7 @@ Mi Santé ne vous informera que des articles importants."</string>
   <string name="name_title_menstruation_today_end">"Les règles devraient se terminer aujourd'hui"</string>
   <string name="need_auto_start_permission">"Pour obtenir des statistiques plus corrects, autoriser Mi Santé à s'autodémarrer."</string>
   <string name="need_unrestricted_permission">Pour obtenir des statistiques plus corrects, autoriser Mi Santé à toujours fonctionner en arrière-plan.</string>
-  <string name="network_connect_failure">"Couldn't connect to the network. Check your network settings and try again."</string>
+  <string name="network_connect_failure">Connexion au réseau impossible. Vérifiez vos paramètres réseau et réessayez.</string>
   <string name="next_step">Suivant</string>
   <string name="no_available_device">Aucun appareil</string>
   <string name="no_body_weight_record">Aucun enregistrement ici pour le moment</string>
@@ -360,12 +360,12 @@ Mi Santé ne vous informera que des articles importants."</string>
   <string name="remind_goto_sleep">"Il est tard maintenant. Il est l'heure d'aller dormir."</string>
   <string name="remind_menstruation_acquired_start">Il se peut que vos règles commencent dans deux jours</string>
   <string name="remind_open_tips">Autoriser Mi Santé à vous rappeler les règles à venir</string>
-  <string name="remind_query_menstruation_end">"Vos règles sont-elles terminées ? N'oubliez pas de les enregistrer."</string>
-  <string name="remind_query_menstruation_start">"Vos règles ont-elles commençées ? N'oubliez pas de les enregistrer."</string>
-  <string name="remind_sleep_report_complete">Les stats de sommeil sont prêtes</string>
+  <string name="remind_query_menstruation_end">"Vos règles sont-elles terminées ? N'oubliez-pas de les enregistrer."</string>
+  <string name="remind_query_menstruation_start">"Vos règles ont-elles commencé ? N'oubliez-pas de les enregistrer."</string>
+  <string name="remind_sleep_report_complete">Les statistiques de sommeil sont prêtes</string>
   <string name="remind_subtitle_menstruation_start">Recevoir un rappel 2 jours avant que les règles suivantes ne surviennent</string>
-  <string name="remind_subtitle_record">"Recevoir des rappels lorsque vous avez besoin d'enregistrer les dates de commençement et de fin de vos règles"</string>
-  <string name="remind_title_menstruation_start">Se rappeler lorsque les règles commençent</string>
+  <string name="remind_subtitle_record">"Recevoir des rappels lorsque vous avez besoin d'enregistrer les dates de commencement et de fin de vos règles"</string>
+  <string name="remind_title_menstruation_start">Se rappeler lorsque les règles commencent</string>
   <string name="remind_title_record">"Se souvenir d'enregistrer"</string>
   <string name="revert_to_default">Réinitialiser par défault</string>
   <string name="search_menu_title">Rechercher</string>
@@ -475,7 +475,7 @@ en fonction de vos informations personnelles."</string>
   <string name="title_click_record_menstruation">Enregistrer les règles</string>
   <string name="title_data_collect">Usage personnelle des données</string>
   <string name="title_improve_health">Reste en bonne santé</string>
-  <string name="title_menstruation_predict_start">Les règles commençeront probablement le %1$s</string>
+  <string name="title_menstruation_predict_start">Les règles commenceront probablement le %1$s</string>
   <string name="title_month_exercise_sum">Statistiques mensuel</string>
   <string name="title_network_license">Accès au réseau</string>
   <string name="title_no_record_menstruation">"Vous n'avez pas encore enregistré vos règles."</string>
@@ -528,7 +528,7 @@ Taille: %2$s"</string>
   <string name="xiaomi_update_sdk_dialog_message_diff">"Présentation de la version %1$s
 Taille de mise à jour Delta: %2$s"</string>
   <string name="xiaomi_update_sdk_dialog_title">%1$s mise à jour !</string>
-  <string name="xiaomi_update_sdk_external_storage_unavailable">Storage unavailable, please check the SD card.</string>
+  <string name="xiaomi_update_sdk_external_storage_unavailable">Espace de stockage indisponible, vérifiez la carte SD.</string>
   <string name="xiaomi_update_sdk_kilobytes_unit">"%1$s Ko"</string>
   <string name="xiaomi_update_sdk_megabytes_unit">"%1$s Mo"</string>
   <string name="year">Année</string>
