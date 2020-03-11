@@ -19,8 +19,18 @@
       <item>Verbose</item>
     </string-array>
     <string-array name="cdma_system_select_choices">
-      <item>Home only</item>
+      <item>Bureau seulement</item>
       <item>Automatique</item>
+    </string-array>
+    <string-array name="aggregate_entries">
+        <item>Recommandé</item>
+        <item>Important</item>
+        <item>Sans importance</item>
+    </string-array>
+    <string-array name="aggregate_summaries">
+        <item>MIUI décidera quelles notifications doivent apparaître directement</item>
+        <item>Les notifications apparaîtront dans la zone de notification</item>
+        <item>Les notifications apparaîtront dans un dossier séparé</item>
     </string-array>
     <string-array name="ai_key_item_name">
       <item>"Parler à l'assistant Google"</item>
