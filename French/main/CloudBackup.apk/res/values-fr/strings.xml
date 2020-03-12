@@ -36,7 +36,7 @@
   <string name="dir_date_format">HHmmss_ddMMyyyy</string>
   <string name="doing_calc_backup_data_size">Calculer la taille…</string>
   <string name="retry">Réessayer</string>
-  <string name="search_menu_title">Search</string>
+  <string name="search_menu_title">Rechercher</string>
   <string name="selected">Sélectionné</string>
   <string name="cloud_app_current_device">Appareil actuel</string>
   <string name="cloud_app_other_devices">Autres appareils</string>
@@ -79,7 +79,7 @@ Note: Les données des applications que vous avez installées ne seront pas sauv
   <string name="self_device_second_space">Second espace de ce téléphone</string>
   <string name="other_device_main_space">Premier espace</string>
   <string name="other_device_second_space">Deuxième espace</string>
-  <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
+  <string name="preference_copied">\"%1$s\" copié dans le presse-papier.</string>
   <string name="process_whole_recovery">Restauration de \"%s\"</string>
   <string name="provision_background_restore_more_data">Restaurer plusieurs éléments en arrière-plan</string>
   <string name="size_unknown">Taille inconnue</string>
@@ -102,7 +102,7 @@ Note: Les données des applications que vous avez installées ne seront pas sauv
   <string name="total_space">Espace total: %s</string>
   <string name="managespace_delete_backup">Supprimer</string>
   <string name="error_unknown">Erreur</string>
-  <string name="expand_button_title">Advanced</string>
+  <string name="expand_button_title">Avancé</string>
   <string name="backup_size">Taille: %s</string>
   <string name="device_delete_prompt">Supprimer la sauvegarde de %s ?</string>
   <string name="desktop_waiting">En attente</string>
@@ -155,7 +155,7 @@ Note: Les données des applications que vous avez installées ne seront pas sauv
   <string name="confirm_cancel_restore_positive">Continuer</string>
   <string name="confirm_cancel_restore_negative">Annuler</string>
   <string name="confirm_restore_title">Restaurer</string>
-  <string name="copy">Copy</string>
+  <string name="copy">Copie</string>
   <string name="confirm_restore_summary">"L'écran d'accueil sera relancé. Les applications sauvegardées seront téléchargées automatiquement."</string>
   <string name="confirm_restore">Restaurer</string>
   <string name="cloud_backup_have_data">Trouvé une sauvegarde dans Xiaomi Cloud</string>
@@ -194,18 +194,17 @@ Vérifiez vos paramètres réseau et réessayez."</string>
   <string name="provision_error_connect_title">Impossible de se connecter</string>
   <string name="provision_restore_data">"Restauration d'éléments"</string>
   <string name="loading_user_backup">"Chargement des sauvegardes d'utilisateur…"</string>
-  <string name="error_num_placeholder">--</string>
   <string name="authentication_failed">Impossible de vérifier le compte.</string>
   <string name="no_account">"Vous n'êtes pas connecté au compte Mi."</string>
   <string name="no_backup">Aucune sauvegarde dans Xiaomi Cloud.</string>
-  <string name="not_set">Not set</string>
+  <string name="not_set">Non défini</string>
   <string name="download_meta_failed">Impossible de charger les données.</string>
   <string name="home_restore_error">"Impossible de restaurer l'écran d'accueil"</string>
   <string name="get_device_id_error">"Impossible d'obtenir l'ID de l'appareil"</string>
   <string name="hint_restore_cross_space">"La disposition de l'écran d'accueil peut ne pas s'afficher correctement si vous transférez des éléments entre des espaces."</string>
   <string name="unsupported_home">Mettez à jour MIUI avec la dernière version.</string>
-  <string name="v7_preference_off">OFF</string>
-  <string name="v7_preference_on">ON</string>
+  <string name="v7_preference_off">Désactiver</string>
+  <string name="v7_preference_on">Activer</string>
   <string name="unselected">Non sélectionné</string>
   <string name="error_retry_later">"Impossible de terminer l'action. Attendez une minute ou deux et essayez à nouveau…"</string>
   <string name="try_continue">Appuyez pour continuer</string>
