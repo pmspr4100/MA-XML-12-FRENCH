@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
+  <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
+  <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
+  <string name="abc_action_mode_done">Terminer</string>
+  <string name="abc_activity_chooser_view_see_all">Tout afficher</string>
+  <string name="abc_activitychooserview_choose_application">Sélectionner une application</string>
+  <string name="abc_capital_off">DÉSACTIVÉ</string>
+  <string name="abc_capital_on">ACTIVÉ</string>
+  <string name="abc_menu_alt_shortcut_label">Alt+</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+  <string name="abc_menu_delete_shortcut_label">supprimer</string>
+  <string name="abc_menu_enter_shortcut_label">entrée</string>
+  <string name="abc_menu_function_shortcut_label">Fonction+</string>
+  <string name="abc_menu_meta_shortcut_label">Méta+</string>
+  <string name="abc_menu_shift_shortcut_label">Maj+</string>
+  <string name="abc_menu_space_shortcut_label">espace</string>
+  <string name="abc_menu_sym_shortcut_label">Sym+</string>
+  <string name="abc_prepend_shortcut_label">Menu+</string>
+  <string name="abc_search_hint">Rechercher…</string>
+  <string name="abc_searchview_description_clear">Effacer la requête</string>
+  <string name="abc_searchview_description_query">Requête de recherche</string>
+  <string name="abc_searchview_description_search">Rechercher</string>
+  <string name="abc_searchview_description_submit">Envoyer la requête</string>
+  <string name="abc_searchview_description_voice">Recherche vocale</string>
+  <string name="abc_shareactionprovider_share_with">Partager avec</string>
+  <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
+  <string name="abc_toolbar_collapse_description">Réduire</string>
   <string name="app_name">Sauvegarde Cloud</string>
   <string name="settings_backup">Paramètres système</string>
   <string name="deskclock_backup">Alarme</string>
@@ -9,6 +36,7 @@
   <string name="dir_date_format">HHmmss_ddMMyyyy</string>
   <string name="doing_calc_backup_data_size">Calculer la taille…</string>
   <string name="retry">Réessayer</string>
+  <string name="search_menu_title">Search</string>
   <string name="selected">Sélectionné</string>
   <string name="cloud_app_current_device">Appareil actuel</string>
   <string name="cloud_app_other_devices">Autres appareils</string>
@@ -51,6 +79,7 @@ Note: Les données des applications que vous avez installées ne seront pas sauv
   <string name="self_device_second_space">Second espace de ce téléphone</string>
   <string name="other_device_main_space">Premier espace</string>
   <string name="other_device_second_space">Deuxième espace</string>
+  <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
   <string name="process_whole_recovery">Restauration de \"%s\"</string>
   <string name="provision_background_restore_more_data">Restaurer plusieurs éléments en arrière-plan</string>
   <string name="size_unknown">Taille inconnue</string>
@@ -73,6 +102,7 @@ Note: Les données des applications que vous avez installées ne seront pas sauv
   <string name="total_space">Espace total: %s</string>
   <string name="managespace_delete_backup">Supprimer</string>
   <string name="error_unknown">Erreur</string>
+  <string name="expand_button_title">Advanced</string>
   <string name="backup_size">Taille: %s</string>
   <string name="device_delete_prompt">Supprimer la sauvegarde de %s ?</string>
   <string name="desktop_waiting">En attente</string>
@@ -125,6 +155,7 @@ Note: Les données des applications que vous avez installées ne seront pas sauv
   <string name="confirm_cancel_restore_positive">Continuer</string>
   <string name="confirm_cancel_restore_negative">Annuler</string>
   <string name="confirm_restore_title">Restaurer</string>
+  <string name="copy">Copy</string>
   <string name="confirm_restore_summary">"L'écran d'accueil sera relancé. Les applications sauvegardées seront téléchargées automatiquement."</string>
   <string name="confirm_restore">Restaurer</string>
   <string name="cloud_backup_have_data">Trouvé une sauvegarde dans Xiaomi Cloud</string>
@@ -167,11 +198,14 @@ Vérifiez vos paramètres réseau et réessayez."</string>
   <string name="authentication_failed">Impossible de vérifier le compte.</string>
   <string name="no_account">"Vous n'êtes pas connecté au compte Mi."</string>
   <string name="no_backup">Aucune sauvegarde dans Xiaomi Cloud.</string>
+  <string name="not_set">Not set</string>
   <string name="download_meta_failed">Impossible de charger les données.</string>
   <string name="home_restore_error">"Impossible de restaurer l'écran d'accueil"</string>
   <string name="get_device_id_error">"Impossible d'obtenir l'ID de l'appareil"</string>
   <string name="hint_restore_cross_space">"La disposition de l'écran d'accueil peut ne pas s'afficher correctement si vous transférez des éléments entre des espaces."</string>
   <string name="unsupported_home">Mettez à jour MIUI avec la dernière version.</string>
+  <string name="v7_preference_off">OFF</string>
+  <string name="v7_preference_on">ON</string>
   <string name="unselected">Non sélectionné</string>
   <string name="error_retry_later">"Impossible de terminer l'action. Attendez une minute ou deux et essayez à nouveau…"</string>
   <string name="try_continue">Appuyez pour continuer</string>

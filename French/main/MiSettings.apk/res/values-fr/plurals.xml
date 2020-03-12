@@ -4,6 +4,14 @@
         <item quantity="other">%d jours</item>
         <item quantity="one">%d jour</item>
     </plurals>
+    <plurals name="steady_on_screen_notification_summary">
+        <item quantity="other">"Vous avez utilisé votre appareil pendant %d minutes sans interruption"</item>
+        <item quantity="one">"Vous avez utilisé votre appareil pendant %d minute sans interruption"</item>
+    </plurals>
+    <plurals name="steady_on_screen_time_pick">
+        <item quantity="other">%d mins</item>
+        <item quantity="one">%d min</item>
+    </plurals>
     <plurals name="trend_from_last_several_day_equal">
         <item quantity="other">"Le temps d'utilisation aujourd'hui est égal à votre moyenne sur %d jours"</item>
         <item quantity="one">"Le temps d'utilisation aujourd'hui est égal à votre moyenne sur %d jour"</item>
