@@ -199,8 +199,8 @@
   <string name="back_ad">铺底广告%s</string>
   <string name="back_button_label">Retour</string>
   <string name="back_description">Retour</string>
-  <string name="block">Block</string>
-  <string name="block_ads_choice_block">Block</string>
+  <string name="block">Bloquer</string>
+  <string name="block_ads_choice_block">Bloquer</string>
   <string name="block_ads_choice_continue">Continuer</string>
   <string name="block_ads_message">Do you want to block messages from this website?</string>
   <string name="block_ads_title">Content may contain ads</string>
@@ -226,7 +226,7 @@
   <string name="bookmarks_search">Navigateur</string>
   <string name="bottom_bar_tabs_long_click_down_tip_txt">Swipe down to close</string>
   <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">This is the last tab</string>
-  <string name="bottom_bar_tabs_long_click_up_tip_txt">Swipe up to close</string>
+  <string name="bottom_bar_tabs_long_click_up_tip_txt">Glissez vers le haut pour fermer</string>
   <string name="browserFrameFormResubmitMessage">"The page you're trying to view contains data that has already been submitted. If you resend the data, previous actions (e.g. searches or purchases) will be repeated."</string>
   <string name="browser_default_setting_cancel">Annuler</string>
   <string name="browser_default_setting_confirm">OK</string>
@@ -251,7 +251,7 @@
   <string name="check_security_tip_user_agreement">User Agreement</string>
   <string name="clear_history">Clear history</string>
   <string name="close_ads_choice_no">Autoriser</string>
-  <string name="close_ads_choice_yes">Block</string>
+  <string name="close_ads_choice_yes">Bloquer</string>
   <string name="close_ads_message">"Block content from this website? You can view sites you've blocked in Settings &gt; Advanced &gt; Blocked sites."</string>
   <string name="close_ads_title">Block content?</string>
   <string name="close_all_tab_alert_message">Close all tabs currently open in browser?</string>
@@ -774,6 +774,7 @@ Remember that the files you download and the bookmarks you add will still be sav
   <string name="permission_notification">send notifications.</string>
   <string name="permission_unknown">Unknown Option</string>
   <string name="permissions_prompt_message">%s wants to</string>
+  <string name="person_description">我的</string>
   <string name="play_pause_video">Play or pause video</string>
   <string name="play_retry">Replay</string>
   <string name="play_video">Play video</string>
@@ -788,7 +789,7 @@ Remember that the files you download and the bookmarks you add will still be sav
   <string name="pref_accessibility_title">Accessibilité</string>
   <string name="pref_accessibility_url_shortcut_enter_summary">"Les combinaisons de lettres courantes peuvent être entrées en un clic dans la barre d'adresse"</string>
   <string name="pref_accessibility_url_shortcut_enter_title">"Entrée rapide d'URL"</string>
-  <string name="pref_adblock_counts">%d blocked</string>
+  <string name="pref_adblock_counts">%d bloqués</string>
   <string name="pref_adblock_title">Ad blocker</string>
   <string name="pref_advert_null">No items labelled as ads. Press and hold an item on the webpage to mark.</string>
   <string name="pref_auto_update_under_wifi">Automatic update package using Wi-Fi</string>
