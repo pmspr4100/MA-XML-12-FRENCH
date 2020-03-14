@@ -102,8 +102,8 @@
         <item quantity="one">semaines: %d heures</item>
     </plurals>
     <plurals name="usage_stats_remain_hour">
-        <item quantity="other">%s hrs</item>
-        <item quantity="one">%s hr</item>
+        <item quantity="other">"%s hrs "</item>
+        <item quantity="one">"%s hr "</item>
     </plurals>
     <plurals name="usage_stats_remain_miunte">
         <item quantity="other">%s mins</item>
@@ -114,8 +114,8 @@
         <item quantity="one">Weekdays: %d minute</item>
     </plurals>
     <plurals name="usagestats_device_notification_des_hour">
-        <item quantity="other">" hrs"</item>
-        <item quantity="one">" hr"</item>
+        <item quantity="other">" hrs "</item>
+        <item quantity="one">" hr "</item>
     </plurals>
     <plurals name="usagestats_device_notification_des_min">
         <item quantity="other">" mins"</item>
