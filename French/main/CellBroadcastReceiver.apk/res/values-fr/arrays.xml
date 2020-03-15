@@ -157,21 +157,21 @@
         <item>always</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
-        <item>None</item>
+        <item>Aucun</item>
         <item>480p</item>
-        <item>480p (secure)</item>
+        <item>480p (sécurisé)</item>
         <item>720p</item>
-        <item>720p (secure)</item>
+        <item>720p (sécurisé)</item>
         <item>1080p</item>
-        <item>1080p (secure)</item>
+        <item>1080p (sécurisé)</item>
         <item>4K</item>
-        <item>4K (secure)</item>
-        <item>4K (upscaled)</item>
-        <item>4K (upscaled, secure)</item>
-        <item>720p, 1080p (dual screen)</item>
+        <item>4K (sécurisé)</item>
+        <item>"4K (mise à l'échelle)"</item>
+        <item>"4K (mise à l'échelle, sécurisé)"</item>
+        <item>720p, 1080p (double écran)</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
-        <item>Off</item>
+        <item>Désactivé</item>
         <item>64K</item>
         <item>256K</item>
         <item>1M</item>
