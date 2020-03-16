@@ -53,12 +53,12 @@
         <item quantity="one">"Changer l'intervalle de répétition pour %d minute"</item>
     </plurals>
     <plurals name="snooze_duration_count">
-        <item quantity="other">Go off %1$s times</item>
-        <item quantity="one">Go off %1$s time</item>
+        <item quantity="other">Partir %1$s fois</item>
+        <item quantity="one">Partir %1$s fois</item>
     </plurals>
     <plurals name="snooze_duration_desc">
-        <item quantity="other">Toutes les %1$s min, go off %2$s times</item>
-        <item quantity="one">Every %1$s min, go off %2$s time</item>
+        <item quantity="other">Toutes les %1$s min, partez %2$s fois</item>
+        <item quantity="one">Toutes les %1$s min, partez %2$s fois</item>
     </plurals>
     <plurals name="snooze_duration_min">
         <item quantity="other">Toutes les %1$s mins</item>
