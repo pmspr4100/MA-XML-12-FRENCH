@@ -56,6 +56,8 @@
   <string name="HIPS_Perm_add_voicemail_Desc">ajoute des messages vocaux</string>
   <string name="HIPS_Perm_background_start_activity">"Afficher les fenêtres contextuelles lors de l'exécution en arrière-plan"</string>
   <string name="HIPS_Perm_background_start_activity_Desc">"afficher les fenêtres contextuelles lors de l'exécution en arrière-plan"</string>
+  <string name="HIPS_Perm_clipboard">Clipboard</string>
+  <string name="HIPS_Perm_clipboard_Desc">Access and change content on clipboard</string>
   <string name="HIPS_Perm_deamon_notification">Notification permanente</string>
   <string name="HIPS_Perm_deamon_notification_Desc">afficher les notifications permanentes</string>
   <string name="HIPS_Perm_get_accounts">"Accéder à des comptes sur l'appareil"</string>
@@ -92,10 +94,11 @@
   <string name="grant_dialog_button_allow_always">Autoriser tout le temps</string>
   <string name="grant_dialog_button_allow_background">Autoriser tout le temps</string>
   <string name="grant_dialog_button_allow_foreground">"Autoriser uniquement lors de l'utilisation de l'application"</string>
+  <string name="grant_dialog_button_allow_onetime">Allow this time</string>
   <string name="grant_dialog_button_deny">Refuser</string>
   <string name="grant_dialog_button_deny_and_dont_ask_again">Refuser et ne plus demander</string>
   <string name="grant_dialog_button_deny_background">"Seulement en utilisant l'application"</string>
-  <string name="grant_dialog_button_deny_background_and_dont_ask_again">Refuser et ne plus demander</string>
+  <string name="grant_dialog_button_deny_background_and_dont_ask_again">"Autoriser uniquement lors de l'utilisation de l'application et ne plus demander"</string>
   <string name="location_settings">Paramètres de localisation</string>
   <string name="location_warning">"%1$s est un fournisseur de services de localisation pour cet appareil. L'accès à la localisation peut être modifié à partir des paramètres de localisation."</string>
   <string name="never_ask_again">Ne plus demander après avoir restreint</string>
