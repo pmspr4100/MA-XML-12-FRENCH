@@ -881,6 +881,10 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
   <string name="app_behavior_desc_deny_once">Restricted at %1$s</string>
   <string name="app_behavior_door">"Comportement de l'application"</string>
   <string name="app_behavior_header_time">dd MMMM</string>
+  <string name="app_behavior_key_audio">录音</string>
+  <string name="app_behavior_key_camera">拍照</string>
+  <string name="app_behavior_key_location">定位</string>
+  <string name="app_behavior_key_protect">隐私信息保护</string>
   <string name="app_behavior_list_load_more">Chargement…</string>
   <string name="app_behavior_location">%1s accessed your location</string>
   <string name="app_behavior_location_bg">%1s accessed your location in the background</string>
@@ -895,6 +899,12 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
   <string name="app_behavior_monitor_tips_key">Notifications sur les actions sensibles</string>
   <string name="app_behavior_monitor_tips_summary">"Vous pouvez recevoir des notifications lorsque des applications enregistrent du son, accèdent à votre position ou effectuent d'autres actions sensibles en arrière-plan."</string>
   <string name="app_behavior_no_recorder">Impossible de trouver les résultats</string>
+  <string name="app_behavior_notification_audio_now_one">\"%1s\"正在录音</string>
+  <string name="app_behavior_notification_audio_now_two">\"%1s\"正在录音</string>
+  <string name="app_behavior_notification_camera_one">\"%1s\"正在拍照</string>
+  <string name="app_behavior_notification_camera_two">\"%1s\"正在拍照</string>
+  <string name="app_behavior_notification_location_one">\"%1s\"正在获取您的位置信息</string>
+  <string name="app_behavior_notification_location_two">\"%1s\"正在获取您的位置信息</string>
   <string name="app_behavior_notification_title_calllog_read">%1s accessed call history in the background</string>
   <string name="app_behavior_notification_title_calllog_write">%1s edited call history in the background</string>
   <string name="app_behavior_notification_title_clipboard_read">%1s accessed clipboard in the background</string>
@@ -924,14 +934,27 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
   <string name="app_behavior_search">Recherche</string>
   <string name="app_behavior_sensor">%1s accessed sensor data</string>
   <string name="app_behavior_sensor_single">This app accessed sensor data</string>
+  <string name="app_behavior_settings_category_perm">权限使用提醒</string>
+  <string name="app_behavior_settings_category_privacy">隐私信息保护</string>
+  <string name="app_behavior_settings_perm_tips">当应用使用定位、录音及拍照权限时，状态栏将会显示对应的权限提示</string>
+  <string name="app_behavior_settings_privacy_tips">若应用在后台读取或写入您的联系人、通话记录等信息时，将会发送通知提醒您</string>
   <string name="app_behavior_sms_read">%1s read SMS</string>
   <string name="app_behavior_sms_read_single">This app read SMS</string>
   <string name="app_behavior_sms_send">%1s sent SMS</string>
   <string name="app_behavior_sms_send_single">This app sent SMS</string>
+  <string name="app_behavior_start_from_app_single">被%1s启动</string>
+  <string name="app_behavior_start_from_launcher">%1s从桌面图标启动</string>
+  <string name="app_behavior_start_from_launcher_single">从桌面图标启动</string>
+  <string name="app_behavior_start_from_notification">%1s从通知启动</string>
+  <string name="app_behavior_start_from_notification_single">从通知启动</string>
+  <string name="app_behavior_start_from_recent">%1s从最近任务启动</string>
+  <string name="app_behavior_start_from_recent_single">从最近任务启动</string>
   <string name="app_behavior_storage">%1s accessed or save files</string>
   <string name="app_behavior_storage_bg">%1s accessed or save files in the background</string>
   <string name="app_behavior_storage_bg_single">This app accessed or saved files in the background</string>
   <string name="app_behavior_storage_single">This app accessed or saved files</string>
+  <string name="app_behavior_time_today">今天</string>
+  <string name="app_behavior_time_yesterday">昨天</string>
   <string name="app_behavior_wakepath" formatted="false">%1s launched %2s</string>
   <string name="app_behavior_wakepath_single">This app launched %2s</string>
   <string name="app_behavior_warning_audio_title">%1s is recording audio in the background</string>
@@ -2043,6 +2066,7 @@ medical card"</string>
   <string name="cmcc_app_check_dialog_positive">Redémarrer maintenant</string>
   <string name="cmcc_app_check_dialog_negative">Plus tard</string>
   <string name="app_not_installed_toast">"L'application n'est pas installée sur votre appareil."</string>
+  <string name="app_perm_manager_service">权限管理服务</string>
   <string name="antivirus_choose_engine_settings">Paramètres des bases de données virales</string>
   <string name="antivirus_choose_engine_title">Bases de données virales</string>
   <string name="antivirus_choose_engine_dialog_title">Choisissez les bases de données virales</string>
@@ -2151,6 +2175,7 @@ medical card"</string>
   <string name="preferred_app_entries_email">E-mail</string>
   <string name="notify_channel_optimize">Notifications de sécurité</string>
   <string name="notify_channel_mipush">Messages push de sécurité</string>
+  <string name="notify_channel_name_behavior">行为记录</string>
   <string name="card_main_applock_title">"Verrouillage d'application"</string>
   <string name="card_main_applock_summary">Protégez les applications sélectionnées avec un mot de passe.</string>
   <string name="card_main_applock_action">Activer</string>

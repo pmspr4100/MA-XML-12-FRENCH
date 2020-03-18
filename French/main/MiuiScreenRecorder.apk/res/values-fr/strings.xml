@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
+  <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
+  <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
+  <string name="abc_action_mode_done">Terminer</string>
+  <string name="abc_activity_chooser_view_see_all">Tout afficher</string>
+  <string name="abc_activitychooserview_choose_application">Sélectionner une application</string>
+  <string name="abc_capital_off">DÉSACTIVÉ</string>
+  <string name="abc_capital_on">ACTIVÉ</string>
+  <string name="abc_menu_alt_shortcut_label">Alt+</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+  <string name="abc_menu_delete_shortcut_label">supprimer</string>
+  <string name="abc_menu_enter_shortcut_label">entrée</string>
+  <string name="abc_menu_function_shortcut_label">Fonction+</string>
+  <string name="abc_menu_meta_shortcut_label">Méta+</string>
+  <string name="abc_menu_shift_shortcut_label">Maj+</string>
+  <string name="abc_menu_space_shortcut_label">espace</string>
+  <string name="abc_menu_sym_shortcut_label">Sym+</string>
+  <string name="abc_prepend_shortcut_label">Menu+</string>
+  <string name="abc_search_hint">Rechercher…</string>
+  <string name="abc_searchview_description_clear">Effacer la requête</string>
+  <string name="abc_searchview_description_query">Requête de recherche</string>
+  <string name="abc_searchview_description_search">Rechercher</string>
+  <string name="abc_searchview_description_submit">Envoyer la requête</string>
+  <string name="abc_searchview_description_voice">Recherche vocale</string>
+  <string name="abc_shareactionprovider_share_with">Partager avec</string>
+  <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
+  <string name="abc_toolbar_collapse_description">Réduire</string>
   <string name="app_name">"Enregistreur d'écran"</string>
   <string name="app_notification_info">"Enregistreur d'écran fonctionne en arrière-plan"</string>
   <string name="app_notification_title">"Enregistreur d'écran"</string>
@@ -17,10 +44,12 @@
   <string name="cannot_change_parames">"Impossible de modifier les paramètres pendant l'enregistrement"</string>
   <string name="cannot_record">"Impossible d'enregistrer, réessayez plus tard."</string>
   <string name="close_screen_record">Enregistrement arrêté</string>
+  <string name="copy">Copie</string>
   <string name="description_content">"Enregistreur d'écran fournit des capacités d'enregistrement niveau système. Vous ne serez plus en mesure d'utiliser Enregistreur d'écran si vous continuez. Confirmer pour continuer."</string>
   <string name="description_title">"À propos de l'Enregistreur d'écran"</string>
   <string name="deselect_all">Tout déselectionner</string>
   <string name="error_open_file_failed_no_app_found">Impossible de trouver une application pour ouvrir ce fichier</string>
+  <string name="expand_button_title">Avancé</string>
   <string name="first_using_mic_dialog_message">"L'enregistreur d'écran a besoin d'accéder à votre microphone pour enregistrer de l'audio. Autoriser ?"</string>
   <string name="first_using_mic_dialog_title">Permissions requise</string>
   <string name="fixed_frame_rate">"Fréquence d'images fixe"</string>
@@ -51,6 +80,7 @@
   <string name="no_recorder_info">Aucune vidéo</string>
   <string name="no_recorder_info2">"Appuyez sur le bouton pour lancer l'enregistrement"</string>
   <string name="no_sound">Désactiver le son</string>
+  <string name="not_set">Non défini</string>
   <string name="operation_delete">Supprimer</string>
   <string name="operation_send">Envoyer</string>
   <string name="permission_intro_microphone">Pour enregistrer le son lorsque la source sonore est réglée sur le microphone</string>
@@ -65,6 +95,7 @@
   <string name="screen_orientation_summary">Orientation des vidéos enregistrées</string>
   <string name="screen_record_option">"Options d'enregistrement"</string>
   <string name="screen_record_params">"Paramètres d'enregistrement"</string>
+  <string name="search_menu_title">Recherche</string>
   <string name="select_all">Tout sélectionner</string>
   <string name="settings">Paramètres</string>
   <string name="show_hard_key">Visualiser les boutons de navigation</string>
@@ -76,6 +107,7 @@
   <string name="size_kilobyte">" Ko"</string>
   <string name="size_megabyte">" Mo"</string>
   <string name="permission_microphone_desc">"Utilisation du microphone comme source audio pour les enregistrements d'écran"</string>
+  <string name="preference_copied">\"%1$s\" copié dans le presse-papier.</string>
   <string name="settings_other">Autre</string>
   <string name="settings_privacy">Politique de confidentialité</string>
   <string name="sound_source">Source sonore</string>
@@ -92,5 +124,7 @@
   <string name="unchecked">Non sélectionné</string>
   <string name="using_record_confirm_cancel">Restreindre</string>
   <string name="using_record_confirm_ok">Autoriser</string>
+  <string name="v7_preference_off">DÉSACTIVÉ</string>
+  <string name="v7_preference_on">ACTIVÉ</string>
   <string name="warning_recording_when_a2dp_connect">Votre appareil ne prend pas en charge les sons du système denregistrement pendant lutilisation du casque Bluetooth.</string>
 </resources>

@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
+  <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
+  <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
+  <string name="abc_action_mode_done">Terminer</string>
+  <string name="abc_activity_chooser_view_see_all">Tout afficher</string>
+  <string name="abc_activitychooserview_choose_application">Sélectionner une application</string>
+  <string name="abc_capital_off">DÉSACTIVÉ</string>
+  <string name="abc_capital_on">ACTIVÉ</string>
+  <string name="abc_menu_alt_shortcut_label">Alt+</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+  <string name="abc_menu_delete_shortcut_label">supprimer</string>
+  <string name="abc_menu_enter_shortcut_label">entrée</string>
+  <string name="abc_menu_function_shortcut_label">Fonction+</string>
+  <string name="abc_menu_meta_shortcut_label">Méta+</string>
+  <string name="abc_menu_shift_shortcut_label">Maj+</string>
+  <string name="abc_menu_space_shortcut_label">espace</string>
+  <string name="abc_menu_sym_shortcut_label">Sym+</string>
+  <string name="abc_prepend_shortcut_label">Menu+</string>
+  <string name="abc_search_hint">Rechercher…</string>
+  <string name="abc_searchview_description_clear">Effacer la requête</string>
+  <string name="abc_searchview_description_query">Requête de recherche</string>
+  <string name="abc_searchview_description_search">Rechercher</string>
+  <string name="abc_searchview_description_submit">Envoyer la requête</string>
+  <string name="abc_searchview_description_voice">Recherche vocale</string>
+  <string name="abc_shareactionprovider_share_with">Partager avec</string>
+  <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
+  <string name="abc_toolbar_collapse_description">Réduire</string>
   <string name="action_folder_description">Afficher les dossiers</string>
   <string name="action_mode_switcher_grid_description">Affichage grille</string>
   <string name="action_mode_switcher_list_description">Affichage liste</string>
@@ -22,6 +49,7 @@
   <string name="app_name">Notes</string>
   <string name="confirm_cancel">"Pas d'accord"</string>
   <string name="confirm_ok">Accepter</string>
+  <string name="copy">Copie</string>
   <string name="permission_get_account_desc">Synchronisation des notes avec le cloud</string>
   <string name="permission_microphone_desc">Prendre des notes vocales</string>
   <string name="permission_network_for_cloud_desc">"Pour synchroniser les notes avec le cloud, vous devez vous connecter à internet. Les données mobiles peuvent être utilisées pour synchroniser des éléments. Se connecter maintenant ?</string>
@@ -47,6 +75,8 @@
   <string name="cta_dialog_message">"Notes nécessite des autorisations pour se connecter à Internet, enregistrer de l'audio et accéder à vos contacts pour fonctionner normalement. Autoriser ?"</string>
   <string name="cta_dialog_title">Permissions requise</string>
   <string name="cta_reminder">"Notes nécessite des autorisations pour se connecter à Internet, enregistrer de l'audio et accéder à vos contacts pour fonctionner normalement. Autoriser ?"</string>
+  <string name="data_empty_note">Pas encore de notes ici</string>
+  <string name="data_empty_todo">Aucune tâche ici encore</string>
   <string name="date_calculate_today">0 jours</string>
   <string name="date_time_picker_alarm_reminder">Alarme</string>
   <string name="date_time_picker_dialog_title">"Définir la date et l'heure"</string>
@@ -93,6 +123,7 @@
   <string name="error_unsupport_content">Cette note contient des contenus non supportés, appuyer ici pour mettre à jour</string>
   <string name="error_widget_exist_for_send_to_desktop">Cette note existe déjà sur le bureau</string>
   <string name="exceed_todo_text_limitation">La description de la tâche est trop longue.</string>
+  <string name="expand_button_title">Avancé</string>
   <string name="first_enter_custom_folder_hint">Vous pouvez renommer ou supprimer des dossiers ici</string>
   <string name="folder_exist">Un dossier avec le même nom existe déjà</string>
   <string name="folder_operation_delete">Supprimer</string>
@@ -138,6 +169,7 @@
   <string name="new_audio_create_guide_tip">Appuyez longuement pour créer une note vocale</string>
   <string name="new_audio_create_talkback_des">"Appuyez pour créer une note de texte. Appuyez longuement pour créer une note vocale. Relâchez le bouton pour arrêter l'enregistrement et créer la note, ou faites glisser vers le haut pour annuler."</string>
   <string name="not_now">Pas maintenant</string>
+  <string name="not_set">Non défini</string>
   <string name="note_description_content">"L'application Notes est un bon outil pour enregistrer vos idées. Elle a intégré les rappels et synchronise vos éléments dans le Cloud afin de vous permettre de les accéder en tout lieu, à n'importe quel moment. Assurez-vous de pouvoir vous passer de ces fonctionnalités avant de supprimer l'application."</string>
   <string name="note_description_title">À propos de Notes</string>
   <string name="note_link_email">Rédiger un e-mail</string>
@@ -168,6 +200,7 @@
   <string name="pref_title_skip_confirm_for_quick_delete">Supprimer en utilisant un geste</string>
   <string name="pref_title_todo_float_mode">Utiliser la boîte à outils des tâches</string>
   <string name="pref_title_todo_shorcut">Boîte à outils</string>
+  <string name="preference_copied">\"%1$s\" copié dans le presse-papier.</string>
   <string name="recover_notes_hint">Une erreur est survenue, rendez-vous sur i.mi.com pour restaurer vos notes.</string>
   <string name="redo">Refaire</string>
   <string name="refuse_to_open_as_pic_because_of_loading">"Patientez jusqu'à ce que cette note soit chargée et réessayez."</string>
@@ -179,6 +212,9 @@
   <string name="repeat_mode_month">Chaque mois</string>
   <string name="repeat_mode_normal_workday">Lundi à vendredi</string>
   <string name="repeat_mode_set_item_day">Tous les jours</string>
+  <string name="repeat_mode_set_item_month">每月（%s）</string>
+  <string name="repeat_mode_set_item_month_detail">每月%s</string>
+  <string name="repeat_mode_set_item_month_detail_day">d日</string>
   <string name="repeat_mode_set_item_month_detail_lastday">Dernier jour de chaque mois</string>
   <string name="repeat_mode_set_item_month_global">Tous les mois (même date)</string>
   <string name="repeat_mode_set_item_none">Jamais</string>
@@ -206,6 +242,7 @@
   <string name="search_hint">Rechercher des notes</string>
   <string name="search_keyword_notes">Notes;Mémo</string>
   <string name="search_label">Recherche…</string>
+  <string name="search_menu_title">Recherche</string>
   <string name="search_path_notes">Applications système/Notes</string>
   <string name="search_setting_description">Rechercher du texte dans vos notes</string>
   <string name="select_account_prompt">Synchroniser les notes</string>
@@ -336,6 +373,8 @@ Autorisez Notes à lire le statut et lidentité du téléphone."</string>
   <string name="unclassfied_folder_name">Sans catégorie</string>
   <string name="undo">Annuler</string>
   <string name="unknown_source">Source inconnue</string>
+  <string name="v7_preference_off">DÉSACTIVÉ</string>
+  <string name="v7_preference_on">ACTIVÉ</string>
   <string name="widget_content_loading">Chargement…</string>
   <string name="widget_havenot_content">Appuyer pour créer une note. Maintenir le widget pour redimensionner.</string>
 </resources>
