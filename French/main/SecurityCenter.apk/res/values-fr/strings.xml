@@ -953,8 +953,8 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
   <string name="app_behavior_storage_bg">%1s accessed or saved files in the background</string>
   <string name="app_behavior_storage_bg_single">This app accessed or saved files in the background</string>
   <string name="app_behavior_storage_single">This app accessed or saved files</string>
-  <string name="app_behavior_time_today">today</string>
-  <string name="app_behavior_time_yesterday">yesterday</string>
+  <string name="app_behavior_time_today">"aujourd'hui"</string>
+  <string name="app_behavior_time_yesterday">hier</string>
   <string name="app_behavior_wakepath" formatted="false">%1s launched %2s</string>
   <string name="app_behavior_wakepath_single">This app launched %2s</string>
   <string name="app_behavior_warning_audio_title">%1s is recording audio in the background</string>
@@ -2175,7 +2175,7 @@ medical card"</string>
   <string name="preferred_app_entries_email">E-mail</string>
   <string name="notify_channel_optimize">Notifications de sécurité</string>
   <string name="notify_channel_mipush">Messages push de sécurité</string>
-  <string name="notify_channel_name_behavior">行为记录</string>
+  <string name="notify_channel_name_behavior">"Comportement de l'application"</string>
   <string name="card_main_applock_title">"Verrouillage d'application"</string>
   <string name="card_main_applock_summary">Protégez les applications sélectionnées avec un mot de passe.</string>
   <string name="card_main_applock_action">Activer</string>
