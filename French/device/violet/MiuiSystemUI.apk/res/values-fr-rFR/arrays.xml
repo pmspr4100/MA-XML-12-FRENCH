@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="animator_duration_scale_entries">
-      <item>Animation off</item>
-      <item>Animation scale .5x</item>
-      <item>Animation scale 1x</item>
-      <item>Animation scale 1.5x</item>
-      <item>Animation scale 2x</item>
-      <item>Animation scale 5x</item>
-      <item>Animation scale 10x</item>
+      <item>Animation désactivée</item>
+      <item>"Échelle d'animation .5x"</item>
+      <item>"Échelle d'animation 1x"</item>
+      <item>"Échelle d'animation 1.5x"</item>
+      <item>"Échelle d'animation 2x"</item>
+      <item>"Échelle d'animation 5x"</item>
+      <item>"Échelle d'animation 10x"</item>
     </string-array>
     <string-array name="app_process_limit_entries">
       <item>Limite standard</item>
@@ -225,7 +225,7 @@
       <item>3840x2160/320</item>
       <item>3840x2160/320,sécurisé</item>
       <item>1920x1080/320|3840x2160/640</item>
-      <item>1920x1080/320|3840x2160/640,secure</item>
+      <item>1920x1080/320|3840x2160/640,sécurisé</item>
       <item>1280x720/213;1920x1080/320</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
