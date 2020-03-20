@@ -261,8 +261,8 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
       <item quantity="one">"%s application n'est pas protégée"</item>
     </plurals>
     <plurals name="menu_text_antivirus_virus_ex">
-      <item quantity="other">%d apps contain viruses or malware</item>
-      <item quantity="one">%d app contains viruses or malware</item>
+      <item quantity="other">%d applications contiennent des virus ou des malwares</item>
+      <item quantity="one">%d application contient des virus ou des malwares</item>
     </plurals>
     <plurals name="menu_text_antivirus_day_ex">
       <item quantity="other">"N'a pas analysé l'appareil depuis %d jours"</item>
@@ -493,19 +493,19 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
       <item quantity="one">"Vous serez notifié des actions sensibles effectuées par l'application %1$d"</item>
     </plurals>
     <plurals name="app_behavior_notification_audio_more">
-      <item quantity="other">>%2$d app including %1$1s are recording audio</item>
-      <item quantity="one">%2$d app including %1$1s is recording audio</item>
+      <item quantity="other">"%2$d applications incluant %1$1s enregistrent l'audio"</item>
+      <item quantity="one">"%2$d application incluant %1$1s enregistre l'audio"</item>
     </plurals>
     <plurals name="app_behavior_notification_camera_more">
-      <item quantity="other">%2$d apps including %1$1s are taking photos</item>
-      <item quantity="one">%2$d app including %1$1s is taking photos</item>
+      <item quantity="other">%2$d applications incluant %1$1s prennent des photos</item>
+      <item quantity="one">%2$d application incluant %1$1s prend des photos</item>
     </plurals>
     <plurals name="app_behavior_notification_location_more">
-      <item quantity="other">%2$d apps including %1$1s is accessing your location</item>
-      <item quantity="one">%2$d app including %1$1s is accessing your location</item>
+      <item quantity="other">%2$d applications incluant %1$1s accèdent à votre emplacement</item>
+      <item quantity="one">%2$d application incluant %1$1s accède à votre emplacement</item>
     </plurals>
     <plurals name="app_behavior_privacy_manager_off">
       <item quantity="other">Vous ne serez pas notifié des actions sensibles effectuées par les applications %1$d</item>
-      <item quantity="one">"Vous ne serez pas notifié des actions sensibles effectuées par l'applications %1$d"</item>
+      <item quantity="one">"Vous ne serez pas notifié des actions sensibles effectuées par l'application %1$d"</item>
     </plurals>
 </resources>
