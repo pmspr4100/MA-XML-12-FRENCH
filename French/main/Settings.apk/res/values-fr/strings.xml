@@ -3767,10 +3767,10 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
   <string name="location_mode_screen_title">Mode de localisation</string>
   <string name="location_mode_sensors_only_description">Utiliser le GPS pour déterminer la localisation</string>
   <string name="location_mode_sensors_only_title">Appareil uniquement</string>
-  <string name="location_neighborhood_level">Laisser les applications utiliser les données comme le Wi-Fi et les données réseaux pour déterminer votre position</string>
+  <string name="location_neighborhood_level">Laisser les applications utiliser les données comme le Wi-Fi et les données réseaux pour déterminer votre localisation</string>
   <string name="location_neighborhood_level_wifi">Localisation déterminée par Wi-Fi</string>
   <string name="location_network_based">Wi-Fi et réseau cellulaires</string>
-  <string name="location_no_recent_apps">"Aucune demande d'accès à votre position n'a récemment été envoyée pour une application."</string>
+  <string name="location_no_recent_apps">"Aucune demande d'accès à votre localisation n'a récemment été envoyée pour une application."</string>
   <string name="location_off_summary">Désactivé</string>
   <string name="location_on_summary">Activé</string>
   <string name="location_recent_location_requests_see_all">Tout afficher</string>
@@ -3779,11 +3779,11 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
   <string name="location_scanning_screen_title">Recherche</string>
   <string name="location_scanning_wifi_always_scanning_description">"Autoriser les applications et les services à rechercher des réseaux Wi-Fi à tout moment, même si le Wi-Fi est désactivé. Cette autorisation peut permettre, par exemple, d'améliorer les fonctionnalités et les services basés sur la localisation."</string>
   <string name="location_scanning_wifi_always_scanning_title">Recherche Wi-Fi</string>
-  <string name="location_settings_master_switch_title">Utiliser ma position</string>
-  <string name="location_settings_title">Paramètres de localisation</string>
+  <string name="location_settings_master_switch_title">Utiliser ma localisation</string>
+  <string name="location_settings_title">Localisation</string>
   <string name="location_sources_heading">Sources de localisation</string>
   <string name="location_street_level">Autoriser les applications à utiliser le GPS sur votre téléphone pour vous localiser</string>
-  <string name="location_title">Ma position</string>
+  <string name="location_title">Ma localisation</string>
   <string name="lock_after_timeout">Verrouiller automatiquement</string>
   <string name="lock_after_timeout_summary">Après %1$s de veille</string>
   <string name="lock_after_timeout_summary_with_exception">"%1$s après la mise en veille, sauf lorsque l'appareil est maintenu en activité par %2$s"</string>

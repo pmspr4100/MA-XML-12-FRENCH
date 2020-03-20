@@ -57,7 +57,7 @@
   <string name="HIPS_Perm_background_start_activity">"Afficher les fenêtres contextuelles lors de l'exécution en arrière-plan"</string>
   <string name="HIPS_Perm_background_start_activity_Desc">"afficher les fenêtres contextuelles lors de l'exécution en arrière-plan"</string>
   <string name="HIPS_Perm_clipboard">Presse-papiers</string>
-  <string name="HIPS_Perm_clipboard_Desc">accéder au contenu du presse-papiers et le modifier</string>
+  <string name="HIPS_Perm_clipboard_Desc">"Autoriser l'application à accéder et à ajouter des éléments du presse-papiers"</string>
   <string name="HIPS_Perm_deamon_notification">Notification permanente</string>
   <string name="HIPS_Perm_deamon_notification_Desc">afficher les notifications permanentes</string>
   <string name="HIPS_Perm_get_accounts">"Accéder à des comptes sur l'appareil"</string>
@@ -85,7 +85,7 @@
   <string name="HIPS_SecurityPrompt_Reject_Once">Refuser cette fois (%d)</string>
   <string name="HIPS_SecurityPrompt_Title">%1$s essaie de %2$s</string>
   <string name="Su_Package_Forbidden2">"n'a pas accès au Root."</string>
-  <string name="app_name">"Gestionnaire de permissions"</string>
+  <string name="app_name">Permissions</string>
   <string name="background_location_access_reminder_notification_content">Cette application peut toujours accéder à votre position. Appuyez pour changer.</string>
   <string name="background_location_access_reminder_notification_title">%s utilise votre position</string>
   <string name="current_permission_template">%1$s de %2$s</string>
@@ -94,11 +94,11 @@
   <string name="grant_dialog_button_allow_always">Autoriser tout le temps</string>
   <string name="grant_dialog_button_allow_background">Autoriser tout le temps</string>
   <string name="grant_dialog_button_allow_foreground">"Autoriser uniquement lors de l'utilisation de l'application"</string>
-  <string name="grant_dialog_button_allow_onetime">Allow this time</string>
+  <string name="grant_dialog_button_allow_onetime">Une fois que</string>
   <string name="grant_dialog_button_deny">Refuser</string>
   <string name="grant_dialog_button_deny_and_dont_ask_again">Refuser et ne plus demander</string>
   <string name="grant_dialog_button_deny_background">"Seulement en utilisant l'application"</string>
-  <string name="grant_dialog_button_deny_background_and_dont_ask_again">"Autoriser uniquement lors de l'utilisation de l'application et ne plus demander"</string>
+  <string name="grant_dialog_button_deny_background_and_dont_ask_again">"Toujours, mais uniquement lors de l'utilisation de l'application"</string>
   <string name="location_settings">Paramètres de localisation</string>
   <string name="location_warning">"%1$s est un fournisseur de services de localisation pour cet appareil. L'accès à la localisation peut être modifié à partir des paramètres de localisation."</string>
   <string name="never_ask_again">Ne plus demander après avoir restreint</string>
