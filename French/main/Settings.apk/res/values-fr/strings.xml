@@ -1368,7 +1368,7 @@ Les sauvegardes sont stockées dans le Cloud Xiaomi et sont accessibles avec un 
   <string name="battery_info_voltage_units">mV</string>
   <string name="battery_last_full_charge">Dernière charge complète</string>
   <string name="battery_level_title">Niveau de la batterie</string>
-  <string name="battery_light_summary">"Activer le voyant de notification lorsque l'appareil est en charge"</string>
+  <string name="battery_light_summary">"Allumer le voyant de notification lorsque l'appareil est en charge"</string>
   <string name="battery_light_title">Allumer lors de la charge</string>
   <string name="battery_manager_off">Désactivé</string>
   <string name="battery_manager_on">Activé/Détection des applications qui déchargent la batterie</string>
@@ -2092,7 +2092,7 @@ Vous pouvez désactiver cette fonctionnalité dans les paramètres > Bluetooth >
   <string name="condition_device_vibrate_title">Téléphone réglé sur vibreur</string>
   <string name="condition_expand_hide">Masquer</string>
   <string name="condition_expand_show">Afficher</string>
-  <string name="condition_hotspot_summary">"Le point d'accès Wi-Fi mobile \"%1$s\" est actif. Le Wi-Fi est désactivé pour cet appareil."</string>
+  <string name="condition_hotspot_summary">"Le point d'accès Wi-Fi \"%1$s\" est actif. Le Wi-Fi est désactivé pour cet appareil."</string>
   <string name="condition_hotspot_title">"Le point d'accès est activé"</string>
   <string name="condition_night_display_summary">"L'écran prend une teinte rouge ambré qui peut vous aider à vous endormir."</string>
   <string name="condition_night_display_title">Éclairage nocturne activé</string>
@@ -7655,7 +7655,7 @@ Toucher "<b>Retour</b> pour se connecter à un autre réseau Wi-Fi.</string>
   <string name="wifi_switch_to_gsm_message">Connexion Wi-Fi perdue. Utiliser la connexion de données cellulaire ?</string>
   <string name="wifi_switch_to_gsm_title">Utiliser le GSM ?</string>
   <string name="wifi_tap_to_sign_in">Appuyez ici pour vous connecter au réseau</string>
-  <string name="wifi_tether_checkbox_text">"Point d'accès Wi-Fi mobile"</string>
+  <string name="wifi_tether_checkbox_text">"Point d'accès Wi-Fi"</string>
   <string name="wifi_tether_configure_ap_text">"Configurer le point d'accès"</string>
   <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
   <string name="wifi_tether_configure_subtext">"Point d'accès %1$s %2$s"</string>

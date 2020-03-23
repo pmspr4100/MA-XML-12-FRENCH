@@ -1077,6 +1077,14 @@
       <item>"Ce mois-ci "</item>
       <item>"Le mois dernier "</item>
     </string-array>
+	<string-array name="select_logd_system_levels">
+        <item>Désactiver</item>
+        <item>Erreur</item>
+        <item>Attention</item>
+        <item>Information</item>
+        <item>Déboguer</item>
+        <item>Verbeux</item>
+    </string-array>
     <string-array name="date_of_traffic_prefix">
       <item>"Aujourd'hui: "</item>
       <item>"Ce mois-ci: "</item>
@@ -1442,9 +1450,9 @@ Note : seulement pour Ubuntu 8.04 !"</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
       <item>Désactivé</item>
-      <item>64K</item>
-      <item>256K</item>
-      <item>1M</item>
+      <item>64 Ko</item>
+      <item>256 Ko</item>
+      <item>1 Mo</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
       <item>Désactivé</item>
@@ -1456,11 +1464,11 @@ Note : seulement pour Ubuntu 8.04 !"</item>
     </string-array>
     <string-array name="select_logd_size_titles">
       <item>Désactivé</item>
-      <item>64K</item>
-      <item>256K</item>
-      <item>1M</item>
-      <item>4M</item>
-      <item>16M</item>
+      <item>64 Ko</item>
+      <item>256 Ko</item>
+      <item>1 Mo</item>
+      <item>4 Mo</item>
+      <item>16 Mo</item>
     </string-array>
     <string-array name="select_logd_system_levels">
       <item>Désactivé</item>
