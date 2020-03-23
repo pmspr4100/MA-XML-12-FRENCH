@@ -1077,14 +1077,6 @@
       <item>"Ce mois-ci "</item>
       <item>"Le mois dernier "</item>
     </string-array>
-	<string-array name="select_logd_system_levels">
-        <item>Désactiver</item>
-        <item>Erreur</item>
-        <item>Attention</item>
-        <item>Information</item>
-        <item>Déboguer</item>
-        <item>Verbeux</item>
-    </string-array>
     <string-array name="date_of_traffic_prefix">
       <item>"Aujourd'hui: "</item>
       <item>"Ce mois-ci: "</item>
@@ -1470,13 +1462,13 @@ Note : seulement pour Ubuntu 8.04 !"</item>
       <item>4 Mo</item>
       <item>16 Mo</item>
     </string-array>
-    <string-array name="select_logd_system_levels">
-      <item>Désactivé</item>
-      <item>Error</item>
-      <item>Warn</item>
-      <item>Info</item>
-      <item>Debug</item>
-      <item>Verbose</item>
+	<string-array name="select_logd_system_levels">
+      <item>Désactiver</item>
+      <item>Erreur</item>
+      <item>Attention</item>
+      <item>Information</item>
+      <item>Déboguer</item>
+      <item>Verbeux</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
       <item>Désactivé</item>
