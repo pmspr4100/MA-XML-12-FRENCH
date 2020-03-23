@@ -138,7 +138,7 @@
   <string name="class_schedule_no_data_primary">暂无课程</string>
   <string name="class_schedule_no_data_secondary">点击查看或编辑课表</string>
   <string name="class_schedule_off_primary">开始使用课程表</string>
-  <string name="class_schedule_off_secondary">快速创建、查看课程表，由小爱同学提供</string>
+  <string name="class_schedule_off_secondary">快捷录入、查看课程表</string>
   <string name="class_schedule_on_card_title">第%1$d周%2$s</string>
   <string name="class_schedule_title">课程表</string>
   <string name="class_schedule_use_button">继续使用</string>
@@ -516,6 +516,14 @@
   <string name="miuishare_wechat_timeline_title">WeChat Moments</string>
   <string name="miuishare_wechat_title">WeChat</string>
   <string name="miuishare_weibo_title">Weibo</string>
+  <string name="miuix_sb_tracking_progress_labe_pull_to_refresh">pull to refresh</string>
+  <string name="miuix_sb_tracking_progress_labe_refreshed">refresh completed</string>
+  <string name="miuix_sb_tracking_progress_labe_refreshing">refreshing</string>
+  <string name="miuix_sb_tracking_progress_labe_release_to_refresh">release to refresh</string>
+  <string name="miuix_sb_tracking_progress_labe_up_nodata">no data</string>
+  <string name="miuix_sb_tracking_progress_labe_up_none">not do that</string>
+  <string name="miuix_sb_tracking_progress_labe_up_refresh">refreshing</string>
+  <string name="miuix_sb_tracking_progress_labe_up_refresh_fail">fail</string>
   <string name="modify_all">Change all events in the series</string>
   <string name="modify_all_following">Change this and all future events</string>
   <string name="modify_event">Change only this event</string>
@@ -641,6 +649,12 @@ Vérifiez vos paramètres réseau, puis réessayez."</string>
   <string name="preferences_use_home_tz_title">Utiliser le fuseau horaire à domicile</string>
   <string name="preferences_week_start_day_dialog">Début de la semaine</string>
   <string name="preferences_week_start_day_title">Début de la semaine</string>
+  <string name="productivity_add_event">Create event</string>
+  <string name="productivity_cannot_move_event">"Can't move this event"</string>
+  <string name="productivity_move_event_failed">"Can't move this event to MMMM dd, yyyy"</string>
+  <string name="productivity_move_event_hint">Press and hold an event to move it to another date</string>
+  <string name="productivity_move_event_success">Moved this event to MMMM dd, yyyy</string>
+  <string name="productivity_no_event">No events planned for today</string>
   <string name="pull_to_refresh_hint">Faites glisser vers le bas pour actualiser les événements de %1$d</string>
   <string name="receive_net_mock_success">Net mock receive success</string>
   <string name="recommend_card_add">立即订阅</string>

@@ -1867,9 +1867,12 @@ medical card"</string>
   <string name="about_autostart">À propos du démarrage auto</string>
   <string name="permission_action_accept">Accepter</string>
   <string name="permission_action_always">Toujours autoriser</string>
+  <string name="permission_action_desc">授予应用权限但返回空信息，保护隐私安全</string>
   <string name="permission_action_foreground">"Tout en utilisant l'application"</string>
   <string name="permission_action_prompt">Notifier</string>
   <string name="permission_action_reject">Refuser</string>
+  <string name="permission_action_tag">隐私保护</string>
+  <string name="permission_action_virtual">空信息授权</string>
   <string name="empty_title_permission_apps_list">Vide.</string>
   <string name="old_sdk_deny_warning">"L'application n'est pas compatible avec les dernières exigences des permissions d'Android. Les permissions refusées peuvent affecter la façon dont cette application fonctionne."</string>
   <string name="empty_title_root_apps">Aucune application avec accès ROOT.</string>
@@ -1894,7 +1897,18 @@ medical card"</string>
   <string name="menu_item_install_debug_package">Installer le forfait de débogage</string>
   <string name="permission_close_permission_control_dialog_title">Désactiver ?</string>
   <string name="permission_close_permission_control_dialog_msg">"Lorsque le gestionnaire de permissions est désactivé, les applications ne demanderont plus de permission avant de lire vos contacts, de voir votre historique d'appels, ou d'accéder à l'appareil photo et aux autres services de l'appareil."</string>
-  <string name="permission_permission_control_closed_desc_dialog_title">Gestionnaire de permissions</string>
+  <string name="permission_permission_control_closed_desc_dialog_title">Gestionnaire des permissions</string>
+  <string name="permission_upgrade_more">查看更多隐私保护功能</string>
+  <string name="permission_upgrade_privacy_title">"为保护您的个人隐私信息
+录音、联系人等权限支持设置为“仅在使用时允许”
+设置该状态后，应用将无法在后台使用该权限"</string>
+  <string name="permission_upgrade_runtime">"应用申请权限时
+定位、拍照权限支持设置为“允许本次”
+设置后，若关闭该应用，权限将还原为“询问”"</string>
+  <string name="permission_upgrade_title">授权管理功能升级</string>
+  <string name="permission_upgrade_virtual">"若您不希望提供通讯录、通话记录等真实信息时
+可设置对应权限为“空信息授权”
+授予应用权限但返回空信息，保护隐私安全"</string>
   <string name="permission_permission_control_closed_desc_dialog_msg">"Les applications ne vous demanderont plus votre permission pour lire vos contacts, voir votre journal d'appels, accéder à l'appareil photo et aux autres services de l'appareil. Vous pouvez changer ce réglage dans le Gestionnaire de permission."</string>
   <string name="hints_scanning_text">Analyse…</string>
   <string name="auto_handle_title">GÉNÉRAL</string>

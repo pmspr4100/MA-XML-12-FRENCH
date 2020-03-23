@@ -492,6 +492,10 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
       <item quantity="other">Vous serez notifié des actions sensibles effectuées par les applications %1$d</item>
       <item quantity="one">"Vous serez notifié des actions sensibles effectuées par l'application %1$d"</item>
     </plurals>
+    <plurals name="app_behavior_desc_virtual">
+        <item quantity="other">%1$s-%2$s期间共返回空信息%3$d次</item>
+        <item quantity="one">%1$s-%2$s期间共返回空信息%3$d次</item>
+    </plurals>
     <plurals name="app_behavior_notification_audio_more">
       <item quantity="other">"%2$d applications incluant %1$1s enregistrent l'audio"</item>
       <item quantity="one">"%2$d application incluant %1$1s enregistre l'audio"</item>
