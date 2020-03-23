@@ -94,7 +94,7 @@
   <string name="grant_dialog_button_allow_always">Autoriser tout le temps</string>
   <string name="grant_dialog_button_allow_background">Autoriser tout le temps</string>
   <string name="grant_dialog_button_allow_foreground">"Autoriser uniquement lors de l'utilisation de l'application"</string>
-  <string name="grant_dialog_button_allow_onetime">Autoriser cette fois-ci</string>
+  <string name="grant_dialog_button_allow_onetime">Une fois</string>
   <string name="grant_dialog_button_deny">Refuser</string>
   <string name="grant_dialog_button_deny_and_dont_ask_again">Refuser et ne plus demander</string>
   <string name="grant_dialog_button_deny_background">"Seulement en utilisant l'application"</string>
@@ -149,4 +149,10 @@
   <string name="screen_overlay_button">Ouvrir les paramètres</string>
   <string name="screen_overlay_message">"Pour modifier cette permissions, vous devez désactiver la superposition d'écran dans Paramètres > Applications."</string>
   <string name="screen_overlay_title">"Superposition d'écran détecté"</string>
+  <string name="virtual_reject_notice_content">"Une réponse vide a été envoyée à l'application pour protéger vos données personnelles"</string>
+  <string name="virtual_reject_notice_title_calendar">"%1$s tente d'accéder au calendrier"</string>
+  <string name="virtual_reject_notice_title_calllog">"%1$s tente d'accéder à l'historique d'appels"</string>
+  <string name="virtual_reject_notice_title_contacts">"%1$s tente d'accéder aux contacts"</string>
+  <string name="virtual_reject_notice_title_phonestate">"%1$s tente d'accéder aux informations de l'appareil"</string>
+  <string name="virtual_reject_notice_title_sms">"%1$s tente d'accéder aux messages"</string>
 </resources>
