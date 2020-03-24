@@ -72,7 +72,7 @@
   <string name="callAgain">Rappeler</string>
   <string name="callBack">Rappeler</string>
   <string name="callDetailTitle">"Détails sur l'appel"</string>
-  <string name="callDetailsDurationFormat" formatted="false">%s min %s s</string>
+  <string name="callDetailsDurationFormat">%1$s min %2$s sec</string>
   <string name="callShortcutActivityTitle">Choisissez le numéro à appeler</string>
   <string name="call_assistant">Appeler %s</string>
   <string name="call_callback">Appeler numéro de rappel</string>
@@ -390,17 +390,17 @@ Les cartes de contact ont été désactivées"</string>
   <string name="device_paired_dialog_title">Obtention des contacts…</string>
   <string name="device_pairing_dialog_message">Appairage en cours…</string>
   <string name="device_pairing_dialog_title">"Appairage d'appareil"</string>
-  <string name="device_transfer_by_bluetooth_message" formatted="false">"%d. Activer le Bluetooth sur l'autre appareil.
+  <string name="device_transfer_by_bluetooth_message">"%1$d. Activer le Bluetooth sur l'autre appareil.
 
 - Le bluetooth peut être trouvé dans les paramètres de réseau sur les appareils Android.
 - Sur les appareils iOS, le Bluetooth se trouve dans Réglages.
 
-%d. Le mode Visibilité devrait aussi être activé sur les appareils Android.
+%2$d. Le mode Visibilité devrait aussi être activé sur les appareils Android.
 
-%d. Appuyer sur \"Suivant\", et accorder à Contacts les autorisations requises."</string>
-  <string name="device_transfer_by_sim_message" formatted="false">"%d Enregistrer les contacts de l'autre appareil sur la carte SIM ; 
+%3$d. Appuyer sur \"Suivant\", et accorder à Contacts les autorisations requises."</string>
+  <string name="device_transfer_by_sim_message">"%1$d. Enregistrer les contacts de l'autre appareil sur la carte SIM ; 
 
-%d. Ouvrir les paramètres dans l'application Contacts, et puis aller à \"Importer/Exporter des contacts\" -- \"Importer de la carte SIM\", maintenir n'importe quel contact sur la carte SIM pour le sélectionner, sélectionner tous les contacts requis, puis appuyer sur \"Importer\".\""</string>
+%2$d. Ouvrir les paramètres dans l'application Contacts, et puis aller à \"Importer/Exporter des contacts\" -- \"Importer de la carte SIM\", maintenir n'importe quel contact sur la carte SIM pour le sélectionner, sélectionner tous les contacts requis, puis appuyer sur \"Importer\".\""</string>
   <string name="device_version_header_bluetooth">Importer par Bluetooth</string>
   <string name="device_version_header_no_bluetooth">Importer depuis la carte SIM</string>
   <string name="dial">Composer</string>
@@ -479,13 +479,13 @@ Pour éviter les requêtes fréquentes, nous mettons à jour l'information de la
 Raison: \"%s\""</string>
   <string name="exporting_contact_failed_title">Exportation impossible</string>
   <string name="exporting_contact_list_message">Exportés vers %s.</string>
-  <string name="exporting_contact_list_progress" formatted="false">%s de %s contacts</string>
+  <string name="exporting_contact_list_progress">%1$s de %2$s contacts</string>
   <string name="exporting_contact_list_title">Exportation des données des contacts</string>
   <string name="exporting_vcard_canceled_title">Exportation de %s annulée.</string>
   <string name="exporting_vcard_finished_title">Exportation de %s terminée.</string>
   <string name="external_profile_title">Mon profil %1$s</string>
   <string name="fail_reason_could_not_initialize_exporter">"Échec de l'initialisation du module d'exportation : \"%s\"."</string>
-  <string name="fail_reason_could_not_open_file" formatted="false">"Impossible d'ouvrir \"%s: %s."</string>
+  <string name="fail_reason_could_not_open_file">"Impossible d'ouvrir \"%1$s\": %2$s."</string>
   <string name="fail_reason_error_occurred_during_export">"Une erreur s'est produite lors de l'exportation : \"%s\"."</string>
   <string name="fail_reason_failed_to_collect_vcard_meta_info">Impossible de récupérer les données du fichier Vcard.</string>
   <string name="fail_reason_failed_to_read_files">Un ou plusieurs fichiers ne peuvent pas être importés (%s).</string>
@@ -734,6 +734,14 @@ Raison: \"%s\""</string>
   <string name="miprofile_switch_on_alertdialog_title">Mettre à jour la photo de profil</string>
   <string name="missing_name">(Aucun nom)</string>
   <string name="missing_required_permission">Vous avez désactivé les permissions requises.</string>
+  <string name="miuix_sb_tracking_progress_labe_pull_to_refresh">tirer pour actualiser</string>
+  <string name="miuix_sb_tracking_progress_labe_refreshed">actualisation terminé</string>
+  <string name="miuix_sb_tracking_progress_labe_refreshing">actualiser</string>
+  <string name="miuix_sb_tracking_progress_labe_release_to_refresh">release to refresh</string>
+  <string name="miuix_sb_tracking_progress_labe_up_nodata">aucune données</string>
+  <string name="miuix_sb_tracking_progress_labe_up_none">ne fais pas ça</string>
+  <string name="miuix_sb_tracking_progress_labe_up_refresh">actualiser</string>
+  <string name="miuix_sb_tracking_progress_labe_up_refresh_fail">échec</string>
   <string name="mobile_equipment_identification">"Identification de l'équipement mobile"</string>
   <string name="more_call_logs">"Écoutez tous vos enregistrements d'appel sur "<a href="https://i.mi.com">i.mi.com</a></string>
   <string name="move_and_resize">Déplacer et redimensionner</string>
@@ -742,6 +750,7 @@ Raison: \"%s\""</string>
   <string name="multi_number_menu_group">Nouveau groupe</string>
   <string name="multi_number_menu_message">Message</string>
   <string name="multi_number_title">Conférence téléphonique</string>
+  <string name="multi_select">Sélectionner</string>
   <string name="multipleContactDeleteConfirmation">La suppression de ce contact supprimera des informations de plusieurs comptes.</string>
   <string name="my_phone_not_provider_bluetooth">Non</string>
   <string name="my_phone_provider_bluetooth">Oui</string>
@@ -1077,7 +1086,7 @@ Pour commencer, appuyez sur l'icône fusionner en bas de votre écran."</string>
   <string name="simContacts_title">Contacts de la carte SIM</string>
   <string name="sim_account_name">SIM</string>
   <string name="sim_capacity">"Afficher l'espace de la carte SIM"</string>
-  <string name="sim_capacity_content" formatted="false">%d au total | %d utilisés</string>
+  <string name="sim_capacity_content">%1$d total | %2$d utilisés</string>
   <string name="sim_card_no_free_space_message">"Pas assez d'espace"</string>
   <string name="sim_card_no_free_space_title">Carte SIM pleine</string>
   <string name="sim_contact_existing">Le contact existe déjà</string>
@@ -1103,8 +1112,8 @@ Pour commencer, appuyez sur l'icône fusionner en bas de votre écran."</string>
   <string name="smart_group_company_label">Entreprises</string>
   <string name="smart_group_company_unavailable">"Aucune info sur l'entreprise"</string>
   <string name="smart_group_frequency_1">Dans le dernier mois</string>
-  <string name="smart_group_frequency_2" formatted="false">%d à %d mois</string>
-  <string name="smart_group_frequency_3" formatted="false">%d à %d mois</string>
+  <string name="smart_group_frequency_2">%1$d à %2$d mois</string>
+  <string name="smart_group_frequency_3">%1$d à %2$d mois</string>
   <string name="smart_group_frequency_4">Depuis plus de %d mois</string>
   <string name="smart_group_frequency_label">Récents</string>
   <string name="smart_group_label">Regroupements intelligents</string>
