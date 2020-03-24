@@ -1898,14 +1898,14 @@ medical card"</string>
   <string name="permission_close_permission_control_dialog_title">Désactiver ?</string>
   <string name="permission_close_permission_control_dialog_msg">"Lorsque le gestionnaire de permissions est désactivé, les applications ne demanderont plus de permission avant de lire vos contacts, de voir votre historique d'appels, ou d'accéder à l'appareil photo et aux autres services de l'appareil."</string>
   <string name="permission_permission_control_closed_desc_dialog_title">Gestionnaire des permissions</string>
-  <string name="permission_upgrade_more">查看更多隐私保护功能</string>
-  <string name="permission_upgrade_privacy_title">"为保护您的个人隐私信息
-录音、联系人等权限支持设置为“仅在使用时允许”
-设置该状态后，应用将无法在后台使用该权限"</string>
-  <string name="permission_upgrade_runtime">"应用申请权限时
-定位、拍照权限支持设置为“允许本次”
-设置后，若关闭该应用，权限将还原为“询问”"</string>
-  <string name="permission_upgrade_title">授权管理功能升级</string>
+  <string name="permission_upgrade_more">Voir plus de fonctionnalités de protection de la vie privée</string>
+  <string name="permission_upgrade_privacy_title">"Pour protéger vos informations personnelles
+La prise en charge des permissions d'enregistrement, de contacts, etc. est définie sur “Autoriser uniquement en cas d'utilisation”.
+Une fois cet état défini, l'application ne pourra plus utiliser la permissions en arrière-plan"</string>
+  <string name="permission_upgrade_runtime">"Lors de la demande d'autorisation
+La prise en charge de la localisation et des permissions de caméra est définie sur “Autoriser cette fois-ci”
+Après l'avoir définie, si vous fermez l'application, les autorisations reviendront à “Demander”"</string>
+  <string name="permission_upgrade_title">Mise à niveau de la fonction de gestion des licences</string>
   <string name="permission_upgrade_virtual">"若您不希望提供通讯录、通话记录等真实信息时
 可设置对应权限为“空信息授权”
 授予应用权限但返回空信息，保护隐私安全"</string>
