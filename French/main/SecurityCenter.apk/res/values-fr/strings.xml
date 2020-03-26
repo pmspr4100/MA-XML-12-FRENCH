@@ -925,7 +925,7 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
   <string name="app_behavior_perm_change_tip_ask">On vous demandera si cette action (%1s) est autorisée</string>
   <string name="app_behavior_perm_change_tip_deny">Cette action (%1s) est désormais restreinte</string>
   <string name="app_behavior_perm_change_tip_foreground">"Cette action (%1s) est désormais autorisée lorsque vous utilisez l'application"</string>
-  <string name="app_behavior_perm_change_tip_virtual">\"%1s\" est remplacé par \"Renvoyer les messages vides\"</string>
+  <string name="app_behavior_perm_change_tip_virtual">\"%1s\" est remplacé par \"Renvoyer des messages vides\"</string>
   <string name="app_behavior_phonenum">%1s a accédé à votre numéro de téléphone</string>
   <string name="app_behavior_phonenum_single">Cette application a accédé à votre numéro de téléphone</string>
   <string name="app_behavior_phonestate">"%1s a accédé aux informations sur l'appareil"</string>
@@ -1904,7 +1904,7 @@ carte médicale"</string>
   <string name="permission_upgrade_privacy_title">"Les permissions d'enregistrement audio et d'accès aux contacts ont désormais une option qui vous permet de donner ces permissions uniquement lorsque vous utilisez les applications correspondantes. Pour protéger la confidentialité de vos informations personnelles, les applications n'effectueront pas ces actions en arrière-plan."</string>
   <string name="permission_upgrade_runtime">"Les permissions pour accéder à votre emplacement ou prendre des photos ont maintenant une option qui vous permet de donner ces permissions une seule fois. Pour protéger la confidentialité de vos informations personnelles, ces actions ne seront pas effectuées après avoir quitté l'application. On vous demandera à nouveau des permissions lorsque vous utiliserez les fonctionnalités associées la prochaine fois."</string>
   <string name="permission_upgrade_title">Mises à jour des permissions</string>
-  <string name="permission_upgrade_virtual">"Si vous ne souhaitez pas autoriser les applications à accéder à vos contacts ou à l'historique des appels, vous pouvez sélectionner \"Retourner les messages vides\" lorsque vous accordez les permissions correspondantes."</string>
+  <string name="permission_upgrade_virtual">"Si vous ne souhaitez pas autoriser les applications à accéder à vos contacts ou à l'historique des appels, vous pouvez sélectionner \"Retourner des messages vides\" lorsque vous accordez les permissions correspondantes."</string>
   <string name="permission_permission_control_closed_desc_dialog_msg">"Les applications ne vous demanderont plus votre permission pour lire vos contacts, voir votre journal d'appels, accéder à l'appareil photo et aux autres services de l'appareil. Vous pouvez changer ce réglage dans le Gestionnaire de permission."</string>
   <string name="hints_scanning_text">Analyse…</string>
   <string name="auto_handle_title">GÉNÉRAL</string>
