@@ -529,8 +529,6 @@ Cela donnera aussi la possibilité à l'application d'activer ou désactiver le 
   <string name="rx_link_speed_label">Receive link speed:</string>
   <string name="rx_wifi_speed">Receive link speed</string>
   <string name="screen_dark_mode_advanced_title">Avancé</string>
-  <string name="screen_dark_mode_smart_dark_summary">"Appliquer aussi le mode sombre aux application tierces. Certaines applications pourraient mal s'afficher."</string>
-  <string name="screen_dark_mode_smart_dark_title">Mode sombre général</string>
   <string name="security_dashboard_summary_face">"Verrouillage d'écran, déverrouillage facial"</string>
   <string name="security_settings_face_enroll_dialog_ok">OK</string>
   <string name="security_settings_face_enroll_done">Done</string>
@@ -5361,6 +5359,8 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="screen_dark_mode_smart_dark_3rd_apps_list">Applications tierces</string>
   <string name="screen_dark_mode_smart_dark_apps_setting_summary">"Certaines applications peuvent ne pas s'afficher correctement en mode sombre. Vous pouvez restreindre l'utilisation du mode sombre pour des applications individuelles ici."</string>
   <string name="screen_dark_mode_smart_dark_apps_setting_title">Applications individuelles</string>
+  <string name="screen_dark_mode_smart_dark_summary">"Appliquer aussi le mode sombre aux application tierces. Certaines applications pourraient mal s'afficher."</string>
+  <string name="screen_dark_mode_smart_dark_title">Mode sombre général</string>
   <string name="screen_dark_mode_time_title">Programmer</string>
   <string name="screen_effect">Contraste et couleurs</string>
   <string name="screen_fps_summary_power_save">"L'utilisation d'un taux fixe consomme moins d'énergie"</string>
