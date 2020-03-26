@@ -879,6 +879,7 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
   <string name="app_behavior_denied">Restreindre</string>
   <string name="app_behavior_desc_allow_once">Autorisé à %1$s</string>
   <string name="app_behavior_desc_deny_once">Restreint à %1$s</string>
+  <string name="app_behavior_desc_virtual_once">A renvoyé un message vide à %1$s</string>
   <string name="app_behavior_door">"Comportement de l'application"</string>
   <string name="app_behavior_header_time">dd MMMM</string>
   <string name="app_behavior_key_audio">Enregistrement audio</string>
@@ -924,7 +925,7 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
   <string name="app_behavior_perm_change_tip_ask">On vous demandera si cette action (%1s) est autorisée</string>
   <string name="app_behavior_perm_change_tip_deny">Cette action (%1s) est désormais restreinte</string>
   <string name="app_behavior_perm_change_tip_foreground">"Cette action (%1s) est désormais autorisée lorsque vous utilisez l'application"</string>
-  <string name="app_behavior_perm_change_tip_virtual">\"%1s\" changé en autorisation de message vide</string>
+  <string name="app_behavior_perm_change_tip_virtual">\"%1s\" est remplacé par \"Renvoyer les messages vides\"</string>
   <string name="app_behavior_phonenum">%1s a accédé à votre numéro de téléphone</string>
   <string name="app_behavior_phonenum_single">Cette application a accédé à votre numéro de téléphone</string>
   <string name="app_behavior_phonestate">"%1s a accédé aux informations sur l'appareil"</string>
@@ -1868,16 +1869,16 @@ carte médicale"</string>
   <string name="about_autostart">À propos du démarrage auto</string>
   <string name="permission_action_accept">Accepter</string>
   <string name="permission_action_always">Toujours autoriser</string>
-  <string name="permission_action_desc">授予应用权限但返回空信息，保护隐私安全</string>
+  <string name="permission_action_desc">"Autoriser les permissions mais renvoyez des messages vides à l'application pour protéger la confidentialité"</string>
   <string name="permission_action_foreground">"Tout en utilisant l'application"</string>
   <string name="permission_action_prompt">Notifier</string>
   <string name="permission_action_reject">Refuser</string>
-  <string name="permission_action_tag">隐私保护</string>
-  <string name="permission_action_virtual">空信息授权</string>
+  <string name="permission_action_tag">Protection de la vie privée</string>
+  <string name="permission_action_virtual">Renvoyer des messages vides</string>
   <string name="empty_title_permission_apps_list">Vide.</string>
   <string name="old_sdk_deny_warning">"L'application n'est pas compatible avec les dernières exigences des permissions d'Android. Les permissions refusées peuvent affecter la façon dont cette application fonctionne."</string>
   <string name="empty_title_root_apps">Aucune application avec accès ROOT.</string>
-  <string name="enable_extreme_power_save_mode">Extreme battery saver</string>
+  <string name="enable_extreme_power_save_mode">Économiseur de batterie extrême</string>
   <string name="root_apply_title">Avertissement important</string>
   <string name="root_apply_step_1">"Autoriser l'accès ROOT à %s ?"</string>
   <string name="root_apply_step_2">"Autoriser l'accès ROOT à des applications peut rendre votre appareil instable."</string>
@@ -1899,17 +1900,11 @@ carte médicale"</string>
   <string name="permission_close_permission_control_dialog_title">Désactiver ?</string>
   <string name="permission_close_permission_control_dialog_msg">"Lorsque le gestionnaire de permissions est désactivé, les applications ne demanderont plus de permission avant de lire vos contacts, de voir votre historique d'appels, ou d'accéder à l'appareil photo et aux autres services de l'appareil."</string>
   <string name="permission_permission_control_closed_desc_dialog_title">Gestionnaire des permissions</string>
-  <string name="permission_upgrade_more">Voir plus de fonctionnalités de protection de la vie privée</string>
-  <string name="permission_upgrade_privacy_title">"Pour protéger vos informations personnelles
-La prise en charge des permissions d'enregistrement, de contacts, etc. est définie sur “Autoriser uniquement en cas d'utilisation”.
-Une fois cet état défini, l'application ne pourra plus utiliser la permissions en arrière-plan"</string>
-  <string name="permission_upgrade_runtime">"Lors de la demande d'autorisation
-La prise en charge de la localisation et des permissions de caméra est définie sur “Autoriser cette fois-ci”
-Après l'avoir définie, si vous fermez l'application, les autorisations reviendront à “Demander”"</string>
-  <string name="permission_upgrade_title">Mise à niveau de la fonction de gestion des licences</string>
-  <string name="permission_upgrade_virtual">"若您不希望提供通讯录、通话记录等真实信息时
-可设置对应权限为“空信息授权”
-授予应用权限但返回空信息，保护隐私安全"</string>
+  <string name="permission_upgrade_more">Plus de fonctionnalités pour la protection de la vie privée</string>
+  <string name="permission_upgrade_privacy_title">"Les permissions d'enregistrement audio et d'accès aux contacts ont désormais une option qui vous permet de donner ces permissions uniquement lorsque vous utilisez les applications correspondantes. Pour protéger la confidentialité de vos informations personnelles, les applications n'effectueront pas ces actions en arrière-plan."</string>
+  <string name="permission_upgrade_runtime">"Les permissions pour accéder à votre emplacement ou prendre des photos ont maintenant une option qui vous permet de donner ces permissions une seule fois. Pour protéger la confidentialité de vos informations personnelles, ces actions ne seront pas effectuées après avoir quitté l'application. On vous demandera à nouveau des permissions lorsque vous utiliserez les fonctionnalités associées la prochaine fois."</string>
+  <string name="permission_upgrade_title">Mises à jour des permissions</string>
+  <string name="permission_upgrade_virtual">"Si vous ne souhaitez pas autoriser les applications à accéder à vos contacts ou à l'historique des appels, vous pouvez sélectionner \"Retourner les messages vides\" lorsque vous accordez les permissions correspondantes."</string>
   <string name="permission_permission_control_closed_desc_dialog_msg">"Les applications ne vous demanderont plus votre permission pour lire vos contacts, voir votre journal d'appels, accéder à l'appareil photo et aux autres services de l'appareil. Vous pouvez changer ce réglage dans le Gestionnaire de permission."</string>
   <string name="hints_scanning_text">Analyse…</string>
   <string name="auto_handle_title">GÉNÉRAL</string>
