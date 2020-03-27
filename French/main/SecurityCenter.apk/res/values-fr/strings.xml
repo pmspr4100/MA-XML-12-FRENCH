@@ -900,11 +900,11 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
   <string name="app_behavior_monitor_tips_key">Notifications sur les actions sensibles</string>
   <string name="app_behavior_monitor_tips_summary">"Vous pouvez recevoir des notifications lorsque des applications enregistrent du son, accèdent à votre position ou effectuent d'autres actions sensibles en arrière-plan."</string>
   <string name="app_behavior_no_recorder">Impossible de trouver les résultats</string>
-  <string name="app_behavior_notification_audio_now_one">\"%1s\"Enregistrement</string>
+  <string name="app_behavior_notification_audio_now_one">\"%1s\" enregistrement</string>
   <string name="app_behavior_notification_audio_now_two" formatted="false">%1s et %2s enregistrent le son</string>
   <string name="app_behavior_notification_camera_one">%1s prend des photos</string>
   <string name="app_behavior_notification_camera_two" formatted="false">%1s et %2s prennent des photos</string>
-  <string name="app_behavior_notification_location_one">\"%1s\"Obtenir votre localisation</string>
+  <string name="app_behavior_notification_location_one">\"%1s\" accéde à votre localisation</string>
   <string name="app_behavior_notification_location_two" formatted="false">%1s and %2s accèdent à votre localisation</string>
   <string name="app_behavior_notification_title_calllog_read">"%1s a accédé à l'historique des appels en arrière-plan"</string>
   <string name="app_behavior_notification_title_calllog_write">"%1s a modifié l'historique des appels en arrière-plan"</string>
