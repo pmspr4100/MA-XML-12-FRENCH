@@ -8,7 +8,7 @@
 ## Traducteur
 * Pseudo : pmspr4100
 * Appareil : Redmi Note 7 Pro
-* Android 10 : Miui Bêta 
+* Version : Xiaomi EU MIUI 11 Android Q Bêta
 * Contact : (pms.pr4100@gmail.com)
 * Paypal : https://www.paypal.me/pmspr4100
 
