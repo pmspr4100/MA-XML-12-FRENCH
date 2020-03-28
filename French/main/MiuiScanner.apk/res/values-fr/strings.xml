@@ -12,7 +12,7 @@
   <string name="abc_capital_on">ACTIVÉ</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
   <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-  <string name="abc_menu_delete_shortcut_label">delete</string>
+  <string name="abc_menu_delete_shortcut_label">supprimer</string>
   <string name="abc_menu_enter_shortcut_label">enter</string>
   <string name="abc_menu_function_shortcut_label">Function+</string>
   <string name="abc_menu_meta_shortcut_label">Meta+</string>
@@ -37,7 +37,6 @@
   <string name="address">Adresse:</string>
   <string name="agree_app_use">Scanning QR codes and other images (some features might require accessing your location)</string>
   <string name="agree_btn">Accepter</string>
-  <string name="amazon_assistant_shopping_title">Rechercher sur Amazon</string>
   <string name="app_description_content">"Scanneur vous permet de lire les QR code, les cartes de visite, des documents et plus. Assurez-vous de vous passer de ces fonctionnalités avant de désinstaller l'application."</string>
   <string name="app_description_title">À propos du Scanner</string>
   <string name="app_details">Application:</string>
@@ -62,6 +61,7 @@
   <string name="check_for_updates">Vérifier les mises à jour bêta</string>
   <string name="choose_pay_title">Sélectionner une méthode de remboursement</string>
   <string name="choose_picture">"Sélectionner l'image du QR code"</string>
+  <string name="choosed_title">Sélectionné</string>
   <string name="common_retake_picture">Reprendre</string>
   <string name="common_retry">Veuillez réessayer</string>
   <string name="common_save">Sauvegarder</string>
@@ -78,6 +78,7 @@
   <string name="crop_done_description">OK</string>
   <string name="crop_title_study">Rogner la photo</string>
   <string name="crop_title_translation">Sélectionnez le texte à traduire</string>
+  <string name="delete">Supprimer</string>
   <string name="document_color_picture">Couleur</string>
   <string name="document_color_picture_tip">Conversion en couleur…</string>
   <string name="document_crop_title">Rogner le document</string>
@@ -133,6 +134,7 @@
   <string name="food_module_title_food">Calories</string>
   <string name="got_it">Compris</string>
   <string name="gps">Navigation</string>
+  <string name="history">Historique</string>
   <string name="grant_permission">Donner la permission</string>
   <string name="import_contact">Importer le contact</string>
   <string name="impunity_declaration_content">"Le scanner doit utiliser votre appareil photo et traiter les images que vous prenez lorsque vous utilisez l'application. N'utilisez pas Scanner pour prendre des photos des objets contenant vos informations personnelles. En appuyant sur \"Accepter\", vous acceptez notre &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"http://privacy.mi.com/all/%1$s\" style=\"color:#ff32b4ff;\"&gt;Politique de confidentialité&lt;/a&gt;&lt;/font&gt; et permettant à scanner de se connecter à Internet."</string>
@@ -153,7 +155,7 @@
   <string name="miracast_connect_fail">Impossible de caster, veuillez réessayer</string>
   <string name="miracast_connecting">Caster…</string>
   <string name="miracast_details">Scanner le QR code pour caster</string>
-  <string name="miracast_message">Caster vers %s?</string>
+  <string name="miracast_message">Caster vers %s ?</string>
   <string name="miracast_switch_off">Affichage sans fil désactivé</string>
   <string name="miracast_switch_tip">"Activé l'affichage sans fil pour utiliser cette fonctionalité"</string>
   <string name="module_title_business_card">Carte de visite</string>
@@ -174,7 +176,7 @@
   <string name="no_support_to_translate_type">Cette langue nest pas prise en charge</string>
   <string name="not_insert_contact">"Impossible d'ajouter le contact"</string>
   <string name="not_recommend_access_web_url">Aller quand même</string>
-  <string name="note">Remarque :</string>
+  <string name="note">Remarque: </string>
   <string name="open_url">"Ouvrir l'URL"</string>
   <string name="password_toggle_content_description">Afficher le mot de passe</string>
   <string name="pay_no_tip">Ne plus afficher</string>
@@ -182,7 +184,7 @@
   <string name="payment_text">Ouvrir avec %s</string>
   <string name="permission_denied_albums">"Donnez l'accès aux photos, médias et fichiers de votre périphérique pour voir les albums"</string>
   <string name="permission_denied_images">"Donnez l'accès aux photos, médias et fichiers de votre périphérique pour voir les images"</string>
-  <string name="phone">Téléphone :</string>
+  <string name="phone">Téléphone: </string>
   <string name="place_barcode_into_rectangle">Placez le QR code dans le cadre</string>
   <string name="plant_fail">Reconnaissance impossible</string>
   <string name="plant_loading">Identification en cours…</string>
@@ -196,6 +198,11 @@
   <string name="recognize">Scanner</string>
   <string name="recognize_fail">Impossible de lire le QR code</string>
   <string name="request_server_failed">Impossible de se connecter au serveur</string>
+  <string name="saveDone">Enregistré avec succès</string>
+  <string name="scanHistory">Historique du scanner</string>
+  <string name="scanHistory_close">Désactiver</string>
+  <string name="scanHistory_isOpen">"Commencer à suivre l'historique des éléments numérisés maintenant ?"</string>
+  <string name="scanHistory_open">Activer</string>
   <string name="scan_result">Résultat</string>
   <string name="scan_support_type">WeChat, Alipay, QR code, codes à barres</string>
   <string name="sdk_not_ready">Préparation du SDK. Réessayez plus tard.</string>
@@ -224,7 +231,7 @@
   <string name="take_a_picture">Prendre une photo</string>
   <string name="taobao">Taobao</string>
   <string name="tel">Téléphone</string>
-  <string name="title">Titre :</string>
+  <string name="title">Titre: </string>
   <string name="to_pay">Terminer le paiement</string>
   <string name="translate_auto_lock">Verrouiller la traduction</string>
   <string name="translate_auto_unlock">Débloquer la traduction</string>
@@ -289,24 +296,30 @@
   <string name="choose_open_code_app">Select an app</string>
   <string name="close_hotspot_when_connecting_to_wifi">Hotspot is on. Turn on Wi-Fi.</string>
   <string name="copy_tracknum">Copy tracking code</string>
+  <string name="create">Generate QR code</string>
+  <string name="createFail">"Couldn't generate QR code. Your message is too long."</string>
+  <string name="createQRCode_hint">Enter text</string>
+  <string name="createQRCode_save">Save</string>
+  <string name="create_again">Refresh</string>
   <string name="crop__cancel">ANNULER</string>
   <string name="crop__done">FAIT</string>
   <string name="crop__pick_error">"Aucune source d'images disponible"</string>
   <string name="crop__saving">"Enregistrement de l'image…"</string>
   <string name="crop__wait">Veuillez patienter…</string>
-  <string name="image_file_name_format">"'scanner'_yyyyMMdd_HHmmss"</string>
+  <string name="image_file_name_format">"'scanner'_ddMMyyyy_HHmmss"</string>
+  <string name="importFailed">"Couldn't import"</string>
   <string name="keywords_search_code">Scanner;Scan;QR code;QR;Recognition;Barcode;Barcodes;Product;Products;Alipay;WeChat;How to scan QR code;How to scan barcode;How to scan;MIUI Scanner</string>
   <string name="keywords_search_document">Scanner;Scan document;Scan documents;OCR;Scan text;Scan</string>
   <string name="keywords_search_namecard">Scanner;Business card;Business cards;Scan;Scan cards;Card;Cards;Contacts;Contact</string>
   <string name="keywords_search_study">Scanner;Problems;Solve problems;Homework;School;Physics;Chemistry;Math;Maths;English;History;Chinese</string>
   <string name="keywords_search_translation">Scanner;Translate;Dictionary;English;Foreign language;Language;Languages;English to Chinese;Italian;German;Japanese;Korean;Spanish;French;Baidu Translate;Youdao Dictionary;Baidu Dictionary;Google Translate</string>
   <string name="kuaidi100_data">Powered by Kuaidi 100</string>
-  <string name="language_value_english">english</string>
-  <string name="language_value_french">french</string>
-  <string name="language_value_german">german</string>
-  <string name="language_value_japanese">japanese</string>
-  <string name="language_value_korean">korean</string>
-  <string name="language_value_spanish">spanish</string>
+  <string name="language_value_english">anglais</string>
+  <string name="language_value_french">français</string>
+  <string name="language_value_german">allemand</string>
+  <string name="language_value_japanese">japonais</string>
+  <string name="language_value_korean">coréen</string>
+  <string name="language_value_spanish">espagnol</string>
   <string name="logistics">Express delivery</string>
   <string name="mishop">Mi Store</string>
   <string name="now_state">"Current status: "</string>
