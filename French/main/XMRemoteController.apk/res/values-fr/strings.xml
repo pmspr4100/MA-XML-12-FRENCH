@@ -585,7 +585,7 @@ Vérifiez les autorisations ou rédemarrez l'appareil."</string>
   <string name="pair_server_data_only">Utiliser les données en ligne pour les nouvelles télécommandes</string>
   <string name="partner">Partenaire</string>
   <string name="passport_access_denied">Accès refusé</string>
-  <string name="passport_account_hint_text">E-mail/Téléphone/ID de Compte Mi</string>
+  <string name="passport_account_hint_text">Email/Téléphone/ID de Compte Mi</string>
   <string name="passport_account_identity_title">Vérifier votre identité</string>
   <string name="passport_account_label">Compte Mi</string>
   <string name="passport_account_name">Compte: %1$s</string>
@@ -619,15 +619,15 @@ Pour activer votre compte, suivez le
   <string name="passport_copy_message_vcode">Copier le code</string>
   <string name="passport_delete_account">Se Déconnecter</string>
   <string name="passport_downlink_reg">Inscription par le numéro de téléphone</string>
-  <string name="passport_email">Adresse e-mail</string>
+  <string name="passport_email">Adresse Email</string>
   <string name="passport_email_or_id_hint_text">Adresse email ou ID du compte Mi</string>
   <string name="passport_email_reg_success_summary">"%1$s a été associé à votre compte. Vous pouvez l'utiliser pour vous connecter et réinitialiser votre mot de passe."</string>
   <string name="passport_error_auth_fail">La session a expiré, veuillez vous reconnecter plus tard</string>
   <string name="passport_error_device_id">"Impossible d'obtenir l'identifiant de l'appareil"</string>
-  <string name="passport_error_dup_email">"L'e-mail que vous avez entré est déjà associé à un autre compte."</string>
-  <string name="passport_error_email">"L'adresse e-mail saisie n'est pas valide"</string>
+  <string name="passport_error_dup_email">"L'Email que vous avez entré est déjà associé à un autre compte."</string>
+  <string name="passport_error_email">"L'adresse Email saisie n'est pas valide"</string>
   <string name="passport_error_empty_captcha_code">Entrer le code captcha</string>
-  <string name="passport_error_empty_email">Entrez votre adresse e-mail</string>
+  <string name="passport_error_empty_email">Entrez votre adresse Email</string>
   <string name="passport_error_empty_phone_num">Entrez un numéro de téléphone</string>
   <string name="passport_error_empty_pwd">Saisissez votre mot de passe</string>
   <string name="passport_error_empty_username">"Saisissez le nom d'utilisateur de votre compte Mi"</string>
@@ -646,7 +646,7 @@ Pour activer votre compte, suivez le
   <string name="passport_error_user_name">"Le nom d'utilisateur que vous avez entré n'est pas valide."</string>
   <string name="passport_error_verify_activator_phone_message">"Assurez-vous que le service de la carte SIM est activé et que l'appareil est connecté au réseau."</string>
   <string name="passport_error_verify_activator_phone_title">Impossible de vérifier le numéro de téléphone</string>
-  <string name="passport_failed_to_send_activate_email">"Impossible d'envoyer l'e-mail d'activation"</string>
+  <string name="passport_failed_to_send_activate_email">"Impossible d'envoyer l'Email d'activation"</string>
   <string name="passport_find_password_on_web_msg">Veuillez visiter account.mi.com pour récupérer votre mot de passe.</string>
   <string name="passport_forget_password">Mot de passe oublié</string>
   <string name="passport_forget_password_no_underline">Mot de passe oublié</string>
@@ -668,7 +668,7 @@ Pour activer votre compte, suivez le
   <string name="passport_login">Se connecter</string>
   <string name="passport_login_failed">Impossible de se connecter</string>
   <string name="passport_login_instead_reg">Utilisez ce numéro</string>
-  <string name="passport_login_instead_reg_with_email">Utilisez cet e-mail</string>
+  <string name="passport_login_instead_reg_with_email">Utilisez cet Email</string>
   <string name="passport_login_other_account">Autre compte</string>
   <string name="passport_login_prompt">Un Compte Mi. Tous les services Mi.</string>
   <string name="passport_login_recycle_account_no">Non</string>
@@ -706,7 +706,7 @@ Pour activer votre compte, suivez le
   <string name="passport_reg_recycle_account_yes">Oui</string>
   <string name="passport_reg_success">Compte créé</string>
   <string name="passport_reg_success_summary">"%1$s a été associé à votre compte. Vous pouvez l'utiliser pour vous connecter et réinitialiser votre mot de passe."</string>
-  <string name="passport_reg_type_email">Adresse e-mail</string>
+  <string name="passport_reg_type_email">Adresse Email</string>
   <string name="passport_reg_using_other_phone">Utiliser un numéro de téléphone alternatif</string>
   <string name="passport_reg_using_other_phone_number_prompt">"Créer un nouveau compte en utilisant "</string>
   <string name="passport_reg_using_phone_number_prompt">Inscription par le numéro de téléphone</string>
@@ -725,7 +725,7 @@ Pour activer votre compte, suivez le
   <string name="passport_relogin_notice">Reconnectez-vous</string>
   <string name="passport_remove_confirm">Déconnexion</string>
   <string name="passport_remove_unactivated_account_notice">"Votre compte n'a pas été activé."</string>
-  <string name="passport_resend_active_email">"Ré-envoyer l'e-mail"</string>
+  <string name="passport_resend_active_email">"Ré-envoyer l'Email"</string>
   <string name="passport_reset_fail_title">Impossible de réinitialiser</string>
   <string name="passport_reset_password_prompt">Mot de passe incorrect</string>
   <string name="passport_reset_password_title">Réinitialiser le mot de passe</string>

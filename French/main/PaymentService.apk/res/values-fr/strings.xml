@@ -17,7 +17,7 @@
   <string name="abc_shareactionprovider_share_with">Partager avec</string>
   <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
   <string name="abc_toolbar_collapse_description">Réduire</string>
-  <string name="account_bind_secure_email_title">Ajouter un e-mail de secours</string>
+  <string name="account_bind_secure_email_title">Ajouter un Email de secours</string>
   <string name="account_bind_secure_phone_title">Ajouter un numéro de téléphone de secours</string>
   <string name="account_crop_user_avatar">Rogner la photo</string>
   <string name="account_empty_user_name">"Entrez l'identifiant de votre compte Mi"</string>
@@ -40,7 +40,7 @@
   <string name="account_user_base_info">Infos basiques</string>
   <string name="account_user_birthday">Date de naissance</string>
   <string name="account_user_details">Infos personnelles</string>
-  <string name="account_user_email">E-mail de secours</string>
+  <string name="account_user_email">Email de secours</string>
   <string name="account_user_gender">Genre</string>
   <string name="account_user_id">ID du compte Mi</string>
   <string name="account_user_name">Surnom</string>
@@ -56,7 +56,7 @@
   <string name="app_name">Mi Coin</string>
   <string name="auth_fail_warning">Session expirée. Authentifiez-vous à nouveau.</string>
   <string name="bind_sign_in_title">Ajouter compte Mi</string>
-  <string name="change_activate_email">"Modifier adresse d'e-mail"</string>
+  <string name="change_activate_email">"Modifier adresse d'Email"</string>
   <string name="change_password">Modifier mot de passe</string>
   <string name="choose_to_signin">Oui</string>
   <string name="choose_to_signup">Non, je vais en créer un</string>
@@ -69,8 +69,8 @@
   <string name="diagnosis_log_sent_format">"Journaux envoyés avec succès.
 ID :%s
 Envoyez ce code au superviseur."</string>
-  <string name="error_dup_binded_email">"Cette adresse d'e-mail est déjà associée avec un autre compte Mi."</string>
-  <string name="error_invalid_bind_address">"L'adresse d'e-mail entrée est invalide."</string>
+  <string name="error_dup_binded_email">"Cette adresse d'Email est déjà associée avec un autre compte Mi."</string>
+  <string name="error_invalid_bind_address">"L'adresse d'Email entrée est invalide."</string>
   <string name="exceed_binded_phone_times_notice">Ce numéro de téléphone est déjà associé avec un autre compte Mi.</string>
   <string name="facebook_login_protocol_scheme">com.xiaomi.passport.ui</string>
   <string name="failed_dup_secure_phone_number">This phone number is already associated with another Mi Account</string>
@@ -434,14 +434,14 @@ Customer service center：400-100-3399"</string>
   <string name="passport_checking_account">Vérification du mot de passe…</string>
   <string name="passport_close">Close</string>
   <string name="passport_delete_account">Se déconnecter</string>
-  <string name="passport_email">Adresse e-mail</string>
+  <string name="passport_email">Adresse Email</string>
   <string name="passport_empty_password">"Password can't be empty"</string>
   <string name="passport_empty_user_name">"Username can't be empty"</string>
   <string name="passport_error_auth_fail">Session expired. Sign in again.</string>
   <string name="passport_error_device_id">"Can't get device ID"</string>
-  <string name="passport_error_email">"L'adresse e-mail saisie n'est pas valide"</string>
+  <string name="passport_error_email">"L'adresse Email saisie n'est pas valide"</string>
   <string name="passport_error_empty_captcha_code">Entrer le code captcha</string>
-  <string name="passport_error_empty_email">Entrez votre adresse e-mail</string>
+  <string name="passport_error_empty_email">Entrez votre adresse Email</string>
   <string name="passport_error_empty_phone_num">Entrez un numéro de téléphone</string>
   <string name="passport_error_empty_pwd">"Password can't be empty"</string>
   <string name="passport_error_empty_vcode">Entrez le code de vérification</string>

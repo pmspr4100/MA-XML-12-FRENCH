@@ -343,7 +343,7 @@
   <string name="autofill_save_title_with_type">Enregistrer %1$s dans &lt;b&gt;%2$s&lt;/b&gt;?</string>	
   <string name="autofill_save_type_address">adresse</string>
   <string name="autofill_save_type_credit_card">carte de paiement</string>
-  <string name="autofill_save_type_email_address">adresse e-mail</string>
+  <string name="autofill_save_type_email_address">adresse Email</string>
   <string name="autofill_save_type_password">mot de passe</string>
   <string name="autofill_save_type_username">"nom d'utilisateur"</string>
   <string name="autofill_save_yes">Enregistrer</string>
@@ -360,7 +360,7 @@
   <string name="bluetooth_a2dp_audio_route_name">Audio Bluetooth</string>
   <string name="browse">Ouvrir</string>
   <string name="browse_desc">"Ouvrir l'URL sélectionnée"</string>
-  <string name="bugreport_message">"Cela permet de recueillir des informations concernant l'état actuel de votre appareil. Ces informations sont ensuite envoyées sous forme d'e-mail. Merci de patienter pendant la préparation du rapport de bug. Cette opération peut prendre quelques instants."</string>
+  <string name="bugreport_message">"Cela permet de recueillir des informations concernant l'état actuel de votre appareil. Ces informations sont ensuite envoyées sous forme d'Email. Merci de patienter pendant la préparation du rapport de bug. Cette opération peut prendre quelques instants."</string>
   <string name="bugreport_option_full_summary">"Utilisez cette option pour qu'il y ait le moins d'interférences système possible lorsque votre appareil ne répond pas ou qu'il est trop lent, ou lorsque vous avez besoin de toutes les sections du rapport de bug. Aucune capture d'écran supplémentaire ne peut être prise, et vous ne pouvez saisir aucune autre information."</string>
   <string name="bugreport_option_full_title">Rapport complet</string>
   <string name="bugreport_option_interactive_summary">"Utilisez cette option dans la plupart des circonstances. Elle vous permet de suivre la progression du rapport, de saisir plus d'informations sur le problème et d'effectuer des captures d'écran. Certaines sections moins utilisées et dont le remplissage demande beaucoup de temps peuvent être omises."</string>
@@ -477,13 +477,13 @@ en utilisant %s"</string>
   <string name="dump_heap_text">"Le processus \"%1$s\" a dépassé sa limite de mémoire fixée à %2$s. Une empreinte de la mémoire est disponible pour que vous la communiquiez à son développeur. Attention: celle-ci peut contenir des informations personnelles auxquelles l'application a accès."</string>
   <string name="dump_heap_title">"Partager l'empreinte de la mémoire ?"</string>
   <string name="editTextMenuTitle">Actions sur le texte</string>
-  <string name="email">E-mail</string>
+  <string name="email">Email</string>
   <string name="emailTypeCustom">Personnalisé</string>
   <string name="emailTypeHome">Domicile</string>
   <string name="emailTypeMobile">Mobile</string>
   <string name="emailTypeOther">Autre</string>
   <string name="emailTypeWork">Bureau</string>
-  <string name="email_desc">"Envoyer un e-mail à l'adresse sélectionnée"</string>
+  <string name="email_desc">"Envoyer un Email à l'adresse sélectionnée"</string>
   <string name="emergency_call_dialog_number_for_display">"Numéro d'urgence"</string>
   <string name="emergency_calls_only">Urgences seulement</string>
   <string name="enablePin">"Échec de l'opération. Veuillez activer le verrouillage de la carte SIM/RUIM."</string>
@@ -738,7 +738,7 @@ Rendez-vous sur la page "<b>google.com/accounts/recovery</b>.</string>
   <string name="kg_login_password_hint">Mot de passe</string>
   <string name="kg_login_submit_button">Connexion</string>
   <string name="kg_login_too_many_attempts">Trop de tentatives.</string>
-  <string name="kg_login_username_hint">"Nom d'utilisateur (e-mail)"</string>
+  <string name="kg_login_username_hint">"Nom d'utilisateur (Email)"</string>
   <string name="kg_password_instructions">Saisissez votre mot de passe.</string>
   <string name="kg_password_wrong_pin_code">Le code PIN est erroné.</string>
   <string name="kg_pattern_instructions">Dessinez votre schéma.</string>
@@ -806,7 +806,7 @@ Accédez à la page "<b>google.com/accounts/recovery</b>.</string>
   <string name="lockscreen_glogin_password_hint">Mot de passe</string>
   <string name="lockscreen_glogin_submit_button">Se connecter</string>
   <string name="lockscreen_glogin_too_many_attempts">Trop de tentatives</string>
-  <string name="lockscreen_glogin_username_hint">"Nom d'utilisateur (e-mail)"</string>
+  <string name="lockscreen_glogin_username_hint">"Nom d'utilisateur (Email)"</string>
   <string name="lockscreen_instructions_when_pattern_disabled">Appuyez sur \"Menu\" pour déverrouiller le téléphone.</string>
   <string name="lockscreen_instructions_when_pattern_enabled">"Appuyez sur \"Menu\" pour déverrouiller le téléphone ou appeler un numéro d'urgence"</string>
   <string name="lockscreen_missing_sim_instructions">Insérez une carte SIM.</string>
@@ -1055,7 +1055,7 @@ Veuillez réessayer dans %2$d secondes."</string>
   <string name="permdesc_readCalendar">"Cette application peut lire tous les événements d'agenda enregistrés sur votre téléphone et partager ou enregistrer vos données d'agenda."</string>
   <string name="permdesc_readCallLog">"Cette application peut lire l'historique de vos appels."</string>
   <string name="permdesc_readCellBroadcasts">"Permet à l'application de lire les messages que votre appareil reçoit via un canal de diffusion cellulaire. Dans certaines zones géographiques, des alertes vous sont envoyées afin de vous prévenir en cas de situation d'urgence. Les applications malveillantes peuvent venir perturber les performances ou le fonctionnement de votre appareil lorsqu'un message est reçu via un canal de diffusion cellulaire."</string>
-  <string name="permdesc_readContacts">"Permet à l'application de lire les données relatives aux contacts stockés sur votre téléphone, y compris la fréquence à laquelle vous avez appelé des personnes spécifiques, leur avez envoyé des e-mails ou avez communiqué avec elles par d'autres moyens. Cette autorisation permet aux applications d'enregistrer ces données. Les applications malveillantes peuvent les partager à votre insu."</string>
+  <string name="permdesc_readContacts">"Permet à l'application de lire les données relatives aux contacts stockés sur votre téléphone, y compris la fréquence à laquelle vous avez appelé des personnes spécifiques, leur avez envoyé des Emails ou avez communiqué avec elles par d'autres moyens. Cette autorisation permet aux applications d'enregistrer ces données. Les applications malveillantes peuvent les partager à votre insu."</string>
   <string name="permdesc_readHistoryBookmarks">"Permet à l'application d'accéder à l'historique de toutes les URL auxquelles le navigateur a accédé, ainsi qu'à l'ensemble des favoris du navigateur. Remarque: il est possible que cette autorisation ne soit pas appliquée par les navigateurs tiers ni par d'autres applications permettant de naviguer sur le Web."</string>
   <string name="permdesc_readInstallSessions">"Permet à une application d'accéder aux sessions d'installation. Cela lui permet de consulter les détails relatifs à l'installation des packages actifs."</string>
   <string name="permdesc_readNetworkUsageHistory">"Permet à l'application de lire l'historique d'utilisation de réseaux et d'applications spécifiques."</string>
@@ -1101,7 +1101,7 @@ Veuillez réessayer dans %2$d secondes."</string>
   <string name="permdesc_wakeLock">"Permet à l'application d'empêcher le téléphone de passer en mode veille."</string>
   <string name="permdesc_writeCalendar">"Cette application peut ajouter, supprimer ou modifier les événements d'agenda enregistrés sur votre téléphone. Elle peut en outre envoyer des messages qui semblent provenir du propriétaire de l'agenda, ou modifier des événements sans en informer leur propriétaire."</string>
   <string name="permdesc_writeCallLog">"Permet à l'application de lire le journal d'appels de votre téléphone, y compris les données relatives aux appels entrants et sortants. Des applications malveillantes peuvent utiliser cette fonctionnalité pour effacer ou modifier votre journal d'appels."</string>
-  <string name="permdesc_writeContacts">"Permet à l'application de modifier les données relatives aux contacts stockés sur votre téléphone, y compris la fréquence à laquelle vous avez appelé des personnes spécifiques, leur avez envoyé des e-mails ou avez communiqué avec elles par d'autres moyens. Cette autorisation permet aux applications de supprimer ces données."</string>
+  <string name="permdesc_writeContacts">"Permet à l'application de modifier les données relatives aux contacts stockés sur votre téléphone, y compris la fréquence à laquelle vous avez appelé des personnes spécifiques, leur avez envoyé des Emails ou avez communiqué avec elles par d'autres moyens. Cette autorisation permet aux applications de supprimer ces données."</string>
   <string name="permdesc_writeGeolocationPermissions">"Permet à l'application de modifier les autorisations de géolocalisation du navigateur. Des applications malveillantes peuvent exploiter cette fonctionnalité pour permettre l'envoi de données de localisation à des sites Web arbitraires."</string>
   <string name="permdesc_writeHistoryBookmarks">"Permet à l'application de modifier l'historique du navigateur ou les favoris enregistrés sur votre téléphone. Cette autorisation peut lui permettre d'effacer ou de modifier les données du navigateur. Remarque: il est possible que cette autorisation ne soit pas appliquée par les navigateurs tiers ni par d'autres applications permettant de naviguer sur le Web."</string>
   <string name="permdesc_writeSettings">"Permet à l'application de modifier les paramètres du système. Des applications malveillantes peuvent exploiter cette fonctionnalité pour corrompre la configuration de votre système."</string>
@@ -1241,7 +1241,7 @@ pour le compte \"%s\""</string>
   <string name="permlab_use_sip">effectuer/recevoir des appels SIP</string>
   <string name="permlab_vibrate">contrôler le vibreur</string>
   <string name="permlab_wakeLock">empêcher le téléphone de passer en mode veille</string>
-  <string name="permlab_writeCalendar">"ajouter ou modifier des événements d'agenda et envoyer des e-mails aux invités à l'insu des propriétaires"</string>
+  <string name="permlab_writeCalendar">"ajouter ou modifier des événements d'agenda et envoyer des Emails aux invités à l'insu des propriétaires"</string>
   <string name="permlab_writeCallLog">"modifier le journal d'appels"</string>
   <string name="permlab_writeContacts">modifier les contacts</string>
   <string name="permlab_writeGeolocationPermissions">modifier les autorisations de géolocalisation du navigateur</string>

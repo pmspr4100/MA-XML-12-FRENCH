@@ -499,7 +499,7 @@
   <string name="bluetooth_talkback_input_peripheral">"Périphérique d'entrée"</string>
   <string name="bluetooth_talkback_phone">Téléphone</string>
   <string name="bluetooth_tethered">Connexion via Bluetooth activée</string>
-  <string name="branded_monitoring_description_app_personal">Vous êtes connecté à %1$s, qui peut surveiller les activités de votre réseau personnel, y compris les e-mails, les applications et les sites Web.</string>
+  <string name="branded_monitoring_description_app_personal">Vous êtes connecté à %1$s, qui peut surveiller les activités de votre réseau personnel, y compris les Emails, les applications et les sites Web.</string>
   <string name="branded_vpn_footer">Le réseau peut être surveillé</string>
   <string name="broadcast_tile">Vignette de diffusion</string>
   <string name="bt_hci_snoop_log">Activer Bluetooth HCI journal de snoop</string>
@@ -949,7 +949,7 @@ Utilisez uniquement le chargeur fourni."</string>
   <string name="keyboard_shortcut_group_applications_browser">Navigateur</string>
   <string name="keyboard_shortcut_group_applications_calendar">Calendrier</string>
   <string name="keyboard_shortcut_group_applications_contacts">Contacts</string>
-  <string name="keyboard_shortcut_group_applications_email">E-mail</string>
+  <string name="keyboard_shortcut_group_applications_email">Email</string>
   <string name="keyboard_shortcut_group_applications_music">Musique</string>
   <string name="keyboard_shortcut_group_applications_sms">Message</string>
   <string name="keyboard_shortcut_group_applications_youtube">YouTube</string>
@@ -1173,23 +1173,23 @@ une capture d'écran de défilement"</string>
   <string name="mock_location_app_not_set">Aucune application de localisation fictive définie</string>
   <string name="mock_location_app_set">"Simulation de l'appli de localisation: %1$s"</string>
   <string name="monitoring_button_view_policies">Voir les conditions</string>
-  <string name="monitoring_description_app">Vous êtes connecté à %1$s, qui peut surveiller les activités de votre réseau, y compris les e-mails, les applications et les sites Web.</string>
-  <string name="monitoring_description_app_personal">Vous êtes connecté à %1$s, qui peut surveiller les activités de votre réseau personnel, y compris les e-mails, les applications et les sites Web.</string>
-  <string name="monitoring_description_app_personal_work">"Votre profil de travail est géré par %1$s. Le profil est connecté à %2$s, qui peut contrôler l'activité de votre réseau, y compris les e-mails, les applications et les sites Web.
+  <string name="monitoring_description_app">Vous êtes connecté à %1$s, qui peut surveiller les activités de votre réseau, y compris les Emails, les applications et les sites Web.</string>
+  <string name="monitoring_description_app_personal">Vous êtes connecté à %1$s, qui peut surveiller les activités de votre réseau personnel, y compris les Emails, les applications et les sites Web.</string>
+  <string name="monitoring_description_app_personal_work">"Votre profil de travail est géré par %1$s. Le profil est connecté à %2$s, qui peut contrôler l'activité de votre réseau, y compris les Emails, les applications et les sites Web.
 
 Vous êtes aussi connecté à %3$s, qui peut contrôler l'activité de votre réseau personnel."</string>
-  <string name="monitoring_description_app_work">"Votre profil de travail est géré par %1$s. Le profil est connecté à %2$s, qui peut contrôler l'activité de votre réseau, y compris les e-mails, les applications et les sites Web.
+  <string name="monitoring_description_app_work">"Votre profil de travail est géré par %1$s. Le profil est connecté à %2$s, qui peut contrôler l'activité de votre réseau, y compris les Emails, les applications et les sites Web.
 
 Pour plus d'informations, contactez votre administrateur."</string>
   <string name="monitoring_description_ca_cert_settings">"Ouvrir les informations d'identification approuvées"</string>
   <string name="monitoring_description_ca_certificate">"Un certificat d'autorité est installé sur cet appareil. Votre trafic réseau sécurisé peut être surveillé ou modifié."</string>
   <string name="monitoring_description_do_body">"Votre administrateur peut surveiller et gérer les paramètres, l'accès à l'entreprise, les applications, les données associées à votre appareil et les informations de localisation de votre appareil."</string>
-  <string name="monitoring_description_do_body_vpn">Vous êtes connecté à %1$s, qui peut surveiller les activités de votre réseau, y compris les e-mails, les applications et les sites Web.</string>
+  <string name="monitoring_description_do_body_vpn">Vous êtes connecté à %1$s, qui peut surveiller les activités de votre réseau, y compris les Emails, les applications et les sites Web.</string>
   <string name="monitoring_description_do_header_generic">Votre appareil est géré par %1$s.</string>
   <string name="monitoring_description_do_header_with_name">%1$s utilise %2$s pour gérer votre appareil.</string>
   <string name="monitoring_description_do_learn_more">En savoir plus</string>
   <string name="monitoring_description_managed_profile_ca_certificate">"Votre organisation a installé un certificat d'autorité dans votre profil de travail. Votre trafic réseau sécurisé peut être surveillé ou modifié."</string>
-  <string name="monitoring_description_managed_profile_named_vpn">Votre profil de travail est connecté à %1$s, qui peut surveiller votre activité réseau, avec les e-mail, les applications et les sites Web inclus.</string>
+  <string name="monitoring_description_managed_profile_named_vpn">Votre profil de travail est connecté à %1$s, qui peut surveiller votre activité réseau, avec les Email, les applications et les sites Web inclus.</string>
   <string name="monitoring_description_management">"Votre appareil est géré par votre organisation.
 
 Votre administrateur peut surveiller et gérer les paramètres, l'accès à l'entreprise, les applications, les données associées à votre appareil et les informations de localisation de votre appareil.
@@ -1202,18 +1202,18 @@ Pour plus d'informations, contactez votre administrateur."</string>
 Votre administrateur peut surveiller et gérer les paramètres, l'accès à l'entreprise, les applications, les données associées à votre appareil et les informations de localisation de votre appareil.
 
 Pour plus d'informations, contactez votre administrateur."</string>
-  <string name="monitoring_description_named_vpn">Votre profil est connecté à %1$s, qui peut surveiller votre activité réseau ainsi que les e-mails, les applications et les site Web.</string>
+  <string name="monitoring_description_named_vpn">Votre profil est connecté à %1$s, qui peut surveiller votre activité réseau ainsi que les Emails, les applications et les site Web.</string>
   <string name="monitoring_description_network_logging">"Votre administrateur a activé la journalisation du réseau , ce qui surveille le trafic sur votre appareil.
 
 Pour plus d'informations, contactez votre administrateur."</string>
-  <string name="monitoring_description_personal_profile_named_vpn">Votre profil personnel est connecté à %1$s, qui peut surveiller votre activité réseau, avec les e-mail, les applications et les sites Web inclus.</string>
-  <string name="monitoring_description_two_named_vpns">Votre profil est connecté à %1$s et %2$s, qui peuvent surveiller votre activité réseau ainsi que les e-mails, les applications et les site Web.</string>
+  <string name="monitoring_description_personal_profile_named_vpn">Votre profil personnel est connecté à %1$s, qui peut surveiller votre activité réseau, avec les Email, les applications et les sites Web inclus.</string>
+  <string name="monitoring_description_two_named_vpns">Votre profil est connecté à %1$s et %2$s, qui peuvent surveiller votre activité réseau ainsi que les Emails, les applications et les site Web.</string>
   <string name="monitoring_description_vpn">"You avez accordé l'autorisation à une application pour configurer une connexion VPN.
 
-Cette application peut surveiller votre appareil et l'activité du réseau, y compris les e-mails, les applications et les sites Web."</string>
+Cette application peut surveiller votre appareil et l'activité du réseau, y compris les Emails, les applications et les sites Web."</string>
   <string name="monitoring_description_vpn_profile_owned">"Votre profil de travail est géré par %1$s.
 
-Votre administrateur est capable de surveiller l'activité de votre réseau y compris les e-mails, les applications et les sites Web.
+Votre administrateur est capable de surveiller l'activité de votre réseau y compris les Emails, les applications et les sites Web.
 
 Pour plus d'informations, contactez votre administrateur.
 

@@ -85,13 +85,13 @@
   <string name="passport_change_phone_number">Changer de numéro</string>
   <string name="passport_forget_password">Mot de passe oublié</string>
   <string name="passport_forget_password_no_underline">Mot de passe oublié</string>
-  <string name="passport_reg_type_email">Adresse e-mail</string>
-  <string name="passport_international_register_by_email">"Créer un compte en utilisant l'adresse e-mail"</string>
+  <string name="passport_reg_type_email">Adresse Email</string>
+  <string name="passport_international_register_by_email">"Créer un compte en utilisant l'adresse Email"</string>
   <string name="passport_account_not_actived">"Votre compte n'a pas été activé"</string>
   <string name="passport_active_email_visit">Vérifiez votre boîte de réception à %s</string>
   <string name="passport_click_email_to_valid">"Pour activer votre compte, suivez le lien que nous avons envoyé dans votre boîte de réception."</string>
-  <string name="passport_resend_active_email">"Ré-envoyer l'e-mail"</string>
-  <string name="passport_failed_to_send_activate_email">"Impossible d'envoyer l'e-mail d'activation"</string>
+  <string name="passport_resend_active_email">"Ré-envoyer l'Email"</string>
+  <string name="passport_failed_to_send_activate_email">"Impossible d'envoyer l'Email d'activation"</string>
   <string name="passport_reg_success">Compte créé</string>
   <string name="passport_email_reg_success_summary">"%1$s a été associé à votre compte. Vous pouvez l'utiliser pour vous connecter et réinitialiser votre mot de passe."</string>
   <string name="passport_remove_unactivated_account_notice">"Votre compte n'a pas été activé."</string>
@@ -103,10 +103,10 @@
   <string name="passport_can_not_receive_verification_code">Impossible de recevoir le code de vérification ?</string>
   <string name="passport_register_account_verified_confirm">Compte vérifié</string>
   <string name="passport_register_account_goto_email">Aller à la boite de réception</string>
-  <string name="passport_error_dup_email">"L'e-mail que vous avez entré est déjà associé à un autre compte."</string>
+  <string name="passport_error_dup_email">"L'Email que vous avez entré est déjà associé à un autre compte."</string>
   <string name="passport_get_back_pwd">Récupérer le mot de passe</string>
   <string name="passport_login_instead_reg">Utilisez ce numéro</string>
-  <string name="passport_login_instead_reg_with_email">Utilisez cet e-mail</string>
+  <string name="passport_login_instead_reg_with_email">Utilisez cet Email</string>
   <string name="passport_quick_login_title">Saisissez votre mot de passe</string>
   <string name="passport_quick_login_step2_title">Vérification en 2 étapes</string>
   <string name="passport_quick_login_dialog_title">Vérifier le mot de passe</string>
@@ -114,14 +114,14 @@
   <string name="passport_delete_account">Se Déconnecter</string>
   <string name="passport_vcode_notification_title">"La vérification n'est pas terminée"</string>
   <string name="passport_account_name">"Compte: %1$s "</string>
-  <string name="passport_account_hint_text">E-mail/Téléphone/ID de Compte Mi</string>
-  <string name="passport_email_or_id_hint_text">E-mail/ID de compte Mi</string>
+  <string name="passport_account_hint_text">Email/Téléphone/ID de Compte Mi</string>
+  <string name="passport_email_or_id_hint_text">Email/ID de compte Mi</string>
   <string name="passport_phone_num_hint_text">Numéro de téléphone</string>
   <string name="passport_input_password_hint">Saisir le mot de passe</string>
   <string name="passport_input_captcha_hint">Saisir le captcha</string>
   <string name="passport_input_vcode_hint">Entrez le code de vérification</string>
   <string name="passport_input_voice_hint">Entrez le code vocal</string>
-  <string name="passport_email">Adresse e-mail</string>
+  <string name="passport_email">Adresse Email</string>
   <string name="passport_vcode_prompt_long">Entrez le code de vérification</string>
   <string name="passport_input_phone_hint">Entrez un numéro de téléphone</string>
   <string name="passport_input_voice_captcha_hint">Saisissez le code de vérification par voix</string>
@@ -129,8 +129,8 @@
   <string name="passport_error_invalid_phone_num">Numéro de téléphone non valide</string>
   <string name="passport_error_empty_phone_num">Entrez un numéro de téléphone</string>
   <string name="passport_wrong_phone_number_format">Le format du numéro de téléphone entré est non valide</string>
-  <string name="passport_error_empty_email">Entrez votre adresse e-mail</string>
-  <string name="passport_error_email">"L'adresse e-mail saisie n'est pas valide"</string>
+  <string name="passport_error_empty_email">Entrez votre adresse Email</string>
+  <string name="passport_error_email">"L'adresse Email saisie n'est pas valide"</string>
   <string name="passport_error_empty_pwd">Saisissez votre mot de passe</string>
   <string name="passport_error_illegal_pwd">Mot de passe incorrect</string>
   <string name="passport_error_empty_captcha_code">Entrer le code captcha</string>
@@ -258,7 +258,7 @@
   <string name="search_user_detail_desc">Informations personnelles</string>
   <string name="search_user_detail_path">Paramètres/Compte Mi/Informations personnelles</string>
   <string name="search_account_security">Sécurité du compte</string>
-  <string name="search_account_security_key_words">"Changer de téléphone,Changer d'e-mail,Protection du compte,Comptes,Sina,Weibo,QQ,Autorisation,Appareils"</string>
+  <string name="search_account_security_key_words">"Changer de téléphone,Changer d'Email,Protection du compte,Comptes,Sina,Weibo,QQ,Autorisation,Appareils"</string>
   <string name="search_account_security_desc">Paramètres du compte</string>
   <string name="search_account_security_path">Paramètres/Compte Mi/Sécurité du compte</string>
   <string name="app_name">Compte Mi</string>
@@ -332,7 +332,7 @@ Vous pouvez vous connecter à votre compte Mi en utilisant %s maintenant."</stri
   <string name="account_invalid_user_avatar">"Cette photo n'est pas valide. Essayez un autre."</string>
   <string name="account_none_binded_info">Aucun</string>
   <string name="account_bind_secure_phone_title">Ajouter un numéro de téléphone</string>
-  <string name="account_bind_secure_email_title">Ajouter un e-mail</string>
+  <string name="account_bind_secure_email_title">Ajouter un Email</string>
   <string name="update_phone_number_notice_message">Vous devez vérifier votre identité avant de mettre à jour votre numéro de téléphone.</string>
   <string name="failed_dup_secure_phone_number">Ce numéro de téléphone est déjà associé avec un autre compte Mi</string>
   <string name="find_device">Find device</string>
@@ -342,31 +342,31 @@ Vous pouvez vous connecter à votre compte Mi en utilisant %s maintenant."</stri
   <string name="confirm_unbundled_phone_dialog_message">Le numéro de téléphone %1$s est associé au Compte Mi %2$s. Il ne sera plus associé au compte Mi %3$s si vous continuez. Continuer ?</string>
   <string name="change_phone_number">Modifier le numéro de téléphone</string>
   <string name="character_counter_content_description">Character limit exceeded %1$d of %2$d</string>
-  <string name="change_email_address">"Modifier l'adresse e-mail"</string>
+  <string name="change_email_address">"Modifier l'adresse Email"</string>
   <string name="continue_action">Continuer</string>
   <string name="replace_binded_phone">Remplacer le numéro</string>
   <string name="delete_action">Supprimer</string>
   <string name="restart_phone_bind_title">Modifier le numéro de récupération</string>
   <string name="restart_phone_bind_message">La réception du SMS peut prendre un peu de temps. Recommencer quand même ?</string>
   <string name="restart_action">Recommencer</string>
-  <string name="error_dup_binded_email">Cette adresse e-mail est déjà associée avec un autre compte Mi.</string>
-  <string name="error_invalid_bind_address">"L'adresse e-mail saisie n'est pas valide."</string>
+  <string name="error_dup_binded_email">Cette adresse Email est déjà associée avec un autre compte Mi.</string>
+  <string name="error_invalid_bind_address">"L'adresse Email saisie n'est pas valide."</string>
   <string name="get_phone_bind_exceed_limit">"Vous pouvez associer jusqu'à 3 comptes Mi avec un numéro de téléphone. Impossible d'ajouter de nouveaux comtpes."</string>
   <string name="just_a_second">Chargement…</string>
   <string name="get_phone_verifycode_exceed_limit">Trop de codes de vérification ont été envoyés à ce numéro. Attendez 24 heures et essayez à nouveau.</string>
   <string name="mi_account_identity_title">Vérifier votre identité</string>
   <string name="exceed_binded_phone_times_notice">Ce numéro de téléphone est déjà associé avec un autre compte Mi.</string>
-  <string name="input_email_address_notice">Nous utiliserons cette adresse e-mail pour valider votre compte</string>
-  <string name="send_email_activate_message">E-mail de vérification envoyé</string>
+  <string name="input_email_address_notice">Nous utiliserons cette adresse Email pour valider votre compte</string>
+  <string name="send_email_activate_message">Email de vérification envoyé</string>
   <string name="activate_email_notice">"Assurez-vous d'activer votre compte dans les 24 heures"</string>
-  <string name="change_activate_email">"Modifier l'adresse e-mail"</string>
+  <string name="change_activate_email">"Modifier l'adresse Email"</string>
   <string name="resend_active_email">Renvoyer</string>
   <string name="confirm_activate_email">Vérifié</string>
-  <string name="resend_email_success">E-mail renvoyé</string>
+  <string name="resend_email_success">Email renvoyé</string>
   <string name="resend_email_reach_limit_title">"Impossible d'envoyer l'email"</string>
-  <string name="resend_email_reach_limit_message">"Vous avez envoyé trop d'e-mails de vérification. Assurez-vous que l'e-mail de vérification n'est pas dans le dossier de courriers indésirables de votre boîte de réception."</string>
-  <string name="update_email_address_dialog_title">"Mettre l'E-mail à jour"</string>
-  <string name="update_email_address_dialog_message">Vous devez vérifier votre identité avant de mettre à jour votre E-mail.</string>
+  <string name="resend_email_reach_limit_message">"Vous avez envoyé trop d'Emails de vérification. Assurez-vous que l'Email de vérification n'est pas dans le dossier de courriers indésirables de votre boîte de réception."</string>
+  <string name="update_email_address_dialog_title">"Mettre l'Email à jour"</string>
+  <string name="update_email_address_dialog_message">Vous devez vérifier votre identité avant de mettre à jour votre Email.</string>
   <string name="update_phone_notice">Modifier les paramètres de sécurité</string>
   <string name="no_phone">Aucun numéro de téléphone</string>
   <string name="action_update_phone">Modifier le numéro de téléphone</string>
@@ -458,7 +458,7 @@ Vous pouvez vous connecter à votre compte Mi en utilisant %s maintenant."</stri
 3. Votre numéro de déverrouillage: %s"</string>
   <string name="login_find_device_bind">"Cet appareil est associé à l'ID d'un Compte Mi existant (%s)."</string>
   <string name="find_device_locked_account_phone" formatted="false">%s, numéro de téléphone associé: %s</string>
-  <string name="find_device_locked_account_email" formatted="false">%s, adresse e-mail associée: %s</string>
+  <string name="find_device_locked_account_email" formatted="false">%s, adresse Email associée: %s</string>
   <string name="oauth_title">Se connecter avec le compte Mi</string>
   <string name="oauth_getting_scopes">Vérification du compte…</string>
   <string name="oauth_get_scopes_failed">"Impossible d'obtenir les infos du compte"</string>
@@ -470,7 +470,7 @@ Vous pouvez vous connecter à votre compte Mi en utilisant %s maintenant."</stri
   <string name="pwd_width_phone_number_or_mail_num">"Le mot de passe ne peut pas contenir votre numéro de téléphone, votre email ou votre identifiant de compte Mi"</string>
   <string name="push_notify_dialog_message">"Un appareil inconnu est utilisé pour se connecter à votre Compte Mi. Saisissez ce code de vérification sur votre appareil. Si ce n'était pas vous, veuillez changer le mot de passe de votre Compte Mi dès maintenant. Ne dévoilez pas le code de vérification à d'autres personnes."</string>
   <string name="account_secure_info_pref_title">Informations du compte</string>
-  <string name="account_user_email">E-mail de secours</string>
+  <string name="account_user_email">Email de secours</string>
   <string name="account_user_phone">Téléphone de récupération</string>
   <string name="input_new_pwd">Entrez le nouveau mot de passe</string>
   <string name="confirm_new_pwd">Confirmer le nouveau mot de passe</string>
@@ -568,7 +568,7 @@ Envoyez ce code au superviseur."</string>
   <string name="kr_permission_storage_desc">Pour sauvegarder les diagnostics</string>
   <string name="kr_permission_sms_desc">Pour les codes de vérification à remplissage automatique</string>
   <string name="passport_quick_register_notice">"&lt;u&gt;Vous n'avez pas de compte Mi ? Créer en un.&lt;/u&gt;"</string>
-  <string name="passport_register_by_email">"&lt;u&gt;Créer un compte à l'aide d'une adresse e-mail&lt;/u&gt;"</string>
+  <string name="passport_register_by_email">"&lt;u&gt;Créer un compte à l'aide d'une adresse Email&lt;/u&gt;"</string>
   <string name="passport_select_reg_ways_title">"Autres façons de s'inscrire"</string>
   <string name="passport_ticket_login_select_sim_card">Sélectionnez une carte SIM</string>
   <string name="passport_ticket_login_select_sim_card_cancel">Annuler</string>
