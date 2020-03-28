@@ -157,15 +157,15 @@
   <string name="bluetooth_active_battery_level">Actif, %1$s de batterie</string>
   <string name="bluetooth_active_no_battery_level">Actif</string>
   <string name="bluetooth_battery_level">%1$s de batterie</string>
-  <string name="bluetooth_connected">Connecté%1$s</string>
+  <string name="bluetooth_connected">Connecté %1$s</string>
   <string name="bluetooth_connected_battery_level">Connecté, batterie à %1$s%2$s</string>
-  <string name="bluetooth_connected_no_a2dp">Connecté (aucun contenu mutimédia)%1$s</string>
+  <string name="bluetooth_connected_no_a2dp">Connecté (aucun contenu mutimédia) %1$s</string>
   <string name="bluetooth_connected_no_a2dp_battery_level">Connecté (aucun contenu multimédia), batterie à %1$s%2$s</string>
-  <string name="bluetooth_connected_no_headset">Connecté (aucun téléphone)%1$s</string>
+  <string name="bluetooth_connected_no_headset">Connecté (aucun téléphone) %1$s</string>
   <string name="bluetooth_connected_no_headset_battery_level">Connecté (aucun téléphone), batterie à %1$s%2$s</string>
-  <string name="bluetooth_connected_no_headset_no_a2dp">Connecté (aucun tél./contenu multimédia)%1$s</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp">Connecté (aucun tél./contenu multimédia) %1$s</string>
   <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Connecté (aucun téléphone ni contenu multimédia), batterie à %1$s%2$s</string>
-  <string name="bluetooth_connected_no_map">Connecté (sans accès aux messages)%1$s</string>
+  <string name="bluetooth_connected_no_map">Connecté (sans accès aux messages) %1$s</string>
   <string name="bluetooth_connecting">Connexion…</string>
   <string name="bluetooth_disable_absolute_volume">Désactiver le volume absolu</string>
   <string name="bluetooth_disable_absolute_volume_summary">"Désactive la fonctionnalité de volume absolu du Bluetooth en cas de problème de volume sur les appareils à distance, par exemple si le volume est trop élevé ou s'il ne peut pas être contrôlé"</string>
@@ -1877,9 +1877,9 @@ Les appels d’urgence ne sont possibles que dans les zones couvertes par une co
   <string name="wait_for_debugger_summary">"L'application déboguée attend d'être liée au débogueur pour s'exécuter."</string>
   <string name="wait_prompt_str">"Envoyer les tonalités suivantes ?
 "</string>
-  <string name="wfcmode_mobile_preferred">Préférer les réseaux mobiles</string>
+  <string name="wfcmode_mobile_preferred">Réseaux cellulaires</string>
   <string name="wfcmode_wifi_only">Wi-Fi uniquement</string>
-  <string name="wfcmode_wifi_preferred">Préferer le Wi-Fi</string>
+  <string name="wfcmode_wifi_preferred">Réseaux Wi-Fi</string>
   <string name="wifi_ap_unable_to_handle_new_sta">"Point d'accès temporairement plein"</string>
   <string name="wifi_auto_sel_wapi_cert">Sélectionnez automatiquement</string>
   <string name="wifi_call_accept">Suivant</string>
