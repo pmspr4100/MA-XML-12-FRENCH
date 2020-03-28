@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="accessibility_menu_item_split_disable">"App doesn't support Split screen."</string>
-  <string name="accessibility_menu_item_split_enable">App supports Split screen</string>
+  <string name="accessibility_menu_item_split_disable">"L'application ne prend pas en charge l'écran partagé."</string>
+  <string name="accessibility_menu_item_split_enable">"L'application prend en charge l'écran partagé"</string>
   <string name="accessibility_recents_item_open_app_info">Open %s application info.</string>
-  <string name="accessibility_splite_screen_primary">Added as the primary app in Split screen</string>
-  <string name="accessibility_splite_screen_secondary">Added as the secondary app in Split screen</string>
+  <string name="accessibility_splite_screen_primary">"Ajouté comme application principale dans l'écran partagé"</string>
+  <string name="accessibility_splite_screen_secondary">"Ajouté comme application secondaire dans l'écran partagé"</string>
   <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
   <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
   <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
@@ -30,7 +30,7 @@
   <string name="default_folder_title_other_apps">Autres applications</string>
   <string name="one_key_call_title">Appuyez pour composer</string>
   <string name="system_text">Système</string>
-  <string name="task_access_locked_app_msg">Turned on app lock</string>
+  <string name="task_access_locked_app_msg">"Activé le verrouillage de l'application"</string>
   <string name="add_custom_category">Personnaliser</string>
   <string name="add_screen">Ajouter un écran</string>
   <string name="added_all_category">Ajout de toutes les applications avec succès</string>
@@ -318,7 +318,7 @@
   <string name="menu_auto_fill_of_uninstall">"Remplir les cellules d'applications désinstallées"</string>
   <string name="menu_back_desktop">"Retour à l'écran d'accueil"</string>
   <string name="menu_cell_setting">"Disposition de l'écran d'accueil"</string>
-  <string name="menu_customize">paramètres</string>
+  <string name="menu_customize">Paramètres</string>
   <string name="menu_default_screen_preview">"Définir l'écran par défaut"</string>
   <string name="menu_edit">"Éditer l'écran d'accueil"</string>
   <string name="menu_exit_scene">Quitter le lanceur Mi Space</string>
@@ -326,7 +326,7 @@
   <string name="menu_item_add_item">Placer sur le bureau</string>
   <string name="menu_launcher_setting">Paramètres du lanceur</string>
   <string name="menu_lock">"Verrouiller la disposition de l'écran d'accueil"</string>
-  <string name="menu_more">Plus</string>
+  <string name="menu_more">Menu additionnels</string>
   <string name="menu_picktheme">Choisir un thème</string>
   <string name="menu_reset_scene">Revenir à la disposition par défaut</string>
   <string name="menu_search">Rechercher</string>
@@ -367,7 +367,7 @@
   <string name="photo_adjust">Prévisualiser</string>
   <string name="photo_confirm">Définir</string>
   <string name="photo_load_failed">Impossible de charger la photo</string>
-  <string name="please_slide_agian">Slide again</string>
+  <string name="please_slide_agian">Faites glisser à nouveau</string>
   <string name="pref_cell_layout_size">Format de la grille</string>
   <string name="pref_enable_drawing_cache_summary">Désactiver cette option permettra de libérer plus de mémoire. Cela rendra les performances plus lentes.</string>
   <string name="pref_enable_drawing_cache_title">Cache graphique</string>
@@ -389,21 +389,21 @@
   <string name="quick_app">Applications rapides</string>
   <string name="recent_apps">Récents</string>
   <string name="recent_menu_item_info">Info</string>
-  <string name="recent_menu_item_lock">Lock</string>
+  <string name="recent_menu_item_lock">Verrouiller</string>
   <string name="recent_menu_item_multi_window">Split</string>
-  <string name="recent_menu_item_unlock">Unlock</string>
+  <string name="recent_menu_item_unlock">Déverrouiller</string>
   <string name="recents_app_info_button_label">App info</string>
   <string name="recents_config_title">Récents</string>
-  <string name="recents_dimiss_task">Clear</string>
-  <string name="recents_empty_message">No recent items</string>
-  <string name="recents_empty_message_dismissed_all">"You've cleared everything"</string>
-  <string name="recents_empty_message_multi_window">Open apps from the Home screen</string>
-  <string name="recents_forbid_dock_when_screening_toast_text">"Can't use Split screen while casting"</string>
+  <string name="recents_dimiss_task">Effacer</string>
+  <string name="recents_empty_message">Aucun élément récent</string>
+  <string name="recents_empty_message_dismissed_all">Tu as tout effacé</string>
+  <string name="recents_empty_message_multi_window">"Ouvrir des applications depuis l'écran d'accueil"</string>
+  <string name="recents_forbid_dock_when_screening_toast_text">"Impossible d'utiliser l'écran partagé pendant la diffusion"</string>
   <string name="recents_task_screening">Casting</string>
-  <string name="recents_title_app_manager">Manage apps</string>
-  <string name="recents_title_game">Games</string>
-  <string name="recents_title_garbage_cleanup">Cleaner</string>
-  <string name="recents_title_garbage_deepclean">Deep clean</string>
+  <string name="recents_title_app_manager">Gérer les applications</string>
+  <string name="recents_title_game">Jeux</string>
+  <string name="recents_title_garbage_cleanup">Nettoyeur</string>
+  <string name="recents_title_garbage_deepclean">Nettoyage en profondeur</string>
   <string name="recents_title_market">Find apps</string>
   <string name="recents_title_security_scan">Security scan</string>
   <string name="recommend_apk_size_and_desc">%1$d Mo | %2$s</string>
