@@ -1,31 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="actionbar_button_up_description">Retour</string>
-  <string name="app_name">clientSDK</string>
   <string name="casting_tips">Screening...</string>
-  <string name="console_guide_btn_got_it">Got it</string>
+  <string name="console_guide_btn_got_it">Compris</string>
   <string name="console_guide_subtitle_hang_up">"Don't interrupt casting when the phone's screen turns off. This feature might increase power consumption."</string>
   <string name="console_guide_subtitle_private">"Don't cast floating notifications, incoming call notifications, and other items that might contain personal information"</string>
   <string name="console_guide_subtitle_small_window">Minimize the projected window to be able to use other features of your phone while casting</string>
   <string name="dialog_can_not_find_device">"Couldn't find devices nearby"</string>
   <string name="dialog_cancle">Annuler</string>
-  <string name="dialog_connect_fail">"Couldn't connect"</string>
-  <string name="dialog_connect_retry">Tap to try again</string>
+  <string name="dialog_connect_fail">"Impossible de se connecter"</string>
+  <string name="dialog_connect_retry">Appuyez pour réessayer</string>
   <string name="dialog_connect_verify_perssion">Authorize casting on your TV first</string>
   <string name="dialog_connect_verify_perssion_fail">"Couldn't authorize casting on your TV. Wait a minute or two and try again."</string>
-  <string name="dialog_connected">Connected</string>
+  <string name="dialog_connected">Connecté</string>
   <string name="dialog_connecting">Connecting…</string>
   <string name="dialog_ok">OK</string>
-  <string name="dialog_only_suport_content">Stream photos, videos, or music</string>
-  <string name="dialog_open_wifi_bt">Turn on</string>
+  <string name="dialog_only_suport_content">Diffusez des photos, des vidéos ou de la musique</string>
+  <string name="dialog_open_wifi_bt">Activer</string>
   <string name="dialog_please_make_sure_tv_ok_or_help">"Make sure that the wireless casting feature is turned on on the target device.
 View help if you have problems connecting."</string>
-  <string name="dialog_recent_connected">Recent</string>
-  <string name="dialog_retry">Try again</string>
+  <string name="dialog_recent_connected">Récent</string>
+  <string name="dialog_retry">Réessayer</string>
   <string name="dialog_scanning_device">"Recherche d'appareils à proximité…"</string>
   <string name="dialog_scanning_precondition">Turn on Wi-Fi and Bluetooth on your phone to use Wireless Display.</string>
   <string name="dialog_select_tv">Select device (%d)</string>
-  <string name="dialog_show_help">Help</string>
+  <string name="dialog_show_help">Aide</string>
   <string name="disconnect">Stop casting</string>
   <string name="hang_up">Cast when screen is off</string>
   <string name="hang_up_alert_dialog_content">"Casting won't be interrupted when your phone's screen turns off. Press the Power button on your phone to turn the screen back on."</string>
@@ -122,15 +121,14 @@ Read and agree to our &amp;lt;a href=%1$s&amp;gt;User Agreement&amp;lt;/a&amp;gt
 　　•Get phone information Read the phone IMEI, Android_id, version and log information recording.
 　　•After reading the sound, cast the sound to the large screen device.
 　　•Targeting permissions Locate and discover surrounding devices."</string>
-  <string name="san_wait_msg_1">Turn on wireless casting on the target device</string>
+  <string name="san_wait_msg_1">"Activer la diffusion sans fil sur l'appareil cible"</string>
   <string name="san_wait_msg_2">"La recherche d'appareils peut prendre un certain temps…"</string>
-  <string name="san_wait_msg_3">"External devices are easier to find when they're connected to the same network as your phone"</string>
-  <string name="san_wait_msg_4">"View \"Help\" if you can't find devices"</string>  
-  <string name="sdk_name">lebo</string>
-  <string name="small_window">Minimize window</string>
+  <string name="san_wait_msg_3">"Les appareils externes sont plus faciles à trouver lorsqu'ils sont connectés au même réseau que votre téléphone"</string>
+  <string name="san_wait_msg_4">"Afficher \"Aide\" si vous ne trouvez pas les appareils"</string>  
+  <string name="small_window">Réduire la fenêtre</string>
   <string name="small_window_not_supported">"Can't minimize this app while it's being cast"</string>
   <string name="status_bar_in_casting">Casting</string>
-  <string name="status_bar_in_casting_long">Click to expand more features</string>
+  <string name="status_bar_in_casting_long">Cliquez pour développer plus de fonctionnalités</string>
   <string name="tile_label">Diffusion</string>
   <string name="toast_guide_show_more">Apprendre encore plus</string>
   <string name="toast_guide_title">Explorer de nouvelles fonctionnalités</string>
