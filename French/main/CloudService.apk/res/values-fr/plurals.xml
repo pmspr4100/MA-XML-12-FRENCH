@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="dirty_blocklist_count">
-        <item quantity="other">%d blocklist entries</item>
-        <item quantity="one">%d blocklist entry</item>
+        <item quantity="other">%d entrées sur liste noire</item>
+        <item quantity="one">%d entrée sur liste noire</item>
     </plurals>
     <plurals name="dirty_browser_count">
-        <item quantity="other">%d browser items</item>
-        <item quantity="one">%d browser item</item>
+        <item quantity="other">%d éléments du navigateur</item>
+        <item quantity="one">%d élément du navigateur</item>
     </plurals>
     <plurals name="dirty_calendar_count">
-        <item quantity="other">%d calendar items</item>
-        <item quantity="one">%d calendar item</item>
+        <item quantity="other">%d éléments de calendrier</item>
+        <item quantity="one">%d élément de calendrier</item>
     </plurals>
     <plurals name="dirty_callog_count">
-        <item quantity="other">%d call history records</item>
-        <item quantity="one">%d call history record</item>
+        <item quantity="other">"%d enregistrements d'historique d'appels"</item>
+        <item quantity="one">"%d enregistrement de l'historique des appels"</item>
     </plurals>
     <plurals name="dirty_contacts_count">
         <item quantity="other">%d contacts</item>
@@ -29,8 +29,8 @@
         <item quantity="one">%d message</item>
     </plurals>
     <plurals name="dirty_music_count">
-        <item quantity="other">%d chansons</item>
-        <item quantity="one">%d chanson</item>
+        <item quantity="other">%d musiques</item>
+        <item quantity="one">%d musique</item>
     </plurals>
     <plurals name="dirty_note_count">
         <item quantity="other">%d notes</item>
@@ -69,8 +69,8 @@
         <item quantity="one">%s service sera synchronisé avec Xiaomi Cloud</item>
     </plurals>
     <plurals name="items_unsynced">
-        <item quantity="other">Objets en attente de synchronisation : %d</item>
-        <item quantity="one">Objet en attente de synchronisation : %d</item>
+        <item quantity="other">Objets en attente de synchronisation: %d</item>
+        <item quantity="one">Objet en attente de synchronisation: %d</item>
     </plurals>
     <plurals name="last_sync_time_hours_ago">
         <item quantity="other">il y a %s hrs</item>

@@ -377,11 +377,11 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
   <string name="clear_dup_tip">Effacement des photos en double</string>
   <string name="click_download_gif">Appuyez pour télécharger le GIF</string>
   <string name="click_top_right">Appuyez sur cette icône</string>
-  <string name="clip_menu_back">Back</string>
-  <string name="clip_menu_cut">Cut</string>
-  <string name="clip_menu_remove">Delete</string>
-  <string name="clip_menu_reveerse">Reverse</string>
-  <string name="clip_menu_speedx">Speed</string>
+  <string name="clip_menu_back">Retour</string>
+  <string name="clip_menu_cut">Couper</string>
+  <string name="clip_menu_remove">Supprimer</string>
+  <string name="clip_menu_reveerse">Inverser</string>
+  <string name="clip_menu_speedx">Vitesse</string>
   <string name="close">Fermer</string>
   <string name="close_dialog_desc">Fermer la fenêtre de dialogue</string>
   <string name="cloud_authorize_to_share_to_device">"Autoriser la visualisation d'objets sur les téléviseurs associés à votre compte Mi"</string>
@@ -995,7 +995,7 @@ pour personnaliser Galerie"</string>
   <string name="operation_add_picture">Ajouter des éléments</string>
   <string name="operation_add_secret">Masquer</string>
   <string name="operation_back">Retour</string>
-  <string name="operation_cast_connected_format">Caster - %s</string>
+  <string name="operation_cast_connected_format">Diffusion - %s</string>
   <string name="operation_cast_connecting_format">Connexion à %s</string>
   <string name="operation_delete">Supprimer</string>
   <string name="operation_delete_all_albums_from_rubbish_page_tip">Vous ne pourrez pas récupérer les albums une fois supprimés. Confirmer la suppression ?</string>
@@ -1014,7 +1014,7 @@ pour personnaliser Galerie"</string>
   <string name="operation_move_to_rubbish_albums">Déplacer vers la corbeille</string>
   <string name="operation_not_show_in_photos_tab">Ne pas afficher dans Photos</string>
   <string name="operation_produce">Créativité</string>
-  <string name="operation_projection">Caster</string>
+  <string name="operation_projection">Diffusion</string>
   <string name="operation_remove_face">Retirer</string>
   <string name="operation_remove_from_face_album">"Retirer de l'album"</string>
   <string name="operation_remove_from_other_albums">Déplacer des autres albums</string>
@@ -1048,6 +1048,7 @@ pour personnaliser Galerie"</string>
   <string name="other_album_operation_remove_from_other_albums">Supprimer</string>
   <string name="other_settings">Paramètres supplémentaires</string>
   <string name="owner_album_subtitle">Partagé avec %1$s personnes</string>
+  <string name="pc_device_model_name">Ordinateur</string>
   <string name="people_album_empty_title">Les photos peuvent être triées par les personnes en elles</string>
   <string name="people_jump_failed">Attendez que les photos avec les personnes soient synchronisées avec le Cloud et essayez à nouveau</string>
   <string name="people_mark_mode_title">Sélectionner \" %s \"</string>
@@ -1190,7 +1191,7 @@ pour personnaliser Galerie"</string>
   <string name="projection_local_mobile">Ce téléphone</string>
   <string name="projection_multi_title">Appareils</string>
   <string name="projection_screen_project_in_screening">"Vous utilisez votre appareil pour le casting maintenant"</string>
-  <string name="projection_single_title">Caster vers %s</string>
+  <string name="projection_single_title">Diffuser vers %s</string>
   <string name="projection_slide_exit">Quitter le diaporama</string>
   <string name="projection_slide_fail_cause_loading">"Redémarrer le diaporama après qu'une photo soit ajoutée"</string>
   <string name="projection_slide_playing">"Le diaporama s'affiche sur %s"</string>
@@ -1497,7 +1498,7 @@ pour personnaliser Galerie"</string>
   <string name="text_tab_watermark">Filigranes</string>
   <string name="things_album_empty_title">Les photos peuvent être triées par les objets en elles</string>
   <string name="throwing_print">Impression</string>
-  <string name="throwing_screen">Caster</string>
+  <string name="throwing_screen">Diffusion</string>
   <string name="thumbnail_build_error">"Impossible de télécharger la miniature"</string>
   <string name="thumbnail_error_log_cleared">Nettoyer avec succès</string>
   <string name="thumbnail_name">miniature</string>
