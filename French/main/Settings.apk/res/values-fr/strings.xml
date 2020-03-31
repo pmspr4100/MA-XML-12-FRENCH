@@ -192,7 +192,7 @@ Voici ce qui a pu mal se passer :
   <string name="connected_device_previously_connected_screen_title">Connecté précédemment</string>
   <string name="connected_via_app">Connecté via %1$s</string>
   <string name="content_capture">Contenu application</string>
-  <string name="content_capture_summary">Allow apps to send content to the Android system</string>
+  <string name="content_capture_summary">Autoriser les applications à envoyer du contenu au système Android</string>
   <string name="contextual_card_dismiss_confirm_message">Retirer cette suggestion ?</string>
   <string name="contextual_card_dismiss_keep">Conserver</string>
   <string name="contextual_card_dismiss_remove">Retirer</string>
@@ -2716,7 +2716,7 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
   <string name="display_summary_example">"Mode veille après 10 minutes d'inactivité"</string>
   <string name="display_vr_pref_low_persistence">Réduire le flou (recommandé)</string>
   <string name="display_vr_pref_off">Réduire le scintillement</string>
-  <string name="display_vr_pref_title">"Quand l'appareil est en mode RV"</string>
+  <string name="display_vr_pref_title">"Lorsque l'appareil est en VR"</string>
   <string name="display_white_balance_title">Afficher la balance des blancs</string>
   <string name="diy_suppression_summary">Ajustez la taille de la zone près des bords où le toucher accidentel sera ignoré</string>
   <string name="diy_suppression_title">Personnaliser</string>
@@ -2758,8 +2758,6 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
   <string name="dndm_special_call_setting_group">Exceptions</string>
   <string name="dndm_summary">Les appels et les notifications qui arrivent alors que le mode Ne pas déranger est activé seront réduits au silence.</string>
   <string name="dndm_summary_for_pad">Les notifications qui arrivent pendant que le mode \"Ne pas déranger\" est activé seront réduites au silence.</string>
-  <string name="dndm_twelve_hour_time_format">h:mm a</string>
-  <string name="dndm_twenty_four_hour_time_format">HH:mm</string>
   <string name="dndm_vip_call_button_title">"Autoriser les appels d'exceptions"</string>
   <string name="dndm_vip_call_setting_detal">Toujours accepter les appels de la liste blanche</string>
   <string name="dndm_vip_call_setting_title">Exceptions</string>
