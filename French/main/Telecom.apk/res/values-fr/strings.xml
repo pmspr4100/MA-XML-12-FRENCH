@@ -125,9 +125,9 @@
   <string name="bluetooth_pairing_pin_error_message">"Impossible d'établir l'association avec %1$s en raison d'un code ou d'une clé d'accès incorrects."</string>
   <string name="bluetooth_pairing_rejected_error_message">Association refusée par %1$s</string>
   <string name="bluetooth_pairing_will_share_phonebook">"L'association vous permet d'accéder à vos contacts et à l'historique des appels lorsque vous êtes connecté."</string>
-  <string name="bluetooth_pan_nap_profile_summary_connected">Connexion Internet locale partagée</string>
-  <string name="bluetooth_pan_profile_summary_use_for">"Utiliser pour l'accès à Internet"</string>
-  <string name="bluetooth_pan_user_profile_summary_connected">"Connecté à l'appareil pour accès Internet"</string>
+  <string name="bluetooth_pan_nap_profile_summary_connected">Connexion internet locale partagée</string>
+  <string name="bluetooth_pan_profile_summary_use_for">"Utiliser pour l'accès à internet"</string>
+  <string name="bluetooth_pan_user_profile_summary_connected">"Connecté à l'appareil pour accès internet"</string>
   <string name="bluetooth_profile_a2dp">Multimédia</string>
   <string name="bluetooth_profile_a2dp_high_quality">Audio HD: %1$s</string>
   <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Audio HD</string>
@@ -503,7 +503,7 @@ Bluetooth"</string>
   <string name="wifi_check_password_try_again">Vérifiez le mot de passe et réessayez</string>
   <string name="wifi_connected_mac_randomization">"Sélection aléatoire de l'adresse MAC lors de la connexion"</string>
   <string name="wifi_connected_mac_randomization_summary">"Sélectionner l'adresse MAC de manière aléatoire lors de la connexion aux réseaux Wi-Fi"</string>
-  <string name="wifi_connected_no_internet">Connecté, aucun accès à Internet</string>
+  <string name="wifi_connected_no_internet">Connecté, aucun accès à internet</string>
   <string name="wifi_disabled_by_recommendation_provider">Non connecté en raison de la faible qualité du réseau</string>
   <string name="wifi_disabled_generic">Désactivé</string>
   <string name="wifi_disabled_network_failure">"Échec de configuration de l'adresse IP"</string>
@@ -513,13 +513,13 @@ Bluetooth"</string>
   <string name="wifi_display_certification_summary">"Afficher les options de la certification de l'affichage sans fil"</string>
   <string name="wifi_fail_to_scan">Impossible de rechercher des réseaux.</string>
   <string name="wifi_metered_label">"Facturé à l'usage"</string>
-  <string name="wifi_no_internet">Aucun accès à Internet</string>
+  <string name="wifi_no_internet">Aucun accès à internet</string>
   <string name="wifi_no_internet_no_reconnect">Reconnexion automatique impossible</string>
   <string name="wifi_not_in_range">Hors de portée</string>
   <string name="wifi_remembered">Enregistré</string>
   <string name="wifi_security_none">Aucune</string>
   <string name="wifi_status_mac_randomized">La sélection des adresses MAC est aléatoire</string>
-  <string name="wifi_status_no_internet">Aucun accès à Internet</string>
+  <string name="wifi_status_no_internet">Aucun accès à internet</string>
   <string name="wifi_status_sign_in_required">Connexion requise</string>
   <string name="wifi_unmetered_label">"Non facturé à l'usage"</string>
   <string name="wifi_verbose_logging">Autoriser enreg. infos Wi-Fi détaillées</string>

@@ -116,9 +116,9 @@
   <string name="mi_account_ok">Se connecter</string>
   <string name="mi_account_title">Se connecter avec le compte Mi</string>
   <string name="network_tip_dialog_cancel">Je refuse</string>
-  <string name="network_tip_dialog_content">Le magnétophone a besoin de se connecter à Internet pour fonctionner normalement. Acceptez-vous?</string>
+  <string name="network_tip_dialog_content">Le magnétophone a besoin de se connecter à internet pour fonctionner normalement. Acceptez-vous?</string>
   <string name="network_tip_dialog_ok">Accepter</string>
-  <string name="network_tip_dialog_title">Une connexion Internet est nécessaire</string>
+  <string name="network_tip_dialog_title">Une connexion internet est nécessaire</string>
   <string name="network_unavailable_tip">Se connecter au réseau, puis réessayez.</string>
   <string name="new_record_name">Nouvel enregistrement</string>
   <string name="no_file">Vide</string>
@@ -211,7 +211,7 @@
   <string name="recognition_status_init">"Préparation en cours "</string>
   <string name="recognition_stop_current">Arrêter la tâche en cours</string>
   <string name="recognize_choose_dialog_offline">Transcrire gratuitement</string>
-  <string name="recognize_choose_dialog_offline_desp">Transcrire des enregistrements sans se connecter à Internet</string>
+  <string name="recognize_choose_dialog_offline_desp">Transcrire des enregistrements sans se connecter à internet</string>
   <string name="recognize_choose_dialog_online">Retranscrire dans le cloud</string>
   <string name="recognize_choose_dialog_online_desp">Obtenez des transcriptions précises rapidement</string>
   <string name="recognize_choose_dialog_online_free_duration">Obtenez les 60 premières minutes gratuites</string>
@@ -312,6 +312,6 @@
   <string name="webview_network_unavaliable">Impossible de se connecter au réseau</string>
   <string name="webview_service_unavailiable">Service indisponible</string>
   <string name="webview_try_again">Veuillez réessayer</string>
-  <string name="wifi_recommended_body" formatted="false">Utiliser votre connexion Internet mobile pour télécharger ce fichier (%s) va consommer beaucoup de données. Si votre limite de données est dépassée, votre opérateur peut vous facturer du hors forfait. Pour attendre dêtre connecté en Wi-Fi, appuyez %s.</string>
+  <string name="wifi_recommended_body" formatted="false">Utiliser votre connexion internet mobile pour télécharger ce fichier (%s) va consommer beaucoup de données. Si votre limite de données est dépassée, votre opérateur peut vous facturer du hors forfait. Pour attendre dêtre connecté en Wi-Fi, appuyez %s.</string>
   <string name="wifi_recommended_title">"Avertissement de l'utilisation de données"</string>
 </resources>

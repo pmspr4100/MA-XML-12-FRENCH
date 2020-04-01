@@ -625,14 +625,14 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
   <string name="expand_desc">Plus</string>
   <string name="expand_people">Afficher plus de personnes</string>
   <string name="ext_sdcard_first_entrance_request_failed_text">La Galerie enregistre les éléments dans la mémoire interne à la place. Vous pouvez modifier cela dans Paramètres > Stockage > Paramètres de stockage.</string>
-  <string name="ext_sdcard_first_entrance_request_failed_title">Impossible de donner des autorisations.</string>
+  <string name="ext_sdcard_first_entrance_request_failed_title">Impossible de donner les permissions.</string>
   <string name="ext_sdcard_guide_first_page_button_text">Suivant</string>
-  <string name="ext_sdcard_guide_last_page_button_text">Donner des autorisations</string>
-  <string name="ext_sdcard_guide_text">Galerie a besoin de votre autorisation pour accéder à la carte SD. Voici ce que vous pouvez faire :</string>
+  <string name="ext_sdcard_guide_last_page_button_text">Donner les permissions</string>
+  <string name="ext_sdcard_guide_text">La Galerie a besoin de votre permissions pour accéder à la carte SD. Voici ce que vous pouvez faire :</string>
   <string name="ext_sdcard_operation_failed_text">"Galerie a besoin d'autorisations pour accéder à la carte SD."</string>
   <string name="ext_sdcard_operation_failed_title">Impossible de terminer cette action</string>
   <string name="ext_sdcard_permission_request_button_text">Compris</string>
-  <string name="ext_sdcard_permission_request_reason">Galerie a besoin de votre autorisation pour accéder à la carte SD. Il vous permettra de supprimer et de modifier des photos et des vidéos stockées sur votre carte SD.</string>
+  <string name="ext_sdcard_permission_request_reason">La Galerie a besoin de votre permissions pour accéder à la carte SD. Il vous permettra de supprimer et de modifier des photos et des vidéos stockées sur votre carte SD.</string>
   <string name="ext_sdcard_permission_request_title">Autoriser la Galerie à accéder à la carte SD</string>
   <string name="ext_sdcard_request_failed_button_text">OK </string>
   <string name="ext_sdcard_request_succeed_toast_text">Vous êtes prêt à faire sensation !</string>
@@ -805,8 +805,8 @@ sont disponibles"</string>
   <string name="image_selection_title">Sélectionnez les meilleures photos</string>
   <string name="image_with_time">Photo prise le %s</string>
   <string name="image_with_time_and_location">Photo prise le %1$s. Emplacement: %2$s.</string>
-  <string name="impunity_declaration_settings">Notification de connexion Internet</string>
-  <string name="impunity_declaration_summary">Afficher la notification de connexion Internet chaque fois que vous ouvrez la Galerie</string>
+  <string name="impunity_declaration_settings">Notification de connexion internet</string>
+  <string name="impunity_declaration_summary">Afficher la notification de connexion internet chaque fois que vous ouvrez la Galerie</string>
   <string name="initializing_cloud">Initialisation…</string>
   <string name="input_a_name">Saisir un nom</string>
   <string name="input_baby_name">Entrez un nom</string>
@@ -840,7 +840,7 @@ sont disponibles"</string>
   <string name="loading_fail">Impossible de télécharger</string>
   <string name="loading_fail_sync_off">Activer la synchronisation avec le Cloud pour télécharger</string>
   <string name="loading_fail_sync_off_message">Impossible de charger les photos, la synchronisation avec le Cloud est désactivée.</string>
-  <string name="loading_fail_sync_without_network">Connectez-vous à Internet pour télécharger les métadonnées</string>
+  <string name="loading_fail_sync_without_network">Connectez-vous à internet pour télécharger les métadonnées</string>
   <string name="loading_fail_syncing">Attendez que les métadonnées soient complètement téléchargées puis réessayez</string>
   <string name="loading_gif">Téléchargement du GIF…</string>
   <string name="loading_gif_thumbnail">Téléchargement de la miniature GIF…</string>
@@ -851,7 +851,7 @@ sont disponibles"</string>
   <string name="loading_suspend">Téléchargement en pause. Il reprendra quand une connexion Wi-Fi sera disponible.</string>
   <string name="loading_video">Téléchargement de la vidéo…</string>
   <string name="loading_video_compress_lib">Téléchargement du plugin de compression vidéo…</string>
-  <string name="loading_video_fail_sync_without_network">Connectez-vous à Internet pour télécharger les métadonnées</string>
+  <string name="loading_video_fail_sync_without_network">Connectez-vous à internet pour télécharger les métadonnées</string>
   <string name="loading_video_fail_syncing">Attendez que les métadonnées soient complètement téléchargées puis réessayez</string>
   <string name="loading_video_thumbnail">Téléchargement de la couverture de la vidéo…</string>
   <string name="login_and_enable_service">Se connecter avec un Compte Mi</string>
@@ -960,7 +960,7 @@ pour personnaliser Galerie"</string>
   <string name="movie_video_long">Vidéo plus longue</string>
   <string name="movie_video_short">Vidéo de 10s</string>
   <string name="must_pick_file">Sélectionnez une photo</string>
-  <string name="need_to_turn_on_network">"L'appareil n'est pas connecté à Internet"</string>
+  <string name="need_to_turn_on_network">"L'appareil n'est pas connecté à internet"</string>
   <string name="need_to_turn_on_sync">Activer la synchronisation avec le Cloud</string>
   <string name="need_to_turn_on_sync_first">"Activez la synchronisation avec le Cloud d'abord"</string>
   <string name="need_to_turn_on_wlan">"Connectez-vous au Wi-Fi d'abord"</string>

@@ -1031,7 +1031,7 @@ Veuillez réessayer dans %2$d secondes."</string>
   <string name="permdesc_changeWimaxState">"Permet à l'application de connecter le téléphone aux réseaux WiMAX et de l'en déconnecter."</string>
   <string name="permdesc_connection_manager">"Permettre à l'application de gérer les connexions de télécommunication"</string>
   <string name="permdesc_control_incall_experience">"Permet à l'application de fournir une expérience utilisateur pendant l'appel."</string>
-  <string name="permdesc_createNetworkSockets">"Permet à l'application de créer des sockets réseau et d'utiliser des protocoles réseau personnalisés. Le navigateur et d'autres applications permettent d'envoyer des données sur Internet. Cette autorisation n'est donc pas nécessaire pour envoyer des données sur Internet."</string>
+  <string name="permdesc_createNetworkSockets">"Permet à l'application de créer des sockets réseau et d'utiliser des protocoles réseau personnalisés. Le navigateur et d'autres applications permettent d'envoyer des données sur internet. Cette autorisation n'est donc pas nécessaire pour envoyer des données sur internet."</string>
   <string name="permdesc_disableKeyguard">"Permet à l'application de désactiver le verrouillage des touches et toute mesure de sécurité via mot de passe associée. Par exemple, votre téléphone désactive le verrouillage des touches lorsque vous recevez un appel, puis le réactive lorsque vous raccrochez."</string>
   <string name="permdesc_enableCarMode">"Permet à l'application d'activer le mode Voiture."</string>
   <string name="permdesc_expandStatusBar">"Permet à l'application de réduire ou de développer la barre d'état."</string>
@@ -1488,7 +1488,7 @@ L'écoute prolongée à un volume élevé peut endommager vos facultés auditive
   <string name="stk_cc_ussd_to_dial_video">Requête USSD transformée en appel vidéo</string>
   <string name="stk_cc_ussd_to_ss">Requête USSD transformée en requête SS</string>
   <string name="stk_cc_ussd_to_ussd">Remplacement par une nouvelle requête USSD</string>
-  <string name="storage_internal">Espace de stockage interne partagé</string>
+  <string name="storage_internal">Stockage interne</string>
   <string name="storage_sd_card">Stockage externe</string>
   <string name="storage_sd_card_label">Stockage externe %s</string>
   <string name="storage_usb">Mémoire de stockage USB</string>
@@ -1644,7 +1644,7 @@ Voulez-vous quitter ?"</string>
   <string name="wifi_connect_alert_message">"L'application %1$s souhaite se connecter au réseau Wi-Fi %2$s."</string>
   <string name="wifi_connect_alert_title">Autoriser la connexion ?</string>
   <string name="wifi_connect_default_application">Une application</string>
-  <string name="wifi_no_internet">Impossible de se connecter à Internet via le réseau Wi-Fi</string>
+  <string name="wifi_no_internet">Impossible de se connecter à internet via le réseau Wi-Fi</string>
   <string name="wifi_no_internet_detailed">Appuyez ici pour afficher des options.</string>
   <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
   <string name="wifi_p2p_enabled_notification_message">Appuyez ici pour accéder aux paramètres.</string>
@@ -1664,7 +1664,7 @@ Voulez-vous quitter ?"</string>
   <string name="wifi_wakeup_onboarding_subtext">"Lorsque vous êtes à proximité d'un réseau enregistré de haute qualité"</string>
   <string name="wifi_wakeup_onboarding_title">Le Wi-Fi sera activé automatiquement</string>
   <string name="wifi_watchdog_network_disabled">Impossible de se connecter au Wi-Fi.</string>
-  <string name="wifi_watchdog_network_disabled_detailed">" dispose d'une mauvaise connexion Internet."</string>
+  <string name="wifi_watchdog_network_disabled_detailed">" dispose d'une mauvaise connexion internet."</string>
   <string name="wireless_display_route_description">Affichage sans fil</string>
   <string name="work_mode_off_message">"Vos applications professionnelles, notifications, données et d'autres fonctionnalités de votre profil professionnel seront activées"</string>
   <string name="work_mode_off_title">Activer profil professionnel ?</string>

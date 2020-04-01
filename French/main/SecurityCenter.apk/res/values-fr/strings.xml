@@ -49,7 +49,7 @@
   <string name="tab_title">Liste noire</string>
   <string name="tab_blacklist">Liste noire</string>
   <string name="cta_close_dialog_cancel">Annuler</string>
-  <string name="cta_close_dialog_content">"Si vous limitez l'accès de la Sécurité à Internet et à vos informations de localisation, vous ne pourrez pas recevoir d'alertes de tremblement de terre, mettre à jour les définitions de virus et les informations de liste de blocage. Votre appareil deviendra moins sûr. Restreindre quand même ?"</string>
+  <string name="cta_close_dialog_content">"Si vous limitez l'accès de la Sécurité à internet et à vos informations de localisation, vous ne pourrez pas recevoir d'alertes de tremblement de terre, mettre à jour les définitions de virus et les informations de liste de blocage. Votre appareil deviendra moins sûr. Restreindre quand même ?"</string>
   <string name="cta_close_dialog_ok">Restreindre</string>
   <string name="cta_close_dialog_title">"Restreindre l'accès"</string>
   <string name="mian_page_primary_txt">"Itinérance à l'étranger"</string>
@@ -836,14 +836,14 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
   <string name="btn_start_diagnostic">Tester le réseau</string>
   <string name="btn_stop_diagnostic">Arrêter</string>
   <string name="btn_finish_diagnostic">OK </string>
-  <string name="connect_internet_by_usbshare">Internet partagé via USB</string>
+  <string name="connect_internet_by_usbshare">internet partagé via USB</string>
   <string name="connect_internet_by_mobiledata">Connexion aux données mobile</string>
   <string name="connect_internet_by_wifi">Wi-Fi</string>
   <string name="unable_connect_internet">Pas de connexion internet</string>
   <string name="enable_network">"Activer le réseau d'abord"</string>
   <string name="disable_air_mode">"Désactivez le mode avion d'abord"</string>
   <string name="repair">Réparer</string>
-  <string name="current_network_state_not_need_diagnose">La connexion Internet est normale.</string>
+  <string name="current_network_state_not_need_diagnose">La connexion internet est normale.</string>
   <string name="apn_exception_title">Vérifiez la configuration des APN</string>
   <string name="apn_exception_wap_summary">Le WAP est instable maintenant. Passez à NET.</string>
   <string name="app_behavior_about_content_no_link">"MIUI peut montrer quand les applications ont lancé d'autres applications, démarré automatiquement, utilisé des Permissions et effectué des actions sensibles. En raison de problèmes de compatibilité de version Android, certains de ces enregistrements peuvent ne pas être précis. Si vous trouvez un enregistrement de comportement d'application qui n'est pas précis, signalez-le-nous à l'aide de l'application \"Services et commentaires\"."</string>
@@ -994,8 +994,8 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
   <string name="notify_daily_limit_body">Appuyez pour définir une limite de données.</string>
   <string name="network_blocked_notification_summary">Tester le réseau</string>
   <string name="network_blocked_switch_wifi">Changer de réseaux</string>
-  <string name="wifi_network_blocked_notification_title">Pas de connexion Internet</string>
-  <string name="data_network_blocked_notification_title">Pas de connexion Internet</string>
+  <string name="wifi_network_blocked_notification_title">Pas de connexion internet</string>
+  <string name="data_network_blocked_notification_title">Pas de connexion internet</string>
   <string name="sim_state_exception_summary">Le statut SIM indique une erreur avec votre carte SIM.</string>
   <string name="network_operator_exception_summary">"Impossible d'activer la carte SIM. Assurez-vous que votre carte SIM est insérée correctement et que votre forfait mobile a été activé par votre opérateur."</string>
   <string name="network_blocked_connected_open_wifi">Connecté à un réseau public</string>
@@ -1010,7 +1010,7 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
   <string name="network_permission_exception_tips">"Impossible d'utiliser les données mobiles pour se connecter au réseau"</string>
   <string name="open_now">"Autoriser l'application à utiliser le réseau mobile"</string>
   <string name="network_roaming_exception_tips">"Impossible d'utiliser les données mobiles en itinérance pour se connecter au réseau."</string>
-  <string name="network_mobile_exception_detail">"Votre appareil ne peut pas se connecter à Internet:
+  <string name="network_mobile_exception_detail">"Votre appareil ne peut pas se connecter à internet:
 
 1. Assurez-vous que vous n'avez pas dépassé la limite de votre forfait de données mobiles.
 
@@ -1391,13 +1391,13 @@ carte médicale"</string>
   <string name="boot_time_day_tomorrow">Éteindre demain à %1$s</string>
   <string name="boot_time">Mis sous tension à %1$s</string>
   <string name="battery_stats_on_battery">%1$s sur la batterie</string>
-  <string name="battery_statistics_activity_title">"Statistiques d'utilisation de la batterie"</string>
+  <string name="battery_statistics_activity_title">"Statistiques d'utilisations"</string>
   <string name="battery_stats_charging_label">En charge</string>
   <string name="battery_stats_screen_on_label">Écran allumé</string>
   <string name="battery_stats_gps_on_label">GPS activé</string>
   <string name="battery_stats_wifi_running_label">Wi-Fi</string>
   <string name="battery_stats_wake_lock_label">Éveillé</string>
-  <string name="battery_stats_phone_signal_label">Signal du réseau mobile</string>
+  <string name="battery_stats_phone_signal_label">Signal du réseau cellulaire</string>
   <string name="power_btn_analyze">"Analyse de l'utilisation de la batterie"</string>
   <string name="battery_status_good">Marche normalement</string>
   <string name="battery_status_overheat">Surchauffé</string>
@@ -1930,7 +1930,7 @@ carte médicale"</string>
   <string name="usb_adb_input_apply_step_1">"Cela pourrait entraîner des fuites et pertes d'informations privées. Nous ne vous recommandons pas d'effectuer cette action sauf si vous êtes développeur."</string>
   <string name="usb_adb_input_apply_step_2">Les développeurs peuvent utiliser un logiciel pour imiter les gestes, changer les paramètres et accorder des permission via USB.</string>
   <string name="usb_adb_input_apply_step_3">Autoriser maintenant ?</string>
-  <string name="adb_install_no_network">Connectez-vous à Internet et réessayez</string>
+  <string name="adb_install_no_network">Connectez-vous à internet et réessayez</string>
   <string name="pc_install_manager">Installation via USB</string>
   <string name="monitor_requests_from_pc">"Gérer l'installation des applications via USB"</string>
   <string name="app_install_intercept">"Bloquer l'installation"</string>
@@ -2020,7 +2020,7 @@ carte médicale"</string>
   <string name="superpower_settins_autoleave_title">Désactiver automatiquement</string>
   <string name="superpower_settins_other">Paramètres additionnels</string>
   <string name="superpower_settins_switch_summary">Limite la plupart des fonctionnalités énergivores afin de laisser les fonctionnalités de base (appels, SMS et applications sélectionnées, par exemple) disponibles le plus longtemps possible</string>
-  <string name="toast_network_switch">Cette application peut se connecter à Internet</string>
+  <string name="toast_network_switch">Cette application peut se connecter à internet</string>
   <string name="toast_flow_notification">"Activer les notifications de l'utilisation des données"</string>
   <string name="toast_auto_traffic_correct">"L'utilisation des données est ajustée automatiquement"</string>
   <string name="toast_show_notification">Épinglé au panneau de notifications</string>
@@ -2645,7 +2645,7 @@ carte médicale"</string>
   <string name="app_error_tip_for_store">"Les composants matériels de votre appareil ou la version du système Android peuvent provoquer des problèmes de compatibilité qui peuvent entraîner l'échec de l'installation de certaines applications. Si vous rencontrez de tels problèmes ou que certaines applications se comportent de manière incorrecte, ou se bloquent, attendez que les développeurs d'applications corrigent les bogues et essayez d'installer l'application à nouveau."</string>
   <string name="pc_activity_title">Optimiser la batterie</string>
   <string name="pc_battery_detail_curve_reference_now">Maintenant</string>
-  <string name="pc_battery_detail_device_item_title">"Statistiques d'utilisation de la batterie"</string>
+  <string name="pc_battery_detail_device_item_title">"Statistiques d'utilisations"</string>
   <string name="pc_battery_history_battery_detail_menu_item">Détails</string>
   <string name="pc_battery_history_consume_rank_menu_item">Classement</string>
   <string name="pc_battery_history_rank_mha_menu_item">Milliampère heure</string>
@@ -2820,11 +2820,11 @@ Videos will be saved to Game Turbo &gt; Key moments."</string>
   <string name="databooster_tips_message">"Activez pour restreindre toutes les cartes SIM à l'exception de la carte de données. Désactivez cette fonction si des erreurs se produisent dans les jeux de votre choix."</string>
   <string name="gb_description_image_button_answer">Répondre</string>
   <string name="gb_description_image_button_video_answer">Appel vidéo</string>
-  <string name="gb_dialog_record_way_ai">AI recordings are saved in the gamebox and stored there for 7 days.</string>
-  <string name="gb_dialog_record_way_finish">Done</string>
-  <string name="gb_dialog_record_way_manual">Record videos up to 30 seconds long manually</string>
-  <string name="gb_dialog_record_way_setting_tips">Note: Recording your gaming sessions requires higher power consumption which may result in lagging.</string>
-  <string name="gb_dialog_record_way_title">Select recording method</string>
+  <string name="gb_dialog_record_way_ai">Les enregistrements IA sont sauvegardés dans la boîte de jeu et y sont stockés pendant 7 jours.</string>
+  <string name="gb_dialog_record_way_finish">Terminer</string>
+  <string name="gb_dialog_record_way_manual">"Enregistrez des vidéos jusqu'à 30 secondes manuellement"</string>
+  <string name="gb_dialog_record_way_setting_tips">"Remarque: L'enregistrement de vos sessions de jeu nécessite une consommation d'énergie plus élevée, ce qui peut entraîner un retard."</string>
+  <string name="gb_dialog_record_way_title">"Sélectionnez la méthode d'enregistrement"</string>
   <string name="gb_first_guide_function_shiled_title">Désactiver les fonctionnalités du système lorsque Game Turbo est activé</string>
   <string name="gb_first_guide_gamebox_des">Utiliser des raccourcis en jouant</string>
   <string name="gb_first_guide_handsfree_des">Répondre aux appels en arrière-plan</string>
@@ -2851,7 +2851,7 @@ Videos will be saved to Game Turbo &gt; Key moments."</string>
   <string name="gb_get_gift_right_now">"S'enregistrer maintenant"</string>
   <string name="gb_global_settings">Paramètres généraux</string>
   <string name="gb_have_signed">"S'enregistrer aujourd'hui"</string>
-  <string name="gb_manual_record_dialog_del_video_message">Delete selected videos permanently?</string>
+  <string name="gb_manual_record_dialog_del_video_message">Supprimer définitivement les vidéos sélectionnées ?</string>
   <string name="gb_sign_gift_button_text">Recevoir</string>
   <string name="gb_xunyou_gift_type_one">Boost Xunyou 1 jour</string>
   <string name="gb_xunyou_gift_type_two">Boost Xunyou 2 jours</string>
@@ -3048,7 +3048,7 @@ Videos will be saved to Game Turbo &gt; Key moments."</string>
   <string name="first_aid_card_system_root_title">"Vous avez autorisé l'accès root"</string>
   <string name="first_aid_card_system_root_summary">"Restreindre l'accès root pour éviter les risques de sécurité"</string>
   <string name="first_aid_card_system_root_button">Restreindre</string>
-  <string name="first_aid_card_wifi_or_flow_title">Impossible de se connecter à Internet</string>
+  <string name="first_aid_card_wifi_or_flow_title">Impossible de se connecter à internet</string>
   <string name="first_aid_card_wifi_or_flow_summary">Activer le Wi-Fi ou les données mobiles pour vous connecter</string>
   <string name="first_aid_card_wifi_or_flow_button">Se connecter</string>
   <string name="first_aid_card_airplane_title">Impossible de passer des appels ou de se connecter au réseau</string>
@@ -3078,12 +3078,12 @@ Toutes les données sur votre appareil peuvent être supprimées et le mot de pa
   <string name="app_permission_use_neccesary">Permissions requises</string>
   <string name="app_permission_use_no_neccesary">Permissions optionnelles</string>
   <string name="app_permission_use_title">Permissions</string>
-  <string name="app_right">小米公司官方出品</string>
+  <string name="app_right">Produit officiellement par Xiaomi</string>
   <string name="app_running_tip_dialog_negative">Annuler</string>
   <string name="app_running_tip_dialog_positive">OK</string>
   <string name="app_running_tip_dialog_text">Quit %1$s to prevent it from running in the background. This will speed up your device and reduce power consumption.</string>
-  <string name="app_running_tip_dialog_title">Quit app</string>
-  <string name="app_running_tip_uninstall">Uninstall this app</string>
+  <string name="app_running_tip_dialog_title">"Quitter l'application"</string>
+  <string name="app_running_tip_uninstall">Désinstaller cette application</string>
   <string name="app_statusbar_audio_now">Enregistrement audio</string>
   <string name="app_statusbar_camera_now">Prendre des photos</string>
   <string name="app_statusbar_location_now">Localisation</string>
@@ -3112,7 +3112,7 @@ Toutes les données sur votre appareil peuvent être supprimées et le mot de pa
   <string name="third_desktop_dialog_content">Étant donné que les applications de lanceur de tiers peuvent entraîner des problèmes tels que fuite de données, épuisement anormal de la batterie, etc., seules celles vérifiées par MIUI peuvent être définies comme lanceur par défaut.</string>
   <string name="third_desktop_dialog_ok">Compris</string>
   <string name="resource_securitycenter_settings">Sécurité</string>
-  <string name="keywords_securitycenter_settings">"Utilisation de la batterie; Gérer le démarrage automatique; Installer via USB; Permissions d'application; Acheter des données mobiles; Liste de blocage; Utilisation des données; Calibrer le plan de données; Tester le réseau; Économiser la batterie; Chauffage; Allumer; Éteindre; Batterie; Vidange; Problèmes de batterie; Énergie; Économiseur de batterie; Économiseur d'énergie; Économie d'énergie; Économie de batterie; Démarrage automatique; permission; démarrage automatique; démarrage automatique MIUI; App autostart; applications à démarrage automatique; démarrage en chaîne; démarrage en chaîne; démarrage déclenché; Installation par USB, installation depuis un ordinateur; installation par ADB; Localisation; Contacts d'accès; données; données mobiles; données d'achat; données de recharge; plan de données; Blocs; Liste noire; Liste de blocage intelligente; Fraude; Ventes; Agents; Liste de blocage d'appels; Liste de blocage de messages; Liste de blocage de messagerie; Liste de blocage de SMS; Liste noire; Liste noire; Liste de blocage; Liste de blocage; Fraude; Contact de bloc; Contacts de blocage Trafic; Étalonner; Connexion; Internet; Test; Utilisation de la batterie; Optimisation de la batterie; Utilisation de la consommation électrique; Jeu; Booster de vitesse; Gloire du roi; Mode Performance; NPD"</string>
+  <string name="keywords_securitycenter_settings">"Utilisation de la batterie; Gérer le démarrage automatique; Installer via USB; Permissions d'application; Acheter des données mobiles; Liste de blocage; Utilisation des données; Calibrer le plan de données; Tester le réseau; Économiser la batterie; Chauffage; Allumer; Éteindre; Batterie; Vidange; Problèmes de batterie; Énergie; Économiseur de batterie; Économiseur d'énergie; Économie d'énergie; Économie de batterie; Démarrage automatique; permission; démarrage automatique; démarrage automatique MIUI; App autostart; applications à démarrage automatique; démarrage en chaîne; démarrage en chaîne; démarrage déclenché; Installation par USB, installation depuis un ordinateur; installation par ADB; Localisation; Contacts d'accès; données; données mobiles; données d'achat; données de recharge; plan de données; Blocs; Liste noire; Liste de blocage intelligente; Fraude; Ventes; Agents; Liste de blocage d'appels; Liste de blocage de messages; Liste de blocage de messagerie; Liste de blocage de SMS; Liste noire; Liste noire; Liste de blocage; Liste de blocage; Fraude; Contact de bloc; Contacts de blocage Trafic; Étalonner; Connexion; internet; Test; Utilisation de la batterie; Optimisation de la batterie; Utilisation de la consommation électrique; Jeu; Booster de vitesse; Gloire du roi; Mode Performance; NPD"</string>
   <string name="path_securitycenter_settings">Applications système/Sécurité</string>
   <string name="resource_securitycenter">Sécurité</string>
   <string name="keywords_securitycenter">Sécurité;Vérifier;Scanner</string>
@@ -3148,7 +3148,7 @@ Toutes les données sur votre appareil peuvent être supprimées et le mot de pa
   <string name="keywords_networkassistant_2">Données;Calibrer</string>
   <string name="path_networkassistant_2">Applications système/Sécurité/Utilisation des données</string>
   <string name="resource_networkassistant_4">Tester le réseau</string>
-  <string name="keywords_networkassistant_4">Connexion;Internet;Analyser</string>
+  <string name="keywords_networkassistant_4">Connexion;internet;Analyser</string>
   <string name="path_networkassistant_4">Applications système/Sécurité/Utilisation des données/Test réseau</string>
   <string name="resource_powercenter_powerrank">Batterie et performance</string>
   <string name="keywords_powercenter_powerrank">"Consommation d'énergie"</string>
@@ -3320,12 +3320,12 @@ Toutes les données sur votre appareil peuvent être supprimées et le mot de pa
   <string name="warningcenter_action_check">Afficher</string>
   <string name="warningcenter_alert_home">Localisation</string>
   <string name="warningcenter_alert_room">Pièce</string>
-  <string name="warningcenter_alert_source">"Centre d'avertissement MIUI | Source données : %s"</string>
+  <string name="warningcenter_alert_source">"Centre d'avertissement MIUI | Source données: %s"</string>
   <string name="warningcenter_alert_time">Heure</string>
-  <string name="warningcenter_alert_warning_time">Heure reçue : %s</string>
-  <string name="warningcenter_earthquake_info">Earthquake early warnings</string>
+  <string name="warningcenter_alert_warning_time">Heure reçue: %s</string>
+  <string name="warningcenter_earthquake_info">Alertes précoces de tremblement de terre</string>
   <string name="warningcenter_mijia_alert_close">Fermer</string>
-  <string name="warningcenter_mijia_alert_settings">Change settings in Security &gt; Alerts from smart home devices</string>
+  <string name="warningcenter_mijia_alert_settings">"Modifier les paramètres de sécurité &gt; Alertes d'appareils intelligents pour la maison"</string>
   <string name="warningcenter_mijia_alert_tips_1">Haute concentration en gaz detectée</string>
   <string name="warningcenter_mijia_alert_tips_2">Fumée détectée</string>
   <string name="warningcenter_mijia_alert_tips_3">Inondation detectée</string>

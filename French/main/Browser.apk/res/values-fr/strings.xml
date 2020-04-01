@@ -663,7 +663,7 @@ Are you sure you want to navigate away from this page?"</string>
   <string name="mw_miuichromium_error_page_problem_file_not_readable_reason_access_denied">"Couldn't read file. File permissions may be preventing access."</string>
   <string name="mw_miuichromium_error_page_problem_gateway_timed_out">It took too long for %s0 to respond.</string>
   <string name="mw_miuichromium_error_page_problem_network_access_denied">Network access is restricted.</string>
-  <string name="mw_miuichromium_error_page_problem_no_internet_connection_reason_proxy_error">"Couldn't connect to the Internet. Something is wrong with the proxy server, or proxy address is incorrect."</string>
+  <string name="mw_miuichromium_error_page_problem_no_internet_connection_reason_proxy_error">"Couldn't connect to the internet. Something is wrong with the proxy server, or proxy address is incorrect."</string>
   <string name="mw_miuichromium_error_page_problem_page_moved">This page on %s0 might have been moved or deleted.</string>
   <string name="mw_miuichromium_error_page_problem_page_not_found">"Couldn't find this page on %s0."</string>
   <string name="mw_miuichromium_error_page_problem_page_not_working_reason_connection_closed">"This page isn't working. %s0 interrupted connection."</string>
@@ -679,7 +679,7 @@ Are you sure you want to navigate away from this page?"</string>
   <string name="mw_miuichromium_error_page_safe_network">Safe mode</string>
   <string name="mw_miuichromium_error_page_server_error">Too many devices are trying to connect</string>
   <string name="mw_miuichromium_error_page_suggestion_check_app_proxy">Check the settings of the proxy apps installed on your device.</string>
-  <string name="mw_miuichromium_error_page_suggestion_check_connetion">Check your Internet connection.</string>
+  <string name="mw_miuichromium_error_page_suggestion_check_connetion">Check your internet connection.</string>
   <string name="mw_miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Mobile data) Reset your %s1APN settings%s2.</string>
   <string name="mw_miuichromium_error_page_suggestion_check_url">"Check the URL you've entered."</string>
   <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) Check your %s1proxy settings%s2.</string>
