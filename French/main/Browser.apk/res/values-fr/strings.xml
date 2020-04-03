@@ -406,7 +406,7 @@ to support our work"</string>
   <string name="download_completed">Téléchargé</string>
   <string name="download_dialog_default_path_invalid">"L'emplacement de téléchargement que vous avez sélectionné n'est pas valide. Enregistrement dans l'emplacement par défaut…"</string>
   <string name="download_dialog_file_length_default_txt">Chargement…</string>
-  <string name="download_dialog_file_length_lessthan1kb">Moins que 1Ko</string>
+  <string name="download_dialog_file_length_lessthan1kb">Moins de 1 Ko</string>
   <string name="download_dialog_file_length_nolength_error_txt">Impossible de télécharger</string>
   <string name="download_filter_all">Tout</string>
   <string name="download_filter_apk">APK</string>
@@ -424,21 +424,21 @@ to support our work"</string>
   <string name="download_no_application_title">"Impossible de trouver le fichier. L'avez-vous déplacé ou supprimé ?"</string>
   <string name="download_no_sdcard_dlg_msg">Une carte SD est requise pour télécharger %s.</string>
   <string name="download_no_sdcard_dlg_title">Pas de carte SD</string>
-  <string name="download_pending">Starting download…</string>
-  <string name="download_sdcard_busy_dlg_msg">SD card is busy. To allow downloads, turn off USB storage in the notification shade.</string>
-  <string name="download_sdcard_busy_dlg_title">SD card unavailable</string>
-  <string name="download_status_failed">"Couldn't download"</string>
-  <string name="download_status_pending">Waiting</string>
-  <string name="download_title">Downloads</string>
-  <string name="download_video">Download video</string>
-  <string name="download_wait_connect">Waiting to connect</string>
+  <string name="download_pending">Démarrage du téléchargement…</string>
+  <string name="download_sdcard_busy_dlg_msg">"La carte SD est en cours d'utilisation. Pour permettre les téléchargements, désactivez le stockage USB dans la barre des notifications."</string>
+  <string name="download_sdcard_busy_dlg_title">Carte SD indisponible</string>
+  <string name="download_status_failed">Téléchargement impossible</string>
+  <string name="download_status_pending">En attente</string>
+  <string name="download_title">Téléchargements</string>
+  <string name="download_video">Téléchargement vidéo</string>
+  <string name="download_wait_connect">"En attente d'une connexion"</string>
   <string name="edit">Modifier</string>
-  <string name="edit_bookmark">Modifier le favoris</string>
+  <string name="edit_bookmark">Modifier le signet</string>
   <string name="empty_app_name">Une autre application</string>
   <string name="empty_bookmark">Vide</string>
-  <string name="empty_cloud_tab_login_hint">No cloud tabs</string>
-  <string name="empty_cloud_tab_logout_hint">"Sign in to your Mi Account
-to view open tabs from other devices."</string>
+  <string name="empty_cloud_tab_login_hint">"Pas d'onglet cloud"</string>
+  <string name="empty_cloud_tab_logout_hint">"Connectez-vous à votre compte Mi
+pour voir les onglets ouverts dans les autres appareils."</string>
   <string name="empty_history_hint">Historique est vide</string>
   <string name="empty_snapshot_hint">Vide</string>
   <string name="enable_geolocation_confirm_message">Turning off location services will affect the recommendations you receive.</string>
@@ -924,7 +924,7 @@ Remember that the files you download and the bookmarks you add will still be sav
   <string name="return_to_homepage">"Retourner à la page d'accueil"</string>
   <string name="rlz_access_point">Y1</string>
   <string name="root_folder_lable">Aucun</string>
-  <string name="same_bookmarks_warning">"Vous avez déjà ajouté cette page à vos favoris"</string>
+  <string name="same_bookmarks_warning">Vous avez déjà ajouté cette page à vos signets</string>
   <string name="same_folder_name_warning">Un groupe du même nom existe déjà</string>
   <string name="save_dialog_title">Enregistrer</string>
   <string name="save_file">"Enregistrer "</string>
@@ -933,7 +933,7 @@ Remember that the files you download and the bookmarks you add will still be sav
   <string name="save_image_success">Image enregistrée</string>
   <string name="save_page_capture_tip">"Ouvrez la fenêtre de notification pour voir la capture d'écran."</string>
   <string name="save_page_capture_to_camera">"Capture d'écran sauvegardée"</string>
-  <string name="save_to_bookmark">Ajouter aux favoris</string>
+  <string name="save_to_bookmark">Ajouter aux signets</string>
   <string name="save_to_camera">Sauvegarder dans la galerie</string>
   <string name="save_to_camera_failed">"Impossible d'enregistrer une image"</string>
   <string name="save_to_camera_success">Enregistré dans la galerie</string>
@@ -953,87 +953,87 @@ Remember that the files you download and the bookmarks you add will still be sav
   <string name="search_shipin">Vidéo</string>
   <string name="search_title_browser">Navigateur</string>
   <string name="search_tupian">Image</string>
-  <string name="security_permission_desc_get_accounts">Used for system account login and management</string>
-  <string name="security_permission_desc_read_phone">Used to obtain the device IMEI identifier to provide the corresponding service</string>
-  <string name="security_permission_desc_storage">Used to read and write files such as saved images and to enable file upload/download functions</string>
-  <string name="security_permission_main_purpose">Browse the web, search for information, read news, watch videos, etc</string>
-  <string name="security_url_confirm_message">Turning this feature off may create security risks.</string>
-  <string name="security_warning">Security warning</string>
-  <string name="security_warnings_confirm_message">Turning this feature off may create security risks.</string>
+  <string name="security_permission_desc_get_accounts">Utilisé pour la connexion au compte système et sa gestion</string>
+  <string name="security_permission_desc_read_phone">"Utilisé pour obtenir le numéro IMEI de l'appareil afin de fournir le service adéquat"</string>
+  <string name="security_permission_desc_storage">"Utilisé pour lire et écrire des fichiers tels que les images enregistrées, et pour permettre l'envoi ou le téléchargement de fichiers"</string>
+  <string name="security_permission_main_purpose">Parcourir le web, chercher vos informations, lire les actulités, voir des vidéos, etc.</string>
+  <string name="security_url_confirm_message">Désactiver cette fonctionnalité peut créer des risques pour la sécurité.</string>
+  <string name="security_warning">Avertissement de sécurité</string>
+  <string name="security_warnings_confirm_message">Désactiver cette fonctionnalité peut créer des risques pour la sécurité.</string>
   <string name="select_dot">Sélectionnez le texte</string>
-  <string name="send_bookmark">Bookmark</string>
-  <string name="send_comment_button">Send</string>
-  <string name="send_desktop">Home screen</string>
-  <string name="send_startpage">Start page</string>
-  <string name="sequence_bookmark_description">Press and hold to rearrange bookmarks</string>
+  <string name="send_bookmark">Favori</string>
+  <string name="send_comment_button">Envoyer</string>
+  <string name="send_desktop">"Écran d'accueil"</string>
+  <string name="send_startpage">Page de démarrage</string>
+  <string name="sequence_bookmark_description">Appuyez et maintenez pour réorganiser les signets</string>
   <string name="share_by_yidianzixun">【一点资讯】</string>
-  <string name="share_image_text">Look what I shared! @MIUI</string>
-  <string name="share_page_text">Look what I shared: %1$s @MIUI| %2$s</string>
-  <string name="share_video">Share video</string>
-  <string name="short_video_ad_download_app">Download %s</string>
-  <string name="short_video_ad_download_immediately">Download</string>
-  <string name="short_video_ad_downloading">Downloading %d%%</string>
-  <string name="short_video_ad_installing">Installing</string>
-  <string name="short_video_ad_open_app">Open %s</string>
-  <string name="short_video_ad_open_immediately">Open</string>
-  <string name="short_video_ad_resume_downloading">Resume</string>
-  <string name="short_video_ad_see_details">View details</string>
-  <string name="short_video_ad_tag">Ad</string>
-  <string name="short_video_comment_hint">Enter comment</string>
-  <string name="short_video_description">Video channel</string>
-  <string name="short_video_gesture_btn">Got it</string>
-  <string name="short_video_gesture_hint">Swipe to watch next video</string>
-  <string name="short_video_net_dialog_continue">Play anyway</string>
-  <string name="short_video_net_dialog_title">"You're using mobile data now. Using mobile may generate additional carrier fees."</string>
-  <string name="short_video_network_error">"Couldn't connect to the network. Check your network settings and try again."</string>
-  <string name="short_video_tip">Look! Fun video</string>
-  <string name="show_check_security_url_check_tip_dialog_description">"We will collect and use your personal data if you choose to use our services.
-Here's the data that we'll collect:
-1. Secure URLs: We'll collect the URLs of the websites you visit while using our services.
-2. Location data: We'll access your location info.
-That's how we use the data we collect:
-1. Security: We use your data when we protect your device from fraud and viruses, as well as for storage and backup reasons.
-2. Content: Your data helps us provide relevant localized news content.
-Browser needs to connect to the internet to work normally. You must agree to our %2$s and %1$s to be able to use Browser.​"</string>
-  <string name="show_security_tip_dialog_title">Privacy Policy</string>
-  <string name="sign_and_open">Sign in and turn on</string>
-  <string name="sign_in_to" formatted="false">Sign in to %s1 \"%s2\"</string>
-  <string name="skip_button_label">Skip</string>
-  <string name="skip_current_version">Skip this version</string>
-  <string name="slide_guide">Slide to return</string>
+  <string name="share_image_text">"Regarde ce que j'ai partagé ! @MIUI"</string>
+  <string name="share_page_text">"Regarde ce que j'ai partagé : %1$s @MIUI| %2$s"</string>
+  <string name="share_video">Partage de vidéo</string>
+  <string name="short_video_ad_download_app">Télécharger %s</string>
+  <string name="short_video_ad_download_immediately">Télécharger</string>
+  <string name="short_video_ad_downloading">Téléchargement de %d%%</string>
+  <string name="short_video_ad_installing">Installation</string>
+  <string name="short_video_ad_open_app">Ouvrir %s</string>
+  <string name="short_video_ad_open_immediately">Ouvrir</string>
+  <string name="short_video_ad_resume_downloading">Reprendre</string>
+  <string name="short_video_ad_see_details">Voir les détails</string>
+  <string name="short_video_ad_tag">Publicité</string>
+  <string name="short_video_comment_hint">Entrer un commentaire</string>
+  <string name="short_video_description">Chaîne vidéo</string>
+  <string name="short_video_gesture_btn">Compris</string>
+  <string name="short_video_gesture_hint">Glisser pour voir la vidéo suivante</string>
+  <string name="short_video_net_dialog_continue">Lire quand même</string>
+  <string name="short_video_net_dialog_title">"Vous utilisez les données cellulaires à présent. Cela peut vous occasionner des frais d'opérateur supplémentaires."</string>
+  <string name="short_video_network_error">"Connexion au réseau impossible. Vérifiez vos réglages de réseau et réessayez."</string>
+  <string name="short_video_tip">Regardez ! Vidéo sympa</string>
+  <string name="show_check_security_url_check_tip_dialog_description">"Nous collecterons et utiliserons vos données personnelles si vous choisissez d'utiliser nos services.
+Voici les données que nous collecterons :
+1. URL sécurisées : nous collecterons les URL des sites web que vous visitez en utilisant nos services.
+2. Données de localisation : nous accéderons aux informations sur votre localisation géographique.
+Voici comment nous utilisons les données collectées :
+1. Sécurité : nous utilisons vos données lorsque nous protégeons votre appareil contre la fraude et les virus, ainsi que pour le stockage et les sauvegardes.
+2. Contenus : vos données nous aident à fournir des actualités en fonction de votre localisation.
+Navigateur a besoin de se connecter à internet pour fonctionner normalement. Vous devez accepter nos %2$s et %1$s pour pouvoir utiliser Navigateur.​"</string>
+  <string name="show_security_tip_dialog_title">Politique de confidentialité</string>
+  <string name="sign_and_open">Se connecter et activer</string>
+  <string name="sign_in_to" formatted="false">Se connecter à %s1 \"%s2\"</string>
+  <string name="skip_button_label">Ignorer</string>
+  <string name="skip_current_version">Ignorer cette version</string>
+  <string name="slide_guide">Glissez pour revenir</string>
   <string name="small_video_ad_app_text_click">Télécharger</string>
   <string name="small_video_ad_download_text">Télécharger</string>
-  <string name="small_video_ad_web_text">Open</string>
-  <string name="small_video_boba_tab">Broadcast</string>
-  <string name="small_video_comment">All comments</string>
-  <string name="small_video_comment_input_hint">Input your comment</string>
-  <string name="small_video_footer_status_msg_idle">Tap to load more</string>
-  <string name="small_video_load_failed">Load failed</string>
-  <string name="small_video_loading">Loading...</string>
-  <string name="small_video_main_tab">Recommend</string>
-  <string name="small_video_native_tab">Small video</string>
-  <string name="small_video_net_error">Connection error</string>
-  <string name="small_video_no_more_date">No data</string>
+  <string name="small_video_ad_web_text">Ouvrir</string>
+  <string name="small_video_boba_tab">Diffusion</string>
+  <string name="small_video_comment">Tous les commentaires</string>
+  <string name="small_video_comment_input_hint">Entrez votre commentaire</string>
+  <string name="small_video_footer_status_msg_idle">Appuyez pour en voir plus</string>
+  <string name="small_video_load_failed">Échec du chargement</string>
+  <string name="small_video_loading">Chargement...</string>
+  <string name="small_video_main_tab">Recommender</string>
+  <string name="small_video_native_tab">Petite vidéo</string>
+  <string name="small_video_net_error">Erreur de connexion</string>
+  <string name="small_video_no_more_date">Aucune donnée</string>
   <string name="snapshot">Local</string>
-  <string name="snapshot_failed">"Couldn't save page"</string>
-  <string name="snapshot_successed">Open Bookmarks &amp; History -&gt; LOCAL to view page</string>
-  <string name="soft_toast_see_view">View</string>
-  <string name="speech_engine_not_install">"Speech engine isn't installed"</string>
-  <string name="ssl_bad_clock_date_settings">Set date</string>
-  <string name="ssl_bad_clock_warning" formatted="false">"A private connection to %s1 can't be established because your device's date and time (%s2) are incorrect."</string>
-  <string name="ssl_certificate">Security certificate</string>
-  <string name="ssl_certificate_is_valid">This certificate is valid.</string>
-  <string name="ssl_continue">Continue</string>
-  <string name="ssl_date_error_warnings_header">"The certificate of this site has expired or isn't valid yet. You are advised to leave this page."</string>
-  <string name="ssl_date_invalid">This certificate has an invalid date.</string>
-  <string name="ssl_expired">This certificate has expired.</string>
-  <string name="ssl_go_back">Go back</string>
-  <string name="ssl_invalid">This certificate is invalid.</string>
-  <string name="ssl_mismatch">"The name of the site doesn't match the name on the certificate."</string>
-  <string name="ssl_not_yet_valid">"This certificate isn't valid yet."</string>
-  <string name="ssl_unknown">Unknown certificate error.</string>
-  <string name="ssl_untrusted">"This certificate isn't from a trusted authority."</string>
-  <string name="ssl_warnings_header">There are problems with the security certificate for this site.</string>
+  <string name="snapshot_failed">"Impossible d'enregistrer la page"</string>
+  <string name="snapshot_successed">Ouvrir Signets / Historiques  -&gt; LOCAL pour voir la page</string>
+  <string name="soft_toast_see_view">Voir</string>
+  <string name="speech_engine_not_install">"La synthèse vocale n'est pas installée"</string>
+  <string name="ssl_bad_clock_date_settings">Régler la date</string>
+  <string name="ssl_bad_clock_warning" formatted="false">"Une connexion privée à %s1 ne peut pas être établie car la date et l'heure de votre appareil (%s2) sont incorrectes."</string>
+  <string name="ssl_certificate">Certificat de sécurité</string>
+  <string name="ssl_certificate_is_valid">Ce certificat est valide.</string>
+  <string name="ssl_continue">Continuer</string>
+  <string name="ssl_date_error_warnings_header">"Le certificat de ce site a expiré ou n'est plus valide. Il est recommandé de quitter cette page."</string>
+  <string name="ssl_date_invalid">Ce certificat a une date invalide.</string>
+  <string name="ssl_expired">Ce certificat a expiré.</string>
+  <string name="ssl_go_back">Retourner en arrière</string>
+  <string name="ssl_invalid">Ce certificat est invalide.</string>
+  <string name="ssl_mismatch">"Le nom du site ne correspond pas au nom mentionné sur le certificat."</string>
+  <string name="ssl_not_yet_valid">"Ce certificat n'est pas encore valide."</string>
+  <string name="ssl_unknown">Erreur inconnue du certificat.</string>
+  <string name="ssl_untrusted">"Ce certificat n'a pas été émis par une autorité de confiance."</string>
+  <string name="ssl_warnings_header">Il y a des problèmes avec le certificat de sécurité de ce site.</string>
   <string name="storage_close">Fermer</string>
   <string name="storage_internal">Stockage interne</string>
   <string name="storage_open">Ouvrir</string>
