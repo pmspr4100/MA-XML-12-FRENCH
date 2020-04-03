@@ -1411,7 +1411,7 @@ Les sauvegardes sont stockées dans le Cloud Xiaomi et sont accessibles avec un 
   <string name="battery_sugg_bluetooth_basic">"Désactivez Bluetooth lorsque vous ne l'utilisez pas."</string>
   <string name="battery_sugg_bluetooth_headset">Essayez de vous connecter à un autre appareil Bluetooth.</string>
   <string name="battery_sugg_display">"Réduire la luminosité et/ou le délai de mise en veille de l'écran"</string>
-  <string name="battery_sugg_radio">Passez en mode Avion pour économiser la batterie dans les zones sans couverture cellulaire.</string>
+  <string name="battery_sugg_radio">Passez en mode avion pour économiser la batterie dans les zones sans couverture cellulaire.</string>
   <string name="battery_sugg_wifi">"Désactivez le Wi-Fi lorsque vous ne l'utilisez pas ou lorsqu'il n'est pas disponible"</string>
   <string name="battery_suggestion_title">"Améliorer l'autonomie de batterie du téléphone"</string>
   <string name="battery_summary">Utilisation depuis la dernière charge complète: %1$s</string>
@@ -7438,7 +7438,7 @@ Configurer un réseau masqué n'affectera pas les paramètres de votre routeur."
   <string name="wifi_hotspot_password_title">"Mot de passe du point d'accès"</string>
   <string name="wifi_hotspot_tethering_on_subtext">"Connexion internet de ce téléphone partagée via un point d'accès"</string>
   <string name="wifi_hotspot_title">"Se connecter au point d'accès pour la connexion ?"</string>
-  <string name="wifi_in_airplane_mode">En mode Avion</string>
+  <string name="wifi_in_airplane_mode">En mode avion</string>
   <string name="wifi_info_reconnect">Impossible de se connecter, veuillez réessayer.</string>
   <string name="wifi_install_credentials">Installation de certificats</string>
   <string name="wifi_ip_address">Adresse IP</string>
@@ -7661,7 +7661,7 @@ Toucher "<b>Retour</b> pour se connecter à un autre réseau Wi-Fi.</string>
   <string name="wifi_tether_configure_ap_text">"Configurer le point d'accès"</string>
   <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
   <string name="wifi_tether_configure_subtext">"Point d'accès %1$s %2$s"</string>
-  <string name="wifi_tether_disabled_by_airplane">Indisponible, car le mode Avion est activé</string>
+  <string name="wifi_tether_disabled_by_airplane">Indisponible, car le mode avion est activé</string>
   <string name="wifi_tether_enabled_subtext">%1$s est actif</string>
   <string name="wifi_tether_enabled_summary">%1$s est actif</string>
   <string name="wifi_tether_failed_subtext">Erreur sur le partage de connexion</string>
