@@ -2397,7 +2397,7 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
   <string name="date_time_24hour_auto">Format 24 heures automatique</string>
   <string name="date_time_24hour_auto_summary">Utiliser les paramètres régionaux par défaut</string>
   <string name="date_time_24hour_title">Format 24 heures</string>
-  <string name="date_time_auto">Date/Heure automatique</string>
+  <string name="date_time_auto">Date et Heure automatique</string>
   <string name="date_time_auto_summaryOff">"Utiliser la date et l'heure fournies par le réseau"</string>
   <string name="date_time_auto_summaryOn">"Utiliser la date et l'heure fournies par le réseau"</string>
   <string name="date_time_search_region">Région de la recherche</string>
@@ -2441,7 +2441,7 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
   <string name="default_assist_title">"Application d'assistance"</string>
   <string name="default_browser_title">Navigateur</string>
   <string name="default_browser_title_none">Non sélectionné</string>
-  <string name="default_calendar_app_title">Agenda</string>
+  <string name="default_calendar_app_title">Calendrier</string>
   <string name="default_contacts_app_title">Contacts</string>
   <string name="default_emergency_app">Application pour les urgences</string>
   <string name="default_for_work">Par défaut pour utilisation pro</string>
@@ -2488,8 +2488,8 @@ Vous ne pouvez pas zoomer sur le clavier et la barre de navigation."</string>
   <string name="mqs_privacy_dialog_confirm">Envoyer</string>
   <string name="mqs_privacy_dialog_content">Envoyer les journaux pour nous aider à repérer et résoudre ce problème ? Les journaux peuvent contenir vos données personnelles, y compris votre emplacement géographique.</string>
   <string name="mqs_privacy_dialog_title">Une erreur est survenue</string>
-  <string name="network_state_label">État du réseau :</string>
-  <string name="networkid_label">ID réseau :</string>
+  <string name="network_state_label">État du réseau: </string>
+  <string name="networkid_label">ID réseau: </string>
   <string name="notification_animation_style">Effets spéciaux</string>
   <string name="paper_mode_side_effect_hint">"Une intensité plus élevée pourrait affecter la façon d'afficher le contenu".</string>
   <string name="power_charging_duration">"%1$s - %2$s jusqu'à la recharge complète"</string>
@@ -2514,19 +2514,19 @@ Vous ne pouvez pas zoomer sur le clavier et la barre de navigation."</string>
   <string name="weight_setting_toast">Vous pouvez changer la graisse de la police uniquement pour la police système par défaut</string>
   <string name="wifi_api_test">API Wi-Fi</string>
   <string name="wifi_config_info">Config Wi-Fi</string>
-  <string name="wifi_display_autonomous_go">Enable autonomous GO</string>
+  <string name="wifi_display_autonomous_go">Activer GO autonome</string>
   <string name="wifi_display_certification_heading">Certification</string>
-  <string name="wifi_display_listen_channel">Listen channel</string>
-  <string name="wifi_display_listen_mode">Enable listen mode</string>
-  <string name="wifi_display_operating_channel">Operating channel</string>
+  <string name="wifi_display_listen_channel">"Canal d'écoute"</string>
+  <string name="wifi_display_listen_mode">"Activer le mode d'écoute"</string>
+  <string name="wifi_display_operating_channel">Canal de fonctionnement</string>
   <string name="wifi_display_pause">Pause</string>
-  <string name="wifi_display_resume">Resume</string>
-  <string name="wifi_display_session_info">Session info</string>
-  <string name="wifi_display_wps_config">WPS configuration</string>
-  <string name="wifi_state_label">WLAN state:</string>
-  <string name="wifi_status_test">WLAN status</string>
-  <string name="wifi_update">Refresh stats</string>
-  <string name="xiaomi_cloud_service_description_without_contacts">Xiaomi Cloud cynchronise vos photos, sauvegarde vos applications et vos paramètres, et vous aide à localiser votre téléphone en utilisant Find device.</string>
+  <string name="wifi_display_resume">Résumer</string>
+  <string name="wifi_display_session_info">Informations sur la session</string>
+  <string name="wifi_display_wps_config">Configuration WPS</string>
+  <string name="wifi_state_label">État WLAN:</string>
+  <string name="wifi_status_test">Statut WLAN</string>
+  <string name="wifi_update">Actualiser les statistiques</string>
+  <string name="xiaomi_cloud_service_description_without_contacts">"Xiaomi Cloud synchronise vos photos, sauvegarde vos applications et vos paramètres, et vous aide à localiser votre téléphone en utilisant Localiser l'appreil."</string>
   <string name="zen_onboarding_dnd_visual_disturbances_description">"Votre téléphone peut en faire plus pour vous aider à rester concentré.
 
 Mettre à jour les paramètres pour :
@@ -4977,7 +4977,7 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
   <string name="privacy_close_dlg_msg">Lorsque le mot de passe de protection de confidentialité est désactivé, vos éléments ne seront plus protégés.</string>
   <string name="privacy_close_dlg_title">Attention</string>
   <string name="privacy_dashboard_summary">Autorisations, activité du compte, données personnelles</string>
-  <string name="privacy_dashboard_title">Confidentialité</string>
+  <string name="privacy_dashboard_title">Paramètres de confidentialité</string>
   <string name="privacy_delete_space_dlg_message">Pour changer le mot de passe du deuxième espace, vous devriez supprimer votre deuxième espace actuel et en créer un nouveau.</string>
   <string name="privacy_dlg_button_cancel">Annuler</string>
   <string name="privacy_factory_reset_dlg_button_text">Réinitialiser</string>
@@ -5179,7 +5179,7 @@ Interface UT: %5$s"</string>
   <string name="reading_data">"Obtention d'informations…"</string>
   <string name="really_remove_account_message">La suppression de ce compte entraînera la suppression de tous les messages, contacts et autres données du téléphone.</string>
   <string name="really_remove_account_title">Supprimer le compte ?</string>
-  <string name="rebootiing_for_updates">Redémarrage...</string>
+  <string name="rebootiing_for_updates">Redémarrage…</string>
   <string name="receiver_clean">"Libérer de l'espace"</string>
   <string name="recent_app_category_title">Applications ouvertes récemment</string>
   <string name="recent_apps_label">Recents</string>
@@ -5193,7 +5193,7 @@ Interface UT: %5$s"</string>
   <string name="recommend_item_4">Écouteurs</string>
   <string name="recommend_item_title">Recommandations</string>
   <string name="recommend_tip">"Besoin d'autres paramètres ?"</string>
-  <string name="recompute_size">Calcul de la taille...</string>
+  <string name="recompute_size">Calcul de la taille…</string>
   <string name="regulatory_labels">Libellés réglementaires</string>
   <string name="remaining_length_format">%1$s restant</string>
   <string name="remove_account_failed">"Votre administrateur n'autorise pas cette modification"</string>
