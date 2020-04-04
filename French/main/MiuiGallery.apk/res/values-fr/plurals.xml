@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="add_secret_ensure_message">
-      <item quantity="other">Masquer ces fichiers ?</item>
-      <item quantity="one">Masquer ce fichier ?</item>
+      <item quantity="other">Ajouter ces fichiers à un album privé ?</item>
+      <item quantity="one">Ajouter ce fichier à un album privé ?</item>
     </plurals>
     <plurals name="add_to_album_cloud_photo_count_tip">
       <item quantity="other">%d photo cloud ont été ajoutées, désactiver \"Afficher uniquement les albums locaux\" pour les voir.</item>
@@ -13,8 +13,8 @@
       <item quantity="one">"%2$d fichier ne peut être ajouté à l'album. %1$s."</item>
     </plurals>
     <plurals name="add_to_secret_failed_with_reason_and_count">
-      <item quantity="other">"%2$d fichiers ne peuvent pas être ajoutés à l'album masqué: %1$s."</item>
-      <item quantity="one">"%2$d fichier ne peut être ajouté à l'album masqué. %1$s."</item>
+      <item quantity="other">"%2$d fichiers ne peuvent pas être ajoutés à l'album privé: %1$s."</item>
+      <item quantity="one">"%2$d fichier ne peut être ajouté à l'album privé. %1$s."</item>
     </plurals>
     <plurals name="age_day">
       <item quantity="other">%d jours</item>
@@ -260,6 +260,10 @@
       <item quantity="other">"%d fichiers ne sont pas encore téléchargés. Annuler quand même ?"</item>
       <item quantity="one">"%d fichier n'est pas encore téléchargé. Annuler quand même ?"</item>
     </plurals>
+    <plurals name="picker_file_will_download">
+        <item quantity="other">Downloading %d remaining files</item>
+        <item quantity="one">Downloading %d remaining files</item>
+    </plurals>
     <plurals name="picker_no_network_retry_image_confirm_message">
       <item quantity="other">Impossible de télécharger les %1$d photos, veuillez vous connecter au réseau puis réessayez</item>
       <item quantity="one">Impossible de télécharger la photo, veuillez vous connecter au réseau puis réessayez</item>
@@ -293,8 +297,8 @@
       <item quantity="one">Total: %d photo</item>
     </plurals>
     <plurals name="remove_from_secret_failed_with_reason_and_count">
-      <item quantity="other">"%2$d fichiers ne peuvent être retirés de l'album masqué. %1$s."</item>
-      <item quantity="one">"%2$d fichier ne peut être retiré de l'album masqué. %1$s."</item>
+      <item quantity="other">"%2$d fichiers ne peuvent être retirés de l'album privé. %1$s."</item>
+      <item quantity="one">"%2$d fichier ne peut être retiré de l'album privé. %1$s."</item>
     </plurals>
     <plurals name="search_feedback_done_mark_and_contribute_false_negative">
       <item quantity="other">%1$d photos ajoutées à \"%2$s\" et ajoutées à la base de données.</item>
