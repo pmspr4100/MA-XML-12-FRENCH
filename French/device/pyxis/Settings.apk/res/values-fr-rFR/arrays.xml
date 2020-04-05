@@ -301,7 +301,6 @@
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
       <item>Optimisé pour une faible latence</item>
-      <item>Optimisé pour une faible latence</item>
       <item>Optimisé pour la qualité de la connexion</item>
       <item>Qualité audio et de connexion équilibrée</item>
       <item>Optimisé pour la qualité audio</item>
@@ -309,7 +308,6 @@
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
       <item>Optimisé pour une faible latence (192kbps)</item>
-      <item>Optimisé pour une faible latence (256kbps)</item>
       <item>Optimisé pour la qualité de la connexion (400kbps)</item>
       <item>Qualité audio et de connexion équilibrée (500/560kbps)</item>
       <item>Optimisé pour la qualité audio (900kbps)</item>
@@ -1072,6 +1070,10 @@
       <item>""Ce mois-ci (Wi-Fi) "</item>
       <item>"Le mois dernier (Wi-Fi) "</item>
     </string-array>
+    <string-array name="msd_pc_system_install_finish_summary">
+      <item>"Le stockage de masse USB s'ouvre automatiquement lorsqu'il est connecté à un ordinateur."</item>
+      <item></item>
+    </string-array>
     <string-array name="date_of_traffic">
       <item>"Aujourd'hui "</item>
       <item>"Ce mois-ci "</item>
@@ -1242,7 +1244,7 @@
       <item>Connectez-vous à nouveau</item>
       <item>Accéder au périphérique monté: mtpfs/media/mtp via Explorateur de fichiers; pareil que le dossier local.</item>
       <item>"Désinstaller le périphérique: fusermount -u/media/mtp
-Note : seulement pour Ubuntu 8.04 !"</item>
+Note: seulement pour Ubuntu 8.04 !"</item>
     </string-array>
     <string-array name="msd_pc_system_retry_xp">
       <item>Réinstaller Mi PC Suite</item>
@@ -1698,8 +1700,8 @@ Note : seulement pour Ubuntu 8.04 !"</item>
       <item>GTC</item>
     </string-array>
     <string-array name="wifi_privacy_entries">
-      <item>Use randomized MAC</item>
-      <item>Use device MAC</item>
+      <item>Utiliser un MAC aléatoire</item>
+      <item>"Utiliser le MAC de l'appareil"</item>
     </string-array>
     <string-array name="wifi_proxy_settings">
       <item>Aucun</item>

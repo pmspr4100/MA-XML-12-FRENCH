@@ -2728,6 +2728,13 @@ Videos will be saved to Game Turbo &gt; Key moments."</string>
   <string name="gmscore_support_service">Services de base Google</string>
   <string name="gmscore_support_remind">"Activez cette fonctionnalité si vous rencontrez des problèmes avec Gmail, Google Maps et d'autres applications Google. Cela réduira légèrement la durée de vie de la batterie."</string>
   <string name="google_base_app_install_choice">"L'application nécessite Google Services Framework pour fonctionner normalement, voulez-vous le télécharger et l'installer maintenant ?"</string>
+  <string name="google_base_app_fail">"Couldn't download. Check whether Security is allowed to connect to the internet."</string>
+  <string name="google_base_app_installed">Installed successfully</string>
+  <string name="google_base_app_installing">Installing…</string>
+  <string name="google_base_app_network_anomaly">"Couldn't connect to the network. Check your network settings and try again."</string>
+  <string name="google_base_app_timeout">Session timed out. Wait a minute or two and try again.</string>
+  <string name="google_base_app_title">Installing Google services</string>
+  <string name="google_base_app_toast">Google Services Framework is being installed in the background. Wait a minute or two and try again.</string>
   <string name="application_item_disable">Limité</string>
   <string name="application_item_already_permission">Autorisé</string>
   <string name="man_add_application">Ajouter manuellement des applications au démarrage automatique</string>
