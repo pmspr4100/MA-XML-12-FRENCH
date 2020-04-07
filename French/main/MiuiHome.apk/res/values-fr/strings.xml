@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="accessibility_menu_item_split_disable">"L'application ne prend pas en charge l'écran partagé."</string>
-  <string name="accessibility_menu_item_split_enable">"L'application prend en charge l'écran partagé"</string>
-  <string name="accessibility_recents_item_open_app_info">Open %s application info.</string>
-  <string name="accessibility_splite_screen_primary">"Ajouté comme application principale dans l'écran partagé"</string>
-  <string name="accessibility_splite_screen_secondary">"Ajouté comme application secondaire dans l'écran partagé"</string>
   <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
   <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
   <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
@@ -21,6 +16,12 @@
   <string name="abc_searchview_description_voice">Recherche vocale</string>
   <string name="abc_shareactionprovider_share_with">Partager avec</string>
   <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
+  <string name="abc_toolbar_collapse_description">Réduire</string>
+  <string name="accessibility_menu_item_split_disable">"L'application ne prend pas en charge l'écran partagé."</string>
+  <string name="accessibility_menu_item_split_enable">"L'application prend en charge l'écran partagé"</string>
+  <string name="accessibility_recents_item_open_app_info">Open %s application info.</string>
+  <string name="accessibility_splite_screen_primary">"Ajouté comme application principale dans l'écran partagé"</string>
+  <string name="accessibility_splite_screen_secondary">"Ajouté comme application secondaire dans l'écran partagé"</string>
   <string name="abc_slice_error">Impossible de se connecter</string>
   <string name="action_add_to_workspace">"Ajouter à l'espace de travail"</string>
   <string name="activity_not_found">"L'application n'est pas installée sur votre appareil"</string>
@@ -152,6 +153,8 @@
   <string name="category_group_summary">"Classer les applications dans le tiroir d'applications"</string>
   <string name="category_not_selected">Applications disponibles</string>
   <string name="change_wallpaper">Remplacer</string>
+  <string name="check_result_title">检测结果-%s</string>
+  <string name="checked_database_list_title">检测数据库列表</string>
   <string name="choose_wallpaper">"Choisir un fond d'écran"</string>
   <string name="chooser_wallpaper">"Choisir un nouveau fond d'écran"</string>
   <string name="cloud_app_restore_title">En attente</string>
@@ -183,6 +186,14 @@
   <string name="delete_screen">Supprimer un écran</string>
   <string name="delete_wallpaper_message">"Supprimer %1$d fond d'écran ?"</string>
   <string name="deselect_all">Tout désélectionner</string>
+  <string name="diagnosis_detail_btn_title">详细&gt;&gt;</string>
+  <string name="diagnosis_detail_title">检测结果详细</string>
+  <string name="diagnosis_ext_info_title">"相关栈信息:
+%s"</string>
+  <string name="diagnosis_level_error">严重</string>
+  <string name="diagnosis_level_suggestion">建议</string>
+  <string name="diagnosis_level_tips">提示</string>
+  <string name="diagnosis_level_warning">警告</string>
   <string name="disable_wallpaper_scroll">Désactiver le défilement</string>
   <string name="double_tap_to_lock_title">"Appuyez deux fois pour verrouiller l'écran"</string>
   <string name="download_action">Télécharger</string>
@@ -356,13 +367,15 @@
   <string name="out_of_space">"Plus d'espace sur ce bureau"</string>
   <string name="permdesc_install_shortcut">"Permet à une application d'ajouter des raccourcis sans l'intervention de l'utilisateur."</string>
   <string name="permdesc_install_widget">"Permet à une application d'ajouter des widgets sans votre intervention."</string>
-  <string name="permdesc_read_settings">"Autorise une application à lire les paramètres et les raccourcis de l'écran d'accueil."</string>
+  <string name="permdesc_read_settings">"Permet à une application à lire les paramètres et les raccourcis de l'écran d'accueil."</string>
   <string name="permdesc_uninstall_shortcut">"Permet à une application de supprimer les raccourcis sans l'intervention de l'utilisateur."</string>
-  <string name="permdesc_write_settings">"Autorise une application à modifier les paramètres et les raccourcis de l'écran d'accueil."</string>
+  <string name="permdesc_uninstall_widget">"Permet à une application de supprimer des widgets sans intervention de l'utilisateur."</string>
+  <string name="permdesc_write_settings">"Permet à une application à modifier les paramètres et les raccourcis de l'écran d'accueil."</string>
   <string name="permlab_install_shortcut">Installer des raccourcis</string>
   <string name="permlab_install_widget">Installer des widgets</string>
   <string name="permlab_read_settings">"Lire les paramètres et les raccourcis de l'écran d'accueil"</string>
   <string name="permlab_uninstall_shortcut">Désinstaller les raccourcis</string>
+  <string name="permlab_uninstall_widget">Désinstaller les widgets</string>
   <string name="permlab_write_settings">"Modifier les raccourcis et les paramètres de l'écran d'accueil"</string>
   <string name="photo_adjust">Prévisualiser</string>
   <string name="photo_confirm">Définir</string>
@@ -390,7 +403,7 @@
   <string name="recent_apps">Récents</string>
   <string name="recent_menu_item_info">Info</string>
   <string name="recent_menu_item_lock">Verrouiller</string>
-  <string name="recent_menu_item_multi_window">Split</string>
+  <string name="recent_menu_item_multi_window">Divisé</string>
   <string name="recent_menu_item_unlock">Déverrouiller</string>
   <string name="recents_app_info_button_label">App info</string>
   <string name="recents_config_title">Récents</string>
@@ -426,10 +439,13 @@
   <string name="reset_fail">Impossible de restaurer</string>
   <string name="reset_scene_prompt">"L'écran sera réinitialisé à la disposition par défaut."</string>
   <string name="reset_title">Restaurer</string>
+  <string name="resource_canary_leak_tip">il a une fuite !</string>
+  <string name="resource_canary_wait_for_heapdump_message">Dumping heap snapshot...</string>
   <string name="screen_cells_config_title">"Modifier la disposition de l'écran d'accueil"</string>
   <string name="screen_locked_toast">"La disposition de l'écran d'accueil est verrouillée."</string>
   <string name="screen_number">%d écran</string>
   <string name="search_in_apps_store">Rechercher \"%1$s\" dans %2$s</string>
+  <string name="search_menu_title">Recherche</string>
   <string name="search_no_result">Impossible de trouver des résultats</string>
   <string name="select_all">Tout sélectionner</string>
   <string name="select_frame">Cadre</string>
