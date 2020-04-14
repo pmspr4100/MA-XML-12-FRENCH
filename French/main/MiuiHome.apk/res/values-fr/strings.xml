@@ -19,6 +19,11 @@
   <string name="abc_toolbar_collapse_description">Réduire</string>
   <string name="accessibility_menu_item_split_disable">"L'application ne prend pas en charge l'écran partagé."</string>
   <string name="accessibility_menu_item_split_enable">"L'application prend en charge l'écran partagé"</string>
+  <string name="accessibility_recent_task_enter">Opened Recents</string>
+  <string name="accessibility_recent_task_exit">Closed Recents</string>
+  <string name="accessibility_recent_task_locked_state">Locked</string>
+  <string name="accessibility_recent_task_memory_info">Total RAM: %2$s | Available RAM: %1$s. Double tap to clear.</string>
+  <string name="accessibility_recent_task_unlocked_state">Unlocked</string>
   <string name="accessibility_recents_item_open_app_info">Open %s application info.</string>
   <string name="accessibility_splite_screen_primary">"Ajouté comme application principale dans l'écran partagé"</string>
   <string name="accessibility_splite_screen_secondary">"Ajouté comme application secondaire dans l'écran partagé"</string>
@@ -311,6 +316,9 @@
   <string name="launcher_title">"Écran d'accueil et récents"</string>
   <string name="like">Ajouter aux favoris</string>
   <string name="liked">Ajouté aux favoris</string>
+  <string name="load_end">没有更多数据</string>
+  <string name="load_failed">加载失败，请点我重试</string>
+  <string name="loading">正在加载中...</string>
   <string name="loading_desktop">Chargement…</string>
   <string name="loading_wallpaper">Chargement…</string>
   <string name="local_apps">Applications locales</string>
@@ -412,6 +420,8 @@
   <string name="recents_empty_message_dismissed_all">Tu as tout effacé</string>
   <string name="recents_empty_message_multi_window">"Ouvrir des applications depuis l'écran d'accueil"</string>
   <string name="recents_forbid_dock_when_screening_toast_text">"Impossible d'utiliser l'écran partagé pendant la diffusion"</string>
+  <string name="recents_incompatible_app_message">"This app doesn't support Split screen"</string>
+  <string name="recents_smallwindow_text">松手悬挂</string>
   <string name="recents_task_screening">Casting</string>
   <string name="recents_title_app_manager">Gérer les applications</string>
   <string name="recents_title_game">Jeux</string>
@@ -419,6 +429,7 @@
   <string name="recents_title_garbage_deepclean">Nettoyage en profondeur</string>
   <string name="recents_title_market">Find apps</string>
   <string name="recents_title_security_scan">Security scan</string>
+  <string name="recents_tv_small_window_text">小窗应用</string>
   <string name="recommend_apk_size_and_desc">%1$d Mo | %2$s</string>
   <string name="recommend_app">"Suggestions d'applications"</string>
   <string name="recommend_apps_default_title">Vide</string>
@@ -464,6 +475,14 @@
   <string name="show_mem_info_title">"Afficher l'état de la mémoire"</string>
   <string name="show_most_popular_apps_you_used">Afficher les applications les plus fréquemment utilisées dans le tiroir</string>
   <string name="show_recents_recommend_title">Afficher les suggestions</string>
+  <string name="slide_to_open_newhome">Swipe up to open Content Center</string>
+  <string name="small_window_button_complete">完成</string>
+  <string name="small_window_edit_content">最多添加10个常用小窗应用</string>
+  <string name="small_window_edit_title">编辑常用小窗应用</string>
+  <string name="small_window_empty">从下方选择应用添加</string>
+  <string name="small_window_select_title">从下方选择应用添加</string>
+  <string name="small_window_title_text">点击打开小窗应用</string>
+  <string name="small_window_toast">最多添加10个应用</string>
   <string name="sort_by_abc">Trier par nom</string>
   <string name="sort_by_frequency">Trier par utilisation</string>
   <string name="sort_by_not_defined">Tri-auto</string>
