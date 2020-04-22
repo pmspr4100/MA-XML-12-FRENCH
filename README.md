@@ -24,4 +24,5 @@
 Dossiers | Descriptions
 :------------: | :------------:
 / French / extras | Widgets, écran de verrouillage par ex.
+/ French / device | Dossiers spécifiques pour certains modèles Xiaomi.
 / French / main | Applications MIUI (APK) pour tous les appareils Xiaomi
