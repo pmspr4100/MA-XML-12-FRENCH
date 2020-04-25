@@ -316,9 +316,6 @@
   <string name="launcher_title">"Écran d'accueil et récents"</string>
   <string name="like">Ajouter aux favoris</string>
   <string name="liked">Ajouté aux favoris</string>
-  <string name="load_end">没有更多数据</string>
-  <string name="load_failed">加载失败，请点我重试</string>
-  <string name="loading">正在加载中...</string>
   <string name="loading_desktop">Chargement…</string>
   <string name="loading_wallpaper">Chargement…</string>
   <string name="local_apps">Applications locales</string>
@@ -413,6 +410,7 @@
   <string name="recent_menu_item_lock">Verrouiller</string>
   <string name="recent_menu_item_multi_window">Divisé</string>
   <string name="recent_menu_item_unlock">Déverrouiller</string>
+  <string name="recents_abc_text">松手悬挂</string>
   <string name="recents_app_info_button_label">App info</string>
   <string name="recents_config_title">Récents</string>
   <string name="recents_dimiss_task">Effacer</string>
@@ -421,7 +419,6 @@
   <string name="recents_empty_message_multi_window">"Ouvrir des applications depuis l'écran d'accueil"</string>
   <string name="recents_forbid_dock_when_screening_toast_text">"Impossible d'utiliser l'écran partagé pendant la diffusion"</string>
   <string name="recents_incompatible_app_message">"This app doesn't support Split screen"</string>
-  <string name="recents_smallwindow_text">松手悬挂</string>
   <string name="recents_task_screening">Casting</string>
   <string name="recents_title_app_manager">Gérer les applications</string>
   <string name="recents_title_game">Jeux</string>
@@ -429,7 +426,6 @@
   <string name="recents_title_garbage_deepclean">Nettoyage en profondeur</string>
   <string name="recents_title_market">Find apps</string>
   <string name="recents_title_security_scan">Security scan</string>
-  <string name="recents_tv_small_window_text">小窗应用</string>
   <string name="recommend_apk_size_and_desc">%1$d Mo | %2$s</string>
   <string name="recommend_app">"Suggestions d'applications"</string>
   <string name="recommend_apps_default_title">Vide</string>
@@ -476,13 +472,6 @@
   <string name="show_most_popular_apps_you_used">Afficher les applications les plus fréquemment utilisées dans le tiroir</string>
   <string name="show_recents_recommend_title">Afficher les suggestions</string>
   <string name="slide_to_open_newhome">Swipe up to open Content Center</string>
-  <string name="small_window_button_complete">完成</string>
-  <string name="small_window_edit_content">最多添加10个常用小窗应用</string>
-  <string name="small_window_edit_title">编辑常用小窗应用</string>
-  <string name="small_window_empty">从下方选择应用添加</string>
-  <string name="small_window_select_title">从下方选择应用添加</string>
-  <string name="small_window_title_text">点击打开小窗应用</string>
-  <string name="small_window_toast">最多添加10个应用</string>
   <string name="sort_by_abc">Trier par nom</string>
   <string name="sort_by_frequency">Trier par utilisation</string>
   <string name="sort_by_not_defined">Tri-auto</string>

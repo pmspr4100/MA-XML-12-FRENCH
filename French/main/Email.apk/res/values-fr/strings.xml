@@ -66,7 +66,6 @@
   <string name="overlays_tip">"Paramètres du téléphone - Application - Détails de l'application - ouvrir les permissions flottantes de Windows dans le gestionnaire de permissions, et profiter immédiatement de la boîte aux lettres 139 pour configurer automatiquement l'expérience extrême."</string>
   <string name="overlays_tip_23">"Ouvrez les permissions flottantes de Windows, et profitez immédiatement de la boîte aux lettres 139 pour configurer automatiquement l'expérience extrême."</string>
   <string name="overlays_title">Ouvrez les permissions flottantes de Windows</string>
-  <string name="permission_des_storage">Pour créer de nouveaux Emails, ainsi que pour enregistrer et ajouter des pièces jointes</string>
   <string name="permission_tip">La configuration échoue, veuillez autoriser les appels et les messages texte pendant les permissions de configuration</string>
   <string name="quote_divider_7">Message Original</string>
   <string name="quote_divider_iphone_en">Envoyé depuis mon iPhone</string>
@@ -502,6 +501,7 @@
   <string name="exchange_name">Entreprise</string>
   <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
   <string name="expand_recipient_details">Afficher les détails du destinataire</string>
+  <string name="expand_slide">Expand sidebar</string>
   <string name="fail_get_email_message">Le téléchargement du message a échoué.</string>
   <string name="failed">"Impossible de charger l'image"</string>
   <string name="failed_parse_eml_file">"Impossible d'ouvrir le fichier EML, essayez à nouveau."</string>
@@ -562,6 +562,7 @@
   <string name="gmail_server_authorization_deleted">"Impossible d'authentifier le compte. Essayez d'ajouter ce compte à nouveau."</string>
   <string name="gmail_web_login_go">OK</string>
   <string name="gmail_web_login_required_message">Se connecter à Gmail</string>
+  <string name="go_to_mail_content">View mail</string>
   <string name="have_auth_code">"J'ai un code"</string>
   <string name="header_category_account">Comptes</string>
   <string name="header_category_other">Commentaires</string>
@@ -735,6 +736,7 @@
   <string name="mibill_privacy_policy_link">"En utilisant cette fonctionnalité, vous acceptez nos "&lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Conditions d'utilisation &lt;/a&gt;"</string>
   <string name="mibill_privacy_policy_title">Gérer les factures automatiquement</string>
   <string name="min_payment_text">Paiement minimal</string>
+  <string name="modify_contact_address">Modify contact email address</string>
   <string name="more_context">Plus</string>
   <string name="move_to_selection_dialog_title">Déplacer vers un autre dossier</string>
   <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
@@ -859,9 +861,7 @@ Essayez une autre boîte de réception."</string>
   <string name="perference_setup_send_tag">Serveur de courrier sortant</string>
   <string name="permission_access_provider_desc">"Autorise l'application à accéder à vos Emails, noms d'utilisateur et aux mots de passe"</string>
   <string name="permission_access_provider_label">Accéder aux données utilisateur</string>
-  <string name="permission_des_detail">"Si vous refusez d'accorder ces permissions, ou de partager et d'envoyer vos données personnelles, vous ne pourrez pas utiliser cet application. Vous pouvez choisir de la désinstaller, de vous déconnecter, ou de restreindre ses permissions depuis les Paramètres dans ce cas."</string>
   <string name="permission_des_external_storage">À créer de nouveaux Emails, ou bien enregistrer ou ajouter des pièces jointes</string>
-  <string name="permission_des_phone_status">"À accéder à l'IMEI pour identifier votre périphérique"</string>
   <string name="permission_des_calendar">À synchroniser des événements du calendrier</string>
   <string name="permission_des_contact">À accéder aux adresses Email de vos contacts pour remplir automatiquement les destinataires</string>
   <string name="permission_read_attachment_desc">"Autorise l'application à lire vos pièces jointes"</string>
@@ -1103,6 +1103,7 @@ Attendez la synchronisation complète ou visualisez le message sur votre ordinat
   <string name="share_choose">Choisissez un fichier à partager</string>
   <string name="sharing">Partager</string>
   <string name="shortcut_name_title">Nom du raccourci</string>
+  <string name="show_contact_address">Show contact email address</string>
   <string name="show_elided">▶ Afficher le texte cité</string>
   <string name="show_images">Télécharger et afficher les images</string>
   <string name="show_password">Afficher le mot de passe</string>

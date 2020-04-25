@@ -56,6 +56,8 @@ ajouter des cartes"</string>
   <string name="all_records">Tous les enregistrements</string>
   <string name="allow_notice_periods">Allow reminder period</string>
   <string name="altitude">Altitude</string>
+  <string name="audio_permission_dialog_desc">Audio record permission has been closed, please open it.</string>
+  <string name="audio_permission_dialog_title">Grant audio record permission</string>
   <string name="audio_record_perm_description">Record your snoring and dreams during sleep</string>
   <string name="audio_record_permission_description">For recording talking and snoring while analyzing your sleep cycle</string>
   <string name="auth_description">Autoriser %1$s pour synchroniser les données des appareils suivants</string>
@@ -210,6 +212,7 @@ ajouter des cartes"</string>
   <string name="close_stand_detection_tip">Standing reminder is turned off, do not miss standing and recording after turning on</string>
   <string name="close_stand_notice_and_detection_tip">Standing detection and reminder are off</string>
   <string name="close_stand_notice_tip">Standing detection has been turned off, automatic detection after opening is more worry-free</string>
+  <string name="collapse">Hide</string>
   <string name="collect_diagnosis_log">Collecter le journal de diagnostic</string>
   <string name="complete_preference_basic_info">Complète ton profile</string>
   <string name="completed">"Completed "</string>
@@ -323,6 +326,7 @@ Mi Santé ne vous informera que des articles importants."</string>
   <string name="dialog_privacy_policy_statement">Déclaration de confidentialité</string>
   <string name="dialog_privacy_title">Termes et conditions</string>
   <string name="dialog_read_phone_perm_desc">"Pour identifier les fonctionnalités de l'appareil en utilisant OAID ou Android ID"</string>
+  <string name="dialog_request_network">Please agree to the Application Networking.</string>
   <string name="dialog_sleep_goal_setting">Fixer un objectif de durée de sommeil</string>
   <string name="dialog_sleep_goal_subtitle">Dormez 7 à 9 heures chaque jour</string>
   <string name="dialog_sleep_goal_title">Objectif de durée de sommeil</string>
@@ -352,6 +356,9 @@ Mi Santé ne vous informera que des articles importants."</string>
   <string name="edit_basic_info_desc">Info de base</string>
   <string name="edit_sleep_record_button">Quitter</string>
   <string name="enable">On</string>
+  <string name="enable_go_now">On</string>
+  <string name="enable_not_now">Off</string>
+  <string name="enable_right_now">On</string>
   <string name="enough">Enough</string>
   <string name="enter_mi_health">Ouvrir Mi Santé</string>
   <string name="equivalent_exercise">≈%1$s km marcher (%2$s kcal)</string>
@@ -371,7 +378,7 @@ You can select a different data source in More &gt; Data sources."</string>
   <string name="exercise_detail_no_steps_hint">"Selected data source (%1$s) doesn't provide step count info.
 You can select a different data source in More &gt; Data sources."</string>
   <string name="exercise_duration">Exercise duration</string>
-  <string name="exercise_duration_consume">Duration: %1$s, %2$s</string>
+  <string name="exercise_duration_consume">Duration: %1$s | Burned: %2$s</string>
   <string name="exercise_goal">Activity goal</string>
   <string name="exercise_goal_accomplished">Objectif atteint</string>
   <string name="exercise_goal_lack_exercise">"Pas assez d'activité"</string>
@@ -379,8 +386,8 @@ You can select a different data source in More &gt; Data sources."</string>
   <string name="exercise_info_tool_bar_title">Activité</string>
   <string name="exercise_information_label">Provide your info to make stats more accurate</string>
   <string name="exercise_intensity">Intensity</string>
-  <string name="exercise_motor_perception">AI motion perception</string>
-  <string name="exercise_motor_perception_description">Use offline AI algorithm, combined with mobile phone sensors and low-power computing technology to automatically record your movements</string>
+  <string name="exercise_motor_perception">Track workouts automatically</string>
+  <string name="exercise_motor_perception_description">Carry your device with you throughout the day to track workouts automatically</string>
   <string name="exercise_no_question">"Why can't you see your stats?"</string>
   <string name="exercise_notification_content">%1$d min(s) of exercise (%2$d Cal)</string>
   <string name="exercise_notification_meet_title">"Today's steps: %d. Goal reached!"</string>
@@ -390,6 +397,7 @@ If your device is listed here, you can add data sources manually in Xiaomi Healt
   <string name="exercise_question_answer_two">2. Occasionally, motion sensors may fail to mount. Reboot your phone and check whether tracking starts works normally in such cases.</string>
   <string name="exercise_question_title">"Why can't you see your stats?"</string>
   <string name="exercise_record">Workout history</string>
+  <string name="exercise_record_no_data">No items here yet</string>
   <string name="exercise_reminder_accomplished">"Vous avez atteind votre objectif d'activité !"</string>
   <string name="exercise_reminder_title">"Rappel d'activité"</string>
   <string name="exercise_reminder_unaccomplished">"Vous n'avez pas encore atteint votre objectif. Continue !"</string>
@@ -398,6 +406,7 @@ If your device is listed here, you can add data sources manually in Xiaomi Healt
   <string name="exercise_strokes">Number of strokes</string>
   <string name="exercise_sum">Exercise report</string>
   <string name="exercise_walk_description">According to the Dietary Guidelines for Chinese Residents, active physical activity should last at least 40 minutes a day, which is equivalent to walking 6000 steps. The steps you take each day to walk, run, and go upstairs are summarized here.</string>
+  <string name="expand_all">Show all</string>
   <string name="expand_button_title">Avancé</string>
   <string name="exposed_dropdown_menu_content_description">Afficher le menu déroulant</string>
   <string name="fall_sleep_hard">Trouble falling asleep</string>
@@ -695,12 +704,14 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
   <string name="no_data">No data</string>
   <string name="no_records">Aucun élément ici pour le moment.</string>
   <string name="no_snore">"You didn't snore or talk in your sleep"</string>
+  <string name="no_snore_1">"You didn't snore or talk in your sleep"</string>
   <string name="noon">PM</string>
   <string name="normal">Normal</string>
   <string name="not_achieve_stand_goals">Standing goal not reached</string>
   <string name="not_added">Not added</string>
   <string name="not_open_auto_sync">Synchronisation désactivée</string>
   <string name="not_set">Not set</string>
+  <string name="not_standing">Not Stand</string>
   <string name="not_support_step">Votre appareil ne peut pas compter les pas</string>
   <string name="not_up_to_standard">Below standard</string>
   <string name="ok">OK</string>
@@ -830,7 +841,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
   <string name="sleep_detection_guide_one_title">Track your sleep</string>
   <string name="sleep_detection_guide_schedule_hint_one">"Without bedtime schedule, your stats won't be accurate. "</string>
   <string name="sleep_detection_guide_schedule_hint_two">Set your bedtime schedule.</string>
-  <string name="sleep_detection_guide_schedule_hint_two_details">It is recommended that you go to work and rest management settings of clock.</string>
+  <string name="sleep_detection_guide_schedule_hint_two_details">Set your bedtime in Clock.</string>
   <string name="sleep_detection_guide_three_description">"When bedtime schedule is set up, your sleep will be tracked automatically. "</string>
   <string name="sleep_detection_guide_three_title">Generate stats automatically</string>
   <string name="sleep_detection_guide_two_description">"To get accurate stats, place your device beside or under the pillow and make sure that it's no more than 50 cm away from your body."</string>
@@ -888,7 +899,14 @@ sommeil entier"</string>
   <string name="sleep_service">Service de suivi du sommeil</string>
   <string name="sleep_service_background_running">Service de suivi du sommeil est en marche en arrière plan</string>
   <string name="sleep_setting_title">Paramètres de veille</string>
+  <string name="sleep_snore_audio_auto">Track your audio</string>
+  <string name="sleep_snore_audio_auto_desc">Records your talk when you are sleeping and store the file in your phone to protect your privacy safely.</string>
+  <string name="sleep_snore_audio_close_desc">You can disable it in sleep settings.</string>
+  <string name="sleep_snore_audio_enable">The detections is enable</string>
+  <string name="sleep_snore_audio_enable_desc">Tonight, your sleep will be tracked automatically.</string>
+  <string name="sleep_snore_audio_hight_power_desc">Make sure your device is sufficiently charged before you go to bed.</string>
   <string name="sleep_snore_detection">Detect snoring and talking</string>
+  <string name="sleep_snore_detection_desc">Track your sleep</string>
   <string name="sleep_sober">Awake</string>
   <string name="sleep_sober_times_title">Woke up</string>
   <string name="sleep_status">Etat de sommeil</string>
@@ -913,7 +931,7 @@ sommeil entier"</string>
   <string name="snore_detection_guide_one_description">Sound will be recorded while you sleep. Machine learning allows Xiaomi Health to detect snoring, talking, and loud noises, and save the recordings on your device.</string>
   <string name="snore_detection_guide_one_title">Record audio using microphone</string>
   <string name="snore_detection_guide_schedule_suggest">Microphone will be turned on and off according to your bedtime schedule. Set your bedtime schedule to make it work&gt;</string>
-  <string name="snore_detection_guide_schedule_suggest_details">Microphone will be turned on and off according to your bedtime schedule. It is recommended that you go to work and rest management settings of clock.</string>
+  <string name="snore_detection_guide_schedule_suggest_details">Microphone will be turned on during bedtime to analyze your sleep cycle. To make stats more accurate, set your bedtime in Clock.</string>
   <string name="snore_detection_guide_three_description">Make sure your device is sufficiently charged before you go to bed. Low battery may interrupt sound recording.</string>
   <string name="snore_detection_guide_three_title">Keep your device charged</string>
   <string name="snore_detection_guide_two_description">Microphone will be turned on and off according to your bedtime schedule.</string>
@@ -928,6 +946,8 @@ sommeil entier"</string>
   <string name="snore_detection_stop_pop_title">End session now?</string>
   <string name="snore_detection_stopped_notification_title">Stopped detecting snoring and talking</string>
   <string name="snore_dream_talk">Snoring and talking</string>
+  <string name="snore_duration_label">Snore duration</string>
+  <string name="snore_label">Snore</string>
   <string name="snore_record_audio_delete_message">"This recording is stored on your device only. You won't be able to restore it if you delete it.Delete anyway?"</string>
   <string name="snore_record_audio_delete_title">Delete recording?</string>
   <string name="snore_section">Snoring %1$s</string>
@@ -973,6 +993,7 @@ sommeil entier"</string>
   <string name="stand_notice_title6">Is there any standing activity in the last hour?</string>
   <string name="stand_setting">Stand Setting</string>
   <string name="standard_format">(standard: %1s)</string>
+  <string name="standing_already">Standing Already</string>
   <string name="state_agree">Accepter</string>
   <string name="state_auto_run_disenable">Désactiver</string>
   <string name="state_auto_run_enable">Activer</string>
@@ -1041,7 +1062,7 @@ sommeil entier"</string>
   <string name="tb_exercise_exercise_duration">Exercise duration in minutes: %1$d. %2$s. Tap to view details.</string>
   <string name="tb_exercise_exercise_no_data">No exercise duration info</string>
   <string name="tb_exercise_goal_info">Daily activity goal: %1$s. %2$s</string>
-  <string name="tb_exercise_home_banner">Daily health check</string>
+  <string name="tb_exercise_home_banner">Daily check-in</string>
   <string name="tb_exercise_label_close">Close prompt</string>
   <string name="tb_exercise_list_add">Add exercise stats</string>
   <string name="tb_exercise_list_consume">Burnt Calories: %1$d. End time: %2$s. Tap to view details.</string>
@@ -1103,6 +1124,8 @@ sommeil entier"</string>
   <string name="tb_picker_sleep_goal">Selected sleep goal: %1$s. Swipe vertically to select goal.</string>
   <string name="tb_picker_weight">Selected weight: %1$s. Swipe vertically to select weight.</string>
   <string name="tb_picker_year">Selected year: %1$d. Swipe vertically to select year.</string>
+  <string name="tb_play_next">Next audio</string>
+  <string name="tb_play_previous">Previous audio</string>
   <string name="tb_select_a_column">Selected %1$s</string>
   <string name="tb_show_sleep_info">Showing sleep stats for %1$s</string>
   <string name="tb_sleep_evaluation">Estimated result: %1$s</string>

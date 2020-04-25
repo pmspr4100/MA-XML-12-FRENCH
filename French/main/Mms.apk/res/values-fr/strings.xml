@@ -181,6 +181,7 @@
   <string name="converting_to_picture_message">Conversion en MMS…</string>
   <string name="converting_to_text_message">Conversion en SMS…</string>
   <string name="converting_vcard_failed">Impossible de convertir le contact</string>
+  <string name="copy">Copy</string>
   <string name="copy_message_text">Copier</string>
   <string name="copy_message_text_success">Copie réussie</string>
   <string name="copy_to_sdcard">Enregistrer la pièce jointe</string>
@@ -198,11 +199,11 @@
   <string name="delete_wild_sims_title">Supprimer les numéros sélectionnés</string>
   <string name="delivery_report_activity">Accusé de réception</string>
   <string name="delivery_toast_body">Message reçu par %s</string>
-  <string name="dialog_choice_all_correct_as_normal">【%s】发送的所有短信</string>
+  <string name="dialog_choice_all_correct_as_normal">All messages from %s</string>
   <string name="dialog_choice_finance_correct_as_normal">【%s】发送的优惠券短信</string>
   <string name="dialog_complain_tips">Autoriser la messagerie à se connecter au réseau pour pouvoir rapporter des éléments.</string>
-  <string name="dialog_message_correct_as_ad">将【%s】发送的所有短信（不包含验证码）移入推广短信</string>
-  <string name="dialog_message_correct_as_normal">可选择将以下短信移入普通短信</string>
+  <string name="dialog_message_correct_as_ad">All messages from %s (except verification codes) will be moved to promotional messages.</string>
+  <string name="dialog_message_correct_as_normal">Select messages to move</string>
   <string name="dialog_message_fake_cell_detect_error">"Corrigez les informations sur ce message ? Pour ce faire, MIUI doit télécharger le numéro de téléphone (%1$s), le contenu du message et les informations sur l'emplacement à proximité de ses serveurs."</string>
   <string name="dialog_message_mx">"Mi Message vous permet d'envoyer des messages à d'autres utilisateurs MIUI sans encourir de frais. Un message SMS sortant est requis pour activer Mi Message. Votre opérateur vous facturera ce message. Vous devez accepter nos \"%1$s\" et \"%2$s\" avant d'utiliser Mi Message."</string>
   <string name="dialog_message_networking">"La messagerie doit utiliser les pages jaunes pour être en mesure de fournir une reconnaissance de l'ID de l'expéditeur. Les messages et les pages jaunes doivent se connecter à internet et accéder à votre localisation pour fonctionner normalement. Autoriser?"</string>
@@ -211,8 +212,8 @@
   <string name="dialog_sim_locked_message">"Votre carte SIM n'est pas complètement opérationnelle avec ce téléphone car elle n'est pas conforme aux conditions générales de votre abonnement. Si vous avez des questions ou avez besoin de plus d'informations à ce sujet, veuillez contacter les centres de service Xiaomi ou le magasin qui vous a vendu des produits."</string>
   <string name="dialog_smart_message_privacy_tips">"Les services de messagerie intelligente sont fournis en partie par Dianhuabang. Avant d'utiliser la messagerie intelligente, vous devez accepter de \"%1$s\". La messagerie intelligente doit se connecter à internet et accéder à votre emplacement pour fonctionner normalement. Accepter ?"</string>
   <string name="dialog_smart_message_privacy_tips_title">Politique de confidentialité de Dianhuabang</string>
-  <string name="dialog_title_correct_as_ad">Set as business message</string>
-  <string name="dialog_title_correct_as_normal">Set as normal message</string>
+  <string name="dialog_title_correct_as_ad">Move to promotional messages</string>
+  <string name="dialog_title_correct_as_normal">Move to regular messages</string>
   <string name="dialog_title_fake_cell_detect_error">Correction</string>
   <string name="dialog_title_mx_rcs">Mi Message</string>
   <string name="dialog_title_networking">"Conditions générales d'utilisation"</string>
@@ -255,6 +256,7 @@
   <string name="exceed_message_size_limitation">Taille maximale atteinte pour ce message.</string>
   <string name="exceed_message_size_limitation_add_slide">La taille du message est insuffisante pour ajouter une diapositive</string>
   <string name="exceed_message_text_limitation">Limite de longueur de texte du message atteint.</string>
+  <string name="expand_button_title">Advanced</string>
   <string name="expire_on">Expiration : %s</string>
   <string name="exporting_progress_private_message">Exportation…</string>
   <string name="fail_to_add_attachment">"Impossible d'ajouter la pièce jointe"</string>
@@ -310,8 +312,8 @@
   <string name="heduohao_sub_sim_card">Sub</string>
   <string name="hidden_sender_address">"Adresse d'expéditeur masquée"</string>
   <string name="hold_to_talk">Maintenir pour parler</string>
-  <string name="home_tab_ad">Business</string>
-  <string name="home_tab_common">Normal</string>
+  <string name="home_tab_ad">Promotional</string>
+  <string name="home_tab_common">Regular</string>
   <string name="hybrid_check_network">Paramètres du réseau</string>
   <string name="hybrid_data_error">Une erreur est survenue</string>
   <string name="hybrid_locating_fail">Impossible de trouver votre position</string>
@@ -346,8 +348,8 @@
   <string name="menu_call">Appeler</string>
   <string name="menu_compose_new">Nouveau</string>
   <string name="menu_contact">Afficher les infos du contact</string>
-  <string name="menu_correct_as_ad">Set business</string>
-  <string name="menu_correct_as_normal">Set normal</string>
+  <string name="menu_correct_as_ad">Move to promotional</string>
+  <string name="menu_correct_as_normal">Move to regular</string>
   <string name="menu_delete_messages">Supprimer les messages</string>
   <string name="menu_edit">Modifier</string>
   <string name="menu_forward">Transférer</string>
@@ -390,6 +392,14 @@
   <string name="messagelist_sender_self">Moi</string>
   <string name="messaging">Messages</string>
   <string name="millionbyte">Mo</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">pull to refresh</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">refresh completed</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">refreshing</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">release to refresh</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">no data</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">not do that</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">refreshing</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">fail</string>
   <string name="mms">MMS</string>
   <string name="mms_block_alert_message">All MMS except the messages sent from authorized senders will be blocked. Authorized senders include network carriers, national railway booking systems, etc.</string>
   <string name="mms_block_alert_ok">Bloquer</string>
@@ -494,6 +504,8 @@ Un message SMS sortant est requis pour activer le Mi Message. Votre opérateur v
   <string name="non_english_subject_limit">13 caractères</string>
   <string name="nosend_message">Non envoyé</string>
   <string name="not_prepare_for_send">Aucun message à envoyer</string>
+  <string name="not_set">Not set</string>
+  <string name="notification_ad_content">You received a promotional message from %s</string>
   <string name="notification_add_todo">Rappelle moi</string>
   <string name="notification_add_todo_content">Code de retrait: %s</string>
   <string name="notification_channel_msg_description">Notifications à propos des messages</string>
@@ -550,8 +562,8 @@ Un message SMS sortant est requis pour activer le Mi Message. Votre opérateur v
   <string name="pref_sms_theme_title">Affichage</string>
   <string name="pref_summary_allow_si_sl_push">Autoriser les messager à charger du contenu depuis des sites Web</string>
   <string name="pref_summary_auto_delete">Supprimez les anciens message lorsque la limite est atteinte</string>
-  <string name="pref_summary_collapse_ad_notification">允许将推广短信聚合到通知中心营销推广显示</string>
-  <string name="pref_summary_delete_limit">%1$s messages par fil</string>
+  <string name="pref_summary_collapse_ad_notification">Display all promotional messages in a separate Notification shade folder</string>
+  <string name="pref_summary_collapse_ad_notification_mms">Display all promotional messages in a separate tab</string>  <string name="pref_summary_delete_limit">%1$s messages par fil</string>
   <string name="pref_summary_delivery_reports">"Afficher l'état de réception pour les messages envoyés"</string>
   <string name="pref_summary_delivery_ringtone">Recevoir des notifications sonores pour les messages reçus.</string>
   <string name="pref_summary_manage_sim_messages">Gérer les messages stockés sur la carte SIM</string>
@@ -569,7 +581,7 @@ Un message SMS sortant est requis pour activer le Mi Message. Votre opérateur v
   <string name="pref_title_allow_si_sl_push">Autoriser WAP push (SI/SL)</string>
   <string name="pref_title_auto_delete">Supprimer les anciens messages</string>
   <string name="pref_title_card_format">Format de partage de la carte</string>
-  <string name="pref_title_collapse_ad_notification">Collapse AD message notification</string>
+  <string name="pref_title_collapse_ad_notification">Group notifications about promotional messages</string>
   <string name="pref_title_delivery_reports">Accusé de réception</string>
   <string name="pref_title_fwd_sender_info">Information expéditeur de transfert</string>
   <string name="pref_title_manage_sim_messages">Stockage carte SIM</string>
@@ -595,6 +607,7 @@ Un message SMS sortant est requis pour activer le Mi Message. Votre opérateur v
   <string name="pref_title_system_mms_priority">Définir par défaut</string>
   <string name="pref_title_vcard">Envoyer via vCard</string>
   <string name="pref_title_wake_up_screen">"Allumer l'écran"</string>
+  <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
   <string name="preferences_title">Paramètres</string>
   <string name="prepare_send">Envoi en cours…</string>
   <string name="preview">Aperçu</string>
@@ -614,8 +627,8 @@ Un message SMS sortant est requis pour activer le Mi Message. Votre opérateur v
   <string name="privacy_password_title4">Mot de passe mis à jour</string>
   <string name="privacy_policy">Politique de confidentialité</string>
   <string name="privacy_term">Politique de confidentialité</string>
-  <string name="private_entry_available">松开进入隐私空间</string>
-  <string name="private_entry_default">下拉进入隐私空间</string>
+  <string name="private_entry_available">Release to open private folder</string>
+  <string name="private_entry_default">Slide down to open private folder</string>
   <string name="private_message">Messagerie privée</string>
   <string name="private_new_notification">Notification de message</string>
   <string name="private_protect">Protection de la vie privée</string>
@@ -763,6 +776,7 @@ Take a look at the recommended ones!"</string>
   <string name="rcs_wait_for_retry_text">En attente…</string>
   <string name="received_at_time">Reçu à: %1s</string>
   <string name="received_label">"Reçu: "</string>
+  <string name="recent_label">Recent contacts</string>
   <string name="recipient_label">"Destinataire: "</string>
   <string name="recipients_contain_sub_sim_number">"On dirait qu'il y a un numéro de carte SIM secondaire parmi les destinataires. Envoyez ce message en utilisant la carte SIM secondaire."</string>
   <string name="recipients_over_size">Trop de destinataires.</string>
@@ -784,6 +798,7 @@ Take a look at the recommended ones!"</string>
   <string name="refill_now">Recharger maintenant</string>
   <string name="refreshing">Actualisation…</string>
   <string name="release_cancel">Relâchez pour annuler</string>
+  <string name="release_end">Release to stop</string>
   <string name="remove">Supprimer</string>
   <string name="remove_music">Retirer la musique</string>
   <string name="remove_picture">"Supprimer l'image"</string>
@@ -882,7 +897,7 @@ Take a look at the recommended ones!"</string>
   <string name="service_network_problem">"Impossible d'envoyer suite à un problème de réseau"</string>
   <string name="service_not_activated">Service non activé sur le réseau</string>
   <string name="set">Définir</string>
-  <string name="share">partager</string>
+  <string name="share">Partager</string>
   <string name="share_img">Partager</string>
   <string name="shortcut_new_msg">Nouveau message</string>
   <string name="shortcut_setting">Paramètres</string>
@@ -963,6 +978,7 @@ Take a look at the recommended ones!"</string>
   <string name="system_permission_declare_no_say_no">"Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité en vigueur.
 Si vous n'acceptez pas d'accorder de telles autorisations ou de partager et télécharger vos informations personnelles, vous ne pourrez pas utiliser cette application."</string>
   <string name="system_permission_declare_privacy_declare">%1s doit collecter vos données et nécessite les autorisations suivantes pour fonctionner normalement:</string>
+  <string name="system_permission_declare_privacy_declare_new">This app needs to connect to the internet and requires the following permissions to be able to work normally:</string>
   <string name="text_in_popup_saved_to_clipboard">Copié dans le presse-papiers</string>
   <string name="text_message">SMS</string>
   <string name="timed_message_expired_title_2">Les envoyer maintenant ?</string>
@@ -1022,6 +1038,8 @@ Dernière tentative : %s."</string>
   <string name="url_scanning">"Vérification de l'URL…"</string>
   <string name="user_agreement">Accord utilisateur</string>
   <string name="user_term">User Agreement</string>
+  <string name="v7_preference_off">OFF</string>
+  <string name="v7_preference_on">ON</string>
   <string name="verification_code_list_title">Codes de vérification</string>
   <string name="view">Afficher</string>
   <string name="view_bookmark">Afficher le favori</string>
