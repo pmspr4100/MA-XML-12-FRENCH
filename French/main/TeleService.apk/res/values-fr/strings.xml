@@ -1047,15 +1047,10 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="menu_edit">Modifier le contact</string>
   <string name="messageCFB">"Numéro de renvoi d'appel si occupé"</string>
   <string name="messageCFNRc">"Numéro de renvoi d'appel si injoignable"</string>
-  <string name="messageCFNRc_kr_kt">"A network service that diverts all incoming calls and text messages to a specified number when you are unable to answer calls (for example, when you are on the phone or your device is off). You have to subscribe to this service. Contact the customer centre (114+[Send]) to subscribe or unsubscribe from this service. Enter *72+[number to forward calls to][Send] to enable, or *720[Send] to disable.
-
-Number when unreachable"</string>
+  <string name="messageCFU_kr" formatted="false">A network service that diverts all incoming calls and text messages to a specified number. You have to subscribe to this service. You will be charged with monthly fee. Contact the customer center (114+[Send]) to subscribe or unsubscribe from this service. Enter %s+[number to forward calls to][Send] to enable, or %s[Send] to disable.</string>
+  <string name="messageCW_kr" formatted="false">A free network service that allows you to answer a second call during a call, placing the first call on hold. Enter %s[Send] to enable, or %s[Send] to disable.</string>
   <string name="messageCFNRy">"Numéro de renvoi d'appel si vous ne répondez pas"</string>
   <string name="messageCFU">Toujours utiliser ce numéro</string>
-  <string name="messageCFU_kr_kt">"A network service that diverts all incoming calls and text messages to a specified number. You have to subscribe to this service. You will be charged with monthly fee. Contact the customer center (114+[Send]) to subscribe or unsubscribe from this service. Enter *71+[number to forward calls to][Send] to enable, or *710[Send] to disable.
-
-Always use this number"</string>
-  <string name="messageCW_kr_kt">A free network service that allows you to answer a second call during a call, placing the first call on hold. Enter *40+[Send] to enable, or *400+[Send] to disable.</string>
   <string name="messageCallBarring">Saisissez un mot de passe</string>
   <string name="message_decode_error">Erreur lors du décodage du message.</string>
   <string name="mhh_disable">Les infos de médecine, de santé et des hôpitaux sont déactivées</string>
@@ -1078,6 +1073,14 @@ Always use this number"</string>
   <string name="miui_network_selection_reset_text">Réinitialiser</string>
   <string name="miui_notification_network_selection_title">SIM: pas de service</string>
   <string name="miui_notification_network_selection_title_by_sim">SIM %s: pas de service</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pull down to refresh</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Release to refresh</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"That's all for now"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
   <string name="mmiCancelled">Code MMI annulé</string>
   <string name="mmiStarted">Code MMI démarré</string>
   <string name="mobile_advanced_dns_server_title">Adresse du serveur DNS</string>

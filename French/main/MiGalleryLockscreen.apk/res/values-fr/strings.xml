@@ -25,7 +25,9 @@
   <string name="category_subscribe_failed">"Couldn't subscribe"</string>
   <string name="change_activate_email">Change email address</string>
   <string name="change_password">Change password</string>
-  <string name="character_counter_content_description">Character limit exceeded %1$d of %2$d</string>
+  <string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
+  <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
+  <string name="chip_text">Chip text</string>
   <string name="close_gallery">Désactiver</string>
   <string name="collect_diagnosis_log">Collect logs</string>
   <string name="custom_wallpaper_des">Turn on Wallpaper Carousel, add your photos and online images to the mix to make them appear in the slideshow automatically.</string>
@@ -49,7 +51,35 @@
   <string name="morning_greet_mark">" Salutations du matin"</string>
   <string name="morning_greet_title">Salutations du matin</string>
   <string name="morning_picture_tab">Image</string>
+  <string name="mtrl_badge_numberless_content_description">New notification</string>
   <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
+  <string name="mtrl_picker_a11y_next_month">Change to next month</string>
+  <string name="mtrl_picker_a11y_prev_month">Change to previous month</string>
+  <string name="mtrl_picker_announce_current_selection">Current selection: %1$s</string>
+  <string name="mtrl_picker_date_header_title">Select a Date</string>
+  <string name="mtrl_picker_date_header_unselected">Selected date</string>
+  <string name="mtrl_picker_day_of_week_column_header">Column of days: %1$s</string>
+  <string name="mtrl_picker_invalid_format">Invalid format.</string>
+  <string name="mtrl_picker_invalid_format_example">Example: %1$s</string>
+  <string name="mtrl_picker_invalid_format_use">Use: %1$s</string>
+  <string name="mtrl_picker_invalid_range">Invalid range.</string>
+  <string name="mtrl_picker_navigate_to_year_description">Navigate to year %1$s</string>
+  <string name="mtrl_picker_out_of_range">Out of range: %1$s</string>
+  <string name="mtrl_picker_range_header_only_end_selected">Start date – %1$s</string>
+  <string name="mtrl_picker_range_header_only_start_selected">%1$s – End date</string>
+  <string name="mtrl_picker_range_header_title">Select a Date Range</string>
+  <string name="mtrl_picker_range_header_unselected">Start date – End date</string>
+  <string name="mtrl_picker_save">Save</string>
+  <string name="mtrl_picker_text_input_date_hint">Date</string>
+  <string name="mtrl_picker_text_input_date_range_end_hint">End date</string>
+  <string name="mtrl_picker_text_input_date_range_start_hint">Start date</string>
+  <string name="mtrl_picker_text_input_day_abbr">j</string>
+  <string name="mtrl_picker_text_input_month_abbr">m</string>
+  <string name="mtrl_picker_text_input_year_abbr">a</string>
+  <string name="mtrl_picker_toggle_to_calendar_input_mode">Switch to calendar input mode</string>
+  <string name="mtrl_picker_toggle_to_day_selection">Tap to switch to selecting a day</string>
+  <string name="mtrl_picker_toggle_to_text_input_mode">Switch to text input mode</string>
+  <string name="mtrl_picker_toggle_to_year_selection">Tap to switch to selecting a year</string>
   <string name="open_gallery">"Diaporama fonds d'écran"</string>
   <string name="open_gallery_tips">Tap here to turn on Wallpaper Carousel</string>
   <string name="opened">Activer</string>
@@ -78,6 +108,7 @@
   <string name="share_today_morning">Partager</string>
   <string name="shield">"Block: "</string>
   <string name="shield_failed">"Couldn't block item"</string>
+  <string name="shield_tag_ceil">"Can't block more items"</string>
   <string name="shield_tag_dislike_desc">Select to make such images appear less frequently</string>
   <string name="shield_tag_dislike_title">Not interested</string>
   <string name="shield_tag_entrance_desc">Select to block all images from this category</string>
@@ -210,6 +241,7 @@
   <string name="choose_to_signup">"Non, j'en créerai un"</string>
   <string name="clear_history">"Effacer l'historique"</string>
   <string name="clear_search_edittext">Effacer</string>
+  <string name="clear_text_end_icon_content_description">Clear text</string>
   <string name="comment_pop_cancel">Pas maintenant</string>
   <string name="comment_pop_content">"Donnez-nous un avis si vous aimez fond d'écran !"</string>
   <string name="comment_pop_ok">Evaluer</string>
@@ -309,9 +341,11 @@ Send this code to the supervisor."</string>
   <string name="enable_toast_cwo">"Activer le fond d'écran et commencer le diaporama"</string>
   <string name="enable_toast_subscribe">"Activer fond d'écran et les abonnements activés."</string>
   <string name="error_dup_binded_email">This email address is already associated with another Mi Account.</string>
+  <string name="error_icon_content_description">Error</string>
   <string name="error_invalid_bind_address">The email address you entered is invalid.</string>
   <string name="exceed_binded_phone_times_notice">This phone number is already associated with another Mi Account.</string>
   <string name="explorer_activity_title">"Fond d'écran"</string>
+  <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
   <string name="failed_dup_secure_phone_number">This phone number is already associated with another Mi Account</string>
   <string name="favor_list_no_data">Aucun article ici.</string>
   <string name="favor_list_title">Favoris</string>
@@ -329,6 +363,7 @@ Send this code to the supervisor."</string>
   <string name="history_list_no_data">Aucun article ici</string>
   <string name="hour_1">Toutes les heures</string>
   <string name="hour_3">Toutes les 3 heures</string>
+  <string name="icon_content_description">Dialog Icon</string>
   <string name="idbct_desc">"Personnalisez le fond d'écran en fonction des types de réseau"</string>
   <string name="idbct_opt_auto_select_desc_text">"Téléchargez des images standard à l'aide de données mobiles et d'images HD via Wi-Fi"</string>
   <string name="idbct_opt_auto_select_main_text">Auto</string>
@@ -388,6 +423,30 @@ Send this code to the supervisor."</string>
   <string name="main_fragment_title_user">Paramètres</string>
   <string name="minutes_15">Toutes les 15 minutes</string>
   <string name="minutes_5">Toutes les 5 minutes</string>
+  <string name="miui_clock_city_name_local">Local</string>
+  <string name="miui_clock_city_name_second">Second clock</string>
+  <string name="miui_lock_screen_date">EEEE, d MMMM</string>
+  <string name="miui_lock_screen_date_12">EEEE, d MMMM</string>
+  <string name="miui_lock_screen_date_two_lines">"EEEE
+d MMMM"</string>
+  <string name="miui_lock_screen_date_two_lines_12">"EEEE
+d MMMM"</string>
+  <string name="miui_lock_screen_large_date">"EEE
+dd/M"</string>
+  <string name="miui_lock_screen_large_date_12">"EEE
+dd/M"</string>
+  <string name="miui_vertical_time_format_12">"hh
+mm"</string>
+  <string name="miui_vertical_time_format_24">"HH
+mm"</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pull down to refresh</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Release to refresh</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"That's all for now"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
   <string name="mode_auto_desc">"Activer Fond d'écran pour recevoir automatiquement les nouvelles images"</string>
   <string name="mode_auto_desc_open">Recevoir de nouvelles images automatiquement</string>
   <string name="mode_auto_desc_selected">Recevoir automatiquement de nouvelles images</string>
@@ -654,6 +713,7 @@ Send this code to the supervisor."</string>
   <string name="sure_close_gallery_des">"You won't be able to have fresh images delivered to your Home screen and Lock screen if you turn off Wallpaper Carousel. Turn off anyway?"</string>
   <string name="system_default">Par défaut</string>
   <string name="tab_user_title_bar_text">Paramètres</string>
+  <string name="tb_collapse_desc">Hide the \"Share\" menu</string>
   <string name="temporary_not_available">"This feature isn't available yet"</string>
   <string name="theme_apply_lockscreen_success">Appliqué avec succès</string>
   <string name="theme_apply_failured">"Impossible d'appliquer, réessayez plus tard"</string>
