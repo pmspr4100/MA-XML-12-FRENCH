@@ -1,20 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="bt_usable_device_title">
+      <item quantity="other">%d available devices</item>
+      <item quantity="one">%d available device</item>
+    </plurals>
+    <plurals name="saved_network_checked_num">
+      <item quantity="other">Selected %d items</item>
+      <item quantity="one">Selected %d item</item>
+    </plurals>
     <plurals name="abc_slice_duration_days">
-        <item quantity="other">il y a %d jours</item>
-        <item quantity="one">il y  a %d jour</item>
+      <item quantity="other">il y a %d jours</item>
+      <item quantity="one">il y  a %d jour</item>
     </plurals>
     <plurals name="abc_slice_duration_min">
-        <item quantity="other">il y a %d min</item>
-        <item quantity="one">il y a %d min</item>
+      <item quantity="other">il y a %d min</item>
+      <item quantity="one">il y a %d min</item>
     </plurals>
     <plurals name="abc_slice_duration_years">
-        <item quantity="other">il y a %d ans</item>
-        <item quantity="one">il y a %d an</item>
+      <item quantity="other">il y a %d ans</item>
+      <item quantity="one">il y a %d an</item>
     </plurals>
     <plurals name="accessibility_usage_summary">
-        <item quantity="other">%1$d applications ont un accès complet à votre appareil</item>
-        <item quantity="one">1 application a un accès complet à votre appareil</item>
+      <item quantity="other">%1$d applications ont un accès complet à votre appareil</item>
+      <item quantity="one">1 application a un accès complet à votre appareil</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
       <item quantity="other">Délai extrêmement court (%1$d ms)</item>
@@ -173,12 +181,12 @@
       <item quantity="one">Le mot de passe doit comporter au moins %d lettre majuscule</item>
     </plurals>
     <plurals name="lockpassword_password_too_long">
-        <item quantity="other">"Vous pouvez entrer jusqu'à %d caractères"</item>
-        <item quantity="one">"Vous pouvez entrer jusqu'à %d caractère"</item>
+      <item quantity="other">"Vous pouvez entrer jusqu'à %d caractères"</item>
+      <item quantity="one">"Vous pouvez entrer jusqu'à %d caractère"</item>
     </plurals>
     <plurals name="lockpassword_password_too_short">
-        <item quantity="other">Entrez au moins %d caractères</item>
-        <item quantity="one">Entrez au moins %d caractère</item>
+      <item quantity="other">Entrez au moins %d caractères</item>
+      <item quantity="one">Entrez au moins %d caractère</item>
     </plurals>
     <plurals name="lockpassword_pin_fixed_length">
       <item quantity="other">Le code PIN doit comporter %d chiffres</item>
@@ -501,8 +509,8 @@ Pour en savoir plus sur ce certificat, contactez votre administrateur."</item>
       <item quantity="one">%1$d device connected</item>
     </plurals>
     <plurals name="wifi_saved_all_access_points_summary">
-      <item quantity="other">%d networks &amp; subscriptions</item>
-      <item quantity="one">1 network &amp; subscription</item>
+      <item quantity="other">%d networks and subscriptions</item>
+      <item quantity="one">1 network and subscription</item>
     </plurals>
     <plurals name="wifi_saved_passpoint_access_points_summary">
       <item quantity="other">%d subscriptions</item>
