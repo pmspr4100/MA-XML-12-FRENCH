@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="app_debug_settings">App Debug Settings</string>
+  <string name="app_debug_settings_copied_to_clipboard">Copied to clipboard</string>
+  <string name="app_debug_settings_host_title">Host environment switch</string>
+  <string name="app_debug_settings_id_title">Device ID Query</string>
+  <string name="app_debug_settings_oaid_summary">(Click to copy OAID)</string>
+  <string name="app_debug_settings_online_title">Online</string>
+  <string name="app_debug_settings_preview_title">Preview</string>
+  <string name="app_debug_settings_staging_title">Staging</string>
+  <string name="app_debug_settings_toast_switch_error">Switch env error</string>
+  <string name="app_debug_settings_vaid_summary">(Click to copy VAID)</string>
+  <string name="bluetooth_card_btm_btn_more">More devices</string>
+  <string name="bluetooth_card_btm_btn_shrink">Hide</string>
+  <string name="bluetooth_card_title">Battery usage</string>
+  <string name="bluetooth_item_double_battery_level_box">Box: %d%%</string>
+  <string name="bluetooth_item_double_battery_level_box_invalid">Box: No data</string>
+  <string name="bluetooth_item_double_battery_level_left">L:%d%%</string>
+  <string name="bluetooth_item_double_battery_level_left_invalid">L: No data</string>
+  <string name="bluetooth_item_double_battery_level_right">R:%d%%</string>
+  <string name="bluetooth_item_double_battery_level_right_invalid">R: No data</string>
+  <string name="bluetooth_setting_brief">View battery usage info of connected devices</string>
   <string name="access_change_text" formatted="false">当前选中的是第%d项, 与第%d项交换位置.</string>
   <string name="access_deselect">Désélectionné %s</string>
   <string name="access_deselected">Désélectionné %s</string>

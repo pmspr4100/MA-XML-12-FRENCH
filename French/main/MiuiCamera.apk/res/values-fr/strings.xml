@@ -991,6 +991,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="timbre_lady">Madame</string>
   <string name="timbre_normal">Original</string>
   <string name="timbre_robot">Robot</string>
+  <string name="pref_setting_title">Paramètres</string>
   <string name="time_lapse_error">"Impossible d'utiliser cette taille de vidéo pour un enregistrement en accéléré"</string>
   <string name="title_snap_double_confirm">Confirmer à nouveau</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">"Impossible de prendre en rafale lorsque la capture audio est activée"</string>
@@ -999,7 +1000,11 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="ubi_focus_capture_fail">"Impossible de prendre une photo"</string>
   <string name="ubifocus_capture_warning_message">"Pour de meilleurs résultats, votre photo doit contenir des objets proches (à moins d’un mètre de l’objectif) et éloignés."</string>
   <string name="ultra_pixel_photography_close_tip">%s ultra HD désactivé</string>
-  <string name="ultra_pixel_photography_open_tip">%s ultra HD activé</string>
+  <string name="ultra_pixel_photography_open_tip">%s ultra HD activé</string> 
+  <string name="ultra_pixel_photography_32mp_open_tip">32 MPx</string>
+  <string name="ultra_pixel_photography_48mp_open_tip">48 MPx</string>
+  <string name="pref_menu_ultra_pixel_photography_32mp">32 MPx</string>
+  <string name="pref_menu_ultra_pixel_photography_48mp">48 MPx</string>
   <string name="ultra_pixel_108mp">108 Mpx</string>
   <string name="ultra_pixel_32mp">32 Mpx</string>
   <string name="ultra_pixel_48mp">48 Mpx</string>
