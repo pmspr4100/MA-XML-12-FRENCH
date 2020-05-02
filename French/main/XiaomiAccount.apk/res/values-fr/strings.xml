@@ -196,11 +196,6 @@
   <string name="passport_relogin_notice">Reconnectez-vous</string>
   <string name="passport_copy_message_text_success">Copié avec succès</string>
   <string name="passport_copy_message_vcode">Copier le code</string>
-  <string name="passport_debug_china_failed_to_get_phone_from_both_sim_activate_and_operator">国内:SIM卡激活取号失败,运营商取号失败</string>
-  <string name="passport_debug_china_failed_to_get_phone_from_sim_activate_but_successfully_from_operator_with_count">国内:SIM卡激活取号失败,运营商取号成功(成功%s张)</string>
-  <string name="passport_debug_china_successfully_got_phone_from_sim_activate_with_count">国内:SIM卡激活取号成功(成功%s张)</string>
-  <string name="passport_debug_international_failed_to_get_phone_from_sim_activate">国际:SIM卡激活取号失败</string>
-  <string name="passport_debug_international_successfully_got_phone_from_sim_activate_with_count">国际:SIM卡激活取号成功(成功%s张)</string>
   <string name="passport_message_dialog_title">SMS avec code de vérification</string>
   <string name="passport_trust_device">Ajouter cet appareil aux appareils de confiance</string>
   <string name="passport_barcode_add_account_prompt">Pour connecter un compte, scannez le QR code à nouveau après vous être connecté.</string>
@@ -421,14 +416,14 @@ Vous pouvez vous connecter à votre compte Mi en utilisant %s maintenant."</stri
   <string name="find_device_access_denied">"Impossible d'obtenir les états, accès rejeté"</string>
   <string name="find_device_account_error">"Impossible d'obtenir l'état dû à l'erreur du compte"</string>
   <string name="find_device_null_credential_error">"Impossible d'obtenir les informations de l'appareil, contactez le service client Xiaomi"</string>
-  <string name="find_device_open">On</string>
+  <string name="find_device_open">Activé</string>
   <string name="find_device_request_prepare_error">"Impossible d'obtenir l'état, réessayez plus tard"</string>
   <string name="find_device_set_lost_model">Lost mode</string>
   <string name="find_device_title">Find device</string>
   <string name="find_device_request_error">"Une erreur serveur s'est produite, attendez une minute ou deux et réessayez"</string>
   <string name="find_device_bad_response_error">"Une erreur serveur s'est produite, attendez une minute ou deux et réessayez"</string>
   <string name="find_device_clear_data">Erase data</string>
-  <string name="find_device_close">Off</string>
+  <string name="find_device_close">Désactivé</string>
   <string name="find_device_io_error">Impossible de se connecter au réseau</string>
   <string name="find_device_location">Locate</string>
   <string name="find_device_interrupted">"L'action a été interrompue, attendez une minute ou deux et essayez à nouveau"</string>
@@ -462,7 +457,7 @@ Vous pouvez vous connecter à votre compte Mi en utilisant %s maintenant."</stri
   <string name="oauth_title">Se connecter avec le compte Mi</string>
   <string name="oauth_getting_scopes">Vérification du compte…</string>
   <string name="oauth_get_scopes_failed">"Impossible d'obtenir les infos du compte"</string>
-  <string name="oauth_scopes_intro">&lt;font color=#%1$s>%2$s&lt;/font> obtiendra les autorisations suivantes:&lt;br> &lt;br> %3$s ;</string>
+  <string name="oauth_scopes_intro">&lt;font color=#%1$s>%2$s&lt;/font> obtiendra les permissions suivantes:&lt;br> &lt;br> %3$s ;</string>
   <string name="guest_account_label">Compte invité</string>
   <string name="push_notification_title">Vous êtes connecté à votre compte Mi sur un appareil inconnu</string>
   <string name="push_notification_content">Obtenir le code de vérification</string>
@@ -484,7 +479,7 @@ Vous pouvez vous connecter à votre compte Mi en utilisant %s maintenant."</stri
   <string name="mipay">Payer</string>
   <string name="mipay_bank_card">Carte bancaire</string>
   <string name="mipay_transit_card">Carte de transport</string>
-  <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
+  <string name="mtrl_chip_close_icon_content_description">Supprimer %1$s</string>
   <string name="mipay_balance">Solde</string>
   <string name="mipay_others">Autre</string>
   <string name="mipay_identity">"Vérification d'identité"</string>
