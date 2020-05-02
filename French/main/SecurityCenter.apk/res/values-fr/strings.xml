@@ -153,7 +153,7 @@
   <string name="permission_action_desc_foreground">"This permission can be used only while you're using the app"</string>
   <string name="permission_action_desc_prompt">This permission can only be used when you allow it</string>
   <string name="permission_action_desc_reject">"This permission can't be used"</string>
-  <string name="power_off_warning_button_ok">Got it</string>
+  <string name="power_off_warning_button_ok">"C'est compris"</string>
   <string name="power_off_warning_message">Battery is low. Your device will shut down in %d seconds. Connect charger.</string>
   <string name="power_off_warning_notification_title">About to shut down</string>
   <string name="power_save_mode_close_aod_display_summary">Turn off Always-on display when Battery saver is on</string>
@@ -187,7 +187,7 @@
   <string name="privacy_dialog_danger_mission_message">Android has multiple high-risk permissions (e.g. the permission to send you push notifications). To protect your privacy, MIUI will ask whether you allow such behavior, and provide restriction options.</string>
   <string name="privacy_dialog_danger_mission_title">High-risk permissions</string>
   <string name="privacy_dialog_feedback">Feedback</string>
-  <string name="privacy_dialog_ok">Got it</string>
+  <string name="privacy_dialog_ok">"C'est compris"</string>
   <string name="privacy_dialog_ok_with_num">Got it (%ss)</string>
   <string name="privacy_dialog_open">Turn on</string>
   <string name="privacy_empty_call">"Didn't access call history today"</string>
@@ -275,7 +275,7 @@
   <string name="storage_app_detail_clear_all_dialog_title">Clear all data?</string>
   <string name="storage_app_detail_clear_cache">Clear cache</string>
   <string name="storage_app_detail_clear_cache_title">Clear app cache now?</string>
-  <string name="storage_app_detail_dialog_cancel">Cancel</string>
+  <string name="storage_app_detail_dialog_cancel">Annuler</string>
   <string name="storage_app_detail_dialog_ok">OK</string>
   <string name="storage_app_detail_manage_space">%s - Manage storage space</string>
   <string name="storage_app_detail_manager_enabled">On</string>
@@ -342,7 +342,6 @@ To use this ^1 with this device, you have to set it up first."</string>
 
 Formatting will erase existing content on the ^2. To avoid losing content, back it up to another ^3 or device."</string>
   <string name="storage_wizard_format_confirm_v2_title">Format this ^1 now?</string>
-  <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="superpower_savemode_description_title">Ultra battery saver activates the following restrictions:</string>
   <string name="system_permission_declare_meanwhile_double_link">"&lt;Data&gt;At the same time, to fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;.&lt;/Data&gt;"</string>
   <string name="system_permission_declare_meanwhile_privacy_policy">"&lt;Data&gt;At the same time, to fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;.&lt;/Data&gt;"</string>
@@ -456,7 +455,6 @@ Il sera ajouté aux exceptions, mais les éléments bloqués précédemment n'ap
   <string name="label_callwait">"Notification d'appel en attente"</string>
   <string name="open_callwait">Activé</string>
   <string name="open_dnd_mode">Ne pas déranger</string>
-  <string name="open_dnd_mode_summary">勿扰时间段内，红包提醒与红包闹钟免打扰</string>
   <string name="open_extreme_power_save_mode_title">"Activer l'économiseur de batterie extreme"</string>
   <string name="close_callwait">Désactivé</string>
   <string name="st_hint_add_phonenumber">Entrez un numéro de téléphone</string>
@@ -708,13 +706,11 @@ Il sera ajouté aux exceptions, mais les éléments bloqués précédemment n'ap
   <string name="kilobyte_per_second">" Ko/s"</string>
   <string name="megabyte_per_second">" Mo/s"</string>
   <string name="gigabyteShort">" Go"</string>
-  <string name="give_lucky_money">红包大派送</string>
   <string name="global_wa_setting_alert_dialog_content">Vous pouvez libérer %s</string>
   <string name="global_wa_setting_alert_dialog_title">Nettoyeur WhatsApp</string>
   <string name="megabyteShort">" Mo"</string>
   <string name="kilobyteShort">" Ko"</string>
   <string name="byteShort">" o"</string>
-  <string name="yuan">CNY</string>
   <string name="main_traffic_detail">Utilisation des données</string>
   <string name="main_toolbar_firewall">"Restreindre l'utilisation des données"</string>
   <string name="main_toolbar_statistic">"Statistiques d'utilisation des données"</string>

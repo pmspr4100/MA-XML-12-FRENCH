@@ -222,7 +222,7 @@
   <string name="callFailed_otasp_provisioning_in_process">Cannot place a call as the device is currently being provisioned.</string>
   <string name="callFailed_too_many_calls">Cannot place a call a there are already two calls in progress. Disconnect one of the calls or merge them into a conference prior to placing a new call.</string>
   <string name="connected_via_app">Connected via %1$s</string>
-  <string name="copy">Copy</string>
+  <string name="copy">Copie</string>
   <string name="data_usage_ota">System updates</string>
   <string name="emergency_call_shortcut_hint">Tap again to call %s</string>
   <string name="emergency_information_confirm_hint">Tap again to view info</string>
@@ -1207,8 +1207,6 @@ Le réseau préféré sera utilisé."</string>
   <string name="network_settings_warn_message">Votre appareil se connectera uniquement aux réseaux que vous sélectionnerez manuellement.</string>
   <string name="network_state_display">Show network status</string>
   <string name="network_state_display_title">Network status settings</string>
-  <string name="network_type_3g_preferred_cmcc">3G/2G</string>
-  <string name="network_type_4g_preferred_cmcc">4G/3G/2G</string>
   <string name="network_unlock">Déverrouiller</string>
   <string name="networks_title">Réseaux cellulaires</string>
   <string name="newPin2Label">Nouveau code PIN 2</string>
@@ -1661,7 +1659,7 @@ Votre carte SIM sera bloquée en cas de nouvel échec."</string>
   <string name="single_fiveg_deactivate_sim_dialog_title_select_deactivate_sim">Select SIM to deactivate</string>
   <string name="single_fiveg_dialog_title_prompt">Attention</string>
   <string name="single_fiveg_dialog_title_remind">Attention</string>
-  <string name="single_fiveg_disable_fiveg_dialog_btn_getit">Got it</string>
+  <string name="single_fiveg_disable_fiveg_dialog_btn_getit">"C'est compris"</string>
   <string name="single_fiveg_disable_fiveg_dialog_msg_disable_fiveg">Only one SIM card can be activated for 5G networks. Select a different network type for your data SIM first.</string>
   <string name="single_fiveg_dual_sim_dialog_btn_deactivate_sim">Deactivate SIM card</string>
   <string name="single_fiveg_dual_sim_dialog_btn_enable_dual_sims">Use Dual SIM</string>

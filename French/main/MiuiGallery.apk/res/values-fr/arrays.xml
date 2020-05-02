@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string-array name="chinese_holiday_last_year">
+      <item>"Last Chinese New Year's Eve"</item>
+      <item>Last Chinese New Year</item>
+      <item>Last Lantern Festival</item>
+      <item>Last Dragon Boat Festival</item>
+      <item>Last Qixi Festival</item>
+      <item>Last Mid-Autumn Festival</item>
+     </string-array>
+     <string-array name="chinese_holiday_past_year">
+      <item>"Chinese New Year's Eve through the years"</item>
+      <item>Chinese New Year through the years</item>
+      <item>Lantern Festival through the years</item>
+      <item>Dragon Boat Festival through the years</item>
+      <item>Qixi Festival through the years</item>
+      <item>Mid-Autumn Festival through the years</item>
+     </string-array>
+     <string-array name="holiday_past_year">
+      <item>"New Year's Day through the years"</item>
+      <item>"Valentine's Day through the years"</item>
+      <item>Labor Day through the years</item>
+      <item>"Children's Day through the years"</item>
+      <item>National Day through the years</item>
+      <item>Christmas through the years</item>
+     </string-array>
     <string-array name="activities_title">
       <item>Journée spéciale</item>
       <item>Journée mémorable</item>
@@ -36,7 +60,7 @@
     </string-array>
     <string-array name="last_week_baby_title">
       <item>"L'heure de jouer"</item>
-      <item>"Kiddo's weekend"</item>
+      <item>"Week-end de Kiddo"</item>
       <item>Le petit</item>
     </string-array>
     <string-array name="last_weekend_title">
@@ -132,7 +156,7 @@
     </string-array>
     <string-array name="three_month_baby_title">
       <item>Ils grandissent si vite</item>
-      <item>"Kiddo's photos"</item>
+      <item>"Photos de Kiddo"</item>
     </string-array>
     <string-array name="weekend_title">
       <item>Week-end passé</item>

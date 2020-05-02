@@ -1,5 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <plurals name="a_hour_ago">
+        <item quantity="other">il y a 1 heure</item>
+     </plurals>
+     <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">il y a 1 heure</item>
+     </plurals>
+     <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Il y a une demi-heure</item>
+     </plurals>
+     <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Dans 1 heure</item>
+     </plurals>
+     <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Dans une demi-heure</item>
+     </plurals>
+     <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Immédiatement</item>
+     </plurals>
+     <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">dans %d mins</item>
+        <item quantity="one">dans 1 min</item>
+     </plurals>
+     <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Juste maintenant</item>
+     </plurals>
+     <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">il y a %d mins</item>
+        <item quantity="one">il y a 1 min</item>
+     </plurals>
+     <plurals name="aod_batch_has_update_text">
+        <item quantity="other">Updates for %1$d themes are available</item>
+        <item quantity="one">An update for %1$d theme is available</item>
+     </plurals>
+     <plurals name="aod_batch_updating_text">
+        <item quantity="other">Updating %1$d themes</item>
+        <item quantity="one">Updating %1$d theme</item>
+     </plurals>
+     <plurals name="de_author_fans_amount">
+        <item quantity="other">%1$d fans</item>
+        <item quantity="one">%1$d fan</item>
+     </plurals>
+     <plurals name="de_author_theme_amount">
+        <item quantity="other">%1$d éléments</item>
+        <item quantity="one">%1$d élément</item>
+     </plurals>
+     <plurals name="de_icon_count">
+        <item quantity="other">%1$d icônes</item>
+        <item quantity="one">%1$d icône</item>
+     </plurals>
+     <plurals name="de_more_comment">
+        <item quantity="other">%1$d more comments</item>
+        <item quantity="one">%1$d more comment</item>
+     </plurals>
+     <plurals name="half_hour_ago">
+        <item quantity="other">Il y a une demi-heure</item>
+     </plurals>
+     <plurals name="icon_batch_has_update_text">
+        <item quantity="other">Updates for %1$d icons are available</item>
+        <item quantity="one">Updates for %1$d icon are available</item>
+     </plurals>
+     <plurals name="icon_batch_updating_text">
+        <item quantity="other">Updating %1$d icons…</item>
+        <item quantity="one">Updating %1$d icon…</item>
+     </plurals>
+     <plurals name="in_a_hour">
+        <item quantity="other">dans 1 heure</item>
+     </plurals>
+     <plurals name="in_half_hour">
+        <item quantity="other">Dans une demi-heure</item>
+     </plurals>
+     <plurals name="in_less_than_one_minute">
+        <item quantity="other">Immédiatement</item>
+     </plurals>
+     <plurals name="in_num_minutes">
+        <item quantity="other">dans %d minutes</item>
+        <item quantity="one">dans 1 minute</item>
+     </plurals>
+     <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Juste maintenant</item>
+     </plurals>
+     <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nouvelles notifications</item>
+        <item quantity="one">%d nouvel notification</item>
+     </plurals>
+     <plurals name="num_minutes_ago">
+        <item quantity="other">%d minutes ago</item>
+        <item quantity="one">1 minute ago</item>
+     </plurals>
     <plurals name="detail_update_time_hour">
         <item quantity="other">il y a %d heures</item>
         <item quantity="one">il y a %d heure</item>
