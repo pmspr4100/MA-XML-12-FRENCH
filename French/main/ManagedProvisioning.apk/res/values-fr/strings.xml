@@ -3,7 +3,7 @@
   <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
   <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
   <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
-  <string name="abc_action_mode_done">OK</string>
+  <string name="abc_action_mode_done">Terminé</string>
   <string name="abc_activity_chooser_view_see_all">Tout afficher</string>
   <string name="abc_activitychooserview_choose_application">Sélectionner une application</string>
   <string name="abc_capital_off">DÉSACTIVÉ</string>
@@ -131,7 +131,7 @@
   <string name="mtrl_chip_close_icon_content_description">Supprimer %1$s</string>
   <string name="mtrl_picker_cancel">Annuler</string>
   <string name="mtrl_picker_confirm">Enregistrer</string>
-  <string name="mtrl_picker_date_format">MMM dd, yyyy</string>
+  <string name="mtrl_picker_date_format">dd MMM, yyyy</string>
   <string name="mtrl_picker_header_prompt">Choisir une date</string>
   <string name="mtrl_picker_range_header_prompt">Choisir une plage de dates</string>
   <string name="next">Suivant</string>
@@ -187,7 +187,6 @@
   <string name="setup_work_device">"Configuration de l'appareil professionnel…"</string>
   <string name="setup_work_profile">Configurer un profil professionnel</string>
   <string name="speed_bump_lockout_message">Regardez la route</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="stop_setup_reset_device_question">"Arrêter la configuration et réinitialiser l'appareil ?"</string>
   <string name="sud_back_button_label">Retour</string>
   <string name="sud_more_button_label">Plus</string>
@@ -205,8 +204,6 @@
   <string name="url_error">"Impossible d'afficher ce lien."</string>
   <string name="user_consent_msg">"J'accepte"</string>
   <string name="user_setup_incomplete">"Configuration de l'utilisateur incomplète"</string>
-  <string name="v7_preference_off">OFF</string>
-  <string name="v7_preference_on">ON</string>
   <string name="view_terms">"Consulter les conditions d'utilisation"</string>
   <string name="work_profile_cant_be_added_contact_admin">"Il n'est pas possible d'ajouter un profil professionnel à cet appareil. Si vous avez des questions, contactez votre administrateur."</string>
   <string name="work_profile_description">Vos applications professionnelles seront conservées dans ce profil et gérées par votre organisation</string>
@@ -224,4 +221,6 @@
   <string name="work_profile_provisioning_step_2_header">"Suspendre les applications professionnelles lorsque vous avez terminé la journée"</string>
   <string name="work_profile_provisioning_step_3_header">Seules les données de votre profil professionnel sont visibles par votre administrateur informatique</string>
   <string name="work_profile_provisioning_summary">"Les applications professionnelles sont conservées dans votre profil professionnel. Vous pouvez suspendre vos applications professionnelles lorsque vous avez terminé la journée. Seules les données de votre profil professionnel sont visibles par votre administrateur informatique."</string>
+  <string name="v7_preference_off">DÉSACTIVÉ</string>
+  <string name="v7_preference_on">ACTIVÉ</string>
 </resources>

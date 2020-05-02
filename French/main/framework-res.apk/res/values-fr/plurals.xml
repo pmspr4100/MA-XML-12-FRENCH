@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <plurals name="file_count">
+        <item quantity="other">%1$s + %2$d fichiers</item>
+        <item quantity="one">%1$s + %2$d fichier</item>
+     </plurals>
     <plurals name="autofill_picker_some_suggestions">
         <item quantity="other">%1$s suggestions de saisie automatique</item>
         <item quantity="one">%1$s suggestion de saisie automatique</item>

@@ -472,7 +472,7 @@ Selection"</string>
   <string name="mr_user_route_category_name">Devices</string>
   <string name="no_application">Nothing</string>
   <string name="no_cell_broadcasts">Aucune alerte précédente</string>
-  <string name="not_set">Not set</string>
+  <string name="not_set">Non défini</string>
   <string name="notification_channel_broadcast_messages">Broadcast messages</string>
   <string name="notification_channel_emergency_alerts">"Alertes d'urgences"</string>
   <string name="notification_multiple">%s unread alerts.</string>
@@ -620,8 +620,6 @@ Selection"</string>
   <string name="use_full_volume_title">Use full volume</string>
   <string name="use_system_language_to_select_input_method_subtypes">Use system languages</string>
   <string name="user_guest">Guest</string>
-  <string name="v7_preference_off">OFF</string>
-  <string name="v7_preference_on">ON</string>
   <string name="verify_apps_over_usb_summary">Check apps installed via ADB/ADT for harmful behavior.</string>
   <string name="verify_apps_over_usb_title">Verify apps over USB</string>
   <string name="view_details_title">Alert details</string>
@@ -678,4 +676,6 @@ Selection"</string>
   <string name="zen_mode_forever">"Jusqu'à ce que vous éteigniez"</string>
   <string name="zen_mode_settings_summary_off">Jamais</string>
   <string name="zen_mode_settings_turn_on_dialog_title">Activez Ne pas déranger</string>
+  <string name="v7_preference_off">DÉSACTIVÉ</string>
+  <string name="v7_preference_on">ACTIVÉ</string>
 </resources>

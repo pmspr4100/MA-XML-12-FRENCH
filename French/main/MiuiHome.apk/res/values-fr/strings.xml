@@ -45,12 +45,12 @@
   <string name="add">Ajouter</string>
   <string name="edit">Éditer</string>
   <string name="expand_button_title">Avancé</string>
-  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pull down to refresh</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
-  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Release to refresh</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_none">"That's all for now"</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez pour rafraîchir</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualisation…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Relâcher pour rafraîchir</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"C'est tout pour le moment"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"C'est tout pour le moment"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chargement…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Impossible de charger les fichiers"</string>
   <string name="not_set">Non défini</string>
@@ -456,8 +456,8 @@
   <string name="recents_title_game">Jeux</string>
   <string name="recents_title_garbage_cleanup">Nettoyeur</string>
   <string name="recents_title_garbage_deepclean">Nettoyage en profondeur</string>
-  <string name="recents_title_market">Find apps</string>
-  <string name="recents_title_security_scan">Security scan</string>
+  <string name="recents_title_market">Trouver des apps</string>
+  <string name="recents_title_security_scan">Analyse de sécurité</string>
   <string name="recommend_apk_size_and_desc">%1$d Mo | %2$s</string>
   <string name="recommend_app">"Suggestions d'applications"</string>
   <string name="recommend_apps_default_title">Vide</string>
@@ -560,6 +560,6 @@
   <string name="widgets_preview_title">Ajouter un widget</string>
   <string name="launcher_sliding_up_gesture">"Glissez vers le haut pour lancer la recherche"</string>
   <string name="minus_one_screen">"Afficher le coffre d'applications"</string>
-  <string name="v7_preference_off">OFF</string>
-  <string name="v7_preference_on">ON</string>
+  <string name="v7_preference_off">DÉSACTIVÉ</string>
+  <string name="v7_preference_on">ACTIVÉ</string>
 </resources>

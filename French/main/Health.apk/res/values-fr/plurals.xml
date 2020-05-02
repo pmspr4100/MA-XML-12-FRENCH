@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="a_hour_ago">
-        <item quantity="other">1 hour ago</item>
+        <item quantity="other">il y a 1 heure</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 hour ago</item>
+        <item quantity="other">il y a 1 heure</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
-        <item quantity="other">Half an hour ago</item>
+        <item quantity="other">Il y a une demi-heure</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">In 1 hour</item>
+        <item quantity="other">Dans 1 heure</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
-        <item quantity="other">In half an hour</item>
+        <item quantity="other">Dans une demi-heure</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="other">Immediately</item>
+        <item quantity="other">Immédiatement</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">in %d mins</item>
-        <item quantity="one">in 1 min</item>
+        <item quantity="other">dans %d mins</item>
+        <item quantity="one">dans 1 min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Just now</item>
+        <item quantity="other">Juste maintenant</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d mins ago</item>
-        <item quantity="one">1 min ago</item>
+        <item quantity="other"> il y a %d mins</item>
+        <item quantity="one">il y a 1 min</item>
     </plurals>
     <plurals name="count_duration_standard">
-        <item quantity="other">%1$d-%2$d times</item>
-        <item quantity="one">%1$d-%2$d time</item>
+        <item quantity="other">%1$d-%2$d fois</item>
+        <item quantity="one">%1$d-%2$d fois</item>
     </plurals>
     <plurals name="daily_suggestions_steps">
-        <item quantity="other">Walk at least %1$d steps every day</item>
-        <item quantity="one">Walk at least %1$d step every day</item>
+        <item quantity="other">Marcher au moins %1$d pas chaque jour</item>
+        <item quantity="one">Marcher au moins %1$d pas chaque jour</item>
     </plurals>
     <plurals name="day_index">
         <item quantity="other">%1$d jours</item>
@@ -102,7 +102,7 @@
         <item quantity="one">%1$d jour depuis la dernière pesée</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Just now</item>
+        <item quantity="other">Juste maintenant</item>
     </plurals>
     <plurals name="menstruation_sum_days">
         <item quantity="other">%1$d jour des règles</item>
@@ -189,8 +189,8 @@
         <item quantity="one">%1$d-%2$d minute</item>
     </plurals>
     <plurals name="time_duration_time">
-        <item quantity="other">%1$d times</item>
-        <item quantity="one">%1$d time</item>
+        <item quantity="other">%1$d fois</item>
+        <item quantity="one">%1$d fois</item>
     </plurals>
     <plurals name="times_format">
         <item quantity="other">%1$d fois</item>
@@ -217,8 +217,8 @@
         <item quantity="one">" jour"</item>
     </plurals>
     <plurals name="unit_times">
-        <item quantity="other">" times"</item>
-        <item quantity="one">" time"</item>
+        <item quantity="other">" fois"</item>
+        <item quantity="one">" fois"</item>
     </plurals>
     <plurals name="user_age_display_format_year">
         <item quantity="other">%1$d ans</item>
