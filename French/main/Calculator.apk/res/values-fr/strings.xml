@@ -108,24 +108,15 @@
   <string name="extra_deduction_title">Déductions supplémentaires</string>
   <string name="factorialDesc">factoriel</string>
   <string name="float_window_guide_text">Appuyez ici pour minimiser la calculatrice</string>
-  <string name="fmt_date">J</string>
-  <string name="fmt_date_day">j</string>
-  <string name="fmt_date_long_month">MMMM</string>
   <string name="fmt_date_long_month_day">d MMMM</string>
   <string name="fmt_date_long_year_month">MMMM yyyy</string>
   <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
-  <string name="fmt_date_numeric_day">j</string>
-  <string name="fmt_date_numeric_month">M</string>
   <string name="fmt_date_numeric_month_day">d-M</string>
-  <string name="fmt_date_numeric_year">yyyy</string>
   <string name="fmt_date_numeric_year_month">M-yyyy</string>
   <string name="fmt_date_numeric_year_month_day">M-d-yyyy</string>
-  <string name="fmt_date_short_month">MMM</string>
   <string name="fmt_date_short_month_day">d MMM</string>
   <string name="fmt_date_short_year_month">MMM yyyy</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
-  <string name="fmt_date_year">yyyy</string>
-  <string name="fmt_time">H</string>
   <string name="fmt_time_12hour">"h 'o''horloge'"</string>
   <string name="fmt_time_24hour">"H 'o''horloge'"</string>
   <string name="friday">Vendredi</string>
@@ -188,7 +179,6 @@
   <string name="label_date_difference">Différence</string>
   <string name="label_days">Jours</string>
   <string name="label_delete">Effacer</string>
-  <string name="label_emi">EMI</string>
   <string name="label_first_repayment">Premier remboursement</string>
   <string name="label_from_date">De</string>
   <string name="label_history">Historique</string>
@@ -228,7 +218,6 @@
   <string name="loan_payback_way">Remboursement</string>
   <string name="loan_repayment_detail_loading">Chargement de la modalité de remboursement…</string>
   <string name="loan_type_title">"Taux d'intérêt standard"</string>
-  <string name="loan_unit">(×10K)</string>
   <string name="lpr_ok">Compris</string>
   <string name="lpr_tips_msg">"À partir du 8 octobre 2019, le taux d'intérêt des prêts au logement commerciaux et personnels sera calculé en fonction du taux préférentiel du prêt (LPR) au lieu du taux de référence de 4,9% précédemment appliqué. Maintenant, le taux final sera confirmé en ajoutant un point de base LPR.
 
@@ -277,7 +266,6 @@ Les RAPI sur un an et cinq ans seront indiqués le 20 de chaque mois (des retard
   <string name="month_september_short">Sept</string>
   <string name="month_september_shortest">S</string>
   <string name="more">Plus</string>
-  <string name="morning">AM</string>
   <string name="mortgage_amount">Totale (×10K)</string>
   <string name="mortgage_average_repayment_first_month">Premier mois de rembousement</string>
   <string name="mortgage_average_repayment_monthly">Remboursement mensuel</string>
@@ -512,7 +500,6 @@ Les RAPI sur un an et cinq ans seront indiqués le 20 de chaque mois (des retard
   <string name="thursday_short">Jeu</string>
   <string name="today">"Aujourd'hui"</string>
   <string name="tomorrow">Demain</string>
-  <string name="too_long_result">再玩就玩坏了</string>
   <string name="tuesday">Mardi</string>
   <string name="tuesday_short">Mar</string>
   <string name="tuesday_shortest">M</string>

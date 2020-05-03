@@ -39,6 +39,13 @@
         <item>Mono</item>
         <item>Stéréo</item>
     </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>Désactivé</item>
+        <item>Filtre activé</item>
+        <item>Activé</item>
+        <item>"Filtre d'en-têtes activé"</item>
+        <item>"Filtre Pkts de média activé"</item>
+    </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
         <item>Optimisée pour la qualité audio</item>
         <item>Qualité audio et de la connexion équilibrée</item>

@@ -163,7 +163,7 @@
 et ajustez les préférences automatiquement"</string>
   <string name="ai_scene_top_moon_off">Mode faible luminosité</string>
   <string name="ai_scene_top_tip">Mode lune</string>
-  <string name="ai_watermark_title">AI watermark</string>
+  <string name="ai_watermark_title">Filigrane IA</string>
   <string name="audio_focus_exit_button_text">Désactiver le focus audio</string>
   <string name="autozoom_click_hint">"Appuyez sur un objet pour le maintenir au point lorsqu'il est en mouvement. Restez à au moins 3 mètres pour un meilleur effet."</string>
   <string name="autozoom_disabled_hint">"Arrêt du suivi d'un objet en mouvement"</string>
@@ -436,9 +436,9 @@ regarder plus grand sur les photos"</string>
   <string name="mimoji_check_no_face">Visage non reconnu</string>
   <string name="mimoji_check_normal">"Appuyez sur le bouton de l'appareil photo"</string>
   <string name="mimoji_confirm">OK</string>
-  <string name="mimoji_create_emoticon">Create sticker pack</string>
-  <string name="mimoji_create_emoticon_error">"Couldn't create sticker pack"</string>
-  <string name="mimoji_create_emoticon_progress">Creating sticker pack…</string>
+  <string name="mimoji_create_emoticon">"Créer un pack d'autocollants"</string>
+  <string name="mimoji_create_emoticon_error">"Impossible de créer un pack d'autocollants"</string>
+  <string name="mimoji_create_emoticon_progress">"Création d'un pack d'autocollants…"</string>
   <string name="mimoji_create_tips">"Regardez directement dans l'appareil photo pour créer votre Mimoji"</string>
   <string name="mimoji_delete">&lt;font fgcolor="#ffff0000"&gt;Supprimer&lt;/font&gt;</string>
   <string name="mimoji_delete_dialog_title">Supprimer Mimoji ?</string>
@@ -663,7 +663,6 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_camera_coloreffect_title">Filtres</string>
   <string name="pref_camera_common_settings">Paramètres généraux</string>
   <string name="pref_camera_contrast_title">Contrast</string>
-  <string name="pref_camera_debug_info_as_watermark_title">开启水印调试</string>
   <string name="pref_camera_delay_capture_entry_10s">Délai 10s</string>
   <string name="pref_camera_delay_capture_entry_3s">Délai 3s</string>
   <string name="pref_camera_delay_capture_entry_5s">Délai 5s</string>
@@ -759,7 +758,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_camera_recordlocation_entry_off">Désactivé</string>
   <string name="pref_camera_recordlocation_entry_on">Activé</string>
   <string name="pref_camera_recordlocation_title">Enregistrer la localisation</string>
-  <string name="pref_camera_referenceline_title">Afficher les lignes de la grille</string>
+  <string name="pref_camera_referenceline_title">Afficher la grille</string>
   <string name="pref_camera_saturation_title">Saturation</string>
   <string name="pref_camera_scenemode_entry_auto">Auto</string>
   <string name="pref_camera_scenemode_entry_backlight">Rétro-éclairage</string>
@@ -813,8 +812,6 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_camera_video_duration_entry_120">Illimité</string>
   <string name="pref_camera_video_duration_entry_30">30 minutes</string>
   <string name="pref_camera_video_duration_entry_mms">30 secondes (MMS)</string>
-  <string name="pref_camera_video_log_tips">LOG</string>
-  <string name="pref_camera_video_sat_enable_title">开启视频平滑变焦功能</string>
   <string name="pref_camera_video_tag">Autoriser le marquage de vidéos</string>
   <string name="pref_camera_video_tag_description">"Appuyez sur \"Marquer\" lors de l'enregistrement d'une vidéo pour pouvoir revenir aux moments marqués de la lecture."</string>
   <string name="pref_camera_volumekey_function_entry_shutter">Déclencheur</string>
@@ -868,8 +865,6 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_new_slow_motion_video_quality_960_720only">"Vous ne pouvez enregistrer des vidéos 720p qu'à 960fps"</string>
   <string name="pref_new_slow_motion_video_quality_entry_1080p">1080p FHD</string>
   <string name="pref_new_slow_motion_video_quality_entry_720p">720p HD</string>
-  <string name="pref_pic_flaw_tip_summary">拍摄的照片人物有闭眼或照片边缘有遮挡时，会在拍照界面实时给出提示</string>
-  <string name="pref_pic_flaw_tip_title">照片瑕疵提示</string>
   <string name="pref_popup_camera_title">Appareil photo pop-up</string>
   <string name="pref_priority_storage_title">Enregistrer sur la carte SD</string>
   <string name="pref_privacy_title">Politique de confidentialité</string>
@@ -968,7 +963,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="snap_confirmed">Replacer</string>
   <string name="spaceIsLow_content_external_storage_priority">Votre carte SD USB est pleine</string>
   <string name="spaceIsLow_content_primary_storage_priority">Votre périphérique de stockage USB est plein</string>
-  <string name="speech_shutter_open_tip">Dites \"拍照\" ou \"茄子\" pour prendre une photo</string>
+  <string name="speech_shutter_open_tip">Dites \"Prendre une photo\" ou \"茄子\" pour prendre une photo</string>
   <string name="speech_shutter_tip">Déclencheur vocal</string>
   <string name="start_capture">OK</string>
   <string name="sticker_tab1">Cute</string>
