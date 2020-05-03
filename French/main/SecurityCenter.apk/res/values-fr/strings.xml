@@ -166,7 +166,7 @@
   <string name="priority_storage_app_settings">Data will be saved to %1$s</string>
   <string name="priority_storage_settings_summary">"If no SD card is detected, your data will be saved to your device's internal storage automatically."</string>
   <string name="priority_storage_summary">Select location to save your data</string>
-  <string name="priority_storage_title">Storage settings</string>
+  <string name="priority_storage_title">Paramètres de stockage</string>
   <string name="privacy_app_behavior_summary">Autostart, permissions, and more</string>
   <string name="privacy_app_behavior_title">App behavior history</string>
   <string name="privacy_app_permission_manage_summary">Manage permissions of installed apps</string>
@@ -305,12 +305,12 @@
   <string name="storage_app_manager_uninstall_with_xspace_app_dlg_msg">"This app's dual app will be uninstalled as well."</string>
   <string name="storage_app_manager_uninstall_xspace_app_dlg_msg">All app data will also be deleted if you uninstall the app.</string>
   <string name="storage_app_manager_uninstall_xspace_app_dlg_title">Uninstall dual app?</string>
-  <string name="storage_app_space_details_entry">View app details</string>
+  <string name="storage_app_space_details_entry">"Afficher les détails de l'application"</string>
   <string name="storage_app_uninstall_app_dialog_msg">All app data will also be deleted if you uninstall the app.</string>
   <string name="storage_app_uninstall_app_dialog_title">Uninstalling the app</string>
   <string name="storage_available_total_size">%1$s out of %2$s available</string>
-  <string name="storage_available_total_size1">Occupied: %1$s | Total: %2$s</string>
-  <string name="storage_deepclean_entry">Deep clean</string>
+  <string name="storage_available_total_size1">Occupé: %1$s | Total: %2$s</string>
+  <string name="storage_deepclean_entry">Nettoyage en profondeur</string>
   <string name="storage_dialog_unmountable">"This ^1 is corrupted.
 
 To use this ^1, you have to set it up first."</string>
@@ -323,18 +323,18 @@ To use this ^1 with this device, you have to set it up first."</string>
   <string name="storage_format_failure">"Couldn't format %1$s"</string>
   <string name="storage_format_success">Formatted %1$s successfully</string>
   <string name="storage_item_apk_name">APKs</string>
-  <string name="storage_item_appdata_name">Apps and data</string>
+  <string name="storage_item_appdata_name">Apps et données</string>
   <string name="storage_item_audio_name">Audio</string>
-  <string name="storage_item_clean_name">Free up space</string>
+  <string name="storage_item_clean_name">"Libérer de l'espace"</string>
   <string name="storage_item_doc_name">Documents</string>
-  <string name="storage_item_other_name">Other</string>
+  <string name="storage_item_other_name">Autre</string>
   <string name="storage_item_picture_name">Images</string>
-  <string name="storage_item_system_name">System</string>
-  <string name="storage_item_video_name">Video</string>
+  <string name="storage_item_system_name">Système</string>
+  <string name="storage_item_video_name">Vidéo</string>
   <string name="storage_menu_mount">Mount</string>
   <string name="storage_mount_failure">"Couldn't mount %1$s"</string>
   <string name="storage_mount_success">Mounted %1$s successfully</string>
-  <string name="storage_space_release_hint">Need more storage space?</string>
+  <string name="storage_space_release_hint">"Besoin de plus d'espace de stockage ?"</string>
   <string name="storage_unmount_failure">"Couldn't unmount %1$s"</string>
   <string name="storage_unmount_success">Unmounted %1$s successfully</string>
   <string name="storage_wizard_format_confirm_v2_action">Format ^1</string>
