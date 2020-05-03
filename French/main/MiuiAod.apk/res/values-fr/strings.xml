@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="add_from_album">Add from Gallery</string>
+  <string name="app_name">Preference</string>
+  <string name="copy">Copy</string>
+  <string name="expand_button_title">Advanced</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pull down to refresh</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Release to refresh</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"That's all for now"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
+  <string name="not_set">Not set</string>
+  <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
+  <string name="super_wallpaper_date">"EEa
+dd/M"</string>
   <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
   <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
   <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
@@ -160,4 +176,6 @@ dd/MM"</string>
   <string name="time_style">Style</string>
   <string name="time_style_layout">Disposition</string>
   <string name="tip_to_open_aod_mode">"L'affichage permanent est éteint. Allumer maintenant ?"</string>
+  <string name="v7_preference_off">OFF</string>
+  <string name="v7_preference_on">ON</string>
 </resources>
