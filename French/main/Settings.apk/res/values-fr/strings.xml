@@ -354,7 +354,7 @@ Voici ce qui a pu mal se passer :
   <string name="copy">Copie</string>
   <string name="copyable_slice_toast">%1$s copié dans le presse-papiers.</string>
   <string name="corner_assistant_gesture_summary">"Balayez vers le haut depuis le coin inférieur gauche ou inférieur droit pour réveiller l'Assistant Google"</string>
-  <string name="corner_assistant_gesture_title">Balayez du coin pour Google Assistant</string>
+  <string name="corner_assistant_gesture_title">Balayez vers le haut depuis un coin pour Google Assistant</string>
   <string name="cross_profile_calendar_restricted_summary">"Votre organisation n'autorise pas les applications personnelles à accéder à votre calendrier de travail"</string>
   <string name="cross_profile_calendar_summary">Afficher les événements professionnels sur votre calendrier personnel</string>
   <string name="cross_profile_calendar_title">Calendrier multi-profils</string>
@@ -2315,8 +2315,6 @@ Vous pouvez désactiver cette fonctionnalité dans les paramètres > Bluetooth >
   <string name="convert_to_file_encryption_enabled">Conversion…</string>
   <string name="cool_color">Froid</string>
   <string name="copyright_title">"Droits d'auteur"</string>
-  <string name="corner_assistant_gesture_summary">Balayez vers le haut depuis le coin inférieurgauche ou inférieur droit pour réveiller Google Assistant</string>
-  <string name="corner_assistant_gesture_title">Balayez vers le haut depuis un coin pour Google Assistant</string>
   <string name="country_name">%s (système)</string>
   <string name="create">Créer</string>
   <string name="credential_contains">Cette entrée contient:</string>
