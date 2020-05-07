@@ -65,6 +65,7 @@
   <string name="audio_toast_file_invalid">"Le fichier audio n'est pas valide"</string>
   <string name="audio_toast_file_undownload">"Le fichier audio n'est pas entièrement téléchargé ou a des parties manquantes"</string>
   <string name="audio_toast_network_is_not_available">Impossible de se connecter au réseau</string>
+  <string name="btn_next">Suivant</string>
   <string name="call_folder_name">"Notes d'appels"</string>
   <string name="cancel_alarm_description">"Annuler l'alarme"</string>
   <string name="check_in_todo_app">Afficher les tâches</string>
@@ -172,6 +173,9 @@
   <string name="not_set">Non défini</string>
   <string name="note_description_content">"L'application Notes est un bon outil pour enregistrer vos idées. Elle a intégré les rappels et synchronise vos éléments dans le Cloud afin de vous permettre de les accéder en tout lieu, à n'importe quel moment. Assurez-vous de pouvoir vous passer de ces fonctionnalités avant de supprimer l'application."</string>
   <string name="note_description_title">À propos de Notes</string>
+  <string name="note_gesture_guide_step1">Appuyez et maintenez le plus pour créer une note vocale</string>
+  <string name="note_gesture_guide_step2">Appuyez et maintenez une note, puis faites-la glisser sur une autre note pour créer un dossier</string>
+  <string name="note_gesture_guide_step3">Appuyez et maintenez une note, puis faites-la glisser sur un dossier pour y déplacer la note</string>
   <string name="note_link_email">Rédiger un Email</string>
   <string name="note_link_other">Ouvrir en utilisant une application de carte</string>
   <string name="note_link_select">Sélectionner le texte</string>
@@ -212,9 +216,6 @@
   <string name="repeat_mode_month">Chaque mois</string>
   <string name="repeat_mode_normal_workday">Lundi à vendredi</string>
   <string name="repeat_mode_set_item_day">Tous les jours</string>
-  <string name="repeat_mode_set_item_month">每月（%s）</string>
-  <string name="repeat_mode_set_item_month_detail">每月%s</string>
-  <string name="repeat_mode_set_item_month_detail_day">d日</string>
   <string name="repeat_mode_set_item_month_detail_lastday">Dernier jour de chaque mois</string>
   <string name="repeat_mode_set_item_month_global">Tous les mois (même date)</string>
   <string name="repeat_mode_set_item_none">Jamais</string>
