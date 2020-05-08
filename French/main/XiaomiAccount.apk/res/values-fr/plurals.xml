@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="health_description_title_suffix">
+        <item quantity="other">" pas"</item>
+        <item quantity="one">" pas"</item>
+    </plurals>
     <plurals name="updated_contacts">
         <item quantity="other">%s contacts mis à jour</item>
         <item quantity="one">%s contact mis à jour</item>

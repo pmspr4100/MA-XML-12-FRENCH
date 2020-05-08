@@ -70,6 +70,28 @@
   <string name="passport_recycle_account_prompt">Est-ce votre compte Mi ?</string>
   <string name="passport_confirm_recycle_account">Oui</string>
   <string name="passport_reject_recycle_account">Non</string>
+  <string name="account_user_id_show">Compte Mi: %s</string>
+  <string name="action_retry">Try again</string>
+  <string name="cloud_description_closed">Occupied | Sync is off</string>
+  <string name="cloud_description_normal">Occupied</string>
+  <string name="copy">Copy</string>
+  <string name="expand_button_title">Advanced</string>
+  <string name="health_action_activate">Activate</string>
+  <string name="health_action_install">Install</string>
+  <string name="health_action_update">Update</string>
+  <string name="health_description_normal">Steps</string>
+  <string name="health_state_not_activated">Not activated</string>
+  <string name="health_state_not_installed">Not installed</string>
+  <string name="health_state_not_support">Not supported in this version</string>
+  <string name="mi_health">Xiaomi Santé</string>
+  <string name="not_set">Non défini</string>
+  <string name="passport_google_login">Sign in with the previously used Google Account?</string>
+  <string name="passport_google_login_agree">Compte Google</string>
+  <string name="passport_google_login_disagree">Compte Mi</string>
+  <string name="passport_google_login_failed">"Couldn't sign in with Google. Sign in to your Mi Account directly."</string>
+  <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
+  <string name="state_data_error">"Couldn't get data"</string>
+  <string name="state_loading">Chargement…</string>
   <string name="passport_input_password_for_login">Ce numéro est associé à un compte existant, entrez votre mot de passe</string>
   <string name="passport_registered_phone_user_ID">ID utilisateur: %s</string>
   <string name="passport_registered_phone_user_name">"Nom d'utilisateur: %s"</string>
@@ -166,7 +188,7 @@
   <string name="passport_area_code_hot">UTILISÉ FRÉQUEMMENT</string>
   <string name="passport_user_agreement_link">"&lt;Data&gt;"J'ai lu et accepté Xiaomi &amp;lt;a href=%1$s&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href=%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;."&lt;/Data&gt;"</string>
   <string name="passport_privacy_policy">Politique de confidentialité</string>
-  <string name="passport_user_agreement">Accord Utilisateur</string>
+  <string name="passport_user_agreement">Accord utilisateur</string>
   <string name="passport_license_host_unreachable">Impossible de se connecter au réseau. Vous pouvez consulter cette page à %s.</string>
   <string name="passport_login_failed">Impossible de se connecter</string>
   <string name="passport_reg_failed">"Échec de l'inscription"</string>
@@ -277,7 +299,7 @@
   <string name="bind_weixin">Connectez votre compte WeChat</string>
   <string name="bind_sns_description">Connectez-vous avec %s</string>
   <string name="add_account">Ajouter un compte</string>
-  <string name="agreement_and_privacy">"Politique de confidentialité et accord d'utilisation"</string>
+  <string name="agreement_and_privacy">Confidentialité</string>
   <string name="bind_facebook">Se connecter à votre compte Facebook</string>
   <string name="bind_google">Se connecter à votre compte Google</string>
   <string name="binded">Connecté</string>
@@ -298,7 +320,7 @@ Vous pouvez vous connecter à votre compte Mi en utilisant %s maintenant."</stri
   <string name="account_has_been_set">Changer</string>
   <string name="account_none_user_name">Aucun</string>
   <string name="account_user_avatar">Photo de profil</string>
-  <string name="account_user_gender">Genre</string>
+  <string name="account_user_gender">Sexe</string>
   <string name="account_user_birthday">Date de naissance</string>
   <string name="account_user_name_dialog_title">"Entrez un nom d'utilisateur"</string>
   <string name="account_empty_user_name">"Entrez le nom d'utilisateur de votre compte Mi"</string>
@@ -377,12 +399,12 @@ Vous pouvez vous connecter à votre compte Mi en utilisant %s maintenant."</stri
   <string name="account_mibi_charge">Recharger</string>
   <string name="account_mipay_info">Mi Pay</string>
   <string name="account_xiaomi_service">Services</string>
-  <string name="cloud_service">Mi Cloud</string>
+  <string name="cloud_service">Xiaomi cloud</string>
   <string name="vip_account_settings">Paramètres VIP</string>
   <string name="xiao_mi_vip">Mi VIP</string>
   <string name="mi_vip_info">Afficher les privilèges</string>
   <string name="vip_settings_info">Paramètres VIP</string>
-  <string name="used_cloud_storage_info">Espace de stockage utilisé %s</string>
+  <string name="used_cloud_storage_info">Stockage utilisé %s</string>
   <string name="mi_finance">Mes Finances</string>
   <string name="mi_finance_info">Bonus pour les nouveaux utilisateurs</string>
   <string name="loading_micloud_sync_data">Chargement…</string>
@@ -575,4 +597,6 @@ Envoyez ce code au superviseur."</string>
   <string name="passport_select_reg_ways_title">"Autres façons de s'inscrire"</string>
   <string name="passport_ticket_login_select_sim_card">Sélectionnez une carte SIM</string>
   <string name="passport_ticket_login_select_sim_card_cancel">Annuler</string>
+  <string name="v7_preference_off">OFF</string>
+  <string name="v7_preference_on">ON</string>
 </resources>
