@@ -39,7 +39,7 @@
   <string name="activity_title_sleep_details">Détails du sommeil</string>
   <string name="activity_title_sleep_detection">Analyze sleep cycle</string>
   <string name="activity_title_sleep_detection_question">F.A.Q</string>
-  <string name="activity_title_statistic">Stats</string>
+  <string name="activity_title_statistic">Statistiques</string>
   <string name="add">Ajouter</string>
   <string name="add_body_weight_button">Ajouter des données de poids</string>
   <string name="add_body_weight_record_button">Ajouter des données de poids</string>
@@ -51,7 +51,7 @@ Mi Santé prend en charge les appareils que vous avez déjà ajoutés dans l'app
   <string name="add_data_source_support_step">"Cet appareil ne génère pas de données de nombre de pas. Vous pouvez essayer de passer à d'autres sources de données."</string>
   <string name="add_model_card">"Appuyez sur le bouton dans le coin supérieur gauche
 ajouter des cartes"</string>
-  <string name="add_record">Add</string>
+  <string name="add_record">Ajouter</string>
   <string name="added_data_source">Sources ajoutées</string>
   <string name="all_records">Tous les enregistrements</string>
   <string name="allow_notice_periods">Allow reminder period</string>
@@ -733,27 +733,27 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
   <string name="sleep_detection_guide_schedule_hint_two_details">Set your bedtime in Clock.</string>
   <string name="sleep_detection_guide_three_description">"When bedtime schedule is set up, your sleep will be tracked automatically. "</string>
   <string name="sleep_detection_guide_three_title">Generate stats automatically</string>
-  <string name="sleep_detection_guide_two_description">"To get accurate stats, place your device beside or under the pillow and make sure that it's no more than 50 cm away from your body."</string>
-  <string name="sleep_detection_guide_two_title">Place the device next to your pillow</string>
-  <string name="sleep_detection_hint">"Stats are provided for your reference only. They can't be used as grounds for medical diagnosis."</string>
-  <string name="sleep_detection_question_four_answer">Different types of mobile devices are equipped with different sensors. Power consumption values may vary for different hardware elements.</string>
-  <string name="sleep_detection_question_four_title">Why do different devices consume different amounts of power to track sleep?</string>
-  <string name="sleep_detection_question_one_answer">"When your device is turned off, rebooted, or the battery is low, sleep tracking will be interrupted because sensors can't collect and analyze data. In such cases, sleep stats will appear incomplete.
-If this problem occurs frequently, check your device for scheduled shutdown tasks or overnight system updates."</string>
-  <string name="sleep_detection_question_three_answer">Your device tracks your body movement during sleep using built-in sensors. To make stats more accurate, place the device on a soft surface close to your body. Avoid placing it on bedside tables or too far away from the mattress.</string>
-  <string name="sleep_detection_question_three_title">How can I make my stats more accurate?</string>
-  <string name="sleep_detection_question_two_answer">"Your sleep cycles are analyzed on the device locally. Sleep tracking will work even when you aren't connected to the network or your current connection is interrupted."</string>
-  <string name="sleep_detection_question_two_title">Should I connect to the internet to analyze sleep cycles?</string>
+  <string name="sleep_detection_guide_two_description">"Pour obtenir des statistiques précises, placez votre appareil à côté ou sous l'oreiller et assurez-vous qu'il ne se trouve pas à plus de 50 cm de votre corps."</string>
+  <string name="sleep_detection_guide_two_title">"Placez l'appareil à côté de votre oreiller"</string>
+  <string name="sleep_detection_hint">"Les statistiques sont fournies à titre indicatif uniquement. Ils ne peuvent pas être utilisés comme motif de diagnostic médical."</string>
+  <string name="sleep_detection_question_four_answer">"Différents types d'appareils mobiles sont équipés de différents capteurs. Les valeurs de consommation d'énergie peuvent varier pour différents éléments matériels."</string>
+  <string name="sleep_detection_question_four_title">"Pourquoi différents appareils consomment-ils différentes quantités d'énergie pour suivre le sommeil ?"</string>
+  <string name="sleep_detection_question_one_answer">"Lorsque votre appareil est éteint, redémarré ou que la batterie est faible, le suivi du sommeil est interrompu car les capteurs ne peuvent pas collecter et analyser les données. Dans de tels cas, les statistiques de sommeil seront incomplètes.
+Si ce problème se produit fréquemment, vérifiez sur votre appareil les tâches d'arrêt planifiées ou les mises à jour du système pendant la nuit."</string>
+  <string name="sleep_detection_question_three_answer">"Votre appareil suit les mouvements de votre corps pendant le sommeil à l'aide de capteurs intégrés. Pour rendre les statistiques plus précises, placez l'appareil sur une surface douce près de votre corps. Évitez de le placer sur des tables de chevet ou trop loin du matelas."</string>
+  <string name="sleep_detection_question_three_title">Comment puis-je rendre mes statistiques plus précises ?</string>
+  <string name="sleep_detection_question_two_answer">"Vos cycles de sommeil sont analysés localement sur l'appareil. Le suivi du sommeil fonctionnera même lorsque vous n'êtes pas connecté au réseau ou que votre connexion actuelle est interrompue."</string>
+  <string name="sleep_detection_question_two_title">Dois-je me connecter à internet pour analyser les cycles de sommeil ?</string>
   <string name="sleep_detector_content">Mi Santé piste votre sommeil en arrière-plan</string>
   <string name="sleep_detector_title">Pister le sommeil</string>
   <string name="sleep_detector_unopened">"Vous n'avez pas encore commencé à suivre votre sommeil."</string>
-  <string name="sleep_duration">Sleep Duration</string>
-  <string name="sleep_duration_description">Sleep duration is the time between you going to bed and getting up. The periods when you wake up and then go back to sleep again during the night are subtracted.</string>
-  <string name="sleep_duration_enough_description">"You've had enough sleep."</string>
-  <string name="sleep_duration_everyday">Daily sleep duration</string>
-  <string name="sleep_duration_fewer_description">"You've slept for less than 7 hours. Getting more sleep would be better for you."</string>
-  <string name="sleep_duration_insufficient_description">"Getting less than 6 hours of sleep isn't enough for you."</string>
-  <string name="sleep_duration_more_description">"You've had more sleep than required."</string>
+  <string name="sleep_duration">Durée du sommeil</string>
+  <string name="sleep_duration_description">"La durée du sommeil est le temps entre le coucher et le lever. Les périodes où vous vous réveillez puis vous rendormez de nouveau pendant la nuit sont soustraites."</string>
+  <string name="sleep_duration_enough_description">"Vous avez assez dormi."</string>
+  <string name="sleep_duration_everyday">Durée de sommeil quotidienne</string>
+  <string name="sleep_duration_fewer_description">"Vous avez dormi moins de 7 heures. Dormir plus serait mieux pour vous."</string>
+  <string name="sleep_duration_insufficient_description">"Dormir moins de 6 heures de sommeil ne vous suffit pas."</string>
+  <string name="sleep_duration_more_description">"Vous avez dormi plus que nécessaire."</string>
   <string name="sleep_empty_data_tips">Allez pour un parcours entier de sommeil</string>
   <string name="sleep_goal">Goals</string>
   <string name="sleep_goal_by_hours_minutes">Objectif: %1$s %2$s</string>

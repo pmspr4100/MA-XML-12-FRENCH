@@ -241,15 +241,15 @@
   <string name="tuesday">Mardi</string>
   <string name="tuesday_short">Mar</string>
   <string name="tuesday_shortest">M</string>
-  <string name="usage_new_home_average">"Avg "</string>
+  <string name="usage_new_home_average">"Moy. "</string>
   <string name="usage_new_home_category">Catégorie</string>
   <string name="usage_new_home_compare_text1">%.2f plus que la veille</string>
   <string name="usage_new_home_compare_text2">%.2f moins que la veille</string>
   <string name="usage_new_home_compare_text3">Comme la veille</string>
   <string name="usage_new_home_current_week">Cette semaine</string>
   <string name="usage_new_home_dashboard">Tableau de bord</string>
-  <string name="usage_new_home_date_day_title">%s | Usage duration</string>
-  <string name="usage_new_home_day_category_title">App categories</string>
+  <string name="usage_new_home_date_day_title">"%s | Durée d'utilisation"</string>
+  <string name="usage_new_home_day_category_title">"Catégories d'applications"</string>
   <string name="usage_new_home_day_title">Jour</string>
   <string name="usage_new_home_day_usage_title">Applications individuelles</string>
   <string name="usage_new_home_first_unlock">Premier déverrouillage: %s</string>
@@ -459,7 +459,7 @@ Cette application doit également se connecter à internet et nécessite les aut
   <string name="usage_state_show_category">Catégories</string>
   <string name="usage_state_show_detail">Afficher les statistiques détaillées</string>
   <string name="usage_state_show_more">Plus</string>
-  <string name="usage_state_statistic_data">Stats</string>
+  <string name="usage_state_statistic_data">Statistiques</string>
   <string name="usage_state_sunday">Dim</string>
   <string name="usage_state_thursday">Jeu</string>
   <string name="usage_state_turn_on">Activer</string>
