@@ -93,7 +93,7 @@
   <string name="birthday_alarm_summary">"Jouer \"Joyeux anniversaire\" comme sonnerie d'alarme par défaut pour votre anniversaire"</string>
   <string name="cancel">Annuler</string>
   <string name="channel_name_alarm">Alarme</string>
-  <string name="channel_name_sleep">Sleep</string>
+  <string name="channel_name_sleep">Sommeil</string>
   <string name="channel_name_timer">Minuteur</string>
   <string name="check_theme_app_install">Assurez-vous que lapplication de thèmes est installée sur votre appareil.</string>
   <string name="check_voice_assist_app_version">Mettez à jour MI IA vers sa dernière version.</string>
@@ -206,7 +206,7 @@
   <string name="module_download_data_msg_replace">"Le système audio mis à jour pour les alarmes intelligentes MIUI est disponible. ≈20Mo de vos données cellulaires seront nécessaires pour ce téléchargement. Télécharger maintenant ?"</string>
   <string name="module_download_data_msg_timer">"L'horloge a besoin de télécharger des fichiers audio pour les minuteries de bruit ambiant. ≈20Mo de vos données cellulaires seront nécessaires pour ce téléchargement. Télécharger maintenant ?"</string>
   <string name="module_download_fail">Impossible de télécharger un module audio supplémentaire</string>
-  <string name="module_download_failure">"Couldn't download audio. Check your network settings and try again."</string>
+  <string name="module_download_failure">"Impossible de télécharger l'audio. Vérifiez vos paramètres réseau et réessayez."</string>
   <string name="module_download_msg">"Pour rendre les alarmes intelligentes MIUI disponibles, l'horloge doit télécharger les fichiers audio. Les alarmes intelligentes contiennent des fonctionnalités audio qui permettent d'inclure les informations météorologiques actuelles dans les alarmes. Télécharger maintenant ?"</string>
   <string name="module_download_msg_golbal">"L'horloge a besoin de télécharger des fichiers audio pour les alarmes intelligentes MIUI. Télécharger maintenant ?"</string>
   <string name="module_download_msg_replace">Le système audio mis à jour pour les alarmes intelligentes MIUI est disponible. Télécharger maintenant ?</string>
@@ -371,7 +371,7 @@
   <string name="timer_new_item">Ajouter une minuterie</string>
   <string name="timer_notify_text">Répéter ou annuler la minuterie.</string>
   <string name="timer_pause_timer">Mettre en pause le minuteur</string>
-  <string name="timer_ringtone">Minuterie de la Sonnerie</string>
+  <string name="timer_ringtone">Minuterie de la sonnerie</string>
   <string name="timer_running">"Minuteur en cours d'exécution"</string>
   <string name="timer_start_alarm">Temps écoulé !</string>
   <string name="timer_start_timer">Démarrer le minuteur</string>
