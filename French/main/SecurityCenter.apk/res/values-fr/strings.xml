@@ -275,7 +275,7 @@
   <string name="storage_app_detail_clear_all_data">Effacer toutes les données</string>
   <string name="storage_app_detail_clear_all_dialog_message">"Toutes les données de l'application, y compris les fichiers, les paramètres, les comptes et le cache seront supprimés définitivement."</string>
   <string name="storage_app_detail_clear_all_dialog_title">Effacer toutes les données ?</string>
-  <string name="storage_app_detail_clear_cache">Clear cache</string>
+  <string name="storage_app_detail_clear_cache">Effacer le cache</string>
   <string name="storage_app_detail_clear_cache_title">"Vider le cache de l'application maintenant ?"</string>
   <string name="storage_app_detail_dialog_cancel">Annuler</string>
   <string name="storage_app_detail_dialog_ok">OK</string>
@@ -284,24 +284,24 @@
   <string name="storage_app_detail_qq_cleaner">QQ Cleaner</string>
   <string name="storage_app_detail_sdcard">"Données de l'application"</string>
   <string name="storage_app_detail_system">"Taille de l'application"</string>
-  <string name="storage_app_detail_third_clean_size">Free up %s</string>
-  <string name="storage_app_detail_total">Total space occupied</string>
-  <string name="storage_app_detail_uninstall_app">Uninstall app</string>
+  <string name="storage_app_detail_third_clean_size">Libérer %s</string>
+  <string name="storage_app_detail_total">Espace total occupé</string>
+  <string name="storage_app_detail_uninstall_app">"Désinstaller l'application"</string>
   <string name="storage_app_detail_uninstall_dialog_message">All app data will also be deleted if you uninstall the app.</string>
-  <string name="storage_app_detail_uninstall_dialog_title">Uninstall now?</string>
-  <string name="storage_app_detail_uninstall_done">Uninstalled successfully</string>
+  <string name="storage_app_detail_uninstall_dialog_title">Désinstaller maintenant ?</string>
+  <string name="storage_app_detail_uninstall_done">Désinstallé avec succès</string>
   <string name="storage_app_detail_wechat_cleaner">WeChat cleaner</string>
   <string name="storage_app_detail_wechat_session">"Clear WeChat's chat history"</string>
-  <string name="storage_app_list_activity_title">App details</string>
-  <string name="storage_app_list_desc">Occupied space: %s</string>
-  <string name="storage_app_manager_clear_dlg_title">Clear data</string>
+  <string name="storage_app_list_activity_title">"Détails de l'application"</string>
+  <string name="storage_app_list_desc">Espace occupé: %s</string>
+  <string name="storage_app_manager_clear_dlg_title">Effacer les données</string>
   <string name="storage_app_manager_clear_failed_dlg_message">"Can't clear app data"</string>
   <string name="storage_app_manager_disable_dlg_text">Disabling this app may result in some features working incorrectly.</string>
   <string name="storage_app_manager_disable_dlg_title">Disable pre-installed app?</string>
   <string name="storage_app_manager_disable_text">Disable</string>
   <string name="storage_app_manager_factory_reset_dlg_msg">All updates of this Android system app will be uninstalled.</string>
-  <string name="storage_app_manager_factory_reset_dlg_title">Uninstall updates?</string>
-  <string name="storage_app_manager_uninstall_application">Uninstall</string>
+  <string name="storage_app_manager_factory_reset_dlg_title">Désinstaller les mises à jour ?</string>
+  <string name="storage_app_manager_uninstall_application">Désinstaller</string>
   <string name="storage_app_manager_uninstall_protected_dlg_msg">Uninstalling system plug-ins may result in some features working incorrectly. Uninstall anyway?</string>
   <string name="storage_app_manager_uninstall_protected_dlg_title">Attention</string>
   <string name="storage_app_manager_uninstall_with_xspace_app_dlg_msg">"This app's dual app will be uninstalled as well."</string>
@@ -1997,9 +1997,6 @@ carte médicale"</string>
   <string name="monitor_app_add">Ajouter</string>
   <string name="sc_system_risk_fix_info_xspace">Impossible de résoudre ce problème dans deuxième espace. Essayez à nouveau dans Premier espace.</string>
   <string name="dialog_no_longer_alert">Ne plus afficher</string>
-  <string name="dialog_remobe_luckymoney_cancle">使用单发版</string>
-  <string name="dialog_remobe_luckymoney_ok">前往开启</string>
-  <string name="dialog_remove_luckymoney">当前MIUI版本已支持系统级红包助手，是否卸载单发版，并前往手机管家开启更快更稳定的小米红包助手？</string>
   <string name="sp_background_risk_dialog_title_wifi_approve">Alerte Wi-Fi public</string>
   <string name="sp_background_risk_dialog_summary_wifi_approve">"Vous êtes connecté à un réseau Wi-Fi public qui n'est peut-être pas sécurisé. Assurez-vous que votre paiement est protégé avant de le terminer."</string>
   <string name="sc_warning_updater_not_found">"Impossible de trouver l'application Mise à jour."</string>
@@ -2151,7 +2148,6 @@ carte médicale"</string>
   <string name="prompt_all">Demande pour tout</string>
   <string name="confirm_reject_all_permission">Restreindre toutes les applications utilisant cette fonctionnalité ?</string>
   <string name="confirm_prompt_all_permission">"Demander les permissions pour toutes les applications ?"</string>
-  <string name="shoop_again_float">咻一咻</string>
   <string name="shortcut_title_scan">Scan</string>
   <string name="shortcut_title_whatsapp_clean">WhatsApp cleaner</string>
   <string name="show_system_app">Afficher les applications système</string>
@@ -3103,8 +3099,6 @@ Videos will be saved to Game Turbo &gt; Key moments."</string>
   <string name="function_shield_summary">Restreindre certaines fonctionnalités du système lorsque vous jouez</string>
   <string name="function_shield_three_finger">"Restreindre les gestes de capture d'écran"</string>
   <string name="game_else_function">Autre</string>
-  <string name="game_manual_record_setting_king">王者荣耀</string>
-  <string name="game_manual_record_setting_peace">和平精英</string>
   <string name="game_manual_record_setting_setting">About this feature</string>
   <string name="game_manual_record_setting_title">Key moments</string>
   <string name="gs_advanced_setting_title">Paramètres supplémentaires</string>
@@ -3384,9 +3378,6 @@ Toutes les données sur votre appareil peuvent être supprimées et le mot de pa
   <string name="app_statusbar_audio_now">Enregistrement audio</string>
   <string name="app_statusbar_camera_now">Prendre des photos</string>
   <string name="app_statusbar_location_now">Localisation</string>
-  <string name="app_summary">"微信/QQ/米聊抢红包神器
-支持个人红包与群红包
-春节红包活动，不错过每一个红包"</string>
   <string name="app_permission_use_group_location">Informations de localisation</string>
   <string name="app_permission_use_group_location_des">Localisation précise et approximative</string>
   <string name="app_permission_use_group_calendar">Calendrier</string>
