@@ -8,26 +8,26 @@
   <string name="action_mode_title_empty">Select items</string>
   <string name="actionbar_button_up_description">Back</string>
   <string name="actionbar_immersion_button_more_description">More</string>
-  <string name="activate">Activate</string>
+  <string name="activate">Activer</string>
   <string name="activate_fail_notification_title">Reactivate sync</string>
-  <string name="activating">Activating…</string>
+  <string name="activating">Activation…</string>
   <string name="address">Address</string>
   <string name="antispam">Blocklist</string>
   <string name="app_name">Mi Mover</string>
   <string name="audio">Audio</string>
   <string name="audio_video_document">Audio, video, and documents</string>
-  <string name="back">Back</string>
+  <string name="back">Retour</string>
   <string name="birthday">Birthday</string>
-  <string name="btn_got_it">Got it</string>
+  <string name="btn_got_it">"C'est compris"</string>
   <string name="btn_install_complete">Installed. Start the transfer.</string>
-  <string name="button_finish">Done</string>
-  <string name="button_import">Import</string>
-  <string name="button_return">Back</string>
+  <string name="button_finish">Terminé</string>
+  <string name="button_import">Importer</string>
+  <string name="button_return">Retour</string>
   <string name="button_scanning">Scanning…</string>
-  <string name="button_send">Send</string>
-  <string name="calllog">Call history</string>
-  <string name="cancel">Cancel</string>
-  <string name="cancel_description">Cancel</string>
+  <string name="button_send">Envoyer</string>
+  <string name="calllog">Historique des appels</string>
+  <string name="cancel">Annuler</string>
+  <string name="cancel_description">Annuler</string>
   <string name="cancel_moving_dialog_message">Stop importing now?</string>
   <string name="cancel_moving_dialog_title">Stop importing</string>
   <string name="cannot_use_mi_huanji_button">Got it</string>
@@ -36,8 +36,8 @@
   <string name="check_phone_error_title">Sync is off</string>
   <string name="check_phone_io_error">"Can't connect to the network"</string>
   <string name="clear_old_task_failed">"Couldn't remove old tasks"</string>
-  <string name="clearable_edittext_clear_description">Clear</string>
-  <string name="close">Close</string>
+  <string name="clearable_edittext_clear_description">Effacer</string>
+  <string name="close">Quitter</string>
   <string name="close_twice_auth_btn">Turn off two-factor authentication</string>
   <string name="close_twice_auth_note">"Note:
 After creating a new security question and confirming your date of birth, your Apple ID two-factor authentication will be turned off. If you don't see the option to turn off two-factor authentication on the Apple ID account page, you can't turn it off."</string>
@@ -48,9 +48,9 @@ Visit https://appleid.apple.com/#!&amp;page=signin to turn off"</string>
   <string name="close_twice_auth_step_3">3. Click \"Turn Off Two-Factor Authentication\". Click again to confirm.</string>
   <string name="close_twice_auth_steps">Follow these steps to turn off two-factor authentication for Apple ID:</string>
   <string name="close_twice_auth_tutor">Turn off Apple ID two-factor authentication</string>
-  <string name="close_vpn_summary">Looks like your device is connected to a VPN now. Turn off VPN to be able to connect to other devices.</string>
-  <string name="close_vpn_title">Turn off VPN</string>
-  <string name="confirm_description">Confirm</string>
+  <string name="close_vpn_summary">"Il semble que votre appareil soit connecté à un VPN maintenant. Désactivez le VPN pour pouvoir vous connecter à d'autres appareils."</string>
+  <string name="close_vpn_title">Désactiver le VPN</string>
+  <string name="confirm_description">Confirmer</string>
   <string name="connect_icloud_fail">"Couldn't connect to iCloud"</string>
   <string name="connect_icloud_fail_tips">Make sure that your iCloud account has been activated. If not, go to icloud.com and follow the instructions in order to activate your account.</string>
   <string name="connect_wifi">Connect to Wi-Fi</string>
@@ -67,12 +67,12 @@ Visit https://appleid.apple.com/#!&amp;page=signin to turn off"</string>
   <string name="current_user_not_supported_summary">Current system settings restrict transferring data using Mi Mover.</string>
   <string name="current_user_not_supported_title">"Can't transfer items"</string>
   <string name="date_picker_dialog_title">Set date</string>
-  <string name="date_time_done">Done</string>
+  <string name="date_time_done">Terminé</string>
   <string name="date_time_picker_dialog_title">Set date and time</string>
-  <string name="delete_description">Delete</string>
+  <string name="delete_description">Supprimer</string>
   <string name="deselect_all">Deselect</string>
   <string name="deselect_all_description">Deselect all</string>
-  <string name="dialog_backup_password_cancel">Cancel</string>
+  <string name="dialog_backup_password_cancel">Annuler</string>
   <string name="dialog_backup_password_change_machine_tips">"You won't be able to transfer password-protected backups. Turn off backup password before using Mi Mover."</string>
   <string name="dialog_backup_password_verify">OK</string>
   <string name="dialog_forbidden_use_tips">"Mi Mover doesn't currently support transferring data to or from tablets."</string>
@@ -150,10 +150,10 @@ We shall protect your personal information in accordance with the relevant laws,
   <string name="host_boot_installation_tips">"Couldn't find Mi Mover? Tap to download."</string>
   <string name="host_connect_timeout_tip">"Can't connect for a long time"</string>
   <string name="host_dialog_install_button">Install on another device</string>
-  <string name="host_dialog_known_button">Got it</string>
+  <string name="host_dialog_known_button">"C'est compris"</string>
   <string name="host_dialog_message">Make sure the latest version of Mi Mover is installed on the other device; otherwise, two devices might not be able to connect.</string>
   <string name="host_dialog_title">"Can't connect for a long time"</string>
-  <string name="host_memory_insuff_cancel">Cancel</string>
+  <string name="host_memory_insuff_cancel">Annuler</string>
   <string name="host_memory_insuff_confirm">Select again</string>
   <string name="host_memory_insuff_summary">"There isn't enough storage space on the new device to start a transfer."</string>
   <string name="host_memory_insuff_title">Not enough storage space</string>
@@ -165,7 +165,7 @@ We shall protect your personal information in accordance with the relevant laws,
   <string name="hsa_sending">Sending…</string>
   <string name="hsa_tip_message">"If you can't receive the verification code, make sure that you've already signed in to iCloud on your Apple device."</string>
   <string name="hsa_tip_message_shutdown_hsa">How to turn off two-factor authentication</string>
-  <string name="hsa_tip_title">Help</string>
+  <string name="hsa_tip_title">Aide</string>
   <string name="hsa_verify_failed">"Two-factor authentication didn't work"</string>
   <string name="hsa_verify_failed_message">"Two-factor authentication didn't work. You can try again or turn off two-factor authentication."</string>
   <string name="hsa_verify_retry">Try again</string>
@@ -185,8 +185,8 @@ We shall protect your personal information in accordance with the relevant laws,
   <string name="icloud_signin_fail_message">Your apple ID was locked due to security reasons. Go to iforgot.apple.com and follow instructions.</string>
   <string name="icloud_start_now">Use mobile data</string>
   <string name="icloud_verify_tips">Tap Allow on your iOS device and enter the code that appears on it here.</string>
-  <string name="im_recipient">"I'm a recipient"</string>
-  <string name="im_sender">"I'm a sender"</string>
+  <string name="im_recipient">Destinataire</string>
+  <string name="im_sender">Expéditeur</string>
   <string name="image">Images</string>
   <string name="immersion_button_close_description">Close</string>
   <string name="import_again">Import again</string>
@@ -330,13 +330,13 @@ We shall protect your personal information in accordance with the relevant laws,
   <string name="notification_trans_send_message">"Sending data now. Don't turn off Wi-Fi or switch between networks."</string>
   <string name="notification_trans_send_title">Sending data…</string>
   <string name="ok">OK</string>
-  <string name="old_app_name">Old version</string>
-  <string name="old_task_cleared">Removed old tasks successfully</string>
-  <string name="old_wait_link">Select the items to transfer on the old device</string>
-  <string name="old_wait_link_extra">Tap \"Transfer\"</string>
-  <string name="option_feedback_title">Feedback</string>
-  <string name="organization">Organization</string>
-  <string name="other_system_data">System app data</string>
+  <string name="old_app_name">Ancienne version</string>
+  <string name="old_task_cleared">Suppression réussie des anciennes tâches</string>
+  <string name="old_wait_link">"Sélectionnez les éléments à transférer sur l'ancien appareil"</string>
+  <string name="old_wait_link_extra">Appuyez sur \"Transfert\"</string>
+  <string name="option_feedback_title">"Retour d'informations"</string>
+  <string name="organization">Organisation</string>
+  <string name="other_system_data">"Données d'application système"</string>
   <string name="other_user_app">Third party apps</string>
   <string name="other_user_app_data">Third party apps and app data</string>
   <string name="other_user_data">Third party app data</string>
@@ -355,10 +355,10 @@ We shall protect your personal information in accordance with the relevant laws,
   <string name="permission_alert_message_usage_access">Mi Mover needs to access app usage stats. Give Mi Mover the required permissions in the Settings.</string>
   <string name="permission_alert_title">Permissions required</string>
   <string name="permlab_sendSmsNoConfirmation">Allow SMS messages in background</string>
-  <string name="phone">Phone</string>
-  <string name="privacy_policy">Privacy Policy</string>
+  <string name="phone">Téléphone</string>
+  <string name="privacy_policy">Politique de confidentialité</string>
   <string name="qq_data_external">QQ SD card data</string>
-  <string name="quit_now">Quit</string>
+  <string name="quit_now">Quitter</string>
   <string name="reconnect">Connect again</string>
   <string name="recreate_soft_ap_tips">Tap the button below to try again.</string>
   <string name="sar">RF Exposure Information</string>
@@ -373,21 +373,21 @@ The data which wasn't imported must be imported again."</string>
 Free up at least %s."</string>
   <string name="scan_soft_ap_label">Connect to the new device</string>
   <string name="scanner_bottom_tip">Select only important items to make the transfer faster.</string>
-  <string name="scanner_permission_alert_cancel">Got it</string>
-  <string name="scanner_permission_alert_ok">Settings</string>
-  <string name="scanner_quit_alert_btn_negative">Quit</string>
+  <string name="scanner_permission_alert_cancel">"C'est compris"</string>
+  <string name="scanner_permission_alert_ok">Paramètres</string>
+  <string name="scanner_quit_alert_btn_negative">Quitter</string>
   <string name="scanner_quit_alert_btn_positive">"Don't quit"</string>
   <string name="scanner_quit_alert_message">"You'll have to connect the two devices again if you quit Mi Mover now. Quit anyway?"</string>
   <string name="scanner_quit_alert_title">Quit now?</string>
-  <string name="scanner_send_dialog_btn">Got it</string>
+  <string name="scanner_send_dialog_btn">"C'est compris"</string>
   <string name="scanner_send_dialog_message">"Don't turn off Wi-Fi or switch between networks during the transfer."</string>
   <string name="scanner_size_selected">Selected: %s</string>
   <string name="scanner_time_remained">Estimated time: %s</string>
   <string name="scanner_title_tip">Select items to transfer</string>
   <string name="scanner_wechat_overwrite_hit">Due to third party app restrictions, chat histories and other app data on your new device will be replaced with those from the old one after the transfer is complete.</string>
-  <string name="search_action_mode_cancel">Cancel</string>
-  <string name="search_input_description">Search</string>
-  <string name="search_mode_button_back_description">Back</string>
+  <string name="search_action_mode_cancel">Annuler</string>
+  <string name="search_input_description">Rechercher</string>
+  <string name="search_mode_button_back_description">Retour</string>
   <string name="searching_for_new_device">Searching for devices nearby…</string>
   <string name="select_all">Select all</string>
   <string name="select_all_description">Select all</string>
@@ -399,9 +399,9 @@ Free up at least %s."</string>
   <string name="select_item_notes">Notes</string>
   <string name="select_item_photos">Photos</string>
   <string name="select_item_remind">Reminders</string>
-  <string name="select_item_summary_loading">Just a sec…</string>
+  <string name="select_item_summary_loading">Chargement…</string>
   <string name="selected">Selected</string>
-  <string name="send">Send</string>
+  <string name="send">Envoyer</string>
   <string name="send_sms_for_sync_notice">An outgoing SMS message may be required to activate this service. Your carrier will charge you for this message.</string>
   <string name="send_sms_for_sync_title">Data usage warning</string>
   <string name="send_verification_code_fail">"Couldn't send verification code"</string>
@@ -519,9 +519,9 @@ Download and install Mi Mover."</string>
   <string name="trans_install_guide_old_content_first">"1. Scan this QR code with your old device.
 2. Download and install Mi Mover.
 3. Tap the button below once the installation is complete."</string>
-  <string name="trans_intro_title">FAQ</string>
-  <string name="trans_main_activity_tutor_first">"Move your photos, contacts, messages, call history,
-audio, video, documents, and apps to a new device"</string>
+  <string name="trans_intro_title">F.A.Q</string>
+  <string name="trans_main_activity_tutor_first">"Déplacez vos photos, contacts, messages, historique des appels,
+audio, vidéo, documents et applications vers un nouvel appareil"</string>
   <string name="trans_one_key_migrate">Mi Mover</string>
   <string name="trans_receive_time_remained">Received: %1$s | Remaining: %2$s</string>
   <string name="trans_send_time_remained">Sent: %1$s | Remaining: %2$s</string>
@@ -574,7 +574,7 @@ audio, video, documents, and apps to a new device"</string>
   <string name="user_manual">User guide</string>
   <string name="user_name">Enter Apple ID</string>
   <string name="user_name_null">"Apple ID can't be empty"</string>
-  <string name="video">Video</string>
+  <string name="video">Vidéo</string>
   <string name="view_password_description">Show password</string>
   <string name="web_sso_login_fail">You need to sign in again</string>
   <string name="web_sso_login_message">Signing in…</string>
@@ -590,11 +590,11 @@ audio, video, documents, and apps to a new device"</string>
   <string name="xiaomi_mobile">Mi Mobile</string>
   <string name="xiaomi_update_sdk_bytes_unit">"%1$s o"</string>
   <string name="xiaomi_update_sdk_connect_download_manager_fail">Connect Download Manager failed, please check the Download Manager state in the Application Management.</string>
-  <string name="xiaomi_update_sdk_dialog_message">"Introducing version %1$s
-Size: %2$s"</string>
-  <string name="xiaomi_update_sdk_dialog_message_diff">"Introducing version %1$s
-Delta update size: %2$s"</string>
-  <string name="xiaomi_update_sdk_dialog_title">%1$s update!</string>
+  <string name="xiaomi_update_sdk_dialog_message">"Présentation de la version %1$s
+Taille: %2$s"</string>
+  <string name="xiaomi_update_sdk_dialog_message_diff">"Présentation de la version %1$s
+Taille de mise à jour Delta: %2$s"</string>
+  <string name="xiaomi_update_sdk_dialog_title">%1$s mises à jour !</string>
   <string name="xiaomi_update_sdk_external_storage_unavailable">Storage unavailable, please check the SD card.</string>
   <string name="xiaomi_update_sdk_kilobytes_unit">"%1$s Ko"</string>
   <string name="xiaomi_update_sdk_megabytes_unit">"%1$s Mo"</string>
