@@ -11,6 +11,7 @@
 * Version : Xiaomi EU MIUI 12 Android Q Bêta
 * Contact : (pms.pr4100@gmail.com)
 * Paypal : https://www.paypal.me/pmspr4100
+* Telegram : https://t.me/Miui12French
 
 ## Améliorations
 * Des mises à jour quotidiennes sont effectuées
