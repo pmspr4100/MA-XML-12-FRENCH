@@ -35,6 +35,7 @@ Voir la politique de confidentialité du clavier sélectionné."</string>
   <string name="other_settings_enhanced_lockscreen_summary">"Recevez des images et des histoires sélectionnées sur votre écran de verrouillage tous les jours. Conditions générales d'utilisation s'appliquent."</string>
   <string name="other_settings_enhanced_lockscreen_summary_index">"Conditions générales d'utilisation"</string>
   <string name="back">Retour</string>
+  <string name="backup_introduction">You can use this app to back up and restore items on your device.</string>
   <string name="next">Suivant</string>
   <string name="skip_underline">Ignorer cette étape</string>
   <string name="sim_dectection_next">Continuer</string>
@@ -108,6 +109,8 @@ Désactiver les annonces personnalisées de toute façon ?"</string>
   <string name="permission_account">Accédez aux comptes sur votre appareil :</string>
   <string name="permission_account_introduction">Pour se connecter avec le compte Mi</string>
   <string name="permission_application_package_introduction">"Pour accéder au stockage afin d'analyser et de scanner les paquets d'installation"</string>
+  <string name="permission_backup">Accessing storage</string>
+  <string name="permission_backup_introduction">For accessing and saving backups on your device</string>
   <string name="permission_call_records">"Accès à l'historique des appels :"</string>
   <string name="permission_call_records_introduction">"Pour accéder à l'historique des appels afin d'afficher les postes bloqués"</string>
   <string name="permission_call_state_introduction">"Pour accéder à l'état du téléphone, enregistrer les appels et mettre en pause les enregistrements pendant les appels entrants"</string>
@@ -154,7 +157,8 @@ Désactiver les annonces personnalisées de toute façon ?"</string>
   <string name="security_mobile_account_introduction">"Pour l'ouverture de session et la gestion des comptes système"</string>
   <string name="service_agreement">"J'ai lu et accepté les termes et conditions."</string>
   <string name="service_name_album">Galerie</string>
-  <string name="service_name_application_package">"Installateur de l'emballage"</string>
+  <string name="service_name_application_package">Package installateur</string>
+  <string name="service_name_backup">Backups</string>
   <string name="service_name_calculator">Calculateur</string>
   <string name="service_name_camera">Appareil photo</string>
   <string name="service_name_carrier">Déclaration sur les services des transporteurs</string>

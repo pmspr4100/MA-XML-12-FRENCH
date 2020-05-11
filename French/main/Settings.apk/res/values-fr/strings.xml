@@ -141,7 +141,7 @@ Toutes les applications ne prennent pas en charge ce paramètre."</string>
   <string name="freeform_guide_slide_up_to_close_title">Fermer les fenêtres flottantes</string>
   <string name="freeform_vedio_description">"·Maintenez enfoncée, puis tirez vers le bas une notification pour l'ouvrir dans une fenêtre flottante.
 · Appuyez sur \"Fenêtres flottantes\" dans Récents pour sélectionner des applications."</string>
-  <string name="gps_description_global">Plusieurs systèmes de navigation par satellite (%s) sont pris en charge</string>
+  <string name="gps_description_global">Les appareils Xiaomi sont compatibles avec plusieurs systèmes de navigation, notamment GPS, NavIC, BeiDou, GLONASS et Galileo.</string>
   <string name="micloud_service_summary">"Synchronisez la liste des applications, sauvegardez les paramètres système et la disposition de l'écran d'accueil"</string>
   <string name="micloud_service_title">Xiaomi Cloud</string>
   <string name="miui_accessibility_asr_summary">"Transcrire l'audio et enregistrer du texte"</string>
@@ -184,7 +184,7 @@ Continuez pour accéder à des paramètres supplémentaires."</string>
   <string name="phone_backup_title">Appareil mobile</string>
   <string name="privacy_protection">Protection de la vie privée</string>
   <string name="regional_screen_shot">"Capture d'écran partielle"</string>
-  <string name="restore_oaid_positive_step">Réinitialiser(%1$d)</string>
+  <string name="restore_oaid_positive_step">Réinitialiser (%1$d)</string>
   <string name="rgb_face_data_manage_delete_msg">Supprimer les données de visage 2D</string>
   <string name="sos_phone_call_privacy_dialog_message">"Pour appeler vos contacts d'urgence et lire l'enregistrement SOS, cette application a besoin des permissions suivantes:
 • Passer des appels
@@ -1106,7 +1106,7 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
   <string name="allow_lights_title">"Autoriser l'utilisation de la LED de notification"</string>
   <string name="allow_mock_location">Autoriser les simulations de localisations</string>
   <string name="allow_mock_location_summary">Autoriser les simulations de localisations</string>
-  <string name="allow_oaid_used">"Autoriser l'utilisation d'un identifiant d'appareil"</string>
+  <string name="allow_oaid_used">"Utiliser l'ID virtuel"</string>
   <string name="allow_oaid_used_desc">"Apps won't be able to access any ID unless you explicitly allow them to do that. Some personal recommendation features might not work properly when this feature is on."</string>
   <string name="allow_overlay_description">Autorisez cette application à se superposer aux autres applications que vous utilisez. Cette autorisation peut avoir un impact sur votre utilisation de ces dernières, ou modifier leur apparence ou leur comportement.</string>
   <string name="allow_sound_title">Autoriser le son</string>
@@ -1769,6 +1769,7 @@ Applications:
   <string name="bluetooth_opp_profile_summary_connected">Connecté au serveur de transfert de fichiers</string>
   <string name="bluetooth_opp_profile_summary_not_connected">Pas connecté au serveur de transfert de fichiers</string>
   <string name="bluetooth_opp_profile_summary_use_for">Utiliser pour les transferts de fichiers</string>
+  <string name="bluetooth_paired">Sauvegardé</string>
   <string name="bluetooth_paired_device_title">Vos appareils</string>
   <string name="bluetooth_pairing">Appairage en cours…</string>
   <string name="bluetooth_pairing_accept">Appairer</string>
@@ -5440,6 +5441,7 @@ Interface UT: %5$s"</string>
 
  Les données liées aux applications seront conservées."</string>
   <string name="reset_app_preferences_title">Réinitialiser les préférences ?</string>
+  <string name="reset_confirm_directory">"Remarque: Avant de restaurer des éléments, vérifiez si le dossier \"MIUI-Backup-AllBackup\" existe sur votre appareil mobile. Si ce n'est pas le cas, créez-le."</string>
   <string name="reset_dashboard_summary">"Vous pouvez réinitialiser le réseau, les applications ou l'appareil"</string>
   <string name="reset_dashboard_title">Options de réinitialisation</string>
   <string name="reset_esim_desc">"Supprimer toutes les cartes eSIM du téléphone. Vous devrez contacter votre opérateur pour télécharger à nouveau vos cartes eSIM. Cette opération n'annulera pas votre forfait mobile."</string>
@@ -5462,6 +5464,7 @@ Interface UT: %5$s"</string>
   <string name="reset_network_final_desc">"Réinitialiser tous les paramètres réseau maintenant ? Cela peut prendre plusieurs secondes. Vous ne pourrez pas inverser cette action"</string>
   <string name="reset_network_title">Réinitialiser le Wi-Fi, les réseaux cellulaires et le Bluetooth</string>
   <string name="reset_network_wifi">Wi-Fi</string>
+  <string name="reset_remove_data_hint">Tous les éléments répertoriés ci-dessus seront effacés définitivement. Sauvegardez tous les éléments importants sur votre ordinateur ou Xiaomi Cloud avant de continuer.</string>
   <string name="reset_second_space_passwd">Réinitialiser le mot de passe du deuxième espace</string>
   <string name="reset_second_space_passwd_cancel">Annuler</string>
   <string name="reset_second_space_passwd_confirm">Continuer</string>
@@ -5480,6 +5483,7 @@ Interface UT: %5$s"</string>
   <string name="restore_dialog_positive">Réinitialiser</string>
   <string name="restore_dialog_title">Attention</string>
   <string name="restore_oaid_content">Réinitialiser votre ID de périphérique actuel en créera un nouveau. Réinitialiser maintenant ?</string>
+  <string name="restore_oaid_dialog_content">Multiple apps are using your virtual ID. If you reset it now, a part of your app data might be lost or become unusable. Reset virtual ID anyway?</string>
   <string name="restore_oaid_positive">Réinitialiser</string>
   <string name="restore_oaid_title">"Réinitialisation de l'identifiant de l'appareil"</string>
   <string name="restr_pin_enter_admin_pin">"Saisir le code d'accès administrateur"</string>
