@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="doc_photo_adjust_section_title">Faites glisser pour ajuster</string>
+  <string name="doc_photo_cancel">Annuler</string>
+  <string name="doc_photo_confirm">Quitter</string>
   <string name="doc_photo_doc_photo_title">Modifier le document</string>
   <string name="doc_photo_enhance_bin">Noir et blanc</string>
   <string name="doc_photo_enhance_color">Renforcé</string>
-  <string name="doc_photo_enhance_none">Original</string>
+  <string name="doc_photo_enhance_none">Originale</string>
+  <string name="doc_photo_idcard_alert_msg">"Ignorer toutes les modifications et quitter l'éditeur ?"</string>
   <string name="doc_photo_idcard_emblem">Retour</string>
-  <string name="doc_photo_idcard_mode_title">ID card</string>
+  <string name="doc_photo_idcard_mode_title">"Carte d'identité"</string>
   <string name="doc_photo_idcard_portrait">Front</string>
   <string name="doc_photo_not_support">Impossible de modifier cette image en tant que document</string>
   <string name="doc_photo_view_effect">Aperçu</string>

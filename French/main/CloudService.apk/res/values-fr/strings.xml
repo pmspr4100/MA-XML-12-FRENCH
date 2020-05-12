@@ -177,6 +177,8 @@ Localisez et verrouillez votre appareil en cas de perte. "</string>
   <string name="micloud_space_soundrecorder_detail">Gérer les enregistrements stockés sur votre appareil</string>
   <string name="micloud_storage_full">Xiaomi Cloud est plein</string>
   <string name="micloud_web_discription_place_holder">Visitez %1$s à partir de votre ordinateur pour gérer vos données.</string>
+  <string name="micloud_wipe_data_confirm_label">Supprimer les éléments synchronisés de cet appareil ?</string>
+  <string name="micloud_wipe_data_confirm_title">Certains éléments des applications suivantes sont synchronisés avec Xiaomi Cloud. Vous pouvez les supprimer de cet appareil tout en les conservant dans le cloud.</string>
   <string name="micloud_warn_low_title">Bientôt plein</string>
   <string name="micloud_warn_low_sum">Votre Xiaomi Cloud est rempli à 90%.</string>
   <string name="micloud_warn_full_title">"Plus d'espace"</string>
@@ -375,7 +377,6 @@ sur votre compte Mi pour réactiver Xiaomi Cloud."</string>
   <string name="storage_manage_upgrade">Mettre à jour</string>
   <string name="soundrecorder_sync_only_in_wifi">Synchronisation en Wi-Fi uniquement</string>
   <string name="soundrecorder_sync_only_in_wifi_summary">"L'enregistreur n'utilisera pas de données mobiles pour télécharger ou uploader les enregistrements"</string>
-  <string name="micloud_wipe_data_confirm_label">Retirer les données de Xiaomi Cloud</string>
   <string name="micloud_wipe_data_retain">Conserver</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez pour rafraîchir</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
@@ -526,7 +527,6 @@ sur votre compte Mi pour réactiver Xiaomi Cloud."</string>
   <string name="find_device_service_title">"Localiser l'appareil"</string>
   <string name="finddevice_miservice_notification_content">Verrouillez votre appareil à distance en cas de perte</string>
   <string name="finddevice_miservice_notification_title">"Activer localiser l'appareil"</string>
-  <string name="micloud_wipe_data_confirm_title">Retirer les éléments synchronisés avec Xiaomi cloud sur le téléphone après la déconnexion ?</string>
   <string name="wipe_data_dialog_msg">Certains éléments %s ne sont pas synchronisés. Ils seront enregistrés sur votre appareil et ne seront pas supprimés.</string>
   <string name="micloud_manual_all_sync_off_summary">Restaurer les données synchronisées sur de nouveaux appareils en utilisant Xiaomi cloud</string>
   <string name="priv_dialog_finddevice_all_purpose_pad">"Bienvenue à Find device ! Vous pouvez utiliser ce service pour localiser, verrouiller ou effacer les données de votre appareil en cas de perte."</string>
