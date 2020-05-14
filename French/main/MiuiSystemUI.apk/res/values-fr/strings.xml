@@ -1503,7 +1503,12 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="quick_settings_cellular_detail_data_limit">%s limite</string>
   <string name="quick_settings_cellular_detail_data_usage">Utilisation des données</string>
   <string name="quick_settings_cellular_detail_data_used">%s utilisé</string>
-  <string name="quick_settings_cellular_detail_data_warning">%s avertissement</string>
+  <string name="quick_settings_cellular_detail_data_warning">%s attention</string>
+  <string name="quick_settings_cellular_detail_dialog_message_turnoff">"Les données cellulaires (WCDMA / LTE) seront désactivées. À moins d'utiliser le Wi-Fi, vous ne pourrez plus utiliser les applications qui nécessitent une connexion de données. L'envoi ou la réception de messages multimédias sera limité."</string>
+  <string name="quick_settings_cellular_detail_dialog_message_turnon">Les données cellulaires seront activées. La connexion aux réseaux cellulaires peut entraîner des frais supplémentaires en fonction de votre forfait opérateur.</string>
+  <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">Annuler</string>
+  <string name="quick_settings_cellular_detail_dialog_positive_button_ok">OK</string>
+  <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Désactiver</string>
   <string name="quick_settings_cellular_detail_over_limit">Limite dépassée</string>
   <string name="quick_settings_cellular_detail_remaining_data">Données restantes</string>
   <string name="quick_settings_cellular_detail_title">Données cellulaires</string>
