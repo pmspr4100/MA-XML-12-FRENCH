@@ -122,7 +122,7 @@ Toutes les applications ne prennent pas en charge ce paramètre."</string>
   <string name="dark_mode_contrast_hint">Ajustez les couleurs et diminuez le contraste automatiquement lorsque la luminosité est réduite</string>
   <string name="default_keyboard">Défaut</string>
   <string name="detail_question">Détails</string>
-  <string name="device_oaid_desc">"Au lieu de votre véritable identifiant, MIUI fournira un ID virtuel (OAID) aux applications tierces. Il empêche les applications de suivre votre comportement et vos préférences et protège votre vie privée."</string>
+  <string name="device_oaid_desc">"Au lieu de votre identifiant unique, MIUI fournira un ID virtuel (OAID) aux applications installées. Il empêche les applications de suivre votre comportement et vos préférences et protège votre vie privée."</string>
   <string name="device_oaid_title">ID virtuel</string>
   <string name="dialog_backup_title">"Mettre à jour les sauvegardes avant d'effectuer la réinitialisation d'usine ?"</string>
   <string name="dialog_speaker_auto_clean_button">"C'est compris"</string>
@@ -1107,7 +1107,7 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
   <string name="allow_mock_location">Autoriser les simulations de localisations</string>
   <string name="allow_mock_location_summary">Autoriser les simulations de localisations</string>
   <string name="allow_oaid_used">"Utiliser l'ID virtuel"</string>
-  <string name="allow_oaid_used_desc">"Apps won't be able to access any ID unless you explicitly allow them to do that. Some personal recommendation features might not work properly when this feature is on."</string>
+  <string name="allow_oaid_used_desc">"MIUI ne fournira pas d'ID virtuel (OAID) aux applications installées. Certaines fonctionnalités de recommandations personnelles peuvent ne pas fonctionner correctement à cause de cela."</string>
   <string name="allow_overlay_description">Autorisez cette application à se superposer aux autres applications que vous utilisez. Cette autorisation peut avoir un impact sur votre utilisation de ces dernières, ou modifier leur apparence ou leur comportement.</string>
   <string name="allow_sound_title">Autoriser le son</string>
   <string name="allow_vibrate_title">Autoriser les vibrations</string>
