@@ -31,7 +31,6 @@
   <string name="account_and_cloud">Compte</string>
   <string name="account_bind_secure_email_title">Ajouter un e-mail de secours</string>
   <string name="account_bind_secure_phone_title">Ajouter un n° de téléphone de secours</string>
-  <string name="account_check_in">签到</string>
   <string name="account_crop_user_avatar">Rogner la photo</string>
   <string name="account_empty_user_name">Entrez votre identifiant de compte Mi</string>
   <string name="account_error_all_space_user_name">"L'identifiant ne doit pas contenir que des espaces"</string>
@@ -106,7 +105,6 @@
   <string name="alert_frequency_duplicate">Cette fréquence existe déjà</string>
   <string name="alert_invalid_frequency">Fréquence incorrecte</string>
   <string name="alert_message_delete_station">Cette présélection sera effacée.</string>
-  <string name="all_comment">全部评论(%s条)</string>
   <string name="all_downloads">Tous les téléchargements</string>
   <string name="all_fileter">Tout</string>
   <string name="all_play">Tout lire</string>
@@ -150,8 +148,6 @@
   <string name="backup_empty_button">Aucune chanson sélectionnée</string>
   <string name="backup_immediate">Enregistrer</string>
   <string name="backup_song_title">Sélectionnez les chasons à enregistrer</string>
-  <string name="balance_detail">使用余额：%1$s听币</string>
-  <string name="balance_insufficiently">听币不足，请充值</string>
   <string name="being_disable_auto_payment">Arrêt…</string>
   <string name="being_enable_auto_payment">Démarrage…</string>
   <string name="bind_sign_in_title">Ajouter un compte Mi</string>
@@ -174,18 +170,10 @@
   <string name="channel_name_download">Download manager</string>
   <string name="channel_name_file">File scanning</string>
   <string name="channel_tip_text">More radio stations</string>
-  <string name="chapter_pay_explain">"1．1听币=1元人民币
-2．免费节目不扣费，已购节目会自动跳过
-3．数字音频作品购买成功后不可退回"</string>
-  <string name="chapter_pay_title">从%1$s开始购买</string>
   <string name="character_counter_content_description">Character limit exceeded %1$d of %2$d</string>
   <string name="chapter_count">(%1$s Episodes)</string>
   <string name="check_in_complete_text">Checked in</string>
-  <string name="check_in_get_coin">签到赠币</string>
-  <string name="check_in_get_more_coin">连续签到赠币更多</string>
   <string name="check_in_label_text">Check in to get membership</string>
-  <string name="check_in_remind">做任务赠币可抵扣现金哦</string>
-  <string name="check_in_success">签到成功</string>
   <string name="check_in_text">Check in</string>
   <string name="check_in_vip_card_label1">You checked in 7 days in a row</string>
   <string name="check_in_vip_card_label2">"Here's your membership!"</string>
@@ -209,20 +197,13 @@
   <string name="cloud_state_storage_full">Not enough phone storage, paused backup</string>
   <string name="cloud_welcome_message">Back up songs</string>
   <string name="cloud_welcome_summary">Back up your songs to Mi Cloud and listen to them on other devices</string>
-  <string name="collect_coin_message">可以进入帐号页收集赠币，赠币可以抵扣现金</string>
-  <string name="collect_coin_sure">去集赠币</string>
-  <string name="collect_coin_title">集赠币免费听</string>
   <string name="collect_diagnosis_log">Collect logs</string>
   <string name="collect_to_desktop">Add to Home screen</string>
   <string name="comment">Comment</string>
   <string name="comment_action_title">"%s's comment"</string>
-  <string name="comment_count">%s条评论</string>
   <string name="comment_delete_hint">Deleted successfully</string>
-  <string name="comment_empty">这些歌，唱着你心里怎样的故事？</string>
   <string name="comment_input_empty">"Can't add empty comments."</string>
   <string name="comment_input_hint">Enter comment</string>
-  <string name="comment_list_title">全部评论</string>
-  <string name="comment_trend_title">精彩评论</string>
   <string name="confirm">OK</string>
   <string name="confirm_activate_email">Verified</string>
   <string name="confirm_bundled_phone_dialog_title">Confirm associated phone number</string>
@@ -254,7 +235,6 @@
   <string name="data_usage_warning">Data usage</string>
   <string name="data_usage_warning_summary">Using your mobile data connection to stream high quality music may increase your data usage charges.</string>
   <string name="date_format_str">dd-MM-yyyy</string>
-  <string name="day_mode">日间模式</string>
   <string name="default_songtab_name">Playlist categories</string>
   <string name="delete">Supprimer</string>
   <string name="delete_comment_failed">"Couldn't delete comment"</string>
@@ -418,8 +398,6 @@ Send this code to the supervisor."</string>
   <string name="feed_guide_tip">Enjoy your customization</string>
   <string name="feed_header_tip">Your Customization</string>
   <string name="feedback">Feedback</string>
-  <string name="feedback_toast">"小米收音机的反馈通道为小米社区
-即将为你跳转到小米社区"</string>
   <string name="file_not_found">"File doesn't exist"</string>
   <string name="filter_by_duration">By length</string>
   <string name="filter_by_duration_max">%d mins</string>
@@ -439,7 +417,6 @@ Send this code to the supervisor."</string>
   <string name="fm_download_fm_count">Has downloaded %1$d sets</string>
   <string name="fm_has_turned_off">Radio FM désactivée</string>
   <string name="fm_headline">News</string>
-  <string name="fm_headline_title">今日精选</string>
   <string name="fm_history">Playback history</string>
   <string name="fm_local_album_count">%1$s Chapter</string>
   <string name="fm_local_not_listening">Not listening</string>
@@ -452,7 +429,6 @@ Send this code to the supervisor."</string>
   <string name="fmradio_clear_confirm_msg">Toutes les pré-sélections vont être effacées.</string>
   <string name="follow">Follow</string>
   <string name="followed">Following</string>
-  <string name="font_family">miui</string>
   <string name="for_diagnosis_usage_only">Logs are used only for diagnostics.</string>
   <string name="format_unsupported_or_corrupted">"This format isn't supported or the file is corrupted"</string>
   <string name="fragment_title_artist_album">Albums</string>
@@ -498,9 +474,6 @@ Send this code to the supervisor."</string>
   <string name="group_other">Autres</string>
   <string name="guide_jump">Jump</string>
   <string name="handle_later">Not now</string>
-  <string name="headline_shortcut_confirm">好的</string>
-  <string name="headline_shortcut_message">添加听头条到桌面快捷方式,热门新闻一键触达!</string>
-  <string name="headline_shortcut_title">听头条快捷入口</string>
   <string name="higher_quality_music">High quality audio</string>
   <string name="hint_frequency">Fréquence: %1$s ~ %2$s</string>
   <string name="hint_label">Nom</string>
@@ -561,7 +534,6 @@ Send this code to the supervisor."</string>
   <string name="login_tip">Not signed in</string>
   <string name="login_tips">Sign in to get relevant recommendations</string>
   <string name="logout_account">Sign out</string>
-  <string name="look_more">查看更多</string>
   <string name="lrc_search_failed">"Couldn't find lyrics"</string>
   <string name="lrc_searching">Searching…</string>
   <string name="lyric_open_other_connect">Download lyrics using mobile network</string>
@@ -640,7 +612,6 @@ Send this code to the supervisor."</string>
   <string name="network_request_error">"Can't connect to the network"</string>
   <string name="network_settings_error">"Can't connect to the network"</string>
   <string name="never_subscribe_radio">Are you sure never favor this fm?</string>
-  <string name="new_comment">最新评论(%s条)</string>
   <string name="new_frequency">Nouvelle fréquence</string>
   <string name="new_search_instant_title">Search：%1$s</string>
   <string name="next_station">Station suivante</string>
@@ -648,7 +619,6 @@ Send this code to the supervisor."</string>
   <string name="nick_name">Nickname</string>
   <string name="no_album_info">No album info</string>
   <string name="no_artist_info">No artist info</string>
-  <string name="no_comment">抢沙发</string>
   <string name="no_copyright_song_hint_text">"This song isn't available due to copyright issues."</string>
   <string name="no_copyright_song_recommend_hint_text">It’s better to try this one</string>
   <string name="no_downloads">No downloads</string>
@@ -768,7 +738,7 @@ Send this code to the supervisor."</string>
   <string name="play_mode_single">Single Mode</string>
   <string name="play_next">Play next</string>
   <string name="play_song_continue">Continue playing</string>
-  <string name="played_progress">Progress%1$s%%</string>
+  <string name="played_progress">Progress %1$s%%</string>
   <string name="playlist_empty">No playlists found.</string>
   <string name="playlist_type_album">Albums</string>
   <string name="playlist_type_artist">Artist</string>
@@ -895,11 +865,7 @@ Send this code to the supervisor."</string>
   <string name="share_image_error">"Couldn't share image due to a download error"</string>
   <string name="share_text_list">"Playlist from Mi Music: "</string>
   <string name="share_text_song">"Song in Mi Music: "</string>
-  <string name="shortcut_cancel">我再想想</string>
-  <string name="shortcut_confirm">好的</string>
-  <string name="shortcut_message">将收音机图标移动到桌面,海量电台内容一触即达</string>
   <string name="shortcut_name">Mi Music stations</string>
-  <string name="shortcut_title">移动到桌面</string>
   <string name="show_download_manager">Downloads</string>
   <string name="show_more">Show %s more</string>
   <string name="shuffle_music">Shuffle playback</string>
