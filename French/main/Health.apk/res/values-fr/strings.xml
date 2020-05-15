@@ -27,9 +27,9 @@
   <string name="abc_shareactionprovider_share_with">Partager avec</string>
   <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
   <string name="abc_toolbar_collapse_description">Réduire</string>
-  <string name="abnormal">Abnormal</string>
-  <string name="achieve_goals">goal achieved</string>
-  <string name="achieve_stand_goals">Reach a standing goal</string>
+  <string name="abnormal">Anormal</string>
+  <string name="achieve_goals">objectif atteint</string>
+  <string name="achieve_stand_goals">Atteindre un objectif permanent</string>
   <string name="actionbar_button_up_description">Retour</string>
   <string name="activity_title_basic_info">Informations de base</string>
   <string name="activity_title_exercise">Activité</string>
@@ -44,8 +44,7 @@
   <string name="add_body_weight_button">Ajouter des données de poids</string>
   <string name="add_body_weight_record_button">Ajouter des données de poids</string>
   <string name="add_data_source">Ajout de sources de données</string>
-  <string name="add_data_source_description">"Ajoutez des données de santé générées par d'autres appareils à Mi Santé pour augmenter la précision des statistiques et obtenir des conseils de santé plus pertinents.
-Mi Santé prend en charge les appareils que vous avez déjà ajoutés dans l'application Mi Home. Si vous ne trouvez pas l'appareil que vous souhaitez ajouter, vérifiez d'abord si vous l'avez déjà ajouté dans Mi Home."</string>
+  <string name="add_data_source_description">"Ajoutez des données de santé générées par d'autres appareils à Xiaomi Health pour augmenter la précision des statistiques et obtenir des conseils de santé plus pertinents.."</string>
   <string name="add_data_source_login_and_open_sync">Connectez-vous à votre compte Mi et activez la synchronisation avec le cloud pour pouvoir ajouter des sources de données.</string>
   <string name="add_data_source_open_sync">Activez la synchronisation avec le cloud pour pouvoir ajouter des sources de données.</string>
   <string name="add_data_source_support_step">"Cet appareil ne génère pas de données de nombre de pas. Vous pouvez essayer de passer à d'autres sources de données."</string>
@@ -306,14 +305,14 @@ You can select a different data source in More &gt; Data sources."</string>
   <string name="guide_exit">Quitter Xiaomi Santé</string>
   <string name="guide_exit_description">"Nous ne pouvons pas fournir de services aux personnes qui n'ont pas encore 14 ans. Assurez-vous que vous utilisez cet appareil avec la permission de votre tuteur légal. Appuyez sur le bouton ci-dessous pour quitter l'application."</string>
   <string name="guide_exit_title">"Vous pouvez commencer à utiliser Xiaomi Santé à partir de l'âge de 14 ans"</string>
-  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">tirer pour actualisé</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshed">actualisation terminé</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshing">actualisation</string>
-  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Relâcher pour actualisé</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_nodata">aucune données</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_none">ne fais pas ça</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh">actualisation</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">échec</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez pour actualiser</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualisation…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Relâchez pour actualiser</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"C'est tout pour le moment"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"C'est tout pour le moment"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chargement…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Impossible de charger les éléments"</string>
   <string name="per_time_minutes1">" par minute"</string>
   <string name="sleep_deep_light_no_data">Pas encore de données ici</string>
   <string name="sleep_deep_light_no_data_improvement">"Couldn't detect sleep phases. We're improving our algorithms. Stay tuned!"</string>
@@ -687,6 +686,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
   <string name="saturday">Samedi</string>
   <string name="saturday_short">Sam</string>
   <string name="saturday_shortest">S</string>
+  <string name="save">Sauver</string>
   <string name="search_menu_title">Rechercher</string>
   <string name="sedentary_detail_title">"S'assoir trop longtemps nuit à la santé"</string>
   <string name="sedentary_enhance_remind">Vibrer aussi</string>
@@ -721,7 +721,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
   <string name="sleep_deep_light_analysis">Sommeil léger et sommeil profond</string>
   <string name="sleep_deep_light_close_tip">"L'analyse du sommeil profond est désactivée"</string>
   <string name="sleep_detection_enable">Analyser le cycle de sommeil</string>
-  <string name="sleep_detection_feedback">"Retour d'informations"</string>
+  <string name="sleep_detection_feedback">"Retour d'information"</string>
   <string name="sleep_detection_guide_four_description">Sleep tracking will consume around 1% of your battery daily.</string>
   <string name="sleep_detection_guide_four_high_power_description">Make sure your device is sufficiently charged before you go to bed. Low battery may interrupt sleep tracking.</string>
   <string name="sleep_detection_guide_four_high_power_title">Keep your device charged</string>
@@ -788,7 +788,7 @@ sommeil entier"</string>
   <string name="sleep_service_background_running">Service de suivi du sommeil est en marche en arrière plan</string>
   <string name="sleep_setting_title">Paramètres de veille</string>
   <string name="sleep_snore_audio_auto">Record snoring and talking automatically</string>
-  <string name="sleep_snore_audio_auto_desc">Xiaomi Health can record snoring and talking automatically based om your bedtime schedule. The recording will stop when you get up. To protect your privacy, all recorded files will be saved locally on your device using a built-in algorithm.</string>
+  <string name="sleep_snore_audio_auto_desc">"Xiaomi Santé peut enregistrer le ronflement et parler automatiquement en fonction de votre horaire de coucher. L'enregistrement s'arrête lorsque vous vous levez."</string>
   <string name="sleep_snore_audio_close_desc">You can turn this feature off in the Settings anytime.</string>
   <string name="sleep_snore_audio_enable">Automatic detection is on</string>
   <string name="sleep_snore_audio_enable_desc">Your snoring and talking will be recorded automatically when you go to sleep.</string>
@@ -919,7 +919,7 @@ sommeil entier"</string>
   <string name="sync_status_in_progress">Syncing…</string>
   <string name="sync_status_network_failure">"Couldn't sync. Connect to the network and try again."</string>
   <string name="sync_status_never_done">Not synced</string>
-  <string name="sync_status_oauth_error">Data source synchronization failed, please reauthorize</string>
+  <string name="sync_status_oauth_error">"Impossible de synchroniser les données. Accordez d'abord les permissions requises."</string>
   <string name="tb_audio_progress_bar">Audio playback bar</string>
   <string name="tb_card_on_using_list">Added</string>
   <string name="tb_click_finish_stand">Unfinished standing for nearly 1 hour, click to finish standing</string>
@@ -1004,6 +1004,7 @@ sommeil entier"</string>
   <string name="tb_month_dialog_go_today">Selected today</string>
   <string name="tb_month_dialog_select_date">Selected %1$s</string>
   <string name="tb_month_dialog_select_date_with_snore" formatted="false">Selected %1$s, %s</string>
+  <string name="tb_multiple_selecte_all">Tout sélectionner</string>
   <string name="tb_not_add_list">Not added</string>
   <string name="tb_pause_detection">Pause</string>
   <string name="tb_picker_day">Selected day: %1$d. Swipe vertically to select day.</string>
@@ -1032,8 +1033,9 @@ sommeil entier"</string>
   <string name="tb_stand_day_column_click">%1$s-%2$s has completed standing, from%3$s</string>
   <string name="tb_stand_day_ring">Today,%1$s have been accumulated to complete standing, the goal is to complete standing in 12 hours</string>
   <string name="tb_stand_wm_column_chart">%1$s-%2$s，Statistics of standing completion, drag left and right to change the time range, click on the column to view details</string>
-  <string name="tb_stand_wm_column_click">%1$s，stand%2$d，%3$s</string>
-  <string name="tb_user_account_signed">Mi Account: %1$s.</string>
+  <string name="tb_stand_wm_column_click">%1$s. Stand up breaks: %2$d. %3$s.</string>
+  <string name="tb_unmultiple_selecte_all">Unselect all</string>
+  <string name="tb_user_account_signed">Compte Mi: %1$s.</string>
   <string name="tb_user_account_unsigned">Tap to sign in to Mi Account</string>
   <string name="tb_user_sleep_card_info">Daily sleep goal: %1$s.</string>
   <string name="tb_user_sleep_target_btn">Change sleep goal</string>
