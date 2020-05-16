@@ -42,8 +42,8 @@
   <string name="new_local_detail_description">"Note:
 %1$d. Copiez les sauvegardes sur votre ordinateur pour éviter la perte de données. %2$s.
 %3$d. Les sauvegardes seront enregistrées dans MIUI-Backup-AllBackup."</string>
-  <string name="new_local_tab_backup">Sauvegarder sur un appareil mobile</string>
-  <string name="new_local_tab_restore">"Restaurer à partir d'un appareil mobile"</string>
+  <string name="new_local_tab_backup">Sauvegarder</string>
+  <string name="new_local_tab_restore">Restaurer</string>
   <string name="new_low_storage_title">Espace de stockage insuffisant</string>
   <string name="new_more_settings_label">Paramètres additionnels</string>
   <string name="new_pc_backup_content1">%1$d. Ouvrir \"%2$s\".</string>
@@ -56,27 +56,27 @@
   <string name="new_pc_backup_summary4">Note: vous pouvez également copier des photos et des vidéos de DCIM.</string>
   <string name="new_pc_restore_content1">"%d. Connectez votre appareil mobile à l'ordinateur via un câble USB."</string>
   <string name="new_pc_restore_content2">%d. Copiez la sauvegarde de votre ordinateur vers MIUI-Backup-AllBackup.</string>
-  <string name="new_pc_restore_content3">%1$d. Ouvrir \"%2$s\" and select items to restore.</string>
+  <string name="new_pc_restore_content3">%1$d. Ouvrez \"%2$s\" et sélectionnez les éléments à restaurer.</string>
   <string name="new_pc_title">Copier les sauvegardes</string>
-  <string name="new_select_file">Audio, videos, and files</string>
-  <string name="new_select_message">SMS, contacts, and call history</string>
-  <string name="new_select_pic">Images</string>
-  <string name="new_select_system">Other system app data</string>
-  <string name="new_select_tencent">QQ and WeChat</string>
-  <string name="new_select_third">Third party apps and app data</string>
-  <string name="new_select_third_apk">Third party apps</string>
-  <string name="new_select_third_data">Third party app data</string>
-  <string name="new_tab_pc_backup">"Sauvegarder sur l'ordinateur"</string>
-  <string name="new_tab_pc_restore">"Restaurer depuis l'ordinateur"</string>
+  <string name="new_select_file">Les fichiers audio, vidéo, et autres</string>
+  <string name="new_select_message">"Les SMS, les contacts, et l'historique des appels"</string>
+  <string name="new_select_pic">Les images</string>
+  <string name="new_select_system">Les autres données des applications système</string>
+  <string name="new_select_tencent">QQ et WeChat</string>
+  <string name="new_select_third">Les applications tierces et leurs données</string>
+  <string name="new_select_third_apk">Les applications tierces</string>
+  <string name="new_select_third_data">Les données des applications tierces</string>
+  <string name="new_tab_pc_backup">Sauvegarder</string>
+  <string name="new_tab_pc_restore">Restaurer</string>
   <string name="new_task_finished">Terminé</string>
   <string name="new_usb_detail_description">"Note:
-%1$d. This method allows backing up third party apps and app data.
-%2$d. Make sure there's enough storage space on your USB drive to store backups."</string>
-  <string name="new_usb_disconnect_dialog_message">Connect a USB drive first.</string>
-  <string name="new_usb_disconnect_dialog_title">"Couldn't find USB drive"</string>
-  <string name="new_usb_select_data_no_space">Only %s of storage is available on your USB drive. Free up storage space.</string>
-  <string name="new_usb_tab_backup">Back up to USB drive</string>
-  <string name="new_usb_tab_restore">Restore from USB drive</string>
+%1$d. Cette méthode permet de sauvegarder les applications tierces et leurs données.
+%2$d. Soyez sûr d'avoir assez d'espace libre sur votre lecteur USB pour stocker les sauvegardes."</string>
+  <string name="new_usb_disconnect_dialog_message">"Branchez d'abord un lecteur USB."</string>
+  <string name="new_usb_disconnect_dialog_title">Lecteur USB introuvable</string>
+  <string name="new_usb_select_data_no_space">"Votre lecteur USB a seulement %s d'espace de stockage disponible. Veuillez libérer de l'espace."</string>
+  <string name="new_usb_tab_backup">Sauvegarder</string>
+  <string name="new_usb_tab_restore">Restaurer</string>
   <string name="not_set">Non défini</string>
   <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
   <string name="required_permissions">android.permission.READ_PHONE_STATE;android.permission.READ_CALL_LOG;android.permission.WRITE_CALL_LOG;android.permission.READ_CONTACTS;android.permission.WRITE_CONTACTS;android.permission.GET_ACCOUNTS;android.permission.ACCESS_COARSE_LOCATION;android.permission.READ_CALENDAR;android.permission.WRITE_CALENDAR;android.permission.READ_SMS;android.permission.CAMERA;android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;</string>
@@ -298,7 +298,7 @@ Taille de la mise à jour: %2$s"</string>
   <string name="reverse_all">Tout effacer</string>
   <string name="refresh">Actualiser</string>
   <string name="cloud_item_info_summary">" (Locale %1$s | Mi Cloud %2$s)"</string>
-  <string name="cloud_restore_guide">Pour restaurer les données utilisateur de %s, appuyez sur Restaurer</string>
+  <string name="cloud_restore_guide">Pour restaurer les données utilisateur de %s, appuyez sur \"Restaurer\"</string>
   <string name="import_from_xiaomi_account_hint1">"1.\u0009Téléchargez l'application Mi Talk et connectez-vous.
 \u0009http://www.miliao.com
 
@@ -485,7 +485,7 @@ Appuyer [Je suis le receveur] pour créer le QR code"</string>
   <string name="trans_operate_func_one">Méthode A</string>
   <string name="trans_operate_func_two">Méthode B</string>
   <string name="trans_operate_old_phone_tips1">"1. Installer l'application Mi Transfert sur votre ancien appareil
-2. Ouvrir l'application et appuyer sur Démarrer
+2. Ouvrir l'application et appuyer sur \"Démarrer\"
 3. Scanner le Code QR avec votre ancien appareil"</string>
   <string name="trans_operate_old_phone_tips2">"Allez dans Paramètres > Paramètres supplémentaires > Mi Transfert, appuyez sur [Je suis l'expéditeur]"</string>
   <string name="trans_operate_tip_for_other_android">Ouvrez Mi Transfert sur votre ancien téléphone, appuyez sur \"Démarrer\" et scannez le QR code ci-dessus.</string>
@@ -518,7 +518,7 @@ Libérez de l'espace de stockage ou ne transférez que des éléments importants
   <string name="button_quit">Quitter</string>
   <string name="soft_ap_creating">"Création d'un point d'accès…"</string>
   <string name="wait_link">"Ouvrez Mi Transfert sur l'ancien appareil,
-appuyez sur \ "Je suis un expéditeur \" et sélectionnez un point d'accès sans fil pour vous connecter.
+appuyez sur \"Je suis un expéditeur\" et sélectionnez un point d'accès sans fil pour vous connecter.
 Ne fermez pas la page avant que la connexion ne soit établie. "</string>
   <string name="old_way">"Vous pouvez également générer un QR code sur votre nouvel appareil et le numériser à l'aide de l'ancien."</string>
   <string name="soft_ap_create_failed">"Impossible de créer le point d'accès"</string>
@@ -560,9 +560,9 @@ pour télécharger et installer Mi Transfert."</string>
   <string name="trans_intro_desc_1">Sur un téléphone Mi, connectez-vous au Wi-Fi et appuyez sur \"Je suis le destinataire\". Sélectionnez votre appareil iOS, connectez-vous à iCloud et importez les données.</string>
   <string name="trans_intro_question_2">%d. Comment utiliser Mi Transfert pour transférer des données depuis un appareil Android ?</string>
   <string name="trans_intro_title_new">Sur un nouveau téléphone:</string>
-  <string name="trans_intro_desc_new">Appuyez sur \" Je suis le destinataire \". Un QR code sera généré.</string>
+  <string name="trans_intro_desc_new">Appuyez sur \"Je suis le destinataire\". Un QR code sera généré.</string>
   <string name="trans_intro_title_old">Sur un ancien téléphone:</string>
-  <string name="trans_intro_desc_old">"Appuyez sur \" Je suis l'expéditeur \". Scannez le QR code sur le nouveau téléphone, patientez jusqu'à ce que Mi Transfert détecte les fichiers à envoyer, puis appuyez sur \" Envoyer \"."</string>
+  <string name="trans_intro_desc_old">"Appuyez sur \"Je suis l'expéditeur\". Scannez le QR code sur le nouveau téléphone, patientez jusqu'à ce que Mi Transfert détecte les fichiers à envoyer, puis appuyez sur \"Envoyer\"."</string>
   <string name="trans_intro_desc_old_market">"Appuyez sur \"Démarrer\". Scannez le QR code sur le nouveau, patientez jusqu'à ce que Mi Transfert vous demande quels fichiers envoyer, et appuyez sur \"Envoyer\"."</string>
   <string name="trans_intro_question_10">"%d. Vous ne trouvez pas le point d'accès sur l'ancien appareil ?"</string>
   <string name="trans_intro_desc_10">Appuyez sur \"Connecter via le QR code\" sur le nouvel appareil et scannez le QR code pour établir la connexion.</string>
