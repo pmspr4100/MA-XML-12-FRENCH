@@ -29,7 +29,7 @@
   <string name="abc_toolbar_collapse_description">Réduire</string>
   <string name="about_app_name">À propos</string>
   <string name="actionbar_button_up_description">Retour</string>
-  <string name="apply_choosen_type_resource">Apply selected items</string>
+  <string name="apply_choosen_type_resource">Appliquer les éléments sélectionnés</string>
   <string name="apply_not_support_aod">"Always-on display isn't supported on this device"</string>
   <string name="apply_not_support_in_second_space">"Can't apply this item in Second space"</string>
   <string name="apply_not_support_maml_aod">"Can't combine Always-on display with themes on this device"</string>
@@ -64,10 +64,10 @@
   <string name="de_mix_dialog_title">Construisez votre thème</string>
   <string name="de_mix_mode_aod">Always-on display</string>
   <string name="de_mix_mode_aod_desc">Customize backgrounds and clock format</string>
-  <string name="de_mix_mode_desktop">Home screen</string>
-  <string name="de_mix_mode_desktop_desc">Wallpaper and clock</string>
-  <string name="de_mix_mode_global">System elements</string>
-  <string name="de_mix_mode_global_desc">Notification shade, Phone, Messaging, etc.</string>
+  <string name="de_mix_mode_desktop">"Écran d'accueil"</string>
+  <string name="de_mix_mode_desktop_desc">"Fond d'écran et horloge"</string>
+  <string name="de_mix_mode_global">Éléments du système</string>
+  <string name="de_mix_mode_global_desc">Barre de notification, téléphone, messagerie, etc.</string>
   <string name="de_mix_mode_icon">Icônes</string>
   <string name="de_mix_mode_icon_desc">"Icônes d'application"</string>
   <string name="de_mix_mode_lockscreen">Écran de verrouillage</string>
@@ -263,11 +263,11 @@ Tap here to sign in now."</string>
   <string name="solar_term_white_dews">White Dews</string>
   <string name="solar_term_winter_begins">Winter Begins</string>
   <string name="solar_term_winter_solstice">Winter Solstice</string>
-  <string name="sunday">Sunday</string>
-  <string name="sunday_short">Sun</string>
-  <string name="sunday_shortest">S</string>
+  <string name="sunday">Dimanche</string>
+  <string name="sunday_short">Dim</string>
+  <string name="sunday_shortest">D</string>
   <string name="super_wallpaper">"Super fonds d'écran"</string>
-  <string name="support_theme_store_des">Good themes are always created by talented designers. Our app contains a small amount of ads which allow us to support their work.</string>
+  <string name="support_theme_store_des">"Les bons thèmes sont toujours créés par des designers talentueux. Notre application contient une petite quantité d'annonces qui nous permettent de soutenir leur travail."</string>
   <string name="support_theme_store_supported">Merci pour votre soutien !</string>
   <string name="support_theme_store_title">Soutenez nos designers</string>
   <string name="system_aod_dialog_message">urn-on Always-on display in the Settings first.</string>
@@ -616,8 +616,6 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
   <string name="miuishare_timeline_title">"Trouvez votre prochain fond d'écran"</string>
   <string name="miuishare_title_more">Plus</string>
   <string name="miuishare_title_share">Partager</string>
-  <string name="miuishare_wechat_timeline_title">Moments WeChat</string>
-  <string name="miuishare_weibo_title">Weibo</string>
   <string name="mix_global_option">Général</string>
   <string name="mix_global_option_des">Panneau de notification, Téléphone, Messages et autres éléments du système. Décochez cette case pour utiliser les options par défaut.</string>
   <string name="mix_home_option_des">"Fond d'écran et horloge. Décochez cette case pour utiliser les options par défaut."</string>
@@ -922,7 +920,6 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
   <string name="the_picture_is_not_support">"L'image n'est pas prise en charge"</string>
   <string name="the_picture_is_too_small">"L'image est trop petite"</string>
   <string name="theme_apply_audio_dialog_item_alarm">Alarme</string>
-  <string name="theme_apply_audio_dialog_item_color_ring_back_tone">CRBT</string>
   <string name="theme_apply_audio_dialog_item_mms">Sonnerie de messagerie</string>
   <string name="theme_apply_audio_dialog_item_notification">Notification</string>
   <string name="theme_apply_audio_dialog_item_ringtone">Sonnerie</string>
@@ -991,7 +988,7 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
   <string name="theme_purchased_non_local">En ligne</string>
   <string name="theme_select_others">Parcourir</string>
   <string name="theme_setting">Paramètres</string>
-  <string name="theme_staggered_item_text">Recevoir des crédits Mi</string>
+  <string name="theme_staggered_item_text">Recevoir des Mi crédits</string>
   <string name="theme_user_agreement_allow">Accepter</string>
   <string name="theme_user_agreement_content1">"En utilisant ce programme, vous acceptez notre "</string>
   <string name="theme_user_agreement_content2">Accord utilisateur</string>
@@ -1029,14 +1026,14 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
   <string name="transparent_wallpaper_filter_setting">Applications individuelles</string>
   <string name="transparent_wallpaper_guide">Allez à Thèmes</string>
   <string name="transparent_wallpaper_guide_tip">"Vous pouvez sélectionner un fond d'écran transparent dans Thèmes dès maintenant."</string>
-  <string name="transparent_wallpaper_is_running_in_background">Transparent wallpaper is running in the background</string>
+  <string name="transparent_wallpaper_is_running_in_background">"Le fond d'écran transparent fonctionne en arrière-plan"</string>
   <string name="transparent_wallpaper_pref_summary">"Fonds d'écran avec une opacité de fond réduite"</string>
   <string name="transparent_wallpaper_white_wallpaper">Rendre le fond blanc</string>
   <string name="transparent_wallpaper_white_wallpaper_failed">"Impossible de rendre le fond blanc"</string>
   <string name="transparent_wallpaper_white_wallpaper_success">La couleur de fond est blanche maintenant</string>
   <string name="transparent_wallpaper_white_wallpaper_tip">Le papier peint transparent semble le meilleur sur fond blanc</string>
-  <string name="trial_count_empty">No more free items left for today. Come back tomorrow!</string>
-  <string name="trial_count_tip">Trial period ends in %1$s:%2$s:%3$s</string>
+  <string name="trial_count_empty">"Il ne reste plus d'articles gratuits pour aujourd'hui. Reviens demain !"</string>
+  <string name="trial_count_tip">"La période d'essai se termine dans %1$s:%2$s:%3$s"</string>
   <string name="trial_for_free">Essai gratuit</string>
   <string name="trial_get_failed_tip">Terminez en regardant la vidéo pour obtenir le thème.</string>
   <string name="trial_get_success_tip">"Félicitations ! Vous avez un essai gratuit de 3 jours."</string>
@@ -1067,7 +1064,7 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
   <string name="video_ad_uncomplete_tip_cancel">Annuler</string>
   <string name="video_ad_uncomplete_tip_continue">Continuer de regarder</string>
   <string name="video_audio_apply_success">Configuration de la vidéo avec son est un succès</string>
-  <string name="video_data_tips_message">Utiliser les données mobiles peut engendrer des frais additionels. Continuer quand même?</string>
+  <string name="video_data_tips_message">Utiliser les données mobiles peut engendrer des frais additionels. Continuer quand même ?</string>
   <string name="video_data_tips_title">"Alerte d'utilisation des données"</string>
   <string name="video_silence_apply_success">Configuration de la vidéo sans son est un succès</string>
   <string name="video_wallpaper_import">Appuyez pour ajouter des éléments</string>
@@ -1099,8 +1096,8 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
   <string name="wallpaper_loop_title">"Diaporama de fond d'écran"</string>
   <string name="wallpaper_loop_title_desk_wallpaper">"Diaporama de fond d'écran sur l'écran d'accueil"</string>
   <string name="wallpaper_loop_title_lock_walpaper">"Diaporama de fond d'écran sur l'écran de verrouillage"</string>
-  <string name="wallpaper_no_favorite">No items here yet.</string>
-  <string name="wallpaper_no_record">No items here yet.</string>
+  <string name="wallpaper_no_favorite">Aucun élément ici encore.</string>
+  <string name="wallpaper_no_record">Aucun élément ici encore.</string>
   <string name="wallpaper_online">"Fonds d'écran en ligne"</string>
   <string name="wallpaper_online_no_more">"C'est tout pour le moment"</string>
   <string name="wallpaper_online_tip">"Connectez-vous au réseau pour voir plus d'éléments"</string>
@@ -1118,13 +1115,13 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
   <string name="wechat_not_found">Installez WeChat en premier</string>
   <string name="wifi_check_cancel">Annuler</string>
   <string name="wifi_check_confirm">Confirmer</string>
-  <string name="wifi_check_message">Utiliser les données mobiles pour télécharger les mises à jour?</string>
+  <string name="wifi_check_message">Utiliser les données cellulaires pour télécharger les mises à jour ?</string>
   <string name="wifi_check_tip">Ne plus afficher</string>
   <string name="xiaoai_speech_not_installed_download">Télécharger</string>
   <string name="xiaoai_speech_not_installed_message">"Télécharger et installer l'assistant vocal Mi IA pour continuer."</string>
   <string name="xiaoai_speech_not_installed_title">"L'assistant vocal Mi IA n'est pas installé."</string>
   <string name="xiaomi_update_sdk_bytes_unit">%1$s o</string>
-  <string name="xiaomi_update_sdk_connect_download_manager_fail">"Échec de la connexion au gestionnaire de téléchargement. Veuillez vérifier l’état du gestionnaire de téléchargement dans Gestion des applications."</string>
+  <string name="xiaomi_update_sdk_connect_download_manager_fail">"Échec de la connexion au gestionnaire de téléchargement. Veuillez vérifier l’état du gestionnaire de téléchargement dans gestion des applications."</string>
   <string name="xiaomi_update_sdk_dialog_message">"Présentation de la version %1$s
 Taille: %2$s"</string>
   <string name="xiaomi_update_sdk_dialog_message_diff">"Présentation de la version %1$s
@@ -1133,6 +1130,6 @@ Taille de la mise à jour Delta: %2$s"</string>
   <string name="xiaomi_update_sdk_external_storage_unavailable">Mémoire indisponible, veuillez vérifier la carte SD.</string>
   <string name="xiaomi_update_sdk_kilobytes_unit">%1$s Ko</string>
   <string name="xiaomi_update_sdk_megabytes_unit">%1$s Mo</string>
-  <string name="v7_preference_off">OFF</string>
-  <string name="v7_preference_on">ON</string>
+  <string name="v7_preference_off">DÉSACTIVÉ</string>
+  <string name="v7_preference_on">ACTIVÉ</string>
 </resources>

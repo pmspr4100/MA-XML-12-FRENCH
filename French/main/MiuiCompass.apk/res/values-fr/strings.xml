@@ -48,7 +48,8 @@
   <string name="cancel">Annuler</string>
   <string name="compass_settings">Paramètres</string>
   <string name="copy">Copie</string>
-  <string name="dialog_body_no_network">Se connecter au Wi-Fi ou activer les données cellulaires.</string>
+  <string name="dialog_body_no_network">Connectez-vous au Wi-Fi ou activez les données cellulaires.</string>
+  <string name="dialog_body_no_network_global">Cconnectez-vous au Wi-Fi ou activez les données cellulaires.</string>
   <string name="dialog_calibrat_altitude">Étalonnage…</string>
   <string name="dialog_title_no_network">Impossible de se connecter au réseau</string>
   <string name="direction_east">E</string>
@@ -82,6 +83,14 @@
   <string name="location_south">S</string>
   <string name="location_west">O</string>
   <string name="longitude">LON</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez pour actualiser</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualisation…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Relâcher pour actualiser</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"C'est tout pour le moment"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"C'est tout pour le moment"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chargement…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Impossible de charger les éléments</string>
   <string name="mobiledata_alert_dialog_message">"Se connecter à internet pour étalonner l'altitude ?"</string>
   <string name="mobiledata_alert_dialog_title">"Avertissement de l'utilisation de données"</string>
   <string name="not_set">Non défini</string>

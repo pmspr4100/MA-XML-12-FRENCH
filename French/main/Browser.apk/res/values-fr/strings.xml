@@ -93,8 +93,8 @@
   <string name="ad_go_download">Download</string>
   <string name="ad_go_see">Plus</string>
   <string name="ad_look_detail">Details</string>
-  <string name="adblock_force_updating_rules_toast">Updating Ad blocker</string>
-  <string name="adblock_notification">%d ads blocked</string>
+  <string name="adblock_force_updating_rules_toast">Mise à jour du bloqueur de publicités</string>
+  <string name="adblock_notification">%d annonces bloquées</string>
   <string name="adblock_rules_not_updated_toast">"Couldn't update"</string>
   <string name="adblock_rules_updated_toast">Updated successfully</string>
   <string name="add_bookmark_group">Ajouter un groupe</string>
@@ -670,6 +670,14 @@ Remember that the files you download and the bookmarks you add will still be sav
   <string name="not_remind_again">Remember my choice</string>
   <string name="notif_install_successful">Download complete</string>
   <string name="notification_channel_name_local_push">Browser notifications</string>
+  <string name="action_menu_text_add_shortcut">Ajouter un raccourci</string>
+  <string name="no_memory_space">no memory space</string>
+  <string name="password_toggle_content_description">Afficher le mot de passe</string>
+  <string name="security_permission_message_location">"This app needs access to your location in order to provide location-based services. If you don't agree to grant such permissions, you won't be able to use some features of this app; however, its basic functionality will still be available to you. You can always restrict permissions or revoke your authorization in the Settings."</string>
+  <string name="security_permission_negative_btn_location">Annuler</string>
+  <string name="security_permission_positive_btn_location">Accepter</string>
+  <string name="security_permission_title_location">Allow access to your location</string>
+  <string name="wechat_not_installed">Wechat not installed</string>
   <string name="ok">OK</string>
   <string name="open_app_confirm_message">"Autoriser cette page à s'ouvrir %s ?"</string>
   <string name="open_cloud_sync">Activer la synchronisation avec le cloud</string>
@@ -707,7 +715,7 @@ Remember that the files you download and the bookmarks you add will still be sav
   <string name="pref_accessibility_url_shortcut_enter_summary">"Les combinaisons de lettres courantes peuvent être entrées en un clic dans la barre d'adresse"</string>
   <string name="pref_accessibility_url_shortcut_enter_title">"Entrée rapide d'URL"</string>
   <string name="pref_adblock_counts">%d bloqués</string>
-  <string name="pref_adblock_title">Ad blocker</string>
+  <string name="pref_adblock_title">Bloqueur de publicités</string>
   <string name="pref_advert_null">No items labelled as ads. Press and hold an item on the webpage to mark.</string>
   <string name="pref_auto_update_under_wifi">Automatic update package using Wi-Fi</string>
   <string name="pref_cancel_screen">Unblock</string>
