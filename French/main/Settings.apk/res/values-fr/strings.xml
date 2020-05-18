@@ -870,7 +870,7 @@ Allow this for all apps that want to scan?"</string>
   <string name="accessibility_description_state_stopped">Ce service ne fonctionne pas.</string>
   <string name="accessibility_disable_animations">Supprimer les animations</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Cette fonctionnalité est expérimentale et peut affecter les performances.</string>
-  <string name="accessibility_display_daltonizer_preference_title">Correction de couleur</string>
+  <string name="accessibility_display_daltonizer_preference_title">Correction des couleurs</string>
   <string name="accessibility_display_inversion_preference_subtitle">Peut affecter les performances</string>
   <string name="accessibility_display_inversion_preference_title">Inversion des couleurs</string>
   <string name="accessibility_enable">Accessibilité</string>
@@ -3594,8 +3594,8 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
   <string name="home_key">Accueil</string>
   <string name="home_title">"Écran d'accueil"</string>
   <string name="home_work_profile_not_supported">Non compatible avec les profils professionnels</string>
-  <string name="homepage_all_settings">All Settings</string>
-  <string name="homepage_condition_footer_content_description">Collapse</string>
+  <string name="homepage_all_settings">Tous les paramètres</string>
+  <string name="homepage_condition_footer_content_description">Réduire</string>
   <string name="homepage_personal_settings">Suggestions</string>
   <string name="how_backup_content">"Il existe 3 types de sauvegardes que vous pouvez créer : locales, cloud et USB.
 Sauvegardes locales :
@@ -5762,7 +5762,7 @@ Pour épingler l'écran:
   <string name="search_accelerometer_title">"Rotation automatique de l'écran;Rotation de l'écran;Orientation;Portrait;Paysage"</string>
   <string name="search_access_control">Paramètres de confidentialité;confidentialité de sécurité;Invité;Mode invité</string>
   <string name="search_accessibility_captioning_title">Sous-titre</string>
-  <string name="search_accessibility_display_daltonizer_preference_title">Correction de couleur;Couleur;Couleurs</string>
+  <string name="search_accessibility_display_daltonizer_preference_title">Correction des couleurs;Couleurs;Couleurs</string>
   <string name="search_accessibility_global_gesture_preference_title">"Widgets d'acessibilité;Accessibilité"</string>
   <string name="search_accessibility_long_press_timeout_preference_title">Délai de \"appuyer et maintenir\";Délai de \"appuyer et maintenir\";Appuyer et maintenir;Délai</string>
   <string name="search_accessibility_screen_magnification_title">"Gestes d'agrandissement;Agrandissement"</string>
@@ -5984,7 +5984,7 @@ Pour épingler l'écran:
   <string name="security_keyguard_category_name">Écran de verrouillage</string>
   <string name="security_password_category_name">"Verrouillage de l'écran"</string>
   <string name="security_passwords_title">Paramètres de confidentialité</string>
-  <string name="security_patch">Patch de sécurité</string>
+  <string name="security_patch">Mise à jour du correctif de sécurité Android</string>
   <string name="security_privacy_settings_title">Paramètres de confidentialité</string>
   <string name="security_relative">Sécurité</string>
   <string name="security_settings_billing_desc">Cette application peut engendrer des frais:</string>
@@ -6116,7 +6116,7 @@ Remarque: Vous ne pouvez pas utiliser votre empreinte digitale pour déverrouill
   <string name="setup_lock_settings_picker_title">Protégez votre téléphone</string>
   <string name="setup_password_back">Retour</string>
   <string name="setup_password_confirm">OK </string>
-  <string name="setup_wifi_nfc_tag">Créer un tag NFC pour Wi-Fi</string>
+  <string name="setup_wifi_nfc_tag">Créer un tag NFC pour le Wi-Fi</string>
   <string name="severe_threats_summary">Recevoir alertes pour menaces graves biens et personnes</string>
   <string name="severe_threats_title">Menaces graves</string>
   <string name="share_remote_bugreport_action">Partager</string>
@@ -6126,7 +6126,7 @@ Remarque: Vous ne pouvez pas utiliser votre empreinte digitale pour déverrouill
   <string name="sharing_remote_bugreport_dialog_message">Ce rapport de bug est en cours de partage avec votre administrateur informatique. Pour en savoir plus, contactez ce dernier.</string>
   <string name="short_summary_font_size">Agrandir ou réduire le texte</string>
   <string name="show_all_anrs">Afficher toutes les ANR</string>
-  <string name="show_all_anrs_summary">"Afficher le dialogue \" L'application ne répond pas \" pour les applications en arrière-plan"</string>
+  <string name="show_all_anrs_summary">"Afficher le dialogue \"L'application ne répond pas\" pour les applications en arrière-plan"</string>
   <string name="show_all_apps">"Afficher l'utilisation de l'appareil chargé"</string>
   <string name="show_background_processes">Afficher processus en cache</string>
   <string name="show_carrier_under_keyguard_title">"Afficher le nom de l'opérateur"</string>
@@ -6309,7 +6309,7 @@ Le code PIN est peut-être incorrect."</string>
   <string name="sms_change_default_no_previous_dialog_text">Utiliser %s comme application SMS ?</string>
   <string name="sms_delivered_sound_dialog_title">"Choisir un son d'accusé de réception"</string>
   <string name="sms_delivered_sound_title">Message délivré</string>
-  <string name="sms_messages_title">SMS</string>
+  <string name="sms_messages_title">Messages</string>
   <string name="sms_received_sound_dialog_title">Choisir un son pour les SMS reçus</string>
   <string name="sms_received_sound_title">Message reçu</string>
   <string name="sometimes_running">"Parfois en cours d'exécution (%s)"</string>

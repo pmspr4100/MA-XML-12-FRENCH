@@ -134,10 +134,10 @@
   <string name="na_main_card_ad_text">Find a plan that suits you</string>
   <string name="na_main_card_ad_title">Mi Fan card promotion</string>
   <string name="na_main_card_title_sim">"Card "</string>
-  <string name="na_text_checking">"Testing: "</string>
+  <string name="na_text_checking">"Essai: "</string>
   <string name="not_set">Non défini</string>
-  <string name="optional_permissions">Optional permissions</string>
-  <string name="optional_permissions_desc">"These permissions are required when you' re using additional features."</string>
+  <string name="optional_permissions">Permissions facultatives</string>
+  <string name="optional_permissions_desc">Ces permissions sont requises lorsque vous utilisez des fonctionnalités supplémentaires.</string>
   <string name="pc_battery_history_consumption_percent_title">Pourcentage de consommation électrique</string>
   <string name="pc_battery_history_idletime_title">En veille</string>
   <string name="pc_battery_history_item_chart">"Graphique de consommation d'énergie"</string>
@@ -1106,7 +1106,7 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
   <string name="reach_daily_limit_value_title">Limite quotidienne de données atteinte</string>
   <string name="reach_daily_limit_value_body">Réduisez votre consommation de données mobiles.</string>
   <string name="daily_limit_network_available_body">"Appuyez pour afficher les statistiques d'utilisation de données."</string>
-  <string name="daily_limit_over_message">Vous avez dépassé votre limite quotidienne de données mobiles.</string>
+  <string name="daily_limit_over_message">Vous avez dépassé votre limite quotidienne de données cellulaires.</string>
   <string name="three_percent_total_pkg">%s (3%% de données mensuelles)</string>
   <string name="five_percent_total_pkg">%s (5%% de données mensuelles)</string>
   <string name="ten_percent_total_pkg">%s (10%% de données mensuelles)</string>
@@ -1117,17 +1117,17 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
   <string name="lock_screen_warning_value">"Alerte d'utilisations de données"</string>
   <string name="pref_normal_traffic_limit">Lorsque le forfait de données a expiré</string>
   <string name="pref_over_traffic_limit">Lorsque vous dépassez votre forfait de données</string>
-  <string name="traffic_warning_purchase_title">"Avertissement de l'utilisation de données mobiles"</string>
+  <string name="traffic_warning_purchase_title">"Avertissement de l'utilisation de données cellulaires"</string>
   <string name="traffic_purchase_body">Appuyez pour recharger votre solde.</string>
   <string name="traffic_over_purchase_link">"Vous avez atteint la limite d'utilisation de données de votre forfait.&lt;br/>Si vous dépassez la limite d'utilisation de données de votre forfait, votre opérateur peut vous facturer des frais supplémentaires.&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>Appuyez pour recharger votre solde.&lt;/U>&lt;/font>"</string>
   <string name="more_settings">Plus</string>
   <string name="repair_loading_text">Chargement…</string>
-  <string name="network_diagnostics">Tester le réseau</string>
-  <string name="btn_start_diagnostic">Tester le réseau</string>
+  <string name="network_diagnostics">Test du réseau</string>
+  <string name="btn_start_diagnostic">Test du réseau</string>
   <string name="btn_stop_diagnostic">Arrêter</string>
   <string name="btn_finish_diagnostic">OK </string>
   <string name="connect_internet_by_usbshare">Internet partagé via USB</string>
-  <string name="connect_internet_by_mobiledata">Connexion aux données mobile</string>
+  <string name="connect_internet_by_mobiledata">Connexion aux données cellulaires</string>
   <string name="connect_internet_by_wifi">Wi-Fi</string>
   <string name="unable_connect_internet">Pas de connexion internet</string>
   <string name="enable_network">"Activer le réseau d'abord"</string>
@@ -1158,8 +1158,8 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
   <string name="app_behavior_callphone_single">Cette application a appelé</string>
   <string name="app_behavior_camera">%1s photos prises ou vidéos enregistrées</string>
   <string name="app_behavior_camera_single">Cette application a pris des photos ou enregistré des vidéos</string>
-  <string name="app_behavior_clipboard">%1s accessed or saved items to clipboard</string>
-  <string name="app_behavior_clipboard_bg">%1s accessed or saved items to clipboard in the background</string>
+  <string name="app_behavior_clipboard">%1s éléments consultés ou enregistrés dans le presse-papiers</string>
+  <string name="app_behavior_clipboard_bg">%1s éléments consultés ou enregistrés dans le presse-papiers en arrière-plan</string>
   <string name="app_behavior_clipboard_bg_single">Cette application a accédé ou enregistré des éléments dans le presse-papiers en arrière-plan</string>
   <string name="app_behavior_clipboard_single">Cette application a accédé ou enregistré des éléments dans le presse-papiers</string>
   <string name="app_behavior_contacts">%1s a accédé à vos contacts</string>
@@ -2324,7 +2324,7 @@ carte médicale"</string>
   <string name="permission_with_SMS_and_MMS">Permissions concernant les SMS et MMS</string>
   <string name="call_and_contact">Appels et contacts</string>
   <string name="permission_with_call_and_contact">"Permissions concernant les appels, les informations des contacts, et le journal d'appels."</string>
-  <string name="title_flow_rank">Utilisation des données mobiles</string>
+  <string name="title_flow_rank">Utilisation des données cellulaires</string>
   <string name="title_consume_power_rank">"Utilisation de l'alimentation de l'application"</string>
   <string name="title_dark_mode">"Certains éléments ne sont pas affichés correctement"</string>
   <string name="title_payment_protection">Les paiement sont sécurisés</string>

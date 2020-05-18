@@ -57,26 +57,26 @@
       <item>"Ce mois: "</item>
     </string-array>
     <string-array name="date_of_app_all">
-      <item>Hier (données mobiles)</item>
-      <item>"Aujourd'hui (données mobiles)"</item>
-      <item>Le mois dernier (données mobiles)</item>
-      <item>Ce mois (données mobiles)</item>
+      <item>Hier (données cellulaires)</item>
+      <item>"Aujourd'hui (données cellulaires)"</item>
+      <item>Le mois dernier (données cellulaires)</item>
+      <item>Ce mois (données cellulaires)</item>
       <item>Hier (Wi-Fi)</item>
       <item>"Aujourd'hui (Wi-Fi)"</item>
       <item>Le mois dernier (Wi-Fi)</item>
       <item>Ce mois (Wi-Fi)</item>
     </string-array>
     <string-array name="traffic_type">
-      <item>"Utilisation des données mobile "</item>
+      <item>"Utilisation des données cellulaires "</item>
       <item>"Utilisation du Wi-Fi "</item>
     </string-array>
     <string-array name="mi_service_traffic_type">
-      <item>"Utilisation des données mobile "</item>
+      <item>"Utilisation des données cellulaires "</item>
       <item>"Utilisation du Wi-Fi "</item>
     </string-array>
     <string-array name="over_limit_traffic_waring_style">
       <item>"Afficher l'alerte"</item>
-      <item>Avertir et désactiver les données mobiles</item>
+      <item>Avertir et désactiver les données cellulaires</item>
     </string-array>
     <string-array name="roaming_network_type">
       <item>Toujours</item>
