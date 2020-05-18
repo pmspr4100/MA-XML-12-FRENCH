@@ -180,6 +180,11 @@
   <string name="character_counter_content_description">Character limit exceeded %1$d of %2$d</string>
   <string name="check_security_tip_privacy_policy">Privacy Policy</string>
   <string name="check_security_tip_user_agreement">User Agreement</string>
+  <string name="clear_clipboard">Clear</string>
+  <string name="clear_input_history_confirm">Are you sure you want to completely clear your history?</string>
+  <string name="clear_input_history_confirm_bt_text">Confirm</string>
+  <string name="clipboard">Clipboard</string>
+  <string name="clear_clipboard_confirm">Are you sure you want to completely clear your clipboard?</string>
   <string name="clear_history">Clear history</string>
   <string name="close_ads_choice_no">Autoriser</string>
   <string name="close_ads_choice_yes">Bloquer</string>
@@ -369,6 +374,36 @@ pour voir les onglets ouverts dans les autres appareils."</string>
   <string name="exit_browser_confirmation">Appuyez à nouveau pour revenir au bureau</string>
   <string name="exit_browser_warning">Quitter le navigateur maintenant ?</string>
   <string name="exit_fullscreen">Quitter le mode plein écran</string>
+  <string name="exo_controls_fastforward_description">Fast forward</string>
+  <string name="exo_controls_fullscreen_description">Fullscreen mode</string>
+  <string name="exo_controls_next_description">Next track</string>
+  <string name="exo_controls_pause_description">Pause</string>
+  <string name="exo_controls_play_description">Play</string>
+  <string name="exo_controls_previous_description">Previous track</string>
+  <string name="exo_controls_repeat_all_description">Repeat all</string>
+  <string name="exo_controls_repeat_off_description">Repeat none</string>
+  <string name="exo_controls_repeat_one_description">Repeat one</string>
+  <string name="exo_controls_rewind_description">Rewind</string>
+  <string name="exo_controls_shuffle_description">Shuffle</string>
+  <string name="exo_controls_stop_description">Stop</string>
+  <string name="exo_download_completed">Download completed</string>
+  <string name="exo_download_description">Download</string>
+  <string name="exo_download_downloading">Downloading</string>
+  <string name="exo_download_failed">Download failed</string>
+  <string name="exo_download_notification_channel_name">Downloads</string>
+  <string name="exo_download_removing">Removing downloads</string>
+  <string name="exo_track_bitrate">%1$.2f Mbps</string>
+  <string name="exo_track_mono">Mono</string>
+  <string name="exo_track_selection_auto">Auto</string>
+  <string name="exo_track_selection_none">None</string>
+  <string name="exo_track_selection_title_audio">Audio</string>
+  <string name="exo_track_selection_title_text">Text</string>
+  <string name="exo_track_selection_title_video">Video</string>
+  <string name="exo_track_stereo">Stereo</string>
+  <string name="exo_track_surround">Surround sound</string>
+  <string name="exo_track_surround_5_point_1">5.1 surround sound</string>
+  <string name="exo_track_surround_7_point_1">7.1 surround sound</string>
+  <string name="exo_track_unknown">Unknown</string>
   <string name="expand_article">View full article</string>
   <string name="expand_button_title">Advanced</string>
   <string name="favorite">Add to favorites</string>
@@ -420,6 +455,7 @@ pour voir les onglets ouverts dans les autres appareils."</string>
   <string name="hot_word_item_mark_recommend_text">RECOMMEND</string>
   <string name="hot_words_item_ads_mark">Ads</string>
   <string name="ignore_add_pwa_dialog_today">"Don't show today"</string>
+  <string name="incognito">Incognito</string>
   <string name="info_flow_description">Info channel</string>
   <string name="isReplacePage">File already exists, replace?</string>
   <string name="js_disable_confirm_title">Disable JavaScript?</string>
@@ -660,6 +696,7 @@ Remember that the files you download and the bookmarks you add will still be sav
   <string name="network_show_wifi_setting_tip_dialog_title">Wi-Fi network is available</string>
   <string name="next_button_label">Suivant</string>
   <string name="no_app_open_document">No app was found to handle this action</string>
+  <string name="no_content">No content yet</string>
   <string name="no_space_alert_cancel">Later</string>
   <string name="no_space_alert_clean">"Libérer de l'espace"</string>
   <string name="no_space_alert_text">Not enough storage space</string>
@@ -865,6 +902,7 @@ Remember that the files you download and the bookmarks you add will still be sav
   <string name="search_button_text">Go</string>
   <string name="search_description">Barre de recherche</string>
   <string name="search_hint">Recherche</string>
+  <string name="search_history">Search history</string>
   <string name="search_keyword_browser">Navigateur</string>
   <string name="search_label">Navigateur</string>
   <string name="search_menu_title">Recherche</string>
@@ -938,6 +976,25 @@ Navigateur a besoin de se connecter à internet pour fonctionner normalement. Vo
   <string name="snapshot_successed">Ouvrir Signets / Historiques  -&gt; LOCAL pour voir la page</string>
   <string name="soft_toast_see_view">Voir</string>
   <string name="speech_engine_not_install">"La synthèse vocale n'est pas installée"</string>
+  <string name="srl_component_falsify" formatted="false">"%s falsify area,
+ Represents the height[%.1fdp] of drag at run time,
+ It does not show anything."</string>
+  <string name="srl_content_empty">The content view in SmartRefreshLayout is empty. Do you forget to add it in xml layout file?</string>
+  <string name="srl_footer_failed">Load Failed</string>
+  <string name="srl_footer_finish">Load Success</string>
+  <string name="srl_footer_loading">Loading…</string>
+  <string name="srl_footer_nothing">No More Data</string>
+  <string name="srl_footer_pulling">Pull Up To Load More</string>
+  <string name="srl_footer_refreshing">Wait For Refreshing…</string>
+  <string name="srl_footer_release">Release To Load More</string>
+  <string name="srl_header_failed">Refresh Failed</string>
+  <string name="srl_header_finish">Refresh Success</string>
+  <string name="srl_header_loading">Wait For Loading…</string>
+  <string name="srl_header_pulling">Pull Down To Refresh</string>
+  <string name="srl_header_refreshing">Refreshing…</string>
+  <string name="srl_header_release">Release To Refresh</string>
+  <string name="srl_header_secondary">Release To Second Floor</string>
+  <string name="srl_header_update">"'Last Update' M-d HH:mm"</string>
   <string name="ssl_bad_clock_date_settings">Régler la date</string>
   <string name="ssl_bad_clock_warning" formatted="false">"Une connexion privée à %s1 ne peut pas être établie car la date et l'heure de votre appareil (%s2) sont incorrectes."</string>
   <string name="ssl_certificate">Certificat de sécurité</string>
