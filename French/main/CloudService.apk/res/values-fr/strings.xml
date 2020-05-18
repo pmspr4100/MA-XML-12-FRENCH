@@ -294,6 +294,7 @@ sur votre compte Mi pour réactiver Xiaomi Cloud."</string>
   <string name="micloud_confusion_account_name">Compte :</string>
   <string name="input_password_hint">Saisir le mot de passe</string>
   <string name="forget_password">Mot de passe oublié</string>
+  <string name="help_and_feedback">Aide et commentaires</string>
   <string name="micloud_sync_alert_dialog_title">Utiliser Xiaomi Cloud</string>
   <string name="micloud_sync_alert_dialog_message">Synchronisez vos photos, contacts, notes et plus encore sur tous vos appareils.</string>
   <string name="micloud_sync_alert_dialog_negative">Annuler</string>
@@ -315,9 +316,10 @@ sur votre compte Mi pour réactiver Xiaomi Cloud."</string>
   <string name="micloud_notif_content_dirty_data">Détails</string>
   <string name="micloud_notif_title_privacy_reopen_failed">"Impossible d'activer les services de Xiaomi Cloud"</string>
   <string name="micloud_notif_content_privacy_reopen_failed">Afficher les détails</string>
-  <string name="micloud_find_device_guide_title">Connectez-vous à &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> pour localiser, verrouiller ou effacer votre appareil. Cela pourrait vous aider à trouver votre appareil en cas de perte.</string>
   <string name="micloud_find_device_sms_alert">Un message SMS sortant peut être nécessaire pour activer ce service. Votre opérateur vous facturera ce message. Lorsque vous changez votre carte SIM, un message sera envoyé automatiquement pour réactiver cette fonctionnalité.</string>
   <string name="micloud_find_device_guide_button">"Activer Localiser l'appareil"</string>
+  <string name="micloud_find_device_guide_desc_pad">"Sign in to &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; to locate, lock, or erase your device. This might help you to find your device in case it's lost. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;[See Help]&lt;/a&gt;"</string>
+  <string name="micloud_find_device_guide_desc_phone">"Sign in to &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; to locate, lock, or erase your device. This might help you to find your device in case it's lost. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;[See Help]&lt;/a&gt;"</string>
   <string name="micloud_find_device_guide_progress">"Activation de Localiser l'appareil…"</string>
   <string name="micloud_find_device_verify_button">"Réactiver Localiser l'appareil"</string>
   <string name="micloud_find_device_verify_progress">"Réactivation de Localiser l'appareil…"</string>
