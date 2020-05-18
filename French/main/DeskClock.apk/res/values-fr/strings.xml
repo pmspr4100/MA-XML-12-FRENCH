@@ -30,6 +30,7 @@
   <string name="search_menu_title">Rechercher</string>
   <string name="add_alarm">Ajouter une alarme</string>
   <string name="add_clock">Ajouter une horloge</string>
+  <string name="add_common_timer">Ajouter un timer</string>
   <string name="add_timezone_title">Ajouter un fuseau horaire</string>
   <string name="agree">Accepter</string>
   <string name="alarm_alert_alert_silenced">Alarmes silencieuses après %1$s.</string>
@@ -103,6 +104,7 @@
   <string name="close">Fermer</string>
   <string name="close_alarm">Désactiver</string>
   <string name="common_settings">Paramètres</string>
+  <string name="common_timer_selector">Select timer</string>
   <string name="confirm">Confirmer</string>
   <string name="confirm_abort">Abandonner</string>
   <string name="content_desc_keep_screen">"Bouton \"Garder l'écran allumé\""</string>
@@ -197,6 +199,14 @@
   <string name="menu_item_dock_settings">Paramètre du dock</string>
   <string name="menu_item_sort_by_gmt_offset">Trier par date</string>
   <string name="menu_item_sort_by_name">Trier par nom</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez pour actualisé</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualisation…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Relâcher pour actualiser</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"C'est tout pour le moment"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"C'est tout pour le moment"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chargement…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Impossible de charger les éléments</string>
   <string name="module_dialog_negative">"Je ne suis pas d'accord"</string>
   <string name="module_dialog_neutral">Compris</string>
   <string name="module_dialog_positive">Accepter</string>
@@ -332,6 +342,8 @@
   <string name="start">Départ</string>
   <string name="start_up">Départ</string>
   <string name="stopwatch_lap_empty_text">Aucun tour</string>
+  <string name="stopwatch_reset_notification">Stopwatch was reset</string>
+  <string name="stopwatch_running_notification">Stopwatch</string>
   <string name="stopwatch_title">Chronomètre</string>
   <string name="system_permission_phone_desc">Pour identifier différents appareils</string>
   <string name="system_permission_purpose">Alarmes, chronomètre, minuteries, horloge mondiale</string>
@@ -398,6 +410,7 @@
   <string name="wake_up_alert_desc">"Jouer le son de l'alarme au réveil"</string>
   <string name="wake_up_ringtone">"Sonnerie d'alarme"</string>
   <string name="wake_up_time">Réveillez-vous</string>
+  <string name="white_noise_selector">Select audio</string>
   <string name="workday_alarm_clock">Alarme pour les jours de travail</string>
   <string name="worldclock_empty_text">"Pas d'horloge"</string>
   <string name="worldclock_input_hint_text">Recherche de pays ou de ville</string>
