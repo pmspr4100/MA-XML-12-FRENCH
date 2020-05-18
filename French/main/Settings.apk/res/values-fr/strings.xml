@@ -2738,7 +2738,7 @@ Mettre à jour les paramètres pour :
   <string name="device_camera">Appareil photo</string>
   <string name="device_cellular_network">Recherche de réseaux cellulaires</string>
   <string name="device_complete_parameters">Caractéristiques</string>
-  <string name="device_cpu">Version processeur</string>
+  <string name="device_cpu">Processeur</string>
   <string name="device_cpu10_info">"Deca-Core "</string>
   <string name="device_cpu2_info">"Dual-Core "</string>
   <string name="device_cpu4_info">"Quad-Core "</string>
@@ -2759,7 +2759,7 @@ Mettre à jour les paramètres pour :
   <string name="device_info_label">"Informations sur l'appareil"</string>
   <string name="device_info_not_available">Non disponible</string>
   <string name="device_info_settings">État du téléphone</string>
-  <string name="device_internal_memory">"Stockage interne "</string>
+  <string name="device_internal_memory">Stockage interne</string>
   <string name="device_memory">Mémoire vive</string>
   <string name="device_miui_more">Afficher plus</string>
   <string name="device_miui_version">Version MIUI</string>
@@ -2784,7 +2784,7 @@ Mettre à jour les paramètres pour :
   <string name="device_status_activity_title">Informations</string>
   <string name="device_status_summary">Numéro de téléphone, signal, etc.</string>
   <string name="device_theme">"Thème de l'appareil"</string>
-  <string name="device_total_memory">Stockage interne</string>
+  <string name="device_total_memory"></string>
   <string name="device_usage_list_summary">"Utilisation de l'appareil depuis la charge complète"</string>
   <string name="devices_title">Appareils</string>
   <string name="dial_application_title">Composeur</string>
@@ -3341,7 +3341,7 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
   <string name="firewall_temp_rule_reason">%2$s a restreint la connexion internet pour %1$s</string>
   <string name="firewall_wifi">Wi-Fi</string>
   <string name="firewall_wifi_dialog_message">"L'application installée ne sera plus en mesure de se connecter à internet via Wi-Fi lorsque cet interrupteur est désactivé."</string>
-  <string name="firmware_version">Version Android</string>
+  <string name="firmware_version">"Version d'Android"</string>
   <string name="flash_drive_backup_restore">Lecteur USB</string>
   <string name="flash_drive_backup_restore_summary">Branchez un lecteur USB</string>
   <string name="floating_window_switch_label">Activer des fenêtres flottantes</string>
@@ -3783,7 +3783,7 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
   <string name="keywords_all_apps">applis, télécharger, applications, système</string>
   <string name="keywords_ambient_display">notification reçue</string>
   <string name="keywords_ambient_display_screen">"affichage en mode veille, affichage de l'écran de verrouillage"</string>
-  <string name="keywords_android_version">Patch de sécurité, version du modem, version de noyau</string>
+  <string name="keywords_android_version">niveau du correctif de sécurité, version du modem, version du noyau</string>
   <string name="keywords_app">Mémoire vive</string>
   <string name="keywords_app_permissions">applications, autorisations, sécurité</string>
   <string name="keywords_assist_gesture_launch">geste</string>
@@ -5757,7 +5757,7 @@ Pour épingler l'écran:
   <string name="se_wallet_ese">Mi Pay et carte de transport NFC</string>
   <string name="se_wallet_hce">Utiliser le portefeuille HCE</string>
   <string name="se_wallet_uicc">Utiliser le portefeuille de la carte SIM %1$s</string>
-  <string name="search_about_settings">À propos du téléphone;Modèle;Version Android;Version MIUI;Processeur;Mémoire vive;Mémoire interne;Mémoire;Stockage;Stockage interne;Version du modem;Version du noyau;Numéro de build;Mon appareil;Téléphone;Appareil</string>
+  <string name="search_about_settings">"À propos du téléphone;Modèle;Version d'Android;Version de MIUI;Processeur;Mémoire vive;Mémoire interne;Mémoire;Stockage;Stockage interne;Version du modem;Version du noyau;Numéro de build;Mon appareil;Téléphone;Appareil"</string>
   <string name="search_accelerometer_title">"Rotation automatique de l'écran;Rotation de l'écran;Orientation;Portrait;Paysage"</string>
   <string name="search_access_control">Paramètres de confidentialité;confidentialité de sécurité;Invité;Mode invité</string>
   <string name="search_accessibility_captioning_title">Sous-titre</string>
@@ -5983,7 +5983,7 @@ Pour épingler l'écran:
   <string name="security_keyguard_category_name">Écran de verrouillage</string>
   <string name="security_password_category_name">"Verrouillage de l'écran"</string>
   <string name="security_passwords_title">Paramètres de confidentialité</string>
-  <string name="security_patch">Patch de sécurité</string>
+  <string name="security_patch">Niveau du correctif de sécurité</string>
   <string name="security_privacy_settings_title">Paramètres de confidentialité</string>
   <string name="security_relative">Sécurité</string>
   <string name="security_settings_billing_desc">Cette application peut engendrer des frais:</string>
