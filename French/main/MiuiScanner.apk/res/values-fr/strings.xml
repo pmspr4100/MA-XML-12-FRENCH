@@ -72,6 +72,7 @@
   <string name="continue_access_web_url">Aller sur le site Web</string>
   <string name="continue_to_website">Aller sur le site Web</string>
   <string name="continue_waiting">Faire attendre</string>
+  <string name="copy">Copy</string>
   <string name="copy_text">Copier le texte</string>
   <string name="copy_text_success">Texte copié</string>
   <string name="crop_cancel_description">Annuler</string>
@@ -85,6 +86,7 @@
   <string name="document_grayscale">Niveaux de gris</string>
   <string name="document_grayscale_tip_msg">Conversion en niveaux de gris…</string>
   <string name="document_ocr">OCR</string>
+  <string name="document_ocr_fail">"Couldn't recognize text. Rotate the image so it matches your device's orientation and try again."</string>
   <string name="document_ocr_result_copy">Copier le texte</string>
   <string name="document_ocr_result_save">Sauvegarder dans Notes</string>
   <string name="document_ocr_result_title">Photo du document</string>
@@ -94,6 +96,7 @@
   <string name="document_rectify">Ajuster</string>
   <string name="document_rectify_tip_msg">Ajustement…</string>
   <string name="document_save_succeed_tip">Document enregistré dans %1$s</string>
+  <string name="document_spin">Rotate</string>
   <string name="document_title">Prendre une photo du document</string>
   <string name="document_top_panel_title">Photo du document</string>
   <string name="done">Ok</string>
@@ -110,6 +113,7 @@
   <string name="error_null_cursor">"Oups, quelque chose s'est mal passé !"</string>
   <string name="error_permissions">"Le Scanneur n'a pas les autorisations requises pour fonctionner normalement. Allez à Paramètres et vérifiez les autorisations pour continuer."</string>
   <string name="error_server_error">"Une erreur de serveur s'est produite."</string>
+  <string name="expand_button_title">Advanced</string>
   <string name="experience_new_feature_tips">"Connectez-vous à votre compte Mi pour demander l'autorisation d'utiliser la version bêta. Vous pourrez utiliser la version bêta après avoir examiné votre candidature. La version bêta pourrait contenir des bugs."</string>
   <string name="experience_new_features">Version Bêta</string>
   <string name="experiential_version_of_the_prompt_content">Connectez-vous à votre compte Mi pour accéder à Scanner version Bêta. Connectez vous maintenant ?</string>
@@ -119,6 +123,7 @@
   <string name="feedback">"Retour d'information"</string>
   <string name="feedback_description_camera_access">"Impossible de se connecter à l'appareil photo"</string>
   <string name="feedback_description_save_photo">Impossible de sauvegarder la photo ou vidéo</string>
+  <string name="feedback_phone">Contact info (optional)</string>
   <string name="feedback_title">"Retour d'information"</string>
   <string name="flight_mode_connecting_to_wifi">Activer manuellement le Wi-Fi lorsque le mode avion est activé</string>
   <string name="food_identification_fail_tips">"Scannez les fruits, les légumes et d’autres aliments. Cette fonctionnalité fonctionne également avec des images."</string>
@@ -135,6 +140,8 @@
   <string name="got_it">Compris</string>
   <string name="gps">Navigation</string>
   <string name="history">Historique</string>
+  <string name="history_empty">No items here yet</string>
+  <string name="if_to_open_milogo_scanning">Recognize Xiaomi logo</string>
   <string name="grant_permission">Donner la permission</string>
   <string name="import_contact">Importer le contact</string>
   <string name="impunity_declaration_content">"Le scanner doit utiliser votre appareil photo et traiter les images que vous prenez lorsque vous utilisez l'application. N'utilisez pas Scanner pour prendre des photos des objets contenant vos informations personnelles. En appuyant sur \"Accepter\", vous acceptez notre &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"http://privacy.mi.com/all/%1$s\" style=\"color:#ff32b4ff;\"&gt;Politique de confidentialité&lt;/a&gt;&lt;/font&gt; et permettant à scanner de se connecter à internet."</string>
@@ -176,6 +183,7 @@
   <string name="no_support_to_translate_type">Cette langue nest pas prise en charge</string>
   <string name="not_insert_contact">"Impossible d'ajouter le contact"</string>
   <string name="not_recommend_access_web_url">Aller quand même</string>
+  <string name="not_set">Not set</string>
   <string name="note">Remarque: </string>
   <string name="open_url">"Ouvrir l'URL"</string>
   <string name="password_toggle_content_description">Afficher le mot de passe</string>
@@ -267,6 +275,8 @@
   <string name="url_is_safety">Ce site Web est sécurisé</string>
   <string name="url_is_unknown">Impossible de vérifier si ce site Web est sécurisé</string>
   <string name="url_is_unsafety">"Ce site Web n'est pas sécurisé"</string>
+  <string name="v7_preference_off">OFF</string>
+  <string name="v7_preference_on">ON</string>
   <string name="vender_info_translation_kingsoft">Propulsé par Kingsoft</string>
   <string name="web">Site internet:</string>
   <string name="website_details">Site internet:</string>
@@ -322,13 +332,22 @@
   <string name="language_value_spanish">espagnol</string>
   <string name="logistics">Express delivery</string>
   <string name="mishop">Mi Store</string>
-  <string name="now_state">"Current status: "</string>
-  <string name="once">Only once</string>
-  <string name="please_try_again_later">Wait a minute or two and try again</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez pour rafraîchir</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualisation…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Relâcher pour rafraîchir</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"C'est tout pour le moment"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"C'est tout pour le moment"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chargement…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Impossible de charger les éléments</string>
+  <string name="now_state">"Statut actuel: "</string>
+  <string name="once">Juste une fois</string>
+  <string name="please_try_again_later">Attendez une minute ou deux et réessayez</string>
   <string name="pref_camera_focusmode_default">continuous-picture</string>
   <string name="pref_camera_jpeg_quality_fine">fine</string>
   <string name="pref_camera_jpeg_quality_normal">normal</string>
   <string name="pref_camera_jpeg_quality_superfine">superfine</string>
+  <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
   <string name="queryNum">Check order</string>
   <string name="query_faile">"Order status and details haven't been synced yet. Check your order manually."</string>
   <string name="query_inai">Let Mi AI help you</string>
