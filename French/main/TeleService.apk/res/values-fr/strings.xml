@@ -70,6 +70,7 @@
   <string name="app_name">Préférence</string>
   <string name="fiveg_sa_switch_warning_toast">Please reboot the phone to take effect.</string>
   <string name="msim_setting_default_data">Données</string>
+  <string name="msim_setting_default_data_description">Données SIM %d</string>
   <string name="msim_setting_default_voice">Appels</string>
   <string name="msim_setting_install_virtual_sim_install">Install</string>
   <string name="msim_setting_install_virtual_sim_message">Install Mi Carrier Services to buy SIM cards and manage your carrier plan.</string>
@@ -916,6 +917,7 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="incall_error_missing_voicemail_number">Numéro de messagerie vocale inconnu.</string>
   <string name="incall_error_no_phone_number_supplied">Pour passer un appel veuillez entrer un numéro valide.</string>
   <string name="incall_error_out_of_service">"Le réseau cellulaire n'est pas disponible."</string>
+  <string name="incall_error_out_of_service_kr">"Appel d'urgence disponible uniquement."</string>
   <string name="incall_error_out_of_service_wfc">"Le réseau cellulaire n'est pas disponible. Connectez vous à un réseau sans fil pour passer un appel."</string>
   <string name="incall_error_outgoing_call_failed">"Impossible de passer un appel"</string>
   <string name="incall_error_power_off">Désactivez le mode avion pour passer un appel.</string>
@@ -930,6 +932,7 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="incall_error_supp_service_transfer">"Impossible de transférer l'appel."</string>
   <string name="incall_error_supp_service_unknown">"Le service n'est pas supporté"</string>
   <string name="incall_error_wfc_only_no_wireless_network">Connectez-vous à un réseau sans fil pour passer un appel.</string>
+  <string name="incall_number_anonymous">Numéro inconnu</string>
   <string name="incall_status_dialed_mmi">Démarrage de la séquence MMI…</string>
   <string name="install_other_apps">"Installation d'applis inconnues"</string>
   <string name="international_disable">Les informations internationales sont désactivées</string>
@@ -1104,7 +1107,7 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="mobile_data_activate_roaming_plan">"Aucun forfait d'itinérance"</string>
   <string name="mobile_data_activate_roaming_plan_summary">"Ajoutez un forfait d'itinérance avec %s"</string>
   <string name="mobile_data_always_on">Données cellulaires toujours actives</string>
-  <string name="mobile_data_always_on_summary">"Maintenir les données cellulaires à l'état actif, même lorsque le Wi‑Fi est actif (pour changer rapidement de réseau)"</string>
+  <string name="mobile_data_always_on_summary">"Maintenir les données cellulaires à l'état actif, même lorsque le Wi-Fi est actif (pour changer rapidement de réseau)"</string>
   <string name="mobile_data_settings_summary">Accédez aux données en utilisant le réseau cellulaires</string>
   <string name="mobile_data_settings_title">Données cellulaires</string>
   <string name="mobile_data_status_no_plan_subtext">Pas de donnée cellulaires disponible</string>
@@ -1160,7 +1163,7 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="msim_setting_sim_info_editor_title">Éditer les infos de la carte SIM</string>
   <string name="msim_sim_lock">Verrouillé</string>
   <string name="msim_sim_radio_off">Désactivé</string>
-  <string name="msim_switch_data_conn_toast">Cartes SIM échangées. Le type de réseau a changé. Voir les informations supplémentaires des cartes SIM et les réseaux mobiles dans le menu Paramètres.</string>
+  <string name="msim_switch_data_conn_toast">Cartes SIM échangées. Le type de réseau a changé. Voir les informations supplémentaires des cartes SIM et les réseaux cellualires dans le menu Paramètres.</string>
   <string name="msim_switch_data_conn_toast_for_h2xct">"L'emplacement SIM 2 prend uniquement en charge les réseaux GSM. Le type de réseau préféré pour cet emplacement a été changé à 2G seulement."</string>
   <string name="multi_category_disable">Les catégories multiples sont désactivées</string>
   <string name="multi_category_enable">Les catégories multiples sont activées</string>
@@ -1188,10 +1191,10 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="network_settings_auto_select_title">Choisir un réseau manuellement ?</string>
   <string name="network_settings_automatically_option">Sélectionner automatiquement le réseau préféré (%s)</string>
   <string name="network_settings_confirm_message">Votre appareil va être déconnecté du réseau pendant la recherche de réseaux disponibles.</string>
-  <string name="network_settings_data_connected_change">Les données mobiles seront désactivées automatiquement pendant que votre appareil recherchera des réseaux disponibles.</string>
+  <string name="network_settings_data_connected_change">Les données cellualires seront désactivées automatiquement pendant que votre appareil recherchera des réseaux disponibles.</string>
   <string name="network_settings_duringcall">Opération non autorisée durant un appel</string>
   <string name="network_settings_forbidden">%s (interdit)</string>
-  <string name="network_settings_information">Désactiver les données mobiles ?</string>
+  <string name="network_settings_information">Désactiver les données cellualires ?</string>
   <string name="network_settings_next">Suivant</string>
   <string name="network_settings_query_failed_message">Impossible de rechercher les réseaux cellulaires.</string>
   <string name="network_settings_select_automatic_hint">"Impossible de s'enregistrer sur le réseau sélectionné.
@@ -1224,8 +1227,8 @@ Le réseau préféré sera utilisé."</string>
   <string name="notification_demo_version_title">Ceci est un appareil de démonstration</string>
   <string name="notification_network_selection_text">Réseau sélectionné %s non disponible</string>
   <string name="notification_network_selection_title">Aucun service</string>
-  <string name="notification_switch_auto_text">"Looks like you're back. Switched to local networks."</string>
-  <string name="notification_switch_auto_title">Mobile networks</string>
+  <string name="notification_switch_auto_text">"On dirait que tu es de retour. Passé aux réseaux locaux."</string>
+  <string name="notification_switch_auto_title">Réseaux mobiles</string>
   <string name="notification_voicemail_no_vm_number">Numéro de messagerie vocale inconnu</string>
   <string name="notification_voicemail_text_format">Composer le %s</string>
   <string name="notification_voicemail_title">Nouveau message vocal</string>
@@ -1474,6 +1477,7 @@ Votre téléphone sera automatiquement bloqué en cas de nouvel échec"</string>
   <string name="private_dns_mode_provider_failure">Impossible de se connecter</string>
   <string name="private_dns_mode_provider_hostname_hint">"Saisissez le nom d'hôte du fournisseur DNS"</string>
   <string name="private_num">Numéro privé</string>
+  <string name="private_num_kr">"Identification de l'appelant restreinte"</string>
   <string name="progress_dialog_exiting_ecm">"Mode de rappel d'urgence en cours de désactivation"</string>
   <string name="prompt_to_suggest_no_call_service_notification_content">"Impossible d'émettre et de recevoir des appels. Le service VoLTE est maintenant désactivé pour votre carte SIM (China Telecom)."</string>
   <string name="prompt_to_suggest_no_call_service_notification_content2">"Impossible d'émettre et de recevoir des appels. Le service VoLTE est maintenant désactivé pour SIM %d (China Telecom)."</string>
@@ -1550,7 +1554,7 @@ Votre carte SIM sera bloquée en cas de nouvel échec."</string>
   <string name="reverting_settings">Rétablissement des paramètres…</string>
   <string name="ringtone_silent">Aucune</string>
   <string name="ringtone_unknown">Sonnerie inconnue</string>
-  <string name="roaming">Déconnecté du réseau de données mobiles</string>
+  <string name="roaming">Déconnecté du réseau de données cellulaires</string>
   <string name="roaming_alert_title">"Autoriser l'itinérance des données ?"</string>
   <string name="roaming_check_price_warning">Vérifiez le tarif auprès de votre opérateur.</string>
   <string name="roaming_customer_service_message_kr">Tap to contact roaming customer support (+82-2-2190-0901). This call is free abroad.</string>
@@ -1816,8 +1820,6 @@ Prochaine période dans %2$d jours (%3$s)"</string>
   <string name="time_end">" À "</string>
   <string name="time_end_hour">time end hour</string>
   <string name="time_end_minute">time end minute</string>
-  <string name="time_formate_am">AM</string>
-  <string name="time_formate_pm">PM</string>
   <string name="time_next_day">" jour suivant "</string>
   <string name="time_start">" De "</string>
   <string name="time_start_hour">time start hour</string>

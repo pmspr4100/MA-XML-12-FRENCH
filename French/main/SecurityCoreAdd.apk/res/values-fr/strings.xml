@@ -376,8 +376,8 @@ pour y accéder depuis l'Écran de verrouillage"</string>
   <string name="other">Autre</string>
   <string name="airspace_users_full">"Impossible de créer plus d'espace"</string>
   <string name="same_qr_code_title">%s existe déjà</string>
-  <string name="same_qr_code_des">"Il se peut que cet Espace de travail existe déjà. Vous pouvez utiliser les raccourcis de l'Écran d'accueil et du Panneau de notifications pour y aller. Aller maintenant ?"</string>
-  <string name="same_qr_code_enter_space">"Aller à l'Espace de travail"</string>
+  <string name="same_qr_code_des">"Il se peut que cet espace de travail existe déjà. Vous pouvez utiliser les raccourcis de l'Écran d'accueil et du Panneau de notifications pour y aller. Aller maintenant ?"</string>
+  <string name="same_qr_code_enter_space">"Aller à l'espace de travail"</string>
   <string name="same_qr_code_create_space">En créer un autre</string>
   <string name="not_support_air_space">"Cette fonctionnalité n'est pas encore prise en charge sur votre téléphone"</string>
   <string name="loading">Chargement…</string>
@@ -386,9 +386,6 @@ pour y accéder depuis l'Écran de verrouillage"</string>
   <string name="function_not_support">Non pris en charge sur cet appareil</string>
   <string name="can_not_switch_when_calling">"Impossible de basculer entre les espaces lors d'un appel"</string>
   <string name="can_not_delete_when_calling">"Impossible de supprimer les espaces lors d'un appel"</string>
-  <string name="support_desc">Services de sécurité fournis par Spaces Mobile</string>
-  <string name="sdcardfs_dialog_title">Mise à jour importante</string>
-  <string name="sdcardfs_dialog_message">Un nouveau système de fichiers est introduit dans cette mise à jour. Les anciennes données peuvent être incompatibles avec cela. Pour résoudre ce problème, suivez les étapes pour installer une mise à jour. Votre appareil va redémarrer deux fois au cours de cette mise à jour.</string>
   <string name="do_not_ask">Ne plus demander</string>
   <string name="gpg_message">La création des applications clônées pour les jeux nécessite un fonctionnement avec Google Play Games. Créez une application clônée pour Google Play Games ?</string>
   <string name="gpg_title">Application clônée pour Google Play Games</string>
@@ -399,7 +396,6 @@ pour y accéder depuis l'Écran de verrouillage"</string>
   <string name="set_space_password">Définir le mot de passe</string>
   <string name="set_space_finger">Définir une empreinte digitale</string>
   <string name="guide_start_text">Deux espaces. Un appareil.</string>
-  <string name="guide_start_ads_text">Un niveau de sécurité complètement nouveau</string>
   <string name="skip">Ignorer</string>
   <string name="input_space_password">Définir maintenant</string>
   <string name="instagram_send">Partager sur Instagram</string>
@@ -416,24 +412,9 @@ pour y accéder depuis l'Écran de verrouillage"</string>
 Deux espaces. Un appareil."</string>
   <string name="privacy_password_fingerprint_dialog_title">Scanner votre empreinte digitale</string>
   <string name="privacy_password_fingerprint_dialog_message">Placez votre doigt sur le capteur</string>
-  <string name="optimize_now">Optimiser</string>
   <string name="dialog_title">Attention</string>
-  <string name="remove_user_click_message">"*Si vous n'avez pas d'éléments importants dans le deuxième espace, %s"</string>
-  <string name="remove_user_click_message_action">vous pouvez supprimer le deuxième espace et redémarrer votre appareil.</string>
-  <string name="sdcradfs_dialog_in_owner_title">deuxième espace</string>
-  <string name="sdcradfs_dialog_in_owner_message">"Un nouveau système de fichiers est introduit dans cette mise à jour. Les anciennes données peuvent être incompatibles avec cela. Pour mettre à jour, déplacez les éléments dans le second espace, redémarrez votre appareil et créez à nouveau un second espace.
-Si vous ne mettez pas à jour, les applications doubles ne peuvent pas fonctionner correctement."</string>
-  <string name="sdcradfs_dialog_in_sec_title">Mise à jour importante</string>
-  <string name="sdcradfs_dialog_in_sec_message">"Pour mettre à jour, vous devez supprimer votre deuxième espace, puis le créer à nouveau. Déplacez les données depuis le deuxième espace vers le premier et redémarrez votre appareil pour terminer la mise à jour.
-Si vous n'effectuez pas la mise à jour, les applications clônées peuvent ne pas fonctionner correctement également."</string>
-  <string name="space_created_success">deuxième espace créé avec succès</string>
   <string name="encrypt_space_delete_dialog_title">Attention</string>
   <string name="encrypt_space_delete_dialog_message">"Vous êtes sur le point d'effectuer une mise à jour du système. Après la mise à jour, les données du deuxième espace deviendront incompatibles. Pour éviter cela, placez toutes les données dans le Premier espace, supprimez le deuxième espace et créez-le à nouveau."</string>
-  <string name="encrypt_space_delete_dialog_click_message">"*Si vous n'avez pas besoin de déplacer des données, %s"</string>
-  <string name="encrypt_space_delete_dialog_click_message_action">supprimer et créer un deuxième espace maintenant.</string>
-  <string name="encrypt_space_delete_dialog_positive_text">Déplacer les données</string>
-  <string name="encrypt_space_delete_notification_title">deuxième espace</string>
-  <string name="encrypt_space_delete_notification_message">Supprimez votre deuxième espace et créez en un nouveau afin de mettre à jour votre appareil avec succès.</string>
   <string name="space_create_guide_title_1">Protégez votre confidentialité</string>
   <string name="space_create_guide_desc_1">Stocker applications et photos en toute sécurité</string>
   <string name="space_create_guide_title_2">Créer à tout moment</string>
