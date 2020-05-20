@@ -712,7 +712,7 @@ Veuillez ne pas désactiver le Wi-Fi"</string>
   <string name="save_finish_with_failing_items">"Le transfert a été interrompu.
 Les données qui n'ont pas été importées doivent être importées encore."</string>
   <string name="import_again">Importer à nouveau</string>
-  <string name="error_permissions">"Cette application n'a pas les autorisations requises pour accéder au Calendrier. Allez dans les Réglages et vérifiez les autorisations pour continuer."</string>
+  <string name="error_permissions">"Cette application n'a pas les permissions requises pour accéder au Calendrier. Allez dans les Réglages et vérifiez les permissions pour continuer."</string>
   <string name="succ_description">Avec succès</string>
   <string name="failed_description">Échec</string>
   <string name="notif_miasist_try_to_connect">Mi PC Suite essaie de se connecter à votre appareil</string>
@@ -727,9 +727,9 @@ Les données qui n'ont pas été importées doivent être importées encore."</s
   <string name="alert_phone_occupy_backup">"Impossible d'utiliser Mi PC Suite actuellement. Terminez la sauvegarde ou la restauration des éléments sur votre téléphone et réessayez."</string>
   <string name="alert_second_space_not_support_miasist">"Impossible d'utiliser Mi PC Suite dans le second espace. Basculez dans le premier espace."</string>
   <string name="alert_title_backup_to_miasist">Sauvegarder des éléments grâce à Mi PC Suite ?</string>
-  <string name="alert_message_backup_to_miasist">"Mi PC Suite nécessite l'autorisation pour créer une sauvegarde sur un ordinateur. Autoriser ?"</string>
+  <string name="alert_message_backup_to_miasist">"Mi PC Suite nécessite une permission pour créer une sauvegarde sur un ordinateur. Autoriser ?"</string>
   <string name="alert_title_restore_from_miasist">Restaurer des éléments sur votre téléphone ?</string>
-  <string name="alert_message_restore_from_miasist">"Mi PC Suite nécessite l'autorisation pour restaurer des éléments sur votre téléphone. Autoriser ?"</string>
+  <string name="alert_message_restore_from_miasist">"Mi PC Suite nécessite une permission pour restaurer des éléments sur votre téléphone. Autoriser ?"</string>
   <string name="alert_button_deny">Refuser</string>
   <string name="alert_button_agree_and_continue">Autoriser</string>
   <string name="trans_open_location_button">Activer</string>

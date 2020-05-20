@@ -135,7 +135,7 @@
   <string name="default_reminder_mode">Rappels</string>
   <string name="delete_recurring_event_title">Supprimer %s ?</string>
   <string name="delete_this_event_title">Supprimer cet événement ?</string>
-  <string name="description_calendar">Applications système/Agenda</string>
+  <string name="description_calendar">Applications système/Calendrier</string>
   <string name="description_calendar_edit_event">Applications système/Calendrier/Paramètres</string>
   <string name="directory_searching_fmt">Recherche de %s…</string>
   <string name="discard_label">Annuler</string>
@@ -150,7 +150,7 @@
   <string name="edit_event_birthday_import_from_contact">"Importer l'anniversaire des contacts"</string>
   <string name="edit_event_birthday_name_empty_hint">Saisir un nom</string>
   <string name="edit_event_birthday_name_hint">Nom</string>
-  <string name="edit_event_calendar_label">Agenda</string>
+  <string name="edit_event_calendar_label">Calendrier</string>
   <string name="edit_event_choose_date">Choisir une date</string>
   <string name="edit_event_confirm_message">Annuler les modifications ?</string>
   <string name="edit_event_countdown_name_empty_hint">"Saisir un nom pour l'événement"</string>
@@ -608,7 +608,7 @@ Vérifiez vos paramètres réseau, puis réessayez."</string>
   <string name="preferences_popup_alert_smart_summary_new">Les événements sensibles au temps sont les événements avec une heure exacte</string>
   <string name="preferences_popup_alert_smart_tips">"Remplacez les notifications traditionnelles par des alertes contextuelles pour éviter de rater des événements importants. Les alertes contextuelles n'apparaissent pas lorsque vous jouez à des jeux, regardez des vidéos en plein écran ou utilisez le mode voiture."</string>
   <string name="preferences_popup_alert_title">Alertes contextuelles</string>
-  <string name="preferences_title">Agenda</string>
+  <string name="preferences_title">Calendrier</string>
   <string name="preferences_use_home_tz_descrip">Affiche les agendas et les horaires des événements dans votre fuseau horaire local lors de vos voyages</string>
   <string name="preferences_use_home_tz_title">Utiliser le fuseau horaire à domicile</string>
   <string name="preferences_week_start_day_dialog">Début de la semaine</string>
@@ -663,9 +663,9 @@ Vérifiez vos paramètres réseau, puis réessayez."</string>
   <string name="response_yes">Oui</string>
   <string name="saving_event">Événement enregistré</string>
   <string name="saving_event_with_guest">Envoi des mises à jour…</string>
-  <string name="search_calendar">Date;Solaire Conditions;Lunaire;Almanach;Fortune;Agenda;Réunion;Rappel;Vacance;Congés;Anniversaire;2016;2017;Nouvel an chinois;Jour du nouvel an;Journée internationale du travail;Fête de la mi-automne</string>
-  <string name="search_calendar_edit_event">Réunion;Rappel;Agenda</string>
-  <string name="search_calendar_settings">Calendrier;Agenda;Rappel</string>
+  <string name="search_calendar">Date;Solaire Conditions;Lunaire;Almanach;Fortune;Calendrier;Réunion;Rappel;Vacance;Congés;Anniversaire;2016;2017;Nouvel an chinois;Jour du nouvel an;Journée internationale du travail;Fête de la mi-automne</string>
+  <string name="search_calendar_edit_event">Réunion;Rappel;Calendrier</string>
+  <string name="search_calendar_settings">Calendrier;Calendrier;Rappel</string>
   <string name="search_menu_title">Recherche</string>
   <string name="select_date">Aller à la date</string>
   <string name="select_today_tip">"Aujourd'hui"</string>
@@ -678,7 +678,7 @@ Vérifiez vos paramètres réseau, puis réessayez."</string>
   <string name="setting_chinese_calendar">Calendrier chinois</string>
   <string name="setting_daysoff_no_update">"L'information sur les jours fériés est à jour."</string>
   <string name="setting_daysoff_update">Mise à jour des informations sur les jours fériés</string>
-  <string name="setting_daysoff_update_cta_cancel">"Autoriser l'agenda à se connecter d'abord à internet"</string>
+  <string name="setting_daysoff_update_cta_cancel">"Autoriser le calendrier à se connecter d'abord à internet"</string>
   <string name="setting_daysoff_update_net_err">Impossible de rechercher les mises à jour. Attendez une minute ou deux et réessayez.</string>
   <string name="setting_daysoff_update_schedule">Mise à jour…</string>
   <string name="setting_daysoff_update_success">Mis à jour avec succés</string>
