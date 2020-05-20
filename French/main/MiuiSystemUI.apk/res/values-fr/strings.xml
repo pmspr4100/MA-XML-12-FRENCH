@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="abbrev_wday_month_day_no_year">dMMMMEEEE</string>
-  <string name="abbrev_wday_month_day_no_year_alarm">dMMMEEE</string>
+  <string name="abbrev_wday_month_day_no_year">EEEEdMMMM</string>
+  <string name="abbrev_wday_month_day_no_year_alarm">EEEEdMMM</string>
   <string name="change_theme_reboot">Changer le thème nécessite un redémarrage.</string>
   <string name="default_theme">Par défaut</string>
   <string name="face_data_apply_for_category_title">"Déverrouiller à l'aide des données du visage"</string>
@@ -102,7 +102,7 @@
   <string name="biometric_dialog_try_again">Essayez encore.</string>
   <string name="bluetooth_active_battery_level_untethered">Actif, L: %1$s batterie, R: %2$s batterie</string>
   <string name="bluetooth_battery_level_untethered">L: %1$s batterie, R: %2$s batterie</string>
-  <string name="bubble_accessibility_action_move">Move</string>
+  <string name="bubble_accessibility_action_move">Déplacer</string>
   <string name="bubble_accessibility_action_move_bottom_left">Déplacement en bas à gauche</string>
   <string name="bubble_accessibility_action_move_bottom_right">Déplacement en bas à droite</string>
   <string name="bubble_accessibility_action_move_top_left">Déplacement en haut à gauche</string>
@@ -357,7 +357,7 @@
   <string name="animator_duration_scale_title">"Échelle de durée de l'animateur"</string>
   <string name="apn_settings_not_available">"Les paramètres du nom de point d'accès (Apn) ne sont pas disponibles pour cet utilisateur"</string>
   <string name="app_info">"Infos sur l'application"</string>
-  <string name="app_label">Système IU</string>
+  <string name="app_label">Système UI</string>
   <string name="app_name">Écran de verrouillage</string>
   <string name="app_process_limit_title">Limite du processus en arrière-plan</string>
   <string name="as_important">Important</string>
@@ -1477,8 +1477,8 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="small_window_guide_title">Fenêtre flottante</string>
   <string name="small_window_notification_text">Appuyez pour en savoir plus sur cette fonctionnalité de MIUI %d</string>
   <string name="small_window_notification_title">Fenêtre flottante</string>
-  <string name="status_bar_clock_date_weekday_format">EEE dd/MM</string>
-  <string name="status_bar_clock_date_weekday_format_12">EEE dd/MM</string>
+  <string name="status_bar_clock_date_weekday_format">EEEE dd/MM</string>
+  <string name="status_bar_clock_date_weekday_format_12">EEEE dd/MM</string>
   <string name="qs_customize_title">Éditer</string>
   <string name="qs_dnd_keep">Garder</string>
   <string name="qs_dnd_prompt_app">NPD a été activé par une application (%s).</string>

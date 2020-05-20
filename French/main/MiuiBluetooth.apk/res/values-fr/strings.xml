@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="accessibility_display_daltonizer_preference_subtitle">This feature is experimental and may affect performance.</string>
-  <string name="accessibility_display_daltonizer_preference_title">Color correction</string>
-  <string name="accessibility_manual_zen_less_time">Less time.</string>
-  <string name="accessibility_manual_zen_more_time">More time.</string>
+  <string name="accessibility_display_daltonizer_preference_subtitle">Cette fonctionnalité est expérimentale et peut affecter les performances.</string>
+  <string name="accessibility_display_daltonizer_preference_title">Correction de couleur</string>
+  <string name="accessibility_manual_zen_less_time">Moins de temps.</string>
+  <string name="accessibility_manual_zen_more_time">Plus de temps.</string>
   <string name="accessibility_no_wifi">Wifi disconnected.</string>
   <string name="accessibility_wifi_off">Wifi off.</string>
   <string name="accessibility_wifi_one_bar">Wifi one bar.</string>
@@ -13,20 +13,20 @@
   <string name="accessibility_wifi_three_bars">Wifi three bars.</string>
   <string name="accessibility_wifi_two_bars">Wifi two bars.</string>
   <string name="active_input_method_subtypes">Active input methods</string>
-  <string name="adb_keys_warning_message">Revoke access to USB debugging from all computers you’ve previously authorized?</string>
-  <string name="adb_warning_message">USB debugging is intended for development purposes only. Use it to copy data between your computer and your device, install apps on your device without notification, and read log data.</string>
-  <string name="adb_warning_title">Allow USB debugging?</string>
+  <string name="adb_keys_warning_message">"Révoquer l'accès au débogage USB à partir de tous les ordinateurs que vous avez précédemment autorisés ?"</string>
+  <string name="adb_warning_message">Le débogage USB est uniquement destiné à des fins de développement. Utilisez-le pour copier des données entre votre ordinateur et votre appareil, installer des applications sur votre appareil sans notification et lire les données du journal.</string>
+  <string name="adb_warning_title">Permettre le débogage USB ?</string>
   <string name="alarm_template">at %1$s</string>
   <string name="alarm_template_far">on %1$s</string>
-  <string name="allow_mock_location">Allow mock locations</string>
-  <string name="allow_mock_location_summary">Allow mock locations</string>
+  <string name="allow_mock_location">Autoriser les emplacements fictifs</string>
+  <string name="allow_mock_location_summary">Autoriser les emplacements fictifs</string>
   <string name="animator_duration_scale_title">Animator duration scale</string>
   <string name="apn_settings_not_available">Access Point Name settings are not available for this user</string>
   <string name="app_process_limit_title">Background process limit</string>
   <string name="available_via_carrier">Available via %1$s</string>
   <string name="available_via_passpoint">Available via %1$s</string>
-  <string name="band_24G">" (2.4 GHz band)"</string>
-  <string name="band_5G">" (5 GHz band)"</string>
+  <string name="band_24G">" (bande 2.4 GHz)"</string>
+  <string name="band_5G">" (bande 5 GHz)"</string>
   <string name="battery_info_status_charging">Charging</string>
   <string name="battery_info_status_charging_lower">charging</string>
   <string name="battery_info_status_discharging">Not charging</string>
