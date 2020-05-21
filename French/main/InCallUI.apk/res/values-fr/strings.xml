@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="ai_assistant">"Assistant d'appel IA"</string>
+  <string name="ai_assistant_not_installed">"Installez d'abord l'assistant d'appel IA"</string>
+  <string name="enter_ai_assistant">Utilisation</string>
+  <string name="enter_ai_assistant_tip">"L'assistant d'appel IA peut prendre cet appel et transcrire le discours de l'autre personne pour vous. Autoriser l'IA à répondre maintenant ?"</string>
+  <string name="video_call_downgrade_insufficient_bandwidth">Bande passante insuffisante, rétrogradation en appel vocal</string>
   <string name="inCallLabel">Téléphone</string>
   <string name="incall_bubble_hangup_click_hint">Appuyez à nouveau pour revenir à appeler</string>
   <string name="unknown">Inconnu</string>
@@ -124,7 +129,7 @@
   <string name="pause_prompt_yes">Oui</string>
   <string name="pause_prompt_no">Non</string>
   <string name="waiting_close_airplane_mode">Chargement…</string>
-  <string name="wifi_call">Appel VoWi-Fi</string>
+  <string name="wifi_call">Appel VoWiFi</string>
   <string name="unlock_phone">"Déverrouiller l'appareil"</string>
   <string name="remind_unlock_message">Votre appareil est actuellement verrouillé. \"%s\" sera disponible lorsque vous déverrouillerez votre appareil. Déverrouiller maintenant ?</string>
   <string name="user_locked_prompt">"Déverrouiller l'appareil pour accéder aux contacts."</string>
@@ -137,8 +142,8 @@
   <string name="select_one_sim_title_for_heduohao">Ne peut utiliser que la carte SIM %1$d Sub %2$d</string>
   <string name="can_not_use">"Impossible d'utiliser"</string>
   <string name="sim1_description">SIM 1</string>
-  <string name="sim1_heduohao_card">Sub 1</string>
   <string name="sim2_description">SIM 2</string>
+  <string name="sim1_heduohao_card">Sub 1</string>
   <string name="sim2_heduohao_card">Sub 2</string>
   <string name="sim3_heduohao_card">Sub 3</string>
   <string name="call_description_recording">Enregistrement…</string>

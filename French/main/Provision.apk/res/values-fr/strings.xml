@@ -50,6 +50,17 @@ Voir la politique de confidentialité du clavier sélectionné."</string>
   <string name="ime_privacy_policy">Politique de confidentialité du clavier sélectionné</string>
   <string name="ime_privacy_policy_no_network">Aucune connexion réseau. Consulter la politique de confidentialité de ce clavier à %s.</string>
   <string name="terms_of_use">"Conditions d'utilisation"</string>
+  
+     <string name="disagreement_abnormal_running_fast_pairing">"Si vous n'acceptez pas d'accorder de telles permissions, vous ne pourrez pas utiliser cette application. Dans de tels cas, vous pouvez choisir de restreindre les permissions dans les paramètres."</string>
+     <string name="fast_pairing_introduction">Mi Link permet à votre appareil de se connecter à des appareils Bluetooth à proximité. Pour pouvoir trouver des appareils à proximité, autorisez Mi Link à se connecter à internet.</string>
+     <string name="mint_keyboard_oobe_checkbox">"J'ai lu et accepté la politique de confidentialité de Mint Keyboard"</string>
+     <string name="mint_keyboard_oobe_terms">Politique de confidentialité du clavier Mint</string>
+     <string name="poco_launcher_privacy_policy">Politique de confidentialité de POCO Launcher</string>
+     <string name="poco_launcher_user_agreement">"Contrat d'utilisation du lanceur POCO"</string>
+     <string name="terms_of_use_lable_default_input_method_mint">"
+
+Vous devez accepter la politique de confidentialité de Mint Keyboard avant d'utiliser cette fonction."</string>
+  
   <string name="terms_of_use_label">"Votre vie privée est très importante pour nous. Veuillez lire les conditions d'utilisation ainsi que la politique de confidentialité pour savoir quelles informations nous collectons, comment nous les utilisons et les différents choix disponibles.
 
 Vous devez les accepter avant de pouvoir utiliser MIUI. %s et les composants du compte Mi se connecteront à internet et localiseront votre appareil."</string>
@@ -57,7 +68,6 @@ Vous devez les accepter avant de pouvoir utiliser MIUI. %s et les composants du 
   <string name="terms_of_use_lable_gms">, Services Google Play</string>
   <string name="terms_of_use_label_systemhelper">", Service d'enregistrement automatique"</string>
   <string name="terms_of_use_lable_smart_cards">, cartes intelligentes</string>
-  <string name="terms_of_use_lable_vsimcore">, MConnService</string>
   <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Vous devez accepter la politique de confidentialité de Facemoji avant d'utiliser cette fonctionnalité."</string>
@@ -106,12 +116,12 @@ Vous devez accepter la politique de confidentialité de Kika avant d'utiliser ce
 Désactiver les annonces personnalisées de toute façon ?"</string>
   <string name="other_settings_ad_disable_summary">Activer pour personnaliser les annonces</string>
   <string name="other_settings_enhanced_lockscreen_privacy_index">Politique de confidentialité</string>
-  <string name="permission_account">Accédez aux comptes sur votre appareil :</string>
+  <string name="permission_account">Accédez aux comptes sur votre appareil: </string>
   <string name="permission_account_introduction">Pour se connecter avec le compte Mi</string>
   <string name="permission_application_package_introduction">"Pour accéder au stockage afin d'analyser et de scanner les paquets d'installation"</string>
-  <string name="permission_backup">Accessing storage</string>
-  <string name="permission_backup_introduction">For accessing and saving backups on your device</string>
-  <string name="permission_call_records">"Accès à l'historique des appels :"</string>
+  <string name="permission_backup">Accéder au stockage</string>
+  <string name="permission_backup_introduction">Pour accéder et enregistrer des sauvegardes sur votre appareil</string>
+  <string name="permission_call_records">"Accès à l'historique des appels: "</string>
   <string name="permission_call_records_introduction">"Pour accéder à l'historique des appels afin d'afficher les postes bloqués"</string>
   <string name="permission_call_state_introduction">"Pour accéder à l'état du téléphone, enregistrer les appels et mettre en pause les enregistrements pendant les appels entrants"</string>
   <string name="permission_clock_info_introduction">"Pour la sauvegarde des données d'alarme"</string>
@@ -124,25 +134,25 @@ Désactiver les annonces personnalisées de toute façon ?"</string>
   <string name="permission_download_introduction">Pour mettre en cache les éléments téléchargés et les enregistrer sur votre appareil</string>
   <string name="permission_imei_service">"Pour accéder à l'IMEI afin de fournir des services associés à votre appareil"</string>
   <string name="permission_interaction_introduction">"Pour l'enregistrement de photos et de vidéos sur l'appareil"</string>
-  <string name="permission_location">"Accédez aux informations d'emplacement :"</string>
+  <string name="permission_location">"Accédez aux informations d'emplacement: "</string>
   <string name="permission_location_introduction">Pour la fourniture de services basés sur la localisation</string>
   <string name="permission_log_introduction">Pour la sauvegarde des logs</string>
   <string name="permission_login_introduction">"Pour l'ouverture de session et la gestion des comptes système"</string>
   <string name="permission_message_introduction">Pour envoyer des messages aux contacts bloqués</string>
   <string name="permission_phone_imei_device">"Pour accéder à l'IMEI afin d'identifier les appareils"</string>
   <string name="permission_phone_network">"Pour accéder au type de réseau afin d'optimiser et d'ajuster les éléments téléchargeables"</string>
-  <string name="permission_phone_service">"Numéro de téléphone d'accès, IMEI, et IMSI :"</string>
+  <string name="permission_phone_service">"Numéro de téléphone d'accès, IMEI, et IMSI: "</string>
   <string name="permission_photo_introduction">"Pour l'enregistrement des images dans la Galerie et les statuts de publication"</string>
-  <string name="permission_photo_video">Prenez des photos et enregistrez des vidéos :</string>
+  <string name="permission_photo_video">"Prenez des photos et enregistrez des vidéos: "</string>
   <string name="permission_photo_video_introduction">Pour prendre des photos, enregistrer des vidéos et utiliser le flash</string>
   <string name="permission_picture_introduction">"Pour l'enregistrement, l'édition et la synchronisation de photos et de vidéos"</string>
-  <string name="permission_read_call_records">"Modifier l'historique des appels :"</string>
+  <string name="permission_read_call_records">"Modifier l'historique des appels: "</string>
   <string name="permission_read_call_records_introduction">"Pour ajouter des éléments à l'historique des appels et supprimer les appels bloqués"</string>
   <string name="permission_read_note_introduction">Pour accéder aux notes et aux pièces jointes</string>
   <string name="permission_read_write_file">Accédez à vos fichiers et photos et enregistrez-les sur votre appareil :</string>
   <string name="permission_read_write_file_introduction">"Pour l'accès, l'enregistrement et la mise en cache d'éléments sur votre terminal"</string>
   <string name="permission_recorder_file_introduction">Pour accéder aux enregistrements audio et les sauvegarder</string>
-  <string name="permission_recording">"Enregistrez les appels et l'audio :"</string>
+  <string name="permission_recording">"Enregistrez les appels et l'audio: "</string>
   <string name="permission_recording_introduction">"Pour l'enregistrement audio pendant l'enregistrement vidéo"</string>
   <string name="permission_screen_shoot_introduction">"Pour l'accès et la sauvegarde des enregistrements d'écran"</string>
   <string name="permission_send_message">Envoyer un SMS</string>
@@ -158,8 +168,8 @@ Désactiver les annonces personnalisées de toute façon ?"</string>
   <string name="service_agreement">"J'ai lu et accepté les termes et conditions."</string>
   <string name="service_name_album">Galerie</string>
   <string name="service_name_application_package">Package installateur</string>
-  <string name="service_name_backup">Backups</string>
-  <string name="service_name_calculator">Calculateur</string>
+  <string name="service_name_backup">Sauvegardes</string>
+  <string name="service_name_calculator">Calculatrice</string>
   <string name="service_name_camera">Appareil photo</string>
   <string name="service_name_carrier">Déclaration sur les services des transporteurs</string>
   <string name="service_name_clock">Horloge</string>
@@ -185,7 +195,6 @@ Désactiver les annonces personnalisées de toute façon ?"</string>
   <string name="skip_gesture_guide_dialog_positive_btn">OK</string>
   <string name="skip_gesture_guide_dialog_title">Gestes en plein écran</string>
   <string name="terms_of_use_label_Mistore">, Plug-in du système Mi Store</string>
-  <string name="terms_of_use_label_mab">, MAB</string>
   <string name="terms_of_use_label_package">", Installateur de l'emballage"</string>
   <string name="terms_of_use_label_phrase">, Phrases fréquentes</string>
   <string name="terms_of_use_label_updater">, Mise à jour</string>
@@ -195,11 +204,11 @@ Désactiver les annonces personnalisées de toute façon ?"</string>
   <string name="agree_terms_input_method_facemoji">"J'ai lu et accepté la politique de confidentialité de Facemoji."</string>
   <string name="agree_terms_input_method_kika">"J'ai lu et accepté la politique de confidentialité de Kika."</string>
   <string name="miui_terms_no_network">"Vous n'avez pas de connexion internet. Vous pouvez voir les conditions générales d'utilisation sur %s."</string>
-  <string name="mobile_network">Using mobile data</string>
+  <string name="mobile_network">Utiliser les données cellulaires</string>
   <string name="move_data_dialog_box_le">"This allows using mobile data and GPS connection based on the user's request. Syncing accounts and other items may require using mobile data depending on the smartphone specifications."</string>
   <string name="move_data_dialog_box_title">Unless you have a plan with unlimited data, using mobile data may generate additional carrier fees. Use mobile data anyway?</string>
   <string name="move_data_dialog_cancel">Annuler</string>
-  <string name="move_data_dialog_title">You can restrict mobile data connection in the Settings later</string>
+  <string name="move_data_dialog_title">Vous pouvez restreindre la connexion de données cellulaires dans les paramètres ultérieurement</string>
   <string name="move_data_dialog_use">Use</string>
   <string name="miui_privacy_policy_no_network">"Vous n'avez pas de connexion internet. Vous pouvez voir la politique de confidentialité sur %s."</string>
   <string name="locale_picker_title">Sélectionnez votre région</string>
@@ -212,7 +221,6 @@ Désactiver les annonces personnalisées de toute façon ?"</string>
   <string name="desc_international_fingerprint">Utilisez votre empreinte digitale pour déverrouiller votre appareil, ou pour se connecter à des applications ou services.</string>
   <string name="content_description_start">Démarrer</string>
   <string name="start_up_slogan">"Conçu pour l'expérience en plein écran"</string>
-  <string name="content_description_miui_version">MIUI 10</string>
   <string name="content_description_complete">Terminé</string>
   <string name="language_picker_other_languages_title">Plus de langues</string>
   <string name="language_settings">Choisir une langue</string>
@@ -223,8 +231,8 @@ Désactiver les annonces personnalisées de toute façon ?"</string>
   <string name="enable_accessibility_dialog_message">"Vous avez activé TalkBack en appuyant sur l'écran avec 2 doigts pendant plus de 10 secondes. TalkBack offre un commentaire vocal aux personnes malvoyantes. Si vous l'avez activé par accident, appuyez sur le bouton Annuler et puis appuyez rapidement deux fois sur l'écran."</string>
   <string name="enable_accessibility_dialog_positive_btn">OK</string>
   <string name="enable_accessibility_dialog_negative_btn">Annuler</string>
-  <string name="cm_terms_title">"Accord de l'opérateur du réseau mobile"</string>
-  <string name="cm_terms_content">"Afin d'améliorer les services qui vous sont fournis, l'opérateur de réseau mobile de votre choix peut télécharger vos données personnelles et les informations concernant cet appareil sur ses serveurs en utilisant des réseaux Wi-Fi ou des connexions de données mobiles. Ces informations ne seront utilisées qu'à des fins statistiques pour améliorer la qualité des services et fournir un contenu plus personnalisé. Ces informations ne seront pas utilisées pour vous identifier personnellement et ne seront pas divulguées à des tiers."</string>
+  <string name="cm_terms_title">"Accord de l'opérateur du réseau cellulaires"</string>
+  <string name="cm_terms_content">"Afin d'améliorer les services qui vous sont fournis, l'opérateur mobile de votre choix peut télécharger vos données personnelles et les informations concernant cet appareil sur ses serveurs en utilisant des réseaux Wi-Fi ou des connexions de données mobiles. Ces informations ne seront utilisées qu'à des fins statistiques pour améliorer la qualité des services et fournir un contenu plus personnalisé. Ces informations ne seront pas utilisées pour vous identifier personnellement et ne seront pas divulguées à des tiers."</string>
   <string name="enable_accessibility_canceled">Accessibilité annulée.</string>
   <string name="accessibility_enabled">Accessibilité activée.</string>
   <string name="continue_to_enable_accessibility">"Continuez à maintenir deux doigts pour permettre l'accessibilité."</string>
@@ -234,7 +242,7 @@ Désactiver les annonces personnalisées de toute façon ?"</string>
   <string name="voice_assist_condition">"Vous pourrez utiliser Mi IA dans ces cas:r 
 1. Lorsque l'écran est allumé.r
 2. Lorsque vous écoutez de la musique avec votre écran éteint."</string>
-  <string name="voice_assist_advice">"Le Mi IA vous permet d'utiliser les commandes vocales, mais il consomme plus d'énergie (+ 1% toutes les heures)."</string>
+  <string name="voice_assist_advice">"Le Mi IA vous permet d'utiliser les commandes vocales, mais il consomme plus d'énergie (+1% toutes les heures)."</string>
   <string name="ai_button_title">Bouton IA</string>
   <string name="ai_button_desc">"Le bouton IA vous permet de déclencher Mi IA et d'utiliser les raccourcis Mi IA."</string>
   <string name="ai_button_long_press">Appuyer et maintenir</string>

@@ -41,6 +41,8 @@
   <string name="account_cache_provider">Fournisseur de cache de compte</string>
   <string name="float_window_info">"Lors de la configuration de la boîte aux lettres 139, n'utilisez pas le téléphone, en cas d'échec de la configuration."</string>
   <string name="float_window_title">Configuration...........</string>
+  <string name="database_exception">Exception de données, veuillez vous reconnecter</string>
+  <string name="db_error">Il existe une exception dans les données de courrier électronique. Veuillez vous reconnecter. Les données email peuvent être récupérées après la connexion.</string>
   <string name="folder_drafts_name_en0">Brouillons</string>
   <string name="folder_drafts_name_en1">Brouillon</string>
   <string name="folder_drafts_name_en2">[Gmail]/Brouillons</string>
@@ -158,9 +160,7 @@
   <string name="account_setup_incoming_port_label">Port</string>
   <string name="account_setup_incoming_security_label">Type de sécurité</string>
   <string name="account_setup_incoming_security_none_label">Aucun</string>
-  <string name="account_setup_incoming_security_ssl_label">SSL/TLS</string>
   <string name="account_setup_incoming_security_ssl_trust_certificates_label">SSL/TLS (Accepter tous les certificats)</string>
-  <string name="account_setup_incoming_security_tls_label">STARTTLS</string>
   <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (Accepter tous les certificats)</string>
   <string name="account_setup_incoming_server_label">Serveur</string>
   <string name="account_setup_incoming_username_label">"Nom d'utilisateur"</string>
@@ -239,7 +239,6 @@
   <string name="att_mgr_title_order_size">Taille du fichier</string>
   <string name="attached_message">Message joint</string>
   <string name="attachment_application_msword">Document</string>
-  <string name="attachment_application_pdf">PDF</string>
   <string name="attachment_application_vnd_ms_excel">Tableau</string>
   <string name="attachment_application_vnd_ms_powerpoint">Présentation</string>
   <string name="attachment_audio">Audio</string>
@@ -280,16 +279,15 @@
   <string name="bank_card_detail">Infos de la carte de crédit</string>
   <string name="battery_saver">Économiseur de batterie</string>
   <string name="battery_saver_keywords">économiseur de batterie;email batterie</string>
-  <string name="bcc">Cci</string>
   <string name="bill_center_setting">Paramètres de facturation</string>
   <string name="bill_center_setting_head">Importer les informations de ces comptes</string>
   <string name="bill_cycle_text">Cycle de facturation</string>
   <string name="bill_remind">Rappel de remboursement</string>
   <string name="bill_remind_due">Un remboursement est dû le %s, appuyez pour afficher</string>
   <string name="blank_feedback_toast">Vous devez écrire des commentaires</string>
-  <string name="body_forward_email_text">[Forward]</string>
+  <string name="body_forward_email_text">[Envoyer]</string>
   <string name="body_hint">Rédiger un email</string>
-  <string name="body_inline_pic_text">[Picture]</string>
+  <string name="body_inline_pic_text">[Image]</string>
   <string name="bottom_bar_more_quickreply">Réponse rapide</string>
   <string name="bottom_bar_more_share">Partager</string>
   <string name="bottom_bar_no_quickreply_toast">Aucune réponse rapide</string>
@@ -300,9 +298,6 @@
   <string name="cancel_action">Annuler</string>
   <string name="cancel_pop3_attchemt_downloading">"Impossible d'annuler les téléchargements en cours pour les pièces jointes dans les comptes POP3"</string>
   <string name="cant_move_or_change_labels">Impossible de déplacer des messages depuis plusieurs comptes.</string>
-  <string name="cc">Cc</string>
-  <string name="cc_bcc">Cc/Cci</string>
-  <string name="cc_heading">"Cc: "</string>
   <string name="certificate_add_failed">"Impossible d'ajouter le certificat \"%s\""</string>
   <string name="certificate_added">Certificat \"%s\" ajouté avec succès</string>
   <string name="certificate_alias_prompt_certificate_name">Nom</string>
@@ -467,7 +462,6 @@
   <string name="download_confirm_message">Télécharger %1$s pièces jointes ?</string>
   <string name="download_confirm_title">Téléchargement de la pièce jointe</string>
   <string name="download_message_failed_for_too_large">Le message est trop volumineux pour etre téléchargé.</string>
-  <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_bank_bill">Relevés bancaires</string>
   <string name="drawer_classification">Catégories</string>
   <string name="drawer_close">Fermer le volet de navigation</string>
@@ -477,11 +471,8 @@
   <string name="due_date_text">Remboursement final</string>
   <string name="edit_quick_response_dialog">Réponse rapide</string>
   <string name="edit_signature">Éditer la signature</string>
-  <string name="email_netease">NetEase Mail</string>
-  <string name="email_qq">QQ Mail</string>
   <string name="email_setting">email</string>
   <string name="email_setting_keywords">Compte;Ajouter compte;comptes email ajouter compte mail ;confirmer avant de le supprimer;supprimer confirmer;confirmer avant envoi ; envoi confirmer supprimer le flux de messages;supprimer la redirection;vue conversation;conversation mail;économiseur de batterie; batterie email;envoyer vos commentaires;envoyer les journaux</string>
-  <string name="email_sina">Sina Mail</string>
   <string name="email_sync_failed">Impossible de synchroniser le courrier</string>
   <string name="eml_parse_message">Ouverture du fichier EML…</string>
   <string name="empty_account_tip">Impossible de trouver le compte</string>
@@ -524,7 +515,6 @@
   <string name="file_save_path_dialog_cancel">Compris</string>
   <string name="file_save_path_dialog_ok">Changer maintenant</string>
   <string name="file_save_term">"Conditions d'enregistrement de ficher"</string>
-  <string name="filtered_tag">" [%1$s] %2$s"</string>
   <string name="first_quick_default_reply">Appuyer sur le bouton pour envoyer \"%s\" à toutes les personnes dans la conversation</string>
   <string name="folder_list_display_all">Afficher tous les dossiers</string>
   <string name="folder_list_display_only_import">Afficher seulement les dossiers importants</string>
@@ -843,16 +833,16 @@ Essayez une autre boîte de réception."</string>
   <string name="password_expired_dialog_content_fmt">"Les données du compte %s sont en train d'être supprimées de votre appareil. Vous pouvez les restaurer en modifiant le code PIN ou le mot de passe de l'écran de verrouillage. Le modifier maintenant ?"</string>
   <string name="password_expired_dialog_title">"Le mot de passe de l'écran de verrouillage a expiré"</string>
   <string name="password_expired_ticker">"Le code PIN ou le mot de passe de l'écran de verrouillage a expiré."</string>
-  <string name="path_about_account_setting">email/Paramètres/Comptes</string>
-  <string name="path_about_add_account">email/Paramètres/Ajouter un compte</string>
-  <string name="path_about_battery_saver">email/Paramètres/Économiseur de batterie</string>
-  <string name="path_about_confirm_before_delete">email/Paramètres/Confirmer avant la suppression</string>
-  <string name="path_about_confirm_before_send">"email/Paramètres/Confirmer avant l'envoi"</string>
-  <string name="path_about_conversation_view">email/Paramètres/Vue de conversation</string>
-  <string name="path_about_delete_message_flow">email/Paramètres/Supprimer le flux de messages</string>
-  <string name="path_about_email_setting">email/Paramètres</string>
-  <string name="path_about_send_feed_back">email/Paramètres/Envoyer votre commentaire</string>
-  <string name="path_about_upload_logs">email/Paramètres/Envoyer les journaux</string>
+  <string name="path_about_account_setting">Email/Paramètres/Comptes</string>
+  <string name="path_about_add_account">Email/Paramètres/Ajouter un compte</string>
+  <string name="path_about_battery_saver">Email/Paramètres/Économiseur de batterie</string>
+  <string name="path_about_confirm_before_delete">Email/Paramètres/Confirmer avant la suppression</string>
+  <string name="path_about_confirm_before_send">"Email/Paramètres/Confirmer avant l'envoi"</string>
+  <string name="path_about_conversation_view">Email/Paramètres/Vue de conversation</string>
+  <string name="path_about_delete_message_flow">Email/Paramètres/Supprimer le flux de messages</string>
+  <string name="path_about_email_setting">Email/Paramètres</string>
+  <string name="path_about_send_feed_back">Email/Paramètres/Envoyer votre commentaire</string>
+  <string name="path_about_upload_logs">Email/Paramètres/Envoyer les journaux</string>
   <string name="perference_change_pw_notnull_tips">Le mot de passe ne peut pas être vide</string>
   <string name="perference_change_pw_ok_tips">Mis à jour</string>
   <string name="perference_setup_pop_del">Supprimer les messages du serveur</string>
@@ -867,7 +857,7 @@ Essayez une autre boîte de réception."</string>
   <string name="permission_read_attachment_label">Lire les pièces jointes</string>
   <string name="personal_data_collection_summary">When the switch is toggled on, you agree that we may collect your personal data. You can toggle the switch off, revoke your authorization, and delete your data from our servers at any time.</string>
   <string name="personal_data_collection_title">Allow collecting personal data</string>
-  <string name="phone">téléphone</string>
+  <string name="phone">Téléphone</string>
   <string name="photo_load_failed">Impossible de charger les images</string>
   <string name="pl_select_age">Select age</string>
   <string name="please_fill_in_your_mailbox_information2">Entrez vos informations de boîte aux lettres</string>
@@ -902,7 +892,6 @@ afin de recevoir des rappels concernant les paiements et les voyages"</string>
   <string name="policy_require_smime">Nécessite des messages SMIME</string>
   <string name="policy_screen_timeout">Exiger un dispositif pour verrouiller son écran</string>
   <string name="policy_text_truncation">"Limiter la taille du texte de l'email"</string>
-  <string name="pop3_name">POP3</string>
   <string name="prefDefault_autoAdvance">liste</string>
   <string name="preference_eas_tips">Appuyez sur Activer pour configurer le serveur de messagerie.</string>
   <string name="preference_pop_tips">"En POP3, les pièces jointes seront automatiquement téléchargées avec l'email. Cela peut augmenter votre consommation de données mobiles."</string>
@@ -992,10 +981,8 @@ afin de recevoir des rappels concernant les paiements et les voyages"</string>
   <string name="recognize_hotel_other_money">Autres dépenses %1$s</string>
   <string name="recognize_hotel_reverse_date">Enregistrement avant %1$s:%2$s %3$s</string>
   <string name="recognize_hotel_room_type">Chambre</string>
-  <string name="recognize_hotel_room_type_value">%1$s × %2$s</string>
   <string name="recognize_hotel_title">"Réservation d'hôtel"</string>
   <string name="recognize_hotel_user_names">Invité</string>
-  <string name="recognize_hotel_user_names_value">%1$s+%2$s</string>
   <string name="recognize_setting_title">Paramètres de voyage</string>
   <string name="recognize_ticket_air_notification_content">Profitez de votre vol !</string>
   <string name="recognize_ticket_air_notification_title">Le vol %3$s (%2$s/%1$s) va bientôt décoller. Vérifiez bien vos informations de vol.</string>
@@ -1076,7 +1063,6 @@ Attendez la synchronisation complète ou visualisez le message sur votre ordinat
   <string name="send_feed_back_keywords">envoyer votre commentaire</string>
   <string name="send_mail">Envoyer</string>
   <string name="sender_whitelist_cleared">Les photos ne seront pas affichés automatiquement.</string>
-  <string name="senders_split_token">, </string>
   <string name="sending">Envoi…</string>
   <string name="sending_message">Envoi du message…</string>
   <string name="sending_quick_reply">Envoi de \"%s\"</string>
@@ -1092,7 +1078,7 @@ Attendez la synchronisation complète ou visualisez le message sur votre ordinat
   <string name="ser_resp_err_map_or">%1$s ou %2$s</string>
   <string name="ser_resp_err_map_pserr">"Nom d'utilisateur ou mot de passe incorrect"</string>
   <string name="ser_resp_err_map_serclosed">%s serveur fermé.</string>
-  <string name="ser_resp_err_map_ssl">"Choisissez 'SSL / TLS (Accepter tous les certificats)' dans 'Type de sécurité'"</string>
+  <string name="ser_resp_err_map_ssl">"Choisissez 'SSL/TLS (Accepter tous les certificats)' dans 'Type de sécurité'"</string>
   <string name="service_protocol_discribe">"&lt;u&gt;J'ai lu et j'accepte le contrat de service de messagerie WPS&lt;/u&gt;"</string>
   <string name="service_protocol_title">Contrat de service</string>
   <string name="set_network">Configurer le réseau</string>
@@ -1113,8 +1099,6 @@ Attendez la synchronisation complète ou visualisez le message sur votre ordinat
 %s"</string>
   <string name="signature_black_shark">Sent from my Blackshark phone</string>
   <string name="silent_ringtone">Silence</string>
-  <string name="single_new_message_notification_big_text">"%1$s
-%2$s"</string>
   <string name="sms_tip">Authentication fails, check whether the antivirus software to intercept SMS</string>
   <string name="smtp_password_error">Le mot de passe du serveur sortant est incorrect</string>
   <string name="sort_attachment">Trier par</string>
@@ -1233,11 +1217,10 @@ Appuyer sur "&lt;b&gt;Sync Now&lt;/b&gt; pour synchroniser maintenant, ou &lt;b&
   <string name="wipe_account_fail_description">Autoriser</string>
   <string name="wipe_account_fail_description_remind">"En raison de restrictions d'utilisation des données, il peut rester des données dans Agenda et Contacts après la suppression du compte. Supprimer ces éléments manuellement."</string>
   <string name="wipe_account_fail_title">Impossible de supprimer les informations personnelles</string>
-  <string name="wps_title">Mail WPS</string>
   <string name="wrong_password">Le mot de passe entré est incorrect</string>
   <string name="xiaomi_auth_toastbar">Sign in to authorize your device</string>
   <string name="xiaomi_email">Email</string>
-  <string name="xiaomi_under_certification">Authorizing…</string>
+  <string name="xiaomi_under_certification">Autorisation…</string>
   <string name="yes">Oui</string>
   <string name="you_are_in_mobile_network">Utiliser les données mobiles pour envoyer les fichiers journaux ?</string>
   <string name="youfuli">Promotion</string>
