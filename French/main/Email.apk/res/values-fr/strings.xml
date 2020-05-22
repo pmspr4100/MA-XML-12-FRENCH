@@ -71,7 +71,7 @@
   <string name="permission_tip">La configuration échoue, veuillez autoriser les appels et les messages texte pendant les permissions de configuration</string>
   <string name="quote_divider_7">Message Original</string>
   <string name="quote_divider_iphone_en">Envoyé depuis mon iPhone</string>
-  <string name="quote_divider_iphone_fwd_en">Commencer le transfert du message :</string>
+  <string name="quote_divider_iphone_fwd_en">Commencer le transfert du message:</string>
   <string name="search_title">Courriel unifié</string>
   <string name="special_text_sender_en">expéditeur</string>
   <string name="account_settings_login_dialog_reason_fmt">"Impossible de se connecter à %1$s. Le serveur dit: %2$s. Mettre à jour votre nom d'utilisateur ou votre mot de passe ?"</string>
@@ -592,7 +592,7 @@
   <string name="login_err_message">Utilisez des codes autorisés pour vous authentifier sur %1$s si vous avez choisi cette option précédemment. Allez sur https://email.163.com/ pour réinitialiser votre mot de passe ou votre code.</string>
   <string name="login_err_sina_message">Utilisez des codes autorisés pour vous authentifier sur %1$s si vous avez choisi cette option précédemment. Allez sur https://mail.sina.com.cn/ pour réinitialiser votre mot de passe ou votre code.</string>
   <string name="login_failed_ticker">Impossible de se connecter à %s.</string>
-  <string name="login_failed_tip">"Contactez-nous sur WeChat pour obtenir de l'aide : "</string>
+  <string name="login_failed_tip">"Contactez-nous sur WeChat pour obtenir de l'aide: "</string>
   <string name="login_failed_title">Impossible de se connecter</string>
   <string name="login_mail">Se connecter</string>
   <string name="login_qq_psw">"Connectez-vous à l'aide du code d'autorisation"</string>
@@ -604,10 +604,10 @@
   <string name="mail_description_title">À propos de email</string>
   <string name="mail_header_network_not_available">Vous ne disposez pas de connexion réseau.</string>
   <string name="mail_login_help">"Comment s'authentifier"</string>
-  <string name="mail_login_help_bottom_tip">"Si vous avez oublié votre mot de passe ou devez vérifier le statut de votre compte, utilisez la version web de NetEase Mail. Vous pouvez aussi obtenir de l'aide sur WeChat : "</string>
+  <string name="mail_login_help_bottom_tip">"Si vous avez oublié votre mot de passe ou devez vérifier le statut de votre compte, utilisez la version web de NetEase Mail. Vous pouvez aussi obtenir de l'aide sur WeChat: "</string>
   <string name="mail_login_help_details1">"1. Le mot de passe d'email peut être utilisé lorsqu'aucun code d'autorisation n'a été réglé dans le client de messagerie et que des services POP3/IMAP/SMTP ont été activés."</string>
   <string name="mail_login_help_details2">"2. Les codes d'autorisation tiers peuvent être utilisés pour s'authentifier dans des clients de messagerie tiers lorsque des services POP3/IMAP/SMTP sont activés."</string>
-  <string name="mail_login_help_title">Mot de passe email/Client de messagerie tiers :</string>
+  <string name="mail_login_help_title">Mot de passe email/Client de messagerie tiers:</string>
   <string name="mail_outlook_login_tips">"Vous serez redirigé vers Microsoft pour saisir votre mot de passe"</string>
   <string name="mail_outlook_oauth_login">"S'authentifier avec OAuth"</string>
   <string name="mail_outlook_psw_login">"S'authentifier par mot de passe"</string>
@@ -932,7 +932,7 @@ afin de recevoir des rappels concernant les paiements et les voyages"</string>
   <string name="qq_changepw_dialog_tips">Get a new code from %s to sign in.</string>
   <string name="qq_login_basecode">Connexion à QQ Mail Web. Saisissez le mot de passe indépendant.</string>
   <string name="qq_login_get_auth">Activer la protection de mot de passe si vous ne pouvez pas recevoir des SMS</string>
-  <string name="qq_login_help_bottom_tip">"Si vous avez oublié votre mot de passe ou devez vérifier le statut de votre compte, utilisez la version web de QQ Mail. Vous pouvez aussi obtenir de l'aide sur WeChat : "</string>
+  <string name="qq_login_help_bottom_tip">"Si vous avez oublié votre mot de passe ou devez vérifier le statut de votre compte, utilisez la version web de QQ Mail. Vous pouvez aussi obtenir de l'aide sur WeChat: "</string>
   <string name="qq_login_help_details1">"1. Le mot de passe QQ peut être utilisé lorsqu'aucun code d'autorisation n'a été réglé dans le client de messagerie et que des services POP3/IMAP/SMTP ont été activés.."</string>
   <string name="qq_login_help_details2">2. Independent password can be used when no authorization code was set up with IMAP/Exchange protocols.</string>
   <string name="qq_login_help_details3">"3. Authorization codes generated for third party email clients can also be used for signing in. If you forgot your code, refer to this link: "</string>

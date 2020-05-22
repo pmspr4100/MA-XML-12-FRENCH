@@ -15,7 +15,7 @@
   <string name="find_device_error_account_unknown_error">Erreur Compte Mi (%s).</string>
   <string name="find_device_crash">"\"Localiser l'appareil\" s'est fermé de façon inattendue."</string>
   <string name="find_device_storage_corrupted">"Recherche de l'appareil endommagé. Votre appareil n'est plus sécurisé."</string>
-  <string name="find_device_telephony_fault">"Localiser l'appareil : Erreur de téléphonie (%s)."</string>
+  <string name="find_device_telephony_fault">"Localiser l'appareil: Erreur de téléphonie (%s)."</string>
   <string name="time_correction_success">Temps corrigé</string>
   <string name="time_correction_failure">"Impossible de corriger l'heure. %s"</string>
   <string name="find_device_stop_noise">Appuyez sur OK pour rendre silencieux</string>
@@ -55,7 +55,7 @@
   <string name="verify_password_failed">"Impossible de vérifier l'identifiant du Compte Mi. %s."</string>
   <string name="login_failed">Impossible de se connecter à.%s.</string>
   <string name="change_find_device_status_failed">Impossible de déverrouiller. %s.</string>
-  <string name="unlock_help_title">Aide au déblocage :</string>
+  <string name="unlock_help_title">Aide au déblocage:</string>
   <string name="unlock_help">"Rester connecté au réseau 
 Assurez-vous d'avoir inséré une Carte SIM qui fonctionne si votre appareil supporte cela), et que votre appareil est connecté à un réseau Wi-Fi valide
 
@@ -64,7 +64,7 @@ Rendez-vous sur id.mi.com pour réinitialiser votre mot de passe.
 
 Autres raisons
 Connectez-vous sur i.mi.com et essayez de débloquer votre appareil."</string>
-  <string name="unlock_number">Code de déblocage : %s</string>
+  <string name="unlock_number">Code de déblocage: %s</string>
   <string name="passport_vcode_prompt_long">Entrez le code de vérification</string>
   <string name="passport_trust_device">Faire confiance à cet appareil</string>
   <string name="passport_verify">Vérifier</string>
@@ -77,7 +77,7 @@ Connectez-vous sur i.mi.com et essayez de débloquer votre appareil."</string>
   <string name="device_locked">Cet appareil est bloqué</string>
   <string name="default_lock_msg_words_with_phone">"Salut ! J'ai perdu mon téléphone. Pourriez-vous me contacter s'il vous plait ? Merci !"</string>
   <string name="default_lock_msg_words">"Cet appareil est associé avec un compte Mi existant. Pour des raisons de sécurité, vous devez entrer votre mot de passe pour vérifier l'appareil."</string>
-  <string name="lock_msg_phone">Information de contact : %s</string>
+  <string name="lock_msg_phone">Information de contact: %s</string>
   <string name="emergency_call">"Appel d'urgence"</string>
   <string name="return_to_call">"Retourner à l'appel"</string>
   <string name="default_debt_msg_words">"Cet appareil est verrouillé en raison d'un retard de versement.

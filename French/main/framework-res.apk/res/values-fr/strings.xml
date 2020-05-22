@@ -76,9 +76,9 @@
  Vous pouvez changer de fonctionnalité dans Paramètres > Accessibilité."</string>
   <string name="accessibility_shortcut_warning_dialog_title">"Utiliser le raccourci d'accessibilité ?"</string>
   <string name="accessibility_gesture_3finger_instructional_text">"Pour passer d'un service à l'autre, faites glisser trois doigts vers le haut et maintenez-les enfoncés."</string>
-  <string name="accessibility_gesture_3finger_prompt_text">"Choisissez un service à utiliser avec le geste d'accessibilité (glisser vers le haut à partir du bas de l'écran avec trois doigts) :"</string>
+  <string name="accessibility_gesture_3finger_prompt_text">"Choisissez un service à utiliser avec le geste d'accessibilité (glisser vers le haut à partir du bas de l'écran avec trois doigts):"</string>
   <string name="accessibility_gesture_instructional_text">"Pour passer d'un service à l'autre, faites glisser deux doigts vers le haut et maintenez-les enfoncés."</string>
-  <string name="accessibility_gesture_prompt_text">"Choisissez un service à utiliser avec le geste d'accessibilité (glisser vers le haut à partir du bas de l'écran avec deux doigts) :"</string>
+  <string name="accessibility_gesture_prompt_text">"Choisissez un service à utiliser avec le geste d'accessibilité (glisser vers le haut à partir du bas de l'écran avec deux doigts):"</string>
   <string name="accessibility_shortcut_spoken_feedback">Appuyez et maintenez les deux touches de volume pendant trois secondes pour utiliser %1$s</string>
   <string name="activity_resolver_app_settings">Réglages</string>
   <string name="activity_resolver_set_always">Réglé pour être toujours ouvert</string>
@@ -107,8 +107,8 @@
   <string name="define">Définir</string>
   <string name="define_desc">Définir le texte sélectionné</string>
   <string name="dump_heap_ready_notification">%1$s tas de processus prêt</string>
-  <string name="dump_heap_ready_text">Un tas de processus de %1$s est disponible pour que vous puissiez le partager. Attention : ce tas peut contenir des informations personnelles sensibles auxquelles le processus a accès, ce qui peut inclure des choses que vous avez tapées.</string>
-  <string name="dump_heap_system_text">Le processus %1$s a dépassé sa limite de mémoire de %2$s. Un dump de tas est disponible pour que vous puissiez le partager. Attention : ce tas peut contenir toute information personnelle sensible à laquelle le processus a accès, ce qui peut inclure des choses que vous avez tapées.</string>
+  <string name="dump_heap_ready_text">Un tas de processus de %1$s est disponible pour que vous puissiez le partager. Attention: ce tas peut contenir des informations personnelles sensibles auxquelles le processus a accès, ce qui peut inclure des choses que vous avez tapées.</string>
+  <string name="dump_heap_system_text">Le processus %1$s a dépassé sa limite de mémoire de %2$s. Un dump de tas est disponible pour que vous puissiez le partager. Attention: ce tas peut contenir toute information personnelle sensible à laquelle le processus a accès, ce qui peut inclure des choses que vous avez tapées.</string>
   <string name="dynamic_mode_notification_channel_name">"Avis d'information en mode de routine"</string>
   <string name="dynamic_mode_notification_summary">Économiseur de batterie activé pour prolonger la durée de vie de la batterie</string>
   <string name="dynamic_mode_notification_title">"La batterie peut s'épuiser avant la charge habituelle"</string>

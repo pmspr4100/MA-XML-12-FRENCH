@@ -144,11 +144,11 @@
   <string name="pc_battery_history_item_histogram">"Détails de la consommation d'énergie"</string>
   <string name="pc_battery_history_total_consumption_title">Consommation électrique totale</string>
   <string name="pc_battery_history_usetime_title">Active</string>
-  <string name="perm_intercept_content">Accordez à cette application la permission suivante : %1s ?</string>
-  <string name="perm_intercept_notification_title">"Autoriser %1s d'utiliser les notifications permettra à cette application d'effectuer les actions suivantes :"</string>
+  <string name="perm_intercept_content">Accordez à cette application la permission suivante: %1s ?</string>
+  <string name="perm_intercept_notification_title">"Autoriser %1s d'utiliser les notifications permettra à cette application d'effectuer les actions suivantes:"</string>
   <string name="perm_intercept_privacy_content">Ces actions peuvent exposer vos données personnelles. Accorder la permission (%1s) quand même ?</string>
-  <string name="perm_intercept_title">"Donner la permission d'accéder aux données utilisées à %1s permettra à cette application d'effectuer les actions suivantes :"</string>
-  <string name="perm_intercept_unknown_title">Autoriser %1s à installer des applications provenant de sources inconnues entraîne les risques suivants :</string>
+  <string name="perm_intercept_title">"Donner la permission d'accéder aux données utilisées à %1s permettra à cette application d'effectuer les actions suivantes:"</string>
+  <string name="perm_intercept_unknown_title">Autoriser %1s à installer des applications provenant de sources inconnues entraîne les risques suivants:</string>
   <string name="permission_action_desc_always">"Cette permission peut être utilisée n'importe quand"</string>
   <string name="permission_action_desc_foreground">"Cette permission ne peut être utilisée que lorsque vous utilisez l'application"</string>
   <string name="permission_action_desc_prompt">"Cette permission ne peut être utilisée que lorsque vous l'autorisez"</string>
@@ -158,7 +158,7 @@
   <string name="power_off_warning_notification_title">Sur le point de fermer</string>
   <string name="power_save_mode_close_aod_display_summary">"Désactiver l'affichage permanent lorsque l'économiseur de batterie est actif"</string>
   <string name="power_save_mode_close_aod_display_title">"Désactiver l'affichage permanent"</string>
-  <string name="power_save_ps_description_title">"l'économiseur de batterie entraîne les restrictions suivantes :"</string>
+  <string name="power_save_ps_description_title">"l'économiseur de batterie entraîne les restrictions suivantes:"</string>
   <string name="power_superpower_title_systemui_highpower">Temps restant</string>
   <string name="power_superpower_title_systemui_lowpower">Connectez le chargeur</string>
   <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
@@ -1210,7 +1210,7 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
   <string name="app_behavior_notification_title_single_group">%1s a effectué plusieurs actions sensibles</string>
   <string name="app_behavior_notification_title_storage">%1s a changé des fichiers en arrière-plan</string>
   <string name="app_behavior_perm_allow_always_danger_tip">Les applications peuvent effectuer des actions sensibles lorsque des permissions sont accordées</string>
-  <string name="app_behavior_perm_change_dialog_desc_title">À propos de cette permission :</string>
+  <string name="app_behavior_perm_change_dialog_desc_title">À propos de cette permission:</string>
   <string name="app_behavior_perm_change_tip_allow">Cette action (%1s) est maintenant autorisée</string>
   <string name="app_behavior_perm_change_tip_ask">On vous demandera si cette action (%1s) est autorisée</string>
   <string name="app_behavior_perm_change_tip_deny">Cette action (%1s) est désormais restreinte</string>
@@ -2616,7 +2616,7 @@ carte médicale"</string>
   <string name="system_permission_declare_analytics_declare">"Merci de vous être inscrit à notre programme d'expérience utilisateur. Votre appareil doit être connecté à internet pour permettre à cette fonctionnalité de fonctionner normalement. Vous devez également accorder les permissions suivantes pour nous permettre de collecter les données qui nous aideront à améliorer nos produits et services. Ces données sont collectées à des fins statistiques uniquement. Nous ne pourrons pas utiliser ces données pour vous identifier personnellement."</string>
   <string name="system_permission_declare_disagree">Refuser</string>
   <string name="system_permission_declare_double_link">"&lt;Data&gt;Lisez et acceptez notre &lt;a href=\"%1$s\"&gt;Accord de l'utilisateur&lt;/a&gt; et &lt;a href=\"%2$s\"&gt;Politique de confidentialité&lt;/a&gt; avant d'utiliser cette fonctionnalité.&lt;/Data&gt;"</string>
-  <string name="system_permission_declare_main_purpose" formatted="false">"Bienvenue sur %1s ! Cette application vous permet d'utiliser la fonctionnalité suivante : %2s."</string>
+  <string name="system_permission_declare_main_purpose" formatted="false">"Bienvenue sur %1s ! Cette application vous permet d'utiliser la fonctionnalité suivante: %2s."</string>
   <string name="system_permission_declare_no_say_no">"Si vous choisissez de ne pas donner les permissions requises ou de ne pas nous permettre de collecter et d'utiliser vos données, cette application ne pourra pas fonctionner normalement."</string>
   <string name="system_permission_declare_no_say_no_analytics">"Si vous ne souhaitez pas donner ces permissions, vous pouvez vous désinscrire depuis Paramètres &gt; Mots de passe et sécurité &gt; Paramètres de confidentialité &gt; Programme d'expérience utilisateur."</string>
   <string name="system_permission_declare_no_say_no_non_mandatory">"Si vous choisissez de ne pas donner les permissions requises ou de ne pas nous permettre de collecter et d'utiliser vos données, cette application ne pourra pas fonctionner normalement."</string>

@@ -61,7 +61,7 @@
   <string name="access_control_need_to_unlock">Mot de passe requis:</string>
   <string name="access_control_no_back_footer">Appuyer sur [icône] pour quitter</string>
   <string name="access_control_password_title">Mot de passe</string>
-  <string name="access_control_recording_intro_header">Dessinez un schéma de déverrouillage :</string>
+  <string name="access_control_recording_intro_header">Dessinez un schéma de déverrouillage:</string>
   <string name="access_control_reset_by_account">Se connecter à votre compte Mi pour ré-initialiser le mot de passe</string>
   <string name="access_point_names">"Noms des points d'accès"</string>
   <string name="accessibility_autoclick_delay_preference_title">Délai précédant le clic</string>
@@ -290,7 +290,7 @@ Une sensibilité plus élevée peut entrer en conflit avec tous les gestes de l'
   <string name="bluetooth_active_battery_level_untethered">Active, G: %1$s batterie, D: %2$s batterie</string>
   <string name="bluetooth_battery_level_untethered">G: %1$s batterie, D: %2$s batterie</string>
   <string name="bluetooth_inform_messgae">"Connexion à %1$s impossible.
-Voici ce qui a pu mal se passer :
+Voici ce qui a pu mal se passer:
 1. Le Bluetooth est désactivé sur cet appareil ou il est hors de portée.
 2. Cet appareil n'est pas en mode découverte.
 3. Cet appareil est connecté à d'autres appareils. Déconnectez-le et réessayez."</string>
@@ -806,7 +806,7 @@ Merci de prendre connaissance de la politique de données personnells de votre f
   <string name="wifi_dpp_failure_not_compatible">"Quelque chose s'est mal déroulé"</string>
   <string name="wifi_dpp_failure_not_supported">"Votre appareil ne gère pas l'ajout de “%1$s”"</string>
   <string name="wifi_dpp_failure_timeout">"Vérifiez que l'appareil est branché, chargé, et allumé"</string>
-  <string name="wifi_dpp_hotspot_password">Mot de passe du Hotspot : %1$s</string>
+  <string name="wifi_dpp_hotspot_password">Mot de passe du Hotspot: %1$s</string>
   <string name="wifi_dpp_lockscreen_title">"Vérifiez que c'est vous"</string>
   <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">Scannez ce QR code pour vous connecter à “%1$s”</string>
   <string name="wifi_dpp_scan_qr_code">Scannez le QR code</string>
@@ -816,7 +816,7 @@ Merci de prendre connaissance de la politique de données personnells de votre f
   <string name="wifi_dpp_share_hotspot">Partage hotspot</string>
   <string name="wifi_dpp_share_wifi">Partage Wi-Fi</string>
   <string name="wifi_dpp_sharing_wifi_with_this_device">Partage du Wi-Fi avec cet appareil…</string>
-  <string name="wifi_dpp_wifi_password">Mot de passe Wi-Fi : %1$s</string>
+  <string name="wifi_dpp_wifi_password">Mot de passe Wi-Fi: %1$s</string>
   <string name="wifi_dpp_wifi_shared_with_device">Wi-Fi partagé avec cet appareil</string>
   <string name="wifi_generation_icon_display">Icônes</string>
   <string name="wifi_generation_status">Wi-Fi %1$d</string>
@@ -1403,10 +1403,10 @@ Activez optimisation batterie."</string>
   <string name="backup_more_settings">Paramètres</string>
   <string name="backup_data_summary">"Sauvegarder les données d'applications, les mots de passe Wi-Fi et d'autres paramètres sur les serveurs Google"</string>
   <string name="backup_data_title">Sauvegarder mes données</string>
-  <string name="backup_difference_content">"Sauvegardes locales :
+  <string name="backup_difference_content">"Sauvegardes locales:
 Les sauvegardes locales peuvent inclure des données d'applications et contiennent en général plus de données. Les fichiers de sauvegardes sont stockés avec MIUI-backup-AllBackup et ont besoin d'être copiés vers un ordinateur une fois que la sauvegardeest terminée.
 
-Sauvegardes Cloud :
+Sauvegardes Cloud:
 Les sauvegardes sont stockées dans le Cloud Xiaomi et sont accessibles avec un réseau sans fil. Cette méthode est plus rapide et plus simple que des sauvegardes locales, mais vous ne pourrez pas sauvegarder les données de vos applications vers le Cloud Xiaomi.
 "</string>
   <string name="backup_difference_title">4. Quelles sont les différences entre sauvegardes locales et sauvegardes dans le Cloud ?</string>
@@ -1985,7 +1985,7 @@ Vous pouvez désactiver cette fonctionnalité dans les paramètres > Bluetooth >
   <string name="bt_hci_snoop_log_summary">Capturer tous les paquets Bluetooth HCI dans un fichier</string>
   <string name="bt_ldac_declaration">"Lorsque le périphérique Bluetooth prend en charge LDAC, il sera connecté par défaut. LDAC fournit une expérience audio de haute qualité mais aussi augmente la consommation d'énergie. Des problèmes peuvent se produire pendant la lecture en raison des limites du matériel Bluetooth."</string>
   <string name="bt_ldac_dialog_summary">"LDAC permet une expérience audio de haute qualité, mais augmente la consommation d'énergie. Cette fonctionnalité peut être désactivée dans les Paramètres."</string>
-  <string name="bt_ldac_dialog_title">"L'appareil actuel supporte LDAC, qui a été connecté par défaut :"</string>
+  <string name="bt_ldac_dialog_title">"L'appareil actuel supporte LDAC, qui a été connecté par défaut:"</string>
   <string name="bt_ldac_open_dialog_summary">"LDAC fournit une expérience audio de haute qualité mais aussi augmente la consommation d'énergie. Des problèmes peuvent se produire pendant la lecture en raison des limites du matériel Bluetooth."</string>
   <string name="bt_ldac_open_dialog_title">Activer LDAC ?</string>
   <string name="bt_ldac_property">Attributs</string>
@@ -2685,7 +2685,7 @@ Vous ne pouvez pas zoomer sur le clavier et la barre de navigation."</string>
   <string name="xiaomi_cloud_service_description_without_contacts">"Xiaomi Cloud synchronise vos photos, sauvegarde vos applications et vos paramètres, et vous aide à localiser votre téléphone en utilisant Localiser l'appreil."</string>
   <string name="zen_onboarding_dnd_visual_disturbances_description">"Votre téléphone peut en faire plus pour vous aider à rester concentré.
 
-Mettre à jour les paramètres pour :
+Mettre à jour les paramètres pour:
 
 - Cacher complètement les notifications
 
@@ -3597,20 +3597,20 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
   <string name="homepage_all_settings">Tous les paramètres</string>
   <string name="homepage_condition_footer_content_description">Réduire</string>
   <string name="homepage_personal_settings">Suggestions</string>
-  <string name="how_backup_content">"Il existe 3 types de sauvegardes que vous pouvez créer : locales, cloud et USB.
-Sauvegardes locales :
+  <string name="how_backup_content">"Il existe 3 types de sauvegardes que vous pouvez créer: locales, cloud et USB.
+Sauvegardes locales:
 Les sauvegardes locales vous permettent d'enregistrer vos paramètres système, comptes, données d'application et autres éléments dans un fichier séparé stocké sur votre appareil (MIUI-backup-AllBackup). Une fois le fichier de sauvegarde créé, vous pouvez le transférer sur votre ordinateur via un câble USB.
 Remarque:
 Vous pouvez utiliser Mi PC Suite pour sauvegarder et restaurer des éléments.
 
-Sauvegardes cloud :
+Sauvegardes cloud:
 Vous pouvez sauvegarder les paramètres système, la disposition de l'écran d'accueil, les applications et d'autres éléments sur Xiaomi Cloud sans fil.
 
-Sauvegardes USB :
+Sauvegardes USB:
 Cette méthode vous permet d'enregistrer les paramètres système, les comptes, les données d'applications et d'autres éléments sur un périphérique de stockage USB externe.
 "</string>
   <string name="how_backup_title">1. Comment sauvegarder des éléments ?</string>
-  <string name="how_encrypt_content">"Vous ne pouvez chiffrer que les sauvegardes locales. Il y a 2 façons de procéder :
+  <string name="how_encrypt_content">"Vous ne pouvez chiffrer que les sauvegardes locales. Il y a 2 façons de procéder:
 a) Ouvrez la page avec vos sauvegardes locales, appuyez sur le bouton pour activer le chiffrement et connectez-vous à votre compte Mi. Les sauvegardes seront chiffrées automatiquement après cela. N'oubliez pas que vous devrez vous connecter à votre compte Mi pour restaurer des éléments à partir de sauvegardes chiffrées.
 b) Si vous utilisez Mi PC Suite pour sauvegarder des éléments, vous pouvez y utiliser des options de chiffrement.
 
@@ -3618,12 +3618,12 @@ Remarque:
 N'oubliez pas le mot de passe que vous avez défini pour les sauvegardes chiffrées ! Vous ne pourrez pas déchiffrer vos sauvegardes si vous l'oubliez.
 "</string>
   <string name="how_encrypt_title">3. Comment chiffrer mes sauvegardes ?</string>
-  <string name="how_restore_backup_content">"Voici comment restaurer des éléments sauvegardés à l'aide de différentes méthodes :
+  <string name="how_restore_backup_content">"Voici comment restaurer des éléments sauvegardés à l'aide de différentes méthodes:
 
-Sauvegardes locales :
+Sauvegardes locales:
 Copiez le fichier de sauvegarde de votre ordinateur vers votre appareil (MIUI-backup-AllBackup). Accédez à Paramètres &gt; Sauvegarder, restaurer ou réinitialiser &gt; Sur cet appareil, puis sélectionnez le fichier de sauvegarde.
 
-Sauvegardes cloud :
+Sauvegardes cloud:
 Connectez-vous à votre compte Mi, accédez à Paramètres &gt; Sauvegarder, restaurer ou réinitialiser &gt; Dans Xiaomi Cloud, et sélectionnez le fichier de sauvegarde.
 
 Sauvegardes USB:
@@ -4538,7 +4538,7 @@ Sélectionnez votre système d'exploitation:"</string>
   <string name="mvno_match_data">Valeur MVNO</string>
   <string name="mvno_type">Type MVNO</string>
   <string name="my_device">Mon appareil</string>
-  <string name="my_device_disclaimer">"Remarque : les informations des matériels, y compris le processeur, la capacité de la batterie, la taille et la définition de l'écran, ainsi que l'appareil photo sont fournies par les laboratoires, les concepteurs et fournisseurs de Xiaomi."</string>
+  <string name="my_device_disclaimer">"Remarque: les informations des matériels, y compris le processeur, la capacité de la batterie, la taille et la définition de l'écran, ainsi que l'appareil photo sont fournies par les laboratoires, les concepteurs et fournisseurs de Xiaomi."</string>
   <string name="my_device_info_account_preference_title">Compte</string>
   <string name="my_device_info_device_name_preference_title">"Nom de l'appareil"</string>
   <string name="n_cacrts">%d certificats CA</string>
@@ -7414,7 +7414,7 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
   <string name="wakeup_and_sleep_settings_category_name">"Verrouiller les paramètres de l'écran"</string>
   <string name="wakeup_for_keyguard_notification_title">"Allumer l'écran pour les notifications"</string>
   <string name="wallpaper_attributions">"Fonds d'écran"</string>
-  <string name="wallpaper_attributions_values">"Fournisseurs d'images satellite :
+  <string name="wallpaper_attributions_values">"Fournisseurs d'images satellite:
 © 2014 CNES/Astrium, DigitalGlobe, Bluesky"</string>
   <string name="wallpaper_desktop">Bureau</string>
   <string name="wallpaper_live">Animé</string>
