@@ -69,6 +69,10 @@
   <string name="alert_weather_enable_settings_title">Avertissements météo</string>
   <string name="already_voted_toast">"Vous avez déjà voté aujourd'hui"</string>
   <string name="app_name">Météo</string>
+  <string name="aqi_15_days_desc">15-day AQI forecast</string>
+  <string name="aqi_24_hours_desc">24-hour AQI forecast</string>
+  <string name="aqi_48_hours_desc">48-hour AQI forecast</string>
+  <string name="aqi_5_days_desc">5-day AQI forecast</string>
   <string name="aqi_alert_channel_name">Alertes IQA</string>
   <string name="aqi_settings_summary">Alertes IQA</string>
   <string name="aqi_settings_title">IQA</string>
@@ -179,6 +183,7 @@ Faites glisser vers le bas pour actualiser ou vérifier les paramètres réseau"
   <string name="feedback_sunny">Dégagé</string>
   <string name="first_start_network_title">Connexion internet et localisation</string>
   <string name="global_aqi">IQA: %1$s %2$s</string>
+  <string name="global_not_enable_warning">"Can't use this app. It wasn't installed from the official sources."</string>
   <string name="hourly_forcast_now">Maintenant</string>
   <string name="hourly_forecast_date">dd/MM</string>
   <string name="hourly_forecast_title_24_hours_desc">Prévisions sur 24 heures</string>
@@ -228,7 +233,6 @@ Appuyer sur l'écran pour ajouter manuellement ou repositionner une ville"</stri
   <string name="network_unavailable">Impossible de se connecter au réseau.</string>
   <string name="news_hour_minute_time_format">dd-MM-yyyy HH:mm</string>
   <string name="copy">Copie</string>
-  <string name="dislike_alert_dialog_title">Why do not you want to see this content?</string>
   <string name="exo_controls_fastforward_description">Fast forward</string>
   <string name="exo_controls_fullscreen_description">Fullscreen mode</string>
   <string name="exo_controls_next_description">Next track</string>
@@ -269,7 +273,6 @@ Appuyer sur l'écran pour ajouter manuellement ou repositionner une ville"</stri
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Impossible de charger les éléments</string>
   <string name="not_set">Non défini</string>
   <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
-  <string name="thanku_for_feedback">Thanks for feedback, you can re-open the weather video on the settings page</string>
   <string name="night_not_disturb_settings_summary">Bloquer les alertes entre 23h00 et 7h00</string>
   <string name="night_not_disturb_settings_title">Ne pas déranger la nuit</string>
   <string name="no_data">Aucune donnée</string>
@@ -397,12 +400,15 @@ Appuyer sur l'écran pour ajouter manuellement ou repositionner une ville"</stri
   <string name="warning_weather_day_and_night_settings_title">Résumés quotidiens</string>
   <string name="weather_alert_channel_name">Alertes</string>
   <string name="weather_introduce">Toujours avec toi, quil pleuve ou quil vente.</string>
+  <string name="weather_main_aqi_desc">AQI</string>
+  <string name="weather_main_minute_hour">2-hour precipitation</string>
   <string name="weather_list_info">Informations connexes</string>
   <string name="weather_list_title">Titres météo</string>
   <string name="weather_permission_agree">Accepter</string>
   <string name="weather_service_channel_name">Services darrière-plan</string>
   <string name="widget_cta_not_agree">Cliquez pour obtenir des informations météo</string>
   <string name="wind_direction_no_data">Vent</string>
+  <string name="widget_cta_not_agree">Tap to get weather info</string>
   <string name="wind_unit">%1$s km/h</string>
   <string name="xiaomi_weather_description_content">"L'application météo vous fournit des infos météorologiques avec précision. Sans cette application, la Barre d'État et le widget de météo ne fonctionneront pas correctement. Assurez-vous que vous pouvez vous passer de ces foncitonnalités avant de désinstaller l'application."</string>
   <string name="xiaomi_weather_description_title">À propos de météo</string>
