@@ -35,7 +35,6 @@ Voir la politique de confidentialité du clavier sélectionné."</string>
   <string name="other_settings_enhanced_lockscreen_summary">"Recevez des images et des histoires sélectionnées sur votre écran de verrouillage tous les jours. Conditions générales d'utilisation s'appliquent."</string>
   <string name="other_settings_enhanced_lockscreen_summary_index">"Conditions générales d'utilisation"</string>
   <string name="back">Retour</string>
-  <string name="backup_introduction">You can use this app to back up and restore items on your device.</string>
   <string name="next">Suivant</string>
   <string name="skip_underline">Ignorer cette étape</string>
   <string name="sim_dectection_next">Continuer</string>
@@ -86,7 +85,7 @@ Vous devez accepter la politique de confidentialité de Kika avant d'utiliser ce
   <string name="application_package_introduction">"Cette application vous permet d'installer des applications tierces, de les analyser avant l'installation et de donner des recommandations après celle-ci."</string>
   <string name="calculator_introduction">"Vous pouvez utiliser cette application pour les calculs, la conversion des unités et des devises, et l'estimation de vos remboursements hypothécaires."</string>
   <string name="camera_introduction">"Vous pouvez utiliser l'appareil photo pour prendre des photos et filmer des vidéos."</string>
-  <string name="carrier_introduction">"Afin de vous offrir de meilleurs services, votre appareil peut envoyer périodiquement des informations sur la version de votre appareil, des données d'identification de l'appareil (y compris l'adresse IMEI/IMSI/MSISDN/MAC, MEID/ICCID) et des informations de localisation approximative (y compris l'ID de la station de base) à l'opérateur via Wi-Fi, un réseau de données mobile ou un SMS gratuit. L'opérateur promet d'analyser les informations pertinentes uniquement pour améliorer la qualité des services ou pour fournir des services ou des technologies personnalisés, et ne divulguera pas d'informations pertinentes à des tiers sous une forme qui vous identifie personnellement. La déclaration spécifique de l'opérateur prévaut. Consultez votre transporteur concernant le coût d'utilisation de ce service."</string>
+  <string name="carrier_introduction">"In order to provide you with better services, your device may periodically send your device version information, device identification data (including IMEI/IMSI/MSISDN/MAC address, MEID/ICCID), and approximate location information (including base station ID) to the carrier via Wi-Fi, mobile data network, or free SMS. The carrier promises to analyze relevant information only to improve the quality of services or to provide customized services or technologies, and won't disclose relevant information to third parties in any form that identifies you personally. The specific carrier statement shall prevail. Consult your carrier regarding the cost of using this service."</string>
   <string name="clock_introduction">"Vous pouvez utiliser cette application pour visualiser l'heure, ainsi que pour utiliser la minuterie, l'horloge mondiale, le chronomètre, régler les alarmes, et plus encore."</string>
   <string name="close_location_service_setting">"Vous pouvez choisir de désactiver l'accès à l'emplacement dans Paramètres > Paramètres supplémentaires > Confidentialité ou de limiter les autorisations pour des applications individuelles dans Sécurité."</string>
   <string name="compass_introduction">"Vous pouvez utiliser cette application pour la navigation, ainsi que pour visualiser les coordonnées, la pression atmosphérique et l'altitude."</string>
@@ -119,8 +118,6 @@ Désactiver les annonces personnalisées de toute façon ?"</string>
   <string name="permission_account">Accédez aux comptes sur votre appareil: </string>
   <string name="permission_account_introduction">Pour se connecter avec le compte Mi</string>
   <string name="permission_application_package_introduction">"Pour accéder au stockage afin d'analyser et de scanner les paquets d'installation"</string>
-  <string name="permission_backup">Accéder au stockage</string>
-  <string name="permission_backup_introduction">Pour accéder et enregistrer des sauvegardes sur votre appareil</string>
   <string name="permission_call_records">"Accès à l'historique des appels: "</string>
   <string name="permission_call_records_introduction">"Pour accéder à l'historique des appels afin d'afficher les postes bloqués"</string>
   <string name="permission_call_state_introduction">"Pour accéder à l'état du téléphone, enregistrer les appels et mettre en pause les enregistrements pendant les appels entrants"</string>
@@ -168,7 +165,6 @@ Désactiver les annonces personnalisées de toute façon ?"</string>
   <string name="service_agreement">"J'ai lu et accepté les termes et conditions."</string>
   <string name="service_name_album">Galerie</string>
   <string name="service_name_application_package">Package installateur</string>
-  <string name="service_name_backup">Sauvegardes</string>
   <string name="service_name_calculator">Calculatrice</string>
   <string name="service_name_camera">Appareil photo</string>
   <string name="service_name_carrier">Déclaration sur les services des transporteurs</string>
@@ -204,12 +200,6 @@ Désactiver les annonces personnalisées de toute façon ?"</string>
   <string name="agree_terms_input_method_facemoji">"J'ai lu et accepté la politique de confidentialité de Facemoji."</string>
   <string name="agree_terms_input_method_kika">"J'ai lu et accepté la politique de confidentialité de Kika."</string>
   <string name="miui_terms_no_network">"Vous n'avez pas de connexion internet. Vous pouvez voir les conditions générales d'utilisation sur %s."</string>
-  <string name="mobile_network">Utiliser les données cellulaires</string>
-  <string name="move_data_dialog_box_le">"This allows using mobile data and GPS connection based on the user's request. Syncing accounts and other items may require using mobile data depending on the smartphone specifications."</string>
-  <string name="move_data_dialog_box_title">Unless you have a plan with unlimited data, using mobile data may generate additional carrier fees. Use mobile data anyway?</string>
-  <string name="move_data_dialog_cancel">Annuler</string>
-  <string name="move_data_dialog_title">Vous pouvez restreindre la connexion de données cellulaires dans les paramètres ultérieurement</string>
-  <string name="move_data_dialog_use">Use</string>
   <string name="miui_privacy_policy_no_network">"Vous n'avez pas de connexion internet. Vous pouvez voir la politique de confidentialité sur %s."</string>
   <string name="locale_picker_title">Sélectionnez votre région</string>
   <string name="install_preinstall_app">Chargement des applications…</string>
@@ -232,7 +222,7 @@ Désactiver les annonces personnalisées de toute façon ?"</string>
   <string name="enable_accessibility_dialog_positive_btn">OK</string>
   <string name="enable_accessibility_dialog_negative_btn">Annuler</string>
   <string name="cm_terms_title">"Accord de l'opérateur du réseau cellulaires"</string>
-  <string name="cm_terms_content">"Afin d'améliorer les services qui vous sont fournis, l'opérateur mobile de votre choix peut télécharger vos données personnelles et les informations concernant cet appareil sur ses serveurs en utilisant des réseaux Wi-Fi ou des connexions de données mobiles. Ces informations ne seront utilisées qu'à des fins statistiques pour améliorer la qualité des services et fournir un contenu plus personnalisé. Ces informations ne seront pas utilisées pour vous identifier personnellement et ne seront pas divulguées à des tiers."</string>
+  <string name="cm_terms_content">"In order to improve the services provided to you, the mobile network operator of your choice may upload your personal data and the info about this device to its servers using Wi-Fi networks or mobile data connection. This information will only be used for statistical purposes in order to improve the quality of the services and provide more personalized content. This information won't be used to identify you personally and won't be disclosed to third parties."</string>
   <string name="enable_accessibility_canceled">Accessibilité annulée.</string>
   <string name="accessibility_enabled">Accessibilité activée.</string>
   <string name="continue_to_enable_accessibility">"Continuez à maintenir deux doigts pour permettre l'accessibilité."</string>

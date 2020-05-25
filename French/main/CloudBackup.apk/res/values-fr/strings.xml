@@ -46,12 +46,12 @@
   <string name="cloud_backup_detail_state">Sauvegardes automatiques</string>
   <string name="cloud_backup_detail_title">"Écran d'accueil, applications et paramètres."</string>
   <string name="cloud_backup_detail_state_summary">Créez des sauvegardes Xiaomi Cloud automatiquement lorsque vous êtes connecté à un réseau Wi-Fi.</string>
+  <string name="cloud_backup_detail_state_summary_china">Create Xiaomi Cloud backups automatically when connected to WLAN.</string>
   <string name="cloud_backup_detail_frequence">Planifier une sauvegarde</string>
   <string name="cloud_backup_detail_time">Dernière sauvegarde: %1$s</string>
   <string name="cloud_backup_detail_manage">Gérer les sauvegardes</string>
   <string name="cloud_backup_derail_size_summary">Taille: %s</string>
   <string name="cloud_back_up_opening">Chargement…</string>
-  <string name="cloud_back_up_no_network_warn">Impossible de se connecter au Wi-Fi</string>
   <string name="cloud_back_up_ok_btn">OK</string>
   <string name="cloud_back_up_frequence_choice_title">Planifier une sauvegarde</string>
   <string name="cloud_back_up_frequence_long">Tous les 7 jours</string>
@@ -59,12 +59,18 @@
   <string name="cloud_back_up_subscribe_vip_title">Améliorer votre compte</string>
   <string name="cloud_back_up_subscribe_vip_discription">"Obtenez plus d'espace de stockage, des sauvegardes journalières, et plus."</string>
   <string name="cloud_back_up_subscribe_vip_confirm">Mettre à niveau</string>
-  <string name="cloud_back_up_detail_discription">"Ces éléments seront sauvegardés dans Xiaomi Cloud lorsque votre appareil sera connecté à un réseaux Wi-Fi: 
-*  Applications, écran d'accueil et fonds d'écran 
-*  Alarmes et les paramètres de l'horloge 
-*  Paramètres de notification 
-*  MIUI et les paramètres système 
-Note: Les données des applications que vous avez installées ne seront pas sauvegardées dans Xiaomi Cloud."</string>
+  <string name="cloud_back_up_detail_discription">"These items will be backed up to Xiaomi Cloud when your device is connected to Wi-Fi: 
+*  Apps, Home screen layout, and wallpapers 
+*  Alarm, clock, and time settings 
+*  Notification settings 
+*  MIUI and system settings 
+Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</string>
+  <string name="cloud_back_up_detail_discription_china">"These items will be backed up to Xiaomi Cloud when your device is connected to WLAN: 
+*  Apps, Home screen layout, and wallpapers 
+*  Alarm, clock, and time settings 
+*  Notification settings 
+*  MIUI and system settings 
+Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</string>
   <string name="cloud_app_no_data">Aucune sauvegarde</string>
   <string name="cloud_app_restore_error">Restauration impossible</string>
   <string name="cloud_app_restore_success">Applications restaurées</string>
@@ -119,9 +125,6 @@ Note: Les données des applications que vous avez installées ne seront pas sauv
   <string name="desktop_wait_network">Patienter…</string>
   <string name="desktop_failed">Erreur</string>
   <string name="click_try_to_restore_again">Appuyez pour essayer à nouveau</string>
-  <string name="open_wifi">Activer le Wi-Fi maintenant</string>
-  <string name="open_wifi_description">Se connecter au Wi-Fi pour restaurer les applications</string>
-  <string name="open_wifi_setting">Paramètres Wi-Fi</string>
   <string name="download_settings">"Téléchargement des paramètres de l'écran d'accueil %s%%"</string>
   <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
   <string name="recover_home_settings">"Restaurer les paramètres de l'écran d'accueil"</string>
@@ -134,7 +137,6 @@ Note: Les données des applications que vous avez installées ne seront pas sauv
   <string name="restore_network_pause">%s (Cliquez pour reprendre)</string>
   <string name="restore_network_unconnect">%s (Attente de la connexion)</string>
   <string name="restore_finish_description">Restauration terminée</string>
-  <string name="backup_fail_wifi_needed">Impossible de sauvegarder, besoin de Wi-Fi.</string>
   <string name="backup_failed_reason_cloud_space_not_enough">"Pas assez d'espace de stockage dans Xiaomi Cloud. Mettez à niveau votre plan ou libérez de l'espace de stockage."</string>
   <string name="backup_failed_reason_disk_space_not_enough">"Pas assez d'espace de stockage. Libérez d'abord le stockage."</string>
   <string name="backup_failed_reason_network_error">Erreur réseau. Attendez une minute ou deux et réessayez.</string>
@@ -154,7 +156,6 @@ Note: Les données des applications que vous avez installées ne seront pas sauv
   <string name="success_open_cloudbackup">Sauvegarde des applications activée</string>
   <string name="as_new_device">"Remplacer l'écran d'accueil et les paramètres précédents"</string>
   <string name="as_new_device_summary">Effacer les sauvegardes précédentes de Xiaomi Cloud</string>
-  <string name="restore_data_summary">Cette fonctionnalité nécessite une connexion internet.</string>
   <string name="query_restore_summary">"Une sauvegarde Xiaomi Cloud a été trouvée pour cet appareil. Restaurer les applis de l'écran d'accueil et les paramètres ou l'utiliser comme un nouvel appareil et effacer les sauvegardes Xiaomi Cloud précédentes ?"</string>
   <string name="restore_home_screen_apps">Restaurer à partir de la sauvegarde Mi Cloud</string>
   <string name="query_restore_description">"Restaurer les applications de l'ecran d'accueil et des paramètres à l'aide de cette sauvegarde. Cela va écraser les données d'applications pour les applications en double déjà installées sur cet appareil. les applications qui ne figurent pas dans la sauvegarde seront déplacées vers le dernier écran d'accueil."</string>
@@ -230,7 +231,9 @@ Vérifiez vos paramètres réseau et réessayez."</string>
   <string name="load_backup_failed">Impossible de charger les sauvegardes</string>
   <string name="loading_progress_num">Chargée %s%%</string>
   <string name="dialog_title_require_wlan">Se connecter au Wi-Fi</string>
+  <string name="dialog_title_require_wlan_china">Connect to WLAN</string>
   <string name="dialog_msg_restore_require_wlan">La restauration des sauvegardes nécessite la connexion au Wi-Fi.</string>
+  <string name="dialog_msg_restore_require_wlan_china">Restoring backups requires connecting to WLAN.</string>
   <string name="dialog_btn_next">Suivant</string>
   <string name="dialog_btn_restore_skip">Restaurer plus tard</string>
   <string name="dialog_btn_cancel_backup">Annuler</string>
@@ -264,6 +267,7 @@ Vérifiez vos paramètres réseau et réessayez."</string>
   <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt; des fichiers seront téléchargés."</string>
   <string name="btn_restore_retry">Veuillez réessayer</string>
   <string name="btn_restore_wait">Wait for Wi-Fi</string>
+  <string name="btn_restore_wait_china">Wait for WLAN</string>
   <string name="btn_restore_abort">Annuler</string>
   <string name="backup_stopped_title">La sauvegarde était en pause</string>
   <string name="backup_stopped_msg">La sauvegarde actuelle écrasera la précédente. Appuyez pour voir.</string>
