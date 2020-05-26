@@ -164,6 +164,7 @@ et ajustez les préférences automatiquement"</string>
   <string name="ai_scene_top_moon_off">Mode faible luminosité</string>
   <string name="ai_scene_top_tip">Mode lune</string>
   <string name="ai_watermark_title">Filigrane IA</string>
+  <string name="ambi_file_name_format">"'AMBI'_ddMMyyyy_HHmmss"</string>
   <string name="ambilight_description_title">À propos de la longue exposition</string>
   <string name="ambilight_intro_crowd_moving_part1">"Lorsque vous photographiez dans une rue bondée, demandez à votre sujet de rester immobile. D'autres personnes apparaîtront comme des sentiers flous."</string>
   <string name="ambilight_intro_crowd_moving_part2">Vous pouvez également prendre des photos de la circulation intense et des foules en mouvement. Une longue exposition gardera les bâtiments nets, mais tous les objets en mouvement seront flous.</string>
@@ -844,7 +845,8 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_camera_hdr_entry_live">Live</string>
   <string name="pref_camera_hdr_entry_normal">Pro</string>
   <string name="pref_camera_hdr_entry_off">Désactivé</string>
-  <string name="pref_camera_heic_image_format_description">Capturez des photos au format HEIF à haute efficacité</string>
+  <string name="pref_camera_heic_image_format_description">"Photos in high efficiency image file format take up less storage space, but aren't supported by some apps"</string>
+  <string name="pref_camera_heic_image_format_description2">"High efficiency image file format saves storage space, but isn't supported by some third party apps. You can't take live photos and remove watermarks in HEIF"</string>
   <string name="pref_camera_heic_image_format_title">Format HEIC</string>
   <string name="pref_camera_hfr_entry_off">Désactivé</string>
   <string name="pref_camera_histogram_entry_disable">Désactiver</string>
@@ -1145,6 +1147,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="ultra_pixel_photography_48mp_open_tip">48 MPx</string>
   <string name="pref_menu_ultra_pixel_photography_32mp">32 MPx</string>
   <string name="pref_menu_ultra_pixel_photography_48mp">48 MPx</string>
+  <string name="cas_module_name_pixel">48 Mpx</string>
   <string name="ultra_pixel_108mp">108 Mpx</string>
   <string name="ultra_pixel_32mp">32 Mpx</string>
   <string name="ultra_pixel_48mp">48 Mpx</string>
