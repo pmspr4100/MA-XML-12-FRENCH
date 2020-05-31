@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="label">SDK MIUI</string>
   <string name="send">Envoyer</string>
   <string name="close">Fermer</string>
   <string name="copyright">"Droits d'auteur"</string>
@@ -21,8 +20,8 @@
   <string name="select_all">Tout sélectionner</string>
   <string name="deselect_all">Désélectionner</string>
   <string name="instruction">Informations de sécurité importantes</string>
-  <string name="mobile_data_consume">Downloading items now will require using %1$s MB of mobile data. Download anyway?</string>
-  <string name="mobile_data_remind">Data usage warning</string>
+  <string name="mobile_data_consume">"Le téléchargement d'éléments nécessite désormais %1$s Mo de données cellulaires. Télécharger quand même ?"</string>
+  <string name="mobile_data_remind">"Avertissement d'utilisation des données"</string>
   <string name="sar">"Information sur l'exposition aux RF"</string>
   <string name="user_experience_program">"Programme d'expérience utilisateur"</string>
   <string name="abc_action_bar_up_description">Naviguer vers le haut</string>
@@ -45,11 +44,11 @@
   <string name="check_phone_error_title">Synchronisation désactivée</string>
   <string name="check_phone_io_error">Impossible de se connecter au réseau</string>
   <string name="send_sms_for_sync_title">"Avertissement de l'utilisation de données"</string>
-  <string name="send_sms_for_sync_notice">Un message SMS sortant peut être nécessaire pour activer ce service. Votre opérateur vous facturera ce message.</string>
+  <string name="send_sms_for_sync_notice">Un message sortant peut être nécessaire pour activer ce service. Votre opérateur vous facturera ce message.</string>
   <string name="activate">Activer</string>
   <string name="activate_fail_notification_title">Réactivation de la synchronisation</string>
-  <string name="sim_changed_reactivate_notice">Un message SMS sortant peut être nécessaire pour réactiver ce service. Votre opérateur vous facturera ce message.</string>
-  <string name="sim_changed_reactivate_int_notice">Un message SMS international sortant peut être nécessaire pour réactiver ce service. Votre opérateur vous facturera ce message.</string>
+  <string name="sim_changed_reactivate_notice">Un message sortant peut être nécessaire pour réactiver ce service. Votre opérateur vous facturera ce message.</string>
+  <string name="sim_changed_reactivate_int_notice">Un message international sortant peut être nécessaire pour réactiver ce service. Votre opérateur vous facturera ce message.</string>
   <string name="error_title">Erreur de synchronisation</string>
   <string name="error_unauthorized">"La synchronisation s'est arrêtée suite à un trop grand nombre de tentatives d'authentification."</string>
   <string name="error_forbidden">La synchronisation a été désactivée à cause de problèmes avec votre compte Mi.</string>
@@ -190,16 +189,12 @@
   <string name="the_easter_day">Easter</string>
   <string name="fmt_time_12hour">"h 'o''horloge'"</string>
   <string name="fmt_time_24hour">"HH 'o''horloge'"</string>
-  <string name="fmt_date_numeric_month_day">dd.MM</string>
-  <string name="fmt_date_numeric_year">yyyy</string>
-  <string name="fmt_date_numeric_year_month">MM.yyyy</string>
-  <string name="fmt_date_numeric_year_month_day">dd.MM.yyyy</string>
-  <string name="fmt_date_short_month">MMM</string>
+  <string name="fmt_date_numeric_month_day">dd/MM</string>
+  <string name="fmt_date_numeric_year_month">MM/yyyy</string>
+  <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_short_month_day">d MMM</string>
-  <string name="fmt_date_year">yyyy</string>
   <string name="fmt_date_short_year_month">MMM yyyy</string>
   <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
-  <string name="fmt_date_long_month">MMMM</string>
   <string name="fmt_date_long_month_day">d MMMM</string>
   <string name="fmt_date_long_year_month">MMMM yyyy</string>
   <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
@@ -221,7 +216,7 @@
   <string name="confirm_description">Confirmer</string>
   <string name="select_all_description">Tout sélectionner</string>
   <string name="deselect_all_description">Tout déselectionner</string>
-  <string name="do_not_restore_temporarily">Not now</string>
-  <string name="download_right_now">Download</string>
+  <string name="do_not_restore_temporarily">Pas maintenant</string>
+  <string name="download_right_now">Télécharger</string>
   <string name="delete_description">Supprimer</string>
 </resources>

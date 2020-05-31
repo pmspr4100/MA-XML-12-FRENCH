@@ -1,38 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="daily_brand">
-        <item>Custom</item>
-        <item>Mi Fan card</item>
-        <item>Xiao Tiansheng card</item>
-        <item>Tencent King card</item>
-    </string-array>
     <string-array name="debug_open_intercept">
-        <item>It will be possible to access and edit files on your device using a computer.</item>
-        <item>Installing apps on your device without your explicit permission will be allowed.</item>
-        <item>"You'll be able to monitor and record your screen content remotely."</item>
-        <item>It will be possible to access the detailed information about your device.</item>
+      <item>"Il sera possible d'accéder et de modifier des fichiers sur votre appareil à l'aide d'un ordinateur."</item>
+      <item>"L'installation d'applications sur votre appareil sans votre autorisation explicite sera autorisée."</item>
+      <item>"Vous pourrez surveiller et enregistrer votre contenu d'écran à distance."</item>
+      <item>"Il sera possible d'accéder aux informations détaillées sur votre appareil."</item>
     </string-array>
     <string-array name="miui_optimization_close_intercept">
-        <item>Important: Multiple system apps might stop working properly.</item>
-        <item>Text layouts, accounts, and content might not be displayed correctly.</item>
+      <item>Important: plusieurs applications système peuvent cesser de fonctionner correctement.</item>
+      <item>"Les dispositions de texte, les comptes et le contenu peuvent ne pas s'afficher correctement."</item>
     </string-array>
     <string-array name="perm_intercept_notification">
-        <item>Read all your notifications, including the content of your text messages and other items that might contain personal information</item>
-        <item>Restrict notification permissions for some apps</item>
-        <item>Simulate tapping notifications and open apps</item>
-        <item>Turn DND mode on and off</item>
+      <item>Lisez toutes vos notifications, y compris le contenu de vos SMS et autres éléments pouvant contenir des informations personnelles</item>
+      <item>Restreindre les permissions de notification pour certaines applications</item>
+      <item>Simuler les notifications de tapotement et les applications ouvertes</item>
+      <item>Activer et désactiver le mode NPD</item>
     </string-array>
     <string-array name="perm_intercept_statitics">
-        <item>Collect the data about your interests and behavior by learning what apps you use and how often you use them</item>
-        <item>Access your carrier-related and language settings, as well as other details</item>
+      <item>Collectez les données sur vos intérêts et votre comportement en apprenant quelles applications vous utilisez et à quelle fréquence vous les utilisez</item>
+      <item>"Accédez à vos paramètres de langue et liés à votre opérateur, ainsi qu'à d'autres détails"</item>
     </string-array>
     <string-array name="perm_intercept_unknown_source">
-        <item>"Third party apps that aren't verified by GetApps might cause multiple problems and decrease system stability."</item>
-        <item>Some third party apps may contain malware that puts your personal data at risk.</item>
+      <item>Les applications tierces qui ne sont pas vérifiées par GetApps peuvent provoquer plusieurs problèmes et diminuer la stabilité du système.</item>
+      <item>Certaines applications tierces peuvent contenir des logiciels malveillants qui mettent en danger vos données personnelles.</item>
     </string-array>
     <string-array name="priority_storage_entries">
-        <item>Stockage interne</item>
-        <item>Stockage externe</item>
+      <item>Stockage interne</item>
+      <item>Stockage externe</item>
     </string-array>
     <string-array name="date_of_traffic_cmcc">
       <item>"Cette semaine "</item>
