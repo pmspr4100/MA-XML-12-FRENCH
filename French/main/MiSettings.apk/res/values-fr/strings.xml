@@ -261,8 +261,10 @@
   <string name="usage_new_home_dashboard">Tableau de bord</string>
   <string name="usage_new_home_date_day_title">"%s | Durée d'utilisation"</string>
   <string name="usage_new_home_day_category_title">"Catégories d'applications"</string>
+  <string name="usage_new_home_day_category_title_new">Screen time for app categories on %s</string>
   <string name="usage_new_home_day_title">Jour</string>
   <string name="usage_new_home_day_usage_title">Applications individuelles</string>
+  <string name="usage_new_home_day_usage_title_new">Screen time on %s</string>
   <string name="usage_new_home_first_unlock">Premier déverrouillage: %s</string>
   <string name="usage_new_home_name">Nom</string>
   <string name="usage_new_home_show_more_data_summary">"Vous pouvez également limiter le temps d'écran pour des applications individuelles"</string>
@@ -347,7 +349,9 @@ This app needs to connect to the internet and requires the following permissions
   <string name="usage_app_limit_alter_title">"Vérifier le temps limite d'utilisation"</string>
   <string name="usage_app_limit_prelong">Prolonger le temps</string>
   <string name="usage_app_limit_reach_summay">%s restants</string>
+  <string name="usage_app_limit_reach_summay_new">Tap to add %d mins</string>
   <string name="usage_app_limit_reach_title">"%s atteint sa limite de temps d'utilisation"</string>
+  <string name="usage_app_limit_reach_title_new" formatted="false">Remaining screen time for %1s: %2s</string>
   <string name="usage_app_limit_summary">"Les applications sélectionnées ne seront plus disponibles lorsque la limite sera atteinte"</string>
   <string name="usage_app_limit_title">"Limiter le temps d'utilisation"</string>
   <string name="usage_app_other_settings">Paramètres additionnels</string>
@@ -513,6 +517,8 @@ Cette application doit également se connecter à internet et nécessite les aut
   <string name="usage_stats_week_day">Week-ends</string>
   <string name="usage_total_days">Total jours</string>
   <string name="usage_total_times">Total sessions</string>
+  <string name="usage_week_avg_usage_title">Avg this week</string>
+  <string name="usage_week_avg_usage_title2">Avg time</string>
   <string name="usage_weekly_report_summary">Découvrez comment vous passez du temps avec votre appareil</string>
   <string name="usage_weekly_report_title">Rapport hebdomadaire</string>
   <string name="usagestats_app_category_miui_education">Éducation</string>

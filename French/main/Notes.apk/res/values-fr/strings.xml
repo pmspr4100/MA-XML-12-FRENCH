@@ -60,8 +60,11 @@
   <string name="date_picker_lunar">Lunar Calendar</string>
   <string name="float_todo_guide_cancel">Annuler</string>
   <string name="float_todo_guide_message">Home screen shortcut allows you to swipe from the edge of the screen to view and create tasks. Create the shortcut now?</string>
+  <string name="float_todo_guide_message_v2">Gesture shortcut allows you to view and create tasks by swiping from the edge of the screen. You can turn this feature on and off in the Settings.</string>
   <string name="float_todo_guide_ok">Create</string>
+  <string name="float_todo_guide_ok_v2">Turn on</string>
   <string name="float_todo_guide_title">Home screen shortcut</string>
+  <string name="float_todo_guide_title_v2">Gesture shortcut</string>
   <string name="fmt_date_long_month_day">d MMMM</string>
   <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
   <string name="fmt_date_numeric_month_day">d-M</string>
@@ -368,7 +371,9 @@
   <string name="pref_desc_skip_confirm_for_quick_delete">Faites glisser votre doigt vers le haut pour supprimer des notes sans confirmation.</string>
   <string name="pref_desc_todo_float_mode">"Faites glisser votre doigt depuis le bord de l'écran pour ouvrir la boîte à outils des tâches."</string>
   <string name="pref_remind_type_summary">Jouer un son de rappel en mode silencieux</string>
+  <string name="pref_remind_type_summary_new">Ignore Silent mode and keep playing sound until the alarm is turned off</string>
   <string name="pref_remind_type_title">Ignorer le mode silencieux</string>
+  <string name="pref_remind_type_title_new">High-priority reminders</string>
   <string name="pref_title_cloud_trash_bin">Notes supprimées du Cloud</string>
   <string name="pref_title_common">Paramètres supplémentaires</string>
   <string name="pref_title_font_size">Taille du texte</string>
@@ -469,7 +474,8 @@
   <string name="toast_reach_text_limit_checkbox">"Impossible d'ajouter une case à cocher car la note est trop longue"</string>
   <string name="toast_reach_text_limit_truncate">Cette note est trop longue. Une partie du texte a été coupée à la fin.</string>
   <string name="toast_refuse_to_record_when_in_call">"Impossible d'utiliser cette fonction pendant les appels"</string>
-  <string name="toast_refuse_to_record_when_in_multi_window">"Impossible d'utiliser cette fonctionnalité avec Écran divisé"</string>
+  <string name="toast_refuse_to_record_when_in_multi_window">"Impossible d'utiliser cette fonctionnalité avec écran divisé"</string>
+  <string name="toast_refuse_to_record_when_in_multi_window_new">"Can't use this feature in Split screen or floating windows"</string>
   <string name="toast_refuse_to_use_contact">"Les permissions des contacts sont limitées. 
 Autorisez Notes à lire vos contacts et à rechercher des comptes sur lappareil."</string>
   <string name="toast_refuse_to_use_external_storage">"Les permissions de stockage sont limitées.

@@ -214,7 +214,7 @@
   <string name="miui_feedback_answer_detail_feedback_unresolved">Non</string>
   <string name="miui_feedback_answer_detail_menu_online_service">"Obtenir de l'aide en ligne"</string>
   <string name="miui_feedback_answer_detail_menu_phone_service">Appeler le support client</string>
-  <string name="miui_feedback_answer_detail_relative_tip">Cela pourrait être utile:</string>
+  <string name="miui_feedback_answer_detail_relative_tip">Related info</string>
   <string name="miui_feedback_answer_detail_title">Détails</string>
   <string name="miui_feedback_edit_action_submit">Envoyer</string>
   <string name="miui_feedback_edit_add_original_images">Ajouter une photo</string>
@@ -280,12 +280,14 @@
   <string name="miui_feedback_main_menu_catch_full_log">Générer des logs</string>
   <string name="miui_feedback_main_menu_feedback_list">"Afficher l'historique des commentaires"</string>
   <string name="miui_feedback_main_search_footer">Ce ne sont pas les questions que vous vouliez poser ?</string>
+  <string name="miui_feedback_main_search_footer_submit">Submit feedback</string>
   <string name="miui_feedback_main_search_issue">Entrez les mots-clés à rechercher</string>
   <string name="miui_feedback_main_start_submit">Soumettre des commentaires</string>
   <string name="miui_feedback_main_submit_dialog_confirm">Soumettre</string>
   <string name="miui_feedback_main_submit_dialog_content">"On dirait que nous n'avons pas trouvé de solution à votre problème. Vous pouvez nous envoyer vos commentaires."</string>
   <string name="miui_feedback_main_submit_dialog_title">Soumettre des commentaires</string>
   <string name="miui_feedback_main_title">Commentaires</string>
+  <string name="miui_guide_accessibility_image_desc">Image</string>
   <string name="miui_guide_clear_db_service">\"Services et commentaires\" efface le cache de la langue…</string>
   <string name="miui_guide_footer_desc">"Le guide du débutant est conçu pour vous aider à en apprendre plus sur votre appareil et MIUI. Certaines images et vidéos dans le guide ont été créées pour servir uniquement de référence, et elles peuvent différer du véritable produit. Les fonctionnalités décrites dans ce guide peuvent varier en fonction du modèle de votre appareil, de la version de MIUI et de votre environnement d'utilisation."</string>
   <string name="miui_guide_item_complete">Terminé</string>
@@ -311,7 +313,11 @@
   <string name="permission_device_info">Accès infos appareil</string>
   <string name="permission_device_introduce">Pour déterminer la période de garantie limitée</string>
   <string name="permission_exit">Quitter</string>
+  <string name="permission_external_storage_introduce">For saving and uploading your feedback</string>
   <string name="permission_first_start_network_title">Termes et conditions</string>
+  <string name="permission_imei_disable_desc">Allow this app to connect to the internet.</string>
+  <string name="permission_imei_enable_desc">Allow this app to connect to the internet and grant the mandatory permissions listed above.</string>
+  <string name="permission_location_introduce">For displaying nearby service points</string>
   <string name="permission_main_purpose">Affichage de démonstrations de fonctionnalités MIUI, envoi de retours utilisateurs, et demande de services après-vente.</string>
   <string name="permission_privacy">Politique de vie privée (obligatoire)</string>
   <string name="permission_select_all">Sélectionner tout</string>

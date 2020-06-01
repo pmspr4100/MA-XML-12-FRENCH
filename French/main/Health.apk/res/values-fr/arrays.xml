@@ -1,90 +1,130 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="arr_prompt_label">
-        <item>Raisonnable</item>
-        <item>Long</item>
-        <item>Trop long</item>
+      <item>Raisonnable</item>
+      <item>Long</item>
+      <item>Trop long</item>
     </string-array>
     <string-array name="arr_sedentary_reminder">
-        <item>"C'est le moment de partir !"</item>
-        <item>Apprendre encore plus</item>
-        <item>"Buvez de l'eau et promenez-vous."</item>
-        <item>Apprendre encore plus</item>
-        <item>Monter un escalier</item>
-        <item>Apprendre encore plus</item>
-        <item>"Ne restez pas assis trop longtemps"</item>
-        <item>Apprendre encore plus</item>
+      <item>"C'est le moment de partir !"</item>
+      <item>Apprendre encore plus</item>
+      <item>"Buvez de l'eau et promenez-vous."</item>
+      <item>Apprendre encore plus</item>
+      <item>Monter un escalier</item>
+      <item>Apprendre encore plus</item>
+      <item>"Ne restez pas assis trop longtemps"</item>
+      <item>Apprendre encore plus</item>
     </string-array>
     <string-array name="arr_time_label">
-        <item>1 heure</item>
-        <item>2 heures</item>
+      <item>1 heure</item>
+      <item>2 heures</item>
+    </string-array>
+    <string-array name="contact_relation_array">
+      <item>Not Set</item>
+      <item>Parents</item>
+      <item>Sisters</item>
+      <item>Brothers</item>
+      <item>Couple</item>
+      <item>Lovers</item>
+      <item>Friends</item>
+      <item>Colleagues</item>
+      <item>Classmates</item>
+    </integer-array>
+    <string-array name="gender_array">
+      <item>not set</item>
+      <item>Male</item>
+      <item>Female</item>
+    </integer-array>
+    <string-array name="normal_blood_array">
+      <item>not set</item>
+      <item>Type A</item>
+      <item>Type B</item>
+      <item>Type AB</item>
+      <item>Type O</item>
+    </string-array>
+    <string-array name="normal_blood_types">
+      <item>Not Set</item>
+      <item>Type A</item>
+      <item>Type B</item>
+      <item>Type AB</item>
+      <item>Type O</item>
     </string-array>
     <string-array name="energy_unit">
-        <item>" kcal"</item>
-        <item>" kJ"</item>
+      <item>" kcal"</item>
+      <item>" kJ"</item>
     </string-array>
     <string-array name="length_unit">
-        <item>" cm"</item>
-        <item>" m"</item>
-        <item>" km"</item>
+      <item>" cm"</item>
+      <item>" m"</item>
+      <item>" km"</item>
     </string-array>
     <string-array name="pager_titles">
-        <item>Jour</item>
-        <item>Semaine</item>
-        <item>Mois</item>
+      <item>Jour</item>
+      <item>Semaine</item>
+      <item>Mois</item>
+    </string-array>
+    <string-array name="rh_blood_array">
+      <item>Not Set</item>
+      <item>Negative</item>
+      <item>Positive</item>
     </string-array>
     <string-array name="run_in_background_state">
-        <item>Pas de restrictions</item>
-        <item>"Limiter l'activité en arrière-plan"</item>
-        <item>Arrêtez-vous après 10 minutes</item>
-        <item>Jamais</item>
+      <item>Pas de restrictions</item>
+      <item>"Limiter l'activité en arrière-plan"</item>
+      <item>Arrêtez-vous après 10 minutes</item>
+      <item>Jamais</item>
     </string-array>
     <string-array name="speed_unit">
-        <item>" km/h"</item>
-        <item>" m/s"</item>
+      <item>" km/h"</item>
+      <item>" m/s"</item>
     </string-array>
     <string-array name="splash_loading">
-        <item>"Calcul de l'objectif d'activité…"</item>
-        <item>"Objectif d'activité: %1$d pas"</item>
-        <item>"Vous avez parcouru %1$d pas aujourd'hui"</item>
-        <item>"Calcul de l'objectif de sommeil…"</item>
-        <item>Objectif de sommeil: %1$d heures</item>
-        <item>"Pas de données de sommeil pour l'instant"</item>
-        <item>Ouverture de Mi Santé</item>
+      <item>"Calcul de l'objectif d'activité…"</item>
+      <item>"Objectif d'activité: %1$d pas"</item>
+      <item>"Vous avez parcouru %1$d pas aujourd'hui"</item>
+      <item>"Calcul de l'objectif de sommeil…"</item>
+      <item>Objectif de sommeil: %1$d heures</item>
+      <item>"Pas de données de sommeil pour l'instant"</item>
+      <item>Ouverture de Mi Santé</item>
     </string-array>
     <string-array name="stand_guide_page_content1">
-        <item>"S'asseoir ne profite pas à votre santé. Même si vous ne pouvez pas réduire le temps que vous passez assis, vous levez de temps en temps est une bonne idée."</item>
-        <item>"Cette fonction vous rappellera de passer au moins 1 minute de chaque heure debout. 12 heures avec des pauses debout tous les jours vous aideront à éviter les risques d'un mode de vie sédentaire."</item>
-        <item>Appuyez sur \"Continuer\" pour en savoir plus et activer cette fonctionnalité.</item>
+      <item>"S'asseoir ne profite pas à votre santé. Même si vous ne pouvez pas réduire le temps que vous passez assis, vous levez de temps en temps est une bonne idée."</item>
+      <item>"Cette fonction vous rappellera de passer au moins 1 minute de chaque heure debout. 12 heures avec des pauses debout tous les jours vous aideront à éviter les risques d'un mode de vie sédentaire."</item>
+      <item>Appuyez sur \"Continuer\" pour en savoir plus et activer cette fonctionnalité.</item>
     </string-array>
     <string-array name="stand_guide_page_content2">
-        <item>"L'assistant permanent enregistre automatiquement la position debout en détectant l'état d'utilisation du téléphone mobile. Lorsqu'aucune activité debout n'est détectée dans l'heure qui suit, une notification sera envoyée pour vous rappeler de vous lever ou d'ajouter manuellement un enregistrement."</item>
-        <item>"La confirmation de l'activation permettra simultanément la détection et le rappel de position debout."</item>
+      <item>"L'assistant permanent enregistre automatiquement la position debout en détectant l'état d'utilisation du téléphone mobile. Lorsqu'aucune activité debout n'est détectée dans l'heure qui suit, une notification sera envoyée pour vous rappeler de vous lever ou d'ajouter manuellement un enregistrement."</item>
+      <item>"La confirmation de l'activation permettra simultanément la détection et le rappel de position debout."</item>
     </string-array>
     <string-array name="week">
-        <item>Dimanche</item>
-        <item>Lundi</item>
-        <item>Mardi</item>
-        <item>Mercredi</item>
-        <item>Jeudi</item>
-        <item>Vendredi</item>
-        <item>Samedi</item>
+      <item>Dimanche</item>
+      <item>Lundi</item>
+      <item>Mardi</item>
+      <item>Mercredi</item>
+      <item>Jeudi</item>
+      <item>Vendredi</item>
+      <item>Samedi</item>
     </string-array>
     <string-array name="week_label">
-        <item>Dim</item>
-        <item>Lun</item>
-        <item>Mar</item>
-        <item>Mer</item>
-        <item>Jeu</item>
-        <item>Ven</item>
-        <item>Sam</item>
+      <item>Dim</item>
+      <item>Lun</item>
+      <item>Mar</item>
+      <item>Mer</item>
+      <item>Jeu</item>
+      <item>Ven</item>
+      <item>Sam</item>
     </string-array>
     <string-array name="weight_unit">
-        <item>" g"</item>
-        <item>" kg"</item>
-        <item>" t"</item>
-        <item>" liang"</item>
-        <item>" jin"</item>
-        <item>" lb"</item>
+      <item>" g"</item>
+      <item>" kg"</item>
+      <item>" t"</item>
+      <item>" liang"</item>
+      <item>" jin"</item>
+      <item>" lb"</item>
+    </string-array>
+    <string-array name="yes_no_array">
+      <item>not set</item>
+      <item>yes</item>
+      <item>no</item>
     </string-array>
 </resources>
