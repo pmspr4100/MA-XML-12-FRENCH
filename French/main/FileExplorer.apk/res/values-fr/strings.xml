@@ -96,11 +96,14 @@
   <string name="rename_alert2">Le fichier sera masqué après avoir modifié son extension.</string>
   <string name="rename_failed">Impossible de renommer %1$s</string>
   <string name="rename_input_null">Entrez un nouveau nom de fichier</string>
+  <string name="rename_msg">Un fichier avec le nom \"%s\" existe déjà.</string>
   <string name="repair_done">Restauré</string>
   <string name="repair_error">Impossible de restaurer</string>
   <string name="repair_file">Restaurer des fichiers chiffrés</string>
+  <string name="replace">Replacer</string>
   <string name="switch_doc_type">Sélectionnez le format</string>
   <string name="cancel_error">Impossible de supprimer, essayez à nouveau</string>
+  <string name="cancel_msg">Tout déselectionner ?</string>
   <string name="cancel_operation">"Annuler l'opération"</string>
   <string name="cancel_success">Retiré avec succès, tous les fichiers ont été déplacés vers %s</string>
   <string name="cancelled_by_user">Opération annulée</string>
@@ -223,6 +226,7 @@
   <string name="file_info_modified">Dernière modification: </string>
   <string name="file_info_size">Taille: </string>
   <string name="file_loading">Chargement…</string>
+  <string name="file_name_existed">Le nom de fichier est pris</string>
   <string name="file_name_invalid">Les noms de dossiers ne peuvent contenir ces caractères: /\\:*?&lt;></string>
   <string name="file_not_exist">"Le fichier n'existe pas"</string>
   <string name="folder_name_empty">Le nom de dossier ne peut être vide</string>
@@ -424,6 +428,7 @@
   <string name="set_pattern">Le mot de passe a été mis à jour</string>
   <string name="set_pattern_btn">Définir</string>
   <string name="set_pattern_msg">Veuillez saisir à nouveau votre mot de passe. Le mot de passe de protection de confidentialité fonctionne également pour les photos et les messages.</string>
+  <string name="skip">Suivant</string>
   <string name="skip_file">Suivant</string>
   <string name="smb_loading">Chargement…</string>
   <string name="sort_size_asc">Du plus petit au plus grand</string>
@@ -470,6 +475,7 @@
   <string name="unlock_pattern_title">Nouveau mot de passe</string>
   <string name="upload_user_photo">Ajouter</string>
   <string name="usb_label">USB</string>
+  <string name="use_to_all">"S'applique à tous"</string>
   <string name="used">Utilisé</string>
   <string name="user_guide_continue_use">OK</string>
   <string name="user_not_login">"Connectez-vous d'abord"</string>
