@@ -713,6 +713,11 @@ Bluetooth"</string>
   <string name="dialog_alert_title">Attention</string>
   <string name="dialog_cancel">Annuler</string>
   <string name="dialog_network_priority_title">Réseau prioritaire</string>
+  <string name="dialog_ota_change_number_fail">"Couldn't change phone number. If this error occurs after you try again, contact your vendor."</string>
+  <string name="dialog_ota_change_number_lgu">Download USIM now?</string>
+  <string name="dialog_ota_change_number_lgu_roaming">"Can't change phone numbers while abroad."</string>
+  <string name="dialog_ota_change_number_processing">Downloading USIM…</string>
+  <string name="dialog_ota_change_number_success">Changed phone number successfully</string>
   <string name="dialog_report">Signaler</string>
   <string name="direct_boot_unaware_dialog_message">"Remarque: Après un redémarrage, vous ne pouvez pas lancer cette application tant que vous n'avez pas déverrouillé votre téléphone."</string>
   <string name="disable">Désactiver</string>
