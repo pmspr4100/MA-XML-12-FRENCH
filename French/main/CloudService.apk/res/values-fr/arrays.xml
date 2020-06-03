@@ -20,6 +20,18 @@
         <item>"Sauvegarder les réglages importants, y compris pour le Wi-Fi et l'affichage"</item>
         <item>"Verrouiller à distance votre appareil si vous l'avez perdu"</item>
     </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china">
+        <item>Synchroniser vos contacts, messages, notes, rendez-vous, et plus encore</item>
+        <item>"Sauvegarder les applications, l'arrangement d'écran d'accueil, et le fond d'écran"</item>
+        <item>"Sauvegarder les réglages importants, y compris pour le Wi-Fi et l'affichage"</item>
+        <item>"Verrouiller à distance votre appareil si vous l'avez perdu"</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray">
+        <item>Sync app data</item>
+        <item>Back up Home screen layout</item>
+        <item>Back up system settings</item>
+        <item>Find device</item>
+    </string-array>
     <string-array name="settings_search_backup_manage">
         <item>Sauvegardes</item>
         <item>Objets sauvegardés</item>
@@ -116,6 +128,11 @@
         <item>Insufficient storage;Membership;Storage;Storage space;Cloud;Sync;Cloud services;Xiaomi Cloud;Trash;Deleted items;Security</item>
     </string-array>
     <string-array name="settings_search_wlan">
+        <item>Synchroniser les réglages Wi-Fi avec Xiaomi Cloud</item>
+        <item>Activer la synchronisation</item>
+        <item>WLAN;wifi;Wi-Fi;Cloud;Sync;Cloud services;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_wlan_china">
         <item>Synchroniser les réglages Wi-Fi avec Xiaomi Cloud</item>
         <item>Activer la synchronisation</item>
         <item>WLAN;wifi;Wi-Fi;Cloud;Sync;Cloud services;Xiaomi Cloud</item>
