@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>    
 	<plurals name="a_hour_ago">
-        <item quantity="other">1 hour ago</item>
+        <item quantity="other">Il y a 1 heure</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 hour ago</item>
+        <item quantity="other">Il y a 1 heure</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
-        <item quantity="other">Half an hour ago</item>
+        <item quantity="other">Il y a 1 demi-heure</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">In 1 hour</item>
+        <item quantity="other">Dans 1 heure</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
-        <item quantity="other">In half an hour</item>
+        <item quantity="other">Dans 1 demi-heure</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="other">Immediately</item>
+        <item quantity="other">Immédiatement</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">in %d mins</item>
-        <item quantity="one">in 1 min</item>
+        <item quantity="other">dans %d min</item>
+        <item quantity="one">dans 1 min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Just now</item>
+        <item quantity="other">"À l'instant"</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d mins ago</item>
-        <item quantity="one">1 min ago</item>
+        <item quantity="other">Il y a %d min</item>
+        <item quantity="one">Il y a 1 min</item>
     </plurals>
     <plurals name="comment_detail_title">
         <item quantity="other">%d réponses</item>
@@ -50,24 +50,24 @@
         <item quantity="one">Sélectionné %d raison</item>
     </plurals>
     <plurals name="half_hour_ago">
-        <item quantity="other">Half an hour ago</item>
+        <item quantity="other">Il y a une demi-heure</item>
     </plurals>
     <plurals name="hot_word_hot_count">
         <item quantity="other">%d vues</item>
         <item quantity="one">%d vue</item>
     </plurals>
     <plurals name="in_a_hour">
-        <item quantity="other">In 1 hour</item>
+        <item quantity="other">Dans 1 heure</item>
     </plurals>
     <plurals name="in_half_hour">
-        <item quantity="other">In half an hour</item>
+        <item quantity="other">Dans 1 demi-heure</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
-        <item quantity="other">Immediately</item>
+        <item quantity="other">Immédiatement</item>
     </plurals>
     <plurals name="in_num_minutes">
-        <item quantity="other">in %d minutes</item>
-        <item quantity="one">in 1 minute</item>
+        <item quantity="other">dans %d minutes</item>
+        <item quantity="one">dans 1 minute</item>
     </plurals>
     <plurals name="info_flow_tips">
         <item quantity="other">%d nouveaux articles pour vous</item>
@@ -82,7 +82,7 @@
         <item quantity="one">%d résultat</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Just now</item>
+        <item quantity="other">"À l'instant"</item>
     </plurals>
     <plurals name="mw_last_num_days">
         <item quantity="other">Les %d derniers jours</item>
@@ -154,12 +154,12 @@ Jouera le suivant dans %d seconde…"</item>
         <item quantity="one">%d personne a déjà voté</item>
     </plurals>
     <plurals name="vo_wei_bo_publish_time_hour">
-        <item quantity="other">· il y  a %s heures</item>
-        <item quantity="one">· il y a %s heure</item>
+        <item quantity="other">· Il y  a %s heures</item>
+        <item quantity="one">· Il y a %s heure</item>
     </plurals>
     <plurals name="vo_wei_bo_publish_time_minute">
-        <item quantity="other">· il y a %s mins</item>
-        <item quantity="one">· il y a %s min</item>
+        <item quantity="other">· Il y a %s min</item>
+        <item quantity="one">· Il y a %s min</item>
     </plurals>
     <plurals name="vo_zhi_hu_answer">
         <item quantity="other">%d réponses sur Zhihu</item>
