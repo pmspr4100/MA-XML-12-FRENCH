@@ -20,34 +20,27 @@
       <item>2 heures</item>
     </string-array>
     <string-array name="contact_relation_array">
-      <item>Not Set</item>
-      <item>Parents</item>
-      <item>Sisters</item>
-      <item>Brothers</item>
-      <item>Couple</item>
-      <item>Lovers</item>
-      <item>Friends</item>
-      <item>Colleagues</item>
-      <item>Classmates</item>
+      <item>Not set</item>
+      <item>Parent</item>
+      <item>Sister</item>
+      <item>Brother</item>
+      <item>Spouse</item>
+      <item>Partner</item>
+      <item>Friend</item>
+      <item>Colleague</item>
+      <item>Classmate</item>
     </string-array>
     <string-array name="gender_array">
-      <item>not set</item>
+      <item>Not set</item>
       <item>Male</item>
       <item>Female</item>
     </string-array>
     <string-array name="normal_blood_array">
-      <item>not set</item>
-      <item>Type A</item>
-      <item>Type B</item>
-      <item>Type AB</item>
-      <item>Type O</item>
-    </string-array>
-    <string-array name="normal_blood_types">
-      <item>Not Set</item>
-      <item>Type A</item>
-      <item>Type B</item>
-      <item>Type AB</item>
-      <item>Type O</item>
+      <item>Not set</item>
+      <item>A</item>
+      <item>B</item>
+      <item>AB</item>
+      <item>O</item>
     </string-array>
     <string-array name="energy_unit">
       <item>" kcal"</item>
@@ -64,7 +57,7 @@
       <item>Mois</item>
     </string-array>
     <string-array name="rh_blood_array">
-      <item>Not Set</item>
+      <item>Not set</item>
       <item>Negative</item>
       <item>Positive</item>
     </string-array>
@@ -123,8 +116,8 @@
       <item>" lb"</item>
     </string-array>
     <string-array name="yes_no_array">
-      <item>not set</item>
-      <item>yes</item>
-      <item>no</item>
+      <item>Not set</item>
+      <item>Yes</item>
+      <item>No</item>
     </string-array>
 </resources>

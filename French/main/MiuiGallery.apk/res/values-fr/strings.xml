@@ -108,8 +108,10 @@
   <string name="filter_general_delicious">Food</string>
   <string name="filter_general_df">Clarity</string>
   <string name="filter_general_fairytale">Story</string>
+  <string name="filter_general_greenorange">Lime</string>
   <string name="filter_general_japanese">Pastel</string>
   <string name="filter_general_lilt">Lilt</string>
+  <string name="filter_general_movie">Film</string>
   <string name="filter_general_nature">Nature</string>
   <string name="filter_general_pink">Pink</string>
   <string name="filter_general_portrait">Portrait</string>
@@ -127,6 +129,7 @@
   <string name="filter_movie_koizora">Manga</string>
   <string name="filter_movie_lost">Lost</string>
   <string name="filter_movie_nordic">Nordic</string>
+  <string name="filter_movie_portrait">Color focus</string>
   <string name="filter_movie_rome">Rome</string>
   <string name="filter_movie_summer">Summer</string>
   <string name="filter_movie_travel">Travel</string>
@@ -583,7 +586,7 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
   <string name="chooser_fragment_mishare_title">Partager à</string>
   <string name="cleaner_empty_value_description">Tout semble bon !</string>
   <string name="cleaner_photo_pick_delete_selected">Supprimer les photos sélectionnées</string>
-  <string name="cleaner_raw_action">Vue</string>
+  <string name="cleaner_raw_action">Afficher les détails</string>
   <string name="cleaner_raw_description">"Libérez de l'espace de stockage en supprimant les grandes images RAW"</string>
   <string name="cleaner_raw_title">Effacer les fichiers RAW</string>
   <string name="cleaner_scan_description">"L'optimisation des éléments libère de l'espace de stockage sur votre appareil"</string>
@@ -597,7 +600,7 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
   <string name="cleaner_screen_shot_action">Vue</string>
   <string name="cleaner_screen_shot_description">"Supprimer les captures d'écran dont vous n'avez plus besoin."</string>
   <string name="cleaner_screen_shot_title">"Suppression des captures d'écran"</string>
-  <string name="cleaner_similar_action">Vue</string>
+  <string name="cleaner_similar_action">Afficher les détails</string>
   <string name="cleaner_similar_description">Supprimer les photos en doubles</string>
   <string name="cleaner_similar_title">Photos en double</string>
   <string name="cleaner_slim_action">"Démarrer l'optimisation"</string>
@@ -607,7 +610,7 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
   <string name="cleaner_space_description">peut être libéré</string>
   <string name="cleaner_space_detail_description">"Nettoyez les photos dans votre galerie pour libérer de l'espace de stockage"</string>
   <string name="cleaner_stop_scan">"Arrêter l'analyse"</string>
-  <string name="cleaner_video_action">Vue</string>
+  <string name="cleaner_video_action">Afficher les détails</string>
   <string name="cleaner_video_description">"Supprimer des vidéos qui occupent de l'espace de stockage"</string>
   <string name="cleaner_video_pick_delete_selected">Supprimer les vidéos sélectionnées</string>
   <string name="cleaner_video_title">Supprimer les vidéos</string>
@@ -909,6 +912,7 @@ sont disponibles"</string>
   <string name="feature_guidance_video_editor_smart_effects">De nouveaux effets photo sont disponibles</string>
   <string name="filter_category_master">Original</string>
   <string name="filter_category_sky">Ciel</string>
+  <string name="filter_general_blackice">Black ice</string>
   <string name="filter_master_hazy">Brumeux</string>
   <string name="filter_master_mellow">Doux</string>
   <string name="filter_master_memoire">Mémoire</string>
@@ -965,7 +969,7 @@ sont disponibles"</string>
   <string name="free_view_desc">Vue en 3D</string>
   <string name="gallery_setting">Paramètres</string>
   <string name="gallery_sync_disable_toast">Synchronisation est désactivée pour la Galerie</string>
-  <string name="generate_story_summary">MIUI analysera vos photos et créera des souvenirs. Désactivez cette fonctionnalité pour arrêter de créer des souvenirs.</string>
+  <string name="generate_story_summary">Take enough photos, connect charger, and turn off screen to make memories appear</string>
   <string name="generate_story_title">Souvenirs</string>
   <string name="get_album_info_in_process">"Récupération des détails de l'album…"</string>
   <string name="gif_tip">GIF</string>
@@ -1190,10 +1194,15 @@ pour personnaliser Galerie"</string>
   <string name="onekey_none">Original</string>
   <string name="onekey_portrait">Portrait</string>
   <string name="onekey_scene">Paysage</string>
+  <string name="online_video_normal_transcoding">This video is being transcoded now. Wait a minute or two and try again.</string>
+  <string name="online_video_vip_tip">Become a VIP member to stream videos without fully preloading them</string>
+  <string name="online_video_vip_transcoding">"About to start VIP streaming…
+Transcoding might take some time when you use this feature for the first time."</string>
   <string name="open">Activer</string>
   <string name="open_public_message">"Générer une url et l'envoyer à vos amis"</string>
   <string name="open_public_title">Partager</string>
   <string name="operate_processing_file_error">"Patientez jusqu'à ce que toutes les photos soient traitées."</string>
+  <string name="operate_with_metered_network_msg">Your device is connected to a paid network. Continue anyway?</string>
   <string name="operation_add_album">"Ajouter à l'album"</string>
   <string name="operation_add_picture">Ajouter des éléments</string>
   <string name="operation_add_secret">"Ajouter à l'album privé"</string>
@@ -1337,7 +1346,7 @@ pour personnaliser Galerie"</string>
   <string name="photo_editor_talkback_recently">Récemment utilisé</string>
   <string name="photo_editor_talkback_redo">Refaire</string>
   <string name="photo_editor_talkback_undo">Annuler</string>
-  <string name="photo_editor_text">Texte</string>
+  <string name="photo_editor_text">Filigrane</string>
   <string name="photo_font_cancel_download">Annuler</string>
   <string name="photo_font_download">Télécharger</string>
   <string name="photo_font_download_failed_for_notwork">Impossible de télécharger. Veuillez vous connecter au réseau et réessayez.</string>
@@ -1642,6 +1651,7 @@ pour personnaliser Galerie"</string>
   <string name="sticker_fit">Fitness</string>
   <string name="sticker_girl">Fille drôle</string>
   <string name="sticker_girly">Accessoires</string>
+  <string name="sticker_graduation">Graduation</string>
   <string name="sticker_head">Mauvais jour de cheveux</string>
   <string name="sticker_pupil">"Fille d'école"</string>
   <string name="sticker_rock">Boum !</string>
@@ -1702,8 +1712,12 @@ pour personnaliser Galerie"</string>
   <string name="text_edit_dialog_style_shadow">Ombre</string>
   <string name="text_edit_dialog_style_transparent">Opacité</string>
   <string name="text_edit_sub_menu_text">Bulle</string>
-  <string name="text_tab_bubble">Bulles</string>
-  <string name="text_tab_watermark">Filigranes</string>
+  <string name="text_tab_bubble">Bubble</string>
+  <string name="text_tab_city">City</string>
+  <string name="text_tab_festival">Holiday</string>
+  <string name="text_tab_scene">Scene</string>
+  <string name="text_tab_spot">Scenery</string>
+  <string name="text_tab_watermark">Text</string>
   <string name="things_album_empty_title">Les photos peuvent être triées par les objets en elles</string>
   <string name="throwing_print">Impression</string>
   <string name="throwing_screen">Diffusion</string>
