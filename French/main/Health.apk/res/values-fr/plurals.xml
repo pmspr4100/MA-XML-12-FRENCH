@@ -30,7 +30,8 @@
         <item quantity="one">il y a 1 min</item>
     </plurals>
     <plurals name="birthday_format">
-        <item quantity="other">(%1$d years old)</item>
+        <item quantity="other">" (%1$d ans)"</item>
+        <item quantity="one">" (%1$d ans)"</item>
     </plurals>
     <plurals name="count_duration_standard">
         <item quantity="other">%1$d-%2$d fois</item>
