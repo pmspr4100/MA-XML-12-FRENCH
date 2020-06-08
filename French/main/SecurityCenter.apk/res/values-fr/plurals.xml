@@ -396,13 +396,17 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
       <item quantity="other">"Patientez %d secondes et réessayez. "</item>
       <item quantity="one">"Patientez %d seconde et réessayez. "</item>
     </plurals>
+    <plurals name="intl_perm_privacy_control_message_count">
+      <item quantity="other">You can protect %d items</item>
+      <item quantity="one">You can protect %d item</item>
+    </plurals>
     <plurals name="keyguard_charging_info_drained_hour_time_format">
-        <item quantity="other">%s heures</item>
-        <item quantity="one">%s heure</item>
+      <item quantity="other">%s heures</item>
+      <item quantity="one">%s heure</item>
     </plurals>
     <plurals name="keyguard_charging_info_drained_min_time_format">
-        <item quantity="other">%s minutes</item>
-        <item quantity="one">%s minute</item>
+      <item quantity="other">%s minutes</item>
+      <item quantity="one">%s minute</item>
     </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
       <item quantity="other">Connecter au moins %d points</item>
@@ -495,6 +499,14 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
     <plurals name="net_booster_expire_notification_tip">
       <item quantity="other">"%d jours restants avant que la session d'augmentation de la vitesse du réseau ne se termine. Renouveler la session pour éviter des problèmes de vitesse de réseau."</item>
       <item quantity="one">"%d jour restant avant que la session d'augmentation de la vitesse du réseau ne se termine. Renouveler la session pour éviter des problèmes de vitesse de réseau."</item>
+    </plurals>
+    <plurals name="gb_dialog_game_uninstall_multi_tips_title">
+      <item quantity="other">Uninstall %2$d games (including %1$s)</item>
+      <item quantity="one">Uninstall %2$d game (including %1$s)</item>
+    </plurals>
+    <plurals name="gb_game_video_ai_record_finish_tips">
+      <item quantity="other">Saved %d AI recordings to Game Turbo</item>
+      <item quantity="one">Saved %d AI recording to Game Turbo</item>
     </plurals>
     <plurals name="gb_record_time_title">
       <item quantity="other">%d secs</item>

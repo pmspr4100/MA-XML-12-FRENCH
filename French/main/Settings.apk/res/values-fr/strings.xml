@@ -3148,6 +3148,7 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
   <string name="erase_sure">Obligatoire</string>
   <string name="error_adding_apn_type">"L'opérateur n'autorise pas l'ajout d'APN de type %s."</string>
   <string name="error_apn_empty">"L'APN est obligatoire."</string>
+  <string name="error_apn_not_allowed">"This APN isn't allowed on this device. Try another one."</string>
   <string name="error_mcc_not3">Le champ MCC doit contenir 3 chiffres.</string>
   <string name="error_mnc_not23">Le champ MNC doit contenir 2 ou 3 chiffres.</string>
   <string name="error_name_empty">Le champ \"Nom\" est obligatoire.</string>
@@ -4361,6 +4362,7 @@ D'autres personnes utilisent cet appareil.
   <string name="mi_pay">Mi Wallet</string>
   <string name="mi_pay_indonesia">Compte Mi Pay</string>
   <string name="mi_pay_summary">Carte de bus/Mi Pay/Émulateur de carte</string>
+  <string name="mi_pay_summary_without_nfc">Mi Pay</string>
   <string name="mi_service">Service Mi</string>
   <string name="mi_service_app_detail">"Détails de l'utilisation des données"</string>
   <string name="mi_shopping_mall">Mi Store</string>
@@ -4421,9 +4423,9 @@ D'autres personnes utilisent cet appareil.
   <string name="miui_sos_contacts_category">"Contacts d'urgence"</string>
   <string name="miui_sos_emergency_contacts">"Contacts d'urgence"</string>
   <string name="miui_sos_emergency_delete">Supprimer</string>
-  <string name="miui_sos_emergency_delivered_sms" formatted="false">%1s (%2s) a déjà accepté.</string>
-  <string name="miui_sos_emergency_delivered_sms_noname">%1s a déjà accepté</string>
-  <string name="miui_sos_emergency_failed_sms" formatted="false">"Impossible d'envoyer un message à %1s (%2s)."</string>
+  <string name="miui_sos_emergency_delivered_sms">%1$s (%2$s) a reçu le message</string>
+  <string name="miui_sos_emergency_delivered_sms_noname">%1$s a reçu le message</string>
+  <string name="miui_sos_emergency_failed_sms">"Impossible d'envoyer un message à %1$s (%2$s)"</string>
   <string name="miui_sos_emergency_failed_sms_noname">"Impossible d'envoyer un message à %1s."</string>
   <string name="miui_sos_enable_switch_summary">"Appuyez rapidement sur le bouton d'alimentation 5 fois pour envoyer un message d'urgence avec votre position à vos contacts d'urgence"</string>
   <string name="miui_sos_enable_switch_title">"Messages d'urgences"</string>
