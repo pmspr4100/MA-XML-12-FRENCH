@@ -363,6 +363,8 @@ et ajustez les préférences automatiquement"</string>
   <string name="close_back_flash_toast">"Votre appareil à surchauffé. impossible d'utiliser le flash maintenant."</string>
   <string name="close_front_flash_toast">"Votre appareil à surchauffé. impossible d'utiliser le flash maintenant."</string>
   <string name="color_effect_entry_berry">Baies</string>
+  <string name="color_effect_entry_blackgold">Rhodium</string>
+  <string name="color_effect_entry_blackice">Black ice</string>
   <string name="color_effect_entry_blackwhite">Noir et Blanc</string>
   <string name="color_effect_entry_cookie">Gâteau</string>
   <string name="color_effect_entry_delicacy">Gourmet</string>
@@ -371,6 +373,7 @@ et ajustez les préférences automatiquement"</string>
   <string name="color_effect_entry_glimmer">Lueur</string>
   <string name="color_effect_entry_koizora">Amour</string>
   <string name="color_effect_entry_latte">Lait</string>
+  <string name="color_effect_entry_orange">Lime</string>
   <string name="color_effect_entry_quiet">Calme</string>
   <string name="color_effect_entry_soda">Soda</string>
   <string name="color_effect_entry_vivid">Vivid</string>
@@ -1136,6 +1139,11 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="timbre_robot">Robot</string>
   <string name="pref_setting_title">Paramètres</string>
   <string name="time_lapse_error">"Impossible d'utiliser cette taille de vidéo pour un enregistrement en accéléré"</string>
+  <string name="timer_burst">Timer burst</string>
+  <string name="timer_burst_manu_param_interval">Time interval(not contains exposure time)</string>
+  <string name="timer_burst_param_interval">Time interval</string>
+  <string name="timer_burst_param_total_count">Total capture count</string>
+  <string name="timer_burst_setting_total_count">Count: %1$s</string>
   <string name="title_snap_double_confirm">Confirmer à nouveau</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">"Impossible de prendre en rafale lorsque la capture audio est activée"</string>
   <string name="toast_saving">Enregistrement des photos…</string>
@@ -1154,6 +1162,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="ultra_pixel_48mp">48 MPX</string>
   <string name="ultra_pixel_64mp">64 Mpx</string>
   <string name="module_name_pixel">48 Mpx</string>
+  <string name="gauguin_module_name_pixel">64 MPX</string>
   <string name="karna_module_name_pixel">64 MPX</string>
   <string name="ultra_pixel_photography_32mp_close_tip">32 MPX désactivé</string>
   <string name="ultra_pixel_photography_48mp_close_tip">48 MPX désactivé</string>
