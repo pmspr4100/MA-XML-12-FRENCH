@@ -27,6 +27,11 @@
       <item>Important</item>
       <item>Sans importance</item>
     </string-array>
+    <string-array name="wifi_frequency_band_entries">
+      <item>Automatique</item>
+      <item>5 GHz uniquement</item>
+      <item>2.4 GHz uniquement</item>
+    </string-array>
     <string-array name="aggregate_summaries">
       <item>MIUI décidera quelles notifications doivent apparaître directement</item>
       <item>Les notifications apparaîtront dans la zone de notification</item>
