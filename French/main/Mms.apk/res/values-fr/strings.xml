@@ -191,6 +191,7 @@
   <string name="copy_to_sdcard">Enregistrer la pièce jointe</string>
   <string name="copy_to_sdcard_fail">"Impossible d'enregistrer la pièce jointe"</string>
   <string name="copy_to_sdcard_success">Pièce jointe enregistrée sous %s</string>
+  <string name="copy_verification_code_tip">Copied successfully</string>
   <string name="current_data_version">Version de Mi Message</string>
   <string name="delete">Supprimer</string>
   <string name="delete_block_conversation">Supprimer cette conversation</string>
@@ -204,7 +205,6 @@
   <string name="delivery_report_activity">Accusé de réception</string>
   <string name="delivery_toast_body">Message reçu par %s</string>
   <string name="dialog_choice_all_correct_as_normal">All messages from %s</string>
-  <string name="dialog_choice_finance_correct_as_normal">【%s】发送的优惠券短信</string>
   <string name="dialog_complain_tips">Autoriser la messagerie à se connecter au réseau pour pouvoir rapporter des éléments.</string>
   <string name="dialog_message_correct_as_ad">All messages from %s (except verification codes) will be moved to promotional messages.</string>
   <string name="dialog_message_correct_as_normal">Select messages to move</string>
@@ -372,6 +372,7 @@
   <string name="menu_make_call">Appeler</string>
   <string name="menu_mark">Marquer</string>
   <string name="menu_more">Plus</string>
+  <string name="menu_multi_select">Select</string>
   <string name="menu_new_contact">Nouveau contact</string>
   <string name="menu_new_manual">Entrez un numéro de téléphone</string>
   <string name="menu_pick_from_contact">Sélectionnez depuis les contacts</string>
@@ -561,6 +562,7 @@ Un message SMS sortant est requis pour activer le Mi Message. Votre opérateur v
   <string name="nosend_message">Non envoyé</string>
   <string name="not_prepare_for_send">Aucun message à envoyer</string>
   <string name="not_set">Non défini</string>
+  <string name="not_support_audio_forward">"Can't forward voice messages"</string>
   <string name="notification_ad_content">You received a promotional message from %s</string>
   <string name="notification_add_todo">Rappelle moi</string>
   <string name="notification_add_todo_content">Code de retrait: %s</string>
@@ -631,6 +633,7 @@ Un message SMS sortant est requis pour activer le Mi Message. Votre opérateur v
   <string name="pref_summary_on_system_mms_priority">"Régler l'application de messagerie MIUI par défaut pour envoyer et recevoir des MMS."</string>
   <string name="pref_summary_privacy_authority">Toggle this switch to grant or revoke your authorization</string>
   <string name="pref_summary_send_delivery_reports">"Envoyer un accusé de réception à l'expéditeur à la réception d'un message multimédia"</string>
+  <string name="pref_summary_voice_report">Turn on to read messages out loud as they are received. Press the Volume down or Power button to stop playback.</string>
   <string name="pref_summary_wake_up_screen">"Allumer l'écran lors de la réception d'un nouveau message"</string>
   <string name="pref_switch_sdk_setting">Changer prestataire de services SMS intelligents</string>
   <string name="pref_system_title">Système</string>
@@ -662,6 +665,7 @@ Un message SMS sortant est requis pour activer le Mi Message. Votre opérateur v
   <string name="pref_title_storage_status">Statut du stockage du message</string>
   <string name="pref_title_system_mms_priority">Définir par défaut</string>
   <string name="pref_title_vcard">Envoyer via vCard</string>
+  <string name="pref_title_voice_report">Read messages out loud</string>
   <string name="pref_title_wake_up_screen">"Allumer l'écran"</string>
   <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
   <string name="preferences_title">Paramètres</string>
@@ -1135,6 +1139,7 @@ Si vous n'acceptez pas d'accorder de telles autorisations ou de partager et tél
   <string name="too_many_attachments">Ne peut pas dépasser %1$s pièces jointes. Seulement les %2$s premières seront ajoutées.</string>
   <string name="too_many_recipients">Ce message comporte trop de destinataires (%1$s). Vous ne pouvez avoir plus de %2$s destinataires.</string>
   <string name="too_many_unsent_mms">"Impossible d'envoyer le message maintenant. Il existe un trop grand nombre de messages multimédias non envoyés."</string>
+  <string name="top_conversation">Pinned conversation</string>
   <string name="train_edit_destination">Ajouter</string>
   <string name="try_to_send">"Essayer d'envoyer"</string>
   <string name="tuesday">Mardi</string>
@@ -1174,9 +1179,13 @@ Dernière tentative : %s."</string>
   <string name="v7_preference_off">OFF</string>
   <string name="v7_preference_on">ON</string>
   <string name="verification_code_list_title">Codes de vérification</string>
+  <string name="verification_code_safety_warning">"Don't disclose these codes to other people"</string>
   <string name="view">Afficher</string>
   <string name="view_bookmark">Afficher le favori</string>
   <string name="view_message_details">Afficher les détails</string>
+  <string name="voice_report_anytime">Always</string>
+  <string name="voice_report_off">Off</string>
+  <string name="voice_report_wiredon">With earphones</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="warning_show">Envoyer à %ds</string>
   <string name="wednesday">Mercredi</string>
