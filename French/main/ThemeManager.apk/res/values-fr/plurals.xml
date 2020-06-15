@@ -104,6 +104,10 @@
       <item quantity="other">%d commentaires</item>
       <item quantity="one">%d commentaire</item>
     </plurals>
+    <plurals name="resource_download_notification_title_many">
+        <item quantity="other">%1$d éléments téléchargés avec succès</item>
+        <item quantity="one">%1$d élément téléchargs avec succès</item>
+    </plurals>
     <plurals name="resource_rating">
       <item quantity="other">%1$.1f points</item>
       <item quantity="one">%1$.1f point</item>
