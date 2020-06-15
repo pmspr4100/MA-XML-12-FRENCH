@@ -568,4 +568,8 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
       <item quantity="other">Vous ne serez pas notifié des actions sensibles effectuées par les applications %1$d</item>
       <item quantity="one">"Vous ne serez pas notifié des actions sensibles effectuées par l'application %1$d"</item>
     </plurals>
+    <plurals name="om_running_apps_num">
+        <item quantity="other">%d apps</item>
+        <item quantity="one">%d app</item>
+    </plurals>
 </resources>
