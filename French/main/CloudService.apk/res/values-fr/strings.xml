@@ -37,6 +37,8 @@
   <string name="not_set">Non défini</string>
   <string name="preference_copied">\"%1$s\" copié dans le presse-papier.</string>
   <string name="search_menu_title">Recherche</string>
+  <string name="send_last_location_summary">Sync location info while device is being powered off</string>
+  <string name="send_last_location_title">Locate before powering off</string>
   <string name="special_func_title">Caractéristiques spéciales</string>
   <string name="storage_upgrade_card_summary">"Obtenez plus d'espace de stockage dans le cloud"</string>
   <string name="storage_upgrade_card_title">Améliorez votre plan</string>
@@ -328,12 +330,13 @@ sur votre compte Mi pour réactiver Xiaomi Cloud."</string>
   <string name="micloud_find_device_guide_desc_pad">"Si vous perdez votre appareil, connectez-vous à &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; pour le localiser, le verrouiller, ou effacer ses données. Cela vous aidera peut-être à le retrouver. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;[Voir l'aide]&lt;/a&gt;"</string>
   <string name="micloud_find_device_guide_desc_phone">"Si vous perdez votre appareil, connectez-vous à &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; pour le localiser, le verrouiller, ou effacer ses données. Cela vous aidera peut-être à le retrouver. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;[Voir l'aide]&lt;/a&gt;"</string>
   <string name="micloud_find_device_guide_progress">"Activation de Localiser l'appareil…"</string>
+  <string name="micloud_find_device_guide_title">Sign in to &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; with your Mi Account to locate and lock your device, mark it as lost, or erase data remotely. View details &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;here&lt;/a&gt;.</string>
+  <string name="micloud_find_device_open_fail">"Impossible d'activer Localiser l'appareil"</string>
   <string name="micloud_find_device_verify_button">"Réactiver Localiser l'appareil"</string>
   <string name="micloud_find_device_verify_progress">"Réactivation de Localiser l'appareil…"</string>
   <string name="micloud_find_device_verify_close">"Désactiver Localiser l'appareil"</string>
   <string name="micloud_find_device_close_progress">"Désactivation de Localiser l'appareil…"</string>
   <string name="micloud_find_device_opened">"Localiser l'appareil est activé"</string>
-  <string name="micloud_find_device_open_fail">"Impossible d'activer Localiser l'appareil"</string>
   <string name="micloud_find_device_opened_content">Localisez votre appareil à %s</string>
   <string name="micloud_find_device_verify_fail">"Impossible de réactiver Localiser l'appareil"</string>
   <string name="micloud_find_device_close_fail">"Impossible de désactiver Localiser l'appareil"</string>
@@ -539,6 +542,9 @@ sur votre compte Mi pour réactiver Xiaomi Cloud."</string>
   <string name="micloud_main_memory_low_title">Le stockage interne du téléphone est presque plein</string>
   <string name="micloud_notif_title_memory_low">Impossible de synchroniser avec Xiaomi Cloud</string>
   <string name="find_device_service_title">"Localiser l'appareil"</string>
+  <string name="find_device_status_summary">Locate and lock your device, as well as erase data remotely</string>
+  <string name="find_device_status_title_pad">Find device</string>
+  <string name="find_device_status_title_phone">Find device</string>
   <string name="finddevice_miservice_notification_content">Verrouillez votre appareil à distance en cas de perte</string>
   <string name="finddevice_miservice_notification_title">"Activer localiser l'appareil"</string>
   <string name="wipe_data_dialog_msg">Certains éléments %s ne sont pas synchronisés. Ils seront enregistrés sur votre appareil et ne seront pas supprimés.</string>
