@@ -39,10 +39,17 @@
   <string name="chip_text">Chip text</string>
   <string name="clear_text_end_icon_content_description">Clear text</string>
   <string name="clearable_edittext_clear_description">Clear</string>
-  <string name="community_cta_dialog_cancel">Annuler</string>
-  <string name="community_cta_dialog_des">This theme contains a clock shortcut that displays your Mi Account ID and Mi Community status. You can turn this feature off by switching to a different theme or removing the Clock widget.</string>
-  <string name="community_cta_dialog_ok">"C'est compris"</string>
-  <string name="community_cta_dialog_title">Clock shortcut</string>
+  <string name="community_community_message_trigger_summary">Receive notifications about replies, likes, and Mi Community status updates using your Mi Account ID</string>
+  <string name="community_community_message_trigger_title">Notify about activity</string>
+  <string name="community_cta_dialog_cancel">Non merci</string>
+  <string name="community_cta_dialog_des">"Third party themes now support Mi Community widget. It works as a shortcut that takes you to the Themes subforum of Mi Community. You can turn this feature off in the Settings.
+Allow Themes to access your Mi Account ID and Mi Community statuses associated with the account to be able to view them here. You can also turn notifications about Mi Comminity activity on and off in the Settings."</string>
+  <string name="community_cta_dialog_ok">Autoriser</string>
+  <string name="community_cta_dialog_title">Permissions required</string>
+  <string name="community_entrance_summary">Find theme-related content in Mi Community. This feature is supported by selected themes.</string>
+  <string name="community_entrance_title">Mi Community clock widget</string>
+  <string name="community_message_trigger_disabled">Désactiver</string>
+  <string name="community_message_trigger_triggered">Activer</string>
   <string name="concentration_old_period">Plus</string>
   <string name="copy">Copie</string>
   <string name="current_using">Actuel</string>
@@ -54,7 +61,6 @@
   <string name="de_component_aod_author">Créateur</string>
   <string name="de_component_author">Auteur</string>
   <string name="de_component_tags">Tags</string>
-  <string name="de_font_exchange_success">Purchased successfully</string>
   <string name="de_icon_text_comment">Comment</string>
   <string name="de_icon_text_discuss">Discuss</string>
   <string name="de_icon_text_favorite">Add to favorites</string>
@@ -100,6 +106,8 @@
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
   <string name="fmt_time_12hour">"h 'o''horloge'"</string>
   <string name="fmt_time_24hour">"H 'o''horloge'"</string>
+  <string name="forbid_transparent_wallpaper_by_second_space">Apply transparent wallpaper in First space first.</string>
+  <string name="forbid_video_wallpaper_by_second_space">Apply dynamic wallpaper in First space first.</string>
   <string name="friday">Vendredi</string>
   <string name="friday_short">Ven</string>
   <string name="friday_shortest">V</string>
@@ -121,6 +129,18 @@ Tap here to sign in now."</string>
   <string name="mine_tab_title_like">"J'aime"</string>
   <string name="mine_tab_title_local">Locale</string>
   <string name="mine_tab_title_purchase">Ordres</string>
+  <string name="miui_clock_city_name_local">Local</string>
+  <string name="miui_clock_city_name_second">Second clock</string>
+  <string name="miui_lock_screen_date">EEEE, d MMMM</string>
+  <string name="miui_lock_screen_date_12">EEEE, d MMMM</string>
+  <string name="miui_lock_screen_date_two_lines">"EEEE
+d MMMM"</string>
+  <string name="miui_lock_screen_date_two_lines_12">"EEEE
+d MMMM"</string>
+  <string name="miui_lock_screen_large_date">"EEE
+dd/M"</string>
+  <string name="miui_lock_screen_large_date_12">"EEE
+dd/M"</string>
   <string name="miuishare_sys_title_share">"Plus d'options"</string>
   <string name="miuix_appcompat_cloud_state_disabled">Synchronisation avec le cloud est désactivée</string>
   <string name="miuix_appcompat_cloud_state_finished">Synchronisé avec le cloud avec succès</string>
@@ -266,7 +286,7 @@ Tap here to sign in now."</string>
   <string name="sunday">Dimanche</string>
   <string name="sunday_short">Dim</string>
   <string name="sunday_shortest">D</string>
-  <string name="super_wallpaper">"Super fonds d'écran"</string>
+  <string name="super_wallpaper">"Super fonds d'écrans"</string>
   <string name="support_theme_store_des">"Les bons thèmes sont toujours créés par des designers talentueux. Notre application contient une petite quantité d'annonces qui nous permettent de soutenir leur travail."</string>
   <string name="support_theme_store_supported">Merci pour votre soutien !</string>
   <string name="support_theme_store_title">Soutenez nos designers</string>
@@ -330,20 +350,20 @@ Tap here to sign in now."</string>
   <string name="theme_setting_all">All themes</string>
   <string name="theme_settings_title">Thèmes</string>
   <string name="theme_share_app_name">Mi Thèmes</string>
-  <string name="theme_wallpaper">Wallpaper Category</string>
-  <string name="thursday">Thursday</string>
-  <string name="thursday_short">Thu</string>
-  <string name="thursday_shortest">T</string>
-  <string name="time_picker_dialog_title">Set time</string>
+  <string name="theme_wallpaper">"Catégories fond d'écran"</string>
+  <string name="thursday">Jeudi</string>
+  <string name="thursday_short">Jeu</string>
+  <string name="thursday_shortest">J</string>
+  <string name="time_picker_dialog_title">Régler le temps</string>
   <string name="title_my_wallpaper">"Mes fonds d'écran"</string>
   <string name="title_system_audio_alarm_resource">System alarms</string>
-  <string name="today">Today</string>
-  <string name="tomorrow">Tomorrow</string>
+  <string name="today">"Aujourd'hui"</string>
+  <string name="tomorrow">Demain</string>
   <string name="transparent_wallpaper_auto_start_pref_summary">Keep using transparent wallpapers after you reboot your device</string>
   <string name="transparent_wallpaper_auto_start_pref_title">Autostart</string>
-  <string name="tuesday">Tuesday</string>
-  <string name="tuesday_short">Tue</string>
-  <string name="tuesday_shortest">T</string>
+  <string name="tuesday">Mardi</string>
+  <string name="tuesday_short">Mar</string>
+  <string name="tuesday_shortest">M</string>
   <string name="update_community_tip">Update Mi Community to be able to use this feature</string>
   <string name="update_flag">Mise à jour</string>
   <string name="wallpaper_download_incall_show">Download video</string>
@@ -403,14 +423,17 @@ Tap here to sign in now."</string>
   <string name="ad_begin_to_download_tip">Démarrage du téléchargement…</string>
   <string name="ad_begin_to_install_tip">Installation en cours…</string>
   <string name="ad_closed_tip">Vous verrez moins dannonces de ce type</string>
+  <string name="ad_details">Détail</string>
   <string name="ad_download_download">Télécharger</string>
   <string name="ad_download_download_now">Télécharger</string>
   <string name="ad_download_install">Installer</string>
+  <string name="ad_download_now">Télécharger</string>
   <string name="ad_download_open">Ouvrir</string>
   <string name="ad_download_pause">Mettre en pause</string>
   <string name="ad_download_pending">En attente</string>
   <string name="ad_download_resume">Reprendre</string>
   <string name="ad_downloading_tip">Cet article est en cours de téléchargement. Vous pouvez voir la progression dans la barre des notifications.</string>
+  <string name="ad_experience_now">Ouvrir</string>
   <string name="add_resource_detail_fail">"Impossible d'ajouter la ressource"</string>
   <string name="all_resources">Tout</string>
   <string name="already_latest_version">À jour</string>
@@ -551,6 +574,7 @@ Tap here to sign in now."</string>
   <string name="hide_mamual_hide_wallpaper">"Ne pas afficher les fonds d'écran cachés"</string>
   <string name="home_apply_failured">"Impossible d'appliquer le fond d'écran de l'écran d'accueil"</string>
   <string name="home_apply_success">"Fond d'écran de l'écran d'accueil appliqué"</string>
+  <string name="i_know">"C'est compris"</string>
   <string name="in_the_end">"Plus d'éléments à afficher"</string>
   <string name="incall_show_apply">Profil vidéo pour les appels sortants</string>
   <string name="incall_show_apply_fail">Impossible de définir</string>
@@ -749,8 +773,7 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
   <string name="resource_detail_update_log_title">Mises à jour</string>
   <string name="resource_detail_window_title">%1$s détails</string>
   <string name="resource_download">Télécharger</string>
-  <string name="resource_download_notification_title_many">%1$s thèmes téléchargés</string>
-  <string name="resource_download_notification_title_one">Thème téléchargé</string>
+  <string name="resource_download_notification_title_one">Téléchargé  %1$s avec succès</string>
   <string name="resource_download_trial">Essayer</string>
   <string name="resource_downloaded_title">Ressources téléchargées</string>
   <string name="resource_downloading">Téléchargement</string>
@@ -765,11 +788,10 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
   <string name="resource_exchange_share_code_content">"Vous avez reçu un code cadeau (%2$s) pour télécharger le thème \"%1$s\" dans les thèmes MIUI. Appuyez sur %3$s pour l'utiliser maintenant."</string>
   <string name="resource_exchange_share_code_dlg_content">"Code pour le thème \"%1$s\": %2$s. Lorsque vous lenverrez à un autre utilisateur MIUI, il pourra l'utiliser pour télécharger ce thème."</string>
   <string name="resource_exchange_share_code_dlg_title">Envoi</string>
-  <string name="resource_exchange_success">Profitez !:)</string>
+  <string name="resource_exchange_success">Racheté avec succès</string>
   <string name="resource_exchange_unavailable">"Le thème associé au code que vous avez entré n'est pas disponible."</string>
   <string name="resource_exchange_universal_finish">Utilisez ce code pour télécharger des éléments depuis le magasin des thèmes.</string>
   <string name="resource_exchange_universal_goon">"Ce code permet de télécharger n'importe quel thème dans le magasin."</string>
-  <string name="resource_exchange_window_title">Rembourser</string>
   <string name="resource_exchange_wrong_format_by_local">Le format du code entré est incorrect.</string>
   <string name="resource_exchange_wrong_format_by_server">"Le code n'a pas été vérifié. Assurez-vous de l'avoir bien entré."</string>
   <string name="resource_expand_full_text">Tout afficher</string>
@@ -966,6 +988,7 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
   <string name="theme_current_using_has_update">Mise à jour du thème disponible</string>
   <string name="theme_description_title_customized">Personnaliser</string>
   <string name="theme_description_title_default">Par défaut</string>
+  <string name="theme_designer_products">Thèmes de créateurs</string>
   <string name="theme_detail_tab_comment">Commentaires</string>
   <string name="theme_detail_tab_recommend">Recommandé</string>
   <string name="theme_detail_tab_theme">Détails</string>
@@ -1053,6 +1076,7 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
   <string name="update_latest">Votre application est à jour</string>
   <string name="update_no_net">Une erreur de réseau est survenue. Réessayez.</string>
   <string name="update_title">NOUVELLE MISE À JOUR DISPONIBLE</string>
+  <string name="use_hint">Attention</string>
   <string name="using_theme_has_update_tips">Une mise à jour de ce thème est disponible.</string>
   <string name="using_theme_next_automatic_update">Mises à jour automatiques</string>
   <string name="using_theme_next_automatic_update_summary">Update downloaded themes using WLAN when the device is locked</string>
