@@ -1448,9 +1448,13 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
   <string name="cpu_usage_view_action_btn_text">Appuyer pour voir</string>
   <string name="memory_clean_memory_size_tip">Cache</string>
   <string name="memory_clean_no_need_clean">Tout semble bon !</string>
+  <string name="memory_clean_no_need_clean_1" formatted="false">Freed up %s. Your device is %d%% faster now.</string>
   <string name="optimize_result_available_memory_info">Mémoire disponible</string>
   <string name="optimize_result_title_uninstall_apps">Désinstaller des applications</string>
   <string name="om_settings_title">Paramètres</string>
+  <string name="om_shortcut_added_toast_text">Added successfully</string>
+  <string name="om_shortcut_dialog_summary">"RAM Jet allows you to clear memory and boost your device's speed in a single tap. Add RAM Jet to your Home screen?"</string>
+  <string name="om_shortcut_dialog_title">RAM Jet</string>
   <string name="om_settings_lock_app_manage">Verrouiller les applications</string>
   <string name="om_settings_lock_app">Verrouiller les applications</string>
   <string name="om_settings_speed_up_auto">Augmentation de la vitesse automatique</string>
@@ -1464,6 +1468,8 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
   <string name="om_lock_app_locked_app">Verrouillé</string>
   <string name="om_lock_app_unlocked_app">Déverrouillé</string>
   <string name="om_not_finish_speedboost">Un boost de vitesse est nécessaire</string>
+  <string name="om_optimzing_big_button_text">Boost speed</string>
+  <string name="om_running_app_info_summary">Free up %s</string>
   <string name="om_running_locked_apps">"Applications en cours d'exécution verrouillées"</string>
   <string name="om_running_system_apps">Applications système en fonctionnement</string>
   <string name="om_running_third_apps">Applications tierces en fonctionnement</string>
@@ -2034,11 +2040,14 @@ carte médicale"</string>
   <string name="menu_text_antivirus">Analyse de sécurité</string>
   <string name="menu_summary_antivirus">Rechercher les virus sur votre appareil</string>
   <string name="menu_text_optimize_manage">Augmenter la vitesse</string>
+  <string name="menu_text_optimize_manage_1">Boost speed</string>
   <string name="menu_text_networkassistants">Utilisation des données</string>
   <string name="menu_summary_networkassistants">Gérez votre forfait de données</string>
   <string name="menu_summary_networkassistants_2">Vous avez dépassé la limite</string>
   <string name="menu_summary_networkassistants_3">Données restantes suffisantes</string>
   <string name="menu_summary_networkassistants_4">Être à court de données mobiles</string>
+  <string name="menu_summary_optimize_manage">Clear memory</string>
+  <string name="menu_summary_optimize_manage_1">Make your device %d%% faster</string>
   <string name="menu_text_networkassistants_remain">%s restants</string>
   <string name="menu_text_networkassistants_danger">%s dépassé</string>
   <string name="menu_text_networkassistants_unit_gb">" Go"</string>
@@ -2750,6 +2759,10 @@ carte médicale"</string>
   <string name="connecting">Connexion…</string>
   <string name="promotion">Pub</string>
   <string name="section_title_system">Sécurité système</string>
+  <string name="security_bottom_guide_to_pm_text">Opening Utility Kit…</string>
+  <string name="security_guide_bubble_text">Open</string>
+  <string name="security_guide_summary">One-stop spot for tools and services</string>
+  <string name="security_guide_title">MIUI Utility Kit</string>
   <string name="section_title_clear_acc">Vider le cache</string>
   <string name="section_title_security_defend">Sécurité</string>
   <string name="section_clear_acc_item_title">"%s. Si l'espace de stockage n'est toujours pas suffisant, veuillez utiliser le Nettoyeur."</string>
