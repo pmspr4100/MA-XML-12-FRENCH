@@ -4340,7 +4340,7 @@ D'autres personnes utilisent cet appareil.
   <string name="memory_summary">Utilisation moyenne de %1$s sur %2$s de mémoire</string>
   <string name="memory_system_rom">Stockage système</string>
   <string name="memory_system_space">Stockage système</string>
-  <string name="memory_title">Disponible: %1$s\u0009\u0009Total: %2$s</string>
+  <string name="memory_title">Disponible: %1$s Total: %2$s</string>
   <string name="memory_usage">Utilisation de la mémoire</string>
   <string name="memory_usage_apps">Mémoire utilisée par les applications</string>
   <string name="memory_use_summary">%1$s de mémoire utilisé(s) au cours des trois dernières heures en moyenne</string>
@@ -4841,7 +4841,7 @@ L'application pourra aussi activer ou désactiver le mode Ne pas déranger, et m
   <string name="notification_volume_title">Notification</string>
   <string name="notifications_disabled">Désactivé</string>
   <string name="notifications_enabled">Activé</string>
-  <string name="notifications_enabled_with_info">Activées/%1$s</string>
+  <string name="notifications_enabled_with_info">Activées %1$s</string>
   <string name="notifications_hidden">"Pas sur l'écran de verrouillage"</string>
   <string name="notifications_label">Notifications</string>
   <string name="notifications_partly_blocked">%1$d catégorie(s) sur %2$d désactivée(s)</string>
@@ -5288,13 +5288,13 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
   <string name="process_mediaserver_label">Serveur multimédia</string>
   <string name="process_provider_in_use_description">"L'opérateur %1$s est actuellement utilisé."</string>
   <string name="process_service_in_use_description">Le service %1$s est actuellement utilisé.</string>
-  <string name="process_stats_bg_ram_use">Utilisation de la mémoire RAM (en arrière-plan)</string>
+  <string name="process_stats_bg_ram_use">Utilisation de la mémoire vive (en arrière-plan)</string>
   <string name="process_stats_os_cache">Caches</string>
   <string name="process_stats_os_kernel">Noyau</string>
   <string name="process_stats_os_label">Plate-forme Android</string>
   <string name="process_stats_os_native">Natif</string>
   <string name="process_stats_os_zram">Z-Ram</string>
-  <string name="process_stats_ram_use">Utilisation de la mémoire RAM</string>
+  <string name="process_stats_ram_use">Utilisation de la mémoire vive</string>
   <string name="process_stats_run_time">"Durée d'exécution"</string>
   <string name="process_stats_summary">"Statistiques détaillées relatives aux processus en cours d'exécution"</string>
   <string name="process_stats_summary_title">Statistiques relatives aux processus</string>
@@ -5555,9 +5555,9 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="running_process_item_user_label">Utilisateur: %1$s</string>
   <string name="running_processes_header_apps_prefix">Applications</string>
   <string name="running_processes_header_cached_prefix">En cache</string>
-  <string name="running_processes_header_footer">Utilisation de la RAM par les applications</string>
+  <string name="running_processes_header_footer">Utilisation de la vive par les applications</string>
   <string name="running_processes_header_free_prefix">Disponible</string>
-  <string name="running_processes_header_ram">%1$s de mémoire RAM</string>
+  <string name="running_processes_header_ram">%1$s de mémoire vive</string>
   <string name="running_processes_header_system_prefix">Système</string>
   <string name="running_processes_header_title">"Mémoire de l'appareil"</string>
   <string name="running_processes_header_used_prefix">Utilisée</string>
@@ -6469,7 +6469,7 @@ Déplacez vos fichiers multimédias vers une autre mémoire de stockage sur cet 
 "<b>Sauvegardez vos applications</b>" 
 Toutes les applications enregistrées sur \"^1\" vont être désinstallées, et les données correspondantes vont être effacées. Pour conserver ces applications, déplacez-les vers une autre mémoire de stockage sur cet appareil."</string>
   <string name="storage_internal_title">Stockage non-système</string>
-  <string name="storage_internal_unmount_details"><b>"Lorsque vous éjectez la mémoire de stockage \"^1\", les applications qui y sont enregistrées cessent de fonctionner, et les fichiers multimédias qu'elle contient ne sont plus disponibles jusqu'à ce que vous la réinsériez."</b>" 
+  <string name="storage_internal_unmount_details">"Lorsque vous éjectez la mémoire de stockage \"^1\", les applications qui y sont enregistrées cessent de fonctionner, et les fichiers multimédias qu'elle contient ne sont plus disponibles jusqu'à ce que vous la réinsériez." 
 
 La mémoire de stockage \"^1\" a été configurée pour ne fonctionner que sur cet appareil. Vous ne pouvez pas l'utiliser sur d'autres appareils."</string>
   <string name="storage_label">Information stockage</string>
@@ -6551,7 +6551,7 @@ Notez que le formatage effacera le contenu actuel de \"^2\". Pour éviter toute 
   <string name="storage_wizard_init_v2_title">Comment utiliserez-vous ^1 ?</string>
   <string name="storage_wizard_migrate_body">"Vous pouvez transférer vos photos, fichiers, et quelques applications vers cette nouvelle ^1. 
 Le transfert peut durer environ ^2 et libèrera ^3 sur le stockage interne. Certaines applications ne fonctionneront pas pendant qu'elles seront transférées."</string>
-  <string name="storage_wizard_migrate_confirm_body"><b>Le transfert des données dure ^1 environ et permet de libérer ^2 sur la mémoire de stockage \"^3\".</b></string>
+  <string name="storage_wizard_migrate_confirm_body">"Le transfert des données dure ^1 environ et permet de libérer ^2 sur la mémoire de stockage \"^3\"."</string>
   <string name="storage_wizard_migrate_confirm_next">Déplacer</string>
   <string name="storage_wizard_migrate_confirm_title">Déplacer les données maintenant</string>
   <string name="storage_wizard_migrate_details">"Pendant le déplacement des données: 
@@ -6630,7 +6630,7 @@ Essayez d'utiliser un périphérique ^3 plus rapide, ou utilisez à la place ^4 
   <string name="suggestions_title_v2">Suggestions personnalisées</string>
   <string name="sum_carrier_select">Sélectionner un opérateur de réseau</string>
   <string name="summary_range_verbal_combination">Du %1$s au %2$s</string>
-  <string name="supl_not_set">&lt;Non définie&gt;</string>
+  <string name="supl_not_set">Non définie</string>
   <string name="supplicant_state_label">État suppliant:</string>
   <string name="support_gesture_title">Modèles 3D</string>
   <string name="support_summary">"Articles d'aide, téléphone et chat, premiers pas"</string>
