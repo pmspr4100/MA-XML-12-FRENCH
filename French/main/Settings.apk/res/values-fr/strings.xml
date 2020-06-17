@@ -1895,11 +1895,13 @@ Qualité de lecture"</string>
   <string name="bluetooth_unlock_change_matched_device">Autre périphérique</string>
   <string name="bluetooth_unlock_confirm_device_text">"Appuyez le Bluetooth de l'appareil pour confirmer."</string>
   <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Appuyez sur le bouton sur la montre pour déverrouiller.</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_mi_wear">confirmer sur les appareils</string>
   <string name="bluetooth_unlock_confirm_device_text_for_miband2">"Appuyer sur l'appareil pour déverrouiller."</string>
   <string name="bluetooth_unlock_delete_device">Supprimer cet appareil</string>
   <string name="bluetooth_unlock_delete_device_confirm_msg">Supprimer cet appareil ?</string>
   <string name="bluetooth_unlock_device_matched_text">Utilisez celui-ci pour déverrouiller.</string>
   <string name="bluetooth_unlock_no_matched_device_yet">Aucun périphérique détecté</string>
+  <string name="bluetooth_unlock_reject">"l'appareil distant rejette la demande de déverrouillage"</string>
   <string name="bluetooth_unlock_settings_devices_title">Périphérique</string>
   <string name="bluetooth_unlock_settings_toggle_title">Appliquer à</string>
   <string name="bluetooth_unlock_settings_unlock_device">"Déverrouiller l'appareil"</string>
@@ -1911,6 +1913,7 @@ Qualité de lecture"</string>
   <string name="bluetooth_unlock_title">Déverrouiller avec un périphérique Bluetooth</string>
   <string name="bluetooth_unlock_turned_off">Désactivé</string>
   <string name="bluetooth_unlock_turned_on">Activé</string>
+  <string name="bluetooth_unlock_unsupport">version non prise en charge</string>
   <string name="bluetooth_unpair_dialog_body">Votre téléphone ne sera plus associé à \"%1$s\"</string>
   <string name="bluetooth_unpair_dialog_forget_confirm_button">"Dissocier l'appareil"</string>
   <string name="bluetooth_unpair_dialog_title">"Dissocier l'appareil ?"</string>
