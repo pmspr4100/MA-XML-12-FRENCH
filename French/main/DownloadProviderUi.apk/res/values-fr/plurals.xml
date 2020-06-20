@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <plurals name="number_items">
+        <item quantity="other">%s éléments</item>
+        <item quantity="one">%s élément</item>
+     </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="other">Supprimer %d téléchargements ?</item>
         <item quantity="one">Supprimer %d téléchargement ?</item>

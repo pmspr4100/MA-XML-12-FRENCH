@@ -38,6 +38,8 @@
   <string name="clear_old_task_failed">Suppression des anciennes tâches impossible</string>
   <string name="clearable_edittext_clear_description">Effacer</string>
   <string name="close">Quitter</string>
+  <string name="close_cellular_summary">Votre appareil utilise maintenant des données cellulaires en raison de restrictions système. Désactivez les données cellulaires et reconnectez-vous au nouvel appareil.</string>
+  <string name="close_cellular_title">Impossible de se connecter</string>
   <string name="close_twice_auth_btn">"Désactiver l'authentification à deux facteurs"</string>
   <string name="close_twice_auth_note">"Note:
 Après avoir créé une nouvelle question de sécurité et avoir confirmé votre date de naissance, votre authentification à deux facteurs pour l'identifiant Apple sera désactivée. Si vous ne voyez pas l'option pour désactiver l'authentification à deux facteurs sur la page du compte identifiant Apple, vous ne pourrez pas la désactiver."</string>
@@ -357,6 +359,16 @@ Nous protégeons vos données personnelles en accord avec les lois applicables, 
   <string name="permlab_sendSmsNoConfirmation">Autoriser les messages SMS en arrière-plan</string>
   <string name="phone">Téléphone</string>
   <string name="privacy_policy">Politique de confidentialité</string>
+  <string name="prompt_before_transmission_message1_summary">If you choose to transfer them from your old device, app data (including chat history) will be overwritten.</string>
+  <string name="prompt_before_transmission_message1_title">These apps have already generated app data on your new device</string>
+  <string name="prompt_before_transmission_message2_summary">"Dual apps can't be transferred. However, you can transfer original apps."</string>
+  <string name="prompt_before_transmission_message2_title">"You're using dual apps for the following items"</string>
+  <string name="prompt_before_transmission_message3_summary">"Items from Second space can't be transferred due to system restrictions."</string>
+  <string name="prompt_before_transmission_message3_title">"You're using Second space"</string>
+  <string name="prompt_before_transmission_message4_summary">"Don't turn off WLAN or switch between networks until the transfer is complete."</string>
+  <string name="prompt_before_transmission_message4_title">Stay connected throughout the transfer</string>
+  <string name="prompt_before_transmission_message5_summary">"Transferring big amounts of data wirelessly might cause slight overheating which isn't abnormal. Your device will cool down soon after the transfer is complete."</string>
+  <string name="prompt_before_transmission_message5_title">Your device might heat up during transfers.</string>
   <string name="qq_data_external">Données carte SD QQ</string>
   <string name="quit_now">Quitter</string>
   <string name="reconnect">Reconnecter</string>

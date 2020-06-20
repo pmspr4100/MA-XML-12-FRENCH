@@ -83,6 +83,7 @@
   <string name="album_camera_name">Appareil photo</string>
   <string name="album_cloud_list_page_title">Gérer les albums synchronisés</string>
   <string name="album_creative">Mes photos éditées</string>
+  <string name="album_detail_default_sort_tip">Switched to chronological order</string>
   <string name="album_detail_page_empty">Aucune photo ou vidéo</string>
   <string name="album_download">Téléchargements</string>
   <string name="album_faces_name">Personnes</string>
@@ -494,6 +495,8 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
   <string name="backuping_title_gprs">"Sauvegarder à l'aide de données cellulaires…"</string>
   <string name="backuping_title_normal">Sauvegarde en cours…</string>
   <string name="base_btn_cancel">Annuler</string>
+  <string name="btn_cancel_send">Cancel this transfer</string>
+  <string name="btn_exit_send">Exit</string>
   <string name="base_btn_download">Télécharger</string>
   <string name="begin_share">Album de bébé \"%s\" créé , vous pouvez le partager maintenant</string>
   <string name="begin_share_toast">Créer un album distinct pour cet enfant avant de le partager ?</string>
@@ -1086,6 +1089,10 @@ pour personnaliser Galerie"</string>
   <string name="member_menu_vipname_premium">Premium</string>
   <string name="member_menu_vipname_ultra">Ultra</string>
   <string name="menu_album_new_album">Nouvel album</string>
+  <string name="menu_detail_sort_create_date">Created</string>
+  <string name="menu_detail_sort_name">Filename</string>
+  <string name="menu_detail_sort_size">File size</string>
+  <string name="menu_detail_sort_update_date">Last updated</string>
   <string name="menu_item_sort_date">Date</string>
   <string name="menu_item_sort_name">Nom</string>
   <string name="menu_item_sort_size">Taille</string>
@@ -1221,6 +1228,7 @@ Transcoding might take some time when you use this feature for the first time."<
   <string name="operation_favorites">Favoris</string>
   <string name="operation_force_top">Épingler</string>
   <string name="operation_hide">Masquer</string>
+  <string name="operation_hide_time">Hide dates</string>
   <string name="operation_in_process">Traitement en cours…</string>
   <string name="operation_move">Move</string>
   <string name="operation_move_to_other_albums">"Déplacer vers d'autres albums"</string>
@@ -1245,7 +1253,9 @@ Transcoding might take some time when you use this feature for the first time."<
   <string name="operation_share_manage">Manage shared items</string>
   <string name="operation_show_in_photos_tab">Afficher dans Photos</string>
   <string name="operation_show_on_map">Afficher sur la carte</string>
+  <string name="operation_show_time">Show dates</string>
   <string name="operation_slide_show">Démarrer le diaporama</string>
+  <string name="operation_sort">Sort</string>
   <string name="operation_successful">Terminé</string>
   <string name="operation_too_often">Il y a trop de demande depuis votre adresse IP. Essayez à nouveau dans 1 minute.</string>
   <string name="operation_unforce_top">Détacher</string>
@@ -1600,6 +1610,7 @@ Transcoding might take some time when you use this feature for the first time."<
   <string name="share_album">"Partager l'album"</string>
   <string name="share_album_needs_auto_upload_tip">Impossible de désactiver la synchronisation avec le cloud pour les albums partagés</string>
   <string name="share_album_qr_code">"QR code de l'album"</string>
+  <string name="share_and_delete_screenshot">Delete after sharing</string>
   <string name="share_by_email_start">Partage de %1$s en arrière-plan</string>
   <string name="share_by_email_successfully">Partage de %1$s</string>
   <string name="share_public_url_text">"j'ai partagé l'album %1$s avec vous. Consultez le sur %2$s"</string>
@@ -1634,6 +1645,7 @@ Transcoding might take some time when you use this feature for the first time."<
   <string name="slim_stop">"Arrêter l'optimisation"</string>
   <string name="sort">Trier</string>
   <string name="special_type_8k">IA 8K</string>
+  <string name="special_type_ai_audio">IA Audio</string>
   <string name="special_type_eye_repair">"Correction des yeux fermés avec l'IA"</string>
   <string name="special_type_night_beauty">IA portrait faible luminosité</string>
   <string name="special_type_night_mode">IA mode nuit</string>
