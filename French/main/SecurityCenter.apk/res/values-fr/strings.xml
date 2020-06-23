@@ -2393,8 +2393,10 @@ carte médicale"</string>
   <string name="antivirus_monitor_clean_tips">Éléments supprimés: %s</string>
   <string name="antivirus_none_engine_dialog_ok">OK</string>
   <string name="antivirus_privacy_dialog_title">Politique de confidentialité</string>
-  <string name="antivirus_privacy_dialog_summary">"Cette fonctionnalité crypte et envoi l'identifiant de votre appareil aux serveurs d'Avast, AVL et Tencent (%s)."</string>
   <string name="antivirus_privacy_dialog_summary_link">Politique de confidentialité</string>
+  <string name="antivirus_privacy_dialog_summary_new">&lt;Data&gt;This feature uses antivirus definitions provided by Avast, AVL, and Tencent. Read the related &amp;lt;a href=\"%1$s\"&amp;gt;license agreements&amp;lt;/a&amp;gt; to learn more.&lt;/Data&gt;</string>
+  <string name="antivirus_privacy_dialog_summary_not_have_avast">&lt;Data&gt;This feature uses antivirus definitions provided by AVL and Tencent. Read the related &amp;lt;a href=\"%1$s\"&amp;gt;license agreements&amp;lt;/a&amp;gt; to learn more.&lt;/Data&gt;</string>
+  <string name="antivirus_privacy_dialog_summary_not_have_tencent">&lt;Data&gt;This feature uses antivirus definitions provided by Avast and AVL. Read the related &amp;lt;a href=\"%1$s\"&amp;gt;license agreements&amp;lt;/a&amp;gt; to learn more.&lt;/Data&gt;</string>
   <string name="antivirus_privacy_dialog_cloudscan">Envoyer les noms et détails des applications</string>
   <string name="antivirus_privacy_dialog_cloudscan_description">Envoyer et analyser les noms et détails des applications en utilisant les bases de données de virus en ligne.</string>
   <string name="antivirus_privacy_dialog_ok">OK</string>

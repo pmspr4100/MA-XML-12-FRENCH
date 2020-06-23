@@ -239,12 +239,12 @@ Bluetooth"</string>
   <string name="can_not_dial_vt_while_voice_prompt">"Impossible d'effectuer un appel vidéo pendant un appel vocal en cours"</string>
   <string name="can_not_dial_while_vt_prompt">"Impossible composer un numéro lors d'un appel vidéo"</string>
   <string name="cancel">Annuler</string>
-  <string name="cant_call_due_to_ongoing_call">"Impossible d'appeler à cause d'un appel en cours dans %1$s."</string>
-  <string name="cant_call_due_to_ongoing_calls">Impossible de passer un appel. Terminez d’abord votre %1$s appel .</string>
-  <string name="cant_call_due_to_ongoing_unknown_call">"Impossible d'appeler à cause d'un appel en cours dans une autre appli."</string>
+  <string name="cant_call_due_to_ongoing_call">"Impossible de passer un appel. %1$s un autre appel est en cours."</string>
+  <string name="cant_call_due_to_ongoing_calls">"Impossible de passer un appel. Mettez fin à votre %1$s appeler d'abord."</string>
+  <string name="cant_call_due_to_ongoing_unknown_call">"Impossible de passer un appel en raison d'un appel dans une autre application."</string>
   <string name="category_personal">Personnel</string>
   <string name="category_work">Professionnel</string>
-  <string name="change_default_dialer_dialog_affirmative">"Définir comme application d'appel par défaut"</string>
+  <string name="change_default_dialer_dialog_affirmative">"Définir comme application téléphonique par défaut"</string>
   <string name="change_default_dialer_dialog_negative">Annuler</string>
   <string name="change_default_dialer_dialog_title">Faire de %s votre application de Téléphone par défaut ?</string>
   <string name="change_default_dialer_warning_message">"%s sera en mesure d'effectuer et contrôler tous les aspects des appels. Seules les applications auxquelles vous faites confiance devraient être définies comme applications par défaut du téléphone."</string>
@@ -390,7 +390,7 @@ Bluetooth"</string>
   <string name="oem_unlock_enable_summary">"Autoriser le déverrouillage du chargeur d'amorçage"</string>
   <string name="okay">OK</string>
   <string name="outgoing_call_error_no_phone_number_supplied">Pour passer un appel, veuillez entrer un numéro valide.</string>
-  <string name="outgoing_call_not_allowed_no_permission">"Cette application ne peut pas émettre d'appels sortants sans les autorisations requises."</string>
+  <string name="outgoing_call_not_allowed_no_permission">"Cette application ne peut pas effectuer d'appels sortants sans les permissions requises."</string>
   <string name="outgoing_call_not_allowed_user_restriction">"Seuls les appels d'urgence sont autorisés."</string>
   <string name="overlay_display_devices_title">Simuler des écrans secondaires</string>
   <string name="phone_settings_call_blocking_txt">"Blocage d'appels"</string>

@@ -40,10 +40,10 @@
   <string name="open_wifi_settings">Ouvrir les paramètres Wi-Fi</string>
   <string name="activate_xiaomi_account">Activer cet appareil</string>
   <string name="login_extra_steps">Vérification</string>
-  <string name="phone_locked">Cet appareil est associé à un compte Mi existant (%s). Connectez-vous pour activer cet appareil.</string>
+  <string name="phone_locked">"Cet appareil est associé à un compte Mi (%s). Saisissez le mot de passe pour activer l'appareil."</string>
   <string name="phone_locked_account_email">, Email associé: %s</string>
   <string name="phone_locked_account_phone">, numéro de téléphone associé: %s</string>
-  <string name="password">Mot de passe</string>
+  <string name="password">Entrer le mot de passe</string>
   <string name="captcha">Captcha</string>
   <string name="stop_on_empty_password">Le mot de passe ne peut être vide</string>
   <string name="stop_on_empty_captcha">Le code captcha ne peut être vide</string>
@@ -56,14 +56,14 @@
   <string name="login_failed">Impossible de se connecter à.%s.</string>
   <string name="change_find_device_status_failed">Impossible de déverrouiller. %s.</string>
   <string name="unlock_help_title">Aide au déblocage:</string>
-  <string name="unlock_help">"Rester connecté au réseau 
-Assurez-vous d'avoir inséré une Carte SIM qui fonctionne si votre appareil supporte cela), et que votre appareil est connecté à un réseau Wi-Fi valide
+  <string name="unlock_help">"Connectez-vous au réseau.
+Insérez une carte SIM fonctionnelle et ne vous connectez pas à des réseaux Wi-Fi invalides.
 
 Mot de passe oublié ?
-Rendez-vous sur id.mi.com pour réinitialiser votre mot de passe.
+Accédez à id.mi.com, sélectionnez \"Mot de passe oublié ?\" Et suivez les instructions.
 
-Autres raisons
-Connectez-vous sur i.mi.com et essayez de débloquer votre appareil."</string>
+Impossible d'activer l'appareil ?
+Accédez à i.mi.com/ss et soumettez votre demande pour déverrouiller l'appareil."</string>
   <string name="unlock_number">Code de déblocage: %s</string>
   <string name="passport_vcode_prompt_long">Entrez le code de vérification</string>
   <string name="passport_trust_device">Faire confiance à cet appareil</string>
