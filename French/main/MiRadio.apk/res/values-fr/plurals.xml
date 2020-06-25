@@ -103,8 +103,8 @@
       <item quantity="one">%d follower</item>
     </plurals>
     <plurals name="skipped_online_songs_tips">
-      <item quantity="other">Skipped %d songs. Turn on online services in the settings to listen to them.</item>
-      <item quantity="one">Skipped %d song. Turn on online services in the settings to listen to it.</item>
+      <item quantity="other">%d chansons ignorées. Activez les services en ligne dans les paramètres pour les écoutées.</item>
+      <item quantity="one">"%d chanson ignorée. Activez les services en ligne dans les paramètres pour l'écouter."</item>
     </plurals>
     <plurals name="songs_count">
       <item quantity="other">%d chansons</item>
@@ -127,16 +127,16 @@
       <item quantity="one">Effacer %d audio ?</item>
     </plurals>
     <plurals name="download_finished">
-      <item quantity="other">&lt;font color=\"red\">%d songs&lt;/font> downloaded</item>
-      <item quantity="one">&lt;font color==\"red\">%d song&lt;/font> downloaded</item>
+      <item quantity="other">&lt;font color=\"red\">%d Chansons&lt;/font> téléchargé</item>
+      <item quantity="one">&lt;font color==\"red\">%d Chanson&lt;/font> téléchargé</item>
     </plurals>
     <plurals name="download_info_count_deleted_tasks">
-      <item quantity="other">%d downloads removed</item>
-      <item quantity="one">%d download removed</item>
+      <item quantity="other">%d téléchargements supprimés</item>
+      <item quantity="one">%d téléchargement supprimé</item>
     </plurals>
     <plurals name="download_running">
-      <item quantity="other">&lt;font color=\"red\">%d songs&lt;/font> downloading</item>
-      <item quantity="one">&lt;font color==\"red\">%d song&lt;/font> downloading</item>
+      <item quantity="other">&lt;font color=\"red\">%d chansons&lt;/font> Téléchargement</item>
+      <item quantity="one">&lt;font color==\"red\">%d chanson&lt;/font> Téléchargement</item>
     </plurals>
     <plurals name="notif_title_multiple_downloading">
       <item quantity="other">Téléchargement %1$d chansons</item>
@@ -155,23 +155,23 @@
       <item quantity="one">"Recherche de pochettes d'album et de paroles (%1$d/%2$d)"</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
-      <item quantity="other">%d songs added to playlist</item>
-      <item quantity="one">%d song added to playlist</item>
+      <item quantity="other">%d chansons ajoutées à la playlist</item>
+      <item quantity="one">%d chanson ajoutée à la playlist</item>
     </plurals>
     <plurals name="Ntracks_remove_from_playlist">
-      <item quantity="other">%d songs removed from playlist</item>
-      <item quantity="one">%d song removed from playlist</item>
+      <item quantity="other">%d chansons supprimées de la playlist</item>
+      <item quantity="one">%d chanson supprimée de la playlist</item>
     </plurals>
     <plurals name="dialog_remove_from_cloud_descript">
-      <item quantity="other">Delete %d songs from Mi Cloud? They will be deleted from local playlists as well.</item>
-      <item quantity="one">Delete %d song from Mi Cloud? It will be deleted from local playlists as well.</item>
+      <item quantity="other">Supprimer %d chansons de Mi Cloud ? Ils seront également supprimés des listes de lecture locales.</item>
+      <item quantity="one">Supprimer %d chanson de Mi Cloud ? Il sera également supprimé des listes de lecture locales.</item>
     </plurals>
     <plurals name="send_songs_toast">
-      <item quantity="other">%d songs will be sent</item>
-      <item quantity="one">%d song will be sent</item>
+      <item quantity="other">%d chansons seront envoyées</item>
+      <item quantity="one">%d chanson sera envoyée</item>
     </plurals>
     <plurals name="song_already_favorite">
-      <item quantity="other">Songs have been favorited.</item>
-      <item quantity="one">Song has been favorited.</item>
+      <item quantity="other">Les chansons ont été favorisées.</item>
+      <item quantity="one">La chanson a été favorisé.</item>
     </plurals>
 </resources>
