@@ -191,7 +191,7 @@
   <string name="copy_to_sdcard">Enregistrer la pièce jointe</string>
   <string name="copy_to_sdcard_fail">"Impossible d'enregistrer la pièce jointe"</string>
   <string name="copy_to_sdcard_success">Pièce jointe enregistrée sous %s</string>
-  <string name="copy_verification_code_tip">Copied successfully</string>
+  <string name="copy_verification_code_tip">Copié avec succès</string>
   <string name="current_data_version">Version de Mi Message</string>
   <string name="debug_about_mms">À propos de Mms</string>
   <string name="debug_category_db">Base de données</string>
@@ -213,8 +213,8 @@
   <string name="delivery_toast_body">Message reçu par %s</string>
   <string name="dialog_choice_all_correct_as_normal">All messages from %s</string>
   <string name="dialog_complain_tips">Autoriser la messagerie à se connecter au réseau pour pouvoir rapporter des éléments.</string>
-  <string name="dialog_message_correct_as_ad">All messages from %s (except verification codes) will be moved to promotional messages.</string>
-  <string name="dialog_message_correct_as_normal">Select messages to move</string>
+  <string name="dialog_message_correct_as_ad">"Tous les messages de %s (à l'exception des codes de vérification) seront déplacés dans les messages promotionnels."</string>
+  <string name="dialog_message_correct_as_normal">Sélectionnez les messages à déplacer</string>
   <string name="dialog_message_fake_cell_detect_error">"Corrigez les informations sur ce message ? Pour ce faire, MIUI doit télécharger le numéro de téléphone (%1$s), le contenu du message et les informations sur l'emplacement à proximité de ses serveurs."</string>
   <string name="dialog_message_mx">"Mi Message vous permet d'envoyer des messages à d'autres utilisateurs MIUI sans encourir de frais. Un message SMS sortant est requis pour activer Mi Message. Votre opérateur vous facturera ce message. Vous devez accepter nos \"%1$s\" et \"%2$s\" avant d'utiliser Mi Message."</string>
   <string name="dialog_message_networking">"La messagerie doit utiliser les pages jaunes pour être en mesure de fournir une reconnaissance de l'ID de l'expéditeur. Les messages et les pages jaunes doivent se connecter à internet et accéder à votre localisation pour fonctionner normalement. Autoriser?"</string>
@@ -254,28 +254,28 @@
   <string name="english_subject_limit">40 caractères</string>
   <string name="enter_edit_mode">Éditer les messages</string>
   <string name="error_code_label">"Code d'erreur:"</string>
-  <string name="error_field_required">Required</string>
-  <string name="error_incorrect_otp">Incorrect code</string>
-  <string name="error_invalid_otp">Invalid code</string>
-  <string name="error_invalid_phone">Invalid phone number</string>
-  <string name="error_login">"Couldn't sign in"</string>
-  <string name="error_state">Etat incohérent</string>
+  <string name="error_field_required">Requis</string>
+  <string name="error_incorrect_otp">Code incorrect</string>
+  <string name="error_invalid_otp">Code invalide</string>
+  <string name="error_invalid_phone">Numéro de téléphone invalide</string>
+  <string name="error_login">Authentification impossible</string>
+  <string name="error_state">État incohérent</string>
   <string name="error_state_text">"L'état des fils de discussions et des destinataires est incohérent. Capturez un rapport de bug et signalez-le via http://go/droidanizer"</string>
   <string name="error_timed_msg">Heure non valide</string>
-  <string name="evening">Après midi</string>
+  <string name="evening">Après-midi</string>
   <string name="ex_type_mx">Mi Messages</string>
   <string name="ex_type_sms">SMS/MMS</string>
   <string name="exceed_message_size_limitation">Taille maximale atteinte pour ce message.</string>
   <string name="exceed_message_size_limitation_add_slide">La taille du message est insuffisante pour ajouter une diapositive</string>
   <string name="exceed_message_text_limitation">Limite de longueur de texte du message atteint.</string>
-  <string name="expand_button_title">Advanced</string>
-  <string name="expire_on">Expiration : %s</string>
+  <string name="expand_button_title">Avancé</string>
+  <string name="expire_on">Expiration: %s</string>
   <string name="exporting_progress_private_message">Exportation…</string>
   <string name="fail_to_add_attachment">"Impossible d'ajouter la pièce jointe"</string>
   <string name="fail_to_view_attachment">Pièce jointe non disponible</string>
-  <string name="failed_to_add_media">Désolé, vous ne pouvez pas ajouter cet élément à votre message : %1$s.</string>
+  <string name="failed_to_add_media">Désolé, vous ne pouvez pas ajouter cet élément à votre message: %1$s.</string>
   <string name="failed_to_resize_image">"L'image n'a pas été redimensionnée."</string>
-  <string name="failed_to_send">"Couldn't send"</string>
+  <string name="failed_to_send">Envoi impossible</string>
   <string name="fake_cell_alert_detect_error">"Cela n'a pas été envoyé à partir d'un faux téléphone portable"</string>
   <string name="fake_cell_alert_hint">"Il semble que ce message ait été envoyé à partir d'un numéro de téléphone différent de celui qui s'affiche. Soyez prudent avec les messages contenant des sollicitations financières."</string>
   <string name="fake_cell_checking_hint">Vérification de sécurité…</string>
@@ -284,7 +284,7 @@
   <string name="favorite_at_time">Ajouté aux favoris sur: %1s</string>
   <string name="fdn_check_failure">Vous ne pouvez pas envoyer de SMS à un téléphone fixe.</string>
   <string name="feature_mx">Mi Message</string>
-  <string name="feature_mx_summary">&lt;b&gt;Mi Message allows you to send messages to other Mi Message users over the internet without incurring charges&lt;/b&gt;. An outgoing SMS message is required to activate this service. Your carrier will charge you for this message. Read and agree to our &lt;font color="#B3000000"&gt;&lt;a href="http://url1"&gt;User Agreement&lt;/a&gt;&lt;/font&gt; and &lt;font color="#B3000000"&gt;&lt;a href="http://url2"&gt;Privacy Policy&lt;/a&gt;&lt;/font&gt; before using this feature.</string>
+  <string name="feature_mx_summary">"&lt;b&gt;Mi Message vous permet d'envoyer des messages à d'autres utilisateurs de Mi Message par internet sans occasionner de frais&lt;/b&gt;. Un message SMS doit être envoyé pour activer ce service. Cela pourra engendrer des frais facturés par votre opérateur. Lisez et acceptez notre &lt;font color=\"#B3000000\"&gt;&lt;a href=\"http://url1\"&gt;Agrément utilisateur&lt;/a&gt;&lt;/font&gt; et notre &lt;font color=\"#B3000000\"&gt;&lt;a href=\"http://url2\"&gt;Politique de confidentialité&lt;/a&gt;&lt;/font&gt; avant d'utiliser cette fonctionnalité."</string>
   <string name="feature_smart_sms">Messagerie intelligente</string>
   <string name="feature_smart_sms_summary">"&lt;b&gt;La messagerie intelligente offre une reconnaissance de l'identifiant de l'expéditeur et des menus intelligents&lt;/b&gt;". La messagerie intelligente est fournie en partie par Yulore. Lisez et acceptez les conditions de Yulore "&lt;font color="#B3000000"&gt;&lt;a href="http://url3"&gt;Politique de confidentialité&lt;/a&gt;&lt;/font&gt; avant d'utiliser cette fonction."</string>
   <string name="festival_sms_loading">Chargement…</string>
