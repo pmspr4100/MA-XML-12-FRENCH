@@ -21,8 +21,8 @@
       <item quantity="one">%d FM recording</item>
     </plurals>
     <plurals name="total_chapter_count">
-      <item quantity="other">%1$d episodes</item>
-      <item quantity="one">%1$d episode</item>
+      <item quantity="other">%1$d épisodes</item>
+      <item quantity="one">%1$d épisode</item>
     </plurals>
     <plurals name="toast_channel_searched">
       <item quantity="other">%1$d stations trouvées</item>
@@ -46,16 +46,16 @@
       <item quantity="one">(%d chanson)</item>
     </plurals>
     <plurals name="Nquit_warning">
-      <item quantity="other">Le lecteur s'arrêtera dans %d minutes</item>
-      <item quantity="one">Le lecteur s'arrêtera dans %d minute</item>
+      <item quantity="other">"Le lecteur s'arrêtera dans %d minutes"</item>
+      <item quantity="one">"Le lecteur s'arrêtera dans %d minute"</item>
     </plurals>
     <plurals name="Nsleep_quit_warning">
       <item quantity="other">%d minutes restantes</item>
       <item quantity="one">%d minute restante</item>
     </plurals>
     <plurals name="Nsleep_quit_warning_custom">
-      <item quantity="other">Personnalisé:%d minutes restantes</item>
-      <item quantity="one">Personnalisé:%d minute restante</item>
+      <item quantity="other">Personnalisé: %d minutes restantes</item>
+      <item quantity="one">Personnalisé: %d minute restante</item>
     </plurals>
     <plurals name="Nsong_group_detail_subtitle">
       <item quantity="other">Créé sur %1$s | total %2$d chansons</item>
