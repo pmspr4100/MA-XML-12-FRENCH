@@ -21,8 +21,8 @@
       <item quantity="one">%d FM recording</item>
     </plurals>
     <plurals name="total_chapter_count">
-      <item quantity="other">%1$d episodes</item>
-      <item quantity="one">%1$d episode</item>
+      <item quantity="other">%1$d épisodes</item>
+      <item quantity="one">%1$d épisode</item>
     </plurals>
     <plurals name="toast_channel_searched">
       <item quantity="other">%1$d stations trouvées</item>
@@ -34,37 +34,37 @@
       <item quantity="one">Total %d chanson</item>
     </plurals>
     <plurals name="Nbackup_songs">
-      <item quantity="other">Backing up songs, %1$d songs remaining (%2$.1fMB)</item>
-      <item quantity="one">Backing up songs, %1$d song remaining (%2$.1fMB)</item>
+      <item quantity="other">Sauvegarde des chansons, %1$d chansons restantes (%2$.1fMo)</item>
+      <item quantity="one">Sauvegarde des chansons, %1$d chanson restante (%2$.1fMo)</item>
     </plurals>
     <plurals name="Ndownload_fee_alert_message">
-      <item quantity="other">"At the request of the copyright owner, %d selected songs can't be downloaded for free. These songs were added to downloads."</item>
-      <item quantity="one">"At the request of the copyright owner, %d selected song can't be downloaded for free. This song was added to downloads."</item>
+      <item quantity="other">"À la demande des ayant-droits, %d chansons sélectionnées ne peuvent pas être téléchargées gratuitement. Ces chansons ont été ajoutées aux téléchargements."</item>
+      <item quantity="one">"À la demande des ayant-droits, %d chanson sélectionnée ne peut pas être téléchargée gratuitement. Cette chanson a été ajoutée aux téléchargements."</item>
     </plurals>
     <plurals name="Nnowplaying_songs">
       <item quantity="other">(%d chansons)</item>
       <item quantity="one">(%d chanson)</item>
     </plurals>
     <plurals name="Nquit_warning">
-      <item quantity="other">Player will stop in %d minutes</item>
-      <item quantity="one">Player will stop in %d minute</item>
+      <item quantity="other">"Le lecteur s'arrêtera dans %d minutes"</item>
+      <item quantity="one">"Le lecteur s'arrêtera dans %d minute"</item>
     </plurals>
     <plurals name="Nsleep_quit_warning">
-      <item quantity="other">%d minutes remain</item>
-      <item quantity="one">%d minute remain</item>
+      <item quantity="other">%d minutes restantes</item>
+      <item quantity="one">%d minute restante</item>
     </plurals>
     <plurals name="Nsleep_quit_warning_custom">
-      <item quantity="other">Custom:%d minutes remain</item>
-      <item quantity="one">Custom:%d minute remain</item>
+      <item quantity="other">Personnalisé: %d minutes restantes</item>
+      <item quantity="one">Personnalisé: %d minute restante</item>
     </plurals>
     <plurals name="Nsong_group_detail_subtitle">
-      <item quantity="other">Created on %1$s | total %2$d songs</item>
-      <item quantity="zero">Created on %1$s | total %2$d song</item>
-      <item quantity="one">Created on %1$s | total %2$d song</item>
+      <item quantity="other">Créé sur %1$s | total %2$d chansons</item>
+      <item quantity="zero">Créé sur %1$s | total %2$d chanson</item>
+      <item quantity="one">Créé sur %1$s | total %2$d chanson</item>
     </plurals>
     <plurals name="Nstop_backup_songs_message">
-      <item quantity="other">"%d songs haven't been backed up to Mi Cloud. Stop now?"</item>
-      <item quantity="one">"%d song hasn't been backed up to Mi Cloud. Stop now?"</item>
+      <item quantity="other">"%d chansons n'ont pas été sauvegardées dans Mi Cloud. Arrêter maintenant ?"</item>
+      <item quantity="one">"%d chanson n'a pas été sauvegardée dans Mi Cloud. Arrêter maintenant "</item>
     </plurals>
     <plurals name="Ntracks_count">
       <item quantity="other">%d chansons</item>
@@ -75,35 +75,35 @@
       <item quantity="one">%d chanson similaire</item>
     </plurals>
     <plurals name="Nunbackup_audios">
-      <item quantity="other">"%1$d songs haven't been backed up (%2$.1fMB)"</item>
-      <item quantity="one">"%1$d song hasn't been backed up (%2$.1fMB)"</item>
+      <item quantity="other">"%1$d chansons n'ont pas été sauvegardées (%2$.1fMo)"</item>
+      <item quantity="one">"%1$d chanson n'a pas été sauvegardée (%2$.1fMo)"</item>
     </plurals>
     <plurals name="Nupload_song_button">
-      <item quantity="other">Back up %1$d songs (%2$.1fMB)</item>
-      <item quantity="one">Back up %1$d song (%2$.1fMB)</item>
+      <item quantity="other">Sauvegarder %1$d chansons (%2$.1fMo)</item>
+      <item quantity="one">Sauvegarder %1$d chanson (%2$.1fMo)</item>
     </plurals>
     <plurals name="check_in_day_label">
       <item quantity="other">%1$d jours</item>
       <item quantity="one">%1$d jour</item>
     </plurals>
     <plurals name="comment_count">
-      <item quantity="other">%d comments</item>
-      <item quantity="one">%d comment</item>
+      <item quantity="other">%d commentaires</item>
+      <item quantity="one">%d commentaire</item>
     </plurals>
     <plurals name="comment_input_length_invalid">
-      <item quantity="other">You can enter up to %1$d characters.</item>
-      <item quantity="one">You can enter up to %1$d character.</item>
+      <item quantity="other">"Vous pouvez entrer jusqu'à %1$d caractères."</item>
+      <item quantity="one">"Vous pouvez entrer jusqu'à %1$d caractère."</item>
     </plurals>
     <plurals name="multichoice_title">
-      <item quantity="other">%d items selected</item>
-      <item quantity="one">%d item selected</item>
+      <item quantity="other">%d objets sélectionnés</item>
+      <item quantity="one">%d objet sélectionné</item>
     </plurals>
     <plurals name="reader_count">
       <item quantity="other">%d followers</item>
       <item quantity="one">%d follower</item>
     </plurals>
     <plurals name="skipped_online_songs_tips">
-      <item quantity="other">%d chansons ignorées. Activez les services en ligne dans les paramètres pour les écoutées.</item>
+      <item quantity="other">%d chansons ignorées. Activez les services en ligne dans les paramètres pour les écouter.</item>
       <item quantity="one">"%d chanson ignorée. Activez les services en ligne dans les paramètres pour l'écouter."</item>
     </plurals>
     <plurals name="songs_count">
@@ -111,8 +111,8 @@
       <item quantity="one">%d chanson</item>
     </plurals>
     <plurals name="swipe_to_load_head_complete_success">
-      <item quantity="other">Here are %1$d updates for you:</item>
-      <item quantity="one">Here is %1$d update for you:</item>
+      <item quantity="other">Voici %1$d mises à jour pour vous:</item>
+      <item quantity="one">Voici %1$d mise à jour pour vous:</item>
     </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
       <item quantity="other">Supprimer %d fichiers ?</item>
@@ -127,8 +127,8 @@
       <item quantity="one">Effacer %d audio ?</item>
     </plurals>
     <plurals name="download_finished">
-      <item quantity="other">&lt;font color=\"red\">%d Chansons&lt;/font> téléchargé</item>
-      <item quantity="one">&lt;font color==\"red\">%d Chanson&lt;/font> téléchargé</item>
+      <item quantity="other">&lt;font color=\"red\">%d chansons&lt;/font> téléchargées</item>
+      <item quantity="one">&lt;font color==\"red\">%d chanson&lt;/font> téléchargée</item>
     </plurals>
     <plurals name="download_info_count_deleted_tasks">
       <item quantity="other">%d téléchargements supprimés</item>
@@ -163,8 +163,8 @@
       <item quantity="one">%d chanson supprimée de la playlist</item>
     </plurals>
     <plurals name="dialog_remove_from_cloud_descript">
-      <item quantity="other">Supprimer %d chansons de Mi Cloud ? Ils seront également supprimés des listes de lecture locales.</item>
-      <item quantity="one">Supprimer %d chanson de Mi Cloud ? Il sera également supprimé des listes de lecture locales.</item>
+      <item quantity="other">Supprimer %d chansons de Mi Cloud ? Elles seront également supprimées des listes de lecture locales.</item>
+      <item quantity="one">Supprimer %d chanson de Mi Cloud ? Elle sera également supprimée des listes de lecture locales.</item>
     </plurals>
     <plurals name="send_songs_toast">
       <item quantity="other">%d chansons seront envoyées</item>
@@ -172,6 +172,6 @@
     </plurals>
     <plurals name="song_already_favorite">
       <item quantity="other">Les chansons ont été favorisées.</item>
-      <item quantity="one">La chanson a été favorisé.</item>
+      <item quantity="one">La chanson a été favorisée.</item>
     </plurals>
 </resources>
