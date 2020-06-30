@@ -88,6 +88,14 @@
         <item quantity="other">%d minutes ago</item>
         <item quantity="one">1 minute ago</item>
      </plurals>
+    <plurals name="detail_reward_few_times">
+        <item quantity="other">%s rewards</item>
+        <item quantity="one">%s reward</item>
+    </plurals>
+    <plurals name="detail_reward_times">
+        <item quantity="other">%s rewards</item>
+        <item quantity="one">%s reward</item>
+    </plurals>
     <plurals name="detail_update_time_hour">
         <item quantity="other">il y a %d heures</item>
         <item quantity="one">il y a %d heure</item>
