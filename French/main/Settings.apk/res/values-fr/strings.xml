@@ -61,7 +61,7 @@
   <string name="access_control_need_to_unlock">Mot de passe requis:</string>
   <string name="access_control_no_back_footer">Appuyer sur [icône] pour quitter</string>
   <string name="bottom_function_settings">Fonctions des boutons supplémentaires</string>
-  <string name="error_apn_restrict_string">Le champ APN ne peut pas contenir%1$s</string>
+  <string name="error_apn_restrict_string">Le champ APN ne peut pas contenir %1$s</string>
   <string name="access_control_password_title">Mot de passe</string>
   <string name="access_control_recording_intro_header">Dessinez un schéma de déverrouillage:</string>
   <string name="access_control_reset_by_account">Se connecter à votre compte Mi pour ré-initialiser le mot de passe</string>
@@ -1055,6 +1055,7 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
   <string name="additional_permissions_more">%1$d autres</string>
   <string name="additional_system_update_settings_list_item_title">Mises à jour additionnelles du système</string>
   <string name="adjust_3d_depth_title">"Ajuster la profondeur des jeux 3D"</string>
+  <string name="adjust_temperature_title">Color temperature</string>
   <string name="admin_device_owner_message">"Votre administrateur peut contrôler et gérer les applications et les données associées à cet appareil, y compris les paramètres, les permissions, l'accès aux contenus de l'entreprise, l'activité réseau et les informations de localisation de l'appareil."</string>
   <string name="admin_disabled_other_options">"D'autres options sont désactivées par votre administrateur"</string>
   <string name="admin_more_details">"Plus d'informations"</string>
@@ -1064,6 +1065,7 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
   <string name="advanced_apps">Paramètres additionnels</string>
   <string name="advanced_battery_graph_subtext">"L'estimation de l'autonomie restante est basée sur l'utilisation de l'appareil"</string>
   <string name="advanced_battery_title">Utilisation de la batterie</string>
+  <string name="advanced_screen_paper_mode_title">Reading mode</string>
   <string name="advanced_section_header">Paramètres additionnels</string>
   <string name="advanced_security_title">Paramètres additionnels</string>
   <string name="advanced_settings">Paramètres additionnels</string>
@@ -1296,6 +1298,8 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
   <string name="audio_files_title">Fichiers audio</string>
   <string name="audio_profile_settings_title">Profil audio</string>
   <string name="audio_record_proc_title">Suppression du bruit</string>
+  <string name="auto_adjst_effect_summary">Adjust color temperature to ambient light automatically in order to maintain optimal comfort level</string>
+  <string name="auto_adjust_effect_title">Adjust color temperature automatically</string>
   <string name="auto_brightness_default_title">Par défaut</string>
   <string name="auto_brightness_description">"La luminosité de l'écran s'adapte automatiquement à votre environnement et à vos activités. Vous pouvez déplacer le curseur manuellement pour aider la luminosité adaptative à apprendre vos préférences."</string>
   <string name="auto_brightness_disclaimer">"Adapte la luminosité selon l'éclairage. Si l'option est activée, un réglage temporaire est possible."</string>
@@ -1603,6 +1607,9 @@ Applications:
   <string name="battery_used_by">%1$s utilisé(s) par %2$s</string>
   <string name="battery_used_for">"Temps d'utilisation: ^1"</string>
   <string name="bearer">Réseau</string>
+  <string name="beauty_camera">Beautify for video calls</string>
+  <string name="beauty_camera_summary">Use Beautify for WeChat video calls</string>
+  <string name="beauty_camera_switch">Beautify</string>
   <string name="billing_cycle">Avertissement et limite données</string>
   <string name="billing_cycle_fragment_summary">Mensuel (le %1$s)</string>
   <string name="billing_cycle_less_than_one_day_left">Moins de 1 jour restant</string>
@@ -1895,13 +1902,13 @@ Qualité de lecture"</string>
   <string name="bluetooth_unlock_change_matched_device">Autre périphérique</string>
   <string name="bluetooth_unlock_confirm_device_text">"Appuyez le Bluetooth de l'appareil pour confirmer."</string>
   <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Appuyez sur le bouton sur la montre pour déverrouiller.</string>
-  <string name="bluetooth_unlock_confirm_device_text_for_mi_wear">confirmer sur les appareils</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_mi_wear">"Confirmer sur l'appareil"</string>
   <string name="bluetooth_unlock_confirm_device_text_for_miband2">"Appuyer sur l'appareil pour déverrouiller."</string>
   <string name="bluetooth_unlock_delete_device">Supprimer cet appareil</string>
   <string name="bluetooth_unlock_delete_device_confirm_msg">Supprimer cet appareil ?</string>
   <string name="bluetooth_unlock_device_matched_text">Utilisez celui-ci pour déverrouiller.</string>
   <string name="bluetooth_unlock_no_matched_device_yet">Aucun périphérique détecté</string>
-  <string name="bluetooth_unlock_reject">"l'appareil distant rejette la demande de déverrouillage"</string>
+  <string name="bluetooth_unlock_reject">La demande de déverrouillage de cet appareil a été rejetée</string>
   <string name="bluetooth_unlock_settings_devices_title">Périphérique</string>
   <string name="bluetooth_unlock_settings_toggle_title">Appliquer à</string>
   <string name="bluetooth_unlock_settings_unlock_device">"Déverrouiller l'appareil"</string>
@@ -1913,7 +1920,7 @@ Qualité de lecture"</string>
   <string name="bluetooth_unlock_title">Déverrouiller avec un périphérique Bluetooth</string>
   <string name="bluetooth_unlock_turned_off">Désactivé</string>
   <string name="bluetooth_unlock_turned_on">Activé</string>
-  <string name="bluetooth_unlock_unsupport">version non prise en charge</string>
+  <string name="bluetooth_unlock_unsupport">"La version du micrologiciel de cet appareil n'est pas actuellement prise en charge"</string>
   <string name="bluetooth_unpair_dialog_body">Votre téléphone ne sera plus associé à \"%1$s\"</string>
   <string name="bluetooth_unpair_dialog_forget_confirm_button">"Dissocier l'appareil"</string>
   <string name="bluetooth_unpair_dialog_title">"Dissocier l'appareil ?"</string>
@@ -2143,6 +2150,8 @@ Vous pouvez désactiver cette fonctionnalité dans les paramètres > Bluetooth >
   <string name="choose_unlock_face_msg">"Définissez un verrouillage de l'écran avant d'enregistrer les données de reconnaissance faciale."</string>
   <string name="choose_unlock_fingerprint_msg">"Définissez le verrouillage de l'écran avant d'ajouter votre empreinte digitale."</string>
   <string name="choose_voice_input_title">Sélectionner la saisie vocale</string>
+  <string name="classic_mode_summary">Switch to warmer colors to reduce the amount of blue light</string>
+  <string name="classic_mode_title">Classic</string>
   <string name="cleaner">Nettoyeur</string>
   <string name="clear_activities">Effacer les actions par défaut</string>
   <string name="clear_activities_summary">Utiliser cette application pour certaines opérations par défaut</string>
@@ -2964,7 +2973,6 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
   <string name="done">Terminé</string>
   <string name="done_button">Terminé</string>
   <string name="double_click_power_key">"Appuyer rapidement deux fois sur le bouton d'alimentation"</string>
-  <string name="double_knock">Double appui avec jointure du doigt</string>
   <string name="double_tap_power_for_camera_suggestion_title">"Ouvrir l'appareil photo rapidement"</string>
   <string name="double_tap_power_for_camera_summary">"Pour accéder rapidement à l'appareil photo, appuyez deux fois sur le bouton Marche/Arrêt. Fonctionne à partir de n'importe quel écran."</string>
   <string name="double_tap_power_for_camera_title">"Accès à l'appareil photo"</string>
@@ -3023,6 +3031,7 @@ Vous pouvez afficher les journaux générés dans le Gestionnaire de fichiers."<
   <string name="edge_mode_state_title">Ignorer le toucher accidentel sur les bords</string>
   <string name="edit_rule">Éditer des règles</string>
   <string name="edit_rules">Éditer</string>
+  <string name="effect_preview">Aperçu</string>
   <string name="eighthours">8 heures</string>
   <string name="emergency_address_summary">"Adresse utilisée pour votre position si vous effectuez un appel d'urgence à l'aide du Wi-Fi"</string>
   <string name="emergency_address_title">"Adresse d'urgence"</string>
@@ -3597,6 +3606,7 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
 Vous pouvez modifier cette option ultérieurement dans Paramètres > Applications et notifications."</string>
   <string name="high_power_prompt_title">"Autoriser l'exécution en arrière-plan systématique de l'application ?"</string>
   <string name="high_power_system">Optimisation de la batterie non disponible</string>
+  <string name="hint_unadjustable_text">"Can't adjust manually. Color temperature is adjusted automatically now."</string>
   <string name="history_details_title">Historique</string>
   <string name="home">"Paramètres de l'écran d'accueil"</string>
   <string name="home_app">Bureau</string>
@@ -3884,7 +3894,6 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
   <string name="last_synced">Dernière synchronisation: %1$s</string>
   <string name="last_time_used_label">Dernière utilisation</string>
   <string name="lattice_smartcover_title">Couverture avant Lattice</string>
-  <string name="launch_ai_shortcut">Raccourci Mi AI</string>
   <string name="launch_by_default">Ouvrir par défaut</string>
   <string name="launch_camera">"Lancer l'appareil photo"</string>
   <string name="launch_defaults_none">Aucune préférence par défaut définie</string>
@@ -4974,6 +4983,7 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
   <string name="page_layout_page2_title">Aperçu</string>
   <string name="page_tab_title_summary">Tous</string>
   <string name="page_tab_title_support">Aide et conseils</string>
+  <string name="paper_color_title">Couleurs</string>
   <string name="paper_mode_auto_twilight_summary">Basculez automatiquement vers le mode lecture au crépuscule</string>
   <string name="paper_mode_auto_twilight_title">Bonne lecture de nuit</string>
   <string name="paper_mode_customize_time_summary">Activez le mode lecture pour période personnalisée</string>
@@ -4983,7 +4993,11 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
   <string name="paper_mode_get_location_dlg_negative_btn_text">Annuler</string>
   <string name="paper_mode_get_location_dlg_positive_btn_text">Accéder aux paramètres</string>
   <string name="paper_mode_get_location_dlg_title">Définir la localisation</string>
+  <string name="paper_mode_reset">Restore defaults</string>
   <string name="paper_mode_start_time_title">Activer</string>
+  <string name="paper_mode_summary">Switch to warmer colors and add paper texture to backgrounds to reduce eye strain</string>
+  <string name="paper_mode_title">Paper</string>
+  <string name="papger_effect_category">Mode</string>
   <string name="passpoint_content">Identifiants de \"%1$s\"</string>
   <string name="passpoint_label">Enregistré via</string>
   <string name="passwordIncorrect">Mot de passe incorrect</string>
@@ -5591,7 +5605,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="screen">Écran</string>
   <string name="screen_cancel">Annuler</string>
   <string name="screen_color_and_optimize">Couleurs et contraste</string>
-  <string name="screen_color_and_optimize_disabled">Impossible de régler la température de couleur en mode lecture</string>
+  <string name="screen_color_and_optimize_disabled">Impossible de régler la palette de couleurs et la température de couleur en mode lecture</string>
   <string name="screen_color_temperature">Température couleurs</string>
   <string name="screen_color_temperature_and_saturation">Couleurs et saturation</string>
   <string name="screen_compatibility_label">"Compatibilité de l'écran"</string>
@@ -5635,10 +5649,11 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="screen_on_proximity_sensor_summary">Verrouiller les gestes tactiles une fois placé dans une poche</string>
   <string name="screen_on_proximity_sensor_title">Activer le mode poche</string>
   <string name="screen_optimize">Contraste</string>
-  <string name="screen_optimize_disabled">Impossible de régler le contraste lorsque le mode de lecture est activé</string>
+  <string name="screen_optimize_disabled">"Impossible d'ajuster le jeu de couleurs en mode lecture"</string>
   <string name="screen_paper_mode_adjust_level">Ajuster</string>
   <string name="screen_paper_mode_apps_loading">Chargement…</string>
   <string name="screen_paper_mode_apps_title">Utiliser le mode de lecture</string>
+  <string name="screen_paper_mode_description">Reading mode adjusts colors and textures of the items on your screen allowing your eyes to relax</string>
   <string name="screen_paper_mode_global_summary">Utiliser le mode de lecture pour toutes les applications</string>
   <string name="screen_paper_mode_global_title">Toutes les applications</string>
   <string name="screen_paper_mode_hdr_toast">Le mode de lecture sera désactivé pendant que vous lisez des vidéos HDR. Il sera automatiquement réactivé une fois la lecture terminée.</string>
@@ -5659,6 +5674,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Connexion internet</string>
   <string name="screen_paper_mode_update_white_pkg_list_summary">Mise à jour des applications qui utilisent automatiquement le mode lecture</string>
   <string name="screen_paper_mode_update_white_pkg_list_title">Mise à jour automatique</string>
+  <string name="screen_paper_texture">Texture</string>
   <string name="screen_pinning_description">"Si ce paramètre est activé, vous pouvez épingler l'écran pour qu'il reste affiché jusqu'à l'annulation de cette opération.
 
 Pour épingler l'écran:
@@ -6091,6 +6107,7 @@ Remarque: Vous ne pouvez pas utiliser votre empreinte digitale pour déverrouill
   <string name="set_data_warning">Activer une alerte</string>
   <string name="set_jeejen_prompt_message">"Jeejen sera défini comme lanceur par défaut. Vous pouvez modifier le lanceur par défaut dans Paramètres > Paramètres du système > Écran d'accueil et Récents > Lanceur par défaut."</string>
   <string name="set_jeejen_prompt_title">Confirmer les changements</string>
+  <string name="set_screen_paper_mode">Reading mode</string>
   <string name="setting_privacy_password">Définissez un mot de passe de protection de confidentialité</string>
   <string name="settings_ad_loading">Chargement…</string>
   <string name="settings_ad_loading_unavailable">Impossible de charger les informations.</string>
@@ -6740,6 +6757,7 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
   <string name="tethering_hardware_offload_summary">"Utiliser l'accélération du matériel de partage de connexion si disponible"</string>
   <string name="tethering_help_button_text">Aide</string>
   <string name="tethering_settings_not_available">Veuillez changer les paramètres de partage de connexion dans le Premier espace</string>
+  <string name="texture_adjust_temperature_title">Température de couleur</string>
   <string name="the_way_of_wakeup_voice_assistant_summary">"Allumer l'assistant vocal en mode plein écran (pas de boutons virtuels)"</string>
   <string name="theme_customization_accent_color_title">Couleur des accents</string>
   <string name="theme_customization_category">Theming</string>
@@ -7922,6 +7940,8 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
   <string name="wifi_type_approval_title">"Type d'approbation"</string>
   <string name="wifi_unchanged">(aucune modification)</string>
   <string name="wifi_unmetered_label">Non mesuré</string>
+  <string name="wifi_unsaved_network_linking">SSID Bridging - Auto Connection</string>
+  <string name="wifi_unsaved_network_linking_summary">Enable auto connection attempts to a new WPA/WPA2‑PSK 5GHz SSID with current connected WPA/WPA2‑PSK 2GHz SSID credentials on SSID and BSSID partial match</string>
   <string name="wifi_unspecified">Veuillez sélectionner un élément</string>
   <string name="wifi_use_system_certs">Utiliser les certificats du système</string>
   <string name="wifi_verbose_logging">"Enregistrement infos Wi-Fi détaillées"</string>
@@ -7959,6 +7979,8 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
   <string name="wifi_wapi_psk_type">Type de mot de passe</string>
   <string name="wifi_wapi_user_cert">Certificat Utilisateur</string>
   <string name="wifi_wapi_user_certificate">Certificat utilisateur</string>
+  <string name="wifi_whitelist_roaming">SSID Bridging - Fast Handover</string>
+  <string name="wifi_whitelist_roaming_summary">Enable roaming between different SSID WPA/WPA2‑PSK APs with same gateway MAC address</string>
   <string name="wifi_wps_available_first_item">WPS disponible</string>
   <string name="wifi_wps_available_second_item">" (WPS disponible)"</string>
   <string name="wifi_wps_connected">Connecté à %s</string>

@@ -207,7 +207,26 @@ If you need to manually open the Miracast function, you can press the [Menu] but
   <string name="more">More</string>
   <string name="notification_rc_title">XiaoMi TV Assistant</string>
   <string name="notification_show_more">View more features</string>
-  <string name="privacy_agree">同意</string>
+  <string name="privacy_agree">Agree</string>
+  <string name="privacy_detail">&lt;Data&gt;This app needs to connect to the internet and collect the required personal data to be able to work normally. To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &amp;lt;a href=%1$s&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=%2$s&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+  <string name="privacy_detail_extra">&lt;Data&gt;Some features are provided by a third party service provider HappyCast. Before using this feature, read and agree to &amp;lt;a href=%1$s&amp;gt;HappyCast Privacy Policy&amp;lt;/a&amp;gt; and &amp;lt;a href=%2$s&amp;gt;HappyCast Legal Statement&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+  <string name="privacy_explain">"Welcome to Casting! Casting allows projecting the items from your phone's screen on a bigger external monitor. This app needs to connect to the internet and requires the following permissions to be able to work normally:"</string>
+  <string name="privacy_negative">Exit</string>
+  <string name="privacy_permission_ble">Turning Bluetooth on and off</string>
+  <string name="privacy_permission_ble_desc">For finding available devices nearby</string>
+  <string name="privacy_permission_location">Accessing location</string>
+  <string name="privacy_permission_location_desc">For finding available devices nearby</string>
+  <string name="privacy_permission_necessary">Mandatory permissions</string>
+  <string name="privacy_permission_necessary_desc">These permissions are required to make the basic features and services of this app available.</string>
+  <string name="privacy_permission_nfc_desc">For pairing devices using NFC</string>
+  <string name="privacy_permission_optional">Optional permissions</string>
+  <string name="privacy_permission_optional_desc">"Used for additional features while you're using them"</string>
+  <string name="privacy_permission_wlan">Turning Wi-Fi on and off</string>
+  <string name="privacy_permission_wlan_china">Turning WLAN on and off</string>
+  <string name="privacy_permission_wlan_desc">For finding available devices nearby</string>
+  <string name="privacy_permission_wlan_desc_china">For finding available devices nearby</string>
+  <string name="privacy_positive">Agree</string>
+  
   <string name="privacy_text_1">"&lt;Data&gt;"Welcome to Casting! Casting allows projecting the items from your phone's screen on a bigger external monitor.
 We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies. Some features are provided by a third party service provider HappyCast. Before using this feature, read and agree to &amp;lt;a href=%2$s&amp;gt;HappyCast Legal Statement&amp;lt;/a&amp;gt; and &amp;lt;a href=%1$s&amp;gt;HappyCast Privacy Policy&amp;lt;/a&amp;gt;.
 To be able to work normally, this app needs to connect to the internet and requires the following permissions in order to collect your personal information:"&lt;/Data&gt;"</string>
@@ -219,6 +238,8 @@ Read and agree to our &amp;lt;a href=%1$s&amp;gt;User Agreement&amp;lt;/a&amp;gt
 　　•Get phone information Read the phone IMEI, Android_id, version and log information recording.
 　　•After reading the sound, cast the sound to the large screen device.
 　　•Targeting permissions Locate and discover surrounding devices."</string>
+  <string name="privacy_title">Attention</string>
+  <string name="private_protect">Hide private items</string>
   <string name="san_wait_msg_1">"Activer la diffusion sans fil sur l'appareil cible"</string>
   <string name="san_wait_msg_2">"La recherche d'appareils peut prendre un certain temps…"</string>
   <string name="san_wait_msg_3">"Les appareils externes sont plus faciles à trouver lorsqu'ils sont connectés au même réseau que votre téléphone"</string>

@@ -460,8 +460,8 @@ Selection"</string>
   <string name="wifi_no_internet_no_reconnect">Connexion internet impossible</string>
   <string name="wifi_not_in_range">Hors de portée</string>
   <string name="wifi_remembered">Enregistré</string>
-  <string name="wifi_scan_throttling">Puissance de la recherche de Wi‑Fi</string>
-  <string name="wifi_scan_throttling_summary">Reduces battery drain &amp; improves network performance</string>
+  <string name="wifi_scan_throttling">Puissance de la recherche de Wi-Fi</string>
+  <string name="wifi_scan_throttling_summary">Reduces battery drain and improves network performance</string>
   <string name="wifi_security_none">None</string>
   <string name="wifi_security_none_owe">None/Enhanced Open</string>
   <string name="wifi_security_owe">Enhanced Open</string>
@@ -476,8 +476,10 @@ Selection"</string>
   <string name="wifi_status_no_internet">"Pas d'internet"</string>
   <string name="wifi_status_sign_in_required">Authentification requise</string>
   <string name="wifi_unmetered_label">Non mesuré</string>
-  <string name="wifi_verbose_logging">Turn on Wi‑Fi verbose logging</string>
-  <string name="wifi_verbose_logging_summary">Increase Wi‑Fi logging level, show per SSID RSSI in Wi‑Fi Picker</string>
+  <string name="wifi_unsaved_network_linking">SSID Bridging ‑ Auto Connection</string>
+  <string name="wifi_unsaved_network_linking_summary">Enable auto connection attempts to a new WPA/WPA2‑PSK 5GHz SSID with current connected WPA/WPA2‑PSK 2GHz SSID credentials on SSID and BSSID partial match</string>
+  <string name="wifi_verbose_logging">Turn on Wi-Fi verbose logging</string>
+  <string name="wifi_verbose_logging_summary">Increase Wi-Fi logging level, show per SSID RSSI in Wi‑Fi Picker</string>
   <string name="wifi_wapi_as_certificate">Certificat AS</string>
   <string name="wifi_wapi_cert_mode_hand_text">Sélectionner manuellement</string>
   <string name="wifi_wapi_certification_dont_exist">Le mot de passe réseau entré est incorrect.</string>
@@ -487,6 +489,8 @@ Make sure your certificates are valid."</string>
 Il semble que le stockage des accès soit désactivé."</string>
   <string name="wifi_wapi_psk_type">Type de mot de passe</string>
   <string name="wifi_wapi_user_certificate">Certificat utilisateur</string>
+  <string name="wifi_whitelist_roaming">SSID Bridging ‑ Fast Handover</string>
+  <string name="wifi_whitelist_roaming_summary">Enable roaming between different SSID WPA/WPA2‑PSK APs with same gateway MAC address</string>
   <string name="window_animation_scale_title">Window animation scale</string>
   <string name="zen_alarm_warning">"Vous n'entendrez pas votre prochaine alarme %1$s"</string>
   <string name="zen_alarm_warning_indef">"Vous n'entendrez pas votre prochaine alarme %1$s à moins de désactiver cette fonctionnalité d'ici-là"</string>
