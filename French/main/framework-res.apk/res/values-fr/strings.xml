@@ -359,8 +359,14 @@
   <string name="back_button_label">Retour</string>
   <string name="badPin">"L'ancien code PIN saisi est incorrect."</string>
   <string name="badPuk">La clé PUK saisie est incorrecte.</string>
-  <string name="battery_saver_description">"Pour prolonger l'autonomie de votre batterie, l'économiseur de batterie désactive certaines fonctionnalités de l'appareil et limite les applications."</string>
-  <string name="battery_saver_description_with_learn_more">"Pour prolonger l'autonomie de votre batterie, l'économiseur de batterie désactive certaines fonctionnalités de l'appareil et limite les applications. "<annotation id="url">En savoir plus</annotation></string>
+  <string name="battery_saver_description">"To extend battery life, Battery Saver:
+·Turns on Dark theme
+·Turns off or restricts background activity, some visual effects, and other features like “Hey Google”"</string>
+  <string name="battery_saver_description_with_learn_more">"To extend battery life, Battery Saver:
+·Turns on Dark theme
+·Turns off or restricts background activity, some visual effects, and other features like “Hey Google”
+
+"&lt;annotation id="url"&gt;Learn more&lt;/annotation&gt;</string>
   <string name="beforeOneMonthDurationPast">"Il y a plus d'un mois"</string>
   <string name="bluetooth_a2dp_audio_route_name">Audio Bluetooth</string>
   <string name="browse">Ouvrir</string>
