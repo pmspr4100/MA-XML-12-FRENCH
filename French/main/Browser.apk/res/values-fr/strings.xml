@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>     
-  <string name="abc_action_mode_select_all">Select all</string>
   <string name="action_menu_text_like">Like</string>
   <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
   <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
@@ -33,6 +32,8 @@
   <string name="accessibility_button_clear">"Effacer l'entrée"</string>
   <string name="account_prifix">Compte:</string>
   <string name="action">Se connecter</string>
+  <string name="exo_controls_hide">Hide player controls</string>
+  <string name="exo_controls_vr_description">Mode VR</string>
   <string name="action_imme_open">Ouvrir immédiatement</string>
   <string name="action_menu_account_not_login">Pas connecté</string>
   <string name="action_menu_bookshelf">Bookshelf</string>
@@ -182,10 +183,10 @@
   <string name="character_counter_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
   <string name="check_security_tip_privacy_policy">Politique de confidentialité</string>
   <string name="check_security_tip_user_agreement">"Accord de l'utilisateur"</string>
-  <string name="clear_clipboard">Vider</string>
+  <string name="clear_clipboard">Effacer</string>
   <string name="clear_input_history_confirm">Êtes-vous sûr de vouloir vider complètement votre historique ?</string>
   <string name="clear_input_history_confirm_bt_text">Confirmer</string>
-  <string name="clearable_edittext_clear_description">Vider</string>
+  <string name="clearable_edittext_clear_description">Effacer</string>
   <string name="clipboard">Presse-papiers</string>
   <string name="clear_clipboard_confirm">Êtes-vous sûr de vouloir vider complètement votre presse-papiers ?</string>
   <string name="clear_history">"Effacer l'historique"</string>
@@ -392,7 +393,9 @@ pour voir les onglets ouverts dans les autres appareils."</string>
   <string name="exo_controls_repeat_off_description">Repeat none</string>
   <string name="exo_controls_repeat_one_description">Repeat one</string>
   <string name="exo_controls_rewind_description">Rewind</string>
-  <string name="exo_controls_shuffle_description">Shuffle</string>
+  <string name="exo_controls_show">Show player controls</string>
+  <string name="exo_controls_shuffle_off_description">Shuffle off</string>
+  <string name="exo_controls_shuffle_on_description">Shuffle on</string>
   <string name="exo_controls_stop_description">Stop</string>
   <string name="exo_download_completed">Download completed</string>
   <string name="exo_download_description">Download</string>
@@ -402,6 +405,9 @@ pour voir les onglets ouverts dans les autres appareils."</string>
   <string name="exo_download_removing">Removing downloads</string>
   <string name="exo_track_bitrate">%1$.2f Mbps</string>
   <string name="exo_track_mono">Mono</string>
+  <string name="exo_track_role_alternate">Alternate</string>
+  <string name="exo_track_role_commentary">Commentary</string>
+  <string name="exo_track_role_supplementary">Supplementary</string>
   <string name="exo_track_selection_auto">Auto</string>
   <string name="exo_track_selection_none">None</string>
   <string name="exo_track_selection_title_audio">Audio</string>
