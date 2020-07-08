@@ -3998,6 +3998,8 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
   <string name="location_mode_screen_title">Mode de localisation</string>
   <string name="location_mode_sensors_only_description">Utiliser le GPS pour déterminer la localisation</string>
   <string name="location_mode_sensors_only_title">Appareil uniquement</string>
+  <string name="location_modem_summary">Carriers will learn about your location via base stations</string>
+  <string name="location_modem_title">Share location info with carrier</string>
   <string name="location_neighborhood_level">Laisser les applications utiliser les données comme le Wi-Fi et les données réseaux pour déterminer votre localisation</string>
   <string name="location_neighborhood_level_wifi">Localisation déterminée par Wi-Fi</string>
   <string name="location_network_based">Wi-Fi et réseau cellulaires</string>
@@ -4732,7 +4734,7 @@ Sélectionnez votre système d'exploitation:"</string>
   <string name="normal_smartcover_title">Étui avec facade opaque</string>
   <string name="not_battery_optimizing">Optimisation de la batterie non utilisée</string>
   <string name="not_installed">Non installé pour cet utilisateur</string>
-  <string name="notch_and_status_bar_settings">Centre de contrôle et barre de notification</string>
+  <string name="notch_and_status_bar_settings">"Centre de contrôle et barre d'état"</string>
   <string name="notch_force_black_desc">"Activer pour assombrir la zone autour de l'encoche"</string>
   <string name="notch_force_black_title">"Masquer l'encoche"</string>
   <string name="notch_settings">Encoche</string>
@@ -5012,6 +5014,7 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
   <string name="status_bar_settings_notification_use_app_icon">Utiliser les icônes des applications</string>
   <string name="status_bar_settings_qs_layout">Configuration rapide des paramètres</string>
   <string name="performance_category">Performance</string>
+  <string name="permission_action_prompt">Demander</string>
   <string name="permission_detail_info">Détails</string>
   <string name="permission_detail_info_summary">%1$d sécurité | %2$d privées | %3$d autres</string>
   <string name="permission_manage">"Gestionnaire de permissions"</string>
@@ -6414,7 +6417,7 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
   <string name="status_bar_settings_show_weather">Afficher la météo dans la barre de notification</string>
   <string name="status_bar_settings_notification_bar">Panneau de notification</string>
   <string name="status_bar_settings_status_bar">Barre de statut</string>
-  <string name="status_bar_title">Barre de statut</string>
+  <string name="status_bar_title">"Centre de contrôle et barre d'état"</string>
   <string name="status_bt_address">Adresse Bluetooth</string>
   <string name="status_data_network_type">Type de réseau de données cellulaires</string>
   <string name="status_data_state">État du réseau mobile</string>
