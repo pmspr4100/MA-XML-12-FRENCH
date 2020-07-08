@@ -105,6 +105,10 @@
   <string name="location_warning">"%1$s est un fournisseur de services de localisation pour cet appareil. L'accès à la localisation peut être modifié à partir des paramètres de localisation."</string>
   <string name="never_ask_again">Ne plus demander après avoir restreint</string>
   <string name="ok">OK</string>
+  <string name="perm_action_allow">Autoriser</string>
+  <string name="perm_action_deny">Ne jamais autoriser</string>
+  <string name="perm_modem_location">Accès à votre localisation</string>
+  <string name="perm_modem_location_desc">"Votre opérateur tente d'accéder à vos informations de localisation. Partager les informations de localisation avec votre opérateur ?"</string>
   <string name="permdesc_camera">Prendre des photos et enregistrer des vidéos</string>
   <string name="permdesc_in_calls">Surveiller les appels entrants</string>
   <string name="permdesc_location">"Informations sur le lieu d'accès"</string>
@@ -127,7 +131,7 @@
   <string name="permgroupdesc_sensors">Accéder aux données du capteur de corps</string>
   <string name="permgroupdesc_sms">Lire ou envoyer des SMS</string>
   <string name="permgroupdesc_storage">"Accéder aux photos ou aux fichiers sur l'appareil"</string>
-  <string name="permgrouprequest_storage_isolated">Autoriser &lt;b&gt;%1$s&lt;/b&gt; accéder aux photos et aux médias sur votre appareil ?</string>
+  <string name="permgrouprequest_storage_isolated">Autoriser %1$s accéder aux photos et aux médias sur votre appareil ?</string>
   <string name="permission_description_summary_activity_recognition">Les applications disposant de cette permission peuvent accéder à votre activité physique, comment marcher, faire du vélo, conduire, compter les pas, etc.</string>
   <string name="permission_description_summary_calendar">Les applications avec cette permission peuvent accéder à votre calendrier</string>
   <string name="permission_description_summary_call_log">Les applications disposant de cette permission peuvent lire et écrire dans le journal des appels téléphoniques.</string>

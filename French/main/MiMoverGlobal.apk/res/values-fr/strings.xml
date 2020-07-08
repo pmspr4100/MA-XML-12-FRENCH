@@ -91,6 +91,10 @@ Nous protégeons vos données personnelles en accord avec les lois applicables, 
   <string name="dialog_tip_upgrade_title">Mise à jour Mi Mover</string>
   <string name="dialog_version_summary_tip">"Nouveautés:"</string>
   <string name="dialog_version_title_tip">Une mise à jour est disponible</string>
+  <string name="dialog_wechat_data_transfer_fail_button">Got it</string>
+  <string name="dialog_wechat_data_transfer_fail_message">"Couldn't transfer WeChat app data and chat history due to app restrictions. Try the in-app backup feature.
+Open WeChat and go to Me &gt; Settings &gt; General &gt; Back up &amp; migrate chats."</string>
+  <string name="dialog_wechat_data_transfer_fail_title">"Couldn't transfer WeChat app data"</string>
   <string name="document">Documents</string>
   <string name="email">E-mail</string>
   <string name="err_authentication_failed">Authentification impossible</string>
@@ -385,6 +389,7 @@ Les données qui n'ont pas été importées doivent l'être à nouveau."</string
 Libérez au moins %s."</string>
   <string name="scan_soft_ap_label">Connectez le nouvel appareil</string>
   <string name="scanner_bottom_tip">Sélectionnez uniquement des données importantes pour rendre le transfert plus rapide.</string>
+  <string name="scanner_not_support_data_transfer_tip">"Can't transfer app data (including WeChat and QQ chat history) from non-Xiaomi devices."</string>
   <string name="scanner_permission_alert_cancel">"C'est compris"</string>
   <string name="scanner_permission_alert_ok">Paramètres</string>
   <string name="scanner_quit_alert_btn_negative">Quitter</string>
