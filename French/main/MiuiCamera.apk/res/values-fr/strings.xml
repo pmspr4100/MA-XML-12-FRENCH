@@ -177,6 +177,7 @@ et ajustez les préférences automatiquement"</string>
   <string name="ambilight_intro_silky_water_part1">Utilisez ce mode lorsque vous photographiez des nuages en mouvement. Cela donnera au ciel un effet \"peinture à l'huile\".</string>
   <string name="ambilight_intro_silky_water_part2">"Ce mode fait que l'eau en mouvement (rivières, cascades et lacs) ressemble à du satin."</string>
   <string name="ambilight_intro_star_track">"Photographier le ciel étoilé pendant une longue période peut capturer les trajectoires des étoiles. N'oubliez pas d'utiliser un trépied et de filmer en continu pendant au moins %d minutes."</string>
+  <string name="ambilight_intro_star_track_2">"Shooting the starry sky for a long time can capture the trajectories of stars. Don't forget to use a tripod! Shoot continuously for at least %d minutes to be able to get both photos and videos."</string>
   <string name="ambilight_intro_traffic_light">"La nuit, vous pouvez capturer la trajectoire de lumières mobiles brillantes (sur les voitures et les navires, par exemple). Ce mode permet de prévisualiser le résultat final sur votre écran en temps réel."</string>
   <string name="ambilight_scene_crowd_moving">Foule en mouvement</string>
   <string name="ambilight_scene_light_track">Peinture claire</string>
@@ -188,6 +189,11 @@ et ajustez les préférences automatiquement"</string>
   <string name="more_mode_style">"Sélectionnez la façon dont vous souhaitez organiser tous les modes de l'appareil photo"</string>
   <string name="more_mode_style_popup">Panneau \"Plus\"</string>
   <string name="more_mode_style_tab">Onglet \"Plus\"</string>
+  <string name="cta_msg">Welcome to Camera! You can use this app to take photos and shoot videos. This app needs to connect to the internet and requires the following optional permissions:</string>
+  <string name="cta_perm_dec">For adding location info to photos and videos</string>
+  <string name="cta_perm_loc">Location</string>
+  <string name="cta_perm_type">"Optional permissions (Used for additional features while you're using them)"</string>
+  <string name="cta_user_tips">&lt;Data&gt;To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &amp;lt;a href =%1$s&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href =%2$s&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
   <string name="audio_focus_exit_button_text">Désactiver le focus audio</string>
   <string name="autozoom_click_hint">"Appuyez sur un objet pour le maintenir au point lorsqu'il est en mouvement. Restez à au moins 3 mètres pour un meilleur effet."</string>
   <string name="autozoom_disabled_hint">"Arrêt du suivi d'un objet en mouvement"</string>
@@ -1072,6 +1078,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_menu_ultra_pixel_photography">%s ultra HD</string>
   <string name="pref_module_settings">Modes</string>
   <string name="pref_more_mode_style_title">Modes appareil photo</string>
+  <string name="pref_multi_camera_dual_video_front">Front camera</string>
   <string name="pref_new_slow_motion_video_quality_240_720only">"Vous ne pouvez enregistrer des vidéos 720p qu'à 240 ips"</string>
   <string name="pref_new_slow_motion_video_quality_960_720only">"Vous ne pouvez enregistrer des vidéos 720p qu'à 960 ips"</string>
   <string name="pref_new_slow_motion_video_quality_entry_1080p">1080p FHD</string>
@@ -1251,6 +1258,7 @@ Le mode ultra grand angle vient vous aider lorsque vous ne pouvez pas vous éloi
   <string name="user_agree">Accepter</string>
   <string name="user_define_watermark_cancel">Annuler</string>
   <string name="user_define_watermark_save">Enregistrer</string>
+  <string name="user_disagree">"Don't agree"</string>
   <string name="user_notice_identify_summary_format">"Avant d'utiliser l'appareil photo, vous devez accepter notre &lt;a href="http://www.miui.com/res/doc/eula.html?lang=en_US"&gt;Accord de l'utilisateur&lt;/a&gt; et &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=en_US"&gt;Politique de confidentialité&lt;/a&gt;. L'appareil photo doit également se connecter à internet pour fonctionner normalement. Vous acceptez ?"</string>
   <string name="user_notice_title">Termes et conditions</string>
   <string name="video_beauty_tip">Embellir les vidéos</string>
