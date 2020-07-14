@@ -925,6 +925,10 @@ Il est impossible de faire un zoom avant sur le clavier ou la barre de navigatio
   <string name="accessibility_service_master_switch_title">Utiliser le service</string>
   <string name="accessibility_settings">Accessibilité</string>
   <string name="accessibility_settings_summary">"Lecteurs d'écran, affichage, contrôles par interaction"</string>
+  <string name="accessibility_settings_tabs_general">Général</string>
+  <string name="accessibility_settings_tabs_hearing">Audition</string>
+  <string name="accessibility_settings_tabs_physical">Physique</string>
+  <string name="accessibility_settings_tabs_visual">Vision</string>
   <string name="accessibility_settings_title">"Paramètres d'accessibilité"</string>
   <string name="accessibility_shortcut_description">"Lorsque le raccourci est activé, vous pouvez appuyer sur les deux touches de volume pendant trois secondes pour lancer une fonctionnalité d'accessibilité."</string>
   <string name="accessibility_shortcut_service_on_lock_screen_title">Autoriser depuis écran verrouillage</string>
@@ -1077,6 +1081,7 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
   <string name="agps_roaming_summary">Utiliser les données mobile pour assister le GPS en itinérance</string>
   <string name="ai_button_title">Bouton Mi IA</string>
   <string name="ai_button_title_global">Bouton IA</string>
+  <string name="ai_call_assistant">Appels IA</string>
   <string name="ai_settings_click_title">Appuyer</string>
   <string name="ai_settings_double_click_category">Double appui sur le bouton IA</string>
   <string name="ai_settings_double_click_title">Double appui</string>
@@ -3589,6 +3594,7 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
   <string name="header_category_wireless_networks">Paramètres réseaux</string>
   <string name="header_data_and_synchronization">Données et synchronisation</string>
   <string name="headset_settings_title">Effets sonores</string>
+  <string name="hearing_aids_category">"Outils d'aide à l'audition"</string>
   <string name="heavy_weight_stop_description">"Impossible d'arrêter cette application en toute sécurité. Si vous l'arrêtez, vous risquez de perdre une partie du travail en cours."</string>
   <string name="help_feedback_label">Aide et commentaires</string>
   <string name="help_label">Aide et commentaires</string>
@@ -3686,6 +3692,7 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
   <string name="infinity_display_title">Affichage plein écran</string>
   <string name="information_dialog_button_text">Compris</string>
   <string name="input_assistance">Aide à la saisie</string>
+  <string name="input_device_category">"Dispositif d'entrée"</string>
   <string name="input_method">Clavier</string>
   <string name="input_method_bottom_close">Désactiver</string>
   <string name="input_method_bottom_open">Activer</string>
@@ -6015,7 +6022,11 @@ Pour épingler l'écran:
   <string name="security_encryption_rejected_via_home_manager">"Cette fonctionnalité n'est pas prise en charge par la version démo."</string>
   <string name="security_encryption_title">"Chiffrer un appareil en utilisant le mot de passe de l'écran de verrouillage"</string>
   <string name="security_input">Clavier sécurisé</string>
+  <string name="security_input_enable">Clavier sécurisé</string>
   <string name="security_input_hint">Utilisez le clavier sécurisé quand vous entrez vos mots de passe</string>
+  <string name="security_input_num_order">Fixé</string>
+  <string name="security_input_num_random_order">Randomisé</string>
+  <string name="security_input_num_setting_title">Clavier numérique</string>
   <string name="security_keyguard_category_name">Écran de verrouillage</string>
   <string name="security_password_category_name">"Verrouillage de l'écran"</string>
   <string name="security_passwords_title">Paramètres de confidentialité</string>
@@ -7334,6 +7345,7 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
   <string name="vision_settings_description">"Vous pouvez personnaliser cet appareil en fonction de vos besoins et modifier ces fonctionnalités d'accessibilité ultérieurement dans les paramètres."</string>
   <string name="vision_settings_suggestion_title">Modifier la taille de la police</string>
   <string name="vision_settings_title">Paramètres visuels</string>
+  <string name="voice_access">Commandes vocales</string>
   <string name="voice_assist">Mi IA</string>
   <string name="voice_category">Discours</string>
   <string name="voice_helper_title">Assistant vocal</string>

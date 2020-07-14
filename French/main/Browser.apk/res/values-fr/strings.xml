@@ -138,8 +138,8 @@
   <string name="block_ads_choice_continue">Continuer</string>
   <string name="block_ads_message">Voulez-vous bloquer les messages de ce site web ?</string>
   <string name="block_ads_title">Le contenu peut comporter des publicités</string>
-  <string name="book_mark_input_title_hint">Veuillez saisir un nom</string>
-  <string name="book_mark_input_url_hint">"Veuillez saisir l'URL"</string>
+  <string name="book_mark_input_title_hint">Entrez un nom</string>
+  <string name="book_mark_input_url_hint">Entrez une URL</string>
   <string name="book_mark_search_hint">Recherche %1$s contenu</string>
   <string name="book_mark_spinner_name">Regroupement</string>
   <string name="bookmark">Signets</string>
@@ -1286,7 +1286,7 @@ Navigateur a besoin de se connecter à internet pour fonctionner normalement. Vo
   <string name="video_fragment_name_download">Vidéo hors ligne</string>
   <string name="video_fragment_name_historys">Historique</string>
   <string name="video_history_empty">"Pas d'historique"</string>
-  <string name="video_manager_action_bar_end_view">Videos</string>
+  <string name="video_manager_action_bar_end_view">Vidéos</string>
   <string name="video_next_playback">Up next</string>
   <string name="video_project_button">Stop</string>
   <string name="video_project_msg">La vidéo est diffusée vers %s</string>
@@ -1296,8 +1296,8 @@ Navigateur a besoin de se connecter à internet pour fonctionner normalement. Vo
   <string name="video_subtitle_prefix1">Watched</string>
   <string name="video_subtitle_prefix2">"Watched "</string>
   <string name="video_title_prefix_message">"Hors ligne: "</string>
-  <string name="view_certificate">View certificate</string>
-  <string name="view_document_downloaded_files">View downloaded files in Downloads</string>
+  <string name="view_certificate">Afficher le certificat</string>
+  <string name="view_document_downloaded_files">Afficher les fichiers téléchargés dans Téléchargements</string>
   <string name="vo_ad_detail">%s · Ad</string>
   <string name="vo_choose_activity_cancel">Annuler</string>
   <string name="vo_choose_activity_content">"Couldn't get location info. Select a city manually."</string>
@@ -1308,33 +1308,6 @@ Navigateur a besoin de se connecter à internet pour fonctionner normalement. Vo
 images:
 %s
 interactionType:
-%s
-"</string>
-  <string name="vo_debug_info_flow_dialog" formatted="false">"imei
-%s
-track_ext:
-%s
-debugExt:
-%s
-eid:
-%s
-traceid:
-%s
- docid:
-%s
-category:
-%s
-subCategory:
-%s
-tags:
-%s
-type:
-%s
-url:
-%s
-item_style:
-%s
-feedsContentId:
 %s
 "</string>
   <string name="vo_fast_game_card_bottom_text">Play games without installing them</string>
