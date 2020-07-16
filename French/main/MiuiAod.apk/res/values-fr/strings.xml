@@ -80,6 +80,7 @@ dd/M"</string>
   <string name="always_style">Toujours</string>
   <string name="animation_clock_panel">Cadran Wave</string>
   <string name="aod_close_color_inversion">"Cette fonctionnalité ne peut pas être combinée avec l'inversion de couleur. Désactivez l'inversion des couleurs en premier."</string>
+  <string name="aod_component">Displayed items</string>
   <string name="aod_lock_screen_date">EEEE, dd MMMM</string>
   <string name="aod_lock_screen_date_12">EEEE, dd MMMM</string>
   <string name="aod_lock_screen_date_12_signature">d/M</string>
@@ -108,6 +109,12 @@ dd/MM"</string>
   <string name="panel_clock">Analogique</string>
   <string name="color_change_with_time_description">Changer la couleur du texte automatiquement au fil du temps</string>
   <string name="color_change_with_time_title">Changer de couleur automatiquement</string>
+  <string name="component_battery">Battery</string>
+  <string name="component_date_time">Date and time</string>
+  <string name="component_lunar">Traditional Chinese calendar</string>
+  <string name="component_notification">Notifications</string>
+  <string name="component_step">Steps</string>
+  <string name="continue_to_use">Continue</string>
   <string name="deep_space_planet">Cosmos</string>
   <string name="deep_space_planet_des">\"Cosmos\" reflète les changements de lumière qui se produisent autour de vous pendant la journée. Les levers et couchers de soleil dans ce thème sont synchronisés avec votre emplacement.</string>
   <string name="delete">Supprimer</string>
@@ -169,6 +176,9 @@ dd/MM"</string>
   <string name="show_lunar_desc">La double horloge ne prend pas en charge le calendrier chinois traditionnel</string>
   <string name="show_notification">Afficher les notifications</string>
   <string name="standard_style">Standard</string>
+  <string name="step_component_info_active_tip">Step count is provided by Xiaomi Health. Agree to Xiaomi Health terms and conditions to continue.</string>
+  <string name="step_component_info_desc">Step count will turn into a trophy when your goal is reached. Step count is provided by Xiaomi Health.</string>
+  <string name="step_component_info_tip">Step count is provided by Xiaomi Health. Install or update Xiaomi Health and agree to its terms and conditions to continue.</string>
   <string name="summary">"Pour réduire la consommation d'énergie, les éléments ne seront pas affichés lorsque votre appareil restera longtemps dans l'obscurité."</string>
   <string name="temporary_style">Pendant 10 secondes après avoir tapé</string>
   <string name="text_color">Couleur du texte</string>

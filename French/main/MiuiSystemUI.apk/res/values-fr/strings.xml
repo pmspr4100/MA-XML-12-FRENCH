@@ -1119,10 +1119,10 @@ dd MMMM"</string>
   <string name="lockscreen_access_pattern_start">Schéma commencé</string>
   <string name="lockscreen_carrier_default">Aucun service</string>
   <string name="lockscreen_charging_msg">En charge</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">"Vous avez échoué à déverrouiller l'appareil %d fois. Après %d tentatives infructueuses, l'appareil sera remis au format usine et toutes les données utilisateur seront perdues."</string>
-  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Vous avez mal saisi votre mot de passe %d fois. Après %d tentatives infructueuses supplémentaires, il vous sera demandé de déverrouiller votre téléphone en vous connectant avec votre compte Mi.
+  <string name="lockscreen_failed_attempts_almost_at_wipe">You have incorrectly attempted to unlock the phone %1$d times. After %2$d more unsuccessful attempts, the phone will be reset to factory default and all user data will be lost.</string>
+  <string name="lockscreen_failed_attempts_almost_glogin">"You have incorrectly entered your password %1$d times. After %2$d more unsuccessful attempts, you will be asked to unlock your phone using your Mi Account sign-in.
 
- Réessayez dans %d secondes."</string>
+ Try again in %3$d seconds."</string>
   <string name="lockscreen_failed_attempts_now_wiping">"Vous avez incorrectement tenté de déverrouiller l'appareil à %d reprises. L'appareil va maintenant être remis au format usine par défaut."</string>
   <string name="lockscreen_none">Aucun</string>
   <string name="lockscreen_shortcut_left">Raccourci de gauche</string>

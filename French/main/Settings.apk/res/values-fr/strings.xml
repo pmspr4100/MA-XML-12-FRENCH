@@ -4112,7 +4112,7 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
   <string name="lockpassword_choose_your_pin_header_second_space">"Définir un code 
  pour le deuxième espace"</string>
   <string name="lockpassword_choose_your_pin_message">Pour des raisons de sécurité, définissez un code</string>
-  <string name="lockpassword_choose_your_pin_title" formatted="false">Entrez %d-%d chiffres</string>
+  <string name="lockpassword_choose_your_pin_title">Entrez %1$d-%2$d chiffres</string>
   <string name="lockpassword_choose_your_screen_lock_header">"Définir le verrouillage de l'écran"</string>
   <string name="lockpassword_clear_label">Effacer</string>
   <string name="lockpassword_confirm_for_second_user">Confirmer le mot de passe du deuxième espace</string>
@@ -6563,7 +6563,7 @@ Après le formatage, \"^1\" ne fonctionnera que sur cet appareil.
   <string name="storage_wizard_format_confirm_third_body">"Le ^1 est entrain d'être formaté"</string>
   <string name="storage_wizard_format_confirm_title">Formater mémoire stockage interne</string>
   <string name="storage_wizard_format_confirm_v2_action">Formater ^1</string>
-  <string name="storage_wizard_format_confirm_v2_body">"Le périphérique ^1 doit être formaté pour stocker des applications, des fichiers et des contenus multimédias. 
+  <string name="storage_wizard_format_confirm_v2_body">"Le périphérique ^1 doit être formaté pour stocker des applications, des fichiers et des contenus multimédias.
 
 Notez que le formatage effacera le contenu actuel de \"^2\". Pour éviter toute perte de contenu, sauvegardez-le sur un autre périphérique ^3 ou sur un autre appareil."</string>
   <string name="storage_wizard_format_confirm_v2_title">Formater le périphérique ^1 ?</string>
@@ -6988,7 +6988,7 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
   <string name="unlock_set_unlock_password_title">Désactiver avec un mot de passe</string>
   <string name="unlock_set_unlock_pattern_summary">"Dessinez un schéma simple avec votre doigt pour déverrouiller l'appareil"</string>
   <string name="unlock_set_unlock_pattern_title">Schéma</string>
-  <string name="unlock_set_unlock_pin_summary" formatted="false">"Entrez %d-%d chiffres pour déverrouiller l'appareil"</string>
+  <string name="unlock_set_unlock_pin_summary">"Entrez %1$d-%2$d chiffres pour déverrouiller l'appareil"</string>
   <string name="unlock_set_unlock_pin_title">Code PIN</string>
   <string name="unlock_set_unlock_summary">Définir un écran de verrouillage</string>
   <string name="unlock_setup_wizard_fingerprint_details">"Une fois que vous avez configuré un verrouillage de l'écran, vous pouvez également configurer votre empreinte numérique dans Paramètres > Sécurité."</string>

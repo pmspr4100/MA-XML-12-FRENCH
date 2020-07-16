@@ -62,7 +62,7 @@
   <string name="actionbar_button_up_description">Retour</string>
   <string name="ad_close">Fermer</string>
   <string name="ad_data_exception">Erreur de données publicitaires</string>
-  <string name="ad_recommend">Recevoir des recommandations</string>
+  <string name="ad_recommend">Afficher les annonces</string>
   <string name="ad_setting">Paramètres supplémentaires</string>
   <string name="add_music">Ajouter des chansons</string>
   <string name="add_to_last_of_playlist">Ajouter à la fin de la playlist</string>
@@ -111,6 +111,8 @@
   <string name="artist_home_search_hint">Rechercher des artistes</string>
   <string name="artist_is_empty">"Le nom de l'artiste ne peut pas être vide."</string>
   <string name="artist_name">Artiste</string>
+  <string name="audio_ad_countdown">Skip ad in %ss</string>
+  <string name="audio_ad_pass">Skip ad</string>
   <string name="audio_picker_title">Choisir une chanson</string>
   <string name="auto_recommend">Auto (recommandé)</string>
   <string name="auto_sound_quality">Auto</string>
@@ -494,6 +496,7 @@
   <string name="joox_account_login_conflict_message">"Vous semblez être identifié sur un autre appareil. S'identifier ici ?"</string>
   <string name="joox_account_login_exception">"S'identifier à nouveau"</string>
   <string name="joox_account_multi_device_login">Plusieurs appareils</string>
+  <string name="joox_anonymous_name">Visitor</string>
   <string name="joox_area_check_failed">"Vous semblez être dans une région où nos services ne sont pas disponibles. Connectez-vous sur un autre réseau et lancez à nouveau l'application."</string>
   <string name="joox_auth_button_acquire_vip_instantly">Obtenez un abonnement VIP</string>
   <string name="joox_auth_button_login_to_acquire_vip">Identifiez-vous pour obtenir un abonnement VIP</string>
@@ -518,6 +521,10 @@
   <string name="joox_auth_title_vip_content">Contenu VIP</string>
   <string name="joox_auth_title_vip_expired">Abonnement expiré</string>
   <string name="joox_auth_title_vip_function">Fonctionnalités VIP</string>
+  <string name="joox_category_artist">Artists</string>
+  <string name="joox_category_playlist">Playlists</string>
+  <string name="joox_category_vip">Fan Center</string>
+  <string name="joox_download_tab_title">JOOX</string>
   <string name="joox_download_title">Téléchargements JOOX</string>
   <string name="joox_privacy_desc">Politique de confidentailité JOOX (optionnel)</string>
   <string name="joox_privacy_tips_content">"Lisez et acceptez la &lt;a href="/link/click"&gt;politique de confidentialité JOOX&lt;/a&gt; avant d'utiliser les services en ligne."</string>
@@ -525,6 +532,10 @@
   <string name="joox_recommend_artist_title">Artistes recommendés</string>
   <string name="joox_recommend_playlist_title">Playlists recommandées</string>
   <string name="joox_search_result_more">Plus</string>
+  <string name="joox_search_subtitle_prefix_album">album</string>
+  <string name="joox_search_subtitle_prefix_artist">artist</string>
+  <string name="joox_search_subtitle_prefix_playlist">playlist</string>
+  <string name="joox_search_subtitle_prefix_song">track</string>
   <string name="joox_vip_check_to_pay">Acheter</string>
   <string name="joox_vip_expired_hint">"Votre abonnement VIP a expiré. Les morceaux téléchargés depuis JOOX ne s'afficheront que dans vos téléchargements."</string>
   <string name="keep_queued_download">Garder</string>
@@ -784,6 +795,10 @@
   <string name="preset_music_playlist">Playlist Mi Musique</string>
   <string name="priority_storage">Utilisez une carte SD externe</string>
   <string name="priority_storage_summary">Télécharger automatiquement sur la carte SD externe si disponible</string>
+  <string name="privacy_authorize_network_error">"Couldn't connect to the network. Check your network settings and try again."</string>
+  <string name="privacy_authorize_revoke_failed">"Couldn't revoke authorization"</string>
+  <string name="privacy_authorize_revoke_success">Revoked authorization successfully</string>
+  <string name="privacy_authorize_revoking">Revoking authorization…</string>
   <string name="privacy_desc">Politique de confidentialité (obligatoire)</string>
   <string name="privacy_policy">Politique de confidentialité</string>
   <string name="pro_member">Membre PRO</string>
@@ -796,11 +811,14 @@
   <string name="ready_to_play">Passer au suivant</string>
   <string name="recently_played">Joué récemment</string>
   <string name="recently_played_songs">Récent</string>
+  <string name="recommend_artist_title">Recommended Artist</string>
   <string name="recommend_songs_when_playing_audio_files">Get song recommendations while listening to music</string>
   <string name="recommended_file_size_download_in_mobile">Utiliser %s de données mobiles pour télécharger ce fichier ?</string>
   <string name="recommended_no_file_size_download_in_mobile">Utiliser votre connexion de données mobiles pour télécharger ce fichier ?</string>
   <string name="remove">Retirer</string>
   <string name="remove_download">Retirer</string>
+  <string name="remove_user_privacy_dialog_message">After you revoke authorization, Mi Music will stop collecting data, and all the related data will be deleted from the servers. This might make Mi Music virtually unusable. Revoke authorization anyway?</string>
+  <string name="remove_user_privacy_dialog_title">Revoking authorization</string>
   <string name="renew_dialog_title">"Go Pro
 Be Happy"</string>
   <string name="repeat_all_notif">Répétition de tous les morceaux.</string>
@@ -812,6 +830,7 @@ Be Happy"</string>
   <string name="retry">Veuillez réessayer</string>
   <string name="retry_after_network_available">Impossible de se connecter au réseau. Vérifiez votre connexion et réessayez.</string>
   <string name="retry_download">Veuillez réessayer</string>
+  <string name="revoke_upload_playlist_to_hungama_toast">"Online songs won't be synced to Hungama"</string>
   <string name="ringtone_editing">Éditeur de sonnerie</string>
   <string name="ringtone_not_support">"Le format de cet chanson n'est pas pris en charge"</string>
   <string name="ringtone_selected">Sélectionné</string>
@@ -1068,7 +1087,16 @@ Be Happy"</string>
   <string name="upgrade_music">Mettre Musique à jour</string>
   <string name="upgrade_music_message">Les mises à jour sont prêtes. Redémarrez pour appliquer.</string>
   <string name="upgrading_in_backstage">Mise à jour en arrière-plan…</string>
+  <string name="upload_playlist_to_hungama_negative_text">"Don't sync"</string>
+  <string name="upload_playlist_to_hungama_positive_text">Sync</string>
+  <string name="upload_playlist_to_hungama_title">Sync online songs to Hungama to be able to access them on other devices where you use your Mi Account.</string>
+  <string name="upload_playlist_to_hungama_toast">Online songs will be synced to Hungama</string>
   <string name="user_agreement">Accord utilisateur</string>
+  <string name="user_privacy_dialog_negative_text">Cancel</string>
+  <string name="user_privacy_dialog_positive_count_down_text">Revoke (%ss)</string>
+  <string name="user_privacy_dialog_positive_text">Revoke</string>
+  <string name="user_privacy_setting_group_title">Authorization</string>
+  <string name="user_privacy_setting_title">Toggle the switch to grant or revoke your authorization</string>
   <string name="v7_preference_off">Désactivé</string>
   <string name="v7_preference_on">Activé</string>
   <string name="version_info">Version</string>

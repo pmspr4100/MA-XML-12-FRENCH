@@ -194,6 +194,11 @@ et ajustez les préférences automatiquement"</string>
   <string name="cta_perm_loc">Location</string>
   <string name="cta_perm_type">"Optional permissions (Used for additional features while you're using them)"</string>
   <string name="cta_user_tips">&lt;Data&gt;To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &amp;lt;a href =%1$s&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href =%2$s&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+  <string name="cta_msg">Welcome to Camera! You can use this app to take photos and shoot videos. This app needs to connect to the internet and requires the following optional permissions:</string>
+  <string name="cta_perm_dec">For adding location info to photos and videos</string>
+  <string name="cta_perm_loc">Location</string>
+  <string name="cta_perm_type">"Optional permissions (Used for additional features while you're using them)"</string>
+  <string name="cta_user_tips">&lt;Data&gt;To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &amp;lt;a href =%1$s&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href =%2$s&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
   <string name="audio_focus_exit_button_text">Désactiver le focus audio</string>
   <string name="autozoom_click_hint">"Appuyez sur un objet pour le maintenir au point lorsqu'il est en mouvement. Restez à au moins 3 mètres pour un meilleur effet."</string>
   <string name="autozoom_disabled_hint">"Arrêt du suivi d'un objet en mouvement"</string>
@@ -237,6 +242,12 @@ et ajustez les préférences automatiquement"</string>
   <string name="back_excalibur">4:REDMI NOTE 9 PRO:IA QUADRUPLE APPAREIL PHOTO:64 MPX QUADRUPLE APPAREIL PHOTO</string>
   <string name="back_excalibur_india">4:REDMI NOTE 9 PRO MAX:IA QUADRUPLE APPAREIL PHOTO:64 MPX QUADRUPLE APPAREIL PHOTO</string>
   <string name="back_galahad">4:SHOT ON MI 9:IA QUADRUPLE APPAREIL PHOTO:48 MPX QUADRUPLE APPAREIL PHOTO</string>
+  <string name="back_gauguin">4:SHOT ON MI PHONE:IA TRIPLE APPAREIL PHOTO:108 MPX TRIPLE APPAREIL PHOTO</string>
+  <string name="back_gauguin_global">4:SHOT ON MI PHONE:IA TRIPLE APPAREIL PHOTO:64 MPX TRIPLE APPAREIL PHOTO</string>
+  <string name="back_gauguin_india">4:SHOT ON MI PHONE:IA TRIPLE APPAREIL PHOTO:64 MPX TRIPLE APPAREIL PHOTO</string>
+  <string name="back_gauguinpro">4:SHOT ON MI PHONE:IA TRIPLE APPAREIL PHOTO:108 MPX TRIPLE APPAREIL PHOTO</string>
+  <string name="back_gauguinpro_global">4:SHOT ON MI PHONE:IA TRIPLE APPAREIL PHOTO:64 MPX TRIPLE APPAREIL PHOTO</string>
+  <string name="back_gauguinpro_india">4:SHOT ON MI PHONE:IA TRIPLE APPAREIL PHOTO:64 MPX TRIPLE APPAREIL PHOTO</string>
   <string name="back_ginkgo">4:REDMI NOTE 8:IA QUADRUPLE APPAREIL PHOTO:48 MPX QUADRUPLE APPAREIL PHOTO</string>
   <string name="back_gram">4:SHOT ON MI 9:IA QUADRUPLE APPAREIL PHOTO:48 MPX QUADRUPLE APPAREIL PHOTO</string>
   <string name="back_grus">3:SHOT ON MI 9 SE:IA TRIPLE APPAREIL PHOTO:48 MPX TRIPLE APPAREIL PHOTO</string>
@@ -446,6 +457,7 @@ et ajustez les préférences automatiquement"</string>
   <string name="confirm_restore_title">Restaurer les paramètres par défaut</string>
   <string name="custom_watermark_contains_senstive_words">"Les filigranes ne peuvent pas contenir de termes restreints (%1$s)"</string>
   <string name="custom_watermark_tips">"Ce texte apparaîtra comme la deuxième ligne de votre filigrane. Il peut contenir jusqu'à 18 lettres ou 14 caractères chinois."</string>
+  <string name="custom_watermark_tips_gen2" formatted="false">Up to %d Chinese characters or %d letters.</string>
   <string name="custom_watermark_too_many_words">Le texte que vous avez entré est trop long</string>
   <string name="custom_watermark_words">Filigrane personnalisé</string>
   <string name="custom_watermark_words_input_hint">Entrez du texte</string>
@@ -703,8 +715,6 @@ regarder plus grand sur les photos"</string>
   <string name="module_name_professional">Pro</string>
   <string name="module_name_square">Square</string>
   <string name="module_name_super_moon">Supermoon</string>
-  <string name="pixel_ai_108">AI 100 million ultra vivid</string>
-  <string name="pixel_ai_108_close">Close AI 100 million ultra vivid</string>
   <string name="module_name_video">Vidéo</string>
   <string name="moive_frame">Cadre du film</string>
   <string name="network_access_user_notice_agree">Accepter</string>
@@ -813,6 +823,8 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_camcorder_settings">Vidéo</string>
   <string name="pref_camcorder_settings_category">"Paramètres de l'appareil photo"</string>
   <string name="pref_camera_ai_scene_title">Appareil photo IA</string>
+  <string name="pref_camera_ai_shutter_description">Select best moment automatically when pressing the shutter button</string>
+  <string name="pref_camera_ai_shutter_title">AI shutter</string>
   <string name="pref_camera_antibanding_entry_0">Désactivé</string>
   <string name="pref_camera_antibanding_entry_1">50 Hz</string>
   <string name="pref_camera_antibanding_entry_2">60 Hz</string>
@@ -1255,6 +1267,8 @@ Le mode ultra grand angle vient vous aider lorsque vous ne pouvez pas vous éloi
   <string name="ultra_wide_recommend_tip_hint">Essayez le mode ultra grand angle</string>
   <string name="ultra_wide_recommend_tip_hint_sat">Basculer vers un angle ultra large 0.6X</string>
   <string name="unknow_error">Erreur inconnue</string>
+  <string name="unsupported_microphones_3d_record_tips">"3D sound doesn't support external microphones"</string>
+  <string name="unsupported_microphones_audio_zoom_tips">"Audio zoom doesn't support external microphones"</string>
   <string name="user_agree">Accepter</string>
   <string name="user_define_watermark_cancel">Annuler</string>
   <string name="user_define_watermark_save">Enregistrer</string>
