@@ -23,6 +23,7 @@
   <string name="animator_duration_scale_title">Animator duration scale</string>
   <string name="apn_settings_not_available">"Cet utilisateur n'a pas accès aux paramètres Access Point Name"</string>
   <string name="app_process_limit_title">"Limite processus d'arrère-plan"</string>
+  <string name="audio_relay_default_device_name">XiaoAi Speakers</string>
   <string name="available_via_carrier">Disponible via %1$s</string>
   <string name="available_via_passpoint">Disponible via %1$s</string>
   <string name="band_24G">" (bande 2,4 GHz)"</string>
@@ -238,6 +239,11 @@ Selection"</string>
   <string name="managed_user_title">All work apps</string>
   <string name="media_category">Media</string>
   <string name="media_transfer_this_device_name">This device</string>
+  <string name="mi_audio_relay_cancel">ok</string>
+  <string name="mi_audio_relay_connect_failed">failed</string>
+  <string name="mi_audio_relay_localphone">phone</string>
+  <string name="mi_audio_relay_phone_name">xiaomi phone</string>
+  <string name="mi_audio_relay_title">select play devices</string>
   <string name="mobile_data_always_on">Mobile data always active</string>
   <string name="mobile_data_always_on_summary">Always keep mobile data active, even when Wi‑Fi is active (for fast network switching).</string>
   <string name="mock_location_app">Select mock location app</string>

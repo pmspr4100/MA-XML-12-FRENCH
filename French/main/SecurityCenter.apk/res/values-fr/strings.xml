@@ -702,10 +702,10 @@ Il sera ajouté aux exceptions, mais les éléments bloqués précédemment n'ap
   <string name="st_group_list_management">Liste noire des messages</string>
   <string name="st_call_backsound_group">Son de la liste noire</string>
   <string name="st_tab_title">%1$s (SIM %2$d)</string>
-  <string name="st_confirm_dialog_btn_open">Ouvrir</string>
+  <string name="st_confirm_dialog_btn_open">Bloquer</string>
   <string name="st_confirm_dialog_summary_stranger_call">Tous les appels provenant des personnes étranges seront bloqués.</string>
   <string name="st_confirm_dialog_summary_contact_call">Tous les appels provenant des contacts seront bloqués.</string>
-  <string name="st_confirm_dialog_summary_oversea_call">"Activer pour bloquer tous les appels entrants des numéros de téléphone de l'étranger."</string>
+  <string name="st_confirm_dialog_summary_oversea_call">Tous les appels provenant de numéros de téléphone étrangers seront bloqués.</string>
   <string name="cta_dialog_title">Connexion internet</string>
   <string name="cta_main_purpose">"Bienvenue dans la sécurité ! Vous pouvez utiliser cette application pour nettoyer la corbeille de votre appareil, rechercher et neutraliser les virus, optimiser les performances de jeu, économiser la batterie, gérer des applications, etc."</string>
   <string name="cta_HIPS_Perm_Location_Desc">get precise location (GPS and network-based)</string>
@@ -1454,7 +1454,8 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
   <string name="cpu_usage_view_action_btn_text">Appuyer pour voir</string>
   <string name="memory_clean_memory_size_tip">Cache</string>
   <string name="memory_clean_no_need_clean">Tout semble bon !</string>
-  <string name="memory_clean_no_need_clean_1" formatted="false">Freed up %s. Your device is %d%% faster now.</string>
+  <string name="memory_clean_no_need_clean_1" formatted="false">"Freed up %s.
+Your device is %d%% faster now."</string>
   <string name="optimize_result_available_memory_info">Mémoire disponible</string>
   <string name="optimize_result_title_uninstall_apps">Désinstaller des applications</string>
   <string name="om_settings_title">Paramètres</string>

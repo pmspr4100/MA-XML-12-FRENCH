@@ -411,6 +411,7 @@ Cela permet de protéger les données sur les appareils perdus ou volés. Vous a
   <string name="fingerprint_lock_screen_setup_skip_dialog_text">"Protégez votre téléphone avec une option de verrouillage d'écran afin que personne ne puisse l'utiliser s'il est perdu ou volé. Vous avez également besoin d'une option de verrouillage d'écran pour configurer les empreintes digitales. Appuyez sur Annuler, puis définissez un code PIN, un modèle ou un mot de passe."</string>
   <string name="forbidden_network">(interdit)</string>
   <string name="forget_passpoint_dialog_message">"Vous pouvez perdre l'accès au temps ou aux données restants. Vérifiez auprès de votre fournisseur avant de supprimer."</string>
+  <string name="forget_passpoint_wifi_message">Votre téléphone cessera automatiquement de se connecter à ce réseau.</string>
   <string name="gentle_notifications_also_display">Afficher également en</string>
   <string name="gentle_notifications_display_lock">Écran de vérrouillage</string>
   <string name="gentle_notifications_display_status">Barre de notification</string>
@@ -1195,6 +1196,7 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
   <string name="app_floating_window_dlg_disable">"La désactivation de la fenêtre flottante %1$s nécessite le redémarrage de l'application."</string>
   <string name="app_floating_window_dlg_enable">"L'activation de la fenêtre flottante %1$s nécessite le redémarrage de l'application."</string>
   <string name="app_forward_locked">"L'application est protégée contre la copie."</string>
+  <string name="app_function">"Fonctionnalité de l'application"</string>
   <string name="app_info_storage_title">Espace utilisé</string>
   <string name="app_install_details_group_title">Boutique</string>
   <string name="app_install_details_summary">Application installée depuis la boutique %1$s</string>
@@ -2592,7 +2594,7 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
   <string name="day_of_week">Jour de la semaine</string>
   <string name="dc_light_dialog_summary">"La qualité de l'image peut être affectée lorsque le mode anti-scintillement est activé. Allumer quand même ?"</string>
   <string name="dc_light_summary">Appliquer une gradation CC pour réduire la fatigue oculaire</string>
-  <string name="dc_light_summary_new">"La gradation CC réduit la fatigue oculaire dans des conditions de faible luminosité. Cependant, la qualité de l'image peut être affectée lorsque le mode Anti-scintillement est activé."</string>
+  <string name="dc_light_summary_new">Empêche le scintillement important et réduit la fatigue oculaire dans des conditions de faible éclairage</string>
   <string name="dc_light_title">Mode anti-scintillement</string>
   <string name="debug_app">Sélectionner une application de débogage</string>
   <string name="debug_app_not_set">Aucune application de débogage définie</string>
@@ -5009,6 +5011,13 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
   <string name="papger_effect_category">Mode</string>
   <string name="passpoint_content">Identifiants de \"%1$s\"</string>
   <string name="passpoint_label">Enregistré via</string>
+  <string name="passpoint_r1_privacy_dialog_message">"Passpoint is a reliable, safe and automatic wlan connection technology launched by the WLAN Alliance. Automatically configure accounts to achieve a seamless connection between WLAN configured network and mobile devices
+
+This function only obtains your WLAN MAC address for account registration at the first time. We will process your data in accordance with our %s. Please read this policy carefully and agree to continue."</string>
+  <string name="passpoint_r1_privacy_dialog_no">Annuler</string>
+  <string name="passpoint_r1_privacy_dialog_title">Attention</string>
+  <string name="passpoint_r1_privacy_dialog_url_text">Politique de confidentialité</string>
+  <string name="passpoint_r1_privacy_dialog_yes">Accepter et continuer</string>
   <string name="passwordIncorrect">Mot de passe incorrect</string>
   <string name="password_entrance_title">"Définir le verrouillage de l'écran"</string>
   <string name="password_guard">Déverrouillage avec mot de passe</string>
