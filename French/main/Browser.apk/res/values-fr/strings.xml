@@ -335,6 +335,7 @@ to support our work"</string>
   <string name="download_btn_select_none">Tout déselectionner</string>
   <string name="download_complete">Téléchargé avec succès</string>
   <string name="download_completed">Téléchargé</string>
+  <string name="download_confirm_dialog_title">Risk alert</string>
   <string name="download_dialog_default_path_invalid">"L'emplacement de téléchargement que vous avez sélectionné n'est pas valide. Enregistrement dans l'emplacement par défaut…"</string>
   <string name="download_dialog_file_length_default_txt">Chargement…</string>
   <string name="download_dialog_file_length_lessthan1kb">Moins de 1 Ko</string>
@@ -356,6 +357,9 @@ to support our work"</string>
   <string name="download_no_sdcard_dlg_msg">Une carte SD est requise pour télécharger %s.</string>
   <string name="download_no_sdcard_dlg_title">Pas de carte SD</string>
   <string name="download_pending">Démarrage du téléchargement…</string>
+  <string name="download_proceed">Normal download</string>
+  <string name="download_risk_alert_content">The game is not verified by Xiaomi Market. By choosing Normal download, you indicate that you are aware of the risks and consequences.</string>
+  <string name="download_safe">Safe download</string>
   <string name="download_sdcard_busy_dlg_msg">"La carte SD est en cours d'utilisation. Pour permettre les téléchargements, désactivez le stockage USB dans la barre des notifications."</string>
   <string name="download_sdcard_busy_dlg_title">Carte SD indisponible</string>
   <string name="download_status_failed">Téléchargement impossible</string>
@@ -981,6 +985,7 @@ Remember that the files you download and the bookmarks you add will still be sav
   <string name="save_to_camera">Sauvegarder dans la galerie</string>
   <string name="save_to_camera_failed">"Impossible d'enregistrer une image"</string>
   <string name="save_to_camera_success">Enregistré dans la galerie</string>
+  <string name="saved_sucess">Saved Sucess</string>
   <string name="scanner_uninstalled_text">Installer le scanner pour continuer</string>
   <string name="scanner_uninstalled_title">Le scanner a été désinstallé</string>
   <string name="screenshot_loading_dialog_title">Capture</string>

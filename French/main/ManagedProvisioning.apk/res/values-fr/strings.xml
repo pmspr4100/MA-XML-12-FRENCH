@@ -103,6 +103,7 @@
   <string name="error_wifi">"Connexion au Wi-Fi impossible"</string>
   <string name="expand">Développer</string>
   <string name="expand_button_title">Avancé</string>
+  <string name="financed_device_screen_header">This device was purchased on credit from %1$s</string>
   <string name="for_help_contact_admin">"Contacter votre administrateur pour obtenir de l'aide"</string>
   <string name="frp_clear_progress_text">Veuillez patienter...</string>
   <string name="frp_clear_progress_title">Suppression en cours</string>
@@ -119,12 +120,14 @@
   <string name="info_anim_title_0">Une nouvelle manière de travailler</string>
   <string name="info_anim_title_1">Séparez vos données professionnelles de vos données personnelles</string>
   <string name="info_anim_title_2">Désactiver le profil professionnel lorsque vous avez terminé</string>
+  <string name="install_creditor_app_description">Install the %1$s app so you can make payments for this device</string>
   <string name="join_many_items_last">%1$s, et %2$s</string>
   <string name="join_two_items">%1$s et %2$s</string>
   <string name="launcher_app_cant_be_used_by_work_profile">"Impossible d'utiliser ce lanceur d'applications avec votre profil professionnel"</string>
   <string name="learn_more_label">Bouton \"En savoir plus\"</string>
   <string name="learn_more_link">En savoir plus</string>
   <string name="link_isnt_secure_and_cant_be_opened_until_device_setup_finished">"Ce lien n'est pas sécurisé. Impossible de l'ouvrir tant que la configuration de l'appareil n'est pas terminée : %1$s"</string>
+  <string name="lock_device_description">"Restrict access to this device if you don't make payments"</string>
   <string name="managed_device_info">"Infos sur l'appareil géré"</string>
   <string name="managed_provisioning_error_text">Impossible de configurer votre profil professionnel. Contactez votre service informatique, ou réessayez plus tard.</string>
   <string name="mdm_icon_label">Icône %1$s</string>
@@ -214,7 +217,6 @@
   <string name="your_org_app_used">"%1$s gérera et contrôlera cet appareil à l'aide de l'application suivante :"</string>
   <string name="your_organization_beginning">Votre organisation</string>
   <string name="your_organization_middle">votre organisation</string>
-  <string name="work_profile_provisioning_accept_header">"Tout d'abord, configurons votre profil professionnel"</string>
   <string name="work_profile_provisioning_accept_header_post_suw">"Configurons votre profil professionnel"</string>
   <string name="work_profile_provisioning_progress_label">Configuration de votre profil professionnel…</string>
   <string name="work_profile_provisioning_step_1_header">Les applications professionnelles sont conservées dans votre profil professionnel</string>
