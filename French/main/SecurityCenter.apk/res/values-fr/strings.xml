@@ -1294,7 +1294,7 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
   <string name="notify_weekly_traffic_title_for_slotnum">%1$s utilisées %2$s cette semaine</string>
   <string name="notify_weekly_traffic_body">"Pour limiter automatiquement l'utilisation des données, définissez un quota mensuel."</string>
   <string name="notify_daily_data_usage_body">"Pour limiter automatiquement l'utilisation des données, définissez un quota mensuel."</string>
-  <string name="notify_month_traffic_title">%s utilisées ce mois</string>
+  <string name="notify_month_traffic_title">%s utilisés ce mois-ci</string>
   <string name="notify_month_traffic_title_for_slotnum">%1$s utilisées %2$s ce mois-ci</string>
   <string name="notify_month_traffic_body">"Définissez une limite d'utilisation des données pour respecter votre quota mensuel."</string>
   <string name="notify_daily_limit_title">"%s utilisées aujourd'hui"</string>
@@ -1497,7 +1497,7 @@ Your device is %d%% faster now."</string>
   <string name="power_center_power_save_summary_text">"Augmenter le temps restant jusqu'à %1$d h %2$d m"</string>
   <string name="power_center_power_save_title_text">Économiseur de batterie</string>
   <string name="power_center_time_to_shutdown">"Horaire d'extinction"</string>
-  <string name="power_center_state_on">Activé</string>
+  <string name="power_center_state_on">Activées</string>
   <string name="power_center_state_off">Désactivé</string>
   <string name="power_center_charge_time">%1$s avant charge complète</string>
   <string name="power_center_dialog_msg_bottom">"Vous pouvez augmenter la durée de vie de la batterie jusqu'à %1$d h %2$d m. Activer l'économiseur de batterie ?"</string>
@@ -2328,7 +2328,7 @@ carte médicale"</string>
   <string name="superpower_dialog_button_disable_dialog">"Ne plus afficher"</string>
   <string name="superpower_dialog_button_ok">OK</string>
   <string name="superpower_dialog_massage">"L'économiseur de batterie ultra restreint la plupart des fonctionnalités énergivores et diminue les performances de votre appareil afin de laisser les fonctionnalités de base (appels, SMS et connexion au réseau, par exemple) disponibles le plus longtemps possible. Activer l'économiseur de batterie ultra ?"</string>
-  <string name="superpower_dialog_title">Économiseur de batterie ultra</string>
+  <string name="superpower_dialog_title">Ultra économiseur de batterie</string>
   <string name="superpower_notification_hint_enter">Activer</string>
   <string name="superpower_notification_summary">"Activer l'économiseur de batterie ultra"</string>
   <string name="superpower_notification_time_12">EEEE dd MMMM</string>
@@ -2345,7 +2345,7 @@ carte médicale"</string>
   <string name="superpower_savemode_limit2">"Restreindre l'activité de fond"</string>
   <string name="superpower_savemode_limit3">Limitez les activités énergivores (synchronisation, GPS, vibrations, affichage Always-on, etc.)</string>
   <string name="superpower_savemode_limit4">Autoriser les applications sélectionnées à fonctionner normalement</string>
-  <string name="superpower_settings">Économiseur de batterie ultra</string>
+  <string name="superpower_settings">Ultra économiseur de batterie</string>
   <string name="superpower_settins_autoenter_summary">"Activer l'économiseur de batterie ultra automatiquement lorsque la batterie est chargée à 10% seulement"</string>
   <string name="superpower_settins_autoenter_title">Activer automatiquement</string>
   <string name="superpower_settins_autoleave_summary">"Désactiver automatiquement l'économiseur de batterie Ultra lorsque la batterie est chargée à 50%"</string>
