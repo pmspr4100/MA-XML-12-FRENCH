@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="agenda_weeks_of_year">
+        <item>Semaine 1</item>
+        <item>Semaine 2</item>
+        <item>Semaine 3</item>
+        <item>Semaine %1$d</item>
+    </string-array>
     <string-array name="aqi_title">
         <item>Excellent</item>
         <item>Bon</item>

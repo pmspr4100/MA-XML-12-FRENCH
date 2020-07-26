@@ -165,7 +165,6 @@ ajouter des cartes"</string>
   <string name="climbing">Escalade</string>
   <string name="close">Turn off</string>
   <string name="close_once">Turn off once</string>
-  <string name="close_stand_detection_tip">Standing reminder is turned off, do not miss standing and recording after turning on</string>
   <string name="close_stand_notice_and_detection_tip">Standing detection and reminder are off</string>
   <string name="close_stand_notice_tip">Standing detection has been turned off, automatic detection after opening is more worry-free</string>
   <string name="collapse">Hide</string>
@@ -790,6 +789,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
   <string name="remind_query_menstruation_start">"Vos règles ont-elles commencé ? N'oubliez-pas de les enregistrer."</string>
   <string name="remind_sleep_report_complete">Les statistiques de sommeil sont prêtes</string>
   <string name="remind_sleep_report_content">Vous avez dormi %1$d h %2$d min la nuit dernière. Appuyez pour voir les détails.</string>
+  <string name="remind_sleep_report_content_1">You slept %1$d hr(s) last night. Tap to view details.</string>
   <string name="remind_sleep_report_title">Les statistiques de sommeil sont prêtes</string>
   <string name="remind_subtitle_menstruation_start">Recevoir un rappel 2 jours avant que les règles suivantes ne surviennent</string>
   <string name="remind_subtitle_record">"Recevoir des rappels lorsque vous avez besoin d'enregistrer les dates de commencement et de fin de vos règles"</string>
@@ -1023,7 +1023,9 @@ sommeil entier"</string>
   <string name="stand_notice_title4">Stand up and stretch</string>
   <string name="stand_notice_title5">No standing detected for nearly 1 hour</string>
   <string name="stand_notice_title6">Is there any standing activity in the last hour?</string>
-  <string name="stand_setting">Stand Setting</string>
+  <string name="stand_remind_setting_desc">When no standing activity is detected within 1 hour, send a notification to remind you to stand</string>
+  <string name="stand_setting">Setting</string>
+  <string name="stand_stop_reminding">Stop receiving standing reminders</string>
   <string name="standard_format">(standard: %1s)</string>
   <string name="standing_already">Standing Already</string>
   <string name="state_agree">Accepter</string>
