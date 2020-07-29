@@ -10,12 +10,12 @@
         <item>Animation scale 10x</item>
     </string-array>
     <string-array name="app_process_limit_entries">
-        <item>Standard limit</item>
-        <item>No background processes</item>
-        <item>At most 1 process</item>
-        <item>At most 2 processes</item>
-        <item>At most 3 processes</item>
-        <item>At most 4 processes</item>
+        <item>Limite standard</item>
+        <item>Pas de processus en arrière-plan</item>
+        <item>Au plus 1 processus</item>
+        <item>Au plus 2 processus</item>
+        <item>Au plus 3 processus</item>
+        <item>Au plus 4 processus</item>
     </string-array>
     <string-array name="ble_profile_mi_band">
         <item>"Vibre quand ça sonne"</item>
@@ -28,55 +28,55 @@
         <item>Trouver Mi-key</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>Use system preference (Default)</item>
-        <item>16 bits/sample</item>
-        <item>24 bits/sample</item>
-        <item>32 bits/sample</item>
+        <item>Utiliser la préférence système (par défaut)</item>
+        <item>16 bits/échantillon</item>
+        <item>24 bits/échantillon</item>
+        <item>32 bits/échantillon</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>Use system preference (Default)</item>
-        <item>16 bits/sample</item>
-        <item>24 bits/sample</item>
-        <item>32 bits/sample</item>
+        <item>Utiliser la préférence système (par défaut)</item>
+        <item>16 bits/échantillon</item>
+        <item>24 bits/échantillon</item>
+        <item>32 bits/échantillon</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-        <item>Use system preference (Default)</item>
+        <item>Utiliser la préférence système (par défaut)</item>
         <item>Mono</item>
-        <item>Stereo</item>
+        <item>Stéréo</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-        <item>Use system preference (Default)</item>
+        <item>Utiliser la préférence système (par défaut)</item>
         <item>Mono</item>
-        <item>Stereo</item>
+        <item>Stéréo</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
-        <item>Optimized for audio quality</item>
-        <item>Balanced audio and connection quality</item>
-        <item>Optimized for connection quality</item>
-        <item>Best effort (Auto bit rate)</item>
+        <item>Optimisé pour la qualité audio</item>
+        <item>Compromis entre qualité audio et de connexion</item>
+        <item>Optimisé pour la qualité de connexion</item>
+        <item>Meilleur effort (débit audio)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
-        <item>Optimized for audio quality (990kbps/909kbps)</item>
-        <item>Balanced audio and connection quality (660kbps/606kbps)</item>
-        <item>Optimized for connection quality (330kbps/303kbps)</item>
-        <item>Best effort (Auto bit rate)</item>
+        <item>Optimisé pour la qualité audio (990kbps/909kbps)</item>
+        <item>Compromis entre qualité audio et de connexion (660kbps/606kbps)</item>
+        <item>Optimisé pour la qualité de connexion (330kbps/303kbps)</item>
+        <item>Meilleur effort (débit audio)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>Use system preference (Default)</item>
+        <item>Utiliser la préférence système (par défaut)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>Use system preference (Default)</item>
+        <item>Utiliser la préférence système (par défaut)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
-        <item>Use system preference (Default)</item>
+        <item>Utiliser la préférence système (par défaut)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>Qualcomm® aptX™ audio</item>
@@ -89,7 +89,7 @@
         <item>LHDC V1</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
-        <item>Use system preference (Default)</item>
+        <item>Utiliser la préférence système (par défaut)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>Qualcomm® aptX™ audio</item>
@@ -100,41 +100,41 @@
         <item>LHDC V3</item>
         <item>LHDC V2</item>
         <item>LHDC V1</item>
-        <item>Enable optional codecs</item>
-        <item>Disable optional codecs</item>
+        <item>Activer les codecs optionnels</item>
+        <item>Désactiver les codecs optionnels</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
-        <item>" | Active"</item>
-        <item>" | Active (media)"</item>
-        <item>" | Active (phone)"</item>
+        <item>" | Activé"</item>
+        <item>" | Activé (média)"</item>
+        <item>" | Activé (téléphone)"</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.4 (Default)</item>
+        <item>AVRCP 1.4 (par défaut)</item>
         <item>AVRCP 1.3</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="bluetooth_map_versions">
-        <item>MAP 1.2 (Default)</item>
+        <item>MAP 1.2 (par défaut)</item>
         <item>MAP 1.3</item>
         <item>MAP 1.4</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_entries">
-        <item>Disabled</item>
-        <item>Filtered</item>
-        <item>Enabled</item>
-        <item>Headers filtered</item>
-        <item>Media packets filtered</item>
+        <item>Désativé</item>
+        <item>Filtré</item>
+        <item>Activé</item>
+        <item>Entêtes filtrés</item>
+        <item>Paquets média filtrés</item>
     </string-array>
     <string-array name="color_mode_descriptions">
-        <item>Enhanced colors</item>
-        <item>Natural colors as seen by the eye</item>
-        <item>Colors optimized for digital content</item>
+        <item>Couleurs améliorées</item>
+        <item>"Couleurs naturelles perçues par l'œil"</item>
+        <item>Couleurs optimisées pour du contenu numérique</item>
     </string-array>
     <string-array name="color_mode_names">
-        <item>Vibrant (default)</item>
-        <item>Natural</item>
+        <item>Vibrant (par défaut)</item>
+        <item>Naturel</item>
         <item>Standard</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
@@ -159,18 +159,18 @@
         <item>Always check</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
-        <item>None</item>
+        <item>Aucun</item>
         <item>480p</item>
-        <item>480p (secure)</item>
+        <item>480p (sécurisé)</item>
         <item>720p</item>
-        <item>720p (secure)</item>
+        <item>720p (sécurisé)</item>
         <item>1080p</item>
-        <item>1080p (secure)</item>
+        <item>1080p (sécurisé)</item>
         <item>4K</item>
-        <item>4K (secure)</item>
+        <item>4K (sécurisé)</item>
         <item>4K (upscaled)</item>
-        <item>4K (upscaled, secure)</item>
-        <item>720p, 1080p (dual screen)</item>
+        <item>4K (upscaled, sécurisé)</item>
+        <item>720p, 1080p (double écran)</item>
     </string-array>
     <string-array name="overlay_display_devices_values">
         <item></item>
