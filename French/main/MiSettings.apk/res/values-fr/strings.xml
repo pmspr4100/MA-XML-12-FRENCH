@@ -48,6 +48,10 @@
   <string name="created">Créé</string>
   <string name="created_successfully">Créé avec succès</string>
   <string name="cu_confirm">Définir</string>
+  <string name="dc_light_hint_enable_title">Attention</string>
+  <string name="dc_light_hint_normal">DC dimming might affect the way some items are displayed.</string>
+  <string name="dc_light_hint_other">DC dimming might affect refresh rate and the way some items are displayed.</string>
+  <string name="dc_lignt_enable_hint">Anti-flicker mode will set screen refresh rate to 60 Hz. Switch to Anti-flicker mode?</string>
   <string name="display_description">"Icônes plus grandes, texte plus large, moins d'encombrement visuel"</string>
   <string name="display_title">Interface plus grande</string>
   <string name="early_morning">Matin</string>
@@ -89,7 +93,7 @@
   <string name="actionbar_button_up_description">Retour</string>
   <string name="anti_flicker_mode">Anti-scintillement</string>
   <string name="anti_flicker_mode_categroy">Modes</string>
-  <string name="anti_flicker_mode_summary">"Réduisez le scintillement dans des conditions de faible luminosité pour réduire la fatigue oculaire. Certains éléments peuvent ne pas s'afficher correctement."</string>
+  <string name="anti_flicker_mode_summary">Empêche le scintillement important et réduit la fatigue oculaire dans des conditions de faible éclairage</string>
   <string name="anti_flicker_title">Mode anti-scintillement</string>
   <string name="expand_button_title">Avancé</string>
   <string name="fmt_date_long_month_day">dd MMMM</string>

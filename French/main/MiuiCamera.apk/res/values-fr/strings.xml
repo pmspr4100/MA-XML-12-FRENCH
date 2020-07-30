@@ -167,6 +167,7 @@
 et ajustez les préférences automatiquement"</string>
   <string name="ai_scene_top_moon_off">Mode faible luminosité</string>
   <string name="ai_scene_top_tip">Mode lune</string>
+  <string name="ai_ultra_pixel_108mp">108 MPX</string>
   <string name="ai_watermark_title">Filigrane IA</string>
   <string name="ambi_file_name_format">"'AMBI'_ddMMyyyy_HHmmss"</string>
   <string name="ambilight_description_title">À propos de la longue exposition</string>
@@ -174,6 +175,7 @@ et ajustez les préférences automatiquement"</string>
   <string name="ambilight_intro_crowd_moving_part2">Vous pouvez également prendre des photos de la circulation intense et des foules en mouvement. Une longue exposition gardera les bâtiments nets, mais tous les objets en mouvement seront flous.</string>
   <string name="ambilight_intro_light_track">Utilisez une source de lumière pour \"peindre\" sur une scène sombre pour rassembler toutes les pièces éclairées en une seule image.</string>
   <string name="ambilight_intro_magic_star">Use this mode in places with low light pollution. The exposure will be set to %d seconds, so using a tripod is a great idea.</string>
+  <string name="ambilight_intro_magic_star_ae">Use this mode in places with low light pollution. The exposure can be set up to %d seconds, so using a tripod is a great idea.</string>
   <string name="ambilight_intro_silky_water_part1">Utilisez ce mode lorsque vous photographiez des nuages en mouvement. Cela donnera au ciel un effet \"peinture à l'huile\".</string>
   <string name="ambilight_intro_silky_water_part2">"Ce mode fait que l'eau en mouvement (rivières, cascades et lacs) ressemble à du satin."</string>
   <string name="ambilight_intro_star_track">"Photographier le ciel étoilé pendant une longue période peut capturer les trajectoires des étoiles. N'oubliez pas d'utiliser un trépied et de filmer en continu pendant au moins %d minutes."</string>
@@ -182,7 +184,7 @@ et ajustez les préférences automatiquement"</string>
   <string name="ambilight_scene_crowd_moving">Foule en mouvement</string>
   <string name="ambilight_scene_light_track">Peinture claire</string>
   <string name="ambilight_scene_magic_star">Ciel étoilé</string>
-  <string name="ambilight_scene_silky_water">Eau soyeuse</string>
+  <string name="ambilight_scene_silky_water">"Peinture à l'huile"</string>
   <string name="ambilight_scene_star_track">Sentiers des étoiles</string>
   <string name="ambilight_scene_traffic_light">Sentiers de néon</string>
   <string name="ambilight_tips_for_using_tripod">Utilisez un trépied</string>
@@ -406,7 +408,7 @@ et ajustez les préférences automatiquement"</string>
   <string name="close_back_flash_toast">"Votre appareil à surchauffé. impossible d'utiliser le flash maintenant."</string>
   <string name="close_front_flash_toast">"Votre appareil à surchauffé. impossible d'utiliser le flash maintenant."</string>
   <string name="color_effect_entry_berry">Baies</string>
-  <string name="color_effect_entry_blackgold">Rhodium</string>
+  <string name="color_effect_entry_blackgold">Gold vibes</string>
   <string name="color_effect_entry_blackice">Black ice</string>
   <string name="color_effect_entry_blackwhite">Noir et Blanc</string>
   <string name="color_effect_entry_cookie">Gâteau</string>
@@ -452,7 +454,7 @@ et ajustez les préférences automatiquement"</string>
   <string name="confirm_restore_title">Restaurer les paramètres par défaut</string>
   <string name="custom_watermark_contains_senstive_words">"Les filigranes ne peuvent pas contenir de termes restreints (%1$s)"</string>
   <string name="custom_watermark_tips">"Ce texte apparaîtra comme la deuxième ligne de votre filigrane. Il peut contenir jusqu'à 18 lettres ou 14 caractères chinois."</string>
-  <string name="custom_watermark_tips_gen2" formatted="false">Up to %d Chinese characters or %d letters.</string>
+  <string name="custom_watermark_tips_gen2">Up to %1$d Chinese characters or %2$d letters.</string>
   <string name="custom_watermark_too_many_words">Le texte que vous avez entré est trop long</string>
   <string name="custom_watermark_words">Filigrane personnalisé</string>
   <string name="custom_watermark_words_input_hint">Entrez du texte</string>
@@ -566,12 +568,20 @@ Imprimez la copie sur du papier A4."</string>
 Nettoyez la lentille pour un meilleur effet."</string>
   <string name="lens_dirty_detected_title_back">"L'appareil photo arrière est sale"</string>
   <string name="lens_dirty_detected_title_front">"L'appareil photo avant est sale"</string>
+  <string name="lighting_bright_red">Scarlet</string>
+  <string name="lighting_dazzling">Beams</string>
+  <string name="lighting_dreamland">Dreamland</string>
+  <string name="lighting_gorgeous">Motley</string>
   <string name="lighting_hint_needed">"Placer votre sujet à l'honneur"</string>
   <string name="lighting_hint_title">Éclairage studio</string>
   <string name="lighting_hint_too_close">Éloignez votre appareil photo</string>
   <string name="lighting_hint_too_far">Rapprochez votre appareil photo</string>
   <string name="lighting_hint_usage">"Vous pouvez utiliser les effets de l'éclairage studio
 en mode portrait"</string>
+  <string name="lighting_lanshan">Decadence</string>
+  <string name="lighting_movie_light_effect_title">Cinematic effects</string>
+  <string name="lighting_neon">Neon</string>
+  <string name="lighting_nostalgia">Nostalgia</string>
   <string name="lighting_pattern_dot">Points</string>
   <string name="lighting_pattern_holi">Holi</string>
   <string name="lighting_pattern_leaf">Feuilles</string>
@@ -581,6 +591,8 @@ en mode portrait"</string>
   <string name="lighting_pattern_rainbow">Arc-en-ciel</string>
   <string name="lighting_pattern_shutter">Blinds</string>
   <string name="lighting_pattern_stage">Stage</string>
+  <string name="lighting_phantom">Phantom</string>
+  <string name="lighting_rainbow">Rainbow</string>
   <string name="live_edit_exit_confirm">Arrêter</string>
   <string name="live_edit_exit_message">Arrêter les prises maintenant ?</string>
   <string name="live_edit_share_title">Partager</string>
@@ -810,6 +822,7 @@ et fait ressortir les gens à l'avant."</string>
 Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_960_watermark_title">Filigrane 960 ips</string>
   <string name="pref_ai_detect">Détection IA</string>
+  <string name="pref_audio_denoise_title">Audio noise reduction</string>
   <string name="pref_audio_focus_entry_front">Avant</string>
   <string name="pref_audio_focus_entry_general">Normal</string>
   <string name="pref_audio_focus_entry_rear">Arrière</string>
@@ -1082,6 +1095,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_hdr10_video_mode_title">HDR 10</string>
   <string name="pref_lens_dirty_detect_summary">"Recevoir une notification lorsque l'objectif est sale"</string>
   <string name="pref_lens_dirty_detect_title">"Avertir de l'objectif sale"</string>
+  <string name="pref_menu_ai_ultra_pixel_photography">IA %s</string>
   <string name="pref_menu_ultra_pixel_photography">%s ultra HD</string>
   <string name="pref_module_settings">Modes</string>
   <string name="pref_more_mode_style_title">Modes appareil photo</string>
@@ -1221,7 +1235,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="timbre_robot">Robot</string>
   <string name="pref_setting_title">Paramètres</string>
   <string name="time_lapse_error">"Impossible d'utiliser cette taille de vidéo pour un enregistrement en accéléré"</string>
-  <string name="timer_burst">Timed burst shot</string>
+  <string name="timer_burst">Timed burst</string>
   <string name="timer_burst_manu_param_interval">Interval without exposure</string>
   <string name="timer_burst_param_interval">Interval</string>
   <string name="timer_burst_param_total_count">Number of photos</string>
@@ -1231,6 +1245,8 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="toast_start_audio_capture">Faire un son pour prendre une photo</string>
   <string name="ubi_focus_capture_fail">"Impossible de prendre une photo"</string>
   <string name="ubifocus_capture_warning_message">"Pour de meilleurs résultats, votre photo doit contenir des objets proches (à moins d’un mètre de l’objectif) et éloignés."</string>
+  <string name="ultra_ai_pixel_photography_close_tip">AI %s Ultra HD is off</string>
+  <string name="ultra_ai_pixel_photography_open_tip">AI %s Ultra HD</string>
   <string name="ultra_pixel_photography_close_tip">%s ultra HD désactivé</string>
   <string name="ultra_pixel_photography_open_tip">%s ultra HD activé</string> 
   <string name="ultra_pixel_photography_32mp_open_tip">32 MPX</string>
