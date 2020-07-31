@@ -78,16 +78,16 @@ ajouter des cartes"</string>
   <string name="avg_high_pressure">Avg systolic (upper)</string>
   <string name="avg_low_pressure">Avg diastolic (lower)</string>
   <string name="avg_steps">Pas quotidiens</string>
-  <string name="awake_count">Woke up</string>
-  <string name="awake_count_abnormal_description">You woke up a lot during the night.</string>
-  <string name="awake_count_normal_description">You woke up once at night. This is normal.</string>
-  <string name="awake_duration">Duration of awakenings</string>
+  <string name="awake_count">Réveils</string>
+  <string name="awake_count_abnormal_description">Vous vous êtes réveillé plusieurs fois cette nuit.</string>
+  <string name="awake_count_normal_description">"Vous vous êtes réveillé une fois cette nuit. C'est normal."</string>
+  <string name="awake_duration">Durée des phases éveillées</string>
   <string name="awake_duration_abnormal_description">Your night awakenings are relatively long.</string>
-  <string name="awake_duration_description">Night awakenings might occur while you sleep. Frequent awakenings or difficulty falling back asleep might result in sleep fragmentation and seriously affect sleep quality.</string>
-  <string name="awake_duration_good_description">"You didn't have any night awakenings."</string>
-  <string name="awake_duration_normal_description">You experienced some night awakenings.</string>
+  <string name="awake_duration_description">Les réveils nocturnes peuvent survenir pendant votre sommeil. Des réveils fréquents ou des difficultés à vous rendormir peuvent fragmenter votre sommeil et affecter sérieusement la qualité de votre sommeil.</string>
+  <string name="awake_duration_good_description">"Vous n'avez eu aucun réveil nocturne."</string>
+  <string name="awake_duration_normal_description">Vous avez eu quelques réveils nocturnes.</string>
   <string name="back">Retour</string>
-  <string name="back_stroke">Backstroke</string>
+  <string name="back_stroke">Dos crawlé</string>
   <string name="background_run_tips">"Appuyez sur \"Paramètres\" ci-dessous et autorisez Xiaomi Health à toujours s'exécuter en arrière-plan."</string>
   <string name="backtrack">Retour</string>
   <string name="basic_info_label_age">Âge</string>
@@ -96,15 +96,15 @@ ajouter des cartes"</string>
   <string name="basic_info_label_height">Taille</string>
   <string name="basic_info_label_weight">Poids</string>
   <string name="basic_info_save">Sauvegarder</string>
-  <string name="bedTime_early_description">"You went to bed early. If that's your long term habit, you can stick to it and ignore this message."</string>
-  <string name="bedTime_late_description">You went to bed late.</string>
-  <string name="bedTime_normal_description">You went to bed on time. Keep it up!</string>
-  <string name="bedtime">Bedtime</string>
-  <string name="bedtime_description">"Bedtime is the moment when you go to bed and put down your phone. It's estimated based on your bedtime schedule and device usage."</string>
+  <string name="bedTime_early_description">Vous vous êtes couché tôt. Si cela devient votre habitude à long terme, vous pouvez continuer et ignorer ce message.</string>
+  <string name="bedTime_late_description">Vous vous êtes couché tard.</string>
+  <string name="bedTime_normal_description">"Vous vous êtes couché à l'heure. Continuez comme ça !"</string>
+  <string name="bedtime">Heure du coucher</string>
+  <string name="bedtime_description">"L'heure du coucher est le moment où vous allez vous coucher et que vous posez votre téléphone. Cette heure est estimée à partir de votre prévision de coucher et de l'utilisation de votre appareil."</string>
   <string name="bg_control_dialog_go_set">Paramètres</string>
   <string name="bg_control_dialog_msg">"L'économiseur de batterie limitera l'activité en arrière-plan de Mi Santé. Autorisez Mi Santé à toujours s'exécuter en arrière-plan pour obtenir des statistiques précises."</string>
   <string name="bg_control_dialog_title">Restrictions en arrière-plan</string>
-  <string name="birthday">Date of birth</string>
+  <string name="birthday">Date de naissance</string>
   <string name="blood_pressure">Pression artérielle</string>
   <string name="blood_pressure_high_tip">Pression artérielle haute: %1$s mmHg systolique, %2$s mmHg diastolique</string>
   <string name="blood_pressure_low_tip">Pression artérielle faible: %1$s mmHg systolique, %2$s mmHg diastolique</string>
@@ -113,15 +113,15 @@ ajouter des cartes"</string>
   <string name="blood_pressure_noraml_tip">Pression artérielle normale: %1$s mmHg systolique, %2$s mmHg diastolique</string>
   <string name="blood_pressure_notice_subtitle1">"N'oubliez pas d'enregistrer cette mesure"</string>
   <string name="blood_pressure_notice_subtitle2">"N'oubliez pas d'enregistrer cette mesure"</string>
-  <string name="blood_pressure_notice_title1">Time to measure blood pressure</string>
-  <string name="blood_pressure_notice_title2">Measure your blood pressure</string>
-  <string name="blood_pressure_unit">Millimetres of mercury</string>
+  <string name="blood_pressure_notice_title1">"C'est l'heure de mesure votre pression artérielle"</string>
+  <string name="blood_pressure_notice_title2">Mesurez votre pression artérielle</string>
+  <string name="blood_pressure_unit">Millimètres de mercure</string>
   <string name="blood_type">Groupe sanguin</string>
-  <string name="blood_type_rh">Rh factor</string>
+  <string name="blood_type_rh">Facteur rhésus</string>
   <string name="bmi_label">IMC</string>
-  <string name="body_bmi_descripe_content">Body mass index (BMI) is defined as the body mass in kilograms divided by the square of the body height in meters. Knowing your BMI might help you understand whether your weight has any negative impact on your health.</string>
+  <string name="body_bmi_descripe_content">"L'indice de masse corporelle (IMC) est définie comme le poids de votre corps en kilogrammes divisé par le carré de votre taille en mètres. Connaître votre IMC peut vous aider à voir si votre poids a un impact négatif sur votre santé."</string>
   <string name="body_composition">Body composition</string>
-  <string name="body_water">Water</string>
+  <string name="body_water">Eau</string>
   <string name="body_water_descripe_content">Body water percentage refers to the proportion of water in the total weight of the human body. Usually, muscle tissue contains more water than other body parts.</string>
   <string name="body_weight">Poids</string>
   <string name="body_weight_descripe_content">"L'indice de masse corporelle (IMC) est la masse corporelle divisée par le carré de la taille du corps (kg/㎡)."</string>
@@ -225,7 +225,7 @@ Si vous décidez de supprimer vos données de santé après avoir choisi de les 
   <string name="deep_sleep">Sommeil profond</string>
   <string name="deep_sleep_duration">Durée du sommeil profond</string>
   <string name="deep_sleep_duration_decrease_description">Votre sommeil profond est trop court</string>
-  <string name="deep_sleep_duration_description">"When people sleep, there will be periodic rapid eye movements, so sleep can be divided into rapid eye movement sleep and non-rapid eye movement sleep. Deep sleep occurs during periods of non-rapid eye movement sleep, accounting for about 20 to 25% of all night's sleep. During deep sleep, there is less conscious activity, and the brain is in a relatively static state, which is difficult to be awakened."</string>
+  <string name="deep_sleep_duration_description">"Lors du sommeil, des mouvements rapides des yeux surviennent régulièrement. Ainsi le sommeil peut être divisé entre un sommeil à mouvements oculaires rapides, et un sommeil à mouvements oculaires non rapides. Le sommeil profond a lieu pendant les périodes de mouvement oculaires non rapides, et représente environ 20 à 25% du temps de sommeil total. Durant le sommeil profond, il y a moins d'activité consciente, et le cerveau est dans un état relativement statique; il est difficile de se réveiller durant cette phase."</string>
   <string name="deep_sleep_duration_increase_description">Votre sommeil profond est trop long</string>
   <string name="deep_sleep_duration_normal_description">Votre sommeil profond est suffisant</string>
   <string name="delete">Supprimer</string>
@@ -368,11 +368,11 @@ You can select a different data source in More &gt; Data sources."</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Impossible de charger les éléments"</string>
   <string name="per_time_minutes1">" par minute"</string>
   <string name="sleep_deep_light_no_data">Pas encore de données ici</string>
-  <string name="sleep_deep_light_no_data_improvement">"Couldn't detect sleep phases. We're improving our algorithms. Stay tuned!"</string>
-  <string name="sleep_detection_question_one_answer_1">"Deep and light sleep phases are detected based on body movement data collected by the sensors of your device. Here's why you might not be able to see the stats:
-1. Xiaomi Health couldn't collect data. This might happen when your device powers off while you're sleeping, its battery is too low, or the app isn't allowed to work in the background. Allow Xiaomi Health to autostart, add it to Battery saver exceptions, and lock it in the background to prevent this from happening.
-2. Xiaomi Health couldn't analyze the collected data. This might happen when your phone is placed too far from your body when you sleep. Alternatively, your body movement might be too subtle to make any assumptions about your sleep cycle changes. We're constantly improving our algorithms to make Xiaomi Health analyze your sleep better."</string>
-  <string name="sleep_detection_question_one_title">Why are my stats incomplete?</string>
+  <string name="sleep_deep_light_no_data_improvement">"Détection des phasses de sommeil impossible. Nous améliorons nos algorithmes. Restez à l'écoute!"</string>
+  <string name="sleep_detection_question_one_answer_1">"Les phases de sommeil profond et léger sont détectées en se basant sur les données des mouvements du corps collectées par les capteurs de votre appareil. C'est pourquoi il peut arriver que vous ne voyiez pas les statistiques:
+1. Xiaomi Santé n'a pas pu collecter les données. Cela peut arriver lorsque votre appareil s'éteint durant votre sommeil, ou si sa batterie est trop déchargée, ou encore si l'application n'est pas autorisée à fonctionner en arrière-plan. Autorisez Xiaomi Santé à démarrer automatiquement, ajoutez-la aux exceptions de l'économiseur de batterie, et permettez son fonctionnement en arrière-plan pour empêcher cela.
+2. Xiaomi Santé n'a pas pu analyser les données collectées. Cela peut arriver si votre téléphone est placé trop loin de votre corps lors de votre sommeil. Ou bien les mouvements corporels sont trop subtils pour pouvoir en déduire les changements de cycles de sommeil. Nous améliorons constamment nos algorithmes pour rendre meilleures les analyses de votre sommeil par Xiaomi Santé ."</string>
+  <string name="sleep_detection_question_one_title">Pourquoi mes statistiques sont-elles incomplètes ?</string>
   <string name="sleep_detection_question_one_title_1">Pourquoi ne vois-je pas les statistiques du cycle de sommeil ?</string>
   <string name="title_select_birthday_description">"Nous adapterons nos services à votre âge"</string>
   <string name="title_select_gender_description">"Nous adapterons nos services à votre sexe"</string>
@@ -1331,7 +1331,7 @@ Mettre à jour maintenant ?"</string>
   <string name="weight_setting">Weight settings</string>
   <string name="weight_trend_offset_date">"De %1$s à %2$s: "</string>
   <string name="weight_unit_kg">KG</string>
-  <string name="well">Good</string>
+  <string name="well">Bon</string>
   <string name="write_strorage_perm_description">Record the problems you encountered in use</string>
   <string name="xiaomi_update_sdk_bytes_unit">"%1$s o"</string>
   <string name="xiaomi_update_sdk_connect_download_manager_fail">"Échec de la connexion du gestionnaire de téléchargement, veuillez vérifier l'état du gestionnaire de téléchargement dans la gestion des applications."</string>
