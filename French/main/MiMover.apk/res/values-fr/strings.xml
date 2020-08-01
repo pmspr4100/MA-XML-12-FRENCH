@@ -134,7 +134,7 @@ Visitez https://appleid.apple.com/#!&amp;page=signin pour désactiver"</string>
   <string name="dialog_request_permission_message_buttom_content">Allow this app to connect to the internet and grant the mandatory permissions listed above.</string>
   <string name="dialog_request_permission_message_extra_summary">These permissions are required to make the basic features and services of this app available.</string>
   <string name="dialog_request_permission_message_extra_title">Mandatory permissions</string>
-  <string name="dialog_request_permission_message_link" formatted="false">&lt;Data&gt;"At the same time, to fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &amp;lt;a href='%1s'&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href='%2s'&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="dialog_request_permission_message_link" formatted="false">"&lt;Data&gt;"At the same time, to fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &amp;lt;a href='%1s'&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href='%2s'&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;."&lt;/Data&gt;"</string>
   <string name="dialog_request_permission_message_provision_link">At the same time, to fully understand your rights as a user as well as the ways in which we use your data, read and agree to our %1$s and %2$s.</string>
   <string name="dialog_request_permission_title">Attention</string>
   <string name="dialog_tip_upgrade_summary">Mi Mover est une version trop ancienne. Mettez à jour Mi Mover dans sa dernière version pour pouvoir transférer des fichiers.</string>
@@ -240,7 +240,6 @@ Open WeChat and go to Me &gt; Settings &gt; General &gt; Back up &amp; migrate c
   <string name="icloud_need_wifi_message">"Vous n'êtes pas connecté au Wi-Fi. Pour importer les données depuis iCloud, connectez-vous au Wi-Fi."</string>
   <string name="icloud_need_wifi_new_message">Connect to WLAN to be able to import items from an iPhone.</string>
   <string name="icloud_need_wifi_title">Connexion au Wi-Fi</string>
-  <string name="icloud_need_wifi_title">Connect to WLAN</string>
   <string name="icloud_new_connect_wifi">Connect</string>
   <string name="icloud_signin_fail">Identification impossible</string>
   <string name="icloud_signin_fail_message">Votre identifiant Apple a été bloqué pour des raisons de sécurité. Allez sur iforgot.apple.com et suivez les instructions.</string>
@@ -405,7 +404,6 @@ Open WeChat and go to Me &gt; Settings &gt; General &gt; Back up &amp; migrate c
   <string name="old_task_cleared">Suppression réussie des anciennes tâches</string>
   <string name="old_wait_link">"Sélectionnez les éléments à transférer sur l'ancien appareil"</string>
   <string name="old_wait_link_extra">Appuyez sur \"Transfert\"</string>
-  <string name="option_feedback_title">Feedback</string>
   <string name="option_feedback_title">"Retour d'information"</string>
   <string name="organization">Organisation</string>
   <string name="other_system_data">"Données d'application système"</string>
