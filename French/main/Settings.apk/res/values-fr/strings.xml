@@ -5011,12 +5011,12 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
   <string name="papger_effect_category">Mode</string>
   <string name="passpoint_content">Identifiants de \"%1$s\"</string>
   <string name="passpoint_label">Enregistré via</string>
-  <string name="passpoint_r1_privacy_dialog_message">"Passpoint is a reliable, safe and automatic wlan connection technology launched by the WLAN Alliance. Automatically configure accounts to achieve a seamless connection between WLAN configured network and mobile devices
+  <string name="passpoint_r1_privacy_dialog_message">"This WLAN service is provided by exands. It allows you to connect to supported nearby hotspots automatically.
 
-This function only obtains your WLAN MAC address for account registration at the first time. We will process your data in accordance with our %s. Please read this policy carefully and agree to continue."</string>
-  <string name="passpoint_r1_privacy_dialog_no">Annuler</string>
+Read and agree to %s before using this service."</string>
+  <string name="passpoint_r1_privacy_dialog_no">Quitter</string>
   <string name="passpoint_r1_privacy_dialog_title">Attention</string>
-  <string name="passpoint_r1_privacy_dialog_url_text">Politique de confidentialité</string>
+  <string name="passpoint_r1_privacy_dialog_url_text">\"exands Privacy Policy\"</string>
   <string name="passpoint_r1_privacy_dialog_yes">Accepter et continuer</string>
   <string name="passwordIncorrect">Mot de passe incorrect</string>
   <string name="password_entrance_title">"Définir le verrouillage de l'écran"</string>
