@@ -3183,7 +3183,7 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
   <string name="ethernet_data_usage">Consommation de données Ethernet</string>
   <string name="every_day">Tous les jours</string>
   <string name="expand_button_title">Options avancées</string>
-  <string name="expandable_under_keyguard_title">"Extensible sous l'écran de verrouillage sécurisé"</string>
+  <string name="expandable_under_keyguard_title">"Afficher sur l'écran de verrouillage"</string>
   <string name="experimental_category_title">Expérimental</string>
   <string name="experimental_preference">(Expérimental)</string>
   <string name="extended_power_menu">"Menu d'alimentation étendu"</string>
@@ -3208,10 +3208,10 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
   <string name="face_data_introduction_title">Face recognition</string>
   <string name="face_data_manage_delete">Supprimer les données de visage ?</string>
   <string name="face_data_manage_delete_msg">Supprimer les données de visage</string>
-  <string name="face_data_manage_delete_sure">"You won't be able to unlock device using your face data after you delete it."</string>
-  <string name="face_data_manage_unlock_liftcamera_msg">After the screen lights up, swipe up to unlock the device using face data.</string>
+  <string name="face_data_manage_delete_sure">"Vous ne pourrez pas déverrouiller l'appareil à l'aide de vos données de visage après l'avoir supprimé."</string>
+  <string name="face_data_manage_unlock_liftcamera_msg">"Une fois l'écran allumé, faites glisser votre doigt vers le haut pour déverrouiller l'appareil à l'aide des données de visage."</string>
   <string name="face_data_manage_unlock_msg">"Déverrouille l'appareil en utilisant les données de votre visage"</string>
-  <string name="face_data_manage_unlock_slide_msg">Replace slider shortcuts with face unlock</string>
+  <string name="face_data_manage_unlock_slide_msg">Remplacer les raccourcis du curseur par le déverrouillage du visage</string>
   <string name="face_data_manage_unlock_title">Déverrouillage par reconnaissance faciale</string>
   <string name="face_data_siggesstion_next">Suivant</string>
   <string name="face_data_siggesstion_next_time">Suivant (%ds)</string>
@@ -5952,7 +5952,7 @@ Pour épingler l'écran:
   <string name="search_sound_settings">Sons;Volume;Vibration;Supprimer le bruit;Supression du bruit</string>
   <string name="search_status_bar_settings">"Notifications et barre d'état;Notifications;Barre d'état"</string>
   <string name="search_status_bar_settings_custom_carrier">"Modifier le nom de l'opérateur;Nom de l'opérateur"</string>
-  <string name="search_status_bar_settings_expandable_under_keyguard">"Extensible sous l'écran de verrouillage sécurisé; extensible sous l'écran de verrouillage sécurisé"</string>
+  <string name="search_status_bar_settings_expandable_under_keyguard">"Afficher sur l'écran de verrouillage; afficher sur l'écran de verrouillage"</string>
   <string name="search_status_bar_settings_manage_notification">Notifications des applications;Notifications</string>
   <string name="search_status_bar_settings_show_carrier">"Afficher le nom de l'opérateur;Nom de l'opérateur"</string>
   <string name="search_status_bar_settings_show_network_speed">Afficher la vitesse de connexion;vitesse de connexion</string>
