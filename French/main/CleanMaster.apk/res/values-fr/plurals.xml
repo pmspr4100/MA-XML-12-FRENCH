@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="people">
-        <item quantity="other">Downloaded by %1$d people</item>
-        <item quantity="one">Downloaded by %1$d people</item>
-    </plurals>
-    <plurals name="people_million">
-        <item quantity="other">Downloaded by %1$d people</item>
-        <item quantity="one">Downloaded by %1$d people</item>
-    </plurals>
     <plurals name="app_usage_day">
         <item quantity="other">"Non utilisé depuis %d jours"</item>
         <item quantity="one">"Non utilisé depuis %d jour"</item>
@@ -147,9 +139,11 @@
     </plurals>
     <plurals name="people">
         <item quantity="other">Téléchargé par %1$d personnes</item>
+        <item quantity="one">Téléchargé par %1$d personnes</item>
     </plurals>
     <plurals name="people_million">
         <item quantity="other">Téléchargé par %1$d personnes</item>
+        <item quantity="one">Téléchargé par %1$d personnes</item>
     </plurals>
     <plurals name="resutl_function_install_app_summary">
         <item quantity="other">"&lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> les applications n'ont pas été utilisées depuis longtemps, jetez un oeil."&lt;/Data>"</item>
