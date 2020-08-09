@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="channel_service">Service de mise à jour en arrière-plan</string>
+  <string name="notif_service_summary">Maintenez enfoncé pour désactiver la notification \"Service de mise à jour en arrière-plan\" !</string>
+  <string name="notif_service_title">"L'application s'exécute en arrière-plan"…</string>
   <string name="app_name">Mise à jour</string>
   <string name="battery_islow">Branchez votre chargeur</string>
   <string name="battery_islow_desc">Le niveau de la batterie est trop faible pour installer le fichier zip en toute sécurité, branchez votre chargeur et réessayez plus tard !</string>

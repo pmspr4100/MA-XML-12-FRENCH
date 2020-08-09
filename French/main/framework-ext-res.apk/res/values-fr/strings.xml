@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="application_cannot_open_alipay_payment_code">"Couldn't open Alipay payment code"</string>
+  <string name="application_cannot_open_alipay_scanner">"Couldn't open Alipay scanner"</string>
+  <string name="application_cannot_open_weixin_payment_code">"Couldn't open WeChat payment code"</string>
+  <string name="application_cannot_open_weixin_scanner">"Couldn't open WeChat scanner"</string>
+  <string name="application_not_install_content">"Looks like the app that performs this action isn't installed on your device. You can install this app or assign a different action to this gesture."</string>
+  <string name="bluetooth_close">Cette application a désactivé le Bluetooth</string>
+  <string name="bluetooth_open">Cette application a activé le Bluetoothh</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_auto_brightness">Luminosité</string>
   <string name="status_bar_toggle_data">Données cellulaires</string>
   <string name="status_bar_toggle_flight_mode">Mode avion</string>
   <string name="status_bar_toggle_gps">GPS</string>
   <string name="status_bar_toggle_lock">Verrouiller</string>
-  <string name="status_bar_toggle_mute">Silence</string>
+  <string name="status_bar_toggle_mute">Silencieux</string>
   <string name="status_bar_toggle_rotate">Rotation</string>
   <string name="status_bar_toggle_screen_button">Boutons</string>
   <string name="status_bar_toggle_screenshot">"Capture d'écran"</string>
-  <string name="status_bar_toggle_sync">Synchro</string>
-  <string name="status_bar_toggle_torch">Torche</string>
+  <string name="status_bar_toggle_sync">Synchronisation</string>
+  <string name="status_bar_toggle_torch">Lampe torche</string>
   <string name="status_bar_toggle_vibrate">Vibreur</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_power_mode">Performance</string>
@@ -38,10 +45,10 @@
   <string name="pc_device_model_name">Ordinateur</string>
   <string name="replace">Remplacer</string>
   <string name="frequent_phrases">Phrases fréquentes</string>
-  <string name="device_status_failed">"Couldn't send"</string>
-  <string name="device_status_sending">Sending…</string>
-  <string name="device_status_success">Sent successfully</string>
-  <string name="device_status_waiting">Waiting…</string>
+  <string name="device_status_failed">"Impossible d'envoyer"</string>
+  <string name="device_status_sending">Envoi en cours…</string>
+  <string name="device_status_success">Bien envoyé</string>
+  <string name="device_status_waiting">Patienter…</string>
   <string name="open_close_tip_action">"C'est compris"</string>
   <string name="open_close_tip_content">"Pour fermer la fenêtre flottante, appuyez et maintenez la barre d'action, puis faites glisser vers le haut"</string>
   <string name="security_share_text">Protection de la vie privée</string>
