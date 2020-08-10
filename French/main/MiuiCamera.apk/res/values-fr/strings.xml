@@ -257,7 +257,7 @@ et ajustez les préférences automatiquement"</string>
   <string name="back_laurel_sprout">3:SHOT ON MI 3A:IA TRIPLE APPAREIL PHOTO:48 MPX TRIPLE APPAREIL PHOTO</string>
   <string name="back_laurus">3:SHOT ON MI CC 9e:IA TRIPLE APPAREIL PHOTO:48 MPX TRIPLE APPAREIL PHOTO</string>
   <string name="back_lavender">2:REDMI NOTE 7:IA DOUBLE APPAREIL PHOTO:48 MPX DOUBLE APPAREIL PHOTO</string>
-  <string name="back_lavender_s">2:REDMI NOTE 7S:IA DOUBLE APPAREIL PHOTO:48 MPX DOUBLE APPAREIL PHOTO</string>
+  <string name="back_lavender_india_s">2:REDMI NOTE 7S:IA DOUBLE APPAREIL PHOTO:48 MPX DOUBLE APPAREIL PHOTO</string>
   <string name="back_lmi">4:REDMI K30 PRO:IA QUADRUPLE APPAREIL PHOTO:64 MPX QUADRUPLE APPAREIL PHOTO</string>
   <string name="back_lmi_global">0:POCO:SHOT ON POCO F2 PRO:SHOT ON POCO F2 PRO</string>
   <string name="back_lmiin_india">4:REDMI K30 PRO 5G:IA QUADRUPLE APPAREIL PHOTO:64 MPX QUADRUPLE APPAREIL PHOTO</string>
@@ -932,6 +932,8 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_camera_heic_image_format_description2">"Le format High Efficiency Image File permet d'économiser de l'espace disque, mais n'est pas pris en charge par certaines applications. Vous ne pouvez pas prendre de photos animées ni enlever les filigranes en HEIF"</string>
   <string name="pref_camera_heic_image_format_title">Format HEIC</string>
   <string name="pref_camera_hfr_entry_off">Désactivé</string>
+  <string name="pref_camera_high_quality_preferred_description">Improve image quality using the smart algorithm. Image capture speed may decrease when this feature is on.</string>
+  <string name="pref_camera_high_quality_preferred_title">Enhance image quality</string>
   <string name="pref_camera_histogram_entry_disable">Désactiver</string>
   <string name="pref_camera_histogram_entry_enable">Activé</string>
   <string name="pref_camera_jpegquality_entry_high">Élevée</string>
@@ -1091,8 +1093,9 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_google_lens_summary">"Pointez l'appareil photo sur les informations de contact, les URL et les QR codes pour afficher les options disponibles."</string>
   <string name="pref_google_lens_title">Suggestion Lens</string>
   <string name="pref_groupshot_with_primitive_title">"Enregistrer les photos d'origine également"</string>
-  <string name="pref_hdr10_video_mode_description">Supports 4K and 8K videos encoded by H.265</string>
+  <string name="pref_hdr10_video_mode_description">Optimisez automatiquement les couleurs et le contraste pour les vidéos 4K et 8K. Les vidéos optimisées ne peuvent être lues que sur des appareils compatibles HDR10.</string>
   <string name="pref_hdr10_video_mode_title">HDR 10</string>
+  <string name="video_hdr10_tip">HDR 10</string>
   <string name="pref_lens_dirty_detect_summary">"Recevoir une notification lorsque l'objectif est sale"</string>
   <string name="pref_lens_dirty_detect_title">"Avertir de l'objectif sale"</string>
   <string name="pref_menu_ai_ultra_pixel_photography">IA %s</string>

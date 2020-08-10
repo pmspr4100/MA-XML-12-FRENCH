@@ -27,6 +27,7 @@
   <string name="abc_shareactionprovider_share_with">Partager avec</string>
   <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
   <string name="abc_toolbar_collapse_description">Réduire</string>
+  <string name="action_bar_report_link_des">App alert</string>
   <string name="copy">Copie</string>
   <string name="expand_button_title">Advanced</string>
   <string name="miui_clear_apks_summary">Total %s</string>
@@ -110,6 +111,7 @@ Toutes vos données utilisateur précédentes seront enregistrées."</string>
 
 Toutes vos données utilisateur précédentes seront enregistrées."</string>
   <string name="done">Terminé</string>
+  <string name="exit_install_button">"Don't install"</string>
   <string name="external_sources_settings">Paramètres</string>
   <string name="external_sources_settings_negative">Restreindre</string>
   <string name="external_sources_settings_positive">Autoriser une seule fois</string>
@@ -133,18 +135,26 @@ Toutes vos données utilisateur précédentes seront enregistrées."</string>
   <string name="increment_preparing">Préparation…</string>
   <string name="install">Installer</string>
   <string name="install_app_progress_clear_apk">Supprimer APK</string>
+  <string name="install_confirm_dialog_message">This app is made by Google. You should install Google Play services to be able to use this app normally. Installing this app now might make your device misbehave. Install anyway?</string>
+  <string name="install_confirm_dialog_negative_button">Cancel</string>
+  <string name="install_confirm_dialog_positive_button">Install</string>
+  <string name="install_confirm_dialog_title">Attention</string>
   <string name="install_confirm_question">Voulez-vous installer cette application ? Elle aura accès à:</string>
+  <string name="install_confirm_question_des_10">"If you're willing to take the risks and want to proceed with the installation, authorize the installation in Security &gt; Manage apps &gt; Permissions &gt; Apps with possible risks. If you can't find \"Apps with possible risks\", update your Security app and try again."</string>
   <string name="install_confirm_question_no_perms">"Voulez-vous installer cette application ? Elle ne nécessite aucune autorisation spéciale."</string>
   <string name="install_confirm_question_update">"Voulez-vous installer une mise à jour de cette application existante ? Les données d'application existantes ne seront pas perdues. L'application mise à jour aura accès à:"</string>
   <string name="install_confirm_question_update_no_perms">"Voulez-vous installer une mise à jour de cette application existante ? Les données d'application existantes ne seront pas perdues. Il ne nécessite aucune autorisation spéciale."</string>
   <string name="install_confirm_question_update_system">"Voulez-vous installer une mise à jour de cette application système ? Les données d'application existantes ne seront pas perdues. L'application mise à jour aura accès à:"</string>
   <string name="install_confirm_question_update_system_no_perms">"Voulez-vous installer une mise à jour de cette application système ? Les données d'application existantes ne seront pas perdues. Il ne nécessite aucune autorisation spéciale."</string>
+  <string name="install_confirm_text_gms">This app is made by Google. Install Google Play services before installing this app. Without this framework, the app might not work properly.</string>
   <string name="install_control_cancel_install">Ne pas installer</string>
+  <string name="install_control_cancel_vip_account_install">Exit</string>
   <string name="install_control_continue_install">Installer quand même</string>
   <string name="install_control_lite_mode_explain_des">"Cette application provient d'une source inconnue et peut ne pas fonctionner en mode lite."</string>
   <string name="install_control_lite_mode_solution_des">"Vous pouvez choisir d'installer cette application de toute façon.
 Vous pouvez également désactiver le mode lite et réessayer."</string>
   <string name="install_control_normal_mode_explain_des">"Impossible d'installer cette application en raison de restrictions légales"</string>
+  <string name="install_control_vip_account_install">Apply for Beta</string>
   <string name="install_done">Application installée.</string>
   <string name="install_failed">"Impossible d'installer l'application"</string>
   <string name="install_failed_blocked">"L'installation du package a été bloquée."</string>
@@ -156,7 +166,12 @@ Vous pouvez également désactiver le mode lite et réessayer."</string>
   <string name="install_finished_notification_summary">"Appuyez pour libérer de l'espace de stockage"</string>
   <string name="install_finished_notification_title">"Installé %1$s avec succès. Vous pouvez libérer %2$s d'espace de stockage."</string>
   <string name="install_from_appstore_hint">"Nous vous recommandons d'installer l'application depuis &lt;u&gt;&lt;font color=#91c727&gt;AppStore&lt;/font&gt;&lt;/u&gt;"</string>
+  <string name="install_vip_account_mode_explain_des">This is a Beta version of the app. Apply for Beta testing permissions before installing it.</string>
+  <string name="install_vip_account_mode_solution_des">Apply for Beta</string>
   <string name="installing">Installation…</string>
+  <string name="intercept_confirm_dialog_message">%1$s is trying to install %2$s. Verify your identity to continue.</string>
+  <string name="intercept_confirm_dialog_positive">Verify</string>
+  <string name="intercept_confirm_dialog_title">Attention</string>
   <string name="intercept_install">Installer</string>
   <string name="launch">Ouvrir</string>
   <string name="lift_ban">Autoriser</string>
@@ -326,6 +341,7 @@ Quand une application contient des virus.
 Le package d'installation provient d'une source inconnue."</string>
   <string name="settings_warning_dialog_msg">"Votre téléphone est sujet à des risques de sécurité. Vous ne serez pas invité à installer des versions d'applications sécurisées si vous désactivez cette fonctionnalité. Désactiver quand même ?"</string>
   <string name="settings_warning_dialog_title">Attention</string>
+  <string name="spannable_continue_text">I understand the risks. Install anyway.</string>
   <string name="system_warning">Si vous refusez cette autorisation, les fonctionnalités de base de votre appareil peuvent ne plus fonctionner comme prévu.</string>
   <string name="toast_network_eror">"Impossible de se connecter au réseau"</string>
   <string name="trust_switch_dialog_msg">"Ne vous demandera pas lorsque cette application accède à vos contacts, messages, mots de passe ou à d'autres parties du système."</string>

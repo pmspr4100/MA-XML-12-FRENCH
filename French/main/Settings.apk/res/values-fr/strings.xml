@@ -42,7 +42,7 @@
   <string name="bt_absVolume_summary">Keep the volume of Bluetooth devices and the phone strictly consistent</string>
   <string name="custom_gesture_title">Custom gestures</string>
   <string name="device_opcust_version">Customized version</string>
-  <string name="find_my_device_summary">Must be logged into Mi account</string>
+  <string name="find_my_device_summary">Cette fonctionnalité nécessite une connexion au compte Mi</string>
   <string name="input_method_function_switch_keyboard_language">Switch languages</string>
   <string name="input_method_function_switch_keyboard_language_des">Tap to switch between input languages</string>
   <string name="input_method_function_switch_keyboard_type">Switch keyboards</string>
@@ -448,6 +448,7 @@ Cela permet de protéger les données sur les appareils perdus ou volés. Vous a
   <string name="gentle_notifications_display_summary_shade_status_lock">"Afficher dans le panneau des notifications, la barre de notification et l'écran de verrouillage"</string>
   <string name="gentle_notifications_education">Les notifications douces sont silencieuses et apparaissent toujours dans le panneau des notifications</string>
   <string name="gentle_notifications_title">Notifications douces</string>
+  <string name="gesture_function_dialog_message">%1$s is used for \"%2$s\". Replace with \"%3$s\"?</string>
   <string name="gesture_not_supported_dialog_message">Non pris en charge par votre application domestique par défaut, %s</string>
   <string name="gesture_not_supported_positive_button">"Changer d'application domestique par défaut"</string>
   <string name="global_actions_panel_short_title">Actions globales</string>
@@ -1097,6 +1098,7 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
   <string name="advanced_apps">Paramètres additionnels</string>
   <string name="advanced_battery_graph_subtext">"L'estimation de l'autonomie restante est basée sur l'utilisation de l'appareil"</string>
   <string name="advanced_battery_title">Utilisation de la batterie</string>
+  <string name="advanced_gesture">Custom gestures</string>
   <string name="advanced_screen_paper_mode_title">Reading mode</string>
   <string name="advanced_section_header">Paramètres additionnels</string>
   <string name="advanced_security_title">Paramètres additionnels</string>
@@ -1117,6 +1119,7 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
   <string name="ai_settings_long_click_title">Appuyer et maintenir</string>
   <string name="ai_settings_single_press_des">"Appuyer sur le bouton IA pour parler à l'assistant Google, puis relâcher pour avoir la réponse."</string>
   <string name="airplane_mode">Mode avion</string>
+  <string name="airplane_mode_summary">"Turn on to disconnect your device from mobile networks. You won't be able to make calls, send and receive text messages, or use mobile data when this feature is on."</string>
   <string name="alarm_ringtone_title">"Son de l'alarme par défaut"</string>
   <string name="alarm_sound_dialog_title">"Choisir le son de l'alarme"</string>
   <string name="alarm_sound_title">Alarme</string>
@@ -2155,6 +2158,7 @@ Vous pouvez désactiver cette fonctionnalité dans les paramètres > Bluetooth >
   <string name="cellular_data_title">Données cellulaires</string>
   <string name="cellular_data_usage">Conso. données cellulaires</string>
   <string name="change">Éditer</string>
+  <string name="change_brightness">Adjust brightness</string>
   <string name="change_password">"Désactiver le verrouillage d'écran"</string>
   <string name="change_security_lock">"Essayer d'autres moyens de déverrouillage"</string>
   <string name="change_storage">Modifier type de stockage</string>
@@ -3007,6 +3011,7 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
   <string name="done">Terminé</string>
   <string name="done_button">Terminé</string>
   <string name="double_click_power_key">"Appuyer rapidement deux fois sur le bouton d'alimentation"</string>
+  <string name="double_click_volume_down_when_lock">Double press Volume down when the screen is locked</string>
   <string name="double_tap_power_for_camera_suggestion_title">"Ouvrir l'appareil photo rapidement"</string>
   <string name="double_tap_power_for_camera_summary">"Pour accéder rapidement à l'appareil photo, appuyez deux fois sur le bouton Marche/Arrêt. Fonctionne à partir de n'importe quel écran."</string>
   <string name="double_tap_power_for_camera_title">"Accès à l'appareil photo"</string>
@@ -3539,6 +3544,7 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
   <string name="gesture_prevent_ringing_title">Appuyer simultanément sur les boutons \"Marche/Arrêt\" et \"Volume +\"</string>
   <string name="gesture_setting_off">Désactivé</string>
   <string name="gesture_setting_on">Activé</string>
+  <string name="gesture_settings_title">Gesture shortcuts</string>
   <string name="gesture_w">Modèle W</string>
   <string name="gesture_wakeup_summary">"Vous pouvez appuyer deux fois pour éteindre l'écran lorsque le thème par défaut ou classique est appliqué"</string>
   <string name="gesture_wakeup_title">"Appuyez deux fois pour réveiller ou éteindre l'écran"</string>
@@ -3804,6 +3810,7 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
   <string name="key_combination_power_back">Boutons Alimentation + Retour</string>
   <string name="key_combination_power_home">Boutons Alimentation + Accueil</string>
   <string name="key_combination_power_menu">Boutons Alimentation + Menu</string>
+  <string name="key_combination_power_volume_down">Volume down + Power</string>
   <string name="key_fsg_dialog_message">Vous utilisez les gestes en plein écran pour la navigation. Les fonctionnalités liées aux boutons ne sont pas actuellement disponibles. Changer de boutons ?</string>
   <string name="key_fsg_dialog_negative">Annuler</string>
   <string name="key_fsg_dialog_positive">Basculer sur les boutons</string>
@@ -4257,6 +4264,7 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
   <string name="long_press_menu_key_when_lock">"Appui prolongé sur Menu à l'écran de verrouillage"</string>
   <string name="long_press_power_key">"Appuyez longuement sur le bouton d'alimentation"</string>
   <string name="long_press_power_key_half_of_second">"Appuyez et maintenez le bouton d'alimentation pendant 0.5s pour activer Google Assistant"</string>
+  <string name="long_press_power_key_half_second">Press and hold the Power button for 0.5 seconds</string>
   <string name="long_press_power_key_tips">"&lt;Data&gt;Appuyez longuement sur le bouton d'alimentation &amp;lt;font color=#999999&amp;gt;Plus rapide et plus pratique&amp;lt;/font&amp;gt;&lt;/Data&gt;"</string>
   <string name="long_press_volume_down">Appui prolongé sur le bouton inférieur du volume</string>
   <string name="lost_internet_access_cancel">Rester en Wi-Fi</string>

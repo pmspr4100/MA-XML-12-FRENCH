@@ -271,7 +271,10 @@ Envoyer ce code au superviseur."</string>
   <string name="feedback_delete_images">Supprimer des messages</string>
   <string name="feedback_description">Description</string>
   <string name="feedback_description_bugreport_hint">Dans certains cas (…) mon téléphone se comporte de façon étrange (…).</string>
-  <string name="feedback_description_hint">Décrivez le problème que vous avez rencontré</string>
+  <string name="feedback_description_hint">"Describe the issue you've encountered here.
+%1$d. In what app or on what page have you encountered the issue?
+%2$d. After what actions that you performed did the issue appear?
+%3$d. Give us the additional information that might help us fix the issue."</string>
   <string name="feedback_description_hint_suggestion">"Dites-nous comment vous souhaitez améliorer MIUI."</string>
   <string name="feedback_description_label">Description</string>
   <string name="feedback_description_suggest_hint">"J'aimerais ajouter une nouvelle fonctionnalité () parce que je voudrais ()."</string>
@@ -423,6 +426,7 @@ Envoyer ce code au superviseur."</string>
   <string name="modem_tool_log_finish_title">Journal de modem capturé</string>
   <string name="module_communication">Communication</string>
   <string name="module_data">Stockage et applications clônées</string>
+  <string name="module_default_json">[{\"packageName\":\"com.miui.device.reboot\",\"problemType\":12,\"isForceShow\":1,\"parentType\":0,\"title\":\"Crashes &amp; reboots\",\"categoryId\":1,\"order\":1},{\"packageName\":\"com.miui.Theraml\",\"problemType\":274,\"isForceShow\":1,\"parentType\":0,\"title\":\"Heating\",\"categoryId\":1,\"order\":2},{\"packageName\":\"com.miui.device.signal\",\"problemType\":14,\"isForceShow\":1,\"parentType\":0,\"title\":\"Mobile networks\",\"categoryId\":2,\"order\":1},{\"packageName\":\"com.miui.device.wifi\",\"problemType\":15,\"isForceShow\":1,\"parentType\":0,\"title\":\"Wi-Fi\",\"categoryId\":2,\"order\":2},{\"packageName\":\"com.miui.device.other\",\"problemType\":17,\"isForceShow\":1,\"parentType\":0,\"title\":\"Other errors\",\"categoryId\":10,\"order\":2}]</string>
   <string name="module_desktop">"Écran d'accueil et paramètres"</string>
   <string name="module_finance">Finance et Mi Wallet</string>
   <string name="module_google_apps">Applications Google</string>
@@ -615,7 +619,7 @@ Envoyer ce code au superviseur."</string>
   <string name="title_same_question_feedback_main">Des problèmes similaires sur le forum MIUI</string>
   <string name="title_system_app">Applications MIUI</string>
   <string name="title_user_guide">"Guide de l'utilisateur"</string>
-  <string name="toast_app_tag_required">Sélectionner un problème</string>
+  <string name="toast_app_tag_required">"Sélectionnez d'abord le problème"</string>
   <string name="toast_catch_full_log_catching">Vous pouvez seulement générer un journal à la fois.</string>
   <string name="toast_catch_full_log_open_failed">Impossible de démarrer lenregistrement du journal.</string>
   <string name="toast_description_required">Le descriptif du retour ne peut pas être vide</string>

@@ -726,7 +726,6 @@ Il sera ajouté aux exceptions, mais les éléments bloqués précédemment n'ap
   <string name="byteShort">" o"</string>
   <string name="main_traffic_detail">Utilisation des données</string>
   <string name="main_toolbar_firewall">"Restreindre l'utilisation des données"</string>
-  <string name="main_toolbar_misim">Mi SIM</string>
   <string name="main_toolbar_statistic">"Statistiques d'utilisation des données"</string>
   <string name="main_toolbar_purchase">Recharger</string>
   <string name="main_button_usage_adjust">"Synchroniser l'utilisation des données mobiles"</string>
@@ -1988,6 +1987,15 @@ carte médicale"</string>
   <string name="main_activity_content_summary_root">Accès root</string>
   <string name="main_activity_content_summary_update">Mise à jour système</string>
   <string name="result_wifi_header">Risques de Wi-Fi détectés</string>
+  <string name="risk_app_install_agree_button">Trust this app</string>
+  <string name="risk_app_install_agree_checkbox">"I'm willing to take all possible risks."</string>
+  <string name="risk_app_install_agree_message">"This app is developed by a third-party and might violate local laws and regulations. Xiaomi doesn't guarantee the availability, continuity, and accessibility of the content and services provided by this app. Any loss or damage brought about by the use of this app will be borne by you."</string>
+  <string name="risk_app_install_agree_title">Disclaimer</string>
+  <string name="risk_app_install_auth_result">"You've authorized installing %1$s. You can continue once the installation package is detected."</string>
+  <string name="risk_app_install_empty_text">No items here yet</string>
+  <string name="risk_app_install_history">Authorization history</string>
+  <string name="risk_app_install_item_des">Version: %1$s</string>
+  <string name="risk_app_install_manager">Apps with possible risks</string>
   <string name="result_sms_header">Risques de messages détectés</string>
   <string name="result_autoscan_header">Suivi de paiement</string>
   <string name="result_autoscan_info">"Surveiller automatiquement l'environnement du système lorsque les applications de paiement se mettent en marche"</string>
@@ -2102,6 +2110,7 @@ carte médicale"</string>
   <string name="activity_title_antispam">Liste noire</string>
   <string name="activity_title_license_manager">Permissions</string>
   <string name="activity_title_power_manager">Optimisation de la batterie</string>
+  <string name="activity_title_risk_app_install_manager">Apps with possible risks</string>
   <string name="activity_title_garbage_cleanup">Nettoyeur</string>
   <string name="menu_summary_app_manager">Mettre à jour et désinstaller des applications</string>
   <string name="memory_check_content">%s libéré</string>
