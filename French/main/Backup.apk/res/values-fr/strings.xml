@@ -141,7 +141,7 @@ Taille de la mise à jour: %2$s"</string>
   <string name="batch_delete_backup_confirm">Supprimer les sauvegardes sélectionnées ?</string>
   <string name="start_restore">Restauration</string>
   <string name="backup_file_error">Impossible de sauvegarder</string>
-  <string name="unit_byte">o</string>
+  <string name="unit_byte">" o"</string>
   <string name="restore_finished">Restauré avec succès</string>
   <string name="restore_report">Détails de la restauration</string>
   <string name="restore_progress">Restauration…</string>
@@ -540,10 +540,10 @@ pour télécharger et installer Mi Transfert."</string>
   <string name="trans_install_guide_step2_title">Étape 2</string>
   <string name="trans_install_guide_step2_content">"Une fois l'installation terminée, appuyez sur \"Démarrer\" ci-dessous."</string>
   <string name="trans_install_guide_button_start">Démarrer</string>
-  <string name="size_byte">o</string>
-  <string name="size_kilo_byte">ko</string>
-  <string name="size_mega_byte">Mo</string>
-  <string name="size_giga_byte">Go</string>
+  <string name="size_byte">" o"</string>
+  <string name="size_kilo_byte">" Ko"</string>
+  <string name="size_mega_byte">" Mo"</string>
+  <string name="size_giga_byte">" Go"</string>
   <string name="trans_connect_failed_title">Impossible de se connecter</string>
   <string name="trans_connect_failed_message">"Connexion échouée, veuillez réessayer ou redémarrer. Et sur l'autre appareil aller dans Paramètres > Paramètres supplémentaires > Transférer, Appuyez sur [Je suis l'expéditeur], ou relancer Mi Transfert après avoir redémarré."</string>
   <string name="trans_retry">Réessayer</string>

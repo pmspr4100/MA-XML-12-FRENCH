@@ -92,10 +92,10 @@
   <string name="name_optimizer">Politique de confidentialité</string>
   <string name="title_optimizer">"Conditions d'utilisation"</string>
   <string name="header_optimizer">En utilisant cette fonctionnalité, vous acceptez de %s.</string>
-  <string name="byteShort">o</string>
-  <string name="kilobyteShort">ko</string>
-  <string name="megabyteShort">Mo</string>
-  <string name="gigabyteShort">Go</string>
+  <string name="byteShort">" o"</string>
+  <string name="kilobyteShort">" Ko"</string>
+  <string name="megabyteShort">" Mo"</string>
+  <string name="gigabyteShort">" Go"</string>
   <string name="global_wa_audio">Audio</string>
   <string name="global_wa_backend_alert_dialog_content">"Libérez de l'espace en effaçant les éléments WhatsApp"</string>
   <string name="global_wa_backend_alert_dialog_title">Nettoyeur WhatsApp</string>
@@ -152,8 +152,8 @@
   <string name="global_wa_shortcut_dialog_title">"Raccourci de l'écran d'accueil"</string>
   <string name="global_wa_shortcut_toast">"Création d'un raccourci vers l'écran d'accueil réussie"</string>
   <string name="global_wa_wrapper">"Fonds d'écran"</string>
-  <string name="terabyteShort">To</string>
-  <string name="petabyteShort">Po</string>
+  <string name="terabyteShort">" To"</string>
+  <string name="petabyteShort">" Po"</string>
   <string name="update_date_format">dd/MM/yyyy</string>
   <string name="activity_title_garbage_cleanup">Nettoyeur</string>
   <string name="activity_title_scanfinish">Analyse terminée</string>
@@ -412,7 +412,7 @@
   <string name="hints_list_item_unlock">Nettoyer</string>
   <string name="memeory_check_content">%1$d applications, mémoire %2$s</string>
   <string name="deepclean_cache_content">Effacer les données générées par les applications</string>
-  <string name="deepclean_large_content">Supprimer les fichiers de plus de 10Mo</string>
+  <string name="deepclean_large_content">Supprimer les fichiers de plus de 10 Mo</string>
   <string name="deepclean_app_content">Désinstaller les applications inutilisées depuis 30 jours</string>
   <string name="deepclean_similar_ignore">Ignorer</string>
   <string name="hints_scanfinish">Aucun élément dans la corbeille</string>
