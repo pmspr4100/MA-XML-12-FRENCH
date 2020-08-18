@@ -2678,8 +2678,6 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
 Vous ne pouvez pas zoomer sur le clavier et la barre de navigation."</string>
   <string name="add_broadsize_fingerprint_instruction_msg">"Le capteur d'empreintes digitales est situé sur le bord droit de votre appareil"</string>
   <string name="always_style">Toujours</string>
-  <string name="apn_chinaunicom_3gnet_general">沃3G连接互联网</string>
-  <string name="apn_chinaunicom_3gwap_general">沃3G手机上网</string>
   <string name="assist_gesture_title">Assist gesture</string>
   <string name="battery_saver_turn_on_automatically_pct">à %1$s batterie</string>
   <string name="bluetooth_enter_passkey_msg">Saisissez le code de couplage, puis appuyez sur Retour ou Entrée</string>
@@ -2696,8 +2694,8 @@ Vous ne pouvez pas zoomer sur le clavier et la barre de navigation."</string>
   <string name="mqs_privacy_automatically_upload">Envoyer automatiquement la prochaine fois</string>
   <string name="mqs_privacy_dialog_cancel">Annuler</string>
   <string name="mqs_privacy_dialog_confirm">Envoyer</string>
-  <string name="mqs_privacy_dialog_content">Envoyer les journaux pour nous aider à repérer et résoudre ce problème ? Les journaux peuvent contenir vos données personnelles, y compris votre emplacement géographique.</string>
-  <string name="mqs_privacy_dialog_title">Une erreur est survenue</string>
+  <string name="mqs_privacy_dialog_content">Il semble que des erreurs se soient produites récemment sur votre appareil. Vous pouvez télécharger des journaux pour nous aider à localiser et à résoudre ce problème. Les journaux peuvent contenir vos informations personnelles, y compris les informations sur votre emplacement. Télécharger maintenant ?</string>
+  <string name="mqs_privacy_dialog_title">Téléchargement des journaux</string>
   <string name="network_state_label">État du réseau: </string>
   <string name="networkid_label">ID réseau: </string>
   <string name="notification_animation_style">Effets spéciaux</string>

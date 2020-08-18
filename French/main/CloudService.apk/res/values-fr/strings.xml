@@ -37,8 +37,6 @@
   <string name="not_set">Non défini</string>
   <string name="preference_copied">\"%1$s\" copié dans le presse-papier.</string>
   <string name="search_menu_title">Recherche</string>
-  <string name="send_last_location_summary">Sync location info while device is being powered off</string>
-  <string name="send_last_location_title">Locate before powering off</string>
   <string name="special_func_title">Caractéristiques spéciales</string>
   <string name="storage_upgrade_card_summary">"Obtenez plus d'espace de stockage dans le cloud"</string>
   <string name="storage_upgrade_card_title">Améliorez votre plan</string>
@@ -96,6 +94,9 @@
   <string name="picker_list_empty">Aucun contact ici</string>
   <string name="picker_search_empty">Impossible de trouver des contacts</string>
   <string name="picker_search_hint">Recherche</string>
+  <string name="power_off_locate_summary">"Report location info by long pressing the Power button.
+Location info might not be reported when network connection is poor."</string>
+  <string name="power_off_locate_title">Report location before powering off</string>
   <string name="pre_privacy_policy">Politique de confidentialité</string>
   <string name="pre_user_agreement">"Accord de l'utilisateur"</string>
   <string name="sync_dspt_provision">"Synchroniser vos photos, contacts, notes, et plus sur tous vos appareils ou y accéder sur "</string>
@@ -133,6 +134,8 @@ En utilisant ce service, vous acceptez %s."</string>
   <string name="user_agreement_title">Modalités du service Xiaomi Cloud</string>
   <string name="privacy_policy">Politique de confidentialité</string>
   <string name="loading">Chargement…</string>
+  <string name="low_battery_locate_summary">Automatically report location info when the battery is low</string>
+  <string name="low_battery_locate_title">Report location when battery is low</string>
   <string name="license_host_unreachable">Impossible de se connecter au réseau. Pour voir ces informations, allez sur %s.</string>
   <string name="activating">Activation…</string>
   <string name="find_device">"Localiser l'appareil"</string>
