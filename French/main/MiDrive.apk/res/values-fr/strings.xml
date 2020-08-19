@@ -281,6 +281,16 @@ Make sure you're using the current Mi Account as your MIUI system account."</str
   <string name="transfer_done">Done</string>
   <string name="transport_end_button">Edit</string>
   <string name="transport_title">Transfers</string>
+  <string name="update_dialog_button_cancel">Not now</string>
+  <string name="update_dialog_button_ok">Update</string>
+  <string name="update_dialog_content">"New version: %1$s
+%2$s"</string>
+  <string name="update_dialog_title">An update is available</string>
+  <string name="update_failed">A server error occurred. Wait a minute or two and try again.</string>
+  <string name="update_failed_no_app_info">"Couldn't get installation package"</string>
+  <string name="update_no_network">"Couldn't connect to the network. Check your network settings and try again."</string>
+  <string name="update_no_update">Current version is up to date</string>
+  <string name="update_progress_dialog_content">Downloading…</string>
   <string name="upload_done">Uploaded successfully</string>
   <string name="upload_done_info_for_sys_title">Uploaded successfully. Tap to view.</string>
   <string name="upload_fail">"Couldn't upload"</string>
