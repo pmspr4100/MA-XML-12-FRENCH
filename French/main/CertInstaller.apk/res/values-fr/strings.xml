@@ -5,8 +5,8 @@
   <string name="pick_file_title">Sélectionnez un certificat</string>
   <string name="pkcs12_password_dialog_title">Extraire le certificat</string>
   <string name="redirect_ca_certificate_close_button">Fermer</string>
-  <string name="redirect_ca_certificate_message">Des certificats CA peuvent exposer votre vie privée à des risques et doivent être installés dans Paramètres</string>
-  <string name="redirect_ca_certificate_title">Installation des certificats impossible</string>
+  <string name="redirect_ca_certificate_title">Installer les certificats CA dans les paramètres</string>
+  <string name="redirect_ca_certificate_with_app_info_message">"Ce certificat de %1$s doit être installé dans les paramètres. N'installez que les certificats CA provenant d'organisations de confiance."</string>
   <string name="select_certificate_usage_title">Choisissez un type de certificat</string>
   <string name="extracting_pkcs12">Extraction en cours…</string>
   <string name="pkcs12_file_password_dialog_title">Extraire de %s</string>
