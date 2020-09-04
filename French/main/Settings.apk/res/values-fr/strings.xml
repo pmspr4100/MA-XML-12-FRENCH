@@ -2045,8 +2045,8 @@ Vous pouvez désactiver cette fonctionnalité dans les paramètres > Bluetooth >
   <string name="bt_lhdc_property">Attributs</string>
   <string name="bt_pre_summary">Fournit une expérience audio de haute qualité</string>
   <string name="bt_rarely_used_device_title">Appareils rarement utilisés (%d)</string>
-  <string name="bt_show_notification_summary">Show a permanent notification in the Notification shade</string>
-  <string name="bt_show_notification_title">Notify about Bluetooth connections</string>
+  <string name="bt_show_notification_summary">Affiche une notification permanente dans la barre des notifications</string>
+  <string name="bt_show_notification_title">Notifier les connexions Bluetooth</string>
   <string name="bt_trace_log">Activer le suivi du journal Bluetooth</string>
   <string name="bt_trace_log_summary">Journal Bluetooth</string>
   <string name="btn_back">Retour</string>
@@ -3544,7 +3544,7 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
   <string name="gesture_prevent_ringing_title">Appuyer simultanément sur les boutons \"Marche/Arrêt\" et \"Volume +\"</string>
   <string name="gesture_setting_off">Désactivé</string>
   <string name="gesture_setting_on">Activé</string>
-  <string name="gesture_settings_title">Gesture shortcuts</string>
+  <string name="gesture_settings_title">Gestes-raccourcis</string>
   <string name="gesture_w">Modèle W</string>
   <string name="gesture_wakeup_summary">"Vous pouvez appuyer deux fois pour éteindre l'écran lorsque le thème par défaut ou classique est appliqué"</string>
   <string name="gesture_wakeup_title">"Appuyez deux fois pour réveiller ou éteindre l'écran"</string>
@@ -4263,8 +4263,8 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
   <string name="long_press_menu_key">Appui prolongé sur bouton Menu</string>
   <string name="long_press_menu_key_when_lock">"Appui prolongé sur Menu à l'écran de verrouillage"</string>
   <string name="long_press_power_key">"Appuyez longuement sur le bouton d'alimentation"</string>
-  <string name="long_press_power_key_half_of_second">"Appuyez et maintenez le bouton d'alimentation pendant 0.5s pour activer Google Assistant"</string>
-  <string name="long_press_power_key_half_second">Press and hold the Power button for 0.5 seconds</string>
+  <string name="long_press_power_key_half_of_second">"Appuyez et maintenez le bouton d'alimentation pendant 0,5 s pour activer Google Assistant"</string>
+  <string name="long_press_power_key_half_second">"Appuyez et maintenez le bouton d'alimentation pendant 0,5 s"</string>
   <string name="long_press_power_key_tips">"&lt;Data&gt;Appuyez longuement sur le bouton d'alimentation &amp;lt;font color=#999999&amp;gt;Plus rapide et plus pratique&amp;lt;/font&amp;gt;&lt;/Data&gt;"</string>
   <string name="long_press_volume_down">Appui prolongé sur le bouton inférieur du volume</string>
   <string name="lost_internet_access_cancel">Rester en Wi-Fi</string>
