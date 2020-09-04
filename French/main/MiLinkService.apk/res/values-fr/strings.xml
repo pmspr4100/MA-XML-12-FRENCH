@@ -29,36 +29,36 @@
   <string name="abc_toolbar_collapse_description">Réduire</string>
   <string name="account_other">Autre</string>
   <string name="actionbar_button_up_description">Retour</string>
-  <string name="afternoon">Afternoon</string>
+  <string name="afternoon">Après-midi</string>
   <string name="casting_tips">Diffusion…</string>
-  <string name="clearable_edittext_clear_description">Clear</string>
-  <string name="close_hotspot_hint">Turn off portable hotspot before casting</string>
-  <string name="close_slave_wifi_hint">Disconnect from auxiliary Wi-Fi networks before casting</string>
-  <string name="close_slave_wifi_hint_china">Disconnect from auxiliary WLAN networks before casting</string>
+  <string name="clearable_edittext_clear_description">Effacer</string>
+  <string name="close_hotspot_hint">"Désactive le point d'accès portable avant la diffusion"</string>
+  <string name="close_slave_wifi_hint">Déconnecte les réseaux Wi-Fi additionnels avant la diffusion</string>
+  <string name="close_slave_wifi_hint_china">Déconnecte les réseaux WLAN additionnels avant la diffusion</string>
   <string name="console_guide_btn_got_it">Compris</string>
-  <string name="console_guide_subtitle_hang_up">You can keep casting when the screen of your device is turned off. This feature decreases power consumption.</string>
-  <string name="console_guide_subtitle_private">"Don't display floating notifications, incoming calls, and other private items on external monitors"</string>
-  <string name="console_guide_subtitle_small_window">"Minimize the window that's being cast to be able to use other features of your phone"</string>
-  <string name="copy">Copy</string>
-  <string name="dialog_can_not_find_device">"Couldn't find devices nearby"</string>
+  <string name="console_guide_subtitle_hang_up">"Vous pouvez continuer à diffuser lorsque l'écran de votre appareil est éteint. Cette fonctionnalité diminue la consommation énergétique."</string>
+  <string name="console_guide_subtitle_private">"Ne pas afficher de notifications flottantes, d'appels entrants, ou d'autres éléments privés sur les écrans externes"</string>
+  <string name="console_guide_subtitle_small_window">"Minimiser la fenêtre en cours de diffusion afin de pouvoir accéder aux autres fonctionnalités de votre téléphone"</string>
+  <string name="copy">Copeir</string>
+  <string name="dialog_can_not_find_device">Aucun appareil trouvé à proximité</string>
   <string name="dialog_cancle">Annuler</string>
   <string name="dialog_connect_fail">"Impossible de se connecter"</string>
   <string name="dialog_connect_retry">Appuyez pour réessayer</string>
-  <string name="dialog_connect_verify_perssion">Authorize casting on your TV first</string>
-  <string name="dialog_connect_verify_perssion_fail">"Couldn't authorize casting on your TV. Wait a minute or two and try again."</string>
+  <string name="dialog_connect_verify_perssion">"Autorisez d'abord la diffusion sur votre TV"</string>
+  <string name="dialog_connect_verify_perssion_fail">"Impossible d'autoriser la diffusion sur votre TV. Attendez une minute ou deux avant de réessayer."</string>
   <string name="dialog_connected">Connecté</string>
   <string name="dialog_connecting">Connexion…</string>
-  <string name="dialog_miplay_permission_message">Allow Casting to record audio, access files in the internal storage, and access your location to be able to use this feature normally. Tap \"Settings\" and select \"App permissions\" to continue.</string>
+  <string name="dialog_miplay_permission_message">Autoriser Diffusion à enregistrer l'audio, accéder aux fichiers de l'espace de stockage interne, et accéder à votre localisation pour pouvoir utiliser cette fonctionnalité normalement. Appuyez sur \"Paramètres\" et sélectionnez \"Gestion des applications\" puis \"Gérer les permissions\" pour continuer.</string>
   <string name="dialog_miplay_permission_positive">Paramètres</string>
   <string name="dialog_miplay_permission_title">Permissions requises</string>
-  <string name="dialog_nfc_cast_wifi_off">Turn on Wi-Fi to be able to cast using NFC. Turn on now?</string>
-  <string name="dialog_no_device_message">&lt;Data&gt;1. Connect both your phone and TV to the same Wi-Fi network.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;2. On some TV models, this feature is only available when screen mirroring is on. View &amp;lt;a href=milink://com.milink.service/specification&amp;gt;\"Help\"&amp;lt;/a&amp;gt; to learn more.&lt;/Data&gt;</string>
-  <string name="dialog_no_device_message_china">&lt;Data&gt;1. Connect both your phone and TV to the same WLAN network.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;2. On some TV models, this feature is only available when screen mirroring is on. View &amp;lt;a href=milink://com.milink.service/specification&amp;gt;\"Help\"&amp;lt;/a&amp;gt; to learn more.&lt;/Data&gt;</string>
+  <string name="dialog_nfc_cast_wifi_off">Activer le Wi-Fi pour pouvoir diffuser en utilisant le NFC. Activer maintenant?</string>
+  <string name="dialog_no_device_message">&lt;Data&gt;1. Connectez à la fois votre téléphone et votre TV sur le même réseau Wi-Fi.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;2. Sur certains modèles de TV, cette fonctionnalité n'est disponible que lorsque la reproduction de l'écran (mirroring) est activée. Voir &amp;lt;a href=milink://com.milink.service/specification&amp;gt;\"Help\"&amp;lt;/a&amp;gt; pour en savoir plus.&lt;/Data&gt;</string>
+  <string name="dialog_no_device_message_china">&lt;Data&gt;1. Connectez à la fois votre téléphone et votre TV sur le même réseau WLAN.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;2. Sur certains modèles de TV, cette fonctionnalité n'est disponible que lorsque la reproduction de l'écran (mirroring) est activée. Voir &amp;lt;a href=milink://com.milink.service/specification&amp;gt;\"Help\"&amp;lt;/a&amp;gt; pour en savoir plus.&lt;/Data&gt;</string>
   <string name="dialog_ok">OK</string>
   <string name="dialog_only_suport_content">Diffusez des photos, vidéos ou de la musique</string>
   <string name="dialog_open_wifi_bt">Activer</string>
-  <string name="dialog_please_make_sure_tv_ok_or_help">"Make sure that the wireless casting feature is turned on on the target device.
-View help if you have problems connecting."</string>
+  <string name="dialog_please_make_sure_tv_ok_or_help">"Assurez-vous que la diffusion sans fil est activée sur l'appareil cible.
+Voir l'aide si vous avez des problèmes de connexion."</string>
   <string name="dialog_recent_connected">Récent</string>
   <string name="dialog_retry">Réessayer</string>
   <string name="dialog_scan_message">"1. Connect both your phone and TV to the same Wi-Fi network.
@@ -68,14 +68,14 @@ View help if you have problems connecting."</string>
 
 2. On some TV models, this feature is only available when screen mirroring is on. View \"Help\" to learn more."</string>
   <string name="dialog_scanning_device">"Recherche d'appareils à proximité…"</string>
-  <string name="dialog_scanning_precondition">Turn on Wi-Fi and Bluetooth on your phone to use Wireless Display.</string>
-  <string name="dialog_select_tv">Select device (%d)</string>
+  <string name="dialog_scanning_precondition">Activer le Wi-Fi et le Bluetooth sur votre téléphone pour utiliser l'Affichage sans fil.</string>
+  <string name="dialog_select_tv">"Sélectionner l'appareil (%d)"</string>
   <string name="dialog_show_help">Aide</string>
-  <string name="disconnect">Stop casting</string>
-  <string name="early_morning">Morning</string>
-  <string name="enable_screen_projection_summary">Cast screen contents to an external monitor</string>
-  <string name="evening">Afternoon</string>
-  <string name="expand_button_title">Advanced</string>
+  <string name="disconnect">Arrêter la diffusion</string>
+  <string name="early_morning">Matin</string>
+  <string name="enable_screen_projection_summary">"Diffuser le contenu de l'écran sur un écran externe"</string>
+  <string name="evening">Après-midi</string>
+  <string name="expand_button_title">Avancé</string>
   <string name="fmt_date_long_month_day">dd MMMM</string>
   <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
   <string name="fmt_date_numeric_month_day">dd/MM</string>
