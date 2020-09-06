@@ -406,14 +406,12 @@ Envoyer ce code au superviseur."</string>
   <string name="loading_apps">Chargement de la liste…</string>
   <string name="logo_title">Commentaires</string>
   <string name="logout_account">Se déconnecter</string>
-  <string name="max_error">Votre %1$s doit être plus court.</string>
   <string name="menu_copy">Copier</string>
   <string name="message_label">Message</string>
   <string name="mi_service_dialog_cancel">Quitter</string>
   <string name="mi_service_dialog_confirm">Ouvrir</string>
   <string name="mi_service_dialog_content">"Toutes les fonctionnalités de retour utilisateur ont été déplacées dans la nouvelle application \"Services &amp; commentaires\". L'application Commentaire sera supprimée de votre écran d'accueil. Appuyez sur \"Ouvrir\" pour essayer \"Services &amp; commentaires\"."</string>
   <string name="mi_service_dialog_title">Présentation de \"Services et commentaires\"</string>
-  <string name="min_error">Votre %1$s doit être plus long.</string>
   <string name="mobile_data_note_dialog_cancel">En attente du Wi-Fi</string>
   <string name="mobile_data_note_dialog_cancel_china">En attente du WLAN</string>
   <string name="mobile_data_note_dialog_confirm">Ajouter</string>
@@ -559,7 +557,6 @@ Envoyer ce code au superviseur."</string>
   <string name="psw_sign_in">Sign in using password</string>
   <string name="refresh">Actualiser</string>
   <string name="related_question_answer_details">Problème associé</string>
-  <string name="reply">Répondre</string>
   <string name="reply_failed">Impossible de répondre</string>
   <string name="reply_option_log_hint">Facultatif</string>
   <string name="reply_select_log_hint">Sélectionnez le journal</string>
@@ -592,12 +589,20 @@ Envoyer ce code au superviseur."</string>
   <string name="sns_access_token_expired_warning">Session expired. Sign in again to reconnect this account.</string>
   <string name="sns_bind_limit">Too many attempts. Try other ways to sign in.</string>
   <string name="sns_sign_in">Other ways to sign in</string>
+  <string name="stop_full_log_dialog_cancel">Not now</string>
+  <string name="stop_full_log_dialog_confirm">Upload</string>
+  <string name="stop_full_log_dialog_content">Looks like logs are being generated now. Stop generating them and upload the ones that are ready?</string>
+  <string name="stop_full_log_dialog_title">Generating logs…</string>
   <string name="submit_dialog_cancel">Refuser</string>
   <string name="submit_dialog_confirm">Accepter</string>
   <string name="submit_dialog_content">"&lt;Data&gt;"Vous devez accepter nos &amp;lt;a href=\"%1$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt; et &amp;lt;a href=\"%2$s\"&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; pour pouvoir utiliser Feedback. Les problèmes que vous signalez ainsi que les éléments que vous joignez (peuvent contenir des informations personnelles, ainsi que des informations sur votre appareil et votre réseau) seront téléchargés sur les serveurs de MIUI. Cela nous aidera à localiser et à résoudre les problèmes que vous signalez."&lt;/Data&gt;"</string>
   <string name="submit_dialog_content_global">"&lt;Data&gt;"Vos commentaires, ainsi que les pièces jointes (le cas échéant) et les journaux (vous pouvez décocher les cases correspondantes pour les éléments que vous ne souhaitez pas télécharger) seront envoyés aux serveurs de MIUI. Les journaux peuvent contenir des informations personnelles et vos données de localisation. Si vous sélectionnez \"Accepter\", vous avez lu et accepté nos &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt; et &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt;."&lt;/Data&gt;"</string>
   <string name="submit_dialog_title">Envoyer le rapport</string>
   <string name="submit_feedback_info_failed">"Impossible d'envoyer le rapport"</string>
+  <string name="suggest_upload_log_dialog_cancel">No thanks</string>
+  <string name="suggest_upload_log_dialog_confirm">Upload</string>
+  <string name="suggest_upload_log_dialog_content">"To help our engineers locate and solve the problem you encountered as soon as possible, we recommend that you upload the related logs. Logs are only used to analyze problems and won't be used for other purposes."</string>
+  <string name="suggest_upload_log_dialog_title">Upload related logs</string>
   <string name="suggestion_description">Ajoutez la description ici</string>
   <string name="system_app_select">Applications système</string>
   <string name="systemui">Notifications</string>
@@ -622,7 +627,7 @@ Envoyer ce code au superviseur."</string>
   <string name="toast_app_tag_required">"Sélectionnez d'abord le problème"</string>
   <string name="toast_catch_full_log_catching">Vous pouvez seulement générer un journal à la fois.</string>
   <string name="toast_catch_full_log_open_failed">Impossible de démarrer lenregistrement du journal.</string>
-  <string name="toast_description_required">Le descriptif du retour ne peut pas être vide</string>
+  <string name="toast_description_required">"Décrivez d'abord le problème"</string>
   <string name="toast_feedback_collect_store">Collecte des journaux…</string>
   <string name="toast_feedback_network_unavailable">Impossible de se connecter au réseau</string>
   <string name="toast_feedback_submitted">Votre rapport a bien été envoyé</string>
@@ -631,6 +636,7 @@ Envoyer ce code au superviseur."</string>
   <string name="toast_fill_brackets">Votre rapport a quelques infos manquantes</string>
   <string name="toast_log_not_exists">"Le journal requis a été supprimé ou n'existe pas"</string>
   <string name="toast_log_too_large">"Impossible d'envoyer. Le journal est trop gros."</string>
+  <string name="toast_min_description_count">Your description should be longer</string>
   <string name="toast_module_required">Sélectionner un élément</string>
   <string name="toast_network_unavailable">"Échec d'envoi. Impossible de se connecter au réseau."</string>
   <string name="toast_pending_log_collection">"En cours d'obtention des journaux …"</string>
@@ -661,8 +667,6 @@ Size: %2$s"</string>
   <string name="v7_preference_off">OFF</string>
   <string name="v7_preference_on">ON</string>
   <string name="v_code_title">Enter verification code</string>
-  <string name="warning_field_empty">Entrer %1$s</string>
-  <string name="warning_field_invalid">Sélectionner un %1$s valide</string>
   <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
   <string name="xiaomi_update_sdk_connect_download_manager_fail">Connect Download Manager failed, please check the Download Manager state in the Application Management.</string>
   <string name="xiaomi_update_sdk_dialog_message">"Introducing version %1$s

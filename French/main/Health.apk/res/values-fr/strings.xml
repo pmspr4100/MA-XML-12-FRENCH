@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="afternoon">Après-midi</string>
-  <string name="early_morning">Matin</string>
   <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
   <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
   <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
@@ -54,13 +52,14 @@
 ajouter des cartes"</string>
   <string name="add_record">Ajouter</string>
   <string name="added_data_source">Sources ajoutées</string>
+  <string name="afternoon">Afternoon</string>
   <string name="all_records">Tous les enregistrements</string>
   <string name="allergic_drugs">Medication allergies</string>
   <string name="allergic_drugs_hint">Enter medication and reaction to it</string>
-  <string name="allow_notice_periods">Allow reminder period</string>
+  <string name="allow_notice_periods">Active time period</string>
+  <string name="altitude">Altitude</string>
   <string name="altitude_range">Altitude</string>
   <string name="app_setting">Applications</string>
-  <string name="altitude">Altitude</string>
   <string name="audio_permission_dialog_desc">Audio record permission has been closed, please open it.</string>
   <string name="audio_permission_dialog_title">Grant audio record permission</string>
   <string name="audio_record_perm_description">Record your snoring and dreams during sleep</string>
@@ -341,8 +340,8 @@ Mi Santé ne vous informera que des articles importants."</string>
   <string name="exercise_correct">Correct</string>
   <string name="exercise_detail_no_consume_hint">"Selected data source (%1$s) doesn't provide Calorie count info.
 You can select a different data source in More &gt; Data sources."</string>
-  <string name="exercise_detail_no_exercise_hint">"Selected data source (%1$s) doesn't provide exercise duration info.
-You can select a different data source in More &gt; Data sources."</string>
+  <string name="exercise_detail_no_exercise_hint">"Your current data source (%1$s) doesn't provide detailed workout stats.
+You can select another source in More &gt; Data sources."</string>
   <string name="exercise_detail_no_steps_hint">"Selected data source (%1$s) doesn't provide step count info.
 You can select a different data source in More &gt; Data sources."</string>
   <string name="exercise_duration">"Durée de l'exercice"</string>
@@ -495,7 +494,18 @@ S'il vous est encore difficile de vous endormir après 30 minutes au lit, rédui
   <string name="home_tip_sync_immediately">"Certains éléments n'ont pas été synchronisés. Appuyez pour synchroniser maintenant."</string>
   <string name="home_tip_syncing">Synchronisation des données de santé…</string>
   <string name="hr_heart_rate_unit">Heart rate (BPM)</string>
+  <string name="hr_in_detect">"Measuring heart rate. Don't move your finger."</string>
   <string name="hr_input_heart_rate">Record heart rate</string>
+  <string name="hr_measure_heart_rate">Measure</string>
+  <string name="hr_open_permission_desc">"Xiaomi Health needs to access your phone's camera to be able to measure heart rate. Allow?"</string>
+  <string name="hr_open_permission_title">Permissions required</string>
+  <string name="hr_phone_detect_records">Phone measurement history</string>
+  <string name="hr_pre_detect">"Fully cover flash and camera
+with one finger"</string>
+  <string name="hr_pre_detect_finger">Checking…</string>
+  <string name="hr_pre_detect_finger_desc">"Checking whether flash and camera are fully covered. Don't move your finger."</string>
+  <string name="hr_see_report">View report</string>
+  <string name="hr_start_detect">Start</string>
   <string name="hr_state">Status</string>
   <string name="hr_state_active">Active</string>
   <string name="hr_state_fast">Fast</string>
@@ -510,6 +520,8 @@ S'il vous est encore difficile de vous endormir après 30 minutes au lit, rédui
   <string name="indoor_rinding">Cycle en intérieur</string>
   <string name="indoor_running">Tapis de course</string>
   <string name="input_body_weight">Entrez les données de poids pour obtenir des conseils de santé</string>
+  <string name="inquire_recover_data">Restore health data now?</string>
+  <string name="inquire_recover_data_subtitle">"Looks like there's health data associated with your Mi Account (%1$s). Turn on sync with the cloud and restore data now?"</string>
   <string name="instructions_provider">Instructions fournies par Miao Health</string>
   <string name="insufficient">Pas assez</string>
   <string name="jump_over">Suivant</string>
@@ -631,7 +643,15 @@ S'il vous est encore difficile de vous endormir après 30 minutes au lit, rédui
   <string name="miuix_appcompat_cloud_state_finished">Synchronisé avec le cloud avec succès</string>
   <string name="miuix_appcompat_cloud_state_syncing">Synchronisation avec le cloud…</string>
   <string name="miuix_appcompat_search_input_description">Search</string>
-  <string name="model_card_setting">Paramètres de la carte</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pull down to refresh</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Release to refresh</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"That's all for now"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
+  <string name="model_card_setting">Card settings</string>
   <string name="moderately_abnormal">Stage 2 hypertension</string>
   <string name="moderately_abnormal_tip">Every day after getting up and before going to bed</string>
   <string name="modify">Éditer</string>
@@ -866,6 +886,8 @@ S'il vous est encore difficile de vous endormir après 30 minutes au lit, rédui
   <string name="sleep_deep">Sommeil profond</string>
   <string name="sleep_deep_light_analysis">Sommeil léger et sommeil profond</string>
   <string name="sleep_deep_light_close_tip">"L'analyse du sommeil profond est désactivée"</string>
+  <string name="sleep_deep_light_no_data">No data here yet</string>
+  <string name="sleep_deep_light_no_data_improvement">"Couldn't detect sleep phases. We're improving our algorithms. Stay tuned!"</string>
   <string name="sleep_detection_enable">Analyser le cycle de sommeil</string>
   <string name="sleep_detection_feedback">"Retour d'information"</string>
   <string name="sleep_detection_guide_four_description">Sleep tracking will consume around 1% of your battery daily.</string>
@@ -1282,9 +1304,13 @@ sommeil entier"</string>
   <string name="title_no_record_menstruation">"You haven't recorded your periods yet."</string>
   <string name="title_run_in_background">Run in the background</string>
   <string name="title_select_birthday">Anniversaire</string>
+  <string name="title_select_birthday_description">"We'll adjust our services to your age"</string>
   <string name="title_select_gender">Sexe</string>
+  <string name="title_select_gender_description">"We'll adjust our services to your gender"</string>
   <string name="title_select_height">Taille</string>
+  <string name="title_select_height_description">This will make our stats more accurate</string>
   <string name="title_select_weight">Poids</string>
+  <string name="title_select_weight_description">This will make our stats more accurate</string>
   <string name="title_start_use">Démarrer</string>
   <string name="title_start_use_menstruation_assistant">Enregistrez votre cycle menstruel</string>
   <string name="title_today_exercise_detail">"L'activité d'aujourd'hui"</string>
@@ -1351,8 +1377,16 @@ Mettre à jour maintenant ?"</string>
   <string name="weight_setting">Weight settings</string>
   <string name="weight_trend_offset_date">"De %1$s à %2$s: "</string>
   <string name="weight_unit_kg">KG</string>
+  <string name="welcome_back">Welcome back!</string>
+  <string name="welcome_exercise">Track workouts</string>
+  <string name="welcome_exercise_description">Carry your device with you to track workouts automatically</string>
+  <string name="welcome_sedentary">Keep moving</string>
+  <string name="welcome_sedentary_description">"Xiaomi Health can remind you to stand up when you're sitting for a long time"</string>
+  <string name="welcome_sleep">Analyze sleep cycle</string>
+  <string name="welcome_sleep_description">Put your phone next to you to learn about your sleep cycle in the morning</string>
+  <string name="welcome_start_use">Start</string>
   <string name="well">Bon</string>
-  <string name="write_strorage_perm_description">Record the problems you encountered in use</string>
+  <string name="write_strorage_perm_description">For saving the info about the issues you encounter</string>
   <string name="xiaomi_update_sdk_bytes_unit">"%1$s o"</string>
   <string name="xiaomi_update_sdk_connect_download_manager_fail">"Échec de la connexion du gestionnaire de téléchargement, veuillez vérifier l'état du gestionnaire de téléchargement dans la gestion des applications."</string>
   <string name="xiaomi_update_sdk_dialog_message">"Présentation de la version %1$s

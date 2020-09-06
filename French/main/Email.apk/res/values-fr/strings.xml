@@ -3,6 +3,33 @@
   <string name="SMTP_independent_verification_text">Vérification indépendante SMTP</string>
   <string name="SMTP_password_text">Mot de passe</string>
   <string name="SMTP_username_text">"Nom d'utilisateur"</string>
+  <string name="abc_action_bar_home_description">Navigate home</string>
+  <string name="abc_action_bar_up_description">Navigate up</string>
+  <string name="abc_action_menu_overflow_description">More options</string>
+  <string name="abc_action_mode_done">Done</string>
+  <string name="abc_activity_chooser_view_see_all">See all</string>
+  <string name="abc_activitychooserview_choose_application">Choose an app</string>
+  <string name="abc_capital_off">OFF</string>
+  <string name="abc_capital_on">ON</string>
+  <string name="abc_menu_alt_shortcut_label">Alt+</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+  <string name="abc_menu_delete_shortcut_label">delete</string>
+  <string name="abc_menu_enter_shortcut_label">enter</string>
+  <string name="abc_menu_function_shortcut_label">Function+</string>
+  <string name="abc_menu_meta_shortcut_label">Meta+</string>
+  <string name="abc_menu_shift_shortcut_label">Shift+</string>
+  <string name="abc_menu_space_shortcut_label">space</string>
+  <string name="abc_menu_sym_shortcut_label">Sym+</string>
+  <string name="abc_prepend_shortcut_label">Menu+</string>
+  <string name="abc_search_hint">Search…</string>
+  <string name="abc_searchview_description_clear">Clear query</string>
+  <string name="abc_searchview_description_query">Search query</string>
+  <string name="abc_searchview_description_search">Search</string>
+  <string name="abc_searchview_description_submit">Submit query</string>
+  <string name="abc_searchview_description_voice">Voice search</string>
+  <string name="abc_shareactionprovider_share_with">Share with</string>
+  <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+  <string name="abc_toolbar_collapse_description">Collapse</string>
   <string name="account_add_title">Sélectionnez le service de messagerie</string>
   <string name="account_duplicate_dlg_message_fmt">"Vous utilisez déjà ce nom d'utilisateur pour le compte \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Dupliquer le compte</string>
@@ -18,6 +45,7 @@
   <string name="account_security_policy_explanation_fmt">"Vous devez autoriser le serveur %s à contrôler à distance 
          certaines fonctionnalités de sécurité de votre appareil Android."</string>
   <string name="account_security_title">"Sécurité de l'appareil"</string>
+  <string name="account_security_verification">Account verification</string>
   <string name="account_set_up_change_type_note">"Si vous voulez basculer entre les paramètres POP3 et IMAP, vous devez d'abord supprimer le compte, et en créer un autre avec les paramètres que vous désirez."</string>
   <string name="account_setting">Comptes</string>
   <string name="account_setting_keywords">Comptes;comptes de messagerie</string>
@@ -39,8 +67,6 @@
   <string name="account_settings_login_dialog_content_fmt">"Le nom d'utilisateur ou le mot de passe du compte %s est incorrect. 
  Mettre à jour maintenant ?"</string>
   <string name="account_cache_provider">Fournisseur de cache de compte</string>
-  <string name="float_window_info">"Lors de la configuration de la boîte aux lettres 139, n'utilisez pas le téléphone, en cas d'échec de la configuration."</string>
-  <string name="float_window_title">Configuration...........</string>
   <string name="database_exception">"Une erreur s'est produite. Connectez-vous à nouveau."</string>
   <string name="db_error">"Une erreur s'est produite. Connectez-vous à nouveau."</string>
   <string name="folder_drafts_name_en0">Brouillons</string>
@@ -78,14 +104,6 @@
   <string name="font_size">Current text size: %s</string>
   <string name="font_underline">Underline</string>
   <string name="font_underline_remove">Remove underlining</string>
-  <string name="note_text">Grâce à un réseau de China Mobile et de vérification des SMS, il ne générera que du trafic supplémentaire, ne génère pas de frais de SMS.</string>
-  <string name="note_title">139 Configuration automatique des courriels</string>
-  <string name="overlays_fail_tip">Désolé que votre boîte aux lettres ne soit pas configurée avec succès, ouvrez les permissions flottantes de Windows et essayez à nouveau</string>
-  <string name="overlays_ok">Permissions ouvertes</string>
-  <string name="overlays_tip">"Paramètres du téléphone - Application - Détails de l'application - ouvrir les permissions flottantes de Windows dans le gestionnaire de permissions, et profiter immédiatement de la boîte aux lettres 139 pour configurer automatiquement l'expérience extrême."</string>
-  <string name="overlays_tip_23">"Ouvrez les permissions flottantes de Windows, et profitez immédiatement de la boîte aux lettres 139 pour configurer automatiquement l'expérience extrême."</string>
-  <string name="overlays_title">Ouvrez les permissions flottantes de Windows</string>
-  <string name="permission_tip">La configuration échoue, veuillez autoriser les appels et les messages texte pendant les permissions de configuration</string>
   <string name="quote_divider_7">Message Original</string>
   <string name="quote_divider_iphone_en">Envoyé depuis mon iPhone</string>
   <string name="quote_divider_iphone_fwd_en">Commencer le transfert du message:</string>
@@ -283,17 +301,16 @@
   <string name="auto_advance_summary">Choisir quel message afficher après la suppression</string>
   <string name="auto_login_fail">Impossible de se connecter automatiquement</string>
   <string name="auto_login_fail_to_retry">Impossible de se connecter automatiquement, essayez à nouveau.</string>
-  <string name="auto_mail_enable_txt">Paramètres de démarrage</string>
-  <string name="auto_mail_name">AutoMail</string>
-  <string name="auto_mail_title_note">"Recherchez l'option \"Configuration automatique de 139 Mailbox\", cliquez dessus pour commencer."</string>
-  <string name="auto_mail_window_description">Configuration automatique du service 139 Mailbox</string>
-  <string name="auto_mail_window_label">Configuration automatique de 139 Mailbox</string>
   <string name="auto_remind_bind">Ajouter</string>
   <string name="auto_remind_discribe_text">Activer pour recevoir les rappels automatiques</string>
   <string name="auto_remind_text">Rappels automatiques</string>
   <string name="auto_remind_unbind">Arrêter</string>
   <string name="auto_sync_off">Synchronisation auto désactivée.</string>
   <string name="automatic_remind_text">Rappeler automatiquement</string>
+  <string name="bContact_list_search_hint">Search for blocked contacts</string>
+  <string name="b_contacts">Blocklist</string>
+  <string name="b_contacts_remove">Remove from blocklist</string>
+  <string name="b_contacts_remove_tips">Remove this address from blocklist?</string>
   <string name="back">Retour</string>
   <string name="bank_card_detail">Infos de la carte de crédit</string>
   <string name="battery_saver">Économiseur de batterie</string>
@@ -313,7 +330,7 @@
   <string name="bytes">%s o</string>
   <string name="calendar_remind_dialog_title">Rappeler plus tard</string>
   <string name="calendar_remind_gridview_pick_date">Choisir une date</string>
-  <string name="calendar_skip_no_account_alert">This account was not found</string>
+  <string name="calendar_skip_no_account_alert">"Couldn't find this account"</string>
   <string name="cancel">Annuler</string>
   <string name="cancel_action">Annuler</string>
   <string name="cancel_pop3_attchemt_downloading">"Impossible d'annuler les téléchargements en cours pour les pièces jointes dans les comptes POP3"</string>
@@ -335,7 +352,10 @@
   <string name="changepw_dialog_tips_please_clikc_btn">Afficher le code de vérification sur %s et connectez-vous à nouveau.</string>
   <string name="chat_item_msg_people_unit">personnes</string>
   <string name="chat_item_msg_user_etc">etc.</string>
-  <string name="check_setup_data">Validation des paramètres du serveur…</string>
+  <string name="check_setup_data">"    Validation des paramètres du serveur…"</string>
+  <string name="choose_an_office365_international">International Edition</string>
+  <string name="choose_an_office365_provider">Choose an office365 service provider</string>
+  <string name="choose_an_office365_sj">21Vianet Edition</string>
   <string name="choosertitle_sharevia">Partager via</string>
   <string name="clear">Effacer</string>
   <string name="clear_display_images_whitelist_dialog_message">"Ne plus afficher les images en ligne provenant d'expéditeurs que vous avez précédemment autorisé."</string>
@@ -350,10 +370,7 @@
   <string name="compose_paste_address_oob">Trop de caractères</string>
   <string name="compose_picturesexceedlimits">"Vous pouvez ajouter plus d'images en tant que pièces jointes"</string>
   <string name="compose_send">Envoyer</string>
-  <string name="compose_sent">email envoyé</string>
-  <string name="config">139 Mailbox Phone Number Configured</string>
-  <string name="config_cancel">Annuler</string>
-  <string name="config_retry">Recommencez</string>
+  <string name="compose_sent">Email envoyé</string>
   <string name="confirm">OK</string>
   <string name="confirm_add_to_calendar">Adding to Calendar…</string>
   <string name="confirm_age">"Confirmer l'âge"</string>
@@ -423,6 +440,9 @@
   <string name="conversation_quick_button_approve">OK</string>
   <string name="conversation_quick_button_disapprove">Annuler</string>
   <string name="conversation_quick_button_received">Reçu</string>
+  <string name="conversation_report_spam">Report spam</string>
+  <string name="conversation_spam_dig_msg">Mark this message as spam? The message will be moved to the \"Spam\" folder and its sender will be added to blocklist.</string>
+  <string name="conversation_spam_tips">Mark this message as spam?</string>
   <string name="conversation_view">Affichage en conversation</string>
   <string name="conversation_view_keywords">vue de conversation;conversation email</string>
   <string name="copied">Copié</string>
@@ -542,6 +562,13 @@
   <string name="file_save_path_dialog_cancel">Compris</string>
   <string name="file_save_path_dialog_ok">Changer maintenant</string>
   <string name="file_save_term">"Conditions d'enregistrement de ficher"</string>
+  <string name="filter_item_all">All mail</string>
+  <string name="filter_item_cc">"Cc'd to me"</string>
+  <string name="filter_item_me">Sent to me</string>
+  <string name="filter_item_unread">Unread</string>
+  <string name="filter_title_cc">"%s [Cc'd to me]"</string>
+  <string name="filter_title_me">%s [Sent to me]</string>
+  <string name="filter_title_unread">%s [Unread]</string>
   <string name="first_quick_default_reply">Appuyer sur le bouton pour envoyer \"%s\" à toutes les personnes dans la conversation</string>
   <string name="folder_list_display_all">Afficher tous les dossiers</string>
   <string name="folder_list_display_only_import">Afficher seulement les dossiers importants</string>
@@ -617,7 +644,6 @@
   <string name="local_search_result">%s résultats dans les messages synchronisés</string>
   <string name="log_save_path">Emplacement du journal</string>
   <string name="login">Se connecter</string>
-  <string name="login139">Se connecter avec China Mobile</string>
   <string name="login_des_126">Sign in to 126 Mail</string>
   <string name="login_des_139">Sign in to 139 Mail</string>
   <string name="login_des_163">Sign in to 163 Mail</string>
@@ -783,7 +809,6 @@
   <string name="network_error">Pas de connexion</string>
   <string name="network_invaild">Impossible de se connecter au réseau</string>
   <string name="network_not_available">Connexion réseau non disponible</string>
-  <string name="network_tip">"L'authentification a échoué, veuillez vérifier votre connexion réseau"</string>
   <string name="network_try_again">Vérifiez la connexion réseau et réessayez</string>
   <string name="network_unavailable">Réseau non disponible</string>
   <string name="new_incoming_messages_one">Nouveau message de %s. Afficher.</string>
@@ -823,6 +848,17 @@ Essayez une autre boîte de réception."</string>
   <string name="notify_channel_permission_notice">Permissions requises</string>
   <string name="notify_channel_send_fail">"Avertir de l'échec de la livraison"</string>
   <string name="notify_channel_service">Notifier à propos de la synchronisation en arrière-plan</string>
+  <string name="ntes_authorization_code_to_login">Sign in using this verification code</string>
+  <string name="ntes_copy_and_login">Copy and sign in</string>
+  <string name="ntes_do_not_sms_uplink">Send an SMS from the associated phone number and then tap \"Message sent\".</string>
+  <string name="ntes_had_send">Message sent</string>
+  <string name="ntes_had_send_to_content">"If you've already sent an SMS from the associated phone number, tap \"Message sent\" to continue."</string>
+  <string name="ntes_login_error_message" formatted="false">"Can't get account info (Error %s). %s."</string>
+  <string name="ntes_password_error_hint">"If errors occur while you're entering your password, close this page and open it again."</string>
+  <string name="ntes_phone_send">Send a text message from the associated phone number</string>
+  <string name="ntes_send_to">Send to: %s</string>
+  <string name="ntes_send_to_content">If your current phone number is associated with the account, tap \"Send SMS\".</string>
+  <string name="ntes_verification_code">Enter code: %s</string>
   <string name="oauth_error_description">"Échec de l'authentification"</string>
   <string name="oauth_gmail_login_notify">"Entrez le nom d'utilisateur et le mot de passe de votre compte Google sur la page suivante."</string>
   <string name="oauth_login_continue">Continuer</string>
@@ -893,6 +929,21 @@ Essayez une autre boîte de réception."</string>
   <string name="path_about_email_setting">Email/Paramètres</string>
   <string name="path_about_send_feed_back">Email/Paramètres/Envoyer votre commentaire</string>
   <string name="path_about_upload_logs">Email/Paramètres/Envoyer les journaux</string>
+  <string name="pdf_has_signature_prompt_cancel">Open the original file</string>
+  <string name="pdf_has_signature_prompt_confirm">Open copy</string>
+  <string name="pdf_has_signature_prompt_message">A signed copy of this attachment has been detected. Open or not？</string>
+  <string name="pdf_signature_create_title">Create signature</string>
+  <string name="pdf_signature_manager_max_count">Maximum number of signatures,Please delete the existing signature and try again</string>
+  <string name="pdf_signature_manager_title">Signature manager</string>
+  <string name="pdf_viewer_actionbar_more_other">Open by other app</string>
+  <string name="pdf_viewer_actionbar_more_wps">Open by WPS</string>
+  <string name="pdf_viewer_file_damage_toast">Pdf file is corrupted. Please check the file and try again</string>
+  <string name="pdf_viewer_new_email">New email</string>
+  <string name="pdf_viewer_reply">Reply with this file</string>
+  <string name="pdf_viewer_save_signature">Save signature</string>
+  <string name="pdf_viewer_sign_file_damage_toast">The file does not exist</string>
+  <string name="pdf_viewer_signature">PDF signature</string>
+  <string name="perference_change_auth_ok_tips">Authorization code changed</string>
   <string name="perference_change_pw_notnull_tips">Le mot de passe ne peut pas être vide</string>
   <string name="perference_change_pw_ok_tips">Mis à jour</string>
   <string name="perference_setup_pop_del">Supprimer les messages du serveur</string>
@@ -991,9 +1042,12 @@ afin de recevoir des rappels concernant les paiements et les voyages"</string>
   <string name="qq_login_open_imap">Appuyez sur \"Aide\" pour activer IMAP/SMTP</string>
   <string name="qq_login_origin_setting">"Saisissez votre nom d'utilisateur et votre mot de passe pour vous connecter >"</string>
   <string name="qq_login_send_message">Appuyez sur \"Envoyer un SMS\" pour recevoir un code de vérification</string>
+  <string name="qq_login_sent_setting">Sync sent messages</string>
   <string name="qq_login_webview">Connexion au client Web QQ, appuyez sur Se connecter en utilisant le mot de passe.</string>
   <string name="qq_next_generation_auth_toast">Activer la protetion de mot de passe dans votre navigateur</string>
   <string name="qq_pwd_or_qq_auth_code">Entrez le code</string>
+  <string name="qq_sent_no_message">"Can't find your sent emails? Tap here to learn what you can do."</string>
+  <string name="qq_sent_no_message_setting">Sync sent messages from QQ Mail</string>
   <string name="qq_uthentication_failed">Impossible de vérifier le compte, connectez-vous à nouveau</string>
   <string name="qq_verify_code">(Nécessite un code de vérification de QQ)</string>
   <string name="qq_webview_loading">Chargement…</string>
@@ -1089,6 +1143,7 @@ Attendez la synchronisation complète ou visualisez le message sur votre ordinat
   <string name="sdcard_cannot_use">"Impossible d'utiliser la carte SD"</string>
   <string name="search_bar_text">Rechercher des expéditeurs ou des contacts</string>
   <string name="search_hint">Rechercher un email</string>
+  <string name="search_menu_title">Search</string>
   <string name="search_remote_again">Impossible de se connecter au réseau. Appuyez pour réessayer.</string>
   <string name="search_result">"Résultats "</string>
   <string name="search_tabs_name_all">Tout</string>
@@ -1133,6 +1188,23 @@ Attendez la synchronisation complète ou visualisez le message sur votre ordinat
   <string name="ser_resp_err_map_serclosed">Turn on %s in the email web client first</string>
   <string name="ser_resp_err_map_serclosed_info">%s is off</string>
   <string name="ser_resp_err_map_ssl">Toggle on the SSL switch in the manual configurations</string>
+  <string name="server_cet_button">Trust this certificate</string>
+  <string name="server_cet_cert_data">"Validity period: "</string>
+  <string name="server_cet_cert_issuer">"Certificate issuer: "</string>
+  <string name="server_cet_data">"Validity period: "</string>
+  <string name="server_cet_data_exp">"This server's certificate expired."</string>
+  <string name="server_cet_domain">"Domain name: "</string>
+  <string name="server_cet_error_sug">"Try the following:
+1. Connect to a different network or reboot your Wi-Fi router.
+2. Make sure you're using valid certificates."</string>
+  <string name="server_cet_error_title_1">"The server's certificate doesn't support this domain"</string>
+  <string name="server_cet_error_title_2">Certificate expired</string>
+  <string name="server_cet_error_title_3">"The certificate's issuer is not a trusted organization."</string>
+  <string name="server_cet_issue_to">"Issued to "</string>
+  <string name="server_cet_issuer">"Issued by "</string>
+  <string name="server_cet_issuer_no_trust">"The certificate's issuer is not a trusted organization."</string>
+  <string name="server_cet_subject_cn">"Supported domain: "</string>
+  <string name="server_cet_title">Certificate details</string>
   <string name="service_protocol_discribe">&lt;u&gt;"I've read and agree with \"WPS Mail Service Agreement\""&lt;/u&gt;</string>
   <string name="service_protocol_title">Contrat de service</string>
   <string name="set_network">Configurer le réseau</string>
@@ -1147,6 +1219,7 @@ Attendez la synchronisation complète ou visualisez le message sur votre ordinat
   <string name="show_images">Télécharger et afficher les images</string>
   <string name="show_images_all">Load and show all images</string>
   <string name="show_password">Afficher le mot de passe</string>
+  <string name="show_server_cet">View certificate</string>
   <string name="signature">"
 
 
@@ -1154,13 +1227,13 @@ Attendez la synchronisation complète ou visualisez le message sur votre ordinat
 %s"</string>
   <string name="signature_black_shark">Sent from my Blackshark phone</string>
   <string name="silent_ringtone">Silence</string>
-  <string name="sms_tip">Authentication fails, check whether the antivirus software to intercept SMS</string>
   <string name="smtp_password_error">Le mot de passe du serveur sortant est incorrect</string>
   <string name="sort_attachment">Trier par</string>
   <string name="storage">Stockage</string>
   <string name="str_select_all">Tout sélectionner</string>
   <string name="str_select_none">Tout déselectionner</string>
   <string name="subject_hint">Objet</string>
+  <string name="successfully_obtained_authorization_code">Verification code</string>
   <string name="sync_calendra_fail_per_content">Tap to allow</string>
   <string name="sync_calendra_fail_per_title">"Couldn't sync calendar events"</string>
   <string name="sync_calendra_fail_permission">"Couldn't sync calendar events. Allow Mail to access Calendar first."</string>
