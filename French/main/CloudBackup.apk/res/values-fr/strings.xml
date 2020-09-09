@@ -99,13 +99,13 @@ Note: les données des applications que vous avez installées ne seront pas sauv
   <string name="restore_from_cloud">Restaurer à partir de la sauvegarde sur le Cloud</string>
   <string name="restore_from_mimover">"Transfert depuis votre ancien appareil à l'aide de Mi Mover"</string>
   <string name="backup_to_cloud">"Sauvegarder l'application"</string>
-  <string name="backup_warning_reason_cloud_space_not_enough">"Can't back up"</string>
-  <string name="backup_warning_reason_disk_space_not_enough">"Not enough storage
-Can't back up"</string>
-  <string name="backup_warning_reason_network_error">"Network error
-Can't back up"</string>
-  <string name="backup_warning_reason_no_server_response">"Connection was interrupted
-Try again"</string>
+  <string name="backup_warning_reason_cloud_space_not_enough">Sauvegarde impossible</string>
+  <string name="backup_warning_reason_disk_space_not_enough">"Espace de stockage insuffisant
+Sauvegarde impossible"</string>
+  <string name="backup_warning_reason_network_error">"Erreur réseau
+Sauvegarde impossible"</string>
+  <string name="backup_warning_reason_no_server_response">"Connexion interrompue
+Réessayez"</string>
   <string name="restoring_file_title_no_progress">Restauration des fichiers…</string>
   <string name="restoring_home_screen_apps">Restauration à partir de Xiaomi Cloud…</string>
   <string name="menu_item_sort">Trier par</string>
@@ -148,11 +148,11 @@ Try again"</string>
   <string name="backup_action_check_network">Check network settings</string>
   <string name="backup_action_clean_disk_space">Free up space</string>
   <string name="backup_action_retry_now">Try again</string>
-  <string name="backup_failed_reason_cloud_space_not_enough">Not enough cloud storage left to save this backup. Upgrade your plan or free up cloud storage space.</string>
+  <string name="backup_failed_reason_cloud_space_not_enough">"Espace disponible sur le cloud insuffisant pour créer cette sauvegarde. Changez votre abonnement ou libérez de l'espace de stockage cloud."</string>
   <string name="backup_failed_reason_disk_space_not_enough">"Pas assez d'espace de stockage. Libérez d'abord le stockage."</string>
   <string name="backup_failed_reason_network_error">Vérifiez vos paramètres réseau et réessayez</string>
   <string name="backup_success">Sauvegardé avec succès</string>
-  <string name="cloud_task_in_process">Arreter %s et supprimer cette sauvegarde ? Vous ne pourrez pas annuler cette action.</string>
+  <string name="cloud_task_in_process">Arrêter %s et supprimer cette sauvegarde ? Vous ne pourrez pas annuler cette action.</string>
   <string name="cloud_back_up_task">Sauvegarde…</string>
   <string name="cloud_restore_task">Restauration…</string>
   <string name="cloud_restore_from_other_device">Arrêter la restauration depuis %s et supprimer cette sauvegarde ? Vous ne pourrez pas annuler cette action.</string>
@@ -183,9 +183,9 @@ Try again"</string>
   <string name="backup_finished_notification_content">"Les applications sur l'écran d'accueil, les paramètres du système, etc. ont été sauvegardés."</string>
   <string name="restore_finished_notification_content">"Les applications de l'écran d'accueil, les paramètres système, etc ont été restaurés."</string>
   <string name="backup_now">Sauvegarder maintenant</string>
-  <string name="backup_remind_buy_cloud_space">Upgrade your cloud storage plan</string>
-  <string name="backup_remind_clean_disk_space">Free up storage space</string>
-  <string name="backup_remind_cloud_space_cost">Backup size: %s</string>
+  <string name="backup_remind_buy_cloud_space">Adaptez votre abonnement de stockage sur le cloud</string>
+  <string name="backup_remind_clean_disk_space">"Libérez de l'espace de stockage"</string>
+  <string name="backup_remind_cloud_space_cost">Taille de la sauvegarde: %s</string>
   <string name="restore_unfinished">Restauration, réessayez plus tard</string>
   <string name="restoring_data">Restauration des données…</string>
   <string name="remove_unfinished">Retrait, réessayez plus tard</string>
