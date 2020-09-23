@@ -64,6 +64,7 @@
   <string name="action_update_phone">Modifiez numéro de téléphone</string>
   <string name="activate_email_notice">Veillez à activer votre compte dans les 24 heures</string>
   <string name="activity_not_found_notice">Application introuvable</string>
+  <string name="ad">Pub</string>
   <string name="add_to_trust_device">"Il s'agit d'un appareil de confiance"</string>
   <string name="agree">Accepter</string>
   <string name="ai_animation_music_text">Bande son IA</string>
@@ -176,6 +177,9 @@
   <string name="not_support_share">Partage de ce contenu impossible pour le moment</string>
   <string name="notification_bar">Panneau de notification</string>
   <string name="notification_open_tip">Activer pour recevoir des notifications</string>
+  <string name="notification_recall_action">Activer</string>
+  <string name="notification_recall_desc">Mi Vidéo peut vous notifier à propos des vidéos populaires et de vos abonnements.</string>
+  <string name="notification_recall_title">Activer les notifications</string>
   <string name="ovp_player_cached_error_btn">Vidéos en ligne</string>
   <string name="ovp_player_cached_error_hint_info">Lecture des vidéos locales impossible actuellement</string>
   <string name="ovp_setting_user_agreement_title">User Agreement</string>
@@ -187,6 +191,7 @@
   <string name="remaining_space">Disponible: %s</string>
   <string name="remaining_space_not_enough">"Téléchargement impossible à cause d'un manque d'espace de stockage"</string>
   <string name="reminder">Attention</string>
+  <string name="rename">Renommer</string>
   <string name="report_content_dislike">Violence ou comportement inapproprié</string>
   <string name="report_content_harmful">Actes nuisibles ou dangereux</string>
   <string name="report_content_hatred">Contenu haineux ou abusif</string>
@@ -214,8 +219,9 @@
   <string name="auth_fail_warning">Session expirée. Reconnectez-vous.</string>
   <string name="auto_play_next_off">Lecture automatique désactivée</string>
   <string name="auto_play_next_on">Lecture automatique activée</string>
+  <string name="back_to_mainpage">Découvrir</string>
   <string name="before_yestoday">il y a 2 jours</string>
-  <string name="bind_sign_in_title">Ajouter un compte Mi</string>
+  <string name="bind_sign_in_title">Ajouter un Compte Mi</string>
   <string name="cancel">Annuler</string>
   <string name="cancel_choose">Désélectionner</string>
   <string name="cancel_subscribe_tips">Se désabonner maintenant ?</string>
@@ -292,9 +298,6 @@
   <string name="com_facebook_smart_login_confirmation_continue_as">Continuer en tant que %1$s</string>
   <string name="com_facebook_smart_login_confirmation_title">Confirmer la connexion</string>
   <string name="com_facebook_tooltip_default">Vous avez le contrôle - choisissez les informations que vous voulez partager avec les apps.</string>
-  <string name="com_mixpanel_android_close">Close</string>
-  <string name="com_mixpanel_android_done">Done</string>
-  <string name="com_mixpanel_android_notification_image">Image not displayed</string>
   <string name="com_permission_desc">"Vidéo ne peut pas accéder aux vidéos sur votre appareil. Autorisez l'accès dans les paramètres."</string>
   <string name="com_permission_title">Permissions requise</string>
   <string name="comment_model_add_comment">Add a comment</string>
@@ -319,6 +322,8 @@
   <string name="comment_model_send_forbid_tips">Account suspended</string>
   <string name="comment_model_send_success">Sent successfully</string>
   <string name="common_cancel">Annuler</string>
+  <string name="common_copyright_unsupported_audio">"Impossible de jouer la piste audio à cause de restrictions de droits d'auteur"</string>
+  <string name="common_copyright_unsupported_video">"Impossible de jouer cette vidéo à cause de restrictions de droits d'auteur"</string>
   <string name="common_google_play_services_enable_button">Activer</string>
   <string name="common_google_play_services_enable_text">"%1$s ne fonctionnera pas tant que vous n'aurez pas activé les services Google Play."</string>
   <string name="common_google_play_services_enable_title">Activer les services Google Play</string>
@@ -409,12 +414,14 @@ Send this code to the supervisor."</string>
   <string name="failed_to_fetch_data">"Impossible de charger les informations."</string>
   <string name="failure">"Couldn't download"</string>
   <string name="favor_online_video">Vidéos</string>
-  <string name="favor_playlist">Playlistes</string>
+  <string name="favor_playlist">Playlists</string>
   <string name="favorite">Favoris</string>
   <string name="favorite_cancel_fail">"Couldn't remove from favorites"</string>
   <string name="favorite_cancel_success">Removed from favorites successfully</string>
   <string name="favorite_fail">"Couldn't add to favorites. Try again."</string>
   <string name="favorite_success">Added to favorites successfully</string>
+  <string name="fcm_fallback_notification_channel_label">Divers</string>
+  <string name="fcm_push_title">Vidéos populaires</string>
   <string name="feedback">Feedback</string>
   <string name="feedback_activity_title">Feedback</string>
   <string name="feedback_contact_empty">Enter your contact info</string>
@@ -684,7 +691,7 @@ for videos"</string>
   <string name="ovp_category">Catégories</string>
   <string name="ovp_confirm_delete_favor">Supprimer les éléments sélectionnés des favoris ?</string>
   <string name="ovp_default_plugin_name">Plugin HD</string>
-  <string name="ovp_detail_back_to_watch_more">Discover more items on the home page</string>
+  <string name="ovp_detail_back_to_watch_more">Découvrez plus de vidéos géniales</string>
   <string name="ovp_detail_collapse_summary">Masquer</string>
   <string name="ovp_detail_collect">Ajouter aux favoris</string>
   <string name="ovp_detail_comment">Commentaire</string>
@@ -870,6 +877,7 @@ Increase the security of your account."</string>
   <string name="permission_storage">Storage</string>
   <string name="permission_storage_desc">For accessing items, saving files, displaying and playing local videos</string>
   <string name="permission_title">Permissions requise</string>
+  <string name="pgc_push_title">Abonnements</string>
   <string name="phone_bind_too_many">"Ce numéro téléphone a été associé à plusieurs comptes Mi dans un court laps de temps. Essayez d'utiliser un autre numéro de téléphone."</string>
   <string name="phone_hint">Numéro de téléphone</string>
   <string name="phone_num_use_for">Phone number is used for:</string>

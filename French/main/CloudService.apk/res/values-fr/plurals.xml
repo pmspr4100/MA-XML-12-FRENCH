@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="cloud_space_full_gallery_notification_content_title">
+        <item quantity="other">Impossible de synchroniser %s éléments</item>
+        <item quantity="one">Impossible de synchroniser %s élément</item>
+    </plurals>
     <plurals name="dirty_blocklist_count">
         <item quantity="other">%d entrées sur liste noire</item>
         <item quantity="one">%d entrée sur liste noire</item>

@@ -60,6 +60,18 @@
         <item quantity="other">%d vidéos</item>
         <item quantity="one">%d vidéo</item>
     </plurals>
+    <plurals name="s_double_tap_backward">
+        <item quantity="other">Appuyez 2 fois pour revenir en arrière de %d secondes</item>
+        <item quantity="one">Appuyez 2 fois pour revenir en arrière de %d seconde</item>
+    </plurals>
+    <plurals name="s_double_tap_forward">
+        <item quantity="other">Appuyez 2 fois pour avancer de %d secondes</item>
+        <item quantity="one">Appuyez 2 fois pour avancer de %d seconde</item>
+    </plurals>
+    <plurals name="s_forward_tip">
+        <item quantity="other">%1$s s</item>
+        <item quantity="one">%1$s s</item>
+    </plurals>
     <plurals name="subscriber">
         <item quantity="other">" abonnés"</item>
         <item quantity="one">" abonné"</item>
