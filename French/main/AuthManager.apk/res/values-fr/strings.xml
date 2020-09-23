@@ -58,6 +58,8 @@
   <string name="HIPS_Perm_background_start_activity_Desc">"afficher les fenêtres contextuelles lors de l'exécution en arrière-plan"</string>
   <string name="HIPS_Perm_clipboard">Presse-papier</string>
   <string name="HIPS_Perm_clipboard_Desc">"Autoriser l'application à accéder et à ajouter des éléments du presse-papier"</string>
+  <string name="HIPS_Perm_dcimControl">"Consulter l'album"</string>
+  <string name="HIPS_Perm_dcimControl_Desc">"Autoriser les applications à accéder à l'album"</string>
   <string name="HIPS_Perm_deamon_notification">Notification permanente</string>
   <string name="HIPS_Perm_deamon_notification_Desc">afficher les notifications permanentes</string>
   <string name="HIPS_Perm_get_accounts">"Accéder à des comptes sur l'appareil"</string>
@@ -154,7 +156,9 @@
   <string name="permisson_reject_notice_toast_text2">"n'a pas accès à %1$s."</string>
   <string name="screen_overlay_button">Ouvrir les paramètres</string>
   <string name="screen_overlay_message">"Pour modifier cette permissions, vous devez désactiver la superposition d'écran dans Paramètres > Applications."</string>
-  <string name="screen_overlay_title">"Superposition d'écran détecté"</string>
+  <string name="screen_overlay_title">"Superposition d'écran détectée"</string>
+  <string name="storage_policy_notify_content">Pour lui permettre de lire, cliquez pour accéder aux paramètres</string>
+  <string name="storage_policy_notify_title">"%1$s a été interdit de lecture d'albums téléphoniques"</string>
   <string name="virtual_reject_notice_content">"Une réponse vide a été envoyée à l'application pour protéger vos données personnelles"</string>
   <string name="virtual_reject_notice_title_calendar">"%1$s tente d'accéder au calendrier"</string>
   <string name="virtual_reject_notice_title_calllog">"%1$s tente d'accéder à l'historique d'appels"</string>

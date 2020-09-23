@@ -29,6 +29,8 @@
   <string name="abc_toolbar_collapse_description">Réduire</string>
   <string name="cloud_storage_info_type_family">Famille</string>
   <string name="copy">Copie</string>
+  <string name="cta_notification_content_text">Autoriser %s à se connecter à internet pour pouvoir restaurer les éléments</string>
+  <string name="cta_notification_content_title">Impossible de restaurer les éléments depuis %s</string>
   <string name="data_merge_dialog_title">Fusionner des éléments</string>
   <string name="expand_button_title">Avancé</string>
   <string name="feedback_custom_hint">"Décrivez les problèmes que vous avez rencontrés ici. Si vous donnez des suggestions, nous apprécierions plus de détails !"</string>
@@ -73,7 +75,7 @@
   <string name="error_data_in_transfer">La synchronisation se terminera dans %s heures.</string>
   <string name="no_sim">Impossible de trouver la carte SIM</string>
   <string name="pay_info_dialog_confirm_to_pay">Payer %s</string>
-  <string name="pay_info_dialog_mibi_balance_prefix">Utiliser les crédits Mi restants: %s</string>
+  <string name="pay_info_dialog_mibi_balance_prefix">Utiliser les Mi Coins restants: %s</string>
   <string name="pay_info_dialog_title">Sélectionnez le mode de paiement</string>
   <string name="bad_authentication">Compte ou mot de passe non valide</string>
   <string name="title_reg">Créer un compte Mi</string>
@@ -165,6 +167,7 @@ Localisez et verrouillez votre appareil en cas de perte. "</string>
   <string name="sub_alert_notif_title">Synchroniser avec Xiaomi Cloud</string>
   <string name="sub_alert_notif_content">Activer Xiaomi Cloud</string>
   <string name="cloud_lab_title">Lab</string>
+  <string name="cloud_space_full_gallery_notification_content_text">"Mettez à jour votre abonnement pour obtenir plus d'espace de stockage Cloud"</string>
   <string name="cloud_storage_already_full">Le stockage cloud est plein: %1$s/%2$s</string>
   <string name="cloud_storage_already_used">Occupé: %1$s/%2$s</string>
   <string name="cloud_storage_default_title">Stockage Cloud</string>
@@ -489,6 +492,11 @@ sur votre compte Mi pour réactiver Xiaomi Cloud."</string>
   <string name="micloud_manual_buy_vip">Obtenir plus de stockage</string>
   <string name="micloud_manual_reactivate">Réactiver</string>
   <string name="micloud_manual_activating">Activation…</string>
+  <string name="micloud_manual_request_permission_cancel">Annuler</string>
+  <string name="micloud_manual_request_permission_confirm">Paramètres</string>
+  <string name="micloud_manual_request_permission_content">Pour pouvoir utiliser nos services, accordez à Xiaomi Cloud les permissions suivantes dans Paramètres : \"%s\".</string>
+  <string name="micloud_manual_request_permission_content_on_provision">"Donnez d'abord les permissions requises dans Sécurité"</string>
+  <string name="micloud_manual_request_permission_title">Permissions requises</string>
   <string name="micloud_manual_all_sync_off_title">Synchronisation est désactivée</string>
   <string name="micloud_manual_all_sync_off_button_text">Activer</string>
   <string name="micloud_manual_network_disconnet_title">"Impossible de synchroniser en raison d'une erreur réseau"</string>
