@@ -57,6 +57,31 @@
   <string name="launch_notification_center">Notification shade</string>
   <string name="launch_wechat_payment_code">WeChat payment code</string>
   <string name="launch_wechat_scanner">WeChat scanner</string>
+  <string name="activity_check_context">"Your device is trying to connect to the internet now. This process might take longer than expected if you're using mobile data. You can go back and connect to a WLAN network instead, or keep waiting until the mobile data connection is established."</string>
+  <string name="activity_check_title">Connecting to the internet</string>
+  <string name="dialog_check_button_negative">Try again</string>
+  <string name="dialog_check_button_positive">Connect to WLAN</string>
+  <string name="dialog_check_context">"Your device can't connect to the internet now.
+1. Tap \"Connect to WLAN\" to select one of the available networks.
+2. If you want to use mobile data, tap \"Try again\" or remove and reinsert your SIM card."</string>
+  <string name="dialog_check_title">"Can't connect to the internet"</string>
+  <string name="dialog_wifi_button_negative">No</string>
+  <string name="dialog_wifi_button_positive">Yes</string>
+  <string name="dialog_wifi_context">You need to connect to the the internet to set up your device. Unless you connect to WLAN, mobile data might be used. Using mobile data might generate additional carrier fees. Use mobile data anyway?</string>
+  <string name="dialog_wifi_title">Using mobile data</string>
+  <string name="font_size_kddi">Medium</string>
+  <string name="input_method_middle_function_move_cursor">Move cursor</string>
+  <string name="input_method_middle_function_move_cursor_des">Press and hold the central area to move the cursor</string>
+  <string name="input_method_middle_function_no_function_des">"Don't assign any actions"</string>
+  <string name="launch_noapp_dialog_cancel">Cancel</string>
+  <string name="launch_noapp_dialog_install">Install</string>
+  <string name="launch_noapp_dialog_replace">Settings</string>
+  <string name="middle_function_key">Central area</string>
+  <string name="miui_master_clear_prompt_battery_low">"Can't perform a factory reset when less than %1$s of battery is left. Charge your device before you continue."</string>
+  <string name="screen_reader_mode_input_type_summary">Select gesture for activating text input when TalkBack is on</string>
+  <string name="screen_reader_mode_input_type_title">Text input</string>
+  <string name="wifi_connect_channel">WLAN channel:</string>
+  <string name="wifi_connect_frequency">WLAN frequency:</string>
   <string name="mute">Silent mode</string>
   <string name="abc_slice_more_content">%1$d autres</string>
   <string name="abc_slice_permission_allow">Autoriser</string>

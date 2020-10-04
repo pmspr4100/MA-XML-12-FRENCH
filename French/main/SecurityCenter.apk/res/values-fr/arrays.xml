@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="cellular_data_unit">
+      <item>Go</item>
+      <item>Mo</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+      <item>Monthly plan</item>
+      <item>Unlimited</item>
+      <item>Daily plan</item>
+    </string-array>
     <string-array name="debug_open_intercept">
       <item>"Il sera possible d'accéder et de modifier des fichiers sur votre appareil à l'aide d'un ordinateur."</item>
       <item>"L'installation d'applications sur votre appareil sans votre autorisation explicite sera autorisée."</item>
