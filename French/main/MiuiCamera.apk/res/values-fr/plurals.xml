@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>     
     <plurals name="accessibility_timer_burst_count">
-      <item quantity="other">%d photos in a burst shot</item>
-      <item quantity="one">%d photo in a burst shot</item>
+      <item quantity="other">%d photos prises en rafale</item>
+      <item quantity="one">%d photo prise en rafale</item>
     </plurals>
     <plurals name="accessibility_timer_burst_interval">
-      <item quantity="other">Interval: %d seconds</item>
-      <item quantity="one">Interval: %d second</item>
+      <item quantity="other">Intervalle: %d secondes</item>
+      <item quantity="one">Intervalle: %d seconde</item>
     </plurals>
     <plurals name="accessibility_vv_duartion">
-      <item quantity="other">Duration: %d seconds</item>
-      <item quantity="one">Duration: %d second</item>
+      <item quantity="other">Durée: %d secondes</item>
+      <item quantity="one">Durée: %d seconde</item>
     </plurals>
     <plurals name="accessibility_focus_face_detect">
       <item quantity="other">Focus. %d visages détectés</item>
