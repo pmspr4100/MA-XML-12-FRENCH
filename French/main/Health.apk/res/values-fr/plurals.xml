@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="days_in_menstrual_period">
-      <item quantity="other">Period duration: %1$d days</item>
-      <item quantity="one">Period duration: %1$d day</item>
+      <item quantity="other">Durée des règles: %1$d days</item>
+      <item quantity="one">Durée des règles: %1$d day</item>
     </plurals>
     <plurals name="days_in_period">
-      <item quantity="other">Cycle duration: %1$d days</item>
-      <item quantity="one">Cycle duration: %1$d day</item>
+      <item quantity="other">Durée du cycle: %1$d days</item>
+      <item quantity="one">Durée du cycle: %1$d day</item>
     </plurals>
     <plurals name="group_unit">
       <item quantity="other">%1$d cycles</item>
       <item quantity="one">%1$d cycle</item>
     </plurals>
     <plurals name="mens_offset_predict_menstrual_period">
-      <item quantity="other">Period will likely start in %1$d days</item>
-      <item quantity="one">Period will likely start in %1$d day</item>
+      <item quantity="other">La période devrait commencer dans %1$d jours</item>
+      <item quantity="one">La période devrait commencer dans %1$d jour</item>
     </plurals>
     <plurals name="unit_group">
       <item quantity="other">" cycles"</item>
@@ -25,20 +25,20 @@
       <item quantity="one">%1$d Cal</item>
     </plurals>
     <plurals name="duration_unit_hour_format">
-      <item quantity="other">%1$d hrs</item>
-      <item quantity="one">%1$d hr</item>
+      <item quantity="other">%1$d h</item>
+      <item quantity="one">%1$d h</item>
     </plurals>
     <plurals name="duration_unit_minute_format">
       <item quantity="other">%1$d mins</item>
       <item quantity="one">%1$d min</item>
     </plurals>
     <plurals name="duration_unit_second_format">
-      <item quantity="other">%1$d secs</item>
-      <item quantity="one">%1$d sec</item>
+      <item quantity="other">%1$d s</item>
+      <item quantity="one">%1$d s</item>
     </plurals>
     <plurals name="length_unit_meter_format">
-      <item quantity="other">%1$d meters</item>
-      <item quantity="one">%1$d meter</item>
+      <item quantity="other">%1$d mètres</item>
+      <item quantity="one">%1$d mètre</item>
     </plurals>
     <plurals name="a_hour_ago">
       <item quantity="other">il y a 1 heure</item>

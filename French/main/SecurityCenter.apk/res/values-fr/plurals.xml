@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="applock_app_suggest_lock">
-      <item quantity="other">You can use App lock with %1$s apps</item>
-      <item quantity="one">You can use App lock with %1$s app</item>
+      <item quantity="other">Vous pouvez utiliser Verrouillage des applications avec %1$s applications</item>
+      <item quantity="one">Vous pouvez utiliser Verrouillage des applications avec %1$s application</item>
     </plurals>
     <plurals name="applock_one_key_lock">
-      <item quantity="other">%s apps will be protected with App lock</item>
-      <item quantity="one">%s app will be protected with App lock</item>
+      <item quantity="other">%s applications seront protégées par Verrouillage des applications</item>
+      <item quantity="one">%s application sera protégée par Verrouillage des applications</item>
     </plurals>
     <plurals name="ew_concern_date">
-      <item quantity="other">%d days ago</item>
-      <item quantity="one">%d day ago</item>
+      <item quantity="other">Il y a %d jours</item>
+      <item quantity="one">Il y a %d jour</item>
     </plurals>
     <plurals name="exit_dialog_release_memory_message">
-      <item quantity="other">&lt;Data>Close &lt;font color=#0099ff>%d&lt;/font> apps to speed up your device?&lt;/Data></item>
-      <item quantity="one">&lt;Data>Close &lt;font color=#0099ff>%d&lt;/font> app to speed up your device?&lt;/Data></item>
+      <item quantity="other">&lt;Data>Fermer les applications &lt;font color=#0099ff>%d&lt;/font> pour accélérer votre appareil ?&lt;/Data></item>
+      <item quantity="one">"&lt;Data>Fermer l'application &lt;font color=#0099ff>%d&lt;/font> pour accélérer votre appareil ?&lt;/Data>"</item>
     </plurals>
     <plurals name="app_behavior_desc_allow_minute">
       <item quantity="other">Autorisé %2$d fois à %1$s</item>
