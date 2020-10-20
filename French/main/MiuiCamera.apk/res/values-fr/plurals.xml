@@ -32,4 +32,16 @@
       <item quantity="other">"Vous pouvez créer jusqu'à %d clones à la fois."</item>
       <item quantity="one">"Vous pouvez créer jusqu'à %d clone à la fois."</item>
     </plurals>
+    <plurals name="fastmotion_pro_min_unit">
+        <item quantity="other">%1$d mins</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="fastmotion_pro_sec_unit">
+        <item quantity="other">%1$d s</item>
+        <item quantity="one">%1$d s</item>
+    </plurals>
+    <plurals name="live_workspace_delete_dialog_title">
+        <item quantity="other">Supprimer %1$d brouillons ?</item>
+        <item quantity="one">Supprimer %1$d brouillon ?</item>
+    </plurals>
 </resources>
