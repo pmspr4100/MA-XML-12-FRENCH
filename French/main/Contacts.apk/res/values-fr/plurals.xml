@@ -62,6 +62,18 @@
         <item quantity="other">Supprimer %1$d contacts ?</item>
         <item quantity="one">Supprimer %1$d contact ?</item>
     </plurals>
+    <plurals name="bh_day">
+        <item quantity="other">" jours"</item>
+        <item quantity="one">" jour"</item>
+    </plurals>
+    <plurals name="bh_hour">
+        <item quantity="other">" h"</item>
+        <item quantity="one">" h"</item>
+    </plurals>
+    <plurals name="bh_minute">
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
+    </plurals>
     <plurals name="btn_delete_multi_contacts">
         <item quantity="other">Supprimer %1$d contacts</item>
         <item quantity="one">Supprimer %1$d contact</item>
