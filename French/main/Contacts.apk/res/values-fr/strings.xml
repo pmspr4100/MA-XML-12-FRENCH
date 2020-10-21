@@ -58,6 +58,11 @@
   <string name="miuix_sbl_tracking_progress_labe_up_none">"C'est tout pour le moment"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chargement…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Impossible de charger les éléments"</string>
+  <string name="mm_charge_title">Rechargement</string>
+  <string name="mm_confirming_order_result">"Confirmation de l'achat…"</string>
+  <string name="mm_confirming_pay_result">Confirmation du paiement…</string>
+  <string name="mm_err_dont_install_mipay">Installez Mi Wallet pour continuer</string>
+  <string name="mobile_equipment_identification">"Identification de l'équipement mobile"</string>
   <string name="monday">Lundi</string>
   <string name="monday_short">Lun</string>
   <string name="monday_shortest">Lun</string>
@@ -892,7 +897,9 @@ Raison: \"%s\""</string>
   <string name="favoritesFrequentCalled">Fréquemment appelés</string>
   <string name="favoritesFrequentContacted">Fréquemment contactés</string>
   <string name="favorites_list_empty">Aucun favoris</string>
+  <string name="feedback">Retours</string>
   <string name="firewall_setting">Liste de blocage</string>
+  <string name="flow_use_analyse">"Statistiques d'utilisation"</string>
   <string name="force_touch_miprofile">Cartes de contact</string>
   <string name="force_touch_new_contact">Nouveau contact</string>
   <string name="frequentList">Contacts fréquents</string>
@@ -1216,6 +1223,8 @@ Pour ajouter un contact à votre liste de favoris:
   <string name="organizationLabelsGroup">Localisation</string>
   <string name="other_contacts">Autres contacts</string>
   <string name="other_phone">Autres périphériques</string>
+  <string name="outof_service_msg">MI hall est en cours de mise à jour. Une fois les mises à jour terminées, vous pourrez accéder à toutes ses fonctionnalités.</string>
+  <string name="outof_service_title">Mise à jour système en cours, les services sont suspendus.</string>
   <string name="path_batch_delete">Applications système/Contacts/Organiser les contacts/Supprimer le paquet</string>
   <string name="path_contacts_display">Applications système/Contacts/Afficher les préférences</string>
   <string name="path_contacts_more">Applications système/Contacts/Organiser les contacts</string>
@@ -1240,8 +1249,18 @@ Pour ajouter un contact à votre liste de favoris:
   <string name="path_simple_mode">Applications système/Contacts/Afficher photos et infos</string>
   <string name="path_smart_group_title">Applications système/Contacts/Afficher les préférences/Groupes intelligents</string>
   <string name="path_wipe_data">Applications système/Contacts/Organiser les contacts/Effacer les données</string>
+  <string name="pay_fail">Impossible de procéder au paiement</string>
+  <string name="pay_success">Paiement effectué avec succès</string>
+  <string name="pay_success_desc">Achat du forfait de données %1$s réussi</string>
   <string name="payphone">Cabine téléphonique</string>
   <string name="people">Contacts</string>
+  <string name="permission_access_fine_location_desc">Pour améliorer le signal du réseau local</string>
+  <string name="permission_camera_desc">"Pour prendre des photos durant la vérification de l'identité"</string>
+  <string name="permission_contact_desc">Pour recharger le solde de vos contacts</string>
+  <string name="permission_dailog_positive_button">"C'est parti"</string>
+  <string name="permission_dailog_title">Permissions requises</string>
+  <string name="permission_record_audio_desc">"Pour utiliser votre voix durant la vérification de l'identité"</string>
+  <string name="permission_write_external_storage_desc">"Pour sauvegarder les données de l'application"</string>
   <string name="phoneLabelsGroup">Téléphone</string>
   <string name="phone_number_too_long_toast">Ce numéro est trop long</string>
   <string name="phone_primary">Primaire</string>
@@ -1336,6 +1355,7 @@ Pour ajouter un contact à votre liste de favoris:
   <string name="preview_contact_card_title">Importer une carte de contact</string>
   <string name="preview_incall_show_entry">Aperçu vidéo</string>
   <string name="previous">Précédent</string>
+  <string name="privacy_policy_and_user_agreement">"Politique de vie privée et Accord de l'utilisateur"</string>
   <string name="private_num">Numéro privé</string>
   <string name="profileSavedErrorToast">"Impossible d'enregistrer les modifications du profile"</string>
   <string name="profileSavedToast">Profil enregistré</string>
@@ -1355,6 +1375,7 @@ Pour ajouter un contact à votre liste de favoris:
   <string name="quick_dial_setting_set_dialog_option_set">Oui</string>
   <string name="quick_dial_setting_title">Composition rapide</string>
   <string name="quickcontact_missing_app">Aucune application pour gérer cette action</string>
+  <string name="quit">Quitter</string>
   <string name="quit_dialog_confirm_message">"Vous n'avez fusionné aucun contact"</string>
   <string name="quit_dialog_confirm_title">Annuler la fusion des contacts</string>
   <string name="readOnlyContactDeleteConfirmation">Ce contact contient des informations provenant de plusieurs comptes. Vous pouvez masquer dans votre liste de contacts les informations des comptes en lecture seule, mais pas les supprimer.</string>
@@ -1419,6 +1440,10 @@ Pour commencer, appuyez sur l'icône fusionner en bas de votre écran."</string>
   <string name="search_display_sim_contacts">Contacts;Afficher</string>
   <string name="search_export_to_sdcard">Contacts;Importer;stockage</string>
   <string name="search_export_to_sim">Contacts;Exporter;Carte SIM</string>
+  <string name="search_group_call">appel</string>
+  <string name="search_group_contacts">contacts</string>
+  <string name="search_group_expland">déployer</string>
+  <string name="search_group_pick_up">choisir</string>
   <string name="search_import_export">Importer;Exporter;Partager</string>
   <string name="search_import_from_other_phone">Contacts;Importer;autre téléphone</string>
   <string name="search_import_from_sdcard">Contacts;Importer;stockage</string>
@@ -1542,6 +1567,8 @@ Pour commencer, appuyez sur l'icône fusionner en bas de votre écran."</string>
   <string name="status_available">Disponible</string>
   <string name="status_away">Absent</string>
   <string name="status_busy">Occupé</string>
+  <string name="status_not_allow_use">Non disponible</string>
+  <string name="status_not_enable"><Data>&lt;font color =#0D84FF>Non activé&lt;/font></Data></string>
   <string name="strequentList">Favoris</string>
   <string name="success_message_import_from_account">Contact importé</string>
   <string name="summary_kind_title">Résumé</string>
@@ -1555,9 +1582,27 @@ Pour commencer, appuyez sur l'icône fusionner en bas de votre écran."</string>
   <string name="t9_search_guide_zhuyin_title2" formatted="false">Entrer %d et %d à rechercher &lt;font fgcolor=""&gt;J&lt;/font&gt;eff &lt;font fgcolor=""&gt;M&lt;/font&gt;ax</string>
   <string name="take_new_photo">Prendre une nouvelle photo</string>
   <string name="take_photo">Prendre une photo</string>
+  <string name="text_buy_time">Commande créée</string>
+  <string name="text_charge_name">Montant</string>
+  <string name="text_misim_balance">Solde: %1$s CNY</string>
+  <string name="text_misim_used_flow_month">Utilisé ce mois-ci</string>
+  <string name="text_msim_balance">"Utilisé aujourd'hui"</string>
+  <string name="text_msim_used_flow">"Utilisé aujourd'hui"</string>
+  <string name="text_no_order">Aucune commande ici</string>
+  <string name="text_operator">Opérateur</string>
+  <string name="text_order_id">Numéro de commande</string>
+  <string name="text_paid_fee">Montant de la commande</string>
+  <string name="text_phone_num">Numéro de téléphone</string>
+  <string name="text_status_otherModel"><Data>"&lt;font color =#0D84FF>Activation impossible&lt;/font>"</Data></string>
+  <string name="text_status_using"><Data>&lt;font color =#FF6666>En utilisation&lt;/font></Data></string>
+  <string name="text_traffic_package">Forfait de données</string>
+  <string name="text_vsim_remain_time">Minutes restantes</string>
+  <string name="text_vsim_used_flow">Données utilisées</string>
   <string name="titleJoinContactDataWith">Fusionner les contacts</string>
+  <string name="title_finished_order">Effectué</string>
   <string name="title_other_devices">Autres appareils disponibles</string>
   <string name="title_paired_devices">Appareils appairés</string>
+  <string name="title_processing_order">Traitement en cours…</string>
   <string name="toast_call_detail_error">"Impossible de lire les détails de l'appel"</string>
   <string name="toast_call_no_SoundRecorder">"L'application Enregistreur n'est pas disponible"</string>
   <string name="toast_call_no_notes">"L'application Notes n'est pas disponible"</string>
@@ -1611,6 +1656,7 @@ Choisissez une des options suivantes:"</string>
   <string name="video_chat">Tchat vidéo</string>
   <string name="viewContactDesription">Afficher le contact</string>
   <string name="viewContactTitle">Détails du contact</string>
+  <string name="view_details">Afficher les détails</string>
   <string name="view_updates_from_group">Afficher les mises à jour</string>
   <string name="voicemail">Messagerie vocale</string>
   <string name="voicemail_buffering">Chargement…</string>
@@ -1628,9 +1674,11 @@ Choisissez une des options suivantes:"</string>
   <string name="voicemail_status_configure_voicemail">Configurez votre messagerie vocale.</string>
   <string name="voicemail_status_messages_waiting">Impossible de se connecter au serveur de messagerie vocale. Les nouveaux messages resteront en attente.</string>
   <string name="voicemail_status_voicemail_not_available">Impossible de se connecter au serveur de messagerie vocale.</string>
-  <string name="voip_audio_description">Appel VoiP</string>
-  <string name="voip_video_description">Appel vidéo VoiP</string>
+  <string name="voip_audio_description">Appel VoIP</string>
+  <string name="voip_video_description">Appel vidéo VoIP</string>
   <string name="websiteLabelsGroup">Site Web</string>
+  <string name="webview_btn_retry">Veuillez réessayer</string>
+  <string name="webview_network_failure">Connexion au réseau impossible</string>
   <string name="wipe_data">Supprimer les données</string>
   <string name="yellowPageNavigationIconLabel">Pages Jaunes</string>
   <string name="yellowPageNavigationLabel">Pages Jaunes</string>
