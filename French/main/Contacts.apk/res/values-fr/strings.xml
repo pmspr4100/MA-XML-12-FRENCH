@@ -438,7 +438,11 @@
   <string name="btn_split_contact">Séparer</string>
   <string name="button_cancel_scan">Arrêter</string>
   <string name="button_join_service_number">Ajouter un numéro de service</string>
+  <string name="button_no">Non</string>
+  <string name="button_quick_start">Activer maintenant</string>
+  <string name="button_receive">Reçu</string>
   <string name="button_scan">Scanner</string>
+  <string name="button_yes">Oui</string>
   <string name="caching_vcard_message">Mise en cache du fichier vCard…</string>
   <string name="caching_vcard_title">Mise en cache</string>
   <string name="callAgain">Rappeler</string>
@@ -528,6 +532,7 @@
   <string name="callrecordview_menu_show_sim">%s appels</string>
   <string name="callrecordview_menu_show_stranger">Appels provenant de numéros inconnus</string>
   <string name="callrecordview_menu_show_title">"Affichage d'historique d'appels"</string>
+  <string name="cancel">Annuler</string>
   <string name="cancel_confirmation_dialog_message">Annuler les changements ?</string>
   <string name="cancel_confirmation_dialog_title">Annuler</string>
   <string name="cancel_export_confirmation_message">"Confirmez-vous l'annulation de l'exportation de %s ?"</string>
@@ -535,6 +540,7 @@
   <string name="cancel_import_dialog_message">"Arrêter l'importation des contacts ?"</string>
   <string name="cancel_import_dialog_title">Stopper</string>
   <string name="cancel_vcard_import_or_export_failed">"Impossible d'annuler l'importation/exportation"</string>
+  <string name="category_order_detail">Détails de la commande</string>
   <string name="chat">Tchatter</string>
   <string name="chat_aim">Tchatter via AIM</string>
   <string name="chat_gtalk">Tchatter via Google Talk</string>
@@ -579,6 +585,7 @@
   <string name="confirm_delete_sim_entry_miui_title">Supprimer</string>
   <string name="confirm_export_message">Votre liste de contacts va être exporter dans le fichier: %s.</string>
   <string name="confirm_export_title">Exporter les contacts ?</string>
+  <string name="confirming_pay_result">Confirmation du paiement…</string>
   <string name="connections">Connexions</string>
   <string name="contactDetailAbout">Information de contact</string>
   <string name="contactDetailCalllog">Historique des appels</string>
@@ -664,6 +671,19 @@ Les cartes de contact ont été désactivées"</string>
   <string name="create_group_dialog_title">Créer un nouveau groupe</string>
   <string name="create_group_item_label">Créer un nouveau groupe</string>
   <string name="create_qrcode_fail_message">Impossible de créer le QR code</string>
+  <string name="cta_content_seg1"><Data>"&lt;strong>Avertissement important
+    En appuyant sur \"J'accepte\" ci-dessous, vous acceptez les &lt;font color=#33aaff>&lt;a href ='https://static.account.xiaomi.com/html/agreement/account/en.html'>Conditions de service du Compte Mi&lt;/a>&lt;/font>, l'&lt;font color=#33aaff>&lt;a href ='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'>Accord utilisateur Mi Roaming&lt;/a>&lt;/font>, et la &lt;font color=#33aaff>&lt;a href ='http://www.miui.com/res/doc/privacy/en.html'>Politique de vie privée&lt;/a>&lt;/font>. Lisez attentivement ces documents et veillez à bien comprendre tous les termes relatifs et les conditions avant d'accepter.&lt;/strong>"</Data></string>
+  <string name="cta_content_seg2">"
+    Mi Roaming nécessite une connexion à internet et doit accéder à vos informations de localisation pour fonctionner normalement. De plus, Mi Roaming est suceptible de collecter, d'utiliser, et de partager vos données personnelles. Celles-ci seront protégées en accord avec les lois et réglementations locales."</string>
+  <string name="cta_dialog_cancel">Quitter</string>
+  <string name="cta_dialog_ok">"J'accepte"</string>
+  <string name="cta_dialog_title">Termes et conditions</string>
+  <string name="cta_newcontent_seg1"><Data>"Nous avons mis à jour l'&lt;font color=#33aaff>&lt;a href ='https://static.account.xiaomi.com/html/agreement/account/en.html'>Accord de service du Compte Mi&lt;/a>&lt;/font>, l'&lt;font color=#33aaff>&lt;a href ='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'>Accord utilisateur Mi Roaming&lt;/a>&lt;/font>, et la &lt;font color=#33aaff>&lt;a href ='https://privacy.mi.com/business_hall/zh_CN/'>Politique de vie privée&lt;/a>&lt;/font>. &lt;strong>Lisez attentivement ces documents et veillez à bien comprendre tous les termes relatifs et les conditions avant d'accepter.&lt;/strong>"</Data></string>
+  <string name="cta_newcontent_seg2">"
+    Mi Roaming est susceptible de collecter, d'utiliser, et de partager vos données personnelles. Celles-ci seront protégées en accord avec les lois et réglementations locales.
+    "</string>
+  <string name="cta_newcontent_seg3"><Data>"&lt;strong>Avertissement important
+    En appuyant sur \"J'accepte\" ci-dessous, vous acceptez tous les termes et conditions inclus dans les documents listés ci-dessus.&lt;/strong>"</Data></string>
   <string name="customLabelPickerTitle">Nom personnalisé</string>
   <string name="custom_list_filter">Définir une vue personnalisée</string>
   <string name="custom_nickname_hint">Entrez le pseudo</string>
@@ -832,6 +852,7 @@ Pour éviter les requêtes fréquentes, nous mettons à jour l'information de vo
   <string name="emergency_number_label">"Numéro d'urgence"</string>
   <string name="emptyGroup">Personne dans ce groupe</string>
   <string name="enter_contact_name">Saisir un nom</string>
+  <string name="err_dont_install_mipay">Installer Mi Pay pour terminer le paiement.</string>
   <string name="eventLabelsGroup">Anniversaire</string>
   <string name="eventTypeCustom">Personnaliser</string>
   <string name="event_edit_field_hint_text">Date</string>
