@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="days">
-        <item quantity="other">%s jours</item>
-        <item quantity="one">%s jour</item>
+    <plurals name="clipboard_ai_allow_more">
+        <item quantity="other">%1$s autorisé à accéder automatiquement aux éléments du presse-papiers %2$d fois</item>
+        <item quantity="one">%1$s autorisé à accéder automatiquement aux éléments du presse-papiers %2$d fois</item>
     </plurals>
-    <plurals name="hours">
-        <item quantity="other">%s heures</item>
-        <item quantity="one">%s heure</item>
+    <plurals name="clipboard_read_allow_more">
+        <item quantity="other">%1$s a accédé aux éléments du presse-papiers %2$d fois</item>
+        <item quantity="one">%1$s a accédé aux éléments du presse-papiers %2$d fois</item>
     </plurals>
-    <plurals name="minutes">
-        <item quantity="other">%s minutes</item>
-        <item quantity="one">%s minute</item>
+    <plurals name="perm_manager_suggest_allow_content">
+        <item quantity="other">"Vous avez déjà autorisé %2$s à accéder %1$d fois au presse-papiers. Souhaitez-vous autoriser en permanence %3$s à accéder au presse-papiers ?"</item>
+        <item quantity="one">"Vous avez déjà autorisé %2$s à accéder %1$d fois au presse-papiers. Souhaitez-vous autoriser en permanence %3$s à accéder au presse-papiers ?"</item>
     </plurals>
-    <plurals name="seconds">
-        <item quantity="other">%s secondes</item>
-        <item quantity="one">%s seconde</item>
+    <plurals name="perm_manager_suggest_deny_content">
+        <item quantity="other">"Vous avez restreint l'accès au presse-papiers pour %2$s %1$d fois déjà. Restreindre de manière permanente l'accès au presse-papiers pour %3$s ?"</item>
+        <item quantity="one">"Vous avez restreint l'accès au presse-papiers pour %2$s %1$d fois déjà. Restreindre de manière permanente l'accès au presse-papiers pour %3$s ?"</item>
     </plurals>
 </resources>

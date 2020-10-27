@@ -268,6 +268,10 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
       <item quantity="other">%2$d apps, y compris %1$s, épuisent la batterie</item>
       <item quantity="one">%2$d app, y compris %1$s, épuisent la batterie</item>
     </plurals>
+    <plurals name="notification_checker_installed_apk_text">
+        <item quantity="other">"Supprimer %d paquets d'installation"</item>
+        <item quantity="one">"Supprimer %d paquet d'installation"</item>
+    </plurals>
     <plurals name="pc_abnormal_scan_result_model_result_title">
       <item quantity="other">%d apps déchargent la batterie</item>
       <item quantity="one">%d app déchargent la batterie</item>
@@ -531,6 +535,28 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
     <plurals name="gb_signed_days_sum">
       <item quantity="other">"S'enregistrer %d jours d'affilés"</item>
       <item quantity="one">"S'enregistrer dans %d heure"</item>
+    </plurals>
+    <plurals name="gb_voice_changer_trial_gain_fail">
+        <item quantity="other">"Impossible d'avoir un essai gratuit de %d jours"</item>
+        <item quantity="one">"Impossible d'avoir un essai gratuit de %d jours"</item>
+    </plurals>
+    <plurals name="gb_voice_changer_trial_gain_success">
+        <item quantity="other">Essai gratuit de %d jours reçu avec succès</item>
+        <item quantity="one">Essai gratuit de %d jour reçu avec succès</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_status_get_trial_card">
+        <item quantity="other">Obtenez un essai gratuit de %d jours</item>
+        <item quantity="one">Obtenez un essai gratuit de %d jour</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_status_get_twice_trial_card_dialog">
+        <item quantity="other">"Vos abonnements ont expiré.
+Vous pouvez obtenir un essai gratuit de %d jours maintenant !"</item>
+        <item quantity="one">"Votre abonnement a expiré.
+Vous pouvez obtenir un essai gratuit de %d jours maintenant !"</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_tips_info">
+        <item quantity="other">Obtenez un essai gratuit de %d jours</item>
+        <item quantity="one">Obtenez un essai gratuit de %d jour</item>
     </plurals>
     <plurals name="function_shield_num">
       <item quantity="other">%d fonctionnalités</item>
