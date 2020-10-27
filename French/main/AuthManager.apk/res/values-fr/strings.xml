@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="HIPS_ACTION_REJECT_CLEAR">Restriction et nettoyage du presse-papiers</string>
   <string name="HIPS_Action_Accept">Autoriser</string>
-  <string name="HIPS_Action_Accept_Once">Accepter cette fois</string>
+  <string name="HIPS_Action_Accept_Once">Autoriser cette fois</string>
+  <string name="HIPS_Action_Accept_This">Autoriser cette fois</string>
   <string name="HIPS_Action_Reject">Refuser</string>
   <string name="HIPS_Action_Reject_Once">Refuser cette fois</string>
+  <string name="HIPS_Action_Reject_This">Refuser cette fois</string>
   <string name="HIPS_Perm_AudioRecorder">Enregistrement audio</string>
   <string name="HIPS_Perm_AudioRecorder_Desc">enregistrer des appels audio et téléphoniques</string>
   <string name="HIPS_Perm_AutoStart">"S'exécuter au démarrage"</string>
@@ -76,6 +79,8 @@
   <string name="HIPS_Perm_process_nfc_Desc">accède au NFC (Near Field Communication)</string>
   <string name="HIPS_Perm_process_outgoing_calls">"Accéder à l'application Téléphone"</string>
   <string name="HIPS_Perm_process_outgoing_calls_Desc">répondez, surveillez et terminez les appels</string>
+  <string name="HIPS_Perm_read_clipboard">Accéder aux éléments du presse-papiers</string>
+  !<string name="HIPS_Perm_read_clipboard_Desc">Autorise les applications à accéder aux éléments du presse-papiers</string>
   <string name="HIPS_Perm_read_notification_sms">Service SMS</string>
   <string name="HIPS_Perm_read_notification_sms_Desc">Lecture du service SMS</string>
   <string name="HIPS_Perm_service_foreground">Services du premier plan</string>
@@ -84,16 +89,29 @@
   <string name="HIPS_Perm_show_when_locked_Desc">"sera affiché à l'écran de verrouillage"</string>
   <string name="HIPS_Perm_use_sip">Les services vidéo</string>
   <string name="HIPS_Perm_use_sip_Desc">"utilise le protocole d'initiation de session (Sip) pour diffuser les vidéos"</string>
+  <string name="HIPS_Perm_write_clipboard">Enregistrer les éléments dans le presse-papiers</string>
+  <string name="HIPS_Perm_write_clipboard_Desc">Autorise les applications à enregistrer des éléments dans le presse-papiers</string>
   <string name="HIPS_SecurityPrompt_Caption">Avertissement de sécurité</string>
   <string name="HIPS_SecurityPrompt_Reject">Refuser (%d)</string>
+  <string name="HIPS_SecurityPrompt_Reject_Clear_This">Restreindre et nettoyer le presse-papiers (%d)</string>
   <string name="HIPS_SecurityPrompt_Reject_Once">Refuser cette fois (%d)</string>
+  <string name="HIPS_SecurityPrompt_Reject_This">Refuser cette fois (%d)</string>
   <string name="HIPS_SecurityPrompt_Title">%1$s essaie de %2$s</string>
-  <string name="Su_Package_Forbidden2">"n'a pas accès au Root."</string>
+  <string name="Su_Package_Forbidden2">"n'a pas d'accès root."</string>
   <string name="app_name">Permissions</string>
   <string name="background_location_access_reminder_notification_content">Cette application peut toujours accéder à votre position. Appuyez pour changer.</string>
   <string name="background_location_access_reminder_notification_title">%s utilise votre position</string>
+  <string name="clipboard_ai_allow_once">%1$s a été autorisé à accéder aux éléments du presse-papiers automatiquement</string>
+  <string name="clipboard_data">Éléments du presse-papiers</string>
+  <string name="clipboard_data_request">"%1$s tente d'accéder aux éléments du presse-papiers"</string>
+  <string name="clipboard_deny_notification_content">Cette tentative a été bloquée. Appuyez pour gérer les permissions.</string>
+  <string name="clipboard_deny_notification_operation">Gérer</string>
+  <string name="clipboard_deny_notification_title">"%1$s tente d'accéder aux éléments du presse-papiers"</string>
+  <string name="clipboard_may_sensitive">Information potentiellement sensible</string>
+  <string name="clipboard_read_allow_once">%1$s a accéder aux éléments du presse-papiers</string>
   <string name="current_permission_template">%1$s de %2$s</string>
   <string name="default_permission_description">effectuer des actions inconnues</string>
+  <string name="go_perm_manager">Gérer les permissions</string>
   <string name="grant_dialog_button_allow">Autoriser</string>
   <string name="grant_dialog_button_allow_always">Autoriser tout le temps</string>
   <string name="grant_dialog_button_allow_background">Autoriser tout le temps</string>
@@ -106,9 +124,12 @@
   <string name="location_settings">Paramètres de localisation</string>
   <string name="location_warning">"%1$s est un fournisseur de services de localisation pour cet appareil. L'accès à la localisation peut être modifié à partir des paramètres de localisation."</string>
   <string name="never_ask_again">Ne plus demander après avoir restreint</string>
+  <string name="no">Non</string>
   <string name="ok">OK</string>
   <string name="perm_action_allow">Autoriser</string>
   <string name="perm_action_deny">Ne jamais autoriser</string>
+  <string name="perm_manager_suggest_operation">Gérer les permissions</string>
+  <string name="perm_manager_suggest_title">Ajuster les permissions ?</string>
   <string name="perm_modem_location">Accès à votre localisation</string>
   <string name="perm_modem_location_desc">"Votre opérateur tente d'accéder à vos informations de localisation. Partager les informations de localisation avec votre opérateur ?"</string>
   <string name="permdesc_camera">Prendre des photos et enregistrer des vidéos</string>
@@ -165,4 +186,5 @@
   <string name="virtual_reject_notice_title_contacts">"%1$s tente d'accéder aux contacts"</string>
   <string name="virtual_reject_notice_title_phonestate">"%1$s tente d'accéder aux informations de l'appareil"</string>
   <string name="virtual_reject_notice_title_sms">"%1$s tente d'accéder aux messages"</string>
+  <string name="yes">Oui</string>
 </resources>

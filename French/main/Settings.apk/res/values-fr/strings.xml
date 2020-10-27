@@ -3133,6 +3133,7 @@ Vous pouvez afficher les journaux générés dans le Gestionnaire de fichiers."<
   <string name="enable_terminal_title">Terminal local</string>
   <string name="enable_text">Activer</string>
   <string name="enable_wifi_display">Affichage sans fil</string>
+  <string name="enabled">Activé</string>
   <string name="enabled_authorised_apps_summary">Votre autorisation sera révoquée après avoir basculé les boutons des applications individuelles.</string>
   <string name="enabled_authorised_apps_title">Permissions accordée</string>
   <string name="enabled_by_admin">"Activé par l'administrateur"</string>
@@ -4802,6 +4803,7 @@ Sélectionnez votre système d'exploitation:"</string>
   <string name="normal_info">Tous les sons fonctionneront normalement</string>
   <string name="normal_smartcover_title">Étui avec facade opaque</string>
   <string name="not_battery_optimizing">Optimisation de la batterie non utilisée</string>
+  <string name="not_enabled">Désactivé</string>
   <string name="not_installed">Non installé pour cet utilisateur</string>
   <string name="notch_and_status_bar_settings">"Centre de contrôle et barre d'état"</string>
   <string name="notch_force_black_desc">"Activer pour assombrir la zone autour de l'encoche"</string>
@@ -4990,6 +4992,7 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
   <string name="other_advanced_settings">Paramètres additionnels</string>
   <string name="other_data">Autres éléments sur cet appareil</string>
   <string name="other_device_info">Autres</string>
+  <string name="other_input_method">Autres claviers</string>
   <string name="other_input_settings">Paramètres additionnels du clavier</string>
   <string name="other_personal_settings">Paramètres personnels</string>
   <string name="other_relative">Autre</string>
@@ -6498,7 +6501,7 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
   <string name="status_bar_settings_all_app_display_loading">Chargement…</string>
   <string name="status_bar_settings_manage_notification">"Notifications d'applications"</string>
   <string name="status_bar_settings_show_lte_for_4g">"Afficher l'icône LTE pour la 4G"</string>
-  <string name="status_bar_settings_show_weather">Afficher la météo dans la barre de notification</string>
+  <string name="status_bar_settings_show_weather">Afficher les informations sur la météo</string>
   <string name="status_bar_settings_notification_bar">Panneau de notification</string>
   <string name="status_bar_settings_status_bar">Barre de statut</string>
   <string name="status_bar_title">"Centre de contrôle et barre d'état"</string>
@@ -6764,7 +6767,7 @@ Essayez d'utiliser un périphérique ^3 plus rapide, ou utilisez à la place ^4 
   <string name="sync_enable">Synchroniser</string>
   <string name="sync_enabled">Synchronisation activée</string>
   <string name="sync_error">Erreur de synchronisation</string>
-  <string name="sync_failed">Échec de la synchronisation</string>
+  <string name="sync_failed">Impossible de synchroniser. Attendez une minute ou deux et réessayez.</string>
   <string name="sync_gmail">Gmail</string>
   <string name="sync_in_progress">Synchronisation en cours…</string>
   <string name="sync_is_failing">La synchronisation rencontre des problèmes et sera bientôt rétablie.</string>
@@ -6776,6 +6779,7 @@ Essayez d'utiliser un périphérique ^3 plus rapide, ou utilisez à la place ^4 
   <string name="sync_plug"><font fgcolor="#ffffffff">Bienvenue sur Google Sync !</font>"
 Une solution Google pour synchroniser vos données et vous permettre d'accéder à vos contacts, vos rendez-vous et plus, où que vous soyez."</string>
   <string name="sync_settings">Autres comptes</string>
+  <string name="sync_success">Synchronisé avec succès</string>
   <string name="sync_wifi_label">Wi-Fi</string>
   <string name="sync_wifi_only">Synchronisation seulement en Wi-Fi</string>
   <string name="system">Système</string>
@@ -7217,6 +7221,7 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
   <string name="usb_preference">Préférences USB</string>
   <string name="usb_ptp_summary">"Permet de transférer des photos à l'aide du logiciel photo et de transférer des fichiers sur les ordinateurs non compatibles avec le protocole MTP."</string>
   <string name="usb_ptp_title">Appareil photo (PTP)</string>
+  <string name="usb_reverse_charge">Charge inversée</string>
   <string name="usb_summary_MIDI_power">MIDI et alimentation</string>
   <string name="usb_summary_charging_only">"Rechargement de l'appareil"</string>
   <string name="usb_summary_file_transfers">Transfert de fichiers</string>
@@ -7241,8 +7246,11 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
   <string name="usb_use_charging_only_desc">Uniquement pour charger cet appareil</string>
   <string name="usb_use_file_transfers">Transfert de fichiers</string>
   <string name="usb_use_file_transfers_desc">Transférer des fichiers vers un autre appareil</string>
+  <string name="usb_use_file_transfers_miui12_5">Transferts de fichiers</string>
+  <string name="usb_use_miui12_5">Utiliser USB pour</string>
   <string name="usb_use_photo_transfers">Transférer des photos (PTP)</string>
   <string name="usb_use_photo_transfers_desc">"Transférer des photos ou des fichiers si MTP n'est pas compatible (PTP)"</string>
+  <string name="usb_use_photo_transfers_miui12_5">Transferts de photos</string>
   <string name="usb_use_power_only">"Recharger l'appareil connecté"</string>
   <string name="usb_use_tethering">Partage de connexion via USB</string>
   <string name="use_location_summary">Autoriser Google à utiliser votre position pour améliorer vos résultats de recherche et autres services Google</string>
@@ -8129,6 +8137,7 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
   <string name="xiaomi_cloud_service_description_format">"Xiaomi Cloud synchronise vos %s photos, sauvegarde vos applications et vos paramètres et vous aide à trouver votre téléphone à l'aide de Trouver un appareil."</string>
   <string name="xiaomi_cloud_service_disabled">Désactivé</string>
   <string name="xiaomi_cloud_service_unknown">Inconnu</string>
+  <string name="xiaomi_custom_input_method">Personnalisé pour Xiaomi</string>
   <string name="xiaomi_money_service">Mi Crédit</string>
   <string name="xiaomi_router_available_notif_summary">"Appuyez pour afficher plus d'infos."</string>
   <string name="xiaomi_router_available_notif_title">Mi Router détecté</string>

@@ -137,6 +137,10 @@
         <item quantity="other">%1$d minutes</item>
         <item quantity="one">%1$d minute</item>
     </plurals>
+    <plurals name="notification_checker_installed_apk_text">
+        <item quantity="other">"Supprimer %d paquets d'installation"</item>
+        <item quantity="one">"Supprimer %d paquet d'installation"</item>
+    </plurals>
     <plurals name="people">
         <item quantity="other">Téléchargé par %1$d personnes</item>
         <item quantity="one">Téléchargé par %1$d personnes</item>
