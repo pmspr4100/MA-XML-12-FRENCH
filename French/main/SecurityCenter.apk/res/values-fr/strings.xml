@@ -2968,6 +2968,14 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
   <string name="reach_daily_limit_value_body">Réduisez votre consommation de données mobiles.</string>
   <string name="reach_daily_limit_value_title">Limite quotidienne de données atteinte</string>
   <string name="read_all_sms">Tout lire</string>
+  <string name="read_and_write_clipboard">Accéder et enregistrer les éléments du presse-papiers</string>
+  <string name="read_clipboard_ai_close_no">Pas maintenant</string>
+  <string name="read_clipboard_ai_close_tip">"Vous ne recevrez plus de notifications lorsque les applications accèderont au presse-papiers. Toutefois cette permission ne sera active que lorsque vous utiliserez ces applications. Ajuster ces permissions ?"</string>
+  <string name="read_clipboard_ai_close_yes">Ajuster</string>
+  <string name="read_clipboard_op_content">"Plutôt que d'accorder la permission lorsque vous utilisez l'application, vous recevrez une notification chaque fois que les applications accèderont à votre presse-papiers."</string>
+  <string name="read_clipboard_op_title">Notifier lorsque des applications accèdent aux éléments du presse-papiers</string>
+  <string name="read_clipboard_tip_content">Cette permission autorise les applications à lire tout contenu que vous copiez, ce qui peut inclure des informations privées (par ex. vos détails de compte, des numéros de cartes bancaires, ou des mots de passe).</string>
+  <string name="read_clipboard_tip_title">Accès aux éléments du presse-papiers</string>
   <string name="receive_now">Recevoir</string>
   <string name="recently_reject_message">Installation rejetée de %1$s et %2$d autres applications</string>
   <string name="recently_reject_message_one">"Demande d'installation %1$s rejetée"</string>
