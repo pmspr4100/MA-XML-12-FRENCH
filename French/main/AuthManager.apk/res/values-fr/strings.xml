@@ -5,12 +5,14 @@
   <string name="HIPS_Action_Accept_Once">Autoriser cette fois</string>
   <string name="HIPS_Action_Accept_This">Autoriser cette fois</string>
   <string name="HIPS_Action_Reject">Refuser</string>
-  <string name="HIPS_Action_Reject_Once">Refuser cette fois</string>
-  <string name="HIPS_Action_Reject_This">Refuser cette fois</string>
+  <string name="HIPS_Action_Reject_Once">Refuser une fois</string>
+  <string name="HIPS_Action_Reject_This">Restreindre une fois</string>
+  <string name="HIPS_Perm_Access_Gallery">Accéder à Galerie</string>
+  <string name="HIPS_Perm_Access_Gallery_Desc">Autorise cette application à accéder aux éléments de votre Galerie</string>
   <string name="HIPS_Perm_AudioRecorder">Enregistrement audio</string>
   <string name="HIPS_Perm_AudioRecorder_Desc">Enregistrer des appels audio et téléphoniques</string>
-  <string name="HIPS_Perm_AutoStart">"S'exécuter au démarrage"</string>
-  <string name="HIPS_Perm_AutoStart_Desc">"s'exécuter au démarrage"</string>
+  <string name="HIPS_Perm_AutoStart">Exécuter au démarrage</string>
+  <string name="HIPS_Perm_AutoStart_Desc">Exécute au démarrage"</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity">Changer la connectivité Bluetooth</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Désactive ou active le Bluetooth</string>
   <string name="HIPS_Perm_Body_Sensors">Capteur de corps</string>
@@ -89,6 +91,8 @@
   <string name="HIPS_Perm_service_foreground_Desc">services du premier plan</string>
   <string name="HIPS_Perm_show_when_locked">"Afficher à l'écran de verrouillage"</string>
   <string name="HIPS_Perm_show_when_locked_Desc">"Affiche à l'écran de verrouillage"</string>
+  <string name="HIPS_Perm_tencentControl">Accéder aux messages dans les applications de réseaux sociaux</string>
+  <string name="HIPS_Perm_tencentControl_Desc">Autorise cette application à accéder à vos messages WeChat et QQ</string>
   <string name="HIPS_Perm_use_sip">Les services vidéo</string>
   <string name="HIPS_Perm_use_sip_Desc">"Utiliser le protocole d'initiation de session (SIP) pour diffuser des vidéos"</string>
   <string name="HIPS_Perm_write_clipboard">Enregistrer les éléments dans le presse-papiers</string>
@@ -96,6 +100,7 @@
   <string name="HIPS_SecurityPrompt_Caption">Avertissement de sécurité</string>
   <string name="HIPS_SecurityPrompt_Reject">Refuser (%d)</string>
   <string name="HIPS_SecurityPrompt_Reject_Clear_This">Restreindre et nettoyer le presse-papiers (%d)</string>
+  <string name="HIPS_SecurityPrompt_Reject_Never">Refuser et ne plus demander (%d)</string>
   <string name="HIPS_SecurityPrompt_Reject_Once">Refuser cette fois (%d)</string>
   <string name="HIPS_SecurityPrompt_Reject_This">Refuser cette fois (%d)</string>
   <string name="HIPS_SecurityPrompt_Title">%1$s essaie de %2$s</string>

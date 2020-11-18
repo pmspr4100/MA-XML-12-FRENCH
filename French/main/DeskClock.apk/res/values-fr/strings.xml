@@ -27,19 +27,26 @@
   <string name="abc_shareactionprovider_share_with">Partager avec</string>
   <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
   <string name="abc_toolbar_collapse_description">Réduire</string>
-  <string name="action_for_continue_timer">Resume</string>
+  <string name="action_for_continue_timer">Reprendre</string>
   <string name="action_for_pause_timer">Pause</string>
-  <string name="action_for_restart">Repeat</string>
+  <string name="action_for_restart">Répéter</string>
   <string name="action_for_snooze">Snooze</string>
   <string name="action_for_stop">Stop</string>
-  <string name="add_timer">Frequent timer</string>
-  <string name="already_exist">This timer already exists</string>
-  <string name="app_name">Preference</string>
-  <string name="city_time_contrast_desc">Tap to compare time in different cities</string>
+  <string name="actionbar_button_up_description">Retour</string>
+  <string name="add_alarm">Ajouter une alarme</string>
+  <string name="add_clock">Ajouter une horloge</string>
+  <string name="add_common_timer">Ajouter un minuteur</string>
+  <string name="add_timer">Minuteur fréquent</string>
+  <string name="add_timezone_title">Ajouter un fuseau horaire</string>
+  <string name="already_exist">Ce minuteur existe déjà</string>
+  <string name="afternoon">Après-midi</string>
+  <string name="app_name">Préférence</string>
+  <string name="city_time_contrast_desc">"Appuyez pour comparer l'heure dans différentes villes"</string>
+  <string name="clearable_edittext_clear_description">Effacer</string>
   <string name="expand_button_title">Avancé</string>
-  <string name="not_set">Not set</string>
-  <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
-  <string name="reach_upper_limit">"Can't add more timers"</string>
+  <string name="not_set">Non réglé</string>
+  <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
+  <string name="reach_upper_limit">"Impossible d'ajouter d'autres minuteurs"</string>
   <string name="sleep_analysis_chart_date_format">MM/dd</string>
   <string name="system_permission_agree_desc">Allow this app to connect to the internet to access all its features.</string>
   <string name="system_permission_main_purpose">Viewing time, setting alarms and timers, using stopwatch</string>
@@ -48,10 +55,6 @@
   <string name="worldclock_second_time">Time in %s</string>
   <string name="worldcolock_time_date">dd/MM/yyyy</string>
   <string name="search_menu_title">Rechercher</string>
-  <string name="add_alarm">Ajouter une alarme</string>
-  <string name="add_clock">Ajouter une horloge</string>
-  <string name="add_common_timer">Ajouter un timer</string>
-  <string name="add_timezone_title">Ajouter un fuseau horaire</string>
   <string name="agree">Accepter</string>
   <string name="alarm_alert_alert_silenced">Alarmes silencieuses après %1$s.</string>
   <string name="alarm_alert_disabled">Désactiver</string>
@@ -90,7 +93,7 @@
   <string name="bedtime_analysis_more">Plus de données</string>
   <string name="bedtime_banner_desc">Un sommeil constant est important</string>
   <string name="bedtime_banner_guide_desc">Planifiez votre heure de coucher</string>
-  <string name="bedtime_guide_back_desc">"Vous ne pourrez pas recevoir d'alertes à l'heure du coucher si vous quittez maintenant. Quitter quand même ?"</string>
+  <string name="bedtime_guide_back_desc">"Vous ne pourrez pas recevoir d'alertes à l'heure du coucher si vous quittez maintenant. Quitter quand même ?"</string>
   <string name="bedtime_manage">"Gérer l'heure du coucher"</string>
   <string name="bedtime_manage_desc">"Planifiez des rappels à l'heure du coucher et respectez votre sommeil"</string>
   <string name="bedtime_manage_open">Planifiez votre heure de coucher</string>
@@ -100,15 +103,15 @@
   <string name="bedtime_repeat_type">Programme</string>
   <string name="bedtime_setting_complete">Dormez bien !</string>
   <string name="bedtime_setting_complete_desc">Suivez votre nouvel horaire de coucher pour rester en forme</string>
-  <string name="bedtime_setting_no_disturbance">Passer au mode NPD pendant que vous dormez ?</string>
+  <string name="bedtime_setting_no_disturbance">Passer au mode NPD pendant que vous dormez ?</string>
   <string name="bedtime_setting_no_disturbance_desc">"Les sonneries, les sons de notification et les vibrations seront réduits au silence jusqu'à votre réveil"</string>
-  <string name="bedtime_setting_repeat_type">"Quand votre horaire de coucher s'applique-t-il ?"</string>
+  <string name="bedtime_setting_repeat_type">"Quand votre horaire de coucher s'applique-t-il ?"</string>
   <string name="bedtime_setting_repeat_type_desc">"Sélectionnez les jours où vous recevrez des rappels"</string>
   <string name="bedtime_settings">Paramètres du coucher</string>
   <string name="bedtime_sleep_time_remind">"On vous rappellera d'aller vous coucher 15 minutes avant cette heure"</string>
-  <string name="bedtime_sleep_time_setting">Quand irez-vous au lit ?</string>
+  <string name="bedtime_sleep_time_setting">Quand irez-vous au lit ?</string>
   <string name="bedtime_wake_up_time_remind">Une alarme se déclenchera à ce moment</string>
-  <string name="bedtime_wake_up_time_setting">Quand vous lèverez-vous ?</string>
+  <string name="bedtime_wake_up_time_setting">Quand vous lèverez-vous ?</string>
   <string name="bedtime_welcome">Gérez votre heure de coucher</string>
   <string name="bedtime_welcome_desc">"Le maintien d'un horaire de sommeil régulier et uniforme est bénéfique pour votre santé. Définissez des rappels qui vous aideront à aller au lit et à vous lever à l'heure tous les jours."</string>
   <string name="birthday_alarm">"Alarme d'anniversaire"</string>
@@ -136,25 +139,33 @@
   <string name="control_set_alarm_with_existing">"Régler l'alarme: %s"</string>
   <string name="copy">Copie</string>
   <string name="current_stopwatch_time">Durée actuelle</string>
+  <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
   <string name="default_alarm_alert">"Sonnerie d'alarme par défaut"</string>
   <string name="default_alarm_title">Sonnerie par défaut</string>
   <string name="default_label">Alarme</string>
   <string name="delete">Supprimer</string>
   <string name="delete_alarm">Supprimer une alarme</string>
-  <string name="delete_selected_timer_item">Supprimer cette tâche ?</string>
+  <string name="delete_selected_timer_item">Supprimer cette tâche ?</string>
   <string name="delete_timer_item_title">Supprimer la tâche</string>
   <string name="delete_timezone_title">Supprimer le fuseau horaire</string>
   <string name="deskclock_sleep_no_disturbance">"Horloge - Gérer l'heure du coucher - Mode NPD"</string>
-  <string name="dialog_confirm_abort">Annuler vos changements ?</string>
+  <string name="dialog_confirm_abort">Annuler vos changements ?</string>
   <string name="dialog_message_agree">Accepter</string>
-  <string name="dialog_message_for_contact_permission">"Afin de rendre disponible les alarmes d'anniversaire, l'horloge doit accéder à vos contacts. Acceptez-vous ?"</string>
+  <string name="dialog_message_for_contact_permission">"Afin de rendre disponible les alarmes d'anniversaire, l'horloge doit accéder à vos contacts. Acceptez-vous ?"</string>
   <string name="dialog_message_negative">Refuser</string>
   <string name="dialog_message_not_remind">Ne plus afficher</string>
-  <string name="dialog_privacy_content">"Pour obtenir des informations pertinentes sur les jours fériés locaux, régler les alarmes et fournir des services personnalisés, L'horloge doit se connecter à internet. Avant de l'utiliser, vous devez également lire et accepter notre %1$s et %2$s. Accepter ?"</string>
-  <string name="dialog_privacy_content_global">"Afin de fournir des services personnalisés, L'horloge doit se connecter à internet. Avant de l'utiliser, vous devez également lire et accepter notre %1$s et %2$s. Accepter ?"</string>
-  <string name="dialog_privacy_content_news">"Afin de fournir des services personnalisés et d'inclure les nouvelles du matin dans vos alarmes, L'horloge doit se connecter à internet. Avant de l'utiliser, vous devez également lire et accepter notre %1$s et %2$s. Accepter ?"</string>
-  <string name="dialog_privacy_content_timer">"Pour pouvoir télécharger des fichiers audio pour les minuteries de bruit ambiant et fournir des services personnalisés, L'horloge doit se connecter à internet. Avant de l'utiliser, vous devez également lire et accepter notre %1$s et %2$s. Accepter ?"</string>
-  <string name="dialog_privacy_content_timer_data">"Pour pouvoir télécharger des fichiers audio pour des minuteries de bruit ambiant (≈20 Mo) et fournir des services personnalisés, L'horloge doit se connecter à internet. Avant de l'utiliser, vous devez également lire et accepter notre %1$s et %2$s. Vous utilisez les données mobiles maintenant. Accepter ?"</string>
+  <string name="dialog_privacy_content">"Pour obtenir des informations pertinentes sur les jours fériés locaux, régler les alarmes et fournir des services personnalisés, L'horloge doit se connecter à internet. Avant de l'utiliser, vous devez également lire et accepter notre %1$s et %2$s. Accepter ?"</string>
+  <string name="dialog_privacy_content_global">"Afin de fournir des services personnalisés, L'horloge doit se connecter à internet. Avant de l'utiliser, vous devez également lire et accepter notre %1$s et %2$s. Accepter ?"</string>
+  <string name="dialog_privacy_content_news">"Afin de fournir des services personnalisés et d'inclure les nouvelles du matin dans vos alarmes, L'horloge doit se connecter à internet. Avant de l'utiliser, vous devez également lire et accepter notre %1$s et %2$s. Accepter ?"</string>
+  <string name="dialog_privacy_content_timer">"Pour pouvoir télécharger des fichiers audio pour les minuteries de bruit ambiant et fournir des services personnalisés, L'horloge doit se connecter à internet. Avant de l'utiliser, vous devez également lire et accepter notre %1$s et %2$s. Accepter ?"</string>
+  <string name="dialog_privacy_content_timer_data">"Pour pouvoir télécharger des fichiers audio pour des minuteries de bruit ambiant (≈20 Mo) et fournir des services personnalisés, L'horloge doit se connecter à internet. Avant de l'utiliser, vous devez également lire et accepter notre %1$s et %2$s. Vous utilisez les données mobiles maintenant. Accepter ?"</string>
+  <string name="dialog_legal_off_day">"&lt;Data&gt; "On dirait que vous utilisez des alarmes de vacances. Cette fonction doit se connecter à internet pour fonctionner normalement. Avant d'utiliser cette fonction, vous devez accepter notre &amp;lt;a href=\"%1$s\"&amp;gt;Contrat d'utilisation&amp;lt;/a&amp;gt; et &amp;lt;a href=\"%2$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;. D'accord ? "&lt;/Data&gt;"</string>
+  <string name="dialog_legal_off_day_desc">"L'horloge n'est pas autorisée à se connecter à internet pour mettre à jour les informations sur les vacances. Les alarmes de vacances se déclencheront le samedi et le dimanche."</string>
+  <string name="dialog_legal_workday">"On dirait que vous utilisez des alarmes en semaine. Cette fonction doit être connectée à internet pour fonctionner normalement. Avant d'utiliser cette fonction, vous devez accepter notre &amp;lt;a href=\"%1$s\"&amp;gt;Contrat d'utilisation&amp;lt;/a&amp;gt ; et &amp;lt;a href=\"%2$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;. D'accord ? "&lt;/Data&gt;"</string>
+  <string name="dialog_legal_workday_and_off_day">"On dirait que vous utilisez les alarmes de la semaine et des jours fériés. Cette fonction doit être connectée à internet pour fonctionner normalement. Avant d'utiliser cette fonction, vous devez accepter notre &amp;lt;a href=\"%1$s\"&amp;gt;Contrat d'utilisation&amp;lt;/a&amp;gt; et &amp;lt;a href=\"%2$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt ;. D'accord ? "&lt;/Data&gt;"</string>
+  <string name="dialog_legal_workday_and_off_day_desc">"L'horloge n'est pas autorisée à se connecter à internet pour mettre à jour les informations sur les vacances. Les alarmes des jours de semaine se déclenchent du lundi au vendredi. Les alarmes des jours fériés se déclenchent le samedi et le dimanche."</string>
+  <string name="dialog_legal_workday_desc">"L'horloge n'est pas autorisée à se connecter à internet pour mettre à jour les informations sur les jours ouvrables. Les alarmes des jours de semaine se déclenchent du lundi au vendredi."</string>
+  <string name="dialog_net_permission_in_repeat_type">"&lt;Data&gt;Cette fonction doit se connecter à l'internet pour fonctionner normalement. Avant d'utiliser cette fonction, vous devez accepter notre &amp;lt;a href=\"%1$s\"&amp;gt;Contrat d'utilisation&amp;lt;/a&amp;gt ; et &amp;lt;a href=\"%2$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;. D'accord ?"</string>
   <string name="disagree">"Pas d'accord"</string>
   <string name="done">Terminé</string>
   <string name="dynamic_alarm_speech">Alarme intelligente</string>
@@ -167,6 +178,9 @@
   <string name="force_touch_add_alarm">Ajouter une alarme</string>
   <string name="force_touch_enter_stopwatch">Chrono.</string>
   <string name="force_touch_enter_timer">Minuteur</string>
+  <string name="friday">Vendredi</string>
+  <string name="friday_short">Ven</string>
+  <string name="friday_shortest">Ven</string>
   <string name="go_back">Retour</string>
   <string name="holiday_update">Une mise à jour pour les jours fériés est disponible</string>
   <string name="holiday_update_fail">"Impossible de mettre à jour"</string>
@@ -215,7 +229,7 @@
   <string name="life_post_wake_up_time_title">Heure de réveil</string>
   <string name="life_post_weather_invalid">Appuyez pour obtenir les infos météo</string>
   <string name="life_post_weather_no_network">Connectez-vous au réseau pour mettre à jour les infos météo</string>
-  <string name="listen_news_privacy">"&lt;Data&gt;Afin de fournir des services personnalisés et d'inclure les nouvelles du matin dans vos alarmes, l'horloge doit se connecter à internet. Avant d'utiliser l'horloge, vous devez également lire et accepter nos &amp;lt;a href=\"%1$s\"&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href=\"%2$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;. Accepter ?&lt;/Data&gt;"</string>
+  <string name="listen_news_privacy">"&lt;Data&gt;Afin de fournir des services personnalisés et d'inclure les nouvelles du matin dans vos alarmes, l'horloge doit se connecter à internet. Avant d'utiliser l'horloge, vous devez également lire et accepter nos &amp;lt;a href=\"%1$s\"&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href=\"%2$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;. Accepter ?&lt;/Data&gt;"</string>
   <string name="loading_ringtone">Chargement de la sonnerie…</string>
   <string name="menu_add_worldclock">Ajouter une horloge</string>
   <string name="menu_desk_clock">Horloge</string>
@@ -223,7 +237,19 @@
   <string name="menu_item_dock_settings">Paramètre du dock</string>
   <string name="menu_item_sort_by_gmt_offset">Trier par date</string>
   <string name="menu_item_sort_by_name">Trier par nom</string>
-  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez pour actualisé</string>
+  <string name="midnight">Nuit</string>
+  <string name="miuix_appcompat_action_mode_deselect_all">Désélectionner</string>
+  <string name="miuix_appcompat_action_mode_select_all">Tout sélectionner</string>
+  <string name="miuix_appcompat_action_mode_title_empty">Sélectionner des éléments</string>
+  <string name="miuix_appcompat_actionbar_immersion_button_more_description">Plus</string>
+  <string name="miuix_appcompat_cancel_description">Annuler</string>
+  <string name="miuix_appcompat_confirm_description">Confirmer</string>
+  <string name="miuix_appcompat_delete_description">Supprimer</string>
+  <string name="miuix_appcompat_deselect_all_description">Tout désélectionner</string>
+  <string name="miuix_appcompat_search_action_mode_cancel">Annuler</string>
+  <string name="miuix_appcompat_search_input_description">Chercher</string>
+  <string name="miuix_appcompat_select_all_description">Tout sélectionner</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez pour actualiser</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualisation…</string>
   <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Relâcher pour actualiser</string>
@@ -235,16 +261,16 @@
   <string name="module_dialog_neutral">Compris</string>
   <string name="module_dialog_positive">Accepter</string>
   <string name="module_download_cancel">Non merci</string>
-  <string name="module_download_data_msg">"Pour rendre les alarmes intelligentes MIUI disponibles, l'horloge doit télécharger les fichiers audio. Les alarmes intelligentes contiennent des fonctionnalités audio qui permettent d'inclure les informations météorologiques actuelles dans les alarmes. ≈20Mo de vos données cellulaires seront nécessaires pour ce téléchargement. Télécharger maintenant ?"</string>
-  <string name="module_download_data_msg_golbal">"L'horloge a besoin de télécharger des fichiers audio pour les alarmes intelligentes MIUI. ≈20Mo de vos données cellulaires seront nécessaires pour ce téléchargement. Télécharger maintenant ?"</string>
-  <string name="module_download_data_msg_replace">"Le système audio mis à jour pour les alarmes intelligentes MIUI est disponible. ≈20Mo de vos données cellulaires seront nécessaires pour ce téléchargement. Télécharger maintenant ?"</string>
-  <string name="module_download_data_msg_timer">"L'horloge a besoin de télécharger des fichiers audio pour les minuteries de bruit ambiant. ≈20Mo de vos données cellulaires seront nécessaires pour ce téléchargement. Télécharger maintenant ?"</string>
+  <string name="module_download_data_msg">"Pour rendre les alarmes intelligentes MIUI disponibles, l'horloge doit télécharger les fichiers audio. Les alarmes intelligentes contiennent des fonctionnalités audio qui permettent d'inclure les informations météorologiques actuelles dans les alarmes. ≈20Mo de vos données cellulaires seront nécessaires pour ce téléchargement. Télécharger maintenant ?"</string>
+  <string name="module_download_data_msg_golbal">"L'horloge a besoin de télécharger des fichiers audio pour les alarmes intelligentes MIUI. ≈20Mo de vos données cellulaires seront nécessaires pour ce téléchargement. Télécharger maintenant ?"</string>
+  <string name="module_download_data_msg_replace">"Le système audio mis à jour pour les alarmes intelligentes MIUI est disponible. ≈20Mo de vos données cellulaires seront nécessaires pour ce téléchargement. Télécharger maintenant ?"</string>
+  <string name="module_download_data_msg_timer">"L'horloge a besoin de télécharger des fichiers audio pour les minuteries de bruit ambiant. ≈20Mo de vos données cellulaires seront nécessaires pour ce téléchargement. Télécharger maintenant ?"</string>
   <string name="module_download_fail">Impossible de télécharger un module audio supplémentaire</string>
   <string name="module_download_failure">"Impossible de télécharger l'audio. Vérifiez vos paramètres réseau et réessayez."</string>
-  <string name="module_download_msg">"Pour rendre les alarmes intelligentes MIUI disponibles, l'horloge doit télécharger les fichiers audio. Les alarmes intelligentes contiennent des fonctionnalités audio qui permettent d'inclure les informations météorologiques actuelles dans les alarmes. Télécharger maintenant ?"</string>
-  <string name="module_download_msg_golbal">"L'horloge a besoin de télécharger des fichiers audio pour les alarmes intelligentes MIUI. Télécharger maintenant ?"</string>
-  <string name="module_download_msg_replace">Le système audio mis à jour pour les alarmes intelligentes MIUI est disponible. Télécharger maintenant ?</string>
-  <string name="module_download_msg_timer">"L'horloge a besoin de télécharger des fichiers audio pour les minuteries de bruit ambiant. Télécharger maintenant ?"</string>
+  <string name="module_download_msg">"Pour rendre les alarmes intelligentes MIUI disponibles, l'horloge doit télécharger les fichiers audio. Les alarmes intelligentes contiennent des fonctionnalités audio qui permettent d'inclure les informations météorologiques actuelles dans les alarmes. Télécharger maintenant ?"</string>
+  <string name="module_download_msg_golbal">"L'horloge a besoin de télécharger des fichiers audio pour les alarmes intelligentes MIUI. Télécharger maintenant ?"</string>
+  <string name="module_download_msg_replace">Le système audio mis à jour pour les alarmes intelligentes MIUI est disponible. Télécharger maintenant ?</string>
+  <string name="module_download_msg_timer">"L'horloge a besoin de télécharger des fichiers audio pour les minuteries de bruit ambiant. Télécharger maintenant ?"</string>
   <string name="module_download_no_network">"L'horloge doit se connecter à internet pour télécharger de l'audio. Vérifiez vos paramètres réseau et réessayez."</string>
   <string name="module_download_ok">Autoriser</string>
   <string name="module_download_success">Module audio téléchargé avec succès</string>
@@ -253,45 +279,81 @@
   <string name="module_unzipping">Unpacking audio…</string>
   <string name="module_update_success">"Le fichier audio mis à jour pour les alarmes intelligentes MIUI a été téléchargé avec succès. Vous pouvez définir les alarmes intelligentes MIUI dans les paramètres de l'horloge."</string>
   <string name="module_update_success_control">Compris</string>
-  <string name="module_weather_ringtone_download_data">"L'alarme météo sélectionne différentes sonneries en fonction de la météo actuelle. L'horloge doit télécharger ≈30 Mo d'audio pour le faire fonctionner. Télécharger maintenant ?"</string>
+  <string name="module_weather_ringtone_download_data">"L'alarme météo sélectionne différentes sonneries en fonction de la météo actuelle. L'horloge doit télécharger ≈30 Mo d'audio pour le faire fonctionner. Télécharger maintenant ?"</string>
   <string name="module_weather_ringtone_download_data_privacy">&lt;Data&gt;Weather alarm selects different ringtones according to the current weather. Clock needs to connect to the internet to download &amp;#8776;30MB of audio. Before using Clock, you must also read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;. Agree?&lt;/Data&gt;</string>
-  <string name="module_weather_ringtone_download_wifi">"L'alarme météo sélectionne différentes sonneries en fonction de la météo actuelle. L'horloge doit télécharger de l'audio pour le faire fonctionner. Télécharger maintenant ?"</string>
+  <string name="module_weather_ringtone_download_wifi">"L'alarme météo sélectionne différentes sonneries en fonction de la météo actuelle. L'horloge doit télécharger de l'audio pour le faire fonctionner. Télécharger maintenant ?"</string>
   <string name="module_weather_ringtone_download_wifi_privacy">&lt;Data&gt;Weather alarm selects different ringtones according to the current weather. Clock needs to connect to the internet to download audio. Before using Clock, you must also read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;. Agree?&lt;/Data&gt;</string>
   <string name="module_weather_ringtone_introduce">"L'alarme météo sélectionne différentes sonneries en fonction de la météo actuelle. Il vous permet également d'écouter les informations météo actuelles le matin."</string>
   <string name="module_weather_ringtone_introduce_global">"L'alarme météo sélectionne différentes sonneries en fonction de la météo actuelle."</string>
-  <string name="module_weather_ringtone_update_data">"L'alarme météo est désormais accompagnée d'une musique de fond et de meilleures annonces vocales. L'horloge doit télécharger ≈30 Mo d'audio pour le faire fonctionner. Télécharger maintenant ?"</string>
+  <string name="module_weather_ringtone_update_data">"L'alarme météo est désormais accompagnée d'une musique de fond et de meilleures annonces vocales. L'horloge doit télécharger ≈30 Mo d'audio pour le faire fonctionner. Télécharger maintenant ?"</string>
   <string name="module_weather_ringtone_update_success">"L'alarme météo est désormais accompagnée d'une musique de fond et de meilleures annonces vocales. Vous pouvez créer une nouvelle alarme pour essayer cette fonction."</string>
-  <string name="module_week_ringtone_download_data">"L'alarme hebdomadaire émet différents sons de la nature tous les jours de la semaine. L'horloge doit télécharger ≈30 Mo d'audio pour le faire fonctionner. Télécharger maintenant ?"</string>
+  <string name="module_week_ringtone_download_data">"L'alarme hebdomadaire émet différents sons de la nature tous les jours de la semaine. L'horloge doit télécharger ≈30 Mo d'audio pour le faire fonctionner. Télécharger maintenant ?"</string>
   <string name="module_week_ringtone_download_data_privacy">&lt;Data&gt;Nature alarm plays different sounds depending on the date. Clock needs to connect to the internet to download &amp;#8776;30MB of audio. Before using Clock, you must also read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;. Agree?&lt;/Data&gt;</string>
-  <string name="module_week_ringtone_download_wifi">"L'alarme hebdomadaire émet différents sons de la nature tous les jours de la semaine. L'horloge doit télécharger de l'audio pour le faire fonctionner. Télécharger maintenant ?"</string>
+  <string name="module_week_ringtone_download_wifi">"L'alarme hebdomadaire émet différents sons de la nature tous les jours de la semaine. L'horloge doit télécharger de l'audio pour le faire fonctionner. Télécharger maintenant ?"</string>
   <string name="module_week_ringtone_download_wifi_privacy">&lt;Data&gt;Nature alarm plays different sounds depending on the date. Clock needs to connect to the internet to download audio. Before using Clock, you must also read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;. Agree?&lt;/Data&gt;</string>
   <string name="module_week_ringtone_introduce">"L'alarme hebdomadaire émet différents sons de la nature tous les jours de la semaine."</string>
-  <string name="module_week_ringtone_update_data">"L'alarme hebdomadaire émet différents sons de la nature tous les jours de la semaine. L'horloge doit télécharger ≈30 Mo d'audio pour le faire fonctionner. Télécharger maintenant ?"</string>
+  <string name="module_week_ringtone_update_data">"L'alarme hebdomadaire émet différents sons de la nature tous les jours de la semaine. L'horloge doit télécharger ≈30 Mo d'audio pour le faire fonctionner. Télécharger maintenant ?"</string>
   <string name="module_week_ringtone_update_success">"L'alarme hebdomadaire est accompagnée d'une musique de fond pour chaque jour de la semaine. Vous pouvez créer une nouvelle alarme pour essayer cette fonctionnalité."</string>
   <string name="module_white_noise_download_data">"L'horloge doit télécharger des fichiers audio pour les minuteurs de bruit ambiant. (≈30 Mo) de vos données mobiles seront nécessaires pour ce téléchargement. Télécharger maintenant?"</string>
   <string name="module_white_noise_download_data_privacy">&lt;Data&gt;"In order to download audio files for ambient noise timers (&amp;#8776;30MB) and provide personalized services, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;. You're using mobile data now. Agree?"&lt;/Data&gt;</string>
-  <string name="module_white_noise_download_wifi">"L'horloge doit télécharger des fichiers audio pour les minuteurs de bruit ambiant. Télécharger maintenant ?"</string>
+  <string name="module_white_noise_download_wifi">"L'horloge doit télécharger des fichiers audio pour les minuteurs de bruit ambiant. Télécharger maintenant ?"</string>
   <string name="module_white_noise_download_wifi_privacy">&lt;Data&gt;In order to download audio files for ambient noise timers and provide personalized services, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt; Agree?&lt;/Data&gt;</string>
-  <string name="dialog_legal_off_day">"&lt;Data&gt; "On dirait que vous utilisez des alarmes de vacances. Cette fonction doit se connecter à internet pour fonctionner normalement. Avant d'utiliser cette fonction, vous devez accepter notre &amp;lt;a href=\"%1$s\"&amp;gt;Contrat d'utilisation&amp;lt;/a&amp;gt; et &amp;lt;a href=\"%2$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;. D'accord ? "&lt;/Data&gt;"</string>
-  <string name="dialog_legal_off_day_desc">"L'horloge n'est pas autorisée à se connecter à internet pour mettre à jour les informations sur les vacances. Les alarmes de vacances se déclencheront le samedi et le dimanche."</string>
-  <string name="dialog_legal_workday">"On dirait que vous utilisez des alarmes en semaine. Cette fonction doit être connectée à internet pour fonctionner normalement. Avant d'utiliser cette fonction, vous devez accepter notre &amp;lt;a href=\"%1$s\"&amp;gt;Contrat d'utilisation&amp;lt;/a&amp;gt ; et &amp;lt;a href=\"%2$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;. D'accord ? "&lt;/Data&gt;"</string>
-  <string name="dialog_legal_workday_and_off_day">"On dirait que vous utilisez les alarmes de la semaine et des jours fériés. Cette fonction doit être connectée à internet pour fonctionner normalement. Avant d'utiliser cette fonction, vous devez accepter notre &amp;lt;a href=\"%1$s\"&amp;gt;Contrat d'utilisation&amp;lt;/a&amp;gt; et &amp;lt;a href=\"%2$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt ;. D'accord ? "&lt;/Data&gt;"</string>
-  <string name="dialog_legal_workday_and_off_day_desc">"L'horloge n'est pas autorisée à se connecter à internet pour mettre à jour les informations sur les vacances. Les alarmes des jours de semaine se déclenchent du lundi au vendredi. Les alarmes des jours fériés se déclenchent le samedi et le dimanche."</string>
-  <string name="dialog_legal_workday_desc">"L'horloge n'est pas autorisée à se connecter à internet pour mettre à jour les informations sur les jours ouvrables. Les alarmes des jours de semaine se déclenchent du lundi au vendredi."</string>
-  <string name="dialog_net_permission_in_repeat_type">"&lt;Data&gt;Cette fonction doit se connecter à l'internet pour fonctionner normalement. Avant d'utiliser cette fonction, vous devez accepter notre &amp;lt;a href=\"%1$s\"&amp;gt;Contrat d'utilisation&amp;lt;/a&amp;gt ; et &amp;lt;a href=\"%2$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;. D'accord ?"</string>
+  <string name="monday">Lundi</string>
+  <string name="monday_short">Lun</string>
+  <string name="monday_shortest">Lun</string>
+  <string name="monday_to_friday">Du lundi au vendredi</string>
+  <string name="month_april">Avril</string>
+  <string name="month_april_short">Avr</string>
+  <string name="month_april_shortest">Avr</string>
+  <string name="month_august">Août</string>
+  <string name="month_august_short">Aoû</string>
+  <string name="month_august_shortest">Aoû</string>
+  <string name="month_december">Décembre</string>
+  <string name="month_december_short">Déc</string>
+  <string name="month_december_shortest">Déc</string>
+  <string name="month_february">Février</string>
+  <string name="month_february_short">Fév</string>
+  <string name="month_february_shortest">Fév</string>
+  <string name="month_january">Janvier</string>
+  <string name="month_january_short">Jan</string>
+  <string name="month_january_shortest">Jan</string>
+  <string name="month_july">Juillet</string>
+  <string name="month_july_short">Jul</string>
+  <string name="month_july_shortest">Jul</string>
+  <string name="month_june">Juin</string>
+  <string name="month_june_short">Jun</string>
+  <string name="month_june_shortest">Jun</string>
+  <string name="month_march">Mars</string>
+  <string name="month_march_short">Mar</string>
+  <string name="month_march_shortest">Mar</string>
+  <string name="month_may">Mai</string>
+  <string name="month_may_short">Mai</string>
+  <string name="month_may_shortest">Mai</string>
+  <string name="month_november">Novembre</string>
+  <string name="month_november_short">Nov</string>
+  <string name="month_november_shortest">Nov</string>
+  <string name="month_october">Octobre</string>
+  <string name="month_october_short">Oct</string>
+  <string name="month_october_shortest">Oct</string>
+  <string name="month_september">Septembre</string>
+  <string name="month_september_short">Sep</string>
+  <string name="month_september_shortest">Sep</string>
+  <string name="more">Plus</string>
   <string name="full_wday_month_day_no_year">EEEE, dd MMMM</string>
-  <string name="monday_to_friday">Lundi au vendredi</string>
   <string name="more_alert_setting">"Paramètres d'alarme supplémentaires"</string>
   <string name="more_setting">Plus de paramètres</string>
   <string name="more_settings">Paramètres</string>
+  <string name="morning">Matin</string>
   <string name="net_permission_cancel">"Ne pas accepter"</string>
   <string name="net_permission_ok">Accepter</string>
-  <string name="network_privacy">"&lt;Data&gt;Pour obtenir des informations pertinentes sur les jours fériés locaux et régler les alarmes, l'horloge doit se connecter à internet. Avant d'utiliser l'horloge, vous devez également lire et accepter nos &amp;lt;a href=\"%1$s\"&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href=\"%2$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;. Accepter ?&lt;/Data&gt;"</string>
-  <string name="network_privacy_global">"&lt;Data&gt;Afin de fournir des services personnalisés, l'horloge doit se connecter à internet. Avant d'utiliser l'horloge, vous devez également lire et accepter nos &amp;lt;a href=\"%1$s\"&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href=\"%2$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;. Accepter ?&lt;/Data&gt;"</string>
+  <string name="network_privacy">"&lt;Data&gt;Pour obtenir des informations pertinentes sur les jours fériés locaux et régler les alarmes, l'horloge doit se connecter à internet. Avant d'utiliser l'horloge, vous devez également lire et accepter nos &amp;lt;a href=\"%1$s\"&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href=\"%2$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;. Accepter ?&lt;/Data&gt;"</string>
+  <string name="network_privacy_global">"&lt;Data&gt;Afin de fournir des services personnalisés, l'horloge doit se connecter à internet. Avant d'utiliser l'horloge, vous devez également lire et accepter nos &amp;lt;a href=\"%1$s\"&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href=\"%2$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;. Accepter ?&lt;/Data&gt;"</string>
   <string name="never">Une fois</string>
   <string name="new_label">"Ajouter une étiquette d'alarme"</string>
+  <string name="night">Soir</string>
   <string name="no_alarm_setting">Aucune alarme ici</string>
   <string name="no_worldclock">"Pas d'horloge ici"</string>
+  <string name="noon">Midi</string>
   <string name="normal_settings">Paramètres généraux</string>
   <string name="not_update">Pas maintenant</string>
   <string name="oneshot_alarm">"Supprimer quand l'alarme s'arrête"</string>
@@ -316,6 +378,9 @@
   <string name="ringtone_other">Plus de sonneries</string>
   <string name="ringtone_weather">Alarme météo</string>
   <string name="ringtone_week">Alarme nature</string>
+  <string name="saturday">Samedi</string>
+  <string name="saturday_short">Sam</string>
+  <string name="saturday_shortest">Sam</string>
   <string name="search_alarm_clock_keywords">Alarme;Réveil;</string>
   <string name="search_stopwatch_keywords">Chronomètre</string>
   <string name="search_timer_keywords">Minuteur</string>
@@ -363,6 +428,30 @@
   <string name="snooze_duration">Répéter</string>
   <string name="snooze_duration_title">Répéter</string>
   <string name="snooze_duration_value">Intervale (minutes)</string>
+  <string name="solar_term_autumn_begins">"Début de l'automne"</string>
+  <string name="solar_term_autumn_equinox">"Équinoxe d'automne"</string>
+  <string name="solar_term_clear_and_bright">Pure lumière</string>
+  <string name="solar_term_cold_dews">Rosée froide</string>
+  <string name="solar_term_grain_buds">Petite plénitude</string>
+  <string name="solar_term_grain_in_ear">Grains en épis</string>
+  <string name="solar_term_grain_rain">Pluie pour les céréales</string>
+  <string name="solar_term_great_cold">Grand froid</string>
+  <string name="solar_term_great_heat">Grande canicule</string>
+  <string name="solar_term_heavy_snow">Grande neige</string>
+  <string name="solar_term_hoar_frost_falls">Descente du givre</string>
+  <string name="solar_term_insects_awaken">Éveil des insectes</string>
+  <string name="solar_term_light_snow">Petite neige</string>
+  <string name="solar_term_slight_cold">Petit froid</string>
+  <string name="solar_term_slight_heat">Petite canicule</string>
+  <string name="solar_term_spring_begins">Début du printemps</string>
+  <string name="solar_term_stopping_the_heat">Arrêt de la canicule</string>
+  <string name="solar_term_summer_begins">"Début de l'été"</string>
+  <string name="solar_term_summer_solstice">"Solstice d'été"</string>
+  <string name="solar_term_the_rains">Eau et pluie</string>
+  <string name="solar_term_vernal_equinox">Équinoxe de printemps</string>
+  <string name="solar_term_white_dews">Rosée blanche</string>
+  <string name="solar_term_winter_begins">"Début de l'hiver"</string>
+  <string name="solar_term_winter_solstice">"Solstice d'hiver"</string>
   <string name="star_wy_alarm_speech">Rencontrer Roy Wang</string>
   <string name="start">Départ</string>
   <string name="start_up">Départ</string>
@@ -370,6 +459,9 @@
   <string name="stopwatch_reset_notification">Chronomètre remis à zéro</string>
   <string name="stopwatch_running_notification">Chronomètre</string>
   <string name="stopwatch_title">Chronomètre</string>
+  <string name="sunday">Dimanche</string>
+  <string name="sunday_short">Dim</string>
+  <string name="sunday_shortest">Dim</string>
   <string name="system_permission_phone_desc">Pour identifier différents appareils</string>
   <string name="system_permission_purpose">Alarmes, chronomètre, minuteries, horloge mondiale</string>
   <string name="system_permission_storage_desc">"Pour accéder aux sonneries d'alarme"</string>
@@ -377,6 +469,7 @@
   <string name="system_time_settings_category_title">"Réglages de l'heure"</string>
   <string name="temperature_unit">℃</string>
   <string name="time">Heure</string>
+  <string name="time_picker_dialog_title">"Régler l'heure"</string>
   <string name="time_settings">"Paramètres d'horloge"</string>
   <string name="timer_alarm_cancel_pad">"Appuyez sur l'écran pour arrêter la sonnerie"</string>
   <string name="timer_alarm_dot_matrix_label">MINUTEUR</string>
@@ -416,6 +509,9 @@
   <string name="timezone_exist_error_message">Vous affichez déjà ce fuseau horaire.</string>
   <string name="today">"Aujourd'hui"</string>
   <string name="tomorrow">Demain</string>
+  <string name="tuesday">Jeudi</string>
+  <string name="tuesday_short">Jeu</string>
+  <string name="tuesday_shortest">Jeu</string>
   <string name="turn_off_a_repeat_alarm">Désactiver une alarme récurrente</string>
   <string name="turn_off_this_repeat_alarm">Désactiver cette alarme récurrente</string>
   <string name="upcoming_alarm">Prochaine alarme: %s</string>
@@ -435,6 +531,9 @@
   <string name="wake_up_alert_desc">"Jouer le son de l'alarme au réveil"</string>
   <string name="wake_up_ringtone">"Sonnerie d'alarme"</string>
   <string name="wake_up_time">Réveillez-vous</string>
+  <string name="wednesday">Mercredi</string>
+  <string name="wednesday_short">Mer</string>
+  <string name="wednesday_shortest">Mer</string>
   <string name="white_noise_selector">"Sélectionner l'audio"</string>
   <string name="workday_alarm_clock">Alarme pour les jours de travail</string>
   <string name="worldclock_empty_text">"Pas d'horloge"</string>
@@ -449,6 +548,7 @@
   <string name="worldcolock_timezone_current_date">dd/MM/yyyy</string>
   <string name="worldcolock_timezone_date">dd MMMM</string>
   <string name="worldcolock_timezone_local">"Identique à l'heure locale"</string>    
-  <string name="v7_preference_off">OFF</string>
-  <string name="v7_preference_on">ON</string>
+  <string name="v7_preference_off">Désactivé</string>
+  <string name="v7_preference_on">Activé</string>
+  <string name="yesterday">Hier</string>
 </resources>

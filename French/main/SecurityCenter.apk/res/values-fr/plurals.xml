@@ -52,7 +52,10 @@
       <item quantity="other">"Votre appareil va s'éteindre dans %d secondes. Connectez le chargeur."</item>
       <item quantity="one">"Votre appareil va s'éteindre dans %d seconde. Connectez le chargeur."</item>
     </plurals>
-    <plurals name="privacy_permission_summary">
+  <plurals name="pp_times">
+    <item quantity="other">%s fois</item>
+    <item quantity="one">%s fois</item>
+  </plurals>    <plurals name="privacy_permission_summary">
       <item quantity="other">%s applications ont un accès permanent</item>
       <item quantity="one">%s application a un accès permanent</item>
     </plurals>
@@ -184,6 +187,50 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
       <item quantity="other">%d problèmes de batterie</item>
       <item quantity="one">%d problème de batterie</item>
     </plurals>
+  <plurals name="privacy_risk_app_count">
+    <item quantity="other">%d applications</item>
+    <item quantity="one">%d application</item>
+  </plurals>
+  <plurals name="privacy_risk_dangerous_permissions_tip">
+    <item quantity="other">%d permissions à haut risque données</item>
+    <item quantity="one">%d permission à haut risque donnée</item>
+  </plurals>
+  <plurals name="privacy_risk_install_app_tip">
+    <item quantity="other">%d applications à risque trouvées</item>
+    <item quantity="one">%d application à risque trouvée</item>
+  </plurals>
+  <plurals name="privacy_risk_photo_location_tip">
+    <item quantity="other">"%d risques de dévoilement d'information de localisation détectés"</item>
+    <item quantity="one">"%d risque de dévoilement d'information de localisation détecté"</item>
+  </plurals>
+  <plurals name="privacy_risk_result_item_error">
+    <item quantity="other">%d risques détectés</item>
+    <item quantity="one">%d risque détecté</item>
+  </plurals>
+  <plurals name="privacy_risk_result_msg">
+    <item quantity="other">%d risques potentiels trouvés</item>
+    <item quantity="one">%d risque potentiel trouvé</item>
+  </plurals>
+  <plurals name="privacy_risk_result_photo_sensitive_msg">
+    <item quantity="other">%d photos pourraient contenir des informations privées ou sensibles</item>
+    <item quantity="one">%d photo pourrait contenir des informations privées ou sensibles</item>
+  </plurals>
+  <plurals name="privacy_risk_result_protection_tip">
+    <item quantity="other">%d fonctionnalités protégeant votre vie privée sont désactivées</item>
+    <item quantity="one">%d fonctionnalité protégeant votre vie privée est désactivée</item>
+  </plurals>
+  <plurals name="privacy_risk_sensitive_permissions_tip">
+    <item quantity="other">%d permissions sensibles accordées</item>
+    <item quantity="one">%d permission sensible accordée</item>
+  </plurals>
+  <plurals name="privacy_risk_uninstall_btn">
+    <item quantity="other">Désinstaller %d applications</item>
+    <item quantity="one">Désinstaller %d application</item>
+  </plurals>
+  <plurals name="privacy_risk_work_encryption_msg">
+    <item quantity="other">%d éléments nécessitent une protection supplémentaire</item>
+    <item quantity="one">%d élément nécessite une protection supplémentaire</item>
+  </plurals>
     <plurals name="quick_optimize_suggest_issue_found">
       <item quantity="other">%d problèmes de batterie détectés, réparer</item>
       <item quantity="one">%d problème de batterie détecté, réparer</item>

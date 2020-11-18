@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="HIPS_Perm_Access_Gallery">Accéder à Galerie</string>
+  <string name="HIPS_Perm_Access_Gallery_Desc">Autorise cette application à accéder aux éléments de votre Galerie</string>
+  <string name="HIPS_Perm_External_Storage">Accéder et changer des fichiers sur le stockage interne</string>
+  <string name="HIPS_Perm_External_Storage_Desc">"Ajouter et supprimer des fichiers dans la mémoire interne de l'appareil"</string>
+  <string name="HIPS_Perm_External_Storage_Group">Gérer les permissions de stockage</string>
+  <string name="HIPS_Perm_External_Storage_Group_Desc">"Sélectionnez les éléments d'applications sont autorisés à accéder"</string>
+  <string name="HIPS_Perm_tencentControl">Accéder aux messages dans les applications de réseaux sociaux</string>
+  <string name="HIPS_Perm_tencentControl_Desc">Autorise cette application à accéder à vos messages WeChat et QQ</string>
   <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
   <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
   <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
@@ -369,6 +377,7 @@
   <string name="app_manager_not_allow">Non</string>
   <string name="app_manager_open_show_all_apps_immediate">Afficher tous les résultats</string>
   <string name="app_manager_perm">Permissions</string>
+  <string name="app_manager_permission_dcimcontrol_title">Accès à la Galerie</string>
   <string name="app_manager_permission_manager_title">Permissions</string>
   <string name="app_manager_permission_notify_title">Notifications</string>
   <string name="app_manager_permission_power_saving_title">Économiseur de batterie</string>
@@ -820,6 +829,7 @@
   <string name="cmcc_app_check_dialog_negative">Plus tard</string>
   <string name="cmcc_app_check_dialog_positive">Redémarrer maintenant</string>
   <string name="cmcc_app_check_dialog_title">Système réparé</string>
+  <string name="comprehensive_protection_measures">Protection complète</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">"Ajout d'un compte Mi"</string>
   <string name="confirm_fingerprint_msg">Vérifiez votre empreinte digitale</string>
   <string name="confirm_leave">Non merci</string>
@@ -1345,16 +1355,17 @@ carte médicale"</string>
   <string name="free_traffic_settings">"Paramètres de l'utilisation de données en heures creuses"</string>
   <string name="full_fill_oprator_and_location">Provide your carrier info and location</string>
   <string name="full_fill_sim_location">Set location first</string>
-  <string name="function_auto_reject_detail">"About this feature:
-1. While you're playing games, all incoming calls to the SIM card without mobile data service will be rejected automatically.
-2. You'll see notifications about missed calls and the other person will hear an audio message saying that you're busy at the moment.
-3. This feature is only supported by mobile carriers in China."</string>
-  <string name="function_auto_reject_title">Reject VoLTE calls to SIM cards without data service</string>
+  <string name="fully_informed_privacy">Sensibilisation à la confidentialité</string>
+  <string name="function_auto_reject_detail">"À propos de cette fonctionnalité:
+1. Pendant que vous jouez à des jeux, tous les appels entrants vers la carte SIM sans service de données mobiles seront automatiquement rejetés.
+2. Vous verrez des notifications sur les appels manqués et l'autre personne entendra un message audio indiquant que vous êtes occupé à ce moment-là.
+3. Cette fonctionnalité n'est prise en charge que par les opérateurs de téléphonie mobile en Chine."</string>
+  <string name="function_auto_reject_title">Rejeter les appels VoLTE vers les cartes SIM sans service de données</string>
   <string name="function_close">Désactivé</string>
   <string name="function_gwsd_detail">"À propos de cette fonctionnalité:
- 1. When you're using mobile data on a data SIM or a regular SIM card connected to a VoLTE network, connection won't be interrupted by incoming calls until you pick up.
- 2. When this feature is on, the other person won't be able to hear your ringback tones unless you're using a regular SIM card. Incoming calls will be rejected automatically after 7-10 seconds of inactivity.
- 3. Data SIM cards issued by China Mobile and China Unicom are supported. Regular SIM cards issued by China Mobile, China Unicom, and China Telecom are supported.""</string>
+1. Lorsque vous utilisez des données mobiles sur une carte SIM de données ou une carte SIM ordinaire connectée à un réseau VoLTE, la connexion ne sera pas interrompue par les appels entrants jusqu'à ce que vous décrochez.
+2. Lorsque cette fonction est activée, l'autre personne ne pourra pas entendre vos tonalités de rappel à moins que vous n'utilisiez une carte SIM ordinaire. Les appels entrants seront rejetés automatiquement après 7 à 10 secondes d'inactivité.
+3. Les cartes SIM de données émises par China Mobile et China Unicom sont prises en charge. Les cartes SIM ordinaires émises par China Mobile, China Unicom et China Telecom sont prises en charge."</string>
   <string name="function_gwsd_title">"Ne pas autoriser les appels entrants à interrompre la connexion de données à la carte SIM"</string>
   <string name="function_shield_auto_bright">Désactiver la luminosité automatique</string>
   <string name="function_shield_eye_shield">Désactiver le mode de lecture</string>
@@ -1369,6 +1380,7 @@ carte médicale"</string>
   <string name="fw_blocked_join">" et "</string>
   <string name="fw_oversea">"Bloquer les appels de l'étranger"</string>
   <string name="fw_oversea_content">"Bloquer tous les appels entrants des numéros de téléphone de l'étranger"</string>
+  <string name="gallery_confirm_start_activity">"%s essaye d'accéder à des images à travers une autre application. L'autoriser ?"</string>
   <string name="game_ad_recommendation">Tout le monde joue</string>
   <string name="game_anti_disturb_msg">NPD en mode Jeu</string>
   <string name="game_booster">Game Turbo</string>
@@ -1691,7 +1703,7 @@ de vos sessions de jeu"</string>
   <string name="hints_virus_app_summary">%s (app)</string>
   <string name="hints_virus_lib_update_default_summary">Date de la dernière mise à jour inconnue</string>
   <string name="HIPS_Perm_add_voicemail_Desc">Ajouter des messages vocaux système</string>
-  <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Turning Bluetooth on and off</string>
+  <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Désactive ou active le Bluetooth</string>
   <string name="HIPS_Perm_Call_Desc">Appeler directement des numéros de téléphone</string>
   <string name="HIPS_Perm_CallLog_Desc">"Écrire et supprimer l'historique des appels"</string>
   <string name="HIPS_Perm_Contact_Desc">Modifier et supprimer des contacts</string>
@@ -1708,8 +1720,20 @@ de vos sessions de jeu"</string>
   <string name="hot">Populaire</string>
   <string name="hot_today">"Populaire aujourd'hui"</string>
   <string name="i_know">Compris</string>
-  <string name="ignore_special_app">Exclude the data used by selected apps from your plan</string>
+  <string name="ignore_special_app">Exclure les données utilisées par les applications sélectionnées de votre forfait</string>
   <string name="im">Messagerie instantanée</string>
+  <string name="image_protect_auto_del">%s essaye de supprimer des images</string>
+  <string name="image_protect_del_pic_tips">Notifier les images supprimées</string>
+  <string name="image_protect_del_success">Supprimé avec succès</string>
+  <string name="image_protect_ensure_del_pic">Supprimer</string>
+  <string name="image_protect_exit_and_del">Supprimer</string>
+  <string name="image_protect_intercept_can_recover_tips">Cette action a été bloquée. Vous pouvez choisir de supprimer ou de restaurer les images.</string>
+  <string name="image_protect_intercept_tips">"Appuyez pour gérer le comportement de l'application"</string>
+  <string name="image_protect_no_data">Aucun élément ici</string>
+  <string name="image_protect_recover_del_pic">Restaurer</string>
+  <string name="image_protect_recover_success">Restaurer avec succès</string>
+  <string name="image_protect_tips_title">Suppression de photos</string>
+  <string name="image_protect_total_activity_label">Recevoir des notifications sur les photos supprimées</string>
   <string name="info_and_call">Appels et messagerie</string>
   <string name="info_antispam_close">Liste noire est désactivée</string>
   <string name="info_antispam_current_mode">%s</string>
@@ -2348,6 +2372,7 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
   <string name="perm_intercept_privacy_content">Ces actions peuvent exposer vos données personnelles. Accorder la permission (%1s) quand même ?</string>
   <string name="perm_intercept_title">"Donner la permission d'accéder aux données utilisées à %1s permettra à cette application d'effectuer les actions suivantes:"</string>
   <string name="perm_intercept_unknown_title">Autoriser %1s à installer des applications provenant de sources inconnues entraîne les risques suivants:</string>
+  <string name="perm_list_header_title_has_storage">Applications avec stockage</string>
   <string name="permdesc_in_calls">Surveiller les appels entrants</string>
   <string name="permdesc_out_calls">Surveiller les appels sortants</string>
   <string name="permgroupdesc_calendar">Accéder aux événements du calendrier</string>
@@ -2391,6 +2416,7 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
   <string name="permission_instruction_dont_disturb">"Cette autorisation permet aux applications d'activer et de désactiver le mode NPD."</string>
   <string name="permission_instruction_draw_overlay">"Cette autorisation permet aux applications d'afficher des fenêtres flottantes sur toute autre interface de votre appareil, ce qui peut affecter l'utilisation normale d'autres applications. Des applications malveillantes peuvent utiliser cette autorisation pour lire ou collecter des informations privées (par exemple des mots de passe) via des fenêtres flottantes transparentes."</string>
   <string name="permission_instruction_external_storage">"Cette autorisation permet aux applications d'accéder aux photos, aux médias et aux fichiers sur votre appareil. Soyez prudent avec cette autorisation pour éviter la divulgation inutile d'informations privées."</string>
+  <string name="permission_instruction_gallery">"Pour protéger votre vie privée, MIUI vous permet de décider si vous autorisez les applications disposant d'autorisations de stockage à accéder à la Galerie."</string>
   <string name="permission_instruction_get_accounts">"Cette autorisation permet aux applications d'accéder à la liste des comptes stockés sur votre appareil. Cette liste peut contenir tous vos comptes personnels créés par les applications installées, ainsi que les comptes des plateformes de réseaux sociaux et des outils de communication."</string>
   <string name="permission_instruction_install_shortcuts">"Cette autorisation permet aux applications de créer des raccourcis sur l'écran d'accueil."</string>
   <string name="permission_instruction_install_unknown_source">"Cette autorisation permet aux applications d'installer d'autres applications sur votre appareil. Les applications malveillantes utilisent cette autorisation pour installer des applications sans votre confirmation."</string>
@@ -2417,6 +2443,8 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
   <string name="permission_instruction_send_payment_sms">"Cette autorisation permet aux applications d'envoyer des SMS payants."</string>
   <string name="permission_instruction_send_sms">"Cette autorisation permet aux applications d'envoyer des messages texte, ce qui peut générer des frais supplémentaires. Des applications malveillantes peuvent utiliser cette autorisation pour envoyer des messages payants sans votre consentement."</string>
   <string name="permission_instruction_show_locked">"Cette autorisation permet aux applications d'afficher des éléments sur votre écran de verrouillage. Des applications malveillantes peuvent utiliser cette autorisation pour vous montrer des publicités ennuyeuses."</string>
+  <string name="permission_instruction_sociality">"Pour protéger votre vie privée, MIUI vous permet de décider si vous autorisez les applications disposant d'autorisations de stockage à accéder à vos messages dans les applications de médias sociaux."</string>
+  <string name="permission_instruction_storage">"Pour protéger votre vie privée, MIUI vous permet de décider si vous autorisez les applications disposant d'autorisations de stockage à accéder à la Galerie et à vos messages dans les applications de médias sociaux."</string>
   <string name="permission_instruction_touch_pay">"Cette autorisation permet aux applications d'effectuer des paiements sans contact."</string>
   <string name="permission_instruction_use_sip">"Cette autorisation permet aux applications d'utiliser les services vidéo SIP."</string>
   <string name="permission_instruction_vr_assistant">"Cette autorisation permet aux applications d'utiliser les services d'assistant VR."</string>
@@ -2737,6 +2765,69 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
   <string name="power_superpower_title_systemui_highpower">Temps restant</string>
   <string name="power_superpower_title_systemui_lowpower">Connectez le chargeur</string>
   <string name="power_wifi">Wi-Fi</string>
+  <string name="pp_app_behavior_record_detail">"Enregistrer tous les comportements de l'application"</string>
+  <string name="pp_app_del_img_intercept_detail">Recevez des notifications lorsque des applications suppriment des éléments de la galerie sans votre autorisation</string>
+  <string name="pp_app_gets_dangerous_permission_reminder">Recevez des notifications lorsque les applications utilisent des autorisations à haut risque</string>
+  <string name="pp_app_gets_dangerous_permission_reminder_detail">"Recevez des notifications chaque fois qu'une application utilise une autorisation à haut risque et considérez vos options"</string>
+  <string name="pp_app_lock_introduction">"Verrouillage d'écran supplémentaire"</string>
+  <string name="pp_app_permission_settings">Ajouter des permissions</string>
+  <string name="pp_app_permission_settings_detail">Autoriser les applications à utiliser les autorisations liées à la confidentialité</string>
+  <string name="pp_app_reads_clipboard_smart_reminder">Protéger le presse-papiers</string>
+  <string name="pp_app_reads_clipboard_smart_reminder_detail">"MIUI décidera si les applications sont autorisées à accéder à votre presse-papiers. Quand elles le feront, vous recevrez une notification."</string>
+  <string name="pp_app_warning_permission_tips">"Recevoir des notifications sur le comportement de l'application"</string>
+  <string name="pp_app_warning_permission_tips_detail">"Recevez des notifications lorsque des applications accèdent à votre position, enregistrent de l'audio ou utilisent la caméra"</string>
+  <string name="pp_call_phone_msg">Historique des appels</string>
+  <string name="pp_capability_approved_title">"Nos mesures de protection de la vie privée ont été testées et certifiées par les meilleurs experts du secteur."</string>
+  <string name="pp_chain_start_is_prohibited">Restreindre le démarrage de la chaîne</string>
+  <string name="pp_chain_start_is_prohibited_detail">Contrôlez les situations où des applications tierces se démarrent et obtiennent vos informations personnelles à votre insu</string>
+  <string name="pp_clipboard">Presse-papiers</string>
+  <string name="pp_comprehensive_privacy_management">Protection complète de la vie privée</string>
+  <string name="pp_contacts_msg">Contacts</string>
+  <string name="pp_data_rights_realization">Droits de données</string>
+  <string name="pp_fuzzy_positioning">Précision de positionnement inférieure</string>
+  <string name="pp_fuzzy_positioning_detail">"Précision de positionnement inférieure et permettre aux applications d'accéder à des informations de localisation moins précises"</string>
+  <string name="pp_grant_permission_only_during_app_use">"Autoriser les applications à utiliser les permissions uniquement lorsque vous les utilisez"</string>
+  <string name="pp_grant_permission_only_during_app_use_detail">"Pour empêcher une application d'utiliser les autorisations en arrière-plan, vous pouvez autoriser l'utilisation des autorisations liées à l'emplacement, à l'enregistrement audio et aux contacts uniquement lorsque vous utilisez l'application"</string>
+  <string name="pp_hide_app">Masquer les applications</string>
+  <string name="pp_hide_app_form_desktop">"Supprimer les icônes d'application de l'écran d'accueil"</string>
+  <string name="pp_icon_layout_status_bg_content_enable">Protégé</string>
+  <string name="pp_icon_layout_status_bg_content_unable">Désactiver</string>
+  <string name="pp_interception_net_visit_content_manager">Protéger la Galerie et les applications de médias sociaux</string>
+  <string name="pp_interception_net_visit_content_manager_detail">Sélectionnez les applications autorisées à accéder à vos photos, vidéos et historique de chat</string>
+  <string name="pp_local_msg">Information de localisation</string>
+  <string name="pp_manage_apps_location_information">Autoriser les applications à accéder à votre position</string>
+  <string name="pp_one_app_two_use">Utilisez deux comptes sans vous déconnecter</string>
+  <string name="pp_one_phone_two_space">Utilisez deux appareils en un</string>
+  <string name="pp_only_allow_permission_during_this_run">Autoriser les applications à utiliser les permissions une seule fois</string>
+  <string name="pp_only_allow_permission_during_this_run_detail">"Vous ne pouvez autoriser l'utilisation des permissions liées à l'emplacement, à l'enregistrement audio et aux contacts qu'une seule fois. Ces permissions seront à nouveau restreintes peu de temps après la fermeture de l'application."</string>
+  <string name="pp_optional_protection_function">Mesures de protection optionnelles</string>
+  <string name="pp_permission_action_virtual_detail">"Accordez des autorisations, mais donnez aux applications des fichiers vides au lieu d'informations personnelles"</string>
+  <string name="pp_permission_settings">Permissions</string>
+  <string name="pp_privacy_protection">Protection</string>
+  <string name="pp_privacy_protection_function">Fonctions de protection de la vie privée</string>
+  <string name="pp_privacy_risk_detection">Détectez les risques de confidentialité</string>
+  <string name="pp_privacy_risk_detection_detail">Détectez automatiquement les risques de confidentialité et recevez des recommandations sur les mesures de protection</string>
+  <string name="pp_privacy_safe_box">Espace privé</string>
+  <string name="pp_private_file_dir">Fichiers privés</string>
+  <string name="pp_private_file_dir_detail">Chiffrer et protéger les éléments avec un verrouillage d'écran</string>
+  <string name="pp_private_photo_album">Photos et vidéos privées</string>
+  <string name="pp_private_photo_album_detail">"Chiffrer et protéger les éléments avec un verrouillage d'écran"</string>
+  <string name="pp_prohibit_use_camera_in_background">"Restreindre l'utilisation de la caméra en arrière-plan"</string>
+  <string name="pp_prohibit_use_camera_in_background_detail">"Les applications ne pourront pas utiliser la caméra en arrière-plan par défaut"</string>
+  <string name="pp_record_msg">Enregistrement audio</string>
+  <string name="pp_safe_box">Espace privé</string>
+  <string name="pp_safe_box_detail">"Pour protéger votre vie privée, MIUI vous permet de contrôler la façon dont les applications accèdent à vos photos et à l'historique des discussions sur les réseaux sociaux."</string>
+  <string name="pp_safe_box_summary">Protection de la vie privée</string>
+  <string name="pp_safe_input_pwd">Protégez vos mots de passe</string>
+  <string name="pp_safe_keyboard">Clavier sécurisé</string>
+  <string name="pp_safe_save_pwd_and_account">Stockez les mots de passe dans un environnement sécurisé</string>
+  <string name="pp_safe_share_img_detail">Partagez des photos sans informations de localisation ni métadonnées</string>
+  <string name="pp_smart_manager_pwd">Mots de passe</string>
+  <string name="pp_special_permission_settings">Autorisations spéciales</string>
+  <string name="pp_special_permission_settings_detail">Contrôler la façon dont les applications utilisent des autorisations spéciales</string>
+  <string name="pp_storage_msg">Stockage</string>
+  <string name="pp_understanding_privacy">Conscience</string>
+  <string name="pp_virtual_identity_manager">ID virtuel</string>
   <string name="pref_about_traffic_title">"Paramètres d'utilisation des données"</string>
   <string name="pref_adjust_data_usage">Modèle de message opérateur</string>
   <string name="pref_adjust_data_usage_summary">"Après avoir changé le modèle d'étalonnage, MIUI l'utilisera afin d'obtenir les statistiques d'utilisation de données de votre opérateur"</string>
@@ -2922,6 +3013,66 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
   <string name="privacy_provision_summary">"La protection de la vie privée est l'engagement derrière la conception de nos produits"</string>
   <string name="privacy_provision_text">"Nous nous engageons à respecter et à protéger votre vie privée. Privilégiant la recherche et le développement dans le domaine de la sécurité de l'information, Xiaomi travaille constamment à l'amélioration des méthodes, des pratiques et des solutions techniques qui protègent vos données. Nous partageons également nos dernières réalisations avec nos partenaires afin de garantir votre confidentialité à tous les niveaux."</string>
   <string name="privacy_provision_title">Privé</string>
+  <string name="privacy_risk_app">Applications à risque</string>
+  <string name="privacy_risk_app_fuzzy">Applications sans aperçus flous</string>
+  <string name="privacy_risk_dangerous_bar_title">Permissions à haut risque</string>
+  <string name="privacy_risk_dangerous_manager">Dispositif de contrôle</string>
+  <string name="privacy_risk_dangerous_manager_msg">Autoriser les applications à contrôler partiellement votre appareil</string>
+  <string name="privacy_risk_dangerous_msg">Les applications peuvent utiliser ces permissions pour compromettre votre confidentialité</string>
+  <string name="privacy_risk_dangerous_notice">Lire et gérer les notifications</string>
+  <string name="privacy_risk_dangerous_notice_msg">Autoriser les applications à lire et à gérer les notifications</string>
+  <string name="privacy_risk_dangerous_permissions">Autorisations à haut risque</string>
+  <string name="privacy_risk_dangerous_permissions_msg">"Pour protéger votre vie privée et empêcher l'exposition d'informations sensibles, n'accordez des permissions à haut risque que lorsque cela est nécessaire."</string>
+  <string name="privacy_risk_dangerous_title">Vous avez accordé des permissions à haut risque</string>
+  <string name="privacy_risk_dangerous_top_tip">"Pour protéger votre vie privée et empêcher l'exposition d'informations sensibles, n'accordez des permissions à haut risque que lorsque cela est nécessaire."</string>
+  <string name="privacy_risk_dangerous_usage">"Suivre l'activité de l'appareil"</string>
+  <string name="privacy_risk_dangerous_usage_msg">"Autoriser les applications à suivre l'activité de l'appareil"</string>
+  <string name="privacy_risk_detection_continue">Reprendre</string>
+  <string name="privacy_risk_detection_stop">Stop</string>
+  <string name="privacy_risk_detection_stop_btn">Stop</string>
+  <string name="privacy_risk_detection_stop_msg">"Si vous arrêtez l'analyse maintenant, certains risques de confidentialité peuvent ne pas être détectés. Arrêter l'analyse quand même?"</string>
+  <string name="privacy_risk_detection_stop_title">"Arrêt de l'analyse"</string>
+  <string name="privacy_risk_detection_title">Détectez les risques de confidentialité</string>
+  <string name="privacy_risk_detection_user">Informations personnelles</string>
+  <string name="privacy_risk_install_app">Applications non fiables</string>
+  <string name="privacy_risk_photo_delete">Les photos peuvent être supprimées sans votre autorisation</string>
+  <string name="privacy_risk_photo_location">Photos avec informations de localisation</string>
+  <string name="privacy_risk_photo_location_msg">"Restreindre l'accès à la galerie lorsque cela n'est pas nécessaire"</string>
+  <string name="privacy_risk_photo_msg">Photos contenant des informations sensibles</string>
+  <string name="privacy_risk_result_cancel_msg">"Impossible de terminer l'analyse. Reprenez pour obtenir des résultats."</string>
+  <string name="privacy_risk_result_detection_continue">Reprendre</string>
+  <string name="privacy_risk_result_file_btn">Corriger</string>
+  <string name="privacy_risk_result_file_tip">Rendre les fichiers importants privés</string>
+  <string name="privacy_risk_result_ignore_btn">Ignorer</string>
+  <string name="privacy_risk_result_item_safe">Aucun risque détecté</string>
+  <string name="privacy_risk_result_open_btn">Activer</string>
+  <string name="privacy_risk_result_photo_delete">Recevoir des notifications sur les photos supprimées</string>
+  <string name="privacy_risk_result_photo_delete_msg">Recevez des notifications lorsque des applications suppriment des éléments de la Galerie sans votre autorisation</string>
+  <string name="privacy_risk_result_photo_sensitive">Vos photos contiennent des informations privées</string>
+  <string name="privacy_risk_result_protection">Protection de la vie privée</string>
+  <string name="privacy_risk_result_screen_fuzzy">"Flouter les aperçus d'applications"</string>
+  <string name="privacy_risk_result_screen_fuzzy_msg">Aperçu flou des applications sensibles affichées dans Récents</string>
+  <string name="privacy_risk_result_set_btn">Réglages</string>
+  <string name="privacy_risk_result_success_empty_msg">"Tout a l'air bien !"</string>
+  <string name="privacy_risk_result_success_msg">Correction de tous les problèmes. Super !</string>
+  <string name="privacy_risk_result_uninstall_btn">Désinstaller</string>
+  <string name="privacy_risk_sensitive">Permissions sensibles</string>
+  <string name="privacy_risk_sensitive_bar_title">Permissions sensibles</string>
+  <string name="privacy_risk_sensitive_call_records">"Autoriser les applications à accéder à l'historique des appels"</string>
+  <string name="privacy_risk_sensitive_contact">Autoriser les applications à accéder ou à modifier les contacts</string>
+  <string name="privacy_risk_sensitive_location">"Autoriser les applications à localiser votre appareil à l'aide des réseaux ou satellites disponibles"</string>
+  <string name="privacy_risk_sensitive_permissions">Permissions sensibles</string>
+  <string name="privacy_risk_sensitive_permissions_msg">"Pour protéger votre confidentialité, n'accordez des autorisations sensibles que lorsque cela est nécessaire."</string>
+  <string name="privacy_risk_sensitive_record">"Autoriser les applications à enregistrer de l'audio ou des appels"</string>
+  <string name="privacy_risk_sensitive_second_msg">Les applications peuvent utiliser ces autorisations pour accéder à vos informations personnelles</string>
+  <string name="privacy_risk_sensitive_second_title">Vous avez accordé des autorisations sensibles</string>
+  <string name="privacy_risk_sensitive_storage">Autoriser les applications à accéder ou à enregistrer des fichiers</string>
+  <string name="privacy_risk_sensitive_top_tip">"Pour protéger votre confidentialité, n'accordez des autorisations sensibles que lorsque cela est nécessaire."</string>
+  <string name="privacy_risk_space_uninstall_dialog_msg">Désinstaller les applications sélectionnées, y compris leurs applications doubles ?</string>
+  <string name="privacy_risk_uninstall_dialog_msg">Désinstaller les applications sélectionnées maintenant ?</string>
+  <string name="privacy_risk_uninstall_dialog_title">OK</string>
+  <string name="privacy_risk_uninstall_title">Désinstaller des applications</string>
+  <string name="privacy_risk_work_encryption">Les médias sociaux et les fichiers bureautiques ne sont pas protégés</string>
   <string name="privacy_search_key_1">Privé</string>
   <string name="privacy_search_key_10">ID appareil</string>
   <string name="privacy_search_key_2">Interception de réseau</string>
@@ -3101,6 +3252,7 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
   <string name="securityadd_update_tips_now">Mettre à jour</string>
   <string name="securityadd_update_tips_title">Mettre à jour</string>
   <string name="securitycenter_tab_title">Sécurité</string>
+  <string name="see_all_app_behavior_record">"Afficher tous les comportements de l'application"</string>
   <string name="see_detail">Détails</string>
   <string name="see_more_content">Mettre à jour le centre de jeux pour voir plus de moments forts</string>
   <string name="select_province_and_city">Select location</string>
@@ -3396,6 +3548,7 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
   <string name="storage_app_uninstall_app_dialog_title">Uninstalling the app</string>
   <string name="storage_available_total_size">%1$s out of %2$s available</string>
   <string name="storage_available_total_size1">Occupé: %1$s | Total: %2$s</string>
+  <string name="storage_category_title">Options supplémentaires</string>
   <string name="storage_deepclean_entry">Nettoyage en profondeur</string>
   <string name="storage_dialog_unmountable">"This ^1 is corrupted.
 
@@ -3913,7 +4066,7 @@ Le volume de données restant inclut l'excédent du mois précédent."</string>
   <string name="virus_update_tips_title">Attention</string>
   <string name="virus_wait_network_dialog_message">"Votre téléphone n'est pas connecté au Wi-Fi actuellement. Utiliser la connexion de données cellulaires ?"</string>
   <string name="vtb_func_desc">About this feature</string>
-  <string name="vtb_func_display_style_desc1">"Selected effects won't be applied to HDR videos."</string>
+  <string name="vtb_func_display_style_desc1">"Selected effects won't be applied to HDR videos on selected devices.."</string>
   <string name="vtb_func_display_style_desc2">"These effects can't be applied to screenshots."</string>
   <string name="vtb_func_frc_desc0">Motion smoothing reduces blur and adds detail to moving objects. Using this feature increases power consumption.</string>
   <string name="vtb_func_frc_desc1">"Motion smoothing won't work in the following conditions:"</string>
@@ -4029,8 +4182,9 @@ Le volume de données restant inclut l'excédent du mois précédent."</string>
   <string name="wlan_optimization_summary">Réduire les délais du réseau Wi-Fi</string>
   <string name="wlan_optimization_title">Optimisation du Wi-Fi</string>
   <string name="wrong_password">Mot de passe incorrect</string>
+  <string name="xiaomi_privacy_protection_measures">Mesures de protection de la vie privée</string>
   <string name="xunyou_net_booster">Augmentation de la vitesse du réseau</string>
   <string name="xunyou_net_booster_detail">"Utiliser les services d'augmentation de vitesse Xunyou pour les jeux"</string>
   <string name="xunyou_pay_webview">Services Xunyou</string>
-  <string name="xunyou_server_expired">La session a expirée.</string>
+  <string name="xunyou_server_expired">La session a expiré.</string>
 </resources>
