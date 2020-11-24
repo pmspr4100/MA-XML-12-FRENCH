@@ -51,6 +51,7 @@
   <string name="cloud_status_full_dialog_msg">"Votre stockage Xiaomi Cloud est plein, impossible de synchroniser les enregistrements. mettez à niveau votre compte pour obtenir plus d'espace de stockage."</string>
   <string name="cloud_status_full_dialog_ok">Mettre à niveau</string>
   <string name="cloud_status_full_dialog_title">Le stockage Xiaomi Cloud est plein</string>
+  <string name="copy">Copier</string>
   <string name="data_connection_body">Utiliser votre connexion de données mobiles pour télécharger ce fichier augmentera votre consommation de données. Si vous dépassez la limite de votre forfait, votre opérateur de téléphonie mobile pourrait vous facturer des frais supplémentaires.</string>
   <string name="data_connection_button_text">OK</string>
   <string name="data_connection_title">"Avertissement de l'utilisation de données"</string>
@@ -133,6 +134,8 @@
   <string name="network_unavailable_tip">Se connecter au réseau, puis réessayez.</string>
   <string name="new_record_name">Nouvel enregistrement</string>
   <string name="no_file">Vide</string>
+  <string name="no_network">Connexion au réseau impossible</string>
+  <string name="not_set">Non paramétré</string>
   <string name="notification_message_all_paused">"En attente d'une connexion Wi-Fi."</string>
   <string name="notification_playback">En lecture…</string>
   <string name="notification_recording">Enregistrement…</string>
@@ -163,6 +166,7 @@
   <string name="online_recognize_order_uploading">Envoi en cours %s…</string>
   <string name="online_recognize_other_order_upload">Attendez que les téléchargements en cours soient terminés et réessayez.</string>
   <string name="online_recognize_running">Transcription en cours…</string>
+  <string name="online_recognize_running">Transcription…</string>
   <string name="online_recognize_service_unavailable">Le service nest pas disponible maintenant. Attendez une minute ou deux, puis réessayez.</string>
   <string name="order_item_duration">Durée: %s</string>
   <string name="order_item_number">Numéro de commande: %s</string>
@@ -174,6 +178,7 @@
   <string name="pay_error_unknown">Erreur inconnue</string>
   <string name="playback_delete_records">"Supprimer l'enregistrement"</string>
   <string name="playback_share_records">"Partager l'enregistrement"</string>
+  <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
   <string name="preference_enable_earpiece_summary">Utiliser les haut-parleurs pour la lecture</string>
   <string name="preference_enable_earpiece_title">Utiliser les haut-parleurs</string>
   <string name="preference_led_indicator">"Notifications à l'écran de verrouillage"</string>
@@ -258,6 +263,9 @@
   <string name="recording_quality_low">Qualité faible</string>
   <string name="recording_quality_standard">Qualité moyenne</string>
   <string name="recording_stopped">Arrêté</string>
+  <string name="recovery">Restaurer</string>
+  <string name="recovery_failed_dialog_button">"C'est compris"</string>
+  <string name="recovery_failed_dialog_title">Attention</string>
   <string name="reg_error_audio_exist">Ce fichier existe déjà.</string>
   <string name="reg_error_audio_large">Les fichiers audio ne peuvent pas être plus gros que 500Mo.</string>
   <string name="reg_error_audio_short">Le fichier audio est trop petit.</string>
@@ -276,8 +284,11 @@
   <string name="rename_no_more_tip">Ne plus afficher</string>
   <string name="retry">Réessayer</string>
   <string name="runtime_permission_ungranted">"Impossible d'utiliser Mi Drop en raison des autorisations manquantes"</string>
+  <string name="save_record_dialog_title">"Sauvegarder l'enregistrement"</string>
   <string name="search_app">Magnétophone</string>
+  <string name="search_empty">Aucun résultat trouvé</string>
   <string name="search_enable_earpiece_title">Utiliser les haut-parleurs</string>
+  <string name="search_hint">Chercher</string>
   <string name="search_led_indicator">"Notifications à l'écran de verrouillage"</string>
   <string name="search_led_indicator_prompt">"Pendant l'enregistrement, afficher dans la barre d'état et avec une notification lumineuse si l'écran est verrouillé"</string>
   <string name="search_menu_title">Search</string>
@@ -324,6 +335,8 @@
   <string name="uninstall_warning_title">Désinstaller Magnéto ?</string>
   <string name="usage_description">Transcription audio et synchronisation des éléments avec le cloud</string>
   <string name="user_feedback">Avis</string>
+  <string name="v7_preference_off">Désactivé</string>
+  <string name="v7_preference_on">Activé</string>
   <string name="webview_check_network">Paramètres réseau</string>
   <string name="webview_data_error">"Une erreur s'est produite"</string>
   <string name="webview_locating_fail">Impossible de trouver votre localisation</string>
