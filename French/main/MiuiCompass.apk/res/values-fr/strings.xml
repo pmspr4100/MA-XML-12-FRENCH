@@ -33,8 +33,8 @@
   <string name="altitude_uncalibrate_msg">"Impossible de calibrer l'altitude avec précision sans le GPS ou une connexion mobile."</string>
   <string name="altitude_uncalibrate_refresh">Réessayer</string>
   <string name="altitude_uncalibrate_tip">Données non étalonnées</string>
-  <string name="app_description_content">"La boussole est utilisée pour la navigation et l'orientation et vous montre la direction. Assurez-vous que vous pouvez vous passer de ces fonctionnalités avant de désinstaller l'application."</string>
-  <string name="app_description_title">À propos de la boussole</string>
+  <string name="app_description_title">Désinstaller Boussole ?</string>
+  <string name="app_description_content">"Boussole est une application système. Vous ne pourrez pas l'utiliser pour vérifier les directions, les coordonnées, la pression atmosphérique et l'altitude actuelle après l'avoir désinstallée."</string>
   <string name="app_label">Boussole</string>
   <string name="app_name">Préférence</string>
   <string name="calibrate_failed">"L'étalonnage de l'altitude a échoué"</string>
@@ -47,6 +47,7 @@
   <string name="cancel">Annuler</string>
   <string name="compass_settings">Paramètres</string>
   <string name="copy">Copie</string>
+  <string name="cta_v2_app_purpose">"montrant les directions, les coordonnées, la pression atmosphérique et l'altitude actuelle"</string>
   <string name="dialog_body_no_network">Connectez-vous au Wi-Fi ou activez les données cellulaires.</string>
   <string name="dialog_body_no_network_china">Cconnectez-vous au Wi-Fi ou activez les données cellulaires.</string>
   <string name="dialog_calibrat_altitude">Étalonnage…</string>
@@ -64,13 +65,9 @@
   <string name="error_camera_unavailable_title">Appareil photo indisponible</string>
   <string name="expand_button_title">Avancé</string>
   <string name="first_using_dialog_message">"La boussole a besoin d'utiliser la connexion réseau, l'appareil photo et les services de localisation pour fonctionner normalement."</string>
-  <string name="cta_v2_app_purpose">"montrant les directions, les coordonnées, la pression atmosphérique et l'altitude actuelle"</string>
-  <string name="keywords_search_compass">"Boussole;Calibrer la boussole;Pression;Altitude;Latitude;Longtitude;Vérifier la longue altitude;Vérifier la latitude;Boussole MIUI;Application boussole;Application boussole MIUI;Où se trouve la boussole;Télécharger la boussole;Pression atmosphérique;Vérifiez l'altitude;Quelle est l'altitude"</string>
-  <string name="permission_camera_desc">Utilisation du niveau à bulle</string>
-  <string name="permission_location_desc">Affichage des coordonnées et de la pression atmosphérique</string>
-  <string name="preference_copied">\"%1$s\" copié dans le presse-papier.</string>
   <string name="first_using_dialog_title">"Autorisation d'accès"</string>
   <string name="guide_toast">Pour étalonner, remuez votre appareil comme montré ci-dessous.</string>
+  <string name="keywords_search_compass">"Boussole;Calibrer la boussole;Pression;Altitude;Latitude;Longtitude;Vérifier la longue altitude;Vérifier la latitude;Boussole MIUI;Application boussole;Application boussole MIUI;Où se trouve la boussole;Télécharger la boussole;Pression atmosphérique;Vérifiez l'altitude;Quelle est l'altitude"</string>
   <string name="latitude">LAT</string>
   <string name="location_east">E</string>
   <string name="location_enable">Autoriser</string>
@@ -95,6 +92,9 @@
   <string name="not_set">Non défini</string>
   <string name="open_perm_msg">"La boussole doit avoir accès aux informations de localisation et à l'appareil photo. Ceci est nécessaire pour déterminer les coordonnées et fournir des aperçus en direct. Autoriser ?"</string>
   <string name="open_perm_title">Permissions requises</string>
+  <string name="permission_camera_desc">Utilisation du niveau à bulle</string>
+  <string name="permission_location_desc">Affichage des coordonnées et de la pression atmosphérique</string>
+  <string name="preference_copied">\"%1$s\" copié dans le presse-papier.</string>
   <string name="preference_other">Autre</string>
   <string name="preference_privacy_title">Politique de confidentialité</string>
   <string name="pressure_title">Pression</string>
