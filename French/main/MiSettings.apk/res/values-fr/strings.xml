@@ -285,11 +285,16 @@
   <string name="usage_new_home_unused">"Didn't use"</string>
   <string name="usage_new_home_update">Change</string>
   <string name="usage_new_home_usage_detail">"Détails d'utilisation"</string>
+  <string name="usage_new_home_week_average_count">Moy. %s</string>
   <string name="usage_new_home_week_category_title">"Catégories d'applications"</string>
-  <string name="usage_new_home_week_compare_text1">%.2f plus que la semaine précédente</string>
-  <string name="usage_new_home_week_compare_text2">%.2f moins que la semaine précédente</string>
+  <string name="usage_new_home_week_compare_text1">%.2f de plus que la semaine précédente</string>
+  <string name="usage_new_home_week_compare_text1_new">(%s%% de plus que la semaine précédente)</string>
+  <string name="usage_new_home_week_compare_text2">%.2f de moins que la semaine précédente</string>
+  <string name="usage_new_home_week_compare_text2_new">(%s%% de moins que la semaine précédente)</string>
   <string name="usage_new_home_week_equals_text">Identique à la semaine précédente</string>
   <string name="usage_new_home_week_title">Semaine</string>
+  <string name="usage_new_home_week_unlock_compare_decrease">(%.2f de moins que la semaine précédente)</string>
+  <string name="usage_new_home_week_unlock_compare_increase">(%.2f de plus que la semaine précédente)</string>
   <string name="usage_new_home_week_unlock_equals_text">Identique à la semaine précédente</string>
   <string name="usage_new_home_week_usage_title">Applications individuelles</string>
   <string name="usage_new_home_which_week">Semaine %d</string>
@@ -356,6 +361,7 @@ This app needs to connect to the internet and requires the following permissions
   <string name="unlock_times_per_hour">"Déverrouillé par heure: "</string>
   <string name="usage_agree">Accepter</string>
   <string name="usage_app_get_it">Compris</string>
+  <string name="usage_app_holiday_limit">Jours de congé</string>
   <string name="usage_app_limit_alter_summary">"On dirait que ce délai est plus court que le temps que vous avez utilisé cette application aujourd'hui. Fixer la limite quand même ?"</string>
   <string name="usage_app_limit_alter_title">"Vérifier le temps limite d'utilisation"</string>
   <string name="usage_app_limit_prelong">Prolonger le temps</string>
@@ -414,7 +420,7 @@ Cette application doit également se connecter à internet et nécessite les aut
   <string name="usage_home_premission_second_summary">"Pour pouvoir travailler normalement, cette application doit collecter vos informations personnelles. Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité en vigueur."</string>
   <string name="usage_home_premission_second_summary_double_link_prefix">"Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité applicables. Si vous n'acceptez pas d'accorder de telles autorisations ou de partager et de télécharger vos informations personnelles, vous ne pourrez pas utiliser cette application. Vous pouvez révoquer votre autorisation dans Temps d'écran &gt; Paramètres &gt; Désactiver le temps d'écran."</string>
   <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">"&lt;Data&gt;"Avant d'utiliser cette application, vous devez lire et accepter notre &amp;lt;a href='%1s'&amp;gt;Accord utilisateur&amp;lt;/a&amp;gt; et notre &amp;lt;a href='%2s'&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;."&lt;/Data&gt;"</string>
-  <string name="usage_home_premission_second_summary_new">"Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité applicables. Si vous n'acceptez pas d'accorder de telles permissions ou de partager et de télécharger vos informations personnelles, vous ne pourrez pas utiliser cette application. Vous pouvez révoquer votre permissions dans Gestionnaires d'utilisations > Paramètres > Désactiver le temps d'utilisation. Si vous avez plus de questions sur la confidentialité, vous pouvez nous contacter à privacy@xiaomi.com."</string>
+  <string name="usage_home_premission_second_summary_new">"Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité applicables. Si vous n'acceptez pas d'accorder de telles permissions ou de partager et de télécharger vos informations personnelles, vous ne pourrez pas utiliser cette application. Vous pouvez révoquer votre permissions dans Gestionnaires d'utilisations &gt; Paramètres &gt; Désactiver le temps d'utilisation. Si vous avez plus de questions sur la confidentialité, vous pouvez nous contacter à privacy@xiaomi.com."</string>
   <string name="usage_new_home_app_limit_summary">"Définir une limite quotidienne de temps d'écran pour cette application"</string>
   <string name="usage_new_home_app_limit_title">"Limiter le temps d'écran"</string>
   <string name="usage_no_net_summary">Vérifiez vos paramètres réseau et réessayez</string>
@@ -469,6 +475,8 @@ Cette application doit également se connecter à internet et nécessite les aut
   <string name="usage_state_focus_weak_summary">Rangez votre téléphone</string>
   <string name="usage_state_friday">Ven</string>
   <string name="usage_state_go_more">"Plus d'applications"</string>
+  <string name="usage_state_holiday_day_hour_minute">Jours de congé: %1$s %2$s</string>
+  <string name="usage_state_holiday_time">Jours de congé: %s</string>
   <string name="usage_state_hour_minute">%1$d h %2$d m</string>
   <string name="usage_state_less_one_minute">&lt; 1 minute</string>
   <string name="usage_state_monday">Lun</string>
@@ -518,8 +526,10 @@ Cette application doit également se connecter à internet et nécessite les aut
   <string name="usage_stats_experience_text">Appuyez pour essayer (1 min)</string>
   <string name="usage_stats_limit_time_accuracy_title">Précision estimation temps restant</string>
   <string name="usage_stats_limit_time_high_accuracy_summary">"Affiche le temps restant à la minute près. Augmente la consommation d'énergie."</string>
+  <string name="usage_stats_limit_time_high_accuracy_summary_new">"Précis à la minute près (consomme plus d'énergie)"</string>
   <string name="usage_stats_limit_time_high_accuracy_title">Élevé</string>
   <string name="usage_stats_limit_time_low_accuracy_summary">Affiche le temps restant à la minute près pour les 2 heures restantes, afin de préserver la batterie</string>
+  <string name="usage_stats_limit_time_low_accuracy_summary_new">"Précis jusqu'à la minute dans les %d heures restantes (économise l'énergie)"</string>
   <string name="usage_stats_limit_time_low_accuracy_title">Faible</string>
   <string name="usage_stats_limit_time_warn">"Avertissements temps d'utilisation"</string>
   <string name="usage_stats_limit_time_warn_summary">"Affiche le temps d'utilisation restant dans la barre de notification"</string>
