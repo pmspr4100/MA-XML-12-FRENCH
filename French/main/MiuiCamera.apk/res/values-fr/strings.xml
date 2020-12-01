@@ -633,6 +633,7 @@ Numérisez des documents en un clic"</string>
   <string name="download_cancel_hint">Annuler le téléchargement %1$s ?</string>
   <string name="download_confirm">Télécharger</string>
   <string name="download_hint">%1$s Mo des données cellulaires seront utilisées pour télécharger des éléments. Télécharger quand même ?</string>
+  <string name="download_in_progress">Téléchargement…</string>
   <string name="download_title">Avertissement utilisation des données</string>
   <string name="dual_camera_lens_covered_toast">La lentille est couverte.</string>
   <string name="dual_camera_lowlight_toast">"On dirait qu'il fait trop sombre."</string>
@@ -1270,6 +1271,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_groupshot_with_primitive_title">"Enregistrer les photos d'origine également"</string>
   <string name="pref_hdr10_video_mode_description">Optimisez automatiquement les couleurs et le contraste pour les vidéos 4K et 8K. Les vidéos optimisées ne peuvent être lues que sur des appareils compatibles HDR10.</string>
   <string name="pref_hdr10_video_mode_title">HDR 10</string>
+  <string name="pref_hdr10plus_video_mode_description">Optimise les couleurs et ajuste le contraste pour les vidéos 4K et 8K. Cette fonction ne fonctionne que sur les appareils compatibles HDR10 +.</string>
   <string name="video_hdr10_tip">HDR 10</string>
   <string name="pref_lens_dirty_detect_summary">"Recevoir une notification lorsque l'objectif est sale"</string>
   <string name="pref_lens_dirty_detect_title">"Avertir de l'objectif sale"</string>
@@ -1418,6 +1420,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="timbre_robot">Robot</string>
   <string name="pref_setting_title">Paramètres</string>
   <string name="time_lapse_error">"Impossible d'utiliser cette taille de vidéo pour un enregistrement en accéléré"</string>
+  <string name="time_stamp_date_format">dd/MM/yyyy</string>
   <string name="timer_burst">Timed burst</string>
   <string name="timer_burst_manu_param_interval">Interval without exposure</string>
   <string name="timer_burst_param_interval">Interval</string>
