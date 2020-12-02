@@ -60,6 +60,10 @@
         <item quantity="other">%d réseaux Wi-Fi</item>
         <item quantity="one">%d réseau Wi-Fi</item>
     </plurals>
+    <plurals name="error_screen_pwd_next_retry_time">
+        <item quantity="other">Réessayez dans %d secondes</item>
+        <item quantity="one">Réessayez dans %d seconde</item>
+    </plurals>
     <plurals name="last_sync_time_mins_ago">
         <item quantity="other">il y a %s min</item>
         <item quantity="one">il y a %s min</item>

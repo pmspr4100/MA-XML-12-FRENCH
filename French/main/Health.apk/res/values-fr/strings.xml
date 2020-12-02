@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="MediaControlView_ad_remaining_time">Annonce · %1$s restant</string>
+  <string name="MediaControlView_ad_skip_wait_time">"Vous pouvez ignorer l'annonce dans %1$ds"</string>
+  <string name="MediaControlView_ad_text">"Visiter l'annonceur"</string>
+  <string name="MediaControlView_audio_track_none_text">Aucune</string>
+  <string name="MediaControlView_audio_track_number_text">Piste %1$d</string>
+  <string name="MediaControlView_audio_track_text">Piste audio</string>
+  <string name="MediaControlView_playback_speed_normal">Normal</string>
+  <string name="MediaControlView_playback_speed_text">Vitesse de lecture</string>
+  <string name="MediaControlView_subtitle_off_text">Désactivé</string>
+  <string name="MediaControlView_subtitle_track_number_and_lang_text">Piste %1$d - %2$s</string>
+  <string name="MediaControlView_subtitle_track_number_text">Piste %1$d</string>
+  <string name="MediaControlView_video_quality_auto_text">Auto</string>
   <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
   <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
   <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
@@ -65,6 +77,7 @@
   <string name="allergic_drugs_hint">"Indiquez le médicament et la réaction qu'il induit"</string>
   <string name="allow_notice_periods">Active time period</string>
   <string name="altitude">Altitude</string>
+  <string name="altitude_pressure_hint">*Calculé par la pression atmosphérique, quelques erreurs possibles</string>
   <string name="altitude_range">Altitude</string>
   <string name="app_setting">Applications</string>
   <string name="audio_permission_dialog_desc">"La permission d'enregistrement audio a été retirée, merci de la redonner."</string>
@@ -76,7 +89,7 @@
 
 Pour vous fournir des recommandations, nous partagerons vos données de santé avec un fournisseur de services tiers. Les éléments que nous partagerons comprennent des informations personnelles (âge, sexe), des statistiques de santé (taille, poids, routine d'entraînement), des données de comportement (heure de début et de fin, ainsi que la durée de vos entraînements).
 
-Nous traiterons ces éléments avant de les partager afin d'empêcher les fournisseurs de services tiers de vous identifier personnellement sur la base des données qu'ils reçoivent.
+Nous rendrons anonymes ces éléments avant de les partager afin d'empêcher les fournisseurs de services tiers de vous identifier personnellement sur la base des données qu'ils reçoivent.
 
 Si vous ne souhaitez pas accéder aux cours recommandés, vous pouvez toujours utiliser les entraînements réguliers."</string>
   <string name="auth_dialog_link">To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &lt;font color=\"#0D84FF\">&lt;a href=%1$s>User Agreement&lt;/a>&lt;/font> and &lt;font color=\"#0D84FF\">&lt;a href=%2$s>Privacy Policy&lt;/a>&lt;/font>.</string>
@@ -110,6 +123,7 @@ Si vous ne souhaitez pas accéder aux cours recommandés, vous pouvez toujours u
   <string name="back_stroke">Dos crawlé</string>
   <string name="background_run_tips">"Appuyez sur \"Paramètres\" ci-dessous et autorisez Xiaomi Health à toujours s'exécuter en arrière-plan."</string>
   <string name="backtrack">Retour</string>
+  <string name="base_dpi">Par défaut 360ppp</string>
   <string name="basic_info_label_age">Âge</string>
   <string name="basic_info_label_birthday">Anniversaire</string>
   <string name="basic_info_label_gender">Sexe</string>
@@ -252,6 +266,7 @@ Si vous décidez de supprimer vos données de santé après avoir choisi de les 
   <string name="deep_sleep_duration_description">"Lors du sommeil, des mouvements rapides des yeux surviennent régulièrement. Ainsi le sommeil peut être divisé entre un sommeil à mouvements oculaires rapides, et un sommeil à mouvements oculaires non rapides. Le sommeil profond a lieu pendant les périodes de mouvement oculaires non rapides, et représente environ 20 à 25% du temps de sommeil total. Durant le sommeil profond, il y a moins d'activité consciente, et le cerveau est dans un état relativement statique; il est difficile de se réveiller durant cette phase."</string>
   <string name="deep_sleep_duration_increase_description">Votre sommeil profond est trop long</string>
   <string name="deep_sleep_duration_normal_description">Votre sommeil profond est suffisant</string>
+  <string name="default_notification_channel_name">Lecture en cours</string>
   <string name="delete">Supprimer</string>
   <string name="delete_aid_file">Supprimer</string>
   <string name="delete_aid_file_desc">"Votre identifiant médical d'urgence sera définitivement supprimé de cet appareil si vous continuez."</string>
@@ -362,6 +377,12 @@ Mi Santé ne vous informera que des articles importants."</string>
   <string name="enable_right_now">Activé</string>
   <string name="enough">Suffisant</string>
   <string name="enter_mi_health">Ouvrir Mi Santé</string>
+  <string name="environment_detection_again">Réessayez</string>
+  <string name="environment_detection_fail">"On dirait que c'est trop bruyant ici"</string>
+  <string name="environment_detection_fail_hint">Déplacez-vous dans un endroit calme et réessayez.</string>
+  <string name="environment_detection_hint_one">Évitez les endroits bruyants pour rendre les statistiques plus précises.</string>
+  <string name="environment_detection_hint_two">Votre entraînement sera mis en pause et repris automatiquement en fonction des sons que vous produisez.</string>
+  <string name="environment_detection_ing">"Vérification de l'environnement d'entraînement…"</string>
   <string name="equivalent_exercise">≈%1$s km marchés (%2$s kcal)</string>
   <string name="evening">Après-midi</string>
   <string name="every_day">Every day</string>
@@ -504,6 +525,8 @@ S'il vous est encore difficile de vous endormir après 30 minutes au lit, rédui
   <string name="health_score">Score de santé</string>
   <string name="health_score_tips">"Le score de santé est calculé sur la base de votre IMC (indice de masse corporelle), ainsi que de vos étapes de sommeil et d'activité. Plus vous êtes proche de vos objectifs, plus votre score de santé est élevé."</string>
   <string name="health_setting">Paramètres de santé</string>
+  <string name="health_uninstall_dialog_content">"Xiaomi Santé est une application système. Vous pouvez utiliser cette application pour compter les pas, suivre le sommeil, les règles et le poids, ainsi que synchroniser vos statistiques sur le cloud. Vous ne pourrez plus utiliser cette application après l'avoir désinstallée."</string>
+  <string name="health_uninstall_dialog_title">Désinstaller Xiaomi Santé ?</string>
   <string name="heart_rate">Fréquence cardiaque</string>
   <string name="height">Taille</string>
   <string name="high">Élevé</string>
@@ -544,9 +567,8 @@ Attendez que le cercle devienne rouge."</string>
   <string name="hr_fp_detect_principle_desc">"Le sang n'est pas complètement opaque; par conséquent, la lumière peut le traverser. À chaque battement de cœur, le sang coule vers vos doigts, bloquant plus de lumière qu'entre les battements de cœur. Une lumière vive dans la zone du lecteur d'empreintes digitales sous l'écran nous permet de suivre les changements de votre flux sanguin, d'analyser les schémas et de les convertir en valeurs de fréquence cardiaque."</string>
   <string name="hr_fp_detect_principle_desc_2">"Remarque: assurez-vous que votre doigt recouvre entièrement l'icône d'empreinte digitale pendant la mesure. N'appliquez pas de force, car cela pourrait bloquer la circulation sanguine du bout du doigt et rendre les résultats inexacts. Cette mesure est fournie à titre indicatif uniquement. Il ne peut pas remplacer les tests médicaux."</string>
   <string name="hr_fp_detect_principle_desc_3">Nos tests montrent que cette méthode mesure votre fréquence cardiaque avec une erreur inférieure à 3 BPM.</string>
-  <string name="hr_fp_detect_start_desc">"Appuyez légèrement sur l'icône d'empreinte digitale.
-Ne bougez pas votre doigt."</string>
-  <string name="hr_fp_detecting">Mesure en cours…</string>
+  <string name="hr_fp_detect_start_desc">"Couvrez l'icône avec votre doigt"</string>
+  <string name="hr_fp_detecting">Ne bougez pas votre doigt</string>
   <string name="hr_fp_not_put_well">"Votre doigt a bougé.
 Recommencer."</string>
   <string name="hr_fp_report_common_desc">"La fréquence cardiaque normale varie de 60 à 100 battements par minute. Une fréquence cardiaque inférieure à 60 BPM est un signe de bradycardie, tandis qu'une fréquence cardiaque supérieure à 100 BPM est considérée comme une tachycardie chez les adultes."</string>
@@ -562,7 +584,18 @@ Recommencer."</string>
   <string name="hr_pre_detect_finger_desc">Vérifier si le flash et le capteur sont entièrement couverts. Ne bougez pas votre doigt.</string>
   <string name="hr_re_detect_title">Recommencer</string>
   <string name="hr_report_active_desc">"Mesurer votre fréquence cardiaque juste après un exercice physique peut vous aider à ajuster vos exercices habituels, car les entraînements d'intensité différente ont différentes zones de fréquence cardiaque optimales. Si votre fréquence cardiaque est trop élevée, l'activité pourrait être préjudiciable à votre santé, entraînant des étourdissements, une oppression thoracique et d'autres risques. Une fréquence cardiaque basse peut être le signe d'une faible efficacité d'un entraînement particulier."</string>
+  <string name="hr_report_active_high_desc">"Votre fréquence cardiaque actuelle est une fréquence cardiaque d'exercice de haute intensité. La fonction cardiopulmonaire sera stimulée."</string>
+  <string name="hr_report_active_higher_desc">"Votre fréquence cardiaque actuelle est une fréquence cardiaque d'exercice de haute intensité. La fonction cardiaque et pulmonaire est fortement stimulée. En même temps, faites attention à la condition physique. En cas d'inconfort, arrêtez l'exercice dès que possible."</string>
+  <string name="hr_report_active_lower_mid_desc">"Votre fréquence cardiaque actuelle est une fréquence cardiaque d'exercice de faible intensité. Votre cœur peut s'échauffer. Il est suggéré aux personnes en mauvaise santé de faire de l'exercice à une intensité faible à modérée."</string>
+  <string name="hr_report_active_lowest_desc">"Votre fréquence cardiaque actuelle est une fréquence cardiaque d'exercice de faible intensité. Cela peut produire une certaine stimulation du corps, mais l'intensité de l'exercice est faible."</string>
+  <string name="hr_report_active_mid_desc">"Votre fréquence cardiaque actuelle est une fréquence d'exercice modérée. Il est recommandé à la plupart des adultes en bonne santé de faire des exercices d'intensité modérée à élevée pendant 150 minutes par semaine."</string>
   <string name="hr_report_common_desc">"La fréquence cardiaque est maintenue par le corps humain durant les activités quotidiennes, et s'étend de 60 à 100 battements par minute. Un rythme inférieur à 60 BPM est un signe de bradycardie, tandis qu'un rythme supérieur à 100 BPM est considéré comme de la tachycardie chez l'adulte."</string>
+  <string name="hr_report_regular_fast_desc">"Votre tachycardie actuelle. Le sport intense, la consommation d'alcool, le travail physique intense, la tension, l'anxiété ou la prise de certains médicaments peuvent provoquer une tachycardie physiologique, tandis que les maladies cardiovasculaires, l'anémie, l'hyperthyroïdie, l'hypoxie, l'insuffisance cardiaque et d'autres maladies peuvent provoquer une tachycardie pathologique. En cas de malaise, veuillez consulter votre médecin."</string>
+  <string name="hr_report_regular_normal_desc">"Votre fréquence cardiaque est dans la plage normale. Votre cœur est capable de gérer le stress et votre corps peut résister au stress externe. La modification de la fréquence cardiaque est étroitement liée aux maladies cardiaques. Veuillez prêter attention aux changements de fréquence cardiaque à tout moment, en particulier pendant l'exercice."</string>
+  <string name="hr_report_regular_slow_desc">"Votre fréquence cardiaque actuelle est trop lente. Le taux de bradycardie était inférieur à la fréquence cardiaque normale (environ 60%). Si la bradycardie ne provoque pas d'étourdissements, d'amaurose, d'étourdissements, de syncopes et d'autres symptômes, ne peut pas interférer, un suivi régulier peut être. Mais si vous avez une oppression thoracique, des étourdissements et d'autres symptômes, veuillez consulter votre médecin à temps."</string>
+  <string name="hr_report_resting_fast_desc">"Votre fréquence cardiaque au repos est supérieure à la plage normale, ce qui peut entraîner de la fatigue ou une tachycardie. Il est suggéré d'améliorer votre style de vie, comme un régime pauvre en sel et en huile, la perte de poids, le tabagisme et l'arrêt de l'alcool, l'ajustement psychologique et émotionnel, en particulier l'augmentation progressive de l'exercice physique, ce qui peut aider à ralentir la fréquence cardiaque au repos."</string>
+  <string name="hr_report_resting_normal_desc">"Votre fréquence cardiaque au repos est dans la plage normale. La fréquence cardiaque au repos fait référence au nombre de battements cardiaques par minute de personnes normales dans un état calme. Le meilleur moment pour mesurer la fréquence cardiaque au repos est au moment du réveil le matin, toujours allongé dans son lit et sans faire d'activité physique. Avant de mesurer la fréquence cardiaque au repos, respirez profondément pour détendre complètement le corps."</string>
+  <string name="hr_report_resting_slow_desc">"Votre fréquence cardiaque au repos est inférieure à la plage normale. Il peut s'agir d'une bradycardie. Si la fréquence cardiaque est trop lente pendant une longue période, cela peut provoquer facilement une ischémie et une hypoxie des organes, en particulier des vaisseaux cardio-cérébraux. La fréquence cardiaque au repos est étroitement liée à l'alimentation, à l'exercice, au stress, au sommeil et à la condition physique. Il est recommandé de maintenir une bonne hygiène de vie et de faire attention aux réactions physiques au cours du temps. Si vous présentez des symptômes tels que des étourdissements, de la fatigue, des évanouissements et une oppression thoracique, veuillez consulter rapidement un médecin."</string>
   <string name="hr_see_report">Afficher le rapport</string>
   <string name="hr_start_detect">Démarrer</string>
   <string name="hr_state">Statut</string>
@@ -653,6 +686,7 @@ Recommencer."</string>
   <string name="low_intensity">Faible</string>
   <string name="low_intensity_description">Fréquence respiratoire régulière qui vous permet de maintenir une conversation</string>
   <string name="low_pressure">Diastolique (plus bas)</string>
+  <string name="lowest_freq">Fréquence la plus basse</string>
   <string name="lowest_jump">Saut le plus bas</string>
   <string name="manage_home">Gérer la page de démarrage</string>
   <string name="manual_add">Ajouter manuellement</string>
@@ -670,6 +704,28 @@ Recommencer."</string>
   <string name="max_low_pressure">Max diastolic (lower)</string>
   <string name="maximum">Maximum</string>
   <string name="maximum_pace">Rythme le plus élevé</string>
+  <string name="mcv2_back_button_desc">Retour</string>
+  <string name="mcv2_cc_is_off">"Le sous-titrage est désactivé. Cliquez pour l'afficher."</string>
+  <string name="mcv2_cc_is_on">Le sous-titrage est activé. Cliquez pour le masquer.</string>
+  <string name="mcv2_error_dialog_button">OK</string>
+  <string name="mcv2_ffwd_button_desc">Avancez de 30 secondes</string>
+  <string name="mcv2_full_screen_button_desc">Plein écran</string>
+  <string name="mcv2_launch_button_desc">Lien de démarrage</string>
+  <string name="mcv2_music_artist_unknown_text">Artiste inconnu</string>
+  <string name="mcv2_music_title_unknown_text">Titre de chanson inconnu</string>
+  <string name="mcv2_next_button_desc">Média suivant</string>
+  <string name="mcv2_non_music_title_unknown_text">Titre de vidéo inconnu</string>
+  <string name="mcv2_overflow_left_button_desc">Retour à la liste des boutons précédente</string>
+  <string name="mcv2_overflow_right_button_desc">"Voir davantage de boutons"</string>
+  <string name="mcv2_pause_button_desc">Pause</string>
+  <string name="mcv2_play_button_desc">Lecture</string>
+  <string name="mcv2_playback_error_text">"Impossible de lire l'élément que vous avez demandé"</string>
+  <string name="mcv2_previous_button_desc">Média précédent</string>
+  <string name="mcv2_replay_button_desc">Relecture</string>
+  <string name="mcv2_rewind_button_desc">Revenir en arrière de 10 secondes</string>
+  <string name="mcv2_seek_bar_desc">Progression de la lecture</string>
+  <string name="mcv2_settings_button_desc">Paramètres</string>
+  <string name="mcv2_video_quality_button_desc">Sélection de la qualité de vidéo</string>
   <string name="measure_date">Temps de mesure</string>
   <string name="measure_time">Durée de mesure</string>
   <string name="medical_file_desc1">"Informations médicales importantes indispensables en cas d'urgence"</string>
@@ -761,6 +817,11 @@ Recommencer."</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">"C'est tout pour le moment"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chargement…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Impossible de charger les éléments"</string>
+  <string name="miuix_search_action_mode_cancel">Annuler</string>
+  <string name="miuix_search_history_clear">"Effacer l'historique de recherche"</string>
+  <string name="miuix_search_history_default_title">Historique de recherche</string>
+  <string name="miuix_search_recommendation_default_title">Cela devrait vous intéresser</string>
+  <string name="miuix_search_recommendation_item_del_des">Supprimer</string>
   <string name="model_card_setting">Paramètres de la carte</string>
   <string name="moderately_abnormal">Hypertension de niveau 2</string>
   <string name="moderately_abnormal_tip">Tous les jours après le lever et avant de se coucher</string>
@@ -824,6 +885,7 @@ Recommencer."</string>
   <string name="need_auto_start_permission">"Pour obtenir des statistiques plus corrects, autoriser Mi Santé à s'autodémarrer."</string>
   <string name="need_unrestricted_permission">Pour obtenir des statistiques plus corrects, autoriser Mi Santé à toujours fonctionner en arrière-plan.</string>
   <string name="network_connect_failure">Connexion au réseau impossible. Vérifiez vos paramètres réseau et réessayez.</string>
+  <string name="network_name_china">WLAN</string>
   <string name="network_not_available">Connexion au réseau impossible. Vérifiez vos paramètres réseau et réessayez.</string>
   <string name="network_not_available2">Connexion au réseau impossible</string>
   <string name="next_step">Suivant</string>
@@ -876,6 +938,7 @@ Recommencer."</string>
   <string name="passport_oauth_sucess_tip">Succès autorisé</string>
   <string name="password_toggle_content_description">Afficher le mot de passe</string>
   <string name="pause">Pause</string>
+  <string name="pause_button_content_description">Met en pause le contenu</string>
   <string name="per_time_minutes">%d per minute</string>
   <string name="per_time_minutes1">" par minute"</string>
   <string name="period">Cycle</string>
@@ -890,13 +953,14 @@ Recommencer."</string>
   <string name="picker_day">Jour sélectionné: %1$d. Balayez verticalement pour sélectionner.</string>
   <string name="picker_month">Mois sélectionné: %1$d. Balayez verticalement pour sélectionner.</string>
   <string name="picker_year">Année sélectionnée: %1$d. Balayez verticalement pour sélectionner.</string>
-  <string name="placement_tips_recommend">Recommendé</string>
+  <string name="placement_tips_recommend">Recommandé</string>
   <string name="placement_tips_recommend_1">Sac à dos</string>
   <string name="placement_tips_recommend_2">Banane</string>
   <string name="placement_tips_title">Où devriez-vous mettre votre téléphone?</string>
   <string name="placement_tips_warn">Non recommandé</string>
   <string name="placement_tips_warn_1">Tapis roulant</string>
   <string name="play">Lire</string>
+  <string name="play_button_content_description">Lit le contenu</string>
   <string name="please_choose">Sélectionner</string>
   <string name="pool_swimming">Natation en piscine</string>
   <string name="predict_menstruation">Règles attendues</string>
@@ -978,6 +1042,8 @@ Recommencer."</string>
   <string name="retry">Réessayer</string>
   <string name="revert_to_default">Revenir aux réglages par défaut</string>
   <string name="rope_skipping">Corde à sauter</string>
+  <string name="rope_skipping_environment_warning">Veuillez éviter les environnements bruyants</string>
+  <string name="rope_skipping_ways">Identifier la corde à sauter par la voix</string>
   <string name="rowing_machine">Rameur</string>
   <string name="run">"En cours d'exécution"</string>
   <string name="saturday">Samedi</string>
@@ -1021,6 +1087,26 @@ Recommencer."</string>
   <string name="severe_abnormal_tip">Every day after getting up, after lunch, and before going to bed</string>
   <string name="share">Partager</string>
   <string name="skip">Suivant</string>
+  <string name="skip_to_next_item_button_content_description">"Passer à l'élément suivant"</string>
+  <string name="skip_to_previous_item_button_content_description">"Passer à l'élément précédent"</string>
+  <string name="skipping_count">Sauts</string>
+  <string name="skipping_detection_no">Impossible de détecter votre entraînement.</string>
+  <string name="skipping_detection_no_hint">Évitez les endroits bruyants et gardez cet appareil à proximité.</string>
+  <string name="skipping_kcal">Calories</string>
+  <string name="skipping_pause">"Ignorer le délai d'expiration"</string>
+  <string name="skipping_pause_tips">Paused | Reprenez votre entraînement pour continuer à suivre automatiquement</string>
+  <string name="skipping_ready">Vous pouvez commencer votre entraînement maintenant</string>
+  <string name="skipping_ready_hint_one">"Gardez cet appareil à une distance d'au plus 1 mètre de vous."</string>
+  <string name="skipping_ready_hint_two">Votre entraînement sera mis en pause et repris automatiquement en fonction des sons que vous produisez.</string>
+  <string name="skipping_ready_toast">Nous avons augmenté le volume pour que vous entendiez mieux les instructions.</string>
+  <string name="skipping_reset_time">Réinitialiser</string>
+  <string name="skipping_start_counting">Démarrer</string>
+  <string name="skipping_time">Durée</string>
+  <string name="skipping_upload_dialog_agree_and_upload">Accepter et envoyer</string>
+  <string name="skipping_upload_dialog_msg">"Afin de fournir une expérience de comptage de sauts plus précise, Xiaomi Santé téléchargera le fichier d'enregistrement de votre corde à sauter dans des conditions Wi-Fi pour optimiser l'effet de reconnaissance de saut à la corde. Pour protéger votre vie privée, le téléchargement et le stockage des fichiers d'enregistrement seront tous chiffrés."</string>
+  <string name="skipping_upload_dialog_reject_not_remind">Refuser et ne plus demander</string>
+  <string name="skipping_upload_dialog_title">"Envoyer l'enregistrement de saut à la corde pour optimiser la reconnaissance"</string>
+  <string name="skipping_upload_tips">"Envoyez cet enregistrement de saut de corde pour aider à améliorer l'effet de reconnaissance"</string>
   <string name="sleep">Sommeil</string>
   <string name="sleep_and_get_up_time">Horaire du coucher</string>
   <string name="sleep_auto_start_perm_grant">Permissions accordées</string>
@@ -1177,6 +1263,9 @@ Si ce problème se produit fréquemment, vérifiez sur votre appareil les tâche
   <string name="snore_record_audio_delete_title">"Supprimer l'enregistrement ?"</string>
   <string name="snore_section">Ronflement %1$s</string>
   <string name="snore_write_description">Pour sauvegarder des enregistrements audio sur votre appareil</string>
+  <string name="sport_audio_permission_dialog_content">"Cette application a besoin d'autorisations pour enregistrer de l'audio pour pouvoir suivre les entraînements en fonction des sons que vous produisez."</string>
+  <string name="sport_audio_permission_dialog_desc">Pour suivre les entraînements en fonction des sons que vous produisez</string>
+  <string name="sport_audio_permission_dialog_title">Permissions requises</string>
   <string name="sport_btn_continue">Reprendre</string>
   <string name="sport_btn_finish">Terminer</string>
   <string name="sport_btn_lock">Verrouiller</string>
@@ -1190,6 +1279,7 @@ Si ce problème se produit fréquemment, vérifiez sur votre appareil les tâche
   <string name="sport_invalid_dialog_title">Trop rapide !</string>
   <string name="sport_menu_share">Partager</string>
   <string name="sport_no_internet_toast">"Impossible d'accéder à votre emplacement précis en raison d'un signal réseau médiocre."</string>
+  <string name="sport_outdoor_running">Course en extérieur</string>
   <string name="sport_pace_chart_last_km">Moins de 1 km</string>
   <string name="sport_pace_step_unit">SPM</string>
   <string name="sport_pref_category_voice">Audio</string>
@@ -1281,6 +1371,8 @@ Si ce problème se produit fréquemment, vérifiez sur votre appareil les tâche
   <string name="sustain_title">"Vous n'avez pas bougé depuis "</string>
   <string name="swim">La natation</string>
   <string name="swim_type">Style</string>
+  <string name="swipe_right_to_end">Balayez vers la droite pour terminer</string>
+  <string name="swipe_up_to_end">Balayez vers le haut pour terminer</string>
   <string name="sync_health_data">Synchronisez les données de santé</string>
   <string name="sync_immediately">Synchroniser</string>
   <string name="sync_is_not_closed">La synchronisation est actuellement activée</string>
@@ -1439,6 +1531,7 @@ Si ce problème se produit fréquemment, vérifiez sur votre appareil les tâche
   <string name="tb_weight_pre_time">Pesée précédente</string>
   <string name="tb_weight_result">Résultat estimé: %s</string>
   <string name="temporary_not_available">temporairement indisponible</string>
+  <string name="test">Par défaut 360ppp</string>
   <string name="text_edit_exercise_goal">"Modifier l'objectif"</string>
   <string name="text_save_exercise_goal">Effectué</string>
   <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
@@ -1520,12 +1613,14 @@ Si ce problème se produit fréquemment, vérifiez sur votre appareil les tâche
   <string name="total_distance_label">Total distance</string>
   <string name="total_slip">Nombre de coups de rame</string>
   <string name="total_time_label">Total time</string>
+  <string name="treadmill">Tapis roulant</string>
   <string name="tracking_progress_labe_pull_to_refresh">pull to refresh</string>
   <string name="tracking_progress_labe_refreshed">refresh completed</string>
   <string name="tracking_progress_labe_refreshing">refreshing</string>
   <string name="tracking_progress_labe_release_to_refresh">release to refresh</string>
   <string name="tracking_progress_labe_up_nodata">no data</string>
   <string name="tracking_progress_labe_up_refresh">pull to refresh</string>
+  <string name="try_again">Réessayer</string>
   <string name="tuesday">Mardi</string>
   <string name="tuesday_short">Mar</string>
   <string name="tuesday_shortest">Mar</string>
@@ -1567,6 +1662,7 @@ Mettre à jour maintenant ?"</string>
   <string name="value_error_correct">"Modifier l'enregistrement"</string>
   <string name="visceral_fat">Graisse viscérale</string>
   <string name="visceral_fat_descripe_content">La graisse viscérale est essentielle pour stabiliser et protéger les organes internes. Cependant, une graisse viscérale élevée augmente le risque de maladies cardiovasculaires et métaboliques.</string>
+  <string name="voice_remind">"Nous avons augmenté le volume pour que vous entendiez mieux les instructions."</string>
   <string name="walk">Marche</string>
   <string name="wednesday">Mercredi</string>
   <string name="wednesday_short">Mer</string>

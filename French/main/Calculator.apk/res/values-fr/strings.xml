@@ -81,6 +81,7 @@
   <string name="currency_update_support">Taux de changes fournis par Webull.</string>
   <string name="currency_update_time_format">Taux de changes fournis par Webull (%s)</string>
   <string name="currency_update_updating">Mise à jour des taux…</string>
+  <string name="date_format">dd MMM yyyy</string>
   <string name="dateformat">dd/MM/yyyy</string>
   <string name="day">jour</string>
   <string name="degDesc">Angle</string>
@@ -90,7 +91,10 @@
   <string name="deselect_all">Deselect</string>
   <string name="devided_by_zero_reminder_message">Impossible de diviser par zero</string>
   <string name="dialog_privacy_content">"Outre les fonctionnalités de base d'une calculatrice, notre application contient également une calculatrice scientifique et un convertisseur polyvalent. Certaines fonctionnalités doivent se connecter à Internet pour fonctionner normalement. Vous devez lire et accepter nos %1$s et %2$s avant d'utiliser la calculatrice."</string>
-  <string name="dialog_privacy_title">"Conditions Générales d'Utilisation"</string>
+  <string name="dialog_privacy_disagree_msg">En désactivant l'interrupteur, vous retirez votre consentement à la politique de confidentialité de Calculatrice. Nous cesserons de collecter vos informations personnelles. Les informations personnelles déjà collectées et conservées seront supprimées dans la période spécifique requise par les lois applicables. La calculatrice doit collecter les informations personnelles nécessaires pour vous fournir les services de base. Votre retrait de votre consentement à sa politique de confidentialité sera considéré comme un refus d'accepter ses services sur la base des informations personnelles collectées.</string>
+  <string name="dialog_privacy_revoke_btn_ok">Retrait</string>
+  <string name="dialog_privacy_revoke_title">Retrait du consentement</string>
+  <string name="dialog_privacy_title">"Conditions générales d'utilisation"</string>
   <string name="dialog_rating_desc_ask">Que pensez-vous de la Calculatrice ?</string>
   <string name="dialog_rating_desc_less">Pourriez-vous nous donner aussi vos avis ?</string>
   <string name="dialog_rating_desc_perfect">Sympa ! Évaluer la Calculatrice aussi dans lApp Store ?</string>
@@ -177,6 +181,7 @@
   <string name="item_title_vel_conversion">Vitesse</string>
   <string name="item_title_volume_conversion">Volume</string>
   <string name="item_title_weight_conversion">Masse</string>
+  <string name="l_name_discount">Remise (moins %s)</string>
   <string name="label_about">À propos</string>
   <string name="label_clear_history">Tout effacer</string>
   <string name="label_date_difference">Différence</string>
@@ -324,6 +329,7 @@ Les RAPI sur un an et cinq ans seront indiqués le 20 de chaque mois (des retard
   <string name="negDesc">Basculer entre les températures inférieures et supérieures à zéro</string>
   <string name="network_confirm_content">"Le convertisseur de devise, de taxe et des calculateurs d'hypothèque doivent se connecter à internet et accéder aux services de localisation de votre appareil pour fonctionner normalement."</string>
   <string name="network_confirm_title">Permissions requise</string>
+  <string name="new_privacy_string"><Data>"Bienvenue dans Calculatrice !&lt;br/>Cette application contient les fonctionnalités suivantes:&lt;br/>• Calculatrice de base&lt;br/>• Calculatrice scientifique&lt;br/>• Convertisseur universel (par ex. devise, unités de mesure, etc.)&lt;br/>• Modèles de calcul pour les prêts, investissements, EMI, etc.&lt;br/>La Calculatrice doit collecter les informations personnelles nécessaires pour vous fournir les services de base. Vous pouvez découvrir comment nous traitons les informations que nous collectons dans notre &lt;a href= \"%1$s\">Politique de confidentialité&lt;/a>. Lisez et acceptez notre &lt;a href=\"%2$s\">Accord utilisateur&lt;/a> et notre &lt;a href=\"%3$s\">Politique de confidentialité&lt;/a> avant d'utiliser Calculatrice. Vous pouvez à tout moment retirer votre consentement à la Politique de confidentialité de Calculatrice dans les paramètres. Si vous n'acceptez pas notre politique de confidentialité, vous ne pourrez pas utiliser certaines fonctionnalités de l'application; cependant, sa fonctionnalité de base sera toujours disponible."</Data></string>
   <string name="none">Aucun</string>
   <string name="not_supported_due_to_language">Cette fonctionnalité est uniquement disponible pour la langue chinoise</string>
   <string name="ok">OK</string>
@@ -352,7 +358,11 @@ Les RAPI sur un an et cinq ans seront indiqués le 20 de chaque mois (des retard
   <string name="preference_use_voice_summary">Activer pour utiliser la sortie vocale pendant les calculs</string>
   <string name="preference_use_voice_title">Speech output</string>
   <string name="preference_user_feedback_title">Feedback</string>
+  <string name="privacy_dialog_title">Confidentialité</string>
   <string name="privacy_policy">Politique de confidentialité</string>
+  <string name="privacy_revoke_error">"Retrait impossible. Veuillez réessayer."</string>
+  <string name="privacy_revoke_progress">Retrait en cours…</string>
+  <string name="privacy_switch">Retrait du consentement</string>
   <string name="radDesc">Radian</string>
   <string name="rate_data_provider">"Les taux d'intérêt sont fournis par hexun.com"</string>
   <string name="reciprocalDesc">Réciproque</string>
@@ -743,6 +753,7 @@ Les RAPI sur un an et cinq ans seront indiqués le 20 de chaque mois (des retard
   <string name="unit_year_format">Année %s</string>
   <string name="updating">Mise à jour de la Calculatrice…</string>
   <string name="user_agreement">"Accord de l'utilisateur"</string>
+  <string name="user_experience_program_title">"Programme d'expérience utilisateur"</string>
   <string name="view_float_window_move">Déplacer la calculatrice minimisée</string>
   <string name="voiceDesc">Contrôles vocaux</string>
   <string name="voice_guide_text">You can turn on speech output here</string>
@@ -752,6 +763,7 @@ Les RAPI sur un an et cinq ans seront indiqués le 20 de chaque mois (des retard
   <string name="wednesday_shortest">M</string>
   <string name="weight_prompt">Poids</string>
   <string name="wf_word_figure">Caractères financiers</string>
+  <string name="withdraw_network_error">Votre appareil doit se connecter au réseau pour que vous puissiez retirer votre consentement. Vérifiez vos paramètres réseau et réessayez.</string>
   <string name="word_figure_guide_text">Appuyez et maintenez le texte pour convertir entre les cas.</string>
   <string name="xiaomi_connect_download_manager_fail">Impossible de se connecter aux téléchargements. Vérifiez si cette application dispose de toutes les permissions requises dans Paramètres > Applications installées.</string>
   <string name="xiaomi_external_storage_unavailable">"Le stockage n'est pas disponible. Vérifiez votre carte SD."</string>
