@@ -144,16 +144,15 @@
   <string name="antivirus_monitor_virus_advice">Cette application peut contenir un virus, supprimez-la</string>
   <string name="antivirus_monitored_app_empty">Applications de paiement compatibles introuvables</string>
   <string name="antivirus_none_engine_dialog_ok">OK</string>
-  <string name="antivirus_not_wlan">"Vous n'êtes pas connecté au Wi-Fi. Utilser les données cellulaires peut générer des frais supplémentaires. Continuer quand même ?"</string>
+  <string name="antivirus_not_wlan">"Vous n'êtes pas connecté au Wi-Fi. Utiliser les données cellulaires peut générer des frais supplémentaires. Continuer quand même ?"</string>
   <string name="antivirus_privacy_dialog_cloudscan">Envoyer les noms et détails des applications</string>
   <string name="antivirus_privacy_dialog_cloudscan_description">Envoyer et analyser les noms et détails des applications en utilisant les bases de données de virus en ligne.</string>
   <string name="antivirus_privacy_dialog_ok">OK</string>
-  <string name="antivirus_privacy_dialog_summary">
-    <Data>Cette fonctionnalité est fournie par un moteur antivirus tiers. Pour en savoir plus, lisez l'&lt;a href=\"%1$s\"&gt;Accord de licence&lt;/a&gt; fourni par l'application tierce.</Data>""</string>
+  <string name="antivirus_privacy_dialog_summary"><Data>"Cette fonctionnalité est fournie par un moteur antivirus tiers. Pour en savoir plus, lisez l'&lt;a href=\"%1$s\"&gt;Accord de licence&lt;/a&gt; fourni par l'application tierce."</Data></string>
   <string name="antivirus_privacy_dialog_summary_link">Politique de confidentialité</string>
-  <string name="antivirus_privacy_dialog_summary_new">&lt;Data&gt;This feature uses antivirus definitions provided by Avast, AVL, and Tencent. Read the related &amp;lt;a href=\"%1$s\"&amp;gt;license agreements&amp;lt;/a&amp;gt; to learn more.&lt;/Data&gt;</string>
-  <string name="antivirus_privacy_dialog_summary_not_have_avast">&lt;Data&gt;This feature uses antivirus definitions provided by AVL and Tencent. Read the related &amp;lt;a href=\"%1$s\"&amp;gt;license agreements&amp;lt;/a&amp;gt; to learn more.&lt;/Data&gt;</string>
-  <string name="antivirus_privacy_dialog_summary_not_have_tencent">&lt;Data&gt;This feature uses antivirus definitions provided by Avast and AVL. Read the related &amp;lt;a href=\"%1$s\"&amp;gt;license agreements&amp;lt;/a&amp;gt; to learn more.&lt;/Data&gt;</string>
+  <string name="antivirus_privacy_dialog_summary_new">&lt;Data&gt;Cette fonctionnalité utilise les définitions antivirus fournies par Avast, AVL et Tencent. Lisez les &amp;lt;a href=\"%1$s\"&amp;gt;accords de licence&amp;lt;/a&amp;gt; pour en savoir plus.&lt;/Data&gt;</string>
+  <string name="antivirus_privacy_dialog_summary_not_have_avast">&lt;Data&gt;Cette fonctionnalité utilise les définitions antivirus fournies par AVL et Tencent. Lisez les &amp;lt;a href=\"%1$s\"&amp;gt;accords de licence&amp;lt;/a&amp;gt; pour en savoir plus.&lt;/Data&gt;</string>
+  <string name="antivirus_privacy_dialog_summary_not_have_tencent">&lt;Data&gt;Cette fonctionnalité utilise les définitions antivirus fournies par Avast et AVL. Lisez les &amp;lt;a href=\"%1$s\"&amp;gt;accords de licence&amp;lt;/a&amp;gt; pour en savoir plus.&lt;/Data&gt;</string>
   <string name="antivirus_privacy_dialog_title">Politique de confidentialité</string>
   <string name="antivirus_sec_network_unavailable">"Sécurité ne peut pas se mettre à jour car vous avez restreint la connexion internet. Autoriser sécurité à se connecter à internet ?"</string>
   <string name="antivirus_toast_already_update">À jour</string>
@@ -164,7 +163,7 @@
   <string name="antivirus_update_btn_contiue">Continuer</string>
   <string name="antivirus_update_btn_open">Autoriser</string>
   <string name="antivirus_update_btn_update">Mettre à jour</string>
-  <string name="apn_exception_modify_summary">"Default carrier access point isn't used or modified"</string>
+  <string name="apn_exception_modify_summary">"Le point d'accès par défaut de l'opérateur n'est pas utilisé ou modifié"</string>
   <string name="apn_exception_summary">"Test des configurations du Nom de Point d'Accès"</string>
   <string name="apn_exception_title">Vérifiez la configuration des APN</string>
   <string name="apn_exception_wap_summary">Le WAP est instable maintenant. Passez à NET.</string>
@@ -172,8 +171,8 @@
   <string name="app_behavior_about_negative">Signaler des inexactitudes</string>
   <string name="app_behavior_about_positive">Compris</string>
   <string name="app_behavior_allowed">Autoriser</string>
-  <string name="app_behavior_audio">%1s recorded audio</string>
-  <string name="app_behavior_audio_bg">%1s recorded audio in the background</string>
+  <string name="app_behavior_audio">"%1s a enregistré de l'audio"</string>
+  <string name="app_behavior_audio_bg">"%1s a enregistré de l'audio en arrière-plan"</string>
   <string name="app_behavior_audio_bg_single">"Cette application a enregistré de l'audio en arrière-plan"</string>
   <string name="app_behavior_audio_single">"Cette application a enregistré de l'audio"</string>
   <string name="app_behavior_autostart">%1s démarrage automatique</string>
@@ -182,11 +181,11 @@
   <string name="app_behavior_calendar_bg">"%1s a accédé à vos événements d'agenda en arrière-plan"</string>
   <string name="app_behavior_calendar_bg_single">"Cette application a accédé à vos événements d'agenda en arrière-plan"</string>
   <string name="app_behavior_calendar_single">"Cette application a accédé à vos événements d'agenda"</string>
-  <string name="app_behavior_calllog">%1s accessed call history</string>
-  <string name="app_behavior_calllog_bg">%1s accessed call history in the background</string>
+  <string name="app_behavior_calllog">"%1s a accédé à l'historique des appels"</string>
+  <string name="app_behavior_calllog_bg">"%1s a accédé à l'historique des appels en arrière-plan"</string>
   <string name="app_behavior_calllog_bg_single">"Cette application a accédé à l'historique des appels en arrière-plan"</string>
   <string name="app_behavior_calllog_single">"Cette application a accédé à l'historique des appels"</string>
-  <string name="app_behavior_callphone">%1s made a call</string>
+  <string name="app_behavior_callphone">%1s a passé un appel</string>
   <string name="app_behavior_callphone_single">Cette application a appelé</string>
   <string name="app_behavior_camera">%1s photos prises ou vidéos enregistrées</string>
   <string name="app_behavior_camera_single">Cette application a pris des photos ou enregistré des vidéos</string>
