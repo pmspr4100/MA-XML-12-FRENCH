@@ -37,7 +37,7 @@
   <string name="date_time_picker_dialog_title">"Réglez la date et l'heure"</string>
   <string name="from_unit_en">Kilomètre par heure</string>
   <string name="item_title_relationship">Conditions de parenté</string>
-  <string name="network_purpose">Bienvenue dans Calculatrice ! La calculatrice vous permet de convertir des devises, de calculer des remboursements hypothécaires, etc.</string>
+  <string name="network_purpose">Bienvenue dans Calculatrice ! La calculatrice vous permet de convertir des devises, de calculer des remboursements hypothécaires, etc.</string>
   <string name="title_bar">Convertisseur de longueur</string>
   <string name="xiaomi_bytes_unit">%1$s o</string>
   <string name="xiaomi_kilobytes_unit">%1$s Ko</string>
@@ -88,16 +88,16 @@
   <string name="deleteDesc">supprimer</string>
   <string name="description_content">"Outre ses caractéristiques de base, la calculatrice fonctionne également comme un convertisseur multifonctionnel, calculateur d'impôts et de prêts hypothécaires. Assurez-vous que vous pouvez vous passer de ces fonctionnalités avant de désinstaller l'application."</string>
   <string name="description_title">À propos</string>
-  <string name="deselect_all">Deselect</string>
-  <string name="devided_by_zero_reminder_message">Impossible de diviser par zero</string>
+  <string name="deselect_all">Désélectionner</string>
+  <string name="devided_by_zero_reminder_message">Impossible de diviser par zéro</string>
   <string name="dialog_privacy_content">"Outre les fonctionnalités de base d'une calculatrice, notre application contient également une calculatrice scientifique et un convertisseur polyvalent. Certaines fonctionnalités doivent se connecter à Internet pour fonctionner normalement. Vous devez lire et accepter nos %1$s et %2$s avant d'utiliser la calculatrice."</string>
   <string name="dialog_privacy_disagree_msg">"En désactivant l'interrupteur, vous retirez votre consentement à la politique de confidentialité de Calculatrice. Nous cesserons de collecter vos informations personnelles. Les informations personnelles déjà collectées et conservées seront supprimées dans la période spécifique requise par les lois applicables. La calculatrice doit collecter les informations personnelles nécessaires pour vous fournir les services de base. Votre retrait de votre consentement à sa politique de confidentialité sera considéré comme un refus d'accepter ses services sur la base des informations personnelles collectées."</string>
   <string name="dialog_privacy_revoke_btn_ok">Retrait</string>
   <string name="dialog_privacy_revoke_title">Retrait du consentement</string>
   <string name="dialog_privacy_title">"Conditions générales d'utilisation"</string>
-  <string name="dialog_rating_desc_ask">Que pensez-vous de la Calculatrice ?</string>
+  <string name="dialog_rating_desc_ask">Que pensez-vous de la Calculatrice ?</string>
   <string name="dialog_rating_desc_less">Pourriez-vous nous donner aussi vos avis ?</string>
-  <string name="dialog_rating_desc_perfect">Sympa ! Évaluer la Calculatrice aussi dans lApp Store ?</string>
+  <string name="dialog_rating_desc_perfect">"Sympa ! Évaluer la Calculatrice aussi dans l'App Store ?"</string>
   <string name="dialog_rating_title">Évaluez notre application</string>
   <string name="divDesc">diviser</string>
   <string name="dob_selection_error">"La date de naissance doit être antérieure à la date d'aujourd'hui"</string>
@@ -146,17 +146,17 @@
   <string name="hint_annual_rate">Enter annual rate</string>
   <string name="hint_enter_amount">Entrer le montant</string>
   <string name="hint_floatwindow_alpha_guide_text">"Appuyez sur pour ajuster l'opacité"</string>
-  <string name="history_delete_confirmation">"Effacer l'histoire maintenant ?"</string>
+  <string name="history_delete_confirmation">"Effacer l'histoire maintenant ?"</string>
   <string name="home_loan">Intérêts hypothécaires</string>
   <string name="home_title_calculator">Calculatrice</string>
   <string name="house_rent">Loyer</string>
   <string name="install">Installer</string>
-  <string name="install_scanner_to_continued_use">Scanner est désinstallé. Installer à nouveau ?</string>
+  <string name="install_scanner_to_continued_use">Scanner est désinstallé. Installer à nouveau ?</string>
   <string name="interest_rate_hint">"Entrer le taux d'intérêt"</string>
-  <string name="investment_invalid_duration">Investment duration must be greater than zero</string>
-  <string name="investment_type_once">One-time</string>
-  <string name="investment_type_recurring">Recurring</string>
-  <string name="item_page_title_investment">Investment calculator</string>
+  <string name="investment_invalid_duration">"La durée de l'investissement doit être supérieure à zéro"</string>
+  <string name="investment_type_once">Une fois</string>
+  <string name="investment_type_recurring">Récurrent</string>
+  <string name="item_page_title_investment">"Calculateur d'investissement"</string>
   <string name="item_title_aa_payment">Scinder la facture</string>
   <string name="item_title_age">Âge</string>
   <string name="item_title_area_conversion">Aire</string>
@@ -329,7 +329,7 @@ Les RAPI sur un an et cinq ans seront indiqués le 20 de chaque mois (des retard
   <string name="negDesc">Basculer entre les températures inférieures et supérieures à zéro</string>
   <string name="network_confirm_content">"Le convertisseur de devise, de taxe et des calculateurs d'hypothèque doivent se connecter à internet et accéder aux services de localisation de votre appareil pour fonctionner normalement."</string>
   <string name="network_confirm_title">Permissions requise</string>
-  <string name="new_privacy_string"><Data>"Bienvenue dans Calculatrice !&lt;br/>Cette application contient les fonctionnalités suivantes:&lt;br/>• Calculatrice de base&lt;br/>• Calculatrice scientifique&lt;br/>• Convertisseur universel (par ex. devise, unités de mesure, etc.)&lt;br/>• Modèles de calcul pour les prêts, investissements, EMI, etc.&lt;br/>La Calculatrice doit collecter les informations personnelles nécessaires pour vous fournir les services de base. Vous pouvez découvrir comment nous traitons les informations que nous collectons dans notre &lt;a href= \"%1$s\">Politique de confidentialité&lt;/a>. Lisez et acceptez notre &lt;a href=\"%2$s\">Accord utilisateur&lt;/a> et notre &lt;a href=\"%3$s\">Politique de confidentialité&lt;/a> avant d'utiliser Calculatrice. Vous pouvez à tout moment retirer votre consentement à la Politique de confidentialité de Calculatrice dans les paramètres. Si vous n'acceptez pas notre politique de confidentialité, vous ne pourrez pas utiliser certaines fonctionnalités de l'application; cependant, sa fonctionnalité de base sera toujours disponible."</Data></string>
+  <string name="new_privacy_string"><Data>"Bienvenue dans Calculatrice !&lt;br/>Cette application contient les fonctionnalités suivantes:&lt;br/>• Calculatrice de base&lt;br/>• Calculatrice scientifique&lt;br/>• Convertisseur universel (par ex. devise, unités de mesure, etc.)&lt;br/>• Modèles de calcul pour les prêts, investissements, EMI, etc.&lt;br/>La Calculatrice doit collecter les informations personnelles nécessaires pour vous fournir les services de base. Vous pouvez découvrir comment nous traitons les informations que nous collectons dans notre &lt;a href= \"%1$s\">Politique de confidentialité&lt;/a>. Lisez et acceptez notre &lt;a href=\"%2$s\">Accord utilisateur&lt;/a> et notre &lt;a href=\"%3$s\">Politique de confidentialité&lt;/a> avant d'utiliser Calculatrice. Vous pouvez à tout moment retirer votre consentement à la Politique de confidentialité de Calculatrice dans les paramètres. Si vous n'acceptez pas notre politique de confidentialité, vous ne pourrez pas utiliser certaines fonctionnalités de l'application; cependant, sa fonctionnalité de base sera toujours disponible."</Data></string>
   <string name="none">Aucun</string>
   <string name="not_supported_due_to_language">Cette fonctionnalité est uniquement disponible pour la langue chinoise</string>
   <string name="ok">OK</string>
@@ -772,5 +772,5 @@ Taille %2$s"</string>
   <string name="yesterday">Hier</string>
   <string name="xiaomi_update_dialog_message_diff">"Présentation de la version %1$s
 Taille de la mise à jour Delta: %2$s"</string>
-  <string name="xiaomi_update_dialog_title">%1$s mise à jour !</string>
+  <string name="xiaomi_update_dialog_title">%1$s mise à jour !</string>
 </resources>
