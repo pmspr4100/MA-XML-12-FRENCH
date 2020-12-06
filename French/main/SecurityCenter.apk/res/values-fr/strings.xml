@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="HIPS_Perm_Access_Gallery">Accéder à Galerie</string>
-  <string name="HIPS_Perm_Access_Gallery_Desc">Autorise cette application à accéder aux éléments de votre Galerie</string>
-  <string name="HIPS_Perm_External_Storage">Accéder et changer des fichiers sur le stockage interne</string>
-  <string name="HIPS_Perm_External_Storage_Desc">"Ajouter et supprimer des fichiers dans la mémoire interne de l'appareil"</string>
-  <string name="HIPS_Perm_External_Storage_Group">Gérer les permissions de stockage</string>
-  <string name="HIPS_Perm_External_Storage_Group_Desc">"Sélectionnez les éléments d'applications sont autorisés à accéder"</string>
-  <string name="HIPS_Perm_tencentControl">Accéder aux messages dans les applications de réseaux sociaux</string>
-  <string name="HIPS_Perm_tencentControl_Desc">Autorise cette application à accéder à vos messages WeChat et QQ</string>
   <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
   <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
   <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
@@ -148,11 +140,13 @@
   <string name="antivirus_privacy_dialog_cloudscan">Envoyer les noms et détails des applications</string>
   <string name="antivirus_privacy_dialog_cloudscan_description">Envoyer et analyser les noms et détails des applications en utilisant les bases de données de virus en ligne.</string>
   <string name="antivirus_privacy_dialog_ok">OK</string>
-  <string name="antivirus_privacy_dialog_summary"><Data>"Cette fonctionnalité est fournie par un moteur antivirus tiers. Pour en savoir plus, lisez l'&lt;a href=\"%1$s\"&gt;Accord de licence&lt;/a&gt; fourni par l'application tierce."</Data></string>
+  <string name="antivirus_privacy_dialog_summary">
+    <Data>"Cette fonctionnalité est fournie par un moteur antivirus tiers. Pour en savoir plus, lisez l'&lt;a href=\"%1$s\"&gt;Accord de licence&lt;/a&gt; fourni par l'application tierce."</Data>
+  </string>
   <string name="antivirus_privacy_dialog_summary_link">Politique de confidentialité</string>
-  <string name="antivirus_privacy_dialog_summary_new">&lt;Data&gt;Cette fonctionnalité utilise les définitions antivirus fournies par Avast, AVL et Tencent. Lisez les &amp;lt;a href=\"%1$s\"&amp;gt;accords de licence&amp;lt;/a&amp;gt; pour en savoir plus.&lt;/Data&gt;</string>
-  <string name="antivirus_privacy_dialog_summary_not_have_avast">&lt;Data&gt;Cette fonctionnalité utilise les définitions antivirus fournies par AVL et Tencent. Lisez les &amp;lt;a href=\"%1$s\"&amp;gt;accords de licence&amp;lt;/a&amp;gt; pour en savoir plus.&lt;/Data&gt;</string>
-  <string name="antivirus_privacy_dialog_summary_not_have_tencent">&lt;Data&gt;Cette fonctionnalité utilise les définitions antivirus fournies par Avast et AVL. Lisez les &amp;lt;a href=\"%1$s\"&amp;gt;accords de licence&amp;lt;/a&amp;gt; pour en savoir plus.&lt;/Data&gt;</string>
+  <string name="antivirus_privacy_dialog_summary_new"><Data>"Cette fonctionnalité utilise les définitions antivirus fournies par Avast, AVL et Tencent. Lisez les &amp;lt;a href=\"%1$s\"&amp;gt;accords de licence&amp;lt;/a&amp;gt; pour en savoir plus."</Data></string>
+  <string name="antivirus_privacy_dialog_summary_not_have_avast"><Data>"Cette fonctionnalité utilise les définitions antivirus fournies par AVL et Tencent. Lisez les &amp;lt;a href=\"%1$s\"&amp;gt;accords de licence&amp;lt;/a&amp;gt; pour en savoir plus."</Data></string>
+  <string name="antivirus_privacy_dialog_summary_not_have_tencent"><Data>"Cette fonctionnalité utilise les définitions antivirus fournies par Avast et AVL. Lisez les &amp;lt;a href=\"%1$s\"&amp;gt;accords de licence&amp;lt;/a&amp;gt; pour en savoir plus."</Data></string>
   <string name="antivirus_privacy_dialog_title">Politique de confidentialité</string>
   <string name="antivirus_sec_network_unavailable">"Sécurité ne peut pas se mettre à jour car vous avez restreint la connexion internet. Autoriser sécurité à se connecter à internet ?"</string>
   <string name="antivirus_toast_already_update">À jour</string>
@@ -1060,7 +1054,7 @@ carte médicale"</string>
   <string name="ew_arrive_text_tips">Arrivée de la vague sismique: %s</string>
   <string name="ew_button_confirm">Accepter</string>
   <string name="ew_button_exit">Refuser</string>
-  <string name="ew_china_version_first_start_network_msg">"&lt;Data&gt;"Cette fonction vous offre une fonctionnalité d'avertissement de tremblement de terre. Il vous informera des tremblements de terre à venir et émettra un son d'avertissement. Vous pourrez trouver le refuge le plus proche, appeler votre contact d'urgence et présenter votre carte médicale si nécessaire. &amp;lt;br&amp;gt;Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité applicables. &amp;lt;br&amp;gt;Pour pouvoir fonctionner normalement, cette fonctionnalité nécessite les autorisations suivantes afin de collecter vos informations personnelles: &amp;lt;br&amp;gt;&amp;#8226; Infos de localisation: &amp;lt;br&amp;gt;Pour accéder à votre localisation et fournir des avertissements de tremblement de terre précis. &amp;lt;br&amp;gt;Si vous n'acceptez pas d'accorder de telles autorisations ou de partager et de télécharger vos informations personnelles, vous ne pourrez pas utiliser cette fonctionnalité. Vous pouvez choisir de désactiver cette fonction ou de ne pas l'activer dans de tels cas. &amp;lt;br&amp;gt;Vous devez lire et accepter nos &amp;lt;a href=\"http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt; avant d'utiliser cette fonction."&lt;/Data&gt;"</string>
+  <string name="ew_china_version_first_start_network_msg"><Data>"Cette fonction vous offre une fonctionnalité d'avertissement de tremblement de terre. Il vous informera des tremblements de terre à venir et émettra un son d'avertissement. Vous pourrez trouver le refuge le plus proche, appeler votre contact d'urgence et présenter votre carte médicale si nécessaire. &amp;lt;br&amp;gt;Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité applicables. &amp;lt;br&amp;gt;Pour pouvoir fonctionner normalement, cette fonctionnalité nécessite les autorisations suivantes afin de collecter vos informations personnelles: &amp;lt;br&amp;gt;&amp;#8226; Infos de localisation: &amp;lt;br&amp;gt;Pour accéder à votre localisation et fournir des avertissements de tremblement de terre précis. &amp;lt;br&amp;gt;Si vous n'acceptez pas d'accorder de telles autorisations ou de partager et de télécharger vos informations personnelles, vous ne pourrez pas utiliser cette fonctionnalité. Vous pouvez choisir de désactiver cette fonction ou de ne pas l'activer dans de tels cas. &amp;lt;br&amp;gt;Vous devez lire et accepter nos &amp;lt;a href=\"http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt; avant d'utiliser cette fonction."</Data></string>
   <string name="ew_close">"Désactiver l'alerte"</string>
   <string name="ew_close_warning">Désactiver</string>
   <string name="ew_concern_city">Ajouter des villes</string>
@@ -1179,14 +1173,14 @@ carte médicale"</string>
   <string name="exit_dialog_exit">Quitter</string>
   <string name="exit_dialog_garbage_clean_message">La quantité de déchets sur votre appareil est supérieure à %s. Nettoyer les déchets ?</string>
   <string name="exit_dialog_garbage_clean_message_new">
-    <Data>Cleaner can free up &lt;font color=#0099ff&gt;%s&lt;/font&gt; of storage space. Clean now?</Data>
+    <Data>"Nettoyeur peut libérer &lt;font color=#0099ff&gt;%s&lt;/font&gt; d'espace de stockage. Nettoyer maintenant ?"</Data>
   </string>
   <string name="exit_dialog_garbage_clean_positive_button">Nettoyer</string>
   <string name="exit_dialog_garbage_clean_title">Vider la corbeille</string>
   <string name="exit_dialog_homepage_optimise_message">Le score de performance de votre appareil est à moins de 80 points. Optimiser maintenant ?</string>
-  <string name="exit_dialog_release_memory_positive_button">Close</string>
+  <string name="exit_dialog_release_memory_positive_button">Fermer</string>
   <string name="exit_dialog_release_memory_title">
-    <Data>Speed up your device by &lt;font color=#0099ff&gt;%d%%&lt;/font&gt;</Data>
+    <Data>Accélérez votre appareil en &lt;font color=#0099ff&gt;%d%%&lt;/font&gt;</Data>
   </string>
   <string name="exit_dialog_release_storage_message">"Plus de 80% du stockage sur votre appareil est occupé. Libérez de l'espace en désinstallant les applications que vous n'utilisez jamais."</string>
   <string name="exit_dialog_release_storage_positive_button">"Libérer de l'espace"</string>
@@ -1594,7 +1588,7 @@ de vos sessions de jeu"</string>
   <string name="gb_xunyou_gift_type_one">Boost Xunyou 1 jour</string>
   <string name="gb_xunyou_gift_type_three">Boost Xunyou 3 jours</string>
   <string name="gb_xunyou_gift_type_two">Boost Xunyou 2 jours</string>
-  <string name="gdpr_msg">&lt;Data&gt;"To be able to detect security risks and protect your data, we need to collect the necessary amount of information about your device. Read and agree to our &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt; before using our services. In case you don't allow us to collect such information, you'll still be able to use this app, but some features won't be available to you. "&lt;/Data&gt;</string>
+  <string name="gdpr_msg"><Data>"Pour pouvoir détecter les risques de sécurité et protéger vos données, nous devons collecter la quantité nécessaire d'informations sur votre appareil. Lisez et acceptez notre &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt; avant d'utiliser nos services. Si vous ne nous autorisez pas à collecter de telles informations, vous pourrez toujours utiliser cette application, mais certaines fonctionnalités ne vous seront pas disponibles."</Data></string>
   <string name="get_detail_by_click">Tap to view details</string>
   <string name="get_sys_info">"Obtention d'informations…"</string>
   <string name="gigabyteShort">" Go"</string>
@@ -1702,11 +1696,17 @@ de vos sessions de jeu"</string>
   <string name="hints_virus_app_list_item_summary">application</string>
   <string name="hints_virus_app_summary">%s (app)</string>
   <string name="hints_virus_lib_update_default_summary">Date de la dernière mise à jour inconnue</string>
+  <string name="HIPS_Perm_Access_Gallery">Accéder à Galerie</string>
+  <string name="HIPS_Perm_Access_Gallery_Desc">Autorise cette application à accéder aux éléments de votre Galerie</string>
   <string name="HIPS_Perm_add_voicemail_Desc">Ajouter des messages vocaux système</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Désactive ou active le Bluetooth</string>
   <string name="HIPS_Perm_Call_Desc">Appeler directement des numéros de téléphone</string>
   <string name="HIPS_Perm_CallLog_Desc">"Écrire et supprimer l'historique des appels"</string>
   <string name="HIPS_Perm_Contact_Desc">Modifier et supprimer des contacts</string>
+  <string name="HIPS_Perm_External_Storage">Accéder et changer des fichiers sur le stockage interne</string>
+  <string name="HIPS_Perm_External_Storage_Desc">"Ajouter et supprimer des fichiers dans la mémoire interne de l'appareil"</string>
+  <string name="HIPS_Perm_External_Storage_Group">Gérer les permissions de stockage</string>
+  <string name="HIPS_Perm_External_Storage_Group_Desc">"Sélectionnez les éléments d'applications sont autorisés à accéder"</string>
   <string name="HIPS_Perm_get_accounts_Desc">"Accéder à tous les comptes stockés sur l'appareil"</string>
   <string name="HIPS_Perm_PhoneID_Desc">Accéder au numéro de téléphone, IMEI et IMSI</string>
   <string name="HIPS_Perm_PhoneID_Desc_Q">"Accéder au numéro de téléphone et à l'état de l'appareil"</string>
@@ -1715,6 +1715,8 @@ de vos sessions de jeu"</string>
   <string name="HIPS_Perm_Read_Contact_Desc">Lisez vos contacts</string>
   <string name="HIPS_Perm_Read_SMS_Desc">Lisez vos SMS</string>
   <string name="HIPS_Perm_SendSMS_Desc">Envoyer directement des SMS</string>
+  <string name="HIPS_Perm_tencentControl">Accéder aux messages dans les applications de réseaux sociaux</string>
+  <string name="HIPS_Perm_tencentControl_Desc">Autorise cette application à accéder à vos messages WeChat et QQ</string>
   <string name="HIPS_Perm_use_sip_Desc">"Utiliser le protocole d'initiation de session pour diffuser de la vidéo"</string>
   <string name="HIPS_Perm_WIFI_Connectivity_Desc">Turning Wi-Fi on and off</string>
   <string name="hot">Populaire</string>
@@ -2505,8 +2507,28 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
   <string name="power_center_auto_shutdown">Planifier marche/arrêt</string>
   <string name="power_center_auto_shutdown_summary_default">Allumer ou éteindre votre appareil à une heure programmée</string>
   <string name="power_center_back">Retour</string>
+  <string name="power_center_battery_all">Tous</string>
+  <string name="power_center_battery_app_detail">Utilisation batterie par les applications</string>
+  <string name="power_center_battery_charge_night">Économisez la batterie tout en chargeant la nuit</string>
+  <string name="power_center_battery_charge_times">Chargée aujourd'hui</string>
+  <string name="power_center_battery_chargefull_time">"Jusqu'à la charge complète"</string>
+  <string name="power_center_battery_detail">Détails</string>
+  <string name="power_center_battery_duration">Temps restant</string>
+  <string name="power_center_battery_duration_format">%1$s %2$s</string>
   <string name="power_center_battery_full">Batterie entièrement chargée</string>
+  <string name="power_center_battery_hardware">Matériel %s</string>
   <string name="power_center_battery_last">%s restant</string>
+  <string name="power_center_battery_level">Chargée %s</string>
+  <string name="power_center_battery_level_general">Normal</string>
+  <string name="power_center_battery_software">Logiciel %s</string>
+  <string name="power_center_battery_status">Utilisation de la batterie</string>
+  <string name="power_center_battery_temperature">Température</string>
+  <string name="power_center_battery_used_time">Sur batterie</string>
+  <string name="power_center_batteryrank_all">Tous usages sur la batterie</string>
+  <string name="power_center_batteryrank_hardware">Utilisation batterie par les logiciels %s</string>
+  <string name="power_center_batteryrank_software">Utilisation batterie par le matériel %s</string>
+  <string name="power_center_batteryscan_normal">"Aucun problème d'utilisation de la batterie. Voir les résultats."</string>
+  <string name="power_center_charge_status">En charge</string>
   <string name="power_center_charge_time">%1$s avant charge complète</string>
   <string name="power_center_consume_rank">Utilisation de la batterie</string>
   <string name="power_center_consume_time">%1$s restants</string>
@@ -3754,24 +3776,24 @@ Formatting will erase existing content on the ^2. To avoid losing content, back 
   <string name="system_permission_declare_agree">Accepter</string>
   <string name="system_permission_declare_analytics_declare">"Merci de vous être inscrit à notre programme d'expérience utilisateur. Votre appareil doit être connecté à internet pour permettre à cette fonctionnalité de fonctionner normalement. Vous devez également accorder les permissions suivantes pour nous permettre de collecter les données qui nous aideront à améliorer nos produits et services. Ces données sont collectées à des fins statistiques uniquement. Nous ne pourrons pas utiliser ces données pour vous identifier personnellement."</string>
   <string name="system_permission_declare_disagree">Refuser</string>
-  <string name="system_permission_declare_double_link">"&lt;Data&gt;Lisez et acceptez notre &lt;a href=\"%1$s\"&gt;Accord de l'utilisateur&lt;/a&gt; et &lt;a href=\"%2$s\"&gt;Politique de confidentialité&lt;/a&gt; avant d'utiliser cette fonctionnalité.&lt;/Data&gt;"</string>
+  <string name="system_permission_declare_double_link"><Data>"Lisez et acceptez notre &lt;a href=\"%1$s\"&gt;Accord de l'utilisateur&lt;/a&gt; et &lt;a href=\"%2$s\"&gt;Politique de confidentialité&lt;/a&gt; avant d'utiliser cette fonctionnalité."</Data></string>
   <string name="system_permission_declare_main_purpose" formatted="false">"Bienvenue sur %1s ! Cette application vous permet d'utiliser la fonctionnalité suivante: %2s."</string>
-  <string name="system_permission_declare_meanwhile_double_link">"&lt;Data&gt;At the same time, to fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;.&lt;/Data&gt;"</string>
-  <string name="system_permission_declare_meanwhile_privacy_policy">"&lt;Data&gt;At the same time, to fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;.&lt;/Data&gt;"</string>
-  <string name="system_permission_declare_meanwhile_user_agreement">"&lt;Data&gt;At the same time, to fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt;.&lt;/Data&gt;"</string>
+  <string name="system_permission_declare_meanwhile_double_link"><Data>"Dans le même temps, pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez notre &amp;lt;a href=\"%1$s\"&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et notre &amp;lt;a href=\"%2$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;."</Data></string>
+  <string name="system_permission_declare_meanwhile_privacy_policy"><Data>"Dans le même temps, pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez notre &amp;lt;a href=\"%1$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;."</Data></string>
+  <string name="system_permission_declare_meanwhile_user_agreement"><Data>"Dans le même temps, pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez notre &amp;lt;a href=\"%1$s\"&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt;."</Data></string>
   <string name="system_permission_declare_no_say_no">"Si vous choisissez de ne pas donner les permissions requises ou de ne pas nous permettre de collecter et d'utiliser vos données, cette application ne pourra pas fonctionner normalement."</string>
   <string name="system_permission_declare_no_say_no_analytics">"Si vous ne souhaitez pas donner ces permissions, vous pouvez vous désinscrire depuis Paramètres &gt; Mots de passe et sécurité &gt; Paramètres de confidentialité &gt; Programme d'expérience utilisateur."</string>
   <string name="system_permission_declare_no_say_no_non_mandatory">"Si vous choisissez de ne pas donner les permissions requises ou de ne pas nous permettre de collecter et d'utiliser vos données, cette application ne pourra pas fonctionner normalement."</string>
   <string name="system_permission_declare_privacy_declare">"Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité en vigueur. Notez que Sécurité doit se connecter à internet et requiert les permissions suivantes pour collecter vos informations personnelles:"</string>
   <string name="system_permission_declare_privacy_no_network">This app needs the following permissions to be able to work normally:</string>
   <string name="system_permission_declare_privacy_no_permission">"Notez que Sécurité doit se connecter à internet et collecter les informations personnelles requises pour vous fournir des services. Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité en vigueur."</string>
-  <string name="system_permission_declare_privacy_policy">"&lt;Data&gt;Lisez et acceptez notre &amp;lt;a href=\"%1$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt; avant d'utiliser cette fonctionnalité.&lt;/Data&gt;"</string>
+  <string name="system_permission_declare_privacy_policy"><Data>"Lisez et acceptez notre &amp;lt;a href=\"%1$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt; avant d'utiliser cette fonctionnalité."</Data></string>
   <string name="system_permission_declare_revoke_system">Vous pouvez quitter cette application.</string>
   <string name="system_permission_declare_revoke_uninstallable">"Vous pouvez vous déconnecter, désinstaller cette application ou révoquer vos permissions dans Sécurité. &gt; Gérer les applications &gt; Permissions &gt; Permissions."</string>
   <string name="system_permission_declare_title">Attention</string>
   <string name="system_permission_declare_use_network">Se connecter au réseau</string>
   <string name="system_permission_declare_use_network_no_permission">Se connecter au réseau</string>
-  <string name="system_permission_declare_user_agreement">"&lt;Data&gt;Lisez et acceptez notre &amp;lt;a href=\"%1$s\"&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; avant d'utiliser cette fonctionnalité.&lt;/Data&gt;"</string>
+  <string name="system_permission_declare_user_agreement"><Data>"Lisez et acceptez notre &amp;lt;a href=\"%1$s\"&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; avant d'utiliser cette fonctionnalité."</Data></string>
   <string name="system_permission_perm_answer_call">Faire des appels</string>
   <string name="system_permission_perm_optional">" (optionnel)"</string>
   <string name="system_permission_perm_read_mms">Lire le MMS</string>
