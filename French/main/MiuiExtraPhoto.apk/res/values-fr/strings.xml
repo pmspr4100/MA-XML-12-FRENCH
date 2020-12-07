@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="cancel">Annuler</string>
   <string name="doc_photo_adjust_section_title">Faites glisser pour ajuster</string>
   <string name="doc_photo_cancel">Annuler</string>
   <string name="doc_photo_confirm">Quitter</string>
@@ -13,6 +14,8 @@
   <string name="doc_photo_idcard_portrait">Front</string>
   <string name="doc_photo_not_support">Impossible de modifier cette image en tant que document</string>
   <string name="doc_photo_view_effect">Aperçu</string>
+  <string name="exit_alert_msg">Toutes les modifications non enregistrées seront perdues.</string>
+  <string name="exit_alert_title">Annuler les modifications ?</string>
   <string name="extra_photo_common_permission_name">Bokeh</string>
   <string name="extra_photo_common_save_fail">"Impossible d'enregistrer"</string>
   <string name="extra_photo_common_saving">Sauvegarde…</string>
