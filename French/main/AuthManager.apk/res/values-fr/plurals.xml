@@ -4,6 +4,10 @@
         <item quantity="other">%1$s autorisé à accéder automatiquement aux éléments du presse-papiers %2$d fois</item>
         <item quantity="one">%1$s autorisé à accéder automatiquement aux éléments du presse-papiers %2$d fois</item>
     </plurals>
+    <plurals name="clipboard_read_ai_deny_more">
+        <item quantity="other">"%1$s a été refusé d'accéder automatiquement aux éléments du presse-papiers %2$d fois"</item>
+        <item quantity="one">"%1$s a été refusé d'accéder automatiquement aux éléments du presse-papiers %2$d fois"</item>
+    </plurals>
     <plurals name="clipboard_read_allow_more">
         <item quantity="other">%1$s a accédé aux éléments du presse-papiers %2$d fois</item>
         <item quantity="one">%1$s a accédé aux éléments du presse-papiers %2$d fois</item>
