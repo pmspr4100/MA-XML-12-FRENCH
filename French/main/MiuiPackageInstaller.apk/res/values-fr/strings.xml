@@ -147,6 +147,7 @@ Toutes vos données utilisateur précédentes seront enregistrées."</string>
   <string name="install_confirm_question_update_system">"Voulez-vous installer une mise à jour de cette application système ? Les données d'application existantes ne seront pas perdues. L'application mise à jour aura accès à:"</string>
   <string name="install_confirm_question_update_system_no_perms">"Voulez-vous installer une mise à jour de cette application système ? Les données d'application existantes ne seront pas perdues. Il ne nécessite aucune autorisation spéciale."</string>
   <string name="install_confirm_text_gms">This app is made by Google. Install Google Play services before installing this app. Without this framework, the app might not work properly.</string>
+  <string name="install_continue">Installer</string>
   <string name="install_control_cancel_install">Ne pas installer</string>
   <string name="install_control_cancel_vip_account_install">Exit</string>
   <string name="install_control_continue_install">Installer quand même</string>
@@ -222,8 +223,9 @@ Vous pouvez également désactiver le mode lite et réessayer."</string>
   <string name="miui_failed_solution_3">"Essayez d'enregistrer le package d'installation dans un autre emplacement."</string>
   <string name="miui_failed_solution_4">"Libérez de l'espace de stockage dans Sécurité &gt; Nettoyez et réessayez."</string>
   <string name="miui_failed_solution_5">"Essayez d'utiliser un package d'installation compatible."</string>
-  <string name="miui_failed_solution_6">Désinstallez cette application dans le deuxième espace et réessayez.</string>
+  <string name="miui_failed_solution_6">Désinstallez la version déjà installée et réessayez de réinstaller.</string>
   <string name="miui_failed_solution_7">Téléchargez la dernière version de cette application dans GetApps.</string>
+  <string name="miui_failed_solution_8">"Téléchargez l'application depuis GetApps."</string>
   <string name="miui_failed_system_incompatible">"Package d'installation incompatible"</string>
   <string name="miui_failed_update_incompatible">"Signatures d'application en conflit"</string>
   <string name="miui_failed_version_downgrade">"Impossible de rétrograder les applications"</string>
