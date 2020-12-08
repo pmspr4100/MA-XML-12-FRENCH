@@ -296,7 +296,7 @@
   <string name="apn_settings_not_available">"Les paramètres du nom de point d'accès (Apn) ne sont pas disponibles pour cet utilisateur"</string>
   <string name="app_info">"Infos sur l'application"</string>
   <string name="app_label">Système UI</string>
-  <string name="app_name">Écran de verrouillage</string>
+  <string name="app_name">Keyguard</string>
   <string name="app_process_limit_title">Limite du processus en arrière-plan</string>
   <string name="as_important">Important</string>
   <string name="as_unimportant">Sans importance</string>
@@ -709,8 +709,11 @@ Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données.
   <string name="face_unlock_offset_right">Déplacez-vous vers la gauche</string>
   <string name="face_unlock_offset_top">Levez votre téléphone un tout petit peu</string>
   <string name="face_unlock_open_eye">Ouvrez vos yeux un peu plus grandement</string>
+  <string name="face_unlock_password_and_fingerprint">Entrez le mot de passe ou utilisez votre empreinte digitale pour déverrouiller</string>
   <string name="face_unlock_passwork">Utiliser le mot de passe</string>
   <string name="face_unlock_passwork_and_fingerprint">Utilisez votre mot de passe ou empreinte digitale</string>
+  <string name="face_unlock_pattern_and_fingerprint">Dessinez le schéma ou utilisez votre empreinte digitale pour déverrouiller</string>
+  <string name="face_unlock_pin_and_fingerprint">Entrez le code PIN ou utilisez votre empreinte digitale pour déverrouiller</string>
   <string name="face_unlock_quality">Impossible de voir votre visage correctement</string>
   <string name="face_unlock_reenter_content">"L'algorithme du déverrouillage faciale est en cours de mise à jour. Appuyez pour enregistrer les données de visage une fois de plus."</string>
   <string name="face_unlock_reenter_title">Enregistrer les données de votre visage à nouveau.</string>
@@ -856,6 +859,26 @@ Une fois le téléphone refroidi, il fonctionnera normalement."</string>
   <string name="inactive_apps_title">Applications inactives</string>
   <string name="incorrect_pincode">Code PIN incorrect</string>
   <string name="incorrect_pukcode">Code PUK incorrect</string>
+  <string name="inline_block_button">Bloquer</string>
+  <string name="inline_blocking_helper">"Vous ignorez en général ces notifications.
+Continuer de les afficher ?"</string>
+  <string name="inline_deliver_silently_button">Délivrer silencieusement</string>
+  <string name="inline_done_button">Effectué</string>
+  <string name="inline_keep_button">"Continuer d'afficher"</string>
+  <string name="inline_keep_showing">"Continuer d'afficher ces notifications ?"</string>
+  <string name="inline_keep_showing_app">"Continuer d'afficher les notifications de cette application ?"</string>
+  <string name="inline_minimize_button">Minimiser</string>
+  <string name="inline_ok_button">Appliquer</string>
+  <string name="inline_silent_button_alert">Alerte</string>
+  <string name="inline_silent_button_keep_alerting">"Continuer d'alerter"</string>
+  <string name="inline_silent_button_silent">Rendre silencieux</string>
+  <string name="inline_silent_button_stay_silent">Rester silencieux</string>
+  <string name="inline_stop_button">Arrêter les notifications</string>
+  <string name="inline_turn_off_notifications">Désactiver les notifications</string>
+  <string name="inline_undo">Annuler</string>
+  <string name="input_lockscreen_password_hint_text">Entrer le mot de passe</string>
+  <string name="input_lockscreen_pattern_hint_text">Dessiner le schéma</string>
+  <string name="input_lockscreen_pin_hint_text">Entrer le code PIN</string>
   <string name="input_password_after_boot_msg">Pour déverrouiller votre appareil, saisissez votre mot de passe</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">"Impossible de basculer entre les espaces lors d'un appel"</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Impossible de basculer entre les espaces lorsque les contrôles parentaux sont activés</string>
@@ -938,9 +961,9 @@ Utilisez uniquement le chargeur fourni."</string>
   <string name="keyguard_accessibility_pin_area">Zone PIN</string>
   <string name="keyguard_accessibility_sim_pin_area">Zone du PIN de la SIM</string>
   <string name="keyguard_accessibility_sim_puk_area">Zone du PUK de la SIM</string>
-  <string name="keyguard_carrier_default">Aucun service</string>
+  <string name="keyguard_carrier_default">Aucun service.</string>
   <string name="keyguard_charged">Chargée</string>
-  <string name="keyguard_charging_back_to_lockscreen">"Retour à L'écran de verrouillage"</string>
+  <string name="keyguard_charging_back_to_lockscreen">"Retour à l'écran de verrouillage"</string>
   <string name="keyguard_charging_info_battery_used_time_text">Sur batterie</string>
   <string name="keyguard_charging_info_drained_power_percent_text">Épuisée</string>
   <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
@@ -971,30 +994,28 @@ Utilisez uniquement le chargeur fourni."</string>
   <string name="keyguard_missing_sim_instructions_long">La carte SIM est absente ou illisible. Veuillez insérer une carte SIM.</string>
   <string name="keyguard_missing_sim_message">Aucune carte SIM dans le téléphone.</string>
   <string name="keyguard_missing_sim_message_short">Aucune carte SIM</string>
-  <string name="keyguard_network_locked_message">Le réseau est verrouillé</string>
+  <string name="keyguard_network_locked_message">Réseau verrouillé</string>
   <string name="keyguard_password_enter_password_code">Saisissez le mot de passe pour déverrouiller</string>
   <string name="keyguard_password_enter_pin_code">Saisir le code PIN</string>
   <string name="keyguard_password_enter_pin_password_code">Saisissez le code PIN pour déverrouiller</string>
   <string name="keyguard_password_enter_pin_prompt">Nouveau code PIN de la SIM</string>
   <string name="keyguard_password_enter_puk_code">Saisissez le code PUK de la SIM et un nouveau code PIN</string>
   <string name="keyguard_password_enter_puk_prompt">Code PUK de la SIM</string>
-  <string name="keyguard_password_entry_touch_hint">
-    <font size="17">Appuyez pour saisir le mot de passe</font>
-  </string>
+  <string name="keyguard_password_entry_touch_hint"><font size="17">Touchez pour saisir le mot de passe</font></string>
   <string name="keyguard_password_wrong_pin_code">Code PIN incorrect.</string>
   <string name="keyguard_permanent_disabled_sim_instructions">"Votre Carte SIM a été désactivée de manière permanente.
 Contactez votre opérateur pour une autre Carte SIM."</string>
   <string name="keyguard_permanent_disabled_sim_message_short">Carte SIM inutilisable.</string>
-  <string name="keyguard_plugged_in">En charge</string>
-  <string name="keyguard_plugged_in_charging_fast">Charge rapide</string>
-  <string name="keyguard_plugged_in_charging_slowly">En charge lente</string>
+  <string name="keyguard_plugged_in">%s • En charge</string>
+  <string name="keyguard_plugged_in_charging_fast">%s • Charge rapide</string>
+  <string name="keyguard_plugged_in_charging_slowly">%s • Charge lente</string>
   <string name="keyguard_quick_charging_info_click_to_detail">Chargement rapide. Appuyer pour afficher les détails.</string>
   <string name="keyguard_sim_locked_message">La carte SIM est verrouillée.</string>
   <string name="keyguard_sim_puk_locked_message">La carte SIM est verrouillée (PUK).</string>
   <string name="keyguard_sim_unlock_progress_dialog_message">Déverrouillage de la carte SIM…</string>
   <string name="keyguard_torch_cover_text">Pour garder le flash allumé, maintenez le bouton Power</string>
   <string name="keyguard_unlock">Balayez vers le haut pour déverrouiller</string>
-  <string name="kg_enter_confirm_pin_hint">Confirmez le nouveau code PIN</string>
+  <string name="kg_enter_confirm_pin_hint">Confirmez le code PIN désiré</string>
   <string name="kg_failed_attempts_almost_at_erase_profile">Vous avez tenté de déverrouiller incorrectement le téléphone %1$d fois. Après %2$d tentatives infructueuses, le profil de travail sera supprimé, ce qui supprimera toutes ses données.</string>
   <string name="kg_failed_attempts_almost_at_erase_user">Vous avez tenté de déverrouiller incorrectement le téléphone %1$d fois. Après %2$d tentatives infructueuses, cet utilisateur sera supprimé, ce qui supprimera toutes ses données.</string>
   <string name="kg_failed_attempts_almost_at_login">"Vous avez dessiné incorrectement votre schéma %1$d fois. Après %2$d tentatives infructueuses supplémentaires, il vous sera demandé de déverrouiller votre téléphone en vous connectant à votre compte email.
@@ -1011,12 +1032,12 @@ Réessayer dans %3$d secondes."</string>
   <string name="kg_invalid_sim_puk_hint">Le code PUK doit être de 8 chiffres.</string>
   <string name="kg_login_too_many_attempts">Trop de tentatives de schéma</string>
   <string name="kg_password_instructions">Saisir le mot de passe</string>
-  <string name="kg_password_pin_failed">Impossible de déverrouiller avec le code PIN de la SIM</string>
-  <string name="kg_password_puk_failed">Impossible de déverrouiller avec le code PUK de la SIM</string>
-  <string name="kg_password_wrong_pin_code_pukked">Le code PIN de la SIM est incorrect. Contactez votre opérateur pour déverrouiller votre appareil.</string>
+  <string name="kg_password_pin_failed">"Échec de l'opération SIM PIN !"</string>
+  <string name="kg_password_puk_failed">"Échec de l'opération SIM PUK !"</string>
+  <string name="kg_password_wrong_pin_code_pukked">Code SIM PIN incorrect. Contactez votre opérateur pour déverrouiller votre appareil.</string>
   <string name="kg_password_wrong_puk_code_dead">La carte SIM est inutilisable. Contactez votre transporteur.</string>
   <string name="kg_pattern_instructions">Dessiner votre schéma</string>
-  <string name="kg_pin_accepted">Le code a été accepté</string>
+  <string name="kg_pin_accepted">Code accepté !</string>
   <string name="kg_pin_instructions">Saisir le code PIN</string>
   <string name="kg_prompt_reason_device_admin">"Appareil verrouillé par l'administrateur"</string>
   <string name="kg_prompt_reason_restart_password">Saisissez le mot de passe pour déverrouiller</string>
@@ -1029,20 +1050,19 @@ Réessayer dans %3$d secondes."</string>
   <string name="kg_prompt_reason_timeout_pattern">Schéma requis pour une sécurité supplémentaire</string>
   <string name="kg_prompt_reason_timeout_pin">Code PIN requis pour une sécurité supplémentaire</string>
   <string name="kg_prompt_reason_user_request">Appareil verrouillé manuellement</string>
-  <string name="kg_puk_enter_pin_hint">Saisir le nouveau code PIN</string>
+  <string name="kg_puk_enter_pin_hint">Saisir le code PIN désiré</string>
   <string name="kg_puk_enter_puk_hint">La carte SIM est maintenant désactivée. Entrez le code PUK pour continuer. Contactez votre opérateur pour plus de détails.</string>
   <string name="kg_puk_enter_puk_hint_multi">La carte SIM \"%1$s\" est maintenant désactivée. Saisissez le code PUK pour continuer. Conctatez votre opérateur pour plus de détails.</string>
   <string name="kg_sim_pin_instructions">Saisir le code PIN de la SIM</string>
   <string name="kg_sim_pin_instructions_multi">Saisir le code PIN pour \"%1$s\"</string>
   <string name="kg_sim_unlock_progress_dialog_message">Déverrouillage de la carte SIM…</string>
-  <string name="kg_too_many_failed_attempts_countdown">Réessayer dans %d secondes.</string>
-  <string name="kg_too_many_failed_password_attempts_dialog_message">"Vous avez incorrectement saisi votre mot de passe %1$d fois.
+  <string name="kg_too_many_failed_password_attempts_dialog_message">"Vous avez incorrectement tapé votre mot de passe %1$d fois.
 
 Réessayez dans %2$d secondes."</string>
   <string name="kg_too_many_failed_pattern_attempts_dialog_message">"Vous avez incorrectement dessiné votre schéma %1$d fois.
 
 Réessayez dans %2$d secondes."</string>
-  <string name="kg_too_many_failed_pin_attempts_dialog_message">"Vous avez incorrectement saisi votre code PIN %1$d fois.
+  <string name="kg_too_many_failed_pin_attempts_dialog_message">"Vous avez incorrectement tapé votre code PIN %1$d fois.
 
 Réessayez dans %2$d secondes."</string>
   <string name="kg_wrong_password">Mot de passe incorrect</string>
@@ -1096,7 +1116,6 @@ Réessayez dans %3$d secondes."</string>
   <string name="lockscreen_none">Aucun</string>
   <string name="lockscreen_shortcut_left">Raccourci de gauche</string>
   <string name="lockscreen_shortcut_right">Raccourci de droite</string>
-  <string name="lockscreen_sim_error_message_short">Carte SIM non valide.</string>
   <string name="lockscreen_unlock_left">Le raccourci de gauche déverrouille aussi</string>
   <string name="lockscreen_unlock_right">Le raccourci de droite déverrouille aussi</string>
   <string name="long_screenshot_guide_text">"Appuyez sur pour faire
