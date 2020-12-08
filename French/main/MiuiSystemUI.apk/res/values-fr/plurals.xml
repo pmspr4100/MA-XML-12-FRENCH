@@ -85,8 +85,8 @@
     <item quantity="one">La carte SIM est maintenant désactivée. Entrez le code PUK pour continuer. Vous avez %d tentative restante avant que la carte SIM devienne définitivement inutilisable. Contactez le transporteur pour plus de détails.</item>
   </plurals>
   <plurals name="kg_password_wrong_pin_code">
-    <item quantity="other">Code PIN SIM incorrect. Vous avez %d tentative restante avant de contacter votre opérateur pour déverrouiller votre appareil.</item>
-    <item quantity="one">Code PIN SIM incorrect. Vous avez %d tentative restante avant de contacter votre opérateur pour déverrouiller votre appareil.</item>
+    <item quantity="other">Code PIN SIM incorrect, il vous reste %d tentatives restantes.</item>
+    <item quantity="one">Code PIN SIM incorrect, il vous reste %d tentative restante avant de devoir contacter votre opérateur pour déverrouiller votre appareil.</item>
   </plurals>
   <plurals name="kg_password_wrong_puk_code">
     <item quantity="other">Code PUK SIM incorrect, vous avez %d tentatives restantes avant que la carte SIM devienne définitivement inutilisable.</item>
@@ -103,6 +103,10 @@
   <plurals name="kg_prompt_reason_time_pin">
     <item quantity="other">"L'appareil n'a pas été déverrouillé pour %d heures. Confirmer le code PIN."</item>
     <item quantity="one">"L'appareil n'a pas été déverrouillé pour %d heure. Confirmer le code PIN."</item>
+  </plurals>
+  <plurals name="kg_too_many_failed_attempts_countdown">
+    <item quantity="other">Réessayez dans %d secondes.</item>
+    <item quantity="one">Réessayez dans %d seconde.</item>
   </plurals>
   <plurals name="new_notifications_msg">
     <item quantity="other">%d nouvelles notifications</item>
