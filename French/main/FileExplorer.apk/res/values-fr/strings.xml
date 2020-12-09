@@ -34,7 +34,6 @@
   <string name="guide_newfunc_content">Vous pouvez désormais filtrer les formats de fichiers, réorganiser les éléments et basculer entre les vues en appuyant sur le raccourci.</string>
   <string name="guide_newfunc_title">Nouvelle fonctionnalité</string>
   <string name="imm_str_storage">Stockage</string>
-  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez pour rafraîchir</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualisation…</string>
   <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Relâcher pour rafraîchir</string>
@@ -318,14 +317,7 @@
   <string name="mirror_tip_list">Liste</string>
   <string name="mirror_tip_refresh">Rafraîchir</string>
   <string name="mirror_tip_show_type">Trier par</string>
-  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez vers le bas pour rafraîchir</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshed">Rafraîchit avec succès</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshing">Rafraîchissement…</string>
-  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Relâchez pour rafraîchir</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"C'est tout pour le moment"</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_none">"C'est tout pour le moment"</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un instant…</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Chargement des éléments impossible"</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez vers le bas pour rafraîchir</string> 
   <string name="month_day_format">dd MMM</string>
   <string name="move_failed">Impossible de déplacer les fichiers</string>
   <string name="move_icon_to_desktop_hint">"Créez un raccourci pour le gestionnaire de fichiers sur l'Écran d'accueil afin de gérer plus efficacement les fichiers."</string>
