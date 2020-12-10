@@ -134,6 +134,14 @@ Note: le fichier sera également supprimé de cet appareil."</item>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Just now</item>
     </plurals>
+    <plurals name="list_header_fans_count">
+        <item quantity="other">%d abonnés</item>
+        <item quantity="one">%d abonné</item>
+    </plurals>
+    <plurals name="list_header_follow_count">
+        <item quantity="other">Abonné à %d personnes</item>
+        <item quantity="one">Abonné à %d personne</item>
+    </plurals>
     <plurals name="multichoice_title">
         <item quantity="other">%d éléments sélectionnés</item>
         <item quantity="one">%d élément sélectionné</item>

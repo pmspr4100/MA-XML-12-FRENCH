@@ -314,11 +314,16 @@
   <string name="card_expand_note_clear">Effacer</string>
   <string name="card_expand_note_clear_all">Effacer</string>
   <string name="card_expand_note_dialog_button">"C'est compris"</string>
-  <string name="card_expand_note_dialog_message">A new note is created every time you tap the \"Save\" button in App vault.</string>
-  <string name="card_expand_note_dialog_title">Enregistrer</string>
+  <string name="card_expand_note_dialog_message">"Une nouvelle note est créée chaque fois que vous appuyez sur le bouton \"Enregistrer\" dans le coffre-fort d'applications."</string>
+  <string name="card_expand_note_dialog_message_new">"Une nouvelle note est créée chaque fois que vous appuyez sur le bouton \"Enregistrer\" dans le coffre-fort d'applications."</string>
+  <string name="card_expand_note_dialog_title">Enregistrement des notes</string>
+  <string name="card_expand_note_dialog_title_new">Enregistrement des notes</string>
   <string name="card_expand_note_sure_clear_all">Effacer maintenant</string>
   <string name="card_expand_note_toast_clear_null">Effacé avec succès</string>
-  <string name="card_expand_note_toast_save_done">Enregistré dans les notes</string>
+  <string name="card_expand_note_toast_install">Installez Notes pour pouvoir utiliser cette fonctionnalité</string>
+  <string name="card_expand_note_toast_install_new">Installez Notes pour pouvoir utiliser cette fonctionnalité</string>
+  <string name="card_expand_note_toast_save_done">Enregistré dans Notes</string>
+  <string name="card_expand_note_toast_save_done_new">Enregistré dans Notes</string>
   <string name="card_expand_note_toast_save_dup">Enregistré avec succès</string>
   <string name="card_expand_note_toast_share_null">Cette note est vide</string>
   <string name="card_hint_noteboard">Appuyez ici pour prendre une note.</string>
@@ -1155,7 +1160,8 @@ Check your tracking number."</string>
   <string name="retry">Réessayer</string>
   <string name="save">Sauvegarder</string>
   <string name="save_edit">Sauvegarder les modifications</string>
-  <string name="save_to_note">Sauvegarder dans note</string>
+  <string name="save_to_note">Sauvegarder dans Notes</string>
+  <string name="save_to_note_new">Sauvegarder dans Notes</string>
   <string name="scan">Scanner</string>
   <string name="scan_app">Scanner</string>
   <string name="scan_card">Carte de visite</string>
@@ -1362,6 +1368,7 @@ Check your tracking number."</string>
   <string name="toast_function_add_limit">"Vous pouvez ajouter jusqu'à %d raccourcis"</string>
   <string name="toast_function_remove_not_allowed">Vous devez ajouter au moins 1 raccourci</string>
   <string name="toast_reach_text_limit_truncate">Votre note est trop longue. Le contenu excédentaire a été tronqué.</string>
+  <string name="toast_reach_text_limit_truncate_new">Votre note est trop longue. Le contenu excédentaire a été tronqué.</string>
   <string name="total_month_desc_text">Ce mois-ci</string>
   <string name="total_today_desc_text">"Aujourd'hui"</string>
   <string name="train">Train</string>

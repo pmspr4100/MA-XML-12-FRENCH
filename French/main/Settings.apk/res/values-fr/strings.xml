@@ -323,6 +323,8 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
   <string name="advanced_security_title">Paramètres additionnels</string>
   <string name="advanced_settings">Paramètres additionnels</string>
   <string name="advanced_settings_summary">"Activer d'autres paramètres"</string>
+  <string name="aggregate_rule_group_disabled">Ne pas grouper</string>
+  <string name="aggregate_rule_group_enabled">Grouper</string>
   <string name="aggregate_title">Règles pour les notifications groupées</string>
   <string name="agps_roaming">"A-GPS pendant l'itinérance"</string>
   <string name="agps_roaming_dia">"Utiliser l'A-GPS en itinérance peut augmenter votre consommation de données cellulaires. Si vous dépassez le forfait de données de votre forfait, votre opérateur pourrait vous facturer des frais supplémentaires."</string>
@@ -410,6 +412,7 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
   <string name="aod_and_lock_screen_settings_title">Affichage ambiant et écran de verrouillage</string>
   <string name="aod_close_color_inversion">"Cette fonctionnalité ne fonctionne pas avec l'inversion de couleur. Désactivez l'inversion des couleurs en premier."</string>
   <string name="aod_name_wanxiang">Affichage ambiant</string>
+  <string name="aod_notification_style">Effet de notification</string>
   <string name="aod_notification_style_animation">Afficher les animations</string>
   <string name="aod_notification_style_none">Ne rien faire</string>
   <string name="aod_notification_style_screen_on">Écran lumineux</string>
@@ -2571,6 +2574,7 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
   <string name="error_mcc_not3">Le champ MCC doit contenir 3 chiffres.</string>
   <string name="error_mnc_not23">Le champ MNC doit contenir 2 ou 3 chiffres.</string>
   <string name="error_name_empty">Le champ \"Nom\" est obligatoire.</string>
+  <string name="error_xcap_not_add">"Le type d'APN ne peut pas être XCAP."</string>
   <string name="estimated_charging_time_left">"Jusqu'à la charge complète"</string>
   <string name="estimated_time_description">"L'estimation peut changer en fonction de l'utilisation"</string>
   <string name="estimated_time_left">Temps restant estimé</string>
@@ -2780,6 +2784,9 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
   <string name="floating_window_switch_label_disable">Désactiver des fenêtres flottantes</string>
   <string name="fluency_mode">Animations système</string>
   <string name="fluency_mode_confirm_and_reboot">Redémarrer maintenant</string>
+  <string name="fold_rule_default">Recommandé</string>
+  <string name="fold_rule_important">Important</string>
+  <string name="fold_rule_unimportant">Non important</string>
   <string name="fold_title">Règles pour les notifications groupées</string>
   <string name="font_size_exhuge">Extra</string>
   <string name="font_size_huge">Énorme</string>
