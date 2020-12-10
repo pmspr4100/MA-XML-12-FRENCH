@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<plurals name="alert_message_delete">
+    <plurals name="a_hour_ago">
+        <item quantity="other">Il y a 1 heure</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Il y a 1 heure</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Il y a 1 demi-heure</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Dans 1 heure</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Dans 1 demi-heure</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Immédiatement</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">dans %d min</item>
+        <item quantity="one">dans 1 min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">"À l'instant"</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Il y a %d min</item>
+        <item quantity="one">il y a 1 min</item>
+    </plurals>
+    <plurals name="alert_message_delete">
         <item quantity="other">Supprimer %1$s fichiers ?</item>
         <item quantity="one">Supprimer %1$s fichier ?</item>
     </plurals>
@@ -16,6 +45,10 @@
         <item quantity="other">%1$d jours avant</item>
         <item quantity="one">%1$d jour avant</item>
     </plurals>
+    <plurals name="folder_terms">
+        <item quantity="other">%1$s dossiers</item>
+        <item quantity="one">%1$s dossier</item>
+    </plurals>
     <plurals name="format_move_notes_out_folder">
         <item quantity="other">Suppression de %1$s notes du dossier</item>
         <item quantity="one">Suppression de %1$s note du dossier</item>
@@ -23,6 +56,41 @@
     <plurals name="format_move_notes_to_folder">
         <item quantity="other">Déplacement de %1$s notes vers %2$s</item>
         <item quantity="one">Déplacement de %1$s note vers %2$s</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Il y a 1 demi-heure</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Dans 1 heure</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Dans 1 demi-heure</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Immédiatement</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">dans %d minutes</item>
+        <item quantity="one">dans 1 minute</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">"À l'instant"</item>
+    </plurals>
+    <plurals name="note_terms">
+        <item quantity="other">%1$s notes</item>
+        <item quantity="one">%1$s note</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">Il y a %d minutes</item>
+        <item quantity="one">Il y a 1 minute</item>
+    </plurals>
+    <plurals name="pc_notes_search_result">
+        <item quantity="other">%1$s notes trouvées</item>
+        <item quantity="one">%1$s note trouvée</item>
+    </plurals>
+    <plurals name="pc_todo_search_result">
+        <item quantity="other">%1$s tâches trouvées</item>
+        <item quantity="one">%1$s tâche trouvée</item>
     </plurals>
     <plurals name="record_last_ten_seconds_reminder">
         <item quantity="other">%d secondes restantes</item>
@@ -56,20 +124,12 @@
         <item quantity="other">Dans %1$d jours</item>
         <item quantity="one">Dans %1$d jour</item>
     </plurals>
-    <plurals name="word_count">
-        <item quantity="other">%d caractères</item>
-        <item quantity="one">%d caractère</item>
-    </plurals>
-    <plurals name="folder_terms">
-        <item quantity="other">%1$s dossiers</item>
-        <item quantity="one">%1$s dossier</item>
-    </plurals>
-    <plurals name="note_terms">
-        <item quantity="other">%1$s notes</item>
-        <item quantity="one">%1$s note</item>
-    </plurals>
     <plurals name="todo_terms">
         <item quantity="other">%1$s remarques</item>
         <item quantity="one">%1$s remarque</item>
+    </plurals>
+    <plurals name="word_count">
+        <item quantity="other">%d caractères</item>
+        <item quantity="one">%d caractère</item>
     </plurals>
 </resources>
