@@ -131,6 +131,7 @@
   <string name="app_name">Permissions</string>
   <string name="background_location_access_reminder_notification_content">Cette application peut toujours accéder à votre position. Appuyez pour changer.</string>
   <string name="background_location_access_reminder_notification_title">%s utilise votre position</string>
+  <string name="blur_location_now_tip">La location approximative est activée</string>
   <string name="clipboard_ai_allow_once">%1$s a été autorisé à accéder aux éléments du presse-papiers automatiquement</string>
   <string name="clipboard_data">Contenu: </string>
   <string name="clipboard_data_request">"%1$s tente d'accéder aux éléments du presse-papiers"</string>
@@ -157,6 +158,7 @@
   <string name="friday_shortest">Ven</string>
   <string name="go_behavior_record">"Historique du comportement de l'application"</string>
   <string name="go_perm_manager">Gérer les permissions</string>
+  <string name="go_setting">Réglages</string>
   <string name="grant_dialog_button_allow">Autoriser</string>
   <string name="grant_dialog_button_allow_always">Autoriser tout le temps</string>
   <string name="grant_dialog_button_allow_background">Autoriser tout le temps</string>
@@ -283,6 +285,8 @@
   <string name="permission_warning_template">Autoriser %1$s à %2$s ?</string>
   <string name="permission_warning_template_ask">Accorder à %1$s les permissions suivantes ?</string>
   <string name="permisson_reject_notice_toast_text2">"n'a pas accès à %1$s."</string>
+  <string name="real_location_off">La localisation approximative est activée</string>
+  <string name="real_location_on">La localisation approximative est désactivée</string>
   <string name="saturday">Samedi</string>
   <string name="saturday_short">Sam</string>
   <string name="saturday_shortest">Sam</string>
