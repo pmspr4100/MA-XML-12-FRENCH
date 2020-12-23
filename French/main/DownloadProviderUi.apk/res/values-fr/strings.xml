@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>  
+<resources>
   <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
   <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
   <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
@@ -27,35 +27,6 @@
   <string name="abc_shareactionprovider_share_with">Partager avec</string>
   <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
   <string name="abc_toolbar_collapse_description">Réduire</string>
-  <string name="app_name">Préférence</string>
-  <string name="dialog_delete_positive">Supprimer</string>
-  <string name="expand_button_title">Avancé</string>
-  <string name="h5_net_error" formatted="false">Impossible de charger %s (%s)</string>
-  <string name="h5_net_error_tip">"Impossible d'ouvrir l'URL"</string>
-  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez vers le bas pour actualiser</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualisation…</string>
-  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Relâchez pour actualiser</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"C'est tout pour le moment"</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_none">"C'est tout pour le moment"</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chargement…</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Chargement impossible des objets"</string>
-  <string name="no_net">Connexion au réseau impossible</string>
-  <string name="not_set">Non réglé</string>
-  <string name="path_no_available">"Ce chemin n'est pas disponible"</string>
-  <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
-  <string name="search_menu_title">Recherche</string>
-  <string name="xl_vip_annual_price">%1$s Mi Crédits par mois (12 mois)</string>
-  <string name="xl_vip_month_price">%1$s Mi Crédits par mois (1 mois)</string>
-  <string name="xl_vip_quarter_price">%1$s Mi Crédits par mois (3 mois)</string>
-  <string name="xl_vip_semiannual_price">%1$s Mi Crédits par mois (6 mois)</string>
-  <string name="xlunbind_sub_title">Supprimez votre compte Xunlei et ajoutez un compte Mi</string>
-  <string name="DOWNLOAD_UNIT_BIT">" o"</string>
-  <string name="DOWNLOAD_UNIT_GB">" Go"</string>
-  <string name="DOWNLOAD_UNIT_KB">" Ko"</string>
-  <string name="DOWNLOAD_UNIT_MB">" Mo"</string>
-  <string name="DOWNLOAD_UNIT_TB">" To"</string>
-  <string name="Only_the_wifi">Utiliser uniquement le Wi-Fi</string>
   <string name="about">À propos</string>
   <string name="action_back">Retour</string>
   <string name="action_settings">Paramètres</string>
@@ -74,6 +45,7 @@
   <string name="apk_filter">APK</string>
   <string name="app_downloads">%s téléchargements</string>
   <string name="app_label">Téléchargements</string>
+  <string name="app_name">Préférence</string>
   <string name="auth_activity_title">Compte Xunlei</string>
   <string name="auth_fail">"Impossible d'obtenir les permissions"</string>
   <string name="average_speed">Vitesse moyenne</string>
@@ -117,8 +89,9 @@
   <string name="dialog_cannot_resume">Téléchargement interrompu, recommencez.</string>
   <string name="dialog_confirm_delete_checkbox_message">Supprimer aussi les fichiers locaux</string>
   <string name="dialog_confirm_delete_the_download_item_message">Supprimer ces tâches</string>
+  <string name="dialog_content_limit_max">Illimité</string>
   <string name="dialog_content_limit0">Restreindre les téléchargements</string>
-  <string name="dialog_content_limit_max">Illimité</string>	
+  <string name="dialog_delete_positive">Supprimer</string>
   <string name="dialog_failed_body">"Essayez de télécharger ce fichier ultérieurement ou de le supprimer de la file d'attente ?"</string>
   <string name="dialog_file_already_exists">Ce fichier existe déjà.</string>
   <string name="dialog_file_missing_body">"Impossible de trouver le fichier, il semble qu'il ait été supprimé."</string>
@@ -182,6 +155,11 @@
   <string name="download_success">Téléchargement complet</string>
   <string name="download_title_sorted_by_date">Trier par date</string>
   <string name="download_title_sorted_by_size">Trier par taille</string>
+  <string name="DOWNLOAD_UNIT_BIT">" o"</string>
+  <string name="DOWNLOAD_UNIT_GB">" Go"</string>
+  <string name="DOWNLOAD_UNIT_KB">" Ko"</string>
+  <string name="DOWNLOAD_UNIT_MB">" Mo"</string>
+  <string name="DOWNLOAD_UNIT_TB">" To"</string>
   <string name="download_wait_connect">En attente de connexion</string>
   <string name="download_when_network_connected">Télécharger avec la connexion de données mobiles</string>
   <string name="downloaded">Téléchargement terminé !</string>
@@ -196,6 +174,7 @@
   <string name="engine_open">Ouvrir</string>
   <string name="enter_search">Recherche Web</string>
   <string name="everyone_test">Tout le monde teste</string>
+  <string name="expand_button_title">Avancé</string>
   <string name="experience_xunlei_account_speed">"Les membres Xunlei peuvent profiter de téléchargements à la vitesse de l'éclair."</string>
   <string name="expire_notification_msg">"L'adhésion à Xunlei expire bientôt."</string>
   <string name="expire_today_notification_msg">"L'adhésion à Xunlei expire aujourd'hui."</string>
@@ -219,6 +198,8 @@
   <string name="gigabyteShort">" Go"</string>
   <string name="goto_global_search">Recherche Web pour \"%1$s\"</string>
   <string name="guess_like">Tu pourrais aussi aimer</string>
+  <string name="h5_net_error" formatted="false">Impossible de charger %s (%s)</string>
+  <string name="h5_net_error_tip">"Impossible d'ouvrir l'URL"</string>
   <string name="high_speed_channel">Accélérateur Xunlei (acheté):  </string>
   <string name="high_speed_tryout">La vitesse de téléchargement est faible, devenez un membre Xunlei</string>
   <string name="high_speed_tryout_percent">Vitesse boostée par %1$s, devenez un membre Xunlei</string>
@@ -261,12 +242,21 @@
   <string name="mi_money">Mi Crédits</string>
   <string name="mi_money_">Mi Crédits</string>
   <string name="missing_title">&lt;Inconnu&gt;</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez vers le bas pour actualiser</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualisation…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Relâchez pour actualiser</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"C'est tout pour le moment"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"C'est tout pour le moment"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chargement…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Chargement impossible des objets"</string>
   <string name="net_error">Connectez-vous à internet et réessayez</string>
   <string name="network_error">Impossible de se connecter au réseau</string>
   <string name="new_add">Nouveau téléchargement</string>
   <string name="new_add_bt">Ajouter un torrent</string>
   <string name="no_downloads">Aucun fichier</string>
   <string name="no_file_hint">La tâche de téléchargement pour ce fichier existe déjà</string>
+  <string name="no_net">Connexion au réseau impossible</string>
   <string name="no_result_for_keyword">Impossible de trouver \"%1$s\"</string>
   <string name="no_share_file">Impossible de partager ce fichier</string>
   <string name="no_share_file_content">Le fichier sélectionné a été déjà supprimé</string>
@@ -275,6 +265,7 @@
   <string name="no_vip_info">Devenez membre Xunlei pour accélérer vos téléchargements</string>
   <string name="no_vip_show_info">"Accélérez vos téléchargements
 sur tous vos appareils avec Xunlei"</string>
+  <string name="not_set">Non réglé</string>
   <string name="notify_disabled_net_by_app">Accès à internet restreint</string>
   <string name="notify_install_guide_forward_text">Ouvrir</string>
   <string name="notify_install_guide_msg">Installé avec succès</string>
@@ -283,6 +274,7 @@ sur tous vos appareils avec Xunlei"</string>
   <string name="notify_only_wifi_download">En attente du Wi-Fi</string>
   <string name="one_month">1 mois</string>
   <string name="only_support_torrent">Seuls les fichiers torrent sont pris en charge</string>
+  <string name="Only_the_wifi">Utiliser uniquement le Wi-Fi</string>
   <string name="open">Ouvrir</string>
   <string name="open_download">Ouvrir</string>
   <string name="open_folder">Ouvrir un dossier</string>
@@ -293,6 +285,7 @@ sur tous vos appareils avec Xunlei"</string>
   <string name="other">Autre</string>
   <string name="other_filter">Autre</string>
   <string name="package_filter">Packages</string>
+  <string name="path_no_available">"Ce chemin n'est pas disponible"</string>
   <string name="path_not_available">"Ce chemin n'est pas disponible"</string>
   <string name="pause_download">En pause</string>
   <string name="paused">En pause</string>
@@ -314,6 +307,7 @@ sur tous vos appareils avec Xunlei"</string>
   <string name="pref_summary_max_bytes_limit_format">Attendre de se connecter au Wi-Fi si le fichier dépasse %s</string>
   <string name="pref_summary_no_limit_popup">Illimité</string>
   <string name="pref_title_enable_max_bytes_popup">"Afficher l'invite d'utilisation des données"</string>
+  <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
   <string name="preferences_title">Paramètres</string>
   <string name="privacy_policy">Politique de confidentialité</string>
   <string name="privacy_tip_cancel">Annuler</string>
@@ -373,6 +367,7 @@ sur tous vos appareils avec Xunlei"</string>
   <string name="search_hotwords_switch">Switch</string>
   <string name="search_input_empty_toast">Rechercher ou entrer une URL</string>
   <string name="search_input_hint">Rechercher ou entrer une URL</string>
+  <string name="search_menu_title">Recherche</string>
   <string name="search_new_download">Nouveau téléchargement</string>
   <string name="search_new_download_desc">支持BT、电驴、磁力链任务</string>
   <string name="search_new_download_key_words">新建下载任务;新建下载文件;bt下载器;种子下载器;emule下载器;电驴下载器;迅雷下载器;thunder;磁力链下载器;资源下载器;下载工具;新建任务;视频下载</string>
@@ -500,6 +495,8 @@ sur tous vos appareils avec Xunlei"</string>
   <string name="unbind_xunlei_2_success">Compte Xunlei ajouté</string>
   <string name="unbind_xunlei_success">Déconnecté du compte Xunlei</string>
   <string name="unit_cn_tenthousands">0K</string>
+  <string name="v7_preference_off">DÉSACTIVÉ</string>
+  <string name="v7_preference_on">ACTIVÉ</string>
   <string name="valid_in_this_month">Valable pour ce mois</string>
   <string name="version">Version %s</string>
   <string name="vip_auto_speedup">"L'accélérateur de téléchargement Xunlei est activé"</string>
@@ -534,13 +531,18 @@ Accélérez les téléchargements sur tous vos appareils."</string>
   <string name="xl_privilege_title">Adhésion Xunlei</string>
   <string name="xl_validate_title">"Valide jusqu'à :  "</string>
   <string name="xl_vip_annual">An : %1$s Mi Crédits × 12</string>
+  <string name="xl_vip_annual_price">%1$s Mi Crédits par mois (12 mois)</string>
   <string name="xl_vip_combo">Forfaits</string>
   <string name="xl_vip_month">Mois : %1$s Mi Crédits × 1</string>
+  <string name="xl_vip_month_price">%1$s Mi Crédits par mois (1 mois)</string>
   <string name="xl_vip_open">Acheter</string>
   <string name="xl_vip_overdue">Expiré</string>
   <string name="xl_vip_pay">Étendre</string>
   <string name="xl_vip_quarter">Trimestre : %1$s Mi Crédits × 3</string>
+  <string name="xl_vip_quarter_price">%1$s Mi Crédits par mois (3 mois)</string>
   <string name="xl_vip_semiannual">6 mois : %1$s Mi Crédits × 6</string>
+  <string name="xl_vip_semiannual_price">%1$s Mi Crédits par mois (6 mois)</string>
+  <string name="xlunbind_sub_title">Supprimez votre compte Xunlei et ajoutez un compte Mi</string>
   <string name="xunlei_account_has_unbind_message">Compte Xunlei supprimé</string>
   <string name="xunlei_brand">Propulsé par Xunlei</string>
   <string name="xunlei_close_tips_button">Activer</string>
@@ -552,6 +554,4 @@ Accélérez les téléchargements sur tous vos appareils."</string>
   <string name="xunlei_open_info">Utiliser Xunlei Engine pour ouvrir ces liens?</string>
   <string name="xunlei_speed_service">Accélérateur de téléchargement Xunlei</string>
   <string name="xunlei_switch">Moteur de téléchargement Xunlei</string>
-  <string name="v7_preference_off">DÉSACTIVÉ</string>
-  <string name="v7_preference_on">ACTIVÉ</string>
 </resources>
