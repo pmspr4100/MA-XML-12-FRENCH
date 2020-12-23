@@ -1058,6 +1058,7 @@ Attendez la synchronisation complète ou visualisez le message sur votre ordinat
 
 %s"</string>
   <string name="signature_black_shark">Envoyé depuis mon téléphone Blackshark</string>
+  <string name="sms_not_found_tip">"Impossible de démarrer l'application SMS du système, veuillez démarrer manuellement l'application SMS et envoyer un SMS de vérification."</string>
   <string name="SMTP_independent_verification_text">Vérification indépendante SMTP</string>
   <string name="smtp_password_error">Le mot de passe du serveur sortant est incorrect</string>
   <string name="SMTP_password_text">Mot de passe</string>
@@ -1167,6 +1168,7 @@ Appuyer sur "&lt;b&gt;Sync Now&lt;/b&gt; pour synchroniser maintenant, ou &lt;b&
   <string name="webview_logout">Vous pouvez essayer de vous connecter à nouveau</string>
   <string name="webview_logout_cancel">Plus tard</string>
   <string name="webview_logout_sure">Réessayer</string>
+  <string name="webview_not_found">La page ne peut pas être ouverte car le composant WebView est introuvable.</string>
   <string name="webview_sslerror_handle_cancel">Annuler</string>
   <string name="webview_sslerror_handle_continue">Continuer</string>
   <string name="webview_sslerror_handle_hitmessage">"Une erreur de certificat s'est produite, continuer quand même ?"</string>
