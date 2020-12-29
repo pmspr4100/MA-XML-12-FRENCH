@@ -39,6 +39,8 @@
   <string name="bluetooth_sap_notif_message">Demander au client de se déconnecter ?</string>
   <string name="bluetooth_sap_notif_ticker">Accès SIM Bluetooth</string>
   <string name="bluetooth_sap_notif_title">Accès SIM Bluetooth</string>
+  <string name="bt_audio_share_notification_content">Appuyez pour afficher les options</string>
+  <string name="bt_audio_share_notification_title">Partage audio</string>
   <string name="bt_enable_cancel">Annuler</string>
   <string name="bt_enable_line1">Vous devez activer la fonction Bluetooth pour pouvoir utiliser les services Bluetooth.</string>
   <string name="bt_enable_line2">Activer le Bluetooth maintenant ?</string>
@@ -97,7 +99,7 @@
   <string name="not_exist_file">Aucun fichier</string>
   <string name="not_exist_file_desc">"Le fichier n'existe pas. 
 "</string>
-  <string name="noti_caption">%1$s réussies, %2$s non réussies.</string>
+  <string name="notice_audio_share_disconnected">"Ne plus partager l'audio en raison d'une connexion interrompue"</string>
   <string name="notification_received">Partage Bluetooth: %1$s reçu</string>
   <string name="notification_received_fail">Partage Bluetooth: fichier %1$s non reçu</string>
   <string name="notification_receiving">Partage Bluetooth: réception de %1$s</string>
