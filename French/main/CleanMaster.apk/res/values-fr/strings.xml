@@ -65,6 +65,7 @@
   <string name="app_clean_group_image_send">Images envoyées</string>
   <string name="app_description_content">"Le nettoyeur détecte des résidus sur votre appareil et libère de l'espace de stockage. Assurez-vous que vous pouvez vous passer de cette fonctionnalités avant de désinstaller l'application."</string>
   <string name="app_description_title">À propos du nettoyeur</string>
+  <string name="app_name">Préférence</string>
   <string name="app_usage_never">Pas récemment utilisé</string>
   <string name="app_usage_recently">Récemment utilisé</string>
   <string name="appcleaner_g_audio_summary_qq">Supprimer définitivement les messages vocaux QQ</string>
@@ -133,6 +134,8 @@
   <string name="auto_clean_time_three_day">Tous les 3 jours</string>
   <string name="auto_cleaner_open">Activer</string>
   <string name="back">Retour</string>
+  <string name="browser_scan_history_desc">Historique du navigateur</string>
+  <string name="browser_search_history_desc">Éléments recherchés</string>
   <string name="btn_text_done">Terminé</string>
   <string name="btn_text_quick_cleanup">Nettoyer</string>
   <string name="btn_text_quick_cleanup_apk">Supprimer les applications sélectionnées %1$s</string>
@@ -143,7 +146,6 @@
   <string name="btn_text_stop">Arrêter</string>
   <string name="button_agree">"D'accord"</string>
   <string name="button_deny">"Pas d'accord"</string>
-  <string name="button_optimizer">OK</string>
   <string name="button_text_add_to_white_list">Exception</string>
   <string name="button_text_backup_uninstall">"Sauvegarder d'abord"</string>
   <string name="button_text_cancel">Annuler</string>
@@ -178,6 +180,7 @@
   <string name="cache_title_empty_folder2">Dossier vide</string>
   <string name="cache_title_system_cache">Cache données</string>
   <string name="cached_garbage">Cache</string>
+  <string name="call_log">Journal des appels</string>
   <string name="cancel">Annuler</string>
   <string name="cd_back">retour</string>
   <string name="cd_check_box_checked">vérifié</string>
@@ -207,6 +210,8 @@
   <string name="clear_bigfiles">"Supprimer les gros fichiers, les photos en double et d'autres éléments obsolètes"</string>
   <string name="clear_immediately">Nettoyer maintenant</string>
   <string name="clear_safe_notify">Widget du panneau de notifications</string>
+  <string name="clip_board_history_desc">Contenus copiés/coupés</string>
+  <string name="clipboard">Presse-papiers</string>
   <string name="close">Fermer</string>
   <string name="confirm_auto_cleaner">OK</string>
   <string name="conn_of_function_safe">Connexion réseau pour la sécurité</string>
@@ -307,6 +312,7 @@
   <string name="empty_title_video">Aucune vidéo à effacer</string>
   <string name="engine_cm">Clean Master</string>
   <string name="engine_init">Initialisation…</string>
+  <string name="engine_mi">Xiaomi</string>
   <string name="engine_tm">Tencent</string>
   <string name="expand_button_title">Avancé</string>
   <string name="facebook_clean_exit_confirm_cancel">"Continuer l'analyse"</string>
@@ -326,6 +332,7 @@
   <string name="function_app_lock_title">%d applications contiennent des risques de confidentialitéł</string>
   <string name="garbage_clean_detail">Détails</string>
   <string name="garbage_month">%s nettoyé ce mois-ci</string>
+  <string name="gb_global_icon_ad_card_title">Suggéré pour vous</string>
   <string name="gigabyteShort">" Go"</string>
   <string name="global_wa_audio">Audio</string>
   <string name="global_wa_audio_item_title">Messages vocaux</string>
@@ -458,6 +465,7 @@
   <string name="hot_today">"Populaire aujourd'hui"</string>
   <string name="information_setting">Recommandations</string>
   <string name="install_sucess">%s installé avec succès</string>
+  <string name="install_time_format">dd/MM/yyyy</string>
   <string name="installed">Installé</string>
   <string name="installing">Installation</string>
   <string name="item_title_process_mode">Choisir une action</string>
@@ -593,7 +601,12 @@
   <string name="optimizecenter_data_support_cm">Propulsé par Clean Master</string>
   <string name="optimizecenter_data_support_tc">Propulsé par Tencent</string>
   <string name="output_videos">Exporter les vidéos</string>
+  <string name="permission_dialog_storage_btn1">Paramètres</string>
+  <string name="permission_dialog_storage_btn2">Annuler</string>
+  <string name="permission_dialog_storage_content">Le nettoyeur a besoin d'une autorisation pour accéder au stockage interne pour pouvoir fonctionner normalement. Appuyez sur \"Paramètres\" pour gérer les autorisations de stockage.</string>
+  <string name="permission_dialog_storage_title">Permissions requises</string>
   <string name="petabyteShort">" Po"</string>
+  <string name="phone_search">Recherche Google</string>
   <string name="positive_confirm">OK</string>
   <string name="pref_about_privacy_title">Politique de confidentialité</string>
   <string name="pref_category_title_auto_clean_settings">Rappel de nettoyage</string>
@@ -612,7 +625,7 @@
   <string name="pref_summary_garbage_cleanup_check_time">Planifier un nettoyage régulier</string>
   <string name="pref_summary_garbage_process_mode">Afficher une notification pendant le nettoyage</string>
   <string name="pref_summary_open_optimizer_cloud_scan">Télécharger et comparer les fichiers inconnus avec la base de données en ligne</string>
-  <string name="pref_title_apps_cleanup_size">Lorsque la taille du cache atteint</string>
+  <string name="pref_title_apps_cleanup_size">​Lorsque la taille du cache atteint</string>
   <string name="pref_title_auto_clean_content_choose">Choisir les éléments à nettoyer</string>
   <string name="pref_title_auto_update_cleanup_db">Mise à jour automatique</string>
   <string name="pref_title_choose_engine">Bases de données virales</string>
@@ -631,6 +644,7 @@
   <string name="privacy_app_desc_message">Compte, mot de passe et messages</string>
   <string name="privacy_app_desc_search">Compte, mot de passe et historique de recherche</string>
   <string name="privacy_app_desc_setting">Compte, mot de passe et paramètres</string>
+  <string name="privacy_appdata_chrome_history_des">Sites web visités</string>
   <string name="privacy_browser_desc">Éléments recherchés</string>
   <string name="privacy_cache_desc">Compte, mot de passe, historique, paramètres et plus</string>
   <string name="privacy_cache_empty">Aucune donnée privée</string>
@@ -683,7 +697,6 @@
   <string name="summary_delete_video">Supprimer les vidéos sélectionnées définitivement ?</string>
   <string name="summary_optimizer">"Cette fonctionnalité télécharge le nom des dossiers pour mettre à jour la base de données en ligne de Cheetah Mobile et exige l'ID de votre appareil."</string>
   <string name="terabyteShort">" To"</string>
-  <string name="text_optimizer">Télécharger le nom des dossiers</string>
   <string name="there_is_no">Tout semble bon, revenez plus tard</string>
   <string name="tips_low_storage_dialog_cancel">Annuler</string>
   <string name="tips_low_storage_dialog_msg_qq">La taille du cache de QQ a atteint 3 Go. Cela pourrait ralentir votre appareil. Nettoyez le cache de QQ maintenant ?</string>
