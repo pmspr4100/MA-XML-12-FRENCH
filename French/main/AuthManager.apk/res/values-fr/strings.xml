@@ -178,6 +178,7 @@
   <string name="grant_dialog_storage_category_title">Cette application nécessite des autorisations pour accéder à la galerie et aux messages dans les applications de médias sociaux</string>
   <string name="grant_dialog_storage_gallery_title">Galerie</string>
   <string name="grant_dialog_storage_sociality_title">Messages dans les applications de médias sociaux</string>
+  <string name="keep_blur_location">Continuer</string>
   <string name="keep_notice_me">Continuer à notifier</string>
   <string name="location_settings">Paramètres de localisation</string>
   <string name="location_warning">"%1$s est un fournisseur de services de localisation pour cet appareil. L'accès à la localisation peut être modifié à partir des paramètres de localisation."</string>
@@ -189,10 +190,13 @@
   <string name="miuix_appcompat_cancel_description">Annuler</string>
   <string name="miuix_appcompat_confirm_description">Confirmer</string>
   <string name="miuix_appcompat_delete_description">Supprimer</string>
+  <string name="miuix_appcompat_deselect_all">Désélectionner</string>
   <string name="miuix_appcompat_deselect_all_description">Tout désélectionner</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Annuler</string>
   <string name="miuix_appcompat_search_input_description">Chercher</string>
+  <string name="miuix_appcompat_select_all">Tout sélectionner</string>
   <string name="miuix_appcompat_select_all_description">Tout sélectionner</string>
+  <string name="miuix_appcompat_select_item">Sélectionner des éléments</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez vers le bas pour rafraîchir</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Rafraîchit avec succès</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Rafraîchissement…</string>
@@ -307,7 +311,10 @@
   <string name="screen_overlay_title">"Superposition d'écran détectée"</string>
   <string name="search_menu_title">Chercher</string>
   <string name="stop_blur_location">Désactiver</string>
+  <string name="storage_policy_notify_both_title">"%1$s n'est pas autorisé à accéder à Galerie et aux messages dans les applications de médias sociaux"</string>
   <string name="storage_policy_notify_content">Pour lui permettre de lire, cliquez pour accéder aux paramètres</string>
+  <string name="storage_policy_notify_gallery_title">"%1$s n'est pas autorisé à accéder à Galerie"</string>
+  <string name="storage_policy_notify_sociality_title">"%1$s n'est pas autorisé à accéder aux messages dans les applications de médias sociaux"</string>
   <string name="storage_policy_notify_title">"%1$s a été interdit de lecture d'albums téléphoniques"</string>
   <string name="sunday">Dimanche</string>
   <string name="sunday_short">Dim</string>
