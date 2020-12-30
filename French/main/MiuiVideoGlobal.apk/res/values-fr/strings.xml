@@ -807,7 +807,7 @@ Mettez d'abord à jour Mi Vidéo vers la dernière version."</string>
   <string name="passport_empty_user_name">"Le champ du nom d'utilisateur ne peut être vide"</string>
   <string name="passport_error_auth_fail">La session a expiré. Connectez-vous à nouveau.</string>
   <string name="passport_error_device_id">"Impossible d'obtenir l'identifiant de l'appareil"</string>
-  <string name="passport_error_email">L'adresse e-mail que vous avez entré est invalide</string>
+  <string name="passport_error_email">"L'adresse e-mail que vous avez entré est invalide"</string>
   <string name="passport_error_empty_captcha_code">Entrez le captcha</string>
   <string name="passport_error_empty_email">Entrez votre adresse e-mail</string>
   <string name="passport_error_empty_phone_num">Entrez votre numéro de téléphone</string>
@@ -838,7 +838,7 @@ Mettez d'abord à jour Mi Vidéo vers la dernière version."</string>
   <string name="passport_next">Suivant</string>
   <string name="passport_next_step">SUIVANT</string>
   <string name="passport_password_req_notice">Le mot de passe doit contenir entre 8 et 16 caractères et combiner au moins deux des éléments suivants: chiffres, lettres et symboles spéciaux (par exemple, 123abc@#, ou 123abc ou abc@#).</string>
-  <string name="passport_querying_phone_info">Demande d'informations sur le compte…</string>
+  <string name="passport_querying_phone_info">"Demande d'informations sur le compte…"</string>
   <string name="passport_quick_login_dialog_step2_title">Vérification en 2 étapes</string>
   <string name="passport_quick_login_dialog_title">Vérifier le mot de passe</string>
   <string name="passport_quick_login_step2_title">Vérification en 2 étapes</string>
@@ -1133,7 +1133,7 @@ Augmenter la sécurité de votre compte."</string>
   <string name="srl_component_falsify" formatted="false">"%s falsify area,
  Represents the height[%.1fdp] of drag at run time,
  It does not show anything."</string>
-  <string name="srl_content_empty">La vue de contenu dans SmartRefreshLayout est vide. Avez-vous oublié de l'ajouter dans le fichier de mise en page xml ?</string>
+  <string name="srl_content_empty">"La vue de contenu dans SmartRefreshLayout est vide. Avez-vous oublié de l'ajouter dans le fichier de mise en page xml ?"</string>
   <string name="srl_footer_failed">Chargement raté</string>
   <string name="srl_footer_finish">Chargement réussi</string>
   <string name="srl_footer_loading">Chargement…</string>
