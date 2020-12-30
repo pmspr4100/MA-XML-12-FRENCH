@@ -82,7 +82,7 @@
   <string name="HIPS_Perm_process_outgoing_calls">"Accéder à l'application Téléphone"</string>
   <string name="HIPS_Perm_process_outgoing_calls_Desc">répondez, surveillez et terminez les appels</string>
   <string name="HIPS_Perm_read_clipboard">Accéder aux éléments du presse-papiers</string>
-  !<string name="HIPS_Perm_read_clipboard_Desc">Autorise les applications à accéder aux éléments du presse-papiers</string>
+  <string name="HIPS_Perm_read_clipboard_Desc">Autorise les applications à accéder aux éléments du presse-papiers</string>
   <string name="HIPS_Perm_read_notification_sms">Service SMS</string>
   <string name="HIPS_Perm_read_notification_sms_Desc">Lecture du service SMS</string>
   <string name="HIPS_Perm_recognition">"Accès aux informations d'activité"</string>
@@ -131,7 +131,10 @@
   <string name="app_name">Permissions</string>
   <string name="background_location_access_reminder_notification_content">Cette application peut toujours accéder à votre position. Appuyez pour changer.</string>
   <string name="background_location_access_reminder_notification_title">%s utilise votre position</string>
+  <string name="blur_location_is_on_tip">%1$s a démarré le service de localisation approximative. Faut-il garder le service de localisation approximative activé ?</string>
   <string name="blur_location_now_tip">La location approximative est activée</string>
+  <string name="blur_location_title">Localisation approximative</string>
+  <string name="clearable_edittext_clear_description">Effacer</string>
   <string name="clipboard_ai_allow_once">%1$s a été autorisé à accéder aux éléments du presse-papiers automatiquement</string>
   <string name="clipboard_data">Contenu: </string>
   <string name="clipboard_data_request">"%1$s tente d'accéder aux éléments du presse-papiers"</string>
@@ -144,6 +147,7 @@
   <string name="clipboard_read_deny_dialog_title">Accès restreint au presse-papiers pour %1$s</string>
   <string name="current_permission_template">%1$s de %2$s</string>
   <string name="default_permission_description">effectuer des actions inconnues</string>
+  <string name="early_morning">Matin</string>
   <string name="eras_ad">CE</string>
   <string name="eras_bc">Avant J.-C.</string>
   <string name="evening">Après-midi</string>
@@ -160,6 +164,8 @@
   <string name="go_behavior_record">"Historique du comportement de l'application"</string>
   <string name="go_perm_manager">Gérer les permissions</string>
   <string name="go_setting">Paramètres</string>
+  <string name="gold_master_dialog_reject">Rejeter (%d)</string>
+  <string name="gold_master_dialog_title">%1$s souhaire accéder au presse-papiers</string>
   <string name="grant_dialog_button_allow">Autoriser</string>
   <string name="grant_dialog_button_allow_always">Autoriser tout le temps</string>
   <string name="grant_dialog_button_allow_background">Autoriser tout le temps</string>
@@ -169,6 +175,10 @@
   <string name="grant_dialog_button_deny_and_dont_ask_again">Refuser et ne plus demander</string>
   <string name="grant_dialog_button_deny_background">"Seulement en utilisant l'application"</string>
   <string name="grant_dialog_button_deny_background_and_dont_ask_again">"Toujours, mais uniquement lors de l'utilisation de l'application"</string>
+  <string name="grant_dialog_storage_category_title">Cette application nécessite des autorisations pour accéder à la galerie et aux messages dans les applications de médias sociaux</string>
+  <string name="grant_dialog_storage_gallery_title">Galerie</string>
+  <string name="grant_dialog_storage_sociality_title">Messages dans les applications de médias sociaux</string>
+  <string name="keep_blur_location">Continuer</string>
   <string name="keep_notice_me">Continuer à notifier</string>
   <string name="location_settings">Paramètres de localisation</string>
   <string name="location_warning">"%1$s est un fournisseur de services de localisation pour cet appareil. L'accès à la localisation peut être modifié à partir des paramètres de localisation."</string>
@@ -180,10 +190,13 @@
   <string name="miuix_appcompat_cancel_description">Annuler</string>
   <string name="miuix_appcompat_confirm_description">Confirmer</string>
   <string name="miuix_appcompat_delete_description">Supprimer</string>
+  <string name="miuix_appcompat_deselect_all">Désélectionner</string>
   <string name="miuix_appcompat_deselect_all_description">Tout désélectionner</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Annuler</string>
   <string name="miuix_appcompat_search_input_description">Chercher</string>
+  <string name="miuix_appcompat_select_all">Tout sélectionner</string>
   <string name="miuix_appcompat_select_all_description">Tout sélectionner</string>
+  <string name="miuix_appcompat_select_item">Sélectionner des éléments</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez vers le bas pour rafraîchir</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Rafraîchit avec succès</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Rafraîchissement…</string>
@@ -297,7 +310,11 @@
   <string name="screen_overlay_message">"Pour modifier cette permissions, vous devez désactiver la superposition d'écran dans Paramètres > Applications."</string>
   <string name="screen_overlay_title">"Superposition d'écran détectée"</string>
   <string name="search_menu_title">Chercher</string>
+  <string name="stop_blur_location">Désactiver</string>
+  <string name="storage_policy_notify_both_title">"%1$s n'est pas autorisé à accéder à Galerie et aux messages dans les applications de médias sociaux"</string>
   <string name="storage_policy_notify_content">Pour lui permettre de lire, cliquez pour accéder aux paramètres</string>
+  <string name="storage_policy_notify_gallery_title">"%1$s n'est pas autorisé à accéder à Galerie"</string>
+  <string name="storage_policy_notify_sociality_title">"%1$s n'est pas autorisé à accéder aux messages dans les applications de médias sociaux"</string>
   <string name="storage_policy_notify_title">"%1$s a été interdit de lecture d'albums téléphoniques"</string>
   <string name="sunday">Dimanche</string>
   <string name="sunday_short">Dim</string>

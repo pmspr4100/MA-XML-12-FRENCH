@@ -464,11 +464,11 @@ et ajustez les préférences automatiquement"</string>
   <string name="confirm_restore_message">"Restaurer les paramètres par défaut de l'appareil photo ?"</string>
   <string name="confirm_restore_title">Restaurer les paramètres par défaut</string>
   <string name="copy">Copie</string>
-  <string name="cta_msg">Welcome to Camera! You can use this app to take photos and shoot videos. This app needs to connect to the internet and requires the following optional permissions:</string>
-  <string name="cta_perm_dec">For adding location info to photos and videos</string>
-  <string name="cta_perm_loc">Location</string>
-  <string name="cta_perm_type">"Optional permissions (Used for additional features while you're using them)"</string>
-  <string name="cta_user_tips">&lt;Data&gt;To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &amp;lt;a href =%1$s&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href =%2$s&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+  <string name="cta_msg">"Bienvenue dans Appareil photo! Vous pouvez utiliser cette application pour prendre des photos et filmer des vidéos. Cette application doit se connecter à Internet et requiert les autorisations facultatives suivantes:"</string>
+  <string name="cta_perm_dec">Pour ajouter des informations de localisation aux photos et vidéos</string>
+  <string name="cta_perm_loc">Localisation</string>
+  <string name="cta_perm_type">"Autorisations facultatives (utilisées pour des fonctionnalités supplémentaires pendant que vous les utilisez)"</string>
+  <string name="cta_user_tips"><Data>"Pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez notre &amp;lt;a href =%1$s&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et notre &amp;lt;a href=%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;."</Data></string>
   <string name="custom_sound_art">Rétro</string>
   <string name="custom_sound_default">Défaut</string>
   <string name="custom_sound_modern">Moderne</string>
@@ -854,10 +854,10 @@ regarder plus grand sur les photos"</string>
   <string name="multi_window_mode_not_supported">"L'appareil photo ne fonctionne pas dans plusieurs fenêtres"</string>
   <string name="music_hint_tt">Source de services</string>
   <string name="network_access_user_notice_agree">Accepter</string>
-  <string name="network_access_user_notice_message_live_video">"&lt;Data&gt;"L'appareil photo doit se connecter à internet pour fournir des effets, de la musique et d'autres fonctionnalités pour les courtes vidéos.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;En appuyant sur \"Accepter\" ci-dessous, vous acceptez nos &amp;lt;a href =%1$s&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href =%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;, et permettant à l'appareil photo de se connecter à internet."&lt;/Data&gt;"</string>
-  <string name="network_access_user_notice_message_mi_live_video">"&lt;Data&gt;Bienvenue dans de courtes vidéos ! Notre service doit se connecter au réseau pour vous fournir de la musique et d'autres fonctionnalités. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Avant d'utiliser notre service, vous devez lire et accepter nos &amp;lt;a href =%1$s&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href =%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;, ainsi que permettre à l'application de se connecter à internet.&lt;/Data&gt;"</string>
-  <string name="network_access_user_notice_message_sticker">"&lt;Data&gt;"L'appareil photo doit se connecter à internet pour fournir des autocollants pour cette fonction.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;En appuyant sur \"Accepter\" ci-dessous, vous acceptez nos &amp;lt;a href =%1$s&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href =%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;, et permettant à l'appareil photo de se connecter à internet."&lt;/Data&gt;"</string>
-  <string name="network_access_user_notice_message_voice_caption">"&lt;Data&gt;"L'appareil photo doit se connecter à internet pour fournir une fonctionnalité de sortie de synthèse vocale.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;En appuyant sur \"Accepter\" ci-dessous, vous acceptez nos &amp;lt;a href =%1$s&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href =%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;, et permettre à l'appareil photo de se connecter à internet."&lt;/Data&gt;"</string>
+  <string name="network_access_user_notice_message_live_video"><Data>"L'appareil photo doit se connecter à internet pour fournir des effets, de la musique et d'autres fonctionnalités pour les courtes vidéos.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;En appuyant sur \"Accepter\" ci-dessous, vous acceptez nos &amp;lt;a href =%1$s&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href =%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;, et permettant à l'appareil photo de se connecter à internet."</Data></string>
+  <string name="network_access_user_notice_message_mi_live_video"><Data>"Bienvenue dans de courtes vidéos ! Notre service doit se connecter au réseau pour vous fournir de la musique et d'autres fonctionnalités. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Avant d'utiliser notre service, vous devez lire et accepter nos &amp;lt;a href =%1$s&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href =%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;, ainsi que permettre à l'application de se connecter à internet."</Data></string>
+  <string name="network_access_user_notice_message_sticker"><Data>"L'appareil photo doit se connecter à internet pour fournir des autocollants pour cette fonction.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;En appuyant sur \"Accepter\" ci-dessous, vous acceptez nos &amp;lt;a href =%1$s&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href =%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;, et permettant à l'appareil photo de se connecter à internet."</Data></string>
+  <string name="network_access_user_notice_message_voice_caption"><Data>"L'appareil photo doit se connecter à internet pour fournir une fonctionnalité de sortie de synthèse vocale.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;En appuyant sur \"Accepter\" ci-dessous, vous acceptez nos &amp;lt;a href =%1$s&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href =%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;, et permettre à l'appareil photo de se connecter à internet."</Data></string>
   <string name="network_access_user_notice_title">Connexion à internet</string>
   <string name="no_storage">"Merci d'insérer une carte SD avant d'utiliser l'appareil photo"</string>
   <string name="not_enough_space">Votre carte SD est pleine</string>
@@ -866,13 +866,13 @@ regarder plus grand sur les photos"</string>
   <string name="only_mimoji_multi_window_mode_not_supported">Cette fonctionnalité ne peut pas être utilisée en mode multi-fenêtres</string>
   <string name="pano_click_to_toggle_direction">Tap the arrow to change direction</string>
   <string name="pano_file_name_format">"'PANO'_ddMMyyyy_HHmmss"</string>
-  <string name="pano_go_on_moving">Move your device continuously along the line</string>
+  <string name="pano_go_on_moving">Déplacez votre appareil en continu le long de la ligne</string>
   <string name="pano_how_to_use_prompt_align_reference_line">Aligner la flèche avec la ligne de référence</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Continuer…</string>
   <string name="pano_how_to_use_prompt_slow_down">Ralentissez…</string>
   <string name="pano_how_to_use_prompt_start">Appuyez sur la flèche pour changer de direction et commencez à vous déplacer lentement.</string>
   <string name="pano_how_to_use_prompt_to_move">Commencez le panoramique lentement</string>
-  <string name="parameter_ambilight_title">Long exposure</string>
+  <string name="parameter_ambilight_title">Exposition longue</string>
   <string name="parameter_description_pro_capture_title">Fonctionnalités Pro pour prendre des photos</string>
   <string name="parameter_description_pro_video_title">Fonctionnalités Pro pour filmer des vidéos</string>
   <string name="parameter_description_sub_title">Prenez un contrôle plus créatif sur vos photos et vidéos</string>
@@ -881,7 +881,7 @@ regarder plus grand sur les photos"</string>
   <string name="parameter_et_description">"La vitesse d'obturation automatique est déterminée par le posemètre de l'appareil photo. Lorsque vous sélectionnez manuellement la vitesse d'obturation, n'oubliez pas que plus l'obturateur est ouvert longtemps, plus le capteur de lumière pénètre, ce qui rend votre image plus lumineuse."</string>
   <string name="parameter_et_title">"Vitesse d'obturation"</string>
   <string name="parameter_exposure_description">"Cette fonction vous permet de compenser l'exposition lorsque vous souhaitez que votre image soit plus claire ou plus sombre que le compteur ne le suggère."</string>
-  <string name="parameter_exposure_feecback_description">Highlight underexposed areas in blue and overexposed areas in red to be able to adjust exposure correctly.</string>
+  <string name="parameter_exposure_feecback_description">"Mettez en surbrillance les zones sous-exposées en bleu et les zones surexposées en rouge pour pouvoir ajuster correctement l'exposition."</string>
   <string name="parameter_exposure_feecback_title">"Vérification de l'exposition"</string>
   <string name="parameter_exposure_title">"Compensation d'exposition"</string>
   <string name="parameter_focus_description">"Vous pouvez vous concentrer manuellement et automatiquement. Plus vous sélectionnez la valeur de mise au point sur le curseur, plus la zone de mise au point sera éloignée de l'objectif."</string>
@@ -973,13 +973,13 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_camcorder_settings_category">"Paramètres de l'appareil photo"</string>
   <string name="pref_camera_ai_audio">ai audio</string>
   <string name="pref_camera_ai_scene_title">Appareil photo IA</string>
-  <string name="pref_camera_ai_shutter_description">Select best moment automatically when pressing the shutter button</string>
-  <string name="pref_camera_ai_shutter_title">AI shutter</string>
+  <string name="pref_camera_ai_shutter_description">Sélectionnez automatiquement le meilleur moment lorsque vous appuyez sur le déclencheur</string>
+  <string name="pref_camera_ai_shutter_title">Obturateur AI</string>
   <string name="pref_camera_antibanding_entry_0">Désactivé</string>
   <string name="pref_camera_antibanding_entry_1">50 Hz</string>
   <string name="pref_camera_antibanding_entry_2">60 Hz</string>
   <string name="pref_camera_antibanding_entry_3">Automatique</string>
-  <string name="pref_camera_antibanding_title">Anti bande noire</string>
+  <string name="pref_camera_antibanding_title">Anti-bande noire</string>
   <string name="pref_camera_asd_night_title">Améliorer les photos en basse luminosité automatiquement</string>
   <string name="pref_camera_asd_popup_title">Avertir lorsque le flash est nécessaire</string>
   <string name="pref_camera_audio_capture_title">Audio</string>
@@ -1033,8 +1033,8 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_camera_device_watermark_title">"Filigrane de l'appareil"</string>
   <string name="pref_camera_dual_enable_title">Activé le double appareil photo</string>
   <string name="pref_camera_dual_sat_enable_title">Activé le double appareil photo SAT</string>
-  <string name="pref_camera_dynamic_frame_rate_summary">Decrease frame rate in low light conditions from %1$d to %2$d FPS to improve video quality</string>
-  <string name="pref_camera_dynamic_frame_rate_title">Adjust frame rate to low light</string>
+  <string name="pref_camera_dynamic_frame_rate_summary">"Diminuez la fréquence d'images dans des conditions de faible éclairage de %1$d à %2$d IPS pour améliorer la qualité vidéo"</string>
+  <string name="pref_camera_dynamic_frame_rate_title">"Ajuster la fréquence d'images à une faible luminosité"</string>
   <string name="pref_camera_eis_entry_normal">EIS</string>
   <string name="pref_camera_eis_entry_off">Off</string>
   <string name="pref_camera_eis_entry_pro">EIS Pro</string>
@@ -1042,17 +1042,17 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_camera_face_info_watermark_title">"Ajouter un timbre d'âge sur les photos"</string>
   <string name="pref_camera_facedetection_auto_hidden_title">Masquer le cadre de détection de visage automatiquement</string>
   <string name="pref_camera_facedetection_title">Détection faciale</string>
-  <string name="pref_camera_fastmotion_duration">Duration</string>
-  <string name="pref_camera_fastmotion_duration_description">The duration of a shooting session is unlimited by default. You can also set the timer which will stop the session at a fixed moment.</string>
-  <string name="pref_camera_fastmotion_duration_infinity">Unlimited</string>
-  <string name="pref_camera_fastmotion_speed">Speed</string>
-  <string name="pref_camera_fastmotion_speed_150x">Sunrises and sunsets</string>
-  <string name="pref_camera_fastmotion_speed_1800x">Plants</string>
-  <string name="pref_camera_fastmotion_speed_30x">Street</string>
-  <string name="pref_camera_fastmotion_speed_750x">Dusk</string>
-  <string name="pref_camera_fastmotion_speed_90x">Clouds</string>
-  <string name="pref_camera_fastmotion_speed_description">Time-lapse videos shot at higher speed are shorter and more condensed. Here are the speed values suitable for different scenes:</string>
-  <string name="pref_camera_first_tag_tips">Taggé avec succès</string>
+  <string name="pref_camera_fastmotion_duration">Durée</string>
+  <string name="pref_camera_fastmotion_duration_description">"La durée d'une séance de prise de vue est illimitée par défaut. Vous pouvez également régler la minuterie qui arrêtera la session à un moment fixe."</string>
+  <string name="pref_camera_fastmotion_duration_infinity">Illimitée</string>
+  <string name="pref_camera_fastmotion_speed">Vitesse</string>
+  <string name="pref_camera_fastmotion_speed_150x">Levers et couchers de soleil</string>
+  <string name="pref_camera_fastmotion_speed_1800x">Plantes</string>
+  <string name="pref_camera_fastmotion_speed_30x">Rues</string>
+  <string name="pref_camera_fastmotion_speed_750x">Crépuscule</string>
+  <string name="pref_camera_fastmotion_speed_90x">Nuages</string>
+  <string name="pref_camera_fastmotion_speed_description">Les vidéos accélérées tournées à une vitesse plus élevée sont plus courtes et plus condensées. Voici les valeurs de vitesse adaptées aux différentes scènes:</string>
+  <string name="pref_camera_first_tag_tips">Marqué avec succès</string>
   <string name="pref_camera_flashmode_entry_auto">Auto</string>
   <string name="pref_camera_flashmode_entry_back_soft_light">Lumière douce</string>
   <string name="pref_camera_flashmode_entry_off">Désactivé</string>
@@ -1080,8 +1080,8 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_camera_heic_image_format_description2">"Le format High Efficiency Image File permet d'économiser de l'espace disque, mais n'est pas pris en charge par certaines applications. Vous ne pouvez pas prendre de photos animées ni enlever les filigranes en HEIF"</string>
   <string name="pref_camera_heic_image_format_title">Format HEIC</string>
   <string name="pref_camera_hfr_entry_off">Désactivé</string>
-  <string name="pref_camera_high_quality_preferred_description">Improve image quality using the smart algorithm. Image capture speed may decrease when this feature is on.</string>
-  <string name="pref_camera_high_quality_preferred_title">Enhance image quality</string>
+  <string name="pref_camera_high_quality_preferred_description">"Améliorez la qualité d'image à l'aide de l'algorithme intelligent. La vitesse de capture d'image peut diminuer lorsque cette fonction est activée."</string>
+  <string name="pref_camera_high_quality_preferred_title">"Améliorez la qualité d'image"</string>
   <string name="pref_camera_histogram_entry_disable">Désactiver</string>
   <string name="pref_camera_histogram_entry_enable">Activé</string>
   <string name="pref_camera_jpegquality_entry_high">Élevée</string>
@@ -1357,8 +1357,8 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="search_menu_title">Recherche</string>
   <string name="search_settings">"Paramètres appareil photo;Qualité;Qualité de l'image;Localisation de l'image;Détection de visage;Son de l'appareil photo"</string>
   <string name="see_qrcode_detals">Afficher les détails du QR code</string>
-  <string name="settings_camera_near_range_description">Remove blurring when focusing on flat surfaces very close up</string>
-  <string name="settings_camera_near_range_title">Close focus</string>
+  <string name="settings_camera_near_range_description">Élimine le flou lors de la mise au point sur des surfaces planes très proches</string>
+  <string name="settings_camera_near_range_title">Mise au point proche</string>
   <string name="share">Partager</string>
   <string name="simple_mode_button_asd_flash">Désactiver la capture avec flash</string>
   <string name="simple_mode_button_asd_hdr">Désactiver la capture HDR</string>
@@ -1423,10 +1423,10 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="timbre_robot">Robot</string>
   <string name="time_lapse_error">"Impossible d'utiliser cette taille de vidéo pour un enregistrement en accéléré"</string>
   <string name="time_stamp_date_format">dd/MM/yyyy</string>
-  <string name="timer_burst">Timed burst</string>
-  <string name="timer_burst_manu_param_interval">Interval without exposure</string>
-  <string name="timer_burst_param_interval">Interval</string>
-  <string name="timer_burst_param_total_count">Number of photos</string>
+  <string name="timer_burst">Rafale chronométrée</string>
+  <string name="timer_burst_manu_param_interval">Intervalle sans exposition</string>
+  <string name="timer_burst_param_interval">Intervalle</string>
+  <string name="timer_burst_param_total_count">Nombre de photos</string>
   <string name="title_snap_double_confirm">Confirmer à nouveau</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">"Impossible de prendre en rafale lorsque la capture audio est activée"</string>
   <string name="toast_saving">Enregistrement des photos…</string>
@@ -1467,8 +1467,8 @@ Le mode ultra grand angle vient vous aider lorsque vous ne pouvez pas vous éloi
   <string name="ultra_wide_recommend_tip_hint_sat">Basculer vers un angle ultra large 0.6X</string>
   <string name="umi_module_name_pixel">108 MPX</string>
   <string name="unknow_error">Erreur inconnue</string>
-  <string name="unsupported_microphones_3d_record_tips">"3D sound doesn't support external microphones"</string>
-  <string name="unsupported_microphones_audio_zoom_tips">"Audio zoom doesn't support external microphones"</string>
+  <string name="unsupported_microphones_3d_record_tips">Le son 3D ne prend pas en charge les microphones externes</string>
+  <string name="unsupported_microphones_audio_zoom_tips">Le zoom audio ne prend pas en charge les microphones externes</string>
   <string name="update_loading">%1$d%% téléchargé</string>
   <string name="update_start">Actualiser %1$s</string>
   <string name="user_agree">Accepter</string>

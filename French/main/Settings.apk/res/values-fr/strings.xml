@@ -1710,14 +1710,16 @@ Vous pouvez désactiver cette fonctionnalité dans les paramètres &gt; Bluetoot
   <string name="continue_reset_factory">"Retour aux paramètres d'usine"</string>
   <string name="contributors_title">Collaborateurs</string>
   <string name="control_center">Centre de contrôle</string>
-  <string name="control_panel_switch_side">Basculer le centre de contrôle</string>
+  <string name="control_center_style">Style du Centre de contrôle</string>
+  <string name="control_center_style_summary">"Sélectionnez la façon dont vous souhaitez afficher les boutons et les notifications"</string>
+  <string name="control_panel_switch_side">Changer le côté du Centre de contrôle</string>
   <string name="controls_label">Commandes</string>
   <string name="controls_subtitle">Ajuster la consommation</string>
   <string name="convenience_key_category_title">Contrôle du système</string>
   <string name="convert_to_fbe_warning">"Convertir la partition des données en fichiers basés sur le chiffrement.
  Avertissement: cette action effacera toutes vos données.
  Cette fonctionnalité est en cours de développement et peut ne pas fonctionner correctement.
- Appuyer sur 'Nettoyer et convertir…' pour continuer."</string>
+ Appuyer sur \"Nettoyer et convertir…\" pour continuer."</string>
   <string name="convert_to_file_encryption">Convertir en chiffrement de fichier</string>
   <string name="convert_to_file_encryption_done">Les fichiers sont chiffrés</string>
   <string name="convert_to_file_encryption_enabled">Conversion…</string>
@@ -3430,10 +3432,10 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
   <string name="launch_google_search">"Lancer l'assistant Google"</string>
   <string name="launch_instant_app">Ouvrir</string>
   <string name="launch_mdp_app_text">Afficher le forfait</string>
-  <string name="launch_noapp_dialog_cancel">Cancel</string>
-  <string name="launch_noapp_dialog_install">Install</string>
-  <string name="launch_noapp_dialog_replace">Settings</string>
-  <string name="launch_notification_center">Notification shade</string>
+  <string name="launch_noapp_dialog_cancel">Annuler</string>
+  <string name="launch_noapp_dialog_install">Installer</string>
+  <string name="launch_noapp_dialog_replace">Paramètres</string>
+  <string name="launch_notification_center">Panneau des notifications</string>
   <string name="launch_recents">Lancer les applications récentes</string>
   <string name="launch_voice_assistant">"Lancer l'assistant vocal"</string>
   <string name="launch_wechat_payment_code">WeChat payment code</string>
@@ -3458,6 +3460,8 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
   <string name="led_pulse_summary">Utiliser la LED lors de nouvelles notifications</string>
   <string name="led_settings">LED de notifications</string>
   <string name="left_function_key">Raccourci gauche</string>
+  <string name="legacy_control_center_desc">"Déroulez la barre de statut pour afficher les boutons et les notifications"</string>
+  <string name="legacy_control_center_title">Ancienne version</string>
   <string name="legacy_navigation_summary">"Revenez en arrière, Accueil et changez d'applications avec des boutons en bas de votre écran."</string>
   <string name="legacy_navigation_title">Navigation à 3 boutons</string>
   <string name="legal_information">Informations légales</string>
@@ -3589,6 +3593,7 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
   <string name="lock_profile_wipe_warning_content_pattern">Si vous entrez un schéma incorrect du profil de travail lors de cette tentative, votre profil professionnel et les données associées seront supprimés de cet appareil.</string>
   <string name="lock_profile_wipe_warning_content_pin">Si vous saisissez un code PIN de travail incorrect lors de cette tentative, votre profil professionnel et les données associées seront supprimés de cet appareil.</string>
   <string name="lock_profile_wipe_warning_title">Dernier essai</string>
+  <string name="lock_screen_action">"Éléments affichés sur l'écran de verrouillage après avoir fait glisser vers le bas"</string>
   <string name="lock_screen_display_category_name">Écran de verrouillage</string>
   <string name="lock_screen_intro_skip_dialog_text">"Les fonctionnalités de protection de l'appareil ne seront pas activées. Vous ne pourrez pas empêcher d'autres personnes d'utiliser ce téléphone en cas de perte ou de vol."</string>
   <string name="lock_screen_intro_skip_dialog_text_frp">"Les fonctionnalités de protection de l'appareil ne seront pas activées. Vous ne pourrez pas empêcher d'autres personnes d'utiliser ce téléphone en cas de perte, de vol ou de réinitialisation."</string>
@@ -4185,6 +4190,8 @@ Passer à %1$s n'annulera pas votre %2$s service."</string>
   <string name="model_name">Modèle</string>
   <string name="model_number">"Modèle de l'appareil"</string>
   <string name="model_summary">Modèle: %1$s</string>
+  <string name="modern_control_center_desc">Déroulez la barre de statut sur la gauche pour afficher les notifications. Déroulez la barre de statut sur la droite pour ouvrir le Centre de contrôle.</string>
+  <string name="modern_control_center_title">Nouvelle version</string>
   <string name="modify_default_browser_message">"Si vous utilisez une application tierce comme navigateur par défaut, elle pourrait collecter votre historique de navigation et d'autres données. Régler quand même ?"</string>
   <string name="modify_instruction_password_settings">Définir le mot de passe</string>
   <string name="modify_privacy_password">Modifier le mot de passe</string>
@@ -5383,6 +5390,7 @@ Interface UT: %5$s"</string>
   <string name="repeat_call">Notifier les appels répétés</string>
   <string name="repeat_call_info">Autoriser la sonnerie pour les appels répétés pendant 15 minutes en mode Silencieux</string>
   <string name="repeat_title">Répéter</string>
+  <string name="requires_modern_control_center">Fonctionne avec la nouvelle version du Centre de contrôle</string>
   <string name="reset_aaid">"Réinitialiser l'identificateur de publicité"</string>
   <string name="reset_app_preferences">Réinitialiser les préférences</string>
   <string name="reset_app_preferences_button">Réinitialiser applis</string>
@@ -6357,8 +6365,8 @@ Le code PIN est peut-être incorrect."</string>
   <string name="smart_battery_summary">"Limiter l'utilisation de la batterie pour les applications que vous n'utilisez pas souvent"</string>
   <string name="smart_battery_title">Gérer les applications automatiquement</string>
   <string name="smart_home_title">Maison intelligente</string>
-  <string name="smart_home_value_none">Aucun</string>
-  <string name="smart_home_value_unknown">Inconnu</string>
+  <string name="smart_home_value_none">Aucune</string>
+  <string name="smart_home_value_unknown">Inconnue</string>
   <string name="smart_notifications_title">Notifications adaptatives</string>
   <string name="smartcover_lock_or_unlock_screen_tittle">Mode étui intelligent</string>
   <string name="smartcover_sensitive_summary">"Verrouiller ou déverrouiller le téléphone automatiquement à l'aide de l'étui intelligent"</string>
