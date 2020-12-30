@@ -58,7 +58,7 @@
   <string name="dc_light_hint_enable_title">Attention</string>
   <string name="dc_light_hint_normal">"L'atténuation DC peut affecter la façon dont certains éléments sont affichés."</string>
   <string name="dc_light_hint_other">"L'atténuation DC peut affecter la fréquence de rafraîchissement et la façon dont certains éléments sont affichés."</string>
-  <string name="dc_lignt_enable_hint">Le mode anti-scintillement va régler la fréquence de rafraîchissement à 60 Hz. Activer le mode anti-scintillement ?</string>
+  <string name="dc_lignt_enable_hint">Le mode anti-scintillement va régler la fréquence de rafraîchissement à 60 Hz. Activer le mode anti-scintillement ?</string>
   <string name="display_description">"Icônes plus grandes, texte plus large, moins d'encombrement visuel"</string>
   <string name="display_title">Interface plus grande</string>
   <string name="early_morning">Matin</string>
@@ -369,7 +369,7 @@
   <string name="usage_agree">Accepter</string>
   <string name="usage_app_get_it">Compris</string>
   <string name="usage_app_holiday_limit">Jours de congé</string>
-  <string name="usage_app_limit_alter_summary">"On dirait que ce délai est plus court que le temps que vous avez utilisé cette application aujourd'hui. Fixer la limite quand même ?"</string>
+  <string name="usage_app_limit_alter_summary">"On dirait que ce délai est plus court que le temps que vous avez utilisé cette application aujourd'hui. Fixer la limite quand même ?"</string>
   <string name="usage_app_limit_alter_title">"Vérifier le temps limite d'utilisation"</string>
   <string name="usage_app_limit_prelong">Prolonger le temps</string>
   <string name="usage_app_limit_reach_summay">%s restants</string>
@@ -380,7 +380,7 @@
   <string name="usage_app_limit_title">"Limiter le temps d'utilisation"</string>
   <string name="usage_app_other_settings">Paramètres additionnels</string>
   <string name="usage_app_over_content">"Vous avez déjà utilisé cette application pour %s aujourd'hui."</string>
-  <string name="usage_app_over_summary">"Vous avez atteint votre limite. Le temps est écoulé !"</string>
+  <string name="usage_app_over_summary">"Vous avez atteint votre limite. Le temps est écoulé !"</string>
   <string name="usage_app_set_limit_time">Définir une limite</string>
   <string name="usage_app_system_app_summary">"Impossible de limiter le temps d'utilisation pour les applications système"</string>
   <string name="usage_app_weekday_limit">Semaine</string>
@@ -417,11 +417,11 @@
   <string name="usage_home_permission_account_title">Accéder aux informations du compte</string>
   <string name="usage_home_permission_phone_summary">"Pour identifier votre appareil à l'aide de VAID"</string>
   <string name="usage_home_permission_phone_title">"Accéder aux informations sur l'appareil"</string>
-  <string name="usage_home_premission_main_summary">"Bienvenue sur le gestionnaire d'utilisation ! Vous pouvez utiliser cette application pour définir des limites de temps d'utilisation, afficher les statistiques et passer en mode de mise au point. Cette application doit collecter des informations sur le temps d'écran (par exemple, le nombre de fois que vous déverrouillez votre téléphone et allumez l'écran, ainsi que le temps d'utilisation des applications) pour fonctionner normalement."</string>
-  <string name="usage_home_premission_main_summary_new">"Bienvenue à Screen Time !
+  <string name="usage_home_premission_main_summary">"Bienvenue sur le gestionnaire d'utilisation ! Vous pouvez utiliser cette application pour définir des limites de temps d'utilisation, afficher les statistiques et passer en mode de mise au point. Cette application doit collecter des informations sur le temps d'écran (par exemple, le nombre de fois que vous déverrouillez votre téléphone et allumez l'écran, ainsi que le temps d'utilisation des applications) pour fonctionner normalement."</string>
+  <string name="usage_home_premission_main_summary_new">"Bienvenue à Screen Time !
 Pour pouvoir fonctionner normalement, cette application doit collecter des informations sur le temps d'écran: le nombre de fois que vous déverrouillez votre téléphone, les noms des applications et la durée d'utilisation de l'application sont nécessaires pour générer des statistiques de temps d'écran; Les paramètres du mode de mise au point sont requis pour générer des statistiques du mode de mise au point.
 Cette application doit également se connecter à internet et nécessite les autorisations suivantes pour collecter vos informations personnelles:"</string>
-  <string name="usage_home_premission_main_summary_new_o">"Bienvenue à Screen Time !
+  <string name="usage_home_premission_main_summary_new_o">"Bienvenue à Screen Time !
 Pour pouvoir fonctionner normalement, cette application doit collecter des informations sur le temps d'écran: le nombre de fois que vous déverrouillez votre téléphone, les noms des applications et la durée d'utilisation de l'application sont nécessaires pour générer des statistiques de temps d'écran.
 Cette application doit également se connecter à internet et nécessite les autorisations suivantes pour collecter vos informations personnelles:"</string>
   <string name="usage_home_premission_second_summary">"Pour pouvoir travailler normalement, cette application doit collecter vos informations personnelles. Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité en vigueur."</string>
@@ -476,7 +476,7 @@ Cette application doit également se connecter à internet et nécessite les aut
   <string name="usage_permission_main_desc">"Welcome to Screen time!
 This app needs to connect to the internet and requires the following permissions to be able to work normally:"</string>
   <string name="usage_permission_title">Attention</string>
-  <string name="usage_reach_device_limit">Temps écoulé ! Vous avez atteint la limite fixée.</string>
+  <string name="usage_reach_device_limit">Temps écoulé ! Vous avez atteint la limite fixée.</string>
   <string name="usage_reach_device_limit_warning_text">"Vous avez atteint la limite d'utilisation pour aujourd'hui"</string>
   <string name="usage_refresh">Réessayer</string>
   <string name="usage_request_error_summary">Une erreur inconnue est survenue</string>
@@ -621,7 +621,7 @@ This app needs to connect to the internet and requires the following permissions
   <string name="usagestats_device_notification_des_over">"Vous avez déjà atteint votre limite de temps d'utilisation aujourd'hui."</string>
   <string name="usagestats_device_notification_des_reset">"Limite d'aujourd'hui: %1$s | %2$s restant"</string>
   <string name="usagestats_device_notification_title">"Alerte de temps d'utilisation"</string>
-  <string name="usagestats_device_timeout_des">"Vous utilisez votre appareil depuis %1$d h %2$d m aujourd'hui. Reposez-vous !"</string>
+  <string name="usagestats_device_timeout_des">"Vous utilisez votre appareil depuis %1$d h %2$d m aujourd'hui. Reposez-vous !"</string>
   <string name="usagestats_device_timeout_negative">Rappeler dans 1 heure</string>
   <string name="usagestats_device_timeout_positive">Vu</string>
   <string name="usagestats_device_timeout_title">"Alerte de temps d'utilisation"</string>

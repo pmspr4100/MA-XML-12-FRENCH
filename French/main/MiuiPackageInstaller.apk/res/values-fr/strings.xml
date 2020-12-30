@@ -72,7 +72,7 @@
   <string name="app_permissions_group_summary">%1$d à %2$d applications autorisées</string>
   <string name="app_store_install_hint">Installer maintenant</string>
   <string name="app_store_installing_message">Installation…</string>
-  <string name="app_store_missing_message">"Il semble que vous n'ayez pas installé notre App Store officiel. Installez-le maintenant ?"</string>
+  <string name="app_store_missing_message">"Il semble que vous n'ayez pas installé notre App Store officiel. Installez-le maintenant ?"</string>
   <string name="app_store_missing_title">"L'App Store n'est pas installé"</string>
   <string name="application_detail_tips">"Détails de l'application et permissions requises"</string>
   <string name="auto_startup_dialog_msg">Cette application peut démarrer sans votre autorisation.</string>
@@ -96,7 +96,7 @@
 
 Toutes vos données utilisateur précédentes seront enregistrées."</string>
   <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) remplacera la version actuellement installée (%3$s). Toutes les données d'application existantes seront enregistrées."</string>
-  <string name="dlg_app_replacement_title">"Remplacer l'application ?"</string>
+  <string name="dlg_app_replacement_title">"Remplacer l'application ?"</string>
   <string name="dlg_appstore_notice">"Nous ne pouvons pas vérifier l'authenticité ou la sécurité des applications à partir de sources extérieures au &lt;u&gt;&lt;font color=#91c727&gt;App Store&lt;/font&gt;&lt;/u&gt;."</string>
   <string name="dlg_game_center_intercept_game_center_install">Installer depuis Mi Games</string>
   <string name="dlg_game_center_intercept_install">Installer quand même</string>
@@ -120,14 +120,14 @@ Toutes vos données utilisateur précédentes seront enregistrées."</string>
   <string name="game_center_intercept_trust_app">Je fais confiance à cette application et je peux faire face à tous les risques possibles.</string>
   <string name="game_center_intercept_warning_msg">"Cette application n'a pas été vérifiée pour les virus par Xiaomi. Installez cette application à partir de Games pour éviter les risques de sécurité."</string>
   <string name="game_center_lunch_error">"Installez d'abord Mi Games"</string>
-  <string name="grant_confirm_question">Voulez-vous accorder les permissions suivantes ? Elle aura accès à:</string>
+  <string name="grant_confirm_question">Voulez-vous accorder les permissions suivantes ? Elle aura accès à:</string>
   <string name="grant_dialog_button_allow">Autoriser</string>
   <string name="grant_dialog_button_deny">Refuser</string>
   <string name="grant_dialog_button_deny_anyway">Refuser quand même</string>
   <string name="high_risk_perms">Permissions à haut risque</string>
   <string name="increment_install_downloading">Téléchargement %1$s</string>
   <string name="increment_install_network_error_cancel">Annuler</string>
-  <string name="increment_install_network_error_msg">"Une erreur réseau s'est produite. Vous pouvez toujours continuer à installer l'application non officielle. Continuer ?"</string>
+  <string name="increment_install_network_error_msg">"Une erreur réseau s'est produite. Vous pouvez toujours continuer à installer l'application non officielle. Continuer ?"</string>
   <string name="increment_install_network_error_ok">Continuer</string>
   <string name="increment_install_network_error_title">Erreur réseau</string>
   <string name="increment_install_pathing">Vérification du package…</string>
@@ -139,13 +139,13 @@ Toutes vos données utilisateur précédentes seront enregistrées."</string>
   <string name="install_confirm_dialog_negative_button">Cancel</string>
   <string name="install_confirm_dialog_positive_button">Install</string>
   <string name="install_confirm_dialog_title">Attention</string>
-  <string name="install_confirm_question">Voulez-vous installer cette application ? Elle aura accès à:</string>
+  <string name="install_confirm_question">Voulez-vous installer cette application ? Elle aura accès à:</string>
   <string name="install_confirm_question_des_10">"If you're willing to take the risks and want to proceed with the installation, authorize the installation in Security &gt; Manage apps &gt; Permissions &gt; Apps with possible risks. If you can't find \"Apps with possible risks\", update your Security app and try again."</string>
-  <string name="install_confirm_question_no_perms">"Voulez-vous installer cette application ? Elle ne nécessite aucune autorisation spéciale."</string>
-  <string name="install_confirm_question_update">"Voulez-vous installer une mise à jour de cette application existante ? Les données d'application existantes ne seront pas perdues. L'application mise à jour aura accès à:"</string>
-  <string name="install_confirm_question_update_no_perms">"Voulez-vous installer une mise à jour de cette application existante ? Les données d'application existantes ne seront pas perdues. Il ne nécessite aucune autorisation spéciale."</string>
-  <string name="install_confirm_question_update_system">"Voulez-vous installer une mise à jour de cette application système ? Les données d'application existantes ne seront pas perdues. L'application mise à jour aura accès à:"</string>
-  <string name="install_confirm_question_update_system_no_perms">"Voulez-vous installer une mise à jour de cette application système ? Les données d'application existantes ne seront pas perdues. Il ne nécessite aucune autorisation spéciale."</string>
+  <string name="install_confirm_question_no_perms">"Voulez-vous installer cette application ? Elle ne nécessite aucune autorisation spéciale."</string>
+  <string name="install_confirm_question_update">"Voulez-vous installer une mise à jour de cette application existante ? Les données d'application existantes ne seront pas perdues. L'application mise à jour aura accès à:"</string>
+  <string name="install_confirm_question_update_no_perms">"Voulez-vous installer une mise à jour de cette application existante ? Les données d'application existantes ne seront pas perdues. Il ne nécessite aucune autorisation spéciale."</string>
+  <string name="install_confirm_question_update_system">"Voulez-vous installer une mise à jour de cette application système ? Les données d'application existantes ne seront pas perdues. L'application mise à jour aura accès à:"</string>
+  <string name="install_confirm_question_update_system_no_perms">"Voulez-vous installer une mise à jour de cette application système ? Les données d'application existantes ne seront pas perdues. Il ne nécessite aucune autorisation spéciale."</string>
   <string name="install_confirm_text_gms">This app is made by Google. Install Google Play services before installing this app. Without this framework, the app might not work properly.</string>
   <string name="install_continue">Installer</string>
   <string name="install_control_cancel_install">Ne pas installer</string>
@@ -186,7 +186,7 @@ Vous pouvez également désactiver le mode lite et réessayer."</string>
   <string name="manage_users">Gérer les utilisateurs</string>
   <string name="menu_hide_system">Masquer le système</string>
   <string name="menu_show_system">Afficher le système</string>
-  <string name="message_appstore_verify_has_new_version">"Une version plus récente de cette application est disponible dans votre App Store. Voulez-vous l'installer ?"</string>
+  <string name="message_appstore_verify_has_new_version">"Une version plus récente de cette application est disponible dans votre App Store. Voulez-vous l'installer ?"</string>
   <string name="message_appstore_verify_inconsistent">"La signature de cette application est différente de celle de l'App Store, il sera plus sûr d'installer l'application à partir de là."</string>
   <string name="message_appstore_verify_ok">"La version de cette application dans l'App Store a passé nos tests de sécurité, nous vous recommandons d'installer l'application à partir de là."</string>
   <string name="message_full_scanning">Analyse complète…</string>
@@ -231,7 +231,7 @@ Vous pouvez également désactiver le mode lite et réessayer."</string>
   <string name="miui_failed_version_downgrade">"Impossible de rétrograder les applications"</string>
   <string name="miui_failed_version_downgrade_space">"Il existe une version plus récente de cette application dans le deuxième espace."</string>
   <string name="miui_help_feedback_label">Aide et commentaires</string>
-  <string name="miui_install_confirm_question">Installer cette application ?</string>
+  <string name="miui_install_confirm_question">Installer cette application ?</string>
   <string name="miui_install_confirm_question_update">"Remplacer l'application existante"?"</string>
   <string name="miui_install_fail">"Impossible d'installer (%d)"</string>
   <string name="miui_install_fail_notify">"Impossible d'installer"</string>
@@ -270,7 +270,7 @@ Vous pouvez également désactiver le mode lite et réessayer."</string>
   <string name="miui_virus_scanning_3">Balayage...</string>
   <string name="miui_virus_title">Risque élevé</string>
   <string name="mobil_net_work_warning_cancel">Annuler</string>
-  <string name="mobil_net_work_warning_msg">"Vous utilisez maintenant les données cellulaires. L'installation de cette application nécessite %1$s des données cellulaires. Installer quand même ?"</string>
+  <string name="mobil_net_work_warning_msg">"Vous utilisez maintenant les données cellulaires. L'installation de cette application nécessite %1$s des données cellulaires. Installer quand même ?"</string>
   <string name="mobil_net_work_warning_ok">Installer quand même</string>
   <string name="mobil_net_work_warning_title">"Avertissement d'utilisation des données"</string>
   <string name="never_ask_again">Ne plus afficher</string>
@@ -313,7 +313,7 @@ Vous pouvez également désactiver le mode lite et réessayer."</string>
   <string name="permission_send_sms_descx">"L'application peut envoyer des SMS et MMS"</string>
   <string name="permission_summary_enforced_by_policy">Requis par la politique</string>
   <string name="permission_title">%1$s permissions</string>
-  <string name="permission_warning_template">Autoriser %1$s à %2$s ?</string>
+  <string name="permission_warning_template">Autoriser %1$s à %2$s ?</string>
   <string name="permlab_togglePermissions">Basculer les permissions</string>
   <string name="pref_ads">Recommendations</string>
   <string name="pref_key_about_privacy_title">Politique de confidentialité</string>
@@ -324,7 +324,7 @@ Vous pouvez également désactiver le mode lite et réessayer."</string>
   <string name="privacyPerms">Privacy</string>
   <string name="privacy_relative">Privacy</string>
   <string name="reboot_time">Se préparer à redémarrer… (%1$s)</string>
-  <string name="replace_app_des_text">"Remplacer l'application par cette version ?"</string>
+  <string name="replace_app_des_text">"Remplacer l'application par cette version ?"</string>
   <string name="review_button_cancel">Annuler</string>
   <string name="review_button_continue">Continuer</string>
   <string name="risk_warning_bottom_button">Installer à partir de GetApps</string>
@@ -341,7 +341,7 @@ Vous pouvez également désactiver le mode lite et réessayer."</string>
   <string name="settings_warning_dialog_detail">"Vous serez invité dans les cas suivants:
 Quand une application contient des virus.
 Le package d'installation provient d'une source inconnue."</string>
-  <string name="settings_warning_dialog_msg">"Votre téléphone est sujet à des risques de sécurité. Vous ne serez pas invité à installer des versions d'applications sécurisées si vous désactivez cette fonctionnalité. Désactiver quand même ?"</string>
+  <string name="settings_warning_dialog_msg">"Votre téléphone est sujet à des risques de sécurité. Vous ne serez pas invité à installer des versions d'applications sécurisées si vous désactivez cette fonctionnalité. Désactiver quand même ?"</string>
   <string name="settings_warning_dialog_title">Attention</string>
   <string name="spannable_continue_text">I understand the risks. Install anyway.</string>
   <string name="system_warning">Si vous refusez cette autorisation, les fonctionnalités de base de votre appareil peuvent ne plus fonctionner comme prévu.</string>
@@ -349,21 +349,21 @@ Le package d'installation provient d'une source inconnue."</string>
   <string name="trust_switch_dialog_msg">"Ne vous demandera pas lorsque cette application accède à vos contacts, messages, mots de passe ou à d'autres parties du système."</string>
   <string name="uninstall_activity_text">"%1$s fait partie de l'application suivante:"</string>
   <string name="uninstall_all_blocked_profile_owner">This app is required for some users or profiles and was uninstalled for others</string>
-  <string name="uninstall_application_text">Voulez-vous désinstaller cette application ?</string>
-  <string name="uninstall_application_text_all_users">"Voulez-vous désinstaller cette application pour &lt;b&gt;all&lt;/b&gt; utilisateurs ? L'application et ses données seront supprimées de &lt;b&gt;all&lt;/b&gt; utilisateurs sur l'appareil."</string>
-  <string name="uninstall_application_text_user">"Voulez-vous désinstaller cette application pour l'utilisateur %1$s ?"</string>
+  <string name="uninstall_application_text">Voulez-vous désinstaller cette application ?</string>
+  <string name="uninstall_application_text_all_users">"Voulez-vous désinstaller cette application pour &lt;b&gt;all&lt;/b&gt; utilisateurs ? L'application et ses données seront supprimées de &lt;b&gt;all&lt;/b&gt; utilisateurs sur l'appareil."</string>
+  <string name="uninstall_application_text_user">"Voulez-vous désinstaller cette application pour l'utilisateur %1$s ?"</string>
   <string name="uninstall_application_title">"Désinstaller l'application"</string>
   <string name="uninstall_blocked_device_owner">"Cette application est requise par l'administrateur de votre appareil et ne peut pas être désinstallée."</string>
   <string name="uninstall_blocked_profile_owner">"Cette application est nécessaire pour votre profil et ne peut pas être désinstallée."</string>
-  <string name="uninstall_confirm_question">Désinstaller cette application ?</string>
+  <string name="uninstall_confirm_question">Désinstaller cette application ?</string>
   <string name="uninstall_done">Désinstallé avec succès</string>
   <string name="uninstall_failed">Impossible de désinstaller</string>
   <string name="uninstall_failed_device_policy_manager">"Impossible de désinstaller car ce package est un administrateur de périphérique actif."</string>
   <string name="uninstall_failed_device_policy_manager_of_user">"Impossible de désinstaller car ce package est un administrateur de périphérique actif pour l'utilisateur %1$s."</string>
   <string name="uninstall_failed_msg">"%1$s n'a pas pu être désinstallé."</string>
   <string name="uninstall_failed_retained_app_msg">"Cette application a été modifiée et ne peut pas être désinstallée dans sa forme actuelle."</string>
-  <string name="uninstall_update_text">"Remplacer cette application par la version d'usine ? Toutes les données seront supprimées."</string>
-  <string name="uninstall_update_text_multiuser">"Remplacer cette application par la version d'usine ? Toutes les données seront supprimées. Cela affecte tous les utilisateurs de cet appareil, y compris ceux qui ont des profils professionnels."</string>
+  <string name="uninstall_update_text">"Remplacer cette application par la version d'usine ? Toutes les données seront supprimées."</string>
+  <string name="uninstall_update_text_multiuser">"Remplacer cette application par la version d'usine ? Toutes les données seront supprimées. Cela affecte tous les utilisateurs de cet appareil, y compris ceux qui ont des profils professionnels."</string>
   <string name="uninstall_update_title">Désinstaller la mise à jour</string>
   <string name="uninstalling">Désinstallation…</string>
   <string name="unknown">Inconnu</string>
@@ -372,7 +372,7 @@ Le package d'installation provient d'une source inconnue."</string>
   <string name="unknown_installer">Outils PC non identifiés</string>
   <string name="unlike">Non merci</string>
   <string name="untrusted_external_source_always_click">Toujours autoriser</string>
-  <string name="untrusted_external_source_title">Autoriser \"%1$s\" à installer des applications ?</string>
+  <string name="untrusted_external_source_title">Autoriser \"%1$s\" à installer des applications ?</string>
   <string name="untrusted_external_source_warning">"Pour votre sécurité, votre téléphone n'est pas autorisé à installer des applications inconnues à partir de cette source."</string>
   <string name="untrusted_external_source_warning_summary">"Votre appareil et vos données personnelles sont vulnérables aux attaques des applications installées à partir de sources inconnues. En permettant d'installer des applications à partir de cette source, vous acceptez d'assumer la responsabilité de tout dommage ou perte de données qui pourrait survenir lors de l'utilisation de ces applications."</string>
   <string name="user_is_not_allowed_dlg_text">"L'utilisateur actuel n'est pas autorisé à effectuer cette désinstallation."</string>

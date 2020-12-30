@@ -407,10 +407,10 @@
   <string name="corpus_hint_apps">Rechercher des applications</string>
   <string name="corpus_label_apps">Applications</string>
   <string name="cta_desc">Toutes les fonctionnalités importantes en un seul endroit</string>
-  <string name="cta_dialog_miot_text_all">"Pour garantir son fonctionnement normal, Mi Home peut avoir besoin d’acquérir votre réseau, votre emplacement, l’autorisation d’activer votre Bluetooth, d’utiliser votre réseau cellulaire, votre microphone et de lire vos contacts. Confirmez-vous ?"</string>
+  <string name="cta_dialog_miot_text_all">"Pour garantir son fonctionnement normal, Mi Home peut avoir besoin d’acquérir votre réseau, votre emplacement, l’autorisation d’activer votre Bluetooth, d’utiliser votre réseau cellulaire, votre microphone et de lire vos contacts. Confirmez-vous ?"</string>
   <string name="cta_dialog_negative">Quitter</string>
   <string name="cta_dialog_positive">Accepter</string>
-  <string name="cta_dialog_text_all">"Pour utiliser le coffre d'applications, vous devez lire et accepter %1$s\"Accord de l'utilisateur\" %2$s et %3$s \"Politique de confidentialité\" %4$s. Le service nécessite également une connexion internet et un accès aux services de localisation. Le récupérateur de contenu utilisé par certains services nécessite également une connexion internet. accepter-vous ?"</string>
+  <string name="cta_dialog_text_all">"Pour utiliser le coffre d'applications, vous devez lire et accepter %1$s\"Accord de l'utilisateur\" %2$s et %3$s \"Politique de confidentialité\" %4$s. Le service nécessite également une connexion internet et un accès aux services de localisation. Le récupérateur de contenu utilisé par certains services nécessite également une connexion internet. accepter-vous ?"</string>
   <string name="cta_dialog_text_new_user">"Avant d'utiliser le coffre d'applications, vous devez accepter les conditions d'utilisation de Xiaomi. %1$s\"Accord de l'utilisateur\"%2$s, %3$s\"Politique de confidentialité\"%4$s, et %5$s\"Politique de confidentialité du coffre d'applications\"%6$s. Le coffre d’application doit se connecter à internet et accéder aux informations de votre position pour fonctionner normalement. Appuyez sur \"Démarrer\" pour accepter."</string>
   <string name="cta_dialog_text_old_user">"Avant d'utiliser le coffre d'applications, vous devez accepter %1$s\"Politique de confidentialité du coffre d'applications\"%2$s. Appuyez \"Démarrer\" pour accpter."</string>
   <string name="cta_dialog_title">Termes et conditions</string>
@@ -445,7 +445,7 @@
   <string name="dialog_cancel_like">Deleted mark successfully</string>
   <string name="dialog_delete_cancel">Annuler</string>
   <string name="dialog_delete_delete">Supprimer</string>
-  <string name="dialog_delete_desc">Retirer des favoris ?</string>
+  <string name="dialog_delete_desc">Retirer des favoris ?</string>
   <string name="dialog_delete_title">Retirer des favoris</string>
   <string name="dialog_font_background">Contexte</string>
   <string name="dialog_font_light">Luminosité</string>
@@ -718,7 +718,7 @@ Check your tracking number."</string>
   <string name="fav_category_shopping">Shopping</string>
   <string name="fav_category_video">Vidéos</string>
   <string name="fav_detail_nodata">Impossible de trouver des informations</string>
-  <string name="fav_download">Téléchargez et installez cette application ?</string>
+  <string name="fav_download">Téléchargez et installez cette application ?</string>
   <string name="fav_init_guide_title">À propos des favoris</string>
   <string name="fav_label">Favoris</string>
   <string name="fav_more">Tous les favoris</string>
@@ -849,13 +849,13 @@ Check your tracking number."</string>
   <string name="launch_order_change">Change order</string>
   <string name="launch_order_finish">Terminé</string>
   <string name="launch_setting_alipay_change">Changer de compte</string>
-  <string name="launch_setting_alipay_change_msg">Vous devez vous déconnecter de votre compte Alipay actuel pour changer de compte. Changer maintenant ?</string>
+  <string name="launch_setting_alipay_change_msg">Vous devez vous déconnecter de votre compte Alipay actuel pour changer de compte. Changer maintenant ?</string>
   <string name="launch_setting_alipay_change_posi">Basculer</string>
   <string name="launch_setting_alipay_getversion">Get version number</string>
   <string name="launch_setting_alipay_login">Se connecter</string>
   <string name="launch_setting_alipay_logout">Déconnexion</string>
   <string name="launch_setting_alipay_logout_fail">"Impossible de se déconnecter"</string>
-  <string name="launch_setting_alipay_logout_msg">Déconnexion du compte Alipay ?</string>
+  <string name="launch_setting_alipay_logout_msg">Déconnexion du compte Alipay ?</string>
   <string name="launch_setting_alipay_logout_posi">Déconnexion</string>
   <string name="launch_setting_alipay_logout_success">Déconnecté avec succès</string>
   <string name="launch_top">"Ouvrez des fonctionnalités spécifiques d'applications populaires"</string>
@@ -930,7 +930,7 @@ Check your tracking number."</string>
   <string name="miot_abnormal_device">Appareils avec erreurs</string>
   <string name="miot_auth_btn">Synchroniser</string>
   <string name="miot_auth_content">Utilisez App Vault pour contrôler vos appareils domestiques intelligents</string>
-  <string name="miot_auth_dialog_content">"Synchroniser les données de vos appareils domestiques intelligents avec le coffre d'application ?"</string>
+  <string name="miot_auth_dialog_content">"Synchroniser les données de vos appareils domestiques intelligents avec le coffre d'application ?"</string>
   <string name="miot_auth_dialog_neg_btn">Non merci</string>
   <string name="miot_auth_dialog_pos_btn">Synchroniser</string>
   <string name="miot_auth_dialog_title">Synchroniser les données</string>
@@ -958,9 +958,9 @@ Check your tracking number."</string>
   <string name="miot_device_introduction">"Balayez vers le bas dans le coffre d'applications pour voir les commandes de maison intelligente disponibles."</string>
   <string name="miot_device_loading">Chargement…</string>
   <string name="miot_device_login">Se connecter</string>
-  <string name="miot_device_mijia_logout_message">"Vous devez vous connecter avec votre compte Mi avant d'ajouter ou d'utiliser un appareil. Voulez-vous vous connecter maintenant ?"</string>
+  <string name="miot_device_mijia_logout_message">"Vous devez vous connecter avec votre compte Mi avant d'ajouter ou d'utiliser un appareil. Voulez-vous vous connecter maintenant ?"</string>
   <string name="miot_device_mijia_logout_title">Pas connecté</string>
-  <string name="miot_device_mijia_uninstall_message">"L'application Mi Home n'est pas installée. Voulez-vous le télécharger en utilisant votre magasin d'applications ?"</string>
+  <string name="miot_device_mijia_uninstall_message">"L'application Mi Home n'est pas installée. Voulez-vous le télécharger en utilisant votre magasin d'applications ?"</string>
   <string name="miot_device_mijia_uninstall_title">Pas installé</string>
   <string name="miot_device_network_error">Pas de connection</string>
   <string name="miot_device_opening">Appareil activer</string>
@@ -1011,7 +1011,7 @@ Check your tracking number."</string>
   <string name="navigation_network_location_enable">Accepter</string>
   <string name="navigation_network_location_enable_later">Annuler</string>
   <string name="navigation_network_location_enabled">Les services de localisation sont activés. Vous pouvez changer cela dans les paramètres.</string>
-  <string name="navigation_network_location_not_enabled_summary">Se connecter au réseau et activer les services de localisation. Accepter ?</string>
+  <string name="navigation_network_location_not_enabled_summary">Se connecter au réseau et activer les services de localisation. Accepter ?</string>
   <string name="navigation_network_location_not_enabled_title">Activer les services de localisation</string>
   <string name="navigation_search_automatically_positioned_city">Current location</string>
   <string name="navigation_search_current_city">Current city:</string>
@@ -1216,7 +1216,7 @@ Check your tracking number."</string>
   <string name="setting_disable">Désactivé</string>
   <string name="setting_fav_authorize">"Autoriser l'accès à tous les favoris de votre appareil"</string>
   <string name="setting_fav_notification">Notifier chaque fois que quelque chose est ajouté aux favoris</string>
-  <string name="setting_fav_remove_content">"La carte sera supprimée une fois que vous aurez restreint l'accès aux favoris. Restreindre quand même ?"</string>
+  <string name="setting_fav_remove_content">"La carte sera supprimée une fois que vous aurez restreint l'accès aux favoris. Restreindre quand même ?"</string>
   <string name="setting_fav_remove_neg">Annuler</string>
   <string name="setting_fav_remove_posi">Restreindre</string>
   <string name="setting_fav_remove_title">Restreindre</string>
@@ -1413,7 +1413,7 @@ Check your tracking number."</string>
   <string name="weibo_parent">Weibo</string>
   <string name="whatsapp_parent">WhatsApp</string>
   <string name="whatsapp_photos">Photos</string>
-  <string name="which_transport">Comment vous rendez-vous normalement à votre destination ?</string>
+  <string name="which_transport">Comment vous rendez-vous normalement à votre destination ?</string>
   <string name="widget_fav">Favoris</string>
   <string name="widget_fav_open">Afficher la carte préférée</string>
   <string name="widget_fav_setting_brief">Enregistrer les favoris de plusieurs applications ici</string>

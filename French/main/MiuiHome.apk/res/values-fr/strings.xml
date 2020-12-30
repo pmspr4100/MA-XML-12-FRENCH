@@ -2,7 +2,7 @@
 <resources>
   <string name="alexa_notification_add">Ajouter</string>
   <string name="alexa_notification_cancel">Pas maintenant</string>
-  <string name="alexa_notification_content">Ajouter le raccourci Alexa au Centre de contrôle ?</string>
+  <string name="alexa_notification_content">Ajouter le raccourci Alexa au Centre de contrôle ?</string>
   <string name="all_apps_setting_letter_scrollbar">A-Z</string>
   <string name="app_name">matrix-android-commons</string>
   <string name="auto_disable_screenbuttons_summary">Appuyez 2 fois sur un bouton de navigation pour réactiver</string>
@@ -121,7 +121,7 @@
   <string name="all_apps_setting_desktop_desc">"Afficher toutes les applications installées sur l'écran d'accueil. Appuyez longuement sur l'icône d'une application pour voir les raccourcis disponibles, gérer ou désinstaller l'application."</string>
   <string name="all_apps_setting_desktop_title">MIUI</string>
   <string name="all_apps_setting_drawer_desc">"Placez toutes les applications installées dans le tiroir d'applications, que vous pouvez ouvrir en faisant glisser l'écran d'accueil vers le haut. Vous pourrez toujours trouver les applications que vous avez déplacées vers l'écran d'accueil dans le tiroir d'applications."</string>
-  <string name="all_apps_setting_drawer_tips_desc">"Le tiroir d'applications s'ouvre en faisant glisser l'écran d'accueil vers le haut. Le passage en mode écran d'accueil avec App tiroir rendra la recherche indisponible. Changer quand même ?"</string>
+  <string name="all_apps_setting_drawer_tips_desc">"Le tiroir d'applications s'ouvre en faisant glisser l'écran d'accueil vers le haut. Le passage en mode écran d'accueil avec App tiroir rendra la recherche indisponible. Changer quand même ?"</string>
   <string name="all_apps_setting_drawer_tips_title">"Utilisé le tiroir d'applications"</string>
   <string name="all_apps_setting_drawer_title">"Tiroir d'applications"</string>
   <string name="all_apps_setting_original_scrollbar">Mise en page originale</string>
@@ -195,7 +195,7 @@
   <string name="aqi_quality_index_moderate">Modérée</string>
   <string name="aqi_quality_index_unhealthy">Malsain</string>
   <string name="auto_add_app_shortcut">"Ajouter des applications nouvellement installées à l'écran d'accueil"</string>
-  <string name="auto_delete_category_dialog_content">Les applications actuelles seront supprimées de cette catégorie et la catégorie sera supprimée. Supprimer cette catégorie maintenant ?</string>
+  <string name="auto_delete_category_dialog_content">Les applications actuelles seront supprimées de cette catégorie et la catégorie sera supprimée. Supprimer cette catégorie maintenant ?</string>
   <string name="auto_delete_category_dialog_title">"Suppression d'une catégorie"</string>
   <string name="back">Retour</string>
   <string name="backup_fail">Impossible de sauvegarder le lanceur</string>
@@ -212,7 +212,7 @@
   <string name="category_cannot_empty">Entrez la catégorie en premier</string>
   <string name="category_choose_no_app_select_tip">Chaque catégorie doit contenir au moins 1 application.</string>
   <string name="category_drawer_name_hint">Entrez le nom de la catégorie</string>
-  <string name="category_edit_back_confirm_dialog_content">Enregistrer les modifications maintenant ?</string>
+  <string name="category_edit_back_confirm_dialog_content">Enregistrer les modifications maintenant ?</string>
   <string name="category_edit_back_confirm_dialog_negative_button">Ne pas enregistrer</string>
   <string name="category_edit_back_confirm_dialog_positive_button">Enregistrer</string>
   <string name="category_group">Classer les applications</string>
@@ -225,7 +225,7 @@
   <string name="common_home_search_delete">"Suppression de la barre de recherche écran d'accueil"</string>
   <string name="common_home_search_delete_cancle">Annuler</string>
   <string name="common_home_search_delete_confirm">Supprimer</string>
-  <string name="common_home_search_delete_content">"Vous ne pourrez pas rechercher des données depuis la barre de recherche de l'écran d'accueil après l'avoir supprimée. Supprimer quand même ?"</string>
+  <string name="common_home_search_delete_content">"Vous ne pourrez pas rechercher des données depuis la barre de recherche de l'écran d'accueil après l'avoir supprimée. Supprimer quand même ?"</string>
   <string name="configure_wallpaper">Paramètres</string>
   <string name="confirm_btn_label">OK</string>
   <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Les applications clonées seront désinstallées avec celle-ci.</string>
@@ -252,10 +252,10 @@
   <string name="default_folder_title_tools">Outils</string>
   <string name="default_screen_preview_title">"Définir l'écran par défaut"</string>
   <string name="delete">Supprimer</string>
-  <string name="delete_category_dialog_content">"Vous ne pourrez pas restaurer cette catégorie si vous la supprimez. Supprimer quand même ?"</string>
-  <string name="delete_category_dialog_title">Supprimer cette catégorie ?</string>
+  <string name="delete_category_dialog_content">"Vous ne pourrez pas restaurer cette catégorie si vous la supprimez. Supprimer quand même ?"</string>
+  <string name="delete_category_dialog_title">Supprimer cette catégorie ?</string>
   <string name="delete_screen">Supprimer un écran</string>
-  <string name="delete_wallpaper_message">"Supprimer %1$d fond d'écran ?"</string>
+  <string name="delete_wallpaper_message">"Supprimer %1$d fond d'écran ?"</string>
   <string name="deselect_all">Tout désélectionner</string>
   <string name="disable_wallpaper_scroll">Désactiver le défilement</string>
   <string name="double_tap_to_lock_title">"Appuyez deux fois pour verrouiller l'écran"</string>
@@ -345,8 +345,8 @@
   <string name="group_folder">Nouveau dossier</string>
   <string name="group_live_folders">Dossiers</string>
   <string name="group_shortcuts">Raccourcis</string>
-  <string name="guide_install_app_msg">"Cette application n'est pas installée sur votre appareil. Retrouvez et installez l'application maintenant ?"</string>
-  <string name="guide_install_app_title">"Trouver et installer l'application ?"</string>
+  <string name="guide_install_app_msg">"Cette application n'est pas installée sur votre appareil. Retrouvez et installez l'application maintenant ?"</string>
+  <string name="guide_install_app_title">"Trouver et installer l'application ?"</string>
   <string name="guide_tips_editing_mode">Appuyez et maintenez pour prendre un widget</string>
   <string name="hide_apps_title">Masquer les icônes des applications</string>
   <string name="home_gesture_content_center">Centre de contenu</string>
@@ -454,7 +454,7 @@
   <string name="online_wallpaper">En ligne</string>
   <string name="open_personal_assistant_dialog_btn_cancel">Annuler</string>
   <string name="open_personal_assistant_dialog_btn_confirm">Désactiver</string>
-  <string name="open_personal_assistant_dialog_desc">"Vous ne pourrez plus utiliser le coffre d'applications et recevoir ses mises à jour. Désactiver maintenant ?"</string>
+  <string name="open_personal_assistant_dialog_desc">"Vous ne pourrez plus utiliser le coffre d'applications et recevoir ses mises à jour. Désactiver maintenant ?"</string>
   <string name="open_personal_assistant_dialog_desc_international">"Vous ne pourrez pas utiliser les cartes du coffre d'applications (Stocks, Raccourcis, etc.) et recevoir des mises à jour après avoir désactivé cette fonctionnalité."</string>
   <string name="open_personal_assistant_dialog_title">"Désactiver le coffre d'applications"</string>
   <string name="open_personal_assistant_title">"Activer le coffre d'applications"</string>
@@ -530,14 +530,14 @@
   <string name="recommend_refresh">Actualiser</string>
   <string name="recommend_xout">Ne pas afficher</string>
   <string name="remove_invalidate_gadget_tips">"L'un des widgets que vous utilisez n'est plus disponible. Vous pouvez en ajouter un autre."</string>
-  <string name="reset_cate_tip_content">"Si vous continuez, les groupes d'applications par défaut seront restaurés. Continuer quand même ?"</string>
+  <string name="reset_cate_tip_content">"Si vous continuez, les groupes d'applications par défaut seront restaurés. Continuer quand même ?"</string>
   <string name="reset_cate_tip_title">Restaurer les groupes par défaut</string>
   <string name="reset_description_first_time">Vous pouvez restaurer la disposition de %1$s dans les 2 heures</string>
   <string name="reset_description_others">Vous pouvez restaurer la disposition de %1$s</string>
   <string name="reset_fail">Impossible de restaurer</string>
   <string name="reset_scene_prompt">"L'écran sera réinitialisé à la disposition par défaut."</string>
   <string name="reset_title">Restaurer</string>
-  <string name="resource_canary_leak_tip">il a une fuite !</string>
+  <string name="resource_canary_leak_tip">il a une fuite !</string>
   <string name="resource_canary_wait_for_heapdump_message">Dumping heap snapshot...</string>
   <string name="screen_cells_config_title">"Modifier la disposition de l'écran d'accueil"</string>
   <string name="screen_locked_toast">"La disposition de l'écran d'accueil est verrouillée."</string>
@@ -599,12 +599,12 @@
   <string name="transformation_type_stack">Cascade</string>
   <string name="uninstall">Désinstaller</string>
   <string name="uninstall_dialog_message">"La désinstallation va supprimer toutes les données de l'application."</string>
-  <string name="uninstall_dialog_title_format">Désinstaller %s ?</string>
+  <string name="uninstall_dialog_title_format">Désinstaller %s ?</string>
   <string name="uninstall_result_failed">Impossible de désinstaller %s</string>
   <string name="uninstall_result_succeeded">Désinstallé avec succès</string>
   <string name="uninstall_with_xspace_dialog_message">Les applications clonées correspondantes seront supprimées avec les données des applications.</string>
   <string name="uninstall_xspace_dialog_message">"Désinstaller une application clonée supprimera toutes les données de l'application."</string>
-  <string name="uninstall_xspace_dialog_title_format">"Désinstaller l'application clônée \"%s\" ?"</string>
+  <string name="uninstall_xspace_dialog_title_format">"Désinstaller l'application clônée \"%s\" ?"</string>
   <string name="unknown_artist_name">Artiste inconnu</string>
   <string name="unnamed_folder_name">Dossier</string>
   <string name="wallpaper">"Fond d'écran"</string>

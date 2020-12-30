@@ -28,7 +28,7 @@
   <string name="activate_phone_cancel_notif_title_msim">Activation de la carte SIM %d annulée</string>
   <string name="activate_phone_failed_notif_title">"Impossible d'activer la carte SIM"</string>
   <string name="activate_phone_failed_notif_title_msim">"Impossible d'activer la carte SIM %d"</string>
-  <string name="activate_phone_failed_notif_title_sim">"Couldn't activate %2$s using SIM %1$d"</string>
+  <string name="activate_phone_failed_notif_title_sim">"Impossible d'activer %2$s en utilisant la SIM %1$d"</string>
   <string name="activate_phone_register_xiaomi_account_success_notif_title_sim">Compte Mi créé avec la carte SIM %d avec succès</string>
   <string name="activate_phone_registered_xiaomi_account_failed_notif_title_sim">"Impossible de créer un compte Mi avec la carte SIM %d"</string>
   <string name="activate_phone_server_failed_notif_title">"Impossible d'activer %s"</string>
@@ -152,14 +152,14 @@ Entrez le numéro de téléphone associé à votre nouvelle carte SIM pour réac
   <string name="explain_send_sms_permission_msg">"Pour activer %s, le service de Framework de Xiaomi vous enverra un SMS pour vérifier votre numéro de téléphone. Vous serez facturé pour le prix d'un SMS normal par l'opérateur."</string>
   <string name="explain_send_sms_permission_title">Vérifiez votre numéro de téléphone</string>
   <string name="phone_get_processing">"En cours d'obtention…"</string>
-  <string name="phone_get_text">Autorisez-vous %1$s à obtenir votre numéro de téléphone (%2$s) ?</string>
+  <string name="phone_get_text">Autorisez-vous %1$s à obtenir votre numéro de téléphone (%2$s) ?</string>
   <string name="phone_get_title">Autoriser %1$s à obtenir votre numéro de téléphone</string>
   <string name="phone_verify_processing">Vérification en cours…</string>
-  <string name="phone_verify_text">"%1$s n'obtiendra pas votre numéo de téléphone. L'application s'assurera que le numéro est valide. Accepter ?"</string>
+  <string name="phone_verify_text">"%1$s n'obtiendra pas votre numéro de téléphone. L'application s'assurera que le numéro est valide. Accepter ?"</string>
   <string name="phone_verify_title">Autoriser %1$s à vérifier votre numéro de téléphone</string>
   <string name="privacy_revoke_failed_msg">"L'activation nécessite une autorisation afin que Messages puisse obtenir votre numéro de téléphone."</string>
   <string name="privacy_revoke_failed_msg_tip">"Autorisez ce service à accéder d'abord à votre numéro de téléphone."</string>
-  <string name="privacy_revoke_tips">"Après avoir révoqué l'autorisation, l'application cessera de collecter vos données et supprimera toutes vos données de ses serveurs. La synchronisation avec Mi Cloud, Mi Message et autres fonctionnalités de Messages ne seront plus disponibles. Révoquer l'autorisation quand même ?"</string>
+  <string name="privacy_revoke_tips">"Après avoir révoqué l'autorisation, l'application cessera de collecter vos données et supprimera toutes vos données de ses serveurs. La synchronisation avec Mi Cloud, Mi Message et autres fonctionnalités de Messages ne seront plus disponibles. Révoquer l'autorisation quand même ?"</string>
   <string name="sim_activated_failed_msg">"Impossible d'activer le service. Appuyez pour réessayer."</string>
   <string name="sim_unactivated_feature_title">"%s n'était pas activé"</string>
   <string name="sim_unactivated_msg">"Ce service n'est pas activé. Appuyez pour réessayer."</string>

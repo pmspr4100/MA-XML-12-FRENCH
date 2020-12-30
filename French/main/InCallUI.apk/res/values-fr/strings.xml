@@ -3,7 +3,7 @@
   <string name="ai_assistant">"Assistant d'appel IA"</string>
   <string name="ai_assistant_not_installed">"Installez d'abord l'assistant d'appel IA"</string>
   <string name="enter_ai_assistant">Utilisation</string>
-  <string name="enter_ai_assistant_tip">"L'IA peut convertir du texte en parole s'il ne vous convient pas de parler maintenant. Utiliser l'IA pour cet appel ?"</string>
+  <string name="enter_ai_assistant_tip">"L'IA peut convertir du texte en parole s'il ne vous convient pas de parler maintenant. Utiliser l'IA pour cet appel ?"</string>
   <string name="video_call_downgrade_insufficient_bandwidth">Bande passante insuffisante, rétrogradation en appel vocal</string>
   <string name="inCallLabel">Téléphone</string>
   <string name="incall_bubble_hangup_click_hint">Appuyez à nouveau pour revenir à appeler</string>
@@ -77,7 +77,7 @@
   <string name="card_title_on_hold">"En attente "</string>
   <string name="card_title_hanging_up">"Fin de l'appel "</string>
   <string name="card_title_hanging_up_fail">"Impossible de terminer l'appel, réessayez."</string>
-  <string name="card_title_hanging_up_weak_signal">"Signal du réseau mobile faible ! Fin de l'appel…"</string>
+  <string name="card_title_hanging_up_weak_signal">"Signal du réseau mobile faible ! Fin de l'appel…"</string>
   <string name="card_title_hanging_up_restart">Impossible de terminer un appel. Redémarrez votre appareil.</string>
   <string name="card_title_in_call">Appel en cours</string>
   <string name="card_title_in_call_short">Appel en cours</string>
@@ -125,14 +125,14 @@
   <string name="description_message_list_title">Liste des réponses rapides</string>
   <string name="ok">OK</string>
   <string name="cancel">Annuler</string>
-  <string name="wait_prompt_str">"Envoyer les tonalités suivantes ?
+  <string name="wait_prompt_str">"Envoyer les tonalités suivantes ?
 "</string>
   <string name="pause_prompt_yes">Oui</string>
   <string name="pause_prompt_no">Non</string>
   <string name="waiting_close_airplane_mode">Chargement…</string>
   <string name="wifi_call">Appel VoWiFi</string>
   <string name="unlock_phone">"Déverrouiller l'appareil"</string>
-  <string name="remind_unlock_message">Votre appareil est actuellement verrouillé. \"%s\" sera disponible lorsque vous déverrouillerez votre appareil. Déverrouiller maintenant ?</string>
+  <string name="remind_unlock_message">Votre appareil est actuellement verrouillé. \"%s\" sera disponible lorsque vous déverrouillerez votre appareil. Déverrouiller maintenant ?</string>
   <string name="user_locked_prompt">"Déverrouiller l'appareil pour accéder aux contacts."</string>
   <string name="package_not_available">"\"%s\" n'est pas disponible"</string>
   <string name="select_voice_call_sim">Choisir une carte SIM</string>
@@ -179,7 +179,7 @@
   <string name="notification_incoming_video_call">Appel vidéo entrant</string>
   <string name="onscreen_message_text">Messages</string>
   <string name="onscreen_close_preview_camera">Fermer</string>
-  <string name="upgrade_vt_prompt">Passer en appel vidéo ?</string>
+  <string name="upgrade_vt_prompt">Passer en appel vidéo ?</string>
   <string name="incoming_answer_voice_text">Réponse vocale</string>
   <string name="picking_participant">"Obtention d'infos du contact…"</string>
   <string name="conference_caller_info_name">Conférence téléphonique avec %1$s</string>

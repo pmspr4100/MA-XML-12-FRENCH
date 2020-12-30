@@ -504,10 +504,10 @@ Bluetooth"</string>
   <string name="cfnry_time_twenty_sec">%d sec</string>
   <string name="cfnry_title">Transférer si pas de réponse</string>
   <string name="cfu_title">Toujours transférer les appels</string>
-  <string name="change_data_preference_4g_only_prompt">"Il semble que vous avez une carte SIM qui a seulement la 4G. Pour vous assurer qu'elle fonctionne normalement, définissez-la comme carte SIM par défaut pour les données mobiles. Définir maintenant ?"</string>
-  <string name="change_data_sim_4g_only_prompt">"La carte SIM %1$s prend en charge uniquement la 4G. Lorsque la carte SIM %2$s n'est pas votre carte SIM de données mobiles par défaut, la carte SIM peut ne pas fonctionner correctement. Basculer maintenant ?"</string>
+  <string name="change_data_preference_4g_only_prompt">"Il semble que vous avez une carte SIM qui a seulement la 4G. Pour vous assurer qu'elle fonctionne normalement, définissez-la comme carte SIM par défaut pour les données mobiles. Définir maintenant ?"</string>
+  <string name="change_data_sim_4g_only_prompt">"La carte SIM %1$s prend en charge uniquement la 4G. Lorsque la carte SIM %2$s n'est pas votre carte SIM de données mobiles par défaut, la carte SIM peut ne pas fonctionner correctement. Basculer maintenant ?"</string>
   <string name="change_default_data_card">Carte SIM par défaut pour les données mobile</string>
-  <string name="change_default_data_card_summary">Il semble que vous changé de carte SIM. Choisir cette carte comme SIM par défaut pour les données mobile ?</string>
+  <string name="change_default_data_card_summary">Il semble que vous changé de carte SIM. Choisir cette carte comme SIM par défaut pour les données mobile ?</string>
   <string name="change_num">Mettre à jour</string>
   <string name="change_password">"Modifier le mot de passe d'interdiction"</string>
   <string name="change_pin">Modifier le code PIN de la carte SIM</string>
@@ -644,10 +644,10 @@ Bluetooth"</string>
   <string name="data_disable_warning_with_mms">"Vous pourrez continuer à envoyer et recevoir des MMS si vous désactivez les données cellulaires (WCDMA/LTE). Pour utiliser internet, connectez-vous au Wi-Fi."</string>
   <string name="data_enable_always_warn">Demander quand utiliser les données cellulaires</string>
   <string name="data_enable_summary">Autoriser la liste blanche à utiliser les données cellulaires</string>
-  <string name="data_enable_warning">Si vous utilisez en permanence les données cellulaires, des frais supplémentaires hors forfait. Se connecter quand même ?</string>
+  <string name="data_enable_warning">Si vous utilisez en permanence les données cellulaires, des frais supplémentaires hors forfait. Se connecter quand même ?</string>
   <string name="data_enabled">Données cellulaires</string>
   <string name="data_plan">Forfaits des données cellulaires</string>
-  <string name="data_usage_disable_mobile">Désactiver les données cellulaires ?</string>
+  <string name="data_usage_disable_mobile">Désactiver les données cellulaires ?</string>
   <string name="data_usage_template">%1$s de données cellulaires utilisées %2$s</string>
   <string name="data_usage_title">Consommation des données</string>
   <string name="data_usage_uninstalled_apps">Applications supprimées</string>
@@ -704,7 +704,7 @@ Bluetooth"</string>
   <string name="development_settings_not_available">Les options proposées aux développeurs ne sont pas disponibles pour cet utilisateur.</string>
   <string name="development_settings_summary">"Définir les options pour le développement de l'application"</string>
   <string name="development_settings_title">Options pour les développeurs</string>
-  <string name="dialFailed_low_battery">Batterie faible ! Impossible de passer un appel vidéo.</string>
+  <string name="dialFailed_low_battery">Batterie faible ! Impossible de passer un appel vidéo.</string>
   <string name="dial_emergency_calling_not_available">"Appels d'urgence non disponibles"</string>
   <string name="dial_emergency_empty_error">"Impossible d'appeler. Veuillez composer un numéro d'urgence."</string>
   <string name="dial_emergency_error">"Impossible de passer un appel. %s n'est pas un numéro d'urgence."</string>
@@ -714,7 +714,7 @@ Bluetooth"</string>
   <string name="dialog_cancel">Annuler</string>
   <string name="dialog_network_priority_title">Réseau prioritaire</string>
   <string name="dialog_ota_change_number_fail">Impossible de changer le numéro de téléphone. Si cette erreur apparaît après une nouvelle tentative, contactez votre vendeur.</string>
-  <string name="dialog_ota_change_number_lgu">Télécharger USIM maintenant ?</string>
+  <string name="dialog_ota_change_number_lgu">Télécharger USIM maintenant ?</string>
   <string name="dialog_ota_change_number_lgu_roaming">"Impossible de modifier des numéros de téléphone depuis l'étranger."</string>
   <string name="dialog_ota_change_number_processing">Téléchargement USIM…</string>
   <string name="dialog_ota_change_number_success">Numéro de téléphone modifié avec succès</string>
@@ -790,7 +790,7 @@ Bluetooth"</string>
   <string name="enable_disable_stock_quotes">Cotations boursières</string>
   <string name="enable_disable_technology_news">Infos de technologie</string>
   <string name="enable_dual_4g_if_dual_ct">Préférez les réseaux 4G pour les deux cartes SIM à utiliser VoLTE sur la carte SIM secondaire lorsque deux cartes SIM China Telecom sont installées.</string>
-  <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE nécessite une connectivité 4G pour les deux tiroirs SIM. Basculer vers la 4G maintenant ?</string>
+  <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE nécessite une connectivité 4G pour les deux tiroirs SIM. Basculer vers la 4G maintenant ?</string>
   <string name="enable_fdn">Activer FDN</string>
   <string name="enable_fdn_ok">Désactiver FDN</string>
   <string name="enable_freeform_support">Activer les fenêtres de forme libre</string>
@@ -884,7 +884,7 @@ Bluetooth"</string>
   <string name="fw_change_failed">"Impossible de modifier le numéro de transfert.
 Veuillez contacter votre opérateur si le problème persiste."</string>
   <string name="fw_get_in_vm_failed">"Impossible de récupérer et d'enregistrer les paramètres actuels du numéro de transfert.
-Voulez-vous tout de même changer de fournisseur ?"</string>
+Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="general_news_settings">Actualités générales</string>
   <string name="general_setting">Paramètres</string>
   <string name="get_pin2">Saisir le code PIN 2</string>
@@ -903,7 +903,7 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="hdcp_checking_title">Vérification HDCP</string>
   <string name="help_feedback_label">Aide et commentaires</string>
   <string name="home">Paramètres</string>
-  <string name="ime_security_warning">"Ce mode de saisie est susceptible d'enregistrer le texte que vous saisissez, y compris vos données personnelles, telles que les mots de passe et les numéros de carte de paiement. Il provient de l'application %1$s. Voulez-vous vraiment l'activer ?"</string>
+  <string name="ime_security_warning">"Ce mode de saisie est susceptible d'enregistrer le texte que vous saisissez, y compris vos données personnelles, telles que les mots de passe et les numéros de carte de paiement. Il provient de l'application %1$s. Voulez-vous vraiment l'activer ?"</string>
   <string name="immediately_destroy_activities">Ne pas conserver activités</string>
   <string name="immediately_destroy_activities_summary">Supprimer immédiatement les activités abandonnées</string>
   <string name="importAllSimEntries">Tout importer</string>
@@ -1116,7 +1116,7 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="mobile_data_activate_button">AJOUTER DES DONNÉES</string>
   <string name="mobile_data_activate_cancel_button">Annuler</string>
   <string name="mobile_data_activate_diag_message">Vous devrez peut-être ajouter des données avec %s</string>
-  <string name="mobile_data_activate_diag_title">Ajouter des données ?</string>
+  <string name="mobile_data_activate_diag_title">Ajouter des données ?</string>
   <string name="mobile_data_activate_footer">"Vous pouvez ajouter un forfait de données cellulaires ou d'itinérance avec votre opérateur %s."</string>
   <string name="mobile_data_activate_prepaid">Pas de donnée cellulaires disponible</string>
   <string name="mobile_data_activate_prepaid_summary">Ajouter des données cellulaires avec %s</string>
@@ -1137,7 +1137,7 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="mock_location_app">"Sélectionner l'application de position fictive"</string>
   <string name="mock_location_app_not_set">Aucune application de position fictive définie</string>
   <string name="mock_location_app_set">Application de position fictive: \"%1$s\"</string>
-  <string name="modem_dialog_body">"Le réseau cellulaires n'est pas stable provoquant ainsi des interruptions ou des problèmes de réseau. Envoyer un rapport de bogue à Mi pour analyse ? Ce rapport peut contenir des informations personnelles identifiables. Votre rapport sera utilisé pour aider à résoudre ce bogue et ne sera jamais partagé dans un contexte commercial."</string>
+  <string name="modem_dialog_body">"Le réseau cellulaires n'est pas stable provoquant ainsi des interruptions ou des problèmes de réseau. Envoyer un rapport de bogue à Mi pour analyse ? Ce rapport peut contenir des informations personnelles identifiables. Votre rapport sera utilisé pour aider à résoudre ce bogue et ne sera jamais partagé dans un contexte commercial."</string>
   <string name="modem_dialog_title">"Le réseau n'est pas stable"</string>
   <string name="modem_set_title">MODEM SETTING</string>
   <string name="modem_setting_button_title">Enter into setting manu</string>
@@ -1148,7 +1148,7 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="msim_default_setting">Paramètres par défaut</string>
   <string name="msim_disable_sim_card_btn_text">OK </string>
   <string name="msim_disable_sim_card_summary_default_card">"Cette carte est actuellement définie comme votre carte SIM par défaut. Si vous arrêtez de l'utiliser, vous ne serez plus en mesure de passer des appels ou d'utiliser votre connexion de données mobile. Vous pourrez arrêter cette carte SIM après avoir défini une autre carte SIM comme votre carte par défaut."</string>
-  <string name="msim_disable_sim_card_summary_non_default_card">"Vous ne pouvez pas être en mesure de passer des appels ou d'utiliser votre connexion de données cellulaires. Arrêter d'utiliser la carte SIM %s ?"</string>
+  <string name="msim_disable_sim_card_summary_non_default_card">"Vous ne pouvez pas être en mesure de passer des appels ou d'utiliser votre connexion de données cellulaires. Arrêter d'utiliser la carte SIM %s ?"</string>
   <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">"Ne pas restreindre votre carte SIM secondaire en mode rappel d'urgence."</string>
   <string name="msim_disable_sim_card_title">"Arrêter d'utiliser la carte SIM"</string>
   <string name="msim_emm_cause_11">"SIM %d carrier doesn't support this service."</string>
@@ -1204,13 +1204,13 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="network_operator_category">Réseau</string>
   <string name="network_query_error">Erreur lors de la recherche de réseaux.</string>
   <string name="network_select_title">Réseau</string>
-  <string name="network_settings_auto_select_title">Choisir un réseau manuellement ?</string>
+  <string name="network_settings_auto_select_title">Choisir un réseau manuellement ?</string>
   <string name="network_settings_automatically_option">Sélectionner automatiquement le réseau préféré (%s)</string>
   <string name="network_settings_confirm_message">Votre appareil va être déconnecté du réseau pendant la recherche de réseaux disponibles.</string>
   <string name="network_settings_data_connected_change">Les données cellualires seront désactivées automatiquement pendant que votre appareil recherchera des réseaux disponibles.</string>
   <string name="network_settings_duringcall">Opération non autorisée durant un appel</string>
   <string name="network_settings_forbidden">%s (interdit)</string>
-  <string name="network_settings_information">Désactiver les données cellualires ?</string>
+  <string name="network_settings_information">Désactiver les données cellualires ?</string>
   <string name="network_settings_next">Suivant</string>
   <string name="network_settings_query_failed_message">Impossible de rechercher les réseaux cellulaires.</string>
   <string name="network_settings_select_automatic_hint">"Impossible de s'enregistrer sur le réseau sélectionné.
@@ -1229,7 +1229,7 @@ Le réseau préféré sera utilisé."</string>
   <string name="new_pin_label">Nouveau code PIN</string>
   <string name="no_application">Aucune</string>
   <string name="no_change">"Aucune modification n'a été apportée."</string>
-  <string name="no_checked_network">Vous ne serez plus en mesure de vous connecter au réseau mobile et effectuer des appels. Sélectionner un autre réseau ?</string>
+  <string name="no_checked_network">Vous ne serez plus en mesure de vous connecter au réseau mobile et effectuer des appels. Sélectionner un autre réseau ?</string>
   <string name="no_internet_available">"Pour passer un appel SIP, vérifiez tout d'abord la connexion internet."</string>
   <string name="no_vm_number">Numéro de messagerie vocale manquant</string>
   <string name="no_vm_number_msg">Pas de numéro de messagerie vocale enregistré dans la carte SIM.</string>
@@ -1294,7 +1294,7 @@ Cette opération peut prendre jusqu'à 5 minutes."</string>
   <string name="ota_progress">Programmation du téléphone…</string>
   <string name="ota_skip_activation_dialog_message">"Si vous poursuivez sans activer votre mobile, vous ne pourrez ni téléphoner, ni vous connecter à des réseaux de données mobiles. La connexion à un réseau Wi-Fi reste possible. Vous serez invité à effectuer l'activation à chaque démarrage du téléphone."</string>
   <string name="ota_skip_activation_dialog_skip_label">Ignorer</string>
-  <string name="ota_skip_activation_dialog_title">"Ignorer l'activation ?"</string>
+  <string name="ota_skip_activation_dialog_title">"Ignorer l'activation ?"</string>
   <string name="ota_spc_failure">EXCESS SPC FAILURES</string>
   <string name="ota_speaker">Ht. parleur</string>
   <string name="ota_successful">Votre téléphone est désormais activé. Un délai de 15 minutes peut être nécessaire avant de démarrer le service.</string>
@@ -1412,7 +1412,7 @@ Votre téléphone sera automatiquement bloqué en cas de nouvel échec"</string>
   <string name="power_remaining_less_than_duration_only">Il reste moins de %1$s</string>
   <string name="power_remaining_more_than_subtext">Il reste plus de %1$s (%2$s)</string>
   <string name="power_remaining_only_more_than_subtext">Il reste plus de %1$s</string>
-  <string name="prefered_network_type_3g_promp">Vous devez désactiver VoLTE avant de choisir la 3G comme type de réseau préféré. Désactiver maintenant ?</string>
+  <string name="prefered_network_type_3g_promp">Vous devez désactiver VoLTE avant de choisir la 3G comme type de réseau préféré. Désactiver maintenant ?</string>
   <string name="preference_auto_ip_summary_disable">Désactivé</string>
   <string name="preference_category_ringtone">Sonnerie et vibreur</string>
   <string name="preference_data_usage_summary">"Définissez votre plan de données pour contrôler l'utilisation de vos données mobiles"</string>
@@ -1551,10 +1551,10 @@ Votre carte SIM sera bloquée en cas de nouvel échec."</string>
   <string name="reset_roaming_not_support">"This SIM card can't initialize roaming."</string>
   <string name="reset_roaming_tip">Resetting roaming…</string>
   <string name="reset_roaming_title">Reset roaming</string>
-  <string name="respond_via_sms_canned_response_1">Impossible de répondre maintenant. Pouvez-vous me rappeler plus tard ?</string>
+  <string name="respond_via_sms_canned_response_1">Impossible de répondre maintenant. Pouvez-vous me rappeler plus tard ?</string>
   <string name="respond_via_sms_canned_response_2">Je te rappelle tout de suite.</string>
   <string name="respond_via_sms_canned_response_3">"Je t'appellerai plus tard."</string>
-  <string name="respond_via_sms_canned_response_4">Je ne peux pas parler. Quoi de neuf ?</string>
+  <string name="respond_via_sms_canned_response_4">Je ne peux pas parler. Quoi de neuf ?</string>
   <string name="respond_via_sms_cannot_empty">Le message ne peut pas être vide</string>
   <string name="respond_via_sms_confirmation_format">Message envoyé à %s.</string>
   <string name="respond_via_sms_edittext_dialog_title">Réponse rapide</string>
@@ -1574,7 +1574,7 @@ Votre carte SIM sera bloquée en cas de nouvel échec."</string>
   <string name="ringtone_silent">Aucune</string>
   <string name="ringtone_unknown">Sonnerie inconnue</string>
   <string name="roaming">Déconnecté du réseau de données cellulaires</string>
-  <string name="roaming_alert_title">"Autoriser l'itinérance des données ?"</string>
+  <string name="roaming_alert_title">"Autoriser l'itinérance des données ?"</string>
   <string name="roaming_check_price_warning">Vérifiez le tarif auprès de votre opérateur.</string>
   <string name="roaming_customer_service_message_kr">Tap to contact roaming customer support (+82-2-2190-0901). This call is free abroad.</string>
   <string name="roaming_customer_service_summary_kr">Free calls abroad</string>
@@ -1652,8 +1652,8 @@ Votre carte SIM sera bloquée en cas de nouvel échec."</string>
   <string name="simFdnContacts_empty">Aucun contact sur la liste numéros autorisés.</string>
   <string name="sim_accounts">Comptes SIM</string>
   <string name="sim_card_num">SIM %s</string>
-  <string name="sim_change_data_message">Utiliser %1$s au lieu de %2$s pour les données mobiles ?</string>
-  <string name="sim_change_data_title">Changer la carte SIM de données ?</string>
+  <string name="sim_change_data_message">Utiliser %1$s au lieu de %2$s pour les données mobiles ?</string>
+  <string name="sim_change_data_title">Changer la carte SIM de données ?</string>
   <string name="sim_contact_name">Nom</string>
   <string name="sim_contact_number">Numéro</string>
   <string name="sim_description_default">Carte SIM %s</string>
@@ -1793,7 +1793,7 @@ Votre carte SIM sera bloquée en cas de nouvel échec."</string>
   <string name="telocation_auto_country_code">Ajouter le code pays</string>
   <string name="telocation_auto_country_code_summary">Ajouter automatiquement le code pays avant composition</string>
   <string name="telocation_call_assistant">Assistant de composition</string>
-  <string name="telocation_confim_delete_title">Supprimer ce message ?</string>
+  <string name="telocation_confim_delete_title">Supprimer ce message ?</string>
   <string name="telocation_contacts_countrycode">Code pays par défaut</string>
   <string name="telocation_contacts_countrycode_hint">Entrez le code pays</string>
   <string name="telocation_contacts_countrycode_summary">Le code du pays pour les contacts par défaut est %s</string>
@@ -1863,7 +1863,7 @@ Prochaine période dans %2$d jours (%3$s)"</string>
   <string name="tts_default_sample_string">Voici un échantillon de synthèse vocale.</string>
   <string name="tts_engine_network_required">Une connexion réseau est nécessaire pour la synthèse vocale dans cette langue.</string>
   <string name="tts_engine_preference_section_title">Moteur préféré</string>
-  <string name="tts_engine_security_warning">Ce moteur de synthèse vocale est susceptible de collecter tout ce qui sera lu, y compris les données personnelles comme les mots de passe et les numéros de carte de paiement. Il provient du moteur %s. Voulez-vous activer son utilisation ?</string>
+  <string name="tts_engine_security_warning">Ce moteur de synthèse vocale est susceptible de collecter tout ce qui sera lu, y compris les données personnelles comme les mots de passe et les numéros de carte de paiement. Il provient du moteur %s. Voulez-vous activer son utilisation ?</string>
   <string name="tts_engine_settings_button">Lancer les paramètres du moteur</string>
   <string name="tts_engine_settings_title">Paramètres de %s</string>
   <string name="tts_general_section_title">Paramètres généraux</string>
@@ -1967,7 +1967,7 @@ Cette tablette ne possède pas d'écouteur. Vous pouvez passer en mode Mains lib
   <string name="voicemail_visual_voicemail_switch_title">Messagerie vocale visuelle</string>
   <string name="voip_setting">Paramètres VoIP</string>
   <string name="volte_provision_notification_activate">Activer</string>
-  <string name="volte_provision_text">Les appels VoLTE fournissent une meilleure qualité comparés aux appels normaux. Envoyer un SMS pour activer ?</string>
+  <string name="volte_provision_text">Les appels VoLTE fournissent une meilleure qualité comparés aux appels normaux. Envoyer un SMS pour activer ?</string>
   <string name="volte_provision_title">Activer les appels VoLTE</string>
   <string name="volte_switch_not_support_summary">Les appels VoLTE ne sont pas pris en charge pour la carte SIM de données mobiles.</string>
   <string name="volte_switch_not_support_summary2">"Les appels VoLTE ne sont pas pris en charge par l'opérateur."</string>
@@ -1990,7 +1990,7 @@ Les appels d’urgence ne sont possibles que dans les zones couvertes par une co
   <string name="vvm_unsupported_message_format">Type de message non pris en charge, appelez %s pour écouter.</string>
   <string name="wait_for_debugger">"Attendre l'intervention du débogueur"</string>
   <string name="wait_for_debugger_summary">"L'application déboguée attend d'être liée au débogueur pour s'exécuter."</string>
-  <string name="wait_prompt_str">"Envoyer les tonalités suivantes ?
+  <string name="wait_prompt_str">"Envoyer les tonalités suivantes ?
 "</string>
   <string name="wfcmode_mobile_preferred">Réseaux cellulaires</string>
   <string name="wfcmode_wifi_only">Wi-Fi uniquement</string>
@@ -2250,7 +2250,7 @@ Si vous choisissez de préférer les réseaux cellulaires, ils seront utilisés 
   <string name="wapi_cert_manage_title">Gestion des certificats WAPI</string>
   <string name="wapi_cert_roaming">Connexion...</string>
   <string name="wapi_no">non</string>
-  <string name="wapi_no_vaild_cert">"Aucun certificat disponible, l'installer maintenant ?"</string>
+  <string name="wapi_no_vaild_cert">"Aucun certificat disponible, l'installer maintenant ?"</string>
   <string name="wapi_password_hex_format_add">Le nombre de caractères hexadécimaux ne peut pas être un nombre impair</string>
   <string name="wapi_password_is_empty">Le champ du mot de passe ne peut pas être laissé vide</string>
   <string name="wapi_password_is_not_hex_format">Caractères hexadécimaux non valides</string>

@@ -130,12 +130,12 @@ Note: les données des applications que vous avez installées ne seront pas sauv
   <string name="cloud_backup_in_cancel">Annuler</string>
   <string name="cloud_backup_in_process">Sauvegarde en cours</string>
   <string name="cloud_backup_select_recover">Choisir une sauvegarde à partir de Xiaomi Cloud</string>
-  <string name="cloud_restore_from_other_device">Arrêter la restauration depuis %s et supprimer cette sauvegarde ? Vous ne pourrez pas annuler cette action.</string>
+  <string name="cloud_restore_from_other_device">Arrêter la restauration depuis %s et supprimer cette sauvegarde ? Vous ne pourrez pas annuler cette action.</string>
   <string name="cloud_restore_task">Restauration…</string>
-  <string name="cloud_task_in_process">Arrêter %s et supprimer cette sauvegarde ? Vous ne pourrez pas annuler cette action.</string>
+  <string name="cloud_task_in_process">Arrêter %s et supprimer cette sauvegarde ? Vous ne pourrez pas annuler cette action.</string>
   <string name="confirm_cancel_restore_negative">Annuler</string>
   <string name="confirm_cancel_restore_positive">Continuer</string>
-  <string name="confirm_cancel_restore_title">Annuler la restauration ?</string>
+  <string name="confirm_cancel_restore_title">Annuler la restauration ?</string>
   <string name="confirm_restore">Restaurer</string>
   <string name="confirm_restore_summary">"L'écran d'accueil sera relancé. Les applications sauvegardées seront téléchargées automatiquement."</string>
   <string name="confirm_restore_title">Restaurer</string>
@@ -148,7 +148,7 @@ Note: les données des applications que vous avez installées ne seront pas sauv
   <string name="desktop_installing">Installation</string>
   <string name="desktop_wait_network">Patienter…</string>
   <string name="desktop_waiting">En attente</string>
-  <string name="device_delete_prompt">Supprimer la sauvegarde de %s ?</string>
+  <string name="device_delete_prompt">Supprimer la sauvegarde de %s ?</string>
   <string name="dialog_btn_cancel_backup">Annuler</string>
   <string name="dialog_btn_next">Suivant</string>
   <string name="dialog_btn_overwrite_backup">Écraser</string>
@@ -156,7 +156,7 @@ Note: les données des applications que vous avez installées ne seront pas sauv
   <string name="dialog_cancel_backup_cancel">Annuler</string>
   <string name="dialog_cancel_backup_confirm">OK</string>
   <string name="dialog_cancel_backup_msg">"Modifier l'état du bouton mettra fin aux sauvegardes en cours."</string>
-  <string name="dialog_cancel_backup_title">Annuler les sauvegardes en cours ?</string>
+  <string name="dialog_cancel_backup_title">Annuler les sauvegardes en cours ?</string>
   <string name="dialog_msg_overwrite_backup">La sauvegarde locale est différente de celle de Xiaomi Cloud. Si vous continuez, la sauvegarde actuelle écrasera la précédente.</string>
   <string name="dialog_msg_restore_require_wlan">La restauration des sauvegardes nécessite la connexion au Wi-Fi.</string>
   <string name="dialog_msg_restore_require_wlan_china">La restauration des sauvegardes requiert une connexion au WLAN.</string>
@@ -198,7 +198,7 @@ Note: les données des applications que vous avez installées ne seront pas sauv
   <string name="miuix_sbl_tracking_progress_labe_up_none">"C'est tout pour le moment"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chargement…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Impossible de charger les éléments</string>
-  <string name="msg_alert_cancel_restore">En cours de restauration des éléments. Arrêter maintenant ?</string>
+  <string name="msg_alert_cancel_restore">En cours de restauration des éléments. Arrêter maintenant ?</string>
   <string name="msg_alert_restore_error">Impossible de restaurer les éléments du Xiaomi Cloud. Réessayez.</string>
   <string name="msg_restore_start_with_metered_network">"Votre écran d'accueil sera relancé. Les applications sauvegardées seront téléchargées automatiquement. &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;%s des fichiers seront téléchargés.&lt;/font&gt;&lt;/b&gt;"</string>
   <string name="msg_restore_with_metered_network_hint">Si vous procédez à la restauration de ces éléments, les données mobiles seront utilisées pour le téléchargement..</string>
@@ -222,7 +222,7 @@ Note: les données des applications que vous avez installées ne seront pas sauv
   <string name="provision_restore_data">"Restauration d'éléments"</string>
   <string name="provision_skip_underline">Passer</string>
   <string name="query_restore_description">"Restaurer les applications de l'ecran d'accueil et des paramètres à l'aide de cette sauvegarde. Cela va écraser les données d'applications pour les applications en double déjà installées sur cet appareil. les applications qui ne figurent pas dans la sauvegarde seront déplacées vers le dernier écran d'accueil."</string>
-  <string name="query_restore_summary">"Une sauvegarde Xiaomi Cloud a été trouvée pour cet appareil. Restaurer les applis de l'écran d'accueil et les paramètres ou l'utiliser comme un nouvel appareil et effacer les sauvegardes Xiaomi Cloud précédentes ?"</string>
+  <string name="query_restore_summary">"Une sauvegarde Xiaomi Cloud a été trouvée pour cet appareil. Restaurer les applis de l'écran d'accueil et les paramètres ou l'utiliser comme un nouvel appareil et effacer les sauvegardes Xiaomi Cloud précédentes ?"</string>
   <string name="recover_home_settings">"Restaurer les paramètres de l'écran d'accueil"</string>
   <string name="recover_miui_settings">Restaurer les paramètres système</string>
   <string name="recover_settings_description">Maintenez votre appareil allumé</string>

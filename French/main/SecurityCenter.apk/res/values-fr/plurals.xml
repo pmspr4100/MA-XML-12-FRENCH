@@ -13,8 +13,8 @@
       <item quantity="one">Il y a %d jour</item>
     </plurals>
     <plurals name="exit_dialog_release_memory_message">
-      <item quantity="other">&lt;Data>Fermer les applications &lt;font color=#0099ff>%d&lt;/font> pour accélérer votre appareil ?&lt;/Data></item>
-      <item quantity="one">"&lt;Data>Fermer l'application &lt;font color=#0099ff>%d&lt;/font> pour accélérer votre appareil ?&lt;/Data>"</item>
+      <item quantity="other"><Data>"Fermer les applications &lt;font color=#0099ff>%d&lt;/font> pour accélérer votre appareil ?"</Data></item>
+      <item quantity="one"><Data>"Fermer l'application &lt;font color=#0099ff>%d&lt;/font> pour accélérer votre appareil ?"</Data></item>
     </plurals>
     <plurals name="app_behavior_desc_allow_minute">
       <item quantity="other">Autorisé %2$d fois à %1$s</item>
@@ -597,9 +597,9 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
     </plurals>
     <plurals name="gb_voice_changer_user_status_get_twice_trial_card_dialog">
         <item quantity="other">"Vos abonnements ont expiré.
-Vous pouvez obtenir un essai gratuit de %d jours maintenant !"</item>
+Vous pouvez obtenir un essai gratuit de %d jours maintenant !"</item>
         <item quantity="one">"Votre abonnement a expiré.
-Vous pouvez obtenir un essai gratuit de %d jours maintenant !"</item>
+Vous pouvez obtenir un essai gratuit de %d jours maintenant !"</item>
     </plurals>
     <plurals name="gb_voice_changer_user_tips_info">
         <item quantity="other">Obtenez un essai gratuit de %d jours</item>

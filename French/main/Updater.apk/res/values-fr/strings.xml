@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="channel_service">Service de mise à jour en arrière-plan</string>
-  <string name="notif_service_summary">Maintenez enfoncé pour désactiver la notification \"Service de mise à jour en arrière-plan\" !</string>
+  <string name="notif_service_summary">Maintenez enfoncé pour désactiver la notification \"Service de mise à jour en arrière-plan\" !</string>
   <string name="notif_service_title">"L'application s'exécute en arrière-plan"…</string>
   <string name="app_name">Mise à jour</string>
   <string name="battery_islow">Branchez votre chargeur</string>
-  <string name="battery_islow_desc">Le niveau de la batterie est trop faible pour installer le fichier zip en toute sécurité, branchez votre chargeur et réessayez plus tard !</string>
+  <string name="battery_islow_desc">Le niveau de la batterie est trop faible pour installer le fichier zip en toute sécurité, branchez votre chargeur et réessayez plus tard !</string>
   <string name="btn_changelog">Changelog</string>
   <string name="btn_download">Téléchargement (%1$s)</string>
-  <string name="btn_error">"Une erreur s'est produite, essayez à nouveau ?"</string>
+  <string name="btn_error">"Une erreur s'est produite, essayez à nouveau ?"</string>
   <string name="btn_install">Vérifiez MD5 et Installer</string>
   <string name="btn_no">Annuler</string>
   <string name="btn_ok">OK</string>
   <string name="btn_pause">Pause</string>
   <string name="btn_share">Partager</string>
   <string name="btn_stop">Arrêter</string>
-  <string name="btn_wrong_md5">Erreur MD5, cliquez pour supprimer la ROM !</string>
+  <string name="btn_wrong_md5">Erreur MD5, cliquez pour supprimer la ROM !</string>
   <string name="btn_yes">Oui</string>
   <string name="channel_downloading">Progression du téléchargement</string>
   <string name="channel_update">Nouvelle version disponible</string>
@@ -23,36 +23,36 @@
   <string name="default_filedownloader_notification_content">"Le téléchargeur de fichiers est en cours d'exécution".</string>
   <string name="default_filedownloader_notification_title">Téléchargeur de fichiers</string>
   <string name="dialog_3g_desc">"Sachez que l'utilisation des données mobile pour télécharger des ROM peut demander un quota important de votre forfait."</string>
-  <string name="dialog_3g_title">Attention !</string>
+  <string name="dialog_3g_title">Attention !</string>
   <string name="dialog_btn_3g">Continuer quand même</string>
   <string name="dialog_btn_wifi">Basculer vers le Wi-Fi</string>
   <string name="dialog_stop_desc">Vous pouvez suspendre ou arrêter le téléchargement, faites votre choix maintenant.</string>
-  <string name="dialog_stop_title">Arrêter le téléchargement ?</string>
+  <string name="dialog_stop_title">Arrêter le téléchargement ?</string>
   <string name="dialog_twrp">"Votre stockage interne est crypté. Une fois le périphérique redémarré, veuillez entrer le mot de passe de déverrouillage de votre périphérique pour continuer."</string>
-  <string name="download_done">Téléchargé avec succès !</string>
-  <string name="download_fail">Erreur lors du téléchargement !</string>
+  <string name="download_done">Téléchargé avec succès !</string>
+  <string name="download_fail">Erreur lors du téléchargement !</string>
   <string name="download_fail_desc">MD5 Sum ne correspond pas</string>
   <string name="downloading">Téléchargement:</string>
   <string name="downloading_desc">Téléchargement en cours, contrôle du statut dans la zone de notification.</string>
   <string name="install_desc">"L'appareil va redémarrer pour récupérer et installer le fichier choisi: %1$s 
 Les données ne seront pas effacées."</string>
-  <string name="install_title">Êtes-vous sûr de continuer ?</string>
-  <string name="menu_title_current_version_log">Ce qui est nouveau ?</string>
+  <string name="install_title">Êtes-vous sûr de continuer ?</string>
+  <string name="menu_title_current_version_log">Ce qui est nouveau ?</string>
   <string name="menu_title_pick_rom_file">Installer le package de mise à jour</string>
   <string name="menu_title_recovery">Redémarrer en mode Recovery</string>
   <string name="message_checkbox">"Masquer les futurs messages de l'équipe Xiaomi.eu"</string>
   <string name="message_checkbox_device">Ne plus afficher</string>
-  <string name="message_title">NOTE !</string>
-  <string name="new_version">Nouvelle version trouvée !</string>
+  <string name="message_title">NOTE !</string>
+  <string name="new_version">Nouvelle version trouvée !</string>
   <string name="no_info">Aucune information disponible.</string>
   <string name="no_network">"Pas d'accès au réseau."</string>
-  <string name="no_update">Vous êtes à jour !</string>
-  <string name="no_xioamieu">"Vous n'utilisez pas la ROM MIUI créé par l'équipe Xiaomi.eu !
-Les mises à jour ne sont pas disponibles pour vous !"</string>
+  <string name="no_update">Vous êtes à jour !</string>
+  <string name="no_xioamieu">"Vous n'utilisez pas la ROM MIUI créé par l'équipe Xiaomi.eu !
+Les mises à jour ne sont pas disponibles pour vous !"</string>
   <string name="notif_cancel">Annuler</string>
   <string name="notif_install">Installer</string>
   <string name="notif_new_summary">Appuyez pour plus infos</string>
-  <string name="notif_new_title">Nouvelle version disponible !</string>
+  <string name="notif_new_title">Nouvelle version disponible !</string>
   <string name="notifications_switch">Afficher les notifications</string>
   <string name="permdesc_cache_filesystem">"Permet à l'application d'écrire des fichiers sur le /cache."</string>
   <string name="permdesc_reboot">"Permet à l'application de redémarrer l'appareil."</string>
@@ -60,14 +60,14 @@ Les mises à jour ne sont pas disponibles pour vous !"</string>
   <string name="permlab_reboot">"Redémarrer l'accès"</string>
   <string name="pick_not_found">"Aucun gestionnaire de fichiers approprié n'a été trouvé."</string>
   <string name="pick_title">Pick using:</string>
-  <string name="recovery_desc">"L'appareil va redémarrer en mode Récupération maintenant si vous n'êtes pas familiarisé avec le mode, annulez les actions futures. Continuer ?"</string>
-  <string name="server_error">"Le serveur ne répond pas, l'application risque de ne pas fonctionner correctement !"</string>
+  <string name="recovery_desc">"L'appareil va redémarrer en mode Récupération maintenant si vous n'êtes pas familiarisé avec le mode, annulez les actions futures. Continuer ?"</string>
+  <string name="server_error">"Le serveur ne répond pas, l'application risque de ne pas fonctionner correctement !"</string>
   <string name="share_desc">Votre version de MIUI a été mise à jour pour %1$s, vérifier le dernier changelog à: %2$s</string>
   <string name="share_title">Partager avec</string>
   <string name="stable">Stable</string>
   <string name="version">Actuellement installé:</string>
   <string name="weekly">Hebdomadaire</string>
-  <string name="wifi_recommended">Aucune connexion Wi-Fi pour commencer le téléchargement en toute sécurité !</string>
+  <string name="wifi_recommended">Aucune connexion Wi-Fi pour commencer le téléchargement en toute sécurité !</string>
   <string name="fetching_data">Récupération du lien de téléchargement, veuillez patienter…</string>
   <string name="no_mirror">Tous les miroirs sont actuellement hors ligne, réessayez plus tard…</string>
 </resources>

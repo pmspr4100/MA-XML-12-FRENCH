@@ -85,7 +85,7 @@
   <string name="audio_record_perm_description">"Enregistre vos ronflements et vos rêves durant le sommeil"</string>
   <string name="audio_record_permission_description">Pour enregistrer les conversations et les ronflements tout en analysant votre cycle de sommeil</string>
   <string name="auth_description">Autoriser %1$s pour synchroniser les données des appareils suivants</string>
-  <string name="auth_dialog_description">"Activer les recommandations ?
+  <string name="auth_dialog_description">"Activer les recommandations ?
 
 Pour vous fournir des recommandations, nous partagerons vos données de santé avec un fournisseur de services tiers. Les éléments que nous partagerons comprennent des informations personnelles (âge, sexe), des statistiques de santé (taille, poids, routine d'entraînement), des données de comportement (heure de début et de fin, ainsi que la durée de vos entraînements).
 
@@ -134,7 +134,7 @@ Si vous ne souhaitez pas accéder aux cours recommandés, vous pouvez toujours u
   <string name="bedtime_description">"L'heure du coucher est le moment où vous allez vous coucher et que vous posez votre téléphone. Cette heure est estimée à partir de votre prévision de coucher et de l'utilisation de votre appareil."</string>
   <string name="bedTime_early_description">Vous vous êtes couché tôt. Si cela devient votre habitude à long terme, vous pouvez continuer et ignorer ce message.</string>
   <string name="bedTime_late_description">Vous vous êtes couché tard.</string>
-  <string name="bedTime_normal_description">"Vous vous êtes couché à l'heure. Continuez comme ça !"</string>
+  <string name="bedTime_normal_description">"Vous vous êtes couché à l'heure. Continuez comme ça !"</string>
   <string name="bg_control_dialog_go_set">Paramètres</string>
   <string name="bg_control_dialog_msg">"L'économiseur de batterie limitera l'activité en arrière-plan de Mi Santé. Autorisez Mi Santé à toujours s'exécuter en arrière-plan pour obtenir des statistiques précises."</string>
   <string name="bg_control_dialog_title">Restrictions en arrière-plan</string>
@@ -272,16 +272,16 @@ Si vous décidez de supprimer vos données de santé après avoir choisi de les 
   <string name="delete_aid_file_desc">"Votre identifiant médical d'urgence sera définitivement supprimé de cet appareil si vous continuez."</string>
   <string name="delete_all_data">Supprimer toutes les données</string>
   <string name="delete_all_data_sources">Supprimer toutes les sources de données</string>
-  <string name="delete_all_data_sources_description">Supprimer toutes les sources de données ajoutées ?</string>
+  <string name="delete_all_data_sources_description">Supprimer toutes les sources de données ajoutées ?</string>
   <string name="delete_avatar">Supprimer la photo actuelle</string>
   <string name="delete_contact">Supprimer</string>
-  <string name="delete_dailog_confirm_msg_wear">Supprimer %1$s maintenant ?</string>
+  <string name="delete_dailog_confirm_msg_wear">Supprimer %1$s maintenant ?</string>
   <string name="delete_data_source">Supprimer la source de données</string>
   <string name="delete_dialog_close_sync_msg">"Pour supprimer %1$s, désactivez d'abord la synchronisation sur l'appareil correspondant."</string>
-  <string name="delete_dialog_confirm_msg_cloud">Supprimer %1$s ainsi que les données associées enregistrées sur cet appareil et sur le cloud ?</string>
-  <string name="delete_dialog_confirm_msg_local">Supprimer %1$s ainsi que les données associées ?</string>
-  <string name="delete_menstruation_record_confirm">Supprimer cet enregistrement ?</string>
-  <string name="delete_origin_data_description">Supprimer toutes les données générées par %1$s ?</string>
+  <string name="delete_dialog_confirm_msg_cloud">Supprimer %1$s ainsi que les données associées enregistrées sur cet appareil et sur le cloud ?</string>
+  <string name="delete_dialog_confirm_msg_local">Supprimer %1$s ainsi que les données associées ?</string>
+  <string name="delete_menstruation_record_confirm">Supprimer cet enregistrement ?</string>
+  <string name="delete_origin_data_description">Supprimer toutes les données générées par %1$s ?</string>
   <string name="delete_record">Supprimer enregistrement</string>
   <string name="delete_wear_data_toast">"Impossible de supprimer les données fournies par %1$s"</string>
   <string name="description">Détails</string>
@@ -306,7 +306,7 @@ Si vous décidez de supprimer vos données de santé après avoir choisi de les 
 ID: %s
 Veuillez envoyer ce code au technicien."</string>
   <string name="dialog_abandon">Abandonner</string>
-  <string name="dialog_abandon_sleep_edit">Annuler les modifications ?</string>
+  <string name="dialog_abandon_sleep_edit">Annuler les modifications ?</string>
   <string name="dialog_account_perm_desc">Pour accéder et se connecter au compte système</string>
   <string name="dialog_agree">Accepter</string>
   <string name="dialog_agree_and_continue">Accepter</string>
@@ -316,15 +316,15 @@ Veuillez envoyer ce code au technicien."</string>
 Mi Santé ne vous informera que des articles importants."</string>
   <string name="dialog_auto_start_title">Autoriser Mi Santé à démarrer automatiquement</string>
   <string name="dialog_auto_start_title2">Autoriser Mi Santé à démarrer automatiquement</string>
-  <string name="dialog_body_weight_conflict">"Il semble que vous ayez déjà enregistré le poids pendant le temps sélectionné. Écraser les données originales ?"</string>
+  <string name="dialog_body_weight_conflict">"Il semble que vous ayez déjà enregistré le poids pendant le temps sélectionné. Écraser les données originales ?"</string>
   <string name="dialog_body_weight_select">Définir le poids</string>
   <string name="dialog_cancel">Annuler</string>
-  <string name="dialog_cancel_edit_record">Annuler les changements maintenant ?</string>
+  <string name="dialog_cancel_edit_record">Annuler les changements maintenant ?</string>
   <string name="dialog_confirm">OK</string>
   <string name="dialog_date_select">Sélectionnez la date</string>
   <string name="dialog_delete">Supprimer</string>
-  <string name="dialog_delete_record_confirm">Supprimer cet enregistrement ?</string>
-  <string name="dialog_exercise_purpose">"Bienvenue sur Mi Santé ! \"Le compteur de pas\" vous permet de voir combien de pas vous faîtes par jour, aussi bien que définir et gérer vos buts d'activités. Toutes les données concernées seront emmagasinées localement sur votre appareil, ce qui vous permet de les gérer facilement."</string>
+  <string name="dialog_delete_record_confirm">Supprimer cet enregistrement ?</string>
+  <string name="dialog_exercise_purpose">"Bienvenue sur Mi Santé ! \"Le compteur de pas\" vous permet de voir combien de pas vous faîtes par jour, aussi bien que définir et gérer vos buts d'activités. Toutes les données concernées seront emmagasinées localement sur votre appareil, ce qui vous permet de les gérer facilement."</string>
   <string name="dialog_exit">Quitter</string>
   <string name="dialog_feedback_content">"Si vous refusez d'accorder ces permissions, vous ne pourrez pas utiliser certaines fonctionnalités de l'application. Toutefois, les fonctionnalités de base resteront disponibles . Vous pouvez restreindre ou révoquer les permissions dans les Réglages."</string>
   <string name="dialog_feedback_purpose">Mi Santé doit accéder au stockage afin de soumettre des commentaires.</string>
@@ -335,7 +335,7 @@ Mi Santé ne vous informera que des articles importants."</string>
   <string name="dialog_juveniles_link">"Selon nos &lt;font color=\"#FE6D67\"&gt;&lt;a href=%1$s&gt;Politique de confidentialité&lt;/a&gt;&lt;/font&gt;, l'âge minimum pour utiliser ce produit est de 18 ans."</string>
   <string name="dialog_keep">Conserver</string>
   <string name="dialog_known">Compris</string>
-  <string name="dialog_menstruation_purpose">"Bienvenue sur Mi Santé ! \"Règles menstruelles\" vous permet d'enregistrer vos règles, de déterminer les dates estimées des règles à venir et de recevoir des rappels. Toutes les données associées seront stockées localement sur votre appareil, ce qui vous permet de les gérer facilement."</string>
+  <string name="dialog_menstruation_purpose">"Bienvenue sur Mi Santé ! \"Règles menstruelles\" vous permet d'enregistrer vos règles, de déterminer les dates estimées des règles à venir et de recevoir des rappels. Toutes les données associées seront stockées localement sur votre appareil, ce qui vous permet de les gérer facilement."</string>
   <string name="dialog_no_more_prompt">Ne plus afficher</string>
   <string name="dialog_ok">OK</string>
   <string name="dialog_open">Autoriser</string>
@@ -351,7 +351,7 @@ Mi Santé ne vous informera que des articles importants."</string>
   <string name="dialog_sleep_goal_title">Objectif de durée de sommeil</string>
   <string name="dialog_sleep_record_auto_start">"Pour suivre le sommeil avec plus de précision, laissez Mi Santé démarrer automatiquement."</string>
   <string name="dialog_sure">OK</string>
-  <string name="dialog_user_agreement_purpose">Bienvenue chez Mi Santé ! Vous pouvez utiliser cette application pour compter les pas, suivre le sommeil, les règles et le poids, ainsi que synchroniser vos statistiques avec le cloud.</string>
+  <string name="dialog_user_agreement_purpose">Bienvenue chez Mi Santé ! Vous pouvez utiliser cette application pour compter les pas, suivre le sommeil, les règles et le poids, ainsi que synchroniser vos statistiques avec le cloud.</string>
   <string name="dialog_user_agreement_purpose2">"Bienvenue sur Xiaomi Santé, vous pouvez utiliser cette application pour le podomètre de sport, le sommeil, l'enregistrement menstruel, le suivi du poids, le service Xiaomi Santé Cloud et d'autres fonctions."</string>
   <string name="diastolic_pressure">Diastolique</string>
   <string name="disable">Désactivé</string>
@@ -411,30 +411,30 @@ Vous pouvez sélectionner une autre source dans Plus &gt; Sources de données."<
   <string name="exercise_intensity">Intensité</string>
   <string name="exercise_motor_perception">Suivi automatique des entraînements</string>
   <string name="exercise_motor_perception_description">Emportez votre appareil avec vous tout au long de la journée pour suivre automatiquement vos entraînements</string>
-  <string name="exercise_no_question">Pourquoi ne voyez-vous pas vos statistiques ?</string>
+  <string name="exercise_no_question">Pourquoi ne voyez-vous pas vos statistiques ?</string>
   <string name="exercise_notification_content">"%1$d min(s) d'exercice (%2$d Cal)"</string>
-  <string name="exercise_notification_meet_title">"Pas d'aujourd'hui: %d. Objectif atteint !"</string>
-  <string name="exercise_notification_no_meet_title">"Pas d'aujourd'hui: %d. Continuez à atteindre votre objectif !"</string>
+  <string name="exercise_notification_meet_title">"Pas d'aujourd'hui: %d. Objectif atteint !"</string>
+  <string name="exercise_notification_no_meet_title">"Pas d'aujourd'hui: %d. Continuez à atteindre votre objectif !"</string>
   <string name="exercise_question_answer_one">"1. Certains modèles d'appareils ne sont pas équipés de capteurs à faible consommation d'énergie. Xiaomi Santé ne suit pas les données d'activité pour économiser la batterie sur les appareils suivants: Redmi 1S, Redmi 2A, Redmi 2, Redmi 3, Redmi Pro, Redmi Note, Redmi Note 2, Redmi Note 3, Redmi Note 4, Mi 2, Mi 3, Mi 4.
 Si votre appareil est répertorié ici, vous pouvez ajouter manuellement des sources de données dans Xiaomi Santé &gt; Menu &gt; Sources de données &gt; Ajouter des sources de données."</string>
   <string name="exercise_question_answer_two">2. Parfois, les détecteurs de mouvement peuvent ne pas se monter. Redémarrez votre téléphone et vérifiez si le suivi démarre normalement dans de tels cas.</string>
-  <string name="exercise_question_title">Pourquoi ne voyez-vous pas vos statistiques ?</string>
-  <string name="exercise_recog_confirm_ridding">Faisiez-vous du vélo entre %1$s et %2$s ?</string>
-  <string name="exercise_recog_confirm_run">Étiez-vous en train de courir entre %1$s et %2$s ?</string>
-  <string name="exercise_recog_confirm_stair_climb">Étiez-vous en train de monter des escaliers entre %1$s et %2$s ?</string>
-  <string name="exercise_recog_confirm_walk">Étiez-vous en train de marcher entre %1$s et %2$s ?</string>
+  <string name="exercise_question_title">Pourquoi ne voyez-vous pas vos statistiques ?</string>
+  <string name="exercise_recog_confirm_ridding">Faisiez-vous du vélo entre %1$s et %2$s ?</string>
+  <string name="exercise_recog_confirm_run">Étiez-vous en train de courir entre %1$s et %2$s ?</string>
+  <string name="exercise_recog_confirm_stair_climb">Étiez-vous en train de monter des escaliers entre %1$s et %2$s ?</string>
+  <string name="exercise_recog_confirm_walk">Étiez-vous en train de marcher entre %1$s et %2$s ?</string>
   <string name="exercise_record">"Historique d'entraînement"</string>
   <string name="exercise_record_no_data">Aucun article ici encore</string>
   <string name="exercise_remind_content_improve_goal">"Restez en bonne santé en augmentant progressivement votre objectif d'activité physique"</string>
   <string name="exercise_remind_content_lower_goal">Restez motivé en fixant des objectifs que vous pouvez atteindre</string>
   <string name="exercise_remind_title_improve_goal">Paramétrez un objectif plus important</string>
   <string name="exercise_remind_title_lower_goal">Paramétrez un objectif réaliste</string>
-  <string name="exercise_reminder_accomplished">"Vous avez atteind votre objectif d'activité !"</string>
+  <string name="exercise_reminder_accomplished">"Vous avez atteint votre objectif d'activité !"</string>
   <string name="exercise_reminder_title">"Rappel d'activité"</string>
-  <string name="exercise_reminder_unaccomplished">"Vous n'avez pas encore atteint votre objectif. Continue !"</string>
+  <string name="exercise_reminder_unaccomplished">"Vous n'avez pas encore atteint votre objectif. Continue !"</string>
   <string name="exercise_result_reminder_content">"%1$d min (s) d'exercice (%2$d Cal). Appuyez pour afficher les détails."</string>
-  <string name="exercise_result_reminder_title">"Nombre de pas d'aujourd'hui: %1$d. Vous avez atteint le objectif !"</string>
-  <string name="exercise_result_reminder_title_unaccomplished">"Nombre de pas d'aujourd'hui: %1$d. Vous pouvez toujours atteindre l'objectif !"</string>
+  <string name="exercise_result_reminder_title">"Nombre de pas d'aujourd'hui: %1$d. Vous avez atteint le objectif !"</string>
+  <string name="exercise_result_reminder_title_unaccomplished">"Nombre de pas d'aujourd'hui: %1$d. Vous pouvez toujours atteindre l'objectif !"</string>
   <string name="exercise_setting_label_reach_standard_remind">"Alerte d'activité"</string>
   <string name="exercise_setting_page_title">"Paramètres d'activité"</string>
   <string name="exercise_speed">Vitesse</string>
@@ -445,8 +445,8 @@ Si votre appareil est répertorié ici, vous pouvez ajouter manuellement des sou
   <string name="exercise_walk_description">"Selon les directives diététiques pour les résidents chinois, l'activité physique active devrait durer au moins 40 minutes par jour, ce qui équivaut à marcher 6 000 pas. Les étapes que vous prenez chaque jour pour marcher, courir et monter à l'étage sont résumées ici."</string>
   <string name="exit_running_tips_cancel">Oui</string>
   <string name="exit_running_tips_confirm">Non</string>
-  <string name="exit_running_tips_desc">"Il semble que vous n’avez pas encore commencé à vous entraîner. Terminer cet entraînement ?"</string>
-  <string name="exit_running_tips_title">"Fin d'entraînement ?"</string>
+  <string name="exit_running_tips_desc">"Il semble que vous n’avez pas encore commencé à vous entraîner. Terminer cet entraînement ?"</string>
+  <string name="exit_running_tips_title">"Fin d'entraînement ?"</string>
   <string name="expand_all">Afficher tout</string>
   <string name="expand_button_title">Avancé</string>
   <string name="exposed_dropdown_menu_content_description">Afficher le menu déroulant</string>
@@ -488,7 +488,7 @@ S'il vous est encore difficile de vous endormir après 30 minutes au lit, rédui
   <string name="getUp_time_description">"Le lever est le moment où vous sortez du lit et commencez à bouger. Son estimation est basée sur votre horaire de coucher et l'utilisation de l'appareil."</string>
   <string name="getUp_time_early_description">"Tu t'es levé tôt. Dormir plus serait mieux pour vous."</string>
   <string name="getUp_time_late_description">"Tu t'es levé tard. Dormir trop longtemps n'apporte aucun avantage substantiel à votre santé."</string>
-  <string name="getUp_time_normal_description">"Vous vous êtes levé à l'heure. Continuez !"</string>
+  <string name="getUp_time_normal_description">"Vous vous êtes levé à l'heure. Continuez !"</string>
   <string name="go_back_to_today">"Retour à aujourd'hui"</string>
   <string name="go_on">continue</string>
   <string name="go_open_sleep_detector">Démarrer</string>
@@ -526,7 +526,7 @@ S'il vous est encore difficile de vous endormir après 30 minutes au lit, rédui
   <string name="health_score_tips">"Le score de santé est calculé sur la base de votre IMC (indice de masse corporelle), ainsi que de vos étapes de sommeil et d'activité. Plus vous êtes proche de vos objectifs, plus votre score de santé est élevé."</string>
   <string name="health_setting">Paramètres de santé</string>
   <string name="health_uninstall_dialog_content">"Xiaomi Santé est une application système. Vous pouvez utiliser cette application pour compter les pas, suivre le sommeil, les règles et le poids, ainsi que synchroniser vos statistiques sur le cloud. Vous ne pourrez plus utiliser cette application après l'avoir désinstallée."</string>
-  <string name="health_uninstall_dialog_title">Désinstaller Xiaomi Santé ?</string>
+  <string name="health_uninstall_dialog_title">Désinstaller Xiaomi Santé ?</string>
   <string name="heart_rate">Fréquence cardiaque</string>
   <string name="height">Taille</string>
   <string name="high">Élevé</string>
@@ -576,7 +576,7 @@ Recommencer."</string>
   <string name="hr_in_detect">Veuillez ne pas relâcher vos doigts pendant le test</string>
   <string name="hr_input_heart_rate">Enregistrer la fréquence cardiaque</string>
   <string name="hr_measure_heart_rate">Mesure</string>
-  <string name="hr_open_permission_desc">"Xiaomi Health doit accéder au capteur photo de votre téléphone pour pouvoir mesurer la fréquence cardiaque. Autoriser ?"</string>
+  <string name="hr_open_permission_desc">"Xiaomi Health doit accéder au capteur photo de votre téléphone pour pouvoir mesurer la fréquence cardiaque. Autoriser ?"</string>
   <string name="hr_open_permission_title">Permissions requises</string>
   <string name="hr_phone_detect_records">Historique des mesures du téléphone</string>
   <string name="hr_pre_detect">Couvrez complètement le flash et le capteur avec un doigt</string>
@@ -618,7 +618,7 @@ Recommencer."</string>
   <string name="indoor_running">Tapis de course</string>
   <string name="input_body_weight">Entrez les données de poids pour obtenir des conseils de santé</string>
   <string name="inquire_recover_data">Restaurer les données de santé maintenant?</string>
-  <string name="inquire_recover_data_subtitle">Il semble que des données de santé soient associées à votre compte Mi (%1$s). Activer la synchronisation avec le cloud et restaurer les données maintenant ?</string>
+  <string name="inquire_recover_data_subtitle">Il semble que des données de santé soient associées à votre compte Mi (%1$s). Activer la synchronisation avec le cloud et restaurer les données maintenant ?</string>
   <string name="instructions_provider">Instructions fournies par Miao Health</string>
   <string name="insufficient">Insuffisant</string>
   <string name="internal_training">HIIP</string>
@@ -988,7 +988,7 @@ Recommencer."</string>
   <string name="question_data_source_unable_add">"Impossible d'ajouter des sources de données"</string>
   <string name="question_data_synchronization_not_timely">Les données ne peuvent pas être synchronisées ou ne sont pas synchronisées à temps</string>
   <string name="question_device_not_found">Je ne trouve pas mes appareils</string>
-  <string name="question_multiple_same_name_data_sources">Pourquoi plusieurs sources de données ont-elles le même nom ?</string>
+  <string name="question_multiple_same_name_data_sources">Pourquoi plusieurs sources de données ont-elles le même nom ?</string>
   <string name="rate_bit_high">Élevé</string>
   <string name="rate_bit_low">Faible</string>
   <string name="rate_bone_mass_reduce">Masse osseuse réduite</string>
@@ -1019,8 +1019,8 @@ Recommencer."</string>
   <string name="remind_goto_sleep">"Il est tard maintenant. Il est l'heure d'aller dormir."</string>
   <string name="remind_menstruation_acquired_start">Il se peut que vos règles commencent dans deux jours</string>
   <string name="remind_open_tips">Autoriser Mi Santé à vous rappeler les règles à venir</string>
-  <string name="remind_query_menstruation_end">"Vos règles sont-elles terminées ? N'oubliez-pas de les enregistrer."</string>
-  <string name="remind_query_menstruation_start">"Vos règles ont-elles commencé ? N'oubliez-pas de les enregistrer."</string>
+  <string name="remind_query_menstruation_end">"Vos règles sont-elles terminées ? N'oubliez-pas de les enregistrer."</string>
+  <string name="remind_query_menstruation_start">"Vos règles ont-elles commencé ? N'oubliez-pas de les enregistrer."</string>
   <string name="remind_sleep_report_complete">Les statistiques de sommeil sont prêtes</string>
   <string name="remind_sleep_report_content">Vous avez dormi %1$d h %2$d min la nuit dernière. Appuyez pour voir les détails.</string>
   <string name="remind_sleep_report_content_1">Vous avez dormi %1$d h la nuit dernière. Appuyez pour voir les détails.</string>
@@ -1058,7 +1058,7 @@ Recommencer."</string>
   <string name="sedentary_popular_science">"Vous asseoir ou bouger pendant longtemps n'est pas bon pour vous. À moins que vous ne dormiez, essayez de bouger au moins deux minutes toutes les heures. Souvenez-vous qu'il n'est pas recommandé de rester immobile pendant plus de six heures dans la journée."</string>
   <string name="sedentary_reminder_channel_name">Se rappeler de bouger</string>
   <string name="sedentary_reminder_subject">Se rappeler de bouger</string>
-  <string name="sedentary_time_is_too_long">"Il est temps de bouger ! Buvez un peu d'eau et allez marcher un peu."</string>
+  <string name="sedentary_time_is_too_long">"Il est temps de bouger ! Buvez un peu d'eau et allez marcher un peu."</string>
   <string name="sedentary_title">Se rappeler de bouger</string>
   <string name="sedentary_toggle_content">Mi Santé vous rappellera de vous lever et de marcher si vous avez été inactif sur une longue période.</string>
   <string name="sedentaty_hazard_description">"Sitting down doesn't benefit your health. 12 hours with 1-minute stand-up breaks every day will help you avoid the risks of a sedentary lifestyle."</string>
@@ -1138,18 +1138,18 @@ Recommencer."</string>
   <string name="sleep_detection_guide_two_title">"Placez l'appareil à côté de votre oreiller"</string>
   <string name="sleep_detection_hint">"Les statistiques sont fournies à titre indicatif uniquement. Ils ne peuvent pas être utilisés comme motif de diagnostic médical."</string>
   <string name="sleep_detection_question_four_answer">"Différents types d'appareils mobiles sont équipés de différents capteurs. Les valeurs de consommation d'énergie peuvent varier pour différents éléments matériels."</string>
-  <string name="sleep_detection_question_four_title">"Pourquoi différents appareils consomment-ils différentes quantités d'énergie pour suivre le sommeil ?"</string>
+  <string name="sleep_detection_question_four_title">"Pourquoi différents appareils consomment-ils différentes quantités d'énergie pour suivre le sommeil ?"</string>
   <string name="sleep_detection_question_one_answer">"Lorsque votre appareil est éteint, redémarré ou que la batterie est faible, le suivi du sommeil est interrompu car les capteurs ne peuvent pas collecter et analyser les données. Dans de tels cas, les statistiques de sommeil seront incomplètes.
 Si ce problème se produit fréquemment, vérifiez sur votre appareil les tâches d'arrêt planifiées ou les mises à jour du système pendant la nuit."</string>
   <string name="sleep_detection_question_one_answer_1">"Les phases de sommeil profond et léger sont détectées en se basant sur les données des mouvements du corps collectées par les capteurs de votre appareil. C'est pourquoi il peut arriver que vous ne voyiez pas les statistiques:
 1. Xiaomi Santé n'a pas pu collecter les données. Cela peut arriver lorsque votre appareil s'éteint durant votre sommeil, ou si sa batterie est trop déchargée, ou encore si l'application n'est pas autorisée à fonctionner en arrière-plan. Autorisez Xiaomi Santé à démarrer automatiquement, ajoutez-la aux exceptions de l'économiseur de batterie, et permettez son fonctionnement en arrière-plan pour empêcher cela.
 2. Xiaomi Santé n'a pas pu analyser les données collectées. Cela peut arriver si votre téléphone est placé trop loin de votre corps lors de votre sommeil. Ou bien les mouvements corporels sont trop subtils pour pouvoir en déduire les changements de cycles de sommeil. Nous améliorons constamment nos algorithmes pour rendre meilleures les analyses de votre sommeil par Xiaomi Santé ."</string>
-  <string name="sleep_detection_question_one_title">Pourquoi mes statistiques sont-elles incomplètes ?</string>
-  <string name="sleep_detection_question_one_title_1">Pourquoi ne vois-je pas les statistiques du cycle de sommeil ?</string>
+  <string name="sleep_detection_question_one_title">Pourquoi mes statistiques sont-elles incomplètes ?</string>
+  <string name="sleep_detection_question_one_title_1">Pourquoi ne vois-je pas les statistiques du cycle de sommeil ?</string>
   <string name="sleep_detection_question_three_answer">"Votre appareil suit les mouvements de votre corps pendant le sommeil à l'aide de capteurs intégrés. Pour rendre les statistiques plus précises, placez l'appareil sur une surface douce près de votre corps. Évitez de le placer sur des tables de chevet ou trop loin du matelas."</string>
-  <string name="sleep_detection_question_three_title">Comment puis-je rendre mes statistiques plus précises ?</string>
+  <string name="sleep_detection_question_three_title">Comment puis-je rendre mes statistiques plus précises ?</string>
   <string name="sleep_detection_question_two_answer">"Vos cycles de sommeil sont analysés localement sur l'appareil. Le suivi du sommeil fonctionnera même lorsque vous n'êtes pas connecté au réseau ou que votre connexion actuelle est interrompue."</string>
-  <string name="sleep_detection_question_two_title">Dois-je me connecter à internet pour analyser les cycles de sommeil ?</string>
+  <string name="sleep_detection_question_two_title">Dois-je me connecter à internet pour analyser les cycles de sommeil ?</string>
   <string name="sleep_detector_content">Mi Santé piste votre sommeil en arrière-plan</string>
   <string name="sleep_detector_title">Pister le sommeil</string>
   <string name="sleep_detector_unopened">"Vous n'avez pas encore commencé à suivre votre sommeil."</string>
@@ -1168,7 +1168,7 @@ Si ce problème se produit fréquemment, vérifiez sur votre appareil les tâche
   <string name="sleep_goal_not_compliance">Sommeil insuffisant</string>
   <string name="sleep_goal_not_upto_standard">"Tu n'as pas assez dormi."</string>
   <string name="sleep_health_model_hint">"Recommandations d'évaluation du sommeil fournies par Miao Health"</string>
-  <string name="sleep_incomplete_deep_light_data_tip">"Pourquoi les informations sur le sommeil léger et profond sont-elles incomplètes ?"</string>
+  <string name="sleep_incomplete_deep_light_data_tip">"Pourquoi les informations sur le sommeil léger et profond sont-elles incomplètes ?"</string>
   <string name="sleep_keep_hard">Problèmes pour rester endormi</string>
   <string name="sleep_light">Sommeil léger</string>
   <string name="sleep_management_content1">Définissez des rappels pour vous coucher et vous lever</string>
@@ -1181,7 +1181,7 @@ Si ce problème se produit fréquemment, vérifiez sur votre appareil les tâche
   <string name="sleep_night_title">Sommeil de nuit</string>
   <string name="sleep_no_data_info">"Allez pour un parcours de
     sommeil entier"</string>
-  <string name="sleep_no_deep_light_data_tip">"Pourquoi les sommeils léger et profond ne sont-ils pas enregistrés ?"</string>
+  <string name="sleep_no_deep_light_data_tip">"Pourquoi les sommeils léger et profond ne sont-ils pas enregistrés ?"</string>
   <string name="sleep_no_generate_report">"Impossible de trouver les
     données de sommeil"</string>
   <string name="sleep_notice">Notifications de sommeil</string>
@@ -1217,7 +1217,7 @@ Si ce problème se produit fréquemment, vérifiez sur votre appareil les tâche
   <string name="sleep_time_standard_pattern">Norme: %1$d h</string>
   <string name="sleep_tip_default">"Essayez d'aller au lit avant 23:00"</string>
   <string name="sleep_tip_keep_not_enough">"Il semblerait que vous n'avez pas assez de sommeil."</string>
-  <string name="sleep_tip_keep_on">Tout semble bon. Très bien !</string>
+  <string name="sleep_tip_keep_on">Tout semble bon. Très bien !</string>
   <string name="sleep_today">"Aujourd'hui"</string>
   <string name="sleep_tracing_operation">Suivi du sommeil…</string>
   <string name="sleep_track">Suivi du sommeil</string>
@@ -1234,7 +1234,7 @@ Si ce problème se produit fréquemment, vérifiez sur votre appareil les tâche
   <string name="snore_detection_abnormal_state_description">Le microphone est désactivé</string>
   <string name="snore_detection_close_prompt">La détection des ronflements et des conversations est désactivée</string>
   <string name="snore_detection_close_prompt_desc">"Vous n'avez pas détecté de ronflement et de conversation depuis un moment. Nous avons désactivé cette fonctionnalité pour que vous puissiez économiser la batterie. Appuyez pour vérifier les paramètres."</string>
-  <string name="snore_detection_close_title">Désactiver la détection des ronflements et des conversations ?</string>
+  <string name="snore_detection_close_title">Désactiver la détection des ronflements et des conversations ?</string>
   <string name="snore_detection_enable">Détecter le ronflement et parler</string>
   <string name="snore_detection_guide_one_description">"Le son sera enregistré pendant que vous dormez. L'apprentissage automatique permet à Xiaomi Santé de détecter les ronflements, les conversations et les bruits forts et de sauvegarder les enregistrements sur votre appareil."</string>
   <string name="snore_detection_guide_one_title">"Enregistrer de l'audio à l'aide d'un microphone"</string>
@@ -1254,13 +1254,13 @@ Si ce problème se produit fréquemment, vérifiez sur votre appareil les tâche
   <string name="snore_detection_sotp_opt_1">Arrêtez et supprimer les résultats</string>
   <string name="snore_detection_sotp_opt_2">Arrêtez et enregistrez les résultats</string>
   <string name="snore_detection_stop_pop_content">Vous ne pourrez pas reprendre cette session si vous y mettez fin maintenant. La prochaine session commencera lorsque vous vous coucherez la prochaine fois.</string>
-  <string name="snore_detection_stop_pop_title">Arrêter la session actuelle de détection des ronflements ?</string>
+  <string name="snore_detection_stop_pop_title">Arrêter la session actuelle de détection des ronflements ?</string>
   <string name="snore_detection_stopped_notification_title">Arrêt de la détection des ronflements et des conversations</string>
   <string name="snore_dream_talk">Ronflement et conversation</string>
   <string name="snore_duration_label">Durée du ronflement</string>
   <string name="snore_label">Ronflement</string>
-  <string name="snore_record_audio_delete_message">"Cet enregistrement est stocké sur votre appareil uniquement. Vous ne pourrez pas le restaurer si vous le supprimez. Supprimer quand même ?"</string>
-  <string name="snore_record_audio_delete_title">"Supprimer l'enregistrement ?"</string>
+  <string name="snore_record_audio_delete_message">"Cet enregistrement est stocké sur votre appareil uniquement. Vous ne pourrez pas le restaurer si vous le supprimez. Supprimer quand même ?"</string>
+  <string name="snore_record_audio_delete_title">"Supprimer l'enregistrement ?"</string>
   <string name="snore_section">Ronflement %1$s</string>
   <string name="snore_write_description">Pour sauvegarder des enregistrements audio sur votre appareil</string>
   <string name="sport_audio_permission_dialog_content">"Cette application a besoin d'autorisations pour enregistrer de l'audio pour pouvoir suivre les entraînements en fonction des sons que vous produisez."</string>
@@ -1274,9 +1274,9 @@ Si ce problème se produit fréquemment, vérifiez sur votre appareil les tâche
   <string name="sport_counter_begin">Commencer maintenant</string>
   <string name="sport_home_begin">Commencer</string>
   <string name="sport_home_set_goal">Fixer objectif</string>
-  <string name="sport_invalid_dialog_distance_content">La distance que vous avez parcourue pendant cet entraînement est trop courte pour créer un historique. Terminer cet entraînement quand même ?</string>
-  <string name="sport_invalid_dialog_time_content">"Cet entraînement a duré moins de 5 secondes. Terminer maintenant sans l'enregistrer ?"</string>
-  <string name="sport_invalid_dialog_title">Trop rapide !</string>
+  <string name="sport_invalid_dialog_distance_content">La distance que vous avez parcourue pendant cet entraînement est trop courte pour créer un historique. Terminer cet entraînement quand même ?</string>
+  <string name="sport_invalid_dialog_time_content">"Cet entraînement a duré moins de 5 secondes. Terminer maintenant sans l'enregistrer ?"</string>
+  <string name="sport_invalid_dialog_title">Trop rapide !</string>
   <string name="sport_menu_share">Partager</string>
   <string name="sport_no_internet_toast">"Impossible d'accéder à votre emplacement précis en raison d'un signal réseau médiocre."</string>
   <string name="sport_outdoor_running">Course en extérieur</string>
@@ -1300,9 +1300,9 @@ Si ce problème se produit fréquemment, vérifiez sur votre appareil les tâche
   <string name="sport_tts_begin_riding">Démarrer le pédalage</string>
   <string name="sport_tts_begin_running">Démarrer la course</string>
   <string name="sport_tts_begin_walking">Démarrer la marche</string>
-  <string name="sport_tts_finish_by_user">"C'était un bon entraînement !"</string>
-  <string name="sport_tts_goal_finish">Vous avez atteint votre objectif ! Félicitations !</string>
-  <string name="sport_tts_goal_finish_half">Vous êtes à mi-chemin ! Continuez !</string>
+  <string name="sport_tts_finish_by_user">"C'était un bon entraînement !"</string>
+  <string name="sport_tts_goal_finish">Vous avez atteint votre objectif ! Félicitations !</string>
+  <string name="sport_tts_goal_finish_half">Vous êtes à mi-chemin ! Continuez !</string>
   <string name="sport_tts_last_km_spent">Vous avez parcouru le dernier kilomètre en %s</string>
   <string name="sport_tts_pause_by_user">Entraînement mis en pause</string>
   <string name="sport_type">"Type d'entraînement"</string>
@@ -1329,12 +1329,12 @@ Si ce problème se produit fréquemment, vérifiez sur votre appareil les tâche
   <string name="stand_notice">Avis de station debout</string>
   <string name="stand_notice_subtitle1">"%1$s-%2$s n'a pas détecté de station debout. Si vous êtes déjà debout, cliquez sur Terminer"</string>
   <string name="stand_notice_subtitle2">Si vous vous êtes déjà levé, veuillez cliquer pour terminer. Vous ne vous êtes pas levé et étiré.</string>
-  <string name="stand_notice_title1">Levez-vous et soyez actif !</string>
+  <string name="stand_notice_title1">Levez-vous et soyez actif !</string>
   <string name="stand_notice_title2">Avis de station debout</string>
   <string name="stand_notice_title3">Assis pendant longtemps</string>
   <string name="stand_notice_title4">Levez-vous et étirez-vous</string>
   <string name="stand_notice_title5">Aucune station debout depuis presque 1 heure</string>
-  <string name="stand_notice_title6">Vous êtes-vous mis debout au cours de la dernière heure ?</string>
+  <string name="stand_notice_title6">Vous êtes-vous mis debout au cours de la dernière heure ?</string>
   <string name="stand_remind_setting_desc">"Recevez un rappel pour vous lever après 1 heure d'inactivité"</string>
   <string name="stand_setting">Réglage</string>
   <string name="stand_stop_reminding">Ne plus afficher</string>
@@ -1361,7 +1361,7 @@ Si ce problème se produit fréquemment, vérifiez sur votre appareil les tâche
   <string name="suggestion_drink_content">Faites attention à votre épuisement et essayez de vous détendre.</string>
   <string name="suggestion_drink_title">"Buvez un peu d'eau et détendez vous"</string>
   <string name="suggestion_move_content">Marchez une centaine de pas ou montez les escaliers.</string>
-  <string name="suggestion_move_title">"C'est le moment de bouger !"</string>
+  <string name="suggestion_move_title">"C'est le moment de bouger !"</string>
   <string name="suggestion_title">Suggestions</string>
   <string name="suitable">Adapté</string>
   <string name="sunday">Dimanche</string>
@@ -1647,8 +1647,8 @@ Si ce problème se produit fréquemment, vérifiez sur votre appareil les tâche
   <string name="update_notify_dialog_msg">"Une mise à jour est disponible: %1$s.
 Nouveautés:
 %2$s
-Mettre à jour maintenant ?"</string>
-  <string name="update_notify_dialog_msg2">Une mise à jour est disponible: %1$s. Mettez à jour maintenant ?</string>
+Mettre à jour maintenant ?"</string>
+  <string name="update_notify_dialog_msg2">Une mise à jour est disponible: %1$s. Mettez à jour maintenant ?</string>
   <string name="update_notify_dialog_title">Une mise à jour est disponible</string>
   <string name="update_notify_no_update_log">Rien encore ici.</string>
   <string name="upgrade_suggestion">Mettez à jour Xiaomi Santé avec la dernière version et réessayez.</string>
@@ -1668,7 +1668,7 @@ Mettre à jour maintenant ?"</string>
   <string name="wednesday_short">Mer</string>
   <string name="wednesday_shortest">Mer</string>
   <string name="weight_height_weight_bmi">Indice de masse corporelle</string>
-  <string name="weight_keep_up">Génial ! Continuez à maintenir un poids adapté.</string>
+  <string name="weight_keep_up">Génial ! Continuez à maintenir un poids adapté.</string>
   <string name="weight_notice">Notifications de poids</string>
   <string name="weight_remind">Rappels de pesée</string>
   <string name="weight_setting">Paramétrages du poids</string>
@@ -1690,7 +1690,7 @@ Mettre à jour maintenant ?"</string>
 Taille: %2$s"</string>
   <string name="xiaomi_update_sdk_dialog_message_diff">"Présentation de la version %1$s
 Taille de mise à jour Delta: %2$s"</string>
-  <string name="xiaomi_update_sdk_dialog_title">%1$s mise à jour !</string>
+  <string name="xiaomi_update_sdk_dialog_title">%1$s mise à jour !</string>
   <string name="xiaomi_update_sdk_external_storage_unavailable">Espace de stockage indisponible, vérifiez la carte SD.</string>
   <string name="xiaomi_update_sdk_kilobytes_unit">"%1$s Ko"</string>
   <string name="xiaomi_update_sdk_megabytes_unit">"%1$s Mo"</string>
