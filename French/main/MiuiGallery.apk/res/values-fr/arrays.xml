@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="acc_category_color_description">
+        <item>Blanc</item>
+        <item>Bleu foncé</item>
+        <item>Bleu clair</item>
+        <item>Rouge</item>
+        <item>Vert</item>
+        <item>Rose</item>
+        <item>Marron</item>
+        <item>Gris</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>Sélectionner une image</item>
+        <item>Fond transparent</item>
+    </string-array>
     <string-array name="activities_title">
         <item>Journée spéciale</item>
         <item>Journée mémorable</item>
@@ -21,28 +35,28 @@
         <item>Vendredi dernier</item>
     </string-array>
     <string-array name="chinese_holiday_last_year">
-        <item>"Last Chinese New Year's Eve"</item>
-        <item>Last Chinese New Year</item>
-        <item>Last Lantern Festival</item>
-        <item>Last Dragon Boat Festival</item>
-        <item>Last Qixi Festival</item>
-        <item>Last Mid-Autumn Festival</item>
+        <item>Dernier réveillon du nouvel an chinois</item>
+        <item>Dernier nouvel an chinois</item>
+        <item>Dernière fête des lanternes</item>
+        <item>Dernière fête des bateaux-dragons</item>
+        <item>Dernière nuit du septième mois (qīxī)</item>
+        <item>Dernière fête de la mi-automne</item>
     </string-array>
     <string-array name="chinese_holiday_past_year">
-        <item>"Chinese New Year's Eve through the years"</item>
-        <item>Chinese New Year through the years</item>
-        <item>Lantern Festival through the years</item>
-        <item>Dragon Boat Festival through the years</item>
-        <item>Qixi Festival through the years</item>
-        <item>Mid-Autumn Festival through the years</item>
+        <item>Réveillon du nouvel an chinois à travers les années</item>
+        <item>Nouvel an chinois à travers les années</item>
+        <item>Fête des lanternes à travers les années</item>
+        <item>Fête des bateaux-dragons à travers les années</item>
+        <item>Qīxī à travers les années</item>
+        <item>Fête de la mi-automne à travers les années</item>
     </string-array>
     <string-array name="holiday_past_year">
-        <item>"New Year's Day through the years"</item>
-        <item>"Valentine's Day through the years"</item>
-        <item>Labor Day through the years</item>
-        <item>"Children's Day through the years"</item>
-        <item>National Day through the years</item>
-        <item>Christmas through the years</item>
+        <item>"Jour de l'An à travers les années"</item>
+        <item>Saint-Valentin à travers les années</item>
+        <item>Fête du Travail à travers les années</item>
+        <item>"Journée de l'enfance à travers les années"</item>
+        <item>Fête nationale à travers les années</item>
+        <item>Noël à travers les années</item>
     </string-array>
     <string-array name="last_month">
         <item>Janvier</item>
@@ -71,6 +85,133 @@
     <string-array name="last_year_group_people">
         <item>Nouveaux amis et vieux copains</item>
         <item>"Rencontres de l'an dernier"</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>Loisir</item>
+        <item>Brise</item>
+        <item>Rêves</item>
+        <item>Nuages</item>
+        <item>Pensées</item>
+        <item>Bourgeons</item>
+        <item>Métamorphose</item>
+        <item>Profondeur</item>
+        <item>Réflexions</item>
+        <item>Minimaliste</item>
+        <item>Mystère</item>
+        <item>Brouillard</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>Transformez les arrière-plans en croquis</item>
+        <item>Arrière-plans de style aquarelle</item>
+        <item>Cyberpunk rétro</item>
+        <item>Segments verticaux mal placés</item>
+        <item>Flou brumeux</item>
+        <item>Sensation futuriste</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>Croquis</item>
+        <item>Aquarelle</item>
+        <item>RVB</item>
+        <item>Stores</item>
+        <item>Fenêtre brumeuse</item>
+        <item>Tech</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>Contour coloré</item>
+        <item>Contour pointillé</item>
+        <item>Contour fluorescent</item>
+        <item>Ombre colorée</item>
+        <item>Vague électrique</item>
+        <item>Courant</item>
+        <item>Texte</item>
+        <item>Ailes</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>Général</item>
+        <item>Voyage</item>
+        <item>Travail</item>
+        <item>Documents</item>
+        <item>Éducation</item>
+        <item>Examens</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>Sécurité sociale</item>
+        <item>État de santé</item>
+        <item>Assurance médicale</item>
+        <item>Identité</item>
+        <item>Titre de séjour</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>Un cun</item>
+        <item>Deux cuns</item>
+        <item>Un cun plus petit</item>
+        <item>Deux cuns plus petits</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>"Demande d'admission"</item>
+        <item>Réseau étudiant</item>
+        <item>Réseau étudiant pour les écoles primaires</item>
+        <item>Profil du réseau étudiant</item>
+        <item>"Admission à l'université"</item>
+        <item>NCEE</item>
+        <item>CV</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>College English Test 1</item>
+        <item>College English Test 2</item>
+        <item>College English Test 3</item>
+        <item>Putonghua Proficiency Test 1</item>
+        <item>Putonghua Proficiency Test 2</item>
+        <item>Degree English Test</item>
+        <item>PET for colleges</item>
+        <item>PETS Level 3</item>
+        <item>National Computer Rank Examination 1</item>
+        <item>National Computer Rank Examination 2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>Primary and secondary school teacher certification</item>
+        <item>Teacher certification</item>
+        <item>"Driver's license"</item>
+        <item>Guide permit</item>
+        <item>Electronic guide permit</item>
+        <item>National judicial examination</item>
+        <item>Electronic first-class constructor certificate</item>
+        <item>Second-class constructor certificate</item>
+        <item>Junior accounting title examination</item>
+        <item>Certified public accountant</item>
+        <item>Beijing guide permit</item>
+        <item>Intermediate accounting title examination</item>
+        <item>Senior accounting title examination</item>
+        <item>Accounting qualification certificate</item>
+        <item>Certified public accountant examination</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>États-Unis</item>
+        <item>Viêt Nam</item>
+        <item>Japon</item>
+        <item>Hong Kong et Macao</item>
+        <item>Corée du Sud</item>
+        <item>Thaïlande (tourist)</item>
+        <item>Thaïlande (on arrival)</item>
+        <item>Inde</item>
+        <item>Israël</item>
+        <item>Taiwan</item>
+        <item>Malaisie</item>
+        <item>Nouvelle Zélande</item>
+        <item>Italie</item>
+        <item>Argentine</item>
+        <item>Brésil</item>
+        <item>Islande</item>
+        <item>Kenya</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>Move</item>
+        <item>Copy</item>
+        <item>@string/cancel</item>
     </string-array>
     <string-array name="menu_copy_or_move">
         <item>Déplacer</item>
@@ -162,6 +303,6 @@
         <item>Week-end passé</item>
         <item>Jours à retenir</item>
         <item>Événements quotidiens</item>
-        <item>Ordinaire et Extraordinaire</item>
+        <item>Ordinaire et extraordinaire</item>
     </string-array>
 </resources>

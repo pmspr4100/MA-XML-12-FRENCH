@@ -2603,12 +2603,12 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
   <string name="face_data_input_camera_ok">Loading camera…</string>
   <string name="face_data_input_cancel_msg">"Couldn't add face data"</string>
   <string name="face_data_input_ok">Terminé</string>
-  <string name="face_data_input_ok_title">Added successfully</string>
-  <string name="face_data_input_structure_title">3D face data</string>
+  <string name="face_data_input_ok_title">Ajouté avec succès</string>
+  <string name="face_data_input_structure_title">Données de visage 3D</string>
   <string name="face_data_input_title">Ajouter des données de visage</string>
-  <string name="face_data_introduction_msg">Face data can be used to unlock your device or verify your identity. Add Lock screen password before adding your face data.</string>
+  <string name="face_data_introduction_msg">"Les données de visage peuvent être utilisées pour déverrouiller votre appareil ou pour vérifier votre identité. Ajoutez un mot de passe pour bloquer l'écran avant d'ajouter vos données de visage."</string>
   <string name="face_data_introduction_next">Suivant</string>
-  <string name="face_data_introduction_title">Face recognition</string>
+  <string name="face_data_introduction_title">Reconnaissance faciale</string>
   <string name="face_data_manage_delete">Supprimer les données de visage ?</string>
   <string name="face_data_manage_delete_msg">Supprimer les données de visage</string>
   <string name="face_data_manage_delete_sure">"Vous ne pourrez pas déverrouiller l'appareil à l'aide de vos données de visage après l'avoir supprimé."</string>
@@ -2618,7 +2618,7 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
   <string name="face_data_manage_unlock_title">Déverrouillage par reconnaissance faciale</string>
   <string name="face_data_siggesstion_next">Suivant</string>
   <string name="face_data_siggesstion_next_time">Suivant (%ds)</string>
-  <string name="face_data_suggesstion_first">"Problèmes de sécurité: le déverrouillage du visage est moins sécurisé qu'un code PIN, un mot de passe ou un modèle. Votre appareil peut être déverrouillé avec votre photo, ainsi que par des personnes ou des objets d'apparence similaire."</string>
+  <string name="face_data_suggesstion_first">"Problèmes de sécurité: le déverrouillage du visage est moins sécurisé qu'un code PIN, un mot de passe ou un schéma. Votre appareil peut être déverrouillé avec votre photo, ainsi que par des personnes ou des objets d'apparence similaire."</string>
   <string name="face_data_suggesstion_second">"Assurez-vous que toutes les parties de votre visage ne sont pas couvertes par des objets et sont clairement visibles. Votre visage doit également être bien éclairé."</string>
   <string name="face_intro_error_max">Vous avez ajouté le nombre maximum de visages</string>
   <string name="face_intro_error_unknown">"Impossible d'ajouter plus de visages"</string>
@@ -4033,8 +4033,9 @@ D'autres personnes utilisent cet appareil.
   <string name="miui_allow_vibrate">Vibrations</string>
   <string name="miui_data_usage_menu_metered">"Points d'accès mobiles"</string>
   <string name="miui_experience_optimization">"Activer l'optimisation MIUI"</string>
-  <string name="miui_face_enroll_success">"Vous pouvez maintenant déverrouiller cet appareil en utilisant vos données faciales.
-Continuez pour accéder à des paramètres supplémentaires."</string>
+  <string name="miui_face_enroll_success">"Vous pouvez maintenant déverrouiller cet appareil
+en utilisant vos données faciales. Continuez pour accéder
+à des paramètres supplémentaires."</string>
   <string name="miui_input_method_settings">Paramètres de la méthode de saisie</string>
   <string name="miui_lab_3d_gesture_desc">"Ouvrez votre écran d'accueil et tracez l'un des motifs en l'air avec votre téléphone pour ouvrir les applications sélectionnées."</string>
   <string name="miui_lab_3d_gesture_slogan">"Tracez un motif en l'air avec votre téléphone pour ouvrir une application."</string>
@@ -4274,7 +4275,7 @@ Sélectionnez votre système d'exploitation:"</string>
   <string name="mtrl_picker_range_header_prompt">Choisissez une plage de dates</string>
   <string name="multi_face_delete_message">Attention</string>
   <string name="multi_face_delete_show_message">Supprimer les données de visage maintenant ?</string>
-  <string name="multi_face_input">Ajouter des données de visage</string>
+  <string name="multi_face_input">Ajout de données de visage</string>
   <string name="multi_face_input_reach_upper_limit">"Impossible d'ajouter des données de visage. Attendez une minute ou deux et réessayez."</string>
   <string name="multi_face_input_success_name_title">Nom</string>
   <string name="multi_face_list">Données du visage</string>
