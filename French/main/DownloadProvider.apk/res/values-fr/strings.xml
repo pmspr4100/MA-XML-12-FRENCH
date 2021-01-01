@@ -14,11 +14,11 @@
   <string name="dialog_button_cancel">Annuler</string>
   <string name="dialog_button_ok">OK</string>
   <string name="dialog_content_limit0">Restreindre les téléchargements</string>
-  <string name="download_running_percent">En cours, %d%%</string>
+  <string name="download_running_percent">Progression %d%%</string>
   <string name="dialog_content_limit_max">Illimité</string>
   <string name="dialog_data_limit_button1">Attendre le Wi-Fi</string>
   <string name="dialog_data_limit_button2">Télécharger maintenant</string>
-  <string name="dialog_data_limit_msg1">%s des données mobiles sera utilisé pour télécharger ce fichier. Télécharger maintenant ?</string>
+  <string name="dialog_data_limit_msg1">%s des données mobiles sera utilisé pour télécharger ce fichier. Télécharger maintenant ?</string>
   <string name="dialog_data_limit_msg3">Changer la limite</string>
   <string name="dialog_data_limit_title">"Avertissement d'utilisation des données"</string>
   <string name="dialog_insufficient_space_on_cache">"Pas assez d'espace sur le stockage interne"</string>
@@ -73,11 +73,11 @@
   <string name="privacy_notif_content">Appuyez pour afficher les détails.</string>
   <string name="privacy_notif_title">"L'accélérateur de téléchargement Xunlei est activé"</string>
   <string name="privacy_tip_cancel">Annuler</string>
-  <string name="privacy_tip_content">"Utilisez Xunlei Accelerator pour accélérer les téléchargements ? L'URL de l'hôte du téléchargement sera chargé sur les serveurs de Xunlei. Les détails de votre compte Mi seront également téléchargés pour vérifier si vous avez des abonnements actifs à ce service."</string>
+  <string name="privacy_tip_content">"Utilisez Xunlei Accelerator pour accélérer les téléchargements ? L'URL de l'hôte du téléchargement sera chargé sur les serveurs de Xunlei. Les détails de votre compte Mi seront également téléchargés pour vérifier si vous avez des abonnements actifs à ce service."</string>
   <string name="privacy_tip_ok">OK</string>
-  <string name="privacy_tip_title">Utiliser Xunlei Accelerator ?</string>
+  <string name="privacy_tip_title">Utiliser Xunlei Accelerator ?</string>
   <string name="recommended_file_size_download_in_mobile">Use %s of mobile data to download this file?</string>
-  <string name="recommended_no_file_size_download_in_mobile">Utilisez votre connexion de données mobile pour télécharger ce fichier ?</string>
+  <string name="recommended_no_file_size_download_in_mobile">Utilisez votre connexion de données mobile pour télécharger ce fichier ?</string>
   <string name="root_downloads">Téléchargements</string>
   <string name="task_already_exist">La tâche existe déjà</string>
   <string name="warning_tip_cancel">Télécharger</string>
@@ -87,7 +87,7 @@
   <string name="wifi_recommended_body">"Starting this %1$s download now may result in excessive usage of your mobile data connection, which can lead to charges by your mobile operator depending on your data plan.
 
 Tap %2$s to start this download the next time you're connected to a WLAN network."</string>
-  <string name="wifi_recommended_title">Mettre en attente pour télécharger plus tard ?</string>
+  <string name="wifi_recommended_title">Mettre en attente pour télécharger plus tard ?</string>
   <string name="wifi_required_body">"Connect to WLAN to complete this %1$s download. 
 
 Tap %2$s to start this download the next time you're connected to a WLAN network."</string>

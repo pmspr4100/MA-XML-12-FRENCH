@@ -36,13 +36,13 @@
   <string name="passport_login">Se connecter</string>
   <string name="passport_relogin">Se connecter à nouveau</string>
   <string name="passport_skip_login">Ignorer</string>
-  <string name="passport_skip_setup_account_msg">"La connexion au compte Mi vous permet d'utiliser les services Xiaomi Cloud. Passer cette étape quand même ?"</string>
+  <string name="passport_skip_setup_account_msg">"La connexion au compte Mi vous permet d'utiliser les services Xiaomi Cloud. Passer cette étape quand même ?"</string>
   <string name="passport_skip_setup_account_title">Compte Mi et Xiaomi Cloud</string>
   <string name="passport_confirm_login">Se connecter</string>
   <string name="passport_find_password_on_web_msg">Veuillez visiter account.mi.com pour récupérer votre mot de passe.</string>
   <string name="passport_first_login_prompt">Le compte Mi sera créé automatiquement lorsque vous vous connecterez pour la première fois.</string>
   <string name="passport_title_reg">Créer un compte</string>
-  <string name="passport_reg_prompt">"Vous n'avez pas un Compte Mi ? Créez en un gratuitement."</string>
+  <string name="passport_reg_prompt">"Vous n'avez pas un Compte Mi ? Créez en un gratuitement."</string>
   <string name="passport_uplink_reg">Utiliser un numéro de téléphone</string>
   <string name="passport_uplink_slot1_reg">Utiliser la SIM 1</string>
   <string name="passport_uplink_slot2_reg">Utiliser la SIM 2</string>
@@ -64,10 +64,10 @@
   <string name="passport_send_too_many_code">Trop de codes de vérification ont été envoyés à ce numéro. Attendez 24 heures et essayez à nouveau.</string>
   <string name="passport_restart_register_title">Créer un compte Mi</string>
   <string name="passport_restart_register_prompt">Un autre message de vérification peut être requis pour créer votre compte.</string>
-  <string name="passport_wait_for_sms_prompt">Recommencez du début ? Les messages de vérifications peuvent mettre 10 minutes à être reçus quand votre téléphone est couvert par le réseau de votre opérateur.</string>
+  <string name="passport_wait_for_sms_prompt">Recommencez du début ? Les messages de vérifications peuvent mettre 10 minutes à être reçus quand votre téléphone est couvert par le réseau de votre opérateur.</string>
   <string name="passport_send_vcode_failed">"Impossible d'envoyer le code"</string>
   <string name="passport_sms_send_success">Envoyé</string>
-  <string name="passport_recycle_account_prompt">Est-ce votre compte Mi ?</string>
+  <string name="passport_recycle_account_prompt">Est-ce votre compte Mi ?</string>
   <string name="passport_confirm_recycle_account">Oui</string>
   <string name="passport_reject_recycle_account">Non</string>
   <string name="account_user_id_show">Compte Mi: %s</string>
@@ -87,12 +87,15 @@
   <string name="help_center">Aide</string>
   <string name="mi_health">Xiaomi Santé</string>
   <string name="not_set">Non défini</string>
-  <string name="passport_google_login">Sign in with the previously used Google Account?</string>
+  <string name="passport_google_login">Vous connecter avec le compte Google précédemment utilisé ?</string>
   <string name="passport_google_login_agree">Compte Google</string>
   <string name="passport_google_login_disagree">Compte Mi</string>
-  <string name="passport_google_login_failed">"Couldn't sign in with Google. Sign in to your Mi Account directly."</string>
-  <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
-  <string name="state_data_error">"Couldn't get data"</string>
+  <string name="passport_google_login_failed">Impossible de se connecter avec Google. Connectez-vous directement à votre Compte Mi.</string>
+  <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
+  <string name="provision_back">Retour</string>
+  <string name="provision_next">Suivant</string>
+  <string name="provision_skip_underline">Ignorer</string>
+  <string name="state_data_error">"Impossible d'obtenir les données"</string>
   <string name="state_loading">Chargement…</string>
   <string name="passport_input_password_for_login">Ce numéro est associé à un compte existant, entrez votre mot de passe</string>
   <string name="passport_registered_phone_user_ID">ID utilisateur: %s</string>
@@ -102,7 +105,7 @@
   <string name="passport_reset_password_title">Réinitialiser le mot de passe</string>
   <string name="passport_auto_generate_pwd">Générer un mot de passe</string>
   <string name="passport_pwd_generate_failure">Impossible de générer un mot de passe</string>
-  <string name="passport_use_generated_pwd_title">Se souvenir de votre mot de passe !</string>
+  <string name="passport_use_generated_pwd_title">Se souvenir de votre mot de passe !</string>
   <string name="passport_use_generated_pwd_message">"Assurez-vous de vous souvenir de votre mot de passe. Vous pourrez l'utiliser pour vous connecter à d'autres services Mi."</string>
   <string name="passport_register_restricted_title">"Impossible d'utiliser ce numéro de téléphone"</string>
   <string name="passport_register_restricted">Trop de comptes ont été associés à ce numéro, essayez avec un autre</string>
@@ -124,7 +127,7 @@
   <string name="passport_account_not_activated">"Votre compte n'a pas été activé "</string>
   <string name="passport_change_account">Changer de compte</string>
   <string name="passport_btn_change_account">Changer de compte</string>
-  <string name="passport_can_not_receive_verification_code">Impossible de recevoir le code de vérification ?</string>
+  <string name="passport_can_not_receive_verification_code">Impossible de recevoir le code de vérification ?</string>
   <string name="passport_register_account_verified_confirm">Compte vérifié</string>
   <string name="passport_register_account_goto_email">Aller à la boite de réception</string>
   <string name="passport_error_dup_email">"L'Email que vous avez entré est déjà associé à un autre compte."</string>
@@ -227,12 +230,14 @@
   <string name="passport_sms_verification_code_login">Se connecter via SMS</string>
   <string name="passport_sms_verification_code_login_or_register">Se connecter ou créer un compte en utilisant SMS</string>
   <string name="passport_login_other_account">Autre compte</string>
+  <string name="passport_login_other_phone">Utiliser un autre compte</string>
   <string name="passport_reg_new_account">Créer un compte</string>
   <string name="passport_select_the_login_account">Sélectionner le compte à connecter</string>
   <string name="passport_select_the_register_phone">Sélectionner le numéro de téléphone pour créer un compte</string>
   <string name="passport_select_the_recycle_phone_login">Sélectionner votre compte</string>
   <string name="passport_recycle_login_other_account">"Ils ne sont pas les miens. J'utiliserai un autre."</string>
-  <string name="passport_registered_phone_num">Numéro de téléphone: %s</string>
+  <string name="passport_registered_phone_num">Numéro de téléphone : %s</string>
+  <string name="passport_registered_phone_num_v2">Numéro de téléphone</string>
   <string name="passport_quick_login">Se connecter</string>
   <string name="passport_error_verify_activator_phone_title">Impossible de vérifier le numéro de téléphone</string>
   <string name="passport_error_verify_activator_phone_message">"Assurez-vous que le service de la carte SIM est activé et que l'appareil est connecté au réseau."</string>
@@ -249,13 +254,13 @@
   <string name="passport_user_reg_region_warning">Vous ne serez plus en mesure de modifier votre pays/région une fois le compte créé.</string>
   <string name="passport_sync_account_data">Synchronisation des informations du compte…</string>
   <string name="passport_sync_account_data_failed_warning">"Les infos de votre compte sont en cours de synchronisation actuellement, vous pouvez vous connecter grâce à votre compte Mi. Si vous souhaitez vous connecter avec votre numéro de téléphone, patientez jusqu'à ce que les informations soient complèment synchronisées."</string>
-  <string name="passport_confirm_recycle_account_msg">&lt;font color=Red>Il semble&lt;/font> que le numéro %s a été recyclé par votre opérateur, et il est associé à un compte Mi. Ce compte est-il le vôtre ?</string>
+  <string name="passport_confirm_recycle_account_msg">&lt;font color=Red>Il semble&lt;/font> que le numéro %s a été recyclé par votre opérateur, et il est associé à un compte Mi. Ce compte est-il le vôtre ?</string>
   <string name="passport_login_recycle_account_yes">Oui</string>
   <string name="passport_login_recycle_account_no">Non</string>
   <string name="passport_reg_recycle_account_yes">Oui</string>
   <string name="passport_reg_recycle_account_no">Non</string>
   <string name="passport_get_innetdate_title">Vérifiez quand est-ce que le numéro était en ligne</string>
-  <string name="passport_get_innetdate_msg">&lt;font color=Red>Il semble&lt;/font> que le numéro %s a été recyclé par votre opérateur. Vérifier quand est-ce que le numéro était en ligne ?</string>
+  <string name="passport_get_innetdate_msg">&lt;font color=Red>Il semble&lt;/font> que le numéro %s a été recyclé par votre opérateur. Vérifier quand est-ce que le numéro était en ligne ?</string>
   <string name="passport_get_innetdate_agree">Vérifier</string>
   <string name="passport_get_innetdate_disagree">Non</string>
   <string name="passport_extra_gdpr_license">"Créer votre compte Mi signifie que vous acceptez que Xiaomi collectera, traitera et utilisera vos données personnelles, y compris les données de vérification (par exemple, les codes de vérification), les données du second espace (par exemple, informations sur les façons d'utiliser les premier et second espaces), et d'autres données spécifiées dans notre politique de confidentialité. Référez-vous à notre politique de confidentialité pour apprendre comment nous traitons et utilisons les données personnelles."</string>
@@ -308,7 +313,7 @@
   <string name="nobind">Déconnecté</string>
   <string name="button_unbind">Déconnecter</string>
   <string name="unbind_sns_description">"Après avoir supprimé ce compte, vous ne serez plus en mesure d'utiliser les informations du compte  %s pour vous connecter à votre compte Mi."</string>
-  <string name="confirm_unbind">Déconnecter ce compte ?</string>
+  <string name="confirm_unbind">Déconnecter ce compte ?</string>
   <string name="binded_description" formatted="false">"%s a été connecté à votre compte Mi.
 Vous pouvez vous connecter à votre compte Mi en utilisant %s maintenant."</string>
   <string name="access_token_expired_warning">Votre compte Weibo a expiré</string>
@@ -342,7 +347,7 @@ Vous pouvez vous connecter à votre compte Mi en utilisant %s maintenant."</stri
   <string name="sns_access_token_expired_warning">La connexion automatique a expiré. Connectez-vous à nouveau à votre compte.</string>
   <string name="system_ad">Annonces dans les applications système</string>
   <string name="system_ad_list">Afficher les applications associées.</string>
-  <string name="system_ad_summary">"Activez cette fonctionnalité pour permettre la diffusion d'un petit nombre d'annonces dans les applications système. Ces publicités nous aident à développer et à améliorer nos produits et services. Vous pouvez choisir de désactiver cette fonctionnalité à tout moment. Merci pour votre aide ! "</string>
+  <string name="system_ad_summary">"Activez cette fonctionnalité pour permettre la diffusion d'un petit nombre d'annonces dans les applications système. Ces publicités nous aident à développer et à améliorer nos produits et services. Vous pouvez choisir de désactiver cette fonctionnalité à tout moment. Merci pour votre aide ! "</string>
   <string name="system_ad_switch">Annonces dans les applications système</string>
   <string name="system_ad_switch_failed">échec</string>
   <string name="user_avatar_uploading">Chargement…</string>
@@ -358,7 +363,7 @@ Vous pouvez vous connecter à votre compte Mi en utilisant %s maintenant."</stri
   <string name="confirm_phone_number_dialog_title">Confirmer le numéro de téléphone</string>
   <string name="confirm_bundled_phone_dialog_title">Confirmer le numéro de téléphone associé</string>
   <string name="confirm_phone_number_dialog_message">Le code de vérification sera envoyé à %s.</string>
-  <string name="confirm_unbundled_phone_dialog_message">Le numéro de téléphone %1$s est associé au Compte Mi %2$s. Il ne sera plus associé au compte Mi %3$s si vous continuez. Continuer ?</string>
+  <string name="confirm_unbundled_phone_dialog_message">Le numéro de téléphone %1$s est associé au Compte Mi %2$s. Il ne sera plus associé au compte Mi %3$s si vous continuez. Continuer ?</string>
   <string name="change_phone_number">Modifier le numéro de téléphone</string>
   <string name="character_counter_content_description">Character limit exceeded %1$d of %2$d</string>
   <string name="change_email_address">"Modifier l'adresse Email"</string>
@@ -366,7 +371,7 @@ Vous pouvez vous connecter à votre compte Mi en utilisant %s maintenant."</stri
   <string name="replace_binded_phone">Remplacer le numéro</string>
   <string name="delete_action">Supprimer</string>
   <string name="restart_phone_bind_title">Modifier le numéro de récupération</string>
-  <string name="restart_phone_bind_message">La réception du SMS peut prendre un peu de temps. Recommencer quand même ?</string>
+  <string name="restart_phone_bind_message">La réception du SMS peut prendre un peu de temps. Recommencer quand même ?</string>
   <string name="restart_action">Recommencer</string>
   <string name="error_dup_binded_email">Cette adresse Email est déjà associée avec un autre compte Mi.</string>
   <string name="error_invalid_bind_address">"L'adresse Email saisie n'est pas valide."</string>
@@ -425,7 +430,7 @@ Vous pouvez vous connecter à votre compte Mi en utilisant %s maintenant."</stri
   <string name="device_delete_success_title">Déconnecté</string>
   <string name="device_delete_success_message">Si vous ne vous êtes pas connecté sur cet appareil, modifiez votre mot de passe immédiatement.</string>
   <string name="change_password">Modifier le mot de passe</string>
-  <string name="completed">Configuration réussie !</string>
+  <string name="completed">Configuration réussie !</string>
   <string name="no_network_title">Impossible de se connecter au réseau.</string>
   <string name="no_network_btn">Actualiser</string>
   <string name="get_device_list_failed">Impossible de lister les appareils</string>
@@ -523,7 +528,7 @@ Vous pouvez vous connecter à votre compte Mi en utilisant %s maintenant."</stri
 L'ID de votre compte: %s"</string>
   <string name="bind_safe_phone_msg">Ajoutez votre numéro de téléphone pour être en mesure de vous connecter à votre compte Mi la prochaine fois.</string>
   <string name="account_notification_message">La session a expiré, veuillez vous reconnecter.</string>
-  <string name="sim_changed_notification_title">Numéro de téléphone modifié ?</string>
+  <string name="sim_changed_notification_title">Numéro de téléphone modifié ?</string>
   <string name="sim_changed_notification_msg">Appuyez pour mettre à jour votre numéro de téléphone de récupération et sécuriser davantage votre compte.</string>
   <string name="recycle_phone_notification_title">Rsique de sécurité du compte Mi</string>
   <string name="recycle_phone_notification_msg">On dirait que votre numéro de téléphone a été recyclé. Appuyez pour mettre à jour.</string>
@@ -549,7 +554,7 @@ L'ID de votre compte: %s"</string>
   <string name="com_facebook_share_button_text">Partager</string>
   <string name="com_facebook_smart_device_instructions">"Pour connecter votre compte, ouvrez l'application Facebook sur votre appareil mobile et vérifiez les notifications."</string>
   <string name="com_facebook_smart_device_instructions_or">- OU -</string>
-  <string name="com_facebook_smart_login_confirmation_cancel">Pas toi ?</string>
+  <string name="com_facebook_smart_login_confirmation_cancel">Pas toi ?</string>
   <string name="com_facebook_smart_login_confirmation_continue_as">Continuer comme %1$s</string>
   <string name="com_facebook_smart_login_confirmation_title">Confirmer la connexion</string>
   <string name="com_facebook_tooltip_default">"Vous avez le contrôle: choisissez les informations que vous souhaitez partager avec les applications."</string>
@@ -575,6 +580,7 @@ L'ID de votre compte: %s"</string>
   <string name="diagnosis_log_sent_format">"Journal envoyé avec succès. 
 ID:%s
 Envoyez ce code au superviseur."</string>
+  <string name="download_file">Téléchargement de %s…</string>
   <string name="diagnosis_log_send_failed">"Impossible d'envoyer le journal."</string>
   <string name="temporary_not_available">Cette fonctionnalité nest pas encore disponible.</string>
   <string name="ok">OK </string>
@@ -582,9 +588,13 @@ Envoyez ce code au superviseur."</string>
   <string name="i_agree">OK </string>
   <string name="i_agree_continue">Accepter</string>
   <string name="exit">Quitter</string>
-  <string name="passport_privacy_policy_required">Politique de confidentialité (Obligatoire)</string>
-  <string name="passport_user_agreement_required">Accord de lutilisateur (Obligatoire)</string>
-  <string name="kr_license_desc">"Vous devez accepter notre accord d'utilisateur et notre politique de confidentialité avant d'utiliser les services Compte Mi et Mi Cloud."</string>
+  <string name="passport_privacy_policy_required">Politique de confidentialité (obligatoire)</string>
+  <string name="passport_provision_activator_phone_summary_sim1_prefix">SIM <xliff id="sim1" refersto="1">%1$d</xliff> %2$s</string>
+  <string name="passport_provision_activator_phone_summary_sim2_prefix">SIM <xliff id="sim2" refersto="2">%1$d</xliff> %2$s</string>
+  <string name="passport_provision_input_email_register_prompt">Vos données personnelles seront stockées conformément aux lois et règlements de la région que vous sélectionnez.</string>
+  <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> caractères sur au moins <xliff id="min_pwd_type" refersto="2">%3$d</xliff> des types suivants : lettres, chiffres, symboles spéciaux</string>
+  <string name="passport_user_agreement_required">"Accord de l'utilisateur (obligatoire)"</string>
+  <string name="kr_license_desc">"Vous devez accepter notre Accord de l'utilisateur et notre Politique de confidentialité avant d'utiliser les services Compte Mi et Mi Cloud."</string>
   <string name="kr_permission_desc">Permissions requises</string>
   <string name="optional_permissions">Permissions optionnelles</string>
   <string name="permission_group_contacts">Contacts</string>
@@ -595,7 +605,7 @@ Envoyez ce code au superviseur."</string>
   <string name="kr_permission_phone_desc">Pour protéger votre compte</string>
   <string name="kr_permission_storage_desc">Pour sauvegarder les diagnostics</string>
   <string name="kr_permission_sms_desc">Pour les codes de vérification à remplissage automatique</string>
-  <string name="passport_quick_register_notice">"&lt;u&gt;Vous n'avez pas de compte Mi ? Créer en un.&lt;/u&gt;"</string>
+  <string name="passport_quick_register_notice">"&lt;u&gt;Vous n'avez pas de compte Mi ? Créer en un.&lt;/u&gt;"</string>
   <string name="passport_register_by_email">"&lt;u&gt;Créer un compte à l'aide d'une adresse Email&lt;/u&gt;"</string>
   <string name="passport_select_reg_ways_title">"Autres façons de s'inscrire"</string>
   <string name="passport_ticket_login_select_sim_card">Sélectionnez une carte SIM</string>

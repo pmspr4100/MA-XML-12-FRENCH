@@ -120,10 +120,10 @@
   <string name="autofill_save_yes">Enregistrer</string>
   <string name="autofill_state">État</string>
   <string name="autofill_this_form">Saisie auto</string>
-  <string name="autofill_update_title">Mettre à jour dans %1$s ?</string>
-  <string name="autofill_update_title_with_2types">Mise à jour %1$s et %2$s dans %3$s ?</string>
-  <string name="autofill_update_title_with_3types">Mettez à jour ces éléments dans ;%4$s:%1$s, %2$s, et %3$s ?</string>
-  <string name="autofill_update_title_with_type">Mise à jour %1$s dans %2$s ?</string>
+  <string name="autofill_update_title">Mettre à jour dans %1$s ?</string>
+  <string name="autofill_update_title_with_2types">Mise à jour %1$s et %2$s dans %3$s ?</string>
+  <string name="autofill_update_title_with_3types">Mettez à jour ces éléments dans ;%4$s:%1$s, %2$s, et %3$s ?</string>
+  <string name="autofill_update_title_with_type">Mise à jour %1$s dans %2$s ?</string>
   <string name="autofill_update_yes">Mise à jour</string>
   <string name="autofill_window_title">Saisie automatique avec %1$s</string>
   <string name="autofill_zip_code">Code postal</string>
@@ -651,7 +651,7 @@ Veuillez réessayer dans %2$d secondes."</string>
   <string name="launch_warning_original">Application lancée initialement: %1$s.</string>
   <string name="launch_warning_replace">%1$s est maintenant lancée.</string>
   <string name="launch_warning_title">Application redirigée</string>
-  <string name="launchBrowserDefault">Lancer le navigateur ?</string>
+  <string name="launchBrowserDefault">Lancer le navigateur ?</string>
   <string name="leave_accessibility_shortcut_on">Utiliser le raccourci</string>
   <string name="loading">Chargement…</string>
   <string name="locale_search_menu">Rechercher</string>
@@ -679,7 +679,7 @@ Pour décrocher , appuyer et maintenir Accueil et le bouton d'alimentation simul
 
 Veuillez réessayer dans %3$d secondes."</string>
   <string name="lockscreen_failed_attempts_now_wiping">"Vous avez tenté de déverrouiller le téléphone de façon incorrecte à %d reprises. Sa configuration d'usine va être rétablie."</string>
-  <string name="lockscreen_forgot_pattern_button_text">Schéma oublié ?</string>
+  <string name="lockscreen_forgot_pattern_button_text">Schéma oublié ?</string>
   <string name="lockscreen_glogin_account_recovery_hint">
     <b>google.com/accounts/recovery</b>"Vous avez oublié votre nom d'utilisateur ou votre mot de passe ?
 Accédez à la page ".</string>
@@ -1055,7 +1055,7 @@ Veuillez réessayer dans %2$d secondes."</string>
   <string name="permgrouplab_sensors">Capteurs corporels</string>
   <string name="permgrouplab_sms">SMS</string>
   <string name="permgrouplab_storage">Stockage</string>
-  <string name="permgrouprequest_activityRecognition">Permettre à %1$s pour accéder à votre activité physique ?</string>
+  <string name="permgrouprequest_activityRecognition">Permettre à %1$s pour accéder à votre activité physique ?</string>
   <string name="permgrouprequest_calendar">"Permettre à &lt;b&gt;%1$s&lt;/b&gt; d'accéder à votre agenda ?"</string>
   <string name="permgrouprequest_calllog">"Autoriser &lt;b&gt;%1$s&lt;/b&gt; à accéder aux journaux d'appels de votre téléphone ?"</string>
   <string name="permgrouprequest_camera">Permettre à &lt;b&gt;%1$s&lt;/b&gt; de prendre des photos et de filmer des vidéos ?</string>
@@ -1335,7 +1335,7 @@ pour le compte \"%s\""</string>
 L'écoute prolongée à un volume élevé peut endommager vos facultés auditives."</string>
   <string name="safeMode">Mode sécurisé</string>
   <string name="save_password_label">Confirmer</string>
-  <string name="save_password_message">Voulez-vous que le navigateur se souvienne de ce mot de passe ?</string>
+  <string name="save_password_message">Voulez-vous que le navigateur se souvienne de ce mot de passe ?</string>
   <string name="save_password_never">Jamais</string>
   <string name="save_password_notnow">Pas maintenant</string>
   <string name="save_password_remember">Mémoriser</string>
@@ -1565,7 +1565,7 @@ L'écoute prolongée à un volume élevé peut endommager vos facultés auditive
   <string name="usb_unsupported_audio_accessory_title">Accessoire audio analogique détecté</string>
   <string name="use_a_different_app">Utiliser une autre application</string>
   <string name="user_creation_account_exists">Autoriser %1$s à créer un profil utilisateur avec le compte %2$s (un utilisateur associé à ce compte existe déjà) ?</string>
-  <string name="user_creation_adding">Autoriser %1$s à créer un profil utilisateur avec le compte %2$s ?</string>
+  <string name="user_creation_adding">Autoriser %1$s à créer un profil utilisateur avec le compte %2$s ?</string>
   <string name="user_encrypted_detail">Infos sur utilis. verrouillées</string>
   <string name="user_encrypted_message">Appuyer pour déverrouiller</string>
   <string name="user_encrypted_title">Des fonctionnalités peuvent être limitées</string>
@@ -1702,7 +1702,7 @@ If you continue, %1$s will change your privacy setting and try to connect again.
   <string name="wifi_suggestion_action_allow_app">Autorisé</string>
   <string name="wifi_suggestion_action_disallow_app">Non merci</string>
   <string name="wifi_suggestion_content">"%s réseaux suggérés. L'appareil peut se connecter automatiquement."</string>
-  <string name="wifi_suggestion_title">Autoriser les réseaux Wi-Fi suggérés ?</string>
+  <string name="wifi_suggestion_title">Autoriser les réseaux Wi-Fi suggérés ?</string>
   <string name="wifi_wakeup_enabled_content">"Vous vous trouvez à proximité d'un réseau enregistré: %1$s"</string>
   <string name="wifi_wakeup_enabled_title">Wi-Fi activé automatiquement</string>
   <string name="wifi_wakeup_onboarding_action_disable">Ne pas réactiver</string>

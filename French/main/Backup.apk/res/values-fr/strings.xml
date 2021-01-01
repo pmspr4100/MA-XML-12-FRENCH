@@ -92,7 +92,7 @@ Taille de la mise à jour: %2$s"</string>
   <string name="local_back_up_detail_description">"Note:
 1. Pour éviter la perte de données, copier les sauvegardes locales vers votre ordinateur.
 2. Toujours copier les sauvegardes locales vers votre ordinateur avant d'effectuer une réinitialisation d'usine; sinon sauvegardes locales seront perdues.
-3. Où sont stockées les sauvegardes locales ? %1$s"</string>
+3. Où sont stockées les sauvegardes locales ? %1$s"</string>
   <string name="local_backup_select_activity">Créer une sauvegarde</string>
   <string name="local_backup_window_title">Sauvegarde locale de données</string>
   <string name="local_button_backup_data">Sauvegarder</string>
@@ -138,7 +138,7 @@ Taille de la mise à jour: %2$s"</string>
   <string name="delete_backup_process">Suppression…</string>
   <string name="backup_error">Impossible de sauvegarder</string>
   <string name="delete_failed_backup_confirm">Cette sauvegarde contient des erreurs.</string>
-  <string name="batch_delete_backup_confirm">Supprimer les sauvegardes sélectionnées ?</string>
+  <string name="batch_delete_backup_confirm">Supprimer les sauvegardes sélectionnées ?</string>
   <string name="start_restore">Restauration</string>
   <string name="backup_file_error">Impossible de sauvegarder</string>
   <string name="unit_byte">" o"</string>
@@ -214,8 +214,8 @@ Taille de la mise à jour: %2$s"</string>
   <string name="task_running_backup_dialog">La sauvergarde est en cours. Appuyez sur OK pour voir.</string>
   <string name="task_running_restore_dialog">La restauration est en cours. Appuyez sur OK pour voir.</string>
   <string name="task_service_not_launched">"La tâche n'a pas encore commencé"</string>
-  <string name="task_local_backup_cancel_dialog">"La sauvegarde n'est pas terminée. Arrêter quand même ?"</string>
-  <string name="task_cloud_backup_cancel_dialog">"La sauvegarde n'est pas terminée. Arrêter quand même ?"</string>
+  <string name="task_local_backup_cancel_dialog">"La sauvegarde n'est pas terminée. Arrêter quand même ?"</string>
+  <string name="task_cloud_backup_cancel_dialog">"La sauvegarde n'est pas terminée. Arrêter quand même ?"</string>
   <string name="task_restore_cancel_dialog">Annuler peut corrompre vos données</string>
   <string name="task_backup_cancel_progress">Arrêt…</string>
   <string name="task_restore_cancel_progress">Arrêt…</string>
@@ -286,7 +286,7 @@ Taille de la mise à jour: %2$s"</string>
   <string name="deselect_all">Tout désélectionner</string>
   <string name="dialog_app_upgrade_download">Mise à jour</string>
   <string name="dialog_app_upgrade_exit">Quitter</string>
-  <string name="dialog_app_upgrade_message">Une nouvelle version de Mi Transfert est disponible. Mettre à jour Mi Transfert maintenant ?</string>
+  <string name="dialog_app_upgrade_message">Une nouvelle version de Mi Transfert est disponible. Mettre à jour Mi Transfert maintenant ?</string>
   <string name="dialog_backup_password_auto_backup_tips">"Impossible de sauvegarder les éléments automatiquement lorsque le mot de passe de sauvegarde est activé. Désactivez d'abord le mot de passe de sauvegarde."</string>
   <string name="dialog_backup_password_backup_tips">"Impossible de sauvegarder les éléments lorsque le mot de passe de sauvegarde est activé. Désactiver le mot de passe de sauvegarde."</string>
   <string name="dialog_backup_password_cancel">Annuler</string>
@@ -352,8 +352,8 @@ Taille de la mise à jour: %2$s"</string>
   <string name="disable_encrypt_description">Ne pas chiffrer</string>
   <string name="state_waiting">Chargement…</string>
   <string name="state_mounting">Accès au stockage du routeur…</string>
-  <string name="abort_backup_confirm">"La sauvegarde n'est pas terminée. Arrêter quand même ?"</string>
-  <string name="abort_restore_confirm">"La restauration n'est pas terminée. Arrêter quand même ?"</string>
+  <string name="abort_backup_confirm">"La sauvegarde n'est pas terminée. Arrêter quand même ?"</string>
+  <string name="abort_restore_confirm">"La restauration n'est pas terminée. Arrêter quand même ?"</string>
   <string name="feature_title_call_log">Historique des appels</string>
   <string name="feature_title_contacts">Contacts</string>
   <string name="feature_title_sms">Messages</string>
@@ -462,7 +462,7 @@ Ne désactivez pas le point d'accès Wi-Fi. Gardez les appareils proches l'un de
   <string name="trans_progress_subdescript_waiting">En attente de réception de %s</string>
   <string name="trans_progress_subdescript_br_sender_finish">"Sauvegardé(s) %s, en attendant d'envoyer…"</string>
   <string name="trans_progress_subdescript_transing_receiver_finish">Reçu %s, en attente de restauration…</string>
-  <string name="trans_cancel_confirm">Transfert en cours, arrêter maintenant ?</string>
+  <string name="trans_cancel_confirm">Transfert en cours, arrêter maintenant ?</string>
   <string name="trans_cancelling">Annulation…</string>
   <string name="trans_complete_restoring">"Transféré avec succès. Restauration des données d'application…"</string>
   <string name="trans_pausing">Mise en pause…</string>
@@ -527,7 +527,7 @@ Ne fermez pas la page avant que la connexion ne soit établie. "</string>
   <string name="waiting">Chargement…</string>
   <string name="old_soft_name">Se connecter via un QR code</string>
   <string name="confirm_exit_link_title">Interrompre le transfert</string>
-  <string name="confirm_exit_link_msg">"Quitter l'application maintenant interrompra le transfert en cours. Vous devrez à nouveau établir la connexion entre les deux appareils. Quitter l'application quand même ?"</string>
+  <string name="confirm_exit_link_msg">"Quitter l'application maintenant interrompra le transfert en cours. Vous devrez à nouveau établir la connexion entre les deux appareils. Quitter l'application quand même ?"</string>
   <string name="confirm_exit_link">Quitter</string>
   <string name="confirm_exit_link_cancel">Ne pas quitter</string>
   <string name="connect_soft_ap_label">Connexion à un nouvel appareil…</string>
@@ -555,30 +555,30 @@ pour télécharger et installer Mi Transfert."</string>
   <string name="user_notice_message">"Certaines fonctionnalités ont besoin d'une connexion internet pour fonctionner normalement."</string>
   <string name="user_notice_declaration_ignore">Ne plus afficher</string>
   <string name="trans_intro_title">F.A.Q</string>
-  <string name="trans_intro_question_1">%d. Comment utiliser Mi Transfert pour transférer des données depuis un appareil iOS ?</string>
+  <string name="trans_intro_question_1">%d. Comment utiliser Mi Transfert pour transférer des données depuis un appareil iOS ?</string>
   <string name="trans_intro_desc_1">Sur un téléphone Mi, connectez-vous au Wi-Fi et appuyez sur \"Je suis le destinataire\". Sélectionnez votre appareil iOS, connectez-vous à iCloud et importez les données.</string>
-  <string name="trans_intro_question_2">%d. Comment utiliser Mi Transfert pour transférer des données depuis un appareil Android ?</string>
+  <string name="trans_intro_question_2">%d. Comment utiliser Mi Transfert pour transférer des données depuis un appareil Android ?</string>
   <string name="trans_intro_title_new">Sur un nouveau téléphone:</string>
   <string name="trans_intro_desc_new">Appuyez sur \"Je suis le destinataire\". Un QR code sera généré.</string>
   <string name="trans_intro_title_old">Sur un ancien téléphone:</string>
   <string name="trans_intro_desc_old">"Appuyez sur \"Je suis l'expéditeur\". Scannez le QR code sur le nouveau téléphone, patientez jusqu'à ce que Mi Transfert détecte les fichiers à envoyer, puis appuyez sur \"Envoyer\"."</string>
   <string name="trans_intro_desc_old_market">"Appuyez sur \"Démarrer\". Scannez le QR code sur le nouveau, patientez jusqu'à ce que Mi Transfert vous demande quels fichiers envoyer, et appuyez sur \"Envoyer\"."</string>
-  <string name="trans_intro_question_10">"%d. Vous ne trouvez pas le point d'accès sur l'ancien appareil ?"</string>
+  <string name="trans_intro_question_10">"%d. Vous ne trouvez pas le point d'accès sur l'ancien appareil ?"</string>
   <string name="trans_intro_desc_10">Appuyez sur \"Connecter via le QR code\" sur le nouvel appareil et scannez le QR code pour établir la connexion.</string>
-  <string name="trans_intro_question_3">%d. Que faire si Mi Transfert se bloque à certaine étape ?</string>
+  <string name="trans_intro_question_3">%d. Que faire si Mi Transfert se bloque à certaine étape ?</string>
   <string name="trans_intro_desc_3">Annulez le transfert, quittez Mi Transfert et recommencez. Les fichiers en double seront écrasés au cours du nouveau transfert.</string>
-  <string name="trans_intro_question_4">"%d. Pourquoi ne suis-je pas en mesure d'utiliser le Wi-Fi pendant les transferts ?"</string>
+  <string name="trans_intro_question_4">"%d. Pourquoi ne suis-je pas en mesure d'utiliser le Wi-Fi pendant les transferts ?"</string>
   <string name="trans_intro_desc_4">"Mi Transfert utilise Wi-Fi pour transférer des fichiers. C'est pourquoi vous ne pouvez pas vous connecter à internet en utilisant Wi-Fi sur l'un ou l'autre périphérique pendant un transfert. Vous pouvez toujours utiliser des données mobiles. Cependant, certains périphériques plus récents (par exemple, Mi 6) pourraient toujours se connecter à internet en utilisant Wi-Fi pendant les transferts."</string>
   <string name="trans_intro_desc_4_market">"Mi Transfert utilise le Wi-Fi pour transférer les fichiers. C'est pourquoi vous ne pouvez pas vous connecter à internet avec le Wi-Fi sur les deux appareils pendant le transfert. Vous pouvez cependant continuer à utiliser les données mobiles."</string>
-  <string name="trans_intro_question_5">"%d. Pourquoi Mi Transfert me dit-il que l'espace de stockage sur mon ancien téléphone est insuffisant ?"</string>
+  <string name="trans_intro_question_5">"%d. Pourquoi Mi Transfert me dit-il que l'espace de stockage sur mon ancien téléphone est insuffisant ?"</string>
   <string name="trans_intro_desc_5">"L'espace de stockage sur les anciens appareils est utilisé pour la création des paquets de transferts. Assurez-vous que vous avez au moins 500 Mo à 1 Go d'espace de stockage disponible sur votre ancien téléphone avant de commencer le transfert."</string>
-  <string name="trans_intro_question_6">%d. Pourquoi certaines applications ne sont-elles pas transférées avec succès ?</string>
+  <string name="trans_intro_question_6">%d. Pourquoi certaines applications ne sont-elles pas transférées avec succès ?</string>
   <string name="trans_intro_desc_6">"Il existe plusieurs raisons pour lesquelles cela peut se produire: des problèmes de compatibilité de la version du système et de l'application, des problèmes de réseau, des problèmes de compatibilité spécifiques à un périphérique particulier, etc."</string>
-  <string name="trans_intro_question_7">%d. Pourquoi certaines applications ne se lanceront-elles pas sur un nouvel appareil ?</string>
+  <string name="trans_intro_question_7">%d. Pourquoi certaines applications ne se lanceront-elles pas sur un nouvel appareil ?</string>
   <string name="trans_intro_desc_7">"Certains profils d'applications (e-banking, finance, etc.) sont associés à un périphérique spécifique pour des raisons de sécurité. Essayez d'effacer les données de l'application ou de réinstaller l'application sur un nouvel appareil."</string>
-  <string name="trans_intro_question_8">"%d. Pourquoi l'historique de WeChat n'est-il pas complètement transféré ?"</string>
+  <string name="trans_intro_question_8">"%d. Pourquoi l'historique de WeChat n'est-il pas complètement transféré ?"</string>
   <string name="trans_intro_desc_8">"Les données de l'application WeChat et l'historique des conversations peuvent ne pas être transférés intégralement via Mi Transfert. Accédez aux paramètres de WeChat et déconnectez-vous de votre compte pour obtenir plus de chances pour un transfert réussi."</string>
-  <string name="trans_intro_question_9">%d. Quels éléments ne peuvent pas être transférés ?</string>
+  <string name="trans_intro_question_9">%d. Quels éléments ne peuvent pas être transférés ?</string>
   <string name="trans_intro_title_account">Comptes et mots de passe:</string>
   <string name="trans_intro_desc_account">Vous devez vous connecter à nouveau à vos comptes (ex.: Compte Mi, Exchange, Google, etc.) sur le nouvel appareil pour des raisons de sécurité.</string>
   <string name="trans_intro_title_private">Album privé:</string>
@@ -613,7 +613,7 @@ pour télécharger et installer Mi Transfert."</string>
   <string name="trans_disconnected_tips_message">Appareil distant déconnecté. Reconnectez-le manuellement ou annulez le transfert.</string>
   <string name="trans_button_cancel">Annuler</string>
   <string name="trans_success_dialog_market_comment_title">"Votre nouvel appareil se sent comme à la maison à présent.
-Avez-vous apprécié Mi Transfert ?"</string>
+Avez-vous apprécié Mi Transfert ?"</string>
   <string name="trans_success_dialog_button_market_favourable_comment">Évaluer Mi Transfert</string>
   <string name="trans_success_dialog_market_comment_and_survey_title">Vous êtes prêt! Dites-nous ce que vous pensez de Mi Transfert.</string>
   <string name="trans_success_dialog_button_market_comment">Commenter</string>
@@ -679,7 +679,7 @@ https://appleid.apple.com/#!&amp;page=signin pour désactiver"</string>
   <string name="hsa_tip_message_with_device">"1. Un message avec le code de vérification a été envoyé à \"%s\" associé à votre ID Apple.
 
 2. Désactivez l'authentification à 2 facteurs si le code de vérification ne fonctionne pas."</string>
-  <string name="hsa_tip_message_shutdown_hsa">"Comment désactiver l'authentification à 2 facteurs ?"</string>
+  <string name="hsa_tip_message_shutdown_hsa">"Comment désactiver l'authentification à 2 facteurs ?"</string>
   <string name="hsa_verify_failed">"L'authentification à 2 facteurs a échoué"</string>
   <string name="hsa_verify_failed_message">"L'authentification à 2 facteurs a échoué. Vous pouvez réessayer ou désactiver l'authentification à 2 facteurs."</string>
   <string name="hsa_verify_retry">Veuillez réessayer</string>
@@ -701,7 +701,7 @@ ous devez d'abord créer une sauvegarde iCloud."</string>
   <string name="select_item_calendar">Calendrier</string>
   <string name="select_item_notes">Notes</string>
   <string name="cancel_moving_dialog_title">"Arrêter l'importation"</string>
-  <string name="cancel_moving_dialog_message">"Arrêter l'importation maintenant ?"</string>
+  <string name="cancel_moving_dialog_message">"Arrêter l'importation maintenant ?"</string>
   <string name="notif_icloud_saving_summary">Restauration des données…</string>
   <string name="saving_data">"Importation des données depuis iCloud…
 Veuillez ne pas désactiver le Wi-Fi"</string>
@@ -725,10 +725,10 @@ Les données qui n'ont pas été importées doivent être importées encore."</s
   <string name="alert_miasist_occupy_restore">"Restauration des éléments grâce à Mi PC Suite… Patientez jusqu'à la restauration des éléments et réessayez."</string>
   <string name="alert_phone_occupy_backup">"Impossible d'utiliser Mi PC Suite actuellement. Terminez la sauvegarde ou la restauration des éléments sur votre téléphone et réessayez."</string>
   <string name="alert_second_space_not_support_miasist">"Impossible d'utiliser Mi PC Suite dans le second espace. Basculez dans le premier espace."</string>
-  <string name="alert_title_backup_to_miasist">Sauvegarder des éléments grâce à Mi PC Suite ?</string>
-  <string name="alert_message_backup_to_miasist">"Mi PC Suite nécessite une permission pour créer une sauvegarde sur un ordinateur. Autoriser ?"</string>
-  <string name="alert_title_restore_from_miasist">Restaurer des éléments sur votre téléphone ?</string>
-  <string name="alert_message_restore_from_miasist">"Mi PC Suite nécessite une permission pour restaurer des éléments sur votre téléphone. Autoriser ?"</string>
+  <string name="alert_title_backup_to_miasist">Sauvegarder des éléments grâce à Mi PC Suite ?</string>
+  <string name="alert_message_backup_to_miasist">"Mi PC Suite nécessite une permission pour créer une sauvegarde sur un ordinateur. Autoriser ?"</string>
+  <string name="alert_title_restore_from_miasist">Restaurer des éléments sur votre téléphone ?</string>
+  <string name="alert_message_restore_from_miasist">"Mi PC Suite nécessite une permission pour restaurer des éléments sur votre téléphone. Autoriser ?"</string>
   <string name="alert_button_deny">Refuser</string>
   <string name="alert_button_agree_and_continue">Autoriser</string>
   <string name="trans_open_location_button">Activer</string>

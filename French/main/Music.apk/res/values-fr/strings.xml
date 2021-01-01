@@ -236,8 +236,8 @@
   <string name="dialog_renew_positive_text">OUAIS, JE VEUX PROFITER COMME UN PRO</string>
   <string name="dialog_renew_success">Merci pour votre confirmation</string>
   <string name="dialog_score_btn_good">Taux</string>
-  <string name="dialog_score_prompt_bad">"Merci pour vos commentaires ! Nous ferons de notre mieux pour améliorer notre application et nos services."</string>
-  <string name="dialog_score_prompt_good">Merci pour votre aide ! Évaluez notre application dans Google Play également ?</string>
+  <string name="dialog_score_prompt_bad">"Merci pour vos commentaires ! Nous ferons de notre mieux pour améliorer notre application et nos services."</string>
+  <string name="dialog_score_prompt_good">Merci pour votre aide ! Évaluez notre application dans Google Play également ?</string>
   <string name="dialog_score_title">Évaluez notre application</string>
   <string name="dialog_song_sort_type">Trier les chansons</string>
   <string name="dialog_song_sort_type_name">Par nom</string>
@@ -272,7 +272,7 @@
   <string name="download_auto_message">Les chansons que vous préférez seront téléchargées automatiquement lorsque vous serez connecté au Wi-Fi. Vous pouvez changer ceci dans les paramètres.</string>
   <string name="download_auto_when_free_network">Wi-Fi uniquement</string>
   <string name="download_auto_when_free_network_summary">Paramètres supplémentaires de vos favoris</string>
-  <string name="download_complete">Téléchargement terminé !</string>
+  <string name="download_complete">Téléchargement terminé !</string>
   <string name="download_complete_btn">Installé</string>
   <string name="download_complete_start_install">Installation…</string>
   <string name="download_completed">Téléchargé</string>
@@ -527,7 +527,7 @@
   <string name="joox_auth_dialog_message">Nous avons vous recommandé quelques chansons. Obtenez un abonnement VIP pour lever les restrictions.</string>
   <string name="joox_auth_message_connect_network">Vous ne vous êtes pas connecté sur le serveur depuis un moment. Connectez-vous au réseau pour pouvoir écouter les morceaux téléchargés.</string>
   <string name="joox_auth_message_content_for_vip_only">Ce contenu est réservé aux membres VIP</string>
-  <string name="joox_auth_message_content_offline">"Les services en ligne ne sont pas disponibles pour le moment. Nous allons améliorer certaines fonctionnalités et nous rouvrions l'accès bientôt. Restez à l'écoute !"</string>
+  <string name="joox_auth_message_content_offline">"Les services en ligne ne sont pas disponibles pour le moment. Nous allons améliorer certaines fonctionnalités et nous rouvrions l'accès bientôt. Restez à l'écoute !"</string>
   <string name="joox_auth_message_login_status_expired">Session expirée. Veuillez vous reconnecter.</string>
   <string name="joox_auth_message_one_hour_limit_for_one_company">"Vous pouvez écouter jusqu'à 6 morceaux d'un même label musical chaque heure. Écoutez quelques morceaux recommandés pour le moment."</string>
   <string name="joox_auth_message_recommend_for_you">Recommandé</string>
@@ -783,7 +783,7 @@
   <string name="paused_waiting_to_retry">Attendre pour réessayer</string>
   <string name="pay_now">Service actuel</string>
   <string name="payment_success_message">Merci ! Votre paiement a été traité avec succès. Profitez des services PRO.</string>
-  <string name="payment_success_title">Félicitations !</string>
+  <string name="payment_success_title">Félicitations !</string>
   <string name="pending_apk">En attente…</string>
   <string name="permission_declaration_message">"Autoriser l'accès au stockage dans Sécurité > Permissions > Autorisations > Stockage > Musique pour utiliser Musique normalement."</string>
   <string name="permission_declaration_negative_text">Plus tard</string>
@@ -901,7 +901,7 @@ Soyez heureux"</string>
   <string name="search_history_delete_all_dialog_titile">"Effacer l'historique de recherche maintenant ?"</string>
   <string name="search_in_youtube">Search on YouTube</string>
   <string name="search_instant_online_music">En ligne</string>
-  <string name="search_menu_title">Rechercher</string>
+  <string name="search_menu_title">Recherche</string>
   <string name="search_more">Plus</string>
   <string name="search_result_local_songs">Locale</string>
   <string name="search_result_online_songs">En ligne</string>
@@ -1128,9 +1128,9 @@ Soyez heureux"</string>
   <string name="tomorrow">Demain</string>
   <string name="top_chart_title">Chartes</string>
   <string name="track_play_history_after_login">Sign in to view playback history</string>
-  <string name="tuesday">Tuesday</string>
-  <string name="tuesday_short">Tue</string>
-  <string name="tuesday_shortest">J</string>
+  <string name="tuesday">Mardi</string>
+  <string name="tuesday_short">Mar</string>
+  <string name="tuesday_shortest">Ma</string>
   <string name="ultra_high_quality">La plus haute</string>
   <string name="unknown_album_name">Album inconnu</string>
   <string name="unknown_artist_name">Artiste inconnu</string>
@@ -1167,10 +1167,10 @@ Soyez heureux"</string>
   <string name="view_album">"Afficher l'album"</string>
   <string name="vip_required">Obtenez un pack de chansons Premium pour jouer cette chanson. Ignorez-la pour le moment.</string>
   <string name="vip_required_with_song">%s est disponible pour les membres PRO uniquement. Ignorez cette chanson pour le moment.</string>
-  <string name="voice_search_first_hint">Essayez la recherche vocale !</string>
+  <string name="voice_search_first_hint">Essayez la recherche vocale !</string>
   <string name="wednesday">Mercredi</string>
   <string name="wednesday_short">Mer</string>
-  <string name="wednesday_shortest">M</string>
+  <string name="wednesday_shortest">Me</string>
   <string name="wifi_required_body" formatted="false">"Connectez-vous au Wi-Fi pour terminer ce téléchargement %s.
 
 Appuyez sur %s pour démarrer ce téléchargement la prochaine fois que vous serez connecté à un réseau Wi-Fi."</string>
@@ -1180,7 +1180,7 @@ Appuyez sur %s pour démarrer ce téléchargement la prochaine fois que vous ser
 Taille: %2$s"</string>
   <string name="xiaomi_update_sdk_dialog_message_diff">"Présentation de la version %1$s
 Taille de la mise à jour Delta: %2$s"</string>
-  <string name="xiaomi_update_sdk_dialog_title">%1$s mise à jour !</string>
+  <string name="xiaomi_update_sdk_dialog_title">%1$s mise à jour !</string>
   <string name="xiaomi_update_sdk_external_storage_unavailable">Mémoire indisponible, veuillez vérifier la carte SD.</string>
   <string name="xiaomi_update_sdk_kilobytes_unit">%1$s Ko</string>
   <string name="xiaomi_update_sdk_megabytes_unit">%1$s Mo</string>

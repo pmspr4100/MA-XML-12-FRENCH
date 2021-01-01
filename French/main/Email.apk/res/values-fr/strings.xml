@@ -59,7 +59,7 @@
   <string name="account_settings_incoming_summary">"Nom d'utilisateur, mot de passe et autres paramètres du serveur"</string>
   <string name="account_settings_login_dialog_content_fmt">"Le nom d'utilisateur ou le mot de passe du compte %s est incorrect.
  Mettre à jour maintenant ?"</string>
-  <string name="account_settings_login_dialog_reason_fmt">"Impossible de se connecter à %1$s. Le serveur dit: %2$s. Mettre à jour votre nom d'utilisateur ou votre mot de passe ?"</string>
+  <string name="account_settings_login_dialog_reason_fmt">"Impossible de se connecter à %1$s. Le serveur dit: %2$s. Mettre à jour votre nom d'utilisateur ou votre mot de passe ?"</string>
   <string name="account_settings_login_dialog_title">Impossible de se connecter</string>
   <string name="account_settings_mail_check_frequency_dialog_title">Vous devez actualiser E-mail manuellement pour synchroniser vos e-mails</string>
   <string name="account_settings_mail_check_frequency_dialog_title_eas">Vous devrez synchroniser Mail manuellement pour être en mesure de synchroniser les messages et les événements du calendrier.</string>
@@ -183,7 +183,7 @@
   <string name="add_attachment">Ajouter une pièce jointe</string>
   <string name="add_calendar">Rappel</string>
   <string name="add_file_exception">"Impossible d'ajouter. Essayez d'ajouter cet attachement d'un endroit différent."</string>
-  <string name="add_pre_message_attachments">Ajouter les pièces jointes du message précédent ?</string>
+  <string name="add_pre_message_attachments">Ajouter les pièces jointes du message précédent ?</string>
   <string name="add_pre_message_attachments_no">Ne pas ajouter</string>
   <string name="add_pre_message_attachments_yes">Ajouter</string>
   <string name="add_star">Ajouter un étoile</string>
@@ -194,7 +194,7 @@
   <string name="app_name">E-mail</string>
   <string name="app_uninstall_content">E-mail est une application système MIUI. Après la désinstallation, vous ne pourrez pas ajouter de comptes de messagerie, ni envoyer ou recevoir des e-mails et synchroniser les horaires de messagerie.</string>
   <string name="app_uninstall_title">Désinstaller \"E-mail\"?</string>
-  <string name="appraise_des">Aimez-vous notre application ?</string>
+  <string name="appraise_des">Aimez-vous notre application ?</string>
   <string name="appraise_good">Oui</string>
   <string name="appraise_ignore">"Je ne peux pas dire maintenant"</string>
   <string name="appraise_negative">Non</string>
@@ -221,7 +221,7 @@
   <string name="attachment_image">Image</string>
   <string name="attachment_list_search_hint">Recherche pièce jointe</string>
   <string name="attachment_mgr_name">Pièces jointes</string>
-  <string name="attachment_not_exists">"La pièce jointe n'est pas disponible !"</string>
+  <string name="attachment_not_exists">"La pièce jointe n'est pas disponible !"</string>
   <string name="attachment_open_SecurityException_hint">"Vous n'avez pas les permissions d'ouvrir ce fichier ou le fichier est peut-être endommagé."</string>
   <string name="attachment_open_SecurityException_title">"Impossible d'ouvrir le fichier"</string>
   <string name="attachment_opening_mode">Applications pour les pièces jointes</string>
@@ -292,7 +292,7 @@
   <string name="choosertitle_sharevia">Partager via</string>
   <string name="clear">Effacer</string>
   <string name="clear_display_images_whitelist_dialog_message">"Ne plus afficher les images en ligne provenant d'expéditeurs que vous avez précédemment autorisé."</string>
-  <string name="clear_display_images_whitelist_dialog_title">Effacer les approbations des images ?</string>
+  <string name="clear_display_images_whitelist_dialog_title">Effacer les approbations des images ?</string>
   <string name="clear_display_images_whitelist_title">Effacer les approbations des images</string>
   <string name="click_download_all_content">[Appuyez pour télécharger le corps du message]</string>
   <string name="click_to_reload">"Touchez l'écran pour actualiser"</string>
@@ -306,16 +306,16 @@
   <string name="confirm">OK</string>
   <string name="confirm_add_to_calendar">Adding to Calendar…</string>
   <string name="confirm_age">"Confirmer l'âge"</string>
-  <string name="confirm_delete_attachment">Supprimer la pièce jointe ?</string>
+  <string name="confirm_delete_attachment">Supprimer la pièce jointe ?</string>
   <string name="confirm_delete_conversation_title">Supprimer</string>
-  <string name="confirm_discard_text">Supprimer ce message ?</string>
+  <string name="confirm_discard_text">Supprimer ce message ?</string>
   <string name="confirm_response">Envoi…</string>
   <string name="confirm_save_message_no">Non</string>
-  <string name="confirm_save_message_title">Enregistrer comme brouillon ?</string>
+  <string name="confirm_save_message_title">Enregistrer comme brouillon ?</string>
   <string name="confirm_save_message_yes">Enregistrer</string>
   <string name="confirm_send_message_with_no_body">"Il n'y a aucun texte dans le corps du message."</string>
   <string name="confirm_send_message_with_no_subject">"Ce message n'a pas d'objet."</string>
-  <string name="confirm_send_title">Envoyer le message ?</string>
+  <string name="confirm_send_title">Envoyer le message ?</string>
   <string name="contact_add_options">Ajouter aux contacts</string>
   <string name="contact_add_options_details1">Tout</string>
   <string name="contact_add_options_details2">Seuls les destinataires</string>
@@ -385,10 +385,10 @@
   <string name="default_setup">PARAMÈTRES PAR DÉFAUT</string>
   <string name="default_signature">Envoyé depuis mon Téléphone Mi</string>
   <string name="default_signature_2">Envoyé depuis mon %s</string>
-  <string name="del_account_questionnair_hint">Pourriez-vous nous dire pourquoi vous voulez supprimer ce compte ?</string>
+  <string name="del_account_questionnair_hint">Pourriez-vous nous dire pourquoi vous voulez supprimer ce compte ?</string>
   <string name="delete">Supprimer</string>
-  <string name="delete_contact_content">Supprimer ce contact maintenant ?</string>
-  <string name="delete_message_event">Supprimer cette invitation ?</string>
+  <string name="delete_contact_content">Supprimer ce contact maintenant ?</string>
+  <string name="delete_message_event">Supprimer cette invitation ?</string>
   <string name="deleted">Supprimé</string>
   <string name="device_activity_btn_str">Activer</string>
   <string name="device_activity_lint_str">"Activer le service mail pour terminer la mise à jour et procéder à l'activation des paramètres de sécurité"</string>
@@ -416,13 +416,13 @@
   <string name="downlaod_cancel_confirm_download">Arrêter</string>
   <string name="downlaod_cancel_continue_download">Ne pas arrêter</string>
   <string name="downlaod_confirm_download">Télécharger</string>
-  <string name="downlaod_nonWifi_confirm_message">Utiliser votre connexion de données mobile pour télécharger cette pièce jointe ?</string>
-  <string name="downlaod_nonWifi_confirm_title">Télécharger ce pièce jointe ?</string>
+  <string name="downlaod_nonWifi_confirm_message">Utiliser votre connexion de données mobile pour télécharger cette pièce jointe ?</string>
+  <string name="downlaod_nonWifi_confirm_title">Télécharger ce pièce jointe ?</string>
   <string name="download_before_sharing">" n'a pas encore fini de télécharger"</string>
   <string name="download_cancel_confirm_message">Le téléchargement va être arrêté</string>
-  <string name="download_cancel_confirm_title">Télécharger cette pièce jointe ?</string>
+  <string name="download_cancel_confirm_title">Télécharger cette pièce jointe ?</string>
   <string name="download_complete_not_cancel">Téléchargement terminé</string>
-  <string name="download_confirm_message">Télécharger %1$s pièces jointes ?</string>
+  <string name="download_confirm_message">Télécharger %1$s pièces jointes ?</string>
   <string name="download_confirm_title">Téléchargement de la pièce jointe</string>
   <string name="download_message_failed_for_too_large">Le message est trop volumineux pour etre téléchargé.</string>
   <string name="drawer_bank_bill">Relevés bancaires</string>
@@ -441,9 +441,9 @@
   <string name="empty_account_tip">Impossible de trouver le compte</string>
   <string name="empty_email_tip">"Impossible d'envoyer un e-mail vide"</string>
   <string name="empty_spam">Vider les spams</string>
-  <string name="empty_spam_dialog_title">Vider les spams ?</string>
+  <string name="empty_spam_dialog_title">Vider les spams ?</string>
   <string name="empty_trash">Vider la corbeille</string>
-  <string name="empty_trash_dialog_title">Vider la corbeille ?</string>
+  <string name="empty_trash_dialog_title">Vider la corbeille ?</string>
   <string name="enable_sync_in_account_settings">Activer dans %1$s.</string>
   <string name="error">Erreur</string>
   <string name="exception_cancel">"
@@ -548,7 +548,7 @@
   <string name="get_database_exception">Effacer les données de cette application dans Paramètres &gt; Applications système et essayez à nouveau.</string>
   <string name="get_oauth_code">Obtenir le code</string>
   <string name="gmail_acceleration">Utiliser le serveur proxy pour le compte Gmail</string>
-  <string name="gmail_login_confirm_to_use_proxy">Utiliser le serveur proxy pour accéder à votre compte Gmail ?</string>
+  <string name="gmail_login_confirm_to_use_proxy">Utiliser le serveur proxy pour accéder à votre compte Gmail ?</string>
   <string name="gmail_login_failed_non_proxy_title">"Impossible d'accéder au serveur Gmail"</string>
   <string name="gmail_server_authorization_deleted">"Impossible d'authentifier le compte. Essayez d'ajouter ce compte à nouveau."</string>
   <string name="go_to_mail_content">"Afficher l'e-mail"</string>
@@ -808,7 +808,7 @@ Essayez un autre compte de messagerie."</string>
   <string name="output_db_summary">Sur le point de copier la base de données</string>
   <string name="output_db_title">Copier la base de données</string>
   <string name="output_to_disk">Enregistrer les journaux dans un fichier</string>
-  <string name="over_16_content">"Avez-vous au moins 16 ans ?"</string>
+  <string name="over_16_content">"Avez-vous au moins 16 ans ?"</string>
   <string name="over_due">En retard</string>
   <string name="over_sixteen">"J'ai 16 ans ou plus."</string>
   <string name="parase_setup_data">Obtention des données…</string>
@@ -824,7 +824,7 @@ Essayez un autre compte de messagerie."</string>
   <string name="password_expired_ticker">"Le code PIN ou le mot de passe de l'écran de verrouillage a expiré."</string>
   <string name="pdf_has_signature_prompt_cancel">Ouvrir le fichier original</string>
   <string name="pdf_has_signature_prompt_confirm">Ouvrir une copie</string>
-  <string name="pdf_has_signature_prompt_message">"Une copie signée de cette pièce jointe a été détectée. L'ouvrir ou non ?"</string>
+  <string name="pdf_has_signature_prompt_message">"Une copie signée de cette pièce jointe a été détectée. L'ouvrir ou non ?"</string>
   <string name="pdf_signature_create_title">Créer une signature</string>
   <string name="pdf_signature_manager_max_count">Nombre maximum de signatures,Veuillez supprimer la signature existante et réessayer</string>
   <string name="pdf_signature_manager_title">Gestionnaire de signature</string>
@@ -922,16 +922,16 @@ afin de recevoir des rappels concernant les paiements et les voyages"</string>
   <string name="qq_sent_no_message_setting">Synchroniser les messages envoyés depuis QQ Mail</string>
   <string name="qq_uthentication_failed">Impossible de vérifier le compte, connectez-vous à nouveau</string>
   <string name="questionnair_body_invisibility">Les messages ne sont pas affichés</string>
-  <string name="questionnair_confirm_delete">Supprimer le compte ?</string>
+  <string name="questionnair_confirm_delete">Supprimer le compte ?</string>
   <string name="questionnair_instability">Se plante régulièrement</string>
   <string name="questionnair_not_send">"Impossible d'envoyer l'e-mail"</string>
   <string name="questionnair_not_sync">Synchronisation instable</string>
   <string name="questionnair_other_reasons">Autre</string>
-  <string name="questionnair_title">Supprimer un compte ?</string>
+  <string name="questionnair_title">Supprimer un compte ?</string>
   <string name="questionnair_ui_not_pretty">"Vous n'aimez pas le design de l'application"</string>
   <string name="questionnair_waste_resource">Espace de stockage insuffisant</string>
-  <string name="quick_1">Merci !</string>
-  <string name="quick_2">Cela me semble bien !</string>
+  <string name="quick_1">Merci !</string>
+  <string name="quick_2">Cela me semble bien !</string>
   <string name="quick_3">Je vais le lire plus tard et revenir vers vous.</string>
   <string name="quick_4">Nous allons fixer un rendez-vous pour en discuter.</string>
   <string name="quick_reply_dialog_title">Choisir une réponse</string>
@@ -969,7 +969,7 @@ Attendez la synchronisation complète ou visualisez le message sur votre ordinat
   <string name="report_phishing">Signaler un hameçonnage</string>
   <string name="report_spam">Signaler un spam</string>
   <string name="request_copy_db_to_disk">E-mail demande à copier votre base de données dans un fichier</string>
-  <string name="request_entity_large">Fichier trop gros !</string>
+  <string name="request_entity_large">Fichier trop gros !</string>
   <string name="request_permission_activity">Permission requises</string>
   <string name="respond_inline">Répondre en ligne</string>
   <string name="retry_login">Se connecter à nouveau</string>
@@ -999,7 +999,7 @@ Attendez la synchronisation complète ou visualisez le message sur votre ordinat
   <string name="select_no_file">Aucune pièce jointe sélectionnée</string>
   <string name="select_path">"Sélectionnez le chemin d'accès"</string>
   <string name="send">Envoyer</string>
-  <string name="send_encrypt_dialog_fail_content">"Il semble que le destinataire ne dispose pas du certificat de confiance requis pour chiffrer cet e-mail. Envoyer un e-mail régulier à la place ?"</string>
+  <string name="send_encrypt_dialog_fail_content">"Il semble que le destinataire ne dispose pas du certificat de confiance requis pour chiffrer cet e-mail. Envoyer un e-mail régulier à la place ?"</string>
   <string name="send_encrypt_dialog_fail_title">"Impossible d'envoyer un e-mail chiffré"</string>
   <string name="send_failed">"Le message n'a pas été envoyé."</string>
   <string name="sender_whitelist_cleared">Les photos ne seront pas affichés automatiquement.</string>
@@ -1131,9 +1131,9 @@ Attendez la synchronisation complète ou visualisez le message sur votre ordinat
     à toutes les applications et comptes, pas seulement Gmail, seront synchronisées 
     entre le web, vos autres appareils, et votre %1$s."</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Activer</string>
-  <string name="turn_auto_sync_on_dialog_title">Activer la synchronisation auto ?</string>
+  <string name="turn_auto_sync_on_dialog_title">Activer la synchronisation auto ?</string>
   <string name="unbind_dialog_text">"L'application E-mail n'analysera plus vos e-mails après cela.
-Supprimer le compte ?"</string>
+Supprimer le compte ?"</string>
   <string name="under_16_content">"Confirm that you aren't 16 years old yet?"</string>
   <string name="under_sixteen">"I'm not 16 years old yet."</string>
   <string name="undo">Annuler</string>
@@ -1171,7 +1171,7 @@ Appuyer sur "&lt;b&gt;Sync Now&lt;/b&gt; pour synchroniser maintenant, ou &lt;b&
   <string name="webview_not_found">La page ne peut pas être ouverte car le composant WebView est introuvable.</string>
   <string name="webview_sslerror_handle_cancel">Annuler</string>
   <string name="webview_sslerror_handle_continue">Continuer</string>
-  <string name="webview_sslerror_handle_hitmessage">"Une erreur de certificat s'est produite, continuer quand même ?"</string>
+  <string name="webview_sslerror_handle_hitmessage">"Une erreur de certificat s'est produite, continuer quand même ?"</string>
   <string name="widget_all_mail">Tous les e-mails</string>
   <string name="widget_other_views">Autre</string>
   <string name="wipe_account_fail_description">Autoriser</string>
@@ -1179,7 +1179,7 @@ Appuyer sur "&lt;b&gt;Sync Now&lt;/b&gt; pour synchroniser maintenant, ou &lt;b&
   <string name="wrong_password">Le mot de passe entré est incorrect</string>
   <string name="xiaomi_email">E-mail</string>
   <string name="yes">Oui</string>
-  <string name="you_are_in_mobile_network">Utiliser les données mobiles pour envoyer les fichiers journaux ?</string>
+  <string name="you_are_in_mobile_network">Utiliser les données mobiles pour envoyer les fichiers journaux ?</string>
   <string name="youfuli">Promotion</string>
   <string name="zip_viewer_no_file">Aucun fichier.</string>
 </resources>

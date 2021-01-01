@@ -55,11 +55,11 @@ Séparez et sécurisez vos données."</string>
   <string name="switch_out_privacy_contacts">Exporter les contacts privés</string>
   <string name="switch_out_photos">Exporter les photos</string>
   <string name="switch_out_files">Exporter les fichiers</string>
-  <string name="title_switch_photo">Supprimer ces photos ?</string>
-  <string name="title_switch_file">Supprimer ces fichiers ?</string>
-  <string name="msg_switch_photo">Supprimer ces photos dans le Premier espace après les avoir déplacées ?</string>
-  <string name="msg_switch_file">Supprimer ces fichiers dans le Premier espace après les avoir déplacés ?</string>
-  <string name="msg_switch_file_second">Supprimer ces fichiers dans le deuxième espace après les avoir déplacés ?</string>
+  <string name="title_switch_photo">Supprimer ces photos ?</string>
+  <string name="title_switch_file">Supprimer ces fichiers ?</string>
+  <string name="msg_switch_photo">Supprimer ces photos dans le Premier espace après les avoir déplacées ?</string>
+  <string name="msg_switch_file">Supprimer ces fichiers dans le Premier espace après les avoir déplacés ?</string>
+  <string name="msg_switch_file_second">Supprimer ces fichiers dans le deuxième espace après les avoir déplacés ?</string>
   <string name="delete_src_photo">Supprimer des photos</string>
   <string name="delete_src_file">Supprimer des fichiers</string>
   <string name="retain_src_photo">Garder des photos</string>
@@ -107,7 +107,7 @@ Séparez et sécurisez vos données."</string>
   <string name="declare_dialog_title">À propos des applications clônées</string>
   <string name="menu_item_about_privacy_title">Politique de confidentialité</string>
   <string name="stop_xspace_alert_title">Supprimer les comptes de deux applications</string>
-  <string name="stop_xspace_alert_content">"Supprimer toutes les applications doubles avec leurs comptes et leurs données d'application ? Votre appareil sera redémarré pour appliquer cette modification."</string>
+  <string name="stop_xspace_alert_content">"Supprimer toutes les applications doubles avec leurs comptes et leurs données d'application ? Votre appareil sera redémarré pour appliquer cette modification."</string>
   <string name="xspace_loading_msg">Chargement des applications…</string>
   <string name="xspace_notification">Dual app notifications</string>
   <string name="xspace_notification_error">Sign in to dual WeChat and try again</string>
@@ -172,7 +172,7 @@ Certaines applications clônées nécessitent la prise en charge des Framework d
   <string name="createUserFail">Impossible de créer</string>
   <string name="confirmCloseSpaceDes">"Vous ne serez plus en mesure d'entrer dans le deuxième espace une fois que vous le supprimer. Toutes les données seront déplacées ou supprimées."</string>
   <string name="confirmDelete">Supprimer</string>
-  <string name="chooseDataTransfer">Que deviennent les données du deuxième espace ?</string>
+  <string name="chooseDataTransfer">Que deviennent les données du deuxième espace ?</string>
   <string name="transferDataLable">Sélectionner les éléments à déplacer</string>
   <string name="transferDataConfirm">Les éléments restants seront supprimés</string>
   <string name="transferDataConfirmDes">Vous ne serez plus en mesure de restaurer les éléments après les avoir supprimés.</string>
@@ -263,7 +263,7 @@ Entrez dans le deuxième espace à partir de l'écran de verrouillage"</string>
   <string name="import_now">Importer</string>
   <string name="dont_import">Pas maintenant</string>
   <string name="go_on_import">"Continuer l'importation"</string>
-  <string name="complete_setting_title">Tout est configuré !</string>
+  <string name="complete_setting_title">Tout est configuré !</string>
   <string name="complete_setting_sub_title">Vous pouvez aussi retourner plus tard pour ajuster les paramètres.</string>
   <string name="import_contacts">Importer des contacts</string>
   <string name="import_photo">Importer des photos</string>
@@ -278,7 +278,7 @@ Vous pouvez aussi les télécharger séparément."</string>
   <string name="import_file_suc">Éléments importés vers les dossiers</string>
   <string name="show_private_content">Afficher les éléments privés</string>
   <string name="show_normal_content">Ne pas afficher les éléments privés</string>
-  <string name="guide_contact_title_desc">Afficher les éléments privés dans le deuxième espace ?</string>
+  <string name="guide_contact_title_desc">Afficher les éléments privés dans le deuxième espace ?</string>
   <string name="guide_contact_sub_title_desc">"Les contacts ajoutés dans le deuxième espace seront rendus privés.
 Les messages apparaîtront uniquement dans le deuxième espace."</string>
   <string name="guide_contact_suc_title_desc">Défini avec succès</string>
@@ -296,7 +296,7 @@ pour les voir à tout moment"</string>
   <string name="restore_show_desc">Ne pas afficher les messages privés dans le deuxième espace. Ils seront toujours disponibles dans le Premier espace.</string>
   <string name="confirm_restore">Ne pas afficher</string>
   <string name="restore_show_toast">"N'affiche pas les messages privés"</string>
-  <string name="remove_second_space_msg">"Supprimer le deuxième espace revient à supprimer toutes les applications ainsi que les données qui s'y trouvent. Supprimer le deuxième espace maintenant ?"</string>
+  <string name="remove_second_space_msg">"Supprimer le deuxième espace revient à supprimer toutes les applications ainsi que les données qui s'y trouvent. Supprimer le deuxième espace maintenant ?"</string>
   <string name="second_space_finger_printf_title">Empreinte digitale du deuxième espace</string>
   <string name="second_space_finger_printf_desc">Ajoutez une empreinte digitale spécialement utilisée pour accéder au deuxième espace</string>
   <string name="setting_finger_print_title">"Ajouter l'empreinte digitale du deuxième espace"</string>
@@ -322,12 +322,12 @@ pour y accéder depuis l'Écran de verrouillage"</string>
   <string name="scanner_fingerprint_tips_title">Entrer dans le deuxième espace en utilisant une empreinte digitale existante</string>
   <string name="scanner_fingerprint_tips_desc">"Sélectionner une empreinte digitale existante pour entrer dans le deuxième espace. Vous ne serez plus capable de l'utiliser dans le Premier espace."</string>
   <string name="back">Retour</string>
-  <string name="scanner_fingerprint_error_tips_desc">Aucune empreinte digitale correspondante. Ajouter une empreinte digitale pour le deuxième espace ?</string>
+  <string name="scanner_fingerprint_error_tips_desc">Aucune empreinte digitale correspondante. Ajouter une empreinte digitale pour le deuxième espace ?</string>
   <string name="scanner_fingerprint_error_tips_title">Aucune empreinte digitale correspondante</string>
   <string name="no_match_repate_scanner">Aucune empreinte digitale correspondante, scannez à nouveau</string>
   <string name="delete_phone_fingerprint">"Supprimer l'empreinte digitale du deuxième espace"</string>
   <string name="delete_fingerprint">Supprimer une empreinte digitale</string>
-  <string name="fingerprint_number_upper_limit">Trop de tentatives de déverrouillage infructueuses !</string>
+  <string name="fingerprint_number_upper_limit">Trop de tentatives de déverrouillage infructueuses !</string>
   <string name="delete_fingerprint_desc">"L'empreinte digitale du deuxième espace sera supprimé avec le mot de passe"</string>
   <string name="fingerprint_removal_failed">"Impossible de supprimer l'empreinte digitale"</string>
   <string name="notification_recommend_title">Top 12 des applications du deuxième espace</string>
@@ -376,7 +376,7 @@ pour y accéder depuis l'Écran de verrouillage"</string>
   <string name="other">Autre</string>
   <string name="airspace_users_full">"Impossible de créer plus d'espace"</string>
   <string name="same_qr_code_title">%s existe déjà</string>
-  <string name="same_qr_code_des">"Il se peut que cet espace de travail existe déjà. Vous pouvez utiliser les raccourcis de l'Écran d'accueil et du Panneau de notifications pour y aller. Aller maintenant ?"</string>
+  <string name="same_qr_code_des">"Il se peut que cet espace de travail existe déjà. Vous pouvez utiliser les raccourcis de l'Écran d'accueil et du Panneau de notifications pour y aller. Aller maintenant ?"</string>
   <string name="same_qr_code_enter_space">"Aller à l'espace de travail"</string>
   <string name="same_qr_code_create_space">En créer un autre</string>
   <string name="not_support_air_space">"Cette fonctionnalité n'est pas encore prise en charge sur votre téléphone"</string>
@@ -387,9 +387,9 @@ pour y accéder depuis l'Écran de verrouillage"</string>
   <string name="can_not_switch_when_calling">"Impossible de basculer entre les espaces lors d'un appel"</string>
   <string name="can_not_delete_when_calling">"Impossible de supprimer les espaces lors d'un appel"</string>
   <string name="do_not_ask">Ne plus demander</string>
-  <string name="gpg_message">La création des applications clônées pour les jeux nécessite un fonctionnement avec Google Play Games. Créez une application clônée pour Google Play Games ?</string>
+  <string name="gpg_message">La création des applications clônées pour les jeux nécessite un fonctionnement avec Google Play Games. Créez une application clônée pour Google Play Games ?</string>
   <string name="gpg_title">Application clônée pour Google Play Games</string>
-  <string name="gms_message">La création des applications clônées pour les jeux nécessite un fonctionnement avec les servicesGoogle. Créez une application clônée pour les services Google ?</string>
+  <string name="gms_message">La création des applications clônées pour les jeux nécessite un fonctionnement avec les servicesGoogle. Créez une application clônée pour les services Google ?</string>
   <string name="gms_title">Application clônée pour Google services</string>
   <string name="gms_open_button">Activer</string>
   <string name="create_second_space">Créé avec succès</string>
@@ -440,7 +440,7 @@ Deux espaces. Un appareil."</string>
   <string name="need_network_when_bind">"Connectez-vous au réseau avant d'ajouter des appareils"</string>
   <string name="this_function_can_not_use_in_second_space">Cette fonctionnalité peut être seulement utilisée dans le premier espace</string>
   <string name="enterprise_mode">Mode entreprise</string>
-  <string name="ent_app_verified">"On dirait qu'il y a des applications d'entreprise installées sur votre appareil. Activer le mode entreprise ?"</string>
+  <string name="ent_app_verified">"On dirait qu'il y a des applications d'entreprise installées sur votre appareil. Activer le mode entreprise ?"</string>
   <string name="activate_ent_mode">Activer le mode Entreprise</string>
   <string name="about_ent_mode">À propos du mode Entreprise</string>
   <string name="ent_mode_activated">Le mode Entreprise est activé</string>
@@ -463,14 +463,14 @@ Assurez-vous que le nom de votre société est correct. Lisez et acceptez les po
   <string name="ent_invalid_qr">QR Code non valide.</string>
   <string name="ent_invalid_agency">"Le code entreprise n'est pas valide."</string>
   <string name="ent_privacy_policy_notice">* Les données personnelles dans ce mode sont collectées conformément aux politiques établies par votre société. Xiaomi ne collecte pas de données personnelles dans ce mode.</string>
-  <string name="ent_confirm_dialog_content">"Vous ne pourrez pas revenir à l'état actuel de votre système après avoir activé le mode Entreprise. Cependant, toutes vos données seront stockées sur cet appareil. Vous devrez redémarrer votre appareil pour activer le mode Entreprise. Activer maintenant ?"</string>
+  <string name="ent_confirm_dialog_content">"Vous ne pourrez pas revenir à l'état actuel de votre système après avoir activé le mode Entreprise. Cependant, toutes vos données seront stockées sur cet appareil. Vous devrez redémarrer votre appareil pour activer le mode Entreprise. Activer maintenant ?"</string>
   <string name="ent_error_dialog_content">Au moins un des codes que vous avez entrés est incorrect. Vérifiez vos codes de compagnie et de licence puis saisissez-les à nouveau.</string>
-  <string name="ent_download_install_dialog_content">"Vous devez installer les applications d'entreprise pour activer le mode entreprise. Installer maintenant ?"</string>
+  <string name="ent_download_install_dialog_content">"Vous devez installer les applications d'entreprise pour activer le mode entreprise. Installer maintenant ?"</string>
   <string name="ent_download_install_dialog_title">"Télécharger des applications d'entreprise"</string>
   <string name="ent_downloading_message">Téléchargement %d%%</string>
   <string name="install">Installer</string>
   <string name="install_error">"Impossible d'installer, réessayez."</string>
-  <string name="ent_install_dialog_content">Installer les applications et redémarrez votre appareil maintenant ?</string>
+  <string name="ent_install_dialog_content">Installer les applications et redémarrez votre appareil maintenant ?</string>
   <string name="ent_disallow_running">"L'application est interdite d'exécution"</string>
   <string name="greenguard_child_des">Gérez les appareils de vos amis et de votre famille</string>
   <string name="greenguard_child_des_title">Scannez le QR code pour ajouter un appareil</string>
@@ -483,7 +483,7 @@ contrôler les applications installées et restreindre l'utilisation"</string>
   <string name="greenguard_parent_des">Gérez les appareils de vos amis et de votre famille</string>
   <string name="greenguard_parent_des_title">Utilisez Kite Guard pour ajouter des appareils</string>
   <string name="cta_declaration_title">"Conditions générales d'utilisation"</string>
-  <string name="cta_declaration_message_format" formatted="false">Vous devez lire et accepter notre &lt;font color=%s>&lt;a href=%s>%s&lt;/a>&lt;/font> avant dutiliser le mode Entreprise. Votre appareil doit se connecter à internet pour activer le mode Entreprise. Acceptez-vous ?</string>
+  <string name="cta_declaration_message_format" formatted="false">Vous devez lire et accepter notre &lt;font color=%s>&lt;a href=%s>%s&lt;/a>&lt;/font> avant dutiliser le mode Entreprise. Votre appareil doit se connecter à internet pour activer le mode Entreprise. Acceptez-vous ?</string>
   <string name="cta_declaration_agree_and_continue">Accepter</string>
   <string name="undo_activated_dialog_message">Révoquer lautorisation désactivera le mode Entreprise et procédera à une réinitialisation des données dusine sur votre appareil. Toutes les fonctionnalités associées ne seront plus disponibles. De plus, Xiaomi cessera de collecter les informations requises pour le mode Entreprise (IMEI, ID de périphérique, version du système, région, etc.). Nous vous rappelons que Xiaomi ne gère pas les données collectées pour le mode Entreprise. Nous ferons de notre mieux pour informer toutes les parties liées, mais nous vous recommandons de contacter les superviseurs de votre société pour approuver cette révocation. Révoquer lautorisation et effectuer une réinitialisation des données dusine?</string>
   <string name="undo_activated_dialog_ok">Révoquer</string>

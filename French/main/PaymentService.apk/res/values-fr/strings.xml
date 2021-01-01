@@ -64,7 +64,7 @@
   <string name="confirm_activate_email">Vérifié</string>
   <string name="confirm_bundled_phone_dialog_title">Confirmer le numéro de téléphone associé</string>
   <string name="confirm_new_pwd">Confirmer le nouveau mot de passe</string>
-  <string name="confirm_unbundled_phone_dialog_message">Ce numéro de téléphone était associé avec le compte Mi %2$s sur %1$s. Il ne sera plus associé avec le compte Mi %3$s si vous continuez. Continuer ?</string>
+  <string name="confirm_unbundled_phone_dialog_message">Ce numéro de téléphone était associé avec le compte Mi %2$s sur %1$s. Il ne sera plus associé avec le compte Mi %3$s si vous continuez. Continuer ?</string>
   <string name="diagnosis_log_send_failed">Envoi des journaux impossible. Veuillez réessayer.</string>
   <string name="diagnosis_log_sent_format">"Journaux envoyés avec succès.
 ID:%s
@@ -323,8 +323,8 @@ Please check your local date and try again."</string>
   <string name="mibi_prepaid_picker_hint_2_2_b">If the nominal value of the prepaid card is not &lt;font color=red&gt;￥%1$s&lt;/font&gt;, the card will be void. Xiaomi is not responsible for any monetary loss that occurs as a result of user error.</string>
   <string name="mibi_prepaid_picker_title_default">Select amount</string>
   <string name="mibi_prepaid_picker_title_selected">amount</string>
-  <string name="mibi_privacy_license_name">Privacy Policy</string>
-  <string name="mibi_privacy_policy">Privacy Policy</string>
+  <string name="mibi_privacy_license_name">Politique de confidentialité</string>
+  <string name="mibi_privacy_policy">Politique de confidentialité</string>
   <string name="mibi_privacy_tip_message">"You can't use Mi Coins after authorization has been revoked."</string>
   <string name="mibi_privacy_tip_title">Grant authorization first</string>
   <string name="mibi_process_expired">"Where'd you go? This operation has timed out."</string>
@@ -449,7 +449,7 @@ Customer service center：400-100-3399"</string>
   <string name="passport_error_no_password_user">"Vous n'avez pas encore défini de mot de passe. Connectez-vous via SMS."</string>
   <string name="passport_error_phone_error">Numéro de téléphone non valide</string>
   <string name="passport_error_server">Erreur du serveur</string>
-  <string name="passport_error_unknown">Unknown error</string>
+  <string name="passport_error_unknown">Erreur inconnue</string>
   <string name="passport_error_user_agreement_error">Agree to the terms and conditions first</string>
   <string name="passport_error_user_name">The username you entered is invalid</string>
   <string name="passport_forget_password">Mot de passe oublié</string>
@@ -525,7 +525,7 @@ Customer service center：400-100-3399"</string>
   <string name="restart_phone_bind_message">It may take some time to receive SMS. Start over anyway?</string>
   <string name="restart_phone_bind_title">Change recovery phone</string>
   <string name="same_new_and_old_pwd">"Can't be the same as current password"</string>
-  <string name="search_menu_title">Search</string>
+  <string name="search_menu_title">Recherche</string>
   <string name="send_diagnosis_log">Send logs</string>
   <string name="send_email_activate_message">Sent verification email successfully</string>
   <string name="sending">Sending…</string>

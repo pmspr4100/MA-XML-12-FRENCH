@@ -51,8 +51,8 @@
   <string name="permdesc_read_calendar">Accéder aux événements du calendrier</string>
   <string name="HIPS_Perm_SystemAlert">Afficher une fenêtre indépendante</string>
   <string name="HIPS_Perm_SystemAlert_Desc">Affiche une fenêtre indépendante</string>
-  <string name="HIPS_Perm_UDevice_ID">Partagez des informations sur les appareils avec les développeurs de jeux pour les aider à améliorer votre expérience de jeu. Accepter ?</string>
-  <string name="HIPS_Perm_UDevice_ID_DESC">partagez des informations sur les appareils avec les développeurs de jeux pour les aider à améliorer votre expérience de jeu. Accepter ?</string>
+  <string name="HIPS_Perm_UDevice_ID">Partagez des informations sur les appareils avec les développeurs de jeux pour les aider à améliorer votre expérience de jeu. Accepter ?</string>
+  <string name="HIPS_Perm_UDevice_ID_DESC">partagez des informations sur les appareils avec les développeurs de jeux pour les aider à améliorer votre expérience de jeu. Accepter ?</string>
   <string name="HIPS_Perm_VideoRecorder">"Accéder à l'appareil photo"</string>
   <string name="HIPS_Perm_VideoRecorder_Desc">"Accéder à l'appareil photo pour capturer des images ou des vidéos"</string>
   <string name="HIPS_Perm_WIFI_Connectivity">Changer la connectivité Wi-Fi</string>
@@ -131,7 +131,7 @@
   <string name="app_name">Permissions</string>
   <string name="background_location_access_reminder_notification_content">Cette application peut toujours accéder à votre position. Appuyez pour changer.</string>
   <string name="background_location_access_reminder_notification_title">%s utilise votre position</string>
-  <string name="blur_location_is_on_tip">%1$s a démarré le service de localisation approximative. Faut-il garder le service de localisation approximative activé ?</string>
+  <string name="blur_location_is_on_tip">%1$s a démarré le service de localisation approximative. Faut-il garder le service de localisation approximative activé ?</string>
   <string name="blur_location_now_tip">La location approximative est activée</string>
   <string name="blur_location_title">Localisation approximative</string>
   <string name="clearable_edittext_clear_description">Effacer</string>
@@ -255,9 +255,9 @@
   <string name="perm_action_allow">Autoriser</string>
   <string name="perm_action_deny">Ne jamais autoriser</string>
   <string name="perm_manager_suggest_operation">Gérer les permissions</string>
-  <string name="perm_manager_suggest_title">Ajuster les permissions ?</string>
+  <string name="perm_manager_suggest_title">Ajuster les permissions ?</string>
   <string name="perm_modem_location">Accès à votre localisation</string>
-  <string name="perm_modem_location_desc">"Votre opérateur tente d'accéder à vos informations de localisation. Partager les informations de localisation avec votre opérateur ?"</string>
+  <string name="perm_modem_location_desc">"Votre opérateur tente d'accéder à vos informations de localisation. Partager les informations de localisation avec votre opérateur ?"</string>
   <string name="permdesc_camera">Prendre des photos et enregistrer des vidéos</string>
   <string name="permdesc_in_calls">Surveiller les appels entrants</string>
   <string name="permdesc_location">"Informations sur le lieu d'accès"</string>
@@ -280,7 +280,7 @@
   <string name="permgroupdesc_sensors">Accéder aux données du capteur de corps</string>
   <string name="permgroupdesc_sms">Lire ou envoyer des SMS</string>
   <string name="permgroupdesc_storage">"Accéder aux photos ou aux fichiers sur l'appareil"</string>
-  <string name="permgrouprequest_storage_isolated">Autoriser %1$s accéder aux photos et aux médias sur votre appareil ?</string>
+  <string name="permgrouprequest_storage_isolated">Autoriser %1$s accéder aux photos et aux médias sur votre appareil ?</string>
   <string name="permission_description_summary_activity_recognition">Les applications disposant de cette permission peuvent accéder à votre activité physique, comment marcher, faire du vélo, conduire, compter les pas, etc.</string>
   <string name="permission_description_summary_calendar">Les applications avec cette permission peuvent accéder à votre calendrier</string>
   <string name="permission_description_summary_call_log">Les applications disposant de cette permission peuvent lire et écrire dans le journal des appels téléphoniques.</string>
@@ -298,8 +298,8 @@
   <string name="permission_group_title_privacy_related">Privé</string>
   <string name="permission_group_title_settings_related">Paramètres</string>
   <string name="permission_reminders">Rappels de permission</string>
-  <string name="permission_warning_template">Autoriser %1$s à %2$s ?</string>
-  <string name="permission_warning_template_ask">Accorder à %1$s les permissions suivantes ?</string>
+  <string name="permission_warning_template">Autoriser %1$s à %2$s ?</string>
+  <string name="permission_warning_template_ask">Accorder à %1$s les permissions suivantes ?</string>
   <string name="permisson_reject_notice_toast_text2">"n'a pas accès à %1$s."</string>
   <string name="real_location_off">La localisation approximative est activée</string>
   <string name="real_location_on">La localisation approximative est désactivée</string>
@@ -309,7 +309,7 @@
   <string name="screen_overlay_button">Ouvrir les paramètres</string>
   <string name="screen_overlay_message">"Pour modifier cette permissions, vous devez désactiver la superposition d'écran dans Paramètres > Applications."</string>
   <string name="screen_overlay_title">"Superposition d'écran détectée"</string>
-  <string name="search_menu_title">Chercher</string>
+  <string name="search_menu_title">Recherche</string>
   <string name="stop_blur_location">Désactiver</string>
   <string name="storage_policy_notify_both_title">"%1$s n'est pas autorisé à accéder à Galerie et aux messages dans les applications de médias sociaux"</string>
   <string name="storage_policy_notify_content">Pour lui permettre de lire, cliquez pour accéder aux paramètres</string>

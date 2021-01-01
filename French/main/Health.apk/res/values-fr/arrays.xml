@@ -1,23 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="HomePageTabTitle">
-        <item>Santé</item>
-        <item>Entraînements</item>
-    </string-array>
-    <string-array name="SportTabTitle">
-        <item>Course</item>
-        <item>Marche</item>
-        <item>Vélo</item>
-        <item>Saut à la corde</item>
-        <item>Tapis roulant</item>
-    </string-array>
     <string-array name="arr_prompt_label">
         <item>Raisonnable</item>
         <item>Long</item>
         <item>Trop long</item>
     </string-array>
     <string-array name="arr_sedentary_reminder">
-        <item>"C'est le moment de partir !"</item>
+        <item>"C'est le moment de partir !"</item>
         <item>Apprendre encore plus</item>
         <item>"Buvez de l'eau et promenez-vous."</item>
         <item>Apprendre encore plus</item>
@@ -41,10 +30,23 @@
         <item>Collègue</item>
         <item>Camarade de classe</item>
     </string-array>
+    <string-array name="energy_unit">
+        <item>" kcal"</item>
+        <item>" kJ"</item>
+    </string-array>
     <string-array name="gender_array">
         <item>Non défini</item>
         <item>Homme</item>
         <item>Femme</item>
+    </string-array>
+    <string-array name="HomePageTabTitle">
+        <item>Santé</item>
+        <item>Entraînements</item>
+    </string-array>
+    <string-array name="length_unit">
+        <item>" cm"</item>
+        <item>" m"</item>
+        <item>" km"</item>
     </string-array>
     <string-array name="normal_blood_array">
         <item>Non défini</item>
@@ -52,15 +54,6 @@
         <item>B</item>
         <item>AB</item>
         <item>O</item>
-    </string-array>
-    <string-array name="energy_unit">
-        <item>" kcal"</item>
-        <item>" kJ"</item>
-    </string-array>
-    <string-array name="length_unit">
-        <item>" cm"</item>
-        <item>" m"</item>
-        <item>" km"</item>
     </string-array>
     <string-array name="pager_titles">
         <item>Jour</item>
@@ -104,6 +97,18 @@
         <item>Objectif de sommeil: %1$d heures</item>
         <item>"Pas de données de sommeil pour l'instant"</item>
         <item>Ouverture de Mi Santé</item>
+    </string-array>
+    <string-array name="ShareTabTitle">
+        <item>Image</item>
+        <item>Route</item>
+        <item>Carte</item>
+    </string-array>
+    <string-array name="SportTabTitle">
+        <item>Course</item>
+        <item>Marche</item>
+        <item>Vélo</item>
+        <item>Saut à la corde</item>
+        <item>Tapis roulant</item>
     </string-array>
     <string-array name="stand_guide_page_content1">
         <item>"S'asseoir ne profite pas à votre santé. Même si vous ne pouvez pas réduire le temps que vous passez assis, vous levez de temps en temps est une bonne idée."</item>

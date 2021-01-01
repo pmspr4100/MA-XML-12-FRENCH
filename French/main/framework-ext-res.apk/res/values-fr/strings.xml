@@ -20,13 +20,13 @@
   <string name="auto_disable_screenbuttons_prompts_message">Appuyez deux fois sur un bouton pour réactiver la navigation à tout moment.</string>
   <string name="auto_disable_screenbuttons_prompts_not_show_again">Ne plus afficher</string>
   <string name="auto_disable_screenbuttons_prompts_ok">OK </string>
-  <string name="auto_disable_screenbuttons_prompts_title">Désactiver les boutons de navigation ?</string>
+  <string name="auto_disable_screenbuttons_prompts_title">Désactiver les boutons de navigation ?</string>
   <string name="auto_disable_screenbuttons_tap_again_exit_toast_text">Appuyer encore pour quitter</string>
   <string name="auto_start_warning_allow">Autoriser</string>
   <string name="auto_start_warning_deny">Refuser</string>
-  <string name="auto_start_warning_title">Autoriser %s à démarrer automatiquement ?</string>
+  <string name="auto_start_warning_title">Autoriser %s à démarrer automatiquement ?</string>
   <string name="autofill">Remplissage automatique</string>
-  <string name="autofill_save_message">Autoriser MIUI à enregistrer vos comptes et mots de passe ?</string>
+  <string name="autofill_save_message">Autoriser MIUI à enregistrer vos comptes et mots de passe ?</string>
   <string name="autofill_save_ok">Autoriser</string>
   <string name="autofill_save_sub_message">"Vous serez en mesure de gérer les mots de passe enregistrés dans les paramètres &gt; Mots de passe et sécutité &gt; %s."</string>
   <string name="autofill_save_title">Enregistrer les mots de passe automatiquement</string>
@@ -60,8 +60,8 @@
   <string name="cancel_action">Annuler</string>
   <string name="close">Désactivé</string>
   <string name="configure_input_methods">Choisir des claviers</string>
-  <string name="confirm_cancel_task_files">"Annuler l'envoi de fichiers à %1$s ?"</string>
-  <string name="confirm_cancel_task_images">"Annuler l'envoi d'image à %1$s ?"</string>
+  <string name="confirm_cancel_task_files">"Annuler l'envoi de fichiers à %1$s ?"</string>
+  <string name="confirm_cancel_task_images">"Annuler l'envoi d'image à %1$s ?"</string>
   <string name="content_description_dial">Appel</string>
   <string name="content_description_next">Suivant</string>
   <string name="content_description_previous">Précédent</string>
@@ -72,7 +72,7 @@
   <string name="copy">Copier</string>
   <string name="customer_location_judgment">Chine</string>
   <string name="cut">Couper</string>
-  <string name="data_usage_context">"Si le réseau local sans fil n'est pas activé, votre appareil se connectera à un réseau mobile, ce qui peut entraîner des frais supplémentaires en fonction de votre forfait. Merci !"</string>
+  <string name="data_usage_context">"Si le réseau local sans fil n'est pas activé, votre appareil se connectera à un réseau mobile, ce qui peut entraîner des frais supplémentaires en fonction de votre forfait. Merci !"</string>
   <string name="default_device_name">Appareil inconnu</string>
   <string name="description_title">Mode Silencieux</string>
   <string name="device_status_failed">"Impossible d'envoyer"</string>
@@ -84,7 +84,7 @@
   <string name="enable_livetalk_summary">"Économisez 70% sur vos frais d'appels"</string>
   <string name="enable_livetalk_title">Activer la recharge de forfait</string>
   <string name="enable_midrop">Activer</string>
-  <string name="fc_dialog_body">Envoyer un rapport de bogue à Mi pour analyse ? Ce rapport peut contenir des informations personnelles identifiables. Votre rapport sera utilisé pour aider à résoudre ce bogue et ne sera jamais partagé dans un contexte commercial.</string>
+  <string name="fc_dialog_body">Envoyer un rapport de bogue à Mi pour analyse ? Ce rapport peut contenir des informations personnelles identifiables. Votre rapport sera utilisé pour aider à résoudre ce bogue et ne sera jamais partagé dans un contexte commercial.</string>
   <string name="fc_dialog_jump_to_preview">Voir le résumé</string>
   <string name="file">Fichier</string>
   <string name="file_cannot_print">"Ce contenu ne prend pas en charge l'impression pour le moment"</string>
@@ -100,7 +100,9 @@
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Pas maintenant</string>
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Activer</string>
   <string name="fp_nav_center_action_choose_dlg_title">Activer la touche rapide</string>
-  <string name="frequent_email">Email fréquemment utilisé</string>
+  <string name="freeform_exchange_tip">"Relâchez pour ouvrir l'application"</string>
+  <string name="freeform_exchange_tip2">Déplacez dans le coin pour annuler</string>
+  <string name="frequent_email">E-mail fréquemment utilisé</string>
   <string name="frequent_phrases">Phrases fréquentes</string>
   <string name="functions_are_being_developed">"Les fonctionnalités sont en cours de développement, alors restez à l'écoute"</string>
   <string name="global_actions_airplane_mode">Mode avion</string>
@@ -111,7 +113,7 @@
   <string name="handset_text_usb_handset_insert">Appuyez pour ouvrir des paramètres supplémentaires</string>
   <string name="handset_title_unsupported_handset_insert">"Impossible de lire l'audio via l'adaptateur"</string>
   <string name="handset_title_usb_handset_insert">Lecture audio via USB</string>
-  <string name="handy_mode_enter_dlg_msg">Entrer dans le mode une main ?</string>
+  <string name="handy_mode_enter_dlg_msg">Entrer dans le mode une main ?</string>
   <string name="handy_mode_enter_dlg_title">Entrer dans le mode une main</string>
   <string name="handy_mode_summary">Pour fermer, appuyez sur la zone sombre</string>
   <string name="handy_mode_title">Mode une main</string>
@@ -124,7 +126,7 @@
   <string name="input_method_clipboard_checkbox_cancle">Annuler</string>
   <string name="input_method_clipboard_checkbox_confirm">Effacer</string>
   <string name="input_method_clipboard_clear_all_button">Tout effacer</string>
-  <string name="input_method_clipboard_clear_all_phrase_des">Effacer tous les objets de votre presse-papier ?</string>
+  <string name="input_method_clipboard_clear_all_phrase_des">Effacer tous les objets de votre presse-papier ?</string>
   <string name="input_method_clipboard_clear_all_phrase_title">Effacement du presse-papier</string>
   <string name="input_method_clipboard_copy_success">Copie réussie</string>
   <string name="input_method_clipboard_delete_success">Effacement réussi</string>
@@ -169,13 +171,13 @@
   <string name="miui_upgrading_notification_title">Chargement du système, certaines fonctionnalités peuvent ne pas être disponibles.</string>
   <string name="miui_warning_button_cancel">Annuler</string>
   <string name="miui_warning_button_ok">OK </string>
-  <string name="miui_warning_tip_info">Une erreur est survenue dans %1$s. Fermer cette application maintenant ?</string>
+  <string name="miui_warning_tip_info">Une erreur est survenue dans %1$s. Fermer cette application maintenant ?</string>
   <string name="onehour">30 minutes</string>
   <string name="oneplus">OnePlus</string>
   <string name="oneplus_phone">OnePlus</string>
   <string name="open_close_tip_action">"C'est compris"</string>
   <string name="open_close_tip_content">"Pour fermer la fenêtre flottante, appuyez et maintenez la barre d'action, puis faites glisser vers le haut"</string>
-  <string name="package_delete_confirm_step_1">Désinstaller %s ?</string>
+  <string name="package_delete_confirm_step_1">Désinstaller %s ?</string>
   <string name="package_delete_confirm_step_2">Désinstaller cette application peut rendre votre système instable.</string>
   <string name="package_delete_confirm_step_3">"Vous ne serez plus en mesure d'ouvrir cette application une fois que vous la désinstallez."</string>
   <string name="paste">Coller</string>
@@ -191,7 +193,7 @@
   <string name="popup_camera_cancel_popup">Annuler</string>
   <string name="popup_camera_continue_popup">"Ouvrir l'appareil photo"</string>
   <string name="popup_camera_front_failed">"Impossible d'ouvrir l'appareil photo frontale. Réessayer."</string>
-  <string name="popup_camera_front_when_use">"L'appareil photo frontale est occupée maintenant. Ouvrir quand même ?"</string>
+  <string name="popup_camera_front_when_use">"L'appareil photo frontale est occupée maintenant. Ouvrir quand même ?"</string>
   <string name="popup_camera_popup_falied_times_calibrate">"Impossible d'ouvrir l'appareil photo frontale plusieurs fois. Essayez de calibrer l'appareil photo."</string>
   <string name="popup_camera_remove_hid_device">"On dirait que votre appareil est connecté à un contrôleur de jeu. Vous ne pourrez peut-être pas ouvrir l'appareil photo avant lorsqu'un contrôleur de jeu est connecté."</string>
   <string name="popup_camera_sure">"Je l'ai"</string>
@@ -201,7 +203,7 @@
   <string name="popup_camera_using_camera_background">"%s utilise l'appareil photo frontale"</string>
   <string name="realme">realme</string>
   <string name="realme_phone">realme</string>
-  <string name="reboot_confirm_title">"Redémarrer l'appareil maintenant ?"</string>
+  <string name="reboot_confirm_title">"Redémarrer l'appareil maintenant ?"</string>
   <string name="reboot_info_auto_boot">"L'appareil est prévu pour s'allumer à %s"</string>
   <string name="reboot_info_shutdown_alarm">Alarme suivante: %s</string>
   <string name="reboot_progress">Redémarrage…</string>
@@ -235,7 +237,7 @@
   <string name="screen_rotation_freeze_message">Rotation auto désactivée.</string>
   <string name="screenshot_gesture_detect_alert_button">Activer dans les Paramètres</string>
   <string name="screenshot_gesture_detect_alert_dont_again">Ne plus afficher</string>
-  <string name="screenshot_gesture_detect_alert_msg">"Faites glisser vers le bas avec 3 doigts pour effectuer une capture d'écran ?"</string>
+  <string name="screenshot_gesture_detect_alert_msg">"Faites glisser vers le bas avec 3 doigts pour effectuer une capture d'écran ?"</string>
   <string name="screenshot_gesture_detect_alert_title">"Capture d'écran avec trois doigts"</string>
   <string name="security_permission_denied_text">Accès refusé</string>
   <string name="security_permission_failed_text">Une erreur est survenue, réessayez plus tard</string>
@@ -252,7 +254,7 @@
   <string name="set_password_action">Définir un mot de passe</string>
   <string name="set_password_message">Définir un mot de passe pour utiliser cette fonction.</string>
   <string name="set_password_title">Définir un mot de passe</string>
-  <string name="shutdown_confirm_title">"Éteindre l'appareil maintenant ?"</string>
+  <string name="shutdown_confirm_title">"Éteindre l'appareil maintenant ?"</string>
   <string name="shutdown_progress">Extinction…</string>
   <string name="silence_mode">Mode Silencieux</string>
   <string name="sim_added_reboot_confirm">Redémarrer</string>
@@ -323,7 +325,7 @@
   <string name="user_switching_dialog_switch_into_kid_space">"Passer à l'espace enfant…"</string>
   <string name="user_switching_dialog_switch_out_kid_space">"Quitter l'espace enfant…"</string>
   <string name="user_switching_dialog_text">Changement…</string>
-  <string name="voice_begin">Que recherchez-vous ?</string>
+  <string name="voice_begin">Que recherchez-vous ?</string>
   <string name="voice_button_action_down">Relâcher pour rechercher</string>
   <string name="voice_button_action_up">Appuyer pour parler</string>
   <string name="voice_input_error_network">Impossible de se connecter au réseau. Vérifiez vos paramètres réseau, puis réessayez.</string>

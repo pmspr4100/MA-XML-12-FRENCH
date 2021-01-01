@@ -28,7 +28,7 @@
   <string name="calllog">Historique des appels</string>
   <string name="cancel">Annuler</string>
   <string name="cancel_description">Annuler</string>
-  <string name="cancel_moving_dialog_message">"Arrêter d'importer maintenant ?"</string>
+  <string name="cancel_moving_dialog_message">"Arrêter d'importer maintenant ?"</string>
   <string name="cancel_moving_dialog_title">"Arrêt de l'import"</string>
   <string name="cannot_use_mi_huanji_button">"C'est compris"</string>
   <string name="cannot_use_mi_huanji_summary">Il semble que MIUI est en train de sauvegarder des données. Arrêtez les sauvegardes en attente ou redémarrez votre appareil pour autoriser Mi Mover à commencer le transfert.</string>
@@ -79,8 +79,8 @@ Visitez https://appleid.apple.com/#!&amp;page=signin pour désactiver"</string>
   <string name="dialog_backup_password_verify">OK</string>
   <string name="dialog_forbidden_use_tips">Mi Mover ne gère pas pour le moment le transfert de données vers ou depuis des tablettes.</string>
   <string name="dialog_rating_desc_ask">Comment trouvez-vous Mi Mover?</string>
-  <string name="dialog_rating_desc_less">"Souhaitez-vous partager quelques suggestions afin d'améliorer notre application ?"</string>
-  <string name="dialog_rating_desc_perfect">Merci ! Évaluez aussi Mi Mover dans GetApps ?</string>
+  <string name="dialog_rating_desc_less">"Souhaitez-vous partager quelques suggestions afin d'améliorer notre application ?"</string>
+  <string name="dialog_rating_desc_perfect">Merci ! Évaluez aussi Mi Mover dans GetApps ?</string>
   <string name="dialog_rating_title">Évaluer Mi Mover</string>
   <string name="dialog_request_network_btn_negative">Quitter</string>
   <string name="dialog_request_network_btn_positive">Accepter</string>
@@ -136,10 +136,10 @@ Open WeChat and go to Me &gt; Settings &gt; General &gt; Back up &amp; migrate c
   <string name="guest_install_app_hint_title">Télécharger la nouvelle version de Mi Mover</string>
   <string name="guest_unfinished_task_alert_btn_negative">Recommencer</string>
   <string name="guest_unfinished_task_alert_btn_positive">Continuer</string>
-  <string name="guest_unfinished_task_alert_message">Il semble que vous ayez des tâches de transfert non terminées. Continuer avec le transfert ?</string>
+  <string name="guest_unfinished_task_alert_message">Il semble que vous ayez des tâches de transfert non terminées. Continuer avec le transfert ?</string>
   <string name="guest_unfinished_task_alert_title">Tâches non terminées</string>
   <string name="hide_password_description">Masquer le mot de passe</string>
-  <string name="host_boot_installation_bottom_tips">"Vous ne trouvez pas Mi Mover ? Appuyez pour le télécharger."</string>
+  <string name="host_boot_installation_bottom_tips">"Vous ne trouvez pas Mi Mover ? Appuyez pour le télécharger."</string>
   <string name="host_boot_installation_button">Suivant</string>
   <string name="host_boot_installation_content">"1. Allez dans Paramètres sur votre ancien appareil.
 2. Entrez \"Mi Mover\" dans la barre de recherche.
@@ -151,7 +151,7 @@ Open WeChat and go to Me &gt; Settings &gt; General &gt; Back up &amp; migrate c
   <string name="host_boot_installation_step_one_messege">Allez dans Paramètres, entrez \"Mi Mover\" dans la barre de recherche, et appuyez sur \"Mi Mover\" dans les résultats de la recherche.</string>
   <string name="host_boot_installation_step_one_title">1. Ouvrez Mi Mover sur votre ancien appareil</string>
   <string name="host_boot_installation_step_two_title">2. Sélectionnez la page que vous voyez sur votre ancien appareil.</string>
-  <string name="host_boot_installation_tips">Vous ne trouvez pas Mi Mover ? Appuyez pour le télécharger.</string>
+  <string name="host_boot_installation_tips">Vous ne trouvez pas Mi Mover ? Appuyez pour le télécharger.</string>
   <string name="host_connect_timeout_tip">Connexion impossible depuis longtemps</string>
   <string name="host_dialog_install_button">Installer sur un autre appareil</string>
   <string name="host_dialog_known_button">"C'est compris"</string>
@@ -181,7 +181,7 @@ Open WeChat and go to Me &gt; Settings &gt; General &gt; Back up &amp; migrate c
   <string name="icloud_how_to_backup_tip_steps_two">"2. Votre identifiant Apple ID et votre mot de passe seront uniquement utilisés pour se connecter. Ils ne seront pas stockés ni enregistrés par Mi Mover."</string>
   <string name="icloud_login_title">Connexion à iCloud</string>
   <string name="icloud_need_sync">Sélectionnez les données à importer</string>
-  <string name="icloud_need_traffic_message">"Vous n'êtes pas connecté au Wi-Fi. Utiliser les données cellulaires pour importer les données depuis iCloud ?"</string>
+  <string name="icloud_need_traffic_message">"Vous n'êtes pas connecté au Wi-Fi. Utiliser les données cellulaires pour importer les données depuis iCloud ?"</string>
   <string name="icloud_need_traffic_title">Utilisation des données cellulaires</string>
   <string name="icloud_need_wifi_message">"Vous n'êtes pas connecté au Wi-Fi. Pour importer les données depuis iCloud, connectez-vous au Wi-Fi."</string>
   <string name="icloud_need_wifi_title">Connexion au Wi-Fi</string>
@@ -196,7 +196,7 @@ Open WeChat and go to Me &gt; Settings &gt; General &gt; Back up &amp; migrate c
   <string name="import_again">Importer à nouveau</string>
   <string name="import_data_from_icloud">Importer des données depuis iCloud</string>
   <string name="install_app_dialog_title">"Aucun appareil à proximité n'a été trouvé"</string>
-  <string name="install_app_link_text">"Pourquoi mon ancien appareil ne peut-il pas se connecter au hotspot ?"</string>
+  <string name="install_app_link_text">"Pourquoi mon ancien appareil ne peut-il pas se connecter au hotspot ?"</string>
   <string name="install_app_message">"Si vous ne trouvez votre nouvel appareil pendant un long moment, essayez ceci:
 1. Vérifiez que Mi Mover est installé sur votre nouvel appareil.
 2. Rapprochez les deux appareils."</string>
@@ -207,7 +207,7 @@ Open WeChat and go to Me &gt; Settings &gt; General &gt; Back up &amp; migrate c
   <string name="install_new_app_link_text">Installez Mi Mover sur votre nouvel appareil pour pouvoir vous connecter. Appuyez pour installer.</string>
   <string name="instruction">Information de sécurité importante</string>
   <string name="international_new_trans_intro_desc_8">"Les messages texte ne peuvent pas être transférés à cause de problèmes de compatibilité. Des applications tierces peuvent empêcher le transfert de leur données pour des raisons de sécurité."</string>
-  <string name="international_new_trans_intro_question_8">"8. Pourquoi les messages texte et les données applicatives de certaines applications tierces ne peuvent-elles transférées ?"</string>
+  <string name="international_new_trans_intro_question_8">"8. Pourquoi les messages texte et les données applicatives de certaines applications tierces ne peuvent-elles transférées ?"</string>
   <string name="international_scanner_send_dialog_message">"Les messages texte et les données applicatives de certaines applications tierces ne peuvent pas être transférées. Ne désactivez pas le Wi-Fi et ne changez pas de réseau durant le transfert."</string>
   <string name="lack_perm_msg">Mi Mover requiert les permissions suivantes: &lt;b&gt;%s&lt;/b&gt;.</string>
   <string name="lack_perm_title">Permissions requises</string>
@@ -294,14 +294,14 @@ Open WeChat and go to Me &gt; Settings &gt; General &gt; Back up &amp; migrate c
   <string name="new_trans_intro_desc_new">"1. Vérifiez que Mi Mover est à jour sur votre nouvel appareil. Vous pouvez télécharger la dernière version de Mi Mover dans GetApps ou en utilisant ce lien: %1$s."</string>
   <string name="new_trans_intro_desc_new_click">Télécharger</string>
   <string name="new_trans_intro_desc_old">"2. Si le hotspot n'apparaît toujours pas dans Mi Mover, ouvrez les paramètres Wi-Fi et vérifiez si vous l'apercevez à cet endroit. Si c'est le cas, retournez dans Mi Mover et appuyez sur le nom du hotspot."</string>
-  <string name="new_trans_intro_question_1">"1. Pourquoi le hotspot du nouvel appareil n'est-il pas affiché sur l'ancien appareil ?"</string>
-  <string name="new_trans_intro_question_2">2. Quel est le mot de passe du hotspot ?</string>
-  <string name="new_trans_intro_question_3">"3. Pourquoi est-il indiqué qu'il n'y a pas assez d'espace de stockage sur l'ancien appareil ?"</string>
-  <string name="new_trans_intro_question_4">"4. Pourquoi toutes les applications n'ont-elles pas été transférées avec succès ?"</string>
-  <string name="new_trans_intro_question_5">"5. Pourquoi les mots de passe de certains comptes d'applications tierces n'ont-ils pas été transférés avec succès ?"</string>
-  <string name="new_trans_intro_question_6">6. Pourquoi des données applicatives ne peuvent-elles pas être transfrées depuis un autre appareil ?</string>
-  <string name="new_trans_intro_question_7">"7. Si je quitte Mi Mover au milieu d'un transfert, devrai-je tout recommencer par la suite ?"</string>
-  <string name="new_trans_intro_question_8">8. Pourquoi mon historique WeChat a-t-il disparu sur le nouvel appareil ?</string>
+  <string name="new_trans_intro_question_1">"1. Pourquoi le hotspot du nouvel appareil n'est-il pas affiché sur l'ancien appareil ?"</string>
+  <string name="new_trans_intro_question_2">2. Quel est le mot de passe du hotspot ?</string>
+  <string name="new_trans_intro_question_3">"3. Pourquoi est-il indiqué qu'il n'y a pas assez d'espace de stockage sur l'ancien appareil ?"</string>
+  <string name="new_trans_intro_question_4">"4. Pourquoi toutes les applications n'ont-elles pas été transférées avec succès ?"</string>
+  <string name="new_trans_intro_question_5">"5. Pourquoi les mots de passe de certains comptes d'applications tierces n'ont-ils pas été transférés avec succès ?"</string>
+  <string name="new_trans_intro_question_6">6. Pourquoi des données applicatives ne peuvent-elles pas être transfrées depuis un autre appareil ?</string>
+  <string name="new_trans_intro_question_7">"7. Si je quitte Mi Mover au milieu d'un transfert, devrai-je tout recommencer par la suite ?"</string>
+  <string name="new_trans_intro_question_8">8. Pourquoi mon historique WeChat a-t-il disparu sur le nouvel appareil ?</string>
   <string name="new_wait_link_first">"1. Ouvrez Mi Mover sur votre ancien appareil.
 2. Appuyez sur \"Je suis l'expéditeur\" et attendez un moment.
 3. Sélectionnez le hotspot suivant sur l'ancien appareil."</string>
@@ -392,8 +392,8 @@ Libérez au moins %s."</string>
   <string name="scanner_permission_alert_ok">Paramètres</string>
   <string name="scanner_quit_alert_btn_negative">Quitter</string>
   <string name="scanner_quit_alert_btn_positive">Ne pas quitter</string>
-  <string name="scanner_quit_alert_message">"Vous devrez connecter à nouveau les deux appareils si vous quittez Mi Mover maintenant. Quitter quand même ?"</string>
-  <string name="scanner_quit_alert_title">Quitter maintenant ?</string>
+  <string name="scanner_quit_alert_message">"Vous devrez connecter à nouveau les deux appareils si vous quittez Mi Mover maintenant. Quitter quand même ?"</string>
+  <string name="scanner_quit_alert_title">Quitter maintenant ?</string>
   <string name="scanner_send_dialog_btn">"C'est compris"</string>
   <string name="scanner_send_dialog_message">"Ne désactivez-pas le Wi-Fi et ne changez pas de réseau durant le transfert."</string>
   <string name="scanner_size_selected">Selectionné: %s</string>
@@ -552,7 +552,7 @@ audio, vidéo, documents et applications vers un nouvel appareil"</string>
   <string name="transfer_multi_connect_title">Il semble que plusieurs appareils soient connectés à ce hotspot</string>
   <string name="transfer_quit_alert_btn_negative">Quitter</string>
   <string name="transfer_quit_alert_btn_positive">Ne pas quitter</string>
-  <string name="transfer_quit_alert_message">"Mi Mover effectue une tâche. Quitter quand même ?
+  <string name="transfer_quit_alert_message">"Mi Mover effectue une tâche. Quitter quand même ?
 
 "</string>
   <string name="transfer_quit_alert_message_extra">"La progression du transfert sera sauvegardée. Vous pourrez reprendre le transfert là où il s'était arrêté la prochaine fois que vous connecterez les deux appareils."</string>
@@ -581,7 +581,7 @@ audio, vidéo, documents et applications vers un nouvel appareil"</string>
   <string name="try_again">Réessayez</string>
   <string name="tuesday">Mardi</string>
   <string name="tuesday_short">Mar</string>
-  <string name="tuesday_shortest">M</string>
+  <string name="tuesday_shortest">Ma</string>
   <string name="unselected">Non sélectionné</string>
   <string name="update_now">Mettre à jour maintenant</string>
   <string name="user_agreement">Conditions du service</string>
@@ -601,7 +601,7 @@ audio, vidéo, documents et applications vers un nouvel appareil"</string>
   <string name="wechat_qq_data">Données de WeChat et QQ (historiques de chat inclus)</string>
   <string name="wednesday">Mercredi</string>
   <string name="wednesday_short">Mer</string>
-  <string name="wednesday_shortest">M</string>
+  <string name="wednesday_shortest">Me</string>
   <string name="xiaomi_mobile">Mi Mobile</string>
   <string name="xiaomi_update_sdk_bytes_unit">"%1$s o"</string>
   <string name="xiaomi_update_sdk_connect_download_manager_fail">"Connect Download Manager a échoué. Vérifiez l'état de Download Manager dans le gestionnaire d'applications."</string>
@@ -609,7 +609,7 @@ audio, vidéo, documents et applications vers un nouvel appareil"</string>
 Taille: %2$s"</string>
   <string name="xiaomi_update_sdk_dialog_message_diff">"Présentation de la version %1$s
 Taille de mise à jour Delta: %2$s"</string>
-  <string name="xiaomi_update_sdk_dialog_title">%1$s mises à jour !</string>
+  <string name="xiaomi_update_sdk_dialog_title">%1$s mises à jour !</string>
   <string name="xiaomi_update_sdk_external_storage_unavailable">Stockage indisponible, veuillez vérifier votre carte SD.</string>
   <string name="xiaomi_update_sdk_kilobytes_unit">"%1$s Ko"</string>
   <string name="xiaomi_update_sdk_megabytes_unit">"%1$s Mo"</string>

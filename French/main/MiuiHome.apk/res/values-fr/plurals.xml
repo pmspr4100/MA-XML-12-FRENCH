@@ -9,20 +9,24 @@
         <item quantity="one">%2$s non lu de %1$s</item>
     </plurals>
     <plurals name="delete_wallpapers_message">
-        <item quantity="other">"Supprimer %1$d fonds d'écran ?"</item>
-        <item quantity="one">"Supprimer %1$d fond d'écran ?"</item>
+        <item quantity="other">"Supprimer %1$d fonds d'écran ?"</item>
+        <item quantity="one">"Supprimer %1$d fond d'écran ?"</item>
     </plurals>
     <plurals name="editing_mode_title">
         <item quantity="other">%1$d éléments sélectionnés</item>
         <item quantity="one">%1$d élément sélectionné</item>
+    </plurals>
+    <plurals name="remove_dialog_title_multi_format">
+        <item quantity="other">"Supprimer %1$d applications de l'écran d'accueil ?"</item>
+        <item quantity="one">"Supprimer %1$d application de l'écran d'accueil ?"</item>
     </plurals>
     <plurals name="scroll_tip_format_when_announce_accessibility">
         <item quantity="other">Page %1$d, %2$d applications.</item>
         <item quantity="one">Page %1$d, %2$d application.</item>
     </plurals>
     <plurals name="uninstall_dialog_title_multi_format">
-        <item quantity="other">Désinstaller %1$d applications ?</item>
-        <item quantity="one">Désinstaller %1$d application ?</item>
+        <item quantity="other">Désinstaller %1$d applications ?</item>
+        <item quantity="one">Désinstaller %1$d application ?</item>
     </plurals>
     <plurals name="uninstall_result_multi_failed">
         <item quantity="other">Impossible de désinstaller %1$d applications</item>
