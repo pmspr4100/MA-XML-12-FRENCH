@@ -188,6 +188,10 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
         <item quantity="other">"S'enregistrer %d jours d'affilés"</item>
         <item quantity="one">"S'enregistrer dans %d heure"</item>
     </plurals>
+    <plurals name="gb_voice_changer_toast_tips_window_bubble">
+        <item quantity="other">"Essayez le changeur de voix maintenant
+pour obtenir un essai gratuit de %d jours!"</item>
+    </plurals>
     <plurals name="gb_voice_changer_trial_gain_fail">
         <item quantity="other">"Impossible d'avoir un essai gratuit de %d jours"</item>
         <item quantity="one">"Impossible d'avoir un essai gratuit de %d jours"</item>
@@ -201,7 +205,7 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
         <item quantity="one">Obtenez un essai gratuit de %d jour</item>
     </plurals>
     <plurals name="gb_voice_changer_user_status_get_twice_trial_card_dialog">
-        <item quantity="other">"Vos abonnements ont expiré.
+        <item quantity="other">"Votre abonnement a expiré.
 Vous pouvez obtenir un essai gratuit de %d jours maintenant !"</item>
         <item quantity="one">"Votre abonnement a expiré.
 Vous pouvez obtenir un essai gratuit de %d jours maintenant !"</item>
@@ -287,6 +291,10 @@ Vous pouvez obtenir un essai gratuit de %d jours maintenant !"</item>
         <item quantity="one">%s minute</item>
     </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">Connecter au moins %d points</item>
+        <item quantity="one">Connecter au moins %d point</item>
+    </plurals>
+    <plurals name="lockpattern_recording_intro_header_new">
         <item quantity="other">Connecter au moins %d points</item>
         <item quantity="one">Connecter au moins %d point</item>
     </plurals>
@@ -498,6 +506,14 @@ Vous pouvez obtenir un essai gratuit de %d jours maintenant !"</item>
         <item quantity="other">"Votre appareil va s'éteindre dans %d secondes. Connectez le chargeur."</item>
         <item quantity="one">"Votre appareil va s'éteindre dans %d seconde. Connectez le chargeur."</item>
     </plurals>
+    <plurals name="power_optimize_app_autostart_summary">
+        <item quantity="other">%d applications démarrent automatiquement fréquemment</item>
+        <item quantity="one">%d application démarre automatiquement fréquemment</item>
+    </plurals>
+    <plurals name="power_optimize_close_app_summary">
+        <item quantity="other">%d applications vident la batterie</item>
+        <item quantity="one">%d application vide la batterie</item>
+    </plurals>
     <plurals name="pp_times">
         <item quantity="other">%s fois</item>
         <item quantity="one">%s fois</item>
@@ -650,20 +666,28 @@ Vous pouvez obtenir un essai gratuit de %d jours maintenant !"</item>
         <item quantity="other">%d jeux désinstallés</item>
         <item quantity="one">%d jeu désinstallé</item>
     </plurals>
+    <plurals name="unlock_set_unlock_pattern_summary_new">
+        <item quantity="other">Connectez au moins %s points</item>
+        <item quantity="one">Connectez au moins %s point</item>
+    </plurals>
+    <plurals name="unlock_set_unlock_pin_summary_new">
+        <item quantity="other">Entrez %s chiffres</item>
+        <item quantity="one">Entrez %s chiffre</item>
+    </plurals>
     <plurals name="videobox_settings_manager_apps_count">
-        <item quantity="other">%d apps</item>
-        <item quantity="one">%d app</item>
+        <item quantity="other">%d applications</item>
+        <item quantity="one">%d application</item>
     </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$d vues</item>
         <item quantity="one">%1$d vue</item>
     </plurals>
     <plurals name="white_list_risk_app_header">
-        <item quantity="other">Applis dangereuses: %d</item>
-        <item quantity="one">Appli dangereuse: %d</item>
+        <item quantity="other">Applis dangereuses : %d</item>
+        <item quantity="one">Appli dangereuse : %d</item>
     </plurals>
     <plurals name="white_list_trojan_header">
-        <item quantity="other">Chevaux de Troie: %d</item>
-        <item quantity="one">Cheval de Troie: %d</item>
+        <item quantity="other">Chevaux de Troie : %d</item>
+        <item quantity="one">Cheval de Troie : %d</item>
     </plurals>
 </resources>

@@ -1253,11 +1253,12 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_google_lens_summary">"Pointez l'appareil photo sur les informations de contact, les URL et les QR codes pour afficher les options disponibles."</string>
   <string name="pref_google_lens_title">Suggestion Lens</string>
   <string name="pref_groupshot_with_primitive_title">"Enregistrer les photos d'origine également"</string>
+  <string name="pref_hdr10_hdr10plus_video_mode_description">Optimisez les couleurs pour les vidéos 4K (HDR10+) et 8K (HDR10). Cette fonction ne fonctionne que sur les appareils compatibles HDR10+/HDR10.</string>
   <string name="pref_hdr10_video_mode_description">Optimisez automatiquement les couleurs et le contraste pour les vidéos 4K et 8K. Les vidéos optimisées ne peuvent être lues que sur des appareils compatibles HDR10.</string>
   <string name="pref_hdr10_video_mode_title">HDR 10</string>
   <string name="pref_hdr10plus_video_mode_description">Optimise les couleurs et ajuste le contraste pour les vidéos 4K et 8K. Cette fonction ne fonctionne que sur les appareils compatibles HDR10 +.</string>
   <string name="pref_lens_dirty_detect_summary">"Recevoir une notification lorsque l'objectif est sale"</string>
-  <string name="pref_lens_dirty_detect_title">"Avertir de l'objectif sale"</string>
+  <string name="pref_lens_dirty_detect_title">Avertissement objectif sale</string>
   <string name="pref_live_volumekey_function_default">Volume</string>
   <string name="pref_menu_ai_ultra_pixel_photography">IA %s</string>
   <string name="pref_menu_ultra_pixel_photography">%s ultra HD</string>
@@ -1338,7 +1339,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_watermark_on">Activé</string>
   <string name="pref_watermark_title">Filigrane</string>
   <string name="pref_wind_denoise_title">Wind filter</string>
-  <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
+  <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
   <string name="preparing_sd">Vérification carte SD…</string>
   <string name="preview_back_pressed_hint">"Appuyez à nouveau pour revenir à l'aperçu"</string>
   <string name="pro_color_mode">Couleur pro</string>

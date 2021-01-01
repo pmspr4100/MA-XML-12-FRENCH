@@ -103,7 +103,7 @@ Note: les anciennes Mi TVs ne supportent peut-être pas la diffusion sur différ
 2. Si vous utilisez des téléviseurs, des décodeurs TV ou des projecteurs d'autres marques, connectez à la fois votre téléphone et le moniteur externe sur le même réseau Wi-Fi.
 Si les deux appareils ne peuvent pas être connectés sur le même réseau, activez Miracast sur votre moniteur externe. Le nom désignant la fonctionnalité Miracast peut varier."</string>
   <string name="help_page_text_08">Étape 2:</string>
-  <string name="help_page_text_09">"Appuyez sur \"Diffusion\" depuis le volet des notifications de votre téléphone. Activez à la fois le Wi-Fi et le Bluetooth pour une connexion plus stable ."</string>
+  <string name="help_page_text_09">"Appuyez sur \"Diffusion\" depuis le panneau des notifications de votre téléphone. Activez à la fois le Wi-Fi et le Bluetooth pour une connexion plus stable ."</string>
   <string name="help_page_text_10">Si vous souhaitez diffuser des images de Galerie ou Mi Video, vous pouvez utiliser la fonction de diffusion intégrée dans ces applications.</string>
   <string name="help_page_text_11">Étape 3:</string>
   <string name="help_page_text_12">Sélectionnez un appareil externe depuis la liste des appareils disponibles pour commencer la diffusion.</string>
@@ -164,7 +164,7 @@ If you need to manually open the Miracast function, you can press the [Menu] but
   <string name="help_page_text_55_global">"Si vous ne pouvez pas vous connecter au réseau, vérifiez que votre écran externe supporte la fonctionnalité Miracast et qu'elle est activée. Sur certains modèles, cette fonctionnalité est appelée Wireless Display (affichage sans fil), Screen Mirroring (écran miroir), ou Multiple screens (écrans multiples).
 4. Si vous rencontrez un problème, vous pouvez le signaler en utilisant notre application \"Services &amp; feedback\"."</string>
   <string name="help_page_text_end">"If the brand of your device isn't listed here, contact the manufacturer to learn more about casting functionality."</string>
-  <string name="keyguard_security_setting_privacy_policy">Privacy Policy</string>
+  <string name="keyguard_security_setting_privacy_policy">Politique de confidentialité</string>
   <string name="midnight">Night</string>
   <string name="miuix_appcompat_cloud_state_disabled">Sync with the cloud is off</string>
   <string name="miuix_appcompat_cloud_state_finished">Synced with the cloud successfully</string>
@@ -219,13 +219,13 @@ If you need to manually open the Miracast function, you can press the [Menu] but
   <string name="more">Plus</string>
   <string name="morning">Morning</string>
   <string name="nfc_connect_failed_toast">"Couldnt't cast. Try again."</string>
-  <string name="night">Evening</string>
-  <string name="noon">Midday</string>
-  <string name="not_set">Not set</string>
+  <string name="night">Soirée</string>
+  <string name="noon">Midi</string>
+  <string name="not_set">Non défini</string>
   <string name="notification_rc_title">XiaoMi TV Assistant</string>
   <string name="notification_show_more">Tap to view more features</string>
   <string name="open_game_accelerate">Turn on Game Turbo</string>
-  <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
+  <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
   <string name="privacy_agree">Agree</string>
   <string name="privacy_detail">&lt;Data&gt;This app needs to connect to the internet and collect the required personal data to be able to work normally. To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &amp;lt;a href=%1$s&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=%2$s&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
   <string name="privacy_detail_extra">&lt;Data&gt;Some features are provided by a third party service provider HappyCast. Before using this feature, read and agree to &amp;lt;a href=%1$s&amp;gt;HappyCast Privacy Policy&amp;lt;/a&amp;gt; and &amp;lt;a href=%2$s&amp;gt;HappyCast Legal Statement&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
@@ -281,7 +281,7 @@ Read and agree to our &amp;lt;a href=%1$s&amp;gt;User Agreement&amp;lt;/a&amp;gt
   <string name="screen_projection_sample_summary">Casting documents, games, photos, and videos</string>
   <string name="screen_projection_sample_title">Demos</string>
   <string name="screen_projection_title">Cast</string>
-  <string name="search_menu_title">Search</string>
+  <string name="search_menu_title">Recherche</string>
   <string name="small_window">Réduire la fenêtre</string>
   <string name="small_window_not_supported">"Can't minimize this app while it's being cast"</string>
   <string name="solar_term_autumn_begins">Autumn begins</string>
@@ -353,9 +353,9 @@ Read and agree to our &amp;lt;a href=%1$s&amp;gt;User Agreement&amp;lt;/a&amp;gt
   <string name="the_united_nations_day">United Nations Day</string>
   <string name="the_valentines_day">"Valentine's Day"</string>
   <string name="the_water_lantern_festival">Water Lantern Festival</string>
-  <string name="thursday">Thursday</string>
-  <string name="thursday_short">Thu</string>
-  <string name="thursday_shortest">Thu</string>
+  <string name="thursday">Jeudi</string>
+  <string name="thursday_short">Jeu</string>
+  <string name="thursday_shortest">Jeu</string>
   <string name="tile_label">Diffusion</string>
   <string name="time_picker_dialog_title">Set time</string>
   <string name="toast_guide_show_more">Learn more</string>
@@ -365,15 +365,15 @@ Read and agree to our &amp;lt;a href=%1$s&amp;gt;User Agreement&amp;lt;/a&amp;gt
   <string name="toast_nfc_dont_move">"Don't move your phone away"</string>
   <string name="toast_title_for_small_window">Select \"Minimize window\" in the app</string>
   <string name="toast_turn_off_hotspot_before_cast">Turn off portable hotspot before casting</string>
-  <string name="today">Today</string>
-  <string name="tomorrow">Tomorrow</string>
-  <string name="tuesday">Tuesday</string>
-  <string name="tuesday_short">Tue</string>
-  <string name="tuesday_shortest">Tue</string>
+  <string name="today">"Aujourd'hui"</string>
+  <string name="tomorrow">Demain</string>
+  <string name="tuesday">Mardi</string>
+  <string name="tuesday_short">Mar</string>
+  <string name="tuesday_shortest">Mar</string>
   <string name="v7_preference_off">OFF</string>
   <string name="v7_preference_on">ON</string>
-  <string name="wednesday">Wednesday</string>
-  <string name="wednesday_short">Wed</string>
-  <string name="wednesday_shortest">W</string>
+  <string name="wednesday">Mercredi</string>
+  <string name="wednesday_short">Mer</string>
+  <string name="wednesday_shortest">Me</string>
   <string name="yesterday">Yesterday</string>
 </resources>

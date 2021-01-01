@@ -106,7 +106,7 @@
   <string name="adjust_traffic_carrier_summary_yesterday">Mis à jour hier à %s</string>
   <string name="adjust_traffic_data">"Définir l'utilisation des données"</string>
   <string name="after_the_lock_screen">"Verrouillez les applications en même temps que l'écran"</string>
-  <string name="ai_allow_all">Notifier lorsque la permission est utilisée pour tous</string>
+  <string name="ai_allow_all">Décider pour moi dans tous les cas</string>
   <string name="alert_back_diving_mode_summary">Désactiver le mode immersif maintenant ?</string>
   <string name="alert_back_diving_mode_title">Mode immersif</string>
   <string name="alert_back_milink_hangup_tips_content">"La diffusion ne sera pas interrompue pendant la fin d'un appel. Vous pouvez appuyer sur le bouton d'alimentation pour réveiller l'écran."</string>
@@ -165,6 +165,10 @@
   <string name="app_behavior_about_content_no_link">"MIUI peut montrer quand les applications ont lancé d'autres applications, démarré automatiquement, utilisé des Permissions et effectué des actions sensibles. En raison de problèmes de compatibilité de version Android, certains de ces enregistrements peuvent ne pas être précis. Si vous trouvez un enregistrement de comportement d'application qui n'est pas précis, signalez-le-nous à l'aide de l'application \"Services et commentaires\"."</string>
   <string name="app_behavior_about_negative">Signaler des inexactitudes</string>
   <string name="app_behavior_about_positive">Compris</string>
+    <string name="app_behavior_access_gallery">%1s a accédé à la galerie</string>
+    <string name="app_behavior_access_gallery_single">Cette application a accédé à la galerie</string>
+    <string name="app_behavior_access_sociality">%1s a accédé aux messages dans des applications de réseaux sociaux</string>
+    <string name="app_behavior_access_sociality_single">Cette application a accédé aux messages dans des applications de réseaux sociaux</string>
   <string name="app_behavior_allowed">Autoriser</string>
   <string name="app_behavior_audio">"%1s a enregistré de l'audio"</string>
   <string name="app_behavior_audio_bg">"%1s a enregistré de l'audio en arrière-plan"</string>
@@ -192,6 +196,8 @@
   <string name="app_behavior_contacts_bg">%1s a accédé à vos contacts en arrière-plan</string>
   <string name="app_behavior_contacts_bg_single">Cette application a accédé à vos contacts en arrière-plan</string>
   <string name="app_behavior_contacts_single">Cette application a accédé à vos contacts</string>
+  <string name="app_behavior_delete_pic">%1s a supprimé des éléments de la Galerie</string>
+  <string name="app_behavior_delete_pic_single">Cette application a supprimé des éléments de la Galerie</string>
   <string name="app_behavior_denied">Restreindre</string>
   <string name="app_behavior_desc_allow_once">Autorisé à %1$s</string>
   <string name="app_behavior_desc_deny_once">Restreint à %1$s</string>
@@ -204,15 +210,16 @@
   <string name="app_behavior_key_camera">Prise de photos</string>
   <string name="app_behavior_key_location">Localisation</string>
   <string name="app_behavior_key_protect">Protéger les données personnelles</string>
+    <string name="app_behavior_link_start">Démarrage en chaîne</string>
   <string name="app_behavior_list_load_more">Chargement…</string>
   <string name="app_behavior_location">%1s accédé à votre localisation</string>
   <string name="app_behavior_location_bg">%1s accédé à votre localisation en arrière-plan</string>
   <string name="app_behavior_location_bg_single">Cette application accède à votre localisation en arrière-plan</string>
   <string name="app_behavior_location_single">Cette application a accédé à votre localisation</string>
-  <string name="app_behavior_media_volume">%1s adjusted media volume</string>
-  <string name="app_behavior_media_volume_bg">%1s adjusted media volume in the background</string>
-  <string name="app_behavior_media_volume_bg_single">This app adjusted media volume in the background</string>
-  <string name="app_behavior_media_volume_single">This app adjusted media volume</string>
+  <string name="app_behavior_media_volume">%1s a ajusté le volume multimédia</string>
+  <string name="app_behavior_media_volume_bg">%1s a ajusté le volume multimédia en arrière-plan</string>
+  <string name="app_behavior_media_volume_bg_single">Cette application a ajusté le volume multimédia en arrière-plan</string>
+  <string name="app_behavior_media_volume_single">Cette application a ajusté le volume multimédia</string>
   <string name="app_behavior_menu_about">À propos des enregistrements de comportement des applications</string>
   <string name="app_behavior_monitor_off">Désactiver les notifications</string>
   <string name="app_behavior_monitor_off_content">"Vous ne pourrez pas recevoir de notifications sur les actions sensibles effectuées par cette application. Désactiver les notifications quand même ?"</string>
@@ -263,6 +270,8 @@
   <string name="app_behavior_settings_category_privacy">Protéger les informations personnelles</string>
   <string name="app_behavior_settings_perm_tips">"Afficher une alerte dans la barre d'état lorsque les applications accèdent à votre localisation, enregistrent du son ou prennent des photos"</string>
   <string name="app_behavior_settings_privacy_tips">"Recevez des notifications lorsque les applications accèdent à vos contacts, à l'historique des appels ou effectuent d'autres actions sensibles"</string>
+  <string name="app_behavior_share_file">Partage des fichiers</string>
+  <string name="app_behavior_share_picture">Partage des images</string>
   <string name="app_behavior_sms_read">%1s a lu des SMS</string>
   <string name="app_behavior_sms_read_single">Cette application a lu des SMS</string>
   <string name="app_behavior_sms_send">%1s a envoyé des SMS</string>
@@ -946,6 +955,14 @@ Toutes les données sur votre appareil peuvent être supprimées et le mot de pa
   <string name="dialog_roaming_warning_checkbox">Ne plus afficher</string>
   <string name="dialog_roaming_warning_message">"L'opérateur vous facturera des frais après avoir activé l'itinérance internationale des données. Activer quand même ?"</string>
   <string name="dialog_roaming_warning_ok">Activer</string>
+  <string name="dialog_skt_roaming_warning_cancel">Refuser</string>
+  <string name="dialog_skt_roaming_warning_message">"Lisez et acceptez les conditions ci-dessous pour utiliser l'itinérance des données. Des frais d'itinérance internationale de données peuvent s'appliquer. Sans plan d'itinérance de données, des frais importants peuvent s'appliquer aux applications qui se mettent à jour automatiquement, telles que les applications liées aux réseaux sociaux, aux e-mails et à la météo.
+      * Si vous n'êtes pas d'accord pour utiliser l'itinérance des données, l'itinérance des données sera désactivée.
+      * HD Voice est utilisé par défaut sur les réseaux pris en charge.
+      * L'itinérance des données 5G est disponible uniquement dans nos réseaux partenaires.
+"</string>
+  <string name="dialog_skt_roaming_warning_ok">Accepter</string>
+  <string name="dialog_skt_roaming_warning_title">"Accord d'itinérance des données"</string>
   <string name="dialog_title_attention">Attention</string>
   <string name="dialog_title_auto_start_declare">À propos du démarrage auto</string>
   <string name="dialog_title_stop_virus_scan">"Arrêter l'analyse de sécurité"</string>
@@ -1237,6 +1254,7 @@ carte médicale"</string>
   <string name="face_unlock_verity_dialog_summary">Vérifier des données du visage</string>
   <string name="face_unlock_verity_dialog_title_failed">Impossible de vous reconnaître</string>
   <string name="face_unlock_verity_dialog_title_succeed">Vérifié avec succès</string>
+  <string name="file_confirm_start_activity">"%s n'est pas autorisé à accéder à votre Galerie et à vos applications de réseaux sociaux. Cette application souhaite accéder aux fichiers stockés sur cet appareil pour partager des éléments. Autoriser ?"</string>
   <string name="finger_remind_message">"Ajoutez d'abord votre empreinte digitale. Appuyez pour ouvrir Paramètres."</string>
   <string name="fingerprint_identify_msg">Activez le déverrouillage avec les empreintes digitales</string>
   <string name="fingerprint_not_identified_msg">"Impossible de lire l'empreinte digitale. Saisissez votre mot de passe"</string>
@@ -1376,6 +1394,7 @@ carte médicale"</string>
   <string name="fw_blocked_join">" et "</string>
   <string name="fw_oversea">"Bloquer les appels de l'étranger"</string>
   <string name="fw_oversea_content">"Bloquer tous les appels entrants des numéros de téléphone de l'étranger"</string>
+  <string name="gallery_confirm_start_activity">"%s n'est pas autorisé à accéder à votre galerie et à vos applications de réseaux sociaux. Cette application souhaite accéder aux images stockées sur cet appareil pour partager des éléments. Autoriser ?"</string>
   <string name="gallery_confirm_start_activity">"%s essaye d'accéder à des images à travers une autre application. L'autoriser ?"</string>
   <string name="game_ad_recommendation">Tout le monde joue</string>
   <string name="game_anti_disturb_msg">NPD en mode Jeu</string>
@@ -1567,7 +1586,6 @@ pour obtenir un essai gratuit de 3 jours !"</string>
   <string name="gb_voice_changer_toast_window_new_tips">"Essayez le changeur de voix !
 Basculez entre différents personnages et effets spéciaux."</string>
   <string name="gb_voice_changer_toast_window_open">Effet \"%s\" activé</string>
-  <string name="gb_voice_changer_toast_window_vip_expire">"Votre abonnement est sur le point d'expirer. Renouvelez votre abonnement maintenant pour bénéficier des avantages !"</string>
   <string name="gb_voice_changer_trial_gender_dialog">Essai gratuit reçu avec succès ! Sélectionnez le sexe pour ajuster les effets et les recommandations en conséquence.</string>
   <string name="gb_voice_changer_trial_gender_dialog_title">Essai gratuit</string>
   <string name="gb_voice_changer_trial_progress_dialog_message">"Réception d'un essai gratuit…"</string>
@@ -1577,7 +1595,7 @@ et explorez notre changeur de voix !"</string>
   <string name="gb_voice_changer_user_status_no_login">Connectez-vous au compte Mi</string>
   <string name="gb_voice_changer_user_status_remain_time">"Date d'expiration: %s"</string>
   <string name="gb_voice_changer_user_status_renew">Renouveler</string>
-  <string name="gb_voice_changer_user_tips_info_vip_expire">Vos abonnements ont expiré. Renouvelez votre abonnement maintenant pour bénéficier des avantages !</string>
+  <string name="gb_voice_changer_user_tips_info_vip_expire">Vos abonnement a expiré. Renouvelez votre abonnement maintenant pour bénéficier des avantages !</string>
   <string name="gb_wonderful_moment_toast_window_new_pop">"Enregistrer les moments clés
 de vos sessions de jeu"</string>
   <string name="gb_wonderful_video_cancel">Annuler</string>
@@ -1840,7 +1858,6 @@ Votre opérateur peut vous facturer des frais supplémentaires si vous utilisez 
   <string name="lockpattern_pattern_confirmed_header">Définir un nouveau schéma de déverrouillage</string>
   <string name="lockpattern_pattern_entered_header">Schéma ajouté</string>
   <string name="lockpattern_recording_inprogress">Soulevez votre doigt pour terminer</string>
-  <string name="lockpattern_recording_intro_header">Connecter au moins 4 points pour créer un schéma</string>
   <string name="lockpattern_retry_button_text">Dessiner à nouveau</string>
   <string name="lockpattern_settings_help_how_to_record">Dessiner un schéma</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Trop de tentatives sans succès !</string>
@@ -2391,6 +2408,7 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
   <string name="permgroupdesc_sms">Lire ou envoyer des messages</string>
   <string name="permgroupdesc_storage">"Accès aux photos ou aux fichiers sur l'appareil"</string>
   <string name="permission_action_accept">Accepter</string>
+  <string name="permission_action_ai_prompt">Decider pour moi</string>
   <string name="permission_action_always">Toujours autoriser</string>
   <string name="permission_action_desc">"Autoriser les permissions mais renvoyez des messages vides à l'application pour protéger la confidentialité"</string>
   <string name="permission_action_desc_always">"Cette permission peut être utilisée n'importe quand"</string>
@@ -2427,7 +2445,7 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
   <string name="permission_instruction_modify_audio_settings">"Cette autorisation permet aux applications de modifier les paramètres audio (par exemple, régler le volume sans votre confirmation). Vous ne pourrez peut-être pas régler le volume dans certaines applications à moins que vous ne leur accordiez cette autorisation."</string>
   <string name="permission_instruction_nfc">Cette autorisation permet aux applications de communiquer avec des cartes et des appareils NFC.</string>
   <string name="permission_instruction_notification_adjustment">Cette autorisation permet aux applications de fournir des notifications adaptatives plus personnalisées et diversifiées.</string>
-  <string name="permission_instruction_ongoing_notification">Cette autorisation permet aux applications de créer des raccourcis permanents dans le volet des notifications, ce qui peut vous empêcher de voir des notifications régulières.</string>
+  <string name="permission_instruction_ongoing_notification">Cette autorisation permet aux applications de créer des raccourcis permanents dans le panneau des notifications, ce qui peut vous empêcher de voir des notifications régulières.</string>
   <string name="permission_instruction_package_usage_stat">"Cette autorisation permet aux applications de suivre le comportement d'autres applications sur votre appareil et d'obtenir les informations pouvant inclure votre opérateur et les paramètres de langue. Il s'agit d'une autorisation à haut risque. Votre appareil peut être surveillé et la sécurité de vos informations personnelles peut également être menacée."</string>
   <string name="permission_instruction_picture_in_picture">"Cette autorisation permet aux applications d'afficher des éléments sur votre écran d'accueil ou sur d'autres applications via une interface image dans l'image."</string>
   <string name="permission_instruction_popup_window">"Cette autorisation permet aux applications d'afficher des fenêtres flottantes sur toute autre interface de votre appareil, ce qui peut affecter l'utilisation normale d'autres applications. Des applications malveillantes peuvent utiliser cette autorisation pour lire ou collecter des informations privées (par exemple des mots de passe) via des fenêtres flottantes transparentes."</string>
@@ -2447,8 +2465,8 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
   <string name="permission_instruction_send_payment_sms">"Cette autorisation permet aux applications d'envoyer des SMS payants."</string>
   <string name="permission_instruction_send_sms">"Cette autorisation permet aux applications d'envoyer des messages texte, ce qui peut générer des frais supplémentaires. Des applications malveillantes peuvent utiliser cette autorisation pour envoyer des messages payants sans votre consentement."</string>
   <string name="permission_instruction_show_locked">"Cette autorisation permet aux applications d'afficher des éléments sur votre écran de verrouillage. Des applications malveillantes peuvent utiliser cette autorisation pour vous montrer des publicités ennuyeuses."</string>
-  <string name="permission_instruction_sociality">"Pour protéger votre vie privée, MIUI vous permet de décider si vous autorisez les applications disposant d'autorisations de stockage à accéder à vos messages dans les applications de médias sociaux."</string>
-  <string name="permission_instruction_storage">"Pour protéger votre vie privée, MIUI vous permet de décider si vous autorisez les applications disposant d'autorisations de stockage à accéder à la Galerie et à vos messages dans les applications de médias sociaux."</string>
+  <string name="permission_instruction_sociality">"Pour protéger votre vie privée, MIUI vous permet de décider si vous autorisez les applications disposant d'autorisations de stockage à accéder à vos messages dans les applications de réseaux sociaux."</string>
+  <string name="permission_instruction_storage">"Pour protéger votre vie privée, MIUI vous permet de décider si vous autorisez les applications disposant d'autorisations de stockage à accéder à la Galerie et à vos messages dans les applications de réseaux sociaux."</string>
   <string name="permission_instruction_touch_pay">"Cette autorisation permet aux applications d'effectuer des paiements sans contact."</string>
   <string name="permission_instruction_use_sip">"Cette autorisation permet aux applications d'utiliser les services vidéo SIP."</string>
   <string name="permission_instruction_vr_assistant">"Cette autorisation permet aux applications d'utiliser les services d'assistant VR."</string>
@@ -2825,7 +2843,7 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
   <string name="pp_hide_app_form_desktop">"Supprimer les icônes d'application de l'écran d'accueil"</string>
   <string name="pp_icon_layout_status_bg_content_enable">Protégé</string>
   <string name="pp_icon_layout_status_bg_content_unable">Désactiver</string>
-  <string name="pp_interception_net_visit_content_manager">Protéger la Galerie et les applications de médias sociaux</string>
+  <string name="pp_interception_net_visit_content_manager">Protéger la Galerie et les applications de réseaux sociaux</string>
   <string name="pp_interception_net_visit_content_manager_detail">Sélectionnez les applications autorisées à accéder à vos photos, vidéos et historique de chat</string>
   <string name="pp_local_msg">Information de localisation</string>
   <string name="pp_manage_apps_location_information">Autoriser les applications à accéder à votre position</string>
@@ -3105,7 +3123,7 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
   <string name="privacy_risk_uninstall_dialog_msg">Désinstaller les applications sélectionnées maintenant ?</string>
   <string name="privacy_risk_uninstall_dialog_title">OK</string>
   <string name="privacy_risk_uninstall_title">Désinstaller des applications</string>
-  <string name="privacy_risk_work_encryption">Les médias sociaux et les fichiers bureautiques ne sont pas protégés</string>
+  <string name="privacy_risk_work_encryption">Les réseaux sociaux et les fichiers bureautiques ne sont pas protégés</string>
   <string name="privacy_search_key_1">Privé</string>
   <string name="privacy_search_key_10">ID appareil</string>
   <string name="privacy_search_key_2">Interception de réseau</string>
@@ -3134,6 +3152,9 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
   <string name="prompt_input_time_illegal">Impossible de définir cette heure, changez et réessayez</string>
   <string name="protocol_exception_title">Diagnostics de protocole réseau</string>
   <string name="protocol_loop_back_exception_summary">"Le test de retour en boucle a échoué. Pour signaler ce problème à MIUI, allez dans l'application Commentaires et envoyez un rapport à partir de votre appareil."</string>
+  <string name="provision_back">Retour</string>
+  <string name="provision_next">Suivant</string>
+  <string name="provision_skip_underline">Passer</string>
   <string name="qucick_replay_instrument">Utiliser des réponses rapides dans les notifications des applications sélectionnés (par exemple, WhatsApp, WeChat, QQ)</string>
   <string name="quick_optimize_checking">Analyse</string>
   <string name="quick_optimize_no_fix_issue_subtitle">"Impossible d'étendre la vie de la batterie"</string>
@@ -3153,13 +3174,16 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
   <string name="reach_daily_limit_value_title">Limite quotidienne de données atteinte</string>
   <string name="read_all_sms">Tout lire</string>
   <string name="read_and_write_clipboard">Accéder et enregistrer les éléments du presse-papiers</string>
+  <string name="read_clipboard_ai_action_desc">"Recevez des notifications chaque fois que l'accès est autorisé ou restreint"</string>
   <string name="read_clipboard_ai_close_no">Pas maintenant</string>
   <string name="read_clipboard_ai_close_tip">"Vous ne recevrez plus de notifications lorsque les applications accèderont au presse-papiers. Toutefois cette permission ne sera active que lorsque vous utiliserez ces applications. Ajuster ces permissions ?"</string>
   <string name="read_clipboard_ai_close_yes">Ajuster</string>
-  <string name="read_clipboard_op_content">"Plutôt que d'accorder la permission lorsque vous utilisez l'application, vous recevrez une notification chaque fois que les applications accèderont à votre presse-papiers."</string>
+  <string name="read_clipboard_op_content">"Recevez des notifications chaque fois que l'accès est autorisé ou restreint"</string>
   <string name="read_clipboard_op_title">Notifier lorsque des applications accèdent aux éléments du presse-papiers</string>
   <string name="read_clipboard_tip_content">Cette permission autorise les applications à lire tout contenu que vous copiez, ce qui peut inclure des informations privées (par ex. vos détails de compte, des numéros de cartes bancaires, ou des mots de passe).</string>
   <string name="read_clipboard_tip_title">Accès aux éléments du presse-papiers</string>
+  <string name="real_location_off">"L'emplacement approximatif est activé"</string>
+  <string name="real_location_on">"L'emplacement approximatif est désactivé"</string>
   <string name="receive_now">Recevoir</string>
   <string name="recently_reject_message">Installation rejetée de %1$s et %2$d autres applications</string>
   <string name="recently_reject_message_one">"Demande d'installation %1$s rejetée"</string>
@@ -4088,9 +4112,7 @@ Le volume de données restant inclut l'excédent du mois précédent."</string>
   <string name="unlock_pattern_to_bind_fingerprint">"Saisir un mot de passe pour activer l'empreinte digitale"</string>
   <string name="unlock_set_unlock_password_summary">Combiner différents caractères</string>
   <string name="unlock_set_unlock_password_title">Mot de passe</string>
-  <string name="unlock_set_unlock_pattern_summary">Connecter au moins 4 points</string>
   <string name="unlock_set_unlock_pattern_title">Schéma</string>
-  <string name="unlock_set_unlock_pin_summary">Saisir 4 chiffres</string>
   <string name="unlock_set_unlock_pin_title">Code PIN</string>
   <string name="updating_diagnostic_botton">Analyse des données…</string>
   <string name="usage_sorted_activity_lable">Utilisation des données</string>
@@ -4164,30 +4186,31 @@ Le volume de données restant inclut l'excédent du mois précédent."</string>
   <string name="videobox_settings_switch_desc">Effets spéciaux et fonctionnalités pour la lecture vidéo</string>
   <string name="videobox_settings_switch_title">Boîte à outils vidéo</string>
   <string name="videobox_settings_title">Boîte à outils vidéo</string>
-  <string name="virus_auto_update_engine">Mises à jour auto: %s</string>
+  <string name="view_traffic_detail">Afficher les détails</string>
+  <string name="virus_auto_update_engine">Mises à jour auto : %s</string>
   <string name="virus_update_tips_title">Attention</string>
   <string name="virus_wait_network_dialog_message">"Votre téléphone n'est pas connecté au Wi-Fi actuellement. Utiliser la connexion de données cellulaires ?"</string>
-  <string name="vtb_func_desc">About this feature</string>
-  <string name="vtb_func_display_style_desc1">"Selected effects won't be applied to HDR videos on selected devices.."</string>
-  <string name="vtb_func_display_style_desc2">"These effects can't be applied to screenshots."</string>
-  <string name="vtb_func_frc_desc0">Motion smoothing reduces blur and adds detail to moving objects. Using this feature increases power consumption.</string>
-  <string name="vtb_func_frc_desc1">"Motion smoothing won't work in the following conditions:"</string>
-  <string name="vtb_func_frc_desc2">When video resolution is higher than 1080P</string>
+  <string name="vtb_func_desc">À propos de cette fonctionnalité</string>
+  <string name="vtb_func_display_style_desc1">Les effets sélectionnés ne seront pas appliqués aux vidéos HDR sur les appareils sélectionnés.</string>
+  <string name="vtb_func_display_style_desc2">"Ces effets ne peuvent pas être appliqués aux captures d'écran."</string>
+  <string name="vtb_func_frc_desc0">"Le lissage de mouvement réduit le flou et ajoute des détails aux objets en mouvement. L'utilisation de cette fonction augmente la consommation d'énergie."</string>
+  <string name="vtb_func_frc_desc1">"Le lissage de mouvement ne fonctionnera pas dans les conditions suivantes :"</string>
+  <string name="vtb_func_frc_desc2">Lorsque la résolution vidéo est supérieure à 1080p</string>
   <string name="vtb_func_frc_desc3">"Lorsque la fréquence d'images est supérieure à 30 ips"</string>
-  <string name="vtb_func_frc_desc4">With HDR videos</string>
-  <string name="vtb_func_frc_title">Motion smoothing</string>
-  <string name="vtb_func_vpp_desc4">"This feature won't work when video resolution is higher than 4K."</string>
-  <string name="vtb_func_vpp_title">Enhanced contours</string>
-  <string name="vtb_function_video_translation">Real-time translation</string>
-  <string name="vtb_other_milink_connect">"Can't cast video now. About to cast other items…"</string>
-  <string name="vtb_stop_milink_connect">Stopped casting video</string>
+  <string name="vtb_func_frc_desc4">Avec vidéos HDR</string>
+  <string name="vtb_func_frc_title">Lissage de mouvement</string>
+  <string name="vtb_func_vpp_desc4">Cette fonctionnalité ne fonctionnera pas lorsque la résolution vidéo est supérieure à 4K.</string>
+  <string name="vtb_func_vpp_title">Contours améliorés</string>
+  <string name="vtb_function_video_translation">Traduction temps réel</string>
+  <string name="vtb_other_milink_connect">"Impossible de diffuser de la vidéo maintenant. Sur le point de diffuser d'autres éléments…"</string>
+  <string name="vtb_stop_milink_connect">Arrêt de la diffusion de la vidéo</string>
   <string name="wakepath_confirm_start_activity">Autoriser %1$s à ouvrir %2$s ?</string>
   <string name="warningcenter_action_check">Afficher</string>
   <string name="warningcenter_alert_home">Localisation</string>
   <string name="warningcenter_alert_room">Pièce</string>
-  <string name="warningcenter_alert_source">"Centre d'avertissement MIUI | Source données: %s"</string>
+  <string name="warningcenter_alert_source">"Centre d'avertissement MIUI | Source données : %s"</string>
   <string name="warningcenter_alert_time">Heure</string>
-  <string name="warningcenter_alert_warning_time">Heure reçue: %s</string>
+  <string name="warningcenter_alert_warning_time">Heure reçue : %s</string>
   <string name="warningcenter_disaster_all">All warnings</string>
   <string name="warningcenter_disaster_area_search_hint">Enter region</string>
   <string name="warningcenter_disaster_area_select">Selected regions</string>

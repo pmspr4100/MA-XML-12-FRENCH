@@ -124,11 +124,15 @@
       <item quantity="other">%1$d heures</item>
       <item quantity="one">%1$d heure</item>
     </plurals>
+    <plurals name="hr_fp_detect_time_remainder">
+        <item quantity="other">%1$d secondes restantes</item>
+        <item quantity="one">%1$d seconde restante</item>
+    </plurals>
     <plurals name="in_a_hour">
-      <item quantity="other">dans 1 heure</item>
+      <item quantity="other">Dans 1 heure</item>
     </plurals>
     <plurals name="in_half_hour">
-      <item quantity="other">dans une demi-heure</item>
+      <item quantity="other">Dans 1 demi-heure</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
       <item quantity="other">Immédiatement</item>
@@ -146,7 +150,7 @@
       <item quantity="one">%1$d jour depuis la dernière pesée</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-      <item quantity="other">Juste maintenant</item>
+      <item quantity="other">"À l'instant"</item>
     </plurals>
     <plurals name="menstruation_sum_days">
       <item quantity="other">%1$d jour des règles</item>

@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Il y a 1 heure</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Il y a 1 heure</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Il y a 1 demi-heure</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Dans 1 heure</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">dans 1 demi-heure</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Immédiatement</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">dans %d min</item>
+        <item quantity="one">dans 1 min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">"À l'instant"</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Il y a %d min</item>
+        <item quantity="one">Il y a 1 min</item>
+    </plurals>
     <plurals name="backup_message_wechat_video">
         <item quantity="other">"%1$d vidéos dans les conversations WeChat sont sur le point d'expirer. Sauvegardez-les sur la mémoire interne de votre appareil ?"</item>
         <item quantity="zero">"%1$d vidéos dans les conversations WeChat sont sur le point d'expirer. Sauvegardez-les sur la mémoire interne de votre appareil ?"</item>
@@ -72,9 +101,12 @@
         <item quantity="few">%1$d nouveaux fichiers trouvés</item>
         <item quantity="many">%1$d nouveaux fichiers trouvés</item>
     </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Il y a 1 demi-heure</item>
+    </plurals>
     <plurals name="gems">
-        <item quantity="other">%1$s gems</item>
-        <item quantity="one">%1$s gem</item>
+        <item quantity="other">%1$s gemmes</item>
+        <item quantity="one">%1$s gemme</item>
     </plurals>
     <plurals name="hours_ago">
         <item quantity="other">il y a %1$d heures</item>
@@ -84,6 +116,19 @@
         <item quantity="few">il y a %1$d heures</item>
         <item quantity="many">il y a %1$d heures</item>
     </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Dans 1 heure</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Dans 1 demi-heure</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Immédiatement</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">dans %d minutes</item>
+        <item quantity="one">dans 1 minute</item>
+    </plurals>
     <plurals name="items_picture">
         <item quantity="other"> (%1$d éléments)</item>
         <item quantity="zero"> (%1$d éléments)</item>
@@ -92,17 +137,32 @@
         <item quantity="few"> (%1$d éléments)</item>
         <item quantity="many"> (%1$d éléments)</item>
     </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">"À l'instant"</item>
+    </plurals>
     <plurals name="mins_ago">
-        <item quantity="other">il y a %1$d minutes</item>
-        <item quantity="zero">il y a %1$d minutes</item>
-        <item quantity="one">il y a %1$d minute</item>
-        <item quantity="two">il y a %1$d minutes</item>
-        <item quantity="few">il y a %1$d minutes</item>
-        <item quantity="many">il y a %1$d minutes</item>
+        <item quantity="other">Il y a %1$d minutes</item>
+        <item quantity="zero">Il y a %1$d minutes</item>
+        <item quantity="one">Il y a %1$d minute</item>
+        <item quantity="two">Il y a %1$d minutes</item>
+        <item quantity="few">Il y a %1$d minutes</item>
+        <item quantity="many">Il y a %1$d minutes</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d éléments sélectionnés</item>
+        <item quantity="one">%d élément sélectionné</item>
     </plurals>
     <plurals name="more_gems">
-        <item quantity="other">Collect &lt;font color=#fc7050&gt;&lt;b&gt;%d&lt;/b&gt;&lt;/font&gt; more gems to participate in the lucky draw.</item>
-        <item quantity="one">Collect &lt;font color=#fc7050&gt;&lt;b&gt;%d&lt;/b&gt;&lt;/font&gt; more gem to participate in the lucky draw.</item>
+        <item quantity="other">Collectez &lt;font color=#fc7050&gt;&lt;b&gt;%d&lt;/b&gt;&lt;/font&gt; plus de gemmes pour participer au tirage au sort.</item>
+        <item quantity="one">Collectez &lt;font color=#fc7050&gt;&lt;b&gt;%d&lt;/b&gt;&lt;/font&gt; gemmes en plus pour participer au tirage au sort.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nouvelles notifications</item>
+        <item quantity="one">%d nouvelle notification</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">Il y a %d minutes</item>
+        <item quantity="one">Il y a 1 minute</item>
     </plurals>
     <plurals name="number_of_comment_flow">
         <item quantity="other">%1$s commentaires</item>

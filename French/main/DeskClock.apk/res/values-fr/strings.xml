@@ -44,7 +44,7 @@
   <string name="city_time_contrast_desc">"Appuyez pour comparer l'heure dans différentes villes"</string>
   <string name="clearable_edittext_clear_description">Effacer</string>
   <string name="expand_button_title">Avancé</string>
-  <string name="not_set">Non réglé</string>
+  <string name="not_set">Non défini</string>
   <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
   <string name="reach_upper_limit">"Impossible d'ajouter d'autres minuteurs"</string>
   <string name="sleep_analysis_chart_date_format">MM/dd</string>
@@ -54,7 +54,7 @@
   <string name="worldclock_local_time">Local time</string>
   <string name="worldclock_second_time">Time in %s</string>
   <string name="worldcolock_time_date">dd/MM/yyyy</string>
-  <string name="search_menu_title">Rechercher</string>
+  <string name="search_menu_title">Recherche</string>
   <string name="agree">Accepter</string>
   <string name="alarm_alert_alert_silenced">Alarmes silencieuses après %1$s.</string>
   <string name="alarm_alert_disabled">Désactiver</string>
@@ -351,7 +351,7 @@
   <string name="network_privacy_global">"&lt;Data&gt;Afin de fournir des services personnalisés, l'horloge doit se connecter à internet. Avant d'utiliser l'horloge, vous devez également lire et accepter nos &amp;lt;a href=\"%1$s\"&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href=\"%2$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;. Accepter ?&lt;/Data&gt;"</string>
   <string name="never">Une fois</string>
   <string name="new_label">"Ajouter une étiquette d'alarme"</string>
-  <string name="night">Soir</string>
+  <string name="night">Soirée</string>
   <string name="no_alarm_setting">Aucune alarme ici</string>
   <string name="no_worldclock">"Pas d'horloge ici"</string>
   <string name="noon">Midi</string>
@@ -510,9 +510,9 @@
   <string name="timezone_exist_error_message">Vous affichez déjà ce fuseau horaire.</string>
   <string name="today">"Aujourd'hui"</string>
   <string name="tomorrow">Demain</string>
-  <string name="tuesday">Jeudi</string>
-  <string name="tuesday_short">Jeu</string>
-  <string name="tuesday_shortest">Jeu</string>
+  <string name="tuesday">Mardi</string>
+  <string name="tuesday_short">Mar</string>
+  <string name="tuesday_shortest">Mar</string>
   <string name="turn_off_a_repeat_alarm">Désactiver une alarme récurrente</string>
   <string name="turn_off_this_repeat_alarm">Désactiver cette alarme récurrente</string>
   <string name="upcoming_alarm">Prochaine alarme: %s</string>

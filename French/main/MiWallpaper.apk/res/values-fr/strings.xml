@@ -35,7 +35,7 @@
   <string name="character_counter_content_description">Character limit exceeded %1$d of %2$d</string>
   <string name="clearable_edittext_clear_description">Clear</string>
   <string name="copy">Copie</string>
-  <string name="date_picker_lunar">Chinese Traditional Calendar</string>
+  <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
   <string name="download_failed">"Couldn't download"</string>
   <string name="early_morning">Matin</string>
   <string name="earth_id">earth</string>
@@ -56,25 +56,29 @@
   <string name="friday_short">Ven</string>
   <string name="friday_shortest">Ven</string>
   <string name="game_view_content_description">Game view</string>
+  <string name="geometry_id">geometry</string>
+  <string name="geometry_summary">Shapes, light, and colors</string>
+  <string name="geometry_super_wallpaper_label">Geometry</string>
+  <string name="geometry_title">Geometry</string>
   <string name="install_failed">"Couldn't install"</string>
   <string name="mars_id">mars</string>
-  <string name="mars_position_content_0">"This region contains cliffs, mesas, and wide flat valleys, which are believed to have been caused by debris-covered glaciers. Clay minerals have also been detected here, which are of great interest in the search for evidence of life on ancient Mars.
+  <string name="mars_position_content_0">"Cette région contient des falaises, des mesas et de larges vallées plates, qui auraient été causées par des glaciers recouverts de débris. Des minéraux argileux ont également été détectés ici, ce qui est d'un grand intérêt dans la recherche de preuves de la vie sur l'ancien Mars.
 
-NASA/JPL/University of Arizona"</string>
+NASA/JPL/Université de l'Arizona"</string>
   <string name="mars_position_content_1">"Taken when the Mars rover Curiosity is exploring the Pahrump Hills in Gale Crater. The region contains sedimentary rocks that scientists believe formed in the presence of water, and the dark areas are sand.
 
-NASA/JPL/University of Arizona"</string>
-  <string name="mars_position_content_2">"Mawrth Vallis is an ancient water outflow channel with light-colored clay-rich rocks. Clay minerals easily preserve microscopic life on Earth, so perhaps traces of ancient life may be found at Mawrth.
+NASA/JPL/Université de l'Arizona"</string>
+  <string name="mars_position_content_2">"Mawrth Vallis est un ancien canal d'écoulement d'eau avec des roches riches en argile de couleur claire. Les minéraux d'argile préservent facilement la vie microscopique sur Terre, alors peut-être que des traces de la vie ancienne peuvent être trouvées à Mawrth.
 
-NASA/JPL/University of Arizona"</string>
+NASA/JPL/Université de l'Arizona"</string>
   <string name="mars_position_title_0">"Nilosyrtis
 Mensae Region"</string>
-  <string name="mars_position_title_1">Gale Crater</string>
-  <string name="mars_position_title_2">"Crater in
+  <string name="mars_position_title_1">Cratère Gale</string>
+  <string name="mars_position_title_2">"Cratère dans
 Mawrth Vallis"</string>
-  <string name="mars_summary">Vast deserts of Mars have always kept humanity in awe</string>
+  <string name="mars_summary">"Les vastes déserts de Mars ont toujours laissé l'humanité en admiration"</string>
   <string name="mars_super_wallpaper_label">mars</string>
-  <string name="mars_title">The red planet</string>
+  <string name="mars_title">La planète rouge</string>
   <string name="mi_wallpaper_loading">"Chargement du fond d'écran Mi..."</string>
   <string name="mi_wallpaper_title">"Fond d'écran Mi"</string>
   <string name="midnight">Nuit</string>
@@ -89,17 +93,28 @@ dd/MM"</string>
 dd/MM"</string>
   <string name="miui_lock_screen_large_date_12">"EEEE
 dd/MM"</string>
-  <string name="miuix_appcompat_cloud_state_disabled">Sync with the cloud is off</string>
-  <string name="miuix_appcompat_cloud_state_finished">Synced with the cloud successfully</string>
-  <string name="miuix_appcompat_cloud_state_syncing">Syncing with the cloud…</string>
-  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pull down to refresh</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
-  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Release to refresh</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_none">"That's all for now"</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
+  <string name="miuix_appcompat_action_mode_deselect_all">Désélectionner</string>
+  <string name="miuix_appcompat_action_mode_select_all">Tout sélectionner</string>
+  <string name="miuix_appcompat_action_mode_title_empty">Sélectionner des éléments</string>
+  <string name="miuix_appcompat_actionbar_immersion_button_more_description">Plus</string>
+  <string name="miuix_appcompat_cancel_description">Annuler</string>
+  <string name="miuix_appcompat_confirm_description">Confirmer</string>
+  <string name="miuix_appcompat_delete_description">Supprimer</string>
+  <string name="miuix_appcompat_deselect_all">Désélectionner</string>
+  <string name="miuix_appcompat_deselect_all_description">Tout désélectionner</string>
+  <string name="miuix_appcompat_search_action_mode_cancel">Annuler</string>
+  <string name="miuix_appcompat_search_input_description">Chercher</string>
+  <string name="miuix_appcompat_select_all">Tout sélectionner</string>
+  <string name="miuix_appcompat_select_all_description">Tout sélectionner</string>
+  <string name="miuix_appcompat_select_item">Sélectionner des éléments</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez vers le bas pour rafraîchir</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Rafraîchit avec succès</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Rafraîchissement…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Relâchez pour rafraîchir</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"C'est tout pour le moment"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"C'est tout pour le moment"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un instant…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Chargement des éléments impossible"</string>
   <string name="monday">Lundi</string>
   <string name="monday_short">Lun</string>
   <string name="monday_shortest">Lun</string>
@@ -156,7 +171,11 @@ dd/MM"</string>
   <string name="saturn_summary">The rings of Saturn make the most incredible spectacle in the Solar System</string>
   <string name="saturn_super_wallpaper_label">saturn</string>
   <string name="saturn_title">Faraway rings</string>
-  <string name="search_menu_title">Search</string>
+  <string name="search_menu_title">Recherche</string>
+  <string name="snowmountain_id">snowmountain</string>
+  <string name="snowmountain_summary">Pentes ensoleillées du mont Siguniang</string>
+  <string name="snowmountain_super_wallpaper_label">Sommets enneigés</string>
+  <string name="snowmountain_title">Sommets enneigés</string>
   <string name="solar_term_autumn_begins">"Début de l'automne"</string>
   <string name="solar_term_autumn_equinox">"Équinoxe d'automne"</string>
   <string name="solar_term_clear_and_bright">Pure lumière</string>
@@ -236,11 +255,11 @@ dd/MM"</string>
   <string name="thursday_shortest">J</string>
   <string name="time_picker_dialog_title">Set time</string>
   <string name="title_system_wallpaper_resource">System wallpapers</string>
-  <string name="today">Today</string>
+  <string name="today">"Aujourd'hui"</string>
   <string name="tomorrow">Demain</string>
-  <string name="tuesday">Tuesday</string>
-  <string name="tuesday_short">Tue</string>
-  <string name="tuesday_shortest">Tue</string>
+  <string name="tuesday">Mardi</string>
+  <string name="tuesday_short">Mar</string>
+  <string name="tuesday_shortest">Mar</string>
   <string name="update">Update</string>
   <string name="v7_preference_off">OFF</string>
   <string name="v7_preference_on">ON</string>
@@ -254,8 +273,14 @@ dd/MM"</string>
   <string name="wallpaper_setting_super_wallpaper_banner_title">Super wallpapers</string>
   <string name="wallpaper_setting_super_wallpaper_more_button_text">Plus</string>
   <string name="wallpaper_setting_title">Wallpaper</string>
+  <string name="weather_summary">Informations météorologiques locales</string>
+  <string name="weather_super_wallpaper_label">Météo</string>
+  <string name="weather_title">Météo</string>
   <string name="wednesday">Mercredi</string>
   <string name="wednesday_short">Mer</string>
   <string name="wednesday_shortest">Mer</string>
+  <string name="xiaomi_market_sdk_update_dialog_cancel">Pas maintenant</string>
+  <string name="xiaomi_market_sdk_update_dialog_ok">Mettre à jour</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Une mise à jour est disponible</string>
   <string name="yesterday">Hier</string>
 </resources>

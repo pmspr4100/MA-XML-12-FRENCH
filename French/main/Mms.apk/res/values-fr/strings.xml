@@ -557,7 +557,7 @@ Un message SMS sortant est requis pour activer le Mi Message. Votre opérateur v
   <string name="new_message_arrived">Non lu</string>
   <string name="new_phrase">Ajouter une réponse</string>
   <string name="new_phrase_hint">Saisir une nouvelle réponse</string>
-  <string name="night">Soir</string>
+  <string name="night">Soirée</string>
   <string name="no">Annuler</string>
   <string name="no_block_button_msg">Débloquer ce numéro</string>
   <string name="no_conversations">Aucune conversation</string>
@@ -629,9 +629,8 @@ Un message SMS sortant est requis pour activer le Mi Message. Votre opérateur v
   <string name="pref_sms_theme_title">Affichage</string>
   <string name="pref_summary_allow_si_sl_push">Autoriser les messager à charger du contenu depuis des sites Web</string>
   <string name="pref_summary_auto_delete">Supprimez les anciens message lorsque la limite est atteinte</string>
-  <string name="pref_summary_collapse_ad_notification">Afficher chaque message promotionnel dans une notification séparée</string>
-  <string name="pref_summary_collapse_ad_notification_mms">Afficher chaque message promotionnel dans un onglet séparé</string>
   <string name="pref_summary_delete_limit">%1$s messages par fil</string>
+  <string name="pref_summary_enable_ad_notification">Activez les notifications de groupe sur les messages promotionnels dans le panneau de notification</string>
   <string name="pref_summary_delivery_reports">"Afficher l'état de réception pour les messages envoyés"</string>
   <string name="pref_summary_delivery_ringtone">Recevoir des notifications sonores pour les messages reçus.</string>
   <string name="pref_summary_manage_sim_messages">Gérer les messages stockés sur la carte SIM</string>
@@ -650,8 +649,8 @@ Un message SMS sortant est requis pour activer le Mi Message. Votre opérateur v
   <string name="pref_title_allow_si_sl_push">Autoriser WAP push (SI/SL)</string>
   <string name="pref_title_auto_delete">Supprimer les anciens messages</string>
   <string name="pref_title_card_format">Format de partage de la carte</string>
-  <string name="pref_title_collapse_ad_notification">Group notifications about promotional messages</string>
   <string name="pref_title_delivery_reports">Accusé de réception</string>
+  <string name="pref_title_enable_ad_notification">Messages promotionnels</string>
   <string name="pref_title_fwd_sender_info">Information expéditeur de transfert</string>
   <string name="pref_title_manage_sim_messages">Stockage carte SIM</string>
   <string name="pref_title_miui_card">Envoyer via carte</string>

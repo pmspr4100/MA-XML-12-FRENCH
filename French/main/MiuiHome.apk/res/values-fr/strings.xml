@@ -40,7 +40,7 @@
   <string name="accessibility_recent_task_enter">Récents ouverts</string>
   <string name="accessibility_recent_task_exit">Récents fermés</string>
   <string name="accessibility_recent_task_locked_state">Verrouillé</string>
-  <string name="accessibility_recent_task_memory_info">Mémoire vive totale: %2$s | Mémoire vive disponible: %1$s. Appuyez deux fois pour effacer.</string>
+  <string name="accessibility_recent_task_memory_info">Mémoire vive totale : %2$s | Mémoire vive disponible : %1$s. Appuyez deux fois pour effacer.</string>
   <string name="accessibility_recent_task_unlocked_state">Déverrouillé</string>
   <string name="accessibility_recents_item_open_app_info">Ouvrir %s application info.</string>
   <string name="accessibility_splite_screen_primary">"Ajouté comme application principale dans l'écran partagé"</string>
@@ -300,8 +300,8 @@
   <string name="gadget_power_clear_button_label">Nettoyage en profondeur</string>
   <string name="gadget_search_label">Recherche</string>
   <string name="gadget_weather_app_not_installed">"Appuyez pour télécharger l'application Météo de MIUI"</string>
-  <string name="gadget_weather_aqi_title">"Qualité de l'air: "</string>
-  <string name="gadget_weather_download_message">"Vous devez télécharger le contenu de l'application: %1$s (%2$s). Redémarrez l'application après le téléchargement."</string>
+  <string name="gadget_weather_aqi_title">"Qualité de l'air : "</string>
+  <string name="gadget_weather_download_message">"Vous devez télécharger le contenu de l'application : %1$s (%2$s). Redémarrez l'application après le téléchargement."</string>
   <string name="gadget_weather_download_start">Télécharger</string>
   <string name="gadget_weather_download_title">Télécharger</string>
   <string name="gadget_weather_downloading">"Téléchargement du contenu de l'application. Redémarrer l'application une fois le téléchargement terminé."</string>
@@ -329,8 +329,11 @@
   <string name="home_screen_settings">"Écran d'accueil"</string>
   <string name="home_slide_up_action">"Glisser vers le haut sur l'écran d'accueil"</string>
   <string name="home_switch_personal_assistant">Écran rapide</string>
+  <string name="icon_customize_summary">Sélectionnez le style et ajustez la taille</string>
+  <string name="icon_form">Icônes</string>
   <string name="icon_reorganize_channel">Organiser les icônes</string>
   <string name="icon_size">Modifier la taille des icônes</string>
+  <string name="icon_style">Style</string>
   <string name="image_too_small_message">"L'image originale n'est pas assez grande."</string>
   <string name="install">Installer</string>
   <string name="invalid_contact_shortcut">Contact non valide</string>
@@ -347,6 +350,7 @@
   <string name="launcher_slide_up_title">"Glisser vers le haut sur l'écran d'accueil"</string>
   <string name="launcher_sliding_up_gesture">"Glissez vers le haut pour lancer la recherche"</string>
   <string name="launcher_title">"Écran d'accueil et récents"</string>
+  <string name="lib_name">Filament Android</string>
   <string name="like">Ajouter aux favoris</string>
   <string name="liked">Ajouté aux favoris</string>
   <string name="loading_desktop">Chargement…</string>
@@ -517,6 +521,8 @@
   <string name="recommend_loading">Chargement en cours</string>
   <string name="recommend_refresh">Actualiser</string>
   <string name="recommend_xout">Ne pas afficher</string>
+  <string name="remove_dialog_message">"Les applications sélectionnées contiennent des fonctionnalités système essentielles. Vous ne pouvez supprimer que les raccourcis de leur écran d'accueil."</string>
+  <string name="remove_dialog_title_format">"Supprimer \"%s\" de l'écran d'accueil ?"</string>
   <string name="remove_invalidate_gadget_tips">"L'un des widgets que vous utilisez n'est plus disponible. Vous pouvez en ajouter un autre."</string>
   <string name="reset_cate_tip_content">"Si vous continuez, les groupes d'applications par défaut seront restaurés. Continuer quand même ?"</string>
   <string name="reset_cate_tip_title">Restaurer les groupes par défaut</string>

@@ -87,12 +87,15 @@
   <string name="help_center">Aide</string>
   <string name="mi_health">Xiaomi Santé</string>
   <string name="not_set">Non défini</string>
-  <string name="passport_google_login">Sign in with the previously used Google Account?</string>
+  <string name="passport_google_login">Vous connecter avec le compte Google précédemment utilisé ?</string>
   <string name="passport_google_login_agree">Compte Google</string>
   <string name="passport_google_login_disagree">Compte Mi</string>
-  <string name="passport_google_login_failed">"Couldn't sign in with Google. Sign in to your Mi Account directly."</string>
-  <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
-  <string name="state_data_error">"Couldn't get data"</string>
+  <string name="passport_google_login_failed">Impossible de se connecter avec Google. Connectez-vous directement à votre Compte Mi.</string>
+  <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
+  <string name="provision_back">Retour</string>
+  <string name="provision_next">Suivant</string>
+  <string name="provision_skip_underline">Ignorer</string>
+  <string name="state_data_error">"Impossible d'obtenir les données"</string>
   <string name="state_loading">Chargement…</string>
   <string name="passport_input_password_for_login">Ce numéro est associé à un compte existant, entrez votre mot de passe</string>
   <string name="passport_registered_phone_user_ID">ID utilisateur: %s</string>
@@ -227,12 +230,14 @@
   <string name="passport_sms_verification_code_login">Se connecter via SMS</string>
   <string name="passport_sms_verification_code_login_or_register">Se connecter ou créer un compte en utilisant SMS</string>
   <string name="passport_login_other_account">Autre compte</string>
+  <string name="passport_login_other_phone">Utiliser un autre compte</string>
   <string name="passport_reg_new_account">Créer un compte</string>
   <string name="passport_select_the_login_account">Sélectionner le compte à connecter</string>
   <string name="passport_select_the_register_phone">Sélectionner le numéro de téléphone pour créer un compte</string>
   <string name="passport_select_the_recycle_phone_login">Sélectionner votre compte</string>
   <string name="passport_recycle_login_other_account">"Ils ne sont pas les miens. J'utiliserai un autre."</string>
-  <string name="passport_registered_phone_num">Numéro de téléphone: %s</string>
+  <string name="passport_registered_phone_num">Numéro de téléphone : %s</string>
+  <string name="passport_registered_phone_num_v2">Numéro de téléphone</string>
   <string name="passport_quick_login">Se connecter</string>
   <string name="passport_error_verify_activator_phone_title">Impossible de vérifier le numéro de téléphone</string>
   <string name="passport_error_verify_activator_phone_message">"Assurez-vous que le service de la carte SIM est activé et que l'appareil est connecté au réseau."</string>
@@ -575,6 +580,7 @@ L'ID de votre compte: %s"</string>
   <string name="diagnosis_log_sent_format">"Journal envoyé avec succès. 
 ID:%s
 Envoyez ce code au superviseur."</string>
+  <string name="download_file">Téléchargement de %s…</string>
   <string name="diagnosis_log_send_failed">"Impossible d'envoyer le journal."</string>
   <string name="temporary_not_available">Cette fonctionnalité nest pas encore disponible.</string>
   <string name="ok">OK </string>
@@ -582,9 +588,13 @@ Envoyez ce code au superviseur."</string>
   <string name="i_agree">OK </string>
   <string name="i_agree_continue">Accepter</string>
   <string name="exit">Quitter</string>
-  <string name="passport_privacy_policy_required">Politique de confidentialité (Obligatoire)</string>
-  <string name="passport_user_agreement_required">Accord de lutilisateur (Obligatoire)</string>
-  <string name="kr_license_desc">"Vous devez accepter notre accord d'utilisateur et notre politique de confidentialité avant d'utiliser les services Compte Mi et Mi Cloud."</string>
+  <string name="passport_privacy_policy_required">Politique de confidentialité (obligatoire)</string>
+  <string name="passport_provision_activator_phone_summary_sim1_prefix">SIM <xliff id="sim1" refersto="1">%1$d</xliff> %2$s</string>
+  <string name="passport_provision_activator_phone_summary_sim2_prefix">SIM <xliff id="sim2" refersto="2">%1$d</xliff> %2$s</string>
+  <string name="passport_provision_input_email_register_prompt">Vos données personnelles seront stockées conformément aux lois et règlements de la région que vous sélectionnez.</string>
+  <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> caractères sur au moins <xliff id="min_pwd_type" refersto="2">%3$d</xliff> des types suivants : lettres, chiffres, symboles spéciaux</string>
+  <string name="passport_user_agreement_required">"Accord de l'utilisateur (obligatoire)"</string>
+  <string name="kr_license_desc">"Vous devez accepter notre Accord de l'utilisateur et notre Politique de confidentialité avant d'utiliser les services Compte Mi et Mi Cloud."</string>
   <string name="kr_permission_desc">Permissions requises</string>
   <string name="optional_permissions">Permissions optionnelles</string>
   <string name="permission_group_contacts">Contacts</string>
