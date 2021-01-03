@@ -11,9 +11,9 @@
   <string name="certificate">Certificat</string>
   <string name="certificate_capabilities_warning">"Remarque : l'émetteur de ce certificat peut inspecter tout le trafic à destination et en provenance de l'appareil."</string>
   <string name="certificate_name">Nom du certificat</string>
-  <string name="credential_info">"Le package contient: "</string>
+  <string name="credential_info">"Le package contient : "</string>
   <string name="credential_password">Saisir le mot de passe pour extraire les certificats</string>
-  <string name="credential_usage_label">Utilisation du certificat:</string>
+  <string name="credential_usage_label">Utilisation du certificat :</string>
   <string name="done_label">OK</string>
   <string name="extracting_pkcs12">Extraction en cours…</string>
   <string name="install_done">Les identifiants de \"%1$s\" ont été ajoutés aux réseaux Wi-Fi enregistrés.</string>
@@ -49,11 +49,11 @@
   <string name="wifi_cancel_label">Annuler</string>
   <string name="wifi_cert_is_added">Certificat Wi-Fi installé</string>
   <string name="wifi_certificate">Certificat Wi-Fi</string>
-  <string name="wifi_config_text">"Nom: %1$s
+  <string name="wifi_config_text">"Nom : %1$s
 Nom de domaine complètement qualifié (FQDN): %2$s
-Consortiums en itinérance: %3$s
-Domaine: %4$s
-Méthode d'authentification: EAP-%5$s
+Consortiums en itinérance : %3$s
+Domaine : %4$s
+Méthode d'authentification : EAP-%5$s
 "</string>
   <string name="wifi_detail_label">Détails</string>
   <string name="wifi_detail_title">Détails relatifs à %s</string>
@@ -67,16 +67,16 @@ Méthode d'authentification: EAP-%5$s
   <string name="wifi_installer_fail_title">Installation impossible</string>
   <string name="wifi_installing_label">Installation…</string>
   <string name="wifi_no_config">Aucune</string>
-  <string name="wifi_sim_config_text">"SIM: %s
+  <string name="wifi_sim_config_text">"SIM : %s
 "</string>
   <string name="wifi_title">Profil du Wi-Fi</string>
-  <string name="wifi_tls_config_text">"Certificat client:
+  <string name="wifi_tls_config_text">"Certificat client :
 %1$s
 Clé: %2$s
 "</string>
-  <string name="wifi_trust_config_text">"Certificat de confiance:
+  <string name="wifi_trust_config_text">"Certificat de confiance :
 %s
 "</string>
-  <string name="wifi_ttls_config_text">"Nom de l'utilisateur: %s
+  <string name="wifi_ttls_config_text">"Nom de l'utilisateur : %s
 "</string>
 </resources>

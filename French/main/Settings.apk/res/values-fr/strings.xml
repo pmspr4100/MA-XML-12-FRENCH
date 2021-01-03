@@ -1167,7 +1167,7 @@ Voici ce qui a pu mal se passer:
   <string name="bluetooth_rename_button">Renommer</string>
   <string name="bluetooth_rename_device">Renommer cet appareil</string>
   <string name="bluetooth_right_name">Droite</string>
-  <string name="bluetooth_sap_acceptance_dialog_text">"\"%1$s\" requiert l'accès à votre carte SIM. Si vous l'accordez, la connectivité des données sera désactivée sur votre appareil pour toute la durée de la connexion. Accorder l'autorisation d'accès à \"%2$s?\""</string>
+  <string name="bluetooth_sap_acceptance_dialog_text">"\"%1$s\" requiert l'accès à votre carte SIM. Si vous l'accordez, la connectivité des données sera désactivée sur votre appareil pour toute la durée de la connexion. Accorder l'autorisation d'accès à \"%2$s ?\""</string>
   <string name="bluetooth_sap_profile_summary_connected">Connecté au SAP</string>
   <string name="bluetooth_sap_profile_summary_use_for">Utiliser pour accéder à la SIM</string>
   <string name="bluetooth_sap_request">"Demande d'accès à la carte SIM"</string>
@@ -2081,7 +2081,7 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
   <string name="detail_question">Détails</string>
   <string name="details_subtitle">"Détails d'utilisation"</string>
   <string name="dev_logpersist_clear_warning_message">"Lorsque nous ne surveillons plus avec l'enregistreur persistant, nous sommes tenus d'effacer les données de l'enregistreur résident sur votre appareil."</string>
-  <string name="dev_logpersist_clear_warning_title">Effacer le stockage des journaux persistants?</string>
+  <string name="dev_logpersist_clear_warning_title">Effacer le stockage des journaux persistants ?</string>
   <string name="dev_settings_disabled_warning">"Veuillez tout d'abord activer les options pour les développeurs."</string>
   <string name="dev_settings_warning_message">"Ces paramètres sont destinés uniquement aux développeurs. L'activation de ces fonctionnalités peut faire en sorte que votre appareil et les applications se comportent mal ou provoquent des erreurs."</string>
   <string name="dev_settings_warning_title">Autoriser les paramètres de développement ?</string>
@@ -4257,7 +4257,7 @@ Redémarrez votre appareil et réessayez."</string>
 
 Passer à %1$s n'annulera pas votre %2$s service."</string>
   <string name="mobile_network_esim_swap_confirm_ok">Basculer vers %1$s</string>
-  <string name="mobile_network_esim_swap_confirm_title">Basculer vers %1$s?</string>
+  <string name="mobile_network_esim_swap_confirm_title">Basculer vers %1$s ?</string>
   <string name="mobile_network_in_range">Dans la gamme</string>
   <string name="mobile_network_inactive_esim">SIM inactive / téléchargée</string>
   <string name="mobile_network_inactive_sim">Inactif / SIM</string>
