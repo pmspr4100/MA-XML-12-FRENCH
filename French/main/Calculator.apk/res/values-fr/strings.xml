@@ -285,8 +285,8 @@ Les RAPI sur un an et cinq ans seront indiqués le 20 de chaque mois (des retard
   <string name="mortgage_average_repayment_first_month">Premier mois de rembousement</string>
   <string name="mortgage_average_repayment_monthly">Remboursement mensuel</string>
   <string name="mortgage_calculate">Calculer</string>
-  <string name="mortgage_descript_accumulation">"Taux d'intérêt: %s (fond)"</string>
-  <string name="mortgage_descript_commercial">"Taux d'intérêt: %s (commercial)"</string>
+  <string name="mortgage_descript_accumulation">"Taux d'intérêt : %s (fond)"</string>
+  <string name="mortgage_descript_commercial">"Taux d'intérêt : %s (commercial)"</string>
   <string name="mortgage_detail_month">Mois</string>
   <string name="mortgage_detail_monthly_interest">Intérêt</string>
   <string name="mortgage_detail_monthly_principal">Capital</string>
@@ -329,7 +329,7 @@ Les RAPI sur un an et cinq ans seront indiqués le 20 de chaque mois (des retard
   <string name="negDesc">Basculer entre les températures inférieures et supérieures à zéro</string>
   <string name="network_confirm_content">"Le convertisseur de devise, de taxe et des calculateurs d'hypothèque doivent se connecter à internet et accéder aux services de localisation de votre appareil pour fonctionner normalement."</string>
   <string name="network_confirm_title">Permissions requise</string>
-  <string name="new_privacy_string"><Data>"Bienvenue dans Calculatrice !&lt;br/>Cette application contient les fonctionnalités suivantes:&lt;br/>• Calculatrice de base&lt;br/>• Calculatrice scientifique&lt;br/>• Convertisseur universel (par ex. devise, unités de mesure, etc.)&lt;br/>• Modèles de calcul pour les prêts, investissements, EMI, etc.&lt;br/>La Calculatrice doit collecter les informations personnelles nécessaires pour vous fournir les services de base. Vous pouvez découvrir comment nous traitons les informations que nous collectons dans notre &lt;a href= \"%1$s\">Politique de confidentialité&lt;/a>. Lisez et acceptez notre &lt;a href=\"%2$s\">Accord utilisateur&lt;/a> et notre &lt;a href=\"%3$s\">Politique de confidentialité&lt;/a> avant d'utiliser Calculatrice. Vous pouvez à tout moment retirer votre consentement à la Politique de confidentialité de Calculatrice dans les paramètres. Si vous n'acceptez pas notre politique de confidentialité, vous ne pourrez pas utiliser certaines fonctionnalités de l'application; cependant, sa fonctionnalité de base sera toujours disponible."</Data></string>
+  <string name="new_privacy_string"><Data>"Bienvenue dans Calculatrice !&lt;br/>Cette application contient les fonctionnalités suivantes :&lt;br/>• Calculatrice de base&lt;br/>• Calculatrice scientifique&lt;br/>• Convertisseur universel (par ex. devise, unités de mesure, etc.)&lt;br/>• Modèles de calcul pour les prêts, investissements, EMI, etc.&lt;br/>La Calculatrice doit collecter les informations personnelles nécessaires pour vous fournir les services de base. Vous pouvez découvrir comment nous traitons les informations que nous collectons dans notre &lt;a href= \"%1$s\">Politique de confidentialité&lt;/a>. Lisez et acceptez notre &lt;a href=\"%2$s\">Accord utilisateur&lt;/a> et notre &lt;a href=\"%3$s\">Politique de confidentialité&lt;/a> avant d'utiliser Calculatrice. Vous pouvez à tout moment retirer votre consentement à la Politique de confidentialité de Calculatrice dans les paramètres. Si vous n'acceptez pas notre politique de confidentialité, vous ne pourrez pas utiliser certaines fonctionnalités de l'application; cependant, sa fonctionnalité de base sera toujours disponible."</Data></string>
   <string name="none">Aucun</string>
   <string name="not_supported_due_to_language">Cette fonctionnalité est uniquement disponible pour la langue chinoise</string>
   <string name="ok">OK</string>
@@ -340,11 +340,11 @@ Les RAPI sur un an et cinq ans seront indiqués le 20 de chaque mois (des retard
   <string name="preference_alert_follow_qq_group">Copier et coller dans QQ pour faire votre retour</string>
   <string name="preference_alert_follow_wechat">Copier / coller dans WeChat pour nous suivre</string>
   <string name="preference_alert_follow_wechat_button">Copier</string>
-  <string name="preference_check_update_summary_current_version">Version actuelle: %s</string>
-  <string name="preference_check_update_summary_new_version">Mise à jour disponible: %s</string>
+  <string name="preference_check_update_summary_current_version">Version actuelle : %s</string>
+  <string name="preference_check_update_summary_new_version">Mise à jour disponible : %s</string>
   <string name="preference_check_update_title">Vérifier les mises à jour</string>
   <string name="preference_feedback_title">F.A.Q</string>
-  <string name="preference_follow_qq_group">Groupe QQ: 523274279</string>
+  <string name="preference_follow_qq_group">Groupe QQ : 523274279</string>
   <string name="preference_follow_us">Suivez-nous</string>
   <string name="preference_follow_web_title">Site Web officiel</string>
   <string name="preference_help">Aider et commentaires</string>
@@ -430,7 +430,7 @@ Les RAPI sur un an et cinq ans seront indiqués le 20 de chaque mois (des retard
   <string name="tax_bonus_error">Saisir le montant exact du bonus</string>
   <string name="tax_cal_method_annual">Calcul du bonus annuel</string>
   <string name="tax_cal_method_fixed_salary">"Calcul d'impôt sur le revenu"</string>
-  <string name="tax_cal_method_format">Entrée personnelle: %s</string>
+  <string name="tax_cal_method_format">Entrée personnelle : %s</string>
   <string name="tax_city_error">Saisir un nom de ville correct</string>
   <string name="tax_city_located">Localisation</string>
   <string name="tax_city_picker">Ville</string>
@@ -771,6 +771,6 @@ Les RAPI sur un an et cinq ans seront indiqués le 20 de chaque mois (des retard
 Taille %2$s"</string>
   <string name="yesterday">Hier</string>
   <string name="xiaomi_update_dialog_message_diff">"Présentation de la version %1$s
-Taille de la mise à jour Delta: %2$s"</string>
+Taille de la mise à jour Delta : %2$s"</string>
   <string name="xiaomi_update_dialog_title">%1$s mise à jour !</string>
 </resources>

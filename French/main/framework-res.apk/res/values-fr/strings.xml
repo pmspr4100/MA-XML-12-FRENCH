@@ -14,7 +14,7 @@
   <string name="accessibility_shortcut_spoken_feedback">Appuyez et maintenez les deux touches de volume pendant trois secondes pour utiliser %1$s</string>
   <string name="accessibility_shortcut_toogle_warning">"Quand le raccourci est activé, appuyez sur les deux boutons de volume pendant trois secondes pour lancer une fonctionnalité d'accessibilité.
 
- Fonctionnalité d'accessibilité utilisée actuellement:
+ Fonctionnalité d'accessibilité utilisée actuellement :
  %1$s
 
  Vous pouvez changer de fonctionnalité dans Paramètres &gt; Accessibilité."</string>
@@ -122,7 +122,7 @@
   <string name="autofill_this_form">Saisie auto</string>
   <string name="autofill_update_title">Mettre à jour dans %1$s ?</string>
   <string name="autofill_update_title_with_2types">Mise à jour %1$s et %2$s dans %3$s ?</string>
-  <string name="autofill_update_title_with_3types">Mettez à jour ces éléments dans ;%4$s:%1$s, %2$s, et %3$s ?</string>
+  <string name="autofill_update_title_with_3types">Mettez à jour ces éléments dans ;%4$s :%1$s, %2$s, et %3$s ?</string>
   <string name="autofill_update_title_with_type">Mise à jour %1$s dans %2$s ?</string>
   <string name="autofill_update_yes">Mise à jour</string>
   <string name="autofill_window_title">Saisie automatique avec %1$s</string>
@@ -977,7 +977,7 @@ Veuillez réessayer dans %2$d secondes."</string>
   <string name="permdesc_readCallLog">"Cette application peut lire l'historique de vos appels."</string>
   <string name="permdesc_readCellBroadcasts">"Permet à l'application de lire les messages que votre appareil reçoit via un canal de diffusion cellulaire. Dans certaines zones géographiques, des alertes vous sont envoyées afin de vous prévenir en cas de situation d'urgence. Les applications malveillantes peuvent venir perturber les performances ou le fonctionnement de votre appareil lorsqu'un message est reçu via un canal de diffusion cellulaire."</string>
   <string name="permdesc_readContacts">"Permet à l'application de lire les données de vos contacts stockées sur votre téléphone. Cette permission permet aux applications d'enregistrer vos données de contact, et les applications malveillantes peuvent partager des données de contact à votre insu."</string>
-  <string name="permdesc_readHistoryBookmarks">"Permet à l'application d'accéder à l'historique de toutes les URL auxquelles le navigateur a accédé, ainsi qu'à l'ensemble des favoris du navigateur. Remarque: il est possible que cette autorisation ne soit pas appliquée par les navigateurs tiers ni par d'autres applications permettant de naviguer sur le Web."</string>
+  <string name="permdesc_readHistoryBookmarks">"Permet à l'application d'accéder à l'historique de toutes les URL auxquelles le navigateur a accédé, ainsi qu'à l'ensemble des favoris du navigateur. Remarque : il est possible que cette autorisation ne soit pas appliquée par les navigateurs tiers ni par d'autres applications permettant de naviguer sur le Web."</string>
   <string name="permdesc_readInstallSessions">"Permet à une application d'accéder aux sessions d'installation. Cela lui permet de consulter les détails relatifs à l'installation des packages actifs."</string>
   <string name="permdesc_readNetworkUsageHistory">"Permet à l'application de lire l'historique d'utilisation de réseaux et d'applications spécifiques."</string>
   <string name="permdesc_readPhoneNumbers">"Permet à l'application d'accéder aux numéros de téléphone de l'appareil."</string>
@@ -1028,7 +1028,7 @@ Veuillez réessayer dans %2$d secondes."</string>
   <string name="permdesc_writeCallLog">"Permet à l'application de lire le journal d'appels de votre téléphone, y compris les données relatives aux appels entrants et sortants. Des applications malveillantes peuvent utiliser cette fonctionnalité pour effacer ou modifier votre journal d'appels."</string>
   <string name="permdesc_writeContacts">"Permet à l'application de modifier les données de vos contacts stockées sur votre téléphone. Cette permission permet aux applications de supprimer les données de contact."</string>
   <string name="permdesc_writeGeolocationPermissions">"Permet à l'application de modifier les autorisations de géolocalisation du navigateur. Des applications malveillantes peuvent exploiter cette fonctionnalité pour permettre l'envoi de données de localisation à des sites Web arbitraires."</string>
-  <string name="permdesc_writeHistoryBookmarks">"Permet à l'application de modifier l'historique du navigateur ou les favoris enregistrés sur votre téléphone. Cette autorisation peut lui permettre d'effacer ou de modifier les données du navigateur. Remarque: il est possible que cette autorisation ne soit pas appliquée par les navigateurs tiers ni par d'autres applications permettant de naviguer sur le Web."</string>
+  <string name="permdesc_writeHistoryBookmarks">"Permet à l'application de modifier l'historique du navigateur ou les favoris enregistrés sur votre téléphone. Cette autorisation peut lui permettre d'effacer ou de modifier les données du navigateur. Remarque : il est possible que cette autorisation ne soit pas appliquée par les navigateurs tiers ni par d'autres applications permettant de naviguer sur le Web."</string>
   <string name="permdesc_writeSettings">"Permet à l'application de modifier les paramètres du système. Des applications malveillantes peuvent exploiter cette fonctionnalité pour corrompre la configuration de votre système."</string>
   <string name="permdesc_writeSyncSettings">"Permet à une application de modifier les paramètres de synchronisation d'un compte. Cette autorisation peut, par exemple, être utilisée pour activer la synchronisation de l'application Contacts avec un compte."</string>
   <string name="permgroupbackgroundrequest_location">"Allow Allow;b&gt;%1$s&lt;/b&gt; to access this device's location &lt;b&gt;all the time&lt;/b&gt;?"</string>

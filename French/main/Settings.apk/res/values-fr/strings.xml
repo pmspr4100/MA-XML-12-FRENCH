@@ -1167,7 +1167,7 @@ Voici ce qui a pu mal se passer:
   <string name="bluetooth_rename_button">Renommer</string>
   <string name="bluetooth_rename_device">Renommer cet appareil</string>
   <string name="bluetooth_right_name">Droite</string>
-  <string name="bluetooth_sap_acceptance_dialog_text">"\"%1$s\" requiert l'accès à votre carte SIM. Si vous l'accordez, la connectivité des données sera désactivée sur votre appareil pour toute la durée de la connexion. Accorder l'autorisation d'accès à \"%2$s?\""</string>
+  <string name="bluetooth_sap_acceptance_dialog_text">"\"%1$s\" requiert l'accès à votre carte SIM. Si vous l'accordez, la connectivité des données sera désactivée sur votre appareil pour toute la durée de la connexion. Accorder l'autorisation d'accès à \"%2$s ?\""</string>
   <string name="bluetooth_sap_profile_summary_connected">Connecté au SAP</string>
   <string name="bluetooth_sap_profile_summary_use_for">Utiliser pour accéder à la SIM</string>
   <string name="bluetooth_sap_request">"Demande d'accès à la carte SIM"</string>
@@ -2069,7 +2069,7 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Supprimer cette empreinte digitale ?</string>
   <string name="delete_rule">Retirer des règles</string>
   <string name="delete_saved_network">Supprimer les réseaux enregistrés</string>
-  <string name="delete_sound_effect">Son de «Supprimer»</string>
+  <string name="delete_sound_effect">Son de suppression</string>
   <string name="deleted_apps">Applications supprimées</string>
   <string name="deletion_helper_automatic_title">Automatique</string>
   <string name="deletion_helper_manual_title">Manuels</string>
@@ -2081,7 +2081,7 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
   <string name="detail_question">Détails</string>
   <string name="details_subtitle">"Détails d'utilisation"</string>
   <string name="dev_logpersist_clear_warning_message">"Lorsque nous ne surveillons plus avec l'enregistreur persistant, nous sommes tenus d'effacer les données de l'enregistreur résident sur votre appareil."</string>
-  <string name="dev_logpersist_clear_warning_title">Effacer le stockage des journaux persistants?</string>
+  <string name="dev_logpersist_clear_warning_title">Effacer le stockage des journaux persistants ?</string>
   <string name="dev_settings_disabled_warning">"Veuillez tout d'abord activer les options pour les développeurs."</string>
   <string name="dev_settings_warning_message">"Ces paramètres sont destinés uniquement aux développeurs. L'activation de ces fonctionnalités peut faire en sorte que votre appareil et les applications se comportent mal ou provoquent des erreurs."</string>
   <string name="dev_settings_warning_title">Autoriser les paramètres de développement ?</string>
@@ -2207,7 +2207,7 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
   <string name="dialog_wifi_context">You need to connect to the the internet to set up your device. Unless you connect to WLAN, mobile data might be used. Using mobile data might generate additional carrier fees. Use mobile data anyway?</string>
   <string name="dialog_wifi_title">Using mobile data</string>
   <string name="dialog_yes">Oui</string>
-  <string name="direct_boot_unaware_dialog_message">"Remarque: vous ne pourrez utiliser ce clavier qu'après un redémarrage uniquement si vous déverrouillez votre appareil"</string>
+  <string name="direct_boot_unaware_dialog_message">"Remarque : vous ne pourrez utiliser ce clavier qu'après un redémarrage uniquement si vous déverrouillez votre appareil"</string>
   <string name="directory_access">"Accès à l'annuaire"</string>
   <string name="disable_overlays">Désactiver les superpostions HW</string>
   <string name="disable_overlays_summary">"Toujours utiliser le GPU pour le rendu d'écran"</string>
@@ -2939,7 +2939,7 @@ Il semblait n'y avoir ni chevaux, ni animaux d'aucune espèce ; les hommes tran
   <string name="freeform_guide_settings">Fenêtre flottante</string>
   <string name="freeform_guide_slide_up_to_close_summary">"Glissez vers le haut depuis la barre d'action d'une fenêtre flottante"</string>
   <string name="freeform_guide_slide_up_to_close_title">Fermer les fenêtres flottantes</string>
-  <string name="freeform_vedio_description">"·Maintenez enfoncée, puis tirez vers le bas une notification pour l'ouvrir dans une fenêtre flottante.
+  <string name="freeform_vedio_description">"· Maintenez enfoncée, puis tirez vers le bas une notification pour l'ouvrir dans une fenêtre flottante.
 · Appuyez sur \"Fenêtres flottantes\" dans Récents pour sélectionner des applications."</string>
   <string name="frequently_fragment_delete">Supprimer</string>
   <string name="frequently_fragment_tempty">Les catégories les plus utilisées sont affichées ici.</string>
@@ -3168,7 +3168,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres &gt; Applica
   <string name="how_backup_content">"Il existe 3 types de sauvegardes que vous pouvez créer: locales, cloud et USB.
 Sauvegardes locales:
 Les sauvegardes locales vous permettent d'enregistrer vos paramètres système, comptes, données d'application et autres éléments dans un fichier séparé stocké sur votre appareil (MIUI-backup-AllBackup). Une fois le fichier de sauvegarde créé, vous pouvez le transférer sur votre ordinateur via un câble USB.
-Remarque:
+Remarque :
 Vous pouvez utiliser Mi PC Suite pour sauvegarder et restaurer des éléments.
 
 Sauvegardes cloud:
@@ -3182,7 +3182,7 @@ Cette méthode vous permet d'enregistrer les paramètres système, les comptes, 
 a) Ouvrez la page avec vos sauvegardes locales, appuyez sur le bouton pour activer le chiffrement et connectez-vous à votre compte Mi. Les sauvegardes seront chiffrées automatiquement après cela. N'oubliez pas que vous devrez vous connecter à votre compte Mi pour restaurer des éléments à partir de sauvegardes chiffrées.
 b) Si vous utilisez Mi PC Suite pour sauvegarder des éléments, vous pouvez y utiliser des options de chiffrement.
 
-Remarque:
+Remarque :
 N'oubliez pas le mot de passe que vous avez défini pour les sauvegardes chiffrées ! Vous ne pourrez pas déchiffrer vos sauvegardes si vous l'oubliez.
 "</string>
   <string name="how_encrypt_title">3. Comment chiffrer mes sauvegardes ?</string>
@@ -4257,7 +4257,7 @@ Redémarrez votre appareil et réessayez."</string>
 
 Passer à %1$s n'annulera pas votre %2$s service."</string>
   <string name="mobile_network_esim_swap_confirm_ok">Basculer vers %1$s</string>
-  <string name="mobile_network_esim_swap_confirm_title">Basculer vers %1$s?</string>
+  <string name="mobile_network_esim_swap_confirm_title">Basculer vers %1$s ?</string>
   <string name="mobile_network_in_range">Dans la gamme</string>
   <string name="mobile_network_inactive_esim">SIM inactive / téléchargée</string>
   <string name="mobile_network_inactive_sim">Inactif / SIM</string>
@@ -4440,13 +4440,13 @@ Sélectionnez votre système d'exploitation:"</string>
   <string name="music_title_dolby_control">Dolby Digital Plus</string>
   <string name="music_unsupport_effect_summary">"Les casques USB ne sont pas pris en charge"</string>
   <string name="musicfx_title">Effets musicaux</string>
-  <string name="mute">Silent mode</string>
+  <string name="mute">Mode silencieux</string>
   <string name="mute_music_stream">Désactiver le son la diffusion de musique</string>
   <string name="mute_voiceassist_stream">Assistant vocale muet</string>
   <string name="mvno_match_data">Valeur MVNO</string>
   <string name="mvno_type">Type MVNO</string>
   <string name="my_device">Mon appareil</string>
-  <string name="my_device_disclaimer">"Remarque: les informations des matériels, y compris le processeur, la capacité de la batterie, la taille et la définition de l'écran, ainsi que l'appareil photo sont fournies par les laboratoires, les concepteurs et fournisseurs de Xiaomi."</string>
+  <string name="my_device_disclaimer">"Remarque : les informations des matériels, y compris le processeur, la capacité de la batterie, la taille et la définition de l'écran, ainsi que l'appareil photo sont fournies par les laboratoires, les concepteurs et fournisseurs de Xiaomi."</string>
   <string name="my_device_info_account_preference_title">Compte</string>
   <string name="my_device_info_device_name_preference_title">"Nom de l'appareil"</string>
   <string name="n_cacrts">%d certificats CA</string>
@@ -4487,7 +4487,7 @@ Sélectionnez votre système d'exploitation:"</string>
   <string name="netcheck_title">Diagnostique réseau</string>
   <string name="network_4G">4G (recommandé)</string>
   <string name="network_alarm">"Ne faites pas taire les appels internet"</string>
-  <string name="network_alarm_summary">"Remarque: certaines applications ne sont pas compatibles avec cette fonctionnalité. %1$s"</string>
+  <string name="network_alarm_summary">"Remarque : certaines applications ne sont pas compatibles avec cette fonctionnalité. %1$s"</string>
   <string name="network_alarm_summary_reg">Afficher les applications prises en charge</string>
   <string name="network_alarm_support_apps">Supported apps</string>
   <string name="network_assistant">Consommation des données</string>
@@ -5508,7 +5508,7 @@ Interface UT: %5$s"</string>
 
  "</string>
   <string name="reset_app_preferences_title">Réinitialiser les préférences ?</string>
-  <string name="reset_confirm_directory">"Remarque: Avant de restaurer des éléments, vérifiez si le dossier \"MIUI-Backup-AllBackup\" existe sur votre appareil mobile. Si ce n'est pas le cas, créez-le."</string>
+  <string name="reset_confirm_directory">"Remarque : Avant de restaurer des éléments, vérifiez si le dossier \"MIUI-Backup-AllBackup\" existe sur votre appareil mobile. Si ce n'est pas le cas, créez-le."</string>
   <string name="reset_dashboard_summary">"Vous pouvez réinitialiser le réseau, les applications ou l'appareil"</string>
   <string name="reset_dashboard_title">Options de réinitialisation</string>
   <string name="reset_default_apn_failed">"Impossible de réinitialiser l'apn par défaut"</string>
@@ -6116,7 +6116,7 @@ Pour épingler l'écran:
   <string name="security_settings_face_enroll_introduction_message_setup">Utilisez votre visage pour déverrouiller votre téléphone, autoriser des achats ou vous connecter à des applications</string>
   <string name="security_settings_face_enroll_introduction_message_unlock_disabled">"Utilisez votre visage pour déverrouiller votre téléphone ou approuver des achats.
 
-Remarque: vous ne pouvez pas utiliser votre visage pour déverrouiller cet appareil. Pour plus d'informations, contactez l'administrateur de votre organisation."</string>
+Remarque : vous ne pouvez pas utiliser votre visage pour déverrouiller cet appareil. Pour plus d'informations, contactez l'administrateur de votre organisation."</string>
   <string name="security_settings_face_enroll_introduction_title">Déverrouillez avec votre visage</string>
   <string name="security_settings_face_enroll_introduction_title_unlock_disabled">Utilisez votre visage pour vous authentifier</string>
   <string name="security_settings_face_enroll_repeat_title">Centrez votre visage dans le cercle</string>
@@ -6169,13 +6169,13 @@ Vous pouvez toujours utiliser votre empreinte digitale pour autoriser des achats
   <string name="security_settings_fingerprint_enroll_introduction_continue_setup">Suivant</string>
   <string name="security_settings_fingerprint_enroll_introduction_message">"Il vous suffit d'appuyer sur le lecteur d'empreintes digitales pour déverrouiller votre téléphone, autoriser des achats ou vous connecter à des applications. Toutes les personnes dont les empreintes digitales sont ajoutées sur votre téléphone peuvent effectuer ces opérations. Choisissez donc ces personnes avec soin.
 
-Remarque: Vos empreintes digitales peuvent être moins sécurisées qu'un schéma ou un code fiables."</string>
+Remarque : Vos empreintes digitales peuvent être moins sécurisées qu'un schéma ou un code fiables."</string>
   <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Utilisez votre empreinte digitale pour déverrouiller votre téléphone ou approuver des achats.
 
-Remarque: Votre empreinte digitale peut être moins sécurisée qu'un schéma ou un code fiable."</string>
+Remarque : Votre empreinte digitale peut être moins sécurisée qu'un schéma ou un code fiable."</string>
   <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Utilisez votre empreinte digitale pour déverrouiller votre téléphone ou approuver des achats.
 
-Remarque: Vous ne pouvez pas utiliser votre empreinte digitale pour déverrouiller cet appareil. Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
+Remarque : Vous ne pouvez pas utiliser votre empreinte digitale pour déverrouiller cet appareil. Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
   <string name="security_settings_fingerprint_enroll_introduction_title">"Déverrouillage avec l'empreinte digitale"</string>
   <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Utiliser votre empreinte digitale</string>
   <string name="security_settings_fingerprint_enroll_lift_touch_again">Relevez le doigt, puis appuyez à nouveau sur le capteur.</string>
@@ -8494,21 +8494,21 @@ Allow this for all apps that want to scan?"</string>
   <string name="zen_mode_bypassing_apps_title">Exceptions des applications</string>
   <string name="zen_mode_calls">Appels</string>
   <string name="zen_mode_calls_footer">"Lorsque le mode Ne pas déranger est activé, les appels entrants sont bloqués. Vous pouvez ajuster les paramètres pour que vos proches ou d'autres contacts puissent quand même vous joindre."</string>
-  <string name="zen_mode_calls_summary_one">De: %1$s</string>
+  <string name="zen_mode_calls_summary_one">De : %1$s</string>
   <string name="zen_mode_calls_summary_two">Appels de vos %1$s et vos %2$s</string>
   <string name="zen_mode_calls_title">Autoriser les appels</string>
   <string name="zen_mode_choose_rule_type">Sélectionner le type de règle</string>
   <string name="zen_mode_contacts_callers">contacts</string>
-  <string name="zen_mode_custom_behavior_category_title">Pour ‘%1$s’</string>
-  <string name="zen_mode_custom_behavior_summary">Create custom settings for this schedule</string>
-  <string name="zen_mode_custom_behavior_summary_default">Use default settings</string>
-  <string name="zen_mode_custom_behavior_title">Do Not Disturb behavior</string>
-  <string name="zen_mode_custom_calls_footer">For ‘%1$s’ incoming calls are blocked. You can adjust settings to allow your friends, family, or other contacts to reach you.</string>
-  <string name="zen_mode_custom_messages_footer">For ‘%1$s’ incoming messages are blocked. You can adjust settings to allow your friends, family, or other contacts to reach you.</string>
+  <string name="zen_mode_custom_behavior_category_title">Pour « %1$s »</string>
+  <string name="zen_mode_custom_behavior_summary">Créer des paramètres personnalisés pour ce calendrier</string>
+  <string name="zen_mode_custom_behavior_summary_default">Utiliser les paramètres par défaut</string>
+  <string name="zen_mode_custom_behavior_title">Fonction Ne pas déranger (NPD)</string>
+  <string name="zen_mode_custom_calls_footer">"Pour « %1$s », les appels entrants sont bloqués. Vous pouvez ajuster les paramètres pour permettre à vos amis, à votre famille ou à d'autres contacts de vous joindre."</string>
+  <string name="zen_mode_custom_messages_footer">"Pour « %1$s », les messages entrants sont bloqués. Vous pouvez ajuster les paramètres pour permettre à vos amis, à votre famille ou à d'autres contacts de vous joindre."</string>
   <string name="zen_mode_delete_automatic_rules">Supprimer planifications</string>
   <string name="zen_mode_delete_rule">Supprimer la règle</string>
   <string name="zen_mode_delete_rule_button">Supprimer</string>
-  <string name="zen_mode_delete_rule_confirmation">Supprimer la règle \"%1$s\" ?</string>
+  <string name="zen_mode_delete_rule_confirmation">Supprimer la règle « %1$s » ?</string>
   <string name="zen_mode_duration_always_prompt_title">Demander à chaque fois</string>
   <string name="zen_mode_duration_settings_title">Durée</string>
   <string name="zen_mode_duration_summary_always_prompt">"Toujours demander (sauf en cas d'activation automatique)"</string>
@@ -8520,9 +8520,9 @@ Allow this for all apps that want to scan?"</string>
   <string name="zen_mode_event_rule_calendar">Durant les événements pour</string>
   <string name="zen_mode_event_rule_calendar_any">Tous les agendas</string>
   <string name="zen_mode_event_rule_reply">Si la réponse est</string>
-  <string name="zen_mode_event_rule_reply_any_except_no">\"Oui\", \"Peut-être\" ou \"Pas de réponse\"</string>
+  <string name="zen_mode_event_rule_reply_any_except_no">« Oui », « Peut-être » ou « Pas de réponse »</string>
   <string name="zen_mode_event_rule_reply_yes">Oui</string>
-  <string name="zen_mode_event_rule_reply_yes_or_maybe">\"Oui\" ou \"Peut-être\"</string>
+  <string name="zen_mode_event_rule_reply_yes_or_maybe">« Oui » ou « Peut-être »</string>
   <string name="zen_mode_event_rule_summary_any_calendar">tous les agendas</string>
   <string name="zen_mode_event_rule_summary_calendar_template">Durant les événements pour %1$s</string>
   <string name="zen_mode_event_rule_summary_reply_template">Si la réponse est %1$s</string>

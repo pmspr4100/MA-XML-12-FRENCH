@@ -64,7 +64,7 @@
   <string name="wapi_password_is_not_hex_format">Caractères hexadécimaux non valides</string>
   <string name="wapi_password_length_is_max">Le mot de passe ne peut pas dépasser 64 caractères</string>
   <string name="wapi_password_length_is_min">Le mot de passe ne peut pas comporter moins de 8 caractères</string>
-  <string name="wapi_password_length_is_min_to_max">Le mot de passe doit être: 8-64 caractères</string>
+  <string name="wapi_password_length_is_min_to_max">Le mot de passe doit être : 8-64 caractères</string>
   <string name="wapi_yes">oui</string>
   <string name="wifi_auto_sel_wapi_cert">Sélectionner automatiquement</string>
   <string name="wifi_coverage_extend">"Activer la fonction d'extension de la couverture Wi-Fi</string>
@@ -146,7 +146,7 @@ Le stockage des justificatifs pourrait ne pas permettre"</string>
   <string name="bluetooth_pan_profile_summary_use_for">"Utiliser pour l'accès à internet"</string>
   <string name="bluetooth_pan_user_profile_summary_connected">"Connecté à l'appareil pour accès internet"</string>
   <string name="bluetooth_profile_a2dp">Multimédia</string>
-  <string name="bluetooth_profile_a2dp_high_quality">Audio HD: %1$s</string>
+  <string name="bluetooth_profile_a2dp_high_quality">Audio HD : %1$s</string>
   <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Audio HD</string>
   <string name="bluetooth_profile_headset">Appels téléphoniques</string>
   <string name="bluetooth_profile_hearing_aid">Assistance auditive</string>
@@ -162,17 +162,17 @@ Le stockage des justificatifs pourrait ne pas permettre"</string>
   <string name="bluetooth_sap_profile_summary_use_for">"Utiliser pour l'accès à la carte SIM"</string>
   <string name="bluetooth_select_a2dp_codec_bits_per_sample">"Nombre de bits par échantillon pour l'audio Bluetooth"</string>
   <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Critère de sélection du codec audio
-Bluetooth: nombre de bits par échantillon"</string>
+Bluetooth : nombre de bits par échantillon"</string>
   <string name="bluetooth_select_a2dp_codec_channel_mode">"Mode de chaîne de l'audio Bluetooth"</string>
   <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Critère de sélection du codec audio
-Bluetooth: mode de chaîne"</string>
-  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Codec audio Bluetooth LDAC: qualité de lecture</string>
+Bluetooth : mode de chaîne"</string>
+  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Codec audio Bluetooth LDAC : qualité de lecture</string>
   <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Critère de sélection du codec audio
-LDAC: qualité de lecture"</string>
+LDAC : qualité de lecture"</string>
   <string name="bluetooth_select_a2dp_codec_sample_rate">"Taux d'échantillonnage audio Bluetooth"</string>
   <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Critère de sélection du codec audio
-Bluetooth: taux d'échantillonnage"</string>
-  <string name="bluetooth_select_a2dp_codec_streaming_label">Diffusion: %1$s</string>
+Bluetooth : taux d'échantillonnage"</string>
+  <string name="bluetooth_select_a2dp_codec_streaming_label">Diffusion : %1$s</string>
   <string name="bluetooth_select_a2dp_codec_type">Codec audio Bluetooth</string>
   <string name="bluetooth_select_a2dp_codec_type_dialog_title">"Critère pour déclencher la sélection du codec audio
 Bluetooth"</string>
@@ -248,7 +248,7 @@ Bluetooth"</string>
   <string name="development_settings_not_available">Les options proposées aux développeurs ne sont pas disponibles pour cet utilisateur.</string>
   <string name="development_settings_summary">"Définir les options pour le développement de l'application"</string>
   <string name="development_settings_title">Options pour les développeurs</string>
-  <string name="direct_boot_unaware_dialog_message">"Remarque: Après un redémarrage, vous ne pouvez pas lancer cette application tant que vous n'avez pas déverrouillé votre téléphone."</string>
+  <string name="direct_boot_unaware_dialog_message">"Remarque : Après un redémarrage, vous ne pouvez pas lancer cette application tant que vous n'avez pas déverrouillé votre téléphone."</string>
   <string name="disable_overlays">Désactiver superpos. matér.</string>
   <string name="disable_overlays_summary">Toujours utiliser le GPU pour la composition écran</string>
   <string name="disabled">Désactivée</string>

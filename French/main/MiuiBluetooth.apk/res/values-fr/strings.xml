@@ -123,7 +123,7 @@
   <string name="bluetooth_preference_found_devices">Appareils disponibles</string>
   <string name="bluetooth_preference_scan_title">Recherche de périphériques</string>
   <string name="bluetooth_profile_a2dp">Média audio</string>
-  <string name="bluetooth_profile_a2dp_high_quality">Audio HD: %1$s</string>
+  <string name="bluetooth_profile_a2dp_high_quality">Audio HD : %1$s</string>
   <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Audio HD</string>
   <string name="bluetooth_profile_dun">Accès au réseau par ligne commutée</string>
   <string name="bluetooth_profile_headset">Appels téléphoniques</string>
@@ -145,8 +145,8 @@ Selection: Bits Per Sample"</string>
   <string name="bluetooth_select_a2dp_codec_channel_mode">Bluetooth Audio Channel Mode</string>
   <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Trigger Bluetooth Audio Codec
 Selection: Channel Mode"</string>
-  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Code audio Bluetooth LDAC: qualité de lecture</string>
-  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Sélectionner le codec audio Bluetooth LDAC:
+  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Code audio Bluetooth LDAC : qualité de lecture</string>
+  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Sélectionner le codec audio Bluetooth LDAC :
 Qualité de lecture"</string>
   <string name="bluetooth_select_a2dp_codec_sample_rate">Bluetooth Audio Sample Rate</string>
   <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Trigger Bluetooth Audio Codec
@@ -178,8 +178,8 @@ Selection"</string>
   <string name="charge_length_format">Il y a %1$s</string>
   <string name="choose_profile">Choix du profil</string>
   <string name="clear_adb_keys">Révoquer les autorisations de débogage USB</string>
-  <string name="confirm_enable_oem_unlock_text">"ATTENTION: Les fonctions de protection d'appareil ne fonctionneront pas sur celui-ci tant que ce paramètre est actif."</string>
-  <string name="confirm_enable_oem_unlock_title">Autoriser le déverrouillage OEM?</string>
+  <string name="confirm_enable_oem_unlock_text">"ATTENTION : Les fonctions de protection d'appareil ne fonctionneront pas sur celui-ci tant que ce paramètre est actif."</string>
+  <string name="confirm_enable_oem_unlock_title">Autoriser le déverrouillage OEM ?</string>
   <string name="connected_via_app">Connecté via %1$s</string>
   <string name="connected_via_carrier">Connecté via %1$s</string>
   <string name="connected_via_network_scorer">Connecté automatiquement via %1$s</string>
@@ -262,7 +262,7 @@ Selection"</string>
   <string name="fast_connect_device_title_connect_fail">Impossible de connecter %1$s</string>
   <string name="fast_connect_device_title_connecting">Connexion…</string>
   <string name="fast_connect_device_title_find_headset">%1$s trouvé</string>
-  <string name="fast_connect_device_title_find_headset_others">"On dirait que cet appareil ne vous appartient pas: %1$s"</string>
+  <string name="fast_connect_device_title_find_headset_others">"On dirait que cet appareil ne vous appartient pas : %1$s"</string>
   <string name="fast_connect_nzbt_reset">"Maintenez le bouton du haut enfoncé pendant %1$s secondes lorsque l'appareil est éteint"</string>
   <string name="fast_connect_reset_common">"Réinitialisez cet appareil pour pouvoir l'appairer"</string>
   <string name="fast_connect_wbs_name">Mi wireless charger speaker</string>

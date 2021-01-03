@@ -409,20 +409,20 @@ Pour en savoir plus sur ce certificat, contactez votre administrateur."</item>
       <item quantity="one">%d fois</item>
     </plurals>
     <plurals name="usage_state_week_day_hour">
-      <item quantity="other">Week-ends: %d heures</item>
-      <item quantity="one">Week-ends: %d heure</item>
+      <item quantity="other">Week-ends : %d heures</item>
+      <item quantity="one">Week-ends : %d heure</item>
     </plurals>
     <plurals name="usage_state_week_day_minute">
-      <item quantity="other">Week-ends: %d minutes</item>
-      <item quantity="one">Week-ends: %d minute</item>
+      <item quantity="other">Week-ends : %d minutes</item>
+      <item quantity="one">Week-ends : %d minute</item>
     </plurals>
     <plurals name="usage_state_work_day_hour">
-      <item quantity="other">Jours de la semaine: %d heures</item>
-      <item quantity="one">Jours de la semaine: %d heure</item>
+      <item quantity="other">Jours de la semaine : %d heures</item>
+      <item quantity="one">Jours de la semaine : %d heure</item>
     </plurals>
     <plurals name="usage_state_work_day_minute">
-      <item quantity="other">Jours de la semaine: %d minutes</item>
-      <item quantity="one">Jours de la semaine: %d minute</item>
+      <item quantity="other">Jours de la semaine : %d minutes</item>
+      <item quantity="one">Jours de la semaine : %d minute</item>
     </plurals>
     <plurals name="usagestats_device_notification_des_hour">
       <item quantity="other">" heures"</item>
@@ -477,48 +477,48 @@ Pour en savoir plus sur ce certificat, contactez votre administrateur."</item>
       <item quantity="one">"Ne recevoir que les alarmes pendant %1$d minute jusqu'à %2$s"</item>
     </plurals>
     <plurals name="location_app_permission_summary_location_on">
-      <item quantity="other">%1$d of %2$d apps have access to location</item>
-      <item quantity="one">%1$d of %2$d apps has access to location</item>
+      <item quantity="other">%1$d applications sur %2$d ont accès à votre localisation</item>
+      <item quantity="one">%1$d application sur %2$d a accès à votre localisation</item>
     </plurals>
     <plurals name="location_settings_summary_location_on">
-      <item quantity="other">On - %1$d apps have access to location</item>
-      <item quantity="one">On - %1$d app has access to location</item>
+      <item quantity="other">Activé - %1$d applications ont accès à votre localisation</item>
+      <item quantity="one">Activé - %1$d application a accès à votre localisation</item>
     </plurals>
     <plurals name="mobile_network_summary_count">
-      <item quantity="other">%1$d SIMs</item>
-      <item quantity="one">%1$d SIM</item>
+      <item quantity="other">%1$d cartes SIM</item>
+      <item quantity="one">%1$d carte SIM</item>
     </plurals>
     <plurals name="notification_few_channel_count_summary">
-      <item quantity="other">%1$d notification channels.</item>
-      <item quantity="one">%1$d notification channel.</item>
+      <item quantity="other">%1$d chaînes de notification.</item>
+      <item quantity="one">%1$d chaîne de notification.</item>
     </plurals>
     <plurals name="notifications_sent_daily">
-      <item quantity="other">~%d notifications per day</item>
-      <item quantity="one">~%d notification per day</item>
+      <item quantity="other">~%d notifications par jour</item>
+      <item quantity="one">~%d notification par jour</item>
     </plurals>
     <plurals name="notifications_sent_weekly">
-      <item quantity="other">~%d notifications per week</item>
-      <item quantity="one">~%d notification per week</item>
+      <item quantity="other">~%d notifications par semaine</item>
+      <item quantity="one">~%d notification par semaine</item>
     </plurals>
     <plurals name="permission_bar_chart_label">
-      <item quantity="other">%s apps</item>
-      <item quantity="one">1 app</item>
+      <item quantity="other">%s applications</item>
+      <item quantity="one">1 application</item>
     </plurals>
     <plurals name="show_bluetooth_devices">
-      <item quantity="other">%1$d devices connected</item>
-      <item quantity="one">%1$d device connected</item>
+      <item quantity="other">%1$d appareils connectés</item>
+      <item quantity="one">%1$d appareil connecté</item>
     </plurals>
     <plurals name="wifi_saved_all_access_points_summary">
-      <item quantity="other">%d networks and subscriptions</item>
-      <item quantity="one">1 network and subscription</item>
+      <item quantity="other">%d réseaux et abonnements</item>
+      <item quantity="one">1 réseau et abonnement</item>
     </plurals>
     <plurals name="wifi_saved_passpoint_access_points_summary">
-      <item quantity="other">%d subscriptions</item>
-      <item quantity="one">1 subscription</item>
+      <item quantity="other">%d abonnements</item>
+      <item quantity="one">1 abonnement</item>
     </plurals>
     <plurals name="zen_mode_bypassing_apps_subtext">
-      <item quantity="other">Notifications from %1$d apps can override Do Not Disturb</item>
-      <item quantity="zero">No apps can override Do Not Disturb</item>
-      <item quantity="one">Notifications from 1 app can override Do Not Disturb</item>
+      <item quantity="other">Les notifications de %1$d applications peuvent remplacer Ne pas déranger</item>
+      <item quantity="zero">Aucune application ne peut remplacer Ne pas déranger</item>
+      <item quantity="one">"Les notifications d'une application peuvent remplacer Ne pas déranger"</item>
     </plurals>
 </resources>
