@@ -49,8 +49,8 @@
         <item quantity="one">"Vous serez notifié des actions sensibles effectuées par l'application %1$d"</item>
     </plurals>
     <plurals name="app_behavior_wakepath_multiple">
-        <item quantity="other">%1$1s launched %2$d apps</item>
-        <item quantity="one">%1$1s launched %2$d app</item>
+        <item quantity="other">%1$1s a lancé %2$d applications</item>
+        <item quantity="one">%1$1s a lancé %2$d application</item>
     </plurals>
     <plurals name="app_behavior_wakepath_multiple_single">
         <item quantity="other">Cette application a lancé %1$d autres applications</item>
@@ -383,8 +383,8 @@ Vous pouvez obtenir un essai gratuit de %d jours maintenant !"</item>
         <item quantity="one">%d application bloquée</item>
     </plurals>
     <plurals name="om_running_apps_num">
-        <item quantity="other">%d apps</item>
-        <item quantity="one">%d app</item>
+        <item quantity="other">%d applis</item>
+        <item quantity="one">%d appli</item>
     </plurals>
     <plurals name="pc_abnormal_scan_result_model_result_title">
         <item quantity="other">%d apps déchargent la batterie</item>
