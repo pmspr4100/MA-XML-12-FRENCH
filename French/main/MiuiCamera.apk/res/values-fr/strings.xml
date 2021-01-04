@@ -701,6 +701,7 @@ en mode portrait"</string>
 regarder plus grand sur les photos"</string>
   <string name="macro_mode_use_hint_text_title">Macro</string>
   <string name="makeup_reset_toast">Effet de maquillage effacé avec succès</string>
+  <string name="manual_picture_style">Paramètres</string>
   <string name="manually_raw_hint">RAW</string>
   <string name="message_snap_double_confirm">Un appui long sur le bouton de volume déclenche le NFC. Remplacer cette fonctionnalité ?</string>
   <string name="mimoji_app_name">Fun Cam</string>
@@ -901,6 +902,7 @@ regarder plus grand sur les photos"</string>
   <string name="parameter_lens_w">WIDE (wide angle lens)</string>
   <string name="parameter_log_format_description">"Ce format enregistre la vidéo avec une fonction logarithmique appliquée à la courbe d'exposition afin de capturer plus de détails dans les hautes lumières et les ombres, vous offrant plus d'options de post-traitement."</string>
   <string name="parameter_log_format_title">Format LOG</string>
+  <string name="parameter_manual_picturestyle_description">"La saturation vous permet de contrôler la profondeur et l'intensité des couleurs, le réglage du contraste fait ressortir ou minimise la différence entre la lumière et l'obscurité, et la netteté rend les détails le long des contours."</string>
   <string name="parameter_metering_description">"La mesure moyenne prend en compte toutes les zones de votre image, fonctionnant mieux pour des scènes uniformément éclairées. La mesure pondérée centrale se concentre principalement sur la zone centrale du cadre et tient dûment compte de la luminosité de la zone environnante, ce qui convient pour photographier des sujets au centre du cadre. La mesure spot ne couvre que la zone en un seul endroit, vous donnant un contrôle précis sur l'exposition."</string>
   <string name="parameter_metering_title">Modes de mesure</string>
   <string name="parameter_peak_focus_description">"Lorsque vous effectuez la mise au point manuellement, utilisez le pic de mise au point pour placer une surbrillance rouge sur la zone de mise au point."</string>
@@ -909,7 +911,7 @@ regarder plus grand sur les photos"</string>
   <string name="parameter_peak_raw_title">Format RAW</string>
   <string name="parameter_wb_description">"Outre les préréglages de balance des blancs (incandescent, lumière du jour, fluorescent, nuageux), vous pouvez également régler la balance des blancs sur une valeur personnalisée dans la plage 2000–8000 Kelvin."</string>
   <string name="parameter_wb_title">Balance des blancs</string>
-  <string name="parameter_zoom_slider_description">"Faites glisser le curseur de zoom vers le haut et vers le bas pour changer votre prise de vue en douceur d'un plan long à un plan rapproché."</string>
+  <string name="parameter_zoom_slider_description">"Faites glisser le curseur de zoom horizontalement pour changer votre prise de vue en douceur d'un plan long à un plan rapproché."</string>
   <string name="parameter_zoom_slider_title">Zoom</string>
   <string name="path_settings">Applications système/Appareil photo/Paramètres</string>
   <string name="phoenix_module_name_pixel">64 MPX</string>
@@ -1352,6 +1354,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="record_back_pressed_hint">"Appuyez à nouveau pour arrêter l'enregistrement"</string>
   <string name="reset_manually_parameter_confirmed">OK</string>
   <string name="reset_manually_parameter_hint">Réinitialiser</string>
+  <string name="reset_manual_picture_style_toast">Paramètres réinitialisés avec succès</string>
   <string name="rgb_histogram">Histogramme RGB</string>
   <string name="screen_on_proximity_sensor_hint">Pour désactiver cette fonction, appuyez simultanément sur les touches Volume haut et Retour.</string>
   <string name="screen_on_proximity_sensor_summary">"Ne couvrez pas la zone des écouteurs"</string>
