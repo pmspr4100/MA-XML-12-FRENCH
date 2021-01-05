@@ -150,6 +150,7 @@
   <string name="accessibility_pull_down_to_open_camera">"Glissez vers le bas pour ouvrir l'appareil photo"</string>
   <string name="accessibility_record_button">"Bouton d'enregistrement"</string>
   <string name="accessibility_reduce">Zoom arrière</string>
+  <string name="accessibility_reference_line_text">Ouvrir le panneau avec les options de ligne de référence</string>
   <string name="accessibility_review_thumbnail">Photo la plus récente</string>
   <string name="accessibility_select_all">Tout sélectionner</string>
   <string name="accessibility_select_all_end">Tout désélectionner</string>
@@ -381,9 +382,16 @@ et ajustez les préférences automatiquement"</string>
   <string name="cas_module_name_pixel">48 MPX</string>
   <string name="ccc_temperature_warning_msg">"Votre appareil est en surchauffe. L'appareil photo sera fermée dans %d secondes. Vos photos ou vidéos seront enregistrées automatiquement."</string>
   <string name="ccc_temperature_warning_title">"L'appareil est en surchauffe"</string>
-  <string name="cezanne_module_name_pixel">64 MPX</string>
+  <string name="center_mark">Marque centrale</string>
+  <string name="clone_adjust">Adjuster</string>
+  <string name="clone_copy_mode">"Figer l'image"</string>
   <string name="clone_do_not_move_phone">Ne déplacez pas votre appareil</string>
-  <string name="clone_don_not_move_phone">Veuillez ne pas déplacer votre téléphone</string>
+  <string name="clone_drag_to_adjust_the_posture">Sélectionnez et faites glisser pour régler</string>
+  <string name="clone_guide_copy_tip3">"Photographiez un sujet qui se déplace sur tout l'écran."</string>
+  <string name="clone_guide_copy_tip5">Votre sujet peut skier, jouer au basket, danser ou simplement marcher.</string>
+  <string name="clone_guide_copy_tip6">Les images figées seront « récupérées » pendant la lecture de la vidéo.</string>
+  <string name="clone_guide_copy_tip7">Expérimentez avec des poses.</string>
+  <string name="clone_guide_copy_title2">Figer les images de vidéos</string>
   <string name="clone_guide_tip1">Veuillez garder votre téléphone stable et bien éclairé</string>
   <string name="clone_guide_tip2">Évitez de déplacer des objets et des arrière-plans solides</string>
   <string name="clone_guide_tip3">Seuls les portraits sont pris en charge</string>
@@ -1143,6 +1151,11 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_camera_recordlocation_entry_off">Désactivé</string>
   <string name="pref_camera_recordlocation_entry_on">Activé</string>
   <string name="pref_camera_recordlocation_title">Enregistrer la localisation</string>
+  <string name="pref_camera_reference_capture_title">Lignes de référence</string>
+  <string name="pref_camera_reference_capture_title_golden_section">"Nombre d'or"</string>
+  <string name="pref_camera_reference_capture_title_jiugongge">Grille</string>
+  <string name="pref_camera_reference_capture_title_left_golden_spiral">Spirale dorée A</string>
+  <string name="pref_camera_reference_capture_title_right_golden_spiral">Spirale dorée B</string>
   <string name="pref_camera_referenceline_title">Afficher la grille</string>
   <string name="pref_camera_saturation_title">Saturation</string>
   <string name="pref_camera_scenemode_entry_auto">Auto</string>
@@ -1261,6 +1274,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_hdr10plus_video_mode_description">Optimise les couleurs et ajuste le contraste pour les vidéos 4K et 8K. Cette fonction ne fonctionne que sur les appareils compatibles HDR10 +.</string>
   <string name="pref_lens_dirty_detect_summary">"Recevoir une notification lorsque l'objectif est sale"</string>
   <string name="pref_lens_dirty_detect_title">Avertissement objectif sale</string>
+  <string name="pref_live_duration_title">Durée en direct</string>
   <string name="pref_live_volumekey_function_default">Volume</string>
   <string name="pref_menu_ai_ultra_pixel_photography">IA %s</string>
   <string name="pref_menu_ultra_pixel_photography">%s ultra HD</string>
