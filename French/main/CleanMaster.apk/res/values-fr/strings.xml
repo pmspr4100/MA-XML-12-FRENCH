@@ -447,6 +447,7 @@
   <string name="hints_quick_cleanning">Nettoyage…</string>
   <string name="hints_quick_cleanuping">Optimisation…</string>
   <string name="hints_quick_deep_clean">Nettoyer maintenant</string>
+  <string name="hints_quick_deep_clean2">Libérer %s</string>
   <string name="hints_quick_deep_scanning">Analyse</string>
   <string name="hints_quick_deep_uninstall">Supprimer maintenant </string>
   <string name="hints_quick_prepare">Préparation…</string>
@@ -608,6 +609,19 @@
   <string name="petabyteShort">" Po"</string>
   <string name="phone_search">Recherche Google</string>
   <string name="positive_confirm">OK</string>
+  <string name="powerful_acceleration">Défragmentation</string>
+  <string name="powerful_acceleration_after">Après</string>
+  <string name="powerful_acceleration_before">Avant</string>
+  <string name="powerful_acceleration_enable_summary">"La défragmentation sera effectuée automatiquement lorsque vous n'utilisez pas l'appareil"</string>
+  <string name="powerful_acceleration_enable_title">Effectuer une défragmentation en arrière-plan</string>
+  <string name="powerful_acceleration_item_button">Activer</string>
+  <string name="powerful_acceleration_item_tip_normal">"Votre stockage a l'air bien !"</string>
+  <string name="powerful_acceleration_notification_summary">"Appuyez pour libérer plus d'espace"</string>
+  <string name="powerful_acceleration_notification_title">Défragmentation terminée</string>
+  <string name="powerful_acceleration_tip">Le stockage interne souffre de fragmentation, ce qui peut ralentir considérablement votre appareil. La défragmentation organise physiquement vos fichiers dans le plus petit nombre de fragments, réduisant ainsi le décalage.</string>
+  <string name="powerful_acceleration_tip_high"><Data>Votre stockage est &lt;font color=#ff0000 >fortement&lt;/font> fragmenté. La défragmentation peut résoudre le problème.</Data></string>
+  <string name="powerful_acceleration_tip_middle"><Data>Votre stockage est &lt;font color=#ff0000 >légèrement&lt;/font> fragmenté. La défragmentation peut résoudre le problème.</Data></string>
+  <string name="powerful_acceleration_toast">"La défragmentation sera effectuée lorsque vous n'utilisez pas l'appareil"</string>
   <string name="pref_about_privacy_title">Politique de confidentialité</string>
   <string name="pref_category_title_auto_clean_settings">Rappel de nettoyage</string>
   <string name="pref_category_title_auto_update_cleanup_db">Paramètres additionnels</string>
@@ -670,9 +684,12 @@
   <string name="recommend_news">Recevoir des recommandations</string>
   <string name="recommend_the_following">Prenez les mesures suivantes pour tirer le meilleur parti de votre appareil</string>
   <string name="recommended">Sélection</string>
-  <string name="resutl_function_deep_clean_summary">"&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; d'autres fichiers peuvent être effacés. Libérez plus d'espace.&lt;/Data&gt;"</string>
-  <string name="resutl_function_qq_clean_summary">"&lt;Data&gt;Vous pouvez effacer &amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; de cache généré par QQ&lt;/Data&gt;"</string>
-  <string name="resutl_function_wechat_clean_summary">"&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; du cache WeChat. Libérez plus d'espace.&lt;/Data&gt;"</string>
+  <string name="resutl_function_deep_clean_summary"><Data>"&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; d'autres fichiers peuvent être effacés. Libérez plus d'espace."</Data></string>
+  <string name="resutl_function_qq_clean_summary"><Data>"Vous pouvez effacer &amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; de cache généré par QQ"</Data></string>
+  <string name="resutl_function_wechat_clean_summary"><Data>"&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; du cache WeChat. Libérez plus d'espace."</Data></string>
+  <string name="rs_clean_size_free_space">%s libérés</string>
+  <string name="rs_clean_size_storage_size">%1$s/%2$s occupés</string>
+  <string name="rs_clean_size_storage_title">Stockage</string>
   <string name="sc_allow_network_dialog_button">Autoriser</string>
   <string name="sc_allow_network_dialog_message">Autoriser cette application à se connecter à internet pour recevoir les mises à jour ?</string>
   <string name="scanning">Analyse…</string>
@@ -760,6 +777,26 @@
   <string name="update_date_format">dd/MM/yyyy</string>
   <string name="v7_preference_off">OFF</string>
   <string name="v7_preference_on">ON</string>
+  <string name="video_clean">Effacer les vidéos mises en cache</string>
+  <string name="video_clean_auto_clean">Effacer automatiquement</string>
+  <string name="video_clean_auto_clean_summary">Effacer automatiquement les vidéos mises en cache après analyse</string>
+  <string name="video_clean_cache_tip">Les vidéos effacées peuvent être chargées à nouveau par la suite</string>
+  <string name="video_clean_create_desktop_icon">"Raccourci en écran d'accueil"</string>
+  <string name="video_clean_create_desktop_icon_summary">"Ajoutez un raccourci sur l'écran d'accueil pour effacer les vidéos mises en cache en un seul clic"</string>
+  <string name="video_clean_desktop_icon_created">"Ajout d'un raccourci sur l'écran d'accueil avec succès"</string>
+  <string name="video_clean_garbage">Vidéos mises en cache</string>
+  <string name="video_clean_garbage_cleared">Les vidéos mises en cache ont bien été supprimées</string>
+  <string name="video_clean_notification_summary">Effacer les vidéos mises en cache par les applications</string>
+  <string name="video_clean_notification_title">Libérer %s</string>
+  <string name="video_clean_personal_settings_title">Paramètres additionnels</string>
+  <string name="video_clean_qq_clean_summary">"Videz les poubelles pour libérer de l'espace de stockage"</string>
+  <string name="video_clean_qq_clean_title">Nettoyeur QQ</string>
+  <string name="video_clean_remind_settings_title">Rappel de nettoyage</string>
+  <string name="video_clean_scan_app_tip">Analyse des applications %1$d/%2$d</string>
+  <string name="video_clean_video_manager_summary">Gérez toutes les vidéos stockées sur votre appareil</string>
+  <string name="video_clean_video_manager_title">Gestionnaire vidéo</string>
+  <string name="video_clean_wechat_clean_summary">Videz les déchets pour augmenter la vitesse</string>
+  <string name="video_clean_wechat_clean_title">Nettoyeur WeChat</string>
   <string name="virus_scan">Analyse de virus</string>
   <string name="wechat_chat_data_type_cache">Cache de WeChat</string>
   <string name="wechat_chat_data_type_cache_desc">Vous pourrez restaurer ces fichiers après vous être connecté à internet.</string>

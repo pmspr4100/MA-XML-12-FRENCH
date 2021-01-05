@@ -150,12 +150,24 @@
         <item quantity="one">Téléchargé par %1$d personnes</item>
     </plurals>
     <plurals name="resutl_function_install_app_summary">
-        <item quantity="other">"&lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> les applications n'ont pas été utilisées depuis longtemps, jetez un oeil."&lt;/Data>"</item>
-        <item quantity="one">"&lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> l'application n'a pas été utilisée depuis longtemps, jetez un oeil."&lt;/Data>"</item>
+        <item quantity="other"><Data>"&lt;font color=#ff0000 >%d&lt;/font> les applications n'ont pas été utilisées depuis longtemps, jetez un oeil."</Data></item>
+        <item quantity="one"><Data>"&lt;font color=#ff0000 >%d&lt;/font> l'application n'a pas été utilisée depuis longtemps, jetez un oeil."</Data></item>
+    </plurals>
+    <plurals name="rs_clean_size_hint_image">
+        <item quantity="other">Suffisant pour %d photos</item>
+        <item quantity="one">Suffisant pour %d photo</item>
+    </plurals>
+    <plurals name="rs_clean_size_hint_song">
+        <item quantity="other">Suffisant pour %d chansons</item>
+        <item quantity="one">Suffisant pour %d chanson</item>
     </plurals>
     <plurals name="second">
         <item quantity="other">%1$d secondes</item>
         <item quantity="one">%1$d seconde</item>
+    </plurals>
+    <plurals name="video_clean_scan_app_result">
+        <item quantity="other">%d applications avec des vidéos mises en cache</item>
+        <item quantity="one">%d application avec des vidéos mises en cache</item>
     </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$s vues</item>
