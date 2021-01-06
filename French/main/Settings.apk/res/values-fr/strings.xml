@@ -5474,7 +5474,9 @@ Interface UT : %5$s"</string>
   <string name="recommend_item_3">Batterie externe</string>
   <string name="recommend_item_4">Écouteurs</string>
   <string name="recommend_item_title">Recommandations</string>
+  <string name="recommend_text_wakeup_xiaoai">Paramètres</string>
   <string name="recommend_tip">"Besoin d'autres paramètres ?"</string>
+  <string name="recommend_tip_wakeup_xiaoai">"L'utilisation de boutons pour interagir avec Mi AI nécessite de désactiver les gestes en plein écran et de sélectionner des boutons comme méthode de navigation."</string>
   <string name="recompute_size">Calcul de la taille…</string>
   <string name="regional_screen_shot">"Capture d'écran partielle"</string>
   <string name="register_automatically">Inscription automatique…</string>
@@ -8414,7 +8416,12 @@ Allow this for all apps that want to scan?"</string>
   <string name="write_settings_title">Peut modifier les paramètres système</string>
   <string name="write_system_settings">Modifier les paramètres système</string>
   <string name="write_tag">Éditer</string>
+  <string name="wrong_pin_code_one">Code PIN de la carte SIM incorrect, il vous reste 1 tentative avant de contacter votre opérateur pour déverrouiller votre appareil.</string>
   <string name="wrong_pin_code_pukked">Code PIN de la carte SIM incorrect. Vous devez désormais contacter votre opérateur pour déverrouiller votre appareil.</string>
+  <string name="xiaoai_global_shortcut">Général</string>
+  <string name="xiaoai_key_shortcut">Boutons</string>
+  <string name="xiaoai_other_shortcut">Autres méthodes</string>
+  <string name="xiaoai_shortcut_settings_title">"Déclenchez Mi AI à l'aide de boutons et de gestes"</string>
   <string name="xiaomi_account">Compte Mi</string>
   <string name="xiaomi_cloud_find_device">Localiser un appareil</string>
   <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
