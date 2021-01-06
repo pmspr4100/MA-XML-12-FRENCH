@@ -19,19 +19,19 @@
         <item quantity="other">Immédiatement</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">dans %d mins</item>
+        <item quantity="other">dans %d min</item>
         <item quantity="one">dans 1 min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Juste maintenant</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other"> il y a %d mins</item>
+        <item quantity="other">il y a %d min</item>
         <item quantity="one">il y a 1 min</item>
     </plurals>
     <plurals name="controls_number_of_favorites">
-        <item quantity="other">%s controls added.</item>
-        <item quantity="one">%s control added.</item>
+        <item quantity="other">%s contrôles ajoutés.</item>
+        <item quantity="one">%s contrôle ajouté.</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">il y a une demi-heure</item>
@@ -52,8 +52,12 @@
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Immédiatement</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nouvelles notifications</item>
+        <item quantity="one">%d nouvelle notification</item>
+    </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">il y a %1$d mins</item>
-        <item quantity="one">il y a %1$d min</item>
+        <item quantity="other">Il y a %1$d minutes</item>
+        <item quantity="one">Il y a %1$d minute</item>
     </plurals>
 </resources>
