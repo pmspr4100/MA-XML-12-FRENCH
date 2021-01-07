@@ -355,7 +355,11 @@
   <string name="eq_preset_select">Choisir une présélection</string>
   <string name="eq_rock">Rock</string>
   <string name="equalizer">Égaliseur</string>
-  <string name="error_not_support">Not supported</string>
+  <string name="eras_ad">Apr. J.-C.</string>
+  <string name="eras_bc">Av. J.-C.</string>
+  <string name="error_message_no_internet_connection">"Impossible de se connecter à Internet. S'il-vous-plaît, vérifiez votre connexion à internet et réessayez."</string>
+  <string name="error_message_something_went_wrong">"Une erreur s'est produite. Veuillez réessayer."</string>
+  <string name="error_not_support">Non supporté</string>
   <string name="exo_controls_fastforward_description">Avance rapide</string>
   <string name="exo_controls_fullscreen_description">Mode plein écran</string>
   <string name="exo_controls_next_description">Titre suivant</string>
@@ -509,6 +513,7 @@
   <string name="input_hint_prefix">Entrer %1$s</string>
   <string name="installing_apk">Installation…</string>
   <string name="insufficient_space">"Plus assez d'espace sur le stockage interne de votre appareil"</string>
+  <string name="invalid_number">Désolé le numéro est invalide</string>
   <string name="is_latest_version">Musique est à jour.</string>
   <string name="is_scanning">Vérification du stockage…</string>
   <string name="is_scanning_support_online">"Vérification du stockage…
@@ -626,6 +631,12 @@
   <string name="modify_progress_helper">"Glissez vers le haut ou vers le bas pour ajuster l'avancement des paroles."</string>
   <string name="modify_song_info">Modifier les infos de la chanson</string>
   <string name="modify_song_info_success">Info de la chanson a été mis à jour</string>
+  <string name="moe_inbox_name">Centre de notification</string>
+  <string name="moe_message_to_register">"Cliquez sur le bouton d'enregistrement pour vous inscrire à la validation d'intégration."</string>
+  <string name="moe_message_to_unregister">"L'appareil est enregistré pour la vérification d'intégration. Cliquez sur le bouton pour vous désinscrire"</string>
+  <string name="moe_notification_center_empty">Centre de notification vide</string>
+  <string name="moe_register">"S'INSCRIRE"</string>
+  <string name="moe_unregister">"SE DÉSINSCRIRE"</string>
   <string name="monday">Lundi</string>
   <string name="monday_short">Lun</string>
   <string name="monday_shortest">L</string>
