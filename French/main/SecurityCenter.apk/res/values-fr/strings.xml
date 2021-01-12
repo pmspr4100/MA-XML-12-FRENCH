@@ -58,6 +58,7 @@
   <string name="action_button_text_80_100">Optimiser</string>
   <string name="action_source_call_title">Appels bloqués</string>
   <string name="action_source_sms_title">Messages bloqués</string>
+  <string name="actionbar_button_up_description">Retour</string>
   <string name="activity_title_antispam">Liste noire</string>
   <string name="activity_title_antivirus">Analyse de sécurité</string>
   <string name="activity_title_apps_manager">Applications</string>
@@ -79,6 +80,7 @@
   <string name="activity_title_virus_settings">Paramètres</string>
   <string name="activity_title_white_list">Exceptions</string>
   <string name="ad_btn_default_text">En savoir plus</string>
+  <string name="ad_floating_window_title">Fermez la fenêtre flottante pour déverrouiller</string>
   <string name="ad_split_screen_title">"Quitter l'écran partagé pour déverrouiller"</string>
   <string name="ad_update_time">Dernière mise à jour: %s</string>
   <string name="ad_update_time_unKnown">Dernière mise à jour inconnue</string>
@@ -106,6 +108,7 @@
   <string name="adjust_traffic_carrier_summary_yesterday">Mis à jour hier à %s</string>
   <string name="adjust_traffic_data">"Définir l'utilisation des données"</string>
   <string name="after_the_lock_screen">"Verrouillez les applications en même temps que l'écran"</string>
+  <string name="afternoon">Après-midi</string>
   <string name="ai_allow_all">Décider pour moi dans tous les cas</string>
   <string name="alert_back_diving_mode_summary">Désactiver le mode immersif maintenant ?</string>
   <string name="alert_back_diving_mode_title">Mode immersif</string>
@@ -827,6 +830,7 @@
   <string name="cleaned">Vidé</string>
   <string name="clear_garbage">"Vider la corbeille pour libérer de l'espace"</string>
   <string name="clear_immediately">Nettoyer maintenant</string>
+  <string name="clearable_edittext_clear_description">Nettoyer</string>
   <string name="close">Fermer</string>
   <string name="close_callwait">Désactivé</string>
   <string name="cmcc_app_check_dialog_message">Redémarrez votre appareil pour terminer la réparation.</string>
@@ -908,6 +912,7 @@ Votre opérateur peut vous facturer des frais supplémentaires si vous activer l
   <string name="data_usage_warning_title_notify">Vous avez dépassé votre limite de données</string>
   <string name="databooster_tips_message">"Activez pour restreindre toutes les cartes SIM à l'exception de la carte de données. Désactivez cette fonction si des erreurs se produisent dans les jeux de votre choix."</string>
   <string name="databooster_tips_title">Attention</string>
+  <string name="date_picker_lunar">Calendrier chinois traditionnel</string>
   <string name="day_overflow_tips">Avertissement dépassement des données journalières</string>
   <string name="debug_open_final_tip">Turn on USB debugging?</string>
   <string name="debug_open_title">This feature is intended for developers and might not be convenient for general users. Turning on USB debugging might bring about the following changes:</string>
@@ -998,6 +1003,10 @@ Il sera ajouté aux exceptions, mais les éléments bloqués précédemment n'ap
   <string name="dlg_no_block_ok">Débloquer</string>
   <string name="dlg_not_block_call">"Débloquer les numéros sélectionnés ? Ils seront ajoutés aux exceptions, mais les éléments précédemment bloqués n'apparaîtront pas dans l'historique des appels."</string>
   <string name="dlg_not_block_sms">"Débloquer les numéros sélectionnés ? Ils seront ajoutés aux exceptions, mais les éléments précédemment bloqués n'apparaîtront pas dans la boîte de réception des messages."</string>
+  <string name="dlg_onlie_service_summary">"La désactivation des services en ligne rendra certaines fonctionnalités de l'application indisponibles. Éteignez quand même ?"</string>
+  <string name="dlg_open_online_service_pos_text">Désactiver</string>
+  <string name="dlg_open_online_service_summary">Certaines fonctionnalités ne seront pas disponibles lorsque les services en ligne sont désactivés. Activer les services en ligne maintenant ?</string>
+  <string name="dlg_open_online_service_title">Services en ligne</string>
   <string name="dlg_remove_address_blacklist">Retirer cette adresse de la liste noire ?</string>
   <string name="dlg_remove_address_whitelist">Retirer cette localisation des exceptions ?</string>
   <string name="dlg_remove_blacklist">Retirer ces numéros de la liste noire ?</string>
@@ -1031,6 +1040,7 @@ Il sera ajouté aux exceptions, mais les éléments bloqués précédemment n'ap
   <string name="downloading">Téléchargement</string>
   <string name="doze_optimization_summary">Augmente la réponse au toucher et la sensibilité</string>
   <string name="doze_optimization_title">Commandes tactiles optimisées</string>
+  <string name="early_morning">Matin</string>
   <string name="email">Email</string>
   <string name="empty_app">Aucune application</string>
   <string name="empty_title_auto_start_list">Aucune application ne peut démarrer automatiquement.</string>
@@ -1042,6 +1052,9 @@ Il sera ajouté aux exceptions, mais les éléments bloqués précédemment n'ap
   <string name="empty_title_root_apps">Aucune application avec accès ROOT.</string>
   <string name="enable_extreme_power_save_mode">Économiseur de batterie extrême</string>
   <string name="enable_network">"Activer le réseau d'abord"</string>
+  <string name="eras_ad">Apr. J.-C.</string>
+  <string name="eras_bc">Av. J.-C.</string>
+  <string name="evening">Après-midi</string>
   <string name="every_day">Tous les jours</string>
   <string name="ew_alert_arrive_location">"Arrivée d'une vague sismique %s"</string>
   <string name="ew_alert_dial_text">"Appel d'urgence
@@ -1116,7 +1129,13 @@ carte médicale"</string>
   <string name="ew_guide_start">Activer</string>
   <string name="ew_guide_start_agree">Activer</string>
   <string name="ew_guide_start_find_area">Rechercher des zones</string>
-  <string name="ew_guide_statement_text">"Cette «clause d'exemption» s'applique à tous les utilisateurs qui ont activé la fonction d'avertissement de tremblement de terre (ci-après dénommée «vous»). En acceptant cette clause, vous serez lié par un contrat légal avec Xiaomi Inc. et ses sociétés affiliées (ci-après dénommées «Xiaomi»). Vous confirmez avoir lu tout le contenu de cette clause d'exemption en détail, et que vous comprenez et acceptez tout le contenu de cette clause d'exemption. Si vous n'acceptez pas le contenu de cette clause d'exemption, vous devez immédiatement désactiver la fonction d'avertissement de tremblement de terre.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;Déclaration spéciale&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; La fonctionnalité d'avertissement de tremblement de terre est désormais disponible dans certaines régions (&amp;lt;a href=\"https://sec-cdn.static.xiaomi.net/secStatic/groups/miui-sec/common/quake-warn/dist/index.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Appuyez pour les afficher&amp;lt;/a&amp;gt;). D'autres régions seront bientôt disponibles.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;Avertissement&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; Les fonctionnalités d'avertissement de tremblement de terre sont fournies par Xiaomi dans l'application Sécurité. Vous devez comprendre que les informations d'alerte sismique sont fournies par les agences gouvernementales d'alerte précoce. Xiaomi ne supervise pas ces agences et n'a aucun contrôle sur elles.&amp;lt;br&amp;gt; Xiaomi ne promet ni ne garantit l'exactitude, la validité et l'actualité des informations d'alerte aux tremblements de terre, et ne garantit pas non plus que le service d'alerte aux tremblements de terre répondra à tous vos besoins.&amp;lt;br&amp;gt; La réception des informations d'avertissement de tremblement de terre vous oblige à garder votre appareil connecté au réseau mobile. Les pannes de ligne de communication de tiers, les problèmes techniques, les pannes de réseau ou d'équipement terminal, l'instabilité du système et d'autres événements de force majeure peuvent vous empêcher de recevoir des informations d'avertissement de tremblement de terre. Xiaomi n'assume aucune responsabilité pour les pertes causées par de tels événements.&amp;lt;br&amp;gt; Vous devez comprendre que cette fonctionnalité est fournie à titre indicatif uniquement. L'avertissement que vous recevez peut survenir quelques secondes avant le début d'un tremblement de terre. Vous êtes seul responsable des risques et des conséquences de toute action que vous effectuez sur la base des informations fournies par cette fonctionnalité.&amp;lt;br&amp;gt;"</string>
+  <string name="ew_guide_start_warning_range">"Des alertes précoces sont fournies pour les zones couvertes par le réseau d'alerte aux tremblements de terre du continent de l'Institut de prévention des catastrophes de haute technologie de Chengdu. Vous pouvez trouver des zones de couverture spécifiques dans les paramètres."</string>
+  <string name="ew_guide_statement_text_new">"Cette clause de non-responsabilité s'applique à tous les utilisateurs (ci-après dénommés « vous ») qui activent la fonction d'avertissement de tremblement de terre. En acceptant cette clause de non-responsabilité, vous concluez un contrat juridiquement contraignant avec Xiaomi Inc. et ses sociétés affiliées (ci-après dénommées « Xiaomi »). Vous reconnaissez que vous avez lu tout le contenu de cette clause de non-responsabilité, et que vous comprenez et acceptez pleinement tous les termes et conditions de cette clause de non-responsabilité; sinon, vous devez désactiver immédiatement la fonction d'avertissement de tremblement de terre.
+Conformément aux lois et réglementations en vigueur, Xiaomi vous fournira des services d'alerte précoce en fonction de l'étendue de la zone de surveillance d'alerte précoce des tremblements de terre couverte par les agences compétentes. Autrement dit, lorsque vous activez la fonctionnalité d'avertissement de tremblement de terre, vous pourrez recevoir des avertissements de tremblement de terre émis pour des zones spécifiques. Vous pouvez trouver des zones de couverture spécifiques dans les paramètres.
+Cette fonction vous offre une fonctionnalité d'avertissement de tremblement de terre. Vous devez comprendre que les informations d'alerte au tremblement de terre sont fournies par le Chengdu Hi-tech Disaster Reduction Institute. Xiaomi ne supervise pas cette organisation et n'a aucun contrôle sur elle.
+Xiaomi ne promet ni ne garantit l'exactitude, la validité et l'actualité des informations d'avertissement de tremblement de terre, ni ne garantit que le service d'alerte de tremblement de terre répondra à tous vos besoins.
+La réception des informations d'avertissement de tremblement de terre vous oblige à garder votre appareil connecté au réseau mobile. Les pannes de ligne de communication de tiers, les problèmes techniques, les pannes de réseau ou d'équipement terminal, l'instabilité du système et d'autres événements de force majeure peuvent vous empêcher de recevoir des informations d'avertissement de tremblement de terre. Xiaomi n'assume aucune responsabilité pour les pertes causées par de tels événements.
+Vous devez comprendre que cette fonctionnalité est fournie à titre indicatif uniquement. L'avertissement que vous recevez peut venir quelques secondes avant le début d'un tremblement de terre. Vous êtes seul responsable des risques et des conséquences de toute action que vous effectuez sur la base des informations fournies par cette fonctionnalité."</string>
   <string name="ew_guide_tips_1">"Vous serez averti des prochains tremblements de terre et du son d'avertissement de vitesse"</string>
   <string name="ew_guide_tips_2">Les informations et les avertissements seront mis à jour pendant le tremblement de terre</string>
   <string name="ew_guide_tips_3">"Vous pourrez trouver le refuge le plus proche, appeler votre contact d'urgence et présenter votre carte médicale si nécessaire"</string>
@@ -1134,7 +1153,8 @@ carte médicale"</string>
   <string name="ew_list_receive_distance">"L'épicentre est à %s km de vous"</string>
   <string name="ew_list_receive_time">Heure de début: %s</string>
   <string name="ew_list_receive_time_title">Heure de début</string>
-  <string name="ew_list_title">Attentions</string>
+  <string name="ew_list_title">Avertissements</string>
+  <string name="ew_location_failed">Localisation inconnue</string>
   <string name="ew_main_close_text">"Vous ne pourrez pas recevoir d'informations à jour sur ce tremblement de terre si vous désactivez l'alerte. Désactiver quand même ?"</string>
   <string name="ew_main_close_title">Attention</string>
   <string name="ew_main_contact_change">Changement</string>
@@ -1344,6 +1364,12 @@ carte médicale"</string>
   <string name="fixed_cellular_data_quota_monthly">Monthly data limit</string>
   <string name="fixed_package_tips">Additional fees will be generated after you reach the limit</string>
   <string name="fixed_traffic_quota">Data limit (mandatory)</string>
+  <string name="fmt_date_long_month_day">dd MMMM</string>
+  <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
+  <string name="fmt_date_numeric_month_day">d/M</string>
+  <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
+  <string name="fmt_date_short_month_day">dd/MM</string>
+  <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
   <string name="fod_authentication_shift_button">Annuler</string>
   <string name="fod_button_finger">Utiliser une empreinte digitale</string>
   <string name="fod_button_password">Saisir le mot de passe</string>
@@ -1351,7 +1377,7 @@ carte médicale"</string>
   <string name="fod_finger_windows_tips">Vérifiez votre empreinte digitale</string>
   <string name="fod_tips_split_screen_more_than_half">Saisir le mot de passe</string>
   <string name="forbid_autobright_summary">La luminosité automatique sera désactivée pendant que vous jouez et restaurée une fois que vous avez terminé</string>
-  <string name="forbid_autobright_title">Ajuster la luminosité de lcran</string>
+  <string name="forbid_autobright_title">"Ajuster la luminosité de l'écran"</string>
   <string name="foreground_traffic">Premier-plan %s</string>
   <string name="forget_password_button_text">Mot de passe oublié</string>
   <string name="forget_password_button_text_normal">Mot de passe oublié</string>
@@ -1367,16 +1393,19 @@ carte médicale"</string>
   <string name="free_time_traffic_settings">"Limite d'utilisation de données en heures creuses"</string>
   <string name="free_time_traffic_title">Entrer la limite de données en heure creuse</string>
   <string name="free_traffic_settings">"Paramètres de l'utilisation de données en heures creuses"</string>
-  <string name="full_fill_oprator_and_location">Provide your carrier info and location</string>
-  <string name="full_fill_sim_location">Set location first</string>
+  <string name="friday">Vendredi</string>
+  <string name="friday_short">Ven</string>
+  <string name="friday_shortest">Ven</string>
+  <string name="full_fill_oprator_and_location">"Fournissez les informations et l'emplacement de votre opérateur"</string>
+  <string name="full_fill_sim_location">"Définir d'abord l'emplacement"</string>
   <string name="fully_informed_privacy">Sensibilisation à la confidentialité</string>
-  <string name="function_auto_reject_detail">"À propos de cette fonctionnalité:
+  <string name="function_auto_reject_detail">"À propos de cette fonctionnalité :
 1. Pendant que vous jouez à des jeux, tous les appels entrants vers la carte SIM sans service de données mobiles seront automatiquement rejetés.
 2. Vous verrez des notifications sur les appels manqués et l'autre personne entendra un message audio indiquant que vous êtes occupé à ce moment-là.
 3. Cette fonctionnalité n'est prise en charge que par les opérateurs de téléphonie mobile en Chine."</string>
   <string name="function_auto_reject_title">Rejeter les appels VoLTE vers les cartes SIM sans service de données</string>
   <string name="function_close">Désactivé</string>
-  <string name="function_gwsd_detail">"À propos de cette fonctionnalité:
+  <string name="function_gwsd_detail">"À propos de cette fonctionnalité :
 1. Lorsque vous utilisez des données mobiles sur une carte SIM de données ou une carte SIM ordinaire connectée à un réseau VoLTE, la connexion ne sera pas interrompue par les appels entrants jusqu'à ce que vous décrochez.
 2. Lorsque cette fonction est activée, l'autre personne ne pourra pas entendre vos tonalités de rappel à moins que vous n'utilisiez une carte SIM ordinaire. Les appels entrants seront rejetés automatiquement après 7 à 10 secondes d'inactivité.
 3. Les cartes SIM de données émises par China Mobile et China Unicom sont prises en charge. Les cartes SIM ordinaires émises par China Mobile, China Unicom et China Telecom sont prises en charge."</string>
@@ -1755,6 +1784,8 @@ de vos sessions de jeu"</string>
   <string name="image_protect_recover_success">Restaurer avec succès</string>
   <string name="image_protect_tips_title">Suppression de photos</string>
   <string name="image_protect_total_activity_label">Recevoir des notifications sur les photos supprimées</string>
+  <string name="in_delete">Suppression…</string>
+  <string name="in_recover">Restauration…</string>
   <string name="info_and_call">Appels et messagerie</string>
   <string name="info_antispam_close">Liste noire est désactivée</string>
   <string name="info_antispam_current_mode">%s</string>
@@ -2039,10 +2070,25 @@ Your device is %d%% faster now."</string>
   <string name="mi_service_app_detail">"Détails de l'utilisation des données"</string>
   <string name="mi_service_traffic_detail">Détails du Framework</string>
   <string name="mian_page_primary_txt">"Itinérance à l'étranger"</string>
+  <string name="midnight">Nuit</string>
   <string name="midrop_post_notification_contentText">"Transférer des fichiers à une vitesse jusqu'à 50 Mbps avec Mi Drop."</string>
   <string name="midrop_post_notification_contentTitle">Besoin de partager des fichiers ?</string>
   <string name="miui_optimization_close_final_tip">"Désactiver l'optimisation MIUI ?"</string>
   <string name="miui_optimization_close_title">This feature is intended for developers and might not be convenient for general users. Turning off MIUI optimization might bring about the following changes:</string>
+  <string name="miuix_appcompat_action_mode_deselect_all">Désélectionner</string>
+  <string name="miuix_appcompat_action_mode_select_all">Tout sélectionner</string>
+  <string name="miuix_appcompat_action_mode_title_empty">Sélectionner des éléments</string>
+  <string name="miuix_appcompat_actionbar_immersion_button_more_description">Plus</string>
+  <string name="miuix_appcompat_cancel_description">Annuler</string>
+  <string name="miuix_appcompat_confirm_description">Confirmer</string>
+  <string name="miuix_appcompat_delete_description">Supprimer</string>
+  <string name="miuix_appcompat_deselect_all">Désélectionner</string>
+  <string name="miuix_appcompat_deselect_all_description">Tout désélectionner</string>
+  <string name="miuix_appcompat_search_action_mode_cancel">Annuler</string>
+  <string name="miuix_appcompat_search_input_description">Rechercher</string>
+  <string name="miuix_appcompat_select_all">Tout sélectionner</string>
+  <string name="miuix_appcompat_select_all_description">Tout sélectionner</string>
+  <string name="miuix_appcompat_select_item">Sélectionner des éléments</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez pour rafraîchir</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualisation…</string>
@@ -2061,12 +2107,53 @@ Your device is %d%% faster now."</string>
   <string name="modify_cellular_type">Tap to select your plan</string>
   <string name="modify_password_mode">Modifier le type de mot de passe</string>
   <string name="modifypassword">Modifier le type de mot de passe</string>
+  <string name="monday">Lundi</string>
+  <string name="monday_short">Lun</string>
+  <string name="monday_shortest">Lun</string>
   <string name="monitor_app_add">Ajouter</string>
   <string name="monitor_app_more">Plus</string>
   <string name="monitor_requests_from_pc">"Gérer l'installation des applications via USB"</string>
+  <string name="month_april">Avril</string>
+  <string name="month_april_short">Avr</string>
+  <string name="month_april_shortest">Avr</string>
+  <string name="month_august">Août</string>
+  <string name="month_august_short">Aoû</string>
+  <string name="month_august_shortest">Aoû</string>
+  <string name="month_december">Décembre</string>
+  <string name="month_december_short">Déc</string>
+  <string name="month_december_shortest">Déc</string>
+  <string name="month_february">Février</string>
+  <string name="month_february_short">Fév</string>
+  <string name="month_february_shortest">Fév</string>
+  <string name="month_january">Janvier</string>
+  <string name="month_january_short">Jan</string>
+  <string name="month_january_shortest">Jan</string>
+  <string name="month_july">Juillet</string>
+  <string name="month_july_short">Jul</string>
+  <string name="month_july_shortest">Jul</string>
+  <string name="month_june">Juin</string>
+  <string name="month_june_short">Jun</string>
+  <string name="month_june_shortest">Jun</string>
+  <string name="month_march">Mars</string>
+  <string name="month_march_short">Mar</string>
+  <string name="month_march_shortest">Mar</string>
+  <string name="month_may">Mai</string>
+  <string name="month_may_short">Mai</string>
+  <string name="month_may_shortest">Mai</string>
+  <string name="month_november">Novembre</string>
+  <string name="month_november_short">Nov</string>
+  <string name="month_november_shortest">Nov</string>
+  <string name="month_october">Octobre</string>
+  <string name="month_october_short">Oct</string>
+  <string name="month_october_shortest">Oct</string>
+  <string name="month_september">Septembre</string>
+  <string name="month_september_short">Sep</string>
+  <string name="month_september_shortest">Sep</string>
+  <string name="more">Plus</string>
   <string name="more_game">Plus de Jeux</string>
   <string name="more_lock">Plus</string>
   <string name="more_settings">Plus</string>
+  <string name="morning">Matin</string>
   <string name="mtp_ptp_mode_summary">MTP or PTP is active</string>
   <string name="na_main_card_ad_subtitle">Lots of data, free calls, low rates</string>
   <string name="na_main_card_ad_text">Find a plan that suits you</string>
@@ -2149,11 +2236,13 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
   <string name="never">1 fois</string>
   <string name="news_change">Changer</string>
   <string name="nickname">Surnom</string>
+  <string name="night">Soirée</string>
   <string name="no_game">Impossible de trouver des jeux</string>
   <string name="no_open">Pas maintenant</string>
+  <string name="noon">Midi</string>
   <string name="not_limited_brand">Illimité</string>
   <string name="not_set">Non défini</string>
-  <string name="not_settled">Not set</string>
+  <string name="not_settled">Non paramétré</string>
   <string name="note">Note</string>
   <string name="note_call_none">Aucun appel</string>
   <string name="note_list_none">La liste est vide</string>
@@ -3137,7 +3226,7 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
   <string name="privacy_show_password_summary">Gardez les mots de passe visibles pendant une courte période</string>
   <string name="privacy_special_permission_summary">Surveillez la façon dont les applications utilisent les permissions sensibles</string>
   <string name="privacy_special_permission_title">Permissions spéciales</string>
-  <string name="privacy_summary">En savoir plus sur la protection de la vie privée dans MIUI 12</string>
+  <string name="privacy_summary">En savoir plus sur la protection de la vie privée dans MIUI</string>
   <string name="privacy_type_open">Activé</string>
   <string name="privacy_using_camera">"Utilisation de l'appareil photo"</string>
   <string name="privacy_using_location">Accéder à la localisation</string>
@@ -3273,6 +3362,9 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
   <string name="safe_result_item_info_system_version">MIUI est à jour</string>
   <string name="safepay_alert_dialog_button_continue">Continuer</string>
   <string name="safepay_alert_dialog_button_fix">Réparer</string>
+  <string name="saturday">Samedi</string>
+  <string name="saturday_short">Sam</string>
+  <string name="saturday_shortest">Sam</string>
   <string name="save_mode_btn_ok">"C'est compris</string>
   <string name="sc_allow_network_dialog_message">"Vous avez limité la connexion réseau et l'accès à votre localisation pour l'application Sécurité. Accordez à l'application Sécurité les permissions requises pour utiliser cette fonctionnalité."</string>
   <string name="sc_allow_network_dialog_tiltle">"Impossible d'utiliser cette fonctionnalité"</string>
@@ -3324,6 +3416,7 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
   <string name="set_traffic_tips">Set your data plan to manage mobile data usage and avoid additional carrier fees</string>
   <string name="setting">Paramètres</string>
   <string name="Setting_lock">Paramètres</string>
+  <string name="setting_online_service">Services en ligne</string>
   <string name="setting_privacy_password">Ajouter un schéma</string>
   <string name="settings">"Paramètres d'utilisation des données"</string>
   <string name="settings_battery_consume_abnormal_summary">Recevoir des notifications lorsque la batterie se décharge rapidement</string>
@@ -3400,6 +3493,30 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
   <string name="sms_service">Bloquer les messages de services</string>
   <string name="sms_smart_engine_update">Mettre à jour automatiquement le filtre des SMS</string>
   <string name="sms_smart_engine_update_now">Mettre à jour</string>
+  <string name="solar_term_autumn_begins">"Début de l'automne"</string>
+  <string name="solar_term_autumn_equinox">"Équinoxe d'automne"</string>
+  <string name="solar_term_clear_and_bright">Pure lumière</string>
+  <string name="solar_term_cold_dews">Rosée froide</string>
+  <string name="solar_term_grain_buds">Petite plénitude</string>
+  <string name="solar_term_grain_in_ear">Grains en épis</string>
+  <string name="solar_term_grain_rain">Pluie pour les céréales</string>
+  <string name="solar_term_great_cold">Grand froid</string>
+  <string name="solar_term_great_heat">Grande canicule</string>
+  <string name="solar_term_heavy_snow">Grande neige</string>
+  <string name="solar_term_hoar_frost_falls">Descente du givre</string>
+  <string name="solar_term_insects_awaken">Éveil des insectes</string>
+  <string name="solar_term_light_snow">Petite neige</string>
+  <string name="solar_term_slight_cold">Petit froid</string>
+  <string name="solar_term_slight_heat">Petite canicule</string>
+  <string name="solar_term_spring_begins">Début du printemps</string>
+  <string name="solar_term_stopping_the_heat">Arrêt de la canicule</string>
+  <string name="solar_term_summer_begins">"Début de l'été"</string>
+  <string name="solar_term_summer_solstice">"Solstice d'été"</string>
+  <string name="solar_term_the_rains">Eau et pluie</string>
+  <string name="solar_term_vernal_equinox">Équinoxe de printemps</string>
+  <string name="solar_term_white_dews">Rosée blanche</string>
+  <string name="solar_term_winter_begins">"Début de l'hiver"</string>
+  <string name="solar_term_winter_solstice">"Solstice d'hiver"</string>
   <string name="sms_stranger_block">Bloqué</string>
   <string name="SMSpass">Autoriser les SMS</string>
   <string name="sorted_dialog_title">Trier par</string>
@@ -3761,6 +3878,9 @@ Formatting will erase existing content on the ^2. To avoid losing content, back 
   <string name="summary_virus_cloudscan">Télécharger le nom et les détails des applications et les définitions de virus en ligne</string>
   <string name="summary_virus_update">Obtenir la dernière définition des virus automatiquement</string>
   <string name="summary_xiaomi_roaming">0,01 CNY / Mo pour les données mobilles en itinérance.</string>
+  <string name="sunday">Dimanche</string>
+  <string name="sunday_short">Dim</string>
+  <string name="sunday_shortest">Dim</string>
   <string name="superpower_dialog_button_disable_dialog">"Ne plus afficher"</string>
   <string name="superpower_dialog_button_ok">OK</string>
   <string name="superpower_dialog_massage">"L'économiseur de batterie ultra restreint la plupart des fonctionnalités énergivores et diminue les performances de votre appareil afin de laisser les fonctionnalités de base (appels, SMS et connexion au réseau, par exemple) disponibles le plus longtemps possible. Activer l'économiseur de batterie ultra ?"</string>
@@ -3924,6 +4044,46 @@ Formatting will erase existing content on the ^2. To avoid losing content, back 
   <string name="text_button">Compris</string>
   <string name="text_done">OK</string>
   <string name="text_security">Privé</string>
+  <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
+  <string name="the_anti_aggression_day">Anti-Aggression Day</string>
+  <string name="the_arbor_day">Arbor Day</string>
+  <string name="the_armed_forces_day">Armed Forces Day</string>
+  <string name="the_armys_day">PLA Day</string>
+  <string name="the_childrens_day">"Children's Day"</string>
+  <string name="the_chinese_youth_day">Youth Day</string>
+  <string name="the_christmas_day">Christmas</string>
+  <string name="the_double_ninth_festival">Double Ninth Festival</string>
+  <string name="the_dragon_boat_festival">Dragon Boat Festival</string>
+  <string name="the_easter_day">Easter</string>
+  <string name="the_eve_of_the_spring_festival">Eve of Chinese New Year</string>
+  <string name="the_fifth_day">Fifth day of Chinese New Year</string>
+  <string name="the_fools_day">"April Fool's Day"</string>
+  <string name="the_forth_day">Fourth day of Chinese New Year</string>
+  <string name="the_hksar_establishment_day">Hong Kong SAR Establishment Day</string>
+  <string name="the_international_womens_day">"Women's Day"</string>
+  <string name="the_laba_festival">Laba Festival</string>
+  <string name="the_labour_day">Labor Day</string>
+  <string name="the_lantern_festival">Lantern Festival</string>
+  <string name="the_mid_autumn_festival">Mid-Autumn Festival</string>
+  <string name="the_national_day">National Day</string>
+  <string name="the_national_father_day">"Sun Yat-sen's Birthday"</string>
+  <string name="the_new_years_day">New Year</string>
+  <string name="the_night_of_sevens">Qixi Festival</string>
+  <string name="the_partys_day">CPC Day</string>
+  <string name="the_peace_day">Remembrance Day</string>
+  <string name="the_retrocession_day">Retrocession Day</string>
+  <string name="the_second_day">Second day of Chinese New Year</string>
+  <string name="the_seventh_day">Seventh day of Chinese New Year</string>
+  <string name="the_sixth_day">Sixth day of Chinese New Year</string>
+  <string name="the_spirit_festival">Ghost Festival</string>
+  <string name="the_spring_festival">Chinese New Year</string>
+  <string name="the_teachers_day">"Teachers' Day"</string>
+  <string name="the_third_day">Third day of Chinese New Year</string>
+  <string name="the_tw_childrens_day">"Children's Day"</string>
+  <string name="the_tw_youth_day">Youth Day</string>
+  <string name="the_united_nations_day">United Nations Day</string>
+  <string name="the_valentines_day">"Valentine's Day"</string>
+  <string name="the_water_lantern_festival">Water Lantern Festival</string>
   <string name="thermal_tips_message">Jouer à des jeux en mode Performance peut entraîner des problèmes de surchauffe.</string>
   <string name="thermal_tips_title">Attention</string>
   <string name="third_application">Applications installées</string>
@@ -3931,7 +4091,11 @@ Formatting will erase existing content on the ^2. To avoid losing content, back 
   <string name="third_desktop_dialog_ok">Compris</string>
   <string name="third_desktop_dialog_title">Erreur</string>
   <string name="three_percent_total_pkg">%s (3%% de données mensuelles)</string>
-  <string name="tips_dialog_title">Connaissez pas votre limite ?</string>
+  <string name="thursday">Jeudi</string>
+  <string name="thursday_short">Jeu</string>
+  <string name="thursday_shortest">Jeu</string>
+  <string name="time_picker_dialog_title">"Régler l'heure"</string>
+  <string name="tips_dialog_title">Vous ne connaissez pas votre limite ?</string>
   <string name="tips_message">Pour afficher les détails de votre forfait de données, composez %2$s (%1$s).</string>
   <string name="tips_of_app_manage">Supprimer les applications rarement utilisées pour libérer de la mémoire</string>
   <string name="tips_of_auto_launch_manage">Empêcher les applications rarement utilisées de démarrer automatiquement</string>
@@ -4023,6 +4187,8 @@ Formatting will erase existing content on the ^2. To avoid losing content, back 
   <string name="toast_update_nonetwork">Impossible de se connecter au réseau</string>
   <string name="toast_update_notneed">À jour</string>
   <string name="toast_update_success">Mis à jour avec succès</string>
+  <string name="today">"Aujourd'hui"</string>
+  <string name="tomorrow">Demain</string>
   <string name="top_game">Meilleurs jeux</string>
   <string name="top_load_fail_detail">Impossible de charger les informations, appuyez pour réessayer</string>
   <string name="top_no_network_detial">Impossible de charger, vérifiez la connexion réseau puis réessayez</string>
@@ -4094,6 +4260,9 @@ Le volume de données restant inclut l'excédent du mois précédent."</string>
   <string name="traffic_warning_purchase_title">"Avertissement de l'utilisation de données cellulaires"</string>
   <string name="try_game">Essayer</string>
   <string name="try_recommended_function">Protégez votre appareil en utilisant les nouvelles fonctionnalités de sécurité</string>
+  <string name="tuesday">Mardi</string>
+  <string name="tuesday_short">Mar</string>
+  <string name="tuesday_shortest">Mar</string>
   <string name="two_address_choose_hint">%1$s et %2$s</string>
   <string name="unable_connect_internet">Pas de connexion internet</string>
   <string name="uninstall_app_dialog_msg">"La désinstallation va supprimer toutes les données de l'application."</string>
@@ -4283,6 +4452,9 @@ Le volume de données restant inclut l'excédent du mois précédent."</string>
   <string name="warningcenter_smarthome">Mi Home</string>
   <string name="warningcenter_title">"Centre d'avertissement MIUI"</string>
   <string name="website">Site Web</string>
+  <string name="wednesday">Mercredi</string>
+  <string name="wednesday_short">Mer</string>
+  <string name="wednesday_shortest">Mer</string>
   <string name="whitelist_prefix_add_hint">Ajouter tous les numéros avec préfixe aux exceptions</string>
   <string name="wifi_danger_dialog_messgae">Current WLAN network might pose security risks. Use it with caution.</string>
   <string name="wifi_danger_dialog_tips">You can manage WLAN security in Security &gt; Security scan &gt; Settings &gt; WLAN.</string>
@@ -4311,4 +4483,5 @@ Le volume de données restant inclut l'excédent du mois précédent."</string>
   <string name="xunyou_net_booster_detail">"Utiliser les services d'augmentation de vitesse Xunyou pour les jeux"</string>
   <string name="xunyou_pay_webview">Services Xunyou</string>
   <string name="xunyou_server_expired">La session a expiré.</string>
+  <string name="yesterday">Hier</string>
 </resources>
