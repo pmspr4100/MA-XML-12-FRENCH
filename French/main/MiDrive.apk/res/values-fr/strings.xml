@@ -335,16 +335,16 @@ Make sure you're using the current Mi Account as your MIUI system account."</str
   <string name="upload_metered_network_dialog_title">Using mobile data</string>
   <string name="uploading">Uploading</string>
   <string name="user_agreement_title">Mi Drive User Agreement</string>
-  <string name="user_protocol_and_privacy_protocol">"I've read and agreed to User Agreement and Privacy Policy."</string>
-  <string name="v7_preference_off">OFF</string>
-  <string name="v7_preference_on">ON</string>
-  <string name="video_picker_title">Select videos</string>
-  <string name="view_type">View</string>
-  <string name="waiting_download">Pending</string>
-  <string name="waiting_network">Waiting for connection</string>
-  <string name="waiting_upload">Pending</string>
-  <string name="warning_bar_title_cloud_space_already_full">Cloud storage is almost full. Photos might not be synced.</string>
-  <string name="warning_bar_title_cloud_space_full">"Cloud storage is full. Can't sync photos, call history, or other items."</string>
+  <string name="user_protocol_and_privacy_protocol"><Data>"J'au lu et accepté l'&lt;a href=\"%1$s\">Agrément utilisateur&lt;/a> et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>."</Data></string>
+  <string name="v7_preference_off">DÉSACTIVÉ</string>
+  <string name="v7_preference_on">ACTIVÉ</string>
+  <string name="video_picker_title">Sélectionner des vidéos</string>
+  <string name="view_type">Afficher</string>
+  <string name="waiting_download">En attente</string>
+  <string name="waiting_network">"En attente d'une connexion"</string>
+  <string name="waiting_upload">En attente</string>
+  <string name="warning_bar_title_cloud_space_already_full">"L'espace de stockage de Xiaomi Cloud est bientôt plein. Vos photos pourraient ne pas être synchronisées."</string>
+  <string name="warning_bar_title_cloud_space_full">"Le cloud est plein. Impossible de synchroniser les photos, l'historique des appels et d'autres éléments."</string>
   <string name="year_month_day_format">dd MMMM, yyyy</string>
   <string name="yesterday">Yesterday</string>
 </resources>

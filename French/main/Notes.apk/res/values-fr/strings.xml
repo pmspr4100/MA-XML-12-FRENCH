@@ -60,6 +60,7 @@
   <string name="audio_toast_file_invalid">"Le fichier audio n'est pas valide"</string>
   <string name="audio_toast_file_undownload">"Le fichier audio n'est pas entièrement téléchargé ou a des parties manquantes"</string>
   <string name="audio_toast_network_is_not_available">Impossible de se connecter au réseau</string>
+  <string name="blackboard_note">Tableau noir intelligent</string>
   <string name="btn_next">Suivant</string>
   <string name="call_folder_name">"Notes d'appels"</string>
   <string name="cancel_alarm_description">"Annuler l'alarme"</string>
@@ -93,6 +94,7 @@
   <string name="db_downgrade_clear_button">"Effacer les données de l'application"</string>
   <string name="db_downgrade_clear_date_reminder">"Passer à une version différente de MIUI nécessite l'effacement des données de l'application pour les notes. Avant de le faire, assurez-vous d'avoir sauvegardé vos notes sur le Cloud."</string>
   <string name="default_folder_name">Dossier sans nom</string>
+  <string name="default_update_documents">Une mise à jour est disponible. Mettre à jour maintenant ?</string>
   <string name="delete_folder_dialog_tile">Supprimer le dossier</string>
   <string name="dialog_button_cancel">Annuler</string>
   <string name="dialog_button_close">Fermer</string>
@@ -334,6 +336,10 @@
   <string name="note_link_select">Sélectionner le texte</string>
   <string name="note_link_tel">Appeler</string>
   <string name="note_link_web">Afficher dans le navigateur</string>
+  <string name="note_mindnote_entrance_hint">"Commencer à écrire "</string>
+  <string name="note_mindnote_entrance_hint_newversion">"Commencer à écrire "</string>
+  <string name="note_mindnote_entrance_icon_text">Créer une carte mentale</string>
+  <string name="note_mindnote_entrance_icon_text_newversion">Créer une carte mentale</string>
   <string name="note_sort_way">Mode de tri de vos notes</string>
   <string name="notealert_enter">Ouvrir une note</string>
   <string name="notealert_ok">Ignorer</string>
