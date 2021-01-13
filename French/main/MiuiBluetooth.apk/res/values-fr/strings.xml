@@ -91,6 +91,10 @@
   <string name="bluetooth_disconnecting">Dissociation…</string>
   <string name="bluetooth_dun_profile_summary_connected">"Connecté au serveur d'accès par ligne commutée"</string>
   <string name="bluetooth_dun_profile_summary_use_for">"Utilisé pour l'accès réseau par ligne commutée"</string>
+  <string name="bluetooth_enable_gabeldorsche">Activer Gabeldorsche</string>
+  <string name="bluetooth_enable_gabeldorsche_summary">Active la pile de fonctionnalités Gabeldorsche.</string>
+  <string name="bluetooth_enable_page_scan">"activer l'analyse de page Bluetooth"</string>
+  <string name="bluetooth_enable_page_scan_summary">"désactiver/activer l'analyse de page pour le test Bluetooth"</string>
   <string name="bluetooth_headset_profile_summary_connected">"Connecté à l'audio du téléphone"</string>
   <string name="bluetooth_headset_profile_summary_use_for">"Utilisé pour l'audio du téléphone"</string>
   <string name="bluetooth_hearing_aid_profile_summary_connected">"Connecté à l'audioprothèse"</string>
@@ -299,6 +303,8 @@ Selection"</string>
   <string name="headset_fw_error_failed">Impossible de mettre à jour. Les informations du micrologiciel sont incorrectes.</string>
   <string name="headset_fw_file_position_failed">"Impossible d'accéder au fichier"</string>
   <string name="headset_fw_file_readfailed">"Impossible d'obtenir les informations de mise à jour"</string>
+  <string name="headset_loss_notify_summary">"Il semble qu'au moins un de vos écouteurs ne soit pas dans l'étui de chargement. Jetez un œil !"</string>
+  <string name="headset_loss_notify_title">"Alerte d'écouteur manquant"</string>
   <string name="headset_read_fw_state">"Impossible d'obtenir les informations de mise à jour"</string>
   <string name="headset_update_failed">Impossible de mettre à jour</string>
   <string name="headset_update_ok">Terminé</string>

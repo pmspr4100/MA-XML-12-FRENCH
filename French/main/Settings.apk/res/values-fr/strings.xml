@@ -1048,6 +1048,10 @@ Applications:
   <string name="bluetooth_empty_list_user_restricted">"Vous n'êtes pas autorisé à modifier les paramètres Bluetooth."</string>
   <string name="bluetooth_enable">Bluetooth</string>
   <string name="bluetooth_enable_alphanumeric_pin">Le code PIN contient des lettres ou des symboles.</string>
+  <string name="bluetooth_enable_gabeldorsche">Activer Gabeldorsche</string>
+  <string name="bluetooth_enable_gabeldorsche_summary">Active la pile de fonctionnalités Gabeldorsche.</string>
+  <string name="bluetooth_enable_page_scan">"activer l'analyse de page Bluetooth"</string>
+  <string name="bluetooth_enable_page_scan_summary">"désactiver/activer l'analyse de page pour le test Bluetooth"</string>
   <string name="bluetooth_enter_passkey_msg">Saisissez le code de couplage, puis appuyez sur Retour ou Entrée</string>
   <string name="bluetooth_enter_passkey_other_device">"Vous devrez peut-être également saisir ce mot de passe sur l'autre appareil."</string>
   <string name="bluetooth_enter_pin_other_device">"Vous devrez peut-être également saisir ce code sur l'autre appareil."</string>
@@ -6913,6 +6917,9 @@ Essayez d'utiliser un périphérique ^3 plus rapide, ou utilisez à la place ^4 
   <string name="swipe_up_to_switch_apps_title">"Balayer l'écran vers le haut depuis le bouton d'accueil"</string>
   <string name="switch_access_service_on">"Changer d'accès"</string>
   <string name="switch_bootup_sound">Son de démarrage</string>
+  <string name="switch_headset_anti_lost">"Alerte d'écouteur manquant"</string>
+  <string name="switch_headset_anti_lost_summary">"Recevez une alerte chaque fois que l'un de vos écouteurs est éloigné de votre oreille ou de votre étui de chargement pendant plus d'une minute"</string>
+  <string name="switch_headset_anti_lost_title">"Alerte d'écouteur manquant"</string>
   <string name="switch_off_text">Désactivé</string>
   <string name="switch_on_text">Activé</string>
   <string name="switch_screen_button_order">Inversion des boutons</string>
@@ -8021,6 +8028,8 @@ Merci de prendre connaissance de la politique de données personnells de votre f
   <string name="wifi_empty_list_wifi_on">Recherche de réseaux Wi-Fi…</string>
   <string name="wifi_enable">Wi-Fi</string>
   <string name="wifi_enable_watchdog_service_summary">Éviter les connexions de qualité médiocre</string>
+  <string name="wifi_enhanced_handover">Transfert amélioré</string>
+  <string name="wifi_enhanced_handover_summary">"Basculez rapidement entre différents points d'accès"</string>
   <string name="wifi_error">Erreur</string>
   <string name="wifi_fail_to_scan">Impossible de rechercher les réseaux</string>
   <string name="wifi_failed_connect_message">Échec de la connexion au réseau.</string>
