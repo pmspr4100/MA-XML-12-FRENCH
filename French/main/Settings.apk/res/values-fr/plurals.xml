@@ -236,6 +236,10 @@
     <item quantity="other">%d ajoutés</item>
     <item quantity="one">%d ajouté</item>
   </plurals>
+  <plurals name="miui_wifi_wakeup_summary">
+    <item quantity="other">"Le Wi-Fi sera activé automatiquement lorsque votre appareil détecte des réseaux enregistrés à proximité et désactivé après %d minutes si aucune connexion n'est établie"</item>
+    <item quantity="one">"Le Wi-Fi sera activé automatiquement lorsque votre appareil détecte des réseaux enregistrés à proximité et désactivé après %d minute si aucune connexion n'est établie"</item>
+  </plurals>
   <plurals name="mobile_network_summary_count">
     <item quantity="other">%1$d cartes SIM</item>
     <item quantity="one">%1$d carte SIM</item>
