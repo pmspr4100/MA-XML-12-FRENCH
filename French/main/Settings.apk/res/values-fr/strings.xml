@@ -255,7 +255,7 @@ Pour basculer entre les services, balayez vers le haut avec deux doigts et maint
   <string name="activating">Activation…</string>
   <string name="active_device_admin_msg">"Application d'administration de l'appareil"</string>
   <string name="active_input_method_subtypes">Méthode de saisie active</string>
-  <string name="activity_check_context">"Your device is trying to connect to the internet now. This process might take longer than expected if you're using mobile data. You can go back and connect to a WLAN network instead, or keep waiting until the mobile data connection is established."</string>
+  <string name="activity_check_context">"Your device is trying to connect to the internet now. This process might take longer than expected if you're using mobile data. You can go back and connect to a Wi-Fi network instead, or keep waiting until the mobile data connection is established."</string>
   <string name="activity_check_title">Connecting to the internet</string>
   <string name="activity_list_empty">Aucune activité correspondante trouvée.</string>
   <string name="activity_not_found">"L'application n'est pas installée sur votre téléphone."</string>
@@ -2168,9 +2168,9 @@ Pour résoudre le problème, vous pouvez arrêter %1$s et l'empêcher de s'exéc
   <string name="dialog_background_check_title">"Désactiver l'exécution en arrière-plan et arrêter l'appli ?"</string>
   <string name="dialog_backup_title">"Mettre à jour les sauvegardes avant d'effectuer la réinitialisation d'usine ?"</string>
   <string name="dialog_check_button_negative">Try again</string>
-  <string name="dialog_check_button_positive">Connect to WLAN</string>
+  <string name="dialog_check_button_positive">Connect to Wi-Fi</string>
   <string name="dialog_check_context">"Your device can't connect to the internet now.
-1. Tap \"Connect to WLAN\" to select one of the available networks.
+1. Tap \"Connect to Wi-Fi\" to select one of the available networks.
 2. If you want to use mobile data, tap \"Try again\" or remove and reinsert your SIM card."</string>
   <string name="dialog_check_title">"Can't connect to the internet"</string>
   <string name="dialog_chose_item">Sélectionner un élément à afficher</string>
@@ -2207,7 +2207,7 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
   <string name="dialog_title_login">Se connecter à votre compte Mi</string>
   <string name="dialog_wifi_button_negative">No</string>
   <string name="dialog_wifi_button_positive">Yes</string>
-  <string name="dialog_wifi_context">You need to connect to the the internet to set up your device. Unless you connect to WLAN, mobile data might be used. Using mobile data might generate additional carrier fees. Use mobile data anyway?</string>
+  <string name="dialog_wifi_context">You need to connect to the the internet to set up your device. Unless you connect to Wi-Fi, mobile data might be used. Using mobile data might generate additional carrier fees. Use mobile data anyway?</string>
   <string name="dialog_wifi_title">Using mobile data</string>
   <string name="dialog_yes">Oui</string>
   <string name="direct_boot_unaware_dialog_message">"Remarque : vous ne pourrez utiliser ce clavier qu'après un redémarrage uniquement si vous déverrouillez votre appareil"</string>
@@ -4969,7 +4969,7 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
   <string name="partial_connectivity_text">"Certaines applications et certains services peuvent ne pas fonctionner en raison d'une connectivité limitée. Utiliser quand même ?"</string>
   <string name="passpoint_content">Identifiants de \"%1$s\"</string>
   <string name="passpoint_label">Enregistré via</string>
-  <string name="passpoint_r1_privacy_dialog_message">"This WLAN service is provided by exands. It allows you to connect to supported nearby hotspots automatically.
+  <string name="passpoint_r1_privacy_dialog_message">"This Wi-Fi service is provided by exands. It allows you to connect to supported nearby hotspots automatically.
 
 Read and agree to %s before using this service."</string>
   <string name="passpoint_r1_privacy_dialog_no">Quitter</string>
@@ -6057,7 +6057,7 @@ Pour épingler l'écran :
   <string name="search_wifi_menu_wps_pin">Entrée du code WPS;WPS;Code WPS</string>
   <string name="search_wifi_scan_always_available">Recherche toujours disponible;Rechercher des réseaux;Rechercher Wi-Fi;Rechercher Wi-Fi</string>
   <string name="search_wifi_setting_frequency_band_title">Bande de fréquence Wi-Fi;Fréquence Wi-Fi;Fréquence Wi-Fi;Fréquence Wi-Fi;Bande de fréquence</string>
-  <string name="search_wifi_setting_sleep_policy_title">Garder le Wi-Fi activé en mode veille;Garder le Wi-Fi activé en mode veille;Garder le Wi-Fi activé en mode veille;Wi-Fi activé pendant le mode veille;Wi-Fi activé pendant le mode veille;WLAN activé pendant le mode veille</string>
+  <string name="search_wifi_setting_sleep_policy_title">Garder le Wi-Fi activé en mode veille;Garder le Wi-Fi activé en mode veille;Garder le Wi-Fi activé en mode veille;Wi-Fi activé pendant le mode veille;Wi-Fi activé pendant le mode veille;Wi-Fi activé pendant le mode veille</string>
   <string name="search_wifi_settings_title">Wi-Fi;Wi-Fi;Paramètres additionnels;Wi-Fi;Réseaux sans fil;Sans fil</string>
   <string name="search_wifi_tether_checkbox">"Point d'accès;Point d'accès;mobile"</string>
   <string name="search_wifi_tether_configure_ap_text">"Configurer le point d'accès;Définir un point d'accès;Ajouter un point d'accès;Configurer un point d'accès"</string>
@@ -7942,8 +7942,8 @@ Merci de prendre connaissance de la politique de données personnells de votre f
   <string name="wifi_details_subnet_mask">Masque de sous-réseau</string>
   <string name="wifi_details_title">Détails du réseau</string>
   <string name="wifi_dialog_remind_type_title">Réseau de données cellulaires</string>
-  <string name="wifi_direct_close_hotspot_hint">Turn off portable hotspot before using WLAN Direct</string>
-  <string name="wifi_direct_close_slave_wifi_hint">Disconnect from auxiliary WLAN before using WLAN Direct</string>
+  <string name="wifi_direct_close_hotspot_hint">Turn off portable hotspot before using Wi-Fi Direct</string>
+  <string name="wifi_direct_close_slave_wifi_hint">Disconnect from auxiliary Wi-Fi before using Wi-Fi Direct</string>
   <string name="wifi_disabled_by_recommendation_provider">"Pas connecté à cause d'un réseau de mauvaise qualité"</string>
   <string name="wifi_disabled_generic">Désactivé</string>
   <string name="wifi_disabled_help">"Le réseau a été déconnecté à cause d'un signal trop faible"</string>
@@ -8179,7 +8179,7 @@ Merci de prendre connaissance de la politique de données personnells de votre f
   <string name="wifi_scan_always_available_summary">"Autoriser le service de localisation de Google et d'autres applications à rechercher des réseaux, même lorsque le Wi-Fi est désactivé"</string>
   <string name="wifi_scan_always_confirm_allow">Autoriser</string>
   <string name="wifi_scan_always_confirm_deny">Refuser</string>
-  <string name="wifi_scan_always_turn_on_message_unknown">"To improve location accuracy and for other purposes, an unknown app wants to turn on network scanning, even when WLAN is off.
+  <string name="wifi_scan_always_turn_on_message_unknown">"To improve location accuracy and for other purposes, an unknown app wants to turn on network scanning, even when Wi-Fi is off.
 
 Allow this for all apps that want to scan?"</string>
   <string name="wifi_scan_always_turnoff_message">Pour désactiver cette option, sélectionnez \"Paramètres additionnels\" dans le menu à développer.</string>
@@ -8289,12 +8289,12 @@ Allow this for all apps that want to scan?"</string>
   <string name="wifi_ssid_length_is_max">"SSID peut contenir jusqu'à 32 caractères"</string>
   <string name="wifi_ssid_too_long">Le nom du réseau est trop long.</string>
   <string name="wifi_starting">Activation…</string>
-  <string name="wifi_state_label">État WLAN :</string>
+  <string name="wifi_state_label">État Wi-Fi :</string>
   <string name="wifi_status">État</string>
   <string name="wifi_status_mac_randomized">Adresse MAC randomisée</string>
   <string name="wifi_status_no_internet">"Pas d'internet"</string>
   <string name="wifi_status_sign_in_required">Connexion requise</string>
-  <string name="wifi_status_test">Statut WLAN</string>
+  <string name="wifi_status_test">Statut Wi-Fi</string>
   <string name="wifi_stopping">Désactivation…</string>
   <string name="wifi_subnet_mask">Masque de sous-réseau</string>
   <string name="wifi_subscribed_access_points_tab">Abonnements</string>
