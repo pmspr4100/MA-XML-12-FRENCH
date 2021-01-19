@@ -19,8 +19,8 @@
         <item quantity="other">Immédiatement</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">dans %d min</item>
-        <item quantity="one">dans 1 min</item>
+        <item quantity="other">Dans %d min</item>
+        <item quantity="one">Dans 1 min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">"À l'instant"</item>
@@ -50,7 +50,7 @@
         <item quantity="one">Sélectionné %d raison</item>
     </plurals>
     <plurals name="half_hour_ago">
-        <item quantity="other">Il y a une demi-heure</item>
+        <item quantity="other">Il y a 1 demi-heure</item>
     </plurals>
     <plurals name="hot_word_hot_count">
         <item quantity="other">%d vues</item>
@@ -96,8 +96,8 @@
         <item quantity="one">Après %d seconde, une nouvelle page sera automatiquement créée</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">%d minutes ago</item>
-        <item quantity="one">1 minute ago</item>
+        <item quantity="other">Il y a %d minutes</item>
+        <item quantity="one">Il y a 1 minute</item>
     </plurals>
     <plurals name="transfer_prompt">
         <item quantity="other">Lire la vidéo dans %1$d secondes</item>
