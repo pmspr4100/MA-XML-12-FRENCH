@@ -79,7 +79,7 @@
   <string name="altitude">Altitude</string>
   <string name="altitude_pressure_hint">"*L'altitude calculée en fonction de la pression atmosphérique est approximative"</string>
   <string name="altitude_range">Altitude</string>
-  <string name="app_name">MiaoCourse</string>
+  <string name="app_name">ILogger</string>
   <string name="app_setting">Applications</string>
   <string name="audio_permission_dialog_desc">"La permission d'enregistrement audio a été retirée, merci de la redonner."</string>
   <string name="audio_permission_dialog_title">"Donner la permission d'enregistrer l'audio"</string>
@@ -337,6 +337,7 @@ Mi Santé ne vous informera que des articles importants."</string>
   <string name="dialog_keep">Conserver</string>
   <string name="dialog_known">Compris</string>
   <string name="dialog_menstruation_purpose">"Bienvenue sur Mi Santé ! \"Règles menstruelles\" vous permet d'enregistrer vos règles, de déterminer les dates estimées des règles à venir et de recevoir des rappels. Toutes les données associées seront stockées localement sur votre appareil, ce qui vous permet de les gérer facilement."</string>
+  <string name="dialog_new_version_title">Une mise à jour est disponible</string>
   <string name="dialog_no_more_prompt">Ne plus afficher</string>
   <string name="dialog_ok">OK</string>
   <string name="dialog_open">Autoriser</string>
@@ -356,6 +357,7 @@ Mi Santé ne vous informera que des articles importants."</string>
   <string name="dialog_user_agreement_purpose2">"Bienvenue sur Xiaomi Santé, vous pouvez utiliser cette application pour le podomètre de sport, le sommeil, l'enregistrement menstruel, le suivi du poids, le service Xiaomi Santé Cloud et d'autres fonctions."</string>
   <string name="diastolic_pressure">Diastolique</string>
   <string name="disable">Désactivé</string>
+  <string name="discard_update">Non merci</string>
   <string name="drag_sort">Réorganiser</string>
   <string name="dream_talk">Discussion %1$s</string>
   <string name="dream_talk_record">Vous avez parlé durant votre sommeil et nous vous avons enregistré</string>
@@ -462,6 +464,7 @@ S'il vous est encore difficile de vous endormir après 30 minutes au lit, rédui
   <string name="feedback_need_permission_msg">Autoriser Mi Santé à écrire sur un stockage externe pour pouvoir générer des journaux utilisés pour les commentaires.</string>
   <string name="feedback_permission_denied_msg">"Mi Santé ne peut pas enregistrer les journaux sur un stockage externe. Donnez à Mi Santé les autorisations requises dans les paramètres."</string>
   <string name="fewer">Peu</string>
+  <string name="find_new_verision">La version %s est à présent disponible</string>
   <string name="finish">Terminé</string>
   <string name="finish_stand">finish stand</string>
   <string name="finish_stand2">Standing up</string>
@@ -613,6 +616,7 @@ Recommencer."</string>
   <string name="hr_strength_lowest">Le plus bas</string>
   <string name="hr_strength_mid">Moyen</string>
   <string name="icon_content_description">Icône de dialogue</string>
+  <string name="immediately_experience">Mise à jour</string>
   <string name="improve_step_target">"Vous atteignez votre objectif trop souvent. Essayez d'en définir un plus élevé."</string>
   <string name="improve_your_health_default_tips">"Faites de l'exercice et dormez suffisamment pour rester en bonne santé."</string>
   <string name="inactivated">Non activé</string>
@@ -672,6 +676,7 @@ Recommencer."</string>
   <string name="light_sleep_time_normal_description">"Votre sommeil léger est d'une durée adéquate"</string>
   <string name="load_failed">Impossible de charger les éléments. Attendez une minute ou deux et réessayez.</string>
   <string name="loading">Un instant…</string>
+  <string name="location_perm_description">Pour suivre les entraînements en extérieur et enregistrer les itinéraires</string>
   <string name="location_permission_dialog_content">"Autorisez Xiaomi Santé à accéder à votre emplacement dans \"Xiaomi Santé\" > \"Gérer les autorisations\" pour pouvoir suivre vos entraînements en extérieur."</string>
   <string name="location_permission_dialog_negative">Pas maintenant</string>
   <string name="location_permission_dialog_positive">Autoriser</string>
@@ -1102,7 +1107,7 @@ Recommencer."</string>
   <string name="share_card_title_free_training">Exercice libre</string>
   <string name="share_card_title_high_interval_training">HIIT</string>
   <string name="share_card_title_indoor_rinding">Vélo stationnaire %s</string>
-  <string name="share_card_title_indoor_running">Course %s</string>
+  <string name="share_card_title_indoor_running">Course en intérieur %s</string>
   <string name="share_card_title_open_swimming">Nage en eau libre %s</string>
   <string name="share_card_title_outdoor_hiking">Randonnée %s</string>
   <string name="share_card_title_outdoor_riding">Cyclisme %s</string>
@@ -1612,7 +1617,7 @@ Si ce problème se produit fréquemment, vérifiez sur votre appareil les tâche
   <string name="thursday_short">Jeu</string>
   <string name="thursday_shortest">Jeu</string>
   <string name="time">Time</string>
-  <string name="time_picker_dialog_title">Set time</string>
+  <string name="time_picker_dialog_title">"Réglage de l'heure"</string>
   <string name="tips_default">Aucune donnée</string>
   <string name="title_auto_run">Démarrage automatique</string>
   <string name="title_click_record_menstruation">Enregistrer un cycle</string>
@@ -1717,17 +1722,10 @@ Mettre à jour maintenant ?"</string>
   <string name="welcome_sleep_description">Placez votre téléphone à côté de vous pour en savoir plus sur votre cycle de sommeil le matin</string>
   <string name="welcome_start_use">Démarrer</string>
   <string name="well">Bon</string>
-  <string name="write_strorage_perm_description">For saving the info about the issues you encounter</string>
-  <string name="xiaomi_update_sdk_bytes_unit">"%1$s o"</string>
-  <string name="xiaomi_update_sdk_connect_download_manager_fail">"Échec de la connexion du gestionnaire de téléchargement, veuillez vérifier l'état du gestionnaire de téléchargement dans la gestion des applications."</string>
-  <string name="xiaomi_update_sdk_dialog_message">"Présentation de la version %1$s
-Taille : %2$s"</string>
-  <string name="xiaomi_update_sdk_dialog_message_diff">"Présentation de la version %1$s
-Taille de mise à jour Delta: %2$s"</string>
-  <string name="xiaomi_update_sdk_dialog_title">%1$s mise à jour !</string>
-  <string name="xiaomi_update_sdk_external_storage_unavailable">Espace de stockage indisponible, vérifiez la carte SD.</string>
-  <string name="xiaomi_update_sdk_kilobytes_unit">"%1$s Ko"</string>
-  <string name="xiaomi_update_sdk_megabytes_unit">"%1$s Mo"</string>
+  <string name="write_strorage_perm_description">Pour enregistrer les informations sur les problèmes que vous rencontrez</string>
+  <string name="xiaomi_market_sdk_update_dialog_cancel">Pas maintenant</string>
+  <string name="xiaomi_market_sdk_update_dialog_ok">Mettre à jour</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Une mise à jour est disponible</string>
   <string name="year">Année</string>
   <string name="yesterday">Hier</string>
   <string name="yoga">Yoga</string>

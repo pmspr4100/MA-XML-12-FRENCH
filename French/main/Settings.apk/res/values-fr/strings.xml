@@ -353,11 +353,11 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
   <string name="alarm_ringtone_title">"Son de l'alarme par défaut"</string>
   <string name="alarm_sound_dialog_title">"Choisir le son de l'alarme"</string>
   <string name="alarm_sound_title">Alarme</string>
-  <string name="alarm_stop">"Déscativez le mode Silencieux lorsque l'alarme s'arrête"</string>
+  <string name="alarm_stop">"Désactivez le mode Silencieux lorsque l'alarme s'arrête"</string>
   <string name="alarm_stop_info">"Le mode Silencieux sera désactivé lorsque l'alarme s'arrête"</string>
   <string name="alarm_template">à %1$s</string>
   <string name="alarm_template_far">le %1$s</string>
-  <string name="alarm_volume_option_title">"Volume de l'alarme"</string>
+  <string name="alarm_volume_option_title">Alarme</string>
   <string name="alarm_volume_title">Alarme</string>
   <string name="all_volume_title">Volume</string>
   <string name="allow">Autoriser</string>
@@ -3991,7 +3991,7 @@ D'autres personnes utilisent cet appareil.
   <string name="media_output_summary_unavailable">Indisponible</string>
   <string name="media_output_title">Diffuser des contenus multimédias sur</string>
   <string name="media_transfer_this_device_name">Cet appareil</string>
-  <string name="media_volume_option_title">Volume du multimédias</string>
+  <string name="media_volume_option_title">Multimédia</string>
   <string name="media_volume_summary">Régler le volume pour la musique et les vidéos</string>
   <string name="media_volume_title">Multimédia</string>
   <string name="megabyte_per_second">" Mo/s"</string>
@@ -4451,6 +4451,8 @@ Sélectionnez votre système d'exploitation :"</string>
   <string name="music_unsupport_effect_summary">"Les casques USB ne sont pas pris en charge"</string>
   <string name="musicfx_title">Effets musicaux</string>
   <string name="mute">Mode silencieux</string>
+  <string name="mute_media_sound_summary">Jeux, musique, vidéos et autres applications</string>
+  <string name="mute_media_sound_title">Rendre silencieux les médias en mode Silencieux</string>
   <string name="mute_music_stream">Désactiver le son la diffusion de musique</string>
   <string name="mute_voiceassist_stream">Assistant vocale muet</string>
   <string name="mvno_match_data">Valeur MVNO</string>
@@ -5499,7 +5501,7 @@ Interface UT : %5$s"</string>
   <string name="remove_managed_profile_label">Supprimer le profil professionnel</string>
   <string name="repeat">Répéter</string>
   <string name="repeat_call">Notifier les appels répétés</string>
-  <string name="repeat_call_info">Autoriser la sonnerie pour les appels répétés pendant 15 minutes en mode Silencieux</string>
+  <string name="repeat_call_info">"Fait sonner ou vibrer lors de la réception d'un deuxième appel du même numéro de téléphone dans les %d minutes"</string>
   <string name="repeat_title">Répéter</string>
   <string name="requires_modern_control_center">Fonctionne avec la nouvelle version du Centre de contrôle</string>
   <string name="reset_aaid">"Réinitialiser l'identificateur de publicité"</string>
@@ -5602,7 +5604,9 @@ Interface UT : %5$s"</string>
   <string name="ring_to_you">Sonnerie personnalisée</string>
   <string name="ring_to_you_info">Définissez un ton personnalisé que les autres entendront avant de décrocher</string>
   <string name="ring_volume_option_title">Volume de la sonnerie</string>
-  <string name="ring_volume_title">Volume de la sonnerie</string>
+  <string name="ring_volume_title">Sonnerie</string>
+  <string name="ringer_mode_setting_summary">Rend silencieux les appels et les notifications</string>
+  <string name="ringer_mode_setting_title">Mode Silencieux</string>
   <string name="ringtone_slot_setting_title">Paramètres SIM</string>
   <string name="ringtone_title">Sonnerie</string>
   <string name="ringtone_uniform_setting_title">Paramètres double SIM</string>
@@ -7579,7 +7583,7 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
   <string name="vibrate_when_ringing_title">Vibrer pour les appels</string>
   <string name="video_calling_settings_title">Appel vidéo opérateur</string>
   <string name="video_tool_box_title">Boîte à outils vidéo</string>
-  <string name="vip_list">Autoriser les appels entrants</string>
+  <string name="vip_list">Notifier les appels</string>
   <string name="virtual_keyboard_category">Clavier virtuel</string>
   <string name="virtual_keyboards_for_work_title">Virtual keyboard for work</string>
   <string name="virtual_sim_category_title">Mi Itinérance</string>
@@ -8641,6 +8645,8 @@ Allow this for all apps that want to scan?"</string>
   <string name="zen_mode_starred_callers">contacts favoris</string>
   <string name="zen_mode_starred_contacts_title">Contacts favoris</string>
   <string name="zen_mode_start_time">Heure de début</string>
+  <string name="zen_mode_summary">Rend silencieux les appels entrants, les notifications, les médias et désactive les vibrations</string>
+  <string name="zen_mode_summary2">"Il n'y aura pas de rappels pour les appels entrants et les notifications"</string>
   <string name="zen_mode_summary_alarms_only_by_time">"Ne recevoir que les alarmes jusqu'à %1$s"</string>
   <string name="zen_mode_summary_alarms_only_indefinite">Ne recevoir que les alarmes sans limite de temps</string>
   <string name="zen_mode_summary_always">Toujours interrompre</string>
