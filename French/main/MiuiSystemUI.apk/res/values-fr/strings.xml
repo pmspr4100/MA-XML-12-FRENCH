@@ -100,6 +100,7 @@
   <string name="accessibility_display_daltonizer_preference_subtitle">Cette fonctionnalité est expérimentale et peut affecter les performances.</string>
   <string name="accessibility_display_daltonizer_preference_title">Correction des couleurs</string>
   <string name="accessibility_divider">"Diviseur d'écran"</string>
+  <string name="accessibility_enter_lock_setting">"Appuyez pour ouvrir les paramètres de Carrousel de fonds d'écran"</string>
   <string name="accessibility_drag_hint_message">"Déplacez les éléments dans la partie supérieure de l'écran"</string>
   <string name="accessibility_enter_lock_wallpaper">"Appuyer pour ouvrir le Fond d'écran carrousel"</string>
   <string name="accessibility_ethernet_connected">Ethernet connecté.</string>
@@ -114,8 +115,16 @@
   <string name="accessibility_home">Accueil</string>
   <string name="accessibility_ime_switch_button">Bouton de méthode de saisie.</string>
   <string name="accessibility_key">Personnaliser un bouton de navigation</string>
+  <string name="accessibility_keyboard_delete_button">Suppr</string>
+  <string name="accessibility_keyboard_letter_board_caps_lock_button">Verr. maj.</string>
+  <string name="accessibility_keyboard_letter_board_shift2number_button">Nombres</string>
+  <string name="accessibility_keyboard_letter_board_shift2symbol_button">Symboles</string>
+  <string name="accessibility_keyboard_ok_button">Entrée</string>
+  <string name="accessibility_keyboard_symbol_board_shift2letter_button">Lettres</string>
+  <string name="accessibility_keyboard_symbol_board_symbol_lock_button">Verr. num.</string>
+  <string name="accessibility_keyguard_face_unlock_view">Déverrouillage par visage</string>
   <string name="accessibility_left_control_center_button">Raccourci</string>
-  <string name="accessibility_left_lock_screen_magazine_button">"Fond d'écran Carrousel"</string>
+  <string name="accessibility_left_lock_screen_magazine_button">"Carrousel de fonds d'écran"</string>
   <string name="accessibility_location_active">Requêtes de localisation actives</string>
   <string name="accessibility_managed_profile">Profil de travail</string>
   <string name="accessibility_manual_zen_less_time">Moins de temps.</string>
@@ -1075,7 +1084,7 @@ Réessayez dans %2$d secondes."</string>
   <string name="legacy_vpn_name">VPN</string>
   <string name="loading_injected_setting_summary">Chargement...</string>
   <string name="local_backup_password_summary_change">"Appuyez pour changer ou supprimer le mot de passe pour les sauvegardes complètes de l'écran d'accueil"</string>
-  <string name="local_backup_password_summary_none">"Les sauvegardes complètes de l'écran d'accueil ne sont’ pas actuellement protégées"</string>
+  <string name="local_backup_password_summary_none">"Les sauvegardes complètes de l'écran d'accueil ne sont pas actuellement protégées"</string>
   <string name="local_backup_password_title">"Mot de passe de sauvegarde de l'écran d'accueil"</string>
   <string name="local_backup_password_toast_confirmation_mismatch">Les mots de passe ne’ correspondent pas</string>
   <string name="local_backup_password_toast_success">Nouveau de mot de passe de sauvegarde défini</string>

@@ -1866,7 +1866,7 @@ Votre opérateur peut vous facturer des frais supplémentaires si vous utilisez 
   <string name="list_empty_text">Vide</string>
   <string name="load_only_under_wlan">Charger uniquement en Wi-Fi</string>
   <string name="loading">Chargement…</string>
-  <string name="loading_text_format" formatted="false">Removing private info from photos (%d/%d)…</string>
+  <string name="loading_text_format" formatted="false">Vérifie si les photos contiennent des informations privées (%d/%d)…</string>
   <string name="local_ip_exception_summary">"Impossible d'obtenir une adresse IP locale. Pour signaler ce problème à MIUI, allez dans l'application Commentaire et envoyez un rapport à partir de votre appareil."</string>
   <string name="lock_all_title">Verrouiller toutes les applications</string>
   <string name="lock_mode_title">Paramètres de verrouillage</string>
@@ -2625,6 +2625,8 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
   <string name="power_center_battery_duration_format">%1$s %2$s</string>
   <string name="power_center_battery_full">Batterie entièrement chargée</string>
   <string name="power_center_battery_hardware">Matériel %s</string>
+  <string name="power_center_battery_health_poor_tip">On dirait que la santé de la batterie est faible. Vérifiez votre batterie dans un centre de service agréé</string>
+  <string name="power_center_battery_health_summary">Chargez et déchargez complètement votre appareil %1$d-%2$d fois pour améliorer la précision des statistiques de santé de la batterie</string>
   <string name="power_center_battery_last">%s restant</string>
   <string name="power_center_battery_level">Chargée %s</string>
   <string name="power_center_battery_level_general">Normal</string>
