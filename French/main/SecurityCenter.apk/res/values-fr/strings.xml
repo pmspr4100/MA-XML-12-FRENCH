@@ -32,14 +32,15 @@
   <string name="ac_firstUseApplock_subTitle">Utilisez de meilleurs outils de sécurité au niveau du système</string>
   <string name="ac_firstUseApplock_title">Définir un mot de passe pour protéger votre application</string>
   <string name="ac_mask_all_apps">Masquer pour tous</string>
-  <string name="ac_notification_contentText">Appuyez pour activer</string>
-  <string name="ac_notification_contentTitle">"Protéger les applications sélectionnées avec Verrouillage d'application"</string>
-  <string name="ac_post_notification_contentText">Obtenir une protection de niveau système</string>
-  <string name="ac_post_notification_contentTitle">"Activer le verrouillage d'application"</string>
+  <string name="ac_notification_action_text">Activer</string>
+  <string name="ac_notification_contentText">"Masquer les informations sensibles à l'aide d'un mot de passe"</string>
+  <string name="ac_notification_contentTitle">"Essayez Verrouillage d'application !"</string>
+  <string name="ac_post_notification_contentText">"Il peut protéger toutes sortes d'applications sensibles"</string>
+  <string name="ac_post_notification_contentTitle">"Protégez les applications avec Verrouillage d'application"</string>
   <string name="ac_pre_notification_contentText">Protégez vos infos personnelles</string>
   <string name="ac_pre_notification_contentTitle">"Essayer Verrouillage d'application"</string>
   <string name="ac_recommend_guide_dialog_app_content">"Utilisez le verrouillage de l'application avec cette application afin de protéger vos informations personnelles et d'éviter les fuites de données."</string>
-  <string name="ac_recommend_guide_dialog_content">"Vous pouvez protéger vos informations personnelles et éviter les fuites de données en utilisant App Lock."</string>
+  <string name="ac_recommend_guide_dialog_content">"Vous pouvez protéger vos informations personnelles et éviter les fuites de données en utilisant Verrouillage d'application."</string>
   <string name="ac_recommend_guide_dialog_ignore">Ne plus afficher</string>
   <string name="ac_recommend_guide_dialog_open">Activer</string>
   <string name="ac_summaryOff">"Désactivé, aucun mot de passe n'est requis pour ouvrir les applications"</string>
@@ -168,10 +169,10 @@
   <string name="app_behavior_about_content_no_link">"MIUI peut montrer quand les applications ont lancé d'autres applications, démarré automatiquement, utilisé des Permissions et effectué des actions sensibles. En raison de problèmes de compatibilité de version Android, certains de ces enregistrements peuvent ne pas être précis. Si vous trouvez un enregistrement de comportement d'application qui n'est pas précis, signalez-le-nous à l'aide de l'application \"Services et commentaires\"."</string>
   <string name="app_behavior_about_negative">Signaler des inexactitudes</string>
   <string name="app_behavior_about_positive">Compris</string>
-    <string name="app_behavior_access_gallery">%1s a accédé à la galerie</string>
-    <string name="app_behavior_access_gallery_single">Cette application a accédé à la galerie</string>
-    <string name="app_behavior_access_sociality">%1s a accédé aux messages dans des applications de réseaux sociaux</string>
-    <string name="app_behavior_access_sociality_single">Cette application a accédé aux messages dans des applications de réseaux sociaux</string>
+  <string name="app_behavior_access_gallery">%1s a accédé à Galerie</string>
+  <string name="app_behavior_access_gallery_single">Cette application a accédé à Galerie</string>
+  <string name="app_behavior_access_sociality">%1s a accédé à des applications de réseaux sociaux</string>
+  <string name="app_behavior_access_sociality_single">Cette application a accédé à des applications de réseaux sociaux</string>
   <string name="app_behavior_allowed">Autoriser</string>
   <string name="app_behavior_audio">"%1s a enregistré de l'audio"</string>
   <string name="app_behavior_audio_bg">"%1s a enregistré de l'audio en arrière-plan"</string>
@@ -507,7 +508,7 @@
   <string name="applock_guide_tip2">Ajoutez votre compte Mi pour pouvoir réinitialiser votre mot de passe.</string>
   <string name="applock_guide_tip3">Masquer le contenu des notifications.</string>
   <string name="applock_guide_tip3_global">Masquer le contenu des notifications.</string>
-  <string name="applock_guide_title">Protégez votre vie privée avec App Lock</string>
+  <string name="applock_guide_title">"Protégez votre vie privée avec Verrouillage d'application"</string>
   <string name="applock_header_text_less_than_half">Trop petit. Déplacer un peu plus loin.</string>
   <string name="applock_lock_all">Tout verrouiller</string>
   <string name="applock_login_and_add_account">Se connecter et ajouter</string>
@@ -1489,6 +1490,18 @@ Vous devez comprendre que cette fonctionnalité est fournie à titre indicatif u
   <string name="gb_ad_game_size">" Mo"</string>
   <string name="gb_add_game_hint">Ajouter des éléments de la liste des applications</string>
   <string name="gb_add_game_loading_tips">Chargement…</string>
+  <string name="gb_adv_touch_adv_title">Mode classique (par défaut)</string>
+  <string name="gb_adv_touch_custom1">Réponse au balayage</string>
+  <string name="gb_adv_touch_custom2">Sensibilité aux appuis continus</string>
+  <string name="gb_adv_touch_custom3">Précision de visée</string>
+  <string name="gb_adv_touch_custom4">"Stabilité de l'appui"</string>
+  <string name="gb_adv_touch_custom_tip1">"Une réponse au balayage plus élevée augmente la vitesse de réaction à ce geste, tandis qu'une réponse au balayage plus faible rend le geste plus stable."</string>
+  <string name="gb_adv_touch_custom_tip2">"Une sensibilité plus élevée aux appuis continus augmente la vitesse de réaction à ce geste, tandis qu'une sensibilité inférieure le rend plus stable."</string>
+  <string name="gb_adv_touch_custom_tip3">"Une précision de visée plus élevée rend les balayages plus petits plus précis, tandis qu'une précision de visée plus faible rend ce geste plus stable."</string>
+  <string name="gb_adv_touch_custom_tip4">"Une plus grande stabilité de l'appui rend les appuis plus stables, tandis qu'une stabilité inférieure augmente la précision des petits balayages."</string>
+  <string name="gb_adv_touch_custom_title">Personnaliser</string>
+  <string name="gb_adv_touch_mode_pro_tips">*Ce mode est conçu pour les joueurs professionnels. Les joueurs réguliers pourraient trouver ce mode peu pratique.</string>
+  <string name="gb_adv_touch_pro_title">Mode pro</string>
   <string name="gb_advance_settings_edge_gear1">Aucun</string>
   <string name="gb_advance_settings_edge_gear2">Petit</string>
   <string name="gb_advance_settings_edge_gear3">Moyen</string>
@@ -1696,20 +1709,22 @@ de vos sessions de jeu"</string>
   <string name="gs_show_way_vertical">Verticale</string>
   <string name="gs_sign_notification">Rappel de vérification à 20 heures tous les jours</string>
   <string name="gs_slip_gamebox_detail">"Utilisez le curseur ou faites glisser votre doigt depuis le bord supérieur de l'écran pour faire apparaître le panneau de raccourcis"</string>
-  <string name="gtb_dialog_btn_close">Turn off</string>
-  <string name="gtb_dialog_btn_open">Turn on</string>
-  <string name="gtb_dialog_hint_smart_5g">You can turn this feature on and off in Game Turbo &gt; Settings.</string>
-  <string name="gtb_dialog_summary_smart_5g">Whenever Game Turbo detects a 5G network, it can connect your device to the best network available to reduce network delay. Turn on this feature now?</string>
-  <string name="gtb_dialog_title_smart_5g">5G network optimization</string>
-  <string name="gtb_exit_game_to_gtb">Open gamebox</string>
+  <string name="gtb_dialog_btn_close">Désactiver</string>
+  <string name="gtb_dialog_btn_open">Activer</string>
+  <string name="gtb_dialog_hint_smart_5g">Vous pouvez activer et désactiver cette fonctionnalité dans Game Turbo &gt; Paramètres.</string>
+  <string name="gtb_dialog_summary_smart_5g">Chaque fois que Game Turbo détecte un réseau 5G, il peut connecter votre appareil au meilleur réseau disponible pour réduire le retard du réseau. Activer cette fonctionnalité maintenant ?</string>
+  <string name="gtb_dialog_title_smart_5g">Optimisation du réseau 5G</string>
+  <string name="gtb_exit_game_to_gtb">Ouvrir gamebox</string>
   <string name="gtb_exit_game_to_home">"Retour à l'écran d'accueil"</string>
-  <string name="gtb_setting_item_summary_smart_5g">Whenever Game Turbo detects a 5G network, it can connect your device to the best network available to reduce network delay</string>
-  <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Increase connection speed by 10%-20% when connected to Mi/Redmi routers</string>
+  <string name="gtb_setting_item_summary_smart_5g">Chaque fois que Game Turbo détecte un réseau 5G, il peut connecter votre appareil au meilleur réseau disponible pour réduire le retard du réseau</string>
+  <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Augmentez la vitesse de connexion de 10% à 20% lorsque vous êtes connecté à des routeurs Mi/Redmi</string>
   <string name="gtb_setting_item_title_smart_5g">5G network optimization</string>
   <string name="gtb_setting_item_title_smart_wlan_speed">Mi WiFi speed boost</string>
-  <string name="gtb_wlan_speed_tips">Using Mi WiFi…</string>
+  <string name="gtb_spring_festival_back_game">Retour au jeu</string>
+  <string name="gtb_spring_festival_goto_gameturbo">Afficher</string>
+  <string name="gtb_wlan_speed_tips">Utilisation de Mi WiFi…</string>
   <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Erreur d'opérateur ?&lt;/U&gt;&lt;/font&gt;"</string>
-  <string name="guide_operator_text">"Votre opérateur actuel: "</string>
+  <string name="guide_operator_text">"Votre opérateur actuel : "</string>
   <string name="guide_quck_open">Activer</string>
   <string name="guide_second_text">"Après avoir défini votre opérateur, MIUI surveillera quotidiennement l'utilisation de vos données cellulaires en envoyant des SMS gratuits de l'opérateur. Lorsque MIUI détecte que vous avez dépassé la limite de vos données, il se déconnectera du réseau et vous en notifiera."</string>
   <string name="guide_wait_setting">Pas maintenant</string>
@@ -1866,7 +1881,7 @@ Votre opérateur peut vous facturer des frais supplémentaires si vous utilisez 
   <string name="list_empty_text">Vide</string>
   <string name="load_only_under_wlan">Charger uniquement en Wi-Fi</string>
   <string name="loading">Chargement…</string>
-  <string name="loading_text_format" formatted="false">Removing private info from photos (%d/%d)…</string>
+  <string name="loading_text_format" formatted="false">Vérifie si les photos contiennent des informations privées (%d/%d)…</string>
   <string name="local_ip_exception_summary">"Impossible d'obtenir une adresse IP locale. Pour signaler ce problème à MIUI, allez dans l'application Commentaire et envoyez un rapport à partir de votre appareil."</string>
   <string name="lock_all_title">Verrouiller toutes les applications</string>
   <string name="lock_mode_title">Paramètres de verrouillage</string>
@@ -2051,9 +2066,9 @@ Your device is %d%% faster now."</string>
   <string name="menu_summary_power_manager_4">%s avant charge complète</string>
   <string name="menu_text_antispam">Liste noire</string>
   <string name="menu_text_antivirus">Analyse de sécurité</string>
-  <string name="menu_text_deepclean_summary" formatted="false">%1s/%2s occupied</string>
+  <string name="menu_text_deepclean_summary">%1s/%2s occupé</string>
   <string name="menu_text_garbage_cleanup">Nettoyeur</string>
-  <string name="menu_text_garbage_cleanup_danger">%s of trash</string>
+  <string name="menu_text_garbage_cleanup_danger">%s de la corbeille</string>
   <string name="menu_text_license_manager">Permissions</string>
   <string name="menu_text_networkassistants">Utilisation des données</string>
   <string name="menu_text_networkassistants_danger">%s dépassé</string>
@@ -2248,6 +2263,13 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
   <string name="note_list_none">La liste est vide</string>
   <string name="note_sms_none">Aucun message</string>
   <string name="noti_back_diving_mode_title">Mode immersif Activé . Appuyez pour désactiver.</string>
+  <string name="notification_abnormal_check_button">Afficher</string>
+  <string name="notification_abnormal_check_now_button">Afficher</string>
+  <string name="notification_abnormal_consume_app_title">%s vide la batterie</string>
+  <string name="notification_abnormal_consume_cpu">Les ressources CPU resources sont accaparées en arrière-plan</string>
+  <string name="notification_abnormal_consume_wakelock">Le système reste éveillé en arrière-plan</string>
+  <string name="notification_antivirus_button_text">Analyser</string>
+  <string name="notification_antivirus_message">Analysez maintenant pour neutraliser les risques</string>
   <string name="notification_battery_consume_abnormal_title">La batterie se décharge trop rapidement</string>
   <string name="notification_battery_scan_consume_abnormal_summary">Appuyez pour résoudre le problème</string>
   <string name="notification_battery_scan_consume_abnormal_title_set">%s est en train de vider la batterie</string>
@@ -2268,6 +2290,15 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
   <string name="notification_garbage_clean_size_new">Libérez %s de stockage</string>
   <string name="notification_garbage_cleanup_summary">Effacer les fichiers (%s) pour accélérer votre appareil</string>
   <string name="notification_garbage_cleanup_title">Effacer les fichiers de corbeille</string>
+  <string name="notification_link_cleaner_2001">Effacer %s de la corbeille maintenant</string>
+  <string name="notification_link_cleaner_2002">Vider la corbeille pour accélérer votre appareil</string>
+  <string name="notification_link_cleaner_2003">"Moins de %s de stockage restant. Libérez de l'espace de stockage maintenant."</string>
+  <string name="notification_link_cleaner_2004">"Il ne reste que %s d'espace de stockage. Libérez de l'espace de stockage maintenant."</string>
+  <string name="notification_link_cleaner_2005">Effacer la mémoire pour accélérer votre appareil</string>
+  <string name="notification_link_cleaner_3001">Vider la corbeille WeChat pour accélérer votre appareil</string>
+  <string name="notification_link_cleaner_3002">Vider la corbeille WeChat</string>
+  <string name="notification_link_cleaner_4000">Vider la corbeille QQ</string>
+  <string name="notification_link_optimizemanage_1011">%d%% de la mémoire est occupée. Vider maintenant.</string>
   <string name="notification_low_battery_action_btn">Activer</string>
   <string name="notification_low_battery_need_charge">Chargez votre appareil</string>
   <string name="notification_low_battery_open_save_mode">"Activer l'économiseur de batterie"</string>
@@ -2280,8 +2311,11 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
   <string name="notification_low_storage_size_1p5_gb_hint">Vider la corbeille pour accélérer votre appareil</string>
   <string name="notification_mask_summary">"Ne pas afficher le contenu de notification pour les applications protégées"</string>
   <string name="notification_mask_title">Masquer le contenu de la notification</string>
-  <string name="notification_masked_item">Comment masquer le contenu de la notification ?</string>
-  <string name="notification_masked_subtitle">Utiliser le verrouillage des applications pour masquer le contenu des notifications pour les applications sélectionnées</string>
+  <string name="notification_masked_item">Souhaitez-vous masquer le contenu des notifications ?</string>
+  <string name="notification_masked_subtitle">"Verrouillage d'application peut faire le travail"</string>
+  <string name="notification_optimize_button_text">Effacer</string>
+  <string name="notification_optimize_message">Effacer la mémoire pour augmenter la vitesse</string>
+  <string name="notification_optimize_title">%d%% de la mémoire est occupée</string>
   <string name="notification_qq_clean_hint">La corbeille ralentit votre appareil</string>
   <string name="notification_qq_clean_text">Vider la corbeille de QQ</string>
   <string name="notification_summary_cmcc_app_check">Appuyez pour afficher les détails.</string>
@@ -2625,6 +2659,8 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
   <string name="power_center_battery_duration_format">%1$s %2$s</string>
   <string name="power_center_battery_full">Batterie entièrement chargée</string>
   <string name="power_center_battery_hardware">Matériel %s</string>
+  <string name="power_center_battery_health_poor_tip">On dirait que la santé de la batterie est faible. Vérifiez votre batterie dans un centre de service agréé</string>
+  <string name="power_center_battery_health_summary">Chargez et déchargez complètement votre appareil %1$d-%2$d fois pour améliorer la précision des statistiques de santé de la batterie</string>
   <string name="power_center_battery_last">%s restant</string>
   <string name="power_center_battery_level">Chargée %s</string>
   <string name="power_center_battery_level_general">Normal</string>
@@ -2931,8 +2967,8 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
   <string name="pp_hide_app_form_desktop">"Supprimer les icônes d'application de l'écran d'accueil"</string>
   <string name="pp_icon_layout_status_bg_content_enable">Protégé</string>
   <string name="pp_icon_layout_status_bg_content_unable">Désactiver</string>
-  <string name="pp_interception_net_visit_content_manager">Protéger la Galerie et les applications de réseaux sociaux</string>
-  <string name="pp_interception_net_visit_content_manager_detail">Sélectionnez les applications autorisées à accéder à vos photos, vidéos et historique de chat</string>
+  <string name="pp_interception_net_visit_content_manager">Protéger la Galerie et les fichiers des applications de réseaux sociaux</string>
+  <string name="pp_interception_net_visit_content_manager_detail">Sélectionnez les applications autorisées à accéder à Galerie et aux fichiers de vos applications de réseaux sociaux</string>
   <string name="pp_local_msg">Information de localisation</string>
   <string name="pp_manage_apps_location_information">Autoriser les applications à accéder à votre position</string>
   <string name="pp_one_app_two_use">Utilisez deux comptes sans vous déconnecter</string>
@@ -2955,7 +2991,7 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
   <string name="pp_prohibit_use_camera_in_background_detail">"Les applications ne pourront pas utiliser la caméra en arrière-plan par défaut"</string>
   <string name="pp_record_msg">Enregistrement audio</string>
   <string name="pp_safe_box">Espace privé</string>
-  <string name="pp_safe_box_detail">"Pour protéger votre vie privée, MIUI vous permet de contrôler la façon dont les applications accèdent à vos photos et à l'historique des discussions sur les réseaux sociaux."</string>
+  <string name="pp_safe_box_detail">"Les éléments privés sont chiffrés et stockés uniquement sur cet appareil. Personne d'autre ne pourra y accéder en utilisant cet appareil, et l'appareil lui-même ne sera pas autorisé à accéder aux éléments chiffrés et à les utiliser de quelque manière que ce soit."</string>
   <string name="pp_safe_box_summary">Protection de la vie privée</string>
   <string name="pp_safe_input_pwd">Protégez vos mots de passe</string>
   <string name="pp_safe_keyboard">Clavier sécurisé</string>
@@ -3864,6 +3900,7 @@ Formatting will erase existing content on the ^2. To avoid losing content, back 
   <string name="summary_mms">Bloquer les SMS indésirables automatiquement</string>
   <string name="summary_network_switch">"Autoriser sécurité à se connecter à internet"</string>
   <string name="summary_never_flow_verify">"Ce numéro n'a pas été vérifié avec votre opérateur"</string>
+  <string name="summary_password_manager">Le gestionnaire de mots de passe vous permet de chiffrer vos mots de passe et de les stocker dans le cloud</string>
   <string name="summary_payment_risk">"Il semble que l'environnement de paiement n'est pas sécurisé"</string>
   <string name="summary_permission">Éviter les paiements non désirés et protéger vos données personnelles</string>
   <string name="summary_permission_root">Il semble que cet appareil a un accès root. Cela pourrait exposer votre appareil.</string>
@@ -4144,6 +4181,7 @@ Formatting will erase existing content on the ^2. To avoid losing content, back 
   <string name="title_network_switch">Connexion réseau</string>
   <string name="title_of_app_manage">Applications</string>
   <string name="title_of_auto_launch_manage">Démarrage automatique</string>
+  <string name="title_password_manager">Activer le gestionnaire de mots de passe</string>
   <string name="title_payment_protection">Les paiement sont sécurisés</string>
   <string name="title_payment_risk">Risque de paiement détecté</string>
   <string name="title_permission_no">"Gestionnaire de permissions désactivé"</string>
@@ -4342,6 +4380,15 @@ Le volume de données restant inclut l'excédent du mois précédent."</string>
   <string name="vb_video_effects_settings_liquid">Clarity</string>
   <string name="vb_video_effects_settings_stereo">Volume</string>
   <string name="vb_video_effects_srs_premium_sound">Son</string>
+  <string name="vb_video_super_division">"mise à l'échelle"</string>
+  <string name="vb_video_super_division_desc">"Mettre à l'échelle automatiquement la définition lorsqu'elle est ≤720p.
+
+L'utilisation de cette fonction augmente la consommation d'énergie.
+
+Cette fonction ne fonctionne pas avec le lissage du mouvement.
+L'activation de l'une de ces fonctionnalités désactivera l'autre."</string>
+  <string name="vb_video_super_division_tips">"Pas assez clair ?
+Essayez de mettre à l'échelle la définition !"</string>
   <string name="video_repeat">Rejouer</string>
   <string name="videobox_hangup_tips_content">"Cette fonctionnalité permet à l'application de s'exécuter en arrière-plan lorsque l'écran est éteint. Activer maintenant ?"</string>
   <string name="videobox_hangup_tips_title">Attention</string>
@@ -4353,6 +4400,8 @@ Le volume de données restant inclut l'excédent du mois précédent."</string>
   <string name="videobox_settings_manager_apps">Gérer les applications vidéo</string>
   <string name="videobox_settings_switch_desc">Effets spéciaux et fonctionnalités pour la lecture vidéo</string>
   <string name="videobox_settings_switch_title">Boîte à outils vidéo</string>
+  <string name="videobox_settings_timing">Alerte de frénésie</string>
+  <string name="videobox_settings_timing_desc">Recevez une alerte de frénésie toutes les heures vous rappelant de faire une pause</string>
   <string name="videobox_settings_title">Boîte à outils vidéo</string>
   <string name="view_traffic_detail">Afficher les détails</string>
   <string name="virus_auto_update_engine">Mises à jour auto : %s</string>
