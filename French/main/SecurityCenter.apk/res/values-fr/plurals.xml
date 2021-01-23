@@ -243,6 +243,10 @@ Vous pouvez obtenir un essai gratuit de %d jours maintenant !"</item>
         <item quantity="other">Obtenez un essai gratuit de %d jours</item>
         <item quantity="one">Obtenez un essai gratuit de %d jour</item>
     </plurals>
+    <plurals name="gtb_spring_festival_colored_egg">
+        <item quantity="other">Félicitations ! Vous avez déverrouillé %s œufs de Pâques.</item>
+        <item quantity="one">Félicitations ! Vous avez déverrouillé %s œuf de Pâques.</item>
+    </plurals>
     <plurals name="hide_txt_hint_with_blank_2">
         <item quantity="other">    + %1$d plus de caractères</item>
         <item quantity="one">    + %1$d plus de caractère</item>
@@ -399,6 +403,10 @@ Vous pouvez obtenir un essai gratuit de %d jours maintenant !"</item>
         <item quantity="other">"L'accès réseau est restreint pour &lt;font color='#ff0000'&gt;%d&lt;/font&gt; applications"</item>
         <item quantity="one">"L'accès réseau est restreint pour &lt;font color='#ff0000'&gt;%d&lt;/font&gt; application"</item>
     </plurals>
+    <plurals name="notification_antivirus_title">
+        <item quantity="other">%d jours sans analyse de sécurité</item>
+        <item quantity="one">%d jour sans analyse de sécurité</item>
+    </plurals>
     <plurals name="notification_battery_consume_abnormal_summary">
         <item quantity="other">La batterie a été déchargée de %2$d%% dans les %1$d dernières minutes</item>
         <item quantity="one">La batterie a été déchargée de %2$d%% dans les %1$d dernière minute</item>
@@ -410,6 +418,18 @@ Vous pouvez obtenir un essai gratuit de %d jours maintenant !"</item>
     <plurals name="notification_checker_installed_apk_text">
         <item quantity="other">"Supprimer %d paquets d'installation"</item>
         <item quantity="one">"Supprimer %d paquet d'installation"</item>
+    </plurals>
+    <plurals name="notification_link_cleaner_2006">
+        <item quantity="other">Supprimer %d APK résiduels</item>
+        <item quantity="one">Supprimer %d APK résiduel</item>
+    </plurals>
+    <plurals name="notification_power_consume_issue">
+        <item quantity="other">"%d problèmes d'utilisation de la batterie"</item>
+        <item quantity="one">"%d problème d'utilisation de la batterie"</item>
+    </plurals>
+    <plurals name="notification_power_consume_suggest">
+        <item quantity="other">Optimiser %d éléments pour économiser la batterie</item>
+        <item quantity="one">Optimiser %d élément pour économiser la batterie</item>
     </plurals>
     <plurals name="notification_title_cmcc_app_check">
         <item quantity="other">%d jours depuis la dernière vérification</item>
@@ -742,6 +762,12 @@ Vous pouvez obtenir un essai gratuit de %d jours maintenant !"</item>
     <plurals name="videobox_settings_manager_apps_count">
         <item quantity="other">%d applications</item>
         <item quantity="one">%d application</item>
+    </plurals>
+    <plurals name="videobox_settings_timing_bubble">
+        <item quantity="other">"Vous regardez des vidéos depuis %d heures déjà.
+Faites une pause !"</item>
+        <item quantity="one">"Vous regardez des vidéos depuis %d heure déjà.
+Faites une pause !"</item>
     </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$d vues</item>

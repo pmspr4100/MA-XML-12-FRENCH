@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>Le plus bas</item>
+        <item>Bas</item>
+        <item>Normal</item>
+        <item>Haut</item>
+        <item>Le plus haut</item>
+    </string-array>
     <string-array name="gb_gpu_custom_texture">
-        <item>High speed</item>
-        <item>Balanced</item>
-        <item>High quality</item>
+        <item>Haute vitesse</item>
+        <item>Équilibré</item>
+        <item>Haute qualité</item>
     </string-array>
     <string-array name="gb_gpu_custom_texture_value">
-        <item>Fastest</item>
-        <item>Balanced</item>
-        <item>Default</item>
+        <item>Le plus rapide</item>
+        <item>Équilibré</item>
+        <item>Par défaut</item>
     </string-array>
     <string-array name="data_net_usage_number">
         <item>Illimité</item>

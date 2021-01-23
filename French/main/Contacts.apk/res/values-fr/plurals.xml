@@ -94,6 +94,14 @@
         <item quantity="other">%1$d contacts</item>
         <item quantity="one">%1$d contact</item>
     </plurals>
+    <plurals name="contacts_trash_delete_dialog_respond">
+        <item quantity="other">%d contacts supprimés définitivement</item>
+        <item quantity="one">%d contact supprimé définitivement</item>
+    </plurals>
+    <plurals name="contacts_trash_restore_respond">
+        <item quantity="other">%d contacts restaurés avec succès</item>
+        <item quantity="one">%d contact restauré avec succès</item>
+    </plurals>
     <plurals name="device_import_done_toast">
         <item quantity="other">%1$d contacts importés</item>
         <item quantity="one">%1$d contact importé</item>
