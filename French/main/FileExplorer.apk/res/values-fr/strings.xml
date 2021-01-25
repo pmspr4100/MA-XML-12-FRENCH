@@ -27,6 +27,8 @@
   <string name="abc_shareactionprovider_share_with">Partager avec</string>
   <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
   <string name="abc_toolbar_collapse_description">Réduire</string>
+  <string name="access_limit">"Restrictions d'accès"</string>
+  <string name="access_tips">"Impossible d'accéder aux éléments. Essayez plutôt d'utiliser Android Storage Access Framework."</string>
   <string name="action_mode_deselect_all">Tout déselectionner</string>
   <string name="action_mode_select_all">Tout sélectionner</string>
   <string name="actionbar_button_up_description">Retour</string>
@@ -97,6 +99,7 @@
   <string name="click_to_switch_volume">Cliquer ici pour basculer entre la mémoire interne et la carte SD</string>
   <string name="click_to_switch_volume_pad">Cliquer ici pour basculer entre la mémoire interne et la carte SD</string>
   <string name="clock_in">Checking in…</string>
+  <string name="close">Fermer</string>
   <string name="compress_fail">Compression impossible. Un fichier avec le même nom existe déjà.</string>
   <string name="compress_fail_unknown">Impossible de compresser. Le stockage est plein ou une erreur inconnue est survenue.</string>
   <string name="compress_message">Compresser vers...</string>
@@ -232,6 +235,7 @@
   <string name="function_use_imei">"Pour accéder à IMEI et chiffrer des fichiers; "</string>
   <string name="gbk_summary">Encodage par défaut Windows chinois simplifié</string>
   <string name="gigabyteShort">" Go"</string>
+  <string name="go_ahead">Ouvrir</string>
   <string name="grid_mode">Vue grille</string>
   <string name="group_title">%2$s dans %1$s</string>
   <string name="group_title_extra_backup">Sauvegardes</string>
@@ -294,6 +298,9 @@
   <string name="mirror_can_not_drag_mask">Glisser pour utiliser Mi Share</string>
   <string name="mirror_new_name">Créer un dossier (%s)</string>
   <string name="mirror_new_name_first">Créer un dossier</string>
+  <string name="mirror_no_recommended_app">Aucune application recommandée</string>
+  <string name="mirror_open_mode_error">Impossible de charger les éléments</string>
+  <string name="mirror_open_mode_loading">Un instant…</string>
   <string name="mirror_paste_no_file">"Ce fichier n'existe pas"</string>
   <string name="mirror_progress_copy">Copie…</string>
   <string name="mirror_side_bar_tab_app_name">Applications</string>
@@ -453,6 +460,7 @@
   <string name="operation_moving">Déplacement…</string>
   <string name="operation_new_folder">Créer un dossier</string>
   <string name="operation_open">Ouvrir</string>
+  <string name="operation_open_mode">Ouvrir avec</string>
   <string name="operation_other_apps">Ouvrir dans une autre application</string>
   <string name="operation_paste">Coller</string>
   <string name="operation_paste_to_folder">Coller dans le dossier</string>
@@ -507,7 +515,9 @@
   <string name="private_toast_hint2">Pour masquer un fichier, appuyez et maintenez le, puis ajoutez le à un dossier masqué.</string>
   <string name="prize_result_tip">Exchange</string>
   <string name="promot_enctypt_password">Entrez le mot de passe utilisé pour déverrouiller votre appareil</string>
-  <string name="pull_to_enter_private">Pull down to open private folder</string>
+  <string name="pull_to_enter_private">Tirez vers le bas pour ouvrir le dossier privé</string>
+  <string name="qq_msg">"En raison des restrictions d'Android 11, le Gestionnaire de fichiers ne peut pas accéder aux documents QQ et les afficher."</string>
+  <string name="qq_title">"Impossible d'accéder aux documents WeChat"</string>
   <string name="refresh_success">Actualisation terminé</string>
   <string name="release_enter_private">Relâchez pour ouvrir le dossier privé</string>
   <string name="rename_alert">"Si vous modifiez l'extension de ce fichier, vous ne pourrez peut-être pas l'ouvrir."</string>
@@ -556,6 +566,7 @@
   <string name="select_music">Fichiers audios</string>
   <string name="select_video">Fichiers vidéos</string>
   <string name="select_volume">Select volume</string>
+  <string name="send">Envoyer</string>
   <string name="server_control_advanced_settings">Paramètres FTP</string>
   <string name="server_control_charset">Transfert encodage</string>
   <string name="server_control_settings">Paramètres</string>
@@ -657,6 +668,8 @@
   <string name="v7_preference_off">DÉSACTIVÉ</string>
   <string name="v7_preference_on">ACTIVÉ</string>
   <string name="view_type">Vue</string>
+  <string name="wechat_msg">"En raison des restrictions d'Android 11, le Gestionnaire de fichiers ne peut pas accéder et afficher les documents prévisualisés dans WeChat. Ouvrez et enregistrez des documents dans WeChat pour les faire apparaître ici."</string>
+  <string name="wechat_title">"Impossible d'accéder aux documents WeChat"</string>
   <string name="wechat_video">Vidéo sur %s</string>
   <string name="wednesday">Mercredi</string>
   <string name="wednesday_short">Mer</string>

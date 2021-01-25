@@ -83,6 +83,14 @@
   <string name="data_merge_dialog_title">Fusionner des éléments</string>
   <string name="data_protection_title">Protéger les données</string>
   <string name="detect_sim_card">Détection de la carte SIM</string>
+  <string name="device_activation_card_cannot_get_yet">"Impossible d'obtenir les informations. Réessayez dans 3 à 5 jours."</string>
+  <string name="device_activation_card_description">"La première activation est enregistrée lorsqu'un appareil se connecte au réseau (y compris, mais sans s'y limiter, les réseaux Wi-Fi et mobiles) pour la première fois. L'enregistrement de la première activation prend normalement un certain temps, il est donc préférable d'attendre 3 à 5 jours après la connexion au réseau avant de vérifier l'état d'activation.&lt;br>&lt;br>L'activation de l'appareil est le facteur principal pour déterminer la période de validité de notre extension de garantie. Consultez notre &lt;a href=%1$s>Politique de retour, d'échange et de réparation&lt;/a> pour plus de détails.&lt;br>&lt;br>N'hésitez pas à appeler notre hotline de support client si vous avez des questions : 400-100-5678."</string>
+  <string name="device_activation_card_description_china">"La première activation est enregistrée lorsqu'un appareil se connecte au réseau (y compris, mais sans s'y limiter, les réseaux Wi-Fi et mobiles) pour la première fois. L'enregistrement de la première activation prend normalement un certain temps, il est donc préférable d'attendre 3 à 5 jours après la connexion au réseau avant de vérifier l'état d'activation.&lt;br>&lt;br> Consultez notre &lt;a href=%1$s>Politique de retour, d'échange et de réparation&lt;/a> pour plus de détails.&lt;br>&lt;br>N'hésitez pas à appeler notre hotline de support client si vous avez des questions : 400-100-5678."</string>
+  <string name="device_activation_card_device_not_support">Non pris en charge sur cet appareil</string>
+  <string name="device_activation_card_local_service_error">"Impossible d'obtenir les informations. Attendez une minute ou deux et réessayez."</string>
+  <string name="device_activation_card_no_network_error">Impossible de se connecter au réseau. Vérifiez vos paramètres réseau et réessayez.</string>
+  <string name="device_activation_card_title">Première activation</string>
+  <string name="device_activation_page_title">"Activation de l'appareil"</string>
   <string name="disable_find_device_error">Erreur de désactivation: %1$s</string>
   <string name="do_not_merge">Ne pas fusionné</string>
   <string name="enable_find_device_error">"Erreur d'activation: %1$s"</string>
@@ -525,8 +533,16 @@ Les informations de localisation peuvent ne pas être transmises si la connexion
   <string name="provision_next">Suivant</string>
   <string name="provision_skip_underline">Passer</string>
   <string name="provision_sync_items_loading">Préparation à la synchronisation des éléments</string>
+  <string name="quick_service_after_sale_policy_title">Politique</string>
+  <string name="quick_service_after_sale_service_title">Services</string>
+  <string name="quick_service_authenticity_check_title">Authentification</string>
+  <string name="quick_service_maintenance_price_title">Réparations</string>
+  <string name="quick_service_title">Services rapides</string>
   <string name="reading_status">"Chargement de l'état…"</string>
   <string name="reading_status_failure">"Impossible de lire l'état de la localisation de l'appareil."</string>
+  <string name="recommend_service_cloudservice_description">"Synchronisez les données des applications système, sauvegardez les paramètres, la disposition de l'écran d'accueil, etc."</string>
+  <string name="recommend_service_sharelocation_description">Localisez, verrouillez et effacez les données sur les appareils manquants et partagez votre position avec vos amis et votre famille</string>
+  <string name="recommend_service_title">Services recommandés</string>
   <string name="retain_data_high_quality_photo_waring_message">Les images de haute qualité seront supprimées de Galerie après votre déconnexion. Les fichiers originaux correspondants seront toujours stockés dans le cloud. Vous pouvez également télécharger les fichiers originaux avant de vous déconnecter.</string>
   <string name="retain_data_high_quality_photo_waring_title">Les images de haute qualité ne seront pas disponibles</string>
   <string name="search_cloudbackup_pref">Sauvegarde cloud</string>
@@ -618,7 +634,12 @@ Les informations de localisation peuvent ne pas être transmises si la connexion
   <string name="sync_off_confirm_content">Vous ne pourrez pas synchroniser les nouveaux mots de passe après avoir désactivé le gestionnaire de mots de passe.</string>
   <string name="sync_off_confirm_title">Attention</string>
   <string name="sync_on">Activé</string>
+  <string name="sync_page_autofill_login">Connectez-vous au Compte Mi pour utiliser le gestionnaire de mots de passe</string>
   <string name="sync_page_autofill_title">Gestionnaire de mots de passe</string>
+  <string name="sync_page_route_message">Le gestionnaire de mots de passe vous permet de chiffrer vos mots de passe et de les stocker dans le cloud. Activer le gestionnaire de mots de passe maintenant ?</string>
+  <string name="sync_page_route_not_now">Non merci</string>
+  <string name="sync_page_route_ok">Activer</string>
+  <string name="sync_page_route_remember">Ne plus afficher</string>
   <string name="sync_setting_title">Paramètres de synchronisation</string>
   <string name="sync_sub_1_intl_sms">Un message SMS international sortant peut être nécessaire pour activer ce service. Votre opérateur vous facturera ce message.</string>
   <string name="sync_sub_1_sms">Un message SMS sortant peut être nécessaire pour activer ce service. Votre opérateur vous facturera ce message.</string>
