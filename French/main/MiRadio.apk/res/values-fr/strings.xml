@@ -1214,13 +1214,16 @@ Access storage in order to access and save cover art and downloaded files"</stri
   <string name="warning_tip_cancel">Download</string>
   <string name="warning_tip_content">"You're no longer connected to Wi-Fi. Using your mobile data connection to complete this download will increase your data usage. If you go over your plan’s data limit, your carrier could charge you additional fees."</string>
   <string name="warning_tip_ok">Pause</string>
-  <string name="warning_tip_title">Data usage warning</string>
-  <string name="wifi_required_body" formatted="false">"Connect to Wi-Fi to complete this %s download.
+  <string name="warning_tip_title">"Avertissement sur l'utilisation des données"</string>
+  <string name="wifi_required_body" formatted="false">"Connectez-vous au Wi-Fi pour terminer ce téléchargement de %s.
 
-Tap %s to start this download the next time you're connected to a Wi-Fi network."</string>
-  <string name="wifi_required_title">You should connect to Wi-Fi to download this file</string>
-  <string name="xiaoai_install_message">"Looks like you haven't installed Mi AI voice assistant. You can download and install it now."</string>
-  <string name="xiaoai_install_title">Install Mi AI voice assistant</string>
-  <string name="xiaoai_update_message">Looks like Mi AI voice engine is too old. You can update it now.</string>
-  <string name="xiaoai_update_title">Update Mi AI</string>
+Appuyez sur %s pour démarrer ce téléchargement la prochaine fois que vous serez connecté à un réseau Wi-Fi."</string>
+  <string name="wifi_required_title">Vous devez vous connecter au Wi-Fi pour télécharger ce fichier</string>
+  <string name="xiaoai_install_message">"Il semble que vous n'ayez pas installé l'assistant vocal Mi AI. Vous pouvez le télécharger et l'installer maintenant."</string>
+  <string name="xiaoai_install_title">"Installez l'assistant vocal Mi AI"</string>
+  <string name="xiaomi_market_sdk_update_dialog_cancel">Pas maintenant</string>
+  <string name="xiaomi_market_sdk_update_dialog_ok">Mettre à jour</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Une mise à jour est disponible</string>
+  <string name="xiaoai_update_message">On dirait que le moteur vocal Mi AI est trop ancien. Vous pouvez le mettre à jour maintenant.</string>
+  <string name="xiaoai_update_title">Mettre à jour Mi AI</string>
 </resources>

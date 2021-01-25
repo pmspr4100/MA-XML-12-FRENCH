@@ -62,7 +62,7 @@
   <string name="framework_introduction">"Mi Services Framework vous permet d'utiliser Mi Compte, Mi Push, Mi Stats, et MIUI BI."</string>
   <string name="framwork_base_service">Pour vous fournir ces services, Mi Services Framework (Mi Compte, Mi Push, Mi Stats, MIUI BI) doit se connecter à internet, accéder à votre numéro de téléphone, IMEI et IMSI, et permettre à votre appareil de recevoir des notifications push</string>
   <string name="game_introduction">"Le plug-in Jeux vous permet de vous connecter, de créer des commandes, d'effectuer des paiements, d'utiliser des coupons et de participer à des événements promotionnels."</string>
-  <string name="google_service_introduction">"Pour pouvoir fonctionner normalement, Google Play a besoin de se connecter à internet, d'accéder à votre emplacement, de pouvoir enregistrer l'audio, de passer des appels, d'accéder aux événements du calendrier, à l'historique des appels, aux capteurs, au stockage, à l'appareil photo, aux informations sur l'appareil et aux comptes."</string>
+  <string name="google_service_introduction">"Pour pouvoir fonctionner normalement, Google Play a besoin de se connecter à internet, d'accéder à votre emplacement, de pouvoir envoyer des SMS et MMS, d'enregistrer l'audio, de passer des appels, d'accéder aux événements du calendrier, à l'historique des appels, aux capteurs, au stockage, à l'appareil photo, aux informations sur l'appareil et aux comptes."</string>
   <string name="home_settings_miui_home">Classique</string>
   <string name="home_settings_poco_launcher">"Lanceur d'applications"</string>
   <string name="home_settings_title">Sélectionnez le lanceur par défaut</string>
@@ -71,8 +71,11 @@
   <string name="input_method_category">"Choisissez le clavier par défaut que vous utiliserez lors de la rédaction des Emails, notes et partout ailleurs. Notez que vous pourrez installer d'autres claviers plus tard."</string>
   <string name="input_method_setting">Choisir un clavier</string>
   <string name="install_preinstall_app">Chargement des applications…</string>
+  <string name="item_contents_wwarning">"Si votre appareil disparaît, vous ne pourrez pas empêcher d'autres personnes de l'utiliser et d'accéder à vos données à moins que vous ne définissiez un verrouillage d'écran. Ignorer quand même ?"</string>
   <string name="item_fingerprint">Empreinte digitale</string>
   <string name="item_lock_screen_password">Écran de verrouillage uniquement</string>
+  <string name="item_return">Régler</string>
+  <string name="item_skip">Ignorer</string>
   <string name="language_picker_other_languages_title">Plus de langues</string>
   <string name="language_settings">Choisir une langue</string>
   <string name="locale_picker_other_locale_title">Autres régions</string>
@@ -242,8 +245,9 @@ Vous devez accepter la politique de confidentialité de Mint Keyboard avant d'ut
   <string name="terms_privacy_policy_input_method_facemoji">Politique de confidentialité de Facemoji</string>
   <string name="terms_privacy_policy_input_method_kika">Politique de confidentialité de Kika</string>
   <string name="title_fingerprint">Définir le mot de passe</string>
+  <string name="title_set_fingerprint">Écran de verrouillage</string>
   <string name="user_agreement">"Conditions générales d'utilisation"</string>
-  <string name="user_agreement_declare">"Avant d'utiliser MIUI, vous devez lire et accepter notre accord d'utilisation et notre politique de confidentialité. Pendant l'activation de votre appareil, le service d'activation de la carte SIM, Rechercher l'appareil, Écran d'accueil, Phrases fréquentes, Service de traduction, MIUI Daemon, Visualiseur HTML et Mise à jour se connectent au réseau. Les services intelligents se connecteront au réseau et accéderont à votre position."</string>
+  <string name="user_agreement_declare">"Avant d'utiliser MIUI, vous devez lire et accepter notre Accord utilisateur et notre Politique de confidentialité. Pendant l'activation de votre appareil, le service d'activation de la carte SIM, Xiaomi Cloud, Backup Service, Rechercher l'appareil, Écran d'accueil, Phrases fréquentes, Service de traduction, MIUI Daemon, Visualiseur HTML, MIUI SDK, Secure Element Application, Assistant AI, Batterie et performance, Power Detector, Joyose, OS AI Setting et Mise à jour se connectent au réseau. Smart cards, Permissions Manager, et les services intelligents se connecteront au réseau et accéderont à votre position."</string>
   <string name="voice_assist_advice">"Le Mi IA vous permet d'utiliser les commandes vocales, mais il consomme plus d'énergie (+1% toutes les heures)."</string>
   <string name="voice_assist_condition">"Vous pourrez utiliser Mi IA dans ces cas:r 
 1. Lorsque l'écran est allumé.r
