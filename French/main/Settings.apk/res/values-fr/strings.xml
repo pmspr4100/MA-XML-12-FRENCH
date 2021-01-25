@@ -255,8 +255,8 @@ Pour basculer entre les services, balayez vers le haut avec deux doigts et maint
   <string name="activating">Activation…</string>
   <string name="active_device_admin_msg">"Application d'administration de l'appareil"</string>
   <string name="active_input_method_subtypes">Méthode de saisie active</string>
-  <string name="activity_check_context">"Your device is trying to connect to the internet now. This process might take longer than expected if you're using mobile data. You can go back and connect to a Wi-Fi network instead, or keep waiting until the mobile data connection is established."</string>
-  <string name="activity_check_title">Connecting to the internet</string>
+  <string name="activity_check_context">"Votre appareil tente actuellement de se connecter à internet. Ce processus peut prendre plus de temps que prévu si vous utilisez un réseau cellulaire. Vous pouvez revenir en arrière et vous connecter à un réseau Wi-Fi à la place, ou continuer à attendre jusqu'à ce que la connexion de données cellulaires soit établie."</string>
+  <string name="activity_check_title">Connexion à internet</string>
   <string name="activity_list_empty">Aucune activité correspondante trouvée.</string>
   <string name="activity_not_found">"L'application n'est pas installée sur votre téléphone."</string>
   <string name="activity_picker_label">Sélectionner une activité</string>
@@ -2205,10 +2205,10 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
   <string name="dialog_title_color_calibration">Correction des couleurs prédéfinies</string>
   <string name="dialog_title_hdmi_color_calibration">Correction des couleurs prédéfinies</string>
   <string name="dialog_title_login">Se connecter à votre compte Mi</string>
-  <string name="dialog_wifi_button_negative">No</string>
-  <string name="dialog_wifi_button_positive">Yes</string>
-  <string name="dialog_wifi_context">You need to connect to the the internet to set up your device. Unless you connect to Wi-Fi, mobile data might be used. Using mobile data might generate additional carrier fees. Use mobile data anyway?</string>
-  <string name="dialog_wifi_title">Using mobile data</string>
+  <string name="dialog_wifi_button_negative">Non</string>
+  <string name="dialog_wifi_button_positive">Oui</string>
+  <string name="dialog_wifi_context">"Vous devez vous connecter à internet pour configurer votre appareil. Sauf si vous vous connectez au Wi-Fi, les données cellulaires peuvent être utilisées. L'utilisation de données cellulaires peut générer des frais supplémentaires pour les opérateurs. Utiliser quand même les données cellulaires ?"</string>
+  <string name="dialog_wifi_title">Utilisation des données cellulaires</string>
   <string name="dialog_yes">Oui</string>
   <string name="direct_boot_unaware_dialog_message">"Remarque : vous ne pourrez utiliser ce clavier qu'après un redémarrage uniquement si vous déverrouillez votre appareil"</string>
   <string name="directory_access">"Accès à l'annuaire"</string>
@@ -2847,7 +2847,7 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
   <string name="font_settings_summary_cn">Polices et taille du texte</string>
   <string name="font_size_exhuge">Extra</string>
   <string name="font_size_huge">Énorme</string>
-  <string name="font_size_kddi">Medium</string>
+  <string name="font_size_kddi">Moyenne</string>
   <string name="font_size_large">Très grande</string>
   <string name="font_size_make_larger_desc">Agrandir</string>
   <string name="font_size_make_smaller_desc">Réduire</string>
