@@ -2167,12 +2167,12 @@ Pour résoudre le problème, vous pouvez arrêter %1$s et l'empêcher de s'exéc
   <string name="dialog_background_check_ok">Désactiver</string>
   <string name="dialog_background_check_title">"Désactiver l'exécution en arrière-plan et arrêter l'appli ?"</string>
   <string name="dialog_backup_title">"Mettre à jour les sauvegardes avant d'effectuer la réinitialisation d'usine ?"</string>
-  <string name="dialog_check_button_negative">Try again</string>
-  <string name="dialog_check_button_positive">Connect to Wi-Fi</string>
-  <string name="dialog_check_context">"Your device can't connect to the internet now.
-1. Tap \"Connect to Wi-Fi\" to select one of the available networks.
-2. If you want to use mobile data, tap \"Try again\" or remove and reinsert your SIM card."</string>
-  <string name="dialog_check_title">"Can't connect to the internet"</string>
+  <string name="dialog_check_button_negative">Réessayer</string>
+  <string name="dialog_check_button_positive">Se connecter au Wi-Fi</string>
+  <string name="dialog_check_context">"Votre appareil ne peut pas se connecter à internet pour le moment.
+1. Appuyez sur \"Se connecter au Wi-Fi\" pour sélectionner l'un des réseaux disponibles.
+2. Si vous souhaitez utiliser les données mobiles, appuyez sur \"Réessayer\" ou retirez et réinsérez votre carte SIM."</string>
+  <string name="dialog_check_title">Connexion à internet impossible</string>
   <string name="dialog_chose_item">Sélectionner un élément à afficher</string>
   <string name="dialog_content_login">Se connecter avec votre compte Mi pour mettre à jour ?</string>
   <string name="dialog_location_message">"Votre téléphone ne peut pas gérer la batterie normalement, car l'application %1$s continue de demander votre position lorsque vous ne l'utilisez pas.
