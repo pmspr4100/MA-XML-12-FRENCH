@@ -321,7 +321,7 @@ et ajustez les préférences automatiquement"</string>
   <string name="ambilight_tips_for_using_tripod">Utilisez un trépied</string>
   <string name="apollo_module_name_pixel">64 MPX</string>
   <string name="apollo_pro_module_name_pixel">108 MPX</string>
-  <string name="app_name">"Gestionnaire d'effets"</string>
+  <string name="app_name">JpegEncoder</string>
   <string name="audio_focus_exit_button_text">Désactiver le focus audio</string>
   <string name="auto_hibernation_enter_tip">"Extinction de l'écran imminente…"</string>
   <string name="autozoom_click_hint">"Appuyez sur un objet pour le maintenir au point lorsqu'il est en mouvement. Restez à au moins 3 mètres pour un meilleur effet."</string>
@@ -501,7 +501,9 @@ et ajustez les préférences automatiquement"</string>
   <string name="cta_perm_type">"Autorisations facultatives (utilisées pour des fonctionnalités supplémentaires pendant que vous les utilisez)"</string>
   <string name="cta_perm_voice">Utiliser le microphone</string>
   <string name="cta_perm_voice_desc">"Pour enregistrer de l'audio lors de l'enregistrement de vidéos"</string>
-  <string name="cta_user_tips"><Data>"Pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez notre &amp;lt;a href =%1$s&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et notre &amp;lt;a href=%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;."</Data></string>
+  <string name="cta_user_tips">
+    <Data>"Pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez notre &amp;lt;a href =%1$s&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et notre &amp;lt;a href=%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;."</Data>
+  </string>
   <string name="custom_sound_art">Rétro</string>
   <string name="custom_sound_default">Défaut</string>
   <string name="custom_sound_modern">Moderne</string>
@@ -920,10 +922,18 @@ regarder plus grand sur les photos"</string>
   <string name="multi_window_mode_not_supported">"L'appareil photo ne fonctionne pas dans plusieurs fenêtres"</string>
   <string name="music_hint_tt">Source de services</string>
   <string name="network_access_user_notice_agree">Accepter</string>
-  <string name="network_access_user_notice_message_live_video"><Data>"L'appareil photo doit se connecter à internet pour fournir des effets, de la musique et d'autres fonctionnalités pour les courtes vidéos.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;En appuyant sur \"Accepter\" ci-dessous, vous acceptez nos &amp;lt;a href =%1$s&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href =%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;, et permettant à l'appareil photo de se connecter à internet."</Data></string>
-  <string name="network_access_user_notice_message_mi_live_video"><Data>"Bienvenue dans de courtes vidéos ! Notre service doit se connecter au réseau pour vous fournir de la musique et d'autres fonctionnalités. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Avant d'utiliser notre service, vous devez lire et accepter nos &amp;lt;a href =%1$s&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href =%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;, ainsi que permettre à l'application de se connecter à internet."</Data></string>
-  <string name="network_access_user_notice_message_sticker"><Data>"L'appareil photo doit se connecter à internet pour fournir des autocollants pour cette fonction.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;En appuyant sur \"Accepter\" ci-dessous, vous acceptez nos &amp;lt;a href =%1$s&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href =%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;, et permettant à l'appareil photo de se connecter à internet."</Data></string>
-  <string name="network_access_user_notice_message_voice_caption"><Data>"L'appareil photo doit se connecter à internet pour fournir une fonctionnalité de sortie de synthèse vocale.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;En appuyant sur \"Accepter\" ci-dessous, vous acceptez nos &amp;lt;a href =%1$s&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href =%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;, et permettre à l'appareil photo de se connecter à internet."</Data></string>
+  <string name="network_access_user_notice_message_live_video">
+    <Data>"L'appareil photo doit se connecter à internet pour fournir des effets, de la musique et d'autres fonctionnalités pour les courtes vidéos.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;En appuyant sur \"Accepter\" ci-dessous, vous acceptez nos &amp;lt;a href =%1$s&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href =%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;, et permettant à l'appareil photo de se connecter à internet."</Data>
+  </string>
+  <string name="network_access_user_notice_message_mi_live_video">
+    <Data>"Bienvenue dans de courtes vidéos ! Notre service doit se connecter au réseau pour vous fournir de la musique et d'autres fonctionnalités. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Avant d'utiliser notre service, vous devez lire et accepter nos &amp;lt;a href =%1$s&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href =%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;, ainsi que permettre à l'application de se connecter à internet."</Data>
+  </string>
+  <string name="network_access_user_notice_message_sticker">
+    <Data>"L'appareil photo doit se connecter à internet pour fournir des autocollants pour cette fonction.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;En appuyant sur \"Accepter\" ci-dessous, vous acceptez nos &amp;lt;a href =%1$s&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href =%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;, et permettant à l'appareil photo de se connecter à internet."</Data>
+  </string>
+  <string name="network_access_user_notice_message_voice_caption">
+    <Data>"L'appareil photo doit se connecter à internet pour fournir une fonctionnalité de sortie de synthèse vocale.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;En appuyant sur \"Accepter\" ci-dessous, vous acceptez nos &amp;lt;a href =%1$s&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href =%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;, et permettre à l'appareil photo de se connecter à internet."</Data>
+  </string>
   <string name="network_access_user_notice_title">Connexion à internet</string>
   <string name="no_storage">"Merci d'insérer une carte SD avant d'utiliser l'appareil photo"</string>
   <string name="not_enough_space">Votre carte SD est pleine</string>
@@ -1148,9 +1158,8 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_camera_heic_image_format_description">"Les photos au format High Efficiency Image File (HEIF) occupent moins d'espace disque, mais ne sont pas prises en charge par certaines applications"</string>
   <string name="pref_camera_heic_image_format_description2">"Le format High Efficiency Image File permet d'économiser de l'espace disque, mais n'est pas pris en charge par certaines applications. Vous ne pouvez pas prendre de photos animées ni enlever les filigranes en HEIF"</string>
   <string name="pref_camera_heic_image_format_title">Format HEIC</string>
-  <string name="pref_camera_high_quality_preferred_description">"Améliorez la qualité d'image à l'aide de l'algorithme intelligent. La vitesse de capture d'image peut diminuer lorsque cette fonction est activée. Le mode nuit sera automatiquement activé lorsque des conditions de faible éclairage sont détectées."</string>
   <string name="pref_camera_hfr_entry_off">Désactivé</string>
-  <string name="pref_camera_high_quality_preferred_description">"Améliorez la qualité d'image à l'aide de l'algorithme intelligent. La vitesse de capture d'image peut diminuer lorsque cette fonction est activée."</string>
+  <string name="pref_camera_high_quality_preferred_description">"Améliorez la qualité d'image à l'aide de l'algorithme intelligent. La vitesse de capture d'image peut diminuer lorsque cette fonction est activée. Le mode nuit sera automatiquement activé lorsque des conditions de faible éclairage sont détectées."</string>
   <string name="pref_camera_high_quality_preferred_title">"Améliorez la qualité d'image"</string>
   <string name="pref_camera_histogram_entry_disable">Désactiver</string>
   <string name="pref_camera_histogram_entry_enable">Activé</string>

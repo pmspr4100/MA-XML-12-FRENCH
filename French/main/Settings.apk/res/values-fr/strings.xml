@@ -1372,7 +1372,9 @@ Vous pouvez désactiver cette fonctionnalité dans les paramètres &gt; Bluetoot
   <string name="button_confirm_convert_fbe">Effacer et chiffrer</string>
   <string name="button_convert_fbe">Nettoyer et convertir…</string>
   <string name="button_disconnect_network">Déconnecter du réseau</string>
+  <string name="button_height_text">Un bouton de confirmation générique (par ex. \"OK\", \"Effectué\")</string>
   <string name="button_light_timeout">Garder les boutons allumés</string>
+  <string name="button_normal_text">Bouton classique</string>
   <string name="button_text_accept">Accepter</string>
   <string name="button_text_accept_timer">Accepter (%d)</string>
   <string name="button_text_cancel">Annuler</string>
@@ -1511,6 +1513,7 @@ Vous pouvez désactiver cette fonctionnalité dans les paramètres &gt; Bluetoot
   <string name="check_find_device_status_failure_confirm">OK </string>
   <string name="check_update">Vérifier les mises à jour</string>
   <string name="checkbox_notification_same_as_incoming_call">Utiliser le volume des appels entrants pour les notifications</string>
+  <string name="checkbox_text">Switch</string>
   <string name="checking_decryption">Vérification en cours…</string>
   <string name="checking_find_device_status">"Vérification de l'état de Localiser l'appareil…"</string>
   <string name="checking_for_updates">Vérification des mises à jour…</string>
@@ -2988,8 +2991,10 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
   <string name="game_driver_dashboard_title">Préférences du pilote de jeu</string>
   <string name="game_driver_footer_text">"Lorsque le pilote de jeu est activé, vous pouvez choisir d'utiliser le pilote graphique mis à jour pour les applications installées sur le périphérique."</string>
   <string name="game_storage_settings">Jeux</string>
+  <string name="general_text">Champ texte</string>
+  <string name="general_time">"Heure : %1$d:%2$d. Les longues vibrations représentent les heures, les courtes vibrations représentent les minutes. Il y aura une courte pause entre les heures et les minutes. Appuyez deux fois pour essayer."</string>
   <string name="gentle_notifications_also_display">Afficher également en</string>
-  <string name="gentle_notifications_display_lock">Écran de vérrouillage</string>
+  <string name="gentle_notifications_display_lock">Écran de verrouillage</string>
   <string name="gentle_notifications_display_status">Barre de notification</string>
   <string name="gentle_notifications_display_summary_shade">Afficher uniquement dans le panneau des notifications</string>
   <string name="gentle_notifications_display_summary_shade_lock">"Afficher dans le panneau des notifications et l'écran de verrouillage"</string>
@@ -2998,7 +3003,7 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
   <string name="gentle_notifications_education">Les notifications douces sont silencieuses et apparaissent toujours dans le panneau des notifications</string>
   <string name="gentle_notifications_title">Notifications douces</string>
   <string name="gesture_c">Modèle C</string>
-  <string name="gesture_function_dialog_message">%1$s is used for \"%2$s\". Replace with \"%3$s\"?</string>
+  <string name="gesture_function_dialog_message">%1$s est utilisé pour \"%2$s\". Remplacer avec \"%3$s\" ?</string>
   <string name="gesture_m">Modèle M</string>
   <string name="gesture_not_supported_dialog_message">Non pris en charge par votre application domestique par défaut, %s</string>
   <string name="gesture_not_supported_positive_button">"Changer d'application domestique par défaut"</string>
@@ -3083,6 +3088,8 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
   <string name="handy_mode_tips_full_screen">Lorsque vous utilisez des gestes en plein écran, vous pouvez activer le mode à une main en utilisant la balle rapide. Vous pouvez également utiliser les boutons plutôt que les gestes en plein écran.</string>
   <string name="haptic_agent_completion_01_content_description">Tâche terminée</string>
   <string name="haptic_cursor_movement_07_content_description">Ajustement de la luminosité</string>
+  <string name="haptic_experience">Démo</string>
+  <string name="haptic_experience_details">Retour haptique &amp; accessibilité</string>
   <string name="haptic_feedback_enable_title">Vibration au toucher</string>
   <string name="haptic_feedback_level">Niveau de vibration</string>
   <string name="haptic_feedback_progress">Niveau de rétroaction haptique</string>
@@ -3100,6 +3107,8 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
   <string name="haptic_return_gesture_05_content_description">Retour en arrière</string>
   <string name="haptic_shutdown_menu_06_content_description">"Menu d'arrêt"</string>
   <string name="haptic_single_selection_02_content_description">Élément sélectionné</string>
+  <string name="haptic_switch_summary">Recevez des retours haptiques spécifiques aux éléments sélectionnés lorsque le Lecteur d'écran est activé</string>
+  <string name="haptic_switch_title">Retour haptique</string>
   <string name="haptic_text_edit_popup_13_content_description">Menu surgissant</string>
   <string name="haptic_upper_right_menu_15_content_description">Menu déroulant</string>
   <string name="haptic_volume_adjustment_14_content_description">Adjustement du volume</string>
@@ -3136,6 +3145,7 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
   <string name="headset_unsaved_devices">non sauvegardé, connecter à votre compte sur un autre téléphone</string>
   <string name="hearing_aids_category">"Outils d'aide à l'audition"</string>
   <string name="heavy_weight_stop_description">"Impossible d'arrêter cette application en toute sécurité. Si vous l'arrêtez, vous risquez de perdre une partie du travail en cours."</string>
+  <string name="height_light_list_text">"Une liste d'éléments importants"</string>
   <string name="help_and_feedback_title">Aide et commentaires</string>
   <string name="help_feedback_label">Aide et commentaires</string>
   <string name="help_label">Aide et commentaires</string>
@@ -3296,6 +3306,7 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
   <string name="input_methods_settings_title">Saisie de texte</string>
   <string name="input_pattern_hint_text">Dessinez votre schéma de déverrouillage</string>
   <string name="input_settings">Paramètres de saisie</string>
+  <string name="input_text">Barre de saisie de texte</string>
   <string name="install_all_warning">"Votre téléphone et vos données personnelles sont très vulnérables aux attaques provenant d'applications inconnues. En installant des applications provenant de cette source, vous acceptez d'être le seul responsable de tout dommage causé à votre téléphone ou de toute perte de données pouvant découler de l'utilisation de telles applications."</string>
   <string name="install_applications">Sources inconnues</string>
   <string name="install_applications_title">Autoriser toutes sources appli</string>
@@ -4679,6 +4690,7 @@ Sélectionnez votre système d'exploitation :"</string>
   <string name="normal">Normal</string>
   <string name="normal_bottom_height_of_keyboard">Régulier</string>
   <string name="normal_info">Tous les sons fonctionneront normalement</string>
+  <string name="normal_list_text">Liste</string>
   <string name="normal_smartcover_title">Étui avec facade opaque</string>
   <string name="not_allowed">Votre carte SIM ne permet pas une connexion à ce réseau.</string>
   <string name="not_battery_optimizing">Optimisation de la batterie non utilisée</string>
@@ -5033,6 +5045,7 @@ Read and agree to %s before using this service."</string>
   <string name="photo_data">Photos et vidéos</string>
   <string name="physical_keyboard_title">Clavier physique</string>
   <string name="pick_up_gesture_wakeup_title">"Soulever pour allumer l'écran"</string>
+  <string name="picker_text">Sélecteur de date</string>
   <string name="picture_color_mode">Mode image couleur</string>
   <string name="picture_color_mode_desc">Utiliser sRGB</string>
   <string name="picture_in_picture_app_detail_summary">"Autorisez cette application à créer une fenêtre Picture-in-picture lorsqu'elle est ouverte ou après l'avoir quittée (par exemple, pour continuer de regarder une vidéo). Cette fenêtre se superpose aux autres applications en cours d'utilisation."</string>
@@ -6223,6 +6236,7 @@ Remarque : Vous ne pouvez pas utiliser votre empreinte digitale pour déverroui
   <string name="see_less">Afficher moins</string>
   <string name="see_more">Afficher plus</string>
   <string name="seek_bar_info">Ajuster la taille</string>
+  <string name="seekbar_text">Glissière</string>
   <string name="select_all">Tout sélectionner</string>
   <string name="select_application">Sélectionner une application</string>
   <string name="select_automatically">Sélectionner automatiquement le réseau</string>
@@ -6986,6 +7000,7 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
   <string name="system_touch">Retour haptique</string>
   <string name="system_ui_settings">"Afficher l'adaptateur de l'IU système"</string>
   <string name="system_update_settings_list_item_title">Mises à jour du système</string>
+  <string name="tab_text">Onglet</string>
   <string name="systemui_theme_dark">Foncé</string>
   <string name="systemui_theme_light">Clair</string>
   <string name="systemui_theme_wallpaper">"Automatique (en fonction du fond d'écran)"</string>
