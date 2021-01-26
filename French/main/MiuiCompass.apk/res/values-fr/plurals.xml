@@ -42,15 +42,11 @@
         <item quantity="other">Immédiatement</item>
     </plurals>
     <plurals name="in_num_minutes">
-        <item quantity="other">in %d minutes</item>
-        <item quantity="one">in 1 minute</item>
+        <item quantity="other">dans %d minutes</item>
+        <item quantity="one">dans 1 minute</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">"À l'instant"</item>
-    </plurals>
-    <plurals name="miui_guide_accessibility_page_current_count">
-        <item quantity="other">Page %1$d of %2$d</item>
-        <item quantity="one">Page %1$d of %2$d</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d éléments sélectionnés</item>

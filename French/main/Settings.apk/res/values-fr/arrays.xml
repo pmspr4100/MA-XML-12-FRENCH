@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="aggregate_entries">
+        <item>Recommandé</item>
+        <item>Important</item>
+        <item>Sans importance</item>
+    </string-array>
+    <string-array name="aggregate_summaries">
+        <item>MIUI décidera quelles notifications doivent apparaître directement</item>
+        <item>Les notifications apparaîtront dans la zone de notification</item>
+        <item>Les notifications apparaîtront dans un dossier séparé</item>
+    </string-array>
     <string-array name="agps_network_entries">
         <item>Réseau domestique</item>
         <item>Tous les réseaux</item>
@@ -12,30 +22,6 @@
     <string-array name="ai_item_action_array">
         <item>Aucun</item>
         <item>"Activer l'assistant Google"</item>
-     </string-array>
-    <string-array name="autofill_logging_level_entries">
-        <item>Désactiver</item>
-        <item>Débug</item>
-        <item>Verbose</item>
-    </string-array>
-    <string-array name="cdma_system_select_choices">
-        <item>Bureau seulement</item>
-        <item>Automatique</item>
-    </string-array>
-    <string-array name="aggregate_entries">
-        <item>Recommandé</item>
-        <item>Important</item>
-        <item>Sans importance</item>
-    </string-array>
-    <string-array name="wifi_frequency_band_entries">
-        <item>Automatique</item>
-        <item>5 GHz uniquement</item>
-        <item>2.4 GHz uniquement</item>
-    </string-array>
-    <string-array name="aggregate_summaries">
-        <item>MIUI décidera quelles notifications doivent apparaître directement</item>
-        <item>Les notifications apparaîtront dans la zone de notification</item>
-        <item>Les notifications apparaîtront dans un dossier séparé</item>
     </string-array>
     <string-array name="ai_key_item_name">
         <item>"Parler à l'assistant Google"</item>
@@ -68,6 +54,11 @@
         <item>"Échelle d'animation 5x"</item>
         <item>"Échelle d'animation 10x"</item>
     </string-array>
+    <string-array name="aod_clock_style_entries">
+        <item>Horizontal</item>
+        <item>Vertical</item>
+        <item>Linéaire</item>
+    </string-array>
     <string-array name="ap_identify">
         <item>Par défaut</item>
         <item>"Point d'accès Wi-Fi"</item>
@@ -78,15 +69,15 @@
         <item>CHAP</item>
         <item>PAP ou CHAP</item>
     </string-array>
-    <string-array name="app_install_location_entries">
-        <item>Mémoire interne du mobile</item>
-        <item>Stockage externe amovible</item>
-        <item>Laisser le système décider</item>
-    </string-array>
     <string-array name="apn_not_allowed_entries">
         <item>internet</item>
         <item>ims</item>
         <item>tethering</item>
+    </string-array>
+    <string-array name="app_install_location_entries">
+        <item>Mémoire interne du mobile</item>
+        <item>Stockage externe amovible</item>
+        <item>Laisser le système décider</item>
     </string-array>
     <string-array name="app_ops_categories">
         <item>Localisation</item>
@@ -236,6 +227,11 @@
         <item>Au moins 2 processus</item>
         <item>Au moins 3 processus</item>
         <item>Au moins 4 processus</item>
+    </string-array>
+    <string-array name="autofill_logging_level_entries">
+        <item>Désactiver</item>
+        <item>Débug</item>
+        <item>Verbose</item>
     </string-array>
     <string-array name="automatic_storage_management_days">
         <item>Depuis plus de 30 jours</item>
@@ -438,11 +434,21 @@
         <item>Cursive</item>
         <item>Petites majuscules</item>
     </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Bureau seulement</item>
+        <item>Automatique</item>
+    </string-array>
     <string-array name="change_security_lock_picker">
         <item>Reconnaissance faciale</item>
         <item>Schéma</item>
         <item>Code PIN</item>
         <item>Mot de passe</item>
+    </string-array>
+    <string-array name="charge_animation_style_entries">
+        <item>Désactiver</item>
+        <item>Flux</item>
+        <item>Lueur</item>
+        <item>Vague</item>
     </string-array>
     <string-array name="city_name">
         <item>Abidjan</item>
@@ -1057,17 +1063,12 @@
         <item>Haut débit</item>
     </string-array>
     <string-array name="dark_ui_mode_entries">
-	  <item>Sombre</item>
+        <item>Sombre</item>
         <item>Clair</item>
     </string-array>
     <string-array name="data_usage_data_range">
         <item>30 derniers jours</item>
         <item>Définir cycle conso...</item>
-    </string-array>
-    <string-array name="debug_hw_overdraw_entries">
-        <item>Désactivé</item>
-        <item>Afficher les zones de superposition</item>
-        <item>Montrer les zones de deutéranomalie</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>"Aujourd'hui (données)"</item>
@@ -1092,6 +1093,15 @@
         <item>"Aujourd'hui: "</item>
         <item>"Ce mois-ci: "</item>
         <item>"Le mois dernier: "</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Désactivé</item>
+        <item>Afficher les zones de superposition</item>
+        <item>Montrer les zones de deutéranomalie</item>
+    </string-array>
+    <string-array name="default_vol_stream_entries">
+        <item>Sonnerie</item>
+        <item>Média</item>
     </string-array>
     <string-array name="dream_timeout_entries">
         <item>Jamais</item>
@@ -1275,11 +1285,6 @@ Note: seulement pour Ubuntu 8.04 !"</item>
         <item>"Pourcentage (dans l'icône)"</item>
         <item>"Pourcentage (à côté de l'icône)"</item>
     </string-array>
-    <string-array name="wide_notch_battery_indicator_style_entries">
-        <item>Graphique</item>
-        <item>"Pourcentage (dans l'icône)"</item>
-        <item>"Pourcentage (à côté de l'icône)"</item>
-    </string-array>
     <string-array name="notification_shade_shortcut_entries">
         <item>Rechercher</item>
         <item>Paramètres</item>
@@ -1391,7 +1396,7 @@ Note: seulement pour Ubuntu 8.04 !"</item>
         <item>"Le contraste restera constant"</item>
     </string-array>
     <string-array name="screen_optimize_title">
-	  <item>Auto (recommandé)</item>
+        <item>Auto (recommandé)</item>
         <item>Saturé</item>
         <item>Par défaut</item>
     </string-array>
@@ -1470,6 +1475,15 @@ Note: seulement pour Ubuntu 8.04 !"</item>
     <string-array name="startup_hips_action">
         <item>Autoriser</item>
         <item>Refuser</item>
+    </string-array>
+    <string-array name="status_bar_settings_qs_layout_entries">
+        <item>Défaut</item>
+        <item>Compact</item>
+    </string-array>
+    <string-array name="tabs_taptic_detail">
+        <item>Crisp</item>
+        <item>Base</item>
+        <item>Pop</item>
     </string-array>
     <string-array name="time_format_entries">
         <item>12-heures 1:00 PM</item>
@@ -1589,6 +1603,11 @@ Note: seulement pour Ubuntu 8.04 !"</item>
         <item>Moyen</item>
         <item>Élevé</item>
     </string-array>
+    <string-array name="wide_notch_battery_indicator_style_entries">
+        <item>Graphique</item>
+        <item>"Pourcentage (dans l'icône)"</item>
+        <item>"Pourcentage (à côté de l'icône)"</item>
+    </string-array>
     <string-array name="wifi_calling_mode_choices">
         <item>Wi-Fi préféré</item>
         <item>Priorité au mobile</item>
@@ -1611,6 +1630,11 @@ Note: seulement pour Ubuntu 8.04 !"</item>
         <item>Se connecter automatiquement</item>
         <item>Se connecter manuellement</item>
         <item>Toujours demander</item>
+    </string-array>
+    <string-array name="wifi_frequency_band_entries">
+        <item>Automatique</item>
+        <item>5 GHz uniquement</item>
+        <item>2.4 GHz uniquement</item>
     </string-array>
     <string-array name="wifi_hidden_entries">
         <item>Non</item>
@@ -1645,6 +1669,10 @@ Note: seulement pour Ubuntu 8.04 !"</item>
     </string-array>
     <string-array name="wifi_phase2_entries">
         <item>Aucun</item>
+    </string-array>
+    <string-array name="wifi_privacy_entries">
+        <item>Utiliser un MAC aléatoire</item>
+        <item>"Utiliser le MAC de l'appareil"</item>
     </string-array>
     <string-array name="wifi_proxy_settings">
         <item>Aucun</item>
@@ -1698,28 +1726,5 @@ Note: seulement pour Ubuntu 8.04 !"</item>
         <item>"Échelle d'animation 2x"</item>
         <item>"Échelle d'animation 5x"</item>
         <item>"Échelle d'animation 10x"</item>
-    </string-array>
-    <string-array name="status_bar_settings_qs_layout_entries">
-        <item>Défaut</item>
-        <item>Compact</item>
-    </string-array>
-    <string-array name="default_vol_stream_entries">
-        <item>Sonnerie</item>
-        <item>Média</item>
-    </string-array>
-    <string-array name="wifi_privacy_entries">
-        <item>Utiliser un MAC aléatoire</item>
-        <item>"Utiliser le MAC de l'appareil"</item>
-    </string-array>
-    <string-array name="aod_clock_style_entries">
-        <item>Horizontal</item>
-        <item>Vertical</item>
-        <item>Linéaire</item>
-    </string-array>
-    <string-array name="charge_animation_style_entries">
-        <item>Désactiver</item>
-        <item>Flux</item>
-        <item>Lueur</item>
-        <item>Vague</item>
     </string-array>
 </resources>
