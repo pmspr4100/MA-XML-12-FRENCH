@@ -422,6 +422,8 @@ et ajustez les préférences automatiquement"</string>
   <string name="clone_video_mode_start_hint">"Veuillez appuyer sur le déclencheur pour commencer l'enregistrement"</string>
   <string name="close_back_flash_toast">"Votre appareil à surchauffé. impossible d'utiliser le flash maintenant."</string>
   <string name="close_front_flash_toast">"Votre appareil à surchauffé. impossible d'utiliser le flash maintenant."</string>
+  <string name="close_night_algo_toast_low_power">"Chargez votre appareil pour pouvoir régler l'exposition"</string>
+  <string name="close_night_algo_toast_thermal">"Refroidissez votre appareil pour pouvoir régler l'exposition"</string>
   <string name="color_effect_entry_berry">Baies</string>
   <string name="color_effect_entry_blackgold">Gold vibes</string>
   <string name="color_effect_entry_blackgold_describe">"Ce filtre à contraste élevé ne conserve que les couleurs jaune et bleu foncé. Utilisez-le dans les rues bien éclairées d'une ville durant la nuit."</string>
@@ -1100,7 +1102,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_camera_device_watermark_title">"Filigrane de l'appareil"</string>
   <string name="pref_camera_dual_enable_title">Activé le double appareil photo</string>
   <string name="pref_camera_dual_sat_enable_title">Activé le double appareil photo SAT</string>
-  <string name="pref_camera_dynamic_frame_rate_summary">"Diminuez la fréquence d'images dans des conditions de faible éclairage de %1$d à %2$d IPS pour améliorer la qualité vidéo"</string>
+  <string name="pref_camera_dynamic_frame_rate_summary">"La fréquence d'images sera automatiquement abaissée dans des conditions de faible éclairage pour améliorer la qualité vidéo"</string>
   <string name="pref_camera_dynamic_frame_rate_title">"Ajuster la fréquence d'images à une faible luminosité"</string>
   <string name="pref_camera_eis_entry_normal">EIS</string>
   <string name="pref_camera_eis_entry_off">Off</string>
@@ -1146,6 +1148,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_camera_heic_image_format_description">"Les photos au format High Efficiency Image File (HEIF) occupent moins d'espace disque, mais ne sont pas prises en charge par certaines applications"</string>
   <string name="pref_camera_heic_image_format_description2">"Le format High Efficiency Image File permet d'économiser de l'espace disque, mais n'est pas pris en charge par certaines applications. Vous ne pouvez pas prendre de photos animées ni enlever les filigranes en HEIF"</string>
   <string name="pref_camera_heic_image_format_title">Format HEIC</string>
+  <string name="pref_camera_high_quality_preferred_description">"Améliorez la qualité d'image à l'aide de l'algorithme intelligent. La vitesse de capture d'image peut diminuer lorsque cette fonction est activée. Le mode nuit sera automatiquement activé lorsque des conditions de faible éclairage sont détectées."</string>
   <string name="pref_camera_hfr_entry_off">Désactivé</string>
   <string name="pref_camera_high_quality_preferred_description">"Améliorez la qualité d'image à l'aide de l'algorithme intelligent. La vitesse de capture d'image peut diminuer lorsque cette fonction est activée."</string>
   <string name="pref_camera_high_quality_preferred_title">"Améliorez la qualité d'image"</string>
@@ -1198,6 +1201,8 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_camera_portrait_mode_entry_on">Mode portait est activé</string>
   <string name="pref_camera_portrait_mode_title">Mode portrait</string>
   <string name="pref_camera_portrait_with_facebeauty_title">Embellir en mode portrait</string>
+  <string name="pref_camera_predictive_shutter_description">"Suivez les mouvements pour minimiser le flou sur les photos d'enfants, d'animaux domestiques et d'autres sujets actifs"</string>
+  <string name="pref_camera_predictive_shutter_title">Suivi du mouvement</string>
   <string name="pref_camera_proximity_lock_summary">Verrouiller les gestes tactiles une fois placé dans une poche</string>
   <string name="pref_camera_proximity_lock_title">Mode de poche</string>
   <string name="pref_camera_quick_settings">Paramètres rapides</string>
@@ -1379,6 +1384,8 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_skin_beautify_slim_title">Svelte</string>
   <string name="pref_skin_beautify_smooth_title">Peau</string>
   <string name="pref_smart_guide_title">Suggestions intelligentes</string>
+  <string name="pref_super_night_se_summary">"Détectez les conditions de faible éclairage et améliorez automatiquement la qualité de l'image"</string>
+  <string name="pref_super_night_se_title">Mode nuit automatique</string>
   <string name="pref_userdefine_watermark_title">Filigrane personnalisé</string>
   <string name="pref_video_captrue_ability_title">"Capture d'image pendant l'enregistrement"</string>
   <string name="pref_video_denoise_off">Désactivé</string>

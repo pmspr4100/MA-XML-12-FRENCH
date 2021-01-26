@@ -4082,6 +4082,7 @@ D'autres personnes utilisent cet appareil.
   <string name="miheadset_checkUpdate">Vérifier les mises à jour</string>
   <string name="miheadset_closeAnc">Désactivé</string>
   <string name="miheadset_connect_play_music">Démarrer la lecture automatiquement lorsque les écouteurs sont connectés</string>
+  <string name="miheadset_connect_toast_tips">"Connectez d'abord les écouteurs"</string>
   <string name="miheadset_connectHeadsetForFw">Connecter les écouteurs pour afficher la version du firmware</string>
   <string name="miheadset_define_self">Personnalisé</string>
   <string name="miheadset_disconnect">Déconnecter</string>
@@ -4133,9 +4134,7 @@ D'autres personnes utilisent cet appareil.
   <string name="miheadset_soft">Soft</string>
   <string name="miheadset_transparent">Transparence</string>
   <string name="miheadset_triple_click_key_mode">triple click key mode</string>
-  <string name="miheadset_triple_click_key_mode_summary">triple click key map</string>
-  <string name="miheadset_unpair_device">"annuler l'appairage ?"</string>
-  <string name="miheadset_unpair_device_text">Tous les appareils associés à ce compte Xiaomi seront supprimés</string>
+  <string name="miheadset_unpair_device_text">%1$s sera dissocié de tous les appareils associés à ce Compte Mi.</string>
   <string name="mipush_fake_channel_group_name">Mi Push</string>
   <string name="misc_files">Fichiers divers</string>
   <string name="misc_files_selected_count">%1$d fichiers sélectionnés sur %2$d</string>
