@@ -60,6 +60,7 @@
   <string name="error_has_occurred">An error occurred</string>
   <string name="error_mirror_working">"Can't share items while sharing screen"</string>
   <string name="error_msg_network_error">A network error occurred. Try again.</string>
+  <string name="error_permission_denied">To be able to use this feature, grant Mi Share all the required permissions in the Settings.</string>
   <string name="error_receive_file_cannot_read">"Couldn't receive file"</string>
   <string name="error_receive_file_changed">"Can't receive. The item has changed."</string>
   <string name="error_receive_file_file_opened">"Couldn't receive this item. Looks like it's being used now."</string>
@@ -101,9 +102,8 @@
   <string name="location_enabled">Mi Share turned on location services to find devices nearby</string>
   <string name="mishare_folder_in_file_explorer">File Manager &gt; MiShare</string>
   <string name="mishare_service_channel_desc">Notifications about Mi Share processes</string>
-  <string name="mishare_settings_summary_international">"You can use Mi Share to send items to devices nearby.
-Mi Share is compatible with Mi and Redmi phones.
-OPPO, vivo, realme, and other brands will soon be compatible with Mi Share too. You can check the list of compatible devices on our website."</string>
+  <string name="mishare_settings_summary_international">"Mi Share allows you to send items wirelessly to other nearby devices.
+This feature is supported by OPPO, vivo, realme, and other smartphone manufacturers. You can check the list of supported devices on the official website of any selected brand."</string>
   <string name="mishare_state_protection">Turn on Mi Share automatically</string>
   <string name="mishare_state_protection_summary">Turn Mi Share back on automatically when Bluetooth or Wi-Fi are turned back on</string>
   <string name="mishare_state_protection_summary_china">Turn Mi Share back on automatically when Bluetooth or WLAN are turned back on</string>
@@ -116,6 +116,7 @@ OPPO, vivo, realme, and other brands will soon be compatible with Mi Share too. 
   <string name="miuix_sbl_tracking_progress_labe_up_none">not do that</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">refreshing</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">fail</string>
+  <string name="nearby_share">Nearby Share</string>
   <string name="no_longer_prompt">Block</string>
   <string name="no_longer_receive">"Block this device? You won't be able to receive files from it."</string>
   <string name="not_set">Non défini</string>
