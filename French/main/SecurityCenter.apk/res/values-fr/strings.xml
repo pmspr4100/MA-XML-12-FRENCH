@@ -914,6 +914,7 @@ Votre opérateur peut vous facturer des frais supplémentaires si vous activer l
   <string name="databooster_tips_message">"Activez pour restreindre toutes les cartes SIM à l'exception de la carte de données. Désactivez cette fonction si des erreurs se produisent dans les jeux de votre choix."</string>
   <string name="databooster_tips_title">Attention</string>
   <string name="date_picker_lunar">Calendrier chinois traditionnel</string>
+  <string name="date_time_picker_dialog_title">"Réglez la date et l'heure"</string>
   <string name="day_overflow_tips">Avertissement dépassement des données journalières</string>
   <string name="debug_open_final_tip">Turn on USB debugging?</string>
   <string name="debug_open_title">This feature is intended for developers and might not be convenient for general users. Turning on USB debugging might bring about the following changes:</string>
@@ -1721,7 +1722,19 @@ de vos sessions de jeu"</string>
   <string name="gtb_setting_item_title_smart_5g">5G network optimization</string>
   <string name="gtb_setting_item_title_smart_wlan_speed">Mi WiFi speed boost</string>
   <string name="gtb_spring_festival_back_game">Retour au jeu</string>
+  <string name="gtb_spring_festival_egg_obtain_fail">Connexion au réseau impossible</string>
   <string name="gtb_spring_festival_goto_gameturbo">Afficher</string>
+  <string name="gtb_spring_festival_guide">"Passer en mode paysage
+pour rejoindre notre chasse aux œufs !"</string>
+  <string name="gtb_spring_festival_guide_know">"C'est compris"</string>
+  <string name="gtb_spring_festival_push_active_desc">Gagnez des téléphones, des appareils intelligents et des coupons</string>
+  <string name="gtb_spring_festival_push_active_title">La chasse aux œufs de Pâques est lancée !</string>
+  <string name="gtb_spring_festival_push_desc">Rejoignez notre chasse aux œufs pour gagner des prix</string>
+  <string name="gtb_spring_festival_push_egg_title">Vous avez reçu un œuf de Pâques !</string>
+  <string name="gtb_spring_festival_push_gift_title">Des récompenses de chasse aux œufs arrivent !</string>
+  <string name="gtb_spring_festival_push_join">Rejoindre</string>
+  <string name="gtb_spring_festival_push_see">Afficher</string>
+  <string name="gtb_spring_festival_shortcut_create">"Créer un raccourci vers l'écran d'accueil"</string>
   <string name="gtb_wlan_speed_tips">Utilisation de Mi WiFi…</string>
   <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Erreur d'opérateur ?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="guide_operator_text">"Votre opérateur actuel : "</string>
@@ -3439,17 +3452,18 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
   <string name="see_all_app_behavior_record">"Afficher tous les comportements des applications"</string>
   <string name="see_detail">Détails</string>
   <string name="see_more_content">Mettre à jour le centre de jeux pour voir plus de moments forts</string>
-  <string name="select_province_and_city">Select location</string>
-  <string name="send_msg_to_query">Send a text message to check</string>
+  <string name="select_province_and_city">Sélectionnez la localisation</string>
+  <string name="send">Envoyer</string>
+  <string name="send_msg_to_query">Envoyez un SMS pour vérifier</string>
   <string name="set_applock_password">Définir un mot de passe</string>
-  <string name="set_complete">Set successfully</string>
-  <string name="set_location">Set location</string>
+  <string name="set_complete">Paramétré avec succès</string>
+  <string name="set_location">Régler la localisation</string>
   <string name="set_mixed_password_name">Définir un mot de passe</string>
   <string name="set_numeric_password_name">Définir un code PIN</string>
-  <string name="set_package_tips">"We'll send a free SMS to your carrier to check your data plan. The information you provide will be encrypted and uploaded to our servers in order to compose this message."</string>
-  <string name="set_package_tips_detail">"The information uploaded to Xiaomi servers will include your carrier's details, as well as your phone number, IMEI, and Mi Account."</string>
+  <string name="set_package_tips">Nous enverrons un SMS gratuit à votre opérateur pour vérifier votre forfait de données. Les informations que vous fournissez seront chiffrées et téléchargées sur nos serveurs afin de rédiger ce message.</string>
+  <string name="set_package_tips_detail">Les informations téléchargées sur les serveurs Xiaomi comprendront les détails de votre opérateur, ainsi que votre numéro de téléphone, IMEI et votre Compte Mi.</string>
   <string name="set_pattern_password_name">Dessinez un schéma</string>
-  <string name="set_traffic_tips">Set your data plan to manage mobile data usage and avoid additional carrier fees</string>
+  <string name="set_traffic_tips">"Définissez votre forfait de données pour gérer l'utilisation des données mobiles et éviter les frais supplémentaires de l'opérateur"</string>
   <string name="setting">Paramètres</string>
   <string name="Setting_lock">Paramètres</string>
   <string name="setting_online_service">Services en ligne</string>

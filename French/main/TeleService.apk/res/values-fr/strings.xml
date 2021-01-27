@@ -862,9 +862,8 @@ Bluetooth"</string>
   <string name="fiveg_sa_switch_open_dialog_content">5G connection might be unstable in standalone mode, which might affect telephony services. Turn on SA mode anyway?</string>
   <string name="fiveg_sa_switch_open_dialog_title">Attention</string>
   <string name="fiveg_sa_switch_summary">Autoriser la connexion aux réseaux 5G en mode autonome</string>
-  <string name="fiveg_sa_switch_title">Mode SA</string> 
-  <string name="fiveg_signal_strength1">5G Signal strength:</string>
-  <string name="fiveg_switch_status1">5G switch status:</string>
+  <string name="fiveg_signal_strength1">Puissance signal 5G :</string>
+  <string name="fiveg_switch_status1">Statut permutation 5G :</string>
   <string name="fiveg_switch_title">Réseau 5G</string>
   <string name="fiveg_upperlayer_indication1">Upper Layer Indication Status:</string>
   <string name="flash_when_ring_summary">Utilisez le flash pour notifier les appels entrants</string>
@@ -1625,6 +1624,8 @@ Votre carte SIM sera bloquée en cas de nouvel échec."</string>
   <string name="select_webview_provider_toast_text">"Ce choix n'est plus valide. Réessayez."</string>
   <string name="send_button">Envoyer</string>
   <string name="send_keepalive_title">Envoyer un keep-alive</string>
+  <string name="sensor_answer_summary">Portez le téléphone à votre oreille pour répondre automatiquement à un appel entrant</string>
+  <string name="sensor_answer_title">Soulevez pour répondre</string>
   <string name="set_primary_summary">Utilisé pour les appels sortants</string>
   <string name="set_primary_title">Définir comme compte principal</string>
   <string name="set_smsc_address_error">Impossible de définir le numéro</string>
