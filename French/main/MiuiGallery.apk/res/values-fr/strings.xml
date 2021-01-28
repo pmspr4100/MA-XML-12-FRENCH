@@ -563,11 +563,11 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
   <string name="disable_auto_upload_tip">Désactiver la synchronisation avec le Cloud pour cet album ?</string>
   <string name="disable_auto_upload_title">Désactiver la synchronisation avec le Cloud</string>
   <string name="do_not_remind_me">Ne plus montrer</string>
-  <string name="document_provider_guide_step_1">1. Appuyez sur le bouton « Plus ».</string>
-  <string name="document_provider_guide_step_2">2. Appuyez sur « Afficher le stockage interne ».</string>
-  <string name="document_provider_guide_step_3">3. Appuyez sur le bouton de menu latéral.</string>
-  <string name="document_provider_guide_step_4">4. Sélectionner une carte SD.</string>
-  <string name="document_provider_guide_step_5">5. Appuyez sur « Sélectionner ».</string>
+  <string name="document_provider_guide_step_1">%d. Appuyez sur le bouton « Plus ».</string>
+  <string name="document_provider_guide_step_2">%d. Appuyez sur « Afficher le stockage interne ».</string>
+  <string name="document_provider_guide_step_3">%d. Appuyez sur le bouton de menu latéral.</string>
+  <string name="document_provider_guide_step_4">%d. Sélectionner une carte SD.</string>
+  <string name="document_provider_guide_step_5">%d. Appuyez sur « Sélectionner ».</string>
   <string name="double_tap_for_hr_preview_108m">"Appuyez deux fois à nouveau pour passer à l'aperçu 108 MPx"</string>
   <string name="double_tap_to_higher_definition">"Appuyez 2 fois à nouveau pour ouvrir l'aperçu HD"</string>
   <string name="download_canceled">Téléchargement annulé</string>
@@ -2133,7 +2133,7 @@ Transcoding might take some time when you use this feature for the first time."<
   <string name="video_compress_encode_video">Compression vidéo…</string>
   <string name="video_compress_lib_download">Télécharger le plugin de compression vidéo</string>
   <string name="video_compress_lib_download_without_wifi">"Votre appareil semble déconnecté du Wi-Fi. Vous pouvez utiliser les données mobiles pour télécharger le plugin de compression vidéo (%.1f Mo)."</string>
-  <string name="video_compress_not_with_8k">"Impossible de compresser des vidéos 8K"</string>
+  <string name="video_compress_not_with_8k">"Impossible de compresser des vidéos %dK"</string>
   <string name="video_compress_not_with_format">"La compression vidéo n'est pas possible pour ce format"</string>
   <string name="video_compress_not_with_low_quality">La définition actuelle est la plus basse</string>
   <string name="video_compress_save_stop_tips">Appuyez à nouveau pour arrêter la compression</string>
@@ -2195,7 +2195,7 @@ Transcoding might take some time when you use this feature for the first time."<
   <string name="video_editor_loading_warning_msg">"En raison d'une erreur d'encodage, certaines fonctionnalités et aperçus peuvent être indisponibles pendant le processus d'édition. Cela n'affecter pas le fichier vidéo final."</string>
   <string name="video_editor_loading_warning_title">"Erreur d'encodage"</string>
   <string name="video_editor_more">Avancé</string>
-  <string name="video_editor_not_support_8k_tips">Impossible de modifier des vidéos 8K</string>
+  <string name="video_editor_not_support_8k_tips">Impossible de modifier des vidéos %dK</string>
   <string name="video_editor_not_support_tips">De tels fichiers vidéos ne sont pas pris en charge</string>
   <string name="video_editor_ok">OK </string>
   <string name="video_editor_regulator">Ajuster</string>
