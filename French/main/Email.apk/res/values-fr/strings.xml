@@ -288,6 +288,7 @@
   <string name="chat_item_msg_user_etc">etc.</string>
   <string name="check_setup_data">"    Validation des paramètres du serveur…"</string>
   <string name="choose_an_office365_international">Édition internationale</string>
+  <string name="choose_an_office365_provider">Choisissez un fournisseur de service Office365</string>
   <string name="choose_an_office365_sj">Édition 21Vianet</string>
   <string name="choosertitle_sharevia">Partager via</string>
   <string name="clear">Effacer</string>
@@ -366,6 +367,7 @@
   <string name="conversation_quick_button_disapprove">Annuler</string>
   <string name="conversation_quick_button_received">Reçu</string>
   <string name="conversation_report_spam">Rapporter un spam</string>
+  <string name="conversation_report_un_spam">Pas un spam</string>
   <string name="conversation_spam_dig_msg">Marquer ce message comme spam? Ce message sera déplacé dans le dossier \"Spam\" et son expéditeur sera ajouté à la liste noire.</string>
   <string name="conversation_spam_tips">Marquer ce message comme spam?</string>
   <string name="copied">Copié</string>
@@ -436,6 +438,10 @@
   <string name="edit_quick_response_dialog">Réponse rapide</string>
   <string name="edit_signature">Éditer la signature</string>
   <string name="editor_max_length_limit_hint">The message you entered is too long</string>
+  <string name="email_netease">NetEase Mail</string>
+  <string name="email_no_snippet">"[Ce message n'a pas de texte de corps]"</string>
+  <string name="email_qq">QQ Mail</string>
+  <string name="email_sina">Sina Mail</string>
   <string name="email_sync_failed">Impossible de synchroniser le courrier</string>
   <string name="eml_parse_message">Ouverture du fichier EML…</string>
   <string name="empty_account_tip">Impossible de trouver le compte</string>
@@ -544,6 +550,8 @@
   <string name="general_preference_text_zoom_normal">Normal</string>
   <string name="general_preference_text_zoom_small">Petite</string>
   <string name="general_preference_text_zoom_tiny">Très petite</string>
+  <string name="general_preference_trash_contact">Revue des spams</string>
+  <string name="general_preference_trash_contact_sum">"Traitement des lettres d'expéditeurs qui ont été signalés en grand nombre"</string>
   <string name="generic_attachment_problem">Impossible de joindre le fichier.</string>
   <string name="get_database_exception">Effacer les données de cette application dans Paramètres &gt; Applications système et essayez à nouveau.</string>
   <string name="get_oauth_code">Obtenir le code</string>
@@ -652,6 +660,16 @@
         Accepté:
         %s
     "</string>
+    <string name="meeting_allday">"
+        Quand:
+        %s
+        (toute la journée)
+        "</string>
+    <string name="meeting_allday_recurring">"
+        Quand:
+        %s
+        (toute la journée, récurrent)
+        "</string>
   <string name="meeting_canceled">"
         Annulé:
         %s
@@ -660,6 +678,11 @@
         Refusé:
         %s
     "</string>
+    <string name="meeting_recurring">"
+        Quand:
+        %s
+        (récurrent)
+        "</string>
   <string name="meeting_responded_failed">Pas de réponse</string>
   <string name="meeting_tentative">"
         Tentative:
@@ -669,6 +692,14 @@
         Mis à jour:
         %s
     "</string>
+    <string name="meeting_when">"
+        Quand:
+        %s
+        "</string>
+    <string name="meeting_where">"
+        Où:
+        %s
+        "</string>
   <string name="megabytes">%s Mo</string>
   <string name="menu_att_mgr">Pièces jointes</string>
   <string name="menu_att_mgr_order_default">Récemment vu</string>
@@ -747,6 +778,7 @@ Essayez un autre compte de messagerie."</string>
   <string name="notification_action_undo_archive">Archivé</string>
   <string name="notification_action_undo_delete">Supprimé</string>
   <string name="notification_action_undo_remove_label">Étiquette retirée</string>
+  <string name="notification_exchange_calendar_added">Calendrier Exchange ajouté</string>
   <string name="notify_channel_new_mail">Notifier de nouveaux messages</string>
   <string name="notify_channel_no_disterb">Mode ne pas déranger</string>
   <string name="notify_channel_permission_notice">Permissions requises</string>
@@ -1165,6 +1197,7 @@ Appuyer sur "&lt;b&gt;Sync Now&lt;/b&gt; pour synchroniser maintenant, ou &lt;b&
   <string name="wait_for_sync_title">En attente de synchronisation</string>
   <string name="wait_help_context">patienter</string>
   <string name="wait_while_update_db">Updating database…</string>
+  <string name="web_view_load_error_tip">"Des problèmes sont survenus et le corps de cet e-mail ne peut pas s'afficher correctement. Si vous rencontrez ce problème, veuillez ajouter le groupe QQ 952315061 pour nous faire part de vos commentaires."</string>
   <string name="webview_logout">Vous pouvez essayer de vous connecter à nouveau</string>
   <string name="webview_logout_cancel">Plus tard</string>
   <string name="webview_logout_sure">Réessayer</string>
