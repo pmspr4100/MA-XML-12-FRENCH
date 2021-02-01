@@ -93,6 +93,8 @@
   <string name="category_type_other">Autre</string>
   <string name="category_video">Vidéos</string>
   <string name="category_zip">Archives</string>
+  <string name="cdd_message">"En raison des restrictions d'Android 11, vous ne pourrez pas afficher certains des fichiers générés dans les applications tierces dans le Gestionnaire de fichiers."</string>
+  <string name="cdd_title">Attention</string>
   <string name="character_counter_content_description">%1$d caractères entrés sur %2$d</string>
   <string name="character_counter_overflowed_content_description">Limite de caractères dépassée de %1$d sur %2$d</string>
   <string name="clean_hint">"Appuyez pour libérer de l'espace"</string>
@@ -296,6 +298,7 @@
   <string name="midrop_msg_2">Lorsque Mi Drop est activé, vous pouvez rechercher des appareils à proximité et envoyer des fichiers</string>
   <string name="midrop_send_files">Choisissez les fichiers à envoyer</string>
   <string name="mirror_can_not_drag_mask">Glisser pour utiliser Mi Share</string>
+  <string name="mirror_can_not_drag_mask_new">Faites glisser des éléments dans %s</string>
   <string name="mirror_new_name">Créer un dossier (%s)</string>
   <string name="mirror_new_name_first">Créer un dossier</string>
   <string name="mirror_no_recommended_app">Aucune application recommandée</string>
@@ -307,6 +310,7 @@
   <string name="mirror_side_bar_tab_mine_name">Mi Share</string>
   <string name="mirror_side_bar_tab_phone_name">Espace de stockage du téléphone</string>
   <string name="mirror_side_bar_tab_recent_name">Récent</string>
+  <string name="mirror_side_bar_tab_tranfer_name">Transferts &amp; téléchargements</string>
   <string name="mirror_side_bar_tab_type_name">Fichiers</string>
   <string name="mirror_storage_internal_desc">Espace de stockage du téléphone</string>
   <string name="mirror_tip_add_file">Créer un dossier</string>
@@ -646,8 +650,10 @@
   <string name="today">"Aujourd'hui"</string>
   <string name="tomorrow">Demain</string>
   <string name="tools">OUTILS</string>
+  <string name="transfer">Transferts &amp; téléchargements</string>
   <string name="transfer_done">Les fichiers ont été déplacés avec succès.</string>
   <string name="transfer_private_data">Déplacement des dossiers privés depuis la carte SD…</string>
+  <string name="transfer_summary">Téléchargements et éléments transférés via Mi Share</string>
   <string name="tuesday">Mardi</string>
   <string name="tuesday_short">Mar</string>
   <string name="tuesday_shortest">Mar</string>
