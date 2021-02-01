@@ -3113,7 +3113,8 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
   <string name="haptic_switch_title">Retour haptique</string>
   <string name="haptic_text_edit_popup_13_content_description">Menu surgissant</string>
   <string name="haptic_upper_right_menu_15_content_description">Menu déroulant</string>
-  <string name="haptic_volume_adjustment_14_content_description">Adjustement du volume</string>
+  <string name="haptic_video_content_description">Vidéo de démo retour haptique</string>
+  <string name="haptic_volume_adjustment_14_content_description">Ajustement du volume</string>
   <string name="hardkeyboard_category">Paramètres du clavier physique</string>
   <string name="hardware_info">Modèle et matériel</string>
   <string name="hardware_revision">Version du matériel</string>
@@ -7595,6 +7596,7 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
   <string name="users_summary">Connecté en tant que \"%1$s\"</string>
   <string name="v7_preference_off">DÉSACTIVÉ</string>
   <string name="v7_preference_on">ACTIVÉ</string>
+  <string name="var_font_switch_title">"Police variable à l'échelle du système"</string>
   <string name="verify_apps_over_usb_summary">Vérifier les applications installées via ADB/ADT pour un comportement dangereux.</string>
   <string name="verify_apps_over_usb_title">Vérifier les applications via USB</string>
   <string name="version_text">version %1$s</string>
@@ -8335,7 +8337,9 @@ Allow this for all apps that want to scan?"</string>
   <string name="wifi_switch_to_gsm_message">Connexion Wi-Fi perdue. Utiliser la connexion de données cellulaire ?</string>
   <string name="wifi_switch_to_gsm_title">Utiliser le GSM ?</string>
   <string name="wifi_tap_to_sign_in">Appuyez ici pour vous connecter au réseau</string>
+  <string name="wifi_tether_checkbox_kddi_text">Partage de connexion Wi-Fi</string>
   <string name="wifi_tether_checkbox_text">"Point d'accès Wi-Fi"</string>
+  <string name="wifi_tether_configure_ap_kddi_text">Configurer le partage de connexion Wi-Fi</string>
   <string name="wifi_tether_configure_ap_text">"Configurer le point d'accès"</string>
   <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
   <string name="wifi_tether_configure_subtext">"Point d'accès %1$s %2$s"</string>
@@ -8420,6 +8424,7 @@ Allow this for all apps that want to scan?"</string>
   <string name="wizard_back">Retour</string>
   <string name="wizard_finish">Terminé</string>
   <string name="wizard_next">Suivant</string>
+  <string name="wlan_scanner_unresizeble">"Impossible d'afficher les paramètres Wi-Fi en mode écran partagé"</string>
   <string name="words_title">Texte</string>
   <string name="work_alarm_ringtone_title">"Son de l'alarme professionnelle par défaut"</string>
   <string name="work_mode_label">Profil professionnel</string>
