@@ -73,6 +73,10 @@
         <item quantity="other">dans %d minutes</item>
         <item quantity="one">dans 1 minute</item>
     </plurals>
+    <plurals name="item_terms">
+        <item quantity="other">%1$s éléments</item>
+        <item quantity="one">%1$s élément</item>
+    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">"À l'instant"</item>
     </plurals>
