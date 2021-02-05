@@ -1471,7 +1471,7 @@ Transcoding might take some time when you use this feature for the first time."<
   <string name="photo_editor_miui_beauty_no_face">Impossible de détecter le visage</string>
   <string name="photo_editor_mosaic">Mosaïque</string>
   <string name="photo_editor_navigator_cancel">Annuler</string>
-  <string name="photo_editor_navigator_download_network_metered_msg">Télécharger %s nécessite environ 4 Mo de données mobiles. Télécharger maintenant ?</string>
+  <string name="photo_editor_navigator_download_network_metered_msg" formatted="false">Télécharger %s nécessite environ %2$d Mo de données cellulaires. Télécharger maintenant ?</string>
   <string name="photo_editor_navigator_download_network_metered_title">"Alerte d'utilisation des données"</string>
   <string name="photo_editor_navigator_download_title">Chargement…</string>
   <string name="photo_editor_navigator_export">Enregistrer</string>
