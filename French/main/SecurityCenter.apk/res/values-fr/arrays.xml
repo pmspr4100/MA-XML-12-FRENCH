@@ -1,155 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="cellular_data_unit">
-      <item>Go</item>
-      <item>Mo</item>
-    </string-array>
-    <string-array name="cellular_package_type">
-      <item>Forfait mensuel</item>
-      <item>Illimité</item>
-      <item>Forfait journalier</item>
-    </string-array>
-    <string-array name="debug_open_intercept">
-      <item>"Il sera possible d'accéder et de modifier des fichiers sur votre appareil à l'aide d'un ordinateur."</item>
-      <item>"L'installation d'applications sur votre appareil sans votre autorisation explicite sera autorisée."</item>
-      <item>"Vous pourrez surveiller et enregistrer votre contenu d'écran à distance."</item>
-      <item>"Il sera possible d'accéder aux informations détaillées sur votre appareil."</item>
-    </string-array>
-    <string-array name="miui_optimization_close_intercept">
-      <item>Important: plusieurs applications système peuvent cesser de fonctionner correctement.</item>
-      <item>"Les dispositions de texte, les comptes et le contenu peuvent ne pas s'afficher correctement."</item>
-    </string-array>
-    <string-array name="perm_intercept_notification">
-      <item>Lisez toutes vos notifications, y compris le contenu de vos SMS et autres éléments pouvant contenir des informations personnelles</item>
-      <item>Restreindre les permissions de notification pour certaines applications</item>
-      <item>Simuler les notifications de tapotement et les applications ouvertes</item>
-      <item>Activer et désactiver le mode NPD</item>
-    </string-array>
-    <string-array name="perm_intercept_statitics">
-      <item>Collectez les données sur vos intérêts et votre comportement en apprenant quelles applications vous utilisez et à quelle fréquence vous les utilisez</item>
-      <item>"Accédez à vos paramètres de langue et liés à votre opérateur, ainsi qu'à d'autres détails"</item>
-    </string-array>
-    <string-array name="perm_intercept_unknown_source">
-      <item>Les applications tierces qui ne sont pas vérifiées peuvent causer plusieurs problèmes et diminuer la stabilité du système.</item>
-      <item>Certaines applications tierces peuvent contenir des logiciels malveillants qui mettent en danger vos données personnelles.</item>
-    </string-array>
-    <string-array name="priority_storage_entries">
-      <item>Stockage interne</item>
-      <item>Stockage externe</item>
-    </string-array>
-    <string-array name="date_of_traffic_cmcc">
-      <item>"Cette semaine "</item>
-      <item>"Aujourd'hui "</item>
-      <item>"Ce mois "</item>
-    </string-array>
-    <string-array name="date_of_traffic">
-      <item>"Hier "</item>
-      <item>"Aujourd'hui "</item>
-      <item>"Le mois dernier "</item>
-      <item>"Ce mois "</item>
-    </string-array>
-    <string-array name="date_of_traffic_prefix_cmcc">
-      <item>"Cette semaine: "</item>
-      <item>"Aujourd'hui: "</item>
-      <item>"Ce mois: "</item>
-    </string-array>
-    <string-array name="date_of_traffic_prefix">
-      <item>"Hier: "</item>
-      <item>"Aujourd'hui: "</item>
-      <item>"Le mois dernier: "</item>
-      <item>"Ce mois: "</item>
-    </string-array>
-    <string-array name="date_of_app_all">
-      <item>Hier (données cellulaires)</item>
-      <item>"Aujourd'hui (données cellulaires)"</item>
-      <item>Le mois dernier (données cellulaires)</item>
-      <item>Ce mois (données cellulaires)</item>
-      <item>Hier (Wi-Fi)</item>
-      <item>"Aujourd'hui (Wi-Fi)"</item>
-      <item>Le mois dernier (Wi-Fi)</item>
-      <item>Ce mois (Wi-Fi)</item>
-    </string-array>
-    <string-array name="traffic_type">
-      <item>"Utilisation des données cellulaires "</item>
-      <item>"Utilisation du Wi-Fi "</item>
-    </string-array>
-    <string-array name="mi_service_traffic_type">
-      <item>"Utilisation des données cellulaires "</item>
-      <item>"Utilisation du Wi-Fi "</item>
-    </string-array>
-    <string-array name="over_limit_traffic_waring_style">
-      <item>"Afficher l'alerte"</item>
-      <item>Avertir et désactiver les données cellulaires</item>
-    </string-array>
-    <string-array name="roaming_network_type">
-      <item>Toujours</item>
-      <item>Seulement pour les exceptions</item>
-      <item>Jamais</item>
-    </string-array>
-    <string-array name="lock_mode">
-      <item>"Lorsque l'appareil est verrouillé"</item>
-      <item>"Lorsque l'appareil est verrouillé ou en sortant d'une application"</item>
-      <item>"Lorsque l'appareil est verrouillé ou 1 minute après la sortie d'une application"</item>
-    </string-array>
-    <string-array name="sort_type">
-      <item>État</item>
-      <item>"Nom de l'application"</item>
-      <item>"Fréquence d'utilisation"</item>
-      <item>Stockage utilisé</item>
-      <item>"Heure d'installation"</item>
-    </string-array>
-    <string-array name="sort_title">
-      <item>Trier par état</item>
-      <item>Trier par nom</item>
-      <item>"Trier par fréquence d'utilisation"</item>
-      <item>Trier par stockage utilisé</item>
-      <item>"Trier par date d'installation"</item>
-    </string-array>
-    <string-array name="title_app_info">
-      <item>"Source d'installation"</item>
-      <item>"Heure d'installation"</item>
-      <item>Source de la dernière mise à jour</item>
-      <item>Heure de la dernière mise à jour</item>
-    </string-array>
-    <string-array name="sms_report_type">
-      <item>Utilisation des données</item>
-      <item>Solde du téléphone</item>
-    </string-array>
-    <string-array name="ew_emergency_organ_donation_arrays">
-       <item>Oui</item>
-       <item>Non</item>
-    </string-array>
-    <string-array name="luckymoney_sound">
-      <item>Muet</item>
-      <item>金币</item>
-      <item>红包来了</item>
-    </string-array>
-    <string-array name="tether_limit_warn_type">
-      <item>Désactiver et notifier</item>
-      <item>Seulement notifier</item>
-    </string-array>
-    <string-array name="traffic_package_type">
-      <item>Forfait de données mensuel</item>
-      <item>Forfait de données quotidien</item>
-      <item>Forfait de données illimitées</item>
-    </string-array>
     <string-array name="alarm_repeat_type">
-      <item>Une fois</item>
-      <item>Chaque jour</item>
-      <item>Jours ouvrés</item>
-      <item>Lundi au vendredi</item>
-      <item>Personnalisé</item>
+        <item>Une fois</item>
+        <item>Chaque jour</item>
+        <item>Jours ouvrés</item>
+        <item>Lundi au vendredi</item>
+        <item>Personnalisé</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
-      <item>Une fois</item>
-      <item>Chaque jour</item>
-      <item>Lundi au vendredi</item>
-      <item>Personnalisé</item>
-    </string-array>
-    <string-array name="applock_password_types">
-       <item>Modèle</item>
-       <item>PIN</item>
-       <item>Mot de passe</item>
+        <item>Une fois</item>
+        <item>Chaque jour</item>
+        <item>Lundi au vendredi</item>
+        <item>Personnalisé</item>
     </string-array>
     <string-array name="app_behavior_type_menu">
         <item>Tous les enregistrements</item>
@@ -158,41 +20,174 @@
         <item>Utilisation des autorisations</item>
         <item>Actions sensibles</item>
     </string-array>
+    <string-array name="applock_password_types">
+        <item>Modèle</item>
+        <item>PIN</item>
+        <item>Mot de passe</item>
+    </string-array>
+    <string-array name="cellular_data_unit">
+        <item>Go</item>
+        <item>Mo</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>Forfait mensuel</item>
+        <item>Illimité</item>
+        <item>Forfait journalier</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>Hier (données cellulaires)</item>
+        <item>"Aujourd'hui (données cellulaires)"</item>
+        <item>Le mois dernier (données cellulaires)</item>
+        <item>Ce mois (données cellulaires)</item>
+        <item>Hier (Wi-Fi)</item>
+        <item>"Aujourd'hui (Wi-Fi)"</item>
+        <item>Le mois dernier (Wi-Fi)</item>
+        <item>Ce mois (Wi-Fi)</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Hier "</item>
+        <item>"Aujourd'hui "</item>
+        <item>"Le mois dernier "</item>
+        <item>"Ce mois "</item>
+    </string-array>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"Cette semaine "</item>
+        <item>"Aujourd'hui "</item>
+        <item>"Ce mois "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Hier: "</item>
+        <item>"Aujourd'hui: "</item>
+        <item>"Le mois dernier: "</item>
+        <item>"Ce mois: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"Cette semaine: "</item>
+        <item>"Aujourd'hui: "</item>
+        <item>"Ce mois: "</item>
+    </string-array>
+    <string-array name="debug_open_intercept">
+        <item>"Il sera possible d'accéder et de modifier des fichiers sur votre appareil à l'aide d'un ordinateur."</item>
+        <item>"L'installation d'applications sur votre appareil sans votre autorisation explicite sera autorisée."</item>
+        <item>"Vous pourrez surveiller et enregistrer votre contenu d'écran à distance."</item>
+        <item>"Il sera possible d'accéder aux informations détaillées sur votre appareil."</item>
+    </string-array>
+    <string-array name="ew_emergency_organ_donation_arrays">
+        <item>Oui</item>
+        <item>Non</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>"Lorsque l'appareil est verrouillé"</item>
+        <item>"Lorsque l'appareil est verrouillé ou en sortant d'une application"</item>
+        <item>"Lorsque l'appareil est verrouillé​ ou 1 minute après la sortie d'une application"</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Utilisation des données cellulaires "</item>
+        <item>"Utilisation du Wi-Fi "</item>
+    </string-array>
+    <string-array name="miui_optimization_close_intercept">
+        <item>Important: plusieurs applications système peuvent cesser de fonctionner correctement.</item>
+        <item>"Les dispositions de texte, les comptes et le contenu peuvent ne pas s'afficher correctement."</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>"Afficher l'alerte"</item>
+        <item>Avertir et désactiver les données cellulaires</item>
+    </string-array>
     <string-array name="pc_settings_thermal_entries">
-       <item>Par défaut</item>
-       <item>Prioriser la performance</item>
+        <item>Par défaut</item>
+        <item>Prioriser la performance</item>
     </string-array>
     <string-array name="pc_settings_thermal_summaries">
-       <item>Utilisation du mode de contrôle de température par défaut</item>
-       <item>Prioriser la performance</item>
+        <item>Utilisation du mode de contrôle de température par défaut</item>
+        <item>Prioriser la performance</item>
+    </string-array>
+    <string-array name="perm_intercept_notification">
+        <item>Lisez toutes vos notifications, y compris le contenu de vos SMS et autres éléments pouvant contenir des informations personnelles</item>
+        <item>Restreindre les permissions de notification pour certaines applications</item>
+        <item>Simuler les notifications de tapotement et les applications ouvertes</item>
+        <item>Activer et désactiver le mode NPD</item>
+    </string-array>
+    <string-array name="perm_intercept_statitics">
+        <item>Collectez les données sur vos intérêts et votre comportement en apprenant quelles applications vous utilisez et à quelle fréquence vous les utilisez</item>
+        <item>"Accédez à vos paramètres de langue et liés à votre opérateur, ainsi qu'à d'autres détails"</item>
+    </string-array>
+    <string-array name="perm_intercept_unknown_source">
+        <item>Les applications tierces qui ne sont pas vérifiées peuvent causer plusieurs problèmes et diminuer la stabilité du système.</item>
+        <item>Certaines applications tierces peuvent contenir des logiciels malveillants qui mettent en danger vos données personnelles.</item>
     </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
-      <item>Après 1 minute</item>
-      <item>Après 5 minutes</item>
-      <item>Après 10 minutes</item>
-      <item>Jamais</item>
-    </string-array>
-    <string-array name="power_dialog_sleep_items">
-      <item>15 secondes</item>
-      <item>30 secondes</item>
-      <item>1 minute</item>
-      <item>2 minutes</item>
-      <item>5 minutes</item>
-      <item>10 minutes</item>
-      <item>Jamais</item>
+        <item>Après 1 minute</item>
+        <item>Après 5 minutes</item>
+        <item>Après 10 minutes</item>
+        <item>Jamais</item>
     </string-array>
     <string-array name="power_dialog_cpu_state_items">
-      <item>Performance</item>
-      <item>Équilibré</item>
+        <item>Performance</item>
+        <item>Équilibré</item>
     </string-array>
-    <string-array name="power_dialog_wifi_internet_state_items">
-      <item>Désactiver</item>
-      <item>Activer</item>
-      <item>Par défaut</item>
+    <string-array name="power_dialog_sleep_items">
+        <item>15 secondes</item>
+        <item>30 secondes</item>
+        <item>1 minute</item>
+        <item>2 minutes</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>Jamais</item>
     </string-array>
     <string-array name="power_dialog_vibration_items">
-      <item>Jamais</item>
-      <item>Vibrer en mode silencieux</item>
-      <item>Toujours</item>
+        <item>Jamais</item>
+        <item>Vibrer en mode silencieux</item>
+        <item>Toujours</item>
+    </string-array>
+    <string-array name="power_dialog_wifi_internet_state_items">
+        <item>Désactiver</item>
+        <item>Activer</item>
+        <item>Par défaut</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>Stockage interne</item>
+        <item>Stockage externe</item>
+    </string-array>
+    <string-array name="roaming_network_type">
+        <item>Toujours</item>
+        <item>Seulement pour les exceptions</item>
+        <item>Jamais</item>
+    </string-array>
+    <string-array name="sms_report_type">
+        <item>Utilisation des données</item>
+        <item>Solde du téléphone</item>
+    </string-array>
+    <string-array name="sort_title">
+        <item>Trier par état</item>
+        <item>Trier par nom</item>
+        <item>"Trier par fréquence d'utilisation"</item>
+        <item>Trier par stockage utilisé</item>
+        <item>"Trier par date d'installation"</item>
+    </string-array>
+    <string-array name="sort_type">
+        <item>État</item>
+        <item>"Nom de l'application"</item>
+        <item>"Fréquence d'utilisation"</item>
+        <item>Stockage utilisé</item>
+        <item>"Heure d'installation"</item>
+    </string-array>
+    <string-array name="tether_limit_warn_type">
+        <item>Désactiver et notifier</item>
+        <item>Seulement notifier</item>
+    </string-array>
+    <string-array name="title_app_info">
+        <item>"Source d'installation"</item>
+        <item>"Heure d'installation"</item>
+        <item>Source de la dernière mise à jour</item>
+        <item>Heure de la dernière mise à jour</item>
+    </string-array>
+    <string-array name="traffic_package_type">
+        <item>Forfait de données mensuel</item>
+        <item>Forfait de données quotidien</item>
+        <item>Forfait de données illimitées</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Utilisation des données cellulaires "</item>
+        <item>"Utilisation du Wi-Fi "</item>
     </string-array>
 </resources>

@@ -3311,6 +3311,13 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
     <string name="privacy_special_permission_summary">Surveillez la façon dont les applications utilisent les permissions sensibles</string>
     <string name="privacy_special_permission_title">Permissions spéciales</string>
     <string name="privacy_summary">En savoir plus sur la protection de la vie privée dans MIUI</string>
+    <string name="privacy_thumbnail_blur_category_financial">Finance</string>
+    <string name="privacy_thumbnail_blur_category_other">Autre</string>
+    <string name="privacy_thumbnail_blur_category_photography">Photo &amp; vidéo</string>
+    <string name="privacy_thumbnail_blur_category_tip">Recommandé</string>
+    <string name="privacy_thumbnail_blur_search_empty">Aucun résultat trouvé</string>
+    <string name="privacy_thumbnail_blur_title">Flouter les aperçus</string>
+    <string name="privacy_thumbnail_blur_top_tip">Sélectionnez les applications pour lesquelles les aperçus seront flous dans Récents</string>
     <string name="privacy_type_open">Activé</string>
     <string name="privacy_using_camera">"Utilisation de l'appareil photo"</string>
     <string name="privacy_using_location">Accéder à la localisation</string>
@@ -3523,8 +3530,8 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
     <string name="shortcut_title_scan">Scan</string>
     <string name="shortcut_title_whatsapp_clean">WhatsApp cleaner</string>
     <string name="show_system_app">Afficher les applications système</string>
-    <string name="show_traffic_dialog_message">"Vos informations d'utilisation de données apparaîtront dans le panneau de notifications. Vous pouvez activer ou désactiver cette fonctionnalité à tout moment dans Utilisation des données &gt; Paramètres."</string>
-    <string name="show_traffic_dialog_title">"Afficher l'utilisation dans le panneau de notifications"</string>
+    <string name="show_traffic_dialog_message">"Vos informations d'utilisation de données apparaîtront dans le Panneau de notification. Vous pouvez activer ou désactiver cette fonctionnalité à tout moment dans Utilisation des données &gt; Paramètres."</string>
+    <string name="show_traffic_dialog_title">"Afficher l'utilisation dans le Panneau de notification"</string>
     <string name="showpattern">Afficher le schéma</string>
     <string name="shutdown_cancel_reminder">"Impossible d'éteindre l'appareil"</string>
     <string name="shutdown_cancel_reminder_detail">"Impossible d'éteindre l'appareil parce que vous étiez au milieu d'un appel"</string>
@@ -3949,7 +3956,7 @@ Formatting will erase existing content on the ^2. To avoid losing content, back 
     <string name="summary_rcs_switch">Envoi de SMS aux utilisateurs de China Mobile sans frais</string>
     <string name="summary_realname_verify">Vérifiez votre identité pour effectuer des paiements plus sécurisés.</string>
     <string name="summary_restrict_data_usage">"Vous avez restreint l'utilisation des données pour cette application."</string>
-    <string name="summary_show_notification">"Vider le cache, voir l'état de la batterie, et bloquer les éléments dans le panneau de notification"</string>
+    <string name="summary_show_notification">"Vider le cache, voir l'état de la batterie, et bloquer les éléments dans le Panneau de notification"</string>
     <string name="summary_telecom_operator">"Obtenir vos statistiques d'utilisation mensuelle de données de votre opérateur"</string>
     <string name="summary_usb">Prévenir les malwares depuis les données transmises par USB</string>
     <string name="summary_virus">Supprimer les virus pour garder votre appareil sécurisé</string>
@@ -4233,7 +4240,7 @@ Formatting will erase existing content on the ^2. To avoid losing content, back 
     <string name="title_realname_verify">"Vérification d'identité"</string>
     <string name="title_reply">Commentaire</string>
     <string name="title_restrict_data_usage">%s ne peut pas se connecter à internet ?</string>
-    <string name="title_show_notification">Widget du panneau de notifications</string>
+    <string name="title_show_notification">Widget du Panneau de notification</string>
     <string name="title_system_auto_download">Les mises à jour se téléchargeront automatiquement</string>
     <string name="title_telecom_operator">Ajustement automatique</string>
     <string name="title_usb_no">Débug USB activé</string>
@@ -4261,7 +4268,7 @@ Formatting will erase existing content on the ^2. To avoid losing content, back 
     <string name="toast_root_apply_accept">"L'accès ROOT de %s a été autorisé"</string>
     <string name="toast_root_apply_reject">"L'accès ROOT de %s a été refusé"</string>
     <string name="toast_set_success">Activé avec succès</string>
-    <string name="toast_show_notification">Épinglé au panneau de notifications</string>
+    <string name="toast_show_notification">Épinglé au Panneau de notification</string>
     <string name="toast_update_fail">Impossible de mettre à jour</string>
     <string name="toast_update_nonetwork">Impossible de se connecter au réseau</string>
     <string name="toast_update_notneed">À jour</string>
@@ -4395,8 +4402,8 @@ Le volume de données restant inclut l'excédent du mois précédent."</string>
     <string name="user_define_title">Ajouter des règles</string>
     <string name="user_guide">Faites glisser pour découvrir plus de jeux</string>
     <string name="user_guide_title">Choix des manettes</string>
-    <string name="v7_preference_off">OFF</string>
-    <string name="v7_preference_on">ON</string>
+    <string name="v7_preference_off">DÉSACTIVÉ</string>
+    <string name="v7_preference_on">ACTIVÉ</string>
     <string name="vb_advanced_settings">Image</string>
     <string name="vb_advanced_settings_after_open">Après</string>
     <string name="vb_advanced_settings_before_open">Avant</string>
