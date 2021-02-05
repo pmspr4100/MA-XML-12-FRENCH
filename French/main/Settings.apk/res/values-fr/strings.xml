@@ -266,7 +266,11 @@ Pour basculer entre les services, balayez vers le haut avec deux doigts et maint
   <string name="adaptive_sleep_privacy">"L'attention à l'écran utilise la caméra avant pour voir si quelqu'un regarde l'écran. Cela fonctionne sur l'appareil et les images ne sont jamais stockées ni envoyées à Google."</string>
   <string name="adaptive_sleep_summary_off">Désactiver</string>
   <string name="adaptive_sleep_summary_on">"Activer / L'écran ne s'éteindra pas si vous le regardez"</string>
-  <string name="adaptive_sleep_title">Écran regardé</string>
+  <string name="adaptive_sleep_title">Écran regardé</string><string name="adaptive_sleep_title_no_permission">Camera access needed</string>
+  <string name="adb_authorization_timeout_summary">"Désactive la révocation automatique des autorisations adb pour les systèmes qui ne se sont pas reconnectés dans le délai par défaut (7 jours) ou configuré par l'utilisateur (minimum 1 jour)."</string>
+  <string name="adb_authorization_timeout_graphics_driver_footer_texttitle">"Désactiver le délai d'expiration de l'autorisation ADB"</string>
+  <string name="adb_device_fingerprint_title_format">"Empreinte de l'appareil : %1$s"</string>
+  <string name="adb_device_forget">Oublier</string>
   <string name="adb_keys_warning_message">"Révoquer l'accès au débogage USB pour tous les ordinateurs que vous-avez précédemment autorisés ?"</string>
   <string name="adb_warning_message">Le débogage USB est uniquement destiné à des fins de développement. Utilisez-le pour copier des données entre votre ordinateur et votre appareil, installer des applications sur votre appareil sans notification et lire les données de journal.</string>
   <string name="adb_warning_title">Autoriser le débogage USB ?</string>
@@ -361,6 +365,7 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
   <string name="alarm_volume_title">Alarme</string>
   <string name="all_volume_title">Volume</string>
   <string name="allow">Autoriser</string>
+  <string name="allow_all_rotations_title">Autoriser toutes les rotations</string>
   <string name="allow_bind_app_widget_activity_allow_bind">"Une fois le widget créé, %1$s peut accéder à toutes les données qu'il affiche."</string>
   <string name="allow_bind_app_widget_activity_allow_bind_title">"Créer un widget et autoriser l'accès ?"</string>
   <string name="allow_bind_app_widget_activity_always_allow_bind">Toujours autoriser %1$s à créer des widgets et accéder à leurs données</string>
@@ -575,6 +580,7 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
   <string name="asst_capabilities_actions_replies_title">Actions et réponses suggérées</string>
   <string name="asst_capability_prioritizer_summary">Définissez automatiquement les notifications de priorité inférieure sur Gentle</string>
   <string name="asst_capability_prioritizer_title">Priorité de notification adaptative</string>
+  <string name="asst_capability_ranking_title">Classement adaptatif des notifications</string>
   <string name="attempt_other_network">Changer de réseaux</string>
   <string name="audio_and_captions_category_title">"Audio et texte à l'écran"</string>
   <string name="audio_files_title">Fichiers audio</string>
@@ -1365,6 +1371,8 @@ Vous pouvez désactiver cette fonctionnalité dans les paramètres &gt; Bluetoot
   <string name="bubbles_feature_disabled_dialog_text">"Pour activer les bulles pour cette application, vous devez d'abord les activer sur votre appareil. Cela impactera les autres applications pour lesquelles vous aviez précédemment activer les bulles."</string>
   <string name="bubbles_feature_disabled_dialog_title">Activation des bulles</string>
   <string name="bubbles_feature_education">"Certaines notification et d'autres contenus peuvent apparaître sous forme de bulles à l'écran. Pour ouvrir une bulle, appuyez dessus. Pour la faire disparaître, déplacez-la vers le bas de l'écran."</string>
+  <string name="bug_report_handler_picker_footer_text">Détermine quelle application gère le raccourci Rapport de bogue sur votre appareil.</string>
+  <string name="bug_report_handler_title">Gestionnaire de rapport de bogue</string>
   <string name="bug_report_settings">"Retour d'information"</string>
   <string name="bugreport_in_power">Raccourci de rapport de bogues</string>
   <string name="bugreport_in_power_summary">"Afficher un bouton dans le menu d'énergie pour effectuer un rapport de bogue"</string>
@@ -1877,7 +1885,20 @@ Pour continuer d'utiliser votre téléphone, vous devez rétablir la configurati
   <string name="dark_color_summary_lcd">"Utilisez une palette de couleurs plus sombre pour les arrière-plans du système et les applications compatibles. Le mode sombre peut vous aider à soulager la fatigue oculaire lorsque vous utilisez votre appareil dans l'obscurité."</string>
   <string name="dark_color_summary_oled">"Utilisez une palette de couleurs plus sombre pour les arrière-plans du système et les applications compatibles. Le mode sombre réduit la consommation d'énergie et aide à soulager la fatigue oculaire."</string>
   <string name="dark_mode_contrast">Ajuster le contraste automatiquement</string>
-  <string name="dark_mode_contrast_hint">Ajustez les couleurs et diminuez le contraste automatiquement lorsque la luminosité est réduite</string>
+  <string name="dark_mode_contrast_hint">Ajuste les couleurs et diminuez le contraste automatiquement lorsque la luminosité est réduite</string>
+  <string name="dark_mode_font_background_title">Ajuster les couleurs et diminuer le contraste automatiquement</string>
+  <string name="dark_theme_slice_subtitle">Aide à prolonger la durée de vie de la batterie</string>
+  <string name="dark_theme_slice_title">Essayer le Thème sombre</string>
+  <string name="dark_ui_activation_off_auto">"Désactiver jusqu'au coucher du soleil"</string>
+  <string name="dark_ui_activation_off_custom">"Désactiver jusqu'à %1$s"</string>
+  <string name="dark_ui_activation_off_manual">Désactiver maintenant</string>
+  <string name="dark_ui_activation_on_auto">"Activer jusqu'au lever du soleil"</string>
+  <string name="dark_ui_activation_on_custom">"Activer jusqu'à %1$s"</string>
+  <string name="dark_ui_activation_on_manual">Activer maintenant</string>
+  <string name="dark_ui_auto_mode_auto">"S'active du coucher du soleil au lever du soleil"</string>
+  <string name="dark_ui_auto_mode_custom">"S'active à l'heure choisie"</string>
+  <string name="dark_ui_auto_mode_never">Aucun</string>
+  <string name="dark_ui_auto_mode_title">Planifier</string>
   <string name="dark_ui_mode">Mode sombre</string>
   <string name="dark_ui_mode_disabled_summary_dark_theme_off">"Temporairement activé en raison de l'économiseur de batterie"</string>
   <string name="dark_ui_mode_disabled_summary_dark_theme_on">"Activé / temporairement désactivé en raison de l'économiseur de batterie"</string>
@@ -2399,6 +2420,10 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
   <string name="dsds_dialog_message">Vous devez redémarrer votre appareil pour modifier ce paramètre.</string>
   <string name="dsds_dialog_title">"Redémarrer l'appareil ?"</string>
   <string name="dsds_switch_string">Activer DSDS</string>
+  <string name="dsu_is_running">DSU est en marche</string>
+  <string name="dsu_loader_description">Charge une image Dynamic System Update (DSU)</string>
+  <string name="dsu_loader_loading">Chargement...</string>
+  <string name="dsu_loader_title">Chargeur DSU</string>
   <string name="dtmf_tone_enable_title">Tonalité du clavier</string>
   <string name="dual_cdma_sim_warning_notification_channel_title">Combinaison SIM</string>
   <string name="dual_cdma_sim_warning_notification_summary">Utiliser %1$s peut limiter la fonctionnalité. Appuyez pour en savoir plus.</string>
@@ -2467,6 +2492,10 @@ Vous pouvez afficher les journaux générés dans le Gestionnaire de fichiers."<
   <string name="empty_networks_list">Aucun réseau trouvé.</string>
   <string name="enable_adb">Débogage USB</string>
   <string name="enable_adb_summary">Activer le mode Débogage lorsque le support USB est connecté</string>
+  <string name="enable_adb_wireless">Débogage sans fil</string>
+  <string name="enable_adb_wireless_summary">Mode débogage lorsque le Wi‑Fi est connecté</string>
+  <string name="enable_blurs_on_windows_summary">"Active les flous de fenêtre au niveau du compositeur. Nécessite le redémarrage de l'appareil."</string>
+  <string name="enable_blurs_on_windows_title">Activation des flous</string>
   <string name="enable_compatibility">"Mettre l'application à l'échelle"</string>
   <string name="enable_freeform_support">Activer les fenêtres en forme libre</string>
   <string name="enable_freeform_support_summary">Activer le support pour les fenêtres expérimentales en forme libre.</string>
@@ -2487,6 +2516,8 @@ Vous pouvez afficher les journaux générés dans le Gestionnaire de fichiers."<
   <string name="enable_service_pattern_reason">"Vous devez confirmer le schéma, car l'activation du service %1$s influe sur le chiffrement des données."</string>
   <string name="enable_service_pin_reason">"Vous devez confirmer le code PIN, car l'activation du service %1$s influe sur le chiffrement des données."</string>
   <string name="enable_service_title">Le service effectuera les actions suivantes:</string>
+  <string name="enable_sizecompat_freeform">Activer freeform sizecompat</string>
+  <string name="enable_sizecompat_freeform_summary">Autorise les applications sizecompat à être dans freeform</string>
   <string name="enable_snapshot_screenlock">Appui prolongé sur retour prend une photo</string>
   <string name="enable_tcp_rtt_support">Affichage TCP RTT</string>
   <string name="enable_tcp_rtt_support_summary">Évaluer les performances de la qualité de la communication réseau</string>
@@ -2885,7 +2916,7 @@ Il semblait n'y avoir ni chevaux, ni animaux d'aucune espèce ; les hommes tran
   <string name="font_size_preview_text_title">"Le Magicien d'Oz"</string>
   <string name="font_size_save">OK</string>
   <string name="font_size_small">Très petite</string>
-  <string name="font_size_summary">"Changer la taille du texte pour l'écran d'accueil, panneau de notification, composeur et menus systèmes.
+  <string name="font_size_summary">"Changer la taille du texte pour l'écran d'accueil, Panneau de notification, composeur et menus systèmes.
 
 "</string>
   <string name="font_size_summary1">"Si votre police système est trop petite, essayez "</string>
@@ -3059,8 +3090,17 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
   <string name="got_it">Compris</string>
   <string name="gps_description">Plusieurs systèmes de navigation par satellite (GPS, BeiDou, GLONASS, Galileo) sont pris en charge</string>
   <string name="gps_description_global">Les appareils Xiaomi sont compatibles avec plusieurs systèmes de navigation, notamment GPS, NavIC, BeiDou, GLONASS et Galileo.</string>
+  <string name="graphics_driver_all_apps_preference_title">Activer pour toutes les applications</string>
+  <string name="graphics_driver_app_preference_default">Par défaut</string>
+  <string name="graphics_driver_app_preference_game_driver">Pilote jeu</string>
+  <string name="graphics_driver_app_preference_prerelease_driver">Pilote développeur</string>
+  <string name="graphics_driver_app_preference_system">Pilote graphique système</string>
+  <string name="graphics_driver_app_preference_title">Choix du pilote graphique</string>
+  <string name="graphics_driver_dashboard_summary">Modifie les réglages du pilote graphique</string>
+  <string name="graphics_driver_dashboard_title">Préférences du pilote graphique</string>
+  <string name="graphics_driver_footer_text">"Lorsqu'il existe plusieurs pilotes graphiques, vous pouvez choisir d'utiliser le pilote graphique mis à jour pour les applications installées sur l'appareil."</string>
   <string name="gsm_to_wifi_connect_type_title">Cellulaire par Wi-Fi</string>
-  <string name="gxzw_add_fingerprint_area">"Scanner d'empreintes digitales"</string>
+  <string name="gxzw_add_fingerprint_area">"Scanneur d'empreintes digitales"</string>
   <string name="gxzw_add_fingerprint_continue">Continuer</string>
   <string name="gxzw_add_fingerprint_edge_message">Déplacez vos doigts pour que le capteur enregistre les bords de vos empreintes digitales</string>
   <string name="gxzw_add_fingerprint_edge_title">Ajustez votre prise</string>
@@ -3576,6 +3616,7 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
   <string name="legal_written_offer">Offre écrite</string>
   <string name="license_title">Licence</string>
   <string name="lift_to_wake_title">Soulever pour activer</string>
+  <string name="light_color_mode">Mode clair</string>
   <string name="lights_title">Lumière de la LED</string>
   <string name="line_breaking_summary">Optimiser la rupture de la ligne de paragraphe</string>
   <string name="line_breaking_title">Optimiser le texte</string>
@@ -4341,6 +4382,7 @@ Passer à %1$s n'annulera pas votre %2$s service."</string>
   <string name="module_version">Mise à jour du Google Play</string>
   <string name="more_account_settings_title">Autres comptes</string>
   <string name="more_dangerous_option_hint">Des fonctionnalités à risque élevé comprenant \"%1$s\" sont activées. Appuyez pour modifier les paramètres.</string>
+  <string name="more_dark_mode_settings">"Plus d'option Mode sombre"</string>
   <string name="more_installed_services_title">Plus de services téléchargés</string>
   <string name="move_app">Déplacer</string>
   <string name="move_app_failed_dlg_text">"Impossible de déplacer l'application. %1$s"</string>
@@ -4827,7 +4869,7 @@ L'application pourra aussi activer ou désactiver le mode Ne pas déranger, et m
   <string name="notification_remind">Notifications</string>
   <string name="notification_ringtone_title">Son notif. par défaut</string>
   <string name="notification_settings_work_profile">"L'accès aux notifications est interdit aux applications dans le profile de travail."</string>
-  <string name="notification_shade_shortcut_title">Raccourci du panneau de notification</string>
+  <string name="notification_shade_shortcut_title">Raccourci du Panneau de notification</string>
   <string name="notification_show_lights_title">Clignotement</string>
   <string name="notification_silence_title">Mode silence</string>
   <string name="notification_sound_default">Son notif. par défaut</string>
@@ -4935,6 +4977,8 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
   <string name="overlay_display_devices_title">Simuler des affichages secondaires</string>
   <string name="overlay_option_device_default">Réglage par défaut</string>
   <string name="overlay_settings">Superposer aux autres applis</string>
+  <string name="overlay_settings_summary">"Autoriser les applications qui peuvent s'afficher par-dessus d'autres applications à se superposer aux écrans de Paramètres"</string>
+  <string name="overlay_settings_title">"Autoriser les superpositions d'écran dans les Paramètres"</string>
   <string name="overlay_toast_failed_to_apply">"Impossible d'appliquer la superposition"</string>
   <string name="owner_info_settings_edit_text_hint">Exemple : Android de Jean</string>
   <string name="owner_info_settings_summary">Aucun</string>
@@ -5073,10 +5117,15 @@ Read and agree to %s before using this service."</string>
   <string name="picture_in_picture_title">Picture-in-picture</string>
   <string name="pin_failed">"Échec du déverrouillage à l'aide du code PIN de la carte SIM."</string>
   <string name="ping_test_label">Effectuer un test de ping</string>
-  <string name="please_select_phase2">Authentification étape 2</string>
+  <string name="platform_compat_dashboard_summary">Bascule les modifications de compatibilité des applications</string>
+  <string name="platform_compat_dashboard_title">Modifications de la compatibilité des applications</string>
+  <string name="platform_compat_default_disabled_title">Modifications désactivées par défaut</string>
+  <string name="platform_compat_default_enabled_title">Modifications activées par défaut</string>
+  <string name="platform_compat_target_sdk_title">Activé pour targetSdkVersion > %d</string>
+  <string name="please_select_phase2">Authentification phase 2</string>
   <string name="please_type_passphrase">Mot de passe</string>
-  <string name="poco_launcher_privacy_policy">POCO Launcher Privacy Policy</string>
-  <string name="poco_launcher_user_agreement">POCO Launcher User Agreement</string>
+  <string name="poco_launcher_privacy_policy">Politique de confidentialité POCO Launcher</string>
+  <string name="poco_launcher_user_agreement">Agrément utilisateur POCO Launcher</string>
   <string name="pointer_location">Localisation du pointeur</string>
   <string name="pointer_location_summary">Afficher les coordonnées tactiles</string>
   <string name="pointer_settings_category">Souris / Pavé tactile</string>
@@ -5818,7 +5867,7 @@ Pour épingler l'écran :
   <string name="screen_pinning_unlock_pin">Demander PIN avant annuler épinglage</string>
   <string name="screen_projection">Diffusion</string>
   <string name="screen_projection_characteristics">Caractéristiques spéciales</string>
-  <string name="screen_projection_characteristics_off_screen_summary">"Vous pouvez continuer à diffuser lorsque l'écran de votre appareil est éteint. Cette fonctionnalité diminue la consommation d'énergie".</string>
+  <string name="screen_projection_characteristics_off_screen_summary">"Vous pouvez continuer à diffuser lorsque l'écran de votre appareil est éteint. Cette fonctionnalité réduit la consommation d'énergie".</string>
   <string name="screen_projection_characteristics_off_screen_title">"Diffuser avec l'écran éteint"</string>
   <string name="screen_projection_characteristics_privacy_protect_summary">"Ne pas afficher les notifications flottantes, les appels entrants et d'autres fichiers privés sur des moniteurs externes."</string>
   <string name="screen_projection_characteristics_privacy_protect_title">Masquer les fichiers privés</string>
@@ -6346,6 +6395,12 @@ Remarque : Vous ne pouvez pas utiliser votre empreinte digitale pour déverroui
   <string name="share_remote_bugreport_dialog_message_finished">"Votre administrateur informatique a demandé un rapport de bug pour l'aider à résoudre le problème lié à cet appareil. Il est possible que des applications et des données soient partagées."</string>
   <string name="share_remote_bugreport_dialog_title">Partager le rapport de bug ?</string>
   <string name="share_this_wifi">Étendre la couverture Wi-Fi</string>
+  <string name="shared_data_delete_failure_text">"Une erreur s'est produite lors de la suppression des données partagées."</string>
+  <string name="shared_data_no_accessors_dialog_text">"Il n'y a pas de bail acquis pour ces données partagées. Souhaitez-vous le supprimer ?"</string>
+  <string name="shared_data_no_blobs_text">"Il n'y a pas de données partagées pour cet utilisateur."</string>
+  <string name="shared_data_query_failure_text">"Une erreur s'est produite lors de la récupération des données partagées. Réessayez."</string>
+  <string name="shared_data_summary">Afficher et modifier les données partagées</string>
+  <string name="shared_data_title">Données partagées</string>
   <string name="sharing_remote_bugreport_dialog_message">Ce rapport de bug est en cours de partage avec votre administrateur informatique. Pour en savoir plus, contactez ce dernier.</string>
   <string name="short_summary_font_size">Agrandir ou réduire le texte</string>
   <string name="show_all_anrs">Afficher toutes les ANR</string>
@@ -6382,6 +6437,8 @@ Remarque : Vous ne pouvez pas utiliser votre empreinte digitale pour déverroui
   <string name="show_password">Afficher les mots de passe</string>
   <string name="show_password_summary">Afficher brièvement les caractères pendant la saisie</string>
   <string name="show_profile_info_on_lockscreen_label">Afficher infos de profil sur écran de verrouillage</string>
+  <string name="show_refresh_rate">Afficher le taux de rafraîchissement</string>
+  <string name="show_refresh_rate_summary">"Afficher le taux de rafraîchissement actuel de l'affichage"</string>
   <string name="show_rounded_corners">Afficher des coins arrondis</string>
   <string name="show_running_services">Afficher les services</string>
   <string name="show_screen_updates">"Afficher les mises à jour de l'écran"</string>
@@ -6678,7 +6735,8 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
   <string name="status_up_time">"Durée d'activité"</string>
   <string name="status_voice_network_type">Type de réseau vocal mobile</string>
   <string name="status_wifi_mac_address">Adresse MAC Wi-Fi</string>
-  <string name="status_write_success">Opération réussie.</string>
+  <string name="status_write_success">Opération réussie !</string>
+  <string name="storage_category">Stockage</string>
   <string name="storage_detail_apps">Applications</string>
   <string name="storage_detail_audio">Audio</string>
   <string name="storage_detail_cached">Données en cache</string>
@@ -7889,15 +7947,18 @@ Merci de prendre connaissance de la politique de données personnells de votre f
   <string name="wifi_advanced_toggle_description_collapsed">Liste déroulante \"Options avancées\". Appuyez deux fois pour développer.</string>
   <string name="wifi_advanced_toggle_description_expanded">Liste déroulante \"Options avancées\". Appuyez deux fois pour réduire.</string>
   <string name="wifi_ap_2G">2.4 GHz</string>
-  <string name="wifi_ap_5G">5 GHz</string>
+  <string name="wifi_ap_5G">5.0 GHz</string>
   <string name="wifi_ap_band_config">"Sélectionner la bande du point d'accès"</string>
   <string name="wifi_ap_band_select_one">"Sélectionnez au moins une bande pour le point d'accès Wi-Fi :"</string>
   <string name="wifi_ap_choose_2G">Bande 2.4 GHz</string>
-  <string name="wifi_ap_choose_5G">Bande 5 GHz</string>
+  <string name="wifi_ap_choose_5G">Bande 5.0 GHz</string>
   <string name="wifi_ap_choose_auto">Automatique</string>
   <string name="wifi_ap_choose_dual">Les deux</string>
-  <string name="wifi_ap_choose_vendor_both">Both</string>
-  <string name="wifi_ap_prefer_5G">Bande 5,0 GHz préférée</string>
+  <string name="wifi_ap_choose_vendor_dual_band">Double bande</string>
+  <string name="wifi_ap_hidden_ssid">Masquer son SSID</string>
+  <string name="wifi_ap_prefer_5G">Bande 5.0 GHz préférée</string>
+  <string name="wifi_ap_ssid_off">Désactivé</string>
+  <string name="wifi_ap_ssid_on">Activé</string>
   <string name="wifi_ap_unable_to_handle_new_sta">"Point d'accès temporairement saturé"</string>
   <string name="wifi_api_test">API Wi-Fi</string>
   <string name="wifi_ask_disable">%s requiert la désactivation du Wi-Fi.</string>
