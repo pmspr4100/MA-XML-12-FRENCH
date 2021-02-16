@@ -885,9 +885,9 @@ Les sauvegardes sont stockées dans le Cloud Xiaomi et sont accessibles avec un 
   <string name="battery_sugg_wifi">"Désactivez le Wi-Fi lorsque vous ne l'utilisez pas ou lorsqu'il n'est pas disponible"</string>
   <string name="battery_suggestion_title">"Améliorer l'autonomie de batterie du téléphone"</string>
   <string name="battery_summary">Utilisation depuis la dernière charge complète: %1$s</string>
-  <string name="battery_tip_dialog_message">"Votre téléphone a été plus utilisé que d'habitude. Il est possible que vous arriviez à court de batterie plus vite que prévu.
+  <string name="battery_tip_dialog_message">"Votre téléphone a été plus utilisé que d'habitude. Il est possible que vous soyez à court de batterie plus vite que prévu.
 
-Voici les %1$d applications les plus utilisées depuis la dernière charge:"</string>
+Classement des applications par utilisation de la batterie :"</string>
   <string name="battery_tip_dialog_message_footer">Comprend une activité de fond de grande puissance</string>
   <string name="battery_tip_dialog_summary_message">"La consommation de batterie de vos applications est normale. Si celles-ci sollicitent trop la batterie, votre téléphone vous recommande des actions.
 
@@ -4590,7 +4590,7 @@ Sélectionnez votre système d'exploitation :"</string>
   <string name="network_connection_connect_successful">Connexion réussie</string>
   <string name="network_connection_errorstate_dialog_message">"Quelque chose est arrivé. L'application a annulé la requête de sélection d'appareil."</string>
   <string name="network_connection_request_dialog_showall">Tout afficher</string>
-  <string name="network_connection_request_dialog_title">Appareil à utiliser avec %1$s</string>
+  <string name="network_connection_request_dialog_title">"Se connecter à l'appareil"</string>
   <string name="network_connection_timeout_dialog_message">Aucun appareil trouvé. Vérifiez que les appareils sont allumés et prêts à se connecter.</string>
   <string name="network_connection_timeout_dialog_ok">Réessayez</string>
   <string name="network_control">"Afficher les paramètres de l'application"</string>
@@ -7221,7 +7221,7 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
   <string name="tts_engine_section_title">Moteur</string>
   <string name="tts_engine_security_warning">"Ce moteur de synthèse vocale peut être capable de collecter tout le texte qui sera prononcé, y compris les données personnelles comme les mots de passe et les numéros de carte de crédit. Il vient du moteur %s. Activer l'utilisation de cet appareil de synthèse vocale?"</string>
   <string name="tts_engine_settings_button">Lancer les paramètres du moteur</string>
-  <string name="tts_engine_settings_title">Paramètres pour %s</string>
+  <string name="tts_engine_settings_title">Paramètres du moteur</string>
   <string name="tts_general_section_title">Général</string>
   <string name="tts_install_data_summary">Installer les données vocales requises pour la synthèse vocale</string>
   <string name="tts_install_data_title">Installer les données vocales</string>

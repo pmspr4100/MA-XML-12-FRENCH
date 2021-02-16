@@ -21,12 +21,12 @@
     <item quantity="one">Délai extrêmement court (%1$d ms)</item>
   </plurals>
   <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
-    <item quantity="other">Long délai (%1$d ms)</item>
-    <item quantity="one">Long délai (%1$d ms)</item>
+    <item quantity="other">Long (%1$s s)</item>
+    <item quantity="one">Long (%1$s s)</item>
   </plurals>
   <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
-    <item quantity="other">Court délai (%1$d ms)</item>
-    <item quantity="one">Court délai (%1$d ms)</item>
+    <item quantity="other">Court (%1$s s)</item>
+    <item quantity="one">Court (%1$s s)</item>
   </plurals>
   <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
     <item quantity="other">Délai très long (%1$d ms)</item>
@@ -497,9 +497,8 @@ Pour en savoir plus sur ce certificat, contactez votre administrateur."</item>
     <item quantity="one">Code PIN de la carte SIM erroné. Il vous reste %d tentative.</item>
   </plurals>
   <plurals name="zen_mode_bypassing_apps_subtext">
-    <item quantity="other">Les notifications de %1$d applications peuvent remplacer Ne pas déranger</item>
-    <item quantity="zero">Aucune application ne peut remplacer Ne pas déranger</item>
-    <item quantity="one">"Les notifications d'une application peuvent remplacer Ne pas déranger"</item>
+    <item quantity="other">%s peuvent interrompre</item>
+    <item quantity="one">%s peut interrompre</item>
   </plurals>
   <plurals name="zen_mode_duration_summary_time_hours">
     <item quantity="other">"%d heures (sauf en cas d'activation automatique)"</item>
