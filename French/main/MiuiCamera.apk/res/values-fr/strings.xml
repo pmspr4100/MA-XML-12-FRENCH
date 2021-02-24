@@ -146,6 +146,13 @@
   <string name="accessibility_portrait_depth_effect_panel_on">Panneau Portrait</string>
   <string name="accessibility_preview_button">Prévisualiser</string>
   <string name="accessibility_preview_effect_button">Effet prévisualisation</string>
+  <string name="accessibility_preview_expand">Zoom avant</string>
+  <string name="accessibility_preview_front">Aperçu du capteur photo caméra avant</string>
+  <string name="accessibility_preview_remote">"Aperçu de l'enregistrement sur deux téléphones"</string>
+  <string name="accessibility_preview_select_tip">Position %1$d</string>
+  <string name="accessibility_preview_selected">Selectionné</string>
+  <string name="accessibility_preview_shrink">Zoom arrière</string>
+  <string name="accessibility_preview_zoom_tip">Prévisualisation zoom %1$.1fX</string>
   <string name="accessibility_pro_video_simple_mode">Mode léger</string>
   <string name="accessibility_protrait">Portrait</string>
   <string name="accessibility_pull_down_to_open_camera">"Glissez vers le bas pour ouvrir l'appareil photo"</string>
@@ -541,6 +548,15 @@ et ajustez les préférences automatiquement"</string>
   <string name="device_ultra_pixel_watermark_default_text">DOUBLE APPAREIL PHOTO 48 MPX</string>
   <string name="device_watermark_default_text">DOUBLE APPAREIL PHOTO IA</string>
   <string name="dialog_google_lens_option_0">Google Lens (recommandé)</string>
+  <string name="dialog_button_accept">Accepter</string>
+  <string name="dialog_button_back">Retour</string>
+  <string name="dialog_button_cancel">Annuler</string>
+  <string name="dialog_button_connect">Se connecter</string>
+  <string name="dialog_button_disconnect">Quitter</string>
+  <string name="dialog_button_exit">Désactiver</string>
+  <string name="dialog_button_ok">OK</string>
+  <string name="dialog_button_reject">Rejeter</string>
+  <string name="dialog_button_scan">Rechercher des appareils</string>
   <string name="dialog_ok">OK</string>
   <string name="dialog_ok_time">OK (%ds)</string>
   <string name="dirty_tip_toast">La lentille est sale. Essuyez-la.</string>
@@ -852,29 +868,30 @@ regarder plus grand sur les photos"</string>
   <string name="mimoji_eyebrow_shape">Forme des sourcils</string>
   <string name="mimoji_eyeglass">Lunettes</string>
   <string name="mimoji_eyelash">Cils</string>
+  <string name="mimoji_eyelid">Paupières</string>
   <string name="mimoji_featured_face">Face</string>
   <string name="mimoji_fragment_tab_name">Mimoji</string>
   <string name="mimoji_freckle">Taches de rousseur</string>
-  <string name="mimoji_gif_accelerate">Speed</string>
-  <string name="mimoji_gif_clear_bg">Remove background</string>
-  <string name="mimoji_gif_edit_hint">Tap to add text</string>
-  <string name="mimoji_gif_edit_title">Edit GIF</string>
+  <string name="mimoji_gif_accelerate">Vitesse</string>
+  <string name="mimoji_gif_clear_bg">"Supprimer l'arrière-plan"</string>
+  <string name="mimoji_gif_edit_hint">Appuyez pour ajouter du texte</string>
+  <string name="mimoji_gif_edit_title">Modifier le GIF</string>
   <string name="mimoji_gif_record_time_short">La vidéo enregistrée est trop courte</string>
-  <string name="mimoji_gif_reverse">Reverse</string>
+  <string name="mimoji_gif_reverse">Inverser</string>
   <string name="mimoji_hairstyle">Cheveux</string>
   <string name="mimoji_headwear">Chapeaux</string>
-  <string name="mimoji_human_astronaut">Astronaut</string>
-  <string name="mimoji_human_blue_haired_girls">Blue hair</string>
-  <string name="mimoji_human_boys_with_glasses">Glasses</string>
-  <string name="mimoji_human_boys_with_wavy_hair">Curly hair</string>
-  <string name="mimoji_human_chinese_princesses">Princess</string>
+  <string name="mimoji_human_astronaut">Astronaute</string>
+  <string name="mimoji_human_blue_haired_girls">Cheveux bleus</string>
+  <string name="mimoji_human_boys_with_glasses">Lunettes</string>
+  <string name="mimoji_human_boys_with_wavy_hair">Cheveux bouclés</string>
+  <string name="mimoji_human_chinese_princesses">Princesse</string>
   <string name="mimoji_human_clowns">Clown</string>
-  <string name="mimoji_human_doggy_headgear_girls">Doggy</string>
+  <string name="mimoji_human_doggy_headgear_girls">Petit chien</string>
   <string name="mimoji_human_motorcyclists">Biker</string>
-  <string name="mimoji_human_witches">Witch</string>
-  <string name="mimoji_mole">Moles</string>
+  <string name="mimoji_human_witches">Sorcière</string>
+  <string name="mimoji_mole">Taupes</string>
   <string name="mimoji_mouth_type">Bouche</string>
-  <string name="mimoji_mustache">Cheveux faciaux</string>
+  <string name="mimoji_mustache">Barbe</string>
   <string name="mimoji_nose">Nez</string>
   <string name="mimoji_nose_lisps">Nez et lèvres</string>
   <string name="mimoji_on_create">Créer Mimoji</string>
@@ -935,19 +952,17 @@ regarder plus grand sur les photos"</string>
   <string name="multi_window_mode_not_supported">"L'appareil photo ne fonctionne pas dans plusieurs fenêtres"</string>
   <string name="music_hint_tt">Source de services</string>
   <string name="network_access_user_notice_agree">Accepter</string>
-  <string name="network_access_user_notice_message_live_video">
-    <Data>"L'appareil photo doit se connecter à internet pour fournir des effets, de la musique et d'autres fonctionnalités pour les courtes vidéos.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;En appuyant sur \"Accepter\" ci-dessous, vous acceptez nos &amp;lt;a href =%1$s&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href =%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;, et permettant à l'appareil photo de se connecter à internet."</Data>
-  </string>
-  <string name="network_access_user_notice_message_mi_live_video">
-    <Data>"Bienvenue dans de courtes vidéos ! Notre service doit se connecter au réseau pour vous fournir de la musique et d'autres fonctionnalités. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Avant d'utiliser notre service, vous devez lire et accepter nos &amp;lt;a href =%1$s&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href =%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;, ainsi que permettre à l'application de se connecter à internet."</Data>
-  </string>
-  <string name="network_access_user_notice_message_sticker">
-    <Data>"L'appareil photo doit se connecter à internet pour fournir des autocollants pour cette fonction.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;En appuyant sur \"Accepter\" ci-dessous, vous acceptez nos &amp;lt;a href =%1$s&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href =%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;, et permettant à l'appareil photo de se connecter à internet."</Data>
-  </string>
-  <string name="network_access_user_notice_message_voice_caption">
-    <Data>"L'appareil photo doit se connecter à internet pour fournir une fonctionnalité de sortie de synthèse vocale.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;En appuyant sur \"Accepter\" ci-dessous, vous acceptez nos &amp;lt;a href =%1$s&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href =%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;, et permettre à l'appareil photo de se connecter à internet."</Data>
-  </string>
+  <string name="network_access_user_notice_message_live_video"><Data>"L'appareil photo doit se connecter à internet pour fournir des effets, de la musique et d'autres fonctionnalités pour les courtes vidéos.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;En appuyant sur \"Accepter\" ci-dessous, vous acceptez nos &amp;lt;a href =%1$s&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href =%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;, et permettant à l'appareil photo de se connecter à internet."</Data></string>
+  <string name="network_access_user_notice_message_mi_live_video"><Data>"Bienvenue dans de courtes vidéos ! Notre service doit se connecter au réseau pour vous fournir de la musique et d'autres fonctionnalités. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Avant d'utiliser notre service, vous devez lire et accepter nos &amp;lt;a href =%1$s&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href =%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;, ainsi que permettre à l'application de se connecter à internet."</Data></string>
+  <string name="network_access_user_notice_message_sticker"><Data>"L'appareil photo doit se connecter à internet pour fournir des autocollants pour cette fonction.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;En appuyant sur \"Accepter\" ci-dessous, vous acceptez nos &amp;lt;a href =%1$s&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href =%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;, et permettant à l'appareil photo de se connecter à internet."</Data></string>
+  <string name="network_access_user_notice_message_voice_caption"><Data>"L'appareil photo doit se connecter à internet pour fournir une fonctionnalité de sortie de synthèse vocale.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;En appuyant sur \"Accepter\" ci-dessous, vous acceptez nos &amp;lt;a href =%1$s&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href =%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;, et permettre à l'appareil photo de se connecter à internet."</Data></string>
   <string name="network_access_user_notice_title">Connexion à internet</string>
+  <string name="network_connection_failed">Connexion impossible</string>
+  <string name="network_connection_ongoing">Connexion…</string>
+  <string name="network_connection_prerequisites">"Activez Bluetooth et Wi-Fi pour pouvoir utiliser l'Enregistrement double téléphone."</string>
+  <string name="network_connection_prerequisites_china">"Activez Bluetooth et Wi-Fi pour pouvoir utiliser l'Enregistrement double téléphone."</string>
+  <string name="network_connection_rejected">Rejetée</string>
+  <string name="network_connection_timed_out">La connexion a expiré</string>
   <string name="no_storage">"Merci d'insérer une carte SD avant d'utiliser l'appareil photo"</string>
   <string name="not_enough_space">Votre carte SD est pleine</string>
   <string name="not_set">Non défini</string>
@@ -1371,7 +1386,8 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_module_settings">Modes</string>
   <string name="pref_more_mode_style_title">Modes appareil photo</string>
   <string name="pref_multi_camera_dual_video_front">Appareil photo avant</string>
-  <string name="pref_n_s_a">Paramètres audio settings</string>
+  <string name="pref_multi_camera_dual_video_remote">Enregistrement double téléphone</string>
+  <string name="pref_n_s_a">Paramètres audio</string>
   <string name="pref_n_s_o_l">Activé</string>
   <string name="pref_n_s_o_m">Désactivé</string>
   <string name="pref_new_slow_motion_video_quality_240_720only">"Vous ne pouvez enregistrer des vidéos 720p qu'à 240 ips"</string>
@@ -1405,6 +1421,8 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_super_night_se_title">Mode nuit automatique</string>
   <string name="pref_userdefine_watermark_title">Filigrane personnalisé</string>
   <string name="pref_video_captrue_ability_title">"Capture d'image pendant l'enregistrement"</string>
+  <string name="pref_video_cast_setting_summary">Activez pour pouvoir filmer une vidéo avec plusieurs appareils</string>
+  <string name="pref_video_cast_setting_title">Enregistrement double téléphone</string>
   <string name="pref_video_denoise_off">Désactivé</string>
   <string name="pref_video_denoise_on">Activé</string>
   <string name="pref_video_denoise_title">Noise filter</string>
@@ -1461,6 +1479,19 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="recommend_soft_light_tip">Activer le flash</string>
   <string name="recommend_super_night">Essayez le mode nuit</string>
   <string name="record_back_pressed_hint">"Appuyez à nouveau pour arrêter l'enregistrement"</string>
+  <string name="remote_online_connecting">"Sélectionnez l'appareil à connecter"</string>
+  <string name="remote_online_disconnect_confirmation">Annuler la connexion à %1$s ?</string>
+  <string name="remote_online_exit_confirmation">"Désactiver l'Enregistrement double téléphone maintenant ?"</string>
+  <string name="remote_online_exit_connecting">"Se déconnecter et quitter l'Enregistrement double téléphone maintenant ?"</string>
+  <string name="remote_online_guide">"Activez l'Enregistrement double téléphone sur l'autre appareil à l'aide du bouton bascule du Centre de contrôle."</string>
+  <string name="remote_online_interrupted">Déconnecté. Connectez-vous à nouveau pour continuer.</string>
+  <string name="remote_online_introduction_i">"L'Enregistrement double téléphone permet de combiner les flux de deux appareils différents en une seule vidéo. Vous pourrez prévisualiser les deux flux et la vidéo finale sur cet appareil. Notez que l'audio ne sera enregistré que par cet appareil."</string>
+  <string name="remote_online_introduction_ii">"Pour que cette fonctionnalité fonctionne, l'autre appareil Mi ou Redmi doit prendre en charge l'Enregistrement double téléphone. Il peut être activé à l'aide de l'interrupteur dans le Centre de contrôle."</string>
+  <string name="remote_online_searching">"Recherche d'appareils…"</string>
+  <string name="remote_online_service_name">Enregistrement double téléphone</string>
+  <string name="remote_online_unavailable">Impossible de trouver des appareils à proximité</string>
+  <string name="remote_online_waiting">"En attente de la connexion de l'autre appareil…"</string>
+  <string name="remote_online_whats">"Comment fonctionne l'Enregistrement double téléphone ?"</string>
   <string name="reset_manual_picture_style_toast">Paramètres réinitialisés avec succès</string>
   <string name="reset_manually_parameter_confirmed">OK</string>
   <string name="reset_manually_parameter_hint">Réinitialiser</string>
@@ -1556,6 +1587,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="timer_burst_manu_param_interval">Intervalle sans exposition</string>
   <string name="timer_burst_param_interval">Intervalle</string>
   <string name="timer_burst_param_total_count">Nombre de photos</string>
+  <string name="timerburst_pressed_hint">Appuyez à nouveau pour arrêter</string>
   <string name="title_snap_double_confirm">Confirmer à nouveau</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">"Impossible de prendre en rafale lorsque la capture audio est activée"</string>
   <string name="toast_saving">Enregistrement des photos…</string>
@@ -1623,6 +1655,16 @@ Le mode ultra grand angle vient vous aider lorsque vous ne pouvez pas vous éloi
   <string name="video_bokeh_zoom_in">Zoom in</string>
   <string name="video_bokeh_zoom_out">Zoom out</string>
   <string name="video_camera_label">Caméscope</string>
+  <string name="video_cast_connecting">Connexion…</string>
+  <string name="video_cast_exit_confirmation">Quitter maintenant ?</string>
+  <string name="video_cast_exit_warning">"Votre flux ne sera pas disponible sur l'autre appareil."</string>
+  <string name="video_cast_inviting">"%1$s souhaite utiliser l'Enregistrement double téléphone avec cet appareil."</string>
+  <string name="video_cast_notification_content">Appuyez pour arrêter</string>
+  <string name="video_cast_notification_title">Utilisation de plusieurs capteurs photos en arrière-plan…</string>
+  <string name="video_cast_service_error">"Impossible d'activer l'Enregistrement double téléphone en arrière-plan"</string>
+  <string name="video_cast_service_name">Double téléphone</string>
+  <string name="video_cast_state_exited">Enregistrement double téléphone terminé</string>
+  <string name="video_cast_state_paused">En pause</string>
   <string name="video_effect_entry_blackwhite">Noir et Blanc</string>
   <string name="video_effect_entry_bygone">Bygone</string>
   <string name="video_effect_entry_central">Central</string>

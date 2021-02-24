@@ -677,6 +677,7 @@ The second line shows the name and version number of Default MBN and Carrier MBN
   <string name="cit_tool_no_repeat">No repetition!</string>
   <string name="cit_tool_not_support">Not Supported</string>
   <string name="cit_tool_opt_fail_info_notify">Opt failed, need to reboot the phone for Non online mode.</string>
+  <string name="cit_tool_opt_standby">option standby ...</string>
   <string name="cit_tool_prx_drx_select_mode">Select Mode:</string>
   <string name="cit_tool_prx_drx_select_rat">Select RAT:</string>
   <string name="cit_tool_prx_drx_start_test">Start Test</string>
@@ -774,6 +775,7 @@ test fail!"</string>
   <string name="current_angle">Current Angle:</string>
   <string name="delete">Supprimer</string>
   <string name="description_info">Info</string>
+  <string name="dispaly_sar_sensor_values">Display All Current Sensor Values</string>
   <string name="display_test_finish">Screen test completed</string>
   <string name="dsi_sar_on_off_tips">Dsi Sar On/Off Switch</string>
   <string name="enrol">Enrol</string>
@@ -788,6 +790,7 @@ test fail!"</string>
   <string name="error_initializing_sensor">Error initializing sensor: %1$s</string>
   <string name="error_sdcard_access">Unable to access system space!</string>
   <string name="error_unknown_error">Unknown Error</string>
+  <string name="failed_to_get_permission">Cloud control detection failed, and some functions lost</string>
   <string name="failed_to_test">FAILED TO TEST</string>
   <string name="far">FAR(False Accept Rate):</string>
   <string name="far_count">FAC(False Accept Count):</string>
@@ -824,8 +827,19 @@ the specified position"</string>
   <string name="frr">FRR(False Reject Rate):</string>
   <string name="frr_count">FRC(False Reject Count):</string>
   <string name="frr_total_count">FRTC(False Reject Total Count):</string>
+  <string name="get_BLUETOOTH">BLUETOOTH</string>
+  <string name="get_BLUETOOTHPAN">BLUETOOTHPAN</string>
+  <string name="get_CABLE">CABLE</string>
+  <string name="get_HALLSENSOR">HALLSENSOR</string>
+  <string name="get_HOTSPOT">HOTSPOT</string>
+  <string name="get_MCC">MCC</string>
+  <string name="get_RECEIVER">RECEIVER</string>
+  <string name="get_SENSOR1">SENSOR1</string>
+  <string name="get_SENSOR2">SENSOR2</string>
+  <string name="get_USB">USB</string>
+  <string name="get_WIFI">WIFI</string>
   <string name="get_base_finger">Extract Image:get base finger</string>
-  <string name="get_dsi_tips">Get DSI</string>
+  <string name="get_dsi_tips">Current DSI Value</string>
   <string name="get_finger_data">Extract Image:sampling finger data</string>
   <string name="get_sample_finger">Extract Image:get sample finger</string>
   <string name="get_sensor_info">GET SENSOR INFO</string>
@@ -1023,6 +1037,7 @@ After calibrate success, control the fixture close and away from the phone"</str
   <string name="success_extract_template">finished to extract template datas</string>
   <string name="success_get_finger_data">Extract Image:success to get finger data</string>
   <string name="success_to_test">SUCCESS TO TEST</string>
+  <string name="successfully_obtained_permission">Cloud control detection is successful, function takes effect</string>
   <string name="temperature">temperature</string>
   <string name="template_data">template data</string>
   <string name="template_hint">extract %1$s templates for one finger</string>
