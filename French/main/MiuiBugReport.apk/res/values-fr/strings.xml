@@ -75,9 +75,7 @@
     <string name="bind_sign_in_title">Ajouter Compte Mi</string>
     <string name="btn_send">Envoyer</string>
     <string name="bugreport_dialog_not_show_again">Ne plus afficher</string>
-    <string name="bugreport_dialog_submit_content">
-        <Data>"Vous enregistrez les journaux du logiciel sur cet appareil maintenant. Les journaux peuvent contenir des informations personnelles et vos données de localisation. Ne partagez pas les journaux avec quiconque si vous ne voulez pas que ces informations soient exposées. Choisir \"Accepter\" signifie que vous avez lu et accepté notre &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\"&gt;Politique de confidentialité&lt;/a&gt; et &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\"&gt;Accord utilisateur&lt;/a&gt;."</Data>
-    </string>
+    <string name="bugreport_dialog_submit_content"><Data>"Vous enregistrez les journaux du logiciel sur cet appareil maintenant. Les journaux peuvent contenir des informations personnelles et vos données de localisation. Ne partagez pas les journaux avec quiconque si vous ne voulez pas que ces informations soient exposées. Choisir \"Accepter\" signifie que vous avez lu et accepté notre &lt;a href=\"%1$s"&gt;Politique de confidentialité&lt;/a&gt; et &lt;a href=\"%2$s\"&gt;Accord utilisateur&lt;/a&gt;."</Data></string>
     <string name="bugreport_dump_complete_notification_summary">Appuyez pour afficher.</string>
     <string name="bugreport_dump_complete_notification_title">"Rapport d'erreur créé"</string>
     <string name="bugreport_dump_start_notification_summary">Cela peut prendre plusieurs minutes.</string>
