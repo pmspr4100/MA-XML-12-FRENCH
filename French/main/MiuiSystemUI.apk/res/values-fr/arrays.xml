@@ -9,9 +9,6 @@
       <item>IQA %1$s</item>
       <item>IQA %1$s</item>
     </string-array>
-    <string-array name="origin_carrier_names">
-      <item>Recherche de service</item>
-    </string-array>
     <string-array name="overlay_display_devices_values">
       <item>720x480/142,sécurisé</item>
       <item>1280x720/213,sécurisé</item>
@@ -84,6 +81,10 @@
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
       <item>Utiliser sélection du système (par défaut)</item>
+      <item>44.1 kHz</item>
+      <item>48.0 kHz</item>
+      <item>88.2 kHz</item>
+      <item>96.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
       <item>Utiliser sélection du système (par défaut)</item>
@@ -100,13 +101,21 @@
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
       <item>Utiliser sélection du système (par défaut)</item>
+      <item>SBC</item>
+      <item>AAC</item>
       <item>Audio Qualcomm® aptX™</item>
       <item>Audio Qualcomm® aptX™ HD</item>
-      <item>Audio adaptatif Qualcomm® aptX™</item>
+      <item>LDAC</item>
+      <item>Audio adaptative Qualcomm® aptX™</item>
+      <item>Audio Qualcomm® aptX™ TWS+</item>
+      <item>LHDC V3</item>
+      <item>LHDC V2</item>
+      <item>LHDC V1</item>
       <item>Activer les codecs facultatifs</item>
       <item>Désactiver les codecs facultatifs</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
+      <item></item>
       <item>" | Activé"</item>
       <item>" | Activé (média)"</item>
       <item>" | Activé (téléphone)"</item>
@@ -120,6 +129,9 @@
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
       <item>AVRCP 1.4 (par défaut)</item>
+      <item>AVRCP 1.3</item>
+      <item>AVRCP 1.5</item>
+      <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="clock_options">
       <item>Afficher les heures, minutes et secondes</item>

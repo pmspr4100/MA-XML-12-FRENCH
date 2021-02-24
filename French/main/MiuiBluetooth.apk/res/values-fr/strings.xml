@@ -105,6 +105,8 @@
   <string name="bluetooth_hearingaid_right_pairing_message">"Association avec l'audioprothèse de droite…"</string>
   <string name="bluetooth_hid_profile_summary_connected">"Connecté à l'appareil d'entrée"</string>
   <string name="bluetooth_hid_profile_summary_use_for">"Utiliser pour l'entrée"</string>
+  <string name="bluetooth_le_audio_profile_summary_connected">Connecté à LE_AUDIO</string>
+  <string name="bluetooth_le_audio_profile_summary_use_for">Utiliser pour LE_AUDIO</string>
   <string name="bluetooth_map_profile_summary_connected">Connecté au profil MAP</string>
   <string name="bluetooth_map_profile_summary_use_for">Utiliser pour le profil MAP</string>
   <string name="bluetooth_opp_profile_summary_connected">Connecté au serveur de transfert de fichiers</string>
@@ -133,6 +135,7 @@
   <string name="bluetooth_profile_headset">Appels téléphoniques</string>
   <string name="bluetooth_profile_hearing_aid">Audioprothèses</string>
   <string name="bluetooth_profile_hid">"Appareil d'entrée"</string>
+  <string name="bluetooth_profile_le_audio">LE_AUDIO</string>
   <string name="bluetooth_profile_map">Messages texte</string>
   <string name="bluetooth_profile_opp">Transfert de fichiers</string>
   <string name="bluetooth_profile_pan">Accès internet</string>
@@ -369,6 +372,10 @@ Protocole de connexion plus rapide."</string>
   <string name="mi_key_summary_open_camera">"Double clique sur Mi Key pour ouvrir l'appareil photo"</string>
   <string name="mi_key_summary_take_photo">Clique sur Mi Key pour prendre une photo</string>
   <string name="mi_key_take_photo">Prendre une photo</string>
+  <string name="miheadset_notification_Box">Boîte</string>
+  <string name="miheadset_notification_Disconnect">Déconnecter</string>
+  <string name="miheadset_notification_LeftEar">G</string>
+  <string name="miheadset_notification_RightEar">D</string>
   <string name="mihome_app_download">Installer maintenant</string>
   <string name="mihome_app_update">Mettez à jour maintenant</string>
   <string name="mihome_download_tips">"Installez l'application Mi Home afin d'associer l'appareil. Veuillez installer l'application Mi Home, connectez-vous et tenez votre téléphone près de l'appareil."</string>
