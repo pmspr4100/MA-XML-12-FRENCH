@@ -115,6 +115,7 @@
   <string name="other_settings_user_experience">"Programme d'expérience utilisateur"</string>
   <string name="other_settings_user_experience_summary">"Aidez-nous à améliorer nos produits et services en partageant vos statistiques d'utilisation avec nous. Afficher les détails"</string>
   <string name="other_settings_user_experience_summary_index">Afficher les détails</string>
+  <string name="permission_MIUIDaemon_introduction">MIUI Daemon vous permet de transférer des données depuis votre appareil lorsque son écran est endommagé.</string>
   <string name="permission_account">Accédez aux comptes sur votre appareil: </string>
   <string name="permission_account_introduction">Pour se connecter avec le compte Mi</string>
   <string name="permission_application_package_introduction">"Pour accéder au stockage afin d'analyser et de scanner les paquets d'installation"</string>
@@ -145,6 +146,10 @@
   <string name="permission_picture_introduction">"Pour l'enregistrement, l'édition et la synchronisation de photos et de vidéos"</string>
   <string name="permission_read_call_records">"Modifier l'historique des appels: "</string>
   <string name="permission_read_call_records_introduction">"Pour ajouter des éléments à l'historique des appels et supprimer les appels bloqués"</string>
+  <string name="permission_read_contacts">Accéder aux contacts</string>
+  <string name="permission_read_contacts_introduction">Pour vérifier votre identité</string>
+  <string name="permission_read_message">Accéder aux messages texte</string>
+  <string name="permission_read_message_introduction">Pour vérifier à qui appartient cet appareil</string>
   <string name="permission_read_note_introduction">Pour accéder aux notes et aux pièces jointes</string>
   <string name="permission_read_write_file">Accédez à vos fichiers et photos et enregistrez-les sur votre appareil:</string>
   <string name="permission_read_write_file_introduction">"Pour l'accès, l'enregistrement et la mise en cache d'éléments sur votre terminal"</string>
@@ -176,6 +181,7 @@
   <string name="security_introduction">"Vous pouvez utiliser cette application pour nettoyer la corbeille de votre appareil, rechercher et neutraliser les virus, optimiser les performances de jeu, économiser la batterie, gérer les applications, les permissions, etc."</string>
   <string name="security_mobile_account_introduction">"Pour l'ouverture de session et la gestion des comptes système"</string>
   <string name="service_agreement">"J'ai lu et accepté les termes et conditions."</string>
+  <string name="service_name_MIUIDaemon">MIUI Daemon</string>
   <string name="service_name_album">Galerie</string>
   <string name="service_name_application_package">Package installateur</string>
   <string name="service_name_calculator">Calculatrice</string>
