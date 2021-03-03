@@ -79,7 +79,7 @@
   <string name="altitude">Altitude</string>
   <string name="altitude_pressure_hint">"*L'altitude calculée en fonction de la pression atmosphérique est approximative"</string>
   <string name="altitude_range">Altitude</string>
-  <string name="app_name">ILogger</string>
+  <string name="app_name">MiaoCourse</string>
   <string name="app_setting">Applications</string>
   <string name="audio_permission_dialog_desc">"La permission d'enregistrement audio a été retirée, merci de la redonner."</string>
   <string name="audio_permission_dialog_title">"Donner la permission d'enregistrer l'audio"</string>
@@ -812,9 +812,12 @@ Recommencer."</string>
   <string name="miuix_appcompat_cloud_state_syncing">Synchronisation avec le cloud…</string>
   <string name="miuix_appcompat_confirm_description">Confirmer</string>
   <string name="miuix_appcompat_delete_description">Supprimer</string>
+  <string name="miuix_appcompat_deselect_all">Désélectionner</string>
   <string name="miuix_appcompat_deselect_all_description">Tout désélectionner</string>
+  <string name="miuix_appcompat_select_item">Sélectionner des éléments</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Annuler</string>
   <string name="miuix_appcompat_search_input_description">Recherche</string>
+  <string name="miuix_appcompat_select_all">Tout sélectionner</string>
   <string name="miuix_appcompat_select_all_description">Tout sélectionner</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez pour actualiser</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
@@ -1079,6 +1082,7 @@ Recommencer."</string>
   <string name="select_recog_question">Select action</string>
   <string name="select_swim_posture">Select style</string>
   <string name="select_target">Select Target</string>
+  <string name="send">Envoyer</string>
   <string name="send_diagnosis_log">Envoyer un journal de diagnostic</string>
   <string name="sending">Envoi en cours…</string>
   <string name="set_emergency_contact">"Contact en cas d'urgence"</string>

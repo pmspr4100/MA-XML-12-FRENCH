@@ -2140,6 +2140,7 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
   <string name="development_settings_summary">"Définir les options pour le développement d'appplication"</string>
   <string name="development_settings_title">Options pour les développeurs</string>
   <string name="device_actionbar_title">Mi 5</string>
+  <string name="device_activation_info">"Activation de l'appareil"</string>
   <string name="device_admin_add_title">"Administration de l'appareil"</string>
   <string name="device_admin_settings_title">"Paramètres d'administration de l'appareil"</string>
   <string name="device_admin_status">"Cette application d'administration est active et permet à %1$s d'effectuer les opérations suivantes:"</string>
@@ -4146,6 +4147,10 @@ D'autres personnes utilisent cet appareil.
   <string name="middle_function_key">Central area</string>
   <string name="miheadet_up_music">Piste précédente</string>
   <string name="miheadset_active">Énergétique</string>
+  <string name="miheadset_ancClosed">Désactivé</string>
+  <string name="miheadset_ancHigh">Élevée</string>
+  <string name="miheadset_ancLow">Faible</string>
+  <string name="miheadset_ancMedium">Moyenne</string>
   <string name="miheadset_anc_indicate">Connecter et appairer des écouteurs</string>
   <string name="miheadset_audio_mode">Qualité audio</string>
   <string name="miheadset_audio_mode_high">Haute</string>
@@ -4168,6 +4173,7 @@ D'autres personnes utilisent cet appareil.
   <string name="miheadset_double_click_key_mode">Double appui</string>
   <string name="miheadset_double_click_left">"Tapotez 2 fois l'écouteur gauche"</string>
   <string name="miheadset_double_click_right">"Tapotez 2 fois l'écouteur droit"</string>
+  <string name="miheadset_enhanceVoice">Améliorer la voix</string>
   <string name="miheadset_enhence_high">Améliorer les aigus</string>
   <string name="miheadset_enhence_low">Améliorer les basses</string>
   <string name="miheadset_equalizer">Égaliseur</string>
@@ -4198,8 +4204,8 @@ D'autres personnes utilisent cet appareil.
   <string name="miheadset_key_config_close_summary">Désactiver la suppression du bruit et la transparence</string>
   <string name="miheadset_key_config_gesture_control">Gestes</string>
   <string name="miheadset_key_config_next_music">Prochaine chanson</string>
-  <string name="miheadset_key_config_noise_control">Contrôle actif du bruit</string>
-  <string name="miheadset_key_config_noise_control_summary">Appuyez et maintenez pour basculer entre les deux modes de contrôle actif du bruit sélectionnés</string>
+  <string name="miheadset_key_config_noise_control">Contrôle du bruit</string>
+  <string name="miheadset_key_config_noise_control_summary">Appuyez et maintenez pour basculer entre les deux modes de contrôle du bruit sélectionnés</string>
   <string name="miheadset_key_config_noise_summary">Bloquer les sons externes</string>
   <string name="miheadset_key_config_press_left">"Maintenez enfoncé l'écouteur gauche"</string>
   <string name="miheadset_key_config_press_right">"Maintenez enfoncé l'écouteur droit"</string>
@@ -4225,6 +4231,7 @@ D'autres personnes utilisent cet appareil.
   <string name="miheadset_RightEar">Droite</string>
   <string name="miheadset_soft">Soft</string>
   <string name="miheadset_transparent">Transparence</string>
+  <string name="miheadset_transparentMode">Transparence</string>
   <string name="miheadset_triple_click_key_mode">Triple appui</string>
   <string name="miheadset_unpair_device_text">%1$s sera dissocié de tous les appareils associés à ce Compte Mi.</string>
   <string name="mipush_fake_channel_group_name">Mi Push</string>
@@ -4307,7 +4314,10 @@ en utilisant vos données faciales. Continuez pour accéder
   <string name="miui_sos_menu_add">Ajouter</string>
   <string name="miui_sos_menu_edit">Éditer</string>
   <string name="miui_sos_msg_call_log_prefix">"Voici mon historique d'appel de cette dernière heure :"</string>
-  <string name="miui_sos_play_voice">Jour le message SOS</string>
+  <string name="miui_sos_pa_title">"Position d'urgence"</string>
+  <string name="miui_sos_pa_turn_off">Désactivée</string>
+  <string name="miui_sos_pa_turn_on">Activée</string>
+  <string name="miui_sos_play_voice">Envoyer le message SOS</string>
   <string name="miui_sos_remind_add">Ajouter</string>
   <string name="miui_sos_remind_close">"Le mode SOS d'urgence est activé. Désactivez-le avec toutes les fonctionnalités associées ?"</string>
   <string name="miui_sos_remind_close_confirm">Désactiver</string>
@@ -7184,6 +7194,7 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
   <string name="title_layout_current2_weight">Caractères et taille</string>
   <string name="title_miui_music_mute_by_user">Mode silencieux</string>
   <string name="title_of_auto_launch_manage">Démarrage automatique</string>
+  <string name="title_special_features_health_global">Rythme cardiaque</string>
   <string name="to_close">Désactiver</string>
   <string name="toast_apply_font_fail">Impossible de définir la police</string>
   <string name="toast_lockscreen_glogin_empty_password">Mot de passe</string>

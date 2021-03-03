@@ -94,6 +94,8 @@
   <string name="alert_dialog_download_prepare">En préparation pour télécharger…</string>
   <string name="alert_dialog_download_progress">"Téléchargement de l'application "</string>
   <string name="all">Tout afficher</string>
+  <string name="app_description_content">"Mi Vidéo est une application système qui contient un lecteur vidéo local. Vous pourrez toujours lire les fichiers vidéo après avoir supprimé le raccourci de l'écran d'accueil."</string>
+  <string name="app_description_title">"Supprimer \"Mi Vidéo\" de l'écran d'accueil ?"</string>
   <string name="app_name">Mi Vidéo</string>
   <string name="auth_again">Accepter</string>
   <string name="auth_fail_warning">Session expirée. Reconnectez-vous.</string>
@@ -102,6 +104,7 @@
   <string name="back_to_mainpage">Découvrir</string>
   <string name="before_yestoday">Il y a 2 jours</string>
   <string name="bind_sign_in_title">Ajouter un Compte Mi</string>
+  <string name="brvah_app_name">Médiathèque</string>
   <string name="cancel">Annuler</string>
   <string name="cancel_choose">Désélectionner</string>
   <string name="cancel_subscribe_tips">Se désabonner maintenant ?</string>
@@ -253,7 +256,15 @@
   <string name="diagnosis_log_sent_format">"Journaux envoyés avec succès.
 ID: %s
 Envoyez ce code au superviseur."</string>
-  <string name="dialog_privacy_info_new2">"Pour pouvoir utiliser ses services, vous devez accepter que l'on %1$s collectera, traitera et utilisera vos informations personnelles. Nous considérons que vous avez lu et accepté notre &lt;a href=\"%2$s\"&gt;Politique de confidentialité &lt;/a&gt; lorsque vous appuyez sur \"Accepter\" ci-dessous."</string>
+  <string name="dialog_privacy_info_new2">"Pour pouvoir utiliser ses services, vous devez accepter que %1$s collecte, traite et utilise vos informations personnelles. Nous considérons que vous avez lu et accepté notre &lt;a href=\"%2$s\"&gt;Politique de confidentialité&lt;/a&gt; lorsque vous appuyez sur \"Accepter\" ci-dessous."</string>
+  <string name="dialog_privacy_info_new3">"Pour pouvoir utiliser ce service, vous devez autoriser %1$s à collecter, traiter et utiliser vos informations personnelles conformément à la politique de confidentialité. En appuyant sur \"J'accepte\" ci-dessous, vous acceptez la &lt;a href=%2$s>Politique de confidentialité&lt;/a> de Xiaomi et l'&lt;a href=%3$s>Accord utilisateur&lt;/a>.&lt;br />&lt;br />Appuyer sur \"Accepter\" permet également à Mi Vidéo d'accéder à la liste des applications installées sur votre appareil. Avec cette autorisation, Mi Vidéo pourra partager des éléments, comprendre si une application est installée sur votre appareil, quelle version d'une application est installée et si une application est sécurisée."</string>
+  <string name="dialog_privacy_revoke_cancel">Annuler</string>
+  <string name="dialog_privacy_revoke_count_down">Retrait (%1$ds)</string>
+  <string name="dialog_privacy_revoke_description">"En désactivant l'interrupteur, vous retirez votre consentement à la politique de confidentialité de Mi Vidéo. Nous cesserons de collecter vos informations personnelles. Les informations personnelles déjà collectées et conservées seront supprimées au bout de la période spécifique prévue par les lois en vigueur. Le retrait de votre consentement à la politique de confidentialité sera considéré comme un refus d'accepter les services en ligne sur la base des informations personnelles collectées."</string>
+  <string name="dialog_privacy_revoke_fail">Votre appareil doit se connecter au réseau pour que vous puissiez retirer votre consentement. Vérifiez vos paramètres réseau et réessayez.</string>
+  <string name="dialog_privacy_revoke_ok">Retrait</string>
+  <string name="dialog_privacy_revoke_success">Retiré avec succès</string>
+  <string name="dialog_privacy_revoking">Retrait du consentement…</string>
   <string name="dialog_privacy_title">Permissions</string>
   <string name="dialog_revoke_privacy_info_new2">"Une fois l'autorisation révoquée, l'application cessera de collecter des données et toutes les données associées seront supprimées de nos serveurs. Cela pourrait rendre l'application pratiquement inutilisable. Révoquer l'autorisation de toute façon ?"</string>
   <string name="dialog_revoke_privacy_title">Révoquer une autorisation</string>
@@ -669,6 +680,7 @@ pour les vidéos"</string>
   <string name="next">Suivant</string>
   <string name="nick_name">Surnom</string>
   <string name="no_account">Non connecté</string>
+  <string name="no_history">Aucun élément ici</string>
   <string name="no_longer_prompt">Ne plus afficher</string>
   <string name="no_more_content">"C'est tout pour le moment"</string>
   <string name="no_network_tips">"Impossible d'utiliser cette fonctionnalité pour le moment. L'accès au réseau est restreint."</string>
@@ -1033,6 +1045,8 @@ Augmenter la sécurité de votre compte."</string>
   <string name="plus_sort_type_time">Temps</string>
   <string name="plus_tab_gallery">Dossiers</string>
   <string name="plus_tab_time">Chronologie</string>
+  <string name="privacy_revoke_setting">"En désactivant l'interrupteur, vous retirez votre consentement à la politique de confidentialité de Mi Vidéo."</string>
+  <string name="privacy_revoke_title">Retrait du consentement</string>
   <string name="progressbar_title">Recherche de problèmes de sécurité…</string>
   <string name="psw_hint">Mot de passe</string>
   <string name="psw_sign_in">Se connecter avec un mot de passe</string>
@@ -1098,6 +1112,7 @@ Augmenter la sécurité de votre compte."</string>
   <string name="screenrecord_cancel">Problèmes de compatibilité</string>
   <string name="screenrecord_nosupport_record">"L'enregistreur d'écran n'est pas actuellement pris en charge sur cet appareil."</string>
   <string name="search">Rechercher</string>
+  <string name="search_bar_hint">Recherche de vidéos</string>
   <string name="search_choose_language">Choisir la langue</string>
   <string name="search_choose_voice_language">Sélectionnez la langue utilisée pour la recherche vocale</string>
   <string name="search_hot_words">Populaire</string>
@@ -1291,4 +1306,12 @@ Taille : %2$s"</string>
   <string name="xiaomi_update_sdk_megabytes_unit">%1$s Mo</string>
   <string name="year">année</string>
   <string name="yesterday">Hier</string>
+  <string name="ytb_account">Comptes</string>
+  <string name="ytb_author_video">Vidéos</string>
+  <string name="ytb_login">Identification</string>
+  <string name="ytb_login_btn">"S'identifier"</string>
+  <string name="ytb_login_hint">Connectez-vous pour afficher vos abonnements YouTube</string>
+  <string name="ytb_logout">Déconnexion</string>
+  <string name="ytb_play_next">Suivant</string>
+  <string name="ytb_subscribed">Abonnements</string>
 </resources>
