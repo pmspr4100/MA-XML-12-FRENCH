@@ -58,6 +58,7 @@
   <string name="bind_sign_in_title">Ajouter compte Mi</string>
   <string name="change_activate_email">"Modifier adresse d'Email"</string>
   <string name="change_password">Modifier mot de passe</string>
+  <string name="character_counter_content_description">Limite de caractères dépassée %1$d sur %2$d</string
   <string name="choose_to_signin">Oui</string>
   <string name="choose_to_signup">Non, je vais en créer un</string>
   <string name="collect_diagnosis_log">Collecter les journaux</string>
@@ -307,6 +308,8 @@ Please check your local date and try again."</string>
   <string name="mibi_paytool_weixin">WeChat</string>
   <string name="mibi_prepaid_card_order_info">%1$s top-up card: CNY %2$s</string>
   <string name="mibi_prepaid_carriers_picker_hint">Select carrier</string>
+  <string name="mibi_prepaid_dialog_content">Any loss caused by the discrepancy between the card number, face value, password and the actual information shall be borne by you. Double check the information you provide before you proceed.</string>
+  <string name="mibi_prepaid_dialog_title">Attention</string>
   <string name="mibi_prepaid_edit_limit">digits</string>
   <string name="mibi_prepaid_error_card_length">Invalid card number or password.</string>
   <string name="mibi_prepaid_error_card_number">Card number invalid.</string>
@@ -320,6 +323,8 @@ Please check your local date and try again."</string>
   <string name="mibi_prepaid_picker_hint_2_1">2.</string>
   <string name="mibi_prepaid_picker_hint_2_2_a">"Selected nominal value must be consistent with that of the prepaid card. Choosing another value will void the card. This action can't be undone."</string>
   <string name="mibi_prepaid_picker_hint_2_2_b">If the nominal value of the prepaid card is not &lt;font color=red&gt;￥%1$s&lt;/font&gt;, the card will be void. Xiaomi is not responsible for any monetary loss that occurs as a result of user error.</string>
+  <string name="mibi_prepaid_picker_hint_3_1">3.</string>
+  <string name="mibi_prepaid_picker_hint_3_2">Enter your card number, face value, and password. <b>Any loss caused by the discrepancy between the information you provide and the actual information shall be borne by you.</b></string>
   <string name="mibi_prepaid_picker_title_default">Select amount</string>
   <string name="mibi_prepaid_picker_title_selected">amount</string>
   <string name="mibi_privacy_license_name">Politique de confidentialité</string>
@@ -414,6 +419,7 @@ Customer service center：400-100-3399"</string>
   <string name="mibi_web_login_description">Login</string>
   <string name="mibi_web_login_waiting">Please wait…</string>
   <string name="mibi_web_sso_login_fail">You need to sign in again</string>
+  <string name="mtrl_chip_close_icon_content_description">Supprimer %1$s</string>
   <string name="nick_name">Nickname</string>
   <string name="no_account">Not signed in</string>
   <string name="no_network">"Can't connect to the network"</string>
@@ -508,7 +514,7 @@ Customer service center：400-100-3399"</string>
   <string name="passport_wrong_phone_number_format">Le format du numéro de téléphone entré est non valide</string>
   <string name="passport_wrong_vcode">Le code que vous avez entré est incorrect</string>
   <string name="passport_wrong_voice">The code you entered is incorrect</string>
-  <string name="password_toggle_content_description">Toggle password visibility</string>
+  <string name="password_toggle_content_description">Show password</string>
   <string name="phone_bind_too_many">This phone has been associated with several Mi Accounts in a short period of time. Try using another phone number.</string>
   <string name="phone_hint">Phone number</string>
   <string name="phone_num_use_for">Phone number is used for:</string>

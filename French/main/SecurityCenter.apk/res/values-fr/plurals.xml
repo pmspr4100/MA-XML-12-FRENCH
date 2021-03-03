@@ -97,6 +97,14 @@
         <item quantity="other">%d fois</item>
         <item quantity="one">%d fois</item>
     </plurals>
+    <plurals name="app_manager_uninstall_notify_summary">
+        <item quantity="other">Désinstaller %d applications</item>
+        <item quantity="one">Désinstaller %d application</item>
+    </plurals>
+    <plurals name="app_manager_updater_notify_title">
+        <item quantity="other">Des mises à jour pour %d applications sont disponibles</item>
+        <item quantity="one">Des mises à jour pour %d application sont disponibles</item>
+    </plurals>
     <plurals name="app_usage_day">
         <item quantity="other">Utilisé il y a %d jours</item>
         <item quantity="one">Utilisé il y a %d jour</item>
@@ -132,6 +140,10 @@
     <plurals name="cache_check_content">
         <item quantity="other">Protection de %d applis</item>
         <item quantity="one">Protection de %d appli</item>
+    </plurals>
+    <plurals name="card_uninstall_title">
+        <item quantity="other"><Data>Vous pouvez désinstaller &lt;font color=#F22424>%d&lt;/font> applications</Data></item>
+        <item quantity="one"><Data>Vous pouvez désinstaller &lt;font color=#F22424>%d&lt;/font> application</Data></item>
     </plurals>
     <plurals name="daily_sim_over_limit_dialog_message">
         <item quantity="other">"Vous avez déjà atteint les limites de données quotidiennes de %s.
@@ -774,6 +786,10 @@ Vous pouvez obtenir un essai gratuit de %d jours maintenant !"</item>
     <plurals name="system_check_content">
         <item quantity="other">%1$d fichiers sécurisés</item>
         <item quantity="one">%1$d fichier sécurisé</item>
+    </plurals>
+    <plurals name="title_app_update_cn">
+        <item quantity="other"><Data>Mettre à jour &lt;font color=#F22424>%d&lt;/font> applications</Data></item>
+        <item quantity="one"><Data>Mettre à jour &lt;font color=#F22424>%d&lt;/font> application</Data></item>
     </plurals>
     <plurals name="title_virus_clean">
         <item quantity="other">%d virus effacés</item>
