@@ -4146,6 +4146,10 @@ D'autres personnes utilisent cet appareil.
   <string name="middle_function_key">Central area</string>
   <string name="miheadet_up_music">Piste précédente</string>
   <string name="miheadset_active">Énergétique</string>
+  <string name="miheadset_ancClosed">Désactivé</string>
+  <string name="miheadset_ancHigh">Élevée</string>
+  <string name="miheadset_ancLow">Faible</string>
+  <string name="miheadset_ancMedium">Moyenne</string>
   <string name="miheadset_anc_indicate">Connecter et appairer des écouteurs</string>
   <string name="miheadset_audio_mode">Qualité audio</string>
   <string name="miheadset_audio_mode_high">Haute</string>
@@ -4168,6 +4172,7 @@ D'autres personnes utilisent cet appareil.
   <string name="miheadset_double_click_key_mode">Double appui</string>
   <string name="miheadset_double_click_left">"Tapotez 2 fois l'écouteur gauche"</string>
   <string name="miheadset_double_click_right">"Tapotez 2 fois l'écouteur droit"</string>
+  <string name="miheadset_enhanceVoice">Améliorer la voix</string>
   <string name="miheadset_enhence_high">Améliorer les aigus</string>
   <string name="miheadset_enhence_low">Améliorer les basses</string>
   <string name="miheadset_equalizer">Égaliseur</string>
@@ -4198,8 +4203,8 @@ D'autres personnes utilisent cet appareil.
   <string name="miheadset_key_config_close_summary">Désactiver la suppression du bruit et la transparence</string>
   <string name="miheadset_key_config_gesture_control">Gestes</string>
   <string name="miheadset_key_config_next_music">Prochaine chanson</string>
-  <string name="miheadset_key_config_noise_control">Contrôle actif du bruit</string>
-  <string name="miheadset_key_config_noise_control_summary">Appuyez et maintenez pour basculer entre les deux modes de contrôle actif du bruit sélectionnés</string>
+  <string name="miheadset_key_config_noise_control">Contrôle du bruit</string>
+  <string name="miheadset_key_config_noise_control_summary">Appuyez et maintenez pour basculer entre les deux modes de contrôle du bruit sélectionnés</string>
   <string name="miheadset_key_config_noise_summary">Bloquer les sons externes</string>
   <string name="miheadset_key_config_press_left">"Maintenez enfoncé l'écouteur gauche"</string>
   <string name="miheadset_key_config_press_right">"Maintenez enfoncé l'écouteur droit"</string>
@@ -4225,6 +4230,7 @@ D'autres personnes utilisent cet appareil.
   <string name="miheadset_RightEar">Droite</string>
   <string name="miheadset_soft">Soft</string>
   <string name="miheadset_transparent">Transparence</string>
+  <string name="miheadset_transparentMode">Transparence</string>
   <string name="miheadset_triple_click_key_mode">Triple appui</string>
   <string name="miheadset_unpair_device_text">%1$s sera dissocié de tous les appareils associés à ce Compte Mi.</string>
   <string name="mipush_fake_channel_group_name">Mi Push</string>
