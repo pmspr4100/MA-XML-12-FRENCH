@@ -489,8 +489,8 @@
         <item quantity="one">"You won't be able to restore %d selected item if you delete it. Delete anyway?"</item>
     </plurals>
     <plurals name="trash_vip_info_text_login">
-        <item quantity="other">Items can be stored here for up to %1$d days (%2$s)</item>
-        <item quantity="one">Items can be stored here for %1$d day (%2$s)</item>
+        <item quantity="other">"Les éléments peuvent être stockés ici jusqu'à %1$d jours (%2$s)"</item>
+        <item quantity="one">"Les éléments peuvent être stockés ici jusqu'à %1$d jour (%2$s)"</item>
     </plurals>
     <plurals name="trash_vip_info_text_unlogin">
         <item quantity="other">Items can be stored here for up to %1$d days. Upgrade your plan to extend this period.</item>
