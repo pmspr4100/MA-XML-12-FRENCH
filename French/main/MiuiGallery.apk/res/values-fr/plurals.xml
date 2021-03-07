@@ -349,104 +349,104 @@
         <item quantity="one">%1$d photo retirée de \"%2$s\".</item>
     </plurals>
     <plurals name="send_apk_dialog_desc">
-        <item quantity="other">%2$d installation packages (%3$s) from %1$s</item>
-        <item quantity="one">%2$d installation package (%3$s) from %1$s</item>
+        <item quantity="other">"%2$d paquets d'installation (%3$s) depuis %1$s"</item>
+        <item quantity="one">"%2$d paquet d'installation (%3$s) depuis %1$s"</item>
     </plurals>
     <plurals name="send_apk_dialog_desc_received">
-        <item quantity="other">Received %2$d installation packages (%3$s) from %1$s</item>
-        <item quantity="one">Received %2$d installation package (%3$s) from %1$s</item>
+        <item quantity="other">"%2$d paquets d'installation reçus (%3$s) depuis %1$s"</item>
+        <item quantity="one">"%2$d paquet d'installation reçu (%3$s) depuis %1$s"</item>
     </plurals>
     <plurals name="send_apk_dialog_desc_receiving">
-        <item quantity="other">Receiving %2$d installation packages (%3$s) from %1$s…</item>
-        <item quantity="one">Receiving %2$d installation package (%3$s) from %1$s…</item>
+        <item quantity="other">"Réception de %2$d paquets d'installation (%3$s) depuis %1$s…"</item>
+        <item quantity="one">"Réception de %2$d paquet d'installation (%3$s) depuis %1$s…"</item>
     </plurals>
     <plurals name="send_audio_dialog_desc">
-        <item quantity="other">%2$d audio files (%3$s) from %1$s</item>
-        <item quantity="one">%2$d audio file (%3$s) from %1$s</item>
+        <item quantity="other">%2$d fichiers audio (%3$s) depuis %1$s</item>
+        <item quantity="one">%2$d fichier audio (%3$s) depuis %1$s</item>
     </plurals>
     <plurals name="send_audio_dialog_desc_received">
-        <item quantity="other">Received %2$d audio files (%3$s) from %1$s</item>
-        <item quantity="one">Received %2$d audio file (%3$s) from %1$s</item>
+        <item quantity="other">%2$d fichiers audio reçus (%3$s) depuis %1$s</item>
+        <item quantity="one">%2$d fichier audio reçu (%3$s) depuis %1$s</item>
     </plurals>
     <plurals name="send_audio_dialog_desc_receiving">
-        <item quantity="other">Receiving %2$d audio files (%3$s) from %1$s…</item>
-        <item quantity="one">Receiving %2$d audio file (%3$s) from %1$s…</item>
+        <item quantity="other">Réception de %2$d fichiers audio (%3$s) depuis %1$s…</item>
+        <item quantity="one">Réception de %2$d fichier audio (%3$s) depuis %1$s…</item>
     </plurals>
     <plurals name="send_file_dialog_desc">
-        <item quantity="other">%2$d %3$s files (%4$s) from %1$s</item>
-        <item quantity="one">%2$d %3$s file (%4$s) from %1$s</item>
+        <item quantity="other">%2$d %3$s fichiers (%4$s) depuis %1$s</item>
+        <item quantity="one">%2$d %3$s fichier (%4$s) depuis %1$s</item>
     </plurals>
     <plurals name="send_file_dialog_desc_received">
-        <item quantity="other">Received %2$d %3$s files (%4$s) from %1$s</item>
-        <item quantity="one">Received %2$d %3$s file (%4$s) from %1$s</item>
+        <item quantity="other">%2$d %3$s fichiers reçus (%4$s) depuis %1$s</item>
+        <item quantity="one">%2$d %3$s fichier reçu (%4$s) depuis %1$s</item>
     </plurals>
     <plurals name="send_file_dialog_desc_receiving">
-        <item quantity="other">Receiving %2$d %3$s files (%4$s) from %1$s…</item>
-        <item quantity="one">Receiving %2$d %3$s file (%4$s) from %1$s…</item>
+        <item quantity="other">Réception de %2$d %3$s fichiers (%4$s) depuis %1$s…</item>
+        <item quantity="one">Réception de %2$d %3$s fichier (%4$s) depuis %1$s…</item>
     </plurals>
     <plurals name="send_image_dialog_desc">
-        <item quantity="other">%2$d images from %1$s</item>
-        <item quantity="one">%2$d image from %1$s</item>
+        <item quantity="other">%2$d images depuis %1$s</item>
+        <item quantity="one">%2$d image depuis %1$s</item>
     </plurals>
     <plurals name="send_image_dialog_desc_received">
-        <item quantity="other">Received %2$d images from %1$s</item>
-        <item quantity="one">Received %2$d image from %1$s</item>
+        <item quantity="other">%2$d images reçues depuis %1$s</item>
+        <item quantity="one">%2$d image reçue depuis %1$s</item>
     </plurals>
     <plurals name="send_image_dialog_desc_receiving">
-        <item quantity="other">Receiving %2$d images from %1$s…</item>
-        <item quantity="one">Receiving %2$d image from %1$s…</item>
+        <item quantity="other">Réception de %2$d images depuis %1$s…</item>
+        <item quantity="one">Réception de %2$d image depuis %1$s…</item>
     </plurals>
     <plurals name="send_image_video_dialog_desc">
-        <item quantity="other">%2$d images and videos from %1$s</item>
-        <item quantity="one">%2$d image or video from %1$s</item>
+        <item quantity="other">%2$d images et vidéos depuis %1$s</item>
+        <item quantity="one">%2$d image ou vidéo depuis %1$s</item>
     </plurals>
     <plurals name="send_image_video_dialog_desc_received">
-        <item quantity="other">Received %2$d images and videos from %1$s</item>
-        <item quantity="one">Received %2$d image or video from %1$s</item>
+        <item quantity="other">%2$d images et vidéos reçues depuis %1$s</item>
+        <item quantity="one">%2$d image ou vidéo reçue depuis %1$s</item>
     </plurals>
     <plurals name="send_image_video_dialog_desc_receiving">
-        <item quantity="other">Receiving %2$d images and videos from %1$s…</item>
-        <item quantity="one">Receiving %2$d image or video from %1$s…</item>
+        <item quantity="other">Réception de %2$d images et vidéos depuis %1$s…</item>
+        <item quantity="one">Réception de %2$d image ou vidéo depuis %1$s…</item>
     </plurals>
     <plurals name="send_more_type_file_dialog_desc">
-        <item quantity="other">%2$d files from %1$s</item>
-        <item quantity="one">%2$d file from %1$s</item>
+        <item quantity="other">%2$d fichiers depuis %1$s</item>
+        <item quantity="one">%2$d fichier depuis %1$s</item>
     </plurals>
     <plurals name="send_more_type_file_dialog_desc_received">
-        <item quantity="other">Received %2$d files from %1$s</item>
-        <item quantity="one">Received %2$d file from %1$s</item>
+        <item quantity="other">%2$d fichiers reçus depuis %1$s</item>
+        <item quantity="one">%2$d fichier reçu depuis %1$s</item>
     </plurals>
     <plurals name="send_more_type_file_dialog_desc_receiving">
-        <item quantity="other">Receiving %2$d files from %1$s…</item>
-        <item quantity="one">Receiving %2$d file from %1$s…</item>
+        <item quantity="other">Réception de %2$d fichiers depuis %1$s…</item>
+        <item quantity="one">Réception de %2$d fichier depuis %1$s…</item>
     </plurals>
     <plurals name="send_processing_files_error">
         <item quantity="other">Impossible de partager. Traitement de %d photos encore en cours…</item>
         <item quantity="one">Impossible de partager. Traitement de %d photo encore en cours…</item>
     </plurals>
     <plurals name="send_video_dialog_desc">
-        <item quantity="other">%2$d videos from %1$s</item>
-        <item quantity="one">%2$d video from %1$s</item>
+        <item quantity="other">%2$d vidéos depuis %1$s</item>
+        <item quantity="one">%2$d vidéo depuis %1$s</item>
     </plurals>
     <plurals name="send_video_dialog_desc_received">
-        <item quantity="other">Received %2$d videos from %1$s</item>
-        <item quantity="one">Received %2$d video from %1$s</item>
+        <item quantity="other">%2$d vidéos reçues depuis %1$s</item>
+        <item quantity="one">%2$d vidéo reçue depuis %1$s</item>
     </plurals>
     <plurals name="send_video_dialog_desc_receiving">
-        <item quantity="other">Receiving %2$d videos from %1$s…</item>
-        <item quantity="one">Receiving %2$d video from %1$s…</item>
+        <item quantity="other">Réception de %2$d vidéos depuis %1$s…</item>
+        <item quantity="one">Réception de %2$d vidéo depuis %1$s…</item>
     </plurals>
     <plurals name="send_zip_dialog_desc">
-        <item quantity="other">%2$d archives (%3$s) from %1$s</item>
-        <item quantity="one">%2$d archive (%3$s) from %1$s</item>
+        <item quantity="other">%2$d archives (%3$s) depuis %1$s</item>
+        <item quantity="one">%2$d archive (%3$s) depuis %1$s</item>
     </plurals>
     <plurals name="send_zip_dialog_desc_received">
-        <item quantity="other">Received %2$d archives (%3$s) from %1$s</item>
-        <item quantity="one">Received %2$d archive (%3$s) from %1$s</item>
+        <item quantity="other">%2$d archives reçues (%3$s) depuis %1$s</item>
+        <item quantity="one">%2$d archive reçue (%3$s) depuis %1$s</item>
     </plurals>
     <plurals name="send_zip_dialog_desc_receiving">
-        <item quantity="other">Receiving %2$d archives (%3$s) from %1$s…</item>
-        <item quantity="one">Receiving %2$d archive (%3$s) from %1$s…</item>
+        <item quantity="other">Réception de %2$d archives (%3$s) depuis %1$s…</item>
+        <item quantity="one">Réception de %2$d archive (%3$s) depuis %1$s…</item>
     </plurals>
     <plurals name="slideshow_interval_value">
         <item quantity="other">%1$d secondes</item>
@@ -481,20 +481,20 @@
         <item quantity="one">"Vous ne pourrez pas restaurer %d élément sélectionné si vous l'avez supprimé. Supprimer quand même ?"</item>
     </plurals>
     <plurals name="trash_purge_dialog_message_media">
-        <item quantity="other">"You won't be able to restore %d selected items if you delete them. Delete anyway?"</item>
-        <item quantity="one">"You won't be able to restore %d selected item if you delete it. Delete anyway?"</item>
+        <item quantity="other">"Vous ne pourrez pas restaurer %d éléments sélectionnés si vous les supprimez. Supprimer quand même ?"</item>
+        <item quantity="one">"Vous ne pourrez pas restaurer %d élément sélectionné si vous le supprimez. Supprimer quand même ?"</item>
     </plurals>
     <plurals name="trash_purge_dialog_message_video">
-        <item quantity="other">"You won't be able to restore %d selected items if you delete them. Delete anyway?"</item>
-        <item quantity="one">"You won't be able to restore %d selected item if you delete it. Delete anyway?"</item>
+        <item quantity="other">"Vous ne pourrez pas restaurer %d éléments sélectionnés si vous les supprimez. Supprimer quand même ?"</item>
+        <item quantity="one">"Vous ne pourrez pas restaurer %d élément sélectionné si vous le supprimez. Supprimer quand même ?"</item>
     </plurals>
     <plurals name="trash_vip_info_text_login">
         <item quantity="other">"Les éléments peuvent être stockés ici jusqu'à %1$d jours (%2$s)"</item>
         <item quantity="one">"Les éléments peuvent être stockés ici jusqu'à %1$d jour (%2$s)"</item>
     </plurals>
     <plurals name="trash_vip_info_text_unlogin">
-        <item quantity="other">Items can be stored here for up to %1$d days. Upgrade your plan to extend this period.</item>
-        <item quantity="one">Items can be stored here for %1$d day. Upgrade your plan to extend this period.</item>
+        <item quantity="other">"Les éléments peuvent être stockés ici pendant jusqu'à %1$d jours. Mettez à niveau votre forfait pour prolonger cette période."</item>
+        <item quantity="one">"Les éléments peuvent être stockés ici pendant jusqu'à %1$d jour. Mettez à niveau votre forfait pour prolonger cette période."</item>
     </plurals>
     <plurals name="video_count_format">
         <item quantity="other">%1$d fichiers</item>
