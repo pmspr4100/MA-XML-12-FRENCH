@@ -1080,6 +1080,9 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="message_decode_error">Erreur lors du décodage du message.</string>
   <string name="mhh_disable">Les infos de médecine, de santé et des hôpitaux sont déactivées</string>
   <string name="mhh_enable">Les infos de médecine, de santé et des hôpitaux sont activées</string>
+  <string name="mi_mobile_sim_activate_message">"Activez la carte SIM %d pour pouvoir utiliser Mi Mobile. Cela peut prendre jusqu'à 5 minutes."</string>
+  <string name="mi_mobile_sim_activate_ok">Activer</string>
+  <string name="mi_mobile_sim_activate_title">Bienvenue sur Mi Mobile !</string>
   <string name="mi_sim_settings_summary">Utiliser les données cellulaires sans carte SIM</string>
   <string name="mi_sim_settings_title">SIM Mi</string>
   <string name="mismatchPin">Les codes PIN saisis ne correspondent pas. Veuillez réessayer.</string>
@@ -2001,6 +2004,7 @@ Les appels d’urgence ne sont possibles que dans les zones couvertes par une co
   <string name="wifi_auto_sel_wapi_cert">Sélectionnez automatiquement</string>
   <string name="wifi_call_accept">Suivant</string>
   <string name="wifi_call_available_message">"Vous pouvez maintenant passer des appels en utilisant le Wi-Fi. Si vous êtes connecté à un réseau Wi-Fi, vous pourrez parler même lorsque vous vous trouvez dans des zones sans couverture de réseau cellulaire."</string>
+  <string name="wifi_call_available_message_for_ATT_MX">Vous êtes sur le point de vous connecter à un réseau Wi-Fi, la qualité des appels peut varier en fonction du réseau.</string>
   <string name="wifi_call_available_title">Activer les appels Wi-Fi</string>
   <string name="wifi_call_cancel">"Plus d'informations"</string>
   <string name="wifi_call_help">Aide</string>

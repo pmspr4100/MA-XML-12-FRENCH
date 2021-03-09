@@ -55,8 +55,11 @@
   <string name="area_amazon">Forêt tropicale</string>
   <string name="area_arctic">Arctique</string>
   <string name="area_australia">Australie</string>
+  <string name="asian_badger">Blaireau asiatique</string>
+  <string name="asian_black_bear">"Ours noir d'Asie"</string>
   <string name="atarctic_shag">Cormoran antarctique</string>
   <string name="australia_introduction">Le continent australien est un paradis pour les espèces endémiques rares.</string>
+  <string name="australian_magpie">Cassican flûteur</string>
   <string name="baboon_info">Le babouin olive vit en groupes avec un classement social développé en fonction de la domination de chaque individu.</string>
   <string name="back">Retour</string>
   <string name="bear_info">"Les ours sont les plus grands carnivores terrestres. Ils vivent dans des régions froides et sont connus pour leur sens aigu de l'odorat."</string>
@@ -64,6 +67,7 @@
   <string name="black_head_bulbul_info">Ces oiseaux se déplacent souvent en groupes et volent sur de courtes distances.</string>
   <string name="black_headed_bulbul">Bulbul à tête noire</string>
   <string name="black_howler_monkey">Hurleur noir</string>
+  <string name="black_necked_crane">Grue à cou noir</string>
   <string name="black_rhinoceros">Rhinocéros noir</string>
   <string name="black_swan">Cygne noir</string>
   <string name="blue_poison_dart_frog">Dendrobates azureus (grenouille bleue)</string>
@@ -99,6 +103,7 @@
   <string name="branch_two_toed">Choloepus</string>
   <string name="branch_walrus">Odobénidés</string>
   <string name="branch_whipbird">Turdidés</string>
+  <string name="brown_pelican">Pélican brun</string>
   <string name="calendar_sound">"Rappels d'événements"</string>
   <string name="calendar_tip">"Le rappel d'événement semble fonctionner pour les rappels d'agenda, les notes et les tâches"</string>
   <string name="canada_goose">Bernache du Canada</string>
@@ -228,9 +233,22 @@
   <string name="friday">Vendredi</string>
   <string name="friday_short">Ven</string>
   <string name="friday_shortest">Ven</string>
+  <string name="galapagos_cormorant">Cormoran aptère</string>
+  <string name="galapagos_dove">Tourterelle des Galapagos</string>
+  <string name="galapagos_hawk">Buse des Galapagos</string>
+  <string name="galapagos_mockingbird">Moqueur des Galapagos</string>
+  <string name="galapagos_penguin">Manchot des Galapagos</string>
   <string name="gamma">Gamma</string>
+  <string name="geospiza_conirostris">Géospize à bec conique</string>
   <string name="giant_otter">Loutre géante</string>
+  <string name="giant_panda">Panda géant</string>
+  <string name="golden_eagle">Aigle royal</string>
   <string name="golden_headed_lion_tamarin">Tamarin</string>
+  <string name="golden_rumped_tinkerbird">Barbion à croupion jaune</string>
+  <string name="great_frigatebird">Frégate du Pacifique</string>
+  <string name="green_peafowl">Paon spicifère</string>
+  <string name="green_warbler_finch">Géospize olive</string>
+  <string name="grey_headed_flying_fox">Roussette à tête grise</string>
   <string name="harp_seal">Phoque du Groenland</string>
   <string name="harpy_eagle">Harpie féroce</string>
   <string name="has_applied">Appliqué</string>
@@ -271,6 +289,7 @@
   <string name="kinkajou">Kinkajou</string>
   <string name="kinkajou_info">Le kinkajou est connu pour ses habitudes nocturnes et sa queue entièrement préhensile.</string>
   <string name="koala">Koala</string>
+  <string name="large_ground_finch">Géospize à gros bec</string>
   <string name="laughing_kookaburra">Martins-chasseurs</string>
   <string name="laughing_kookaburra_info">Les martins-chasseurs sont connus pour leurs sons uniques et sont bons pour chasser les serpents et autres reptiles.</string>
   <string name="leopard">Léopard</string>
@@ -280,8 +299,12 @@
   <string name="long_tai1ed_iaeger">Labbe à longue queue</string>
   <string name="low_fps_description">"Taux de rafraîchissement d'écran bas. Faible consommation d'énergie."</string>
   <string name="low_light_preview">Aperçu en basse lumière</string>
+  <string name="lynx">Lynx</string>
+  <string name="magnificent_frigatebird">Frégate superbe</string>
   <string name="marabou_stork">"Marabout d'Afrique"</string>
   <string name="marabou_stork_info">"La marabout d'Afrique est un oiseau massif et un charognard."</string>
+  <string name="masked_palm_civet">Civette palmiste à masque</string>
+  <string name="medium_tree_finch">Géospize modeste</string>
   <string name="midnight">Nuit</string>
   <string name="miui_feedback_edit_submit_dialog_content">
     <Data>"Vous devez accepter nos &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt; et &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; pour pouvoir utiliser Feedback. Les problèmes que vous signalez ainsi que les éléments que vous joignez (peuvent contenir des informations personnelles, ainsi que des informations sur votre appareil et votre réseau) seront téléchargés sur les serveurs de MIUI. Cela nous aidera à localiser et à résoudre les problèmes que vous signalez."</Data>
@@ -303,9 +326,11 @@
   <string name="mix_match_random">Aléatoire</string>
   <string name="mix_match_submit">Appliquer</string>
   <string name="mix_match_type_bird">Oiseaux</string>
+  <string name="mix_match_type_galapagos_islands">Îles Galápagos</string>
   <string name="mix_match_type_land">Terrain</string>
   <string name="mix_match_type_polar">Polaire</string>
   <string name="mix_match_type_rare">Rare</string>
+  <string name="mix_match_type_southwest_mountain">Chine du Sud-Ouest</string>
   <string name="mms">Messagerie</string>
   <string name="monday">Lundi</string>
   <string name="monday_short">Lun</string>
@@ -359,6 +384,7 @@
   <string name="native_hen_info">"Les gallinules de Tasmanie vivent près de l'eau et ne savent pas voler."</string>
   <string name="nature_mix">Mélange nature</string>
   <string name="nature_mix_summary">Créez un mix personnalisé</string>
+  <string name="nazca_booby">Fou de Grant</string>
   <string name="network_error">"Une erreur de réseau s'est produite. Réessayer."</string>
   <string name="night">Soirée</string>
   <string name="nine_banded_armadillo">Tatou</string>
@@ -379,9 +405,12 @@
   <string name="ostrich_info">"Les autruches sont de grands oiseaux d'Afrique incapables de voler qui pondent les plus gros œufs de tous les animaux terrestres vivants."</string>
   <string name="other_parameter">Autre</string>
   <string name="p3_color_region_summary">"Afficher tout le contenu de l'écran dans la gamme de couleurs P3"</string>
+  <string name="pallas_s_cat">Chat de Pallas</string>
   <string name="parasitic_jaeger">Labbe parasite</string>
   <string name="personality_hint_ringtone">Souns personnalisés</string>
   <string name="petaurus_breviceps">Phalanger volant</string>
+  <string name="phoebastria_irrorata">Albatros des Galapagos</string>
+  <string name="pied_butcherbird">Cassican à gorge noire</string>
   <string name="pied_crow">Corbeau pie</string>
   <string name="plains_zebra">Zèbre</string>
   <string name="platpus_info">"L'ornithorynque est un sujet important dans l'étude de la biologie évolutive. C'est aussi l'une des rares espèces de mammifères venimeux."</string>
@@ -398,6 +427,9 @@
   <string name="puffin">Macareux moine</string>
   <string name="random_play_sound_alert">Vous entendrez les sons des animaux de cette région lorsque vous recevrez des notifications</string>
   <string name="red_billed_hornbill">Calao à bec rouge</string>
+  <string name="red_billed_tropicbird">Phaéton à bec rouge</string>
+  <string name="red_fox">Renard roux</string>
+  <string name="red_panda">Panda roux</string>
   <string name="reset_edit">Annuler les modifications</string>
   <string name="restore_default">Réinitialiser</string>
   <string name="retry">Réessayer</string>
@@ -431,12 +463,17 @@
   <string name="search_empty">Aucune applications trouvées</string>
   <string name="search_menu_title">Recherche</string>
   <string name="several_days_use_time">"Temps d'utilisation: %2$s"</string>
+  <string name="short_eared_owl">hibou des marais</string>
   <string name="shortcut_created">Ce raccourci existe déjà</string>
   <string name="silent_ringtone_hint">"L'audio est désormais réduit au silence. Augmentez le volume et réessayez."</string>
+  <string name="silver_pheasant">Faisan argenté</string>
   <string name="sim_slot_1">" (SIM 1)"</string>
   <string name="sim_slot_2">" (SIM 2)"</string>
+  <string name="skywalker_hoolock_gibbon">Gibbon Skywalker</string>
+  <string name="small_ground_finch">Géospize fuligineux</string>
   <string name="sms_delivered_sound_title">Message livré</string>
   <string name="sms_received_sound_title">Nouveau message</string>
+  <string name="snow_leopard">Léopard des neiges</string>
   <string name="snowy_owl">Harfang des neiges</string>
   <string name="solar_term_autumn_begins">"Début de l'automne"</string>
   <string name="solar_term_autumn_equinox">"Équinoxe d'automne"</string>
@@ -466,6 +503,7 @@
   <string name="southern_ground_hornbill">Bucorve du Sud</string>
   <string name="spotted_hyaena">Hyène tachetée</string>
   <string name="spotted_hyaena_info">Les hyènes sont des prédateurs nocturnes aux comportements sociaux les plus complexes.</string>
+  <string name="spur_winged_plover">Vanneau à éperons</string>
   <string name="srgb_color_region_summary">"Afficher tout le contenu de l'écran dans la gamme de couleurs sRGB"</string>
   <string name="start_easymode">Activer le mode simplifié</string>
   <string name="steady_on_screen_notification_title">Posez votre téléphone et faites une pause</string>
@@ -543,6 +581,7 @@
   <string name="toucan_info">Les toucans ont de gros becs colorés. Ils font souvent leurs nids dans les creux des arbres.</string>
   <string name="touch_description">Les boutons et raccourcis optimisés vous aideront à limiter les appuis involontaires</string>
   <string name="touch_title">Contrôles tactiles avancés</string>
+  <string name="tree_hyrax">Dendrohyrax</string>
   <string name="trend_from_yesterday_equal">"Pareil qu'hier"</string>
   <string name="trend_from_yesterday_less">"%1$s moins qu'hier"</string>
   <string name="trend_from_yesterday_less_simple">"%1$s moins qu'hier"</string>
@@ -816,6 +855,7 @@ Cette application doit se connecter à Internet et requiert les autorisations su
   <string name="usagestats_device_timeout_title">"Alerte de temps d'utilisation"</string>
   <string name="v7_preference_off">DÉSACTIVÉ</string>
   <string name="v7_preference_on">ACTIVÉ</string>
+  <string name="vampire_finch">Géospize vampire</string>
   <string name="vervet_monkey">Singe vert</string>
   <string name="wait_tip">Un instant…</string>
   <string name="walrus">Morse</string>
@@ -827,8 +867,13 @@ Cette application doit se connecter à Internet et requiert les autorisations su
   <string name="whipbird_eastern_whipbird">Flûtiste balancé</string>
   <string name="whipbird_info">"Les flûtistes balancés sont originaires de la côte est de l'Australie."</string>
   <string name="white_bellied_sea_eagle">Pygargue à queue blanche</string>
+  <string name="wild_boar">Sanglier</string>
   <string name="willow_grouse">Lagopède des saules</string>
   <string name="willow_grouse_info">Le lagopède des saules est herbivore pendant la majeure partie de sa vie et occupe principalement les habitats subalpins et subarctiques.</string>
+  <string name="wolf">Loup</string>
   <string name="wombat">Wombat</string>
+  <string name="yellow_necked_spurfowl">Francolin à cou jaune</string>
+  <string name="yellow_throated_marten">Martre à gorge jaune</string>
   <string name="yesterday">Hier</string>
+  <string name="yunnan_snub_nosed_monkey">Rhinopithèque brun</string>
 </resources>
