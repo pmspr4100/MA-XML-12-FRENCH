@@ -138,6 +138,7 @@
   <string name="dall_sheep">Mouflon de Dall</string>
   <string name="dart_frog_info">Sa peau bleu vif et ses glandes venimeuses sont des mécanismes de défense contre les prédateurs potentiels.</string>
   <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
+  <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>
   <string name="dc_light_hint_enable_title">Attention</string>
   <string name="dc_light_hint_normal">"L'atténuation DC peut affecter la façon dont certains éléments sont affichés."</string>
   <string name="dc_light_hint_other">"L'atténuation DC peut affecter la fréquence de rafraîchissement et la façon dont certains éléments sont affichés."</string>
@@ -306,23 +307,28 @@
   <string name="masked_palm_civet">Civette palmiste à masque</string>
   <string name="medium_tree_finch">Géospize modeste</string>
   <string name="midnight">Nuit</string>
-  <string name="miui_feedback_edit_submit_dialog_content">
-    <Data>"Vous devez accepter nos &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt; et &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; pour pouvoir utiliser Feedback. Les problèmes que vous signalez ainsi que les éléments que vous joignez (peuvent contenir des informations personnelles, ainsi que des informations sur votre appareil et votre réseau) seront téléchargés sur les serveurs de MIUI. Cela nous aidera à localiser et à résoudre les problèmes que vous signalez."</Data>
-  </string>
-  <string name="miui_feedback_edit_submit_dialog_content_global">
-    <Data>"Vos commentaires, ainsi que les pièces jointes (le cas échéant) et les journaux (vous pouvez décocher les cases correspondantes pour les éléments que vous ne souhaitez pas télécharger) seront envoyés aux serveurs de MIUI. Les journaux peuvent contenir des informations personnelles et vos données de localisation. Si vous sélectionnez \"Accepter\", vous avez lu et accepté nos &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt; et &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt;."</Data>
-  </string>
-  <string name="miuix_appcompat_cloud_state_disabled">Synchronisation avec le cloud est désactivée</string>
-  <string name="miuix_appcompat_cloud_state_finished">Synchronisé avec le cloud avec succès</string>
-  <string name="miuix_appcompat_cloud_state_syncing">Synchronisation avec le cloud…</string>
-  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez pour actualisé</string>
+  <string name="miuix_appcompat_action_mode_deselect_all">Désélectionner</string>
+  <string name="miuix_appcompat_action_mode_select_all">Tout sélectionner</string>
+  <string name="miuix_appcompat_action_mode_title_empty">Sélectionner des éléments</string>
+  <string name="miuix_appcompat_actionbar_immersion_button_more_description">Plus</string>
+  <string name="miuix_appcompat_cancel_description">Annuler</string>
+  <string name="miuix_appcompat_confirm_description">Confirmer</string>
+  <string name="miuix_appcompat_delete_description">Supprimer</string>
+  <string name="miuix_appcompat_deselect_all">Désélectionner</string>
+  <string name="miuix_appcompat_deselect_all_description">Tout désélectionner</string>
+  <string name="miuix_appcompat_search_action_mode_cancel">Annuler</string>
+  <string name="miuix_appcompat_search_input_description">Chercher</string>
+  <string name="miuix_appcompat_select_all">Tout sélectionner</string>
+  <string name="miuix_appcompat_select_all_description">Tout sélectionner</string>
+  <string name="miuix_appcompat_select_item">Sélectionner des éléments</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez vers le bas pour actualiser</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualisation…</string>
-  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Relâcher pour actualisé</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Relâcher pour rafraîchir</string>
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">"C'est tout pour le moment"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">"C'est tout pour le moment"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chargement…</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Impossible de charger les éléments"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Impossible de charger les éléments</string>
   <string name="mix_match_random">Aléatoire</string>
   <string name="mix_match_submit">Appliquer</string>
   <string name="mix_match_type_bird">Oiseaux</string>
