@@ -598,10 +598,13 @@ Numérisez des documents en un clic"</string>
   <string name="dual_camera_too_close_toast">"L'appareil photo est trop proche de l'objet."</string>
   <string name="dual_camera_use_hint">"Assurez-vous que l'objet ne se trouve pas à plus de 2 mètres."</string>
   <string name="dual_video_record_merged">Combiné</string>
+  <string name="dual_video_record_remote">Enregistrement double téléphone</string>
   <string name="dual_video_record_standalone">Séparé</string>
   <string name="dual_video_user_guide_main_content">"Pour créer des vidéos multicaméras, sélectionnez deux caméras sur votre appareil et enregistrez simultanément. Les enregistrements peuvent être stockés séparément, combinés dans une même vue scindée en deux, ou encore dans une vidéo image dans l'image."</string>
   <string name="dual_video_user_guide_main_title">Vidéo multicaméra</string>
   <string name="dual_video_user_guide_merge_content">"Enregistrez avec deux caméras simultanément et combinez les enregistrements dans une vue scindée ou dans une vidéo image dans l'image."</string>
+  <string name="dual_video_user_guide_remote_content">"L'Enregistrement double téléphone permet de combiner les flux de deux appareils différents en une seule vidéo. Vous pourrez prévisualiser les deux flux et la vidéo finale sur cet appareil. Notez que l'audio ne sera enregistré que par cet appareil."</string>
+  <string name="dual_video_user_guide_remote_p">Téléphone %d</string>
   <string name="dual_video_user_guide_standalone_content">Enregistrez avec deux caméras simultanément et sauvegardez les deux enregistrements dans des vidéos séparées.</string>
   <string name="edit_blusher">Rouge</string>
   <string name="edit_chin">Menton</string>
@@ -913,7 +916,7 @@ regarder plus grand sur les photos"</string>
   <string name="mimoji_tips">Appuyez pour prendre une photo. Maintenez enfoncé pour enregistrer une vidéo.</string>
   <string name="miservice_notification_content">Appuyez pour en savoir plus</string>
   <string name="miservice_notification_title">"En savoir plus sur les nouvelles fonctionnalités de l'appareil photo"</string>
-  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez pour rafraîchir</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez vers le bas pour actualiser</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualisation…</string>
   <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Relâcher pour rafraîchir</string>
@@ -1423,6 +1426,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_super_night_se_summary">"Détectez les conditions de faible éclairage et améliorez automatiquement la qualité de l'image"</string>
   <string name="pref_super_night_se_title">Mode nuit automatique</string>
   <string name="pref_userdefine_watermark_title">Filigrane personnalisé</string>
+  <string name="pref_video_ai_audio_single">Son frontal</string>
   <string name="pref_video_captrue_ability_title">"Capture d'image pendant l'enregistrement"</string>
   <string name="pref_video_cast_setting_summary">Activez pour pouvoir filmer une vidéo avec plusieurs appareils</string>
   <string name="pref_video_cast_setting_title">Enregistrement double téléphone</string>
@@ -1473,6 +1477,11 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_watermark_title">Filigrane</string>
   <string name="pref_wind_denoise_title">Wind filter</string>
   <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
+  <string name="prek_b_j_o">Recréez un effet surround stéréo</string>
+  <string name="prek_b_j_p">"Réduit l'impact du vent sur l'enregistrement sonore"</string>
+  <string name="prep_video_ai_audio_new_desc_tip">Les sons du sujet visé sont améliorés</string>
+  <string name="prep_video_ai_audio_single_desc_tip">"Les sons de l'arrière de l'écran sont filtrés"</string>
+  <string name="prep_video_ai_audio_unsupported_headset_desc_tips">"Le zoom audio ne fonctionne pas avec un moniteur intra-auriculaire en direct et le micro externe"</string>
   <string name="preparing_sd">Vérification carte SD…</string>
   <string name="preview_back_pressed_hint">"Appuyez à nouveau pour revenir à l'aperçu"</string>
   <string name="pro_color_mode">Couleur pro</string>

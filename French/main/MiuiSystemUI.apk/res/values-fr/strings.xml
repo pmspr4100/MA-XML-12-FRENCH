@@ -794,6 +794,7 @@ Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données.
   <string name="face_unlock_success_stay_screen_msg">"Restez sur l'écran de verrouillage une fois votre visage vérifié. Balayez vers le haut pour ouvrir l'écran d'accueil."</string>
   <string name="face_unlock_success_stay_screen_title">"Reste sur l'écran de verrouillage après le déverrouillage"</string>
   <string name="failed_to_open_app_settings_toast">"Echec de l'ouverture des paramètres pour %1$s"</string>
+  <string name="finger_error_single_mode">"Impossible d'utiliser le scanner d'empreintes digitales en mode Une main. Quittez le mode Une main et réessayez."</string>
   <string name="fingerprint_add_text">"L'interface d'empreinte digitale a été mise à jour. Ajoutez de nouveau votre empreinte digitale."</string>
   <string name="fingerprint_add_title">Ajouter une empreinte digitale</string>
   <string name="fingerprint_again_identified_msg">"Votre empreinte digitale est maintenant active. Utilisez-la pour déverrouiller l'appareil ou entrez votre mot de passe."</string>
@@ -1219,7 +1220,7 @@ une capture d'écran de défilement"</string>
   <string name="miui_toast_zen_to_dnd">Mode NPD activé. Les sons sont réduits au silence et les vibrations sont désactivées.</string>
   <string name="miui_toast_zen_to_standard">Mode NPD activé. Les sonneries pour les appels et les notifications sont maintenant désactivées.</string>
   <string name="miui_toast_zen_to_standard_when_shield_media">Mode NPD activé. Les sonneries, ainsi que les notifications et les sons de média, sont maintenant désactivés.</string>
-  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez pour rafraîchir</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez vers le bas pour actualiser</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualisation…</string>
   <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Relâcher pour rafraîchir</string>

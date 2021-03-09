@@ -1354,6 +1354,10 @@ Vous pouvez désactiver cette fonctionnalité dans les paramètres &gt; Bluetoot
   <string name="bt_ldac_open_dialog_summary">"LDAC fournit une expérience audio de haute qualité mais aussi augmente la consommation d'énergie. Des problèmes peuvent se produire pendant la lecture en raison des limites du matériel Bluetooth."</string>
   <string name="bt_ldac_open_dialog_title">Activer LDAC ?</string>
   <string name="bt_ldac_property">Attributs</string>
+  <string name="bt_leaudio_open_dialog_summary">"Vous ne pourrez pas connecter plusieurs appareils à votre casque lorsque le LC3 est activé. Les autres appareils connectés seront déconnectés si vous activez cette fonction. Allumez quand même LC3 ?"</string>
+  <string name="bt_leaudio_open_dialog_title">Attention</string>
+  <string name="bt_leaudio_pre_title">LC3</string>
+  <string name="bt_leaudio_summary">Expérience audio haute qualité</string>
   <string name="bt_lhdc_declaration">"Lorsqu'un appareil Bluetooth prend en charge LHDC, il sera connecté par défaut. LHDC permet de lire un son de haute qualité et réduit la latence pendant le jeu, mais augmente également la consommation d'énergie. Des problèmes peuvent survenir pendant la lecture en raison des limitations matérielles Bluetooth."</string>
   <string name="bt_lhdc_dialog_summary">"LHDC permet de lire un son de haute qualité et réduit la latence pendant le jeu, mais augmente également la consommation d'énergie. Cette fonction peut être désactivée dans les paramètres."</string>
   <string name="bt_lhdc_dialog_title">Le périphérique actuel prend en charge LHDC, qui a été connecté par défaut:</string>
@@ -3143,11 +3147,11 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
   <string name="gxzw_quick_open_slow_summary">"Appuyez et maintenez l'icône d'empreinte digitale pour ouvrir le menu de raccourcis. Faites glisser pour utiliser un raccourci."</string>
   <string name="gxzw_quick_open_slow_title">Appuyez et maintenez</string>
   <string name="gxzw_quick_open_title">Raccourcis</string>
-  <string name="handy_mode">Mode une main</string>
-  <string name="handy_mode_enable">Mode une main</string>
+  <string name="handy_mode">Mode Une main</string>
+  <string name="handy_mode_enable">Mode Une main</string>
   <string name="handy_mode_size">"Taille de l'écran"</string>
   <string name="handy_mode_tips">"Glissez vers la gauche ou la droite depuis le bouton Accueil pour réduire la taille de l'écran."</string>
-  <string name="handy_mode_tips_full_screen">Lorsque vous utilisez des gestes en plein écran, vous pouvez activer le mode à une main en utilisant la balle rapide. Vous pouvez également utiliser les boutons plutôt que les gestes en plein écran.</string>
+  <string name="handy_mode_tips_full_screen">Lorsque vous utilisez des gestes en plein écran, vous pouvez activer le mode Une main en utilisant la balle rapide. Vous pouvez également utiliser les boutons plutôt que les gestes en plein écran.</string>
   <string name="haptic_agent_completion_01_content_description">Tâche terminée</string>
   <string name="haptic_cursor_movement_07_content_description">Ajustement de la luminosité</string>
   <string name="haptic_experience">Démo</string>
@@ -4337,7 +4341,7 @@ en utilisant vos données faciales. Continuez pour accéder
   <string name="miui_touch_filtered_warning">"Si une application bloque une boîte de dialogue d'autorisations, faites glisser l'élément qui se chevauche ou fermez l'application."</string>
   <string name="miui_updater">Mise à jour système</string>
   <string name="miui_userguide">"Guide de l'utilisateur"</string>
-  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez pour rafraîchir</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez vers le bas pour actualiser</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualisation…</string>
   <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Relâcher pour rafraîchir</string>
@@ -7057,7 +7061,6 @@ Essayez d'utiliser un périphérique ^3 plus rapide, ou utilisez à la place ^4 
   <string name="switch_access_service_on">"Changer d'accès"</string>
   <string name="switch_bootup_sound">Son de démarrage</string>
   <string name="switch_headset_anti_lost">"Alerte d'écouteur manquant"</string>
-  <string name="switch_headset_anti_lost_summary">"Recevez une alerte chaque fois que l'un de vos écouteurs est éloigné de votre oreille ou de votre étui de chargement pendant plus d'une minute"</string>
   <string name="switch_headset_anti_lost_title">"Alerte d'écouteur manquant"</string>
   <string name="switch_off_text">Désactivé</string>
   <string name="switch_on_text">Activé</string>
