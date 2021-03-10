@@ -386,6 +386,7 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
   <string name="allow_sound_title">Autoriser le son</string>
   <string name="allow_vibrate_title">Autoriser les vibrations</string>
   <string name="alpha_build">Alpha</string>
+  <string name="already_delete_system_app">Applications système désinstallées</string>
   <string name="always">Toujours</string>
   <string name="always_allow_bind_appwidgets_text">"Vous avez choisi de permettre à cette application de créer des widgets et d'accéder à leurs données."</string>
   <string name="always_running">"Toujours en cours d'exécution (%s)"</string>
@@ -1586,6 +1587,7 @@ Vous pouvez désactiver cette fonctionnalité dans les paramètres &gt; Bluetoot
   <string name="cmcc_hardware_version">Version du matériel</string>
   <string name="codec_low_latency_summary">Minimisez la latence pendant la synchronisation audio et vidéo du jeu</string>
   <string name="codec_low_latency_title">Faible latence</string>
+  <string name="codec_low_latency_video_summary">"Offre une expérience audio à faible latence pour les jeux et les vidéos, ce qui rend la synchronisation du son et de l'image plus naturelle."</string>
   <string name="color_black">Noir</string>
   <string name="color_blue">Bleu</string>
   <string name="color_calibration_none">Natif</string>
@@ -1889,8 +1891,8 @@ Pour continuer d'utiliser votre téléphone, vous devez rétablir la configurati
   <string name="dangerous_option_hint_title">Fonction à haut risque activée</string>
   <string name="dangerous_option_switch_title">Avertir des fonctionnalités à haut risque</string>
   <string name="dark_color_mode">Mode sombre</string>
-  <string name="dark_color_summary_lcd">"Utilisez une palette de couleurs plus sombre pour les arrière-plans du système et les applications compatibles. Le mode sombre peut vous aider à soulager la fatigue oculaire lorsque vous utilisez votre appareil dans l'obscurité."</string>
-  <string name="dark_color_summary_oled">"Utilisez une palette de couleurs plus sombre pour les arrière-plans du système et les applications compatibles. Le mode sombre réduit la consommation d'énergie et aide à soulager la fatigue oculaire."</string>
+  <string name="dark_color_summary_lcd">"Utilisez une palette de couleurs plus sombre pour les arrière-plans du système et les applications compatibles. Le Mode sombre peut vous aider à soulager la fatigue oculaire lorsque vous utilisez votre appareil dans l'obscurité."</string>
+  <string name="dark_color_summary_oled">"Utilisez une palette de couleurs plus sombre pour les arrière-plans du système et les applications compatibles. Le Mode sombre réduit la consommation d'énergie et aide à soulager la fatigue oculaire."</string>
   <string name="dark_mode_contrast">Ajuster le contraste automatiquement</string>
   <string name="dark_mode_contrast_hint">Ajuste les couleurs et diminuez le contraste automatiquement lorsque la luminosité est réduite</string>
   <string name="dark_mode_font_background_title">Ajuster les couleurs et diminuer le contraste automatiquement</string>
@@ -1913,7 +1915,7 @@ Pour continuer d'utiliser votre téléphone, vous devez rétablir la configurati
   <string name="dark_ui_settings_dark_summary">Les applications prises en charge basculeront également sur le thème sombre</string>
   <string name="dark_ui_settings_dialog_acknowledge">Compris</string>
   <string name="dark_ui_settings_light_summary">"Ces paramètres s'appliquent également aux applications."</string>
-  <string name="dark_wallpaper_mode">"Ajuster le fond d'écran en mode sombre"</string>
+  <string name="dark_wallpaper_mode">"Ajuster le fond d'écran en Mode sombre"</string>
   <string name="dashboard_suggestion_condition_footer_content_description">Réduire</string>
   <string name="dashboard_title">Paramètres</string>
   <string name="data_during_calls_summary">"Autoriser l'utilisation de cette carte SIM pour les données cellulaires uniquement pendant les appels"</string>
@@ -2236,7 +2238,7 @@ Pour résoudre le problème, vous pouvez désactiver les services de localisatio
   <string name="dialog_restrict_all_wlan_title">Restreindre la connexion Wi-Fi</string>
   <string name="dialog_restrict_negative">Restreindre</string>
   <string name="dialog_restrict_positive">Annuler</string>
-  <string name="dialog_speaker_auto_clean_button">"C'est compris"</string>
+  <string name="dialog_speaker_auto_clean_button">Compris</string>
   <string name="dialog_speaker_auto_clean_content">"L'effacement prend 30 secondes. Ne quittez pas cette page. Maximisez le volume sonore pour un meilleur effet."</string>
   <string name="dialog_speaker_auto_clean_title">Attention</string>
   <string name="dialog_stop_message">"Votre téléphone ne peut pas gérer la batterie normalement, car l'application %1$s le maintient activé.
@@ -2701,6 +2703,7 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
   <string name="face_data_input_ok_title">Ajouté avec succès</string>
   <string name="face_data_input_structure_title">Données de visage 3D</string>
   <string name="face_data_input_title">Ajouter des données de visage</string>
+  <string name="face_data_introduction_add">Démarrer</string>
   <string name="face_data_introduction_msg">"Les données de visage peuvent être utilisées pour déverrouiller votre appareil ou pour vérifier votre identité. Ajoutez un mot de passe pour bloquer l'écran avant d'ajouter vos données de visage."</string>
   <string name="face_data_introduction_next">Suivant</string>
   <string name="face_data_introduction_title">Reconnaissance faciale</string>
@@ -2713,7 +2716,7 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
   <string name="face_data_manage_unlock_title">Déverrouillage par reconnaissance faciale</string>
   <string name="face_data_siggesstion_next">Suivant</string>
   <string name="face_data_siggesstion_next_time">Suivant (%ds)</string>
-  <string name="face_data_suggesstion_first">"Problèmes de sécurité: le déverrouillage du visage est moins sécurisé qu'un code PIN, un mot de passe ou un schéma. Votre appareil peut être déverrouillé avec votre photo, ainsi que par des personnes ou des objets d'apparence similaire."</string>
+  <string name="face_data_suggesstion_first">"Problèmes de sécurité : le déverrouillage du visage est moins sécurisé qu'un code PIN, un mot de passe ou un schéma. Votre appareil peut être déverrouillé avec votre photo, ainsi que par des personnes ou des objets d'apparence similaire."</string>
   <string name="face_data_suggesstion_second">"Assurez-vous que toutes les parties de votre visage ne sont pas couvertes par des objets et sont clairement visibles. Votre visage doit également être bien éclairé."</string>
   <string name="face_intro_error_max">Vous avez ajouté le nombre maximum de visages</string>
   <string name="face_intro_error_unknown">"Impossible d'ajouter plus de visages"</string>
@@ -3016,7 +3019,6 @@ Il semblait n'y avoir ni chevaux, ni animaux d'aucune espèce ; les hommes tran
 
 Lorsque vous activez la sauvegarde automatique, les données de l'appareil et des applications sont enregistrées régulièrement à distance. Les données d'applications correspondent à toutes les données enregistrées par une application (en fonction des paramètres que le développeur définit), y compris les données potentiellement confidentielles comme les contacts, les messages et les photos."</string>
   <string name="fullbackup_erase_dialog_message">"Voulez-vous vraiment arrêter de sauvegarder les données de l'appareil (telles que les mots de passe Wi-Fi et l'historique des appels) et celles des applications (telles que les paramètres et les fichiers enregistrés par ces applications), et en effacer toutes les copies sur les serveurs à distance ?"</string>
-  <string name="function_description">À propos de cette fonctionnalité</string>
   <string name="gadget_bluetooth">Bluetooth</string>
   <string name="gadget_brightness_state_auto">automatique</string>
   <string name="gadget_brightness_state_full">maximale</string>
@@ -3204,7 +3206,9 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
   <string name="header_category_system">Système</string>
   <string name="header_category_wireless_networks">Paramètres réseaux</string>
   <string name="header_data_and_synchronization">Données et synchronisation</string>
-  <string name="headset_connectiong">Connexion...</string>
+  <string name="headset_connectiong">Connexion…</string>
+  <string name="headset_notification_switch_summary">"Afficher l'état sur le widget Panneau de notification lorsque les écouteurs sont connectés"</string>
+  <string name="headset_notification_switch_title">Widget Panneau de notification</string>
   <string name="headset_remove_message">Souhaitez-vous supprimer cet appareil de votre compte ?</string>
   <string name="headset_remove_message_indicate">Tous les appareils associés avec le compte Xiaomi seront supprimés</string>
   <string name="headset_settings_title">Effets sonores</string>
@@ -3280,7 +3284,7 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
   <string name="how_restore_backup_title">2. Comment restaurer des éléments sauvegardés ?</string>
   <string name="http_invoke_app">Applications Web</string>
   <string name="http_invoke_app_summary">Ouvrez les applications plus rapidement sans les installer</string>
-  <string name="hwui_force_dark_summary">Force le mode sombre à être constamment activé</string>
+  <string name="hwui_force_dark_summary">Force le Mode sombre à être constamment activé</string>
   <string name="hwui_force_dark_title">Mode sombre forcé</string>
   <string name="iCloud_ID_verification_tip">"Appuyez sur \"Autoriser\" sur votre appareil Apple pour faire apparaître le code de vérification. Entrez le code de vérification ici."</string>
   <string name="icon_content_description">Icône de dialogue</string>
@@ -3450,6 +3454,7 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
   <string name="keyboard_settings_title">Clavier Android</string>
   <string name="keyboard_shortcuts_helper">"Outil d'aide pour raccourcis clavier"</string>
   <string name="keyboard_shortcuts_helper_summary">Afficher les raccourcis disponibles</string>
+  <string name="keyboard_skin_follow_system_enable">Passer en Mode sombre avec le système</string>
   <string name="keyguard_advance_setting_title">Paramètres additionnels</string>
   <string name="keyguard_security_setting_others">Autres</string>
   <string name="keyguard_security_setting_privacy_policy">Politique de confidentialité</string>
@@ -4250,6 +4255,8 @@ D'autres personnes utilisent cet appareil.
   <string name="miui_allow_vibrate">Vibrations</string>
   <string name="miui_data_usage_menu_metered">"Points d'accès mobiles"</string>
   <string name="miui_experience_optimization">"Activer l'optimisation MIUI"</string>
+  <string name="miui_face_enroll_risk_warning_btn_cancel">Annuler</string>
+  <string name="miui_face_enroll_risk_warning_title_text">Attention</string>
   <string name="miui_face_enroll_success">"Vous pouvez maintenant déverrouiller cet appareil
 en utilisant vos données faciales. Continuez pour accéder
 à des paramètres supplémentaires."</string>
@@ -4840,11 +4847,6 @@ Cela donnera aussi la possibilité à l'application d'activer ou désactiver le 
   <string name="notification_channels_other">Autres</string>
   <string name="notification_content_block_summary">Ne jamais afficher les notifications dans le volet ou sur les périphériques</string>
   <string name="notification_content_block_title">Afficher les notifications</string>
-  <string name="notification_fold_description1">Le dossier des notifications est apparu dans MIUI 9. Cette fonctionnalité filtre les notifications peu importantes et les place dans un dossier séparé.</string>
-  <string name="notification_fold_description2">MIUI se souviendra des notifications sur lesquelles vous avez appuyé, et utilisera plusieurs critères pour déterminer lesquelles sont importantes.</string>
-  <string name="notification_fold_description3">"Si les notifications que vous considérez comme importantes continuent d'aller dans le dossier des notifications, veillez à nous en avertir. Nous apprécions vos retours."</string>
-  <string name="notification_fold_footer_icon_summary">"Afficher les icônes d'application lorsque des notifications sans importance sont regroupées"</string>
-  <string name="notification_fold_footer_icon_title">"Afficher les icônes de l'application"</string>
   <string name="notification_fold_summary">Toutes les notifications sans importance apparaîtront dans un dossier séparé</string>
   <string name="notification_fold_title">Dossier des notifications</string>
   <string name="notification_group_title">Groupe de notifications</string>
@@ -5803,9 +5805,9 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="screen_dark_mode_advanced_title">Avancé</string>
   <string name="screen_dark_mode_select_time_error_summary">"L'heure de début et l'heure de fin ne peuvent pas être identiques"</string>
   <string name="screen_dark_mode_smart_dark_3rd_apps_list">Applications tierces</string>
-  <string name="screen_dark_mode_smart_dark_apps_setting_summary">"Certaines applications peuvent ne pas s'afficher correctement en mode sombre. Vous pouvez restreindre l'utilisation du mode sombre pour des applications individuelles ici."</string>
+  <string name="screen_dark_mode_smart_dark_apps_setting_summary">"Certaines applications peuvent ne pas s'afficher correctement en Mode sombre. Vous pouvez restreindre l'utilisation du Mode sombre pour des applications individuelles ici."</string>
   <string name="screen_dark_mode_smart_dark_apps_setting_title">Applications individuelles</string>
-  <string name="screen_dark_mode_smart_dark_summary">"Appliquer aussi le mode sombre aux application tierces. Certaines applications pourraient mal s'afficher."</string>
+  <string name="screen_dark_mode_smart_dark_summary">"Appliquer aussi le Mode sombre aux application tierces. Certaines applications pourraient mal s'afficher."</string>
   <string name="screen_dark_mode_smart_dark_title">Mode sombre général</string>
   <string name="screen_dark_mode_time_title">Programmer</string>
   <string name="screen_effect">Contraste et couleurs</string>
@@ -6999,7 +7001,7 @@ Essayez d'utiliser un périphérique ^3 plus rapide, ou utilisez à la place ^4 
   <string name="structure_face_delete_data_dialog_title">"Impossible de lancer l'appareil photo"</string>
   <string name="structure_face_enroll_not_able_low_electric_itle">"Impossible d'utiliser cette fonctionnalité en raison du niveau faible de la batterie"</string>
   <string name="structure_face_enroll_not_able_low_electric_msg">La batterie doit être chargée à 5% au moins pour démarrer un enregistrement.</string>
-  <string name="structure_face_hardware_abnormal_btn">"C'est compris"</string>
+  <string name="structure_face_hardware_abnormal_btn">Compris</string>
   <string name="structure_face_hardware_abnormal_msg">"Une erreur matérielle s'est produite. Redémarrez votre appareil. Si cela n'aide pas, appelez le 400–100–5678 pour obtenir de l'aide."</string>
   <string name="structure_face_hardware_abnormal_title">Erreur matérielle</string>
   <string name="structure_face_modules_abnormal_btn">Redémarrer</string>
@@ -8022,7 +8024,7 @@ Merci de prendre connaissance de la politique de données personnells de votre f
   <string name="wifi_assistant_ok">OK </string>
   <string name="wifi_assistant_on">Activé</string>
   <string name="wifi_assistant_prompt">Rester connecté</string>
-  <string name="wifi_assistant_prompt_button">"C'est compris"</string>
+  <string name="wifi_assistant_prompt_button">Compris</string>
   <string name="wifi_assistant_prompt_checkbox">"Demander l'autorisation d'utiliser les données cellulaires"</string>
   <string name="wifi_assistant_prompt_summary">"Votre appareil se connecte à d'autres réseaux Wi-Fi disponibles ou utilise les données cellulaires lorsque votre réseau Wi-Fi actuel ne peut pas se connecter à Internet."</string>
   <string name="wifi_assistant_setup_wifi_assistant">Configurer</string>
