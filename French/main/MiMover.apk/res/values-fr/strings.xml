@@ -58,7 +58,7 @@
   <string name="ble_wait_verify_code">Génération du code sur un nouvel appareil…</string>
   <string name="ble_waiting_verify_code">Vérification du code…</string>
   <string name="ble_waiting_verify_code_error">Le code que vous avez entré est incorrect</string>
-  <string name="btn_got_it">"C'est compris"</string>
+  <string name="btn_got_it">Compris</string>
   <string name="btn_install_complete">Installé. Commencez le transfert.</string>
   <string name="btn_mi_cloud_install_complete">"J'ai installé l'application"</string>
   <string name="btn_restore_data_to_device_complete">"S'identifier"</string>
@@ -72,7 +72,7 @@
   <string name="cancel">Annuler</string>
   <string name="cancel_moving_dialog_message">"Arrêter d'importer maintenant ?"</string>
   <string name="cancel_moving_dialog_title">"Arrêt de l'import"</string>
-  <string name="cannot_use_mi_huanji_button">"C'est compris"</string>
+  <string name="cannot_use_mi_huanji_button">Compris</string>
   <string name="cannot_use_mi_huanji_summary">Il semble que MIUI est en train de sauvegarder des données. Arrêtez les sauvegardes en attente ou redémarrez votre appareil pour autoriser Mi Mover à commencer le transfert.</string>
   <string name="cannot_use_mi_huanji_title">Impossible de transférer pour le moment</string>
   <string name="clear_old_task_failed">Suppression des anciennes tâches impossible</string>
@@ -200,7 +200,7 @@ Open WeChat and go to Me &gt; Settings &gt; General &gt; Back up &amp; migrate c
   <string name="host_boot_installation_tips">Vous ne trouvez pas Mi Mover ? Appuyez pour le télécharger.</string>
   <string name="host_connect_timeout_tip">Connexion impossible depuis longtemps</string>
   <string name="host_dialog_install_button">Installer sur un autre appareil</string>
-  <string name="host_dialog_known_button">"C'est compris"</string>
+  <string name="host_dialog_known_button">Compris</string>
   <string name="host_dialog_message">"Vérifiez que la dernière version de Mi Mover est installée sur l'autre appareil; sinon, les deux appareils pourraient ne pas se connecter."</string>
   <string name="host_dialog_title">Connexion impossible depuis longtemps</string>
   <string name="host_install_hint">"Mi Mover n'est pas installé ?"</string>
@@ -507,13 +507,13 @@ Libérez au moins %s."</string>
   <string name="scan_soft_ap_label">Connectez le nouvel appareil</string>
   <string name="scanner_bottom_tip">Sélectionnez uniquement des données importantes pour rendre le transfert plus rapide.</string>
   <string name="scanner_not_support_data_transfer_tip">"Can't transfer app data (including WeChat and QQ chat history) from non-Xiaomi devices."</string>
-  <string name="scanner_permission_alert_cancel">"C'est compris"</string>
+  <string name="scanner_permission_alert_cancel">Compris</string>
   <string name="scanner_permission_alert_ok">Paramètres</string>
   <string name="scanner_quit_alert_btn_negative">Quitter</string>
   <string name="scanner_quit_alert_btn_positive">Ne pas quitter</string>
   <string name="scanner_quit_alert_message">"Vous devrez connecter à nouveau les deux appareils si vous quittez Mi Mover maintenant. Quitter quand même ?"</string>
   <string name="scanner_quit_alert_title">Quitter maintenant ?</string>
-  <string name="scanner_send_dialog_btn">"C'est compris"</string>
+  <string name="scanner_send_dialog_btn">Compris</string>
   <string name="scanner_send_dialog_message">"Ne désactivez-pas le Wi-Fi et ne changez pas de réseau durant le transfert."</string>
   <string name="scanner_size_selected">Selectionné: %s</string>
   <string name="scanner_time_remained">Durée estimée: %s</string>
