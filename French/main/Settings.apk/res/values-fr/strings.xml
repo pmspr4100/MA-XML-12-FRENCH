@@ -1218,9 +1218,11 @@ Qualité de lecture"</string>
   <string name="bluetooth_select_a2dp_codec_type_dialog_title">Sélectionner un Codec audio Bluetooth</string>
   <string name="bluetooth_select_avrcp_version_dialog_title">Sélectionner Version Bluetooth AVRCP</string>
   <string name="bluetooth_select_avrcp_version_string">Version Bluetooth AVRCP</string>
-  <string name="bluetooth_settings">Paramètres Bluetooth</string>
+  <string name="bluetooth_select_map_version_dialog_title">Sélectionner version Bluetooth MAP</string>
+  <string name="bluetooth_select_map_version_string">Version Bluetooth MAP</string>
+  <string name="bluetooth_settings">Bluetooth</string>
   <string name="bluetooth_settings_summary">"Gérer les connexions, configurer le nom et l'identification de l'appareil"</string>
-  <string name="bluetooth_settings_title">Paramètres Bluetooth</string>
+  <string name="bluetooth_settings_title">Bluetooth</string>
   <string name="bluetooth_show_devices_without_names">Afficher les périphériques Bluetooth sans nom</string>
   <string name="bluetooth_show_devices_without_names_summary">Les périphériques Bluetooth sans nom (adresses MAC uniquement) seront affichés</string>
   <string name="bluetooth_show_files_received_via_bluetooth">Fichiers reçus via Bluetooth</string>
@@ -4209,6 +4211,7 @@ D'autres personnes utilisent cet appareil.
   <string name="miheadset_ignore">Désappairer</string>
   <string name="miheadset_in_ear_check">"Détecter la proximité de l'oreille"</string>
   <string name="miheadset_in_ear_check_summary">Mettre en pause et en lecture automatiquement lorsque vous enlevez ou mettez vos écouteurs</string>
+  <string name="miheadset_key_config_ANC_list_title">Contrôle du bruit</string>
   <string name="miheadset_key_config_call_ai">Assistant vocal</string>
   <string name="miheadset_key_config_close">Désactivé</string>
   <string name="miheadset_key_config_close_summary">Désactiver la suppression du bruit et la transparence</string>
