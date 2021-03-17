@@ -323,6 +323,7 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
   <string name="burst_preview_title">Prise en rafale</string>
   <string name="burst_save_all">Gardez toutes les photos</string>
   <string name="burst_save_choice_title" formatted="false">Sélectionné %d sur %d</string>
+  <string name="burst_save_dialog_title">Sélectionnez les photos à conserver</string>
   <string name="burst_save_error_msg">"Impossible d'enregistrer"</string>
   <string name="burst_save_processing">En traitement…</string>
   <string name="burst_save_video">Save as video</string>
@@ -350,22 +351,22 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
   <string name="card_delete_negative_text">Annuler</string>
   <string name="card_delete_positive_text">Supprimer</string>
   <string name="card_delete_title">Supprimer les souvenirs</string>
-  <string name="card_description_annual_babys">A whole year of growing up</string>
+  <string name="card_description_annual_babys">Une année entière à grandir</string>
   <string name="card_description_annual_events">Des moments précieux passés ensemble</string>
   <string name="card_description_annual_foods">"Journal d'un gourmand"</string>
-  <string name="card_description_annual_peoples">Faces, stories, places</string>
+  <string name="card_description_annual_peoples">Visages, histoires, lieux</string>
   <string name="card_description_annual_pets">Queues, pattes et moustaches</string>
   <string name="card_description_annual_travel">Ce que vous avez vu sur la route</string>
   <string name="card_title_activities">Événements</string>
-  <string name="card_title_annual_babys">The cutie in %1$s</string>
+  <string name="card_title_annual_babys">La mignonne à %1$s</string>
   <string name="card_title_annual_events">Mes soirées à %1$s</string>
   <string name="card_title_annual_foods">Délicieux %1$s</string>
-  <string name="card_title_annual_peoples">Faces of %1$s</string>
+  <string name="card_title_annual_peoples">Visages de %1$s</string>
   <string name="card_title_annual_pets">Pattes poilues dans %1$s</string>
   <string name="card_title_annual_travel">Mes voyages en %1$s</string>
   <string name="card_title_monthly_foods">Délicieux</string>
   <string name="card_title_monthly_pets">Pattes poilues</string>
-  <string name="card_title_party">Parties</string>
+  <string name="card_title_party">Fêtes</string>
   <string name="card_title_pastyear_activities">"Événements de l'année dernière"</string>
   <string name="card_title_pastyear_party">"Fêtes de l'année dernière"</string>
   <string name="card_title_pastyear_sports">"Entraînements de l'année dernière"</string>
@@ -377,7 +378,7 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
   <string name="cd_back">Restaurer</string>
   <string name="cd_btn_back">Le bouton Retour</string>
   <string name="cd_revoke">Annuler</string>
-  <string name="cd_zidingyianniu">The button for customizing the image size</string>
+  <string name="cd_zidingyianniu">"Le bouton pour personnaliser la taille de l'image"</string>
   <string name="change_to_face_mode">Afficher les visages uniquement</string>
   <string name="change_to_photo_mode">Afficher les aperçus complets</string>
   <string name="change_to_visible">Restaurer cette personne ?</string>
@@ -390,7 +391,7 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
   <string name="choose_owner_relation">Relation</string>
   <string name="choose_people">"Choisir l'album d'une personne"</string>
   <string name="choose_some_people">Choisir un album avec %s</string>
-  <string name="choose_video_compress_quality">Select resolution</string>
+  <string name="choose_video_compress_quality">Sélectionner la définition</string>
   <string name="chooser_fragment_mishare_title">Partager à</string>
   <string name="cleaner_empty">Tout effacer</string>
   <string name="cleaner_empty_value_description">Tout semble bon !</string>
@@ -427,7 +428,7 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
   <string name="clear_dup_medias">Nettoyer les photos en double</string>
   <string name="clear_dup_success">Nettoyer avec succès</string>
   <string name="clear_dup_tip">Effacement des photos en double</string>
-  <string name="clearable_edittext_clear_description">Clear</string>
+  <string name="clearable_edittext_clear_description">Effacer</string>
   <string name="click_download_gif">Appuyez pour télécharger le GIF</string>
   <string name="click_top_right">Appuyez sur cette icône</string>
   <string name="clip_menu_back">Retour</string>
@@ -470,7 +471,7 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
   <string name="cloud_storage_warn_title">Stockage insufisant dans Xiaomi Cloud</string>
   <string name="cloud_sync_card_description">"Synchronisez vos photos et vidéos vers Xiaomi Cloud afin d'y accéder depuis de multiples appareils"</string>
   <string name="cloud_sync_card_title">Activer la synchronisation avec le Cloud</string>
-  <string name="cloud_watch_on_tv">View on TV</string>
+  <string name="cloud_watch_on_tv">Afficher sur la TV</string>
   <string name="cloudfolder_cannot_start_with">"Le nom d'album ne peut commencer par \"%s\""</string>
   <string name="cloudfolder_contain_invalidate_char">"Le nom d'album ne peut contenir \"%s\""</string>
   <string name="cloudfolder_name_cannot_empty">"Entrez un nom d'album"</string>
@@ -479,7 +480,6 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
   <string name="collage_choose">Sélectionner</string>
   <string name="collage_drawable_normal_date_format">dd/MM/yyyy</string>
   <string name="collage_drawable_rect_date_month_day">dd MMMM</string>
-  <string name="collage_drawable_rect_date_year">yyyy</string>
   <string name="collage_margin_text">Marges</string>
   <string name="collage_mirror">Mirroir</string>
   <string name="collage_poster_global_cat_text">PATTES</string>
@@ -519,7 +519,7 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
   <string name="context_menu_copy">Copier</string>
   <string name="context_menu_copy_notice">Copié dans le presse-papiers</string>
   <string name="continue_feedback">Commentaires supplémentaires</string>
-  <string name="copy">Copie</string>
+  <string name="copy">Copier</string>
   <string name="correct_photo_time">"Corriger la date et l'heure des photos"</string>
   <string name="correct_time_success">Corrigé avec succès</string>
   <string name="correct_time_tip">"Correction de la date et de l'heure…"</string>
@@ -591,8 +591,12 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
   <string name="download_tip">Télécharger</string>
   <string name="download_title">Préparation des fichiers…</string>
   <string name="download_type_origin">Fichiers originaux</string>
+  <string name="download_type_origin_subtitle_china">"Les images originales occupent plus d'espace de stockage et ne peuvent être téléchargées que via Wi-Fi"</string>
+  <string name="download_type_origin_title">Originale</string>
   <string name="download_type_origin_desc">Fichiers originaux</string>
   <string name="download_type_thumbnail">Haute qualité</string>
+  <string name="download_type_thumbnail_subtitle">"Les images de haute qualité sont presque identiques aux images originales, mais occupent moins d'espace de stockage"</string>
+  <string name="download_type_thumbnail_title">Haute qualité</string>
   <string name="download_type_thumbnail_desc">Haute qualité</string>
   <string name="download_type_title">Qualité de téléchargement</string>
   <string name="download_with_metered_network_msg">Le téléchargement de fichiers originaux peut générer des frais de supplémentaires d’opératuer. Télécharger quand même ?</string>
@@ -606,9 +610,9 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
   <string name="drag_failed_because_share_album_cant_sort">"Impossible de supprimer les albums partagés par d'autres personnes"</string>
   <string name="drag_view_tip_sub_title">Appuyez et maintenez un album pour réorganiser</string>
   <string name="drag_view_tip_title">Réorganiser les albums</string>
-  <string name="drop_failed">"Couldn't save"</string>
-  <string name="drop_format_not_supported">"This file type isn't supported"</string>
-  <string name="drop_success">Saved successfully</string>
+  <string name="drop_failed">"Impossible d'enregistrer"</string>
+  <string name="drop_format_not_supported">"Ce type de fichier n'est pas pris en charge"</string>
+  <string name="drop_success">Enregistré avec succès</string>
   <string name="dump_db_info">Vider les informations de la base de données</string>
   <string name="early_morning">Matin</string>
   <string name="edit_baby_info">Afficher les infos du bébé</string>
@@ -806,6 +810,7 @@ sont disponibles"</string>
   <string name="filter_movie_nordic">Nordic</string>
   <string name="filter_movie_portrait">Color focus</string>
   <string name="filter_movie_prosperousangle">Carmen</string>
+  <string name="filter_movie_quiet">Serene</string>
   <string name="filter_movie_rome">Rome</string>
   <string name="filter_movie_summer">Summer</string>
   <string name="filter_movie_to">T&amp;O</string>
@@ -1389,6 +1394,8 @@ Transcoding might take some time when you use this feature for the first time."<
   <string name="operation_move_to_other_albums">"Déplacer vers d'autres albums"</string>
   <string name="operation_move_to_rubbish_albums">Déplacer vers la corbeille</string>
   <string name="operation_not_show_in_photos_tab">Ne pas afficher dans Photos</string>
+  <string name="operation_photo_rename">Renommer</string>
+  <string name="operation_pic_to_pdf">Créer PDF</string>
   <string name="operation_produce">Créativité</string>
   <string name="operation_projection">Diffusion</string>
   <string name="operation_remove_face">Retirer</string>
@@ -1558,6 +1565,8 @@ Transcoding might take some time when you use this feature for the first time."<
   <string name="photo_movie_module_finish">Clips vidéos chargé avec succès</string>
   <string name="photo_movie_module_loading">Chargement des clips vidéos…</string>
   <string name="photo_movie_select_image_range">Clips vidéos peuvent contenir %1$d-%2$d photos</string>
+  <string name="photo_page_lock_screen">"Verrouiller l'orientation"</string>
+  <string name="photo_page_rotate_screen">"Rotation de l'écran"</string>
   <string name="photo_page_save_uri_image_fail">Impossible de sauvegarder dans Galerie</string>
   <string name="photo_page_save_uri_image_ok">Photo sauvegardée dans Galerie</string>
   <string name="photo_portrait_color_download_fail">"Impossible de télécharger le plug-in. Connectez-vous au réseau et réessayez."</string>
@@ -1786,6 +1795,7 @@ Transcoding might take some time when you use this feature for the first time."<
   <string name="search_title_more">Plus</string>
   <string name="search_title_others">Tous les résultats</string>
   <string name="search_title_people">Personnes</string>
+  <string name="search_title_photo_name">Nom du fichier</string>
   <string name="search_title_recommend">Recommandé</string>
   <string name="search_title_suggestion">Suggestions</string>
   <string name="search_title_tag">Objets</string>
@@ -2069,9 +2079,10 @@ Transcoding might take some time when you use this feature for the first time."<
   <string name="thursday">Jeudi</string>
   <string name="thursday_short">Jeu</string>
   <string name="thursday_shortest">Jeu</string>
-  <string name="time_burst_photo_enter">Timed burst shot</string>
-  <string name="time_burst_preview_title">Timed burst shot</string>
+  <string name="time_burst_photo_enter">Prise en rafale chronométrée</string>
+  <string name="time_burst_preview_title">Prise en rafale chronométrée</string>
   <string name="time_burst_save_all">Save all photos</string>
+  <string name="time_burst_save_dialog_title">Export items</string>
   <string name="time_burst_save_select">Save selected photos</string>
   <string name="time_burst_save_video">Save as video</string>
   <string name="time_picker_dialog_title">"Réglage de l'heure"</string>
@@ -2336,6 +2347,7 @@ Transcoding might take some time when you use this feature for the first time."<
   <string name="vlog_clip_delete_dialog_btn_cancel">Annuler</string>
   <string name="vlog_clip_delete_dialog_btn_delete">Supprimer</string>
   <string name="vlog_clip_delete_dialog_btn_msg">Supprimer cette vidéo ?</string>
+  <string name="vlog_clip_duration_time">%s s</string>
   <string name="vlog_clip_is_reversed">Renversé</string>
   <string name="vlog_clip_select_trans">Choisir transition</string>
   <string name="vlog_clip_sort">Réorganisation des vidéos</string>
@@ -2447,6 +2459,7 @@ Transcoding might take some time when you use this feature for the first time."<
   <string name="vlog_video_selected_not_support">Impossible de modifier la vidéo sélectionnée</string>
   <string name="vlog_video_trans_code_cons">Processing a high resolution file…</string>
   <string name="voice_assistant">Assistant vocal</string>
+  <string name="watch_all_photo">Galerie</string>
   <string name="wednesday">Mercredi</string>
   <string name="wednesday_short">Mer</string>
   <string name="wednesday_shortest">Mer</string>
