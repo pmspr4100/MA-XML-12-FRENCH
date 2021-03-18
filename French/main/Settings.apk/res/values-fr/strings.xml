@@ -308,7 +308,6 @@ Pour basculer entre les services, balayez vers le haut avec deux doigts et maint
   <string name="account_sync_summary_all_on">Synchronisation activée pour tous les éléments</string>
   <string name="account_sync_summary_some_on">Synchronisation activée pour %1$d élément(s) sur %2$d</string>
   <string name="account_sync_title">Synchro. du compte</string>
-  <string name="Accounts_settings_title">Comptes</string>
   <string name="acount_data">Comptes</string>
   <string name="action_drag_label_move_bottom">Placer en dernier</string>
   <string name="action_drag_label_move_down">Déplacer vers le bas</string>
@@ -1626,8 +1625,6 @@ Si vous installez un certificat CA, le propriétaire du certificat peut accéder
   <string name="category_personal">Personnelles</string>
   <string name="category_work">Travail</string>
   <string name="cbrs_data_switch_string">Données CBRS</string>
-  <string name="category_personal">Personnel</string>
-  <string name="category_work">Travail</string>
   <string name="cdma_lte_data_service">Configurer le service de données</string>
   <string name="cdma_security_settings_summary">"Définir les paramètres de la fonction Ma position, de déverrouillage de l'écran et de verrouillage du stockage des identifiants"</string>
   <string name="cdma_subscription_dialogtitle">abonnement</string>
@@ -4390,7 +4387,6 @@ D'autres personnes utilisent cet appareil.
   <string name="miheadset_key_config_volume_down">Volume -</string>
   <string name="miheadset_key_config_volume_up">Volume +</string>
   <string name="miheadset_last_version">Le firmware est à jour</string>
-  <string name="miheadset_LeftEar">Gauche</string>
   <string name="miheadset_local_ota">Mise à jour</string>
   <string name="miheadset_minus">Volume -</string>
   <string name="miheadset_moreSettingsInAi">Réglages supplémentaires</string>
@@ -4403,7 +4399,6 @@ D'autres personnes utilisent cet appareil.
   <string name="miheadset_plus">Volume +</string>
   <string name="miheadset_rename">Renommer</string>
   <string name="miheadset_rename_device">Renommer</string>
-  <string name="miheadset_RightEar">Droite</string>
   <string name="miheadset_soft">Soft</string>
   <string name="miheadset_transparent">Transparence</string>
   <string name="miheadset_transparentMode">Transparence</string>
@@ -6585,7 +6580,6 @@ Remarque : Vous ne pouvez pas utiliser votre empreinte digitale pour déverroui
   <string name="security_settings_fingerprint_enroll_touch_dialog_title">"Petit problème… Il ne s'agit pas du capteur"</string>
   <string name="security_settings_fingerprint_preference_title">Empreinte digitale</string>
   <string name="security_settings_premium_sms_desc">Envoyer un SMS premium</string>
-  <string name="security_settings_fingerprint_preference_title">Empreinte digitale</string>
   <string name="security_settings_summary">"Définir les paramètres de l'option Ma position et de verrouillage"</string>
   <string name="security_settings_title">Sécurité et localisation</string>
   <string name="security_status">État de la sécurité</string>
@@ -8372,7 +8366,6 @@ Merci de prendre connaissance de la politique de données personnells de votre f
   <string name="wifi_connect_frequency">Fréquence Wi-Fi :</string>
   <string name="wifi_connected_mac_randomization">Connexion avec adresse MAC aléatoire</string>
   <string name="wifi_connected_mac_randomization_summary">"Randomiser l'adresse MAC lors des connexions à des réseaux Wi-Fi"</string>
-  <string name="wifi_connected_no_internet">"Connecté, pas d'internet"</string>
   <string name="wifi_connected_no_internet">"Pas d'internet"</string>
   <string name="wifi_connected_to_message">Connecté à %1$s</string>
   <string name="wifi_connecting">Connexion…</string>
