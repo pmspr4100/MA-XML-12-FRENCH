@@ -27,6 +27,9 @@
   <string name="abc_shareactionprovider_share_with">Partager avec</string>
   <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
   <string name="abc_toolbar_collapse_description">Replier</string>
+  <string name="about_checking_update">Recherche de mises à jour ...</string>
+  <string name="about_go_to_update">À mettre à jour</string>
+  <string name="about_lasted_version">Est la dernière version</string>
   <string name="account_add_title">Sélectionnez le service de messagerie</string>
   <string name="account_cache_provider">Fournisseur de cache de compte</string>
   <string name="account_duplicate_dlg_message_fmt">"Vous utilisez déjà ce nom d'utilisateur pour le compte \"%s\"."</string>
@@ -45,6 +48,8 @@
   <string name="account_security_title">"Sécurité de l'appareil"</string>
   <string name="account_security_verification">Vérification du compte</string>
   <string name="account_set_up_change_type_note">"Si vous voulez basculer entre les paramètres POP3 et IMAP, vous devez d'abord supprimer le compte, et en créer un autre avec les paramètres que vous désirez."</string>
+  <string name="account_setting_general_summry">Définir les fonctions communes des e-mails</string>
+  <string name="account_setting_general_title">Réglage des fonctions</string>
   <string name="account_setting_message_body_load_complete">Message entier</string>
   <string name="account_setting_message_body_load_head_abstract">"Récapitulatif de l'e-mail"</string>
   <string name="account_setting_message_body_load_head_only">En-tête uniquement</string>
@@ -69,7 +74,7 @@
   <string name="account_settings_notifications">Notifications</string>
   <string name="account_settings_notify_label">Notifications e-mail</string>
   <string name="account_settings_notify_summary">Afficher une notification quand un e-mail arrive</string>
-  <string name="account_settings_only_notify_inbox">Pousser seulement les nouveaux e-mails</string>
+  <string name="account_settings_only_notify_inbox">Uniquement le courrier de la boîte de réception de rappel de notification</string>
   <string name="account_settings_param">Paramètres du compte</string>
   <string name="account_settings_preference_att_save_path">Emplacement par défaut des pièces jointes</string>
   <string name="account_settings_preference_head_icon">Photos de profil</string>
@@ -192,8 +197,8 @@
   <string name="always_bcc_myself">Toujours me mettre en Cci</string>
   <string name="always_show_images">Toujours afficher les images de cet expéditeur</string>
   <string name="app_name">E-mail</string>
-  <string name="app_uninstall_content">E-mail est une application système MIUI. Après la désinstallation, vous ne pourrez pas ajouter de comptes de messagerie, ni envoyer ou recevoir des e-mails et synchroniser les horaires de messagerie.</string>
-  <string name="app_uninstall_title">Désinstaller \"E-mail\"?</string>
+  <string name="app_uninstall_content">"E-mail est une application système. Vous ne pourrez plus gérer vos comptes de messagerie, envoyer et recevoir des e-mails ou synchroniser des événements après avoir désinstallé l'application."</string>
+  <string name="app_uninstall_title">Désinstaller \"E-mail\" ?</string>
   <string name="appraise_des">Aimez-vous notre application ?</string>
   <string name="appraise_good">Oui</string>
   <string name="appraise_ignore">"Je ne peux pas dire maintenant"</string>
@@ -263,7 +268,7 @@
   <string name="bottom_bar_more_share">Partager</string>
   <string name="bottom_bar_no_quickreply_toast">Aucune réponse rapide</string>
   <string name="bytes">%s o</string>
-  <string name="calendar_remind_dialog_title">Rappeler plus tard</string>
+  <string name="calendar_remind_dialog_title">Ajouter au calendrier</string>
   <string name="calendar_remind_gridview_pick_date">Choisir une date</string>
   <string name="calendar_skip_no_account_alert">Compte introuvable</string>
   <string name="cancel">Annuler</string>
@@ -332,6 +337,7 @@
   <string name="contact_list_title">Contacts</string>
   <string name="contact_permission_error">Accès aux contacts du téléphone restreint</string>
   <string name="contact_select">Sélectionner des contacts</string>
+  <string name="contain_view_all_body">"Afficher l'e-mail entier"</string>
   <string name="content_description">%1$s au sujet de %2$s, %3$s le %4$s, %5$s</string>
   <string name="content_description_today">%1$s au sujet de %2$s, %3$s à %4$s, %5$s</string>
   <string name="contextmenu_add">Ajouter aux contacts</string>
@@ -431,8 +437,12 @@
   <string name="drawer_close">Fermer le volet de navigation</string>
   <string name="drawer_contacts">Contacts</string>
   <string name="drawer_open">Ouvrir le volet de navigation</string>
-  <string name="dtend">Ends</string>
-  <string name="dtstart">Starts</string>
+  <string name="drive_card_button_tips">"Copiez le code d'extraction et récupérez le contenu partagé"</string>
+  <string name="drive_card_code">"Le code d'extraction est :"</string>
+  <string name="drive_card_tips">Un lien de partage de disque réseau a été trouvé à partir de %s</string>
+  <string name="drive_card_title">Lien de partage de disque réseau</string>
+  <string name="dtend">"S'arrête"</string>
+  <string name="dtstart">Commence</string>
   <string name="due">Échéance</string>
   <string name="due_date_text">Remboursement final</string>
   <string name="edit_quick_response_dialog">Réponse rapide</string>
@@ -550,8 +560,8 @@
   <string name="general_preference_text_zoom_normal">Normal</string>
   <string name="general_preference_text_zoom_small">Petite</string>
   <string name="general_preference_text_zoom_tiny">Très petite</string>
-  <string name="general_preference_trash_contact">Revue des spams</string>
-  <string name="general_preference_trash_contact_sum">"Traitement des lettres d'expéditeurs qui ont été signalés en grand nombre"</string>
+  <string name="general_preference_trash_contact">Filtrer les spams</string>
+  <string name="general_preference_trash_contact_sum">Filtrer les e-mails des expéditeurs signalés par plusieurs utilisateurs</string>
   <string name="generic_attachment_problem">Impossible de joindre le fichier.</string>
   <string name="get_database_exception">Effacer les données de cette application dans Paramètres &gt; Applications système et essayez à nouveau.</string>
   <string name="get_oauth_code">Obtenir le code</string>
@@ -577,9 +587,18 @@
   <string name="info_item_hide">Supprimer</string>
   <string name="inline_picture_deleted">"Téléchargement de l'image manquante…"</string>
   <string name="input_password_prompt">Entrer votre mot de passe</string>
+  <string name="install_mime_encrypt_cert">Installer le certificat de chiffrement S/MIME</string>
+  <string name="install_mime_sign_cert">Installer le certificat de signature S/MIME</string>
   <string name="interact_with_server_error">Impossible de se connecter au serveur</string>
   <string name="invalid_recipient">"L'adresse %s est invalide."</string>
   <string name="invalid_recipient_title">Erreur de destinataire</string>
+  <string name="invoice_card_amount">Montant total facturé</string>
+  <string name="invoice_card_buyer">Acheteur</string>
+  <string name="invoice_card_date">date</string>
+  <string name="invoice_card_open">Ouvrir la facture</string>
+  <string name="invoice_card_save">Enregistrer la facture</string>
+  <string name="invoice_card_seller">Vendeur</string>
+  <string name="invoice_card_title">Facture électronique</string>
   <string name="kilobytes">%s ko</string>
   <string name="list_empty_to_fresh">"Pas encore d'e-mails."</string>
   <string name="load_from_remote">Rechercher les e-mails sur le serveur</string>
@@ -606,11 +625,14 @@
   <string name="login_des_yahoo">Sign in to Yahoo Mail</string>
   <string name="login_des_yangdex">Sign in to Yandex Mail</string>
   <string name="login_err_message">Utilisez des codes autorisés pour vous authentifier sur %1$s si vous avez choisi cette option précédemment. Allez sur https://email.163.com/ pour réinitialiser votre mot de passe ou votre code.</string>
+  <string name="login_err_outlook_msg">"%s
+Bonjour, veuillez vérifier que le mot de passe de l'application est activé. S'il est activé, veuillez vous rendre sur le site web officiel de Microsoft pour réinitialiser le mot de passe de l'application"</string>
   <string name="login_err_sina_message">Utilisez des codes autorisés pour vous authentifier sur %1$s si vous avez choisi cette option précédemment. Allez sur https://mail.sina.com.cn/ pour réinitialiser votre mot de passe ou votre code.</string>
   <string name="login_failed_ticker">Impossible de se connecter à %s.</string>
   <string name="login_failed_tip">"Contactez-nous sur WeChat pour obtenir de l'aide: "</string>
   <string name="login_failed_title">Impossible de se connecter</string>
   <string name="login_mail">Se connecter</string>
+  <string name="login_manual">paramètre manuel</string>
   <string name="login_qq_psw">Entrez le code manuellement</string>
   <string name="long_press_to_select_tip">Appuyez et maintenez pour sélectionner une conversation, puis appuyez pour en sélectionner plus.</string>
   <string name="mail">e-mail</string>
@@ -623,7 +645,8 @@
   <string name="mail_login_help_details1">"1. Le mot de passe d'e-mail peut être utilisé lorsqu'aucun code d'autorisation n'a été réglé dans le client de messagerie et que des services POP3/IMAP/SMTP ont été activés."</string>
   <string name="mail_login_help_details2">"2. Les codes d'autorisation tiers peuvent être utilisés pour s'authentifier dans des clients de messagerie tiers lorsque des services POP3/IMAP/SMTP sont activés."</string>
   <string name="mail_login_help_title">Mot de passe e-mail/Client de messagerie tiers:</string>
-  <string name="mail_outlook_login_tips">"Vous serez redirigé vers Microsoft pour saisir votre mot de passe"</string>
+  <string name="mail_outlook_login_tips">"Utilisez une connexion Oauth plus sécurisée
+(Les utilisateurs d'Outlook Personnel ne peuvent pas synchroniser leurs calendriers lors de la connexion avec OAuth)"</string>
   <string name="mail_outlook_oauth_login">"S'authentifier avec OAuth"</string>
   <string name="mail_outlook_psw_login">"S'authentifier par mot de passe"</string>
   <string name="mailbox_list_account_selector_combined_view">Compte combiné</string>
@@ -637,6 +660,16 @@
   <string name="mailbox_name_display_starred">Favoris</string>
   <string name="mailbox_name_display_trash">Corbeille</string>
   <string name="mailbox_name_display_unread">Non lu</string>
+  <string name="mailbox_name_server_all_unread">Non lu</string>
+  <string name="mailbox_name_server_drafts">Brouillons</string>
+  <string name="mailbox_name_server_inbox">Boîte de réception</string>
+  <string name="mailbox_name_server_junk">Spam</string>
+  <string name="mailbox_name_server_outbox">Sortant</string>
+  <string name="mailbox_name_server_sent">Envoyé</string>
+  <string name="mailbox_name_server_starred">Favoris</string>
+  <string name="mailbox_name_server_trash">Corbeille</string>
+  <string name="mailbox_setting_preference_sync_summary_close">Sync: Off</string>
+  <string name="mailbox_setting_preference_sync_summary_open">Sync: On</string>
   <string name="mailbox_settings_activity_title">Paramètres de synchronisation</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Options de synchronisation (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Synchroniser les e-mails à partir de</string>
@@ -718,6 +751,7 @@
   <string name="menu_search">Recherche</string>
   <string name="menu_settings">Paramètres</string>
   <string name="merged_mailbox_compose_select_account">Sélectionnez un compte</string>
+  <string name="message_all_body">Corps entier du message</string>
   <string name="message_body_load_set_description">"Charger les e-mails via les données cellulaires"</string>
   <string name="message_compose_insert_quick_response_list_title">Insérez une réponse rapide</string>
   <string name="message_decode_error">Impossible de décoder le message</string>
@@ -789,6 +823,7 @@ Essayez un autre compte de messagerie."</string>
   <string name="ntes_do_not_sms_uplink">Envoyez un SMS depuis le numéro de téléphone associé puis appuyez sur \"Message envoyé\".</string>
   <string name="ntes_had_send">Message envoyé</string>
   <string name="ntes_had_send_to_content">Si vous avez déjà envoyé un SMS depuis le numéro de téléphone associé, appuyez sur \"Message envoyé\" pour continuer.</string>
+  <string name="ntes_login_auth_too_much">"Impossible d'ajouter plus de 5 codes de vérification. Connectez-vous à votre boîte de réception sur un ordinateur et supprimez les codes que vous n'utilisez pas."</string>
   <string name="ntes_login_error_message" formatted="false">"Informations du compte inaccessibles (Erreur %s). %s."</string>
   <string name="ntes_password_error_hint">Si une erreur survient pendant que vous entrez votre mot de passe, fermez cette page et rouvrez-là.</string>
   <string name="ntes_phone_send">Envoyer un message texte depuis le numéro de téléphone associé</string>
@@ -810,7 +845,7 @@ Essayez un autre compte de messagerie."</string>
   <string name="open_external_storage_and_contacts_and_calendar_permission">"Autoriser E-mail à accéder aux informations des contacts, du stockage et de l'agenda dans les paramètres"</string>
   <string name="open_external_storage_and_contacts_permission">Autoriser E-mail à accéder au stockage et au contacts dans les paramètres</string>
   <string name="open_notification_kingagent">Activer les notifications point de sépulture</string>
-  <string name="open_pdf_error">"Le fichier PDF n'a pas pu s'ouvrir. Veuillez télécharger d'autres outils d'ouverture de PDF et réessayer plus tard."</string>
+  <string name="open_pdf_error">"Impossible d'ouvrir le PDF. Installez un lecteur PDF et réessayez."</string>
   <string name="optimization_suggestion">"Suggestions d'optimisation"</string>
   <string name="others_mail">Autre</string>
   <string name="others_mail_des">"Autres services de messagerie privés ou d'entreprise"</string>
@@ -856,14 +891,17 @@ Essayez un autre compte de messagerie."</string>
   <string name="password_expired_ticker">"Le code PIN ou le mot de passe de l'écran de verrouillage a expiré."</string>
   <string name="pdf_has_signature_prompt_cancel">Ouvrir le fichier original</string>
   <string name="pdf_has_signature_prompt_confirm">Ouvrir une copie</string>
-  <string name="pdf_has_signature_prompt_message">"Une copie signée de cette pièce jointe a été détectée. L'ouvrir ou non ?"</string>
-  <string name="pdf_signature_create_title">Créer une signature</string>
-  <string name="pdf_signature_manager_max_count">Nombre maximum de signatures,Veuillez supprimer la signature existante et réessayer</string>
-  <string name="pdf_signature_manager_title">Gestionnaire de signature</string>
-  <string name="pdf_viewer_actionbar_more_other">Ouvrir avec une autre application</string>
-  <string name="pdf_viewer_actionbar_more_wps">Ouvrir par WPS</string>
-  <string name="pdf_viewer_file_damage_toast">Le fichier PDF est corrompu. Vérifiez le fichier et réessayez</string>
-  <string name="pdf_viewer_new_email">Nouvel e-mail</string>
+  <string name="pdf_has_signature_prompt_message">"Une copie signée de cette pièce jointe est détectée. L'ouvrir ?"</string>
+  <string name="pdf_save_error">Le corps étant trop volumineux, il ne peut pas être exporté sous forme de fichier PDF</string>
+  <string name="pdf_save_no_body">Veuillez attendre que le texte se charge et réessayez</string>
+  <string name="pdf_save_to">Enregistré sous</string>
+  <string name="pdf_signature_create_title">Dessiner votre signature</string>
+  <string name="pdf_signature_manager_max_count">Le nombre maximum de signatures pouvant être créées a été atteint. Veuillez supprimer les signatures existantes avant de les créer</string>
+  <string name="pdf_signature_manager_title">Gestion de signature</string>
+  <string name="pdf_viewer_actionbar_more_other">"Ouvrir avec d'autres applications"</string>
+  <string name="pdf_viewer_actionbar_more_wps">Ouvrir avec WPS</string>
+  <string name="pdf_viewer_file_damage_toast">Le fichier PDF est endommagé, veuillez vérifier le fichier et réessayer</string>
+  <string name="pdf_viewer_new_email">Envoyer par e-mail</string>
   <string name="pdf_viewer_reply">Répondre avec ce fichier</string>
   <string name="pdf_viewer_save_signature">Enregistrer la signature</string>
   <string name="pdf_viewer_sign_file_damage_toast">"Le fichier n'existe pas"</string>
@@ -876,8 +914,8 @@ Essayez un autre compte de messagerie."</string>
   <string name="perference_setup_send_tag">Serveur de courrier sortant</string>
   <string name="permission_access_provider_desc">"Autorise l'application à accéder à vos e-mails, noms d'utilisateur et aux mots de passe"</string>
   <string name="permission_access_provider_label">Accéder aux données utilisateur</string>
-  <string name="permission_des_calendar">À synchroniser des événements du calendrier</string>
-  <string name="permission_des_contact">À accéder aux adresses e-mail de vos contacts pour remplir automatiquement les destinataires</string>
+  <string name="permission_des_calendar">Il est utilisé pour synchroniser vos e-mails avec les informations de planification avec le calendrier dans le temps. Il est fortement recommandé de sélectionner Toujours autoriser</string>
+  <string name="permission_des_contact">Utilisé pour synchroniser instantanément vos contacts de messagerie avec les contacts mobiles, il est fortement recommandé de sélectionner Toujours autoriser</string>
   <string name="permission_des_external_storage">À créer de nouveaux e-mails, ou bien enregistrer ou ajouter des pièces jointes</string>
   <string name="permission_read_attachment_desc">"Autorise l'application à lire vos pièces jointes"</string>
   <string name="permission_read_attachment_label">Lire les pièces jointes</string>
@@ -1069,7 +1107,8 @@ Attendez la synchronisation complète ou visualisez le message sur votre ordinat
   <string name="server_cet_issuer_no_trust">"L'émetteur du certificat n'est pas une organisation de confiance."</string>
   <string name="server_cet_subject_cn">"Domaine géré: "</string>
   <string name="server_cet_title">Détails du certificat</string>
-  <string name="service_protocol_discribe">&lt;u&gt;"J'ai lu et accepté le \"Contrat de service WPS Mail\""&lt;/u&gt;</string>
+  <string name="server_log">Contrat de service</string>
+  <string name="service_protocol_discribe"><u>"J'ai lu et accepté le \"Contrat de service WPS Mail\""</u></string>
   <string name="service_protocol_title">Contrat de service</string>
   <string name="set_network">Configurer le réseau</string>
   <string name="setting_kids_subtitle">"Confirmer l'âge de l'utilisateur"</string>
@@ -1090,7 +1129,7 @@ Attendez la synchronisation complète ou visualisez le message sur votre ordinat
 
 %s"</string>
   <string name="signature_black_shark">Envoyé depuis mon téléphone Blackshark</string>
-  <string name="sms_not_found_tip">"Impossible de démarrer l'application SMS du système, veuillez démarrer manuellement l'application SMS et envoyer un SMS de vérification."</string>
+  <string name="sms_not_found_tip">"Impossible d'ouvrir votre application de messagerie SMS par défaut. Ouvrez l'application et envoyez le SMS de vérification manuellement."</string>
   <string name="SMTP_independent_verification_text">Vérification indépendante SMTP</string>
   <string name="smtp_password_error">Le mot de passe du serveur sortant est incorrect</string>
   <string name="SMTP_password_text">Mot de passe</string>
@@ -1133,8 +1172,11 @@ Attendez la synchronisation complète ou visualisez le message sur votre ordinat
   <string name="toast_bar_send_fail_remind">"Impossible d'envoyer l'e-mail. Enregistré dans le dossier \"Sortant\"."</string>
   <string name="toast_bar_sync_failed_client_cert">"Couldn't sync due to a missing certificate. Tap to add the certificate again."</string>
   <string name="toast_bar_sync_failed_mi_authority">Sign in to authorize your device</string>
+  <string name="toastbar_calendar_and_contacts_permission_switch_allow_only_using">"Les informations de planification et de contact n'étaient pas synchronisées en temps réel, l'autorisation Contacts est définie sur"</string>
   <string name="toastbar_calendar_and_contacts_permission_switch_close">"Pour synchroniser les infos d'agenda et les contacts, accordez à E-mail les autorisations requises dans les paramètres"</string>
+  <string name="toastbar_calendar_permission_switch_allow_only_using">"Le courrier n'a pas pu planifier la synchronisation en temps réel, définissez les autorisations du calendrier sur Toujours autoriser"</string>
   <string name="toastbar_calendar_permission_switch_close">Pour recevoir les rappels, accordez les autorisations requises à E-mail dans les paramètres</string>
+  <string name="toastbar_contacts_permission_switch_allow_only_using">"Les informations de contact n'étaient pas synchronisées en temps réel, l'autorisation Contacts est définie sur Toujours autoriser"</string>
   <string name="toastbar_contacts_permission_switch_close">Pour ajouter des contacts, accordez à E-mail les autorisations requises dans les paramètres</string>
   <string name="toastbar_local_calendar_and_contacts_sync_switch_close">"Activer la synchronisation d'agenda et contacts pour synchroniser les agenda et les contacts"</string>
   <string name="toastbar_local_calendar_sync_switch_close">"Activer la synchronisation du calendrier pour recevoir les rappels"</string>
@@ -1148,6 +1190,11 @@ Attendez la synchronisation complète ou visualisez le message sur votre ordinat
   <string name="toolbar_part_symbol">Paragraph mark</string>
   <string name="topic_merge">"Paramètres d'affichage"</string>
   <string name="topic_merge_summary">Regrouper par sujet</string>
+  <string name="train_card_title">"L'achat du billet a réussi"</string>
+  <string name="train_card_title_alternate">"La fonction de liste d'attente des billets a réussi"</string>
+  <string name="train_card_title_change">Le ticket modifié a réussi</string>
+  <string name="train_card_title_change_arrival">Le ticket modifié a réussi</string>
+  <string name="train_card_title_refund">Remboursement du ticket de réussite</string>
   <string name="translation_loading">Chargement…</string>
   <string name="translation_no_result">Aucun résultat</string>
   <string name="translation_pronunciation_other">Machine</string>
@@ -1183,25 +1230,31 @@ Supprimer le compte ?"</string>
   <string name="upload_log_title">Envoyer les journaux pour nous aider à améliorer WPS Mail</string>
   <string name="upload_log_yes">Envoyer</string>
   <string name="uploading_logs">Chargement…</string>
-  <string name="user_new_auth_code">Use a new code to sign in</string>
+  <string name="user_experience_content">"Veuillez confirmer que vous avez lu et accepté le Programme d'expérience utilisateur"</string>
+  <string name="user_experience_log">"Programme d'expérience utilisateur"</string>
+  <string name="user_experience_login">Rejoindre</string>
+  <string name="user_experience_logout">"Quitter le Programme d'expérience"</string>
+  <string name="user_experience_positive">Accepter et continuer</string>
+  <string name="user_experience_title">Déclaration et conditions</string>
+  <string name="user_new_auth_code">Utilisez un nouveau code pour vous connecter</string>
   <string name="user_privacy_settings">Paramètres de confidentialité</string>
-  <string name="user_privacy_settings_agreement_authorization">"(By tapping \"Agree\", you're giving Mail all the required permissions)"</string>
-  <string name="user_privacy_settings_path">To revoke your authorization, go to Settings &gt; Privacy settings.</string>
-  <string name="user_privacy_settings_summary">"We'll collect your Android ID in the encrypted form and use it as your unique user identifier in Mail. We might also collect usage logs. You can revoke your authorization in privacy settings anytime."</string>
-  <string name="user_privacy_settings_title">Mail privacy statement</string>
+  <string name="user_privacy_settings_agreement_authorization">"(En appuyant sur « J'accepte », vous accordez à E-mail toutes les autorisations requises)"</string>
+  <string name="user_privacy_settings_path">Pour révoquer votre autorisation, accédez à Paramètres &gt; Paramètres de confidentialité.</string>
+  <string name="user_privacy_settings_summary">"Nous collecterons votre identifiant Android sous forme chiffrée et l'utiliserons comme identifiant utilisateur unique dans E-mail. Nous pouvons également collecter des journaux d'utilisation. Vous pouvez révoquer votre autorisation dans les paramètres de confidentialité à tout moment."</string>
+  <string name="user_privacy_settings_title">Déclaration de confidentialité du courrier</string>
   <string name="verify_code">Code de vérification</string>
-  <string name="version_string">Version: %s</string>
+  <string name="version_string">Version : %s</string>
   <string name="view_more_conversations">Afficher plus de conversations</string>
   <string name="wait_for_manual_sync_body">"Ce compte n'est pas configuré pour se synchroniser automatiquement.
 Appuyer sur "&lt;b&gt;Sync Now&lt;/b&gt; pour synchroniser maintenant, ou &lt;b&gt;Modifier les paramètres de synchronisation&lt;/b&gt; pour configurer ce compte pour synchroniser automatiquement le courrier."</string>
   <string name="wait_for_sync_title">En attente de synchronisation</string>
   <string name="wait_help_context">patienter</string>
   <string name="wait_while_update_db">Updating database…</string>
-  <string name="web_view_load_error_tip">"Des problèmes sont survenus et le corps de cet e-mail ne peut pas s'afficher correctement. Si vous rencontrez ce problème, veuillez ajouter le groupe QQ 952315061 pour nous faire part de vos commentaires."</string>
+  <string name="web_view_load_error_tip">"Le corps de cet e-mail n'a pas pu s'afficher correctement. Signalez-nous ce problème dans notre groupe QQ (952315061)."</string>
   <string name="webview_logout">Vous pouvez essayer de vous connecter à nouveau</string>
   <string name="webview_logout_cancel">Plus tard</string>
   <string name="webview_logout_sure">Réessayer</string>
-  <string name="webview_not_found">La page ne peut pas être ouverte car le composant WebView est introuvable.</string>
+  <string name="webview_not_found">"Impossible d'ouvrir la page en raison d'un plug-in WebView manquant"</string>
   <string name="webview_sslerror_handle_cancel">Annuler</string>
   <string name="webview_sslerror_handle_continue">Continuer</string>
   <string name="webview_sslerror_handle_hitmessage">"Une erreur de certificat s'est produite, continuer quand même ?"</string>
@@ -1209,6 +1262,9 @@ Appuyer sur "&lt;b&gt;Sync Now&lt;/b&gt; pour synchroniser maintenant, ou &lt;b&
   <string name="widget_other_views">Autre</string>
   <string name="wipe_account_fail_description">Autoriser</string>
   <string name="wipe_account_fail_title">Impossible de supprimer les informations personnelles</string>
+  <string name="wps_card_button_tips">Ouvrir Kingsoft Document</string>
+  <string name="wps_card_tips">Lien de partage Kingsoft Document depuis %s</string>
+  <string name="wps_card_title">Kingsoft Document</string>
   <string name="wrong_password">Le mot de passe entré est incorrect</string>
   <string name="xiaomi_email">E-mail</string>
   <string name="yes">Oui</string>
