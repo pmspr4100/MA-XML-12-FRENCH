@@ -1658,6 +1658,14 @@ Note: seulement pour Ubuntu 8.04 !"</item>
         <item>Protocole DHCP</item>
         <item>Statique</item>
     </string-array>
+    <string-array name="wifi_link_turbo_mode_entries">
+        <item>Auxiliaire</item>
+        <item>Complet</item>
+    </string-array>
+    <string-array name="wifi_link_turbo_mode_summary_entries">
+        <item>"Augmenter la vitesse en utilisant les données cellulaires uniquement lorsque le signal Wi-Fi est faible"</item>
+        <item>Combinez le Wi-Fi et les données cellulaires pour augmenter la vitesse de connexion</item>
+    </string-array>
     <string-array name="wifi_metered_entries">
         <item>Détecter automatiquement</item>
         <item>"Considérer comme facturé à l'usage"</item>
