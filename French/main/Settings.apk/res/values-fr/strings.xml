@@ -3575,7 +3575,7 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
   <string name="ipaddr_label">Adresse IP :</string>
   <string name="ipv4_congertion_control">Select TCP congestion control</string>
   <string name="ipv4_congertion_xontrol_chose">TCP congestion-avoidance algorithm</string>
-  <string name="item_system_app">Applications systèmes</string>
+  <string name="item_system_app">Applications système</string>
   <string name="join_many_items_last">%1$s et %2$s</string>
   <string name="join_two_items">%1$s et %2$s</string>
   <string name="keep_legacy_fingerprint">Garder</string>
@@ -6397,7 +6397,7 @@ Pour utiliser l'épinglage d'application: \u0009
   <string name="search_status_bar_settings_toggle_position">Positions des raccourcis;Raccourcis;raccourcis;changer raccourcis</string>
   <string name="search_storage_settings">Stockage;Mémoire</string>
   <string name="search_sync_settings">Synchroniser;Auto;Wi-Fi uniquement</string>
-  <string name="search_system_app_settings">Applications systèmes</string>
+  <string name="search_system_app_settings">Applications système</string>
   <string name="search_theme_settings_title">Thèmes;Thème;Personnalisation;Personnaliser</string>
   <string name="search_title_font_settings">font size;font weight;font style</string>
   <string name="search_touch_assistant">Assistant tactile;Assistant de touche</string>
@@ -7356,7 +7356,7 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
   <string name="system_alert_window_summary">"%1$d applis sur %2$d autorisées à se superposer à d'autres"</string>
   <string name="system_and_device_section_title">Paramètres systèmes</string>
   <string name="system_app">(Système)</string>
-  <string name="system_app_settings">Applications systèmes</string>
+  <string name="system_app_settings">Applications système</string>
   <string name="system_apps_updater">"Mise à jour d'applications système"</string>
   <string name="system_backup_section_title">Sauvegarde</string>
   <string name="system_backup_section_title_new">Sauvegarder ou restaurer</string>
@@ -8294,11 +8294,11 @@ Merci de prendre connaissance de la politique de données personnells de votre f
   <string name="wifi_assistant_auto_confirm_data_message">Utilise les réseaux de données cellulaires lorsque votre appareil ne peut pas se connecter à internet en Wi-Fi.</string>
   <string name="wifi_assistant_confirm_always">Ne plus demander</string>
   <string name="wifi_assistant_confirm_connection_title">Connexion à internet impossible</string>
-  <string name="wifi_assistant_data_prompt">"Activer l'assistant Wi-Fi"</string>
-  <string name="wifi_assistant_data_prompt_summary">"Afficher un avertissement sur l'utilisation des données lors du passage aux données cellulaires"</string>
+  <string name="wifi_assistant_data_prompt">"Afficher l'avertissement d'utilisation des données"</string>
+  <string name="wifi_assistant_data_prompt_summary">"Affiche un avertissement sur l'utilisation des données lors du passage aux données cellulaires"</string>
   <string name="wifi_assistant_description">"Après avoir activé cette fonction :
-    1.Lorsque la connexion Wi-Fi est mauvaise, le système essaie automatiquement d'autres réseaux Wi-Fi disponibles
-    2.Lorsque toutes les connexions Wi-Fi existantes sont mauvaises et que les données cellulaires sont activées, le système choisira intelligemment la meilleure connexion réseau"</string>
+1.Lorsque la connexion Wi-Fi est mauvaise, le système essaie automatiquement d'autres réseaux Wi-Fi disponibles
+2.Lorsque toutes les connexions Wi-Fi existantes sont mauvaises et que les données cellulaires sont activées, le système choisira intelligemment la meilleure connexion réseau"</string>
   <string name="wifi_assistant_disconnect">Déconnecter</string>
   <string name="wifi_assistant_explicitly_confirm_data_message">Le Wi-Fi actuel ne peut pas accéder à internet, voulez-vous basculer sur les données cellulaires ?</string>
   <string name="wifi_assistant_explicitly_confirm_disconnect">Se déconnecter du réseau Wi-Fi ?</string>
@@ -8543,12 +8543,13 @@ Merci de prendre connaissance de la politique de données personnells de votre f
   <string name="wifi_link_turbo_customize">Applications personnalisées</string>
   <string name="wifi_link_turbo_customize_summary">"Sélectionnez les applications qui fonctionneront avec l'assistant Wi-Fi selon vos préférences"</string>
   <string name="wifi_link_turbo_list">Applications</string>
+  <string name="wifi_link_turbo_mode">Mode boost de vitesse</string>
   <string name="wifi_link_turbo_no_app">"Aucune application ici pour l'instant."</string>
   <string name="wifi_link_turbo_off">Désactiver</string>
   <string name="wifi_link_turbo_on">Activer</string>
   <string name="wifi_link_turbo_recommendation">Applications recommandées</string>
   <string name="wifi_link_turbo_recommendation_summary">"Recevez des recommandations basées sur les statistiques d'utilisation des données"</string>
-  <string name="wifi_link_turbo_summary">"Augmentez la vitesse de connexion pour la sélection d'applications utilisant des données cellulaires lorsque la connexion Wi-Fi est mauvaise"</string>
+  <string name="wifi_link_turbo_summary">"Utilise les données cellulaire pour augmenter la vitesse de connexion. L'utilisation de cette fonctionnalité peut générer des frais supplémentaires."</string>
   <string name="wifi_menu_advanced">Options avancées</string>
   <string name="wifi_menu_configure">Configurer</string>
   <string name="wifi_menu_connect">Se connecter au réseau</string>

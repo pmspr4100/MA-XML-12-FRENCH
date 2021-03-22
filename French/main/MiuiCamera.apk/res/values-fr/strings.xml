@@ -555,6 +555,7 @@ et ajustez les préférences automatiquement"</string>
   <string name="dialog_button_connect">Se connecter</string>
   <string name="dialog_button_disconnect">Quitter</string>
   <string name="dialog_button_exit">Désactiver</string>
+  <string name="dialog_button_goto">Paramètres</string>
   <string name="dialog_button_ok">OK</string>
   <string name="dialog_button_reject">Rejeter</string>
   <string name="dialog_button_scan">Rechercher des appareils</string>
@@ -1381,7 +1382,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_hdr10plus_video_mode_description">Optimise les couleurs et ajuste le contraste pour les vidéos 4K et 8K. Cette fonction ne fonctionne que sur les appareils compatibles HDR10 +.</string>
   <string name="pref_i_n_r_b">Réduction intelligente du bruit</string>
   <string name="pref_k_h">Moniteur intra-auriculaire temps réel</string>
-  <string name="pref_k_s_i">"Lire le son enregistré dans les écouteurs lorsqu'ils sont connectés"</string>
+  <string name="pref_k_s_i">"Surveiller le son enregistré à l'aide des écouteurs lorsqu'ils sont connectés"</string>
   <string name="pref_lens_dirty_detect_summary">"Recevoir une notification lorsque l'objectif est sale"</string>
   <string name="pref_lens_dirty_detect_title">Avertissement objectif sale</string>
   <string name="pref_live_duration_title">Durée en direct</string>
@@ -1491,6 +1492,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="recommend_soft_light_tip">Activer le flash</string>
   <string name="recommend_super_night">Essayez le mode nuit</string>
   <string name="record_back_pressed_hint">"Appuyez à nouveau pour arrêter l'enregistrement"</string>
+  <string name="remote_device_type_phone">Xiaomi</string>
   <string name="remote_online_connecting">"Sélectionnez l'appareil à connecter"</string>
   <string name="remote_online_disconnect_confirmation">Annuler la connexion à %1$s ?</string>
   <string name="remote_online_exit_confirmation">"Désactiver l'Enregistrement double téléphone maintenant ?"</string>
@@ -1499,6 +1501,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="remote_online_interrupted">Déconnecté. Connectez-vous à nouveau pour continuer.</string>
   <string name="remote_online_introduction_i">"L'Enregistrement double téléphone permet de combiner les flux de deux appareils différents en une seule vidéo. Vous pourrez prévisualiser les deux flux et la vidéo finale sur cet appareil. Notez que l'audio ne sera enregistré que par cet appareil."</string>
   <string name="remote_online_introduction_ii">"Pour que cette fonctionnalité fonctionne, l'autre appareil Mi ou Redmi doit prendre en charge l'Enregistrement double téléphone. Il peut être activé à l'aide de l'interrupteur dans le Centre de contrôle."</string>
+  <string name="remote_online_permission">"Modifiez l'autorisation de localisation de l'appareil photo sur \"À l'utilisation de l'application\" pour pouvoir utiliser l'Enregistrement double téléphone."</string>
   <string name="remote_online_searching">"Recherche d'appareils…"</string>
   <string name="remote_online_service_name">Enregistrement double téléphone</string>
   <string name="remote_online_unavailable">Impossible de trouver des appareils à proximité</string>
