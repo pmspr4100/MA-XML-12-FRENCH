@@ -1186,7 +1186,7 @@ Utilisez uniquement le chargeur fourni."</string>
   <string name="keyguard_indication_charging_time">"%2$s • En charge (%1$s jusqu'à la charge complète)"</string>
   <string name="keyguard_indication_charging_time_fast">"%2$s • En charge rapide (%1$s jusqu'à la charge complète)"</string>
   <string name="keyguard_indication_charging_time_slowly">"%2$s • En charge lente (%1$s jusqu'à la charge complète)"</string>
-  <string name="keyguard_indication_charging_time_wireless">%2$s • En charge sans fil (%1$s jusqu'à la charge complète)</string>
+  <string name="keyguard_indication_charging_time_wireless">"%2$s • En charge sans fil (%1$s jusqu'à la charge complète)"</string>
   <string name="keyguard_indication_trust_disabled">"L'appareil restera verrouillé jusqu'à ce que vous le déverrouilliez manuellement"</string>
   <string name="keyguard_indication_trust_unlocked">Gardé déverrouillé par TrustAgent</string>
   <string name="keyguard_instructions_when_pattern_disabled">Appuyez sur Menu pour déverrouiller.</string>
@@ -1393,7 +1393,7 @@ une capture d'écran de défilement"</string>
   <string name="media_category">Média</string>
   <string name="media_projection_action_text">Commencer maintenant</string>
   <string name="media_projection_dialog_service_text">"Le service fournissant cette fonction aura accès à toutes les informations visibles sur votre écran ou lues depuis votre appareil lors de l'enregistrement ou de la diffusion. Cela inclut des informations telles que les mots de passe, les détails de paiement, les photos, les messages et l'audio que vous lisez."</string>
-  <string name="media_projection_dialog_service_title">Commencer l'enregistrement ou la diffusion ?</string>
+  <string name="media_projection_dialog_service_title">"Commencer l'enregistrement ou la diffusion ?"</string>
   <string name="media_projection_dialog_text">"%s va commencer à capturer tout ce qui s'affiche sur votre écran."</string>
   <string name="media_projection_remember_text">Ne plus afficher</string>
   <string name="media_seamless_remote_device">Appareil</string>
