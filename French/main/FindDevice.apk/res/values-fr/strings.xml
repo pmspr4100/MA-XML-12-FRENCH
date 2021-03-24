@@ -67,7 +67,9 @@ Contactez votre agent de vente pour plus de détails."</string>
     <string name="find_device_error_unknown">Erreur Inconnue (%s).</string>
     <string name="find_device_noise_title">"Alarme de localisation de l'appareil"</string>
     <string name="find_device_notice">Aller sur &lt;b&gt;&lt;font color=#0099FF&gt;i.mi.com&lt;/font&gt;&lt;/b&gt; pour localiser, verrouiller ou restaurer votre appareil.</string>
-    <string name="find_device_notice_sms_alert">Si vous changez de carte SIM, un SMS sera envoyé automatiquement pour réactiver ce service.</string>
+    <string name="find_device_notice_sms_alert_with_common_charge_hint">"Afin de mettre à jour l'état de la carte SIM et de vous assurer que tous les services fonctionnent normalement, un &lt;font color=#0097FF>&lt;b>message texte payant&lt;/b>&lt;/font> sera envoyé après avoir changé de carte SIM. Ce message vous sera facturé par votre opérateur."</string>
+    <string name="find_device_notice_sms_alert_with_domestic_charge_hint">"Afin de mettre à jour l'état de la carte SIM et de vous assurer que tous les services fonctionnent normalement, un &lt;font color=#0097FF>&lt;b>message texte local payant&lt;/b>&lt;/font> sera envoyé après avoir changé de carte SIM. Ce message vous sera facturé par votre opérateur."</string>
+    <string name="find_device_notice_sms_alert_with_internal_charge_hint">"Afin de mettre à jour l'état de la carte SIM et de vous assurer que tous les services fonctionnent normalement, un &lt;font color=#0097FF>&lt;b>message texte international payant&lt;/b>&lt;/font> sera envoyé après avoir changé de carte SIM. Ce message vous sera facturé par votre opérateur."</string>
     <string name="find_device_stop_noise">Appuyez sur OK pour rendre silencieux</string>
     <string name="find_device_storage_corrupted">"Recherche de l'appareil endommagé. Votre appareil n'est plus sécurisé."</string>
     <string name="find_device_success_title">"Localiser l'appareil"</string>

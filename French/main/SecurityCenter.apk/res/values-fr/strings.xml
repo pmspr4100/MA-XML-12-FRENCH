@@ -1487,11 +1487,12 @@ Vous devez comprendre que cette fonctionnalité est fournie à titre indicatif u
     <string name="gamebooster_network_dialog_title">Certaines fonctionnalités ne sont pas disponibles</string>
     <string name="gamebox_app_not_find">"Installer d'abord l'application."</string>
     <string name="gamebox_browser_not_find">"Installer depuis Navigateur Mi d'abord"</string>
+    <string name="gamebox_collimator">Viseur</string>
     <string name="gamebox_display_1">Aucun</string>
     <string name="gamebox_display_2">Saturé</string>
     <string name="gamebox_display_3">Brillant</string>
     <string name="gamebox_display_4">Brillant et saturé</string>
-    <string name="gamebox_display_set">"Amélioration visuelle: "</string>
+    <string name="gamebox_display_set">"Amélioration visuelle : "</string>
     <string name="gamebox_dnd">NPD</string>
     <string name="gamebox_func_antimsg_close">Les notifications flottantes sont autorisées maintenant</string>
     <string name="gamebox_func_antimsg_open">Les notifications flottantes sont limitées maintenant</string>
@@ -1515,6 +1516,7 @@ Vous devez comprendre que cette fonctionnalité est fournie à titre indicatif u
     <string name="gamebox_qq_not_find">Installez QQ puis réessayez.</string>
     <string name="gamebox_recent_task_expand_fail">Les applications fonctionnant avec des raccourcis ne sont pas installées</string>
     <string name="gamebox_simcard">Changer de carte SIM</string>
+    <string name="gamebox_time">Minuteur</string>
     <string name="gamebox_type_close">Ne pas afficher</string>
     <string name="gamebox_type_float">Raccourci fixe</string>
     <string name="gamebox_type_gesture">Balayer pour afficher</string>
@@ -1565,6 +1567,10 @@ Vous devez comprendre que cette fonctionnalité est fournie à titre indicatif u
     <string name="gb_advance_settings_vibration_4d_summary2">Vibre lors des exécutions dans le jeu</string>
     <string name="gb_audition_instruction">appuyez et maintenez pour enregistrer (%1$s-%2$ss)</string>
     <string name="gb_audition_play_instruction">Utilisez des écouteurs pour un meilleur effet</string>
+    <string name="gb_collimator_color">Coleur</string>
+    <string name="gb_collimator_size">Taille</string>
+    <string name="gb_collimator_style">Type</string>
+    <string name="gb_collimator_toast">Un viseur rend la visée beaucoup plus pratique</string>
     <string name="gb_create_icon_summary">"Créez un raccourci sur l'écran d'accueil"</string>
     <string name="gb_description_image_button_answer">Répondre</string>
     <string name="gb_description_image_button_reject">Refuser</string>
@@ -1598,6 +1604,7 @@ Vous devez comprendre que cette fonctionnalité est fournie à titre indicatif u
     <string name="gb_game_macro_bubble_tips">Essayez les combinaisons</string>
     <string name="gb_game_macro_toast_tips">"Essayez les combinaisons !
 Enregistrez des séquences et utilisez-les à tout moment !"</string>
+    <string name="gb_game_time_toast">Le minuteur est disponible à présent !</string>
     <string name="gb_game_video_bottom_tips">Revisitez les moments clés de vos sessions de jeu dans Game Turbo. Les vidéos seront supprimées automatiquement après 7 jours.</string>
     <string name="gb_game_video_item_tag">Moment clé</string>
     <string name="gb_game_video_page_delete_success">Supprimé avec succès</string>
@@ -1625,7 +1632,8 @@ Enregistrez des séquences et utilisez-les à tout moment !"</string>
     <string name="gb_msg_transparent_dispaly_summary">Transparent</string>
     <string name="gb_network_status_bad">Une erreur de connexion est survenue.</string>
     <string name="gb_new_feature">Nouvelle fonctionnalité</string>
-    <string name="gb_operat_frequently">Not so fast!</string>
+    <string name="gb_not_support_on_device">"Cette application ne peut pas être utilisée sur l'écran extérieur"</string>
+    <string name="gb_operat_frequently">Pas si vite !</string>
     <string name="gb_shortcut_pref_title">"Raccourci de l'écran d'accueil"</string>
     <string name="gb_shoulder_key">Boutons de tranche</string>
     <string name="gb_shoulder_key_add_show_btn">Afficher les boutons virtuels pendant les jeux</string>
@@ -4335,10 +4343,10 @@ Rolled over extra data"</string>
 
 Le volume de données restant inclut l'excédent du mois précédent."</string>
     <string name="traffic_limit_error_alert_title">Rappel de la limite de données %s</string>
-    <string name="traffic_limit_input">Data limit (mandatory)</string>
+    <string name="traffic_limit_input">Limite de données (obligatoire)</string>
     <string name="traffic_none">Aucun</string>
     <string name="traffic_over_purchase_link">"Vous avez atteint la limite d'utilisation de données de votre forfait.&lt;br/&gt;Si vous dépassez la limite d'utilisation de données de votre forfait, votre opérateur peut vous facturer des frais supplémentaires.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;Appuyez pour recharger votre solde.&lt;/U&gt;&lt;/font&gt;"</string>
-    <string name="traffic_provider_no_sim">"SIM card isn't installed"</string>
+    <string name="traffic_provider_no_sim">"La carte SIM n'est pas installée"</string>
     <string name="traffic_purchase_body">Appuyez pour recharger votre solde.</string>
     <string name="traffic_setting_fragment_area">Lieu</string>
     <string name="traffic_setting_fragment_brand">Marque</string>
@@ -4441,6 +4449,7 @@ Le volume de données restant inclut l'excédent du mois précédent."</string>
     <string name="vb_quick_func_screen_record">Enregistrer</string>
     <string name="vb_quick_func_screening">Diffusion</string>
     <string name="vb_settings">Paramètres</string>
+  <string name="vb_ve_settings_ai_stronger">IA</string>
     <string name="vb_ve_settings_display_style_tips">"*Ces effets sont appliqués à l'ensemble de l'écran"</string>
     <string name="vb_ve_settings_pic_border_stronger">Contours améliorés</string>
     <string name="vb_ve_settings_picture_stronger">Animations améliorées</string>
@@ -4487,6 +4496,7 @@ Essayez de mettre à l'échelle la définition !"</string>
     <string name="virus_update_tips_title">Attention</string>
     <string name="virus_wait_network_dialog_message">"Votre téléphone n'est pas connecté au Wi-Fi actuellement. Utiliser la connexion de données cellulaires ?"</string>
     <string name="vtb_func_desc">À propos de cette fonctionnalité</string>
+  <string name="vtb_func_display_style_desc0">"L'IA peut reconnaître les personnes, les animaux, les plantes, le ciel, les bâtiments et autres objets présentés dans les vidéos et les améliorer de manière dynamique."</string>
     <string name="vtb_func_display_style_desc1">Les effets sélectionnés ne seront pas appliqués aux vidéos HDR sur les appareils sélectionnés.</string>
     <string name="vtb_func_display_style_desc2">"Ces effets ne peuvent pas être appliqués aux captures d'écran."</string>
     <string name="vtb_func_frc_desc0">"Le lissage de mouvement réduit le flou et ajoute des détails aux objets en mouvement. L'utilisation de cette fonction augmente la consommation d'énergie."</string>
