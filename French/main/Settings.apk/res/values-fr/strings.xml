@@ -421,8 +421,8 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
   <string name="advanced_apps">Paramètres additionnels</string>
   <string name="advanced_battery_graph_subtext">"L'estimation de l'autonomie restante est basée sur l'utilisation de l'appareil"</string>
   <string name="advanced_battery_title">Utilisation de la batterie</string>
-  <string name="advanced_gesture">Custom gestures</string>
-  <string name="advanced_screen_paper_mode_title">Reading mode</string>
+  <string name="advanced_gesture">Gestes personnalisés</string>
+  <string name="advanced_screen_paper_mode_title">Mode lecture</string>
   <string name="advanced_section_header">Paramètres additionnels</string>
   <string name="advanced_security_title">Paramètres additionnels</string>
   <string name="advanced_settings">Paramètres additionnels</string>
@@ -1688,8 +1688,8 @@ Si vous installez un certificat CA, le propriétaire du certificat peut accéder
   <string name="choose_unlock_face_msg">"Définissez un verrouillage de l'écran avant d'enregistrer les données de reconnaissance faciale."</string>
   <string name="choose_unlock_fingerprint_msg">"Définissez le verrouillage de l'écran avant d'ajouter votre empreinte digitale."</string>
   <string name="choose_voice_input_title">Sélectionner la saisie vocale</string>
-  <string name="classic_mode_summary">Switch to warmer colors to reduce the amount of blue light</string>
-  <string name="classic_mode_title">Classic</string>
+  <string name="classic_mode_summary">Passe à des couleurs plus chaudes pour réduire la quantité de lumière bleue</string>
+  <string name="classic_mode_title">Classique</string>
   <string name="cleaner">Nettoyeur</string>
   <string name="clear_activities">Effacer les actions par défaut</string>
   <string name="clear_activities_summary">Utiliser cette application pour certaines opérations par défaut</string>
@@ -1914,9 +1914,9 @@ Si vous installez un certificat CA, le propriétaire du certificat peut accéder
   <string name="controls_subtitle">Ajuster la consommation</string>
   <string name="convenience_key_category_title">Contrôle du système</string>
   <string name="convert_to_fbe_warning">"Convertir la partition des données en fichiers basés sur le chiffrement.
- Avertissement: cette action effacera toutes vos données.
- Cette fonctionnalité est en cours de développement et peut ne pas fonctionner correctement.
- Appuyer sur \"Nettoyer et convertir…\" pour continuer."</string>
+Avertissement : cette action effacera toutes vos données.
+Cette fonctionnalité est en cours de développement et peut ne pas fonctionner correctement.
+Appuyer sur \"Nettoyer et convertir…\" pour continuer."</string>
   <string name="convert_to_file_encryption">Convertir en chiffrement de fichier</string>
   <string name="convert_to_file_encryption_done">Les fichiers sont chiffrés</string>
   <string name="convert_to_file_encryption_enabled">Conversion…</string>
@@ -4923,7 +4923,7 @@ Sélectionnez votre système d'exploitation :"</string>
   <string name="night_light">Mode sombre</string>
   <string name="night_light_brightness">Luminosité du mode Nuit</string>
   <string name="night_light_color">Température des couleurs en mode nuit</string>
-  <string name="night_light_color_tip">Les modifications prendront effet lorsque le mode Lecture sera activé</string>
+  <string name="night_light_color_tip">Les modifications prendront effet lorsque le mode lecture sera activé</string>
   <string name="night_light_summary">"Pour activer le mode Nuit, réduisez la luminosité de l'écran dans des conditions de faible luminosité."</string>
   <string name="night_light_tip">Les modifications prendront effet lorsque le mode Nuit sera activé</string>
   <string name="no">Non</string>
@@ -5282,8 +5282,8 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
   <string name="paper_mode_reset">Restore defaults</string>
   <string name="paper_mode_side_effect_hint">"Une intensité plus élevée pourrait affecter la façon d'afficher le contenu".</string>
   <string name="paper_mode_start_time_title">Activer</string>
-  <string name="paper_mode_summary">Switch to warmer colors and add paper texture to backgrounds to reduce eye strain</string>
-  <string name="paper_mode_title">Paper</string>
+  <string name="paper_mode_summary">Passe à des couleurs plus chaudes et ajoute une texture de papier aux arrière-plans pour réduire la fatigue oculaire</string>
+  <string name="paper_mode_title">Papier</string>
   <string name="papger_effect_category">Mode</string>
   <string name="partial_connectivity_text">"Certaines applications et certains services peuvent ne pas fonctionner en raison d'une connectivité limitée. Utiliser quand même ?"</string>
   <string name="passpoint_content">Identifiants de \"%1$s\"</string>
@@ -6098,17 +6098,17 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="screen_optimize_disabled">"Impossible d'ajuster le jeu de couleurs en mode lecture"</string>
   <string name="screen_paper_mode_adjust_level">Ajuster</string>
   <string name="screen_paper_mode_apps_loading">Chargement…</string>
-  <string name="screen_paper_mode_apps_title">Utiliser le mode de lecture</string>
-  <string name="screen_paper_mode_description">Reading mode adjusts colors and textures of the items on your screen allowing your eyes to relax</string>
-  <string name="screen_paper_mode_global_summary">Utiliser le mode de lecture pour toutes les applications</string>
+  <string name="screen_paper_mode_apps_title">Utiliser le mode lecture</string>
+  <string name="screen_paper_mode_description">Le mode lecture ajuste les couleurs et les textures des éléments sur votre écran pour permettre à vos yeux de se détendre</string>
+  <string name="screen_paper_mode_global_summary">Utiliser le mode lecture pour toutes les applications</string>
   <string name="screen_paper_mode_global_title">Toutes les applications</string>
-  <string name="screen_paper_mode_hdr_toast">Le mode de lecture sera désactivé pendant que vous lisez des vidéos HDR. Il sera automatiquement réactivé une fois la lecture terminée.</string>
-  <string name="screen_paper_mode_hdr_toast_new">"Le mode de lecture sera automatiquement désactivé pendant la lecture vidéo HDR et la vérification des empreintes digitales. Votre appareil repassera en mode Lecture une fois ces actions terminées."</string>
+  <string name="screen_paper_mode_hdr_toast">Le mode lecture sera désactivé pendant que vous lisez des vidéos HDR. Il sera automatiquement réactivé une fois la lecture terminée.</string>
+  <string name="screen_paper_mode_hdr_toast_new">"Le mode lecture sera automatiquement désactivé pendant la lecture vidéo HDR et la vérification des empreintes digitales. Votre appareil repassera en mode Lecture une fois ces actions terminées."</string>
   <string name="screen_paper_mode_local_summary">Utiliser le mode Lecture pour les applications que vous sélectionnez</string>
   <string name="screen_paper_mode_local_title">Applications sélectionnées</string>
   <string name="screen_paper_mode_off_apps_title">Ne pas utiliser le mode lecture</string>
   <string name="screen_paper_mode_range_title">Paramètres</string>
-  <string name="screen_paper_mode_set_apps_title">Applications de mode de lecture</string>
+  <string name="screen_paper_mode_set_apps_title">Applications de mode lecture</string>
   <string name="screen_paper_mode_summary">Le mode lecture rend les couleurs de votre écran plus chaudes et permet à vos yeux de se détendre</string>
   <string name="screen_paper_mode_time_summary">"Définissez l'heure d'activation et de désactivation du mode lecture"</string>
   <string name="screen_paper_mode_time_title">Planifier</string>
@@ -6371,7 +6371,7 @@ Pour utiliser l'épinglage d'application: \u0009
   <string name="search_screen_effect">Couleurs et saturation,Couleur et contraste;couleur;saturation de couleur;contraste</string>
   <string name="search_screen_key_long_press_timeout">"Définir la durée d'un appui prolongé;Appui prolongé;Appuyer et maintenir"</string>
   <string name="search_screen_on_proximity_sensor_title">Prévenir les compositions dans la poche;poche;composition dans la poche;compositions dans la poche</string>
-  <string name="search_screen_paper_mode_title">Mode de lecture;mode de lecture;lecture;lumière bleue;lumière jaune;mode nuit;flux;décalage de nuit;décalage de nuit;nuit</string>
+  <string name="search_screen_paper_mode_title">Mode lecture;mode lecture;lecture;lumière bleue;lumière jaune;mode nuit;flux;décalage de nuit;décalage de nuit;nuit</string>
   <string name="search_screen_saver_settings">"Économiseur d'écran"</string>
   <string name="search_screen_shot">"Capture d'écran; Capture d'écran; Capture"</string>
   <string name="search_screen_timeout">"En veille;Verrouillage d'écran auto;Verrouillage d'écran"</string>
@@ -6635,7 +6635,7 @@ Remarque : Vous ne pouvez pas utiliser votre empreinte digitale pour déverroui
   <string name="set_data_warning">Activer une alerte</string>
   <string name="set_jeejen_prompt_message">"Jeejen sera défini comme lanceur par défaut. Vous pouvez modifier le lanceur par défaut dans Paramètres &gt; Paramètres du système &gt; Écran d'accueil et Récents &gt; Lanceur par défaut."</string>
   <string name="set_jeejen_prompt_title">Confirmer les changements</string>
-  <string name="set_screen_paper_mode">Reading mode</string>
+  <string name="set_screen_paper_mode">Mode lecture</string>
   <string name="setting_privacy_password">Définissez un mot de passe de protection de confidentialité</string>
   <string name="settings_ad_loading">Chargement…</string>
   <string name="settings_ad_loading_unavailable">Impossible de charger les informations.</string>
