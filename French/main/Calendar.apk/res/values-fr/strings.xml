@@ -102,9 +102,7 @@
   <string name="birthday_term_chinese_calendar">"L'anniversaire de %1$s (calendrier chinois traditionnel)"</string>
   <string name="calendar_account_settings">Paramètres du compte</string>
   <string name="calendar_import_source">Source</string>
-  <string name="calendar_privacy_policy">Politique de confidentialité</string>
   <string name="calendar_subscription_group_title">Abonnement au calendrier</string>
-  <string name="calendar_user_agreement">"Accord de l'utilisateur"</string>
   <string name="can_not_create_long_event">"Le nom de l'événement est trop long"</string>
   <string name="can_not_modify_allday_event">"Impossible de modifier l'événement du jour"</string>
   <string name="can_not_modify_event">"Impossible de modifier l'événement"</string>
@@ -130,7 +128,6 @@
   <string name="clearable_edittext_clear_description">Clear</string>
   <string name="close_alarm">Désactiver</string>
   <string name="content_confirm_close_chinese_calendar">"Tous vos événements basés sur le calendrier chinois traditionnel seront convertis en calendrier grégorien après avoir désactivé cette fonction. Les années et les mois du calendrier grégorien seront utilisés pour des événements répétés."</string>
-  <string name="copy">Copier</string>
   <string name="copy_email">"Copier l'adresse Email"</string>
   <string name="copy_number">Copier le numéro de téléphone</string>
   <string name="countdown_event_title">Minuteur: %1$s</string>
@@ -255,7 +252,6 @@
   <string name="event_title">Titre</string>
   <string name="event_view">"Afficher l'événement"</string>
   <string name="every_weekday">Lundi au vendredi</string>
-  <string name="expand_button_title">Avancé</string>
   <string name="exposed_dropdown_menu_content_description">Afficher le menu déroulant</string>
   <string name="festival_detail_title">Festival</string>
   <string name="flight_check_in">Check in</string>
@@ -367,13 +363,10 @@
   <string name="miuix_appcompat_cancel_description">Annuler</string>
   <string name="miuix_appcompat_confirm_description">Confirmer</string>
   <string name="miuix_appcompat_delete_description">Supprimer</string>
-  <string name="miuix_appcompat_deselect_all">Désélectionner</string>
   <string name="miuix_appcompat_deselect_all_description">Tout désélectionner</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Annuler</string>
   <string name="miuix_appcompat_search_input_description">Chercher</string>
-  <string name="miuix_appcompat_select_all">Tout sélectionner</string>
   <string name="miuix_appcompat_select_all_description">Tout sélectionner</string>
-  <string name="miuix_appcompat_select_item">Sélectionner des éléments</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez vers le bas pour actualiser</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualisation…</string>
@@ -494,7 +487,6 @@ Vérifiez vos paramètres réseau, puis réessayez."</string>
   <string name="no_visiable_calendar_select_account">Ajouter un compte</string>
   <string name="no_visiable_calendar_title">Ajouter un compte</string>
   <string name="noon">Midi</string>
-  <string name="not_set">Non paramétré</string>
   <string name="notification_channel_name">Rappels réguliers</string>
   <string name="notification_channel_name_no_sound">Rappels silencieux</string>
   <string name="notification_channel_name_no_vibration">Rappels sans vibration</string>
@@ -537,7 +529,6 @@ Vérifiez vos paramètres réseau, puis réessayez."</string>
   <string name="pref_reminder_time">Heure de rappel</string>
   <string name="pref_title_alarm_remind">Alarme de rappel</string>
   <string name="pref_title_no_remind">Aucun rappel</string>
-  <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
   <string name="pref_title_notification_remind">Notification de rappel</string>
   <string name="prefDialogTitle_vibrateWhen">Vibrer</string>
   <string name="preferences_alarm_default_event_title">"Définir un rappel d'alarme"</string>
@@ -572,7 +563,6 @@ Vérifiez vos paramètres réseau, puis réessayez."</string>
   <string name="preferences_use_home_tz_title">Utiliser le fuseau horaire à domicile</string>
   <string name="preferences_week_start_day_dialog">Début de la semaine</string>
   <string name="preferences_week_start_day_title">Début de la semaine</string>
-  <string name="prefsx_notify_sound_none">Silencieux</string>
   <string name="premission_description_agree">Allow this app to connect to the internet and grant the mandatory permissions listed above.</string>
   <string name="premission_description_calendar">For adding and displaying your events</string>
   <string name="premission_description_contact">For displaying birthdays of your contacts</string>
@@ -854,8 +844,6 @@ You can also add reminders so you don't miss anything important."</string>
   <string name="user_notice_button_ok">OK</string>
   <string name="user_notice_message">"Vous devez accepter nos %1$s et %2$s avant d'utiliser Calendrier. Afin de fournir des données fiables à propos des vacances, dates anniversaires, remboursements de cartes de crédit, et des voyages, Calendrier a besoin d'accéder à votre localisation, vos contacts et vos messages, et d'être connecté à internet. Accepter ?"</string>
   <string name="user_notice_title">Attention</string>
-  <string name="v7_preference_off">DÉSACTIVÉ</string>
-  <string name="v7_preference_on">ACTIVÉ</string>
   <string name="view_event_calendar_label">Calendrier: </string>
   <string name="view_event_organizer_label">Organisateur: </string>
   <string name="view_event_response_label">Participer ?</string>

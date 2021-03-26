@@ -596,8 +596,10 @@ Appuyer sur l'écran pour ajouter manuellement ou repositionner une ville"</stri
   <string name="widget_cta_not_agree">Appuyez pour obtenir des informations météo</string>
   <string name="wind_direction_no_data">Vent</string>
   <string name="wind_unit">%1$s km/h</string>
-  <string name="xiaomi_weather_description_content">"L'application météo vous fournit des infos météorologiques avec précision. Sans cette application, la Barre d'État et le widget de météo ne fonctionneront pas correctement. Assurez-vous que vous pouvez vous passer de ces foncitonnalités avant de désinstaller l'application."</string>
-  <string name="xiaomi_weather_description_title">À propos de météo</string>
+  <string name="xiaomi_weather_description_content">"Météo est une application système. Vous ne pourrez pas afficher les informations météo ou utiliser les widgets associés après avoir désinstallé l'application."</string>
+  <string name="xiaomi_weather_description_content_remove">"Météo est une application système. Vous ne pourrez pas afficher les informations météo ou utiliser les widgets associés après avoir supprimé le raccourci de l'écran d'accueil."</string>
+  <string name="xiaomi_weather_description_title">Désinstaller \"Météo\"?</string>
+  <string name="xiaomi_weather_description_title_remove">"Supprimer \"Météo\" de l'écran d'accueil ?"</string>
   <string name="yes_vote_ratio">Pour %1$s%%</string>
   <string name="yesterday">Hier</string>
 </resources>
