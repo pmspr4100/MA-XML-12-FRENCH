@@ -368,8 +368,8 @@ Vous pouvez obtenir un essai gratuit de %d jours maintenant !"</item>
         <item quantity="one">Connecter au moins %d point</item>
     </plurals>
     <plurals name="lockpattern_recording_intro_header_new">
-        <item quantity="other">Connecter au moins %d points</item>
-        <item quantity="one">Connecter au moins %d point</item>
+        <item quantity="other">Connecter au moins %s points</item>
+        <item quantity="one">Connecter au moins %s point</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">"Patientez %d secondes et réessayez. "</item>

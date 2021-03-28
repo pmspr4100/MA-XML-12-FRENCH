@@ -93,11 +93,11 @@
         <item quantity="one">%d seconde</item>
     </plurals>
 	<plurals name="sleep_duration_hour">
-        <item quantity="other">%1s heures</item>
+        <item quantity="other">%1$s heures</item>
         <item quantity="one">%1$s heure</item>
     </plurals>
     <plurals name="sleep_duration_hour_avg">
-        <item quantity="other">%1s heures</item>
+        <item quantity="other">%1$s heures</item>
         <item quantity="one">%1$s heure</item>
     </plurals>
     <plurals name="sleep_duration_min">
