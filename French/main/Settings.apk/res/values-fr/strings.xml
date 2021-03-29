@@ -1202,6 +1202,11 @@ Voici ce qui a pu mal se passer:
   <string name="bluetooth_max_connected_audio_devices_dialog_title">"Sélectionner le nombre maximal d'appareils audio Bluetooth connectés"</string>
   <string name="bluetooth_max_connected_audio_devices_string">"Nb max appareils audio BT connectés"</string>
   <string name="bluetooth_menu_advanced">Paramètres additionnels</string>
+  <string name="bluetooth_message_access_dialog_content">"Un appareil Bluetooth non approuvé, %1$s, souhaite accéder à vos messages.
+
+Vous ne vous êtes jamais connecté à %2$s auparavant."</string>
+  <string name="bluetooth_message_access_dialog_title">Autoriser l'accès aux messages ?</string>
+  <string name="bluetooth_message_access_notification_content">Un appareil non approuvé souhaite accéder à vos messages. Appuyez pour plus de détails.</string>
   <string name="bluetooth_message_move_out_of_blacklist">Débloquer %1$s maintenant ?</string>
   <string name="bluetooth_mi_fast_connect">Jumeler des appareils compatibles</string>
   <string name="bluetooth_mi_fast_connect_summary">"Connectez-vous aux appareils à proximité à l'aide d'un processus de couplage simplifié"</string>
@@ -1248,6 +1253,11 @@ Voici ce qui a pu mal se passer:
   <string name="bluetooth_pan_user_profile_summary_connected">"Connecté à l'appareil pour l'accès à internet"</string>
   <string name="bluetooth_pb_acceptance_dialog_text">"%1$s requiert l'accès à vos contacts et à l'historique de vos appels. Autoriser l'accès à %2$s ?"</string>
   <string name="bluetooth_pb_remember_choice">Ne plus me demander</string>
+  <string name="bluetooth_phonebook_access_dialog_content">"Un appareil Bluetooth non approuvé, %1$s, souhaite accéder à vos contacts et au journal des appels. Cela inclut les données sur les appels entrants et sortants.
+
+Vous ne vous êtes jamais connecté à %2$s auparavant."</string>
+  <string name="bluetooth_phonebook_access_dialog_title">Autoriser l'accès aux contacts et au journal des appels ?</string>
+  <string name="bluetooth_phonebook_access_notification_content">Un appareil non approuvé souhaite accéder à vos contacts et au journal des appels. Appuyez pour plus de détails.</string>
   <string name="bluetooth_phonebook_request">"Demande d'accès au répertoire"</string>
   <string name="bluetooth_pin_values_hint">Habituellement 0000 ou 1234</string>
   <string name="bluetooth_pin_values_hint_16_digits">Doit comporter 16 chiffres.</string>
