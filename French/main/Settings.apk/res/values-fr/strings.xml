@@ -4234,6 +4234,8 @@ D'autres personnes utilisent cet appareil.
   <string name="max_fingerprint_number_reached">"Impossible d'ajouter plus de 5 empreintes digitales. Pour en ajouter une, supprimez d'abord une existante."</string>
   <string name="max_fingerprint_reached_toast">"Vous pouvez ajouter jusqu'à 5 empreintes digitales"</string>
   <string name="maximum_memory_use">Utilisation mémoire (maximale)</string>
+  <string name="mechanical_ime">Clavier mécanique</string>
+  <string name="mechanical_ime_hint">Pris en charge uniquement par le clavier personnalisé pour Xiaomi</string>
   <string name="media_button">Touches multimédias</string>
   <string name="media_category">Média</string>
   <string name="media_feedback_enable_title">Vibrer au rythme de la sonnerie</string>
@@ -8918,6 +8920,8 @@ Allow this for all apps that want to scan?"</string>
   <string name="xiaomi_cloud_service_disabled">Désactivé</string>
   <string name="xiaomi_cloud_service_unknown">Inconnu</string>
   <string name="xiaomi_custom_input_method">Personnalisé pour Xiaomi</string>
+  <string name="xiaomi_hp_location">permettre une localisation haute précision</string>
+  <string name="xiaomi_hp_location_description">améliorer la précision GNSS en accédant au réseau de haute précision</string>
   <string name="xiaomi_money_service">Mi Crédit</string>
   <string name="xiaomi_router_available_notif_summary">"Appuyez pour afficher plus d'infos."</string>
   <string name="xiaomi_router_available_notif_title">Mi Router détecté</string>
