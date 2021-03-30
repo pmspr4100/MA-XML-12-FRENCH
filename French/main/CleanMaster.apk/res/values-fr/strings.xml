@@ -774,6 +774,8 @@
   <string name="toast_updater_open_4g_text">Les applis seront mises à jour en utilisant les données mobiles (4G)</string>
   <string name="total_clean">Total nettoyé: %s</string>
   <string name="total_clean_text">Vider</string>
+  <string name="unit_gb">%s Go</string>
+  <string name="unit_mb">%s Mo</string>
   <string name="unlike">Non merci</string>
   <string name="update_date_format">dd/MM/yyyy</string>
   <string name="v7_preference_off">DÉSACTIVÉ</string>
@@ -837,6 +839,7 @@
   <string name="wechat_qq_celan_tab_voice">Messages vocaux</string>
   <string name="wechat_qq_deep_clean_button_text">Nettoyage en profondeur</string>
   <string name="whatsapp_btn_quick_cleanup">Supprimer les éléments sélectionnés (%s)</string>
+  <string name="whatsapp_cache_clear">Vidage du cache…</string>
   <string name="whatsapp_clean_exit_confirm_cancel">"Continuer l'analyse"</string>
   <string name="whatsapp_clean_exit_confirm_msg">"Vous n'avez pas encore fini de scanner WhatsApp. Arrêtez l'analyse maintenant ?"</string>
   <string name="whatsapp_clean_exit_confirm_ok">Arrêter</string>
@@ -846,6 +849,10 @@
   <string name="whatsapp_delete_confirm_message">Supprimer maintenant ?</string>
   <string name="whatsapp_delete_confirm_ok">OK </string>
   <string name="whatsapp_delete_done">Terminé</string>
+  <string name="whatsapp_detail_cache_result">%s libéré</string>
+  <string name="whatsapp_detail_sort_created">Trier par date</string>
+  <string name="whatsapp_file_recv">Reçu</string>
+  <string name="whatsapp_file_send">Envoyé</string>
   <string name="whatsapp_file_show_order">"Aujourd'hui"</string>
   <string name="whatsapp_function_summery">Effacer les pièces jointes WhatsApp</string>
   <string name="whatsapp_function_title">Nettoyeur WhatsApp</string>

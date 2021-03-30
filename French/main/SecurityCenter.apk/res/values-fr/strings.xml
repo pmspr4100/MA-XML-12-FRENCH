@@ -849,6 +849,13 @@ Vous ne perdrez aucune donnée d'application."</string>
     <string name="cd_back">Retour</string>
     <string name="cellular_data_auto_check">Vérifier automatiquement</string>
     <string name="cellular_package_daily_input">Entrer</string>
+    <string name="cetus_invisible_mode">Incognito</string>
+    <string name="cetus_invisible_mode_description_card">Suspendre les permissions</string>
+    <string name="cetus_invisible_mode_description_switch">"Activez pour suspendre les permissions relatives au microphone, au capteur photo et à la localisation pour toutes les applications"</string>
+    <string name="cetus_invisible_mode_warn_all">"Vous êtes incognito. Les permissions relatives au microphone, au capteur photo et à la localisation sont suspendues."</string>
+    <string name="cetus_invisible_mode_warn_camera">"Vous êtes incognito. Les permissions du capteur photo sont suspendues."</string>
+    <string name="cetus_invisible_mode_warn_location">"Vous êtes incognito. Les permissions de la localisation photo sont suspendues."</string>
+    <string name="cetus_invisible_mode_warn_record_audio">"Vous êtes incognito. Les permissions du microphone sont suspendues"</string>
     <string name="charger_detect_button_ok">Compris</string>
     <string name="charger_detect_info1">Vérifiez si le chargeur et le câble sont correctement branchés.</string>
     <string name="charger_detect_info2">La charge peut aussi ralentir si vous utilisez des chargeurs ou des câbles non standards ou anciens.</string>
@@ -2751,10 +2758,15 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
     <string name="power_center_low_battery_summary_default">Changer de profil quand la batterie est faible</string>
     <string name="power_center_low_battery_summary_dynamic">À %1$d%%, activer le profil %2$s</string>
     <string name="power_center_low_battery_title">Économiser la batterie</string>
+    <string name="power_center_night_charge_noti_subtitle">La batterie sera complètement chargée par %s</string>
+    <string name="power_center_night_charge_noti_title">La charge optimisée est activée</string>
+    <string name="power_center_night_charge_protection">Charge optimisée</string>
+    <string name="power_center_night_charge_protection_setting">"Afficher plus d'options dans Sécurité > Batterie."</string>
+    <string name="power_center_night_charge_protection_summary">Pour réduire le vieillissement de la batterie, MIUI apprend de votre routine de charge quotidienne afin de réduire la charge continue inutile</string>
+    <string name="power_center_one_key_save">Optimiser</string>
     <string name="power_center_on_time_summary_default">"Changer le profil de gestion d'énergie à l'heure programmée"</string>
     <string name="power_center_on_time_summary_dynamic">Entre %1$s - %2$s, activer le profil %3$s</string>
     <string name="power_center_on_time_title">Planifier le changement de profil</string>
-    <string name="power_center_one_key_save">Optimiser</string>
     <string name="power_center_ontime_boot">Horaire de démarrage</string>
     <string name="power_center_ontime_shutdown">"Horaire d'extinction"</string>
     <string name="power_center_power_save_summary_text">"Augmenter le temps restant jusqu'à %1$d h %2$d m"</string>
@@ -2803,6 +2815,8 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
     <string name="power_consume_total_hardware">Matériel: %1$d%%</string>
     <string name="power_consume_total_software">Applications: %1$d%%</string>
     <string name="power_customize_giveup_change">Annuler les modifications ?</string>
+    <string name="power_dailog_night_charge_protection_done">Compris</string>
+    <string name="power_dailog_night_charge_protection_summary">Il semble que votre batterie soit complètement chargée la plupart du temps, ce qui peut accélérer son vieillissement. MIUI a activé la charge optimisée pour vous éviter de tels problèmes.</string>
     <string name="power_customizer_cancel">Annuler</string>
     <string name="power_customizer_delete">Supprimer</string>
     <string name="power_customizer_my_mode">Personnaliser</string>
@@ -3905,20 +3919,26 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
     <string name="storage_available_total_size">%1$s out of %2$s available</string>
     <string name="storage_available_total_size1">Occupé: %1$s | Total: %2$s</string>
     <string name="storage_category_title">Options supplémentaires</string>
+    <string name="storage_clear_available_total_size">%1$s/%3$s occupé | %2$s disponible</string>
+    <string name="storage_clear_cache">Libérer %s</string>
+    <string name="storage_clear_cache_deep">"Libérer de l'espace de stockage"</string>
+    <string name="storage_clear_cache_large">Libérer %s</string>
+    <string name="storage_clear_more_tools">"Plus d'outils de nettoyage"</string>
+    <string name="storage_clear_video">Vider le cache vidéo</string>
     <string name="storage_deepclean_entry">Nettoyage en profondeur</string>
-    <string name="storage_dialog_unmountable">"This ^1 is corrupted.
+    <string name="storage_dialog_unmountable">"Ce ^1 est corrompu.
 
-To use this ^1, you have to set it up first."</string>
-    <string name="storage_dialog_unmounted">"This ^1 is safely removed, but still available.
+Pour utiliser ce ^1, vous devez d'abord le configurer."</string>
+    <string name="storage_dialog_unmounted">"Ce ^1 est supprimé en toute sécurité, mais toujours disponible.
 
-To use this ^1, you have to mount it first."</string>
-    <string name="storage_dialog_unsupported">"This device doesn't support this ^1.
+Pour utiliser ce ^1, vous devez d'abord le monter."</string>
+    <string name="storage_dialog_unsupported">"Cet appareil ne prend pas en charge ce ^1.
 
-To use this ^1 with this device, you have to set it up first."</string>
-    <string name="storage_format_failure">"Couldn't format %1$s"</string>
-    <string name="storage_format_success">Formatted %1$s successfully</string>
-    <string name="storage_item_apk_name">APKs</string>
-    <string name="storage_item_appdata_name">Apps et données</string>
+Pour utiliser ce ^1 avec cet appareil, vous devez d'abord le configurer."</string>
+    <string name="storage_format_failure">Impossible de formater %1$s</string>
+    <string name="storage_format_success">%1$s formaté avec succès</string>
+    <string name="storage_item_apk_name">APK</string>
+    <string name="storage_item_appdata_name">Applications et données</string>
     <string name="storage_item_audio_name">Audio</string>
     <string name="storage_item_clean_name">"Libérer de l'espace"</string>
     <string name="storage_item_doc_name">Documents</string>
