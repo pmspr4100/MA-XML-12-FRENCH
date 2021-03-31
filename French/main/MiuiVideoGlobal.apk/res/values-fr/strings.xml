@@ -270,7 +270,7 @@ Envoyez ce code au superviseur."</string>
   <string name="dialog_privacy_revoke_ok">Retrait</string>
   <string name="dialog_privacy_revoke_success">Retiré avec succès</string>
   <string name="dialog_privacy_revoking">Retrait du consentement…</string>
-  <string name="dialog_privacy_title">Permissions</string>
+  <string name="dialog_privacy_title">Termes et conditions</string>
   <string name="dialog_revoke_privacy_info_new2">"Une fois l'autorisation révoquée, l'application cessera de collecter des données et toutes les données associées seront supprimées de nos serveurs. Cela pourrait rendre l'application pratiquement inutilisable. Révoquer l'autorisation de toute façon ?"</string>
   <string name="dialog_revoke_privacy_title">Révoquer une autorisation</string>
   <string name="disagree">Refuser</string>
@@ -1119,6 +1119,7 @@ Augmenter la sécurité de votre compte."</string>
   <string name="screenrecord_nosupport_record">"L'enregistreur d'écran n'est pas actuellement pris en charge sur cet appareil."</string>
   <string name="search">Rechercher</string>
   <string name="search_bar_hint">Recherche de vidéos</string>
+  <string name="search_bar_video_download_hint">"Cherchez ou entrez l'URL"</string>
   <string name="search_choose_language">Choisir la langue</string>
   <string name="search_choose_voice_language">Sélectionnez la langue utilisée pour la recherche vocale</string>
   <string name="search_hot_words">Populaire</string>
@@ -1279,7 +1280,19 @@ Augmenter la sécurité de votre compte."</string>
   <string name="v_txt_login">Connectez-vous pour synchroniser vos favoris</string>
   <string name="v_update">Mettre à jour</string>
   <string name="video_already_download_tip">Vous avez déjà téléchargé ce contenu</string>
+  <string name="video_download_btn">Télécharger</string>
   <string name="video_download_fail">Téléchargement de la vidéo impossible</string>
+  <string name="video_download_fail_hint">Téléchargement impossible</string>
+  <string name="video_download_floating_guide">Téléchargez des vidéos gratuitement</string>
+  <string name="video_download_forbidden">Impossible de télécharger à partir de ce site Web</string>
+  <string name="video_download_network_error">Erreur réseau</string>
+  <string name="video_download_play_video_guide">Commencez par lire la vidéo.</string>
+  <string name="video_download_play_video_guide2">Appuyez ensuite sur le bouton pour télécharger.</string>
+  <string name="video_download_site_search">URL</string>
+  <string name="video_download_source">Téléchargement web</string>
+  <string name="video_download_start">Téléchargement…</string>
+  <string name="video_download_storage_error">Espace de stockage insuffisant</string>
+  <string name="video_downloading">Téléchargement…</string>
   <string name="video_live_over">Cette session est terminée</string>
   <string name="video_noyet_download_tip">Cette vidéo est toujours en cours de téléchargement</string>
   <string name="video_offline">"Ce produit n'est plus disponible"</string>
