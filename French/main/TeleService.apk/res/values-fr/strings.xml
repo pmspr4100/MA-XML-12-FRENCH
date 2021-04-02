@@ -378,6 +378,8 @@ Bluetooth"</string>
     <string name="call_barring_sum">Paramètres de limitation des appels vocaux</string>
     <string name="call_category">Appel</string>
     <string name="call_description_recording">Enregistrement…</string>
+    <string name="call_fold_setting">Pliage et dépliage</string>
+    <string name="call_fold_setting_title">Pliage et dépliage</string>
     <string name="call_forward_option">"Transfert d'appel"</string>
     <string name="call_forwarding_number_hint">Transférer les appels vers</string>
     <string name="call_forwarding_settings">"Paramètres de transfert d'appel"</string>
@@ -841,6 +843,8 @@ Bluetooth"</string>
     <string name="fiveg_upperlayer_indication1">Upper Layer Indication Status:</string>
     <string name="flash_when_ring_summary">Utilisez le flash pour notifier les appels entrants</string>
     <string name="flash_when_ring_title">"Flash lors d'un appel"</string>
+    <string name="fold_answer_pref_summary">"Pliez l'appareil pour accepter automatiquement un appel entrant"</string>
+    <string name="fold_answer_pref_title">Plier pour accepter les appels</string>
     <string name="forbidden_network">(Limité)</string>
     <string name="force_allow_on_external">Forcer disponibilité stockage externe pour applis</string>
     <string name="force_allow_on_external_summary">"Rend possible l'enregistrement de toute application sur un espace de stockage externe, indépendamment des valeurs du fichier manifeste"</string>
@@ -2078,6 +2082,10 @@ Prochaine période dans %2$d jours (%3$s)"</string>
     <string name="turnover_mute_summary">"Lorsque le téléphone est sur une surface plate avec l'écran orienté vers le haut, retournez-le pour désactiver la sonnerie, désactivez les vibrations et arrêtez le clignotement du voyant de notification."</string>
     <string name="turnover_mute_title">Retourner pour mettre en silence</string>
     <string name="undefined">Aucun</string>
+    <string name="unfold_close_camera_pref_summary">"Dépliez l'appareil pendant un appel vidéo pour éteindre la caméra"</string>
+    <string name="unfold_close_camera_pref_title">Déplier pour éteindre la caméra</string>
+    <string name="unfold_speaker_pref_summary">"Dépliez l'appareil pendant un appel pour activer le haut-parleur"</string>
+    <string name="unfold_speaker_pref_title">Déplier pour utiliser le haut-parleur</string>
     <string name="unknown">Inconnu</string>
     <string name="unlock_failed">Échec de la demande de déblocage du réseau.</string>
     <string name="unlock_success">Le réseau a bien été débloqué.</string>
