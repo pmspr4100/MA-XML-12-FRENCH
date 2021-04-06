@@ -29,11 +29,14 @@
   <string name="abc_toolbar_collapse_description">Réduire</string>
   <string name="access_denied">Accès refusé</string>
   <string name="account_related">"Votre appareil est associé avec un Compte Mi existant(%s). Connectez-vous à internet pour vérifier l'appareil."</string>
+  <string name="actionbar_button_up_description">Retour</string>
   <string name="activate_find_device_success">"Localiser l'appareil a été désactivé."</string>
   <string name="activate_finddevice">"Connectez-vous à internet pour activer votre l'appareil"</string>
   <string name="activating">Activation…</string>
   <string name="add_short_cut">Ajouter</string>
   <string name="added_successfully">Ajouté avec succès !</string>
+  <string name="afternoon">Après-midi</string>
+  <string name="am">AM</string>
   <string name="antispam_sync">Paramètres du mode Ne pas déranger</string>
   <string name="app_name">Xiaomi Cloud</string>
   <string name="bad_authentication">Compte ou mot de passe non valide</string>
@@ -42,7 +45,9 @@
   <string name="calendar_sync">Calendrier</string>
   <string name="check_contact">Ajouter</string>
   <string name="choose_contact_title">Contacts</string>
+  <string name="clearable_edittext_clear_description">Effacer</string>
   <string name="click_to_enabled">Appuyez pour synchroniser.</string>
+  <string name="close">Fermer</string>
   <string name="close_shortcut">Fermer</string>
   <string name="cloud_find_device">"Localiser l'appareil"</string>
   <string name="cloud_find_device_off">Désactivé</string>
@@ -82,6 +87,8 @@
   <string name="data_merge_dialog_loading">Vérification des données…</string>
   <string name="data_merge_dialog_title">Fusionner des éléments</string>
   <string name="data_protection_title">Protéger les données</string>
+  <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
+  <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>
   <string name="detect_sim_card">Détection de la carte SIM</string>
   <string name="device_activation_card_cannot_get_yet">"Impossible d'obtenir les informations. Réessayez dans 3 à 5 jours."</string>
   <string name="device_activation_card_description">"La première activation est enregistrée lorsqu'un appareil se connecte au réseau (y compris, mais sans s'y limiter, les réseaux Wi-Fi et mobiles) pour la première fois. L'enregistrement de la première activation prend normalement un certain temps, il est donc préférable d'attendre 3 à 5 jours après la connexion au réseau avant de vérifier l'état d'activation.&lt;br>&lt;br>L'activation de l'appareil est le facteur principal pour déterminer la période de validité de notre extension de garantie. Consultez notre &lt;a href=%1$s>Politique de retour, d'échange et de réparation&lt;/a> pour plus de détails.&lt;br>&lt;br>N'hésitez pas à appeler notre hotline de support client si vous avez des questions : 400-100-5678."</string>
@@ -93,10 +100,13 @@
   <string name="device_activation_page_title">"Activation de l'appareil"</string>
   <string name="disable_find_device_error">Erreur de désactivation: %1$s</string>
   <string name="do_not_merge">Ne pas fusionné</string>
+  <string name="early_morning">Matin</string>
   <string name="enable_find_device_error">"Erreur d'activation: %1$s"</string>
   <string name="enable_find_device_success">"Localiser l'appareil est activé."</string>
   <string name="enable_micloud">Connectez-vous pour utiliser Xiaomi Cloud</string>
   <string name="enable_sync_setting_title">Configuration des services Cloud…</string>
+  <string name="eras_ad">CE</string>
+  <string name="eras_bc">BCE</string>
   <string name="error_canceled">Annulé</string>
   <string name="error_credential_fail">Erreur de passcode</string>
   <string name="error_data_in_transfer">La synchronisation se terminera dans %s heures.</string>
@@ -116,6 +126,7 @@
   <string name="error_token_expired">Connectez-vous à nouveau à votre compte Mi</string>
   <string name="error_unknown">Échec de connexion</string>
   <string name="error_unsupported">"Cette fonctionnalité n'est pas prise en charge sur cet appareil"</string>
+  <string name="evening">Après-midi</string>
   <string name="expand_button_title">Avancé</string>
   <string name="feedback_custom_hint">"Décrivez les problèmes que vous avez rencontrés ici. Si vous donnez des suggestions, nous apprécierions plus de détails !"</string>
   <string name="find_device">"Localiser l'appareil"</string>
@@ -131,8 +142,18 @@
   <string name="find_device_status_title_phone">Find device</string>
   <string name="finddevice_miservice_notification_content">Verrouillez votre appareil à distance en cas de perte</string>
   <string name="finddevice_miservice_notification_title">"Activer localiser l'appareil"</string>
+  <string name="fmt_date_long_month_day">d MMMM</string>
+  <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
+  <string name="fmt_date_numeric_month_day">dd/MM</string>
+  <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+  <string name="fmt_date_short_month_day">d MMM</string>
+  <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
   <string name="forget_password">Mot de passe oublié</string>
+  <string name="friday">Vendredi</string>
+  <string name="friday_short">Ven</string>
+  <string name="friday_shortest">Ven</string>
   <string name="help_and_feedback">Aide et commentaires</string>
+  <string name="hybrid_provider">Fourni par %1$s</string>
   <string name="i_know">OK</string>
   <string name="input_password_hint">Saisir le mot de passe</string>
   <string name="internet_access_dspt">Cette application doit se connecter à internet pour fonctionner normalement.</string>
@@ -463,6 +484,7 @@ Localisez et verrouillez votre appareil en cas de perte. "</string>
   <string name="micloud_wipe_data_confirm_title">Certains éléments des applications suivantes sont synchronisés avec Xiaomi Cloud. Vous pouvez les supprimer de cet appareil tout en les conservant dans le cloud.</string>
   <string name="micloud_wipe_data_remove">Retirer</string>
   <string name="micloud_wipe_data_retain">Conserver</string>
+  <string name="midnight">Nuit</string>
   <string name="midrive_guide_btn_install">Install Mi Drive</string>
   <string name="midrive_guide_btn_installed">Open Mi Drive</string>
   <string name="midrive_guide_btn_installing">Installing…</string>
@@ -472,6 +494,20 @@ Localisez et verrouillez votre appareil en cas de perte. "</string>
   <string name="midrive_guide2_title">Fast downloads</string>
   <string name="midrive_guide3_desc">Use Mi Drive on mobile devices, computers, and in browsers.</string>
   <string name="midrive_guide3_title">Works everywhere</string>
+  <string name="miuix_appcompat_action_mode_deselect_all">Désélectionner</string>
+  <string name="miuix_appcompat_action_mode_select_all">Tout sélectionner</string>
+  <string name="miuix_appcompat_action_mode_title_empty">Sélectionner des éléments</string>
+  <string name="miuix_appcompat_actionbar_immersion_button_more_description">Plus</string>
+  <string name="miuix_appcompat_cancel_description">Annuler</string>
+  <string name="miuix_appcompat_confirm_description">Confirmer</string>
+  <string name="miuix_appcompat_delete_description">Supprimer</string>
+  <string name="miuix_appcompat_deselect_all">Désélectionner</string>
+  <string name="miuix_appcompat_deselect_all_description">Tout désélectionner</string>
+  <string name="miuix_appcompat_search_action_mode_cancel">Annuler</string>
+  <string name="miuix_appcompat_search_input_description">Chercher</string>
+  <string name="miuix_appcompat_select_all">Tout sélectionner</string>
+  <string name="miuix_appcompat_select_all_description">Tout sélectionner</string>
+  <string name="miuix_appcompat_select_item">Sélectionner des éléments</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez vers le bas pour actualiser</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualisation…</string>
@@ -480,6 +516,47 @@ Localisez et verrouillez votre appareil en cas de perte. "</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">"C'est tout pour le moment"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chargement…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Impossible de charger les éléments</string>
+  <string name="monday">Lundi</string>
+  <string name="monday_short">Lun</string>
+  <string name="monday_shortest">Lun</string>
+  <string name="month_april">Avril</string>
+  <string name="month_april_short">Avr</string>
+  <string name="month_april_shortest">Avr</string>
+  <string name="month_august">Août</string>
+  <string name="month_august_short">Aoû</string>
+  <string name="month_august_shortest">Aoû</string>
+  <string name="month_december">Décembre</string>
+  <string name="month_december_short">Déc</string>
+  <string name="month_december_shortest">Déc</string>
+  <string name="month_february">Février</string>
+  <string name="month_february_short">Fév</string>
+  <string name="month_february_shortest">Fév</string>
+  <string name="month_january">Janvier</string>
+  <string name="month_january_short">Jan</string>
+  <string name="month_january_shortest">Jan</string>
+  <string name="month_july">Juillet</string>
+  <string name="month_july_short">Jul</string>
+  <string name="month_july_shortest">Jul</string>
+  <string name="month_june">Juin</string>
+  <string name="month_june_short">Jun</string>
+  <string name="month_june_shortest">Jun</string>
+  <string name="month_march">Mars</string>
+  <string name="month_march_short">Mar</string>
+  <string name="month_march_shortest">Mar</string>
+  <string name="month_may">Mai</string>
+  <string name="month_may_short">Mai</string>
+  <string name="month_may_shortest">Mai</string>
+  <string name="month_november">Novembre</string>
+  <string name="month_november_short">Nov</string>
+  <string name="month_november_shortest">Nov</string>
+  <string name="month_october">Octobre</string>
+  <string name="month_october_short">Oct</string>
+  <string name="month_october_shortest">Oct</string>
+  <string name="month_september">Septembre</string>
+  <string name="month_september_short">Sep</string>
+  <string name="month_september_shortest">Sep</string>
+  <string name="more">Plus</string>
+  <string name="morning">Matin</string>
   <string name="mx_dspt">Mi Message</string>
   <string name="mx_dspt_provision">"Messages Mi vous permet d'envoyer des messages aux autres appareils MIUI sans encourrir aucun frais lorsque vous êtes connecté au Wi-Fi.
 
@@ -498,7 +575,10 @@ Cette fonctionnalité crypte et envoie l'ID de votre appareil aux serveurs de Mi
   <string name="mx_sub_dspt_provision">Mi Message</string>
   <string name="mx_sub_dspt_provision_with_voip">Appel internet</string>
   <string name="mx_voip_dspt">Mi Voix</string>
+  <string name="night">Soirée</string>
+    <string name="no_network">Connexion au réseau impossible</string>
   <string name="no_sim">Impossible de trouver la carte SIM</string>
+  <string name="noon">Midi</string>
   <string name="not_set">Non défini</string>
   <string name="notification_reinstall_key_text">Vérifiez votre identité et réessayez</string>
   <string name="notification_sync_fail_title">Synchronisation impossible</string>
@@ -510,6 +590,7 @@ Cette fonctionnalité crypte et envoie l'ID de votre appareil aux serveurs de Mi
   <string name="picker_list_empty">Aucun contact ici</string>
   <string name="picker_search_empty">Impossible de trouver des contacts</string>
   <string name="picker_search_hint">Recherche</string>
+  <string name="pm">PM</string>
   <string name="power_off_locate_summary">"Rapportez les informations de localisation en appuyant longtemps sur le bouton d'alimentation.
 Les informations de localisation peuvent ne pas être transmises si la connexion réseau est faible."</string>
   <string name="power_off_locate_title">"Rapportez la localisation avant d'éteindre"</string>
@@ -534,12 +615,12 @@ Les informations de localisation peuvent ne pas être transmises si la connexion
   <string name="privacy_doc_cloudservice_china_with_charge_hint">"Bienvenue dans les services Xiaomi Cloud ! Vous pouvez utiliser Xiaomi Cloud pour synchroniser vos messages, l'historique des appels, les contacts, les notes, les paramètres du navigateur, les chansons, les photos et les vidéos, les paramètres Wi-Fi, les enregistrements, la disposition de l'écran d'accueil, les applications, les événements du calendrier, les éléments de la liste de blocage et le coffre-fort d'applications sur tous des appareils connectés. Accédez aux éléments que vous synchronisez à partir de n'importe quel navigateur sur &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />Pour activer ces services, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS locaux payants&lt;/b>&lt;/font> seront envoyés. Lorsque vous changez de carte SIM, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS locaux payants&lt;/b>&lt;/font> seront envoyés automatiquement pour réactivation.&lt;br/>Tous les frais de SMS générés par les actions susmentionnées seront collectés par votre opérateur. Xiaomi ne vous facturera pas ces messages.&lt;br />&lt;br />Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité applicables.&lt;br />Pour pouvoir fonctionner normalement, ces services doivent se connecter à Internet et nécessitent les autorisations suivantes afin de collecter vos informations personnelles !:&lt;br />• Calendrier :&lt;br />Pour synchroniser les événements&lt;br />• Accès aux SMS :&lt;br />Pour synchroniser les messages&lt;br />• Accès aux MMS :&lt;br />Pour synchroniser les messages&lt;br />• Accès aux contacts :&lt;br />Pour synchroniser les contacts&lt;br />• Modification des contacts :&lt;br />Pour synchroniser les contacts&lt;br />• Stockage :&lt;br />Pour enregistrer des éléments sur votre appareil (par exemple des images, des vidéos, des chansons)&lt;br />Si vous n'acceptez pas d'accorder de telles autorisations ou de partager et télécharger vos informations personnelles, vous ne pourrez pas utiliser ces services. Vous pouvez choisir de désinstaller cette application, de vous déconnecter ou de restreindre les autorisations dans les paramètres dans de tels cas.&lt;br />Lisez et acceptez notre &lt;a href=%2$s>&lt;u>Accord de l'utilisateur&lt;/u>&lt;/a> et notre &lt;a href=%3$s>&lt;u>Politique de confidentialité&lt;/u>&lt;/a> avant d'utiliser nos services.&lt;br />"</string>
   <string name="privacy_doc_finddevice_pad">"Bienvenue sur Trouver un l'appareil ! Vous pouvez utiliser ce service pour localiser, verrouiller ou effacer des données sur votre appareil en cas de perte. Tu peux aller sur &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; pour le localiser, le verrouiller ou le réinitialiser.&lt;br /&gt;&lt;br /&gt;Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité applicables.&lt;br /&gt;Pour pouvoir fonctionner normalement, ce service doit se connecter à Internet et nécessite les autorisations suivantes afin de collecter vos informations personnelles:&lt;br /&gt;• Accès aux informations sur l'appareil:&lt;br /&gt;Pour identifier votre appareil&lt;br /&gt;• Localisation:&lt;br /&gt;Pour localiser votre appareil et passer en mode perdu&lt;br /&gt;Si vous n'acceptez pas d'accorder de telles autorisations ou de partager et de télécharger vos informations personnelles, vous ne pourrez pas utiliser ce service. Vous pouvez choisir de désinstaller cette application, de vous déconnecter ou de restreindre les permissions dans les paramètres dans de tels cas.&lt;br /&gt;Lisez et acceptez nos &lt;a href=%1$s&gt;&lt;u&gt;Accord de l'utilisateur&lt;/u&gt;&lt;/a&gt; et &lt;a href=%2$s&gt;&lt;u&gt;Politique de confidentialité&lt;/u&gt;&lt;/a&gt; avant d'utiliser l'appareil de recherche.&lt;br /&gt;"</string>
   <string name="privacy_doc_finddevice_phone">"Bienvenue sur Trouver un l'appareil ! Vous pouvez utiliser ce service pour localiser, verrouiller ou effacer des données sur votre appareil en cas de perte. Tu peux aller sur &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; pour le localiser, le verrouiller ou le réinitialiser.&lt;br /&gt;&lt;br /&gt;Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité applicables.&lt;br /&gt;Pour pouvoir fonctionner normalement, ce service doit se connecter à Internet et nécessite les autorisations suivantes afin de collecter vos informations personnelles:&lt;br /&gt;• Accès aux informations sur l'appareil:&lt;br /&gt;Pour identifier votre appareil&lt;br /&gt;• Localisation:&lt;br /&gt;Pour localiser votre appareil et passer en mode perdu&lt;br /&gt;Si vous n'acceptez pas d'accorder de telles autorisations ou de partager et de télécharger vos informations personnelles, vous ne pourrez pas utiliser ce service. Vous pouvez choisir de désinstaller cette application, de vous déconnecter ou de restreindre les permissions dans les paramètres dans de tels cas.&lt;br /&gt;Lisez et acceptez nos &lt;a href=%1$s&gt;&lt;u&gt;Accord de l'utilisateur&lt;/u&gt;&lt;/a&gt; et &lt;a href=%2$s&gt;&lt;u&gt;Politique de confidentialité&lt;/u&gt;&lt;/a&gt; avant d'utiliser l'appareil de recherche.&lt;br /&gt;"</string>
-  <string name="privacy_doc_finddevice_with_telephony_feature_pad_inter_with_charge_hint">"Bienvenue dans Trouver un appareil ! Vous pouvez utiliser ce service pour localiser, verrouiller ou effacer des données sur votre appareil en cas de perte. Visiter &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> vous permet de le localiser, de le verrouiller ou de le réinitialiser.&lt;br />&lt;br />&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS internationaux payants&lt;/b>&lt;/font>  &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS internationaux payants&lt;/b>&lt;/font> seront envoyés automatiquement pour réactivation.&lt;br/>Tous les frais de SMS générés par les actions susmentionnées seront collectés par votre opérateur. Xiaomi ne vous facturera pas ces messages.&lt;br/>&lt;br/>Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité en vigueur.&lt;br />Pour pouvoir fonctionner normalement, ce service doit se connecter à Internet et disposer des autorisations suivantes afin de collecter vos informations personnelles :&lt;br />• Accéder aux informations sur l'appareil :&lt;br />Pour identifier votre appareil&lt;br />• Localisation :&lt;br />Pour localiser votre appareil et passer en mode perdu&lt;br />Si vous n'acceptez pas d'accorder de telles autorisations ou de partager et télécharger vos informations personnelles, vous ne pourrez pas utiliser ce service. Vous pouvez choisir de désinstaller cette application, de vous déconnecter ou de restreindre les autorisations dans les paramètres dans de tels cas.&lt;br />Lisez et acceptez notre &lt;a href=%1$s>&lt;u>Accord de l'utilisateur&lt;/u>&lt;/a> et notre &lt;a href=%2$s>&lt;u>Politique de confidentialité&lt;/u>&lt;/a> avant d'utiliser Xiaomi Cloud&lt;/u>&lt;/a>.&lt;br />"</string>
-  <string name="privacy_doc_finddevice_with_telephony_feature_pad_with_common_charge_hint">"Bienvenue dans Trouver un appareil ! Vous pouvez utiliser ce service pour localiser, verrouiller ou effacer des données sur votre appareil en cas de perte. Visiter &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> vous permet de le localiser, de le verrouiller ou de le réinitialiser.&lt;br />&lt;br />&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS payants&lt;/b>&lt;/font> seront envoyés automatiquement pour activer ce service. Lorsque vous changez de carte SIM, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS payants&lt;/b>&lt;/font> seront envoyés automatiquement pour réactivation.&lt;br/>Tous les frais de SMS générés par les actions susmentionnées seront collectés par votre opérateur. Xiaomi ne vous facturera pas ces messages.&lt;br/>&lt;br/>Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité en vigueur.&lt;br />Pour pouvoir fonctionner normalement, ce service doit se connecter à Internet et disposer des autorisations suivantes afin de collecter vos informations personnelles :&lt;br />• Accéder aux informations sur l'appareil :&lt;br />Pour identifier votre appareil&lt;br />• Localisation :&lt;br />Pour localiser votre appareil et passer en mode perdu&lt;br />Si vous n'acceptez pas d'accorder de telles autorisations ou de partager et télécharger vos informations personnelles, vous ne pourrez pas utiliser ce service. Vous pouvez choisir de désinstaller cette application, de vous déconnecter ou de restreindre les autorisations dans les paramètres dans de tels cas.&lt;br />Lisez et acceptez notre &lt;a href=%1$s>&lt;u>Accord de l'utilisateur&lt;/u>&lt;/a> et notre &lt;a href=%2$s>&lt;u>Politique de confidentialité&lt;/u>&lt;/a> avant d'utiliser Xiaomi Cloud&lt;/u>&lt;/a>.&lt;br />"</string>
-  <string name="privacy_doc_finddevice_with_telephony_feature_pad_with_domestic_charge_hint">"Bienvenue dans Trouver un appareil ! Vous pouvez utiliser ce service pour localiser, verrouiller ou effacer des données sur votre appareil en cas de perte. Visiter &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> vous permet de le localiser, de le verrouiller ou de le réinitialiser.&lt;br />&lt;br />&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic SMS payants&lt;/b>&lt;/font> seront envoyés automatiquement pour activer ce service. Lorsque vous changez de carte SIM, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS locaux payants&lt;/b>&lt;/font> seront envoyés automatiquement pour réactivation.&lt;br/>Tous les frais de SMS générés par les actions susmentionnées seront collectés par votre opérateur. Xiaomi ne vous facturera pas ces messages.&lt;br/>&lt;br/>Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité en vigueur.&lt;br />Pour pouvoir fonctionner normalement, ce service doit se connecter à Internet et disposer des autorisations suivantes afin de collecter vos informations personnelles :&lt;br />• Accéder aux informations sur l'appareil :&lt;br />Pour identifier votre appareil&lt;br />• Localisation :&lt;br />Pour localiser votre appareil et passer en mode perdu&lt;br />Si vous n'acceptez pas d'accorder de telles autorisations ou de partager et télécharger vos informations personnelles, vous ne pourrez pas utiliser ce service. Vous pouvez choisir de désinstaller cette application, de vous déconnecter ou de restreindre les autorisations dans les paramètres dans de tels cas.&lt;br /> Lisez et acceptez notre &lt;a href=%1$s>&lt;u>Accord de l'utilisateur&lt;/u>&lt;/a> et notre &lt;a href=%2$s>&lt;u>Politique de confidentialité&lt;/u>&lt;/a> avant d'utiliser Xiaomi Cloud&lt;/u>&lt;/a>.&lt;br />"</string>
-  <string name="privacy_doc_finddevice_with_telephony_feature_phone_with_common_charge_hint">"Bienvenue dans Trouver un appareil ! Vous pouvez utiliser ce service pour localiser, verrouiller ou effacer des données sur votre appareil en cas de perte. Visiter &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> vous permet de le localiser, de le verrouiller ou de le réinitialiser.&lt;br />&lt;br />&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS payants&lt;/b>&lt;/font> seront envoyés automatiquement pour activer ce service. Lorsque vous changez de carte SIM, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS payants&lt;/b>&lt;/font> seront envoyés automatiquement pour réactivation.&lt;br/>Tous les frais de SMS générés par les actions susmentionnées seront collectés par votre opérateur. Xiaomi ne vous facturera pas ces messages.&lt;br/>&lt;br/>Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité en vigueur.&lt;br />Pour pouvoir fonctionner normalement, ce service doit se connecter à Internet et disposer des autorisations suivantes afin de collecter vos informations personnelles :&lt;br />• Accéder aux informations sur l'appareil :&lt;br />Pour identifier votre appareil&lt;br />• Localisation :&lt;br />Pour localiser votre appareil et passer en mode perdu&lt;br />Si vous n'acceptez pas d'accorder de telles autorisations ou de partager et télécharger vos informations personnelles, vous ne pourrez pas utiliser ce service. Vous pouvez choisir de désinstaller cette application, de vous déconnecter ou de restreindre les autorisations dans les paramètres dans de tels cas.&lt;br />Lisez et acceptez notre &lt;a href=%1$s>&lt;u>Accord de l'utilisateur&lt;/u>&lt;/a> et notre &lt;a href=%2$s>&lt;u>Politique de confidentialité&lt;/u>&lt;/a> before using our services&lt;/u>&lt;/a>.&lt;br />"</string>
-  <string name="privacy_doc_finddevice_with_telephony_feature_phone_with_domestic_charge_hint">"Bienvenue dans Trouver un appareil ! Vous pouvez utiliser ce service pour localiser, verrouiller ou effacer des données sur votre appareil en cas de perte. Visiter &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> vous permet de le localiser, de le verrouiller ou de le réinitialiser.&lt;br />&lt;br />&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS locaux payants&lt;/b>&lt;/font> seront envoyés automatiquement pour activer ce service. Lorsque vous changez de carte SIM, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS locaux payants&lt;/b>&lt;/font> seront envoyés automatiquement pour réactivation.&lt;br/>Tous les frais de SMS générés par les actions susmentionnées seront collectés par votre opérateur. Xiaomi ne vous facturera pas ces messages.&lt;br/>&lt;br/>Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité en vigueur.&lt;br />Pour pouvoir fonctionner normalement, ce service doit se connecter à Internet et disposer des autorisations suivantes afin de collecter vos informations personnelles :&lt;br />• Accéder aux informations sur l'appareil :&lt;br />Pour identifier votre appareil&lt;br />• Localisation :&lt;br />Pour localiser votre appareil et passer en mode perdu&lt;br />Si vous n'acceptez pas d'accorder de telles autorisations ou de partager et télécharger vos informations personnelles, vous ne pourrez pas utiliser ce service. Vous pouvez choisir de désinstaller cette application, de vous déconnecter ou de restreindre les autorisations dans les paramètres dans de tels cas.&lt;br />Lisez et acceptez notre &lt;a href=%1$s>&lt;u>Accord de l'utilisateur&lt;/u>&lt;/a> et notre &lt;a href=%2$s>&lt;u>Politique de confidentialité&lt;/u>&lt;/a> before using our services&lt;/u>&lt;/a>.&lt;br />"</string>
-  <string name="privacy_doc_finddevice_with_telephony_feature_phone_with_inter_charge_hint">"Bienvenue dans Trouver un apparei ! Vous pouvez utiliser ce service pour localiser, verrouiller ou effacer des données sur votre appareil en cas de perte. Visiter &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> vous permet de le localiser, de le verrouiller ou de le réinitialiser.&lt;br />&lt;br />&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS internationaux payants&lt;/b>&lt;/font> seront envoyés automatiquement pour activer ce service. Lorsque vous changez de carte SIM, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS internationaux payants&lt;/b>&lt;/font> seront envoyés automatiquement pour réactivation.&lt;br/>Tous les frais de SMS générés par les actions susmentionnées seront collectés par votre opérateur. Xiaomi ne vous facturera pas ces messages.&lt;br/>&lt;br/>Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité en vigueur.&lt;br />Pour pouvoir fonctionner normalement, ce service doit se connecter à Internet et disposer des autorisations suivantes afin de collecter vos informations personnelles :&lt;br />• Accéder aux informations sur l'appareil :&lt;br />Pour identifier votre appareil&lt;br />• Localisation :&lt;br />Pour localiser votre appareil et passer en mode perdu&lt;br />Si vous n'acceptez pas d'accorder de telles autorisations ou de partager et télécharger vos informations personnelles, vous ne pourrez pas utiliser ce service. Vous pouvez choisir de désinstaller cette application, de vous déconnecter ou de restreindre les autorisations dans les paramètres dans de tels cas.&lt;br />Lisez et acceptez notre &lt;a href=%1$s>&lt;u>Accord de l'utilisateur&lt;/u>&lt;/a> et notre &lt;a href=%2$s>&lt;u>Politique de confidentialité&lt;/u>&lt;/a> before using our services&lt;/u>&lt;/a>.&lt;br />"</string>
+  <string name="privacy_doc_finddevice_with_telephony_feature_pad_inter_with_charge_hint">"Bienvenue dans Trouver un appareil ! Vous pouvez utiliser ce service pour localiser, verrouiller ou effacer des données sur votre appareil en cas de perte. Visiter &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> vous permet de le localiser, le verrouiller ou le réinitialiser.&lt;br />&lt;br />&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS internationaux payants&lt;/b>&lt;/font> seront envoyés automatiquement pour activer ce service. Quand vous changez de carte SIM, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS internationaux payants&lt;/b>&lt;/font> seront envoyés automatiquement pour réactivation.&lt;br/>Tous les frais de SMS générés par les actions susmentionnées seront collectés par votre opérateur. Xiaomi ne vous facturera pas ces messages.&lt;br />&lt;br />Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité applicables.&lt;br />Pour pouvoir fonctionner normalement, ce service doit se connecter à Internet et exiger les autorisations suivantes afin de collecter vos informations personnelles :&lt;br />• Accéder aux informations sur l'appareil :&lt;br />Pour identifier votre appareil&lt;br />• Emplacement :&lt;br />Pour localiser votre appareil et passer en Mode perte&lt;br />Si vous n'acceptez pas d'accorder de telles autorisations ou de partager et télécharger vos informations personnelles, vous ne pourrez pas utiliser ce service. Vous pouvez choisir de désinstaller cette application, de vous déconnecter ou de restreindre les autorisations dans les Paramètres dans de tels cas.&lt;br />Lisez et acceptez notre &lt;a href=%1$s>&lt;u>Accord de l'utilisateur&lt;/u>&lt;/a> et notre &lt;a href=%2$s>&lt;u>Politique de confidentialité&lt;/u>&lt;/a> avant d'utiliser Xiaomi Cloud&lt;/u>&lt;/a>.&lt;br />"</string>
+  <string name="privacy_doc_finddevice_with_telephony_feature_pad_with_common_charge_hint">"Bienvenue dans Trouver un appareil ! Vous pouvez utiliser ce service pour localiser, verrouiller ou effacer des données sur votre appareil en cas de perte. Visiter &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> vous permet de le localiser, le verrouiller ou le réinitialiser.&lt;br />&lt;br />&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS payants&lt;/b>&lt;/font> seront envoyés automatiquement pour activer ce service. Quand vous changez de carte SIM, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS payants&lt;/b>&lt;/font> seront envoyés automatiquement pour réactivation.&lt;br/>Tous les frais de SMS générés par les actions susmentionnées seront collectés par votre opérateur. Xiaomi ne vous facturera pas ces messages.&lt;br />&lt;br />Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité applicables.&lt;br />Pour pouvoir fonctionner normalement, ce service doit se connecter à Internet et exiger les autorisations suivantes afin de collecter vos informations personnelles :&lt;br />• Accéder aux informations sur l'appareil :&lt;br />Pour identifier votre appareil&lt;br />• Emplacement :&lt;br />Pour localiser votre appareil et passer en Mode perte&lt;br />Si vous n'acceptez pas d'accorder de telles autorisations ou de partager et télécharger vos informations personnelles, vous ne pourrez pas utiliser ce service. Vous pouvez choisir de désinstaller cette application, de vous déconnecter ou de restreindre les autorisations dans les Paramètres dans de tels cas.&lt;br />Lisez et acceptez notre &lt;a href=%1$s>&lt;u>Accord de l'utilisateur&lt;/u>&lt;/a> et notre &lt;a href=%2$s>&lt;u>Politique de confidentialité&lt;/u>&lt;/a> avant d'utiliser Xiaomi Cloud&lt;/u>&lt;/a>.&lt;br />"</string>
+  <string name="privacy_doc_finddevice_with_telephony_feature_pad_with_domestic_charge_hint">"Bienvenue dans Trouver un appareil ! Vous pouvez utiliser ce service pour localiser, verrouiller ou effacer des données sur votre appareil en cas de perte. Visiter &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> vous permet de le localiser, le verrouiller ou le réinitialiser.&lt;br />&lt;br />&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS nationaux payants&lt;/b>&lt;/font> seront envoyés automatiquement pour activer ce service. Quand vous changez de carte SIM, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS nationaux payants&lt;/b>&lt;/font> seront envoyés automatiquement pour réactivation.&lt;br/>Tous les frais de SMS générés par les actions susmentionnées seront collectés par votre opérateur. Xiaomi ne vous facturera pas ces messages.&lt;br />&lt;br />Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité applicables.&lt;br />Pour pouvoir fonctionner normalement, ce service doit se connecter à Internet et exiger les autorisations suivantes afin de collecter vos informations personnelles :&lt;br />• Accéder aux informations sur l'appareil :&lt;br />Pour identifier votre appareil&lt;br />• Emplacement :&lt;br />Pour localiser votre appareil et passer en Mode perte&lt;br />Si vous n'acceptez pas d'accorder de telles autorisations ou de partager et télécharger vos informations personnelles, vous ne pourrez pas utiliser ce service. Vous pouvez choisir de désinstaller cette application, de vous déconnecter ou de restreindre les autorisations dans les Paramètres dans de tels cas.&lt;br />Lisez et acceptez notre &lt;a href=%1$s>&lt;u>Accord de l'utilisateur&lt;/u>&lt;/a> et notre &lt;a href=%2$s>&lt;u>Politique de confidentialité&lt;/u>&lt;/a> avant d'utiliser Xiaomi Cloud&lt;/u>&lt;/a>.&lt;br />"</string>
+  <string name="privacy_doc_finddevice_with_telephony_feature_phone_with_common_charge_hint">"Bienvenue dans Trouver un appareil ! Vous pouvez utiliser ce service pour localiser, verrouiller ou effacer des données sur votre appareil en cas de perte. Visiter &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> vous permet de le localiser, le verrouiller ou le réinitialiser.&lt;br />&lt;br />&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS payants&lt;/b>&lt;/font> seront envoyés automatiquement pour activer ce service. Quand vous changez de carte SIM, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS payants&lt;/b>&lt;/font> seront envoyés automatiquement pour réactivation.&lt;br/>Tous les frais de SMS générés par les actions susmentionnées seront collectés par votre opérateur. Xiaomi ne vous facturera pas ces messages.&lt;br />&lt;br />Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité applicables.&lt;br />Pour pouvoir fonctionner normalement, ce service doit se connecter à Internet et exiger les autorisations suivantes afin de collecter vos informations personnelles :&lt;br />• Accéder aux informations sur l'appareil :&lt;br />Pour identifier votre appareil&lt;br />• Emplacement :&lt;br />Pour localiser votre appareil et passer en Mode perte&lt;br />Si vous n'acceptez pas d'accorder de telles autorisations ou de partager et télécharger vos informations personnelles, vous ne pourrez pas utiliser ce service. Vous pouvez choisir de désinstaller cette application, de vous déconnecter ou de restreindre les autorisations dans les Paramètres dans de tels cas.&lt;br />Lisez et acceptez notre &lt;a href=%1$s>&lt;u>Accord de l'utilisateur&lt;/u>&lt;/a> et notre &lt;a href=%2$s>&lt;u>Politique de confidentialité&lt;/u>&lt;/a> avant d'utiliser nos services&lt;/u>&lt;/a>.&lt;br />"</string>
+  <string name="privacy_doc_finddevice_with_telephony_feature_phone_with_domestic_charge_hint">"Bienvenue dans Trouver un appareil ! Vous pouvez utiliser ce service pour localiser, verrouiller ou effacer des données sur votre appareil en cas de perte. Visiter &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> vous permet de le localiser, le verrouiller ou le réinitialiser.&lt;br />&lt;br />&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS nationaux payants&lt;/b>&lt;/font> seront envoyés automatiquement pour activer ce service. Quand vous changez de carte SIM, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS nationaux payants&lt;/b>&lt;/font> seront envoyés automatiquement pour réactivation.&lt;br/>Tous les frais de SMS générés par les actions susmentionnées seront collectés par votre opérateur. Xiaomi ne vous facturera pas ces messages.&lt;br />&lt;br />Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité applicables.&lt;br />Pour pouvoir fonctionner normalement, ce service doit se connecter à Internet et exiger les autorisations suivantes afin de collecter vos informations personnelles :&lt;br />• Accéder aux informations sur l'appareil :&lt;br />Pour identifier votre appareil&lt;br />• Emplacement :&lt;br />Pour localiser votre appareil et passer en Mode perte&lt;br />Si vous n'acceptez pas d'accorder de telles autorisations ou de partager et télécharger vos informations personnelles, vous ne pourrez pas utiliser ce service. Vous pouvez choisir de désinstaller cette application, de vous déconnecter ou de restreindre les autorisations dans les Paramètres dans de tels cas.&lt;br />Lisez et acceptez notre &lt;a href=%1$s>&lt;u>Accord de l'utilisateur&lt;/u>&lt;/a> et notre &lt;a href=%2$s>&lt;u>Politique de confidentialité&lt;/u>&lt;/a> avant d'utiliser nos services&lt;/u>&lt;/a>.&lt;br />"</string>
+  <string name="privacy_doc_finddevice_with_telephony_feature_phone_with_inter_charge_hint">"Bienvenue sdansur Trouver un appareil ! Vous pouvez utiliser ce service pour localiser, verrouiller ou effacer des données sur votre appareil en cas de perte. Visiter &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> vous permet de le localiser, le verrouiller ou le réinitialiser.&lt;br />&lt;br />&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS internationaux payants&lt;/b>&lt;/font> seront envoyés automatiquement pour activer ce service. Quand vous changez de carte SIM, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS internationaux payants&lt;/b>&lt;/font> seront envoyés automatiquement pour réactivation.&lt;br/>Tous les frais de SMS générés par les actions susmentionnées seront collectés par votre opérateur. Xiaomi ne vous facturera pas ces messages.&lt;br />&lt;br />Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité applicables.&lt;br />Pour pouvoir fonctionner normalement, ce service doit se connecter à Internet et exiger les autorisations suivantes afin de collecter vos informations personnelles :&lt;br />• Accéder aux informations sur l'appareil :&lt;br />Pour identifier votre appareil&lt;br />• Emplacement :&lt;br />Pour localiser votre appareil et passer en Mode perte&lt;br />Si vous n'acceptez pas d'accorder de telles autorisations ou de partager et télécharger vos informations personnelles, vous ne pourrez pas utiliser ce service. Vous pouvez choisir de désinstaller cette application, de vous déconnecter ou de restreindre les autorisations dans les Paramètres dans de tels cas.&lt;br />Lisez et acceptez notre &lt;a href=%1$s>&lt;u>Accord de l'utilisateur&lt;/u>&lt;/a> et notre &lt;a href=%2$s>&lt;u>Politique de confidentialité&lt;/u>&lt;/a> avant d'utiliser nos services&lt;/u>&lt;/a>.&lt;br />"</string>
   <string name="privacy_policy">Politique de confidentialité</string>
   <string name="provision_back">Retour</string>
   <string name="provision_next">Suivant</string>
@@ -557,6 +638,9 @@ Les informations de localisation peuvent ne pas être transmises si la connexion
   <string name="recommend_service_title">Services recommandés</string>
   <string name="retain_data_high_quality_photo_waring_message">Les images de haute qualité seront supprimées de Galerie après votre déconnexion. Les fichiers originaux correspondants seront toujours stockés dans le cloud. Vous pouvez également télécharger les fichiers originaux avant de vous déconnecter.</string>
   <string name="retain_data_high_quality_photo_waring_title">Les images de haute qualité ne seront pas disponibles</string>
+  <string name="saturday">Samedi</string>
+  <string name="saturday_short">Sam</string>
+  <string name="saturday_shortest">Sam</string>
   <string name="search_cloudbackup_pref">Sauvegarde cloud</string>
   <string name="search_cloudbackup_pref_desc">Activer/désactiver la sauvegarde cloud</string>
   <string name="search_cloudbackup_pref_key_words">sauvegarde cloud, sauvegarde cloud</string>
@@ -566,6 +650,7 @@ Les informations de localisation peuvent ne pas être transmises si la connexion
   <string name="search_finddevice_pref_key_words">localiserappareil, localiser un appareil</string>
   <string name="search_finddevice_pref_path">"Compte Mi/Xiaomi Cloud/Localiser l'appareil"</string>
   <string name="search_menu_title">Recherche</string>
+  <string name="send">Envoyer</string>
   <string name="share_cancel">Partage annulé</string>
   <string name="share_failed">Impossible de partager</string>
   <string name="share_location_app_name">Trouver</string>
@@ -596,6 +681,30 @@ Les informations de localisation peuvent ne pas être transmises si la connexion
   <string name="sina_share_success">Envoyé</string>
   <string name="sina_token_expired_warning">Le compte Weibo a expiré, ajoutez le compte à nouveau.</string>
   <string name="sina_token_invalid_warning">"Le compte Weibo n'est pas valide, ajoutez à nouveau le compte."</string>
+  <string name="solar_term_autumn_begins">"Début de l'automne"</string>
+  <string name="solar_term_autumn_equinox">"Équinoxe d'automne"</string>
+  <string name="solar_term_clear_and_bright">Pure lumière</string>
+  <string name="solar_term_cold_dews">Rosée froide</string>
+  <string name="solar_term_grain_buds">Petite plénitude</string>
+  <string name="solar_term_grain_in_ear">Grains en épis</string>
+  <string name="solar_term_grain_rain">Pluie pour les céréales</string>
+  <string name="solar_term_great_cold">Grand froid</string>
+  <string name="solar_term_great_heat">Grande canicule</string>
+  <string name="solar_term_heavy_snow">Grande neige</string>
+  <string name="solar_term_hoar_frost_falls">Descente du givre</string>
+  <string name="solar_term_insects_awaken">Éveil des insectes</string>
+  <string name="solar_term_light_snow">Petite neige</string>
+  <string name="solar_term_slight_cold">Petit froid</string>
+  <string name="solar_term_slight_heat">Petite canicule</string>
+  <string name="solar_term_spring_begins">Début du printemps</string>
+  <string name="solar_term_stopping_the_heat">Arrêt de la canicule</string>
+  <string name="solar_term_summer_begins">"Début de l'été"</string>
+  <string name="solar_term_summer_solstice">"Solstice d'été"</string>
+  <string name="solar_term_the_rains">Eau et pluie</string>
+  <string name="solar_term_vernal_equinox">Équinoxe de printemps</string>
+  <string name="solar_term_white_dews">Rosée blanche</string>
+  <string name="solar_term_winter_begins">"Début de l'hiver"</string>
+  <string name="solar_term_winter_solstice">"Solstice d'hiver"</string>
   <string name="soundrecorder_sync_only_in_wifi">Synchronisation en Wi-Fi uniquement</string>
   <string name="soundrecorder_sync_only_in_wifi_china">Synchronisation avec le WLAN uniquement</string>
   <string name="soundrecorder_sync_only_in_wifi_summary">"L'enregistreur n'utilisera pas de données cellulaires pour télécharger ou envoyer les enregistrements"</string>
@@ -619,6 +728,9 @@ Les informations de localisation peuvent ne pas être transmises si la connexion
   <string name="sub_sync_item_sms_summary">Synchroniser uniquement les messages contenant des photos, audio ou autres médias lorsque vous êtes connecté à un réseau Wi-Fi</string>
   <string name="sub_sync_item_sms_title_wifi_only">Synchro des MMS uniquement en Wi-Fi</string>
   <string name="sub_sync_item_sms_title_wifi_only_china">Synchro des MMS uniquement sur WLAN</string>
+  <string name="sunday">Dimanche</string>
+  <string name="sunday_short">Dim</string>
+  <string name="sunday_shortest">Dim</string>
   <string name="sync_detail_summary_master_sync_off">Synchronisation désactivé</string>
   <string name="sync_detail_summary_off">Synchronisation désactivé</string>
   <string name="sync_detail_text">Détails de la synchronisation</string>
@@ -659,11 +771,60 @@ Les informations de localisation peuvent ne pas être transmises si la connexion
   <string name="sync_sub_2_intl_sms">"2 SMS vers l'international peut être requis pour activer ce service. Votre opérateur vous facturera ces messages."</string>
   <string name="sync_sub_2_sms">2 messages SMS sortants peuvent être nécessaires pour activer ce service. Votre opérateur vous facturera ces messages.</string>
   <string name="system_busy_or_network_error">Une erreur est survenue. Attendez une minute ou deux et réessayez.</string>
+  <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
+  <string name="the_anti_aggression_day">Anti-Aggression Day</string>
+  <string name="the_arbor_day">Arbor Day</string>
+  <string name="the_armed_forces_day">Armed Forces Day</string>
+  <string name="the_armys_day">PLA Day</string>
+  <string name="the_childrens_day">"Children's Day"</string>
+  <string name="the_chinese_youth_day">Youth Day</string>
+  <string name="the_christmas_day">Christmas</string>
+  <string name="the_double_ninth_festival">Double Ninth Festival</string>
+  <string name="the_dragon_boat_festival">Dragon Boat Festival</string>
+  <string name="the_easter_day">Easter</string>
+  <string name="the_eve_of_the_spring_festival">Eve of Chinese New Year</string>
+  <string name="the_fifth_day">Fifth day of Chinese New Year</string>
+  <string name="the_fools_day">"April Fool's Day"</string>
+  <string name="the_forth_day">Fourth day of Chinese New Year</string>
+  <string name="the_hksar_establishment_day">Hong Kong SAR Establishment Day</string>
+  <string name="the_international_womens_day">"Women's Day"</string>
+  <string name="the_laba_festival">Laba Festival</string>
+  <string name="the_labour_day">Labor Day</string>
+  <string name="the_lantern_festival">Lantern Festival</string>
+  <string name="the_mid_autumn_festival">Mid-Autumn Festival</string>
+  <string name="the_national_day">National Day</string>
+  <string name="the_national_father_day">"Sun Yat-sen's Birthday"</string>
+  <string name="the_new_years_day">New Year</string>
+  <string name="the_night_of_sevens">Qixi Festival</string>
+  <string name="the_partys_day">CPC Day</string>
+  <string name="the_peace_day">Remembrance Day</string>
+  <string name="the_retrocession_day">Retrocession Day</string>
+  <string name="the_second_day">Second day of Chinese New Year</string>
+  <string name="the_seventh_day">Seventh day of Chinese New Year</string>
+  <string name="the_sixth_day">Sixth day of Chinese New Year</string>
+  <string name="the_spirit_festival">Ghost Festival</string>
+  <string name="the_spring_festival">Chinese New Year</string>
+  <string name="the_teachers_day">"Teachers' Day"</string>
+  <string name="the_third_day">Third day of Chinese New Year</string>
+  <string name="the_tw_childrens_day">"Children's Day"</string>
+  <string name="the_tw_youth_day">Youth Day</string>
+  <string name="the_united_nations_day">United Nations Day</string>
+  <string name="the_valentines_day">"Valentine's Day"</string>
+  <string name="the_water_lantern_festival">Water Lantern Festival</string>
+  <string name="thursday">Jeudi</string>
+  <string name="thursday_short">Jeu</string>
+  <string name="thursday_shortest">Jeu</string>
+  <string name="time_picker_dialog_title">"Réglage de l'heure"</string>
   <string name="tip_short_cut_added_success">Créé avec succès</string>
   <string name="tip_short_cut_already_added">Crée</string>
   <string name="title_back">Retour</string>
   <string name="title_reg">Créer un compte Mi</string>
+  <string name="today">"Aujourd'hui"</string>
+  <string name="tomorrow">Demain</string>
   <string name="trying_to_connect_to_network">Connexion au réseau…</string>
+  <string name="tuesday">Jeudi</string>
+  <string name="tuesday_short">Jeu</string>
+  <string name="tuesday_shortest">Jeu</string>
   <string name="user_agreement_content">"
 En utilisant ce service, vous acceptez %s."</string>
   <string name="user_agreement_link">"Conditions générales d'utilisation de Xiaomi Cloud"</string>
@@ -686,6 +847,12 @@ En utilisant ce service, vous acceptez %s."</string>
   <string name="warning_bar_title_network_unconnected">Impossible de se connecter au réseau</string>
   <string name="warning_bar_title_short_cut">"Ajouter un raccourci vers l'écran d'accueil pour Xiaomi Cloud ?"</string>
   <string name="warning_bar_title_sync_off">Synchroniser avec Xiaomi Cloud est désactivé</string>
+  <string name="web_sso_login_fail">Vous devez vous authentifier à nouveau</string>
+  <string name="web_sso_login_message">Connexion…</string>
+  <string name="webview_reload">Réessayez</string>
+  <string name="wednesday">Mercredi</string>
+  <string name="wednesday_short">Mer</string>
+  <string name="wednesday_shortest">Mer</string>
   <string name="wipe_data_dialog_button_check_sync">Vérifier si synchronisé</string>
   <string name="wipe_data_dialog_msg">Certains éléments %s ne sont pas synchronisés. Ils seront enregistrés sur votre appareil et ne seront pas supprimés.</string>
   <string name="wipe_data_dialog_msg_and_on">, et quelques autres éléments</string>
@@ -694,4 +861,5 @@ En utilisant ce service, vous acceptez %s."</string>
   <string name="wipe_secret_photo_dialog_title">Les photos masquées ne sont synchronisées</string>
   <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
   <string name="xiaomi_cloud_service_subtitle">Tous les éléments important dans un lieu</string>
+  <string name="yesterday">Hier</string>
 </resources>
