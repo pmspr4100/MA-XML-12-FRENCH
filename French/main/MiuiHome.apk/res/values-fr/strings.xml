@@ -437,6 +437,7 @@
   <string name="navigation_type_full_screen">Gestes</string>
   <string name="navigation_type_title">Navigation système</string>
   <string name="navigation_type_virtual_key">Boutons</string>
+  <string name="network_error">Connexion réseau impossible. Réessayez.</string>
   <string name="no_detail_page">Aucune page de détails</string>
   <string name="no_space_toast">Espace insuffisant</string>
   <string name="no_space_toast_when_click_widget">"Pas assez d'espace sur cette page. Essayez de faire glisser cet élément vers une autre page."</string>
@@ -534,6 +535,8 @@
   <string name="remove_dialog_message">"Les applications sélectionnées contiennent des fonctionnalités système essentielles. Vous ne pouvez supprimer que les raccourcis de leur écran d'accueil."</string>
   <string name="remove_dialog_title_format">"Supprimer \"%s\" de l'écran d'accueil ?"</string>
   <string name="remove_invalidate_gadget_tips">"L'un des widgets que vous utilisez n'est plus disponible. Vous pouvez en ajouter un autre."</string>
+  <string name="remove_sys_app_content">"Vous pourrez à nouveau ajouter le raccourci de l'écran d'accueil dans Paramètres > Applications > Gérer les raccourcis de l'écran d'accueil. Supprimer maintenant ?"</string>
+  <string name="remove_sys_app_title">"Supprimer le raccourci de l'écran d'accueil ?"</string>
   <string name="reset_cate_tip_content">"Si vous continuez, les groupes d'applications par défaut seront restaurés. Continuer quand même ?"</string>
   <string name="reset_cate_tip_title">Restaurer les groupes par défaut</string>
   <string name="reset_description_first_time">Vous pouvez restaurer la disposition de %1$s dans les 2 heures</string>
@@ -544,6 +547,7 @@
   <string name="resource_canary_leak_tip">il a une fuite !</string>
   <string name="resource_canary_wait_for_heapdump_message">"Vidage de l'instantané de la pile..."</string>
   <string name="restore_icon_successful">Ajouté avec succès</string>
+  <string name="russia_preinstall_folder_name">Russie</string>
   <string name="screen_cells_config_title">"Modifier la disposition de l'écran d'accueil"</string>
   <string name="screen_locked_toast">"La disposition de l'écran d'accueil est verrouillée."</string>
   <string name="screen_number">%d écran</string>
@@ -553,6 +557,7 @@
   <string name="select_all">Tout sélectionner</string>
   <string name="select_frame">Cadre</string>
   <string name="select_photo">Photo</string>
+  <string name="server_error">"Une erreur de serveur s'est produite. Attendez une minute ou deux et réessayez."</string>
   <string name="setting_wallpaper_tip">Pincez ou glissez pour ajuster</string>
   <string name="settings">Paramètres</string>
   <string name="settings_shortcut">Paramètres</string>

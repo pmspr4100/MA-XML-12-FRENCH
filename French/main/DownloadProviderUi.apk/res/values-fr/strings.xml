@@ -98,6 +98,8 @@
   <string name="dialog_content_limit_max">Illimité</string>
   <string name="dialog_content_limit0">Restreindre les téléchargements</string>
   <string name="dialog_delete_positive">Supprimer</string>
+  <string name="dialog_download_dir_content" formatted="false">Le dossier de destination par défaut pour vos téléchargements est passé de \"%s\" à \"%s/DLManager\".</string>
+  <string name="dialog_download_dir_title">Nouveau dossier de destination</string>
   <string name="dialog_failed_body">"Essayez de télécharger ce fichier ultérieurement ou de le supprimer de la file d'attente ?"</string>
   <string name="dialog_file_already_exists">Ce fichier existe déjà.</string>
   <string name="dialog_file_missing_body">"Impossible de trouver le fichier, il semble qu'il ait été supprimé."</string>
