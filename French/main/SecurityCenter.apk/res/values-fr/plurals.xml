@@ -623,6 +623,10 @@ Vous pouvez obtenir un essai gratuit de %d jours maintenant !"</item>
         <item quantity="other">Annuler (%ds)</item>
         <item quantity="one">Annuler (%ds)</item>
     </plurals>
+    <plurals name="power_center_unoffical_battery_dialog_negative">
+        <item quantity="other">Annuler (%ds)</item>
+        <item quantity="one">Annuler (%ds)</item>
+    </plurals>
     <plurals name="power_main_battery_last_day">
         <item quantity="other">%s jours restants</item>
         <item quantity="one">%s jour restant</item>

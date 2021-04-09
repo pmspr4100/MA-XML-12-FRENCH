@@ -628,10 +628,11 @@ Réessayez dans %d secondes."</string>
   <string name="category_personal">Personnel</string>
   <string name="category_work">Travail</string>
   <string name="change_theme_reboot">Changer le thème nécessite un redémarrage.</string>
-  <string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
-  <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
+  <string name="character_counter_content_description">%1$d caractères entrés sur %2$d</string>
+  <string name="character_counter_overflowed_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
   <string name="charge_length_format">%1$s auparavant</string>
   <string name="chip_text">Chip text</string>
+  <string name="choose_clock_dual_clock_hint_text">Impossible de changer de format lorsque la Double horloge est activée</string>
   <string name="choose_clock_panel_title">"Disposition de l'écran de verrouillage"</string>
   <string name="choose_clock_third_theme_hint_text">Écran de verrouillage du thème actuellement appliqué</string>
   <string name="choose_clock_title_left_top">Aligné à gauche</string>
@@ -2090,7 +2091,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="speed_label_very_slow">Très lent</string>
   <string name="ssl_ca_cert_warning">"Le réseau peut
 être surveillé"</string>
-  <string name="standby_bucket_summary">Application en état de veille: %s</string>
+  <string name="standby_bucket_summary">Application en état de veille : %s</string>
   <string name="start_camera_error_try_again">"Impossible de lancer Appareil photo. Essayez à nouveau."</string>
   <string name="start_dreams">"Enregistreur d'écran"</string>
   <string name="status_bar">"Barre d'état"</string>
