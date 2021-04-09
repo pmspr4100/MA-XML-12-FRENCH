@@ -704,7 +704,7 @@ Tout utilisateur peut mettre à jour les applications de tous les autres utilisa
     <string name="wifi_ap_unable_to_handle_new_sta">"Point d'accès temporairement saturé"</string>
     <string name="wifi_auto_sel_wapi_cert">Sélectionnez automatiquement</string>
     <string name="wifi_cant_connect">Connexion impossible</string>
-    <string name="wifi_cant_connect_to_ap">Connexion impossible à '%1$s'</string>
+    <string name="wifi_cant_connect_to_ap">"Connexion impossible à '%1$s'"</string>
     <string name="wifi_check_password_try_again">Vérifiez le mot de passe et réessayez</string>
     <string name="wifi_connected_mac_randomization">Randomisation MAC connectée</string>
     <string name="wifi_connected_no_internet">"Pas d'internet"</string>
@@ -718,10 +718,9 @@ Tout utilisateur peut mettre à jour les applications de tous les autres utilisa
     <string name="wifi_disconnected">Déconnecté</string>
     <string name="wifi_display_certification">"Certification d'affichage sans fil"</string>
     <string name="wifi_display_certification_summary">"Afficher les options de certification d'affichage sans fil"</string>
-    <string name="wifi_fail_to_scan">Recherche des réseaux impossible</string>
     <string name="wifi_enhanced_mac_randomization">Randomisation MAC améliorée par Wi-Fi</string>
     <string name="wifi_enhanced_mac_randomization_summary">"Lorsque ce mode est activé, l'adresse MAC de cet appareil peut changer chaque fois qu'il se connecte à un réseau sur lequel la randomisation MAC est activée."</string>
-    <string name="wifi_fail_to_scan">Impossible de rechercher des réseaux</string>
+    <string name="wifi_fail_to_scan">Recherche des réseaux impossible</string>
     <string name="wifi_hand_sel_wapi_cert">Certificat WAPI</string>
     <string name="wifi_limited_connection">Connexion limitée</string>
     <string name="wifi_metered_label">Mesuré</string>
