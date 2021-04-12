@@ -2980,6 +2980,7 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
   <string name="fingerprint_and_password_entrance_title">"Verrouillage de l'écran et empreinte digitale"</string>
   <string name="fingerprint_apply_to_privacy_password">Mot de passe de confidentialité</string>
   <string name="fingerprint_apply_to_privacy_password_scenarios">Le mot de passe de protection de la vie privée protège vos messages, photos, fichiers, notes et applications.</string>
+  <string name="fingerprint_base_title">Empreinte digitale %s</string>
   <string name="fingerprint_delete_message">Souhaitez-vous supprimer cette empreinte digitale ?</string>
   <string name="fingerprint_delete_title">Supprimer \"%1$s\"</string>
   <string name="fingerprint_double_tap">"Capteur d'empreinte digitale à double appui"</string>
@@ -2990,6 +2991,7 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
   <string name="fingerprint_first_open_screen_password_tittle">"Empreinte digitale (définissez le mot de passe d'écran de verrouillage avant de l'utiliser)"</string>
   <string name="fingerprint_for_keyguard_disabled">"Le lecteur d'empreintes digitales a été désactivé par les paramètres de sécurité."</string>
   <string name="fingerprint_gesture_screen_title">Balayer lecteur empreinte</string>
+  <string name="fingerprint_gxzw_add_fingerprint_finish">Enregistré sous \"%s\"</string>
   <string name="fingerprint_identify_input_password_msg">Saisir le mot de passe</string>
   <string name="fingerprint_identify_msg">"Lecture de l'empreinte digitale…"</string>
   <string name="fingerprint_identify_try_again_msg">"Impossible de lire l'empreinte digitale, réessayez"</string>
@@ -3126,6 +3128,8 @@ Il semblait n'y avoir ni chevaux, ni animaux d'aucune espèce ; les hommes tran
   <string name="force_resizable_activities_summary">Rendre toutes les activités redimensionnables pour le mode paysage, en dépit des valeurs manifestes.</string>
   <string name="force_rtl_layout_all_locales">Forcer direction dispos. RTL</string>
   <string name="force_rtl_layout_all_locales_summary">"Forcer la direction de la disposition de l'écran à RTL pour tous les paramètres locaux"</string>
+  <string name="four_point_five_switch_summary">"Utilisez la 4.5G pour améliorer votre vitesse d'accès aux données et la qualité de votre voix."</string>
+  <string name="four_point_five_switch_title">4.5G</string>
   <string name="force_stop">"Forcer l'arrêt"</string>
   <string name="force_stop_dlg_text">"L'arrêt forcé d'une application peut provoquer un fonctionnement instable."</string>
   <string name="force_stop_dlg_title">"Forcer l'arrêt ?"</string>
@@ -4394,8 +4398,10 @@ D'autres personnes utilisent cet appareil.
   <string name="miheadset_fitness_check_result_dialog1">Placez les écouteurs dans les deux oreilles avant de commencer le test.</string>
   <string name="miheadset_fitness_check_result_dialog2">Mettez fin à votre appel en cours avant de commencer le test.</string>
   <string name="miheadset_fitness_check_result_dialog_title">Attention</string>
+  <string name="miheadset_fitness_check_result_l_not_ok">"Réajuster l'écouteur"</string>
   <string name="miheadset_fitness_check_result_not_ok">Mauvais ajustement</string>
   <string name="miheadset_fitness_check_result_ok">Bon ajustement</string>
+  <string name="miheadset_fitness_check_result_r_not_ok">"Réajuster l'écouteur"</string>
   <string name="miheadset_fitness_check_result_summary1">Cet ajustement fonctionne très bien pour vous !</string>
   <string name="miheadset_fitness_check_result_summary2">Ajustez ou essayez un autre embout et testez à nouveau.</string>
   <string name="miheadset_fitness_check_start">Commencer</string>
@@ -8090,6 +8096,7 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
   <string name="voice_search_settings_title">Recherche vocale</string>
   <string name="voice_service_preference_section_title">Services de saisie vocale</string>
   <string name="voicemail_number_not_set">&lt;Non paramétré></string>
+  <string name="voip_assistant_settings">Assistant VoIP</string>
   <string name="volte_5G_limited_text">"Cela désactive également votre connexion 5G.
 Pendant un appel vocal, vous ne pouvez pas utiliser internet et certaines applications peuvent ne pas fonctionner."</string>
   <string name="volte_5G_limited_title">Désactiver VoLTE ?</string>
