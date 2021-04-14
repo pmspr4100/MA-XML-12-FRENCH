@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Homme</item>
+        <item>Femme</item>
+    </string-array>
+    <string-array name="menu_theme_setting">
+        <item>Blanc</item>
+        <item>Jaune</item>
+        <item>Gris</item>
+        <item>Marron</item>
+        <item>Vert</item>
+        <item>Bleu</item>
+    </string-array>
+    <string-array name="nf_feedback_reason">
+        <item>Contenu explicite</item>
+        <item>Mensonge</item>
+        <item>Actualités périmées</item>
+        <item>Points de vue extrémistes</item>
+        <item>Publicité subliminale</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_gesture_entries">
+        <item>Aller en avant/en arrière</item>
+        <item>"Changer d'onglet"</item>
+        <item>Aucune</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Page de démarrage par défaut</item>
+        <item>Personnalisé</item>
+    </string-array>
+    <string-array name="pref_nav_mode_summary">
+        <item>Téléphone</item>
+        <item>Tablette</item>
+    </string-array>
+    <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Disposition verticale</item>
+        <item>Disposition horizontale</item>
+    </string-array>
+    <string-array name="pref_security_do_not_track_keys">
+        <item>Activé</item>
+        <item>Seulement en mode Incognito</item>
+        <item>Désactivé</item>
+    </string-array>
+    <string-array name="pref_text_zoom_choices">
+        <item>Très petit</item>
+        <item>Petit</item>
+        <item>Normal</item>
+        <item>Grand</item>
+        <item>Très grand</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>Desktop</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+    </string-array>
+    <string-array name="protection_name">
+        <item>Auto</item>
+        <item>Aucun</item>
+        <item>Nouvel utilisateur</item>
+    </string-array>
+    <string-array name="setting_home_page_show_list">
+        <item>Sites web</item>
+        <item>Mint Games</item>
+    </string-array>
+    <string-array name="shortcut_dialog_delete">
+        <item>Supprimer</item>
+        <item>Non merci</item>
+    </string-array>
+    <string-array name="shortcut_dialog_keep">
+        <item>OK</item>
+        <item>Suivre</item>
+    </string-array>
+    <string-array name="shortcut_dialog_title">
+        <item>Message de Browser</item>
+        <item>Suivez les Jeux olympiques avec Mi</item>
+    </string-array>
+    <string-array name="speed_result_tips">
+        <item>La connexion réseau actuelle est très lente. Il semble que vous vous trouviez dans une zone avec une faible couverture réseau.</item>
+        <item>La connexion réseau actuelle est lente.</item>
+        <item>Aucun problème avec la connexion réseau actuelle.</item>
+        <item>"La connexion réseau actuelle est rapide. C'est suffisant pour diffuser des films !"</item>
+        <item>"La connexion réseau actuelle est très rapide ! Vous êtes au sommet de votre forme."</item>
+    </string-array>
+    <string-array name="user_guide_info_array">
+        <item>Téléchargez des vidéos et des photos à partir des réseaux sociaux</item>
+        <item>Enregistrer des images et des vidéos à partir des statuts WhatsApp</item>
+        <item>Gérez les fichiers sur votre appareil et rendez-les privés</item>
+    </string-array>
+    <string-array name="user_guide_title_array">
+        <item>Télécharger des vidéos</item>
+        <item>Économiseur de statut WhatsApp</item>
+        <item>Fichiers privés</item>
+    </string-array>
+</resources>
