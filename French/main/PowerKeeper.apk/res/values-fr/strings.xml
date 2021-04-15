@@ -42,6 +42,7 @@
   <string name="atrace_saving">Sauvegarde en cours du journal atrace…</string>
   <string name="atrace_start">Enregistrement du journal atrace…</string>
   <string name="base_info">Infos de base</string>
+  <string name="checking_intranet">Vérification de la connexion intranet, veuillez patienter...</string>
   <string name="cloud_addr_info">Info sur Cloud</string>
   <string name="cloud_china_addr">Mettre à jour les données du serveur de Chine</string>
   <string name="cloud_international_addr">Mettre à jour les données du serveur international</string>
@@ -62,8 +63,10 @@
 L'économiseur de batterie traitera les applications importantes de manière sélective."</string>
   <string name="config_suggest_suffix_title">Économiseur de batterie (recommandé)</string>
   <string name="confirm">Confirmer</string>
+  <string name="connect_intranet_hint">"Veuillez vous connecter à l'intranet"</string>
   <string name="copy">Copie</string>
   <string name="current_cloud_addr_is">"L'adresse du serveur de contrôle du Cloud est:"</string>
+  <string name="delete_data_confirm">Confirmer pour supprimer ces données</string>
   <string name="empty_title_apps_container_list">Aucune application</string>
   <string name="enable_sleep_mode">"Activez le mode veille pour optimiser l'utilisation de la batterie pendant la nuit"</string>
   <string name="error_filename_too_long">Le nom du fichier que vous avez entré est trop long.</string>
@@ -90,6 +93,7 @@ L'économiseur de batterie traitera les applications importantes de manière sé
   <string name="high_temp_state_message">"Votre appareil surchauffe. Les données mobiles, les points d'accès Wi-Fi, le GPS et l'appareil photo seront restreints."</string>
   <string name="hints_loading_text">Chargement…</string>
   <string name="important_warning">Attention</string>
+  <string name="insert_data">Insérer des données</string>
   <string name="lasttime_applist_cloud">Applications mises à jour:</string>
   <string name="lasttime_feature_cloud">Fonctionnalités mises à jour:</string>
   <string name="message_i_know">Compris</string>
@@ -101,6 +105,7 @@ L'économiseur de batterie traitera les applications importantes de manière sé
   <string name="miuix_sbl_tracking_progress_labe_up_none">"C'est tout pour le moment"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chargement…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Impossible de charger les éléments</string>
+  <string name="modify_data">Modifier des données</string>
   <string name="nonui_mode_config_description">"Ne pas allumer l'écran pour les notifications, désactiver le voyant lumineux, le capteur d'empreintes digitales ainsi que les touches de contrôle afin d'économiser la batterie lorsque MIU détecte que vous n'utilisez pas votre appareil."</string>
   <string name="nonui_mode_config_title">Mode non interactif</string>
   <string name="not_set">Non défini</string>
@@ -136,6 +141,7 @@ L'économiseur de batterie traitera les applications importantes de manière sé
   <string name="pref_config_title">Optimisation des performances</string>
   <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
   <string name="privacy">Politique de confidentialité</string>
+  <string name="save_data">Enregistrer des données</string>
   <string name="scenario_policies_summary">"Appliquer différentes stratégies d'économie d'énergie pour des scènes différentes."</string>
   <string name="scenario_policies_title">Scènes intelligentes</string>
   <string name="scenario_policies_warmcontrol">Contrôle de température</string>
@@ -151,6 +157,8 @@ L'économiseur de batterie traitera les applications importantes de manière sé
   <string name="sleepmode_privacy_link">Apprendre plus à propos de la confidentialité et de la sécurité</string>
   <string name="sleepmode_privacy_title">Mode veille</string>
   <string name="sucess">Terminé</string>
+  <string name="thermal_cancel">NON</string>
+  <string name="thermal_confirm">OUI</string>
   <string name="update_profile_failture_not_connect_wifi">Suppression impossible ! Connecte-vous à un réseau Wi-Fi puis réessayez.</string>
   <string name="update_profile_sucess">Mis à jour depuis le serveur avec succès</string>
   <string name="v7_preference_off">DÉSACTIVÉ</string>
