@@ -35,6 +35,7 @@
   <string name="add_from_album">Ajouter depuis la galerie</string>
   <string name="align_type">Aligner</string>
   <string name="always_style">Toujours</string>
+  <string name="always_style_symmary">"Consomme plus d'énergie"</string>
   <string name="animation_clock_panel">Cadran Wave</string>
   <string name="aod_close_color_inversion">"Cette fonctionnalité ne peut pas être combinée avec l'inversion de couleur. Désactivez l'inversion des couleurs en premier."</string>
   <string name="aod_component">Displayed items</string>
@@ -92,8 +93,8 @@ dd/MM"</string>
   <string name="deep_space_planet_des">\"Cosmos\" reflète les changements de lumière qui se produisent autour de vous pendant la journée. Les levers et couchers de soleil dans ce thème sont synchronisés avec votre emplacement.</string>
   <string name="delete">Supprimer</string>
   <string name="digital_clock">Numérique</string>
-  <string name="disable_aod_in_dark_room">Désactivez lorsque vous êtes allongé dans le noir</string>
-  <string name="disable_aod_in_power_save_mode">"Désactiver lorsque l'économiseur de batterie est allumé"</string>
+  <string name="disable_aod_in_dark_room">"Désactiver lorsque l'appareil est plongé dans le noir"</string>
+  <string name="disable_aod_in_power_save_mode">"Désactiver lorsque l'économiseur de batterie est activé"</string>
   <string name="disable_aod_in_power_save_mode_summary">"Ne pas afficher d'éléments pour économiser de l'énergie"</string>
   <string name="error_icon_content_description">Erreur</string>
   <string name="evening">Après-midi</string>											 
@@ -230,6 +231,7 @@ dd/MM"</string>
   <string name="scheduled_mode_dialog_msg">"Les éléments seront affichés sur l'affichage permanent pendant cette période: %s."</string>
   <string name="scheduled_mode_msg">"Période active: %s"</string>														
   <string name="scheduled_style">Programmer</string>
+  <string name="scheduled_style_summary">Régler une plage horaire</string>
   <string name="scope_des">"Chaque kaléidoscope contient 5 motifs différents qui seront affichés à tour de rôle à chaque fois que l'écran s'allume."</string>
   <string name="scope_icon">style kaléidoscope</string>
   <string name="scope_time">Kaleidoscope</string>
@@ -261,7 +263,7 @@ dd/M"</string>
   <string name="super_wallpaper_date_inter">"EEEE
 dd/M"</string>
   <string name="temporary_style">Durant 10 s</string>
-  <string name="temporary_style_summary">Recommendé</string>	   
+  <string name="temporary_style_summary">Recommandé</string>	   
   <string name="text_color">Couleur du texte</string>
   <string name="text_length_exceed_limit_alert">*Le texte est trop long</string>
   <string name="text_size">Taille du texte</string>
@@ -273,7 +275,7 @@ dd/M"</string>
   <string name="time_picker_dialog_title">Définir heure</string>															 
   <string name="time_style">Style</string>
   <string name="time_style_layout">Disposition</string>
-  <string name="tip_to_open_aod_mode">"L'affichage permanent est éteint. Allumer maintenant ?"</string>
+  <string name="tip_to_open_aod_mode">"L'affichage permanent est désactivé. Activer maintenant ?"</string>
   <string name="today">"Aujourd'hui"</string>
   <string name="tomorrow">Demain</string>
   <string name="tuesday">Mardi</string>
