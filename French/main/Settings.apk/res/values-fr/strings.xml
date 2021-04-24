@@ -333,8 +333,8 @@ Pour basculer entre les services, balayez vers le haut avec deux doigts et maint
   <string name="adaptive_sleep_summary_on">"Activer / L'écran ne s'éteindra pas si vous le regardez"</string>
   <string name="adaptive_sleep_title">Écran regardé</string>
   <string name="adaptive_sleep_title_no_permission">Accès au capteur photo nécessaire</string>
-  <string name="adb_authorization_timeout_summary">"Désactive la révocation automatique des autorisations adb pour les systèmes qui ne se sont pas reconnectés dans le délai par défaut (7 jours) ou configuré par l'utilisateur (minimum 1 jour)."</string>
-  <string name="adb_authorization_timeout_graphics_driver_footer_texttitle">"Désactiver le délai d'expiration de l'autorisation ADB"</string>
+  <string name="adb_authorization_timeout_summary">"Désactive la révocation automatique des autorisations ADB pour les systèmes qui ne se sont pas reconnectés dans le délai par défaut (7 jours) ou configuré par l'utilisateur (minimum 1 jour)."</string>
+  <string name="adb_authorization_timeout_title">"Désactiver le délai d'expiration de l'autorisation ADB"</string>
   <string name="adb_device_fingerprint_title_format">"Empreinte de l'appareil : %1$s"</string>
   <string name="adb_device_forget">Oublier</string>
   <string name="adb_keys_warning_message">"Révoquer l'accès au débogage USB pour tous les ordinateurs que vous-avez précédemment autorisés ?"</string>
