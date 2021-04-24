@@ -1085,9 +1085,9 @@
         <item>Définir cycle conso...</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>"Aujourd'hui (données cellulaires)"</item>
-        <item>Ce mois-ci (données cellulaires)</item>
-        <item>Le mois dernier (données cellulaires)</item>
+        <item>"Aujourd'hui (données mobiles)"</item>
+        <item>Ce mois-ci (données mobiles)</item>
+        <item>Le mois dernier (données mobiles)</item>
         <item>"Aujourd'hui (Wi-Fi)"</item>
         <item>Ce mois-ci (Wi-Fi)</item>
         <item>Le mois dernier (Wi-Fi)</item>
@@ -1529,7 +1529,7 @@ Note: seulement pour Ubuntu 8.04 !"</item>
         <item>Extrême</item>
     </string-array>
     <string-array name="traffic_type">
-        <item>"Utilisation des données cellulaires "</item>
+        <item>"Utilisation des données mobiles "</item>
         <item>"Utilisation du Wi-Fi "</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
@@ -1663,8 +1663,8 @@ Note: seulement pour Ubuntu 8.04 !"</item>
         <item>Complet</item>
     </string-array>
     <string-array name="wifi_link_turbo_mode_summary_entries">
-        <item>"Augmenter la vitesse en utilisant les données cellulaires uniquement lorsque le signal Wi-Fi est faible"</item>
-        <item>Combinez le Wi-Fi et les données cellulaires pour augmenter la vitesse de connexion</item>
+        <item>"Augmenter la vitesse en utilisant les données mobiles uniquement lorsque le signal Wi-Fi est faible"</item>
+        <item>Combinez le Wi-Fi et les données mobiles pour augmenter la vitesse de connexion</item>
     </string-array>
     <string-array name="wifi_metered_entries">
         <item>Détecter automatiquement</item>

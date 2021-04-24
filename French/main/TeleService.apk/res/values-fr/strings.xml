@@ -434,7 +434,7 @@ Bluetooth"</string>
     <string name="carrier_settings_title">Paramètres opérateur</string>
     <string name="category_personal">Personnel</string>
     <string name="category_work">Professionnel</string>
-    <string name="cb_sms_settings">Paramètres de la diffusion cellulaire par SMS</string>
+    <string name="cb_sms_settings">Paramètres de la diffusion mobile par SMS</string>
     <string name="cdma_activate_device">"Activez l'appareil"</string>
     <string name="cdma_alert_message">"Si vous sélectionnez une autre carte par défaut pour vos données mobiles, vous ne serez plus en mesure d'utiliser votre carte China Telecom UIM (sauf en itinérance)."</string>
     <string name="cdma_alert_title">La carte UIM doit être par défaut</string>
@@ -449,10 +449,10 @@ Bluetooth"</string>
     <string name="cdma_system_select_dialogtitle">Sélection système</string>
     <string name="cdma_system_select_summary">"Modifier le mode d'itinérance CDMA"</string>
     <string name="cdma_system_select_title">Choix du système</string>
-    <string name="cell_bc_sms_disable">Diffusion cellulaire des SMS activée</string>
-    <string name="cell_bc_sms_enable">Diffusion cellulaire des SMS activée</string>
+    <string name="cell_bc_sms_disable">Diffusion mobile des SMS activée</string>
+    <string name="cell_bc_sms_enable">Diffusion mobile des SMS activée</string>
     <string name="cell_broadcast_settings">"Diffusion des services d'urgence"</string>
-    <string name="cell_broadcast_sms">Diffusion cellulaire des SMS</string>
+    <string name="cell_broadcast_sms">Diffusion mobile des SMS</string>
     <string name="cf_setting_mobile_data_alert">Activez les données mobiles et assurez-vous que le Wi-Fi est désactivé</string>
     <string name="cf_setting_mobile_data_roaming_alert">"Activer les données d'itinérance"</string>
     <string name="cfb_title">Transférer si occupé</string>
@@ -605,23 +605,23 @@ Bluetooth"</string>
     <string name="daltonizer_mode_protanomaly">Protanomalie (rouge/vert)</string>
     <string name="daltonizer_mode_tritanomaly">Tritanomalie (bleu-jaune)</string>
     <string name="daltonizer_type_overridden">Remplacé par %1$s</string>
-    <string name="data_disable_warning_no_mms">"Vous ne pourrez pas envoyer ni recevoir des MMS si vous désactivez les données cellulaires (WCDMA/LTE). Cependant, vous pourrez le faire si votre appareil est connecté au Wi-Fi."</string>
-    <string name="data_disable_warning_with_mms">"Vous pourrez continuer à envoyer et recevoir des MMS si vous désactivez les données cellulaires (WCDMA/LTE). Pour utiliser internet, connectez-vous au Wi-Fi."</string>
-    <string name="data_enable_always_warn">Demander quand utiliser les données cellulaires</string>
-    <string name="data_enable_summary">Autoriser la liste blanche à utiliser les données cellulaires</string>
-    <string name="data_enable_warning">Si vous utilisez en permanence les données cellulaires, des frais supplémentaires hors forfait. Se connecter quand même ?</string>
-    <string name="data_enabled">Données cellulaires</string>
-    <string name="data_plan">Forfaits des données cellulaires</string>
-    <string name="data_usage_disable_mobile">Désactiver les données cellulaires ?</string>
+    <string name="data_disable_warning_no_mms">"Vous ne pourrez pas envoyer ni recevoir des MMS si vous désactivez les données mobiles (WCDMA/LTE). Cependant, vous pourrez le faire si votre appareil est connecté au Wi-Fi."</string>
+    <string name="data_disable_warning_with_mms">"Vous pourrez continuer à envoyer et recevoir des MMS si vous désactivez les données mobiles (WCDMA/LTE). Pour utiliser internet, connectez-vous au Wi-Fi."</string>
+    <string name="data_enable_always_warn">Demander quand utiliser les données mobiles</string>
+    <string name="data_enable_summary">Autoriser la liste blanche à utiliser les données mobiles</string>
+    <string name="data_enable_warning">Si vous utilisez en permanence les données mobiles, des frais supplémentaires hors forfait. Se connecter quand même ?</string>
+    <string name="data_enabled">Données mobiles</string>
+    <string name="data_plan">Forfaits des données mobiles</string>
+    <string name="data_usage_disable_mobile">Désactiver les données mobiles ?</string>
     <string name="data_usage_ota">System updates</string>
-    <string name="data_usage_template">%1$s de données cellulaires utilisées %2$s</string>
+    <string name="data_usage_template">%1$s de données mobiles utilisées %2$s</string>
     <string name="data_usage_title">Consommation des données</string>
     <string name="data_usage_uninstalled_apps">Applications supprimées</string>
     <string name="data_usage_uninstalled_apps_users">Applications et utilisateurs supprimés</string>
     <string name="dc_alert_dialog_message">Certaines applications nécessitent une connexion de données mobile. Vous pouvez contacter votre opérateur pour savoir quels sont les %s disponibles pour vous.</string>
     <string name="dc_alert_dialog_title">"Alerte d'utilisation des données"</string>
-    <string name="dds_switch_warning_message_data_off">Impossible de détecter la carte SIM %1$s. La carte SIM %2$s est définie désormais comme votre carte de données cellulaires par défaut. Les données cellulaires sont maintenant désactivées.</string>
-    <string name="dds_switch_warning_message_data_on">Impossible de détecter la carte SIM %1$s. La carte SIM %2$s est définie désormais comme votre carte de données cellulaires par défaut. Les données cellulaires sont désactivées pour éviter des frais opérateur inutiles.</string>
+    <string name="dds_switch_warning_message_data_off">Impossible de détecter la carte SIM %1$s. La carte SIM %2$s est définie désormais comme votre carte de données mobiles par défaut. Les données mobiles sont maintenant désactivées.</string>
+    <string name="dds_switch_warning_message_data_on">Impossible de détecter la carte SIM %1$s. La carte SIM %2$s est définie désormais comme votre carte de données mobiles par défaut. Les données mobiles sont désactivées pour éviter des frais opérateur inutiles.</string>
     <string name="deactivate_all">Tout annuler</string>
     <string name="debug_app">Sélectionner une application à déboguer</string>
     <string name="debug_app_not_set">Aucune application à déboguer définie</string>
@@ -742,7 +742,7 @@ Bluetooth"</string>
     <string name="enable_disable_administrative">Administration</string>
     <string name="enable_disable_advertisements">Annonces</string>
     <string name="enable_disable_atr">Rapports du trafic aérien</string>
-    <string name="enable_disable_cell_bc_sms">Diffusion cellulaire des SMS</string>
+    <string name="enable_disable_cell_bc_sms">Diffusion mobile des SMS</string>
     <string name="enable_disable_emergency_broadcast">"Diffusion d'urgence"</string>
     <string name="enable_disable_eo">"Offres d'emploi"</string>
     <string name="enable_disable_international">Internationales</string>
@@ -900,9 +900,9 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
     <string name="incall_error_emergency_only">Non enregistré sur le réseau.</string>
     <string name="incall_error_missing_voicemail_number">Numéro de messagerie vocale inconnu.</string>
     <string name="incall_error_no_phone_number_supplied">Pour passer un appel veuillez entrer un numéro valide.</string>
-    <string name="incall_error_out_of_service">"Le réseau cellulaire n'est pas disponible."</string>
+    <string name="incall_error_out_of_service">"Le réseau mobile n'est pas disponible."</string>
     <string name="incall_error_out_of_service_kr">"Appel d'urgence disponible uniquement."</string>
-    <string name="incall_error_out_of_service_wfc">"Le réseau cellulaire n'est pas disponible. Connectez vous à un réseau sans fil pour passer un appel."</string>
+    <string name="incall_error_out_of_service_wfc">"Le réseau mobile n'est pas disponible. Connectez vous à un réseau sans fil pour passer un appel."</string>
     <string name="incall_error_outgoing_call_failed">"Impossible de passer un appel"</string>
     <string name="incall_error_power_off">Désactivez le mode avion pour passer un appel.</string>
     <string name="incall_error_power_off_wfc">Désactivez le mode avion ou connectez-vous à un réseau sans fil pour passer un appel.</string>
@@ -947,7 +947,7 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
     <string name="ivr_type_cu_3">China Unicom 2G</string>
     <string name="ivr_type_settings">Paramètres du forfait</string>
     <string name="ivr_type_settings_hint">Veuillez saisir votre forfait de données</string>
-    <string name="jump_to_mobile_network_setting">Paramètres du réseau cellulaires</string>
+    <string name="jump_to_mobile_network_setting">Paramètres du réseau mobile</string>
     <string name="kddi_sim_lock_status_allowed">Autorisé</string>
     <string name="kddi_sim_lock_status_code">Code</string>
     <string name="kddi_sim_lock_status_no_sim">Pas de carte SIM</string>
@@ -1083,7 +1083,7 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
     <string name="mi_mobile_sim_activate_message">"Activez la carte SIM %d pour pouvoir utiliser Mi Mobile. Cela peut prendre jusqu'à 5 minutes."</string>
     <string name="mi_mobile_sim_activate_ok">Activer</string>
     <string name="mi_mobile_sim_activate_title">Bienvenue sur Mi Mobile !</string>
-    <string name="mi_sim_settings_summary">Utiliser les données cellulaires sans carte SIM</string>
+    <string name="mi_sim_settings_summary">Utiliser les données mobiles sans carte SIM</string>
     <string name="mi_sim_settings_title">SIM Mi</string>
     <string name="mismatchPin">Les codes PIN saisis ne correspondent pas. Veuillez réessayer.</string>
     <string name="mismatchPin2">Les codes PIN 2 ne correspondent pas. Veuillez réessayer.</string>
@@ -1114,34 +1114,34 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
     <string name="mobile_advanced_dns_server_title">Adresse du serveur DNS</string>
     <string name="mobile_advanced_ip_address_title">Adresse IP</string>
     <string name="mobile_advanced_nr_network_title">Type de réseau 5G</string>
-    <string name="mobile_connection_management">Gérer la connexion au réseau cellulaire</string>
-    <string name="mobile_data">Données cellulaires</string>
+    <string name="mobile_connection_management">Gérer la connexion au réseau mobile</string>
+    <string name="mobile_data">Données mobiles</string>
     <string name="mobile_data_activate_button">AJOUTER DES DONNÉES</string>
     <string name="mobile_data_activate_cancel_button">Annuler</string>
     <string name="mobile_data_activate_diag_message">Vous devrez peut-être ajouter des données avec %s</string>
     <string name="mobile_data_activate_diag_title">Ajouter des données ?</string>
-    <string name="mobile_data_activate_footer">"Vous pouvez ajouter un forfait de données cellulaires ou d'itinérance avec votre opérateur %s."</string>
-    <string name="mobile_data_activate_prepaid">Pas de donnée cellulaires disponible</string>
-    <string name="mobile_data_activate_prepaid_summary">Ajouter des données cellulaires avec %s</string>
+    <string name="mobile_data_activate_footer">"Vous pouvez ajouter un forfait de données mobiles ou d'itinérance avec votre opérateur %s."</string>
+    <string name="mobile_data_activate_prepaid">Pas de données mobiles disponibles</string>
+    <string name="mobile_data_activate_prepaid_summary">Ajouter des données mobiles avec %s</string>
     <string name="mobile_data_activate_roaming_plan">"Aucun forfait d'itinérance"</string>
     <string name="mobile_data_activate_roaming_plan_summary">"Ajoutez un forfait d'itinérance avec %s"</string>
     <string name="mobile_data_alert">Le trafic de données peut être généré sur une carte secondaire</string>
-    <string name="mobile_data_always_on">Données cellulaires toujours actives</string>
-    <string name="mobile_data_always_on_summary">"Maintenir les données cellulaires à l'état actif, même lorsque le Wi-Fi est actif (pour changer rapidement de réseau)"</string>
-    <string name="mobile_data_settings_summary">Accédez aux données en utilisant le réseau cellulaires</string>
-    <string name="mobile_data_settings_title">Données cellulaires</string>
-    <string name="mobile_data_status_no_plan_subtext">Pas de donnée cellulaires disponible</string>
+    <string name="mobile_data_always_on">Données mobiles toujours actives</string>
+    <string name="mobile_data_always_on_summary">"Maintenir les données mobiles à l'état actif, même lorsque le Wi-Fi est actif (pour changer rapidement de réseau)"</string>
+    <string name="mobile_data_settings_summary">Accédez aux données en utilisant le réseau mobile</string>
+    <string name="mobile_data_settings_title">Données mobiles</string>
+    <string name="mobile_data_status_no_plan_subtext">Pas de données mobiles disponibles</string>
     <string name="mobile_data_status_roaming_turned_off_subtext">Itinérance des données désactivée</string>
     <string name="mobile_data_status_roaming_turned_on_subtext">Itinérance des données activée</string>
-    <string name="mobile_data_status_roaming_with_plan_subtext">Actuellement en itinérance, forfait de données cellulaires actif</string>
-    <string name="mobile_data_status_roaming_without_plan_subtext">Itinérance activée, besoin de forfait de données cellulaires</string>
-    <string name="mobile_network_settings_not_available">Paramètres de réseau cellulaires ne sont pas disponibles pour cet utilisateur</string>
-    <string name="mobile_networks">Paramètres du réseau cellulaire</string>
-    <string name="mobile_property">Propriétés du réseau cellulaire</string>
+    <string name="mobile_data_status_roaming_with_plan_subtext">Actuellement en itinérance, forfait de données mobiles actif</string>
+    <string name="mobile_data_status_roaming_without_plan_subtext">Itinérance activée, besoin de forfait de données mobiles</string>
+    <string name="mobile_network_settings_not_available">Paramètres de réseau mobile ne sont pas disponibles pour cet utilisateur</string>
+    <string name="mobile_networks">Paramètres du réseau mobile</string>
+    <string name="mobile_property">Propriétés du réseau mobile</string>
     <string name="mock_location_app">"Sélectionner l'application de position fictive"</string>
     <string name="mock_location_app_not_set">Aucune application de position fictive définie</string>
     <string name="mock_location_app_set">Application de position fictive: \"%1$s\"</string>
-    <string name="modem_dialog_body">"Le réseau cellulaires n'est pas stable provoquant ainsi des interruptions ou des problèmes de réseau. Envoyer un rapport de bogue à Mi pour analyse ? Ce rapport peut contenir des informations personnelles identifiables. Votre rapport sera utilisé pour aider à résoudre ce bogue et ne sera jamais partagé dans un contexte commercial."</string>
+    <string name="modem_dialog_body">"Le réseau mobile n'est pas stable provoquant ainsi des interruptions ou des problèmes de réseau. Envoyer un rapport de bogue à Mi pour analyse ? Ce rapport peut contenir des informations personnelles identifiables. Votre rapport sera utilisé pour aider à résoudre ce bogue et ne sera jamais partagé dans un contexte commercial."</string>
     <string name="modem_dialog_title">"Le réseau n'est pas stable"</string>
     <string name="modem_set_title">MODEM SETTING</string>
     <string name="modem_setting_button_title">Enter into setting manu</string>
@@ -1176,7 +1176,7 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
     <string name="msim_default_setting">Paramètres par défaut</string>
     <string name="msim_disable_sim_card_btn_text">OK </string>
     <string name="msim_disable_sim_card_summary_default_card">"Cette carte est actuellement définie comme votre carte SIM par défaut. Si vous arrêtez de l'utiliser, vous ne serez plus en mesure de passer des appels ou d'utiliser votre connexion de données mobile. Vous pourrez arrêter cette carte SIM après avoir défini une autre carte SIM comme votre carte par défaut."</string>
-    <string name="msim_disable_sim_card_summary_non_default_card">"Vous ne pouvez pas être en mesure de passer des appels ou d'utiliser votre connexion de données cellulaires. Arrêter d'utiliser la carte SIM %s ?"</string>
+    <string name="msim_disable_sim_card_summary_non_default_card">"Vous ne pouvez pas être en mesure de passer des appels ou d'utiliser votre connexion de données mobiles. Arrêter d'utiliser la carte SIM %s ?"</string>
     <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">"Ne pas restreindre votre carte SIM secondaire en mode rappel d'urgence."</string>
     <string name="msim_disable_sim_card_title">"Arrêter d'utiliser la carte SIM"</string>
     <string name="msim_emm_cause_11">"SIM %d carrier doesn't support this service."</string>
@@ -1211,9 +1211,9 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
     <string name="msim_setting_no_sim_indicator">Pas de carte SIM</string>
     <string name="msim_setting_no_sim_number">Non défini</string>
     <string name="msim_setting_no_sim_package_info">Aucune information sur le solde</string>
-    <string name="msim_setting_operator_network_title">Réseau cellulaire</string>
+    <string name="msim_setting_operator_network_title">Réseau mobile</string>
     <string name="msim_setting_pop_text">Sélectionnez la carte SIM pour les appels</string>
-    <string name="msim_setting_screen_title">Réseaux cellulaires</string>
+    <string name="msim_setting_screen_title">Réseaux mobiles</string>
     <string name="msim_setting_set_package">Sélectionner le forfait</string>
     <string name="msim_setting_sim_info_editor_title">Éditer les infos de la carte SIM</string>
     <string name="msim_sim_lock">Verrouillé</string>
@@ -1225,7 +1225,7 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
     <string name="name">Nom</string>
     <string name="national_disable">Les informations nationales sont désactivées</string>
     <string name="national_enable">Les informations nationales sont activées</string>
-    <string name="netcheck_title">Diagnostic du réseau cellulaire</string>
+    <string name="netcheck_title">Diagnostic du réseau mobile</string>
     <string name="network_4G">4G (recommandé)</string>
     <string name="network_active">Active networks</string>
     <string name="network_available">Available networks</string>
@@ -1251,16 +1251,16 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
     <string name="network_settings_forbidden">%s (interdit)</string>
     <string name="network_settings_information">Désactiver les données cellualires ?</string>
     <string name="network_settings_next">Suivant</string>
-    <string name="network_settings_query_failed_message">Impossible de rechercher les réseaux cellulaires.</string>
+    <string name="network_settings_query_failed_message">Impossible de rechercher les réseaux mobiles.</string>
     <string name="network_settings_select_automatic_hint">"Impossible de s'enregistrer sur le réseau sélectionné.
 Le réseau préféré sera utilisé."</string>
-    <string name="network_settings_title">Réseaux cellulaires</string>
+    <string name="network_settings_title">Réseaux mobiles</string>
     <string name="network_settings_turn_off">Désactivé</string>
     <string name="network_settings_warn_message">Votre appareil se connectera uniquement aux réseaux que vous sélectionnerez manuellement.</string>
     <string name="network_state_display">Show network status</string>
     <string name="network_state_display_title">Network status settings</string>
     <string name="network_unlock">Déverrouiller</string>
-    <string name="networks_title">Réseaux cellulaires</string>
+    <string name="networks_title">Réseaux mobiles</string>
     <string name="newPin2Label">Nouveau code PIN 2</string>
     <string name="newPinLabel">Nouveau code PIN</string>
     <string name="new_password_label">Nouveau mot de passe à %d chiffres</string>
@@ -1270,7 +1270,7 @@ Le réseau préféré sera utilisé."</string>
     <string name="no_change">"Aucune modification n'a été apportée."</string>
     <string name="no_checked_network">Vous ne serez plus en mesure de vous connecter au réseau mobile et effectuer des appels. Sélectionner un autre réseau ?</string>
     <string name="no_internet_available">"Pour passer un appel SIP, vérifiez tout d'abord la connexion internet."</string>
-    <string name="no_mobile_data">Les données cellulaires ne sont pas disponibles</string>
+    <string name="no_mobile_data">Les données mobiles ne sont pas disponibles</string>
     <string name="no_mobile_data_roaming">"L'itinérance des données n'est pas disponible"</string>
     <string name="no_vm_number">Numéro de messagerie vocale manquant</string>
     <string name="no_vm_number_msg">Pas de numéro de messagerie vocale enregistré dans la carte SIM.</string>
@@ -1281,7 +1281,7 @@ Le réseau préféré sera utilisé."</string>
     <string name="not_set">Non défini</string>
     <string name="not_voice_capable">Appels vocaux non pris en charge</string>
     <string name="notification_channel_demo">Demo device</string>
-    <string name="notification_demo_version_text">"Impossible de passer des appels ou d'utiliser des données cellulaires"</string>
+    <string name="notification_demo_version_text">"Impossible de passer des appels ou d'utiliser des données mobiles"</string>
     <string name="notification_demo_version_title">Ceci est un appareil de démonstration</string>
     <string name="notification_network_selection_text">Réseau sélectionné %s non disponible</string>
     <string name="notification_network_selection_title">Aucun service</string>
@@ -1742,7 +1742,7 @@ Votre carte SIM sera bloquée en cas de nouvel échec."</string>
     <string name="reverting_settings">Rétablissement des paramètres…</string>
     <string name="ringtone_silent">Aucune</string>
     <string name="ringtone_unknown">Sonnerie inconnue</string>
-    <string name="roaming">Déconnecté du réseau de données cellulaires</string>
+    <string name="roaming">Déconnecté du réseau de données mobiles</string>
     <string name="roaming_alert_title">"Autoriser l'itinérance des données ?"</string>
     <string name="roaming_check_price_warning">Vérifiez le tarif auprès de votre opérateur.</string>
     <string name="roaming_customer_service_message_kr">Tap to contact roaming customer support (+82-2-2190-0901). This call is free abroad.</string>
@@ -1782,7 +1782,7 @@ Votre carte SIM sera bloquée en cas de nouvel échec."</string>
     <string name="select_apn_list_title">Choisissez votre APN par défaut : pour la carte%1$s</string>
     <string name="select_application">Sélectionner une appli</string>
     <string name="select_automatically">Sélectionner automatiquement un réseau</string>
-    <string name="select_dds_dialog_title">Sélectionner les données cellulaires par défaut SIM</string>
+    <string name="select_dds_dialog_title">Sélectionner les données mobiles par défaut SIM</string>
     <string name="select_logd_size_dialog_title">Tailles enreg. par tampon journal</string>
     <string name="select_logd_size_title">Tailles mémoires tampons enregistr.</string>
     <string name="select_logpersist_dialog_title">"Sélectionner les mémoires tampon journal à stocker en permanence sur l'appareil"</string>
@@ -1894,7 +1894,7 @@ Votre carte SIM sera bloquée en cas de nouvel échec."</string>
     <string name="smart_dual_sim_prompt">Your device will connect to a mobile data network using the secondary SIM if current connectivity is poor. This may generate additional data fees. Set a data usage limit to avoid additional fees.</string>
     <string name="smart_dual_sim_prompt_ok">Paramètres</string>
     <string name="smart_dual_sim_prompt_title">Data usage warning (SIM %s)</string>
-    <string name="smart_dual_sim_summary">Passer sur Switch la seconde carte SIM et utiliser ses données cellulaires lorsque la connexion actuelle sera peu utilisée. Lorsque la connectivité augmentera, repasser sur la carte SIM de départ.</string>
+    <string name="smart_dual_sim_summary">Passer sur Switch la seconde carte SIM et utiliser ses données mobiles lorsque la connexion actuelle sera peu utilisée. Lorsque la connectivité augmentera, repasser sur la carte SIM de départ.</string>
     <string name="smart_dual_sim_title">Double SIM intelligente</string>
     <string name="smart_forwarding_settings_menu">Smart Forwarding</string>
     <string name="smart_forwarding_settings_menu_summary">"When one number isn't reachable, always forward calls to your other number"</string>
@@ -2205,18 +2205,18 @@ Les appels d’urgence ne sont possibles que dans les zones couvertes par une co
     <string name="wapi_password_length_is_min_to_max">"Le mot de passe doit l'être: 8-64 caractères"</string>
     <string name="wapi_yes">oui</string>
     <string name="wfcmode_ims_preferred">Privilégier IMS</string>
-    <string name="wfcmode_mobile_preferred">Réseaux cellulaires</string>
+    <string name="wfcmode_mobile_preferred">Réseaux mobiles</string>
     <string name="wfcmode_wifi_only">Wi-Fi uniquement</string>
     <string name="wfcmode_wifi_preferred">Réseaux Wi-Fi</string>
     <string name="wifi_ap_unable_to_handle_new_sta">"Point d'accès temporairement plein"</string>
     <string name="wifi_auto_sel_wapi_cert">Sélectionnez automatiquement</string>
     <string name="wifi_call_accept">Suivant</string>
-    <string name="wifi_call_available_message">"Vous pouvez maintenant passer des appels en utilisant le Wi-Fi. Si vous êtes connecté à un réseau Wi-Fi, vous pourrez parler même lorsque vous vous trouvez dans des zones sans couverture de réseau cellulaire."</string>
+    <string name="wifi_call_available_message">"Vous pouvez maintenant passer des appels en utilisant le Wi-Fi. Si vous êtes connecté à un réseau Wi-Fi, vous pourrez parler même lorsque vous vous trouvez dans des zones sans couverture de réseau mobile."</string>
     <string name="wifi_call_available_message_for_ATT_MX">Vous êtes sur le point de vous connecter à un réseau Wi-Fi, la qualité des appels peut varier en fonction du réseau.</string>
     <string name="wifi_call_available_title">Activer les appels Wi-Fi</string>
     <string name="wifi_call_cancel">"Plus d'informations"</string>
     <string name="wifi_call_help">Aide</string>
-    <string name="wifi_call_help_message_1">"Les appels Wi-Fi sont un service fourni par Orange qui vous permet de passer et de recevoir des appels via Wi-Fi. Cette fonctionnalité peut être utilisée dans les zones à faible couverture de réseau cellulaire.
+    <string name="wifi_call_help_message_1">"Les appels Wi-Fi sont un service fourni par Orange qui vous permet de passer et de recevoir des appels via Wi-Fi. Cette fonctionnalité peut être utilisée dans les zones à faible couverture de réseau mobile.
 
 Pour utiliser les appels Wi-Fi, activez-le dans Paramètres &gt; Appel Wi-Fi.
 
@@ -2225,12 +2225,12 @@ Pour activer le service, Orange vous enverra un message de confirmation dès que
 Les appels effectués via Wi-Fi seront facturés selon les conditions de votre forfait.
 
 Chaque fois que cette fonction est disponible, l'icône suivante s'affiche en haut de votre écran."</string>
-    <string name="wifi_call_help_message_2">"Si vous choisissez de préférer les réseaux Wi-Fi, ils seront utilisés par défaut pour passer des appels téléphoniques. Si vous n'êtes pas connecté au Wi-Fi ou que le signal est faible, les réseaux cellulaires seront utilisés pour passer des appels.
+    <string name="wifi_call_help_message_2">"Si vous choisissez de préférer les réseaux Wi-Fi, ils seront utilisés par défaut pour passer des appels téléphoniques. Si vous n'êtes pas connecté au Wi-Fi ou que le signal est faible, les réseaux mobiles seront utilisés pour passer des appels.
 
-Si vous choisissez de préférer les réseaux cellulaires, ils seront utilisés par défaut pour passer des appels téléphoniques. S'il n'y a pas de couverture de réseau cellulaire ou si le signal est faible, les réseaux Wi-Fi seront utilisés à la place."</string>
+Si vous choisissez de préférer les réseaux mobiles, ils seront utilisés par défaut pour passer des appels téléphoniques. S'il n'y a pas de couverture de réseau mobile ou si le signal est faible, les réseaux Wi-Fi seront utilisés à la place."</string>
     <string name="wifi_call_help_title">Aide appel Wi-Fi</string>
     <string name="wifi_call_notification_message">"Ce service est fourni par Orange. L'activation de ce service peut prendre plusieurs heures. Vous recevrez un SMS de confirmation dès qu'il sera disponible."</string>
-    <string name="wifi_call_preferred_summary">"Si vous choisissez de préférer les réseaux cellulaires, les réseaux cellulaires seront utilisés pour les appels par défaut. Dans le cas où il n'y a pas de signal de réseau cellulaire ou qu'il est très pauvre, le réseau Wi-Fi sera utilisé à la place."</string>
+    <string name="wifi_call_preferred_summary">"Si vous choisissez de préférer les réseaux mobiles, les réseaux mobiles seront utilisés pour les appels par défaut. Dans le cas où il n'y a pas de signal de réseau mobile ou qu'il est très pauvre, le réseau Wi-Fi sera utilisé à la place."</string>
     <string name="wifi_call_setting">Passer des appels Wi-Fi</string>
     <string name="wifi_call_setting_vodafone_de">Appel Wi-Fi</string>
     <string name="wifi_call_setting_vodafone_uk">Appel Wi-Fi</string>

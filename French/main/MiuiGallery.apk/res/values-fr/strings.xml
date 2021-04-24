@@ -203,8 +203,8 @@
   <string name="app_summary">Gérer et éditer vos photos et vidéos sur votre appareil et dans Xiaomi Cloud</string>
   <string name="apply">Appliquer</string>
   <string name="art_still_download_failed_for_notwork">Impossible de télécharger. Vérifiez vos paramètres réseau et réessayez.</string>
-  <string name="art_still_download_sdk_without_wifi_msg">"Il semble que votre appareil n'est pas connecté au Wi-Fi. Télécharger le plug-in en utilisant les données cellulaires ?"</string>
-  <string name="art_still_download_sdk_without_wifi_msg_china">"Il semble que votre appareil n'est pas connecté au WLAN. Télécharger le plug-in en utilisant les données cellulaires ?"</string>
+  <string name="art_still_download_sdk_without_wifi_msg">"Il semble que votre appareil n'est pas connecté au Wi-Fi. Télécharger le plug-in en utilisant les données mobiles ?"</string>
+  <string name="art_still_download_sdk_without_wifi_msg_china">"Il semble que votre appareil n'est pas connecté au WLAN. Télécharger le plug-in en utilisant les données mobiles ?"</string>
   <string name="art_still_download_sdk_without_wifi_title">Télécharger le plug-in \"Art\"</string>
   <string name="art_still_load_data_fail">Impossible de charger les données</string>
   <string name="art_still_module_finish">Plug-in \"Art\" téléchargé avec succès</string>
@@ -280,11 +280,11 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
   <string name="backup_no_network_desc">Se connecter au réseau pour sauvegarder des éléments</string>
   <string name="backup_no_network_title">Impossible de se connecter à Xiaomi Cloud</string>
   <string name="backup_no_wifi_btn_text">Utiliser les données</string>
-  <string name="backup_no_wifi_desc">"Vous pouvez également sauvegarder des éléments à l'aide de données cellulaires"</string>
+  <string name="backup_no_wifi_desc">"Vous pouvez également sauvegarder des éléments à l'aide de données mobiles"</string>
   <string name="backup_no_wifi_title">La synchronisation reprendra une fois que vous serez connecté au Wi-Fi</string>
   <string name="backup_only_in_wifi">Utiliser le Wi-Fi pour synchroniser des photos / vidéos</string>
-  <string name="backup_only_in_wifi_summary">Ne jamais utiliser les données cellulaires pour synchroniser des photos ou des vidéos</string>
-  <string name="backup_only_wifi_dialog_message">Utiliser les données cellulaires pour synchroniser des photos et des vidéos ?</string>
+  <string name="backup_only_in_wifi_summary">Ne jamais utiliser les données mobiles pour synchroniser des photos ou des vidéos</string>
+  <string name="backup_only_wifi_dialog_message">Utiliser les données mobiles pour synchroniser des photos et des vidéos ?</string>
   <string name="backup_pause">Suspendre la sauvegarde</string>
   <string name="backup_pause_dialog_title">Pause synchro</string>
   <string name="backup_pause_title">Synchro est en pause</string>
@@ -303,10 +303,10 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
   <string name="backup_sync_off_title">La synchronisation avec le Cloud est désactivée</string>
   <string name="backup_with_gprs_dialog_btn">Sauvegarde</string>
   <string name="backup_with_gprs_dialog_message">%s de données est nécessaire pour les éléments de sauvegarde. Sauvegarder maintenant ?</string>
-  <string name="backup_with_gprs_dialog_title">"Sauvegarde à l'aide de données cellulaires"</string>
+  <string name="backup_with_gprs_dialog_title">"Sauvegarde à l'aide de données mobiles"</string>
   <string name="backuped_desc">Les photos et vidéos sont sauvegardées sur Xiaomi Cloud</string>
   <string name="backuped_title">Sauvegardé avec succès</string>
-  <string name="backuping_title_gprs">"Sauvegarder à l'aide de données cellulaires…"</string>
+  <string name="backuping_title_gprs">"Sauvegarder à l'aide de données mobiles…"</string>
   <string name="backuping_title_normal">Sauvegarde en cours…</string>
   <string name="base_btn_cancel">Annuler</string>
   <string name="base_btn_download">Continuer</string>
@@ -850,10 +850,10 @@ sont disponibles"</string>
   <string name="filter_sky_download_failed">"Impossible de télécharger le plug-in. Vérifiez vos paramètres réseau et réessayez."</string>
   <string name="filter_sky_download_failed_msg">Impossible de télécharger. Vérifiez vos paramètres réseau et réessayez.</string>
   <string name="filter_sky_download_finish">Plug-in téléchargé avec succès</string>
-  <string name="filter_sky_download_sdk_without_wifi_msg">"Si vous n'êtes pas connecté au Wi-Fi, vous pouvez utiliser les données cellulaires pour télécharger le plug-in (%1$d Mo) qui vous permet de remplacer le ciel sur vos photos."</string>
+  <string name="filter_sky_download_sdk_without_wifi_msg">"Si vous n'êtes pas connecté au Wi-Fi, vous pouvez utiliser les données mobiles pour télécharger le plug-in (%1$d Mo) qui vous permet de remplacer le ciel sur vos photos."</string>
   <string name="filter_sky_download_sdk_without_wifi_title">Télécharger le plug-in</string>
-  <string name="filter_sky_download_with_metered_network_msg">"L'utilisation de données cellulaires pour télécharger des fichiers originaux peut générer des frais de l'opérateur supplémentaires. Télécharger quand même ?"</string>
-  <string name="filter_sky_download_with_metered_network_title">Utiliser les données cellulaires</string>
+  <string name="filter_sky_download_with_metered_network_msg">"L'utilisation de données mobiles pour télécharger des fichiers originaux peut générer des frais de l'opérateur supplémentaires. Télécharger quand même ?"</string>
+  <string name="filter_sky_download_with_metered_network_title">Utiliser les données mobiles</string>
   <string name="filter_sky_dusk">Crépuscule</string>
   <string name="filter_sky_dynamic_duoyun">Cloudy</string>
   <string name="filter_sky_dynamic_jiyun">Cumulus</string>
@@ -978,8 +978,8 @@ sont disponibles"</string>
   <string name="hybrid_service_unavailiable">Service indisponible</string>
   <string name="hybrid_try_again">Veuillez réessayer</string>
   <string name="id_photo_download_failed_for_notwork">Impossible de télécharger. Vérifiez vos paramètres réseau et réessayez.</string>
-  <string name="id_photo_download_sdk_without_wifi_msg">"Il semble que votre appareil n'est pas connecté au Wi-Fi. Télécharger le plug-in en utilisant les données cellulaires ?"</string>
-  <string name="id_photo_download_sdk_without_wifi_msg_china">"Il semble que votre appareil n'est pas connecté au WLAN. Télécharger le plug-in en utilisant les données cellulaires ?"</string>
+  <string name="id_photo_download_sdk_without_wifi_msg">"Il semble que votre appareil n'est pas connecté au Wi-Fi. Télécharger le plug-in en utilisant les données mobiles ?"</string>
+  <string name="id_photo_download_sdk_without_wifi_msg_china">"Il semble que votre appareil n'est pas connecté au WLAN. Télécharger le plug-in en utilisant les données mobiles ?"</string>
   <string name="id_photo_download_sdk_without_wifi_title">Télécharger le plug-in \"ID\"</string>
   <string name="id_photo_load_data_fail">Impossible de charger les données</string>
   <string name="id_photo_module_finish">Plug-in \"ID\" téléchargé avec succès</string>
@@ -1053,7 +1053,7 @@ sont disponibles"</string>
   <string name="macarons_download_dialog_message">Télécharger le plug-in de vignette magique maintenant ?</string>
   <string name="macarons_download_dialog_title">Télécharger le plug-in</string>
   <string name="macarons_download_dialog_without_wifi_confirm">Télécharger</string>
-  <string name="macarons_download_dialog_without_wifi_message">"Impossible de se connecter au Wi-Fi. Vous pouvez utiliser les données cellulaires pour télécharger le plug-in de vignette magique."</string>
+  <string name="macarons_download_dialog_without_wifi_message">"Impossible de se connecter au Wi-Fi. Vous pouvez utiliser les données mobiles pour télécharger le plug-in de vignette magique."</string>
   <string name="macarons_download_later">Attendez une minute ou deux et réessayez</string>
   <string name="macarons_download_network_fail">"Impossible de télécharger le plug-in. Vérifiez vos paramètres réseau et réessayez."</string>
   <string name="macarons_download_other_fail">"Impossible de télécharger en raison d'une erreur"</string>
@@ -1105,8 +1105,8 @@ sont disponibles"</string>
   <string name="magic_make_save_title">Enregistrer une image</string>
   <string name="magic_make_save_title2">Enregistrer les deux</string>
   <string name="magic_matting_download_failed_for_notwork">Impossible de télécharger. Vérifiez vos paramètres réseau et réessayez.</string>
-  <string name="magic_matting_download_sdk_without_wifi_msg">"Il semble que votre appareil n'est pas connecté au Wi-Fi. Télécharger le plug-in en utilisant les données cellulaires ?"</string>
-  <string name="magic_matting_download_sdk_without_wifi_msg_china">"Il semble que votre appareil n'est pas connecté au WLAN. Télécharger le plug-in en utilisant les données cellulaires ?"</string>
+  <string name="magic_matting_download_sdk_without_wifi_msg">"Il semble que votre appareil n'est pas connecté au Wi-Fi. Télécharger le plug-in en utilisant les données mobiles ?"</string>
+  <string name="magic_matting_download_sdk_without_wifi_msg_china">"Il semble que votre appareil n'est pas connecté au WLAN. Télécharger le plug-in en utilisant les données mobiles ?"</string>
   <string name="magic_matting_download_sdk_without_wifi_title">Télécharger le plug-in \"Magie\"</string>
   <string name="magic_matting_error_px">"Cette taille d'image n'est pas prise en charge"</string>
   <string name="magic_matting_face_fail">Impossible de traiter le visage</string>
@@ -1282,7 +1282,7 @@ pour personnaliser Galerie"</string>
   <string name="movie_delete_disable">Vous avez besoin d’au moins %d photos pour créer un clip.</string>
   <string name="movie_download_failed">Impossible de télécharger</string>
   <string name="movie_download_failed_for_notwork">Impossible de télécharger. Veuillez vous connecter au réseau puis réessayez.</string>
-  <string name="movie_download_sdk_without_wifi_msg">Votre appareil ne semble pas connecté au Wi-Fi. Télécharger le plug-in requis (3 Mo) en utilisant les données cellulaires ?</string>
+  <string name="movie_download_sdk_without_wifi_msg">Votre appareil ne semble pas connecté au Wi-Fi. Télécharger le plug-in requis (3 Mo) en utilisant les données mobiles ?</string>
   <string name="movie_download_sdk_without_wifi_title">Télécharger via les données mobiles</string>
   <string name="movie_edit">Éditer</string>
   <string name="movie_item_name">Clip</string>
@@ -1325,7 +1325,7 @@ pour personnaliser Galerie"</string>
   <string name="need_to_turn_on_sync_first">"Activez la synchronisation avec le Cloud d'abord"</string>
   <string name="need_to_turn_on_wlan">"Connectez-vous au Wi-Fi d'abord"</string>
   <string name="network_connected_rescan">Impossible de se connecter au réseau</string>
-  <string name="network_message">"Cette fonction doit se connecter au réseau pour fonctionner normalement. Il semble que cet appareil n'est pas connecté au Wi-Fi. Utiliser les données cellulaires pour continuer ? L'utilisation de données mobiles peut générer des frais supplémentaires pour les opérateurs."</string>
+  <string name="network_message">"Cette fonction doit se connecter au réseau pour fonctionner normalement. Il semble que cet appareil n'est pas connecté au Wi-Fi. Utiliser les données mobiles pour continuer ? L'utilisation de données mobiles peut générer des frais supplémentaires pour les opérateurs."</string>
   <string name="network_title">Connectez-vous au réseau</string>
   <string name="new_album_invalid_char">Les noms ne peuvent pas contenir \"%s\", entrer une lettre ou un chiffre.</string>
   <string name="new_album_invalid_name">\"%s\" est un album système, veuillez le renommer.</string>
@@ -1482,7 +1482,7 @@ Le transcodage peut prendre un certain temps lorsque vous utilisez cette fonctio
   <string name="photo_editor_beauty_compare">Original</string>
   <string name="photo_editor_common_download_failed">Impossible de télécharger le plug-in. Vérifiez vos paramètres réseau et réessayez.</string>
   <string name="photo_editor_common_download_finish">Plug-in téléchargé avec succès</string>
-  <string name="photo_editor_common_download_sdk_without_wifi_msg">"Il semble que vous n'êtes pas connecté au Wi-Fi. Télécharger le plug-in (%1$d Mo) à l'aide de données cellulaires ?"</string>
+  <string name="photo_editor_common_download_sdk_without_wifi_msg">"Il semble que vous n'êtes pas connecté au Wi-Fi. Télécharger le plug-in (%1$d Mo) à l'aide de données mobiles ?"</string>
   <string name="photo_editor_common_download_sdk_without_wifi_title">Télécharger le plug-in</string>
   <string name="photo_editor_compare_tip">"Appuyez longuement pour voir l'image originale"</string>
   <string name="photo_editor_crop_and_rotate">Rogner</string>
@@ -1512,7 +1512,7 @@ Le transcodage peut prendre un certain temps lorsque vous utilisez cette fonctio
   <string name="photo_editor_miui_beauty_no_face">Impossible de détecter le visage</string>
   <string name="photo_editor_mosaic">Mosaïque</string>
   <string name="photo_editor_navigator_cancel">Annuler</string>
-  <string name="photo_editor_navigator_download_network_metered_msg" formatted="false">Télécharger %s nécessite environ %2$d Mo de données cellulaires. Télécharger maintenant ?</string>
+  <string name="photo_editor_navigator_download_network_metered_msg" formatted="false">Télécharger %s nécessite environ %2$d Mo de données mobiles. Télécharger maintenant ?</string>
   <string name="photo_editor_navigator_download_network_metered_title">"Alerte d'utilisation des données"</string>
   <string name="photo_editor_navigator_download_title">Chargement…</string>
   <string name="photo_editor_navigator_export">Enregistrer</string>
@@ -1524,8 +1524,8 @@ Le transcodage peut prendre un certain temps lorsque vous utilisez cette fonctio
   <string name="photo_editor_navigator_need_download">Se connecter à internet pour télécharger %s.</string>
   <string name="photo_editor_navigator_sticker_download_failed">Impossible de télécharger. Vérifiez vos paramètres réseau et réessayez.</string>
   <string name="photo_editor_navigator_sticker_download_success">Téléchargé avec succès</string>
-  <string name="photo_editor_navigator_sticker_download_without_wifi_msg">"Il semble que vous n'êtes pas connecté au Wi-Fi. Utiliser %1$d Mo de données cellulaires pour télécharger le plug-in ?"</string>
-  <string name="photo_editor_navigator_sticker_download_without_wifi_msg_china">"Il semble que vous n'êtes pas connecté au Wi-Fi. Utiliser %1$d Mo de données cellulaires pour télécharger le plug-in ?"</string>
+  <string name="photo_editor_navigator_sticker_download_without_wifi_msg">"Il semble que vous n'êtes pas connecté au Wi-Fi. Utiliser %1$d Mo de données mobiles pour télécharger le plug-in ?"</string>
+  <string name="photo_editor_navigator_sticker_download_without_wifi_msg_china">"Il semble que vous n'êtes pas connecté au Wi-Fi. Utiliser %1$d Mo de données mobiles pour télécharger le plug-in ?"</string>
   <string name="photo_editor_navigator_sticker_download_without_wifi_title">Télécharger le plug-in</string>
   <string name="photo_editor_remove_watermark">Supprimer filigrane</string>
   <string name="photo_editor_remove_watermark_on">Ajouter un filigrane</string>
@@ -1533,7 +1533,7 @@ Le transcodage peut prendre un certain temps lorsque vous utilisez cette fonctio
   <string name="photo_editor_remover2_download_failed">Impossible de télécharger AI Erase 2.0. Vérifiez vos paramètres réseau et réessayez.</string>
   <string name="photo_editor_remover2_download_failed_msg">Impossible de télécharger. Vérifiez vos paramètres réseau et réessayez.</string>
   <string name="photo_editor_remover2_download_finish">AI Erase 2.0 téléchargé avec succès</string>
-  <string name="photo_editor_remover2_download_sdk_without_wifi_msg">"Il semble que vous n'êtes pas connecté au Wi-Fi. Utiliser %1$d Mo de données cellulaires pour télécharger AI Erase 2.0 ?"</string>
+  <string name="photo_editor_remover2_download_sdk_without_wifi_msg">"Il semble que vous n'êtes pas connecté au Wi-Fi. Utiliser %1$d Mo de données mobiles pour télécharger AI Erase 2.0 ?"</string>
   <string name="photo_editor_remover2_download_sdk_without_wifi_title">Télécharger AI Erase 2.0</string>
   <string name="photo_editor_remover2_edit_type_free">Manuellement</string>
   <string name="photo_editor_remover2_edit_type_line">Effacer les lignes électriques</string>
@@ -1589,7 +1589,7 @@ Le transcodage peut prendre un certain temps lorsque vous utilisez cette fonctio
   <string name="photo_portrait_color_download_fail">"Impossible de télécharger le plug-in. Connectez-vous au réseau et réessayez."</string>
   <string name="photo_portrait_color_download_success">Filtres téléchargés avec succès</string>
   <string name="photo_portrait_color_no_face">La mise au point couleur ne fonctionne que sur les photos avec des personnes</string>
-  <string name="photo_portrait_download_sdk_without_wifi_msg">"Il semble que votre appareil ne soit pas connecté au Wi-Fi maintenant. Vous pouvez télécharger des filtres (%1$d Mo) à l'aide de données cellulaires."</string>
+  <string name="photo_portrait_download_sdk_without_wifi_msg">"Il semble que votre appareil ne soit pas connecté au Wi-Fi maintenant. Vous pouvez télécharger des filtres (%1$d Mo) à l'aide de données mobiles."</string>
   <string name="photo_portrait_download_sdk_without_wifi_title">Télécharger les filtres</string>
   <string name="photo_print_menu_loading">Chargement du plug-in…</string>
   <string name="photo_print_package_finish">Plug-in Print chargé avec succès</string>
@@ -2017,7 +2017,7 @@ Le transcodage peut prendre un certain temps lorsque vous utilisez cette fonctio
   <string name="sync_pending_title">Sera automatiquement synchronisé</string>
   <string name="sync_state_unknow">"Obtention d'informations"</string>
   <string name="synced_title">Photos et vidéos sauvegardés avec succès</string>
-  <string name="syncing_gprs_title">Utilisation des données cellulaires pour sauvegarder des éléments</string>
+  <string name="syncing_gprs_title">Utilisation des données mobiles pour sauvegarder des éléments</string>
   <string name="syncing_metadata_title">Synchronisation des données Xiaomi Cloud</string>
   <string name="syncing_normal_title">Sauvegarde des photos et vidéos</string>
   <string name="system_album">Album Système</string>
@@ -2127,7 +2127,7 @@ Le transcodage peut prendre un certain temps lorsque vous utilisez cette fonctio
   <string name="to_enable_sync_dialog_positive_button_text">Accéder aux paramètres</string>
   <string name="to_enable_sync_dialog_title">Synchronisation</string>
   <string name="toast_download_with_metered_network_btn_continue">Télécharger</string>
-  <string name="toast_download_with_metered_network_msg">"Il semble que votre appareil n'est pas connecté au Wi-Fi. Télécharger des éléments à l'aide de données cellulaires ?"</string>
+  <string name="toast_download_with_metered_network_msg">"Il semble que votre appareil n'est pas connecté au Wi-Fi. Télécharger des éléments à l'aide de données mobiles ?"</string>
   <string name="toast_download_with_metered_network_title">"Avertissement d'utilisation des données"</string>
   <string name="toast_invalid_char">"Les noms de fichiers ne peuvent pas contenir \"%s\""</string>
   <string name="toast_invalid_prefix">"Les noms de fichiers ne peuvent pas commencer par \".\" ou \"_\""</string>
@@ -2185,7 +2185,7 @@ Le transcodage peut prendre un certain temps lorsque vous utilisez cette fonctio
   <string name="video_analytic_cancel">Annuler</string>
   <string name="video_analytic_download">Télécharger</string>
   <string name="video_analytic_download_failed_for_notwork">Téléchargement impossible. Vérifiez vos réglages réseau et réessayez.</string>
-  <string name="video_analytic_download_sdk_without_wifi_msg">Connexion au Wi-Fi impossible. Vous pouvez aussi télécharger le plugin en utilisant les données cellulaires.</string>
+  <string name="video_analytic_download_sdk_without_wifi_msg">Connexion au Wi-Fi impossible. Vous pouvez aussi télécharger le plugin en utilisant les données mobiles.</string>
   <string name="video_analytic_download_sdk_without_wifi_title">Téléchargement du plugin…</string>
   <string name="video_compress_download_failed_for_notwork">Téléchargement impossible. Vérifiez vos réglages réseau et réessayez.</string>
   <string name="video_compress_encode_video">Compression vidéo…</string>
@@ -2254,8 +2254,8 @@ Le transcodage peut prendre un certain temps lorsque vous utilisez cette fonctio
   <string name="video_editor_ok">OK </string>
   <string name="video_editor_regulator">Ajuster</string>
   <string name="video_editor_res_download_failed_tips">Impossible de télécharger, vérifiez votre réseau puis réessayez</string>
-  <string name="video_editor_res_download_mobil_network_confirm_msg">Télécharger les bandes sonores via les données cellulaires ?</string>
-  <string name="video_editor_res_download_mobil_network_confirm_title">Via données cellulaires</string>
+  <string name="video_editor_res_download_mobil_network_confirm_msg">Télécharger les bandes sonores via les données mobiles ?</string>
+  <string name="video_editor_res_download_mobil_network_confirm_title">Via données mobiles</string>
   <string name="video_editor_return">Retour</string>
   <string name="video_editor_save">Enrergistrer</string>
   <string name="video_editor_smart_effect_beat">Battements</string>
@@ -2298,8 +2298,8 @@ Le transcodage peut prendre un certain temps lorsque vous utilisez cette fonctio
   <string name="video_err">Lecture impossible</string>
   <string name="video_not_exist">"La vidéo n'existe pas"</string>
   <string name="video_post_download_failed_for_notwork">"Impossible de télécharger. Vérifiez vos paramètres réseau et réessayez."</string>
-  <string name="video_post_download_sdk_without_wifi_msg">"Il semble que votre appareil n'est pas connecté au Wi-Fi. Télécharger le plug-in en utilisant les données cellulaires ?"</string>
-  <string name="video_post_download_sdk_without_wifi_msg_china">"Il semble que votre appareil ne soit pas connecté au Wi-Fi. Télécharger le plug-in en utilisant les données cellulaires ?"</string>
+  <string name="video_post_download_sdk_without_wifi_msg">"Il semble que votre appareil n'est pas connecté au Wi-Fi. Télécharger le plug-in en utilisant les données mobiles ?"</string>
+  <string name="video_post_download_sdk_without_wifi_msg_china">"Il semble que votre appareil ne soit pas connecté au Wi-Fi. Télécharger le plug-in en utilisant les données mobiles ?"</string>
   <string name="video_post_download_sdk_without_wifi_title">Téléchargez le plug-in \"Video effects\"</string>
   <string name="video_post_load_data_fail">Impossible de charger les données</string>
   <string name="video_post_module_finish">Plug-in \"Effets vidéos\" téléchargé avec succès</string>
@@ -2373,10 +2373,10 @@ Le transcodage peut prendre un certain temps lorsque vous utilisez cette fonctio
   <string name="vlog_cloud_file_download">Objets dans votre Cloud</string>
   <string name="vlog_download_btn">Télécharger</string>
   <string name="vlog_download_cloud_file_retry">"Impossible de télécharger vos fichiers depuis le cloud. Réessayez."</string>
-  <string name="vlog_download_cloud_file_without_wifi_msg">Connexion Wi-Fi impossible. Vous pouvez aussi télécharger les fichiers du cloud (%s) en utilisant les données cellulaires.</string>
+  <string name="vlog_download_cloud_file_without_wifi_msg">Connexion Wi-Fi impossible. Vous pouvez aussi télécharger les fichiers du cloud (%s) en utilisant les données mobiles.</string>
   <string name="vlog_download_fail">Impossible de télécharger. Vérifiez vos paramètres réseau et réessayez.</string>
   <string name="vlog_download_failed_for_notwork">Impossible de télécharger. Vérifiez vos paramètres réseau et réessayez.</string>
-  <string name="vlog_download_sdk_without_wifi_msg">"Impossible de se connecter au Wi-Fi. Vous pouvez également télécharger un éditeur vidéo à l'aide de données cellulaires."</string>
+  <string name="vlog_download_sdk_without_wifi_msg">"Impossible de se connecter au Wi-Fi. Vous pouvez également télécharger un éditeur vidéo à l'aide de données mobiles."</string>
   <string name="vlog_download_sdk_without_wifi_title">"Téléchargement de l'éditeur vidéo…"</string>
   <string name="vlog_downloading_cloud_file">"Téléchargement d'éléments depuis le cloud…"</string>
   <string name="vlog_end_of_film">Fermeture</string>

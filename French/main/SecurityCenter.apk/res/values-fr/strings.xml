@@ -175,7 +175,7 @@
     <string name="antivirus_monitor_virus_advice">Cette application peut contenir un virus, supprimez-la</string>
     <string name="antivirus_monitored_app_empty">Applications de paiement compatibles introuvables</string>
     <string name="antivirus_none_engine_dialog_ok">OK</string>
-    <string name="antivirus_not_wlan">"Vous n'êtes pas connecté au Wi-Fi. Utiliser les données cellulaires peut générer des frais supplémentaires. Continuer quand même ?"</string>
+    <string name="antivirus_not_wlan">"Vous n'êtes pas connecté au Wi-Fi. Utiliser les données mobiles peut générer des frais supplémentaires. Continuer quand même ?"</string>
     <string name="antivirus_privacy_dialog_cloudscan">Envoyer les noms et détails des applications</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">Envoyer et analyser les noms et détails des applications en utilisant les bases de données de virus en ligne.</string>
     <string name="antivirus_privacy_dialog_ok">OK</string>
@@ -412,8 +412,8 @@
     <string name="app_manager_manage_space">"Gérer l'espace de stockage"</string>
     <string name="app_manager_memory">Mémoire vive</string>
     <string name="app_manager_menu_clear_data">Effacer les données</string>
-    <string name="app_manager_mobile_slot1">Données cellulaires (SIM 1)</string>
-    <string name="app_manager_mobile_slot2">Données cellulaires (SIM 2)</string>
+    <string name="app_manager_mobile_slot1">Données mobiles (SIM 1)</string>
+    <string name="app_manager_mobile_slot2">Données mobiles (SIM 2)</string>
     <string name="app_manager_net_control_title">"Restreindre l'utilisation des données"</string>
     <string name="app_manager_net_mobile">Données Mobiles</string>
     <string name="app_manager_net_wifi">Wi-Fi</string>
@@ -467,7 +467,7 @@ Vous ne perdrez aucune donnée d'application."</string>
     <string name="app_manager_update">Mettre à jour</string>
     <string name="app_manager_updater_notify_message">Mettre à jour les applications pour accéder aux nouvelles fonctionnalités</string>
     <string name="app_managere_not_have_app">Aucune</string>
-    <string name="app_mobile">Données cellulaires</string>
+    <string name="app_mobile">Données mobiles</string>
     <string name="app_name">"Verrouillage d'application"</string>
     <string name="app_name_na">Utilisation des données</string>
     <string name="app_name_securitycenter">Sécurité</string>
@@ -643,7 +643,7 @@ Vous ne perdrez aucune donnée d'application."</string>
     <string name="auto_task_operation_close_string">Désactiver %s</string>
     <string name="auto_task_operation_gps">GPS</string>
     <string name="auto_task_operation_memory_clean_lockscreen">Vider la mémoire</string>
-    <string name="auto_task_operation_mobile_data">Données cellulaires</string>
+    <string name="auto_task_operation_mobile_data">Données mobiles</string>
     <string name="auto_task_operation_modify_string">Éditer %s</string>
     <string name="auto_task_operation_mute">Mode Silencieux</string>
     <string name="auto_task_operation_no_op">Ne pas sélectionner cette action</string>
@@ -707,7 +707,7 @@ Vous ne perdrez aucune donnée d'application."</string>
     <string name="battery_stats_charging_label">En charge</string>
     <string name="battery_stats_gps_on_label">GPS activé</string>
     <string name="battery_stats_on_battery">%1$s sur la batterie</string>
-    <string name="battery_stats_phone_signal_label">Signal du réseau cellulaire</string>
+    <string name="battery_stats_phone_signal_label">Signal du réseau mobile</string>
     <string name="battery_stats_screen_on_label">Écran allumé</string>
     <string name="battery_stats_wake_lock_label">Éveillé</string>
     <string name="battery_stats_wifi_running_label">Wi-Fi</string>
@@ -897,7 +897,7 @@ Vous ne perdrez aucune donnée d'application."</string>
     <string name="confirm_reject_all_permission">Restreindre toutes les applications utilisant cette fonctionnalité ?</string>
     <string name="confirm_take">Obtenir</string>
     <string name="confirm_upgrade">Options</string>
-    <string name="connect_internet_by_mobiledata">Connexion aux données cellulaires</string>
+    <string name="connect_internet_by_mobiledata">Connexion aux données mobiles</string>
     <string name="connect_internet_by_usbshare">Internet partagé via USB</string>
     <string name="connect_internet_by_wifi">Wi-Fi</string>
     <string name="connecting">Connexion…</string>
@@ -935,7 +935,7 @@ Vous ne perdrez aucune donnée d'application."</string>
     <string name="daily_card_setting_fragment_package_summary">Si votre forfait de données quotidien contient un forfait de données mensuel, celui-ci sera utilisé avant le forfait quotidien.</string>
     <string name="daily_limit_and_lock_screen">"Alerte d'utilisation des données"</string>
     <string name="daily_limit_network_available_body">"Appuyez pour afficher les statistiques d'utilisation de données."</string>
-    <string name="daily_limit_over_message">Vous avez dépassé votre limite quotidienne de données cellulaires.</string>
+    <string name="daily_limit_over_message">Vous avez dépassé votre limite quotidienne de données mobiles.</string>
     <string name="daily_pkg_traffic">"Limite d'utilisation de données en heures pleines"</string>
     <string name="data_booster_desc">Désactiver les autres tiroirs de SIM pour stabiliser la connexion</string>
     <string name="data_booster_title">Stabliser la connexion de données</string>
@@ -999,8 +999,8 @@ Toutes les données sur votre appareil peuvent être supprimées et le mot de pa
     <string name="dialog_msg_auto_start_declare">Certaines applications peuvent indiquer que MIUI les empêche de démarrer. Vérifiez les permissions pour les applications dans Paramètres &gt; Applications.</string>
     <string name="dialog_msg_stop_virus_scan">"Arrêter l'analyse de sécurité avant qu'elle ne se termine ?"</string>
     <string name="dialog_no_longer_alert">Ne plus afficher</string>
-    <string name="dialog_restrict_all_mobile_summary">La connexion aux données cellulaires de %s sera restreinte pour toutes les applications une fois cela activé.</string>
-    <string name="dialog_restrict_all_mobile_title">Restreindre la connexion aux données cellulaires de %s</string>
+    <string name="dialog_restrict_all_mobile_summary">La connexion aux données mobiles de %s sera restreinte pour toutes les applications une fois cela activé.</string>
+    <string name="dialog_restrict_all_mobile_title">Restreindre la connexion aux données mobiles de %s</string>
     <string name="dialog_restrict_all_wlan_summary">La connexion Wi-Fi sera restreinte pour toutes les applications une fois cela activé.</string>
     <string name="dialog_restrict_all_wlan_title">Restreindre la connexion Wi-Fi</string>
     <string name="dialog_restrict_negative">Restreindre</string>
@@ -1339,11 +1339,11 @@ Vous devez comprendre que cette fonctionnalité est fournie à titre indicatif u
     <string name="firewall_applist">Applications</string>
     <string name="firewall_fragment_nonesys_listempty">Vide</string>
     <string name="firewall_fragment_sys_listempty">Vide</string>
-    <string name="firewall_mobile">Données cellulaires</string>
-    <string name="firewall_mobile_dialog_message">"L'application installée ne sera plus en mesure de se connecter à internet via les données cellulaires lorsque cet interrupteur est désactivé."</string>
+    <string name="firewall_mobile">Données mobiles</string>
+    <string name="firewall_mobile_dialog_message">"L'application installée ne sera plus en mesure de se connecter à internet via les données mobiles lorsque cet interrupteur est désactivé."</string>
     <string name="firewall_network_allow">%1$s est autorisé à utiliser la connexion %2$s</string>
     <string name="firewall_network_restrict_notify_message">Appuyez pour changer les paramètres.</string>
-    <string name="firewall_network_restrict_notify_mobile">Données cellulaires</string>
+    <string name="firewall_network_restrict_notify_mobile">Données mobiles</string>
     <string name="firewall_partial">Autoriser certaines applications à se connecter via la méthode suivante</string>
     <string name="firewall_restrict_all">Restreindre la connexion pour toutes les application via la méthode suivante</string>
     <string name="firewall_restrict_android_dialog_content">"Pour vous s'assurer que votre appareil fonctionne normalement, quelques applications du système Android se connecteront toujours à internet. Ces applications utiliseront votre connexion de données mobiles et pourront être facturées par votre opérateur."</string>
@@ -1407,7 +1407,7 @@ Vous devez comprendre que cette fonctionnalité est fournie à titre indicatif u
     <string name="first_settings_subtitle">"Voici les options de partage sécurisé qui s'offrent à vous:"</string>
     <string name="first_settings_title">Protéger votre vie privée</string>
     <string name="five_percent_total_pkg">%s (5%% de données mensuelles)</string>
-    <string name="fixed_cellular_data_quota_monthly">Monthly data limit</string>
+    <string name="fixed_cellular_data_quota_monthly">Quota de données mensuelles</string>
     <string name="fixed_package_tips">Additional fees will be generated after you reach the limit</string>
     <string name="fixed_traffic_quota">Data limit (mandatory)</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
@@ -1484,7 +1484,7 @@ Vous devez comprendre que cette fonctionnalité est fournie à titre indicatif u
     <string name="game_manual_record_setting_title">Key moments</string>
     <string name="game_more_improve">Restreindre les activités en arrière-plan et la vitesse de téléchargement pour économiser la batterie et la bande passante pour le jeu</string>
     <string name="game_setting">Paramètres de jeu</string>
-    <string name="game_video_net_data">Données cellulaires</string>
+    <string name="game_video_net_data">Données mobiles</string>
     <string name="game_video_network_eror">Impossible de se connecter au réseau. Vérifiez vos paramètres réseau, puis réessayez.</string>
     <string name="game_wid_viewpoint_buttom">Prendre une petite pause.</string>
     <string name="gamebooster_lowbattery_notification_summary">"Chargez votre appareil avant qu'il ne s'éteigne."</string>
@@ -1809,7 +1809,7 @@ pour rejoindre notre chasse aux œufs !"</string>
     <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Erreur d'opérateur ?&lt;/U&gt;&lt;/font&gt;"</string>
     <string name="guide_operator_text">"Votre opérateur actuel : "</string>
     <string name="guide_quck_open">Activer</string>
-    <string name="guide_second_text">"Après avoir défini votre opérateur, MIUI surveillera quotidiennement l'utilisation de vos données cellulaires en envoyant des SMS gratuits de l'opérateur. Lorsque MIUI détecte que vous avez dépassé la limite de vos données, il se déconnectera du réseau et vous en notifiera."</string>
+    <string name="guide_second_text">"Après avoir défini votre opérateur, MIUI surveillera quotidiennement l'utilisation de vos données mobiles en envoyant des SMS gratuits de l'opérateur. Lorsque MIUI détecte que vous avez dépassé la limite de vos données, il se déconnectera du réseau et vous en notifiera."</string>
     <string name="guide_wait_setting">Pas maintenant</string>
     <string name="handle_bar_summary_wifi_unknown">Inconnu</string>
     <string name="handle_bar_title_system">Système</string>
@@ -2008,13 +2008,13 @@ Votre opérateur peut vous facturer des frais supplémentaires si vous utilisez 
     <string name="main_month_total_used">Utilisées ce mois</string>
     <string name="main_month_used">Forfait de donnée</string>
     <string name="main_no_info">Aucune donnée</string>
-    <string name="main_normal_data_usage">Données cellulaires utilisées</string>
+    <string name="main_normal_data_usage">Données mobiles utilisées</string>
     <string name="main_open_traffic_ctrl_button">"Restreindre l'utilisation des données"</string>
     <string name="main_primary_message_leisure_alert">"Alerte d'utilisation de données en heures creuses"</string>
     <string name="main_primary_message_leisure_overlimit">Limite de données en heures creuses dépassée</string>
     <string name="main_primary_message_leisure_remain">Données en heures creuses</string>
-    <string name="main_primary_message_traffic_overlimit">Vous avez dépassé la limite des données cellulaires</string>
-    <string name="main_primary_message_traffic_remain">Données cellulaires</string>
+    <string name="main_primary_message_traffic_overlimit">Vous avez dépassé la limite des données mobiles</string>
+    <string name="main_primary_message_traffic_remain">Données mobiles</string>
     <string name="main_primary_message_traffic_warning">"Alerte de l'utilisation des données mobiles"</string>
     <string name="main_purchase_tips">Promotion</string>
     <string name="main_tc_over">Étalonné avec succès</string>
@@ -2022,7 +2022,7 @@ Votre opérateur peut vous facturer des frais supplémentaires si vous utilisez 
 pour étalonner"</string>
     <string name="main_tc_wait_result">"En attente de la réponse
 de l'opérateur"</string>
-    <string name="main_tobe_added_desc">Données cellulaires de 0,03 ¥/Mo</string>
+    <string name="main_tobe_added_desc">Données mobiles de 0,03 ¥/Mo</string>
     <string name="main_today_used">"Utilisées aujourd'hui"</string>
     <string name="main_toolbar_firewall">"Restreindre l'utilisation des données"</string>
     <string name="main_toolbar_purchase">Recharger</string>
@@ -2957,8 +2957,8 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
     <string name="power_optimize_disable_gps_high_accuracy">Désactiver le mode de localisation haute précision</string>
     <string name="power_optimize_disable_start_other_app">"Empêcher les applications d'ouvrir d'autres applications"</string>
     <string name="power_optimize_disable_start_other_app_summary">"Les applications consomment de l'énergie en se lançant les unes les autres"</string>
-    <string name="power_optimize_disconnect_data">"Désactiver les données cellulaires %d minutes après le verrouillage de l'appareil"</string>
-    <string name="power_optimize_disconnect_data_summary">"L'utilisation de données cellulaires en arrière-plan consomme de l'énergie"</string>
+    <string name="power_optimize_disconnect_data">"Désactiver les données mobiles %d minutes après le verrouillage de l'appareil"</string>
+    <string name="power_optimize_disconnect_data_summary">"L'utilisation de données mobiles en arrière-plan consomme de l'énergie"</string>
     <string name="power_optimize_enable_now_button">Activer</string>
     <string name="power_optimize_gps_summary">"Restreindre l'accès à la localisation pour toutes les applications"</string>
     <string name="power_optimize_loading">Chargement</string>
@@ -3145,7 +3145,7 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
     <string name="pref_key_daily_package_summary">Activer pour réinitialiser le forfait de données quotidien</string>
     <string name="pref_key_daily_package_switch">Forfait de données quotidien</string>
     <string name="pref_key_daily_package_value">Forfait de données quotidien</string>
-    <string name="pref_key_direction_traffic">Données cellulaires désignées</string>
+    <string name="pref_key_direction_traffic">Données mobiles désignées</string>
     <string name="pref_key_extra_package_value">Taille du forfait</string>
     <string name="pref_key_half_year_package_start">Date du début</string>
     <string name="pref_key_half_year_package_switch">Package de données par semestre</string>
@@ -3182,8 +3182,8 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
     <string name="pref_traffic_manage_title">Utilisation des données</string>
     <string name="pref_traffic_monthly_package">Forfait de données mensuel</string>
     <string name="pref_traffic_package_type_summary">Mensuel/Quotidien/Illimité</string>
-    <string name="pref_traffic_unlimited_package">Forfait de données illimitées</string>
-    <string name="pref_warning_values">"Avertissement de l'utilisation de données"</string>
+    <string name="pref_traffic_unlimited_package">Forfait de données illimité</string>
+    <string name="pref_warning_values">"Avertissement de l'utilisation des données"</string>
     <string name="pref_whitelist_setting">Exceptions des données en itinérance</string>
     <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
     <string name="preferred_app_entries_browser">Navigateur</string>
@@ -3703,7 +3703,7 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
     <string name="special_number_group">Bloquer les numéros signalés</string>
     <string name="special_perm_above_msg">"Autoriser les applications à afficher des éléments sur d'autres applications"</string>
     <string name="special_perm_above_title">"Afficher les éléments sur d'autres applications"</string>
-    <string name="special_perm_allow_running_msg">"Autoriser les applications à ignorer les limites d'utilisation des données cellulaires"</string>
+    <string name="special_perm_allow_running_msg">"Autoriser les applications à ignorer les limites d'utilisation des données mobiles"</string>
     <string name="special_perm_allow_running_title">"Ignorer les limites d'utilisation des données"</string>
     <string name="special_perm_app_msg">"Autoriser les applications à déterminer si elles doivent être utilisées uniquement en tant qu'applications professionnelles"</string>
     <string name="special_perm_app_title">Associer des applications professionnelles à des applications personnelles</string>
@@ -4284,7 +4284,7 @@ Formatting will erase existing content on the ^2. To avoid losing content, back 
     <string name="title_first_aid_kit">Résoudre des problèmes</string>
     <string name="title_flow_notification">Notification de données mobiles</string>
     <string name="title_flow_purchase">Acheter du volume de données mobiles</string>
-    <string name="title_flow_rank">Utilisation des données cellulaires</string>
+    <string name="title_flow_rank">Utilisation des données mobiles</string>
     <string name="title_flow_verify">Comparer les comptabilisations</string>
     <string name="title_flow_verify_failed">"Impossible d'ajuster pour 5 jours d'affilée"</string>
     <string name="title_garbage_clean">"La taille du cache de l'application a atteint %s"</string>
@@ -4402,7 +4402,7 @@ Le volume de données restant inclut l'excédent du mois précédent."</string>
     <string name="traffic_setting_fragment_month_title">Forfait de données mensuel</string>
     <string name="traffic_setting_fragment_next">Suivant</string>
     <string name="traffic_setting_fragment_not_limited_summary">Options de données mobiles illimitées</string>
-    <string name="traffic_setting_fragment_not_limited_title">Forfait de données illimitées</string>
+    <string name="traffic_setting_fragment_not_limited_title">Forfait de données illimité</string>
     <string name="traffic_setting_fragment_operator">Opérateur</string>
     <string name="traffic_setting_fragment_operator_setting">"Paramètres d'opérateur"</string>
     <string name="traffic_setting_fragment_packege_type">Paramètres du forfait de données</string>
@@ -4415,9 +4415,9 @@ Le volume de données restant inclut l'excédent du mois précédent."</string>
     <string name="traffic_setting_fragment_title_guide">Opérateurs et Forfait de données</string>
     <string name="traffic_to_limit_warning">Vous avez utilisé %s de votre limite de données</string>
     <string name="traffic_usage_warning_body">Vous avez déjà utilisé %s Go de données mobiles ce mois-ci.</string>
-    <string name="traffic_usage_warning_limit">"Avertissement de la limite d'utilisation de données"</string>
+    <string name="traffic_usage_warning_limit">"Avertissement de la limite d'utilisation des données"</string>
     <string name="traffic_usage_warning_title">"Alerte d'utilisation des données"</string>
-    <string name="traffic_warning_purchase_title">"Avertissement de l'utilisation de données cellulaires"</string>
+    <string name="traffic_warning_purchase_title">"Avertissement de l'utilisation des données mobiles"</string>
     <string name="try_game">Essayer</string>
     <string name="try_recommended_function">Protégez votre appareil en utilisant les nouvelles fonctionnalités de sécurité</string>
     <string name="tuesday">Mardi</string>
@@ -4434,7 +4434,7 @@ Le volume de données restant inclut l'excédent du mois précédent."</string>
     <string name="uninstall_danagerous_title">Désinstaller les applications malveillantes</string>
     <string name="unknown_package">Not sure what your plan is?</string>
     <string name="unlike">Non merci</string>
-    <string name="unlimited_cellular_data_monthly">Unlimited plan</string>
+    <string name="unlimited_cellular_data_monthly">Forfait illimité</string>
     <string name="unlock_failed">Erreur interne</string>
     <string name="unlock_pattern">Schéma</string>
     <string name="unlock_pattern_to_bind_fingerprint">"Saisir un mot de passe pour activer l'empreinte digitale"</string>
@@ -4449,8 +4449,8 @@ Le volume de données restant inclut l'excédent du mois précédent."</string>
     <string name="usage_type_audio">Audio</string>
     <string name="usage_type_cpu">Processeur</string>
     <string name="usage_type_cpu_foreground">CPU au premier plan</string>
-    <string name="usage_type_data_recv">Données cellulaires reçues</string>
-    <string name="usage_type_data_send">Données cellulaires envoyées</string>
+    <string name="usage_type_data_recv">Données mobiles reçues</string>
+    <string name="usage_type_data_send">Données mobiles envoyées</string>
     <string name="usage_type_data_wifi_recv">Données Wi-Fi reçues</string>
     <string name="usage_type_data_wifi_send">Données Wi-Fi envoyées</string>
     <string name="usage_type_no_coverage">Temps sans signal</string>
@@ -4535,7 +4535,7 @@ Essayez de mettre à l'échelle la définition !"</string>
     <string name="view_traffic_details">"Afficher les statistiques d'utilisation des données"</string>
     <string name="virus_auto_update_engine">Mises à jour auto : %s</string>
     <string name="virus_update_tips_title">Attention</string>
-    <string name="virus_wait_network_dialog_message">"Votre téléphone n'est pas connecté au Wi-Fi actuellement. Utiliser la connexion de données cellulaires ?"</string>
+    <string name="virus_wait_network_dialog_message">"Votre téléphone n'est pas connecté au Wi-Fi actuellement. Utiliser la connexion de données mobiles ?"</string>
     <string name="vtb_func_desc">À propos de cette fonctionnalité</string>
   <string name="vtb_func_display_style_desc0">"L'IA peut reconnaître les personnes, les animaux, les plantes, le ciel, les bâtiments et autres objets présentés dans les vidéos et les améliorer de manière dynamique."</string>
     <string name="vtb_func_display_style_desc1">Les effets sélectionnés ne seront pas appliqués aux vidéos HDR sur les appareils sélectionnés.</string>
@@ -4640,7 +4640,7 @@ Essayez de mettre à l'échelle la définition !"</string>
     <string name="warningcenter_policeassist_noti_send">Votre position est partagée avec la police</string>
     <string name="warningcenter_policeassist_noti_title">"Partager la position pendant les appels d'urgence"</string>
     <string name="warningcenter_policeassist_open_btn">Activer</string>
-    <string name="warningcenter_policeassist_open_content">"Envoyez automatiquement vos informations de localisation à la police à l'aide de SMS ou de données cellulaires lorsque vous appelez le 110, 120, 119, 122 ou 12122."</string>
+    <string name="warningcenter_policeassist_open_content">"Envoyez automatiquement vos informations de localisation à la police à l'aide de SMS ou de données mobiles lorsque vous appelez le 110, 120, 119, 122 ou 12122."</string>
     <string name="warningcenter_policeassist_open_title">"Partagez votre position avec la police lors des appels d'urgence"</string>
     <string name="warningcenter_policeassist_privacy"><Data>"J'ai lu et accepté l'&lt;a href=\"%1$s\">Accord utilisateur&lt;/a> et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>."</Data></string>
     <string name="warningcenter_policeassist_title">"Emplacement d'urgence"</string>
