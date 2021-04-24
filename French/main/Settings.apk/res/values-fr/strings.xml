@@ -777,13 +777,13 @@ Dernière exécution le %2$s"</string>
   <string name="awake">"Durée de fonctionnement de l'appareil"</string>
   <string name="back">Retour</string>
   <string name="back_button">Retour</string>
-  <string name="back_double_tap">Double back tap</string>
+  <string name="back_double_tap">"Taper deux fois le dos de l'appareil"</string>
   <string name="back_key">Retour</string>
   <string name="back_sensitivity_dialog_message">"
 Une sensibilité plus élevée peut entrer en conflit avec tous les gestes de l'application le long des bords de l'écran."</string>
   <string name="back_sensitivity_dialog_title">Sensibilité de retour</string>
-  <string name="back_tap">Back tap</string>
-  <string name="back_triple_tap">Triple back tap</string>
+  <string name="back_tap">"Taper une fois le dos de l'appareil"</string>
+  <string name="back_triple_tap">"Taper trois fois le dos de l'appareil"</string>
   <string name="background_activity_disabled_dialog_text">"Cette appli n'étant pas configurée pour optimiser batterie, vous ne pouvez pas la limiter.
 
 Activez optimisation batterie."</string>
@@ -2025,6 +2025,7 @@ Pour continuer d'utiliser votre téléphone, vous devez rétablir la configurati
   <string name="custom_gesture_title">Custom gestures</string>
   <string name="custom_wifi_name_title">Modifier le nom du Wi-Fi</string>
   <string name="customize_function">Modèles disponibles</string>
+  <string name="customize_knock_gesture">"Gestes avec l'articulation d'un doigt"</string>
   <string name="cutout_mode_always">"Toujours montrer l'encoche"</string>
   <string name="cutout_mode_default">Auto</string>
   <string name="cutout_mode_settings_title">"Certaines applications risquent de ne pas s'afficher correctement si vous personnalisez le mode d'affichage de l'encoche."</string>
@@ -2576,7 +2577,8 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
   <string name="done">Terminé</string>
   <string name="done_button">Terminé</string>
   <string name="double_click_power_key">"Appuyer rapidement deux fois sur le bouton d'alimentation"</string>
-  <string name="double_click_volume_down_when_lock">Double press Volume down when the screen is locked</string>
+  <string name="double_click_volume_down_when_lock">"Appuyer rapidement deux fois sur le bouton \"Volume -\" lorsque l'écran est verrouillé"</string>
+  <string name="double_knock">"Toquer rapidement deux fois sur l'écran"</string>
   <string name="double_tap_power_for_camera_suggestion_title">"Ouvrir l'appareil photo rapidement"</string>
   <string name="double_tap_power_for_camera_summary">"Pour accéder rapidement à l'appareil photo, appuyez deux fois sur le bouton Marche/Arrêt. Fonctionne à partir de n'importe quel écran."</string>
   <string name="double_tap_power_for_camera_title">"Accès à l'appareil photo"</string>
@@ -3621,8 +3623,8 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
   <string name="key_combination_power_back">Boutons Alimentation + Retour</string>
   <string name="key_combination_power_home">Boutons Alimentation + Accueil</string>
   <string name="key_combination_power_menu">Boutons Alimentation + Menu</string>
-  <string name="key_combination_power_volume_down">Volume down + Power</string>
-  <string name="key_fsg_dialog_message">Vous utilisez les gestes en plein écran pour la navigation. Les fonctionnalités liées aux boutons ne sont pas actuellement disponibles. Changer de boutons ?</string>
+  <string name="key_combination_power_volume_down">Boutons Alimentation + Volume -</string>
+  <string name="key_fsg_dialog_message">Vous utilisez les gestes en plein écran pour la navigation. Les fonctionnalités liées aux boutons ne sont actuellement pas disponibles. Voulez-vous changer la navigation ?</string>
   <string name="key_fsg_dialog_negative">Annuler</string>
   <string name="key_fsg_dialog_positive">Basculer sur les boutons</string>
   <string name="key_gesture_function_dialog_message">%1$s est un raccourcis pour %2$s. Le remplacer par %3$s ?</string>
@@ -3764,6 +3766,12 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
   <string name="kid_space_settings">Espace enfant</string>
   <string name="kilobyte_per_second">" Ko/s"</string>
   <string name="kilobyteShort">" Ko"</string>
+  <string name="knock_edge_area_invalid">"Ce geste ne fonctionne pas sur les bords de l'écran"</string>
+  <string name="knock_guide_sub_title">"En toquant sur votre écran, vous pouvez ouvrir Mi AI ou prendre des captures d'écran"</string>
+  <string name="knock_guide_title">"Toquer rapidement deux fois sur l'écran"</string>
+  <string name="knock_long_press_horizontal_slid">"Appuyer et glisser horizontalement avec l'articulation d'un doigt"</string>
+  <string name="knock_slide_shape">"Dessiner un cercle avec l'articulation d'un doigt"</string>
+  <string name="knock_slide_v">"Dessiner la lettre V avec l'articulation d'un doigt"</string>
   <string name="label_available">Réseaux disponibles</string>
   <string name="label_mi_stats">Mi analytics</string>
   <string name="language_and_input_for_work_category_title">Claviers et outils de profil de travail</string>
@@ -5516,7 +5524,7 @@ Read and agree to %s before using this service."</string>
   <string name="pref_title_lang_selection">Préférences de langue</string>
   <string name="pref_title_network_details">Détails du réseau</string>
   <string name="pref_title_update_notification">"Notifications de l'utilisation de données"</string>
-  <string name="pref_volume_launch_camera_summary">"Appuyer deux fois sur le volume bas pour ouvrir l'appareil photo"</string>
+  <string name="pref_volume_launch_camera_summary">"Appuyer deux fois sur le bouton \"Volume -\" pour ouvrir l'appareil photo"</string>
   <string name="pref_volume_launch_camera_title">"Ouvrir l'appareil photo"</string>
   <string name="pref_volume_wake_summary">"Appuyer sur les boutons de volume allume l'appareil"</string>
   <string name="pref_volume_wake_title">Allumer avec les boutons de volume</string>
@@ -7481,8 +7489,8 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
   <string name="theme_customization_icon_shape_title">"Forme de l'icône"</string>
   <string name="theme_settings_title">Thèmes</string>
   <string name="thememanager_not_found">"Impossible d'ouvrir Thèmes. Assurez-vous que l'application est installée."</string>
-  <string name="three_gesture_down">Faites glisser 3 doigts vers le bas</string>
-  <string name="three_gesture_long_press">Appuyez et maintenez avec %d doigts</string>
+  <string name="three_gesture_down">Faire glisser 3 doigts vers le bas</string>
+  <string name="three_gesture_long_press">Appuyer et maintenir avec %d doigts</string>
   <string name="time_format_category_title">Format des heures</string>
   <string name="time_picker_title">Heure</string>
   <string name="time_spent_in_app_pref_title">"Temps passé sur l'application"</string>
@@ -8114,7 +8122,7 @@ Pendant un appel vocal, vous ne pouvez pas utiliser internet et certaines applic
   <string name="volume_connectivity_panel_title">Volume</string>
   <string name="volume_hifi_description">Paramètres Hi-Fi</string>
   <string name="volume_label">Volume</string>
-  <string name="volume_launch_camera_summary">"Appuyez deux fois sur le bouton du volume pour ouvrir l'appareil photo lorsque l'écran est verrouillé"</string>
+  <string name="volume_launch_camera_summary">"Appuyez deux fois sur le bouton \"Volume -\" pour ouvrir l'appareil photo lorsque l'écran est verrouillé"</string>
   <string name="volume_media_description">Musique, vidéo, jeux, et autres médias</string>
   <string name="volume_media_mute">Couper le son de la musique et des autres médias</string>
   <string name="volume_notification_description">Notifications</string>
