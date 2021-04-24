@@ -29,11 +29,11 @@
   <string name="abc_toolbar_collapse_description">Réduire</string>
   <string name="access_limit">"Restrictions d'accès"</string>
   <string name="access_tips">"Impossible d'accéder aux éléments. Essayez plutôt d'utiliser Android Storage Access Framework."</string>
-  <string name="action_mode_deselect_all">Tout déselectionner</string>
+  <string name="action_mode_deselect_all">Tout désélectionner</string>
   <string name="action_mode_select_all">Tout sélectionner</string>
   <string name="actionbar_button_up_description">Retour</string>
   <string name="ad_download">Télécharger</string>
-  <string name="add_private">Masquer les fichiers maintenant</string>
+  <string name="add_private">Cacher les fichiers maintenant</string>
   <string name="add_private_files">Ajouter des fichiers</string>
   <string name="afternoon">Après-midi</string>
   <string name="aggree_desc">"Autorisez cette application à se connecter à internet et accordez les permissions obligatoires répertoriées ci-dessus."</string>
@@ -63,11 +63,11 @@
   <string name="can_not_send_with_too_many">"Impossible d'envoyer autant d'éléments à la fois"</string>
   <string name="cancel">Annuler</string>
   <string name="cancel_error">Impossible de supprimer, essayez à nouveau</string>
-  <string name="cancel_msg">Tout déselectionner ?</string>
+  <string name="cancel_msg">Tout désélectionner ?</string>
   <string name="cancel_operation">"Annuler l'opération"</string>
   <string name="cancel_success">Retiré avec succès, tous les fichiers ont été déplacés vers %s</string>
   <string name="cancelled_by_user">Opération annulée</string>
-  <string name="cannot_send">"Impossible d'envoyer des fichiers du stockage externe"</string>
+  <string name="cannot_send">"Impossible d'envoyer des fichiers depuis un stockage externe"</string>
   <string name="category">Catégories</string>
   <string name="category_album">Albums</string>
   <string name="category_all">Tout</string>
@@ -137,7 +137,7 @@
   <string name="decompress_to_here">Décompresser ici</string>
   <string name="decrypt">Afficher</string>
   <string name="decrypt_error">Impossible de déchiffrer</string>
-  <string name="decrypt_to">Déchiffrer et sauvegarder sur…</string>
+  <string name="decrypt_to">Déchiffrer et déplacer vers…</string>
   <string name="decrypting">Déchiffrement…</string>
   <string name="delete_dialog_button">Supprimer</string>
   <string name="delete_error">Impossible de supprimer les fichiers, essayez à nouveau</string>
@@ -168,8 +168,9 @@
   <string name="enable_usb">Connecter un appareil en USB</string>
   <string name="encrypt_error">Impossible de cacher les fichiers, veuillez réessayer</string>
   <string name="encrypt_prefix">CACHÉ</string>
+  <string name="encrypt_setting">Chiffrement</string>
   <string name="encrypt_success">Caché avec succès</string>
-  <string name="encrypt_success_first_five">"Fichiers chiffrés et cachés. Vous pouvez voir les fichiers cachés en faisant glisser vers le bas sur la page d'accueil du Gestionnaire de fichiers."</string>
+  <string name="encrypt_success_first_five">"Fichier chiffré et caché. Vous pouvez voir les fichiers cachés en tirant vers le bas sur la page d'accueil du Gestionnaire de fichiers."</string>
   <string name="encrypting">Chiffrement…</string>
   <string name="eras_ad">Apr. J.-C.</string>
   <string name="eras_bc">Av. J.-C.</string>
@@ -271,7 +272,7 @@
   <string name="local_image">Images</string>
   <string name="local_music">Fichiers audio</string>
   <string name="local_video">Fichiers vidéos</string>
-  <string name="make_private">Masquer</string>
+  <string name="make_private">Cacher</string>
   <string name="make_private_msg_1">Cacher ce fichier ?</string>
   <string name="make_private_msg_2">Cacher ces fichiers ?</string>
   <string name="make_private_msg_3">Tous les fichiers dans ce dossier seront cachés.</string>
@@ -443,7 +444,7 @@
   <string name="notification_dialog_title">Notifications</string>
   <string name="notification_wechat_expired_empty">WeChat a déjà supprimé ces clips vidéos.</string>
   <string name="online_not_support">Impossible de voir ce fichier en ligne pour le moment.</string>
-  <string name="open_private_folder">Relâchez pour afficher les dossiers cachés</string>
+  <string name="open_private_folder">Relâchez pour afficher les dossiers privés</string>
   <string name="operation_add_fav">Ajout aux favoris…</string>
   <string name="operation_cancel">Annuler</string>
   <string name="operation_compress">Compresser</string>
@@ -457,8 +458,10 @@
   <string name="operation_delete_confirm_message">Supprimer ?</string>
   <string name="operation_delete_confirm_message_folder">"Tout le contenu des dossiers sera supprimé. "</string>
   <string name="operation_deleting">Suppression…</string>
+  <string name="operation_encrypt_summary">Chiffre les fichiers qui sont dans les dossiers privés. Le déchiffrement de fichiers volumineux peut prendre un certain temps.</string>
+  <string name="operation_encrypt_title">Chiffrer les fichiers privés</string>
   <string name="operation_favorite">Ajouter aux favoris</string>
-  <string name="operation_hide_sys">Masquer les fichiers cachés</string>
+  <string name="operation_hide_sys">Ne pas montrer les fichiers cachés</string>
   <string name="operation_info">Détails</string>
   <string name="operation_move">Déplacer</string>
   <string name="operation_moving">Déplacement…</string>
@@ -487,7 +490,7 @@
   <string name="pad">Stockage interne</string>
   <string name="partial_cancel_successful">Impossible de retirer certains fichiers. Le reste des fichiers a été déplacé vers %s.</string>
   <string name="partial_delete_failure">Impossible de supprimer certains fichiers, essayez à nouveau</string>
-  <string name="partial_encrypt_success">"Certains fichiers n'ont pu être masqué, veuillez réessayer"</string>
+  <string name="partial_encrypt_success">"Certains fichiers n'ont pas pu être cachés, veuillez réessayer"</string>
   <string name="password_toggle_content_description">Afficher le mot de passe</string>
   <string name="path_name_email">E-mail</string>
   <string name="permission_denial">"Impossible d'accéder aux fichiers. Autoriser Gestionnaire de fichiers à accéder aux paramètres."</string>
@@ -516,7 +519,7 @@
   <string name="private_folder">Dossiers privés</string>
   <string name="private_folder_no_file_hints">Aucun fichier caché.</string>
   <string name="private_folder_update">Mise à jour des fichiers cachés…</string>
-  <string name="private_toast_hint2">Pour masquer un fichier, appuyez et maintenez le, puis ajoutez le à un dossier masqué.</string>
+  <string name="private_toast_hint2">Pour cacher un fichier, appuyez et maintenez-le, puis ajoutez-le à un dossier privé.</string>
   <string name="prize_result_tip">Exchange</string>
   <string name="promot_enctypt_password">Entrez le mot de passe utilisé pour déverrouiller votre appareil</string>
   <string name="pull_to_enter_private">Tirez vers le bas pour ouvrir le dossier privé</string>
@@ -525,7 +528,7 @@
   <string name="refresh_success">Actualisation terminé</string>
   <string name="release_enter_private">Relâchez pour ouvrir le dossier privé</string>
   <string name="rename_alert">"Si vous modifiez l'extension de ce fichier, vous ne pourrez peut-être pas l'ouvrir."</string>
-  <string name="rename_alert2">Le fichier sera masqué après avoir modifié son extension.</string>
+  <string name="rename_alert2">Le fichier sera caché après avoir modifié son extension.</string>
   <string name="rename_failed">Impossible de renommer %1$s</string>
   <string name="rename_input_null">Entrez un nouveau nom de fichier</string>
   <string name="rename_msg">Un fichier avec le nom \"%s\" existe déjà.</string>
@@ -636,7 +639,7 @@
   <string name="tab_source">Applications</string>
   <string name="terabyteShort">" To"</string>
   <string name="text_select_all">Tout sélectionner</string>
-  <string name="text_select_nothing">Tout déselectionner</string>
+  <string name="text_select_nothing">Tout désélectionner</string>
   <string name="thursday">Jeudi</string>
   <string name="thursday_short">Jeu</string>
   <string name="thursday_shortest">Jeu</string>
