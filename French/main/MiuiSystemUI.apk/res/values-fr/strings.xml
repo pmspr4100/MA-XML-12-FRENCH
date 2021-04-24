@@ -78,9 +78,9 @@
   <string name="accessibility_carrier_network_change_mode">"Changement d'opérateur réseau."</string>
   <string name="accessibility_cast_name">Connecté à %s.</string>
   <string name="accessibility_casting_turned_off">"La diffusion de l'écran s'est arrêtée."</string>
-  <string name="accessibility_cell_data">Données cellulaires</string>
-  <string name="accessibility_cell_data_off">Données cellulaires désactivées</string>
-  <string name="accessibility_cell_data_on">Données cellulaires activées</string>
+  <string name="accessibility_cell_data">Données mobiles</string>
+  <string name="accessibility_cell_data_off">Données mobiles désactivées</string>
+  <string name="accessibility_cell_data_on">Données mobiles activées</string>
   <string name="accessibility_clear_all">Effacer toutes les notifications.</string>
   <string name="accessibility_compatibility_zoom_button">Bouton du zoom de compatibilité.</string>
   <string name="accessibility_compatibility_zoom_example">Zoomer un écran plus petit vers un plus grand.</string>
@@ -726,13 +726,13 @@ Appuyer sur 'Nettoyer et convertir…' pour continuer."</string>
   <string name="data_saver_description">"Pour réduire l'utilisation de données, l'économiseur de données empêche certaines applications d'envoyer ou de recevoir des données en arrière-plan. Une application que vous utilisez actuellement peut accéder aux données, mais peut le faire moins fréquemment. Cela peut signifier, par exemple, que les images ne s'affichent pas tant que vous n'appuyez pas."</string>
   <string name="data_saver_enable_button">Activer</string>
   <string name="data_saver_enable_title">"Activer l'économiseur de données ?"</string>
-  <string name="data_usage_disabled_dialog">"La limite de données que vous avez définie a été atteinte. Vous n'utilisez plus de données cellulaires.
+  <string name="data_usage_disabled_dialog">"La limite de données que vous avez définie a été atteinte. Vous n'utilisez plus de données mobiles.
 
 Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données."</string>
   <string name="data_usage_disabled_dialog_3g_title">Données 2G-3G mises en pause</string>
   <string name="data_usage_disabled_dialog_4g_title">Données 4G mises en pause</string>
   <string name="data_usage_disabled_dialog_enable">Reprendre</string>
-  <string name="data_usage_disabled_dialog_mobile_title">Données cellulaires mises en pause</string>
+  <string name="data_usage_disabled_dialog_mobile_title">Données mobiles mises en pause</string>
   <string name="data_usage_disabled_dialog_title">Données mises en pause</string>
   <string name="data_usage_ota">Mises à jour du système</string>
   <string name="data_usage_uninstalled_apps">Applications supprimées</string>
@@ -1262,7 +1262,7 @@ Réessayer dans %3$d secondes."</string>
   <string name="kg_puk_enter_pin_hint">Saisir le code PIN désiré</string>
   <string name="kg_puk_enter_puk_hint">La carte SIM est maintenant désactivée. Entrez le code PUK pour continuer. Contactez votre opérateur pour plus de détails.</string>
   <string name="kg_puk_enter_puk_hint_multi">La carte SIM \"%1$s\" est maintenant désactivée. Saisissez le code PUK pour continuer. Conctatez votre opérateur pour plus de détails.</string>
-  <string name="kg_sim_lock_esim_instructions">"%1$s Désactivez eSIM pour utiliser l'appareil sans service cellulaire."</string>
+  <string name="kg_sim_lock_esim_instructions">"%1$s Désactivez eSIM pour utiliser l'appareil sans service mobile."</string>
   <string name="kg_sim_pin_instructions">Saisir le code PIN de la SIM</string>
   <string name="kg_sim_pin_instructions_multi">Saisir le code PIN pour \"%1$s\"</string>
   <string name="kg_sim_unlock_progress_dialog_message">Déverrouillage de la carte SIM…</string>
@@ -1437,9 +1437,9 @@ une capture d'écran de défilement"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">"C'est tout pour le moment"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chargement…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Impossible de charger les éléments</string>
-  <string name="mobile_data">Données cellulaires</string>
-  <string name="mobile_data_always_on">Données cellulaires toujours actives</string>
-  <string name="mobile_data_always_on_summary">Toujours garder les données cellulaires actives, même lorsque le Wi-Fi est actif (pour un changement rapide de réseau).</string>
+  <string name="mobile_data">Données mobiles</string>
+  <string name="mobile_data_always_on">Données mobiles toujours actives</string>
+  <string name="mobile_data_always_on_summary">Toujours garder les données mobiles actives, même lorsque le Wi-Fi est actif (pour un changement rapide de réseau).</string>
   <string name="mock_location_app">Sélectionner une application de localisation fictive</string>
   <string name="mock_location_app_not_set">Aucune application de localisation fictive définie</string>
   <string name="mock_location_app_set">"Simulation de l'appli de localisation: %1$s"</string>
@@ -1805,14 +1805,14 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="quick_settings_cellular_detail_data_usage">Utilisation des données</string>
   <string name="quick_settings_cellular_detail_data_used">%s utilisé</string>
   <string name="quick_settings_cellular_detail_data_warning">%s attention</string>
-  <string name="quick_settings_cellular_detail_dialog_message_turnoff">"Les données cellulaires (WCDMA/LTE) seront désactivées. À moins d'utiliser le réseau Wi-Fi, vous ne pourrez plus utiliser les applications qui nécessitent une connexion de données. L'envoi ou la réception de messages multimédias sera restreint."</string>
+  <string name="quick_settings_cellular_detail_dialog_message_turnoff">"Les données mobiles (WCDMA/LTE) seront désactivées. À moins d'utiliser le réseau Wi-Fi, vous ne pourrez plus utiliser les applications qui nécessitent une connexion de données. L'envoi ou la réception de messages multimédias sera restreint."</string>
   <string name="quick_settings_cellular_detail_dialog_message_turnon">Les données mobiles seront activées. La connexion aux réseaux mobiles peut entraîner des frais supplémentaires en fonction de votre forfait.</string>
   <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">Annuler</string>
   <string name="quick_settings_cellular_detail_dialog_positive_button_ok">OK</string>
   <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Désactiver</string>
   <string name="quick_settings_cellular_detail_over_limit">Limite dépassée</string>
   <string name="quick_settings_cellular_detail_remaining_data">Données restantes</string>
-  <string name="quick_settings_cellular_detail_title">Données cellulaires</string>
+  <string name="quick_settings_cellular_detail_title">Données mobiles</string>
   <string name="quick_settings_cellular_detail_unable_change">"Impossible de définir pendant l'appel"</string>
   <string name="quick_settings_color_space_label">Mode de correction des couleurs</string>
   <string name="quick_settings_connect_success">Connecté</string>

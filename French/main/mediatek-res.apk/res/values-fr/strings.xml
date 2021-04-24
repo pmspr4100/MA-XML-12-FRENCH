@@ -124,7 +124,7 @@ Veuillez réessayer dans %d secondes."</string>
   <string name="ongoing_call_notification_title">Appel Wi-Fi en cours</string>
   <string name="other_accounts">Autres comptes</string>
   <string name="permdesc_bindTerminal">"Une application avec cette autorisation peut se lier aux terminaux OMAPI du système. Seul SmartcardService devrait l'utiliser."</string>
-  <string name="permdesc_receiveCbSms">"Permet à l'application de recevoir et traiter des SMS de diffusion cellulaire. Des applications malicieuses peuvent surveiller vos messages ou les supprimer sans vous les montrer."</string>
+  <string name="permdesc_receiveCbSms">"Permet à l'application de recevoir et traiter des SMS de diffusion mobile. Des applications malicieuses peuvent surveiller vos messages ou les supprimer sans vous les montrer."</string>
   <string name="permdesc_receiveDmRegisterSms">"Permet à l'application de recevoir et traiter des SMS d'enregistrements de messages privés. Aucune application sauf celles de messages privés ne devrait l'utiliser"</string>
   <string name="permdesc_systemTerminal">"Une application avec cette permission indique qu'il s'agit d'un terminal OMAPI du système"</string>
   <string name="permdesc_wake_device_sensorhub">"Permet à une application de réveiller le téléphone lorsqu'il est en mode suspendu via le concentrateur de capteurs."</string>
@@ -135,7 +135,7 @@ Veuillez réessayer dans %d secondes."</string>
   <string name="press_color_to_apply">Appuyer sur une couleur pour appliquer</string>
   <string name="puk1Blocked">Le code PIN est verrouillé.</string>
   <string name="puk2Blocked">Le code PIN2 est verrouillé.</string>
-  <string name="roaming_message">"Vous êtes actuellement en itinérance internationale, les données cellulaires sont activées, notez qu'il y a des charges locales."</string>
+  <string name="roaming_message">"Vous êtes actuellement en itinérance internationale, les données mobiles sont activées, notez qu'il y a des charges locales."</string>
   <string name="same_imei">Même IMEI</string>
   <string name="save_password_label">Confirmer</string>
   <string name="save_password_message">Voulez-vous que le navigateur se souvienne de ce mot de passe ?</string>
@@ -198,7 +198,7 @@ Veuillez réessayer dans %d secondes."</string>
   <string name="wfc_local_or_null_ptr_error">Erreur 07 : Connexion impossible</string>
   <string name="wfc_off">Appel en réseau sans-fil éteint</string>
   <string name="wfc_on">Prêt pour les appels</string>
-  <string name="wfc_rns_allowed_radio_deny">Aucun réseau cellulaire disponible. Connectez-vous à un réseau Wi-Fi pour passer des appels.</string>
+  <string name="wfc_rns_allowed_radio_deny">Aucun réseau mobile disponible. Connectez-vous à un réseau Wi-Fi pour passer des appels.</string>
   <string name="wfc_rns_allowed_radio_none">Chaîne a décider</string>
   <string name="wfc_server_cert_invalid_error">Erreur 011 : Certificat invalide</string>
   <string name="wfc_server_cert_validation_error">Erreur 010 : Certificat invalide</string>

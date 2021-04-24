@@ -35,10 +35,10 @@
         <item>Forfait journalier</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>Hier (données cellulaires)</item>
-        <item>"Aujourd'hui (données cellulaires)"</item>
-        <item>Le mois dernier (données cellulaires)</item>
-        <item>Ce mois (données cellulaires)</item>
+        <item>Hier (données mobiles)</item>
+        <item>"Aujourd'hui (données mobiles)"</item>
+        <item>Le mois dernier (données mobiles)</item>
+        <item>Ce mois (données mobiles)</item>
         <item>Hier (Wi-Fi)</item>
         <item>"Aujourd'hui (Wi-Fi)"</item>
         <item>Le mois dernier (Wi-Fi)</item>
@@ -82,7 +82,7 @@
         <item>"Lorsque l'appareil est verrouillé​ ou 1 minute après la sortie d'une application"</item>
     </string-array>
     <string-array name="mi_service_traffic_type">
-        <item>"Utilisation des données cellulaires "</item>
+        <item>"Utilisation des données mobiles "</item>
         <item>"Utilisation du Wi-Fi "</item>
     </string-array>
     <string-array name="miui_optimization_close_intercept">
@@ -91,7 +91,7 @@
     </string-array>
     <string-array name="over_limit_traffic_waring_style">
         <item>"Afficher l'alerte"</item>
-        <item>Avertir et désactiver les données cellulaires</item>
+        <item>Avertir et désactiver les données mobiles</item>
     </string-array>
     <string-array name="pc_settings_thermal_entries">
         <item>Par défaut</item>
@@ -187,7 +187,7 @@
         <item>Forfait de données illimitées</item>
     </string-array>
     <string-array name="traffic_type">
-        <item>"Utilisation des données cellulaires "</item>
+        <item>"Utilisation des données mobiles "</item>
         <item>"Utilisation du Wi-Fi "</item>
     </string-array>
 </resources>

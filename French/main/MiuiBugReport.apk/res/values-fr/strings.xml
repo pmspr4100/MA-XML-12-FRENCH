@@ -102,7 +102,7 @@
     <string name="catch_full_log_item_title_dump_heap">Décalage</string>
     <string name="catch_full_log_item_title_gps">Services de localisation</string>
     <string name="catch_full_log_item_title_sensor">Capteurs</string>
-    <string name="catch_full_log_item_title_signal">Téléphone, signal, et réseaux cellulaires</string>
+    <string name="catch_full_log_item_title_signal">Téléphone, signal, et réseaux mobiles</string>
     <string name="catch_full_log_item_title_wifi">Wi-Fi et ShareMe</string>
     <string name="catch_full_log_item_title_wifi_china">WLAN and ShareMe</string>
     <string name="catch_full_log_notification_content">Appuyez pour retourner aux journaux</string>
@@ -408,7 +408,7 @@ Envoyer ce code au superviseur."</string>
     <string name="mobile_data_note_dialog_cancel_china">En attente du WLAN</string>
     <string name="mobile_data_note_dialog_confirm">Ajouter</string>
     <string name="mobile_data_note_dialog_content">On dirait que vous êtes connecté à un réseau payant. Le téléchargement de journaux peut générer des frais supplémentaires.</string>
-    <string name="mobile_data_note_dialog_content_with_file_size">"Il semble que vous êtes connecté à un réseau payant. L'envoi des journaux nécessite %s Mo de données cellulaires."</string>
+    <string name="mobile_data_note_dialog_content_with_file_size">"Il semble que vous êtes connecté à un réseau payant. L'envoi des journaux nécessite %s Mo de données mobiles."</string>
     <string name="mobile_data_note_dialog_title">"Alerte d'utilisation des données"</string>
     <string name="modem_tool_log_dumping_desc">"Appuyez sur l'icône pour arrêter"</string>
     <string name="modem_tool_log_dumping_title">Capturer des journaux de modem</string>

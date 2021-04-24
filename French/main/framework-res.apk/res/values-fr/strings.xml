@@ -970,7 +970,7 @@ Veuillez réessayer dans %2$d secondes."</string>
   <string name="permdesc_processOutgoingCalls">"Permettre à l'application de lire le numéro composé lors d'un appel sortant, et lui donner la possibilité de rediriger l'appel vers un autre numéro ou d'abandonner l'appel"</string>
   <string name="permdesc_readCalendar">"Cette application peut lire tous les événements d'agenda enregistrés sur votre téléphone et partager ou enregistrer vos données d'agenda."</string>
   <string name="permdesc_readCallLog">"Cette application peut lire l'historique de vos appels."</string>
-  <string name="permdesc_readCellBroadcasts">"Permet à l'application de lire les messages que votre appareil reçoit via un canal de diffusion cellulaire. Dans certaines zones géographiques, des alertes vous sont envoyées afin de vous prévenir en cas de situation d'urgence. Les applications malveillantes peuvent venir perturber les performances ou le fonctionnement de votre appareil lorsqu'un message est reçu via un canal de diffusion cellulaire."</string>
+  <string name="permdesc_readCellBroadcasts">"Permet à l'application de lire les messages que votre appareil reçoit via un canal de diffusion mobile. Dans certaines zones géographiques, des alertes vous sont envoyées afin de vous prévenir en cas de situation d'urgence. Les applications malveillantes peuvent venir perturber les performances ou le fonctionnement de votre appareil lorsqu'un message est reçu via un canal de diffusion mobile."</string>
   <string name="permdesc_readContacts">"Permet à l'application de lire les données de vos contacts stockées sur votre téléphone. Cette permission permet aux applications d'enregistrer vos données de contact, et les applications malveillantes peuvent partager des données de contact à votre insu."</string>
   <string name="permdesc_readHistoryBookmarks">"Permet à l'application d'accéder à l'historique de toutes les URL auxquelles le navigateur a accédé, ainsi qu'à l'ensemble des favoris du navigateur. Remarque : il est possible que cette autorisation ne soit pas appliquée par les navigateurs tiers ni par d'autres applications permettant de naviguer sur le Web."</string>
   <string name="permdesc_readInstallSessions">"Permet à une application d'accéder aux sessions d'installation. Cela lui permet de consulter les détails relatifs à l'installation des packages actifs."</string>
@@ -1131,7 +1131,7 @@ pour le compte \"%s\""</string>
   <string name="permlab_processOutgoingCalls">Transférer les appels sortants</string>
   <string name="permlab_readCalendar">"Lire les événements d'agenda et les détails associés"</string>
   <string name="permlab_readCallLog">"Lire le journal d'appels"</string>
-  <string name="permlab_readCellBroadcasts">Lire les messages reçus via un canal de diffusion cellulaire</string>
+  <string name="permlab_readCellBroadcasts">Lire les messages reçus via un canal de diffusion mobile</string>
   <string name="permlab_readContacts">Afficher les contacts</string>
   <string name="permlab_readHistoryBookmarks">"Afficher l'historique et les favoris Web"</string>
   <string name="permlab_readInstallSessions">"Accéder aux sessions d'installation"</string>
