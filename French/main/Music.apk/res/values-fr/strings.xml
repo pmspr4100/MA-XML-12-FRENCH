@@ -134,6 +134,7 @@
   <string name="banner_op">Mi Musique</string>
   <string name="bluetooth_device">Appareil audio Bluetooth</string>
   <string name="btn_text_edit">Modifier</string>
+  <string name="btn_text_view_all">Tout afficher</string>
   <string name="buffering">Chargement…</string>
   <string name="button_cancel_download">Annuler</string>
   <string name="button_download_now">Télécharger maintenant</string>
@@ -401,6 +402,8 @@
   <string name="fail_to_play">Impossible de jouer la chanson</string>
   <string name="failed_not_access_sd_card">"Autorisez d'abord l'accès à la carte SD"</string>
   <string name="failed_obtain_permissions">"Impossible d'obtenir les autorisations"</string>
+  <string name="failed_to_connect_hint">Vérifiez vos paramètres réseau et réessayez</string>
+  <string name="failed_to_connect_text">Connexion au réseau impossible</string>
   <string name="fans">Abonnés</string>
   <string name="fav_login_msg">Connectez-vous à votre Compte Mi pour télécharger des chansons</string>
   <string name="favorite_canceled">Supprimé des favoris</string>
@@ -464,14 +467,15 @@
   <string name="high_sound_quality">High</string>
   <string name="higher_quality_music">Audio haute qualité</string>
   <string name="higher_quality_music_summary">Écouter et télécharger des fichiers de haute qualité</string>
-  <string name="home_tab_home">Home</string>
+  <string name="hint_search_songs_playlists_artists">Rechercher des chansons, des listes de lecture et des artistes</string>
+  <string name="home_tab_home">Accueil</string>
   <string name="home_tab_joox">JOOX Musique</string>
   <string name="home_tab_local">Ma musique</string>
-  <string name="home_tab_more_music">More music</string>
+  <string name="home_tab_more_music">"D'avantage de musique"</string>
   <string name="home_tab_online">Musique en ligne</string>
   <string name="home_tab_recommend">En ligne</string>
   <string name="home_tab_search">Recherche</string>
-  <string name="home_tab_yandex">Yandex Musique</string>
+  <string name="home_tab_yandex">Yandex.Music</string>
   <string name="hungama_batch_download_alert_summary">Seuls les membres PRO peuvent télécharger plusieurs chansons. Obtenez dès maintenant un abonnement PRO ?</string>
   <string name="hungama_batch_download_alert_summary_toast">Obtenez un abonnement pour télécharger la playliste complète.</string>
   <string name="hungama_category_chart">Graphiques</string>
@@ -583,6 +587,7 @@
   <string name="loading">Chargement</string>
   <string name="loading_hint">Chargement…</string>
   <string name="loading_reached_the_bottom">"C'est tout pour le moment."</string>
+  <string name="loading_text">Chargement…</string>
   <string name="local_header_title">Musique locale</string>
   <string name="local_music">Chansons locales</string>
   <string name="local_music_is_not_available">"Vous n'avez pas chansons sur votre appareil."</string>
@@ -1112,6 +1117,7 @@ Soyez heureux"</string>
   <string name="title_command_mode">Mode Commande</string>
   <string name="title_online_fm_recommend">Fréquence FM en ligne recommandée</string>
   <string name="title_online_recommend">Playlists vedette</string>
+  <string name="title_recently_played">Joué récemment</string>
   <string name="title_search_history">Historique de recherche</string>
   <string name="title_search_hot">Populaire</string>
   <string name="toast_cant_collect_mine_playlist">"Impossible d'ajouter vos propres playlists aux favoris"</string>
