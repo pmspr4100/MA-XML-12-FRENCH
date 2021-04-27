@@ -32,7 +32,7 @@
     <string name="Settings_title_anti_virus_kddi">"Paramètres de l'analyse de sécurité"</string>
     <string name="Settings_title_garbage_cleanup">Nettoyeur</string>
     <string name="Settings_title_network_assistants">"Paramètres d'utilisation des données"</string>
-    <string name="Settings_title_power_center">"Paramètre de l'optimisation de la batterie"</string>
+    <string name="Settings_title_power_center">"Paramètres de l'optimisation de la batterie"</string>
     <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
     <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
     <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
@@ -967,8 +967,8 @@ Votre opérateur peut vous facturer des frais supplémentaires si vous activer l
     <string name="debug_open_final_tip">Turn on USB debugging?</string>
     <string name="debug_open_title">This feature is intended for developers and might not be convenient for general users. Turning on USB debugging might bring about the following changes:</string>
     <string name="declaration_dialog_msg">"Cette option vous permet de gérer au mieux l'utilisation de vos données, mais ne constitue pas une garantie fiable afin d'éviter d'éventuels surcoûts. Par conséquent, il est conseillé de garder une marge."</string>
-    <string name="deep_clean_disconnect_data_title">"Désactiver les données mobiles lorsque l'appareil est verrouillé"</string>
-    <string name="deep_clean_memory_clean_title">"Nettoyer automatiquement le cache quand l'appareil est verrouillé"</string>
+    <string name="deep_clean_disconnect_data_title">Désactiver les données mobiles</string>
+    <string name="deep_clean_memory_clean_title">Nettoyer automatiquement le cache</string>
     <string name="deep_clean_never_memory_clean">Jamais</string>
     <string name="deep_power_save_item_summary_auto_brightness">"Ajuster automatiquement la luminosité de l'écran pour économiser de la batterie"</string>
     <string name="deep_power_save_item_summary_bluetooth">Désactivez Bluetooth pour économiser la batterie</string>
@@ -2436,7 +2436,7 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
     <string name="om_settings_lock_app">Verrouiller les applications</string>
     <string name="om_settings_lock_app_manage">Verrouiller les applications</string>
     <string name="om_settings_memocy_occupy_too_large_summary">Notifier lorsque la taille du cache est trop grande</string>
-    <string name="om_settings_memory_clean_lock_screen">"Vider automatiquement le cache quand l'appareil est verrouillé"</string>
+    <string name="om_settings_memory_clean_lock_screen">"Vider automatiquement le cache lorsque l'appareil est verrouillé"</string>
     <string name="om_settings_memory_occupy_notify">Taille de cache élevée</string>
     <string name="om_settings_memory_occupy_notify_never">Jamais</string>
     <string name="om_settings_notify_manage">Notifications</string>
@@ -2820,7 +2820,7 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
     <string name="power_chooser_mine_title">Personnaliser</string>
     <string name="power_chooser_sleep_summary">"Désactiver toutes les fonctions réseau (appels, sms, Wi-Fi, et les connexions au réseau de donnée) sauf pour l'alarme"</string>
     <string name="power_chooser_sleep_title">Veille</string>
-    <string name="power_chooser_smart_summary">"Nettoyer les apps en tâche de fond quand l'appareil est verrouillé"</string>
+    <string name="power_chooser_smart_summary">"Nettoyer les apps en tâche de fond lorsque l'appareil est verrouillé"</string>
     <string name="power_chooser_smart_title">Défaut</string>
     <string name="power_chooser_standby_summary">Désactiver le Wi-Fi et les services de données</string>
     <string name="power_chooser_standby_title">Marathon</string>
@@ -3042,7 +3042,7 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
     <string name="power_setting_wireless_reverse_charging_summary">Charger des appareils compatibles sans fil</string>
     <string name="power_setting_wireless_reverse_charging_title">Recharge sans fil inversée</string>
     <string name="power_settings_category_title">Indicateur de batterie</string>
-    <string name="power_settings_lock_screen_saver_title">"Verrouiller les paramètres de l'écran"</string>
+    <string name="power_settings_lock_screen_saver_title">"Lorsque l'appareil est verrouillé"</string>
     <string name="power_settings_number">Pourcentage</string>
     <string name="power_settings_saver_title">Économiseur de Batterie</string>
     <string name="power_settings_shape">Graphique</string>
