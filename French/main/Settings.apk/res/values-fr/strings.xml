@@ -2865,6 +2865,13 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
   <string name="extended_power_menu">"Menu d'alimentation étendu"</string>
   <string name="external_code_size_label">Application sur USB</string>
   <string name="external_data_size_label">Stockage externe</string>
+  <string name="external_ram_dialog_btn_cancel">Plus tard</string>
+  <string name="external_ram_dialog_btn_ok">Redémarrer</string>
+  <string name="external_ram_dialog_message">Redémarrez votre appareil pour appliquer les modifications.</string>
+  <string name="external_ram_dialog_title">Redémarrer votre appareil</string>
+  <string name="external_ram_summary">"Ajoutez %1$s %2$s de RAM en utilisant du stockage. Utilisez cette fonctionnalité uniquement lorsqu'il y a suffisamment d'espace de stockage disponible sur votre appareil."</string>
+  <string name="external_ram_title">Extension mémoire</string>
+  <string name="external_ram_toast">"Impossible d'utiliser l'extension de mémoire en raison d'un espace de stockage insuffisant"</string>
   <string name="external_source_switch_title">Autoriser cette source</string>
   <string name="external_source_trusted">Autorisé</string>
   <string name="external_source_untrusted">Pas autorisé</string>
@@ -5374,6 +5381,8 @@ Read and agree to %s before using this service."</string>
   <string name="permission_manage_title">%s permissions</string>
   <string name="permission_manager">Gérer les permissions</string>
   <string name="permission_mgr">Gérer les permissions</string>
+  <string name="permission_records">Utilisation des permissions</string>
+  <string name="permission_records_summary">Résumé de la façon dont les applications utilisent les autorisations</string>
   <string name="permission_settings_summary">"Gérer les permissions liées à la localisation, au stockage, au téléphone, aux messages ainsi qu'aux contacts."</string>
   <string name="permission_settings_title">Permissions des applications</string>
   <string name="permissions_label">Détails des permissions</string>

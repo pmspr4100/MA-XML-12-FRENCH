@@ -82,7 +82,7 @@
     <string name="activate_popup_desc_find_device_postfix">"Un SMS d'activation peut être envoyé si vous changez de carte SIM."</string>
     <string name="activate_popup_desc_find_device_postfix_msg">"%1$s. Pour activer %3$s, entrez le numéro de téléphone de la carte SIM %2$d. Si vous remplacez cette carte SIM, un autre SMS d'activation sera envoyé."</string>
     <string name="activate_popup_desc_intl_sim_card">Un SMS international sera envoyé pour activer %s. Vous pourrez être facturé par votre opérateur.</string>
-    <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Pour activer %2$s, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS internationaux payants&lt;/b>seront envoyés. Votre opérateur vous facturera ce message.</string>
+    <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Pour activer %2$s, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS internationaux payants&lt;/b> seront envoyés. Votre opérateur vous facturera ce message.</string>
     <string name="activate_popup_desc_mi_account_user_manual">"%1$s. <Data>Reportez-vous au &lt;a href=https://account.xiaomi.com/helpcenter/faq>manuel d'utilisation du Compte Mi&lt;/a> si vous avez des questions.</Data>"</string>
     <string name="activate_popup_desc_mixed_sim_cards">2 SMS (international et national) seront envoyés pour activer %s. Vous pourrez être facturé par votre opérateur.</string>
     <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">Pour activer %3$s, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS locaux payants&lt;/b> et &lt;xliff:g id=number_sms refersto=1>%2$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS internationaux payants&lt;/b> seront envoyés. Votre opérateur vous facturera ce message.</string>
@@ -158,6 +158,7 @@
     <string name="app_name">"Service d'activation de carte SIM Xiaomi"</string>
     <string name="checking_client">"Vérification de l'environnement d'activation"</string>
     <string name="clearable_edittext_clear_description">Effacer</string>
+    <string name="close">Fermer</string>
     <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
     <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>
     <string name="early_morning">Matin</string>
@@ -264,6 +265,7 @@
     <string name="saturday_short">Sam</string>
     <string name="saturday_shortest">Sam</string>
     <string name="search_menu_title">Recherche</string>
+    <string name="send">Envoyer</string>
     <string name="sim_activated_failed_msg">"Impossible d'activer le service. Appuyez pour réessayer."</string>
     <string name="sim_unactivated_feature_title">"%s n'était pas activé"</string>
     <string name="sim_unactivated_msg">"Ce service n'est pas activé. Appuyez pour réessayer."</string>

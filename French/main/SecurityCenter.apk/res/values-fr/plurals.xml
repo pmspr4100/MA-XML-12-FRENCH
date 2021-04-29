@@ -33,6 +33,14 @@
         <item quantity="other">%d jeux ajoutés</item>
         <item quantity="one">%d jeu ajouté</item>
     </plurals>
+    <plurals name="app_behavior_dashboard_title_desc">
+        <item quantity="other">%d applications</item>
+        <item quantity="one">%d application</item>
+    </plurals>
+    <plurals name="app_behavior_dashboard_total_usage_item">
+        <item quantity="other">%d applicationss</item>
+        <item quantity="one">%d applications</item>
+    </plurals>
     <plurals name="app_behavior_desc_allow">
         <item quantity="other">Autorisé %3$d fois entre %1$s et %2$s</item>
         <item quantity="one">Autorisé %3$d fois entre %1$s et %2$s</item>

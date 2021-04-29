@@ -6,10 +6,10 @@
   <string name="app_name">Mise à jour</string>
   <string name="battery_islow">Branchez votre chargeur</string>
   <string name="battery_islow_desc">Le niveau de la batterie est trop faible pour installer le fichier zip en toute sécurité, branchez votre chargeur et réessayez plus tard !</string>
-  <string name="btn_changelog">Changelog</string>
+  <string name="btn_changelog">Nouveautés</string>
   <string name="btn_download">Téléchargement (%1$s)</string>
   <string name="btn_error">"Une erreur s'est produite, essayez à nouveau ?"</string>
-  <string name="btn_install">Vérifiez MD5 et Installer</string>
+  <string name="btn_install">Vérifier MD5 et installer</string>
   <string name="btn_no">Annuler</string>
   <string name="btn_ok">OK</string>
   <string name="btn_pause">Pause</string>
@@ -28,7 +28,8 @@
   <string name="dialog_btn_wifi">Basculer vers le Wi-Fi</string>
   <string name="dialog_stop_desc">Vous pouvez suspendre ou arrêter le téléchargement, faites votre choix maintenant.</string>
   <string name="dialog_stop_title">Arrêter le téléchargement ?</string>
-  <string name="dialog_twrp">"Votre stockage interne est crypté. Une fois le périphérique redémarré, veuillez entrer le mot de passe de déverrouillage de votre périphérique pour continuer."</string>
+  <string name="dialog_twrp">"Votre stockage interne est chiffré. Une fois le périphérique redémarré, veuillez entrer le mot de passe de déverrouillage de votre périphérique pour continuer."</string>
+  <string name="downgrade_warning">Rétrogradation via OTA détectée et bloquée ! Pour ne pas vous laisser casser votre système !</string>
   <string name="download_done">Téléchargé avec succès !</string>
   <string name="download_fail">Erreur lors du téléchargement !</string>
   <string name="download_fail_desc">MD5 Sum ne correspond pas</string>
@@ -54,7 +55,7 @@ Les mises à jour ne sont pas disponibles pour vous !"</string>
   <string name="notif_new_summary">Appuyez pour plus infos</string>
   <string name="notif_new_title">Nouvelle version disponible !</string>
   <string name="notifications_switch">Afficher les notifications</string>
-  <string name="permdesc_cache_filesystem">"Permet à l'application d'écrire des fichiers sur le /cache."</string>
+  <string name="permdesc_cache_filesystem">"Permet à l'application d'écrire des fichiers sur la partition /cache."</string>
   <string name="permdesc_reboot">"Permet à l'application de redémarrer l'appareil."</string>
   <string name="permlab_cache_filesystem">Accès au cache</string>
   <string name="permlab_reboot">"Redémarrer l'accès"</string>
