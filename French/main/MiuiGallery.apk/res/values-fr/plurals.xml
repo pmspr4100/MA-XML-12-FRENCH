@@ -264,6 +264,10 @@
         <item quantity="other">%1$d vidéos en attente de synchronisation</item>
         <item quantity="one">%1$d vidéo en attente de synchronisation</item>
     </plurals>
+    <plurals name="photo_count">
+        <item quantity="other">%d photos</item>
+        <item quantity="one">%d photo</item>
+    </plurals>
     <plurals name="photo_count_format">
         <item quantity="other">%1$d fichiers au total</item>
         <item quantity="one">%1$d fichier au total</item>
@@ -476,6 +480,14 @@
         <item quantity="other">%d fichiers</item>
         <item quantity="one">%d fichier</item>
     </plurals>
+    <plurals name="synced_photo_count">
+        <item quantity="other">%d photos synchronisées</item>
+        <item quantity="one">%d photo synchronisée</item>
+    </plurals>
+    <plurals name="synced_videos_count">
+        <item quantity="other">%d vidéos synchronisées</item>
+        <item quantity="one">%d vidéo synchronisée</item>
+    </plurals>
     <plurals name="trash_purge_dialog_message_image">
         <item quantity="other">"Vous ne pourrez pas restaurer %d éléments sélectionnés si vous les supprimez. Supprimer quand même ?"</item>
         <item quantity="one">"Vous ne pourrez pas restaurer %d élément sélectionné si vous l'avez supprimé. Supprimer quand même ?"</item>
@@ -499,5 +511,9 @@
     <plurals name="video_count_format">
         <item quantity="other">%1$d fichiers</item>
         <item quantity="one">%1$d fichier</item>
+    </plurals>
+    <plurals name="videos_count">
+        <item quantity="other">%d vidéos</item>
+        <item quantity="one">%d vidéo</item>
     </plurals>
 </resources>

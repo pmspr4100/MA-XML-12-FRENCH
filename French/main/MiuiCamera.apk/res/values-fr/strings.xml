@@ -561,6 +561,7 @@ et ajustez les préférences automatiquement"</string>
   <string name="device_watermark_default_text">DOUBLE APPAREIL PHOTO IA</string>
   <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
   <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>
+  <string name="dd_frn_f_t">Repliez votre appareil pour utiliser le capteur photo frontal</string>
   <string name="dialog_google_lens_option_0">Google Lens (recommandé)</string>
   <string name="dialog_button_accept">Accepter</string>
   <string name="dialog_button_back">Retour</string>
@@ -645,8 +646,9 @@ Numérisez des documents en un clic"</string>
   <string name="eras_ad">Apr. J.-C.</string>
   <string name="eras_bc">Av. J.-C.</string>
   <string name="error_fail_to_start_audio_capture">"Impossible de démarrer la capture audio"</string>
-  <string name="excalibur_module_name_pixel">64 MPX</string>
+  <string name="esp_tip">"Prévisualisation sur l'écran extérieur"</string>
   <string name="evening">Après-midi</string>
+  <string name="excalibur_module_name_pixel">64 MPX</string>
   <string name="expand_button_title">Avancé</string>
   <string name="extend_time_watermark_2_logo_text">SUPERMOON</string>
   <string name="eye_light">Éclat des yeux</string>
@@ -1235,7 +1237,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_camera_eis_entry_off">Off</string>
   <string name="pref_camera_eis_entry_pro">EIS Pro</string>
   <string name="pref_camera_eis_title">EIS</string>
-  <string name="pref_camera_esp">preview</string>
+  <string name="pref_camera_esp">"Prévisualisation sur l'affichage arrière"</string>
   <string name="pref_camera_face_info_watermark_title">"Ajouter un timbre d'âge sur les photos"</string>
   <string name="pref_camera_facedetection_auto_hidden_title">Masquer le cadre de détection de visage automatiquement</string>
   <string name="pref_camera_facedetection_title">Détection faciale</string>
@@ -1393,6 +1395,8 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_camera_touch_focus_delay_title">Augmentez le délai de mise au point tactile</string>
   <string name="pref_camera_touchafaec_entry_off">Désactivé</string>
   <string name="pref_camera_touchafaec_entry_on">Activé</string>
+  <string name="pref_camera_track_focus_preferred_description">"Activez pour faire automatiquement la mise au point sur les personnes et les animaux. Vous pourrez également sélectionner des sujets à suivre manuellement."</string>
+  <string name="pref_camera_track_focus_preferred_title">Suivi de la mise au point</string>
   <string name="pref_camera_ubifocus_title">Refocus</string>
   <string name="pref_camera_ultra_wide_ldc_description">Corriger automatiquement les objets déformés</string>
   <string name="pref_camera_ultra_wide_ldc_title">Correction de la distorsion lors de prises de vue ultra larges</string>
@@ -1565,11 +1569,15 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="prek_b_j_o">Recréez un effet surround stéréo</string>
   <string name="prek_b_j_p">"Réduit l'impact du vent sur l'enregistrement sonore"</string>
   <string name="prep_video_ai_audio_new_desc_tip">Les sons du sujet visé sont améliorés</string>
+  <string name="prep_video_ai_audio_new_desc_tip_alone">Les sons du sujet visé sont améliorés en mode paysage</string>
   <string name="prep_video_ai_audio_single_desc_tip">"Les sons de l'arrière de l'écran sont filtrés"</string>
+  <string name="prep_video_ai_audio_single_desc_tip_alone">"Les sons de l'arrière de l'écran sont filtrés en mode paysage"</string>
   <string name="prep_video_ai_audio_unsupported_headset_desc_tips">"Le zoom audio ne fonctionne pas avec un moniteur intra-auriculaire en direct et le micro externe"</string>
   <string name="preparing_sd">Vérification carte SD…</string>
   <string name="preview_back_pressed_hint">"Appuyez à nouveau pour revenir à l'aperçu"</string>
   <string name="pro_color_mode">Couleur pro</string>
+  <string name="process_tips_1">"Ne repliez pas l'appareil tant que la vidéo n'est pas enregistrée"</string>
+  <string name="process_tips_2">"Ne dépliez pas l'appareil tant que la vidéo n'est pas enregistrée"</string>
   <string name="professional_shortcut_short">Pro</string>
   <string name="recommend_macro_mode">Essayez le mode macro</string>
   <string name="recommend_portrait">Essayez le mode portrait</string>

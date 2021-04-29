@@ -564,6 +564,7 @@ Les cartes de contact ont été désactivées"</string>
     <string name="data_unit_gb">" Go"</string>
     <string name="data_unit_mb">" Mo"</string>
     <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
+    <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>
     <string name="date_time_set">Définir</string>
     <string name="date_year_toggle">Fournir une année</string>
     <string name="default_ringtone">Sonnerie par défaut</string>
@@ -1013,6 +1014,15 @@ Raison: \"%s\""</string>
     <string name="miuix_appcompat_cloud_state_disabled">Synchronisation avec le cloud est désactivée</string>
     <string name="miuix_appcompat_cloud_state_finished">Synchronisé avec le cloud avec succès</string>
     <string name="miuix_appcompat_cloud_state_syncing">Synchronisation avec le cloud…</string>
+    <string name="miuix_appcompat_confirm_description">Confirmer</string>
+    <string name="miuix_appcompat_delete_description">Supprimer</string>
+    <string name="miuix_appcompat_deselect_all">Désélectionner</string>
+    <string name="miuix_appcompat_deselect_all_description">Tout désélectionner</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Annuler</string>
+    <string name="miuix_appcompat_search_input_description">Chercher</string>
+    <string name="miuix_appcompat_select_all">Tout sélectionner</string>
+    <string name="miuix_appcompat_select_all_description">Tout sélectionner</string>
+    <string name="miuix_appcompat_select_item">Sélectionner des éléments</string>
     <string name="miuix_sb_tracking_progress_labe_pull_to_refresh">tirer pour actualiser</string>
     <string name="miuix_sb_tracking_progress_labe_refreshed">actualisation terminé</string>
     <string name="miuix_sb_tracking_progress_labe_refreshing">actualiser</string>
@@ -1418,6 +1428,7 @@ Pour commencer, appuyez sur l'icône fusionner en bas de votre écran."</string>
     <string name="select_none">Aucun élément sélectionné</string>
     <string name="select_show_contacts">Liste des contacts</string>
     <string name="select_vcard_title">Choisir un fichier vCard</string>
+    <string name="send">Envoyer</string>
     <string name="send_contact_shortcut_todesktop_duplicate">Ce raccourci existe déjà</string>
     <string name="send_contact_shortcut_todesktop_failed">"Impossible de placer un raccourci sur l'écran d'accueil"</string>
     <string name="send_contact_shortcut_todesktop_overflow">"Impossible de placer plus de raccourcis sur l'écran d'accueil"</string>
