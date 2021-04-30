@@ -568,7 +568,7 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
   <string name="delete_third_party_photo">Supprimez cette photo ?</string>
   <string name="delete_third_party_video">Supprimez cette vidéo ?</string>
   <string name="deny">Rejeter</string>
-  <string name="detail_title">Info détaillée</string>
+  <string name="detail_title">Infos détaillées</string>
   <string name="device_offline">"L'autre appareil est hors ligne. Recommencer."</string>
   <string name="device_status_failed">"Couldn't send"</string>
   <string name="device_status_sending">Sending…</string>
@@ -1180,10 +1180,10 @@ pour personnaliser Galerie"</string>
   <string name="member_menu_vipname_premium">Premium</string>
   <string name="member_menu_vipname_ultra">Ultra</string>
   <string name="menu_album_new_album">Nouvel album</string>
-  <string name="menu_detail_sort_create_date">Created</string>
-  <string name="menu_detail_sort_name">Filename</string>
-  <string name="menu_detail_sort_size">File size</string>
-  <string name="menu_detail_sort_update_date">Last updated</string>
+  <string name="menu_detail_sort_create_date">Date de création</string>
+  <string name="menu_detail_sort_name">Nom</string>
+  <string name="menu_detail_sort_size">Taille</string>
+  <string name="menu_detail_sort_update_date">Dernière modif</string>
   <string name="menu_item_sort_date">Date</string>
   <string name="menu_item_sort_name">Nom</string>
   <string name="menu_item_sort_size">Taille</string>
@@ -1918,7 +1918,7 @@ Le transcodage peut prendre un certain temps lorsque vous utilisez cette fonctio
   <string name="slideshow_interval_dialog_title">Entrer un intervalle</string>
   <string name="slideshow_interval_invalid">"L'intervalle doit être compris entre %1$d et %2$d secondes"</string>
   <string name="slideshow_interval_title">Afficher chaque diapositive</string>
-  <string name="slideshow_loop_title">Lire en boucle les dispositives</string>
+  <string name="slideshow_loop_title">Lire en boucle les diapositives</string>
   <string name="slim_complete">Terminé</string>
   <string name="slim_complete_action_title">Optimisé avec succès</string>
   <string name="slim_cost_time_minute">%d mins restantes</string>
@@ -2124,7 +2124,7 @@ Le transcodage peut prendre un certain temps lorsque vous utilisez cette fonctio
   <string name="time_picker_dialog_title">"Réglage de l'heure"</string>
   <string name="tip_capture_location">Emplacement :</string>
   <string name="tip_capture_params">Donnée EXIF :</string>
-  <string name="tip_capture_time">Pris le :</string>
+  <string name="tip_capture_time">Prise le :</string>
   <string name="tip_file_info">Information sur le fichier :</string>
   <string name="tip_file_path">Chemin local :</string>
   <string name="tip_not_download">"Pas sur l'appareil. Sera téléchargé depuis Xiaomi Cloud pendant la lecture."</string>
