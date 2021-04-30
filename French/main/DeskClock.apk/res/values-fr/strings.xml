@@ -136,7 +136,7 @@
   <string name="continue_operation">Continuer</string>
   <string name="continue_step">Suivant</string>
   <string name="control_set_alarm">Régler une alarme</string>
-  <string name="control_set_alarm_with_existing">"Régler l'alarme : %s"</string>
+  <string name="control_set_alarm_with_existing">"Régler l'alarme : %s"</string>
   <string name="copy">Copie</string>
   <string name="current_stopwatch_time">Durée actuelle</string>
   <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
@@ -190,7 +190,7 @@
   <string name="holiday_update_title">Mettre à jour les informations sur les jours fériés</string>
   <string name="install_weather_app_error">"Impossible de charger l'application"</string>
   <string name="install_weather_app_loading">Chargement…</string>
-  <string name="invalid_time">Heure non valide : %3$s %1$d: %2$d</string>
+  <string name="invalid_time">Heure non valide : %3$s %1$d: %2$d</string>
   <string name="invalid_timer_length">"La durée du minuteur n'est pas valide"</string>
   <string name="keep_screen_on">"Laisser l'écran allumé"</string>
   <string name="korea_permission_calendar">Calendrier</string>
@@ -285,7 +285,7 @@
   <string name="module_update_success">"Le fichier audio mis à jour pour les alarmes intelligentes MIUI a été téléchargé avec succès. Vous pouvez définir les alarmes intelligentes MIUI dans les paramètres de l'horloge."</string>
   <string name="module_update_success_control">Compris</string>
   <string name="module_weather_ringtone_download_data">"L'alarme météo sélectionne différentes sonneries en fonction de la météo actuelle. L'horloge doit télécharger ≈30 Mo d'audio pour le faire fonctionner. Télécharger maintenant ?"</string>
-  <string name="module_weather_ringtone_download_data_privacy">&lt;Data&gt;Weather alarm selects different ringtones according to the current weather. Clock needs to connect to the internet to download &amp;#8776;30MB of audio. Before using Clock, you must also read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;. Agree?&lt;/Data&gt;</string>
+  <string name="module_weather_ringtone_download_data_privacy"><Data>"L'alarme météo sélectionne différentes sonneries en fonction de la météo actuelle. L'horloge doit se connecter à internet pour télécharger ≈30 Mo d'audio. Avant d'utiliser Horloge, vous devez aussi lire et accepter notre &lt;a href=\"%1$s\"&gt;Accord utilisateur&lt;/a&gt; et notre &lt;a href=\"%2$s\"&gt;Politique de confidentialité&lt;/a&gt;. Accepter ?"</Data></string>
   <string name="module_weather_ringtone_download_wifi">"L'alarme météo sélectionne différentes sonneries en fonction de la météo actuelle. L'horloge doit télécharger de l'audio pour le faire fonctionner. Télécharger maintenant ?"</string>
   <string name="module_weather_ringtone_download_wifi_privacy">&lt;Data&gt;Weather alarm selects different ringtones according to the current weather. Clock needs to connect to the internet to download audio. Before using Clock, you must also read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;. Agree?&lt;/Data&gt;</string>
   <string name="module_weather_ringtone_introduce">"L'alarme météo sélectionne différentes sonneries en fonction de la météo actuelle. Il vous permet également d'écouter les informations météo actuelles le matin."</string>
@@ -413,7 +413,7 @@
   <string name="skip_alarm_once_hint">Désactiver une fois le %s</string>
   <string name="sleep_analysis">Stats</string>
   <string name="sleep_date_provider_text">Données de sommeil fournies par Mi Santé</string>
-  <string name="sleep_duration">"Durée du sommeil : "</string>
+  <string name="sleep_duration">"Durée du sommeil : "</string>
   <string name="sleep_duration_avg_text_diff">Durée moyenne de sommeil (%1$s-%2$s)</string>
   <string name="sleep_duration_desc">"J'ai dormi %1$s %2$s"</string>
   <string name="sleep_duration_no_data">Pas assez de données pour le moment</string>
@@ -520,7 +520,7 @@
   <string name="tuesday_shortest">Mar</string>
   <string name="turn_off_a_repeat_alarm">Désactiver une alarme récurrente</string>
   <string name="turn_off_this_repeat_alarm">Désactiver cette alarme récurrente</string>
-  <string name="upcoming_alarm">Prochaine alarme : %s</string>
+  <string name="upcoming_alarm">Prochaine alarme : %s</string>
   <string name="upcoming_alarm_hint">Vous pouvez désactiver cette alarme maintenant</string>
   <string name="update_health_app">Mettre à jour Mi Santé</string>
   <string name="update_health_app_desc">"La fonctionnalité de suivi du sommeil est fournie par Mi Santé. Mettez à jour Mi Santé vers sa dernière version pour accéder aux fonctionnalités associées."</string>
@@ -550,13 +550,13 @@
   <string name="workday_alarm_clock">Alarme pour les jours de travail</string>
   <string name="worldclock_empty_text">"Pas d'horloge"</string>
   <string name="worldclock_input_hint_text">Recherche de pays ou de ville</string>
-  <string name="worldclock_resident_city_text">Deuxième horloge : %s</string>
+  <string name="worldclock_resident_city_text">Deuxième horloge : %s</string>
   <string name="worldclock_resident_city_text_detail">La double horloge est activée</string>
   <string name="worldclock_search_city">Sélectionnez une ville</string>
   <string name="worldclock_title">Horloges</string>
   <string name="worldclock_world_time">Fuseaux horaires</string>
-  <string name="worldcolock_date_display_prefix">"Actuel : "</string>
-  <string name="worldcolock_timezone_current">Actuel : %1$s</string>
+  <string name="worldcolock_date_display_prefix">"Actuel : "</string>
+  <string name="worldcolock_timezone_current">Actuel : %1$s</string>
   <string name="worldcolock_timezone_current_date">dd/MM/yyyy</string>
   <string name="worldcolock_timezone_date">dd MMMM</string>
   <string name="worldcolock_timezone_local">"Identique à l'heure locale"</string>
