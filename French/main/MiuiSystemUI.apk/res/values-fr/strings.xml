@@ -653,7 +653,7 @@ Réessayez dans %d secondes."</string>
   <string name="clock_seconds_desc">"Afficher les secondes l'horloge dans la barre d'état peut impacter l'autonomie de la batterie."</string>
   <string name="compat_mode_off">"Étirer pour remplir l'écran"</string>
   <string name="compat_mode_on">"Zoomer pour remplir l'écran"</string>
-  <string name="confirm">Compris</string>
+  <string name="confirm">Confirmer</string>
   <string name="confirm_enable_oem_unlock_text">"AVERTISSEMENT: les fonctionnalités de protection de l'appareil ne fonctionneront pas sur cet appareil tant que ce paramètre sera activé."</string>
   <string name="confirm_enable_oem_unlock_title">Autoriser le déverrouillage OEM ?</string>
   <string name="confirm_pin_msg">Répétez le code PIN</string>
@@ -1423,6 +1423,15 @@ une capture d'écran de défilement"</string>
   <string name="miui_ringer_total">NPD</string>
   <string name="miui_ringer_total_description">"Réduire les sons et désactiver le vibreur pour tous les éléments sauf l'alarme"</string>
   <string name="miui_screen_rotation_freeze_message">Rotation auto désactivée.</string>
+  <string name="miui_snooze_always_float">Ne pas masquer</string>
+  <string name="miui_snooze_cancel">Annuler</string>
+  <string name="miui_snooze_default_time">Pendant %d minute(s)</string>
+  <string name="miui_snooze_to_settings">Réglages</string>
+  <string name="miui_snooze_toast_hint_default">"Les prochaines notifications seront masquées pendant %d minute(s). "</string>
+  <string name="miui_snooze_toast_hint_until_unlock_screen">"Les prochaines notifications seront masquées jusqu'au verrouillage de l'appareil. "</string>
+  <string name="miui_snooze_until_unlock_screen">"Jusqu'au verrouillage"</string>
+  <string name="miui_snooze_user_set_fail">"Allez dans Réglages > Notifications &amp; Centre de contrôle pour plus d'options"</string>
+  <string name="miui_snooze_user_set_success">"Appliqué avec succès. Allez dans Réglages > Notifications &amp; Centre de contrôle pour plus d'options"</string>
   <string name="miui_toast_zen_dnd_to_off">Mode NPD désactivé. Les sons et les vibrations sont ramenés à la normale.</string>
   <string name="miui_toast_zen_standard_to_off">Mode NPD désactivé. Les sonneries et les notifications sont rétablies à la normale.</string>
   <string name="miui_toast_zen_standard_to_off_when_shield_media">Mode NPD désactivé. Les sonneries, ainsi que les notifications et les sons de média, seront joués.</string>
@@ -1752,8 +1761,8 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="qs_control_big_tile_state_disconnected">Non connecté</string>
   <string name="qs_control_big_tile_state_disconnecting">Déconnexion…</string>
   <string name="qs_control_big_tile_state_opened">Activé</string>
-  <string name="qs_control_big_tile_state_opening">Activer…</string>
-  <string name="qs_control_big_tile_state_unavailable">Not available</string>
+  <string name="qs_control_big_tile_state_opening">Activation…</string>>
+  <string name="qs_control_big_tile_state_unavailable">Indisponible</string>
   <string name="qs_control_customize_other_tiles_title">Raccourcis disponibles</string>
   <string name="qs_control_customize_save_text">Terminé</string>
   <string name="qs_control_customize_sub_title">Faites glisser les raccourcis pour les réorganiser</string>
