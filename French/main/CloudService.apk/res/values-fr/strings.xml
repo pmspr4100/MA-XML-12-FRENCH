@@ -50,8 +50,8 @@
   <string name="close">Fermer</string>
   <string name="close_shortcut">Fermer</string>
   <string name="cloud_find_device">"Localiser l'appareil"</string>
-  <string name="cloud_find_device_off">Désactivé</string>
-  <string name="cloud_find_device_on">Activé</string>
+  <string name="cloud_find_device_off">Désactivée</string>
+  <string name="cloud_find_device_on">Activée</string>
   <string name="cloud_lab_title">Lab</string>
   <string name="cloud_space_full_gallery_notification_content_text">"Mettez à jour votre abonnement pour obtenir plus d'espace de stockage Cloud"</string>
   <string name="cloud_storage_already_full">Le stockage cloud est plein: %1$s/%2$s</string>
@@ -133,13 +133,13 @@
   <string name="find_device_dspt_provision">"Si vous perdez votre appareil, vous pouvez aller à &lt;font color=#0097FF&gt;%s&lt;/font&gt; pour le localiser, le verrouiller ou le réinitialiser. Vous pouvez activer ou désactiver cette fonctionnalité à tout moment dans les paramètres."</string>
   <string name="find_device_error_network">Vérifiez votre connexion de données et réessayez.</string>
   <string name="find_device_error_server">Erreur du serveur</string>
-  <string name="find_device_gdpr_prompt">"En activant Rechercher un appareil, vous acceptez notre &lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;&lt;u&gt;Politique de confidentialité&lt;/u&gt;&lt;/a&gt;. Si vous devez révoquer l'autorisation, désactivez cette fonction."</string>
+  <string name="find_device_gdpr_prompt">"En activant Localiser l'appareil, vous acceptez notre "<a href="app://com.miui.cloudservice.gdpr.license"><u>Politique de confidentialité</u></a>". Si vous devez révoquer l'autorisation, désactivez cette fonction."</string>
   <string name="find_device_operation_failure_rpc">"Impossible d'exécuter l'opération en raison d'une erreur RPC."</string>
   <string name="find_device_send_sms_alert">Si vous changez de carte SIM, un SMS sera envoyé automatiquement pour réactiver ce service.</string>
   <string name="find_device_service_title">"Localiser l'appareil"</string>
-  <string name="find_device_status_summary">Locate and lock your device, as well as erase data remotely</string>
-  <string name="find_device_status_title_pad">Find device</string>
-  <string name="find_device_status_title_phone">Find device</string>
+  <string name="find_device_status_summary">Localiser et verrouiller votre appareil, et effacer vos données à distance</string>
+  <string name="find_device_status_title_pad">"Localiser l'appareil"</string>
+  <string name="find_device_status_title_phone">"Localiser l'appareil"</string>
   <string name="finddevice_miservice_notification_content">Verrouillez votre appareil à distance en cas de perte</string>
   <string name="finddevice_miservice_notification_title">"Activer localiser l'appareil"</string>
   <string name="fmt_date_long_month_day">d MMMM</string>
@@ -291,7 +291,7 @@ Localisez et verrouillez votre appareil en cas de perte. "</string>
   <string name="micloud_dspt_provision_v2">Utiliser Xiaomi Cloud pour synchroniser vos données, localiser votre appareil et partager avec vos amis.</string>
   <string name="micloud_dspt_provision_xms">Utiliser Xiaomi Cloud pour synchroniser les données.</string>
   <string name="micloud_dspt_provision_xms_china">Utiliser Xiaomi Cloud pour synchroniser vos données.</string>
-  <string name="micloud_find_device_close_alert_content">"Si vous désactivez l'option Rechercher un appareil, vous ne pourrez pas localiser votre téléphone à l'aide de cette fonction. Si votre téléphone prend en charge la fonctionnalité NFC, toutes vos cartes bancaires et cartes de clé seront supprimées de Mi Pay."</string>
+  <string name="micloud_find_device_close_alert_content">"Si vous désactivez l'option Localiser l'appareil, vous ne pourrez pas localiser votre téléphone à l'aide de cette fonction. Si votre téléphone prend en charge la fonctionnalité NFC, toutes vos cartes bancaires et cartes de clé seront supprimées de Mi Pay."</string>
   <string name="micloud_find_device_close_alert_negtive">Désactiver quand même</string>
   <string name="micloud_find_device_close_alert_positive">Continuer</string>
   <string name="micloud_find_device_close_alert_title">"Désactiver Localiser l'appareil ?"</string>
@@ -321,7 +321,7 @@ Localisez et verrouillez votre appareil en cas de perte. "</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_wx">"WeChat vous recommande d'activer Localiser l'appareil"</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">"Alipay vous recommande d'activer Localiser l'appareil"</string>
   <string name="micloud_find_device_guide_progress">"Activation de Localiser l'appareil…"</string>
-  <string name="micloud_find_device_guide_title">Sign in to &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; with your Mi Account to locate and lock your device, mark it as lost, or erase data remotely. View details &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;here&lt;/a&gt;.</string>
+  <string name="micloud_find_device_guide_title">Connectez-vous sur &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> avec votre compte Mi pour localiser et verrouiller votre appareil, le marquer comme perdu ou pour effacer les données à distance. Voir les détails &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>ici&lt;/a>.</string>
   <string name="micloud_find_device_inter_sms_alert_with_charge_hint">"&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS internationaux payants&lt;/b>&lt;/font> seront envoyés automatiquement pour activer ce service.&lt;br/>Lorsque vous changez de carte SIM, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS internationaux payants&lt;/b>&lt;/font> seront envoyés automatiquement pour réactivation.&lt;br/>Tous les frais de SMS générés par les actions susmentionnées seront collectés par votre opérateur. Xiaomi ne vous facturera pas ces messages."</string>
   <string name="micloud_find_device_open_fail">"Impossible d'activer Localiser l'appareil"</string>
   <string name="micloud_find_device_opened">"Localiser l'appareil est activé"</string>
@@ -331,26 +331,26 @@ Localisez et verrouillez votre appareil en cas de perte. "</string>
   <string name="micloud_find_device_verify_fail">"Impossible de réactiver Localiser l'appareil"</string>
   <string name="micloud_find_device_verify_progress">"Réactivation de Localiser l'appareil…"</string>
   <string name="micloud_last_sync_canceled">La synchronisation a été annulée. Réessayer.</string>
-  <string name="micloud_main_head_menu_cloud_backup">"Sauvegardes des écrans d'accueil"</string>
+  <string name="micloud_main_head_menu_cloud_backup">Sauvegardes Cloud</string>
   <string name="micloud_main_head_menu_cloud_backup_summary">"Disposition de l'écran d'accueil, applications et paramètres du système"</string>
   <string name="micloud_main_head_menu_finddevice_summary">"Localisez et verrouillez votre appareil s'il est perdu"</string>
   <string name="micloud_main_head_menu_finddevice_unavailable">"Localiser l'appareil n'est pas disponible dans le deuxième espace, vous pouvez l'utiliser dans le premier espace."</string>
   <string name="micloud_main_head_menu_recycle_bin_summary">Restaurer les éléments supprimés</string>
   <string name="micloud_main_head_menu_recycle_bin_title">Supprimer des éléments</string>
-  <string name="micloud_main_head_menu_state_close">Désactivé</string>
-  <string name="micloud_main_head_menu_state_open">Activé</string>
-  <string name="micloud_main_head_menu_state_unavailable">Non supporté</string>
+  <string name="micloud_main_head_menu_state_close">Désactivée</string>
+  <string name="micloud_main_head_menu_state_open">Activée</string>
+  <string name="micloud_main_head_menu_state_unavailable">Indisponible</string>
   <string name="micloud_main_manual_sync">Synchroniser manuellement</string>
   <string name="micloud_main_memory_low_title">Le stockage interne du téléphone est presque plein</string>
   <string name="micloud_main_network_error">Connexion réseau impossible</string>
-  <string name="micloud_main_sync_mode_summary">"Synchronisez les données de l'application en temps réel. La consommation électrique augmentera lorsque cette fonction est activée."</string>
+  <string name="micloud_main_sync_mode_summary">"Synchronisez les données en temps réel. La consommation d'énergie augmentera lorsque cette fonction est activée."</string>
   <string name="micloud_main_sync_mode_title">Synchronisation rapide</string>
   <string name="micloud_main_wait_charge">Chargez complètement votre appareil pour reprendre la synchronisation.</string>
   <string name="micloud_main_wait_charge_sleep">Éteignez votre écran et chargez complètement votre appareil pour reprendre la synchronisation.</string>
   <string name="micloud_manage_space_data">Gérer les données Xiaomi Cloud</string>
   <string name="micloud_manaul_sync_success_button_text">Afficher les détails</string>
   <string name="micloud_manaul_sync_success_time_prefix">Dernière synchronisation: %s</string>
-  <string name="micloud_manaul_sync_success_title">Synchronisé</string>
+  <string name="micloud_manaul_sync_success_title">Synchronisées</string>
   <string name="micloud_manual_activating">Activation…</string>
   <string name="micloud_manual_all_sync_off_button_text">Activer</string>
   <string name="micloud_manual_all_sync_off_summary">Restaurer les données synchronisées sur de nouveaux appareils en utilisant Xiaomi Cloud</string>
@@ -361,7 +361,7 @@ Localisez et verrouillez votre appareil en cas de perte. "</string>
   <string name="micloud_manual_cloud_storage_full_title">"Impossible de synchroniser. Pas assez d'espace de stockage dans Xiaomi Cloud."</string>
   <string name="micloud_manual_cloud_storage_low_button_text">Obtenir plus de stockage</string>
   <string name="micloud_manual_cloud_storage_low_summary">À court de stockage cloud</string>
-  <string name="micloud_manual_cloud_storage_low_title">Synchronisé</string>
+  <string name="micloud_manual_cloud_storage_low_title">Synchronisées</string>
   <string name="micloud_manual_grant_permission">Autoriser</string>
   <string name="micloud_manual_local_storage_low_button_text">Effacer</string>
   <string name="micloud_manual_local_storage_low_summary">"Libérez de l'espace de stockage et réessayez."</string>
@@ -591,9 +591,9 @@ Cette fonctionnalité crypte et envoie l'ID de votre appareil aux serveurs de Mi
   <string name="picker_search_empty">Impossible de trouver des contacts</string>
   <string name="picker_search_hint">Recherche</string>
   <string name="pm">PM</string>
-  <string name="power_off_locate_summary">"Rapportez les informations de localisation en appuyant longtemps sur le bouton d'alimentation.
+  <string name="power_off_locate_summary">"Rapporter les informations de localisation en appuyant longtemps sur le bouton d'alimentation.
 Les informations de localisation peuvent ne pas être transmises si la connexion réseau est faible."</string>
-  <string name="power_off_locate_title">"Rapportez la localisation avant d'éteindre"</string>
+  <string name="power_off_locate_title">"Indication de localisation avant d'éteindre l'appareil"</string>
   <string name="pre_privacy_policy">Politique de confidentialité</string>
   <string name="pre_user_agreement">"Accord de l'utilisateur"</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">Synchronise uniquement les photos de profil des contacts lorsque vous êtes connecté à un réseau Wi-Fi</string>
@@ -731,8 +731,8 @@ Les informations de localisation peuvent ne pas être transmises si la connexion
   <string name="sunday">Dimanche</string>
   <string name="sunday_short">Dim</string>
   <string name="sunday_shortest">Dim</string>
-  <string name="sync_detail_summary_master_sync_off">Synchronisation désactivé</string>
-  <string name="sync_detail_summary_off">Synchronisation désactivé</string>
+  <string name="sync_detail_summary_master_sync_off">Synchronisation désactivée</string>
+  <string name="sync_detail_summary_off">Synchronisation désactivée</string>
   <string name="sync_detail_text">Détails de la synchronisation</string>
   <string name="sync_dspt">Synchronisation</string>
   <string name="sync_dspt_entrance_provision">"Synchronisez vos photos, contacts, historique d'appels et messages entre vos appareils. Vous pouvez accéder aux données synchronisées sur %s. "</string>
@@ -754,10 +754,10 @@ Les informations de localisation peuvent ne pas être transmises si la connexion
   <string name="sync_item_title">Synchroniser les données</string>
   <string name="sync_normal_summary">"Certains éléments de la liste ci-dessous n'ont pas pu être synchronisés"</string>
   <string name="sync_normal_title">"Impossible de terminer la synchronisation"</string>
-  <string name="sync_off">Désactivé</string>
+  <string name="sync_off">Désactivée</string>
   <string name="sync_off_confirm_content">Vous ne pourrez pas synchroniser les nouveaux mots de passe après avoir désactivé le gestionnaire de mots de passe.</string>
   <string name="sync_off_confirm_title">Attention</string>
-  <string name="sync_on">Activé</string>
+  <string name="sync_on">Activée</string>
   <string name="sync_page_autofill_login">Connectez-vous au Compte Mi pour utiliser le gestionnaire de mots de passe</string>
   <string name="sync_page_autofill_title">Gestionnaire de mots de passe</string>
   <string name="sync_page_route_message">Le gestionnaire de mots de passe vous permet de chiffrer vos mots de passe et de les stocker dans le cloud. Activer le gestionnaire de mots de passe maintenant ?</string>
