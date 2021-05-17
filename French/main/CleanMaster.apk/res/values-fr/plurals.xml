@@ -31,8 +31,8 @@
         <item quantity="many">il y a %1$d jours</item>
     </plurals>
     <plurals name="dc_group_title_normal">
-        <item quantity="other">Take %1$d steps to free up %2$s</item>
-        <item quantity="one">Take %1$d step to free up %2$s</item>
+        <item quantity="other">Libérez %2$s en prenant ces %1$d mesures</item>
+        <item quantity="one">Libérez %2$s en prenant cette mesure</item>
     </plurals>
     <plurals name="dc_item_summary_apk">
         <item quantity="other">"&lt;Data&gt;Vous pouvez supprimer &lt;font color=#0097FF&gt;%d&lt;/font&gt; paquets d'installation&lt;/Data&gt;"</item>
@@ -47,8 +47,8 @@
         <item quantity="one">&lt;Data&gt;Vous pouvez supprimer &lt;font color=#0097FF&gt;%d&lt;/font&gt; photo inutile&lt;/Data&gt;</item>
     </plurals>
     <plurals name="dc_item_summary_large_file">
-        <item quantity="other">&lt;Data&gt;Vous pouvez supprimer &lt;font color=#0097FF&gt;%d&lt;/font&gt; gros fichiers&lt;/Data&gt;</item>
-        <item quantity="one">&lt;Data&gt;Vous pouvez supprimer &lt;font color=#0097FF&gt;%d&lt;/font&gt; gros fichier&lt;/Data&gt;</item>
+        <item quantity="other">&lt;Data&gt;Vous pouvez supprimer &lt;font color=#0097FF&gt;%d&lt;/font&gt; fichiers volumineux&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;Vous pouvez supprimer &lt;font color=#0097FF&gt;%d&lt;/font&gt; fichier volumineux&lt;/Data&gt;</item>
     </plurals>
     <plurals name="dc_item_summary_uninstall_app">
         <item quantity="other">&lt;Data&gt;Vous pouvez désinstaller &lt;font color=#0097FF&gt;%d&lt;/font&gt; applications rarement utilisées&lt;/Data&gt;</item>
@@ -75,8 +75,8 @@
         <item quantity="one">%d applications installées</item>
     </plurals>
     <plurals name="deepclean_large_summary">
-        <item quantity="other">%d gros fichiers trouvés, vous pouvez supprimer ceux qui sont sans importance</item>
-        <item quantity="one">%d gros fichier trouvé, vous pouvez le supprimer</item>
+        <item quantity="other">%d fichiers volumineux trouvés, vous pouvez supprimer ceux qui sont sans importance</item>
+        <item quantity="one">%d fichier volumineux trouvé, vous pouvez le supprimer</item>
     </plurals>
     <plurals name="deepclean_similar_summary">
         <item quantity="other">%d photo trouvées, vous pouvez supprimer les doublons</item>
@@ -129,6 +129,14 @@
         <item quantity="two">il y a %1$d heures</item>
         <item quantity="few">il y a %1$d heures</item>
         <item quantity="many">il y a %1$d heures</item>
+    </plurals>
+    <plurals name="install_find_application">
+        <item quantity="other">Rechercher parmi %d applications</item>
+        <item quantity="one">Rechercher parmi %d application</item>
+    </plurals>
+    <plurals name="install_find_application_num">
+        <item quantity="other">%d applications trouvées</item>
+        <item quantity="one">%d application trouvée</item>
     </plurals>
     <plurals name="million">
         <item quantity="other">Téléchargé par %1$d personnes</item>

@@ -37,7 +37,7 @@
   <string name="activity_title_garbage_cleanup">Nettoyeur</string>
   <string name="activity_title_ignored_image">Ignoré</string>
   <string name="activity_title_image_gallery">Supprimer les doublons</string>
-  <string name="activity_title_large_file">Gros fichiers</string>
+  <string name="activity_title_large_file">Fichiers volumineux</string>
   <string name="activity_title_main">Nettoyeur</string>
   <string name="activity_title_news">Informations</string>
   <string name="activity_title_privacy_cache">Cache de confidentialité</string>
@@ -55,10 +55,10 @@
   <string name="ad_install_success_dialog_title">%1$s installé avec succès. Ouvrir maintenant ?</string>
   <string name="analying">Analyse…</string>
   <string name="apk_status_damage">Corrompu</string>
-  <string name="apk_status_duplicate">Dupliquée</string>
+  <string name="apk_status_duplicate">Dupliqué</string>
   <string name="apk_status_install">installé</string>
   <string name="apk_status_installed_old">Anciennes versions</string>
-  <string name="apk_status_uninstalled">Non installée</string>
+  <string name="apk_status_uninstalled">Non installé</string>
   <string name="app_clean_group_document_recv">Fichiers reçus</string>
   <string name="app_clean_group_document_send">Fichiers envoyés</string>
   <string name="app_clean_group_image_recv">Images reçues</string>
@@ -124,7 +124,7 @@
   <string name="appcleaner_wechat_scanning_chat">Fichiers envoyés</string>
   <string name="appcleaner_wechat_scanning_trash">Corbeille</string>
   <string name="apps_sort_type_item_size">Taille</string>
-  <string name="apps_sort_type_item_time">Utilisé fréquemment</string>
+  <string name="apps_sort_type_item_time">"Fréquence d'utilisation"</string>
   <string name="apps_sort_type_title">Trier</string>
   <string name="auto_clean_switch_off">Désactivé</string>
   <string name="auto_clean_switch_on">Activé</string>
@@ -207,7 +207,7 @@
   <string name="clean_master_icon_recall_title">Vidage rapide de la corbeille</string>
   <string name="clean_master_icon_recall_toast_text">"Raccourci pour le Nettoyeur ajouté avec succès à l'écran d'accueil"</string>
   <string name="clean_summary">Nettoyé %1$s</string>
-  <string name="clear_bigfiles">"Supprimer les gros fichiers, les photos en double et d'autres éléments obsolètes"</string>
+  <string name="clear_bigfiles">"Supprimer les fichiers volumineux, les photos en double et d'autres éléments obsolètes"</string>
   <string name="clear_immediately">Nettoyer maintenant</string>
   <string name="clear_safe_notify">Widget du Panneau de notification</string>
   <string name="clip_board_history_desc">Contenus copiés/coupés</string>
@@ -227,14 +227,14 @@
   <string name="dc_item_title_apk">"Supprimer les packages d'installation"</string>
   <string name="dc_item_title_app_data">"Effacer les données de l'application"</string>
   <string name="dc_item_title_image">Supprimer des photos</string>
-  <string name="dc_item_title_large_file">Supprimer les gros fichiers</string>
+  <string name="dc_item_title_large_file">Supprimer les fichiers volumineux</string>
   <string name="dc_item_title_qq">Nettoyer QQ</string>
   <string name="dc_item_title_uninstall_app">Désinstaller des applications</string>
   <string name="dc_item_title_video">Supprimer des vidéos</string>
   <string name="dc_item_title_wechat">Nettoyer WeChat</string>
   <string name="dc_item_title_wechat_chat">"Effacer l'historique de WeChat"</string>
   <string name="dc_storage_cleaned">Libéré %s</string>
-  <string name="dc_storage_info">Disponible %1$s | Total %2$s</string>
+  <string name="dc_storage_info">Dispo: %1$s | Total: %2$s</string>
   <string name="deep_clean_completed_tips">Nettoyé avec succès</string>
   <string name="deep_clean_data_path_clean_title">Vider le cache</string>
   <string name="deep_clean_uninstall_completed_tips">Désinstallé avec succès</string>
@@ -270,7 +270,7 @@
   <string name="deepclean_size_summary_more">Espace de stockage suffisant</string>
   <string name="deepclean_size_summary_normal">Espace de stockage disponible</string>
   <string name="deepclean_size_summary_not_enough">Espace libre insuffisant</string>
-  <string name="deepclean_title_large_file">Supprimer les gros fichiers</string>
+  <string name="deepclean_title_large_file">Supprimer les fichiers volumineux</string>
   <string name="deepclean_title_uninstall_apps">Applications rarement utilisées</string>
   <string name="deepclean_video_content">Supprimer les vidéos déja vues ou inutiles</string>
   <string name="deepclean_video_summary_empty">Tout semble bon</string>
@@ -431,7 +431,7 @@
   <string name="hints_installed_app_near">Récemment utilisé</string>
   <string name="hints_installed_app_never">Jamais utilisé</string>
   <string name="hints_installed_apps_header_left">Applications installées: %d</string>
-  <string name="hints_large_file_header_left">Gros fichiers: %d</string>
+  <string name="hints_large_file_header_left">Fichiers volumineux: %d</string>
   <string name="hints_latest_garbage_cleanup_date">Dernier nettoyage: il y a %d jours</string>
   <string name="hints_latest_garbage_cleanup_never">Jamais nettoyé</string>
   <string name="hints_latest_garbage_cleanup_today">"Dernier nettoyage: Aujourd'hui"</string>
@@ -739,7 +739,7 @@
   <string name="title_delete_cache">Nettoyer le cache des applications</string>
   <string name="title_delete_clipboard">Contenus du presse-papiers</string>
   <string name="title_delete_deepclean">Supprimer</string>
-  <string name="title_delete_large_file">Supprimer les gros fichiers</string>
+  <string name="title_delete_large_file">Supprimer les fichiers volumineux</string>
   <string name="title_of_app_manage">Applications</string>
   <string name="title_of_auto_launch_manage">Démarrage automatique</string>
   <string name="title_of_cloud_service">Services Cloud</string>
@@ -867,7 +867,7 @@
   <string name="white_list_ad_header">Fichiers obsolètes: %d</string>
   <string name="white_list_apk_header">"Paquets d'installation: %d"</string>
   <string name="white_list_cache_header">Fichiers en cache: %d</string>
-  <string name="white_list_large_file_header">Gros fichiers et vidéos: %d</string>
+  <string name="white_list_large_file_header">Fichiers volumineux et vidéos: %d</string>
   <string name="white_list_residual_header">Résidus: %d</string>
   <string name="white_list_title">Exceptions</string>
   <string name="wq_deep_clean_filter_all">Tout</string>

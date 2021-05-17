@@ -1162,8 +1162,8 @@ Applications:
   <string name="bluetooth_enable_alphanumeric_pin">Le code PIN contient des lettres ou des symboles.</string>
   <string name="bluetooth_enable_gabeldorsche">Activer Gabeldorsche</string>
   <string name="bluetooth_enable_gabeldorsche_summary">Active la pile de fonctionnalités Gabeldorsche.</string>
-  <string name="bluetooth_enable_page_scan">"activer l'analyse de page Bluetooth"</string>
-  <string name="bluetooth_enable_page_scan_summary">"désactiver/activer l'analyse de page pour le test Bluetooth"</string>
+  <string name="bluetooth_enable_page_scan">"Activer l'analyse de page Bluetooth"</string>
+  <string name="bluetooth_enable_page_scan_summary">"Désactiver/activer l'analyse de page pour le test Bluetooth"</string>
   <string name="bluetooth_enter_passkey_msg">Saisissez le code de couplage, puis appuyez sur Retour ou Entrée</string>
   <string name="bluetooth_enter_passkey_other_device">"Vous devrez peut-être également saisir ce mot de passe sur l'autre appareil."</string>
   <string name="bluetooth_enter_pin_other_device">"Vous devrez peut-être également saisir ce code sur l'autre appareil."</string>
@@ -1302,10 +1302,9 @@ Vous ne vous êtes jamais connecté à %2$s auparavant."</string>
   <string name="bluetooth_sap_profile_summary_use_for">Utiliser pour accéder à la SIM</string>
   <string name="bluetooth_sap_request">"Demande d'accès à la carte SIM"</string>
   <string name="bluetooth_scan_for_devices">"Recherche d'appareils"</string>
-  <string name="bluetooth_scanning_on_info_message">
-    <annotation id="link">paramètres de recherche</annotation>"Lorsque le Bluetooth est activé, votre appareil peut communiquer avec d'autres appareils Bluetooth à proximité.
+  <string name="bluetooth_scanning_on_info_message">"Lorsque le Bluetooth est activé, votre appareil peut communiquer avec d'autres appareils Bluetooth à proximité.
 
-Pour améliorer l'expérience d'utilisation de l'appareil, les applications et les services peuvent continuer de rechercher les appareils à proximité à tout moment, même si le Bluetooth est désactivé. Cette autorisation peut permettre, par exemple, d'améliorer les fonctionnalités et les services basés sur la localisation. Vous pouvez modifier cette option dans les ".</string>
+Pour améliorer l'expérience d'utilisation de l'appareil, les applications et les services peuvent continuer de rechercher les appareils à proximité à tout moment, même si le Bluetooth est désactivé. Cette autorisation peut permettre, par exemple, d'améliorer les fonctionnalités et les services basés sur la localisation. Vous pouvez modifier cette option dans les "<annotation id="link">paramètres de recherche</annotation>.</string>
   <string name="bluetooth_search_for_devices">Actualiser</string>
   <string name="bluetooth_searching_for_devices">Recherche...</string>
   <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode">Mode audio BT aptX adaptatif</string>
@@ -1321,10 +1320,10 @@ Pour améliorer l'expérience d'utilisation de l'appareil, les applications et l
  Qualité de lecture"</string>
   <string name="bluetooth_select_a2dp_codec_lhdc_latency">Bluetooth Audio Codec LHDC: Latence</string>
   <string name="bluetooth_select_a2dp_codec_lhdc_latency_dialog_title">"Sélectionnez le codec Bluetooth Audio LHDC:
-Latence"</string>
+ Latence"</string>
   <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">Bluetooth Audio LDAC Codec: Qualité de lecture</string>
   <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">"Sélectionnez le codec Bluetooth Audio LDAC:
-Qualité de lecture"</string>
+ Qualité de lecture"</string>
   <string name="bluetooth_select_a2dp_codec_sample_rate">"Taux d'échantillon d'audio bluetooth"</string>
   <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Sélectionner Bluetooth Audio Coded
  Echantillon"</string>
@@ -2053,6 +2052,7 @@ Pour continuer d'utiliser votre téléphone, vous devez rétablir la configurati
   <string name="dark_color_mode">Mode sombre</string>
   <string name="dark_color_summary_lcd">"Utilisez une palette de couleurs plus sombre pour les arrière-plans du système et les applications compatibles. Le Mode sombre peut vous aider à soulager la fatigue oculaire lorsque vous utilisez votre appareil dans l'obscurité."</string>
   <string name="dark_color_summary_oled">"Utilisez une palette de couleurs plus sombre pour les arrière-plans du système et les applications compatibles. Le Mode sombre réduit la consommation d'énergie et aide à soulager la fatigue oculaire."</string>
+  <string name="dark_mode_apps_header">Applications individuelles</string>
   <string name="dark_mode_contrast">Ajuster le contraste automatiquement</string>
   <string name="dark_mode_contrast_hint">Ajuste les couleurs et diminuez le contraste automatiquement lorsque la luminosité est réduite</string>
   <string name="dark_mode_font_background_title">Ajuster les couleurs et diminuer le contraste automatiquement</string>
@@ -6379,7 +6379,7 @@ Pour utiliser l'épinglage d'application: \u0009
   <string name="search_handy_mode">Mode une main;Mode une-main;Mode une main;Une main</string>
   <string name="search_hint">Recherche dans les paramètres</string>
   <string name="search_home_key">"Accueil;Bouton d'accueil;Touche d'accueil"</string>
-  <string name="search_input_hint">Paramètres de recherche</string>
+  <string name="search_input_hint">Rechercher des paramètres</string>
   <string name="search_key_settings_title">Boutons;Touches</string>
   <string name="search_lab_functions_title">Fonction bêta;fonction laboratoire</string>
   <string name="search_label">Paramètres</string>
@@ -7510,6 +7510,8 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
   <string name="time_picker_title">Heure</string>
   <string name="time_spent_in_app_pref_title">"Temps passé sur l'application"</string>
   <string name="time_unit_just_now">"À l'instant"</string>
+  <string name="time_zen_mode_turn_off">Fin</string>
+  <string name="time_zen_mode_turn_on">Début</string>
   <string name="time_zone_auto_stub">Choisir fuseau horaire</string>
   <string name="timed_titlei">Minuteur %d</string>
   <string name="timezone_settings">Fuseau horaire</string>
