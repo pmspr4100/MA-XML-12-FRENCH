@@ -399,8 +399,10 @@ Do not turn off the screen during the test"</string>
   <string name="cit_notificationlight_on">Notification light on</string>
   <string name="cit_otg_not_supported">"This device doesn't support OTG testing"</string>
   <string name="cit_pass">Pass</string>
-  <string name="cit_play_sd_mp3_hifi_summary">"Confirm that there's a file named \"music.mp3\" stored on the SD card. The file \"music.mp3\" should be played through the device's HIFI path when you open this test."</string>
-  <string name="cit_play_sd_mp3_hifi_title">Play MP3(HIFI) stored on SD card</string>
+  <string name="cit_pencil_reverse_wireless_charger_summary">Veuillez placer le stylet sur la zone de détection droite de la table pour démarrer le test</string>
+  <string name="cit_pencil_reverse_wireless_charger_title">Test de charge du stylet</string>
+  <string name="cit_play_sd_mp3_hifi_summary">"Confirmez qu'un fichier nommé \"music.mp3\" est stocké sur la carte SD. Le fichier \"music.mp3\" doit être lu via le chemin HIFI de l'appareil lorsque vous ouvrez ce test."</string>
+  <string name="cit_play_sd_mp3_hifi_title">Lecture de MP3 (HIFI) stockés sur la carte SD</string>
   <string name="cit_play_sd_mp3_summary">"Confirm that there's a file named \"music.mp3\" stored on the SD card. The file \"music.mp3\" should be played through the device's external speakers when you open this test."</string>
   <string name="cit_play_sd_mp3_title">Play MP3 stored on SD card</string>
   <string name="cit_playing_sd_mp3">Playing music.mp3…</string>

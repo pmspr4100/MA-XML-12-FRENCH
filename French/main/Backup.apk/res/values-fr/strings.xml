@@ -75,6 +75,7 @@
   <string name="backup_finished">Sauvegardé avec succès</string>
   <string name="backup_hint">Laissez votre appareil allumé</string>
   <string name="backup_hint_onpad">Laissez votre appareil allumé</string>
+  <string name="backup_hint_pad">Laissez votre appareil allumé</string>
   <string name="backup_is_running">"Sauvegarde de l'appareil"</string>
   <string name="backup_new">Nouveau:</string>
   <string name="backup_progress">Sauvegarde en cours…</string>
@@ -409,7 +410,9 @@ ous devez d'abord créer une sauvegarde iCloud."</string>
 %1$d. Copiez les sauvegardes sur votre ordinateur pour éviter la perte de données. %2$s.
 %3$d. Les sauvegardes seront enregistrées dans MIUI-Backup-AllBackup."</string>
   <string name="new_local_tab_backup">Sauvegarder</string>
+  <string name="new_local_tab_backup_pad">Sauvegarder</string>
   <string name="new_local_tab_restore">Restaurer</string>
+  <string name="new_local_tab_restore_pad">Restaurer</string>
   <string name="new_low_storage_title">Espace de stockage insuffisant</string>
   <string name="new_more_settings_label">Paramètres additionnels</string>
   <string name="new_pc_backup_content1">%1$d. Ouvrir \"%2$s\".</string>
@@ -417,11 +420,14 @@ ous devez d'abord créer une sauvegarde iCloud."</string>
   <string name="new_pc_backup_content3">%d. Recherchez la sauvegarde dans MIUI-Backup-AllBackup.</string>
   <string name="new_pc_backup_content4">%d. Copiez le fichier sur votre ordinateur.</string>
   <string name="new_pc_backup_restore_link">Appareil mobile</string>
+  <string name="new_pc_backup_restore_link_pad">Appareil mobile</string>
   <string name="new_pc_backup_summary1">Sélectionnez les éléments et appuyez sur \"Sauvegarder\".</string>
   <string name="new_pc_backup_summary2">"Connectez votre appareil mobile à l'ordinateur via un câble USB."</string>
+  <string name="new_pc_backup_summary2_pad">"Connectez votre appareil mobile à l'ordinateur via un câble USB."</string>
   <string name="new_pc_backup_summary4">Note: vous pouvez également copier des photos et des vidéos de DCIM.</string>
   <string name="new_pc_restore_content1">"%d. Connectez votre appareil mobile à l'ordinateur via un câble USB."</string>
   <string name="new_pc_restore_content2">%d. Copiez la sauvegarde de votre ordinateur vers MIUI-Backup-AllBackup.</string>
+  <string name="new_pc_restore_content2_pad">%d. Copiez la sauvegarde de votre ordinateur vers MIUI-Backup-AllBackup.</string>
   <string name="new_pc_restore_content3">%1$d. Ouvrez \"%2$s\" et sélectionnez les éléments à restaurer.</string>
   <string name="new_pc_title">Copier les sauvegardes</string>
   <string name="new_select_file">Les fichiers audio, vidéo, et autres</string>
@@ -447,6 +453,7 @@ ous devez d'abord créer une sauvegarde iCloud."</string>
   <string name="no_encrypt_password">Pas de mot de passe</string>
   <string name="no_network">Impossible de se connecter au réseau</string>
   <string name="noon">Midi</string>
+  <string name="not_enough_storage_tips">"Espace de stockage insuffisant. Libérez de l'espace et réessayez."</string>
   <string name="not_set">Non défini</string>
   <string name="note_title">Notes</string>
   <string name="nothing_searched">Aucun résultat.</string>

@@ -67,7 +67,9 @@
   <string name="add_data_source_support_step">"Cet appareil ne génère pas de données de nombre de pas. Vous pouvez essayer de passer à d'autres sources de données."</string>
   <string name="add_data_type_datasource">Ajouter source de données (%1$s)</string>
   <string name="add_model_card">"Appuyez sur le bouton dans le coin supérieur gauche
-    ajouter des cartes"</string>
+pour ajouter des cartes"</string>
+  <string name="add_model_card2">"Appuyez sur le bouton ci-dessus pour ajouter des cartes.
+Vous pourrez suivre vos entraînements et votre activité."</string>
   <string name="add_owned_device">Appareils disponibles</string>
   <string name="add_record">Ajouter</string>
   <string name="added_data_source">Sources ajoutées</string>
@@ -327,6 +329,7 @@ Mi Santé ne vous informera que des articles importants."</string>
   <string name="dialog_delete_record_confirm">Supprimer cet enregistrement ?</string>
   <string name="dialog_exercise_purpose">"Bienvenue sur Mi Santé ! \"Le compteur de pas\" vous permet de voir combien de pas vous faîtes par jour, aussi bien que définir et gérer vos buts d'activités. Toutes les données concernées seront emmagasinées localement sur votre appareil, ce qui vous permet de les gérer facilement."</string>
   <string name="dialog_exit">Quitter</string>
+  <string name="dialog_exit_use">Quitter</string>
   <string name="dialog_feedback_content">"Si vous refusez d'accorder ces permissions, vous ne pourrez pas utiliser certaines fonctionnalités de l'application. Toutefois, les fonctionnalités de base resteront disponibles . Vous pouvez restreindre ou révoquer les permissions dans les Réglages."</string>
   <string name="dialog_feedback_purpose">Mi Santé doit accéder au stockage afin de soumettre des commentaires.</string>
   <string name="dialog_feedback_purpose2">Pour envoyer vos commentaires</string>
@@ -358,6 +361,8 @@ Mi Santé ne vous informera que des articles importants."</string>
   <string name="diastolic_pressure">Diastolique</string>
   <string name="disable">Désactivé</string>
   <string name="discard_update">Non merci</string>
+  <string name="download_apk">Téléchargement de %s…</string>
+  <string name="download_background">Télécharger</string>
   <string name="drag_sort">Réorganiser</string>
   <string name="dream_talk">Discussion %1$s</string>
   <string name="dream_talk_record">Vous avez parlé durant votre sommeil et nous vous avons enregistré</string>

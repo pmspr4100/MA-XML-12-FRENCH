@@ -9,6 +9,7 @@
   <string name="application_cannot_open_alipay_health_code">"Impossible d'ouvrir le code de santé Alipay"</string>
   <string name="application_cannot_open_alipay_payment_code">"Impossible d'ouvrir le code de paiement Alipay"</string>
   <string name="application_cannot_open_alipay_scanner">"Impossible d'ouvrir le scanner Alipay"</string>
+  <string name="application_cannot_open_au_pay">"Installez d'abord au PAY"</string>
   <string name="application_cannot_open_weixin_health_code">"Impossible d'ouvrir le code de santé WeChat"</string>
   <string name="application_cannot_open_weixin_payment_code">"Impossible d'ouvrir le code de paiement WeChat"</string>
   <string name="application_cannot_open_weixin_scanner">"Impossible d'ouvrir le scanner WeChat"</string>
@@ -79,6 +80,11 @@
   <string name="device_type_pc">Ordinateur</string>
   <string name="disable_nfc">NFC désactivé pour la recharge sans fil</string>
   <string name="disable_nfc_reverse">NFC désactivé pour la recharge sans fil inversée</string>
+  <string name="dock_tip_floatwindow">"Maintenez la barre et faites-la glisser vers le bord de l'écran pour accéder à la vue en écran partagé."</string>
+  <string name="dock_tip_splitscreen_landscape_drag">"Faites glisser la barre horizontalement pour permuter les positions des deux fenêtres d'application."</string>
+  <string name="dock_tip_splitscreen_landscape_float">Maintenez et faites glisser vers le bas pour passer à une fenêtre flottante.</string>
+  <string name="dock_tip_splitscreen_portrait_drag">"Faites glisser la barre verticalement pour permuter les positions des deux fenêtres d'application."</string>
+  <string name="dock_tip_splitscreen_portrait_float">"Maintenez et faites glisser vers le côté gauche ou droit de l'écran pour basculer vers une fenêtre flottante."</string>
   <string name="double_click_power_key">aucun</string>
   <string name="double_knock">aucun</string>
   <string name="eighthours">8 heures</string>
@@ -161,6 +167,8 @@
   <string name="miaudiovisual_notification_summary">"Activez pour afficher les effets sur l'écran de verrouillage"</string>
   <string name="miaudiovisual_notification_title">Effets audio et visuels</string>
   <string name="miui_forbid_poweroff_when_device_locked">"Impossible d'éteindre, l'appareil est verrouillé."</string>
+  <string name="miui_multiwindow_not_support_small_window">%1$s ne prend pas en charge les fenêtres flottantes</string>
+  <string name="miui_multiwindow_not_support_split">"%1$s ne prend pas en charge l'Écran partagé"</string>
   <string name="miui_screen_ratio_hint">Problèmes relatifs au ratio écran</string>
   <string name="miui_screen_ratio_hint_dont_show_again">Ne plus afficher</string>
   <string name="miui_screen_ratio_hint_go_to_settings">Accéder aux paramètres</string>

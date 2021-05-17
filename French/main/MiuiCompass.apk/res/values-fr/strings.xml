@@ -76,7 +76,8 @@
   <string name="error_camera_unavailable_title">Appareil photo indisponible</string>
   <string name="evening">Après-midi</string>
   <string name="expand_button_title">Avancé</string>
-  <string name="first_using_dialog_message">"La boussole a besoin d'utiliser la connexion réseau, l'appareil photo et les services de localisation pour fonctionner normalement."</string>
+  <string name="first_using_dialog_message">"Boussole a besoin d'utiliser la connexion réseau, l'appareil photo et les services de localisation pour fonctionner normalement."</string>
+  <string name="first_using_dialog_message_no_camera">Boussole doit se connecter à Internet et accéder aux informations de localisation pour pouvoir fonctionner normalement. Accepter ?</string>
   <string name="first_using_dialog_title">"Autorisation d'accès"</string>
   <string name="fmt_date_long_month_day">dd MMMM</string>
   <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
@@ -170,7 +171,8 @@
   <string name="night">Soirée</string>
   <string name="noon">Midi</string>
   <string name="not_set">Non défini</string>
-  <string name="open_perm_msg">"La boussole doit avoir accès aux informations de localisation et à l'appareil photo. Ceci est nécessaire pour déterminer les coordonnées et fournir des aperçus en direct. Autoriser ?"</string>
+  <string name="open_perm_msg">"Boussole doit avoir accès aux informations de localisation et à l'appareil photo. Ceci est nécessaire pour déterminer les coordonnées et fournir des aperçus en direct. Autoriser ?"</string>
+  <string name="open_perm_msg_no_camera">Boussole doit accéder aux informations de localisation pour pouvoir déterminer les coordonnées. Autoriser ?</string>
   <string name="open_perm_title">Permissions requises</string>
   <string name="permission_camera_desc">Utilisation du niveau à bulle</string>
   <string name="permission_location_desc">Affichage des coordonnées et de la pression atmosphérique</string>
