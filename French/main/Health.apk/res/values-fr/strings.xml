@@ -95,7 +95,7 @@ Pour vous fournir des recommandations, nous partagerons vos données de santé a
 Nous rendrons anonymes ces éléments avant de les partager afin d'empêcher les fournisseurs de services tiers de vous identifier personnellement sur la base des données qu'ils reçoivent.
 
 Si vous ne souhaitez pas accéder aux cours recommandés, vous pouvez toujours utiliser les entraînements réguliers."</string>
-  <string name="auth_dialog_link">"Pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez notre &lt;font color=\"#0D84FF\">&lt;a href=%1$s>Accord de l'utilisateur&lt;/a>&lt;/font> et notre &lt;font color=\"#0D84FF\">&lt;a href=%2$s>Politique de confidentialité&lt;/a>&lt;/font>."</string>
+  <string name="auth_dialog_link">"Pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez notre &lt;font color=\"#0D84FF\">&lt;a href=%1$s>Accord d'utilisation&lt;/a>&lt;/font> et notre &lt;font color=\"#0D84FF\">&lt;a href=%2$s>Politique de confidentialité&lt;/a>&lt;/font>."</string>
   <string name="auth_dialog_title">Cours recommandés</string>
   <string name="auto_start_fail">"Impossible d'accorder les permissions"</string>
   <string name="auto_start_success">Permission accordée avec succès</string>
@@ -335,7 +335,7 @@ Mi Santé ne vous informera que des articles importants."</string>
   <string name="dialog_feedback_purpose2">Pour envoyer vos commentaires</string>
   <string name="dialog_feedback_title">Commentaires</string>
   <string name="dialog_health_applicator">Mi Santé fournit actuellement des services uniquement aux adultes.</string>
-  <string name="dialog_juveniles_details">"Selon notre politique de confidentialité, l'âge minimum pour utiliser ce produit est de 18 ans."</string>
+  <string name="dialog_juveniles_details">"Selon notre Politique de confidentialité, l'âge minimum pour utiliser ce produit est de 18 ans."</string>
   <string name="dialog_juveniles_link">"Selon nos &lt;font color=\"#FE6D67\"&gt;&lt;a href=%1$s&gt;Politique de confidentialité&lt;/a&gt;&lt;/font&gt;, l'âge minimum pour utiliser ce produit est de 18 ans."</string>
   <string name="dialog_keep">Conserver</string>
   <string name="dialog_known">Compris</string>
@@ -347,7 +347,7 @@ Mi Santé ne vous informera que des articles importants."</string>
   <string name="dialog_permission_loading_msg">Vérification…</string>
   <string name="dialog_permission_title">Permissions requises</string>
   <string name="dialog_privacy_policy_statement">Déclaration de confidentialité</string>
-  <string name="dialog_privacy_title">Termes et conditions</string>
+  <string name="dialog_privacy_title">Termes et Conditions</string>
   <string name="dialog_read_phone_perm_desc">"Pour identifier les fonctionnalités de l'appareil en utilisant OAID ou Android ID"</string>
   <string name="dialog_reject">Refuser</string>
   <string name="dialog_request_network">Autorisez cette application à se connecter à Internet.</string>
@@ -1701,7 +1701,7 @@ Mettre à jour maintenant ?"</string>
   <string name="update_notify_no_update_log">Rien encore ici.</string>
   <string name="upgrade_suggestion">Mettez à jour Xiaomi Santé avec la dernière version et réessayez.</string>
   <string name="user_age_unit">ans</string>
-  <string name="user_agreement">Accord utilisateur</string>
+  <string name="user_agreement">"Accord d'utilisation"</string>
   <string name="user_birthday_display_format">dd/MM/yyyy</string>
   <string name="user_center">"Centre de l'utilisateur"</string>
   <string name="user_invalid_value">--</string>

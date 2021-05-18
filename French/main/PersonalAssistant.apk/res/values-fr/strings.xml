@@ -726,10 +726,10 @@ Vous pouvez également suivre la livraison express sur les sites web officiels d
   <string name="cta_dialog_miot_text_all">"Pour garantir son fonctionnement normal, Mi Home peut avoir besoin d’acquérir votre réseau, votre emplacement, l’autorisation d’activer votre Bluetooth, d’utiliser votre réseau mobile, votre microphone et de lire vos contacts. Confirmez-vous ?"</string>
   <string name="cta_dialog_negative">Quitter</string>
   <string name="cta_dialog_positive">Accepter</string>
-  <string name="cta_dialog_text_all">"Pour utiliser le coffre d'applications, vous devez lire et accepter %1$s\"Accord de l'utilisateur\" %2$s et %3$s \"Politique de confidentialité\" %4$s. Le service nécessite également une connexion internet et un accès aux services de localisation. Le récupérateur de contenu utilisé par certains services nécessite également une connexion internet. accepter-vous ?"</string>
-  <string name="cta_dialog_text_new_user">"Lisez et acceptez notre %1$sAccord de l'utilisateur%2$s et notre %3$sPolitique de confidentialité%4$s."</string>
+  <string name="cta_dialog_text_all">"Pour utiliser le coffre d'applications, vous devez lire et accepter %1$s\"Accord d'utilisation\" %2$s et %3$s \"Politique de confidentialité\" %4$s. Le service nécessite également une connexion internet et un accès aux services de localisation. Le récupérateur de contenu utilisé par certains services nécessite également une connexion internet. accepter-vous ?"</string>
+  <string name="cta_dialog_text_new_user">"Lisez et acceptez notre %1$sAccord d'utilisation%2$s et notre %3$sPolitique de confidentialité%4$s."</string>
   <string name="cta_dialog_text_old_user">"Avant d'utiliser le coffre d'applications, vous devez accepter %1$s\"Politique de confidentialité du coffre d'applications\"%2$s. Appuyez \"Démarrer\" pour accpter."</string>
-  <string name="cta_dialog_title">Termes et conditions</string>
+  <string name="cta_dialog_title">Termes et Conditions</string>
   <string name="cta_negative">Quitter</string>
   <string name="cta_not_now">Pas maintenant</string>
   <string name="cta_old_not_use">Pas maintenant</string>
@@ -1269,7 +1269,7 @@ Check your tracking number."</string>
   <string name="miot_device_cta_and"> et </string>
   <string name="miot_device_cta_message">"Ajoutez vos appareils intelligents pour pouvoir les contrôler dans le coffre d'applications. En appuyant sur \"Accepter\" ci-dessous, vous acceptez de"</string>
   <string name="miot_device_cta_priv">Politique de confidentialité.</string>
-  <string name="miot_device_cta_use_info">Accord utilisateur Mi Home</string>
+  <string name="miot_device_cta_use_info">"Accord d'utilisation Mi Home"</string>
   <string name="miot_device_disabled">Impossible de contrôler cet appareil maintenant</string>
   <string name="miot_device_edit">Éditer</string>
   <string name="miot_device_edit_device">Rearrange devices</string>

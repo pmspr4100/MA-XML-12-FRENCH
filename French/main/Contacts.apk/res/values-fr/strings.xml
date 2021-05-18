@@ -266,7 +266,7 @@
     <string name="bh_unavailable">Aucune permission de voir cette page</string>
     <string name="bh_used_month">Utilisé ce mois-ci</string>
     <string name="bh_used_today">"Utilisé aujourd'hui"</string>
-    <string name="bh_user_agreement">Accord Utilisateur</string>
+    <string name="bh_user_agreement">"Accord d'utilisation"</string>
     <string name="bh_user_title">Profil</string>
     <string name="bh_verify_now">Vérifier ID</string>
     <string name="bh_view_detail">Afficher les détails</string>
@@ -539,22 +539,22 @@ Les cartes de contact ont été désactivées"</string>
     <string name="create_qrcode_fail_message">Impossible de créer le QR code</string>
     <string name="cta_content_seg1">
         <Data>"&lt;strong&gt;Avertissement important
-    En appuyant sur \"J'accepte\" ci-dessous, vous acceptez les &lt;font color=#33aaff&gt;&lt;a href ='https://static.account.xiaomi.com/html/agreement/account/en.html'&gt;Conditions de service du Compte Mi&lt;/a&gt;&lt;/font&gt;, l'&lt;font color=#33aaff&gt;&lt;a href ='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'&gt;Accord utilisateur Mi Roaming&lt;/a&gt;&lt;/font&gt;, et la &lt;font color=#33aaff&gt;&lt;a href ='http://www.miui.com/res/doc/privacy/en.html'&gt;Politique de vie privée&lt;/a&gt;&lt;/font&gt;. Lisez attentivement ces documents et veillez à bien comprendre tous les termes relatifs et les conditions avant d'accepter.&lt;/strong&gt;"</Data>
+    En appuyant sur \"J'accepte\" ci-dessous, vous acceptez les &lt;font color=#33aaff&gt;&lt;a href ='https://static.account.xiaomi.com/html/agreement/account/en.html'&gt;Conditions de service du Compte Mi&lt;/a&gt;&lt;/font&gt;, l'&lt;font color=#33aaff&gt;&lt;a href ='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'&gt;Accord d'utilisation Mi Roaming&lt;/a&gt;&lt;/font&gt;, et la &lt;font color=#33aaff&gt;&lt;a href ='http://www.miui.com/res/doc/privacy/en.html'&gt;Politique de confidentialité&lt;/a&gt;&lt;/font&gt;. Lisez attentivement ces documents et veillez à bien comprendre tous les Termes relatifs et les Conditions avant d'accepter.&lt;/strong&gt;"</Data>
     </string>
     <string name="cta_content_seg2">"
     Mi Roaming nécessite une connexion à internet et doit accéder à vos informations de localisation pour fonctionner normalement. De plus, Mi Roaming est suceptible de collecter, d'utiliser, et de partager vos données personnelles. Celles-ci seront protégées en accord avec les lois et réglementations locales."</string>
     <string name="cta_dialog_cancel">Quitter</string>
     <string name="cta_dialog_ok">"J'accepte"</string>
-    <string name="cta_dialog_title">Termes et conditions</string>
+    <string name="cta_dialog_title">Termes et Conditions</string>
     <string name="cta_newcontent_seg1">
-        <Data>"Nous avons mis à jour l'&lt;font color=#33aaff&gt;&lt;a href ='https://static.account.xiaomi.com/html/agreement/account/en.html'&gt;Accord de service du Compte Mi&lt;/a&gt;&lt;/font&gt;, l'&lt;font color=#33aaff&gt;&lt;a href ='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'&gt;Accord utilisateur Mi Roaming&lt;/a&gt;&lt;/font&gt;, et la &lt;font color=#33aaff&gt;&lt;a href ='https://privacy.mi.com/business_hall/zh_CN/'&gt;Politique de vie privée&lt;/a&gt;&lt;/font&gt;. &lt;strong&gt;Lisez attentivement ces documents et veillez à bien comprendre tous les termes relatifs et les conditions avant d'accepter.&lt;/strong&gt;"</Data>
+        <Data>"Nous avons mis à jour l'&lt;font color=#33aaff&gt;&lt;a href ='https://static.account.xiaomi.com/html/agreement/account/en.html'&gt;Accord de service du Compte Mi&lt;/a&gt;&lt;/font&gt;, l'&lt;font color=#33aaff&gt;&lt;a href ='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'&gt;Accord d'utilisation Mi Roaming&lt;/a&gt;&lt;/font&gt;, et la &lt;font color=#33aaff&gt;&lt;a href ='https://privacy.mi.com/business_hall/zh_CN/'&gt;Politique de confidentialité&lt;/a&gt;&lt;/font&gt;. &lt;strong&gt;Lisez attentivement ces documents et veillez à bien comprendre tous les Termes relatifs et les Conditions avant d'accepter.&lt;/strong&gt;"</Data>
     </string>
     <string name="cta_newcontent_seg2">"
     Mi Roaming est susceptible de collecter, d'utiliser, et de partager vos données personnelles. Celles-ci seront protégées en accord avec les lois et réglementations locales.
     "</string>
     <string name="cta_newcontent_seg3">
         <Data>"&lt;strong&gt;Avertissement important
-    En appuyant sur \"J'accepte\" ci-dessous, vous acceptez tous les termes et conditions inclus dans les documents listés ci-dessus.&lt;/strong&gt;"</Data>
+    En appuyant sur \"J'accepte\" ci-dessous, vous acceptez tous les Termes et Conditions inclus dans les documents listés ci-dessus.&lt;/strong&gt;"</Data>
     </string>
     <string name="customLabelPickerTitle">Nom personnalisé</string>
     <string name="custom_list_filter">Définir une vue personnalisée</string>
@@ -1308,7 +1308,7 @@ Pour ajouter un contact à votre liste de favoris:
     <string name="preview_contact_card_title">Importer une carte de contact</string>
     <string name="preview_incall_show_entry">Aperçu vidéo</string>
     <string name="previous">Précédent</string>
-    <string name="privacy_policy_and_user_agreement">"Politique de vie privée et Accord de l'utilisateur"</string>
+    <string name="privacy_policy_and_user_agreement">"Politique de confidentialité et Accord d'utilisation"</string>
     <string name="private_num">Numéro privé</string>
     <string name="profileSavedErrorToast">"Impossible d'enregistrer les modifications du profile"</string>
     <string name="profileSavedToast">Profil enregistré</string>
@@ -1350,7 +1350,7 @@ Pour ajouter un contact à votre liste de favoris:
     <string name="recent_contacts_label">Récents</string>
     <string name="recent_number">Récent</string>
     <string name="recent_updates">Mises à jour récentes</string>
-    <string name="redirect_calls_to_vm_confirm_message">Avant de paramétrer votre boite mail, vérifiez les termes et conditions de votre contrat avec votre opérateur mobile.</string>
+    <string name="redirect_calls_to_vm_confirm_message">Avant de paramétrer votre boite mail, vérifiez les Termes et Conditions de votre contrat avec votre opérateur mobile.</string>
     <string name="redirect_calls_to_vm_confirm_text">OK</string>
     <string name="refresh">Actualiser</string>
     <string name="relationLabelsGroup">Relation</string>

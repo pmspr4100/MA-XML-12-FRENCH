@@ -75,7 +75,7 @@
     <string name="bind_sign_in_title">Ajouter Compte Mi</string>
     <string name="btn_send">Envoyer</string>
     <string name="bugreport_dialog_not_show_again">Ne plus afficher</string>
-    <string name="bugreport_dialog_submit_content"><Data>"Vous enregistrez les journaux du logiciel sur cet appareil maintenant. Les journaux peuvent contenir des informations personnelles et vos données de localisation. Ne partagez pas les journaux avec quiconque si vous ne voulez pas que ces informations soient exposées. Choisir \"Accepter\" signifie que vous avez lu et accepté notre &lt;a href=\"%1$s"&gt;Politique de confidentialité&lt;/a&gt; et &lt;a href=\"%2$s\"&gt;Accord utilisateur&lt;/a&gt;."</Data></string>
+    <string name="bugreport_dialog_submit_content"><Data>"Vous enregistrez les journaux du logiciel sur cet appareil maintenant. Les journaux peuvent contenir des informations personnelles et vos données de localisation. Ne partagez pas les journaux avec quiconque si vous ne voulez pas que ces informations soient exposées. Choisir \"Accepter\" signifie que vous avez lu et accepté notre &lt;a href=\"%1$s"&gt;Politique de confidentialité&lt;/a&gt; et &lt;a href=\"%2$s\"&gt;Accord d'utilisation&lt;/a&gt;."</Data></string>
     <string name="bugreport_dump_complete_notification_summary">Appuyez pour afficher.</string>
     <string name="bugreport_dump_complete_notification_title">"Rapport d'erreur créé"</string>
     <string name="bugreport_dump_start_notification_summary">Cela peut prendre plusieurs minutes.</string>
@@ -317,7 +317,7 @@ Envoyer ce code au superviseur."</string>
     <string name="kr_authorization_storage">Stockage</string>
     <string name="kr_authorization_storage_desc">"Pour accéder au stockage et enregistrer des éléments, notamment des journaux, des images et des vidéos"</string>
     <string name="kr_authorization_summary">Documents légaux</string>
-    <string name="kr_authorization_user_protocol">"Accord de l'utilisateur (obligatoire)"</string>
+    <string name="kr_authorization_user_protocol">"Accord d'utilisation (obligatoire)"</string>
     <string name="loading">Un instant…</string>
     <string name="loading_apps">Chargement de la liste…</string>
     <string name="login_system_failed">"Je n'ai pas pu me connecter, essayez encore"</string>
@@ -532,7 +532,7 @@ Envoyer ce code au superviseur."</string>
     <string name="passport_error_phone_error">Numéro de téléphone invalide</string>
     <string name="passport_error_server">Erreur du serveur</string>
     <string name="passport_error_unknown">Erreur inconnue</string>
-    <string name="passport_error_user_agreement_error">"Acceptez d'abord les termes et conditions"</string>
+    <string name="passport_error_user_agreement_error">"Acceptez d'abord les Termes et Conditions"</string>
     <string name="passport_error_user_name">"L'identifiant saisi n'est pas valide"</string>
     <string name="passport_forget_password">Mot de passe oublié</string>
     <string name="passport_get_verify_code">Obtenir le code</string>
@@ -679,8 +679,8 @@ Envoyer ce code au superviseur."</string>
     <string name="stop_full_log_dialog_title">Création des journaux…</string>
     <string name="submit_dialog_cancel">Refuser</string>
     <string name="submit_dialog_confirm">Accepter</string>
-    <string name="submit_dialog_content"><Data>"Lisez et acceptez notre &amp;lt;a href=\"%1$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt; et notre &amp;lt;a href=\"%2$s\"&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; avant d'envoyer votre retour. Les problèmes que vous signalez ainsi que les éléments que vous joignez (y compris les journaux qui peuvent contenir des informations personnelles, ainsi que des informations sur votre appareil et votre réseau) seront téléchargés sur les serveurs de MIUI. Cela nous aidera à localiser et à résoudre les problèmes que vous signalez. Si vous signalez des problèmes liés à plusieurs appareils, les journaux d'autres appareils sur lesquels votre Compte Mi est utilisé seront également envoyés."</Data></string>
-    <string name="submit_dialog_content_global"><Data>"Vos commentaires, ainsi que les pièces jointes (le cas échéant) et les journaux (vous pouvez décocher les cases correspondantes pour les éléments que vous ne souhaitez pas télécharger) seront envoyés aux serveurs de MIUI. Les journaux peuvent contenir des informations personnelles et vos données de localisation. Sélectionner \"Accepter\" signifie que vous avez lu et accepté notre &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a> et notre &lt;a href=\"%2$s\">Accord de l'utilisateur&lt;/a>."</Data></string>
+    <string name="submit_dialog_content"><Data>"Lisez et acceptez notre &amp;lt;a href=\"%1$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt; et notre &amp;lt;a href=\"%2$s\"&amp;gt;Accord d'utilisation&amp;lt;/a&amp;gt; avant d'envoyer votre retour. Les problèmes que vous signalez ainsi que les éléments que vous joignez (y compris les journaux qui peuvent contenir des informations personnelles, ainsi que des informations sur votre appareil et votre réseau) seront téléchargés sur les serveurs de MIUI. Cela nous aidera à localiser et à résoudre les problèmes que vous signalez. Si vous signalez des problèmes liés à plusieurs appareils, les journaux d'autres appareils sur lesquels votre Compte Mi est utilisé seront également envoyés."</Data></string>
+    <string name="submit_dialog_content_global"><Data>"Vos commentaires, ainsi que les pièces jointes (le cas échéant) et les journaux (vous pouvez décocher les cases correspondantes pour les éléments que vous ne souhaitez pas télécharger) seront envoyés aux serveurs de MIUI. Les journaux peuvent contenir des informations personnelles et vos données de localisation. Sélectionner \"Accepter\" signifie que vous avez lu et accepté notre &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a> et notre &lt;a href=\"%2$s\">Accord d'utilisation&lt;/a>."</Data></string>
     <string name="submit_dialog_not_show_again">Ne plus montrer</string>
     <string name="submit_dialog_title">Envoyer le rapport</string>
     <string name="submit_feedback_info_failed">"Impossible d'envoyer le rapport"</string>

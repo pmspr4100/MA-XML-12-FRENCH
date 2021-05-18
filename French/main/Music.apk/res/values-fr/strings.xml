@@ -73,7 +73,7 @@
   <string name="add_to_playlist">"Ajouter à la file d'attente"</string>
   <string name="add_to_playlist_successful">Ajouté avec succès</string>
   <string name="added_next_play">Ajouté pour être joué ensuite</string>
-  <string name="agreement_desc">"Accord de l'utilisateur (obligatoire)"</string>
+  <string name="agreement_desc">"Accord d'utilisation (obligatoire)"</string>
   <string name="alaka_required">Vous devez payer pour écouter cette chanson</string>
   <string name="alarm_clock_ringtones_successful">Alarme défini avec succès</string>
   <string name="album_cover">"Couverture de l'album"</string>
@@ -493,7 +493,7 @@
   <string name="hungama_subscribe_positive_button">Payer pour un abonnement PRO</string>
   <string name="hungama_subscribe_title">Abonnement PRO</string>
   <string name="i_know">OK</string>
-  <string name="impunity_declaration_content">"Vous devez lire et accepter nos &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=fr_FR\">Accord utilisateur&lt;/a> et &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=fr_FR\">Politique de confidentialité&lt;/a>avant d'utiliser le produit."</string>
+  <string name="impunity_declaration_content">"Vous devez lire et accepter nos &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=fr_FR\">Accord d'utilisation&lt;/a> et &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=fr_FR\">Politique de confidentialité&lt;/a>avant d'utiliser le produit."</string>
   <string name="impunity_declaration_ignore">Ne plus afficher</string>
   <string name="impunity_declaration_negative_text">Quitter</string>
   <string name="impunity_declaration_positive_text">Accepter</string>
@@ -562,7 +562,7 @@
   <string name="joox_download_tab_title">JOOX</string>
   <string name="joox_download_title">Téléchargements JOOX</string>
   <string name="joox_privacy_desc">Politique de confidentailité JOOX (optionnel)</string>
-  <string name="joox_privacy_tips_content">"Lisez et acceptez la &lt;a href="/link/click"&gt;politique de confidentialité JOOX&lt;/a&gt; avant d'utiliser les services en ligne."</string>
+  <string name="joox_privacy_tips_content">"Lisez et acceptez la &lt;a href="/link/click"&gt;Politique de confidentialité JOOX&lt;/a&gt; avant d'utiliser les services en ligne."</string>
   <string name="joox_privacy_tips_title">Politique de confidentialité JOOX</string>
   <string name="joox_recommend_artist_title">Artistes recommendés</string>
   <string name="joox_recommend_playlist_title">Playlists recommandées</string>
@@ -848,14 +848,14 @@
   <string name="privacy_desc">Politique de confidentialité (obligatoire)</string>
   <string name="privacy_policy">Politique de confidentialité</string>
   <string name="privacy_request_desc"><Data>"Mi Music doit collecter les données personnelles nécessaires pour vous fournir des services de diffusion en ligne. Vous pouvez découvrir comment nous traitons les informations que nous collectons dans notre &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a>. Vous pouvez retirer votre consentement à la Politique de confidentialité de Mi Music dans les Paramètres à tout moment.
-    Lisez et acceptez notre &lt;a href=\"%2$s\">Accord de l'utilisateur&lt;/a> et notre &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a> avant d'utiliserMi Music.
+    Lisez et acceptez notre &lt;a href=\"%2$s\">Accord d'utilisation&lt;/a> et notre &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a> avant d'utiliserMi Music.
     Si vous n'acceptez pas d'utiliser les services sus-mentionnés, vous serez dans l'incapacité d'utiliser certaines fonctionnalités de l'application; toutefois, les fonctionnalités basiques seront toujours accessibles."</Data></string>
   <string name="privacy_request_subtitle">"Bienvenue dans Mi Music! Cette application fournit les services suivants:
 
     - Un lecteur audio local
 
     - Des services de diffusion en ligne"</string>
-  <string name="privacy_request_title">Termes et conditions</string>
+  <string name="privacy_request_title">Termes et Conditions</string>
   <string name="pro_member">Membre PRO</string>
   <string name="project_device">Téléphone Mi</string>
   <string name="prompt_grant_write_settings_permission">Autoriser la modification des paramètres systèmes</string>
@@ -880,7 +880,7 @@ Soyez heureux"</string>
   <string name="repeat_all_notif">Répétition de tous les morceaux.</string>
   <string name="repeat_current_notif">Répétition de la chanson en cours.</string>
   <string name="request_overlay_permission_desc">Autoriser Mi Music à afficher des fenêtres flottantes pour pouvoir utiliser cette fonctionnalité.</string>
-  <string name="request_privacy_permission_title">Lisez et acceptez nos termes et conditions ci-dessous pour accéder à tous nos services.</string>
+  <string name="request_privacy_permission_title">Lisez et acceptez nos Termes et Conditions ci-dessous pour accéder à tous nos services.</string>
   <string name="request_share_info">Chargement…</string>
   <string name="request_subscription_status">Chargement…</string>
   <string name="restart_immediate">Redémarrer</string>
@@ -1168,7 +1168,7 @@ Soyez heureux"</string>
   <string name="upload_playlist_to_hungama_positive_text">Synchroniser</string>
   <string name="upload_playlist_to_hungama_title">"Synchroniser les chansons en ligne sur Hungama pour pouvoir y accéder sur d'autres appareils où vous utilisez votre Compte Mi."</string>
   <string name="upload_playlist_to_hungama_toast">Les chansons en ligne seront synchronisées sur Hungama</string>
-  <string name="user_agreement">Accord utilisateur</string>
+  <string name="user_agreement">"Accord d'utilisation"</string>
   <string name="user_playlist_plaza">Playlists</string>
   <string name="user_privacy_dialog_negative_text">Annuler</string>
   <string name="user_privacy_dialog_positive_count_down_text">Révoquer (%ss)</string>
