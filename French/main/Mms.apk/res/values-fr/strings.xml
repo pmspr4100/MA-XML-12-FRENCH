@@ -225,7 +225,7 @@
     <string name="dialog_message_networking">"La messagerie doit utiliser les pages jaunes pour être en mesure de fournir une reconnaissance de l'ID de l'expéditeur. Les messages et les pages jaunes doivent se connecter à internet et accéder à votre localisation pour fonctionner normalement. Autoriser?"</string>
     <string name="dialog_message_rcs">"China Mobile Messaging vous permet d'envoyer des messages à d'autres utilisateurs de China Mobile en Chine Continentale sans frais. Vous devez accepter \"%1$s\" avant d'utiliser la messagerie de China Mobile."</string>
     <string name="dialog_sim_locked_confirm">OK</string>
-    <string name="dialog_sim_locked_message">"Votre carte SIM n'est pas complètement opérationnelle avec ce téléphone car elle n'est pas conforme aux conditions générales de votre abonnement. Si vous avez des questions ou avez besoin de plus d'informations à ce sujet, veuillez contacter les centres de service Xiaomi ou le magasin qui vous a vendu des produits."</string>
+    <string name="dialog_sim_locked_message">"Votre carte SIM n'est pas complètement opérationnelle avec ce téléphone car elle n'est pas conforme aux Conditions générales de votre abonnement. Si vous avez des questions ou avez besoin de plus d'informations à ce sujet, veuillez contacter les centres de service Xiaomi ou le magasin qui vous a vendu des produits."</string>
     <string name="dialog_smart_message_privacy_tips">"Les services de messagerie intelligente sont fournis en partie par Dianhuabang. Avant d'utiliser la messagerie intelligente, vous devez accepter de \"%1$s\". La messagerie intelligente doit se connecter à internet et accéder à votre emplacement pour fonctionner normalement. Accepter ?"</string>
     <string name="dialog_smart_message_privacy_tips_title">Politique de confidentialité de Dianhuabang</string>
     <string name="dialog_title_correct_as_ad">Move to promotional messages</string>
@@ -289,9 +289,9 @@
     <string name="favorite_at_time">Ajouté aux favoris sur: %1s</string>
     <string name="fdn_check_failure">Vous ne pouvez pas envoyer de SMS à un téléphone fixe.</string>
     <string name="feature_mx">Mi Message</string>
-    <string name="feature_mx_summary">"&lt;b&gt;Mi Message vous permet d'envoyer des messages à d'autres utilisateurs de Mi Message par internet sans occasionner de frais&lt;/b&gt;. Un message SMS doit être envoyé pour activer ce service. Cela pourra engendrer des frais facturés par votre opérateur. Lisez et acceptez notre &lt;font color=\"#B3000000\"&gt;&lt;a href=\"http://url1\"&gt;Accord de l'utilisateur&lt;/a&gt;&lt;/font&gt; et notre &lt;font color=\"#B3000000\"&gt;&lt;a href=\"http://url2\"&gt;Politique de confidentialité&lt;/a&gt;&lt;/font&gt; avant d'utiliser cette fonctionnalité."</string>
+    <string name="feature_mx_summary">"&lt;b&gt;Mi Message vous permet d'envoyer des messages à d'autres utilisateurs de Mi Message par internet sans occasionner de frais&lt;/b&gt;. Un message SMS doit être envoyé pour activer ce service. Cela pourra engendrer des frais facturés par votre opérateur. Lisez et acceptez notre &lt;font color=\"#B3000000\"&gt;&lt;a href=\"http://url1\"&gt;Accord d'utilisation&lt;/a&gt;&lt;/font&gt; et notre &lt;font color=\"#B3000000\"&gt;&lt;a href=\"http://url2\"&gt;Politique de confidentialité&lt;/a&gt;&lt;/font&gt; avant d'utiliser cette fonctionnalité."</string>
     <string name="feature_smart_sms">Messagerie intelligente</string>
-    <string name="feature_smart_sms_summary">"&lt;b&gt;La messagerie intelligente offre une reconnaissance de l'identifiant de l'expéditeur et des menus intelligents&lt;/b&gt;". La messagerie intelligente est fournie en partie par Yulore. Lisez et acceptez les conditions de Yulore "&lt;font color="#B3000000"&gt;&lt;a href="http://url3"&gt;Politique de confidentialité&lt;/a&gt;&lt;/font&gt; avant d'utiliser cette fonction."</string>
+    <string name="feature_smart_sms_summary">"&lt;b&gt;La messagerie intelligente offre une reconnaissance de l'identifiant de l'expéditeur et des menus intelligents&lt;/b&gt;". La messagerie intelligente est fournie en partie par Yulore. Lisez et acceptez les Conditions de Yulore "&lt;font color="#B3000000"&gt;&lt;a href="http://url3"&gt;Politique de confidentialité&lt;/a&gt;&lt;/font&gt; avant d'utiliser cette fonction."</string>
     <string name="festival_sms_loading">Chargement…</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="file_create_time">"Créé : "</string>
@@ -736,11 +736,11 @@ Ce message peut être non sollicité."</string>
     <string name="privacy_revoke_nonetwork_ok">Compris</string>
     <string name="privacy_revoke_nonetwork_title">Impossible de se connecter au réseau</string>
     <string name="privacy_state_revoked_cancel">Annuler</string>
-    <string name="privacy_state_revoked_content">"En désactivant cet interrupteur, vous retirez votre consentement à la politique de confidentialité de la messagerie. Nous cesserons de collecter vos informations personnelles. Les informations personnelles déjà collectées et conservées seront supprimées dans la période spécifique requise par les lois applicables. Mi Message et Smart Messaging fournis par Messaging doivent collecter les informations personnelles nécessaires pour vous fournir les services de base. Votre retrait de votre consentement à la politique de confidentialité de Messagerie sera considéré comme un refus d'accepter les services sur la base des informations personnelles collectées fournies par Mi Message et Smart Messaging."</string>
+    <string name="privacy_state_revoked_content">"En désactivant cet interrupteur, vous retirez votre consentement à la Politique de confidentialité de la messagerie. Nous cesserons de collecter vos informations personnelles. Les informations personnelles déjà collectées et conservées seront supprimées dans la période spécifique requise par les lois applicables. Mi Message et Smart Messaging fournis par Messaging doivent collecter les informations personnelles nécessaires pour vous fournir les services de base. Votre retrait de votre consentement à la Politique de confidentialité de Messagerie sera considéré comme un refus d'accepter les services sur la base des informations personnelles collectées fournies par Mi Message et Smart Messaging."</string>
     <string name="privacy_state_revoked_dialog_title">Retrait du consentement</string>
     <string name="privacy_state_revoked_revoked">Retirer</string>
     <string name="privacy_state_revoked_switch">Retrait du consentement</string>
-    <string name="privacy_state_revoked_synopsis">"En désactivant l'interrupteur, vous retirez votre consentement à la politique de confidentialité de la messagerie."</string>
+    <string name="privacy_state_revoked_synopsis">"En désactivant l'interrupteur, vous retirez votre consentement à la Politique de confidentialité de la messagerie."</string>
     <string name="privacy_term">Politique de confidentialité</string>
     <string name="private_entry_available">Relâchez pour ouvrir le dossier privé</string>
     <string name="private_entry_default">Faites glisser vers le bas pour ouvrir le dossier privé</string>
@@ -768,7 +768,7 @@ Ce message peut être non sollicité."</string>
     <string name="prompt_phone">Numéro de téléphone</string>
     <string name="prompt_summary">"RCS vous permet d'échanger des messages, des photos, des vidéos et de créer des groupes de discution gratuitement."</string>
     <string name="prompt_title">Connectez-vous à RCS</string>
-    <string name="prompt_user_agreement">"En vous connectant, vous acceptez les conditions d'utilisation et la politique de confidentialité de RCS."</string>
+    <string name="prompt_user_agreement">"En vous connectant, vous acceptez les Conditions d'utilisation et la Politique de confidentialité de RCS."</string>
     <string name="prvate_contact">Contacts privés</string>
     <string name="quick_reply">Répondre</string>
     <string name="rate_limit_surpassed">OK</string>
@@ -1017,7 +1017,7 @@ Take a look at the recommended ones!"</string>
     <string name="select_top_text">Texte en haut</string>
     <string name="send">Envoyer</string>
     <string name="send_message_dlg_check_hint">Ne plus afficher</string>
-    <string name="send_message_dlg_mgs">"Note de CMCC: nous devons enregistrer votre appareil sur notre plateforme de gestion d'appareils dans le but de fournir une assistance et des services client gratuits. Cette plateforme CMCC gère les appareils mobiles et vous permet de modifier les paramètres et de mettre à niveau les logiciels à distance. Un message gratuit avec les informations relatives à votre appareil sera envoyé pour votre enregistrement. Le message sera envoyé seulement une fois et ne contiendra pas vos données personnelles. Ce message ne peut pas être envoyé par les utilisateurs de Honk Kong, Macao, Taïwan et d'ailleurs. Sélectionnez \"OK\" pour accepter et enregistrer votre appareil. Sélectionnez \"Annuler\" si vous refusez les conditions. Les services ne vous seront pas fournis dans ce cas."</string>
+    <string name="send_message_dlg_mgs">"Note de CMCC: nous devons enregistrer votre appareil sur notre plateforme de gestion d'appareils dans le but de fournir une assistance et des services client gratuits. Cette plateforme CMCC gère les appareils mobiles et vous permet de modifier les paramètres et de mettre à niveau les logiciels à distance. Un message gratuit avec les informations relatives à votre appareil sera envoyé pour votre enregistrement. Le message sera envoyé seulement une fois et ne contiendra pas vos données personnelles. Ce message ne peut pas être envoyé par les utilisateurs de Honk Kong, Macao, Taïwan et d'ailleurs. Sélectionnez \"OK\" pour accepter et enregistrer votre appareil. Sélectionnez \"Annuler\" si vous refusez les Conditions. Les services ne vous seront pas fournis dans ce cas."</string>
     <string name="send_message_dlg_title">Gestion des périphériques</string>
     <string name="send_message_notification_msg">Appuyez pour voir les détails de la demande.</string>
     <string name="send_message_notification_tickerText">"Demande d'autorisation de l'appareil"</string>
@@ -1144,7 +1144,7 @@ Take a look at the recommended ones!"</string>
     <string name="system_permission_declare_disagree">Annuler</string>
     <string formatted="false" name="system_permission_declare_double_link">"Lisez et acceptez notre %1s et %2s avant d'utiliser cette fonctionnalité."</string>
     <string formatted="false" name="system_permission_declare_main_purpose">Bienvenue à %1s ! %2s</string>
-    <string name="system_permission_declare_no_say_no">"Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité en vigueur.
+    <string name="system_permission_declare_no_say_no">"Nous protégerons vos informations personnelles conformément aux lois, réglementations et Politiques de confidentialité en vigueur.
 Si vous n'acceptez pas d'accorder de telles autorisations ou de partager et télécharger vos informations personnelles, vous ne pourrez pas utiliser cette application."</string>
     <string name="system_permission_declare_privacy_declare">%1s doit collecter vos données et nécessite les autorisations suivantes pour fonctionner normalement:</string>
     <string name="system_permission_declare_privacy_declare_new">This app needs to connect to the internet and requires the following permissions to be able to work normally:</string>
@@ -1262,7 +1262,7 @@ Dernière tentative : %s."</string>
     <string name="url_result_safe">Cette URL est sécurisée</string>
     <string name="url_scan_again">Vérifier à nouveau</string>
     <string name="url_scanning">"Vérification de l'URL…"</string>
-    <string name="user_agreement">Accord utilisateur</string>
+    <string name="user_agreement">"Accord d'utilisation"</string>
     <string name="user_term">User Agreement</string>
     <string name="v7_preference_off">DÉSACTIVÉ</string>
     <string name="v7_preference_on">ACTIVÉ</string>

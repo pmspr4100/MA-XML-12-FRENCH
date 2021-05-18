@@ -231,7 +231,7 @@
   <string name="life_post_wake_up_time_title">Heure de réveil</string>
   <string name="life_post_weather_invalid">Appuyez pour obtenir les infos météo</string>
   <string name="life_post_weather_no_network">Connectez-vous au réseau pour mettre à jour les infos météo</string>
-  <string name="listen_news_privacy">"&lt;Data&gt;Afin de fournir des services personnalisés et d'inclure les nouvelles du matin dans vos alarmes, l'horloge doit se connecter à internet. Avant d'utiliser l'horloge, vous devez également lire et accepter nos &amp;lt;a href=\"%1$s\"&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href=\"%2$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;. Accepter ?&lt;/Data&gt;"</string>
+  <string name="listen_news_privacy">"&lt;Data&gt;Afin de fournir des services personnalisés et d'inclure les nouvelles du matin dans vos alarmes, l'horloge doit se connecter à internet. Avant d'utiliser l'horloge, vous devez également lire et accepter nos &amp;lt;a href=\"%1$s\"&amp;gt;Accord d'utilisation&amp;lt;/a&amp;gt; et &amp;lt;a href=\"%2$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;. Accepter ?&lt;/Data&gt;"</string>
   <string name="loading_ringtone">Chargement de la sonnerie…</string>
   <string name="menu_add_worldclock">Ajouter une horloge</string>
   <string name="menu_desk_clock">Horloge</string>
@@ -285,7 +285,7 @@
   <string name="module_update_success">"Le fichier audio mis à jour pour les alarmes intelligentes MIUI a été téléchargé avec succès. Vous pouvez définir les alarmes intelligentes MIUI dans les paramètres de l'horloge."</string>
   <string name="module_update_success_control">Compris</string>
   <string name="module_weather_ringtone_download_data">"L'alarme météo sélectionne différentes sonneries en fonction de la météo actuelle. L'horloge doit télécharger ≈30 Mo d'audio pour le faire fonctionner. Télécharger maintenant ?"</string>
-  <string name="module_weather_ringtone_download_data_privacy"><Data>"L'alarme météo sélectionne différentes sonneries en fonction de la météo actuelle. L'horloge doit se connecter à internet pour télécharger ≈30 Mo d'audio. Avant d'utiliser Horloge, vous devez aussi lire et accepter notre &lt;a href=\"%1$s\"&gt;Accord utilisateur&lt;/a&gt; et notre &lt;a href=\"%2$s\"&gt;Politique de confidentialité&lt;/a&gt;. Accepter ?"</Data></string>
+  <string name="module_weather_ringtone_download_data_privacy"><Data>"L'alarme météo sélectionne différentes sonneries en fonction de la météo actuelle. L'horloge doit se connecter à internet pour télécharger ≈30 Mo d'audio. Avant d'utiliser Horloge, vous devez aussi lire et accepter notre &lt;a href=\"%1$s\"&gt;Accord d'utilisation&lt;/a&gt; et notre &lt;a href=\"%2$s\"&gt;Politique de confidentialité&lt;/a&gt;. Accepter ?"</Data></string>
   <string name="module_weather_ringtone_download_wifi">"L'alarme météo sélectionne différentes sonneries en fonction de la météo actuelle. L'horloge doit télécharger de l'audio pour le faire fonctionner. Télécharger maintenant ?"</string>
   <string name="module_weather_ringtone_download_wifi_privacy">&lt;Data&gt;Weather alarm selects different ringtones according to the current weather. Clock needs to connect to the internet to download audio. Before using Clock, you must also read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;. Agree?&lt;/Data&gt;</string>
   <string name="module_weather_ringtone_introduce">"L'alarme météo sélectionne différentes sonneries en fonction de la météo actuelle. Il vous permet également d'écouter les informations météo actuelles le matin."</string>
@@ -351,8 +351,8 @@
   <string name="morning">Matin</string>
   <string name="net_permission_cancel">"Ne pas accepter"</string>
   <string name="net_permission_ok">Accepter</string>
-  <string name="network_privacy">"&lt;Data&gt;Pour obtenir des informations pertinentes sur les jours fériés locaux et régler les alarmes, l'horloge doit se connecter à internet. Avant d'utiliser l'horloge, vous devez également lire et accepter nos &amp;lt;a href=\"%1$s\"&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href=\"%2$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;. Accepter ?&lt;/Data&gt;"</string>
-  <string name="network_privacy_global">"&lt;Data&gt;Afin de fournir des services personnalisés, l'horloge doit se connecter à internet. Avant d'utiliser l'horloge, vous devez également lire et accepter nos &amp;lt;a href=\"%1$s\"&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href=\"%2$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;. Accepter ?&lt;/Data&gt;"</string>
+  <string name="network_privacy">"&lt;Data&gt;Pour obtenir des informations pertinentes sur les jours fériés locaux et régler les alarmes, l'horloge doit se connecter à internet. Avant d'utiliser l'horloge, vous devez également lire et accepter nos &amp;lt;a href=\"%1$s\"&amp;gt;Accord d'utilisation&amp;lt;/a&amp;gt; et &amp;lt;a href=\"%2$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;. Accepter ?&lt;/Data&gt;"</string>
+  <string name="network_privacy_global">"&lt;Data&gt;Afin de fournir des services personnalisés, l'horloge doit se connecter à internet. Avant d'utiliser l'horloge, vous devez également lire et accepter nos &amp;lt;a href=\"%1$s\"&amp;gt;Accord d'utilisation&amp;lt;/a&amp;gt; et &amp;lt;a href=\"%2$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;. Accepter ?&lt;/Data&gt;"</string>
   <string name="never">Une fois</string>
   <string name="new_label">"Ajouter une étiquette d'alarme"</string>
   <string name="night">Soirée</string>
@@ -527,7 +527,7 @@
   <string name="update_it">Mise à jour</string>
   <string name="update_notification_info">Mise à jour des données en arrière-plan…</string>
   <string name="usage_start">Démarrer</string>
-  <string name="user_agreement">"Accord de l'utilisateur"</string>
+  <string name="user_agreement">"Accord d'utilisation"</string>
   <string name="v7_preference_off">Désactivé</string>
   <string name="v7_preference_on">Activé</string>
   <string name="version_update_dialog_negative_desc">Pas maintenant</string>

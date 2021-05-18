@@ -85,7 +85,7 @@ L'ID de votre compte: %s"</string>
   <string name="activity_not_found_notice">Application introuvable</string>
   <string name="add_account">Ajouter un compte</string>
   <string name="afternoon">Après-midi</string>
-  <string name="agreement_and_privacy">Termes et conditions</string>
+  <string name="agreement_and_privacy">Termes et Conditions</string>
   <string name="am">AM</string>
   <string name="app_name">Compte Mi</string>
   <string name="auth_fail_warning">La session a expiré, veuillez vous reconnecter plus tard</string>
@@ -254,7 +254,7 @@ Envoyez ce code au superviseur."</string>
   <string name="input_new_pwd">Entrez le nouveau mot de passe</string>
   <string name="io_error_title">Confirmez votre réseau</string>
   <string name="just_a_second">Chargement…</string>
-  <string name="kr_license_desc">"Vous devez accepter notre Accord de l'utilisateur et notre Politique de confidentialité avant d'utiliser les services Compte Mi et Mi Cloud."</string>
+  <string name="kr_license_desc">"Vous devez accepter notre Accord d'utilisation et notre Politique de confidentialité avant d'utiliser les services Compte Mi et Mi Cloud."</string>
   <string name="kr_permission_contacts_desc">Pour accéder aux informations de contact</string>
   <string name="kr_permission_desc">Permissions requises</string>
   <string name="kr_permission_phone_desc">Pour protéger votre compte</string>
@@ -432,7 +432,7 @@ Envoyez ce code au superviseur."</string>
   <string name="passport_error_user_name">"Le nom d'utilisateur que vous avez entré n'est pas valide."</string>
   <string name="passport_error_verify_activator_phone_message">"Assurez-vous que le service de la carte SIM est activé et que l'appareil est connecté au réseau."</string>
   <string name="passport_error_verify_activator_phone_title">Impossible de vérifier le numéro de téléphone</string>
-  <string name="passport_extra_gdpr_license">"Créer votre compte Mi signifie que vous acceptez que Xiaomi collectera, traitera et utilisera vos données personnelles, y compris les données de vérification (par exemple, les codes de vérification), les données du second espace (par exemple, informations sur les façons d'utiliser les premier et second espaces), et d'autres données spécifiées dans notre politique de confidentialité. Référez-vous à notre politique de confidentialité pour apprendre comment nous traitons et utilisons les données personnelles."</string>
+  <string name="passport_extra_gdpr_license">"Créer votre compte Mi signifie que vous acceptez que Xiaomi collectera, traitera et utilisera vos données personnelles, y compris les données de vérification (par exemple, les codes de vérification), les données du second espace (par exemple, informations sur les façons d'utiliser les premier et second espaces), et d'autres données spécifiées dans notre Politique de confidentialité. Référez-vous à notre Politique de confidentialité pour apprendre comment nous traitons et utilisons les données personnelles."</string>
   <string name="passport_failed_to_send_activate_email">"Impossible d'envoyer l'Email d'activation"</string>
   <string name="passport_find_password_on_web_msg">Veuillez visiter account.mi.com pour récupérer votre mot de passe.</string>
   <string name="passport_first_login_prompt">Le compte Mi sera créé automatiquement lorsque vous vous connecterez pour la première fois.</string>
@@ -595,9 +595,9 @@ Envoyez ce code au superviseur."</string>
   <string name="passport_uplink_slot2_reg">Utiliser la SIM 2</string>
   <string name="passport_use_generated_pwd_message">"Assurez-vous de vous souvenir de votre mot de passe. Vous pourrez l'utiliser pour vous connecter à d'autres services Mi."</string>
   <string name="passport_use_generated_pwd_title">Se souvenir de votre mot de passe !</string>
-  <string name="passport_user_agreement">Accord utilisateur</string>
-  <string name="passport_user_agreement_link">"&lt;Data&gt;"J'ai lu et accepté Xiaomi &amp;lt;a href=%1$s&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href=%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;."&lt;/Data&gt;"</string>
-  <string name="passport_user_agreement_required">"Accord de l'utilisateur (obligatoire)"</string>
+  <string name="passport_user_agreement">"Accord d'utilisation"</string>
+  <string name="passport_user_agreement_link">"&lt;Data&gt;"J'ai lu et accepté Xiaomi &amp;lt;a href=%1$s&amp;gt;Accord d'utilisation&amp;lt;/a&amp;gt; et &amp;lt;a href=%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;."&lt;/Data&gt;"</string>
+  <string name="passport_user_agreement_required">"Accord d'utilisation (obligatoire)"</string>
   <string name="passport_user_id_notice">Votre ID de compte Mi est %s.</string>
   <string name="passport_user_reg_region">Pays/Région</string>
   <string name="passport_user_reg_region_warning">Vous ne serez plus en mesure de modifier votre pays/région une fois le compte créé.</string>

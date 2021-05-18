@@ -30,9 +30,9 @@
   <string name="accept_and_continue">Accepter et continuer</string>
   <string name="access_links">Accéder aux liens</string>
   <string name="access_list_of_links">Accéder à une liste de liens</string>
-  <string name="access_terms">Voir les conditions</string>
-  <string name="admin_has_ability_to_monitor_device">"Votre administrateur a la possibilité de surveiller et de gérer les paramètres, l'accès d'entreprise, les applications, les autorisations et les données associées à ce périphérique, y compris l'activité de votre réseau, ainsi que l'emplacement de votre périphérique, l'historique des appels et l'historique de recherche des contacts.&lt;br&gt;&lt;br&gt;Contactez votre administrateur pour plus d'informations, y compris les règles de confidentialité de votre organisation."</string>
-  <string name="admin_has_ability_to_monitor_profile">"Votre administrateur peut contrôler et gérer les paramètres, l'accès aux contenus de l'entreprise, les applications, les autorisations et les données associées à ce profil, y compris votre activité réseau et les données de localisation, l'historique des appels et l'historique des recherches de contacts de votre appareil.&lt;br>&lt;br>Pour plus d'informations, y compris les règles de confidentialité de votre entreprise, contactez votre administrateur."</string>
+  <string name="access_terms">Voir les Conditions</string>
+  <string name="admin_has_ability_to_monitor_device">"Votre administrateur a la possibilité de surveiller et de gérer les paramètres, l'accès d'entreprise, les applications, les autorisations et les données associées à ce périphérique, y compris l'activité de votre réseau, ainsi que l'emplacement de votre périphérique, l'historique des appels et l'historique de recherche des contacts.&lt;br&gt;&lt;br&gt;Contactez votre administrateur pour plus d'informations, y compris les Règles de confidentialité de votre organisation."</string>
+  <string name="admin_has_ability_to_monitor_profile">"Votre administrateur peut contrôler et gérer les paramètres, l'accès aux contenus de l'entreprise, les applications, les autorisations et les données associées à ce profil, y compris votre activité réseau et les données de localisation, l'historique des appels et l'historique des recherches de contacts de votre appareil.&lt;br>&lt;br>Pour plus d'informations, y compris les Règles de confidentialité de votre entreprise, contactez votre administrateur."</string>
   <string name="app_label">Configuration du profil professionnel</string>
   <string name="back">Retour</string>
   <string name="brand_screen_header">Ce périphérique appartient à votre organisation</string>
@@ -71,7 +71,7 @@
   <string name="company_controls_workspace">Ce profil est contrôlé et sécurisé par votre entreprise. Vous contrôlez tout le reste sur votre appareil.</string>
   <string name="contact_device_provider">Si vous avez des questions, contactez votre %1$s.</string>
   <string name="contact_your_admin_for_help">"Contacter votre administrateur pour obtenir de l'aide"</string>
-  <string name="contact_your_admin_for_more_info">"Contactez votre administrateur pour obtenir plus d'informations, y compris les règles de confidentialité de votre organisation."</string>
+  <string name="contact_your_admin_for_more_info">"Contactez votre administrateur pour obtenir plus d'informations, y compris les Règles de confidentialité de votre organisation."</string>
   <string name="continue_button">Continuer</string>
   <string name="continue_provisioning_notify_text">Appuyez pour continuer la configuration de votre profil professionnel.</string>
   <string name="continue_provisioning_notify_title">Chiffrement terminé</string>
@@ -95,8 +95,8 @@
   <string name="device_owner_error_ok">OK</string>
   <string name="device_owner_error_package_invalid">"Impossible d'utiliser l'application d'administration. Il lui manque des composants, ou elle est endommagée. Contactez votre administrateur pour obtenir de l'aide."</string>
   <string name="device_owner_error_wifi">Impossible de se connecter au réseau Wi-Fi.</string>
-  <string name="device_owner_info">"Ce périphérique sera géré, surveillé et sécurisé par %1$s. Les conditions s'appliqueront. %2$s"</string>
-  <string name="device_owner_info_with_terms_headers">"Cet appareil sera géré, surveillé et sécurisé par %1$s. Les conditions d'utilisation %2$s s'appliquent. %3$s"</string>
+  <string name="device_owner_info">"Ce périphérique sera géré, surveillé et sécurisé par %1$s. Des Conditions d'utilisation s'appliqueront. %2$s"</string>
+  <string name="device_owner_info_with_terms_headers">"Cet appareil sera géré, surveillé et sécurisé par %1$s. Les Conditions d'utilisation %2$s s'appliquent. %3$s"</string>
   <string name="device_provisioning_finished">Votre périphérique est prêt !</string>
   <string name="dismiss">Ignorer</string>
   <string name="done">Terminé</string>
@@ -162,10 +162,10 @@
   <string name="profile_owner_cancel_message">Arrêter la configuration ?</string>
   <string name="profile_owner_cancel_ok">Oui</string>
   <string name="profile_owner_cancelling">Annulation en cours…</string>
-  <string name="profile_owner_info">"Vous allez créer un profil professionnel qui sera géré et contrôlé par votre entreprise. Des conditions d'utilisation s'appliquent."</string>
-  <string name="profile_owner_info_comp">"Un profil sera créé pour vos applications professionnelles. Ce profil et le reste de l'appareil seront gérés et contrôlés par votre entreprise. Des conditions d'utilisation s'appliquent."</string>
-  <string name="profile_owner_info_with_terms_headers">"Vous allez créer un profil professionnel qui sera géré et contrôlé par votre entreprise. Les conditions d'utilisation %1$s s'appliquent."</string>
-  <string name="profile_owner_info_with_terms_headers_comp">"Un profil sera créé pour vos applications professionnelles. Ce profil et le reste de l'appareil seront gérés et contrôlés par votre entreprise. Les conditions d'utilisation  %1$s s'appliquent."</string>
+  <string name="profile_owner_info">"Vous allez créer un profil professionnel qui sera géré et contrôlé par votre entreprise. Des Conditions d'utilisation s'appliquent."</string>
+  <string name="profile_owner_info_comp">"Un profil sera créé pour vos applications professionnelles. Ce profil et le reste de l'appareil seront gérés et contrôlés par votre entreprise. Des Conditions d'utilisation s'appliquent."</string>
+  <string name="profile_owner_info_with_terms_headers">"Vous allez créer un profil professionnel qui sera géré et contrôlé par votre entreprise. Les Conditions d'utilisation %1$s s'appliquent."</string>
+  <string name="profile_owner_info_with_terms_headers_comp">"Un profil sera créé pour vos applications professionnelles. Ce profil et le reste de l'appareil seront gérés et contrôlés par votre entreprise. Les Conditions d'utilisation  %1$s s'appliquent."</string>
   <string name="progress_connect_to_mobile_network">Connexion au réseau mobile…</string>
   <string name="progress_connect_to_wifi">Connexion au réseau Wi-Fi en cours…</string>
   <string name="progress_data_process">Traitement des données de configuration…</string>
@@ -178,7 +178,7 @@
   <string name="provisioning">Configuration en cours</string>
   <string name="provisioning_error_title">Petit problème…</string>
   <string name="read_more_delete_profile">Avant de continuer, <a href="#read_this_link">lisez ces informations</a>.</string>
-  <string name="read_terms">Lire les conditions</string>
+  <string name="read_terms">Lire les Conditions</string>
   <string name="reset">Réinitialiser</string>
   <string name="scroll_bar_page_down_button">Défiler vers le bas</string>
   <string name="scroll_bar_page_up_button">Défiler vers le haut</string>
@@ -217,7 +217,7 @@
   <string name="url_error">"Impossible d'afficher ce lien."</string>
   <string name="user_consent_msg">"J'accepte"</string>
   <string name="user_setup_incomplete">"Configuration de l'utilisateur incomplète"</string>
-  <string name="view_terms">"Consulter les conditions d'utilisation"</string>
+  <string name="view_terms">"Consulter les Conditions d'utilisation"</string>
   <string name="work_profile_cant_be_added_contact_admin">"Il n'est pas possible d'ajouter un profil professionnel à cet appareil. Si vous avez des questions, contactez votre administrateur."</string>
   <string name="work_profile_description">Vos applications professionnelles seront conservées dans ce profil et gérées par votre organisation</string>
   <string name="work_profile_info">Infos sur le profil professionnel</string>
