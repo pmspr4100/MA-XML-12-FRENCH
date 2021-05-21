@@ -1829,7 +1829,7 @@ pour rejoindre notre chasse aux œufs !"</string>
     <string name="guide_wait_setting">Pas maintenant</string>
     <string name="handle_bar_summary_wifi_unknown">Inconnu</string>
     <string name="handle_bar_title_system">Système</string>
-    <string name="handle_title_abnormal">Surconsommation de batterie</string>
+    <string name="handle_title_abnormal">Utilisation excessive de la batterie</string>
     <string name="handle_title_app">Applications</string>
     <string name="handle_title_details">"Détails de l'utilisation de batterie"</string>
     <string name="handle_title_network">Sécurité Wi-Fi</string>
@@ -2580,7 +2580,7 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
     <string name="pc_main_sub_battery_text_hour_minute">%1$s h %2$s m restante</string>
     <string name="pc_search_keywords_battery">Batterie</string>
     <string name="pc_search_keywords_battery_save">Économiseur de batterie</string>
-    <string name="pc_search_keywords_battery_use">Utilisation de la batterie</string>
+    <string name="pc_search_keywords_battery_use">Utilisation</string>
     <string name="pc_search_keywords_capacity">Capacité de la batterie</string>
     <string name="pc_search_keywords_property">Performance</string>
     <string name="pc_settings_title">Batterie</string>
@@ -2746,7 +2746,7 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
     <string name="power_center_battery_level">Chargée à %s</string>
     <string name="power_center_battery_level_general">Normal</string>
     <string name="power_center_battery_software">Logiciel (%s)</string>
-    <string name="power_center_battery_status">Consommation normale</string>
+    <string name="power_center_battery_status">Utilisation de la batterie</string>
     <string name="power_center_battery_temperature">Température</string>
     <string name="power_center_battery_used_time">Sur batterie</string>
     <string name="power_center_batteryrank_all">Toutes les utilisations de la batterie</string>
@@ -2755,8 +2755,7 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
     <string name="power_center_batteryscan_normal">"Aucun problème d'utilisation de la batterie. Voir les résultats."</string>
     <string name="power_center_charge_status">En charge</string>
     <string name="power_center_charge_time">%1$s avant charge complète</string>
-    <string name="power_center_consume_fast">Surconsommation</string>
-    <string name="power_center_consume_rank">Utilisation de la batterie</string>
+    <string name="power_center_consume_fast">Utilisation excessive</string>
     <string name="power_center_consume_time">%1$s restants</string>
     <string name="power_center_custom_summary_default">"Améliorer l'autonomie de la batterie avec un profil personnalisé"</string>
     <string name="power_center_custom_title">"Profils de gestion d'énergie"</string>
