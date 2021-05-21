@@ -29,19 +29,19 @@
   <string name="abc_toolbar_collapse_description">Réduire</string>
   <string name="actionbar_button_up_description">Retour</string>
   <string name="afternoon">Après-midi</string>
-  <string name="already_newest_version">Current version is up to date</string>
+  <string name="already_newest_version">La version actuelle est à jour</string>
   <string name="app_name">"Fond d'écran"</string>
-  <string name="cancel_download">Download canceled</string>
+  <string name="cancel_download">Téléchargement annulé</string>
   <string name="character_counter_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
-  <string name="clearable_edittext_clear_description">Clear</string>
+  <string name="clearable_edittext_clear_description">Effacer</string>
   <string name="copy">Copie</string>
   <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
-  <string name="download_failed">"Couldn't download"</string>
+  <string name="download_failed">Téléchargement impossible</string>
   <string name="early_morning">Matin</string>
   <string name="earth_id">earth</string>
-  <string name="earth_summary">The Earth is the cradle of human civilization</string>
-  <string name="earth_super_wallpaper_label">earth</string>
-  <string name="earth_title">Home</string>
+  <string name="earth_summary">La Terre est le berceau de la civilisation humaine</string>
+  <string name="earth_super_wallpaper_label">"Planète d'origine"</string>
+  <string name="earth_title">"Planète d'origine"</string>
   <string name="evening">Après-midi</string>
   <string name="expand_button_title">Avancé</string>
   <string name="fmt_date_long_month_day">d MMMM</string>
@@ -57,27 +57,27 @@
   <string name="friday_shortest">Ven</string>
   <string name="game_view_content_description">Game view</string>
   <string name="geometry_id">geometry</string>
-  <string name="geometry_summary">Shapes, light, and colors</string>
-  <string name="geometry_super_wallpaper_label">Geometry</string>
-  <string name="geometry_title">Geometry</string>
-  <string name="install_failed">"Couldn't install"</string>
+  <string name="geometry_summary">Formes, lumières et couleurs</string>
+  <string name="geometry_super_wallpaper_label">Géométrie</string>
+  <string name="geometry_title">Géométrie</string>
+  <string name="install_failed">Installation impossible</string>
   <string name="mars_id">mars</string>
   <string name="mars_position_content_0">"Cette région contient des falaises, des mesas et de larges vallées plates, qui auraient été causées par des glaciers recouverts de débris. Des minéraux argileux ont également été détectés ici, ce qui est d'un grand intérêt dans la recherche de preuves de la vie sur l'ancien Mars.
 
 NASA/JPL/Université de l'Arizona"</string>
-  <string name="mars_position_content_1">"Taken when the Mars rover Curiosity is exploring the Pahrump Hills in Gale Crater. The region contains sedimentary rocks that scientists believe formed in the presence of water, and the dark areas are sand.
+  <string name="mars_position_content_1">"Prise lorsque le rover martien Curiosity explore les collines de Pahrump dans le cratère Gale. La région contient des roches sédimentaires qui, selon les scientifiques, se sont formées en présence d'eau, et les zones sombres sont du sable.
 
 NASA/JPL/Université de l'Arizona"</string>
   <string name="mars_position_content_2">"Mawrth Vallis est un ancien canal d'écoulement d'eau avec des roches riches en argile de couleur claire. Les minéraux d'argile préservent facilement la vie microscopique sur Terre, alors peut-être que des traces de la vie ancienne peuvent être trouvées à Mawrth.
 
 NASA/JPL/Université de l'Arizona"</string>
-  <string name="mars_position_title_0">"Nilosyrtis
-Mensae Region"</string>
+  <string name="mars_position_title_0">"Région de
+Nilosyrtis Mensae"</string>
   <string name="mars_position_title_1">Cratère Gale</string>
-  <string name="mars_position_title_2">"Cratère dans
+  <string name="mars_position_title_2">"Cratère
 Mawrth Vallis"</string>
   <string name="mars_summary">"Les vastes déserts de Mars ont toujours laissé l'humanité en admiration"</string>
-  <string name="mars_super_wallpaper_label">mars</string>
+  <string name="mars_super_wallpaper_label">La planète rouge</string>
   <string name="mars_title">La planète rouge</string>
   <string name="mi_wallpaper_loading">"Chargement du fond d'écran Mi..."</string>
   <string name="mi_wallpaper_title">"Fond d'écran Mi"</string>
@@ -158,8 +158,8 @@ dd/MM"</string>
   <string name="morning">Matin</string>
   <string name="mtrl_chip_close_icon_content_description">Supprimer %1$s</string>
   <string name="night">Soirée</string>
-  <string name="no_cta_agreed">"GetApps doesn't have CTA permissions"</string>
-  <string name="no_install_permission">"You don't have permissions to install this item"</string>
+  <string name="no_cta_agreed">"GetApps n'a pas les permissions CTA"</string>
+  <string name="no_install_permission">"Vous n'avez pas les permissions pour installer cet élément"</string>
   <string name="noon">Midi</string>
   <string name="not_set">Non défini</string>
   <string name="password_toggle_content_description">Afficher le mot de passe</string>
@@ -168,9 +168,9 @@ dd/MM"</string>
   <string name="saturday_short">Sam</string>
   <string name="saturday_shortest">Sam</string>
   <string name="saturn_id">saturn</string>
-  <string name="saturn_summary">The rings of Saturn make the most incredible spectacle in the Solar System</string>
-  <string name="saturn_super_wallpaper_label">saturn</string>
-  <string name="saturn_title">Faraway rings</string>
+  <string name="saturn_summary">Les anneaux de Saturne sont un des spectacles les plus remarquables du Système solaire</string>
+  <string name="saturn_super_wallpaper_label">Anneaux lointains</string>
+  <string name="saturn_title">Anneaux lointains</string>
   <string name="search_menu_title">Recherche</string>
   <string name="snowmountain_id">snowmountain</string>
   <string name="snowmountain_summary">Pentes ensoleillées du mont Siguniang</string>
@@ -206,10 +206,10 @@ dd/MM"</string>
   <string name="super_wallpaper_list_label">"Super fonds d'écran"</string>
   <string name="super_wallpaper_setting_apply_success_toast">Appliqué avec succès</string>
   <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Appliquer</string>
-  <string name="super_wallpaper_setting_choose_position_btn_text">Select location</string>
-  <string name="super_wallpaper_setting_coordinate_title">Coordinates</string>
+  <string name="super_wallpaper_setting_choose_position_btn_text">Choisir cette vue</string>
+  <string name="super_wallpaper_setting_coordinate_title">Coordonnées</string>
   <string name="super_wallpaper_setting_view_height_title">Altitude</string>
-  <string name="task_already_exist">This task already exists</string>
+  <string name="task_already_exist">Cette tâche existe déjà</string>
   <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
   <string name="the_anti_aggression_day">Anti-Aggression Day</string>
   <string name="the_arbor_day">Arbor Day</string>
@@ -254,7 +254,7 @@ dd/MM"</string>
   <string name="thursday_short">Jeu</string>
   <string name="thursday_shortest">J</string>
   <string name="time_picker_dialog_title">"Réglage de l'heure"</string>
-  <string name="title_system_wallpaper_resource">System wallpapers</string>
+  <string name="title_system_wallpaper_resource">"Fonds d'écran système"</string>
   <string name="today">"Aujourd'hui"</string>
   <string name="tomorrow">Demain</string>
   <string name="tuesday">Mardi</string>
@@ -264,15 +264,15 @@ dd/MM"</string>
   <string name="v7_preference_off">DÉSACTIVÉ</string>
   <string name="v7_preference_on">ACTIVÉ</string>
   <string name="wallpaper_setting_aod_wallpaper_banner_button_text">AOD</string>
-  <string name="wallpaper_setting_find_more_text">More online wallpapers</string>
-  <string name="wallpaper_setting_home_wallpaper_banner_button_text">Home screen</string>
-  <string name="wallpaper_setting_lock_screen_wallpaper_banner_button_text">Lock screen</string>
-  <string name="wallpaper_setting_online_wallpaper_actionbar_title">Online wallpapers</string>
-  <string name="wallpaper_setting_online_wallpaper_none_title">Discover wallpapers</string>
-  <string name="wallpaper_setting_online_wallpaper_title">Online wallpapers</string>
+  <string name="wallpaper_setting_find_more_text">"Plus de fonds d'écran en ligne"</string>
+  <string name="wallpaper_setting_home_wallpaper_banner_button_text">"Écran d'accueil"</string>
+  <string name="wallpaper_setting_lock_screen_wallpaper_banner_button_text">"Écran de verrouillage"</string>
+  <string name="wallpaper_setting_online_wallpaper_actionbar_title">>"Fonds d'écran en ligne"</string>
+  <string name="wallpaper_setting_online_wallpaper_none_title">"Découvrir les fonds d'écran"</string>
+  <string name="wallpaper_setting_online_wallpaper_title">"Fonds d'écran en ligne"</string>
   <string name="wallpaper_setting_super_wallpaper_banner_title">"Super fonds d'écran"</string>
   <string name="wallpaper_setting_super_wallpaper_more_button_text">Plus</string>
-  <string name="wallpaper_setting_title">Wallpaper</string>
+  <string name="wallpaper_setting_title">"Fond d'écran"</string>
   <string name="weather_summary">Informations météorologiques locales</string>
   <string name="weather_super_wallpaper_label">Météo</string>
   <string name="weather_title">Météo</string>
