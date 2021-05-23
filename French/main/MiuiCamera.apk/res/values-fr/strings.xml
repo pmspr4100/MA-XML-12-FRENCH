@@ -78,9 +78,9 @@
   <string name="accessibility_description_dolly_zoom_button">Zoom magique</string>
   <string name="accessibility_deselect_all">Tout désélectionner</string>
   <string name="accessibility_deselect_all_end">Tout est désélectionné</string>
-  <string name="accessibility_document_blackwhite_button">Numérisation de documents. Noir et blanc.</string>
-  <string name="accessibility_document_origin_button">Numérisation de documents. Originaux.</string>
-  <string name="accessibility_document_strengthen_button">Numérisation de documents. Amélioré.</string>
+  <string name="accessibility_document_blackwhite_button">Scan de documents. Noir et blanc.</string>
+  <string name="accessibility_document_origin_button">Scan de documents. Originaux.</string>
+  <string name="accessibility_document_strengthen_button">Scan de documents. Amélioré.</string>
   <string name="accessibility_double_click_to_exit">Appuyez 2 fois pour quitter</string>
   <string name="accessibility_dual_preview_change">Afficher les modifications</string>
   <string name="accessibility_dual_preview_change_finish">Modifications affichées avec succès</string>
@@ -510,8 +510,8 @@ et ajustez les préférences automatiquement"</string>
   <string name="config_name_super_resolution">Super définition</string>
   <string name="config_name_tilt">Tilt-shift</string>
   <string name="config_name_timer">Minuteur</string>
-  <string name="confirm_install_scanner_message">"Le scanner vous permet de numériser des QR codes, des codes à barres et plus encore. Vous n'avez pas besoin de vous connecter à internet pour l'installer."</string>
-  <string name="confirm_install_scanner_title">Installer le scanner</string>
+  <string name="confirm_install_scanner_message">"Scanner vous permet de scanner des QR codes, des codes à barres et plus encore. Vous n'avez pas besoin de vous connecter à internet pour l'installer."</string>
+  <string name="confirm_install_scanner_title">Installer Scanner</string>
   <string name="confirm_location_alert">"N'oubliez pas les emplacements de photo"</string>
   <string name="confirm_location_message">"Marquez vos photos et vidéos avec les emplacements où elles ont été prises. D'autres applications peuvent accéder à ces informations avec vos images enregistrées."</string>
   <string name="confirm_location_title">Memoriser la localisation des photos ?</string>
@@ -581,7 +581,7 @@ et ajustez les préférences automatiquement"</string>
   <string name="document_blackwhite">Noir et blanc</string>
   <string name="document_blur_warn">Le texte est flou</string>
   <string name="document_mode_use_hint_text_body">"Activez la prise de vue en mode document, la correction intelligente et l'amélioration
-Numérisez des documents en un clic"</string>
+Scannez des documents en un clic"</string>
   <string name="document_mode_use_hint_text_title">Mode document</string>
   <string name="document_origin">Originale</string>
   <string name="document_strengthen">Renforcé</string>
@@ -1390,8 +1390,8 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_camera_tilt_shift_entry_circle">Circle</string>
   <string name="pref_camera_tilt_shift_entry_parallel">Parallèle</string>
   <string name="pref_camera_tilt_shift_title">Tilt-shift</string>
-  <string name="pref_camera_tip_doc">Scanneur de document</string>
-  <string name="pref_camera_tip_id_card">"Scanneur de pièce d'identité"</string>
+  <string name="pref_camera_tip_doc">Scanner de document</string>
+  <string name="pref_camera_tip_id_card">"Scanner de pièce d'identité"</string>
   <string name="pref_camera_touch_focus_delay_title">Augmentez le délai de mise au point tactile</string>
   <string name="pref_camera_touchafaec_entry_off">Désactivé</string>
   <string name="pref_camera_touchafaec_entry_on">Activé</string>
@@ -1501,7 +1501,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_retain_camera_mode_summary">"Basculez l'appareil photo vers le mode précédemment utilisé lorsque vous ouvrez l'application."</string>
   <string name="pref_retain_camera_mode_title">Conserver le mode précédent</string>
   <string name="pref_s_n_r_s_c">Réduisez le bruit dans les vidéos en fonction de la scène</string>
-  <string name="pref_scan_qrcode_summary">"Seul l'appareil photo arrière peut numériser les QR codes en mode \"Photo\"."</string>
+  <string name="pref_scan_qrcode_summary">"Seul l'appareil photo arrière peut scanner les QR codes en mode \"Photo\"."</string>
   <string name="pref_scan_qrcode_title">Scanner les QR codes</string>
   <string name="pref_setting_title">Paramètres</string>
   <string name="pref_simple_hdr_entry_off">Désactivé</string>

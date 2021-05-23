@@ -183,7 +183,7 @@ Envoyer ce code au superviseur."</string>
     <string name="feedback_choose_app_tag">Sélectionner un problème</string>
     <string name="feedback_choose_module">Sélectionner un élément</string>
     <string name="feedback_choose_module_hint">Requis</string>
-    <string name="feedback_choose_occurrence_time">Temps</string>
+    <string name="feedback_choose_occurrence_time">Heure</string>
     <string name="feedback_choose_reproductivity">Reproductivité</string>
     <string name="feedback_choose_third_app_name">"Sélectionner le nom de l'application"</string>
     <string name="feedback_collect_log_failed">"Impossible d'obtenir les journaux"</string>
@@ -191,10 +191,10 @@ Envoyer ce code au superviseur."</string>
     <string name="feedback_continue">Envoyer votre retour</string>
     <string name="feedback_delete_images">Supprimer des messages</string>
     <string name="feedback_description">Description</string>
-    <string name="feedback_description_hint">"Describe the issue you've encountered here.
-%1$d. In what app or on what page have you encountered the issue?
-%2$d. After what actions that you performed did the issue appear?
-%3$d. Give us the additional information that might help us fix the issue."</string>
+    <string name="feedback_description_hint">"Décrivez ici le problème que vous avez rencontré.
+%1$d. Dans quelle application ou sur quelle page avez-vous rencontré le problème ?
+%2$d. Après quelles actions, que vous avez effectuées, le problème est-il survenu ?
+%3$d. Donnez-nous des informations supplémentaires qui pourraient nous aider à résoudre le problème."</string>
     <string name="feedback_description_hint_suggestion">"Dites-nous comment vous souhaitez améliorer MIUI."</string>
     <string name="feedback_description_suggest_hint">"J'aimerais ajouter une nouvelle fonctionnalité () parce que je voudrais ()."</string>
     <string name="feedback_detail_copy_toast">Copié dans le presse-papiers</string>
@@ -226,7 +226,7 @@ Envoyer ce code au superviseur."</string>
     <string name="feedback_reproductivity_occasionally">Occasionnellement</string>
     <string name="feedback_reproductivity_often">Souvent</string>
     <string name="feedback_reproductivity_once">Une fois</string>
-    <string name="feedback_select_images">Ajouter une image ou une vidéo courte</string>
+    <string name="feedback_select_images">Ajouter une image ou une courte vidéo</string>
     <string name="feedback_select_modem_log">Ajouter les journaux du modem</string>
     <string name="feedback_select_modem_log_not_select_desc">"Vous n'avez pas sélectionné \"Ajouter des journaux de modem\""</string>
     <string name="feedback_select_modem_log_select_desc">Vous avez ajouté \"Ajouter des journaux de modem\"</string>
@@ -274,7 +274,7 @@ Envoyer ce code au superviseur."</string>
     <string name="feedback_suggestion_status_change_notification_desc">%1$s suggestion \"%2$s\"</string>
     <string name="feedback_title">Titre</string>
     <string name="feedback_title_hint">Décrivez brièvement le problème</string>
-    <string name="feedback_title_occurrence_time">"Sélectionnez l'heure"</string>
+    <string name="feedback_title_occurrence_time">"Sélectionner l'heure"</string>
     <string name="feedback_title_reproductivity">Sélectionner la reproductivité</string>
     <string name="feedback_tracking">Suivi des problèmes</string>
     <string name="feesback_list">Rapports</string>

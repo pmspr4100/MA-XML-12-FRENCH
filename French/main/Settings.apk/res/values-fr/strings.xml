@@ -3024,8 +3024,8 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
   <string name="fingerprint_payment">Paiements avec empreintes digitales</string>
   <string name="fingerprint_removal_failed">"Impossible de supprimer l'empreinte digitale, réessayez plus tard"</string>
   <string name="fingerprint_swipe_for_notifications_suggestion_title">Consulter les notifications rapidement</string>
-  <string name="fingerprint_swipe_for_notifications_summary">"Pour consulter vos notifications, passez votre doigt de haut en bas sur le lecteur d'empreinte digitale à l'arrière du téléphone."</string>
-  <string name="fingerprint_swipe_for_notifications_title">"Utiliser le lecteur d'empreinte pour afficher les notifications"</string>
+  <string name="fingerprint_swipe_for_notifications_summary">"Pour consulter vos notifications, passez votre doigt de haut en bas sur le lecteur d'empreintes digitales à l'arrière du téléphone."</string>
+  <string name="fingerprint_swipe_for_notifications_title">"Utiliser le lecteur d'empreintes digitales pour afficher les notifications"</string>
   <string name="fingerprint_unlock_press_type">Press</string>
   <string name="fingerprint_unlock_set_unlock_password">Empreinte digitale + mot de passe</string>
   <string name="fingerprint_unlock_set_unlock_pattern">Empreinte digitale + schéma</string>
@@ -3303,7 +3303,7 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
   <string name="graphics_driver_dashboard_title">Préférences du pilote graphique</string>
   <string name="graphics_driver_footer_text">"Lorsqu'il existe plusieurs pilotes graphiques, vous pouvez choisir d'utiliser le pilote graphique mis à jour pour les applications installées sur l'appareil."</string>
   <string name="gsm_to_wifi_connect_type_title">Cellulaire par Wi-Fi</string>
-  <string name="gxzw_add_fingerprint_area">"Scanneur d'empreintes digitales"</string>
+  <string name="gxzw_add_fingerprint_area">"Lecteur d'empreintes digitales"</string>
   <string name="gxzw_add_fingerprint_continue">Continuer</string>
   <string name="gxzw_add_fingerprint_edge_message">Déplacez vos doigts pour que le capteur enregistre les bords de vos empreintes digitales</string>
   <string name="gxzw_add_fingerprint_edge_title">Ajustez votre prise</string>
@@ -4030,7 +4030,7 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
   <string name="lock_settings_with_fingerprint">Écran de verrouillage et mot de passe</string>
   <string name="lock_setup">La configuration est terminée.</string>
   <string name="lock_sounds_enable_title">Son de verrouillage</string>
-  <string name="lockdown_settings_summary">"Afficher l'option du bouton Marche/Arrêt, qui désactive la fonctionnalité Smart Lock, le déverrouillage à l'aide d'une empreinte numérique et les notifications sur l'écran de verrouillage"</string>
+  <string name="lockdown_settings_summary">"Afficher l'option du bouton Marche/Arrêt, qui désactive la fonctionnalité Smart Lock, le déverrouillage à l'aide d'une empreinte digitale et les notifications sur l'écran de verrouillage"</string>
   <string name="lockdown_settings_title">"Afficher l'option de verrouillage"</string>
   <string name="locked_work_profile_notification_title">Profil professionnel verrouillé</string>
   <string name="lockpassword_cancel_label">Annuler</string>
@@ -6625,7 +6625,7 @@ Vous pouvez toujours utiliser votre empreinte digitale pour autoriser des achats
   <string name="security_settings_fingerprint_enroll_find_sensor_content_description">"Illustration présentant l'appareil et la position du lecteur d'empreintes digitales"</string>
   <string name="security_settings_fingerprint_enroll_find_sensor_message">"Le lecteur se trouve à l'arrière du téléphone. Utilisez l'index."</string>
   <string name="security_settings_fingerprint_enroll_find_sensor_title">Posez le doigt sur le lecteur</string>
-  <string name="security_settings_fingerprint_enroll_finish_message">"Quand cette icône s'affiche, utilisez votre empreinte numérique pour vous identifier ou pour approuver des achats."</string>
+  <string name="security_settings_fingerprint_enroll_finish_message">"Quand cette icône s'affiche, utilisez votre empreinte digitale pour vous identifier ou pour approuver des achats."</string>
   <string name="security_settings_fingerprint_enroll_finish_title">Empreinte digitale ajoutée</string>
   <string name="security_settings_fingerprint_enroll_introduction_cancel">Annuler</string>
   <string name="security_settings_fingerprint_enroll_introduction_cancel_setup">Ignorer</string>
@@ -7353,7 +7353,7 @@ Essayez d'utiliser un périphérique ^3 plus rapide, ou utilisez à la place ^4 
   <string name="sud_more_button_label">Plus</string>
   <string name="sud_next_button_label">Suivant</string>
   <string name="suggest_unrestrict_max_aspect_ratio_title">Ces applications fonctionnent parfaitement en mode plein écran</string>
-  <string name="suggested_fingerprint_lock_settings_title">Ajouter empreinte digitale pour déverrouiller</string>
+  <string name="suggested_fingerprint_lock_settings_title">Ajouter une empreinte digitale pour déverrouiller</string>
   <string name="suggested_lock_settings_summary">Définissez verrouillage écran pour protéger téléphone</string>
   <string name="suggested_lock_settings_title">Sécuriser votre téléphone</string>
   <string name="suggestion_additional_fingerprints">Ajouter une empreinte digitale</string>
@@ -7736,7 +7736,7 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
   <string name="unlock_set_unlock_pin_summary">"Entrez %1$d-%2$d chiffres pour déverrouiller l'appareil"</string>
   <string name="unlock_set_unlock_pin_title">Code PIN</string>
   <string name="unlock_set_unlock_summary">Définir un écran de verrouillage</string>
-  <string name="unlock_setup_wizard_fingerprint_details">"Une fois que vous avez configuré un verrouillage de l'écran, vous pouvez également configurer votre empreinte numérique dans Paramètres &gt; Sécurité."</string>
+  <string name="unlock_setup_wizard_fingerprint_details">"Une fois que vous avez configuré un verrouillage de l'écran, vous pouvez également configurer votre empreinte digitale dans Paramètres &gt; Sécurité."</string>
   <string name="unlock_type_category_title">Méthode de reconnaissance</string>
   <string name="unlogin_account_summary">Tous les services Mi. Un compte Mi.</string>
   <string name="unlogin_account_title">Se connecter avec le compte Mi</string>
@@ -8717,8 +8717,8 @@ Allow this for all apps that want to scan?"</string>
   <string name="wifi_scan_notify_remember_choice">Ne plus afficher</string>
   <string name="wifi_scan_notify_text">"Pour améliorer la précision de la localisation, les applications et les services peuvent continuer de rechercher les réseaux Wi-Fi, même si le Wi-Fi est désactivé. Cette autorisation peut permettre, par exemple, d'améliorer les fonctionnalités et les services basés sur la localisation. Vous pouvez modifier cette option dans les LINK_BEGINparamètres de rechercheLINK_END."</string>
   <string name="wifi_scan_notify_text_scanning_off">Pour améliorer la précision de la position, activez la recherche Wi-Fi dans les LINK_BEGINparamètres de rechercheLINK_END.</string>
-  <string name="wifi_scan_throttling">Contrôle de la numérisation Wi-Fi</string>
-  <string name="wifi_scan_throttling_summary">"Réduit l'épuisement de la batterie et améliore les performances du réseau"</string>
+  <string name="wifi_scan_throttling">Restriction du balayage Wi-Fi</string>
+  <string name="wifi_scan_throttling_summary">Réduit la consommation de la batterie et améliore les performances du réseau</string>
   <string name="wifi_security">Sécurité</string>
   <string name="wifi_security_none">Aucun</string>
   <string name="wifi_security_owe">Enhanced Open</string>
