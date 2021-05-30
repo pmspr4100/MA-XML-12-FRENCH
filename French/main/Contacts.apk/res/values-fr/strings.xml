@@ -100,6 +100,7 @@
     <string name="bh_app_name_short">Services Carrier</string>
     <string name="bh_bill_balance">Solde</string>
     <string name="bh_bill_charge">Augmenter le solde</string>
+    <string name="bh_bills_info_label">Détails</string>
     <string name="bh_bugreport">Commentaires commerciaux</string>
     <string name="bh_business_hall_is_here">"Les services de l'opérateur sont ici"</string>
     <string name="bh_business_style">"Sélectionnez l'interface"</string>
@@ -112,8 +113,8 @@
     <string name="bh_cannot_action">"Impossible d'utiliser %1$s. Installez d'abord l'application correspondante."</string>
     <string name="bh_cannot_fetch_num">Numéro de téléphone inconnu</string>
     <string name="bh_cannot_login_miacount">Identification au Compte Mi impossible</string>
-    <string name="bh_card_order_detail">Information commande</string>
-    <string name="bh_card_order_name">Service package</string>
+    <string name="bh_card_order_detail">Informations sur la commande</string>
+    <string name="bh_card_order_name">Forfait de service</string>
     <string name="bh_card_order_pay_price">Montant payé</string>
     <string name="bh_card_order_price">Prix</string>
     <string name="bh_card_order_time">Commande créée</string>
@@ -122,7 +123,7 @@
     <string name="bh_charge_continue">Recharger</string>
     <string name="bh_charge_number">Rechargement de %1$s</string>
     <string name="bh_charge_order">Recharger</string>
-    <string name="bh_charged_phone_number">Numéro de téléphone: %1$s</string>
+    <string name="bh_charged_phone_number">Numéro de téléphone : %1$s</string>
     <string name="bh_close_traffic_order_page">Fermer la page des commandes disponibles</string>
     <string name="bh_close_traffic_package">"Fermer les détails du forfait de l'opérateur"</string>
     <string name="bh_close_traffic_service">"Désactiver le forfait de l'opérateur"</string>
@@ -133,31 +134,23 @@
     <string name="bh_cur_pkg">Forfait actuel</string>
     <string name="bh_current_no_sim">"La carte SIM n'est pas insérée"</string>
     <string name="bh_current_sim_number">Numéro de téléphone de la carte SIM %1$s</string>
-    <string name="bh_data_in_real_card">
-        <Data>&lt;font color =#FF6666&gt;Using SIM card mobile data&lt;/font&gt;</Data>
-    </string>
-    <string name="bh_data_switch_off">
-        <Data>&lt;font color =#FF6666&gt;Mobile data is off&lt;/font&gt;</Data>
-    </string>
+    <string name="bh_data_in_real_card"><Data>&lt;font color =#FF6666&gt;Using SIM card mobile data&lt;/font&gt;</Data></string>
+    <string name="bh_data_switch_off"><Data>&lt;font color =#FF6666&gt;Mobile data is off&lt;/font&gt;</Data></string>
     <string name="bh_day">j</string>
     <string name="bh_delay_hint">"L'information peut être actualisé avec retard. Contactez votre opérateur pour obtenir l'information la plus récente."</string>
     <string name="bh_delete">Supprimer</string>
     <string name="bh_delete_charged_phone_number">Supprimer le numéro de téléphone récemment utilisé</string>
     <string name="bh_delete_edited_phone_number">Supprimer le numéro de téléphone entré</string>
     <string name="bh_delete_success">Supprimer avec succès</string>
-    <string name="bh_device_not_available_hint">
-        <Data>"&lt;font color =#F22424&gt;Impossible d'utiliser ce périphérique.&lt;/font&gt;La carte SIM virtuelle a été émise pour être utilisée sur l'appareil sur lequel l'achat a été effectué (&lt;font color =#F22424&gt;%1$s&lt;/font&gt;). Utilisez plutôt cet appareil."</Data>
-    </string>
+    <string name="bh_device_not_available_hint"><Data>"&lt;font color =#F22424&gt;Impossible d'utiliser ce périphérique.&lt;/font&gt;La carte SIM virtuelle a été émise pour être utilisée sur l'appareil sur lequel l'achat a été effectué (&lt;font color =#F22424&gt;%1$s&lt;/font&gt;). Utilisez plutôt cet appareil."</Data></string>
     <string name="bh_discover">Découvrir</string>
     <string name="bh_edit_saved_phone_number">Éditer le libellé pour le numéro enregistré</string>
     <string name="bh_edit_sim_num">Éditer le numéro de téléphone SIM</string>
     <string name="bh_exchange_number">Modifier le numéro</string>
     <string name="bh_express_name">Service de livraison</string>
-    <string name="bh_express_number">Numéro du forfait</string>
+    <string name="bh_express_number">Numéro du colis</string>
     <string name="bh_fetch_balance">Consulter le solde</string>
-    <string name="bh_flight_mode_on">
-        <Data>&lt;font color =#FF6666&gt;Le mode avion est activé&lt;/font&gt;</Data>
-    </string>
+    <string name="bh_flight_mode_on"><Data>&lt;font color =#FF6666&gt;Le mode avion est activé&lt;/font&gt;</Data></string>
     <string name="bh_flow_exceed">Limite dépassée</string>
     <string name="bh_flow_order">Données mobiles</string>
     <string name="bh_flow_service">Données mobiles</string>
@@ -210,6 +203,7 @@
     <string name="bh_order_time">Heure de la transaction</string>
     <string name="bh_other_charge">Autre numéro de téléphone</string>
     <string name="bh_other_operator">Autres opérateurs</string>
+    <string name="bh_other_traffic">Autre numéro de téléphone</string>
     <string name="bh_other_v_operator">Autres opérateurs virtuels</string>
     <string name="bh_pay_fail_desc">Connexion au réseau impossible. Revenez en arrière et Go back and complete payment again.</string>
     <string name="bh_pay_fee">Montant</string>
@@ -253,8 +247,18 @@
     <string name="bh_tag_phones">Numéros de téléphone fréquemment utilisés</string>
     <string name="bh_tags_number_exceed">"Impossible d'enregistrer de nouveaux numéros de téléphone"</string>
     <string name="bh_tb">To</string>
+    <string name="bh_text_buy_time">Commande créée</string>
+    <string name="bh_text_charge_name">Montant</string>
+    <string name="bh_text_no_order">Aucune commande ici</string>
+    <string name="bh_text_operator">Transporteur</string>
+    <string name="bh_text_order_id">Numéro de commande</string>
+    <string name="bh_text_paid_fee">Montant de la commande</string>
+    <string name="bh_text_phone_num">Numéro de téléphone</string>
+    <string name="bh_text_traffic_package">Forfait de données</string>
     <string name="bh_time_before">%1$s il y a %2$s</string>
+    <string name="bh_toast_copy">Copié avec succès</string>
     <string name="bh_toast_start_intent_failed">Impossible de trouver une application pour gérer cette action</string>
+    <string name="bh_traffic_charge">Obtenez des données mobiles</string>
     <string name="bh_today_pkg">Forfait du jour</string>
     <string name="bh_traffic_charge">Obtenir des données mobiles</string>
     <string name="bh_traffic_limit">"Limite d'utilisation des données"</string>
@@ -275,7 +279,6 @@
     <string name="bh_waiting_for_balance">Vérification du solde…</string>
     <string name="bh_will_open">Ouverture de %1$s…</string>
     <string name="bh_wrong_number_hint">Entrez un numéro de téléphone valide</string>
-    <string name="bills_info_label">Détails</string>
     <string name="bind_simcard_default">SIM par défaut pour les appels</string>
     <string name="bind_simcard_menu">Définir la carte SIM par défaut pour les appels</string>
     <string name="bind_simcard_no_dual">Impossible de trouver la double carte SIM</string>
@@ -1119,6 +1122,7 @@ Raison: \"%s\""</string>
     <string name="nickname_picker_nickname_column">Titre</string>
     <string name="night">Soirée</string>
     <string name="noAccounts">Pour créer des groupes, vous devez ajouter un compte.</string>
+    <string name="no_contact_selected">Sélectionnez un contact pour afficher les détails</string>
     <string name="noContactHelpTextImportXiaomiAccountInfo">Restaurer les données de contact depuis le compte Mi</string>
     <string name="noContacts">Aucun contact</string>
     <string name="noContactsWithPhoneNumbers">Aucun contact avec numéro de téléphone</string>
@@ -1362,6 +1366,10 @@ Pour ajouter un contact à votre liste de favoris:
 
 Pour commencer, appuyez sur l'icône fusionner en bas de votre écran."</string>
     <string name="report_inquiry_mms">Signaler un SMS</string>
+    <string name="residual_time_description">%1$sjour%2$sheure</string>
+    <string name="residual_time_description2">%1$dh</string>
+    <string name="residual_time_description3">%1$dm</string>
+    <string name="residual_time_description4">%1$dj</string>
     <string name="restore_app_btn_cancel">Annuler</string>
     <string name="restore_app_btn_restore">OK</string>
     <string name="restore_app_description_content">"Ajoutez un raccourci sur l'écran d'accueil pour pouvoir accéder plus rapidement à vos contacts."</string>
@@ -1568,9 +1576,9 @@ Pour commencer, appuyez sur l'icône fusionner en bas de votre écran."</string>
     <string name="t9_search_empty_send_sms">Envoyer un message</string>
     <string name="t9_search_empty_video_call">Appel vidéo</string>
     <string name="t9_search_guide_pinyin_title1">Entrez de numéros pour trouver des contacts</string>
-    <string formatted="false" name="t9_search_guide_pinyin_title2">Entrer %d et %d à rechercher &lt;font fgcolor=""&gt;X&lt;/font&gt;avier &lt;font fgcolor=""&gt;H&lt;/font&gt;enry</string>
+    <string formatted="false" name="t9_search_guide_pinyin_title2">Entrer %d et %d pour rechercher Debbie Smith</string>
     <string name="t9_search_guide_zhuyin_title1">Entrez de numéros pour trouver des contacts</string>
-    <string formatted="false" name="t9_search_guide_zhuyin_title2">Entrer %d et %d à rechercher &lt;font fgcolor=""&gt;J&lt;/font&gt;eff &lt;font fgcolor=""&gt;M&lt;/font&gt;ax</string>
+    <string formatted="false" name="t9_search_guide_zhuyin_title2">Entrer %d et %d pour rechercher Jeff Max</string>
     <string name="take_new_photo">Prendre une nouvelle photo</string>
     <string name="take_photo">Prendre une photo</string>
     <string name="text_buy_time">Commande créée</string>

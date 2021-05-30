@@ -207,8 +207,13 @@
   <string name="popup_camera_using_camera_background">"%s utilise l'appareil photo frontale"</string>
   <string name="reboot_confirm_title">"Redémarrer l'appareil maintenant ?"</string>
   <string name="reboot_info_auto_boot">"L'appareil est prévu pour s'allumer à %s"</string>
-  <string name="reboot_info_shutdown_alarm">Prochaine alarme : %s</string>
+  <string name="reboot_info_shutdown_alarm">Prochaine alarme : %s</string>
   <string name="reboot_progress">Redémarrage…</string>
+  <string name="relaunch_dialog_alwaysUsePrompt">Se souvenir de mon choix</string>
+  <string name="relaunch_dialog_button_cancel">Annuler</string>
+  <string name="relaunch_dialog_button_confirm">OK</string>
+  <string name="relaunch_dialog_message">"Impossible d'ajuster la taille de la fenêtre lorsque vous utilisez l'application. Vous pouvez redémarrer l'application pour ajuster la taille de la fenêtre, mais les données d'application générées au cours de cette session seront perdues. Redémarrer quand même ?"</string>
+  <string name="relaunch_dialog_title">Redémarrer \"%s\" ?</string>
   <string name="remain">Restant : %s</string>
   <string name="replace">Remplacer</string>
   <string name="resolver_app_recommend_flag">Recommander</string>
@@ -290,6 +295,8 @@
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Partage</string>
   <string name="stop_operate_camera_frequently">"Vous ouvrez trop souvent l'appareil photo frontal."</string>
+  <string name="stylus_pen_mask_screenshot">"Appuyez sur l'écran pour prendre une capture d'écran"</string>
+  <string name="stylus_pen_mask_text">"Appuyez sur l'écran pour commencer à écrire"</string>
   <string name="subinfo_default_name">SIM %d</string>
   <string name="sunlight_notification_content">Ajustez automatiquement la luminosité à une forte lumière ambiante</string>
   <string name="sunlight_notification_title">Activer le mode lumière du jour</string>

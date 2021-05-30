@@ -44,6 +44,7 @@
   <string name="clearable_edittext_clear_description">Effacer</string>
   <string name="expand_button_title">Avancé</string>
   <string name="not_set">Non défini</string>
+  <string name="not_set_temporarily">Non merci</string>
   <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
   <string name="reach_upper_limit">"Impossible d'ajouter d'autres minuteurs"</string>
   <string name="sleep_analysis_chart_date_format">MM/dd</string>
@@ -128,6 +129,7 @@
   <string name="clock_bg_button_setting_title">Couleur de fond</string>
   <string name="close">Fermer</string>
   <string name="close_alarm">Désactiver</string>
+  <string name="close_alarm_new">Arrêter</string>
   <string name="common_settings">Paramètres</string>
   <string name="common_timer_selector">Sélection minuteur</string>
   <string name="confirm">Confirmer</string>
@@ -396,6 +398,7 @@
   <string name="set_alarm_choose_ringtone">Sélectionner une sonnerie</string>
   <string name="set_alarm_done">Terminé</string>
   <string name="set_alarm_other">Autre</string>
+  <string name="set_now">Régler</string>
   <string name="setting_alarm_arriving_subtitle">Afficher les notifications avant que les alarmes ne se déclenchent</string>
   <string name="setting_alarm_arriving_summary">"Envoyer une notification avant le déclenchement de l'alarme"</string>
   <string name="setting_alarm_arriving_title">"Notification avant le déclenchement de l'alarme"</string>
@@ -431,6 +434,7 @@
   <string name="sleep_remind">Rappel au coucher</string>
   <string name="sleep_time">"S'endormir"</string>
   <string name="slider_text">Balayez vers le haut pour désactiver</string>
+  <string name="slider_text_new">Balayez vers le haut pour arrêter</string>
   <string name="snooze_confirm_cancel">"Ignorer l'alarme"</string>
   <string name="snooze_duration">Répéter</string>
   <string name="snooze_duration_title">Répéter</string>
@@ -502,6 +506,7 @@
   <string name="timer_end_time">"La minuterie s'arrêtera à %s"</string>
   <string name="timer_end_time_format">HH:mm dd MMMM</string>
   <string name="timer_got_it">OK</string>
+  <string name="timer_got_it_new">Silence</string>
   <string name="timer_is_paused">La minuterie est en pause</string>
   <string name="timer_item_duration_display">%1$d min %2$d sec</string>
   <string name="timer_item_label_hint">Nom de la minuterie</string>
@@ -547,6 +552,7 @@
   <string name="wednesday">Mercredi</string>
   <string name="wednesday_short">Mer</string>
   <string name="wednesday_shortest">Mer</string>
+  <string name="week_ringtone_recommend_desc">"L'alarme de la nature émet différents sons en fonction de la date. La définir comme alarme par défaut ?"</string>
   <string name="white_noise_selector">"Sélectionner l'audio"</string>
   <string name="workday_alarm_clock">Alarme pour les jours de travail</string>
   <string name="worldclock_empty_text">"Pas d'horloge"</string>

@@ -181,9 +181,25 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
             <Data>"Fermer l'application &lt;font color=#0099ff&gt;%d&lt;/font&gt; pour accélérer votre appareil ?"</Data>
         </item>
     </plurals>
+    <plurals name="exit_dialog_scan_message_new">
+        <item quantity="other">Le score de performance de votre appareil est inférieur à %d points. Optimiser maintenant ?</item>
+        <item quantity="one">Le score de performance de votre appareil est inférieur à %d point. Optimiser maintenant ?</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Avancer de %d secondes</item>
+        <item quantity="one">Avancer de %d seconde</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Reculer de %d secondes</item>
+        <item quantity="one">Reculer de %d seconde</item>
+    </plurals>
     <plurals name="find_applications">
         <item quantity="other">Rechercher parmi %d applications</item>
         <item quantity="one">Rechercher parmi %d application</item>
+    </plurals>
+    <plurals name="find_leak_risk">
+        <item quantity="other">%d risques liés à la vie privée</item>
+        <item quantity="one">%d risque lié à la vie privée</item>
     </plurals>
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d problèmes nécessitent une optimisation</item>

@@ -40,10 +40,12 @@
   <string name="back_up_task_in_process">Sauvegarde…</string>
   <string name="back_up_task_unfinished">Impossible de sauvegarder</string>
   <string name="backing_up_to_micloud">Sauvegarde en cours…</string>
-  <string name="backup_action_buy_cloud_space">Get more storage space</string>
-  <string name="backup_action_check_network">Check network settings</string>
-  <string name="backup_action_clean_disk_space">Free up space</string>
-  <string name="backup_action_retry_now">Try again</string>
+  <string name="backup_action_access_permission">Paramètres</string>
+  <string name="backup_action_buy_cloud_space">"Obtenez plus d'espace de stockage"</string>
+  <string name="backup_action_check_network">Vérifiez les paramètres du réseau</string>
+  <string name="backup_action_clean_disk_space">"Libérer de l'espace"</string>
+  <string name="backup_action_retry_now">Réessayer</string>
+  <string name="backup_failed_reason_app_usage_denied">Accordez les autorisations requises pour sauvegarder les éléments</string>
   <string name="backup_failed_reason_cloud_space_not_enough">"Espace disponible sur le cloud insuffisant pour créer cette sauvegarde. Changez votre abonnement ou libérez de l'espace de stockage cloud."</string>
   <string name="backup_failed_reason_disk_space_not_enough">"Pas assez d'espace de stockage. Libérez d'abord le stockage."</string>
   <string name="backup_failed_reason_network_error">Vérifiez vos paramètres réseau et réessayez</string>
@@ -58,6 +60,8 @@
   <string name="backup_success">Sauvegardé avec succès</string>
   <string name="backup_successfully">Sauvegardé avec succès</string>
   <string name="backup_to_cloud">"Sauvegarder l'application"</string>
+  <string name="backup_warning_reason_app_usage_denied">"Impossible de synchroniser les données.
+Autorisations requises."</string>
   <string name="backup_warning_reason_cloud_space_not_enough">Sauvegarde impossible</string>
   <string name="backup_warning_reason_disk_space_not_enough">"Espace de stockage insuffisant
 Sauvegarde impossible"</string>
@@ -162,8 +166,11 @@ Note: les données des applications que vous avez installées ne seront pas sauv
   <string name="desktop_wait_network">Patienter…</string>
   <string name="desktop_waiting">En attente</string>
   <string name="device_delete_prompt">Supprimer la sauvegarde de %s ?</string>
+  <string name="dialog_app_usage_denied">"Donnez l'autorisation de sauvegarde \"Accès à l'utilisation\" dans les paramètres pour pouvoir sauvegarder les éléments."</string>
   <string name="dialog_backup_failed">Impossible de sauvegarder</string>
   <string name="dialog_btn_cancel_backup">Annuler</string>
+  <string name="dialog_btn_confirm2">Compris</string>
+  <string name="dialog_btn_enter">Paramètres</string>
   <string name="dialog_btn_next">Suivant</string>
   <string name="dialog_btn_overwrite_backup">Écraser</string>
   <string name="dialog_btn_restore_skip">Restaurer plus tard</string>
@@ -176,6 +183,7 @@ Note: les données des applications que vous avez installées ne seront pas sauv
   <string name="dialog_msg_overwrite_backup">La sauvegarde locale est différente de celle de Xiaomi Cloud. Si vous continuez, la sauvegarde actuelle écrasera la précédente.</string>
   <string name="dialog_msg_restore_require_wlan">La restauration des sauvegardes nécessite la connexion au Wi-Fi.</string>
   <string name="dialog_msg_restore_require_wlan_china">La restauration des sauvegardes requiert une connexion au WLAN.</string>
+  <string name="dialog_need_permission">Autorisations requises</string>
   <string name="dialog_title_require_wlan">Se connecter au Wi-Fi</string>
   <string name="dialog_title_require_wlan_china">Se connecter au Wi-Fi</string>
   <string name="dir_date_format">HHmmss_ddMMyyyy</string>

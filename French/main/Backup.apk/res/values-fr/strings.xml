@@ -48,6 +48,7 @@
   <string name="am">AM</string>
   <string name="app_name">Sauvegarde</string>
   <string name="apps_and_data_item_desc">Applications et données</string>
+  <string name="apps_item_desc">Application</string>
   <string name="auto_backup">Planification des sauvegardes</string>
   <string name="auto_backup_all_user_apps">Toutes les applications</string>
   <string name="auto_backup_choose">Éléments à sauvegarder</string>
@@ -426,6 +427,7 @@ ous devez d'abord créer une sauvegarde iCloud."</string>
   <string name="new_pc_backup_summary2_pad">"Connectez votre appareil mobile à l'ordinateur via un câble USB."</string>
   <string name="new_pc_backup_summary4">Note: vous pouvez également copier des photos et des vidéos de DCIM.</string>
   <string name="new_pc_restore_content1">"%d. Connectez votre appareil mobile à l'ordinateur via un câble USB."</string>
+  <string name="new_pc_restore_content1_pad">"%d. Connectez votre appareil mobile à l'ordinateur via un câble USB."</string>
   <string name="new_pc_restore_content2">%d. Copiez la sauvegarde de votre ordinateur vers MIUI-Backup-AllBackup.</string>
   <string name="new_pc_restore_content2_pad">%d. Copiez la sauvegarde de votre ordinateur vers MIUI-Backup-AllBackup.</string>
   <string name="new_pc_restore_content3">%1$d. Ouvrez \"%2$s\" et sélectionnez les éléments à restaurer.</string>
@@ -451,7 +453,7 @@ ous devez d'abord créer une sauvegarde iCloud."</string>
   <string name="new_usb_tab_restore">Restaurer</string>
   <string name="night">Soirée</string>
   <string name="no_encrypt_password">Pas de mot de passe</string>
-  <string name="no_network">Impossible de se connecter au réseau</string>
+  <string name="no_network">Connexion au réseau impossible</string>
   <string name="noon">Midi</string>
   <string name="not_enough_storage_tips">"Espace de stockage insuffisant. Libérez de l'espace et réessayez."</string>
   <string name="not_set">Non défini</string>

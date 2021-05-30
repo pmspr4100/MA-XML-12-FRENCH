@@ -79,12 +79,13 @@
   <string name="cta_dialog_message">"Notes nécessite des autorisations pour se connecter à internet, enregistrer de l'audio et accéder à vos contacts pour fonctionner normalement. Autoriser ?"</string>
   <string name="cta_dialog_title">Permissions requise</string>
   <string name="cta_reminder">"Notes nécessite des autorisations pour se connecter à internet, enregistrer de l'audio et accéder à vos contacts pour fonctionner normalement. Autoriser ?"</string>
-  <string name="cta_v2_agree_desc">Allow this app to connect to the internet and grant the mandatory permissions listed above.</string>
-  <string name="cta_v2_app_purpose">Creating, viewing, and managing notes</string>
-  <string name="cta_v2_app_purpose_v12">Welcome to Notes! You can use this app to create tasks and notes that contain text, images, and audio.</string>
+  <string name="cta_v2_agree_desc">Autorisez cette application à se connecter à Internet et accordez les autorisations obligatoires répertoriées ci-dessus.</string>
+  <string name="cta_v2_app_purpose">Créer, afficher et gérer des notes</string>
+  <string name="cta_v2_app_purpose_v12">"Bienvenue dans Notes ! Vous pouvez utiliser cette application pour créer des tâches et des notes contenant du texte, des images et de l'audio."</string>
+  <string name="data_empty_folder">Aucun autre dossier à afficher</string>
   <string name="data_empty_note">Pas encore de notes ici</string>
   <string name="data_empty_todo">Aucune tâche ici encore</string>
-  <string name="date_calculate_today">0 jours</string>
+  <string name="date_calculate_today">0 jour</string>
   <string name="date_picker_lunar">Lunar Calendar</string>
   <string name="date_time_picker_alarm_reminder">Alarme</string>
   <string name="date_time_picker_dialog_title">"Réglez la date et l'heure"</string>
@@ -209,6 +210,7 @@
   <string name="gesture_guide_message">Vous pouvez appuyer, maintenir enfoncé et faire glisser des éléments pour créer et réorganiser des notes. Apprenez ces gestes maintenant ?</string>
   <string name="gesture_guide_ok">Apprendre</string>
   <string name="gesture_guide_title">Gestes</string>
+  <string name="handwrite_description">Note manuscrite</string>
   <string name="hear_note">Notes dictées</string>
   <string name="hidden_notes_fragment_title">Notes masquées</string>
   <string name="hide_arrow_description">Masquer</string>
@@ -223,6 +225,7 @@
   <string name="menu_add_description">Ajouter une note</string>
   <string name="menu_add_folder">Ajouter à un dossier</string>
   <string name="menu_add_folder_description">Ajouter un dossier</string>
+  <string name="menu_add_handwrite_description">Ajouter une note manuscrite</string>
   <string name="menu_create_folder">Nouveau dossier</string>
   <string name="menu_delete">Supprimer</string>
   <string name="menu_delete_forever">Supprimer définitivement</string>

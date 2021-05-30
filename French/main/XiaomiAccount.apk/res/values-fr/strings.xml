@@ -667,17 +667,17 @@ Envoyez ce code au superviseur."</string>
   <string name="search_user_detail_top_key_words">"Informations personnelles,Changer la photo de profile,Changer le Nom d'utilisateur,Changer le pseudo,Changer la date d'anniversaire,Changer le sexe"</string>
   <string name="select_all">Tout sélectionner</string>
   <string name="send">Envoyer</string>
-  <string name="send_diagnosis_log">Envoyer le journal de diagnostic</string>
-  <string name="send_email_activate_message">Email de vérification envoyé</string>
+  <string name="send_diagnosis_log">Envoyer les journaux</string>
+  <string name="send_email_activate_message">E-mail de vérification envoyé avec succès</string>
   <string name="sending">Envoi…</string>
   <string name="service_error">Erreur de service</string>
-  <string name="set_success">Changé avec succès</string>
+  <string name="set_success">Modifié avec succès</string>
   <string name="sign_in">Connexion</string>
   <string name="sim_card">Carte SIM</string>
   <string name="sim_changed_notification_msg">Appuyez pour mettre à jour votre numéro de téléphone de récupération et sécuriser davantage votre compte.</string>
   <string name="sim_changed_notification_title">Numéro de téléphone modifié ?</string>
-  <string name="sms_send_success">Envoyé</string>
-  <string name="sns_access_token_expired_warning">La connexion automatique a expiré. Connectez-vous à nouveau à votre compte.</string>
+  <string name="sms_send_success">Envoyé avec succès</string>
+  <string name="sns_access_token_expired_warning">La session a expiré. Connectez-vous à nouveau pour reconnecter ce compte.</string>
   <string name="solar_term_autumn_begins">"Début de l'automne"</string>
   <string name="solar_term_autumn_equinox">"Équinoxe d'automne"</string>
   <string name="solar_term_clear_and_bright">Pure lumière</string>
@@ -713,7 +713,7 @@ Envoyez ce code au superviseur."</string>
   <string name="system_ad_switch">Annonces dans les applications système</string>
   <string name="system_ad_switch_failed">échec</string>
   <string name="talkback_scan_barcode">Scanner un QR code</string>
-  <string name="temporary_not_available">Cette fonctionnalité nest pas encore disponible.</string>
+  <string name="temporary_not_available">"Cette fonctionnalité n'est pas encore disponible"</string>
   <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
   <string name="the_anti_aggression_day">Anti-Aggression Day</string>
   <string name="the_arbor_day">Arbor Day</string>
@@ -777,13 +777,13 @@ Envoyez ce code au superviseur."</string>
 1. Si vous avez oublié votre mot de passe, rendez-vous sur id.mi.com pour le réinitialiser.
 2. Si vous ne parvenez pas à réinitialiser votre mot de passe ou si quelqu'un a verrouillé votre appareil, rendez-vous sur i.mi.com pour le déverrouiller.
 3. Votre numéro de déverrouillage: %s"</string>
-  <string name="update_email_address_dialog_message">Vous devez vérifier votre identité avant de mettre à jour votre Email.</string>
-  <string name="update_email_address_dialog_title">"Mettre l'e-mail à jour"</string>
+  <string name="update_email_address_dialog_message">"Vous devez vérifier votre identité avant de mettre à jour l'e-mail de récupération."</string>
+  <string name="update_email_address_dialog_title">"Mettre à jour l'e-mail de récupération"</string>
   <string name="update_phone_notice">Modifier les paramètres de sécurité</string>
   <string name="update_phone_number_notice_message">Vous devez vérifier votre identité avant de mettre à jour votre numéro de téléphone.</string>
   <string name="used_cloud_storage_info">Stockage utilisé %s</string>
   <string name="user_avatar_update_title">Modifier la photo de profil</string>
-  <string name="user_avatar_uploading">Chargement…</string>
+  <string name="user_avatar_uploading">Un instant…</string>
   <string name="v7_preference_off">DÉSACTIVÉ</string>
   <string name="v7_preference_on">ACTIVÉ</string>
   <string name="vip_account_settings">Paramètres VIP</string>

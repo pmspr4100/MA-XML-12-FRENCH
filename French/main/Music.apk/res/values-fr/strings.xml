@@ -95,7 +95,6 @@
   <string name="app_description_content">"Musique est une application système qui contient un lecteur audio et vous permet de gérer des fichiers audio. Vous pourrez toujours lire des fichiers audio après avoir supprimé le raccourci de l'écran d'accueil."</string>
   <string name="app_description_title">"Supprimer \"Musique\" de l'écran d'accueil ?"</string>
   <string name="app_label">Téléchargements</string>
-  <string name="app_name">SdkCommon</string>
   <string name="app_permission_confirm">Compris</string>
   <string name="app_permission_optional">Permissions optionnelles</string>
   <string name="app_permission_require">Permissions obligatoires</string>
@@ -147,21 +146,28 @@
   <string name="cancel_running_download">Annuler</string>
   <string name="cannot_download_to_sdcard_hint">"Impossible de télécharger des éléments sur la carte SD en raison de restrictions de droits d'auteur. Les éléments seront téléchargés sur le stockage interne à la place."</string>
   <string name="change_download_quality">Changer la qualité de téléchargement</string>
-  <string name="character_counter_content_description">Limite de caractères dépassée %1$d à %2$d</string>
+  <string name="character_counter_content_description">%1$d characters entrés sur %2$d</string>
+  <string name="character_counter_overflowed_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
+  <string name="character_counter_pattern">%1$d/%2$d</string>
   <string name="checking_new_version">Vérification des mises à jour…</string>
+  <string name="chip_text">Chip text</string>
   <string name="choose_download_quality">Choisir la qualité de téléchargement</string>
   <string name="choose_stream_quality">Qualité de diffusion préférée</string>
-  <string name="clearable_edittext_clear_description">Clear</string>
-  <string name="click_and_watch_video_tip">Tap to play music video</string>
+  <string name="clear_text_end_icon_content_description">Effacer le texte</string>
+  <string name="clearable_edittext_clear_description">Effacer</string>
+  <string name="click_and_watch_video_tip">Appuyez pour lire la vidéo musicale</string>
   <string name="click_to_add_album_cover_and_lyric">"Appuyez pour ajouter une couverture d'album et des paroles"</string>
   <string name="click_to_shuffle">Appuyer pour une lecture aléatoire</string>
-  <string name="close_music_time">"Temps restant: "</string>
+  <string name="close_music_time">"Temps restant : "</string>
   <string name="columbus_player_close_desc">Vous perdrez votre récompense</string>
   <string name="columbus_player_close_resume">REPRENDRE VIDÉO</string>
   <string name="columbus_player_close_title">Fermer Vidéo ?</string>
   <string name="columbus_player_close_video">FERMER VIDÉO</string>
   <string name="columbus_player_install_now">INSTALLER MAINTENANT</string>
   <string name="columbus_player_learn_more">En savoir plus</string>
+  <string name="columbus_player_speed_title">Passer la vidéo ?</string>
+  <string name="columbus_player_speed_video">Passer la VIDÉO</string>
+  <string name="columbus_player_unit_sec">s</string>
   <string name="common_google_play_services_enable_button">Activer</string>
   <string name="common_google_play_services_enable_text">"%1$s ne fonctionnera pas tant que vous n'aurez pas activé les services Google Play."</string>
   <string name="common_google_play_services_enable_title">Activer les services Google Play</string>
@@ -360,6 +366,7 @@
   <string name="equalizer">Égaliseur</string>
   <string name="eras_ad">Apr. J.-C.</string>
   <string name="eras_bc">Av. J.-C.</string>
+  <string name="error_icon_content_description">Erreur</string>
   <string name="error_message_no_internet_connection">"Impossible de se connecter à Internet. S'il-vous-plaît, vérifiez votre connexion à internet et réessayez."</string>
   <string name="error_message_something_went_wrong">"Une erreur s'est produite. Veuillez réessayer."</string>
   <string name="error_not_support">Non supporté</string>
@@ -397,6 +404,7 @@
   <string name="exo_track_unknown">Inconnu</string>
   <string name="expand_button_title">Avancé</string>
   <string name="expired">Expiré</string>
+  <string name="exposed_dropdown_menu_content_description">Afficher le menu déroulant</string>
   <string name="facebook_not_installed">"Installer d'abord Facebook."</string>
   <string name="fail_to_fetch_payment_page_url">"Impossible d'obtenir les informations de paiement"</string>
   <string name="fail_to_play">Impossible de jouer la chanson</string>
@@ -493,6 +501,7 @@
   <string name="hungama_subscribe_positive_button">Payer pour un abonnement PRO</string>
   <string name="hungama_subscribe_title">Abonnement PRO</string>
   <string name="i_know">OK</string>
+  <string name="icon_content_description">Icône de dialogue</string>
   <string name="impunity_declaration_content">"Vous devez lire et accepter nos &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=fr_FR\">Accord d'utilisation&lt;/a> et &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=fr_FR\">Politique de confidentialité&lt;/a>avant d'utiliser le produit."</string>
   <string name="impunity_declaration_ignore">Ne plus afficher</string>
   <string name="impunity_declaration_negative_text">Quitter</string>
@@ -524,6 +533,7 @@
   <string name="is_scanning">Vérification du stockage…</string>
   <string name="is_scanning_support_online">"Vérification du stockage…
 (En attendant, vous pouvez écouter de la musique en ligne)"</string>
+  <string name="item_view_role_description">Tab</string>
   <string name="joox_account_bind_mi_account">Ajour Compte Mi</string>
   <string name="joox_account_cancel_login">Annuler</string>
   <string name="joox_account_continue_login">"S'identifier"</string>
@@ -556,7 +566,8 @@
   <string name="joox_auth_title_vip_content">Contenu VIP</string>
   <string name="joox_auth_title_vip_expired">Abonnement expiré</string>
   <string name="joox_auth_title_vip_function">Fonctionnalités VIP</string>
-  <string name="joox_category_artist">Artists</string>
+  <string name="joox_category_artist">Artistes</string>
+  <string name="joox_category_chart">Classements</string>
   <string name="joox_category_playlist">Playlists</string>
   <string name="joox_category_vip">Fan Center</string>
   <string name="joox_download_tab_title">JOOX</string>
@@ -605,6 +616,8 @@
   <string name="lyric_label">Paroles</string>
   <string name="lyric_open_other_connect">Télécharger les paroles en utilisant le réseau mobile</string>
   <string name="lyric_setting">Paramètres des paroles</string>
+  <string name="material_slider_range_end">"Fin d'intervalle,"</string>
+  <string name="material_slider_range_start">"Début d'intervalle,"</string>
   <string name="menu_title_pause_all">Tout mettre en pause</string>
   <string name="menu_title_resume_all">Tout démarrer</string>
   <string name="message_delete_playlist">Supprimer la playlist %s ?</string>
@@ -691,7 +704,38 @@
   <string name="more_settings_summary">Minuteur de sommeil, filtrage de fichiers et plus</string>
   <string name="more_share">Partager</string>
   <string name="more_splendid_contents">Plus</string>
+  <string name="morning">AM</string>
+  <string name="mtrl_badge_numberless_content_description">Nouvelle notification</string>
   <string name="mtrl_chip_close_icon_content_description">Effacer %1$s</string>
+  <string name="mtrl_exceed_max_badge_number_content_description">Plus de %1$d nouvelles notifications</string>
+  <string name="mtrl_picker_a11y_next_month">Changer pour le mois suivant</string>
+  <string name="mtrl_picker_a11y_prev_month">Changer pour le mois précédent</string>
+  <string name="mtrl_picker_announce_current_selection">Sélection actuelle : %1$s</string>
+  <string name="mtrl_picker_date_header_title">Sélectionnez une date</string>
+  <string name="mtrl_picker_date_header_unselected">Date sélectionnée</string>
+  <string name="mtrl_picker_day_of_week_column_header">Colonne des jours : %1$s</string>
+  <string name="mtrl_picker_invalid_format">Format invalide.</string>
+  <string name="mtrl_picker_invalid_format_example">Exemple : %1$s</string>
+  <string name="mtrl_picker_invalid_format_use">Utilisation : %1$s</string>
+  <string name="mtrl_picker_invalid_range">Intervalle invalide.</string>
+  <string name="mtrl_picker_navigate_to_year_description">"Aller à l'année %1$s"</string>
+  <string name="mtrl_picker_out_of_range">"En dehors de l'intervalle : %1$s"</string>
+  <string name="mtrl_picker_range_header_only_end_selected">Date de début – %1$s</string>
+  <string name="mtrl_picker_range_header_only_start_selected">%1$s – Date de fin</string>
+  <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+  <string name="mtrl_picker_range_header_title">Sélectionner un intervalle de dates</string>
+  <string name="mtrl_picker_range_header_unselected">Date de début - Date de fin</string>
+  <string name="mtrl_picker_save">Enregistrer</string>
+  <string name="mtrl_picker_text_input_date_hint">Date</string>
+  <string name="mtrl_picker_text_input_date_range_end_hint">Date de fin</string>
+  <string name="mtrl_picker_text_input_date_range_start_hint">Date de début</string>
+  <string name="mtrl_picker_text_input_day_abbr">j</string>
+  <string name="mtrl_picker_text_input_month_abbr">m</string>
+  <string name="mtrl_picker_text_input_year_abbr">a</string>
+  <string name="mtrl_picker_toggle_to_calendar_input_mode">Passer en mode de saisie du calendrier</string>
+  <string name="mtrl_picker_toggle_to_day_selection">Appuyez pour passer à la sélection du jour</string>
+  <string name="mtrl_picker_toggle_to_text_input_mode">Passer en mode de saisie de texte</string>
+  <string name="mtrl_picker_toggle_to_year_selection">"Appuyez pour passer à la sélection d'une année"</string>
   <string name="mulit_choice_management">Gérer plusieurs éléments</string>
   <string name="music_browser_label">Musique</string>
   <string name="music_filter">Filtrer les fichiers audio</string>
@@ -707,6 +751,8 @@
   <string name="my_playlist_create_self_playlist">Créer des playlists avec vos chansons préférées</string>
   <string name="my_playlist_set_to_private">Rendre privé</string>
   <string name="my_playlist_set_to_public">Rendre public</string>
+  <string name="nav_app_bar_navigate_up_description">Naviguer vers le haut</string>
+  <string name="nav_app_bar_open_drawer_description">Ouvrir le tiroir de navigation</string>
   <string name="network_disable">Connexion au réseau impossible</string>
   <string name="network_error_and_retry">Impossible de se connecter, appuyer pour réessayer</string>
   <string name="network_request_error">Impossible de se connecter au réseau</string>
@@ -848,13 +894,11 @@
   <string name="privacy_desc">Politique de confidentialité (obligatoire)</string>
   <string name="privacy_policy">Politique de confidentialité</string>
   <string name="privacy_request_desc"><Data>"Mi Music doit collecter les données personnelles nécessaires pour vous fournir des services de diffusion en ligne. Vous pouvez découvrir comment nous traitons les informations que nous collectons dans notre &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a>. Vous pouvez retirer votre consentement à la Politique de confidentialité de Mi Music dans les Paramètres à tout moment.
-    Lisez et acceptez notre &lt;a href=\"%2$s\">Accord d'utilisation&lt;/a> et notre &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a> avant d'utiliserMi Music.
-    Si vous n'acceptez pas d'utiliser les services sus-mentionnés, vous serez dans l'incapacité d'utiliser certaines fonctionnalités de l'application; toutefois, les fonctionnalités basiques seront toujours accessibles."</Data></string>
+Lisez et acceptez notre &lt;a href=\"%2$s\">Accord d'utilisation&lt;/a> et notre &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a> avant d'utiliserMi Music.
+Si vous n'acceptez pas d'utiliser les services sus-mentionnés, vous serez dans l'incapacité d'utiliser certaines fonctionnalités de l'application; toutefois, les fonctionnalités basiques seront toujours accessibles."</Data></string>
   <string name="privacy_request_subtitle">"Bienvenue dans Mi Music! Cette application fournit les services suivants:
-
-    - Un lecteur audio local
-
-    - Des services de diffusion en ligne"</string>
+- Un lecteur audio local
+- Des services de diffusion en ligne"</string>
   <string name="privacy_request_title">Termes et Conditions</string>
   <string name="pro_member">Membre PRO</string>
   <string name="project_device">Téléphone Mi</string>

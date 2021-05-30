@@ -223,8 +223,13 @@
     <string name="other_settings_enhanced_lockscreen_summary_index">"Conditions générales d'utilisation"</string>
     <string name="other_settings_location">Localisation</string>
     <string name="other_settings_location_summary">"Permettre aux applications d'accéder à votre localisation"</string>
-    <string name="other_settings_upload_debug_log_summary">"Les statistiques d'utilisation qui nous aident à vous localiser et à résoudre les problèmes peuvent contenir vos informations personnelles"</string>
-    <string name="other_settings_upload_debug_log_title">Envoyer automatiquement les données de diagnostic</string>
+    <string name="other_settings_upload_debug_log_title">"Envoyer des données d'utilisation et de diagnostic"</string>
+    <string name="other_settings_upload_debug_log_detail">"Aidez à améliorer l'expérience de votre appareil MIUI en envoyant automatiquement les données de diagnostic, d'utilisation de l'appareil et des applications à Xiaomi. Cela aidera à améliorer la durée de vie de la batterie, la stabilité du système MIUI et des applications, etc.
+Les données que vous enverrez contiendront des informations générales sur votre appareil et la manière dont vous l'utilisez (par exemple, le niveau de la batterie, l'activité du système et des applications, et les erreurs). Les données seront utilisées pour améliorer les appareils MIUI.
+La désactivation de cette fonction n'affecte pas la capacité de votre appareil à envoyer les informations nécessaires aux services essentiels tels que les mises à jour du système et la sécurité.
+Vous pouvez contrôler cette fonctionnalité depuis Paramètres > Mots de passe &amp; sécurité > Confidentialité > Utilisation et diagnostics."</string>
+    <string name="other_settings_upload_debug_log_summary">"Aidez à améliorer l'expérience de votre appareil MIUI en envoyant automatiquement les données de diagnostic, d'utilisation de l'appareil et des applications à Xiaomi. Cela aidera à améliorer la durée de vie de la batterie, la stabilité du système MIUI et des applications, etc."</string>
+    <string name="other_settings_upload_debug_log_title">"Envoyer des données d'utilisation et de diagnostic"</string>
     <string name="other_settings_user_experience">"Programme d'expérience utilisateur"</string>
     <string name="other_settings_user_experience_summary">"Aidez-nous à améliorer nos produits et services en partageant vos statistiques d'utilisation avec nous. Afficher les détails"</string>
     <string name="other_settings_user_experience_summary_index">Afficher les détails</string>
