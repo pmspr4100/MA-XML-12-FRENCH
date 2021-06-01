@@ -276,8 +276,8 @@
   <string name="flight_state">Flight status</string>
   <string name="flight_time">Estimated %1$s</string>
   <string name="fmt_date_long_month">MMMM</string>
-  <string name="fmt_date_long_month_day">dd MMMM</string>
-  <string name="fmt_date_long_year_month_day">dd MMMM , yyyy</string>
+  <string name="fmt_date_long_month_day">d MMMM</string>
+  <string name="fmt_date_long_year_month_day">d MMMM , yyyy</string>
   <string name="fmt_date_numeric_month_day">dd/MM</string>
   <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_short_month_day">dd/MM</string>
@@ -582,9 +582,9 @@ Vérifiez vos paramètres réseau, puis réessayez."</string>
   <string name="premission_description_title">Affichage et gestion des événements programmés</string>
   <string name="productivity_add_event">Créer événement</string>
   <string name="productivity_cannot_move_event">Impossible de déplacer cet événement</string>
-  <string name="productivity_move_event_failed">Impossible de déplacer cet événement au dd MMMM yyyy"</string>
+  <string name="productivity_move_event_failed">Impossible de déplacer cet événement au d MMMM yyyy"</string>
   <string name="productivity_move_event_hint">Appuyez et maintenez un événement pour le déplacer à une autre date</string>
-  <string name="productivity_move_event_success">Événément déplacé au dd MMMM yyyy</string>
+  <string name="productivity_move_event_success">Événément déplacé au d MMMM yyyy</string>
   <string name="productivity_no_event">"Aucun événement aujourd'hui"</string>
   <string name="pull_refresh_events">Afficher %d événements</string>
   <string name="pull_refresh_events_default">"Afficher les événements de l'année précédente"</string>

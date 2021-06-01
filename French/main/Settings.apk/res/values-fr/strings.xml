@@ -3105,8 +3105,8 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
   <string name="floating_window_switch_label_disable">Désactiver des fenêtres flottantes</string>
   <string name="fluency_mode">Animations système</string>
   <string name="fluency_mode_confirm_and_reboot">Redémarrer maintenant</string>
-  <string name="fmt_date_long_month_day">dd MMMM</string>
-  <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
+  <string name="fmt_date_long_month_day">d MMMM</string>
+  <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
   <string name="fmt_date_numeric_month_day">d/M</string>
   <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
   <string name="fmt_date_short_month_day">dd/MM</string>
@@ -4814,7 +4814,7 @@ Sélectionnez votre système d'exploitation :"</string>
   <string name="mtrl_chip_close_icon_content_description">Supprimer %1$s</string>
   <string name="mtrl_picker_cancel">Annuler</string>
   <string name="mtrl_picker_confirm">Sauvegarder</string>
-  <string name="mtrl_picker_date_format">dd MMM, yyyy</string>
+  <string name="mtrl_picker_date_format">d MMM, yyyy</string>
   <string name="mtrl_picker_header_prompt">Sélectionnez une date</string>
   <string name="mtrl_picker_range_header_prompt">Sélectionnez une plage de dates</string>
   <string name="muffled_text">Les basses fréquences accentuent doucement les transitions visuelles et rendent les gestes plus naturels</string>
@@ -8277,7 +8277,7 @@ La désactivation de cette fonction n'affecte pas la capacité de votre appareil
   <string name="virus_scan_app_uninstall">Retirer %d</string>
   <string name="virus_scan_app_waiting">En attente…</string>
   <string name="virus_scanner_auto_update">Mise à jour auto</string>
-  <string name="virus_scanner_date_formater">dd MM yyyy</string>
+  <string name="virus_scanner_date_formater">d MM yyyy</string>
   <string name="virus_scanner_lib_already_latest">Définitions déjà à jour</string>
   <string name="virus_scanner_lib_update_failed">Impossible de mettre à jour</string>
   <string name="virus_scanner_lib_updating">Mise à jour de la base de données…</string>
