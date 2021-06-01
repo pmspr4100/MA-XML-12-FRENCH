@@ -118,9 +118,9 @@
   <string name="accessibility_display_daltonizer_preference_subtitle">Cette fonctionnalité est expérimentale et peut affecter les performances.</string>
   <string name="accessibility_display_daltonizer_preference_title">Correction des couleurs</string>
   <string name="accessibility_divider">"Diviseur d'écran"</string>
-  <string name="accessibility_enter_lock_setting">"Appuyez pour ouvrir les paramètres de Carrousel de fonds d'écran"</string>
+  <string name="accessibility_enter_lock_setting">"Appuyez pour ouvrir les paramètres du Carrousel de fonds d'écran"</string>
   <string name="accessibility_drag_hint_message">"Déplacez les éléments dans la partie supérieure de l'écran"</string>
-  <string name="accessibility_enter_lock_wallpaper">"Appuyer pour ouvrir le Fond d'écran Carrousel"</string>
+  <string name="accessibility_enter_lock_wallpaper">"Appuyer pour ouvrir le Carrousel de fonds d'écran"</string>
   <string name="accessibility_ethernet_connected">Ethernet connecté.</string>
   <string name="accessibility_ethernet_disconnected">Ethernet déconnecté.</string>
   <string name="accessibility_expand_button">Afficher plus</string>
@@ -814,7 +814,7 @@ Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données.
   <string name="dock_forced_resizable">"L'application peut ne pas fonctionner avec le diviseur d'écran."</string>
   <string name="dock_keyguard_locked_failed_to_dock_text">"Écran divisé n'est pas pris en charge à l'écran de verrouillage."</string>
   <string name="dock_non_resizeble_failed_to_dock_text">"L'application ne prend pas en charge le diviseur de l'écran."</string>
-  <string name="download_lock_wallpaper">Appuyez deux fois pour télécharger le fond d’écran Carrousel</string>
+  <string name="download_lock_wallpaper">"Appuyez deux fois pour télécharger le Carrousel de fonds d'écran"</string>
   <string name="drag_to_add_tiles">Appuyez et maintenez pour ajouter ou réorganiser les éléments</string>
   <string name="drag_to_rearrange_tiles">Maintenez et faites glisser pour réorganiser les tuiles</string>
   <string name="drag_to_remove_disabled">"Vous avez besoin d'au moins %1$d tuiles"</string>
@@ -968,8 +968,8 @@ Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données.
   <string name="float_incall_ignore">Ignorer</string>
   <string name="float_incall_message">Message</string>
   <string name="float_notification_snooze_strategy">Masquer temporairement les notifications flottantes</string>
-  <string name="fmt_date_long_month_day">dd MMMM</string>
-  <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
+  <string name="fmt_date_long_month_day">d MMMM</string>
+  <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
   <string name="fmt_date_numeric_month_day">dd/MM</string>
   <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_short_month_day">dd/MM</string>
@@ -1357,12 +1357,12 @@ Réessayez dans %2$d secondes."</string>
   <string name="local_backup_password_toast_success">Nouveau de mot de passe de sauvegarde défini</string>
   <string name="local_backup_password_toast_validation_failure">Impossible de définir le mot de passe de sauvegarde</string>
   <string name="lock_screen_carrier_airplane_mode_on">Mode avion</string>
-  <string name="lock_screen_date">EEEE dd MMMM</string>
-  <string name="lock_screen_date_12">EEEE dd MMMM</string>
+  <string name="lock_screen_date">EEEE d MMMM</string>
+  <string name="lock_screen_date_12">EEEE d MMMM</string>
   <string name="lock_screen_date_two_lines">"EEEE
-dd MMMM"</string>
+d MMMM"</string>
   <string name="lock_screen_date_two_lines_12">"EEEE
-dd MMMM"</string>
+d MMMM"</string>
   <string name="lock_screen_magazine_default_content">Portion quotidienne de nouvelles images</string>
   <string name="lock_screen_magazine_default_title">"Fond d'écran"</string>
   <string name="lock_screen_magazine_global_button_text">Plus</string>
@@ -1616,7 +1616,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="mtrl_chip_close_icon_content_description">Supprimer %1$s</string>
   <string name="mtrl_picker_cancel">Annuler</string>
   <string name="mtrl_picker_confirm">Sauvegarder</string>
-  <string name="mtrl_picker_date_format">dd MMM, yyyy</string>
+  <string name="mtrl_picker_date_format">d MMM, yyyy</string>
   <string name="mtrl_picker_header_prompt">Sélectionnez une date</string>
   <string name="mtrl_picker_range_header_prompt">Sélectionnez une plage de dates</string>
   <string name="multi_face_delete_message">Attention</string>
@@ -2222,16 +2222,16 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="status_bar_airplane">Mode avion</string>
   <string name="status_bar_alarm">Alarme</string>
   <string name="status_bar_clear_all_button">Effacer</string>
-  <string name="status_bar_clock_date_format">EEEE dd MMMM</string>
-  <string name="status_bar_clock_date_format_12">EEEE dd MMMM</string>
-  <string name="status_bar_clock_date_time_format">EEEE dd MMMM HH:mm</string>
-  <string name="status_bar_clock_date_time_format_12">EEEE dd MMMM hh:mm aa</string>
-  <string name="status_bar_clock_date_weekday_format">EEE, dd MMMM</string>
-  <string name="status_bar_clock_date_weekday_format_12">EEE, dd MMMM</string>
+  <string name="status_bar_clock_date_format">EEEE d MMMM</string>
+  <string name="status_bar_clock_date_format_12">EEEE d MMMM</string>
+  <string name="status_bar_clock_date_time_format">EEEE d MMMM HH:mm</string>
+  <string name="status_bar_clock_date_time_format_12">EEEE d MMMM hh:mm aa</string>
+  <string name="status_bar_clock_date_weekday_format">EEE, d MMMM</string>
+  <string name="status_bar_clock_date_weekday_format_12">EEE, d MMMM</string>
   <string name="status_bar_date_format">"EEEE
-dd MMMM"</string>
+d MMMM"</string>
   <string name="status_bar_date_format_12">"EEEE
-dd MMMM"</string>
+d MMMM"</string>
   <string name="status_bar_ethernet">Ethernet</string>
   <string name="status_bar_input_method_settings_configure_input_methods">Configurer des méthodes de saisie</string>
   <string name="status_bar_latest_events_title">Notifications</string>

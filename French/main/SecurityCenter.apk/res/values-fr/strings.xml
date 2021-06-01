@@ -256,7 +256,7 @@
     <string name="app_behavior_get_install">%1s a accédé à la liste de vos applications</string>
     <string name="app_behavior_get_install_single">Cette application a accédé à la liste de vos applications</string>
     <string name="app_behavior_global_settings_perm_tips">"Recevez une alerte de barre d'état lorsque les applications enregistrent de l'audio ou utilisent le capteur photo"</string>
-    <string name="app_behavior_header_time">dd MMMM</string>
+    <string name="app_behavior_header_time">d MMMM</string>
     <string name="app_behavior_key_audio">Enregistrement audio</string>
     <string name="app_behavior_key_camera">Prise de photos</string>
     <string name="app_behavior_key_location">Localisation</string>
@@ -1473,8 +1473,8 @@ des tremblements de terre"</string>
     <string name="fixed_cellular_data_quota_monthly">Quota de données mensuelles</string>
     <string name="fixed_package_tips">Additional fees will be generated after you reach the limit</string>
     <string name="fixed_traffic_quota">Data limit (mandatory)</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
@@ -4136,8 +4136,8 @@ Formatting will erase existing content on the ^2. To avoid losing content, back 
     <string name="superpower_notification_hint_enter">Activer</string>
     <string name="superpower_notification_new_title">Moins de %d%% de la batterie restante</string>
     <string name="superpower_notification_summary">"Activer l'économiseur de batterie ultra"</string>
-    <string name="superpower_notification_time_12">EEEE dd MMMM</string>
-    <string name="superpower_notification_time_24">EEEE dd MMMM</string>
+    <string name="superpower_notification_time_12">EEEE d MMMM</string>
+    <string name="superpower_notification_time_24">EEEE d MMMM</string>
     <string name="superpower_notification_title_new">Moins de %s de batterie restante</string>
     <string name="superpower_progress_content">"Activer l'économiseur de batterie ultra…"</string>
     <string name="superpower_progress_left_time">%1$d h %2$d m</string>

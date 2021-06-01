@@ -91,8 +91,8 @@
     <string name="fastboot_status_locked_summary">"Impossible d'obtenir l'accès root"</string>
     <string name="fastboot_unlock_web_title">Rendez-vous sur le site Web officiel pour obtenir un outil de déverrouillage.</string>
     <string name="fingerprint_not_remind">"Ne plus demander"</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
     <string name="fmt_date_numeric_month_day">dd/MM</string>
     <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
@@ -322,7 +322,7 @@
     <string name="superpower_app_mms">Messagerie</string>
     <string name="superpower_app_phone">Téléphone</string>
     <string name="superpower_battery_dangerous">Connectez le chargeur dès que possible</string>
-    <string name="superpower_date">EEEE dd MMMM</string>
+    <string name="superpower_date">EEEE d MMMM</string>
     <string name="superpower_dialog_app_select_content">"Les applications tierces consomment normalement plus d'énergie que les applications système. Ajouter quand même ?"</string>
     <string name="superpower_dialog_app_select_title">Attention</string>
     <string name="superpower_exit_hint">"Désactiver l'économiseur de batterie Ultra…"</string>
