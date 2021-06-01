@@ -2484,8 +2484,10 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
     <string name="numeric_recording_intro_header">Saisir le mot de passe</string>
     <string name="numeric_retry_button_text">Annuler</string>
     <string name="numeric_settings_help_how_to_record">Comment définir un code PIN ?</string>
-    <string name="oaid_reset_content_tip">If you turn off virtual ID now, some apps might stop working properly, a part of your app data might be lost or become unusable.</string>
-    <string name="oaid_reset_final_tip">Turn off virtual ID anyway?</string>
+    <string name="oaid_apps_title">"Gérer l'identifiant virtuel"</string>
+    <string name="oaid_reset_content_tip">"Si vous désactivez maintenant l'identifiant virtuel, certaines applications peuvent cesser de fonctionner correctement, une partie de vos données d'application peut être perdue ou devenir inutilisable."</string>
+    <string name="oaid_reset_final_tip">"Désactiver quand même l'identifiant virtuel ?"</string>
+    <string name="oaid_tips_content">"Les identifiants virtuels (OAID) peuvent être utilisés pour suivre votre comportement et personnaliser les publicités pour vous. Vous pouvez sélectionner les applications autorisées à accéder à votre identifiant virtuel. Notez que si vous restreignez l'accès, les recommandations publicitaires peuvent devenir inutiles ou les applications risquent de ne pas fonctionner normalement."</string>
     <string name="offline_voice_input">Entrée vocale hors ligne</string>
     <string name="offline_voice_input_detail">"Vous n'aurez pas besoin d'Internet pour la saisie vocale."</string>
     <string name="ok">OK</string>
@@ -2618,7 +2620,11 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
     <string name="pc_battery_history_rank_mha_menu_item">Milliampère heure</string>
     <string name="pc_battery_history_rank_percent_menu_item">Pourcentage</string>
     <string name="pc_battery_history_total_consumption_title">"Consommation d'énergie totale"</string>
-    <string name="pc_battery_history_usetime_title">Active</string>
+    <string name="pc_battery_history_usetime_title">Actif</string>
+    <string name="pc_hidemode_normal">Équilibré</string>
+    <string name="pc_hidemode_performance">Performance</string>
+    <string name="pc_hidemode_performance_title">Mode Performance</string>
+    <string name="pc_hidemode_power_save">Énergie</string>
     <string name="pc_install_manager">Installation via USB</string>
     <string name="pc_main_activity_back">Retour</string>
     <string name="pc_main_battery_text_day">Ajouté %1$s m, sur %2$s j restante</string>
@@ -2630,6 +2636,8 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
     <string name="pc_main_power_manager_hour_minute">"%1$s h %2$s m jusqu'à la charge complète"</string>
     <string name="pc_main_sub_battery_text_day_hour">%1$s j %2$s h restant</string>
     <string name="pc_main_sub_battery_text_hour_minute">%1$s h %2$s m restante</string>
+    <string name="pc_performance_mode_dialog_summary">"Votre appareil pourra fonctionner pendant %s en mode Performance. Notez que le mode Performance augmente la consommation d'énergie et peut entraîner une surchauffe."</string>
+    <string name="pc_performance_mode_dialog_title">Mode performance</string>
     <string name="pc_search_keywords_battery">Batterie</string>
     <string name="pc_search_keywords_battery_save">Économiseur de batterie</string>
     <string name="pc_search_keywords_battery_use">Utilisation</string>

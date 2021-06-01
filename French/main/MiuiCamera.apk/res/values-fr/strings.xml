@@ -455,6 +455,7 @@ et ajustez les préférences automatiquement"</string>
   <string name="clone_too_much_movement_stop">"Vous avez déplacé l'appareil trop loin. Arrêt de la capture pour l'instant."</string>
   <string name="clone_video_mode">Mode vidéo</string>
   <string name="clone_video_mode_start_hint">"Veuillez appuyer sur le déclencheur pour commencer l'enregistrement"</string>
+  <string name="close">Fermer</string>
   <string name="close_back_flash_toast">"Votre appareil à surchauffé. impossible d'utiliser le flash maintenant."</string>
   <string name="close_front_flash_toast">"Votre appareil à surchauffé. impossible d'utiliser le flash maintenant."</string>
   <string name="close_night_algo_toast_low_power">"Chargez votre appareil pour pouvoir régler l'exposition"</string>
@@ -585,11 +586,12 @@ Scannez des documents en un clic"</string>
   <string name="document_mode_use_hint_text_title">Mode document</string>
   <string name="document_origin">Originale</string>
   <string name="document_strengthen">Renforcé</string>
-  <string name="dolly_zoom_capture_tip1">"Placez votre sujet dans le cadre et tenez l'appareil à au moins %d mètres"</string>
-  <string name="dolly_zoom_capture_tip2">"Éloignez régulièrement l'appareil de votre sujet"</string>
+  <string name="dolly_zoom_capture_tip1">Placez votre sujet dans le cadre</string>
+  <string name="dolly_zoom_capture_tip2">"Gardez votre sujet au centre et éloignez régulièrement l'appareil"</string>
   <string name="dolly_zoom_capture_tip3">Perte de trace du sujet. Recommencez.</string>
   <string name="dolly_zoom_capture_tip4">"Vous avez trop éloigné l'appareil. Recommencez."</string>
   <string name="dolly_zoom_capture_tip5">"Impossible d'enregistrer la vidéo"</string>
+  <string name="dolly_zoom_capture_tip6">Déplacez votre sujet au centre du cadre</string>
   <string name="dolly_zoom_guide_tip1">"Assurez-vous qu'il y a suffisamment d'espace entre votre sujet et l'arrière-plan."</string>
   <string name="dolly_zoom_guide_tip10">Et plus !</string>
   <string name="dolly_zoom_guide_tip2">"Essayez d'éviter les grandes zones de couleur unie."</string>
@@ -808,8 +810,7 @@ en mode portrait"</string>
   <string name="live_sticker_updating">Mise à jour…</string>
   <string name="live_workspace_title">Brouillons</string>
   <string name="live_workspace_title_edit">Sélectionnez les éléments à supprimer</string>
-  <string name="lmi_module_name_pixel">64 MPX</string>
-  <string name="location_access_allow">Permettre</string>
+  <string name="location_access_allow">Accepter</string>
   <string name="location_permission_des">Mémoriser les emplacements pour les photos et les vidéos</string>
   <string name="location_permission_not_ask_again">"Autoriser l'appareil photo à accéder à votre position dans les paramètres."</string>
   <string name="location_permission_not_ask_again_go_to_settings">Autoriser</string>
@@ -1231,7 +1232,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_camera_device_watermark_title">"Filigrane de l'appareil"</string>
   <string name="pref_camera_dual_enable_title">Activé le double appareil photo</string>
   <string name="pref_camera_dual_sat_enable_title">Activé le double appareil photo SAT</string>
-  <string name="pref_camera_dynamic_frame_rate_summary">"La fréquence d'images sera automatiquement abaissée dans des conditions de faible éclairage pour améliorer la qualité vidéo"</string>
+  <string name="pref_camera_dynamic_frame_rate_summary">"La fréquence d'images sera automatiquement abaissée dans des conditions de faible éclairage ou de haute température pour améliorer la qualité vidéo"</string>
   <string name="pref_camera_dynamic_frame_rate_title">"Ajuster la fréquence d'images à une faible luminosité"</string>
   <string name="pref_camera_eis_entry_normal">EIS</string>
   <string name="pref_camera_eis_entry_off">Off</string>
@@ -1610,6 +1611,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="search_menu_title">Recherche</string>
   <string name="search_settings">"Paramètres appareil photo;Qualité;Qualité de l'image;Localisation de l'image;Détection de visage;Son de l'appareil photo"</string>
   <string name="see_qrcode_detals">Afficher les détails du QR code</string>
+  <string name="send">Envoyer</string>
   <string name="settings_camera_detect_card_description">"Afficher un raccourci chaque fois que l'appareil photo AI détecte une carte d'identité"</string>
   <string name="settings_camera_detect_description_doc">"Afficher un raccourci chaque fois que l'appareil photo AI détecte un document ou une diapositive de présentation"</string>
   <string name="settings_camera_near_range_description">Élimine le flou lors de la mise au point sur des surfaces planes très proches</string>

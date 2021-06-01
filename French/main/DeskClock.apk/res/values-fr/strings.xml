@@ -47,12 +47,13 @@
   <string name="not_set_temporarily">Non merci</string>
   <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
   <string name="reach_upper_limit">"Impossible d'ajouter d'autres minuteurs"</string>
-  <string name="sleep_analysis_chart_date_format">MM/dd</string>
+  <string name="sleep_analysis_chart_date_format">dd/MM</string>
   <string name="system_permission_agree_desc">Allow this app to connect to the internet to access all its features.</string>
   <string name="system_permission_main_purpose">Viewing time, setting alarms and timers, using stopwatch</string>
   <string name="timer_item_delete">Delete</string>
   <string name="worldclock_local_time">Local time</string>
   <string name="worldclock_second_time">Time in %s</string>
+  <string name="worldclock_second_time_desc">"%s : "</string>
   <string name="worldcolock_time_date">dd/MM/yyyy</string>
   <string name="search_menu_title">Recherche</string>
   <string name="agree">Accepter</string>
@@ -409,6 +410,7 @@
   <string name="shortcut_stop_watch">Démarrer chronomètre</string>
   <string name="shut_down_keep_screen">"L'écran ne pourra pas rester allumé"</string>
   <string name="shutdown_alarm_alert_enable_summary">"Les alarmes d'arrêt s'éteindront au moins 10 minutes après la mise hors tension de votre appareil."</string>
+  <string name="shutdown_alarm_alert_enable_summary_new">"Activez pour désactiver les alarmes définies lorsque votre appareil est éteint. Seules les alarmes définies pendant au moins %d minutes après la mise hors tension de l'appareil se déclencheront."</string>
   <string name="shutdown_alarm_alert_title">"Alarme d'arrêt"</string>
   <string name="shutdown_alarm_disable_summary">"L'alarme ne sonnera pas après avoir éteint lappareil"</string>
   <string name="shutdown_alarm_enable_summary">"L'alarme se déclenche si elle est réglée sur au moins 10 minutes après la mise hors tension de votre appareil"</string>

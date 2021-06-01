@@ -55,11 +55,16 @@
         <item>ancien</item>
         <item>liste</item>
     </string-array>
+    <string-array name="sign_in_dialog_item">
+        <item>Identification par protocole Outlook oauth imap</item>
+        <item>IMAP (sans calendrier)</item>
+        <item>EXCHANGE (sans calendrier)</item>
+    </string-array>
     <string-array name="signature_normal_string_array_next">
         <item>Adresse:</item>
-        <item>Tél:</item>
+        <item>Tél.:</item>
         <item>Nom:</item>
-        <item>Email:</item>
+        <item>Mél.:</item>
         <item>Mobile:</item>
         <item>WeChat:</item>
         <item>Fax:</item>

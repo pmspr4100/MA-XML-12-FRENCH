@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Il y a 1 heure</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Il y a 1 heure</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Il y a 1 demi-heure</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Dans 1 heure</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Dans 1 demi-heure</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Immédiatement</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">dans %d min</item>
+        <item quantity="one">dans 1 min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">"À l'instant"</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Il y a %d min</item>
+        <item quantity="one">Il y a 1 min</item>
+    </plurals>
     <plurals name="actionbar_large_unread_count">
         <item quantity="other">%1$d+ non lus</item>
         <item quantity="one">%1$d+ non lu</item>
@@ -83,6 +112,9 @@
     <plurals name="empty_folder_dialog_message">
         <item quantity="other">%1$d messages seront définitivement supprimés.</item>
         <item quantity="one">%1$d message sera définitivement supprimé.</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Il y a 1 demi-heure</item>
     </plurals>
     <plurals name="hide_atts_remaining">
         <item quantity="other">Masquer %1$d pièces jointes</item>
