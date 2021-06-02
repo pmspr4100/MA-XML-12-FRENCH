@@ -1677,10 +1677,15 @@ Si vous installez un certificat CA, le propriétaire du certificat peut accéder
   <string name="channel_notifications_off_desc">"À votre demande, Android bloque l'affichage de cette catégorie de notifications sur cet appareil"</string>
   <string name="character_counter_content_description">%1$d caractères entrés sur %2$d</string>
   <string name="character_counter_overflowed_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
+  <string name="charge_animation_style_lollipop">Flux</string>
+  <string name="charge_animation_style_none">Désactivé</string>
+  <string name="charge_animation_style_particle">Particule</string>
   <string name="charge_animation_style_summary">"Choisissez votre style d'animation de charge d'écran de verrouillage préféré"</string>
   <string name="charge_animation_style_title">Animation de charge</string>
+  <string name="charge_animation_style_video">Lueur</string>
+  <string name="charge_animation_style_wave">Vague</string>
   <string name="charge_length_format">%1$s auparavant</string>
-  <string name="charging_sounds_title">Sons de charge</string>
+  <string name="charging_sounds_title">Sons de charge et vibration</string>
   <string name="check_find_device_status_failure_confirm">OK </string>
   <string name="check_update">Vérifier les mises à jour</string>
   <string name="checkbox_notification_same_as_incoming_call">Utiliser le volume des appels entrants pour les notifications</string>
@@ -5285,6 +5290,8 @@ L'application pourra aussi activer ou désactiver le mode Ne pas déranger, et m
   <string name="notifications_title">Notifications</string>
   <string name="now">Maintenant</string>
   <string name="number_of_device_admins_none">Aucune application active</string>
+  <string name="oaid_apps_summary">"Autoriser ou restreindre l'accès à des applications individuelles"</string>
+  <string name="oaid_apps_title">"Gérer l'identifiant virtuel"</string>
   <string name="oaid_apps_summary">"Autoriser ou restreindre l'accès à des applications individuelles"</string>
   <string name="oaid_apps_title">"Gérer l'identifiant virtuel"</string>
   <string name="oaid_string">"Identifiant virtuel actuel :
