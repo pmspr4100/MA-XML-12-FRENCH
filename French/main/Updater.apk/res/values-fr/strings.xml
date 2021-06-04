@@ -19,10 +19,10 @@
   <string name="btn_yes">Oui</string>
   <string name="channel_downloading">Progression du téléchargement</string>
   <string name="channel_update">Nouvelle version disponible</string>
-  <string name="check_new_version">Mise à jour</string>
+  <string name="check_new_version">Rechercher une mise à jour</string>
   <string name="default_filedownloader_notification_content">"Le téléchargeur de fichiers est en cours d'exécution".</string>
   <string name="default_filedownloader_notification_title">Téléchargeur de fichiers</string>
-  <string name="dialog_3g_desc">"Sachez que l'utilisation des données mobile pour télécharger des ROM peut demander un quota important de votre forfait."</string>
+  <string name="dialog_3g_desc">"L'utilisation des données mobiles pour télécharger la nouvelle version peut consommer votre forfait rapidement."</string>
   <string name="dialog_3g_title">Attention !</string>
   <string name="dialog_btn_3g">Continuer quand même</string>
   <string name="dialog_btn_wifi">Basculer vers le Wi-Fi</string>
@@ -39,7 +39,7 @@
 Les données ne seront pas effacées."</string>
   <string name="install_title">Êtes-vous sûr de continuer ?</string>
   <string name="menu_title_current_version_log">Ce qui est nouveau ?</string>
-  <string name="menu_title_pick_rom_file">Installer le package de mise à jour</string>
+  <string name="menu_title_pick_rom_file">Sélectionner un fichier de mise à jour</string>
   <string name="menu_title_recovery">Redémarrer en mode Recovery</string>
   <string name="message_checkbox">"Masquer les futurs messages de l'équipe Xiaomi.eu"</string>
   <string name="message_checkbox_device">Ne plus afficher</string>
@@ -52,7 +52,7 @@ Les données ne seront pas effacées."</string>
 Les mises à jour ne sont pas disponibles pour vous !"</string>
   <string name="notif_cancel">Annuler</string>
   <string name="notif_install">Installer</string>
-  <string name="notif_new_summary">Appuyez pour plus infos</string>
+  <string name="notif_new_summary">"Appuyez pour plus d'infos"</string>
   <string name="notif_new_title">Nouvelle version disponible !</string>
   <string name="notifications_switch">Afficher les notifications</string>
   <string name="permdesc_cache_filesystem">"Permet à l'application d'écrire des fichiers sur la partition /cache."</string>
