@@ -316,7 +316,7 @@ Pour basculer entre les services, balayez vers le haut avec deux doigts et maint
   <string name="action_drag_label_remove">Supprimer la langue</string>
   <string name="actionbar_button_up_description">Retour</string>
   <string name="activating">Activation…</string>
-  <string name="active_device_admin_msg">"Application d'administration de l'appareil"</string>
+  <string name="active_device_admin_msg">"Appli d'administration de l'appareil"</string>
   <string name="active_input_method_subtypes">Méthode de saisie active</string>
   <string name="activity_check_context">"Votre appareil tente actuellement de se connecter à internet. Ce processus peut prendre plus de temps que prévu si vous utilisez un réseau mobile. Vous pouvez revenir en arrière et vous connecter à un réseau Wi-Fi à la place, ou continuer à attendre jusqu'à ce que la connexion de données mobiles soit établie."</string>
   <string name="activity_check_title">Connexion à internet</string>
@@ -372,8 +372,8 @@ Pour basculer entre les services, balayez vers le haut avec deux doigts et maint
   <string name="add_auto_startup_application">Ajouter des applications au démarrage auto</string>
   <string name="add_back_fingerprint_instruction_msg">Placez votre doigt sur le capteur</string>
   <string name="add_broadsize_fingerprint_instruction_msg">"Le capteur d'empreintes digitales est situé sur le bord droit de votre appareil"</string>
-  <string name="add_device_admin">"Activer l'application d'administration de cet appareil"</string>
-  <string name="add_device_admin_msg">Activer appli administration appareil ?</string>
+  <string name="add_device_admin">Activer</string>
+  <string name="add_device_admin_msg">"Activer cette appli d'administration ?"</string>
   <string name="add_facerecoginition_text">Ajouter des données de visage</string>
   <string name="add_fingerprint_cancel_button_text">Retour</string>
   <string name="add_fingerprint_dirty_fingerprint">"Assurez-vous que la surface de l'écran est propre. Essayez d'enregistrer à nouveau votre empreinte digitale."</string>
@@ -3106,8 +3106,8 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
   <string name="flashback_support_apps_title">Applications disponibles</string>
   <string name="flashback_title">Application flashcards</string>
   <string name="flashback_wangzhe_summary">Afficher le compte à rebours en jeu</string>
-  <string name="floating_window_switch_label">Activer des fenêtres flottantes</string>
-  <string name="floating_window_switch_label_disable">Désactiver des fenêtres flottantes</string>
+  <string name="floating_window_switch_label">Activer les fenêtres flottantes</string>
+  <string name="floating_window_switch_label_disable">Désactiver les fenêtres flottantes</string>
   <string name="fluency_mode">Animations système</string>
   <string name="fluency_mode_confirm_and_reboot">Redémarrer maintenant</string>
   <string name="fmt_date_long_month_day">d MMMM</string>
@@ -4223,7 +4223,7 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
   <string name="make_sure_cancel_update">Annuler la mise à jour ?</string>
   <string name="man_add_application">Ajouter des applications au démarrage automatique</string>
   <string name="manage_app_notification">Gérer %1$s notifications</string>
-  <string name="manage_device_admin">"Applis d'administration des appareils"</string>
+  <string name="manage_device_admin">"Applis d'administration de l'appareil"</string>
   <string name="manage_external_storage_title">Accès à tous les fichiers</string>
   <string name="manage_facerecoginition_text">Gérer la reconnaissance faciale</string>
   <string name="manage_fakecell_settings">Protection contre les fausses antennes-relais</string>
@@ -6016,7 +6016,7 @@ Interface UT : %5$s"</string>
   <string name="remove_account_label">Supprimer le compte</string>
   <string name="remove_and_uninstall_device_admin">Désactiver et désinstaller</string>
   <string name="remove_continue">Désinstaller</string>
-  <string name="remove_device_admin">"Désactiver l'application d'administration de cet appareil"</string>
+  <string name="remove_device_admin">Désactiver</string>
   <string name="remove_from_frequently_fragment">Supprimer %s des paramètres rapides ?</string>
   <string name="remove_managed_profile_label">Supprimer le profil professionnel</string>
   <string name="repeat">Répéter</string>
@@ -6089,7 +6089,7 @@ Redémarrez votre appareil et réessayez."</string>
   <string name="restore_dialog_positive">Réinitialiser</string>
   <string name="restore_dialog_title">Attention</string>
   <string name="restore_oaid_content">Réinitialiser votre ID de périphérique actuel en créera un nouveau. Réinitialiser maintenant ?</string>
-  <string name="restore_oaid_dialog_content">Multiple apps are using your virtual ID. If you reset it now, a part of your app data might be lost or become unusable. Reset virtual ID anyway?</string>
+  <string name="restore_oaid_dialog_content">"Plusieurs applications utilisent votre identifiant virtuel. Si vous le réinitialisez maintenant, une partie des données de vos applicatons pourrait être perdue ou devenir inutilisable. Réinitialiser quand même l'identifiant virtuel ?"</string>
   <string name="restore_oaid_positive">Réinitialiser</string>
   <string name="restore_oaid_positive_step">Réinitialiser (%1$d)</string>
   <string name="restore_oaid_title">"Réinitialisation de l'identifiant de l'appareil"</string>
