@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="HIPS_ACTION_REJECT_CLEAR">Restriction et nettoyage du presse-papiers</string>
+    <string name="HIPS_ACTION_REJECT_CLEAR">Restriction et nettoyage du presse-papier</string>
     <string name="HIPS_Action_Accept">Autoriser</string>
     <string name="HIPS_Action_Accept_Once">Autoriser cette fois</string>
     <string name="HIPS_Action_Accept_This">Autoriser cette fois</string>
@@ -96,8 +96,8 @@
     <string name="HIPS_Perm_process_nfc_Desc">Accède au NFC (Near Field Communication)</string>
     <string name="HIPS_Perm_process_outgoing_calls">"Accéder à l'application Téléphone"</string>
     <string name="HIPS_Perm_process_outgoing_calls_Desc">répondez, surveillez et terminez les appels</string>
-    <string name="HIPS_Perm_read_clipboard">Accéder aux éléments du presse-papiers</string>
-    <string name="HIPS_Perm_read_clipboard_Desc">Autorise les applications à accéder aux éléments du presse-papiers</string>
+    <string name="HIPS_Perm_read_clipboard">Accéder aux éléments du presse-papier</string>
+    <string name="HIPS_Perm_read_clipboard_Desc">Autorise les applications à accéder aux éléments du presse-papier</string>
     <string name="HIPS_Perm_read_notification_sms">Service SMS</string>
     <string name="HIPS_Perm_read_notification_sms_Desc">Lecture du service SMS</string>
     <string name="HIPS_Perm_recognition">"Accès aux informations d'activité"</string>
@@ -110,11 +110,11 @@
     <string name="HIPS_Perm_tencentControl_Desc">Autorise cette application à accéder à vos messages WeChat et QQ</string>
     <string name="HIPS_Perm_use_sip">Les services vidéo</string>
     <string name="HIPS_Perm_use_sip_Desc">"Utiliser le protocole d'initiation de session (SIP) pour diffuser des vidéos"</string>
-    <string name="HIPS_Perm_write_clipboard">Enregistrer les éléments dans le presse-papiers</string>
-    <string name="HIPS_Perm_write_clipboard_Desc">Autorise les applications à enregistrer des éléments dans le presse-papiers</string>
+    <string name="HIPS_Perm_write_clipboard">Enregistrer les éléments dans le presse-papier</string>
+    <string name="HIPS_Perm_write_clipboard_Desc">Autorise les applications à enregistrer des éléments dans le presse-papier</string>
     <string name="HIPS_SecurityPrompt_Caption">Avertissement de sécurité</string>
     <string name="HIPS_SecurityPrompt_Reject">Refuser (%d)</string>
-    <string name="HIPS_SecurityPrompt_Reject_Clear_This">Restreindre et nettoyer le presse-papiers (%d)</string>
+    <string name="HIPS_SecurityPrompt_Reject_Clear_This">Restreindre et nettoyer le presse-papier (%d)</string>
     <string name="HIPS_SecurityPrompt_Reject_Never">Refuser et ne plus demander (%d)</string>
     <string name="HIPS_SecurityPrompt_Reject_Once">Refuser cette fois (%d)</string>
     <string name="HIPS_SecurityPrompt_Reject_This">Refuser cette fois (%d)</string>
@@ -155,16 +155,16 @@
     <string name="cetus_invisible_mode_notice_location">"Vous êtes incognito. Impossible d'utiliser les services de localisation à présent."</string>
     <string name="cetus_invisible_mode_notice_tip">Vous êtes incognito. Appuyez pour désactiver le mode Incognito mode dans les Paramètres</string>
     <string name="clearable_edittext_clear_description">Effacer</string>
-    <string name="clipboard_ai_allow_once">%1$s a été autorisé à accéder aux éléments du presse-papiers automatiquement</string>
+    <string name="clipboard_ai_allow_once">%1$s a été autorisé à accéder aux éléments du presse-papier automatiquement</string>
     <string name="clipboard_data">Contenu: </string>
-    <string name="clipboard_data_request">"%1$s tente d'accéder aux éléments du presse-papiers"</string>
+    <string name="clipboard_data_request">"%1$s tente d'accéder aux éléments du presse-papier"</string>
     <string name="clipboard_deny_notification_content">Cette tentative a été bloquée. Appuyez pour gérer les permissions.</string>
     <string name="clipboard_deny_notification_operation">Gérer</string>
-    <string name="clipboard_deny_notification_title">"%1$s tente d'accéder aux éléments du presse-papiers"</string>
+    <string name="clipboard_deny_notification_title">"%1$s tente d'accéder aux éléments du presse-papier"</string>
     <string name="clipboard_may_sensitive">Information potentiellement sensible</string>
-    <string name="clipboard_read_ai_deny_once">Accès restreint au presse-papiers pour %1$s</string>
-    <string name="clipboard_read_allow_once">%1$s a accédé aux éléments du presse-papiers</string>
-    <string name="clipboard_read_deny_dialog_title">Accès restreint au presse-papiers pour %1$s</string>
+    <string name="clipboard_read_ai_deny_once">Accès restreint au presse-papier pour %1$s</string>
+    <string name="clipboard_read_allow_once">%1$s a accédé aux éléments du presse-papier</string>
+    <string name="clipboard_read_deny_dialog_title">Accès restreint au presse-papier pour %1$s</string>
     <string name="close">Fermer</string>
     <string name="current_permission_template">%1$s de %2$s</string>
     <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
@@ -187,7 +187,7 @@
     <string name="go_perm_manager">Gérer les permissions</string>
     <string name="go_setting">Paramètres</string>
     <string name="gold_master_dialog_reject">Restreindre (%d)</string>
-    <string name="gold_master_dialog_title">%1$s souhaite accéder à votre presse-papiers</string>
+    <string name="gold_master_dialog_title">%1$s souhaite accéder à votre presse-papier</string>
     <string name="grant_dialog_button_allow">Autoriser</string>
     <string name="grant_dialog_button_allow_always">Autoriser tout le temps</string>
     <string name="grant_dialog_button_allow_background">Autoriser tout le temps</string>
