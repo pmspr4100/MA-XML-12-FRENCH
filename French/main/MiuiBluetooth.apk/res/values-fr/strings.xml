@@ -900,9 +900,9 @@ Tout utilisateur peut mettre à jour les applications de tous les autres utilisa
     <string name="wifi_security_short_none_owe">Aucune/OWE</string>
     <string name="wifi_security_wapi_psk_ascii">ASCII</string>
     <string name="wifi_security_wapi_psk_hexadecimal">Hexadécimal</string>
-    <string name="wifi_security_wpa">WPA-Personnel</string>
-    <string name="wifi_security_wpa_wpa2">WPA/WPA2-Personnel</string>
-    <string name="wifi_security_wpa2">WPA2-Personnel</string>
+    <string name="wifi_security_wpa">WPA Personnel</string>
+    <string name="wifi_security_wpa_wpa2">WPA/WPA2 Personnel</string>
+    <string name="wifi_security_wpa2">WPA2 Personnel</string>
     <string name="wifi_ssid_is_empty">Le SSID ne doit pas être vide</string>
     <string name="wifi_ssid_length_is_max">"Le SSID peut faire jusqu'à 32 caractères de long"</string>
     <string name="wifi_status_mac_randomized">MAC aléatoire</string>
@@ -910,7 +910,7 @@ Tout utilisateur peut mettre à jour les applications de tous les autres utilisa
     <string name="wifi_status_sign_in_required">Authentification requise</string>
     <string name="wifi_unmetered_label">Non mesuré</string>
     <string name="wifi_unsaved_network_linking">Passerelle SSID ‑ Connexion automatique</string>
-    <string name="wifi_unsaved_network_linking_summary">"Active les tentatives de connexion automatique à un nouveau SSID WPA/WPA2-PSK 5 GHz avec les informations d'identification SSID WPA/WPA2-PSK 2 GHz actuellement connectées sur la correspondance partielle SSID et BSSID"</string>
+    <string name="wifi_unsaved_network_linking_summary">"Active les tentatives de connexion automatique à un nouveau SSID WPA/WPA2 Personnel 5 GHz avec les informations d'identification SSID WPA/WPA2 Personnel 2.4 GHz actuellement connectées sur la correspondance partielle SSID et BSSID"</string>
     <string name="wifi_verbose_logging">Activer la journalisation détaillée du Wi-Fi</string>
     <string name="wifi_verbose_logging_summary">Augmente le niveau de journalisation Wi-Fi (affiche par SSID RSSI dans le sélecteur Wi-Fi)</string>
     <string name="wifi_wapi_as_certificate">Certificat AS</string>
@@ -923,7 +923,7 @@ Il semble que le stockage des accès soit désactivé."</string>
     <string name="wifi_wapi_psk_type">Type de mot de passe</string>
     <string name="wifi_wapi_user_certificate">Certificat utilisateur</string>
     <string name="wifi_whitelist_roaming">Passerelle SSID ‑ Fast Handover</string>
-    <string name="wifi_whitelist_roaming_summary">"Activer l'itinérance entre différents points d'accès SSID WPA/WPA2-PSK avec la même adresse MAC de passerelle"</string>
+    <string name="wifi_whitelist_roaming_summary">"Activer l'itinérance entre différents points d'accès SSID WPA/WPA2 Personnel avec la même adresse MAC de passerelle"</string>
     <string name="window_animation_scale_title">"Échelle d'animation de la fenêtre"</string>
     <string name="xiaomi_account_bt_sync_name">Bluetooth</string>
     <string name="yesterday">Hier</string>
