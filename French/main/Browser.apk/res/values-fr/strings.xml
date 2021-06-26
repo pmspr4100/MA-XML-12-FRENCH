@@ -440,7 +440,7 @@ pour voir les onglets ouverts dans les autres appareils."</string>
   <string name="find_on_page_prev">Retour</string>
   <string name="finish_sync_cloud_tabs">Synced successfully</string>
   <string name="fmt_date_long_year_month">MMMM yyyy</string>
-  <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
+  <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
   <string name="fmt_date_numeric_month_day">dd/MM</string>
   <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_short_month_day">dd/MM</string>
@@ -1107,7 +1107,7 @@ Navigateur a besoin de se connecter à internet pour fonctionner normalement. Vo
   <string name="srl_header_refreshing">Refreshing…</string>
   <string name="srl_header_release">Release To Refresh</string>
   <string name="srl_header_secondary">Release To Second Floor</string>
-  <string name="srl_header_update">"'Last Update' M-d HH:mm"</string>
+  <string name="srl_header_update">"'Dernière mise à jour' dd-MM HH:mm"</string>
   <string name="ssl_bad_clock_date_settings">Régler la date</string>
   <string name="ssl_bad_clock_warning" formatted="false">"Une connexion privée à %s1 ne peut pas être établie car la date et l'heure de votre appareil (%s2) sont incorrectes."</string>
   <string name="ssl_certificate">Certificat de sécurité</string>
