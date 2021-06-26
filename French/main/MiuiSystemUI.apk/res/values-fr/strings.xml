@@ -970,7 +970,7 @@ Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données.
   <string name="float_incall_message">Message</string>
   <string name="float_notification_snooze_strategy">Masquer temporairement les notifications flottantes</string>
   <string name="fmt_date_long_month_day">d MMMM</string>
-  <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
+  <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
   <string name="fmt_date_numeric_month_day">dd/MM</string>
   <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_short_month_day">dd/MM</string>
@@ -1200,7 +1200,7 @@ Utilisez uniquement le chargeur fourni."</string>
   <string name="keyguard_carrier_default">Aucun service.</string>
   <string name="keyguard_charged">Chargée</string>
   <string name="keyguard_charging_back_to_lockscreen">"Retour à l'écran de verrouillage"</string>
-  <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
+  <string name="keyguard_charging_info_last_charge_time">dd/MM H:mm</string>
   <string name="keyguard_charging_info_last_charge_today_time">"Aujourd'hui %s"</string>
   <string name="keyguard_charging_info_last_charge_yesterday_time">Hier %s</string>
   <string name="keyguard_charging_normal_and_level_tip">Charge %d%%</string>
@@ -1617,7 +1617,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="mtrl_chip_close_icon_content_description">Supprimer %1$s</string>
   <string name="mtrl_picker_cancel">Annuler</string>
   <string name="mtrl_picker_confirm">Sauvegarder</string>
-  <string name="mtrl_picker_date_format">d MMM, yyyy</string>
+  <string name="mtrl_picker_date_format">d MMM yyyy</string>
   <string name="mtrl_picker_header_prompt">Sélectionnez une date</string>
   <string name="mtrl_picker_range_header_prompt">Sélectionnez une plage de dates</string>
   <string name="multi_face_delete_message">Attention</string>

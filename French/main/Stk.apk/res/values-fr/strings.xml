@@ -60,8 +60,8 @@
     <string name="expand_button_title">Avancé</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
-    <string name="fmt_date_numeric_month_day">d/M</string>
-    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
+    <string name="fmt_date_numeric_month_day">dd/MM</string>
+    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
     <string name="friday">Vendredi</string>
@@ -137,7 +137,7 @@
     <string name="mtrl_chip_close_icon_content_description">Supprimer %1$s</string>
     <string name="mtrl_picker_cancel">Annuler</string>
     <string name="mtrl_picker_confirm">Enregistrer</string>
-    <string name="mtrl_picker_date_format">d MMM, yyyy</string>
+    <string name="mtrl_picker_date_format">d MMM yyyy</string>
     <string name="mtrl_picker_header_prompt">Sélectionnez une date</string>
     <string name="mtrl_picker_range_header_prompt">Sélectionnez une plage de dates</string>
     <string name="night">Soirée</string>
