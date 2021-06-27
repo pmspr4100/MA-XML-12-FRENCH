@@ -134,15 +134,15 @@
     <string name="bh_cur_pkg">Forfait actuel</string>
     <string name="bh_current_no_sim">"La carte SIM n'est pas insérée"</string>
     <string name="bh_current_sim_number">Numéro de téléphone de la carte SIM %1$s</string>
-    <string name="bh_data_in_real_card"><Data>&lt;font color =#FF6666&gt;Using SIM card mobile data&lt;/font&gt;</Data></string>
-    <string name="bh_data_switch_off"><Data>&lt;font color =#FF6666&gt;Mobile data is off&lt;/font&gt;</Data></string>
+    <string name="bh_data_in_real_card">&lt;Data>&lt;font color=#FF6666>Utilisation des données mobiles de la carte SIM&lt;/font>&lt;/Data></string>
+    <string name="bh_data_switch_off">&lt;Data>&lt;font color=#FF6666>Les données mobiles sont désactivées&lt;/font>&lt;/Data></string>
     <string name="bh_day">j</string>
     <string name="bh_delay_hint">"L'information peut être actualisé avec retard. Contactez votre opérateur pour obtenir l'information la plus récente."</string>
     <string name="bh_delete">Supprimer</string>
     <string name="bh_delete_charged_phone_number">Supprimer le numéro de téléphone récemment utilisé</string>
     <string name="bh_delete_edited_phone_number">Supprimer le numéro de téléphone entré</string>
     <string name="bh_delete_success">Supprimer avec succès</string>
-    <string name="bh_device_not_available_hint"><Data>"&lt;font color =#F22424&gt;Impossible d'utiliser ce périphérique.&lt;/font&gt;La carte SIM virtuelle a été émise pour être utilisée sur l'appareil sur lequel l'achat a été effectué (&lt;font color =#F22424&gt;%1$s&lt;/font&gt;). Utilisez plutôt cet appareil."</Data></string>
+    <string name="bh_device_not_available_hint">&lt;Data>"&lt;font color='#F22424'>Impossible d'utiliser ce périphérique.&lt;/font>La carte SIM virtuelle a été émise pour être utilisée sur l'appareil sur lequel l'achat a été effectué (&lt;font color='#F22424'>%1$s&lt;/font>). Utilisez plutôt cet appareil."&lt;/Data></string>
     <string name="bh_discover">Découvrir</string>
     <string name="bh_edit_saved_phone_number">Éditer le libellé pour le numéro enregistré</string>
     <string name="bh_edit_sim_num">Éditer le numéro de téléphone SIM</string>
@@ -150,7 +150,7 @@
     <string name="bh_express_name">Service de livraison</string>
     <string name="bh_express_number">Numéro du colis</string>
     <string name="bh_fetch_balance">Consulter le solde</string>
-    <string name="bh_flight_mode_on"><Data>&lt;font color =#FF6666&gt;Le mode avion est activé&lt;/font&gt;</Data></string>
+    <string name="bh_flight_mode_on">&lt;Data>&lt;font color=#FF6666>Le mode avion est activé&lt;/font>&lt;/Data></string>
     <string name="bh_flow_exceed">Limite dépassée</string>
     <string name="bh_flow_order">Données mobiles</string>
     <string name="bh_flow_service">Données mobiles</string>
@@ -540,8 +540,8 @@ Les cartes de contact ont été désactivées"</string>
     <string name="create_group_item_label">Créer un nouveau groupe</string>
     <string name="create_qrcode_fail_message">Impossible de créer le QR code</string>
     <string name="cta_content_seg1">
-        <Data>"&lt;strong&gt;Avertissement important
-    En appuyant sur \"J'accepte\" ci-dessous, vous acceptez les &lt;font color=#33aaff&gt;&lt;a href ='https://static.account.xiaomi.com/html/agreement/account/en.html'&gt;Conditions de service du Compte Mi&lt;/a&gt;&lt;/font&gt;, l'&lt;font color=#33aaff&gt;&lt;a href ='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'&gt;Accord d'utilisation Mi Roaming&lt;/a&gt;&lt;/font&gt;, et la &lt;font color=#33aaff&gt;&lt;a href ='http://www.miui.com/res/doc/privacy/en.html'&gt;Politique de confidentialité&lt;/a&gt;&lt;/font&gt;. Lisez attentivement ces documents et veillez à bien comprendre tous les Termes relatifs et les Conditions avant d'accepter.&lt;/strong&gt;"</Data>
+        &lt;Data>"&lt;strong>Avertissement important
+    En appuyant sur \"J'accepte\" ci-dessous, vous acceptez les &lt;font color=#33aaff>&lt;a href='https://static.account.xiaomi.com/html/agreement/account/en.html'>Conditions de service du Compte Mi&lt;/a>&lt;/font>, l'&lt;font color=#33aaff>&lt;a href='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'>Accord d'utilisation Mi Roaming&lt;/a>&lt;/font>, et la &lt;font color=#33aaff>&lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Politique de confidentialité&lt;/a>&lt;/font>. Lisez attentivement ces documents et veillez à bien comprendre tous les Termes relatifs et les Conditions avant d'accepter.&lt;/strong>"&lt;/Data>
     </string>
     <string name="cta_content_seg2">"
     Mi Roaming nécessite une connexion à internet et doit accéder à vos informations de localisation pour fonctionner normalement. De plus, Mi Roaming est suceptible de collecter, d'utiliser, et de partager vos données personnelles. Celles-ci seront protégées en accord avec les lois et réglementations locales."</string>
@@ -549,14 +549,14 @@ Les cartes de contact ont été désactivées"</string>
     <string name="cta_dialog_ok">"J'accepte"</string>
     <string name="cta_dialog_title">Termes et Conditions</string>
     <string name="cta_newcontent_seg1">
-        <Data>"Nous avons mis à jour l'&lt;font color=#33aaff&gt;&lt;a href ='https://static.account.xiaomi.com/html/agreement/account/en.html'&gt;Accord de service du Compte Mi&lt;/a&gt;&lt;/font&gt;, l'&lt;font color=#33aaff&gt;&lt;a href ='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'&gt;Accord d'utilisation Mi Roaming&lt;/a&gt;&lt;/font&gt;, et la &lt;font color=#33aaff&gt;&lt;a href ='https://privacy.mi.com/business_hall/zh_CN/'&gt;Politique de confidentialité&lt;/a&gt;&lt;/font&gt;. &lt;strong&gt;Lisez attentivement ces documents et veillez à bien comprendre tous les Termes relatifs et les Conditions avant d'accepter.&lt;/strong&gt;"</Data>
+        &lt;Data>"Nous avons mis à jour l'&lt;font color=#33aaff>&lt;a href='https://static.account.xiaomi.com/html/agreement/account/en.html'>Accord de service du Compte Mi&lt;/a>&lt;/font>, l'&lt;font color=#33aaff>&lt;a href='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'>Accord d'utilisation Mi Roaming&lt;/a>&lt;/font>, et la &lt;font color=#33aaff>&lt;a href='https://privacy.mi.com/business_hall/zh_CN/'>Politique de confidentialité&lt;/a>&lt;/font>. &lt;strong>Lisez attentivement ces documents et veillez à bien comprendre tous les Termes relatifs et les Conditions avant d'accepter.&lt;/strong>"&lt;/Data>
     </string>
     <string name="cta_newcontent_seg2">"
     Mi Roaming est susceptible de collecter, d'utiliser, et de partager vos données personnelles. Celles-ci seront protégées en accord avec les lois et réglementations locales.
     "</string>
     <string name="cta_newcontent_seg3">
-        <Data>"&lt;strong&gt;Avertissement important
-    En appuyant sur \"J'accepte\" ci-dessous, vous acceptez tous les Termes et Conditions inclus dans les documents listés ci-dessus.&lt;/strong&gt;"</Data>
+        &lt;Data>"&lt;strong>Avertissement important
+    En appuyant sur \"J'accepte\" ci-dessous, vous acceptez tous les Termes et Conditions inclus dans les documents listés ci-dessus.&lt;/strong>"&lt;/Data>
     </string>
     <string name="customLabelPickerTitle">Nom personnalisé</string>
     <string name="custom_list_filter">Définir une vue personnalisée</string>
@@ -692,7 +692,7 @@ Les cartes de contact ont été désactivées"</string>
     <string name="dialog_phone_call_prohibited_message">Appel non émis</string>
     <string name="dialog_sync_add">Ajouter une synchronisation au groupe</string>
     <string name="dialog_voicemail_airplane_mode_message">Pour appeler votre boîte vocale, désactiver le mode avion.</string>
-    <string name="dialog_voicemail_not_ready_message">Pour paramétrer la messagerie vocale, allez dans Menu &gt; Paramètres.</string>
+    <string name="dialog_voicemail_not_ready_message">Pour paramétrer la messagerie vocale, allez dans Menu > Paramètres.</string>
     <string name="directory_search_label">Dossier</string>
     <string name="disclaimer_text">"Les Pages jaunes obtiennent les informations sur votre solde en envoyant un SMS. Votre transporteur peut mettre à jour ces informations avec un délai, de sorte que les numéros que vous obtenez peuvent ne pas être exacts. Si vous voyez une erreur, vous pouvez signaler le SMS pour nous aider à améliorer ce service. 
 
@@ -1037,7 +1037,7 @@ Raison: \"%s\""</string>
     <string name="miuix_sb_tracking_progress_labe_refreshed">actualisation terminé</string>
     <string name="miuix_sb_tracking_progress_labe_refreshing">actualiser</string>
     <string name="miuix_sb_tracking_progress_labe_release_to_refresh">release to refresh</string>
-    <string name="miuix_sb_tracking_progress_labe_up_nodata">aucune données</string>
+    <string name="miuix_sb_tracking_progress_labe_up_nodata">aucune donnée</string>
     <string name="miuix_sb_tracking_progress_labe_up_none">ne fais pas ça</string>
     <string name="miuix_sb_tracking_progress_labe_up_refresh">actualiser</string>
     <string name="miuix_sb_tracking_progress_labe_up_refresh_fail">échec</string>
@@ -1094,10 +1094,8 @@ Raison: \"%s\""</string>
     <string name="month_september_short">Sep</string>
     <string name="month_september_shortest">Sep</string>
     <string name="more">Plus</string>
-    <string name="more_call_logs">
-        "Écoutez tous vos enregistrements d'appel sur "
-        <a href="https://i.mi.com">i.mi.com</a>
-    </string>
+    <string name="more_call_logs">"Écoutez tous vos enregistrements d'appel sur
+&lt;a href=\"https://i.mi.com\">i.mi.com&lt;/a>"</string>
     <string name="morning">Matin</string>
     <string name="move_and_resize">Déplacer et redimensionner</string>
     <string name="multi_number_menu_call">Appel</string>
@@ -1136,13 +1134,13 @@ Raison: \"%s\""</string>
 
 Pour ajouter un contact à votre liste de favoris:
 
-"&lt;li&gt;Appuyez sur le &lt;b&gt;Contacts&lt;/b&gt;" tab
-        "&lt;li&gt;Appuyez sur le &lt;b&gt;Contacts&lt;/b&gt;" tab
-"&lt;/li&gt;" 
-"&lt;li&gt;"Appuyez sur le contact que vous souhaitez ajouter à vos favoris
-"&lt;/li&gt;" 
-"&lt;li&gt;"Appuyez sur l'étoile à côté du nom du contact
-"&lt;/li&gt;"
+"&lt;li>Appuyez sur le &lt;b>Contacts&lt;/b>" tab
+        "&lt;li>Appuyez sur le &lt;b>Contacts&lt;/b>" tab
+"&lt;/li>" 
+"&lt;li>"Appuyez sur le contact que vous souhaitez ajouter à vos favoris
+"&lt;/li>" 
+"&lt;li>"Appuyez sur l'étoile à côté du nom du contact
+"&lt;/li>"
     "</string>
     <string name="noGroups">Aucun groupe</string>
     <string name="noMatchingContacts">Aucun contact ne correspond à la recherche.</string>
@@ -1569,7 +1567,7 @@ Pour commencer, appuyez sur l'icône fusionner en bas de votre écran."</string>
     <string name="status_busy">Occupé</string>
     <string name="status_not_allow_use">Non disponible</string>
     <string name="status_not_enable">
-        <Data>&lt;font color =#0D84FF&gt;Non activé&lt;/font&gt;</Data>
+        &lt;Data>&lt;font color=#0D84FF>Non activé&lt;/font>&lt;/Data>
     </string>
     <string name="strequentList">Favoris</string>
     <string name="success_message_import_from_account">Contact importé</string>
@@ -1599,10 +1597,10 @@ Pour commencer, appuyez sur l'icône fusionner en bas de votre écran."</string>
     <string name="text_paid_fee">Montant de la commande</string>
     <string name="text_phone_num">Numéro de téléphone</string>
     <string name="text_status_otherModel">
-        <Data>"&lt;font color =#0D84FF&gt;Activation impossible&lt;/font&gt;"</Data>
+        &lt;Data>&lt;font color=#0D84FF>Activation impossible&lt;/font>&lt;/Data>
     </string>
     <string name="text_status_using">
-        <Data>&lt;font color =#FF6666&gt;En utilisation&lt;/font&gt;</Data>
+        &lt;Data>&lt;font color=#FF6666>En utilisation&lt;/font>&lt;/Data>
     </string>
     <string name="text_traffic_package">Forfait de données</string>
     <string name="text_vsim_remain_time">Minutes restantes</string>

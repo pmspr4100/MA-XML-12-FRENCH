@@ -103,10 +103,10 @@
   <string name="autofill_province">Province</string>
   <string name="autofill_save_accessibility_title">Enregistrer pour la saisie automatique</string>
   <string name="autofill_save_no">Non, merci</string>
-  <string name="autofill_save_title">Enregistrer dans &lt;b&gt;%1$s&lt;/b&gt;?</string>
-  <string name="autofill_save_title_with_2types">Enregistrer %1$s et %2$s dans &lt;b&gt;%3$s&lt;/b&gt;?</string>
-  <string name="autofill_save_title_with_3types">Enregistrer %1$s, %2$s et %3$s dans &lt;b&gt;%4$s&lt;/b&gt;?</string>
-  <string name="autofill_save_title_with_type">Enregistrer %1$s dans &lt;b&gt;%2$s&lt;/b&gt;?</string>
+  <string name="autofill_save_title">Enregistrer dans &lt;b>%1$s&lt;/b>?</string>
+  <string name="autofill_save_title_with_2types">Enregistrer %1$s et %2$s dans &lt;b>%3$s&lt;/b>?</string>
+  <string name="autofill_save_title_with_3types">Enregistrer %1$s, %2$s et %3$s dans &lt;b>%4$s&lt;/b>?</string>
+  <string name="autofill_save_title_with_type">Enregistrer %1$s dans &lt;b>%2$s&lt;/b>?</string>
   <string name="autofill_save_type_address">adresse</string>
   <string name="autofill_save_type_credit_card">carte de paiement</string>
   <string name="autofill_save_type_email_address">adresse Email</string>
@@ -134,7 +134,7 @@
 ·Turns on Dark theme
 ·Turns off or restricts background activity, some visual effects, and other features like “Hey Google”
 
-"&lt;annotation id="url"&gt;Learn more&lt;/annotation&gt;</string>
+"&lt;annotation id="url">Learn more&lt;/annotation></string>
   <string name="battery_saver_notification_channel_name">Économiseur de batterie</string>
   <string name="battery_saver_off_alternative_notification_summary">"L'économiseur de batterie est désactivé. Les fonctions ne sont plus limitées."</string>
   <string name="battery_saver_off_notification_summary">"L'économiseur de batterie est éteint. Les fonctions ne sont plus limitées."</string>
@@ -158,7 +158,7 @@
   <string name="bugreport_title">Créer un rapport de bug</string>
   <string name="byteShort">octet(s)</string>
   <string name="cancel">Annuler</string>
-  <string name="candidates_style">&lt;u&gt;candidates&lt;/u&gt;</string>
+  <string name="candidates_style">&lt;u>candidates&lt;/u></string>
   <string name="capability_desc_canCaptureFingerprintGestures">"Peut enregistrer des gestes effectués sur le lecteur d'empreintes digitales de l'appareil."</string>
   <string name="capability_desc_canControlMagnification">"Contrôle le niveau de zoom et le positionnement de l'écran."</string>
   <string name="capability_desc_canPerformGestures">"Permet d'appuyer sur l'écran, de le balayer, de le pincer et d'effectuer d'autres gestes."</string>
@@ -190,7 +190,7 @@
   <string name="chooser_no_direct_share_targets">Action directe non disponible</string>
   <string name="chooser_wallpaper">"Changer de fond d'écran"</string>
   <string name="chooseUsbActivity">Sélectionnez une application pour le périphérique de stockage USB</string>
-  <string name="clearDefaultHintMsg">Pour supprimer les valeurs par défaut, accédez à Paramètres système &gt; Applications &gt; Téléchargements.</string>
+  <string name="clearDefaultHintMsg">Pour supprimer les valeurs par défaut, accédez à Paramètres système > Applications > Téléchargements.</string>
   <string name="ClipMmi">"Numéro de l'appelant (entrant)"</string>
   <string name="CLIRDefaultOffNextCallOff">Par défaut, les numéros des appelants ne sont pas restreints. Appel suivant: non restreint</string>
   <string name="CLIRDefaultOffNextCallOn">Par défaut, les numéros des appelants ne sont pas restreints. Appel suivant: restreint</string>
@@ -608,7 +608,7 @@ Voulez-vous vraiment quitter cette page ?"</string>
   <string name="kg_invalid_sim_pin_hint">Veuillez saisir un code PIN comprenant entre quatre et huit chiffres.</string>
   <string name="kg_invalid_sim_puk_hint">La clé PUK doit contenir 8 chiffres.</string>
   <string name="kg_login_account_recovery_hint">
-    <b>google.com/accounts/recovery</b>"Vous avez oublié votre nom d'utilisateur ou votre mot de passe ?
+    &lt;b>google.com/accounts/recovery&lt;/b>"Vous avez oublié votre nom d'utilisateur ou votre mot de passe ?
 Rendez-vous sur la page ".</string>
   <string name="kg_login_checking_password">Vérification du compte en cours…</string>
   <string name="kg_login_instructions">Pour déverrouiller le téléphone, veuillez vous connecter avec votre compte Google.</string>
@@ -676,7 +676,7 @@ Veuillez réessayer dans %3$d secondes."</string>
   <string name="lockscreen_failed_attempts_now_wiping">"Vous avez tenté de déverrouiller le téléphone de façon incorrecte à %d reprises. Sa configuration d'usine va être rétablie."</string>
   <string name="lockscreen_forgot_pattern_button_text">Schéma oublié ?</string>
   <string name="lockscreen_glogin_account_recovery_hint">
-    <b>google.com/accounts/recovery</b>"Vous avez oublié votre nom d'utilisateur ou votre mot de passe ?
+    &lt;b>google.com/accounts/recovery&lt;/b>"Vous avez oublié votre nom d'utilisateur ou votre mot de passe ?
 Accédez à la page ".</string>
   <string name="lockscreen_glogin_checking_password">Vérification en cours…</string>
   <string name="lockscreen_glogin_forgot_pattern">Déverrouillage du compte</string>
@@ -1026,7 +1026,7 @@ Veuillez réessayer dans %2$d secondes."</string>
   <string name="permdesc_writeHistoryBookmarks">"Permet à l'application de modifier l'historique du navigateur ou les favoris enregistrés sur votre téléphone. Cette autorisation peut lui permettre d'effacer ou de modifier les données du navigateur. Remarque : il est possible que cette autorisation ne soit pas appliquée par les navigateurs tiers ni par d'autres applications permettant de naviguer sur le Web."</string>
   <string name="permdesc_writeSettings">"Permet à l'application de modifier les paramètres du système. Des applications malveillantes peuvent exploiter cette fonctionnalité pour corrompre la configuration de votre système."</string>
   <string name="permdesc_writeSyncSettings">"Permet à une application de modifier les paramètres de synchronisation d'un compte. Cette autorisation peut, par exemple, être utilisée pour activer la synchronisation de l'application Contacts avec un compte."</string>
-  <string name="permgroupbackgroundrequest_location">"Allow Allow;b&gt;%1$s&lt;/b&gt; to access this device's location &lt;b&gt;all the time&lt;/b&gt;?"</string>
+  <string name="permgroupbackgroundrequest_location">"Allow Allow;b>%1$s&lt;/b> to access this device's location &lt;b>all the time&lt;/b>?"</string>
   <string name="permgroupbackgroundrequestdetail_location">"L'application ne peut actuellement accéder à l'emplacement que lorsque vous utilisez l'application"</string>
   <string name="permgroupdesc_activityRecognition">accéder à votre activité physique</string>
   <string name="permgroupdesc_calendar">accéder à votre agenda</string>
@@ -1051,16 +1051,16 @@ Veuillez réessayer dans %2$d secondes."</string>
   <string name="permgrouplab_sms">SMS</string>
   <string name="permgrouplab_storage">Stockage</string>
   <string name="permgrouprequest_activityRecognition">Permettre à %1$s pour accéder à votre activité physique ?</string>
-  <string name="permgrouprequest_calendar">"Permettre à &lt;b&gt;%1$s&lt;/b&gt; d'accéder à votre agenda ?"</string>
-  <string name="permgrouprequest_calllog">"Autoriser &lt;b&gt;%1$s&lt;/b&gt; à accéder aux journaux d'appels de votre téléphone ?"</string>
-  <string name="permgrouprequest_camera">Permettre à &lt;b&gt;%1$s&lt;/b&gt; de prendre des photos et de filmer des vidéos ?</string>
-  <string name="permgrouprequest_contacts">"Permettre à &lt;b&gt;%1$s&lt;/b&gt; d'accéder à vos contacts ?"</string>
-  <string name="permgrouprequest_location">"Permettre à &lt;b&gt;%1$s&lt;/b&gt; d'accéder à la position de cet appareil ?"</string>
-  <string name="permgrouprequest_microphone">"Permettre à &lt;b&gt;%1$s&lt;/b&gt; d'enregistrer des contenus audio ?"</string>
-  <string name="permgrouprequest_phone">Permettre à &lt;b&gt;%1$s&lt;/b&gt; de passer et gérer des appels téléphoniques ?</string>
-  <string name="permgrouprequest_sensors">"Permettre à &lt;b&gt;%1$s&lt;/b&gt; d'accéder aux données des capteurs relatives à vos signes vitaux ?"</string>
-  <string name="permgrouprequest_sms">"Permettre à &lt;b&gt;%1$s&lt;/b&gt; d'envoyer et d'afficher des SMS ?"</string>
-  <string name="permgrouprequest_storage">"Permettre à &lt;b&gt;%1$s&lt;/b&gt; d'accéder aux photos, contenus multimédias et fichiers sur votre appareil ?"</string>
+  <string name="permgrouprequest_calendar">"Permettre à &lt;b>%1$s&lt;/b> d'accéder à votre agenda ?"</string>
+  <string name="permgrouprequest_calllog">"Autoriser &lt;b>%1$s&lt;/b> à accéder aux journaux d'appels de votre téléphone ?"</string>
+  <string name="permgrouprequest_camera">Permettre à &lt;b>%1$s&lt;/b> de prendre des photos et de filmer des vidéos ?</string>
+  <string name="permgrouprequest_contacts">"Permettre à &lt;b>%1$s&lt;/b> d'accéder à vos contacts ?"</string>
+  <string name="permgrouprequest_location">"Permettre à &lt;b>%1$s&lt;/b> d'accéder à la position de cet appareil ?"</string>
+  <string name="permgrouprequest_microphone">"Permettre à &lt;b>%1$s&lt;/b> d'enregistrer des contenus audio ?"</string>
+  <string name="permgrouprequest_phone">Permettre à &lt;b>%1$s&lt;/b> de passer et gérer des appels téléphoniques ?</string>
+  <string name="permgrouprequest_sensors">"Permettre à &lt;b>%1$s&lt;/b> d'accéder aux données des capteurs relatives à vos signes vitaux ?"</string>
+  <string name="permgrouprequest_sms">"Permettre à &lt;b>%1$s&lt;/b> d'envoyer et d'afficher des SMS ?"</string>
+  <string name="permgrouprequest_storage">"Permettre à &lt;b>%1$s&lt;/b> d'accéder aux photos, contenus multimédias et fichiers sur votre appareil ?"</string>
   <string name="permgrouprequestdetail_location">"L'application aura seulement accès à l'emplacement pendant que vous utilisez l'application"</string>
   <string name="permission">Permission</string>
   <string name="permission_remember_choice">Se souvenir de</string>
@@ -1334,7 +1334,7 @@ L'écoute prolongée à un volume élevé peut endommager vos facultés auditive
   <string name="save_password_never">Jamais</string>
   <string name="save_password_notnow">Pas maintenant</string>
   <string name="save_password_remember">Mémoriser</string>
-  <string name="screen_compat_mode_hint">Réactivez ce mode en accédant à Paramètres système &gt; Applications &gt; Téléchargements</string>
+  <string name="screen_compat_mode_hint">Réactivez ce mode en accédant à Paramètres système > Applications > Téléchargements</string>
   <string name="screen_compat_mode_scale">"Mise à l'échelle"</string>
   <string name="screen_compat_mode_show">Toujours afficher</string>
   <string name="screen_lock">"Verrouillage de l'écran"</string>
@@ -1413,23 +1413,23 @@ L'écoute prolongée à un volume élevé peut endommager vos facultés auditive
   <string name="slice_more_content">%1$d autres</string>
   <string name="slices_permission_request">%1$s souhaite afficher des éléments de %2$s</string>
   <string name="sms">Envoyer un message</string>
-  <string name="sms_control_message">"&lt;b&gt;%1$s&lt;/b&gt; envoie un grand nombre de SMS. Autorisez-vous cette application à poursuivre l'envoi des messages ?"</string>
+  <string name="sms_control_message">"&lt;b>%1$s&lt;/b> envoie un grand nombre de SMS. Autorisez-vous cette application à poursuivre l'envoi des messages ?"</string>
   <string name="sms_control_no">Refuser</string>
   <string name="sms_control_title">Envoi de messages SMS</string>
   <string name="sms_control_yes">Autoriser</string>
   <string name="sms_desc">Envoyer un message au numéro de téléphone sélectionné</string>
   <string name="sms_premium_short_code_details">
-    <b>Ceci entraînera des frais sur votre compte de téléphonie mobile.</b>
+    &lt;b>Ceci entraînera des frais sur votre compte de téléphonie mobile.&lt;/b>
   </string>
   <string name="sms_short_code_confirm_allow">Envoyer</string>
   <string name="sms_short_code_confirm_always_allow">Toujours autoriser</string>
   <string name="sms_short_code_confirm_deny">Annuler</string>
-  <string name="sms_short_code_confirm_message">&lt;b&gt;%1$s&lt;/b&gt; souhaite envoyer un message à &lt;b&gt;%2$s&lt;/b&gt;.</string>
+  <string name="sms_short_code_confirm_message">&lt;b>%1$s&lt;/b> souhaite envoyer un message à &lt;b>%2$s&lt;/b>.</string>
   <string name="sms_short_code_confirm_never_allow">Ne jamais autoriser</string>
   <string name="sms_short_code_details">
-    <b>peut entraîner des frais</b> sur votre compte de téléphonie mobile.Ceci </string>
+    &lt;b>peut entraîner des frais&lt;/b> sur votre compte de téléphonie mobile.Ceci </string>
   <string name="sms_short_code_remember_choice">Mémoriser mon choix</string>
-  <string name="sms_short_code_remember_undo_instruction">Pour modifier: Paramètres &gt; Applications</string>
+  <string name="sms_short_code_remember_undo_instruction">Pour modifier: Paramètres > Applications</string>
   <string name="smv_application">"L'application %1$s (du processus %2$s) a enfreint ses propres règles du mode strict."</string>
   <string name="smv_process">Le processus %1$s a enfreint ses propres règles du mode strict.</string>
   <string name="ssl_ca_cert_noti_by_administrator">"Par l'administrateur de votre profil professionnel"</string>

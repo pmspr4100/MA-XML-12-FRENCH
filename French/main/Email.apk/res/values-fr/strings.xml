@@ -542,7 +542,7 @@
   <string name="forever">Toujours</string>
   <string name="forward">Transférer</string>
   <string name="forward_attachment">Transférer</string>
-  <string name="forward_attribution">---------- Message transféré ----------&lt;br&gt;De: %1$s&lt;br&gt;Date: %2$s&lt;br&gt;Objet: %3$s&lt;br&gt;À: %4$s&lt;br&gt;</string>
+  <string name="forward_attribution">---------- Message transféré ----------&lt;br>De: %1$s&lt;br>Date: %2$s&lt;br>Objet: %3$s&lt;br>À: %4$s&lt;br></string>
   <string name="forward_attribution_no_headers">---------- Message transféré ----------</string>
   <string name="forward_download_failed_ticker">Impossible de transférer une ou plusieurs pièces jointes.</string>
   <string name="forward_download_failed_title">Pièce jointe non transférée</string>
@@ -563,7 +563,7 @@
   <string name="general_preference_trash_contact">Filtrer les spams</string>
   <string name="general_preference_trash_contact_sum">Filtrer les e-mails des expéditeurs signalés par plusieurs utilisateurs</string>
   <string name="generic_attachment_problem">Impossible de joindre le fichier.</string>
-  <string name="get_database_exception">Effacer les données de cette application dans Paramètres &gt; Applications système et essayez à nouveau.</string>
+  <string name="get_database_exception">Effacer les données de cette application dans Paramètres > Applications système et essayez à nouveau.</string>
   <string name="get_oauth_code">Obtenir le code</string>
   <string name="gmail_acceleration">Utiliser le serveur proxy pour le compte Gmail</string>
   <string name="gmail_login_confirm_to_use_proxy">Utiliser le serveur proxy pour accéder à votre compte Gmail ?</string>
@@ -764,7 +764,7 @@ Bonjour, veuillez vérifier que le mot de passe de l'application est activé. S'
   <string name="mibill_privacy_policy_button1">Plus tard</string>
   <string name="mibill_privacy_policy_button2">Accepter</string>
   <string name="mibill_privacy_policy_description">Autoriser Mi Wallet à analyser et gérer vos factures automatiquement. Cette fonctionnalités est automatiquement désactivé pour les adresses e-mails de travail.</string>
-  <string name="mibill_privacy_policy_link">"En utilisant cette fonctionnalité, vous acceptez nos "&lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Conditions d'utilisation &lt;/a&gt;"</string>
+  <string name="mibill_privacy_policy_link">"En utilisant cette fonctionnalité, vous acceptez nos &lt;a href=\"https://www.mipay.com/res/doc/eula/email.html\">Conditions d'utilisation &lt;/a>"</string>
   <string name="mibill_privacy_policy_title">Gérer les factures automatiquement</string>
   <string name="min_payment_text">Paiement minimal</string>
   <string name="modify_contact_address">"Edit contact's email address"</string>
@@ -825,7 +825,7 @@ Essayez un autre compte de messagerie."</string>
   <string name="oauth_error_description">"Échec de l'authentification"</string>
   <string name="oauth_gmail_login_notify">"Entrez le nom d'utilisateur et le mot de passe de votre compte Google sur la page suivante."</string>
   <string name="oauth_login_continue">Continuer</string>
-  <string name="oauth_login_continue_qq">"Obtenez un code d'accès et connectez-vous &gt;"</string>
+  <string name="oauth_login_continue_qq">"Obtenez un code d'accès et connectez-vous >"</string>
   <string name="obtain_new_auth_code">Obtenir un nouveau code</string>
   <string name="ok">OK</string>
   <string name="okay_action">OK</string>
@@ -1231,14 +1231,14 @@ Supprimer le compte ?"</string>
   <string name="user_new_auth_code">Utilisez un nouveau code pour vous connecter</string>
   <string name="user_privacy_settings">Paramètres de confidentialité</string>
   <string name="user_privacy_settings_agreement_authorization">"(En appuyant sur « J'accepte », vous accordez à E-mail toutes les autorisations requises)"</string>
-  <string name="user_privacy_settings_path">Pour révoquer votre autorisation, accédez à Paramètres &gt; Paramètres de confidentialité.</string>
+  <string name="user_privacy_settings_path">Pour révoquer votre autorisation, accédez à Paramètres > Paramètres de confidentialité.</string>
   <string name="user_privacy_settings_summary">"Nous collecterons votre identifiant Android sous forme chiffrée et l'utiliserons comme identifiant utilisateur unique dans E-mail. Nous pouvons également collecter des journaux d'utilisation. Vous pouvez révoquer votre autorisation dans les paramètres de confidentialité à tout moment."</string>
   <string name="user_privacy_settings_title">Déclaration de confidentialité du courrier</string>
   <string name="verify_code">Code de vérification</string>
   <string name="version_string">Version : %s</string>
   <string name="view_more_conversations">Afficher plus de conversations</string>
   <string name="wait_for_manual_sync_body">"Ce compte n'est pas configuré pour se synchroniser automatiquement.
-Appuyer sur "&lt;b&gt;Sync Now&lt;/b&gt; pour synchroniser maintenant, ou &lt;b&gt;Modifier les paramètres de synchronisation&lt;/b&gt; pour configurer ce compte pour synchroniser automatiquement le courrier."</string>
+Appuyer sur "&lt;b>Sync Now&lt;/b> pour synchroniser maintenant, ou &lt;b>Modifier les paramètres de synchronisation&lt;/b> pour configurer ce compte pour synchroniser automatiquement le courrier."</string>
   <string name="wait_for_sync_title">En attente de synchronisation</string>
   <string name="wait_help_context">patienter</string>
   <string name="wait_while_update_db">Updating database…</string>

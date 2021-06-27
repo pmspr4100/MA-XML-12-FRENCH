@@ -64,28 +64,28 @@
         <item quantity="one">Libérez %2$s en prenant cette mesure</item>
     </plurals>
     <plurals name="dc_item_summary_apk">
-        <item quantity="other">"&lt;Data&gt;Vous pouvez supprimer &lt;font color=#0097FF&gt;%d&lt;/font&gt; paquets d'installation&lt;/Data&gt;"</item>
-        <item quantity="one">"&lt;Data&gt;Vous pouvez supprimer &lt;font color=#0097FF&gt;%d&lt;/font&gt; paquets d'installation&lt;/Data&gt;"</item>
+        <item quantity="other">&lt;Data>"Vous pouvez supprimer &lt;font color=#0097FF>%d&lt;/font> paquets d'installation"&lt;/Data></item>
+        <item quantity="one">&lt;Data>"Vous pouvez supprimer &lt;font color=#0097FF>%d&lt;/font> paquets d'installation"&lt;/Data></item>
     </plurals>
     <plurals name="dc_item_summary_app_data">
-        <item quantity="other">&lt;Data&gt;Vous pouvez effacer les données pour &lt;font color=#0097FF&gt;%d&lt;/font&gt; applications&lt;/Data&gt;</item>
-        <item quantity="one">&lt;Data&gt;Vous pouvez effacer les données pour &lt;font color=#0097FF&gt;%d&lt;/font&gt; application&lt;/Data&gt;</item>
+        <item quantity="other">&lt;Data>Vous pouvez effacer les données pour &lt;font color=#0097FF>%d&lt;/font> applications&lt;/Data></item>
+        <item quantity="one">&lt;Data>Vous pouvez effacer les données pour &lt;font color=#0097FF>%d&lt;/font> application&lt;/Data></item>
     </plurals>
     <plurals name="dc_item_summary_image">
-        <item quantity="other">&lt;Data&gt;Vous pouvez supprimer &lt;font color=#0097FF&gt;%d&lt;/font&gt; photos inutiles&lt;/Data&gt;</item>
-        <item quantity="one">&lt;Data&gt;Vous pouvez supprimer &lt;font color=#0097FF&gt;%d&lt;/font&gt; photo inutile&lt;/Data&gt;</item>
+        <item quantity="other">&lt;Data>Vous pouvez supprimer &lt;font color=#0097FF>%d&lt;/font> photos inutiles&lt;/Data></item>
+        <item quantity="one">&lt;Data>Vous pouvez supprimer &lt;font color=#0097FF>%d&lt;/font> photo inutile&lt;/Data></item>
     </plurals>
     <plurals name="dc_item_summary_large_file">
-        <item quantity="other">&lt;Data&gt;Vous pouvez supprimer &lt;font color=#0097FF&gt;%d&lt;/font&gt; fichiers volumineux&lt;/Data&gt;</item>
-        <item quantity="one">&lt;Data&gt;Vous pouvez supprimer &lt;font color=#0097FF&gt;%d&lt;/font&gt; fichier volumineux&lt;/Data&gt;</item>
+        <item quantity="other">&lt;Data>Vous pouvez supprimer &lt;font color=#0097FF>%d&lt;/font> fichiers volumineux&lt;/Data></item>
+        <item quantity="one">&lt;Data>Vous pouvez supprimer &lt;font color=#0097FF>%d&lt;/font> fichier volumineux&lt;/Data></item>
     </plurals>
     <plurals name="dc_item_summary_uninstall_app">
-        <item quantity="other">&lt;Data&gt;Vous pouvez désinstaller &lt;font color=#0097FF&gt;%d&lt;/font&gt; applications rarement utilisées&lt;/Data&gt;</item>
-        <item quantity="one">&lt;Data&gt;Vous pouvez désinstaller &lt;font color=#0097FF&gt;%d&lt;/font&gt; application rarement utilisée&lt;/Data&gt;</item>
+        <item quantity="other">&lt;Data>Vous pouvez désinstaller &lt;font color=#0097FF>%d&lt;/font> applications rarement utilisées&lt;/Data></item>
+        <item quantity="one">&lt;Data>Vous pouvez désinstaller &lt;font color=#0097FF>%d&lt;/font> application rarement utilisée&lt;/Data></item>
     </plurals>
     <plurals name="dc_item_summary_video">
-        <item quantity="other">&lt;Data&gt;Vous pouvez supprimer &lt;font color=#0097FF&gt;%d&lt;/font&gt; vidéos&lt;/Data&gt;</item>
-        <item quantity="one">&lt;Data&gt;Vous pouvez supprimer &lt;font color=#0097FF&gt;%d&lt;/font&gt; vidéo&lt;/Data&gt;</item>
+        <item quantity="other">&lt;Data>Vous pouvez supprimer &lt;font color=#0097FF>%d&lt;/font> vidéos&lt;/Data></item>
+        <item quantity="one">&lt;Data>Vous pouvez supprimer &lt;font color=#0097FF>%d&lt;/font> vidéo&lt;/Data></item>
     </plurals>
     <plurals name="deepclean_apk_summary">
         <item quantity="other">%d APKs trouvés, vous pouvez supprimer celles qui sont inutiles.</item>
@@ -124,12 +124,12 @@
         <item quantity="one">Supprimer %1$s photo de tous les appareils ?</item>
     </plurals>
     <plurals name="global_wa_clean_finish_audio">
-        <item quantity="other">&lt;Data&gt;Libéré &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (assez pour &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; chansons)&lt;/Data&gt;</item>
-        <item quantity="one">&lt;Data&gt;Libéré &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (assez pour &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; chanson)&lt;/Data&gt;</item>
+        <item quantity="other">&lt;Data>Libéré &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (assez pour &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> chansons)&lt;/Data></item>
+        <item quantity="one">&lt;Data>Libéré &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (assez pour &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> chanson)&lt;/Data></item>
     </plurals>
     <plurals name="global_wa_clean_finish_picture">
-        <item quantity="other">&lt;Data&gt;Libéré &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (assez pour &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; photos)&lt;/Data&gt;</item>
-        <item quantity="one">&lt;Data&gt;Libéré &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (assez pour &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; photo)&lt;/Data&gt;</item>
+        <item quantity="other">&lt;Data>Libéré &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (assez pour &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> photos)&lt;/Data></item>
+        <item quantity="one">&lt;Data>Libéré &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (assez pour &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> photo)&lt;/Data></item>
     </plurals>
     <plurals name="global_wa_image">
         <item quantity="other">%1$d fichiers</item>
@@ -140,8 +140,8 @@
         <item quantity="one">%1$d fichier</item>
     </plurals>
     <plurals name="global_wa_voice">
-        <item quantity="other">&lt;Data&gt;Trouvées &lt;big&gt;&lt;big&gt;&lt;font size=20 color=#FF9000 &gt;%1$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; messages vocaux&lt;/Data&gt;</item>
-        <item quantity="one">&lt;Data&gt;Trouvé &lt;big&gt;&lt;big&gt;&lt;font size=20 color=#FF9000 &gt;%1$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; message vocal&lt;/Data&gt;</item>
+        <item quantity="other">&lt;Data>Trouvées &lt;big>&lt;big>&lt;font size=20 color=#FF9000 >%1$d&lt;/font>&lt;/big>&lt;/big> messages vocaux&lt;/Data></item>
+        <item quantity="one">&lt;Data>Trouvé &lt;big>&lt;big>&lt;font size=20 color=#FF9000 >%1$d&lt;/font>&lt;/big>&lt;/big> message vocal&lt;/Data></item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Il y a 1 demi-heure</item>
@@ -207,10 +207,10 @@
     </plurals>
     <plurals name="resutl_function_install_app_summary">
         <item quantity="other">
-            <Data>"&lt;font color=#ff0000 &gt;%d&lt;/font&gt; les applications n'ont pas été utilisées depuis longtemps, jetez un œil."</Data>
+            &lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> les applications n'ont pas été utilisées depuis longtemps, jetez un œil."&lt;/Data>
         </item>
         <item quantity="one">
-            <Data>"&lt;font color=#ff0000 &gt;%d&lt;/font&gt; l'application n'a pas été utilisée depuis longtemps, jetez un œil."</Data>
+            &lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> l'application n'a pas été utilisée depuis longtemps, jetez un œil."&lt;/Data>
         </item>
     </plurals>
     <plurals name="rs_clean_size_hint_image">

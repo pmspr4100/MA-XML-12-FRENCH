@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <resources>
   <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
   <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
@@ -98,7 +98,7 @@ L'ID de votre compte: %s"</string>
   <string name="bind_weibo_description">Ajouter vos amis depuis Sina Weibo</string>
   <string name="bind_weixin">Connectez votre compte WeChat</string>
   <string name="binded">Connecté</string>
-  <string formatted="false" name="binded_description">"%s a été connecté à votre compte Mi.
+  <string name="binded_description" formatted="false">"%s a été connecté à votre compte Mi.
 Vous pouvez vous connecter à votre compte Mi en utilisant %s maintenant."</string>
   <string name="button_unbind">Déconnecter</string>
   <string name="change_activate_email">"Modifier l'adresse e-mail"</string>
@@ -206,8 +206,8 @@ Envoyez ce code au superviseur."</string>
   <string name="find_device_interrupted">"L'action a été interrompue, attendez une minute ou deux et essayez à nouveau"</string>
   <string name="find_device_io_error">Impossible de se connecter au réseau</string>
   <string name="find_device_location">Locate</string>
-  <string formatted="false" name="find_device_locked_account_email">%s, adresse Email associée: %s</string>
-  <string formatted="false" name="find_device_locked_account_phone">%s, numéro de téléphone associé: %s</string>
+  <string name="find_device_locked_account_email" formatted="false">%s, adresse Email associée: %s</string>
+  <string name="find_device_locked_account_phone" formatted="false">%s, numéro de téléphone associé: %s</string>
   <string name="find_device_message">Appareil verrouillé. Message: %1$s. Appeler %2$s.</string>
   <string name="find_device_null_credential_error">"Impossible d'obtenir les informations de l'appareil, contactez le service client Xiaomi"</string>
   <string name="find_device_open">Activé</string>
@@ -368,7 +368,6 @@ Envoyez ce code au superviseur."</string>
   <string name="oauth_title">Se connecter avec le compte Mi</string>
   <string name="ok">OK </string>
   <string name="optional_permissions">Permissions optionnelles</string>
-  <string name="passport_Resend">Renvoyer</string>
   <string name="passport_access_denied">Accès refusé</string>
   <string name="passport_account_hint_text">Email/Téléphone/ID de Compte Mi</string>
   <string name="passport_account_identity_title">Vérifier votre identité</string>
@@ -493,21 +492,21 @@ Envoyez ce code au superviseur."</string>
   <string name="passport_privacy_policy_required">Politique de confidentialité (obligatoire)</string>
   <string name="passport_provision_activator_phone_summary_sim1_prefix">
     SIM 
-    <xliff id="sim1" refersto="1">%1$d</xliff>
+    &lt;xliff id="sim1" refersto="1"&gt;%1$d&lt;/xliff&gt;
      %2$s
   </string>
   <string name="passport_provision_activator_phone_summary_sim2_prefix">
     SIM 
-    <xliff id="sim2" refersto="2">%1$d</xliff>
+    &lt;xliff id="sim2" refersto="2"&gt;%1$d&lt;/xliff&gt;
      %2$s
   </string>
   <string name="passport_provision_input_email_register_prompt">Vos données personnelles seront stockées conformément aux lois et règlements de la région que vous sélectionnez.</string>
   <string name="passport_provision_password_req_notice">
-    <xliff id="min_pwd_len" refersto="8">%1$d</xliff>
+    &lt;xliff id="min_pwd_len" refersto="8"&gt;%1$d&lt;/xliff&gt;
     -
-    <xliff id="max_pwd_len" refersto="16">%2$d</xliff>
+    &lt;xliff id="max_pwd_len" refersto="16"&gt;%2$d&lt;/xliff&gt;
      caractères sur au moins 
-    <xliff id="min_pwd_type" refersto="2">%3$d</xliff>
+    &lt;xliff id="min_pwd_type" refersto="2"&gt;%3$d&lt;/xliff&gt;
      des types suivants : lettres, chiffres, symboles spéciaux
   </string>
   <string name="passport_pwd_generate_failure">Impossible de générer un mot de passe</string>
@@ -554,6 +553,7 @@ Envoyez ce code au superviseur."</string>
   <string name="passport_relogin_notice">Reconnectez-vous</string>
   <string name="passport_remove_confirm">Déconnexion</string>
   <string name="passport_remove_unactivated_account_notice">"Votre compte n'a pas été activé."</string>
+  <string name="passport_Resend">Renvoyer</string>
   <string name="passport_resend_active_email">"Ré-envoyer l'Email"</string>
   <string name="passport_reset_fail_title">Impossible de réinitialiser</string>
   <string name="passport_reset_password_prompt">Mot de passe incorrect</string>
@@ -596,7 +596,7 @@ Envoyez ce code au superviseur."</string>
   <string name="passport_use_generated_pwd_message">"Assurez-vous de vous souvenir de votre mot de passe. Vous pourrez l'utiliser pour vous connecter à d'autres services Mi."</string>
   <string name="passport_use_generated_pwd_title">Se souvenir de votre mot de passe !</string>
   <string name="passport_user_agreement">"Accord d'utilisation"</string>
-  <string name="passport_user_agreement_link">"&lt;Data&gt;"J'ai lu et accepté Xiaomi &amp;lt;a href=%1$s&amp;gt;Accord d'utilisation&amp;lt;/a&amp;gt; et &amp;lt;a href=%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;."&lt;/Data&gt;"</string>
+  <string name="passport_user_agreement_link">&lt;Data&gt;"J'ai lu et accepté Xiaomi &lt;a href=%1$s&gt;Accord d'utilisation&lt;/a&gt; et &lt;a href=%2$s&gt;Politique de confidentialité&lt;/a&gt;."&lt;/Data&gt;</string>
   <string name="passport_user_agreement_required">"Accord d'utilisation (obligatoire)"</string>
   <string name="passport_user_id_notice">Votre ID de compte Mi est %s.</string>
   <string name="passport_user_reg_region">Pays/Région</string>

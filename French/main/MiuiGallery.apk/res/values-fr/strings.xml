@@ -509,13 +509,13 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
   <string name="confirm_hidden_recommend_group_message">"Quand les recommandations sont arrêtées, vous pouvez toujours utiliser l'option \"Plus de personnes qui se ressemblent\""</string>
   <string name="confirm_hidden_recommend_group_title">Ne pas afficher les recommandations</string>
   <string name="confirm_hide_selected_albums">Masquer les albums sélectionnés ?</string>
-  <string name="confirm_merge_face_albums"><Data>Fusionner cet album avec %s ?</Data></string>
-  <string name="confirm_merge_many_face_albums"><Data>Fusionner ces albums avec %s ?</Data></string>
+  <string name="confirm_merge_face_albums">&lt;Data>Fusionner cet album avec %s ?&lt;/Data></string>
+  <string name="confirm_merge_many_face_albums">&lt;Data>Fusionner ces albums avec %s ?&lt;/Data></string>
   <string name="confirm_not_face">Ne correspond pas</string>
-  <string name="confirm_recommandation_face_is"><Data>"Êtes-vous sûr que c'est &lt;font color=#323232&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt; ? Cette personne sera déplacée vers l'album \"%2$s\"."</Data></string>
-  <string name="confirm_recommandation_face_not"><Data>"Êtes-vous certain que ce n'est pas plutôt &lt;font color=#323232&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt; ?"</Data></string>
-  <string name="confirm_recommandation_multiple_faces_are"><Data>"Êtes-vous sûr que ce sont &lt;font color=#323232&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt; ? Ces personnes seront déplacées vers l'album \"%2$s\"."</Data></string>
-  <string name="confirm_recommandation_multiple_faces_not"><Data>Êtes-vous certain que ce ne sont pas plutôt &lt;font color=#323232&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt; ?</Data></string>
+  <string name="confirm_recommandation_face_is">&lt;Data>"Êtes-vous sûr que c'est &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font> ? Cette personne sera déplacée vers l'album \"%2$s\"."&lt;/Data></string>
+  <string name="confirm_recommandation_face_not">&lt;Data>"Êtes-vous certain que ce n'est pas plutôt &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font> ?"&lt;/Data></string>
+  <string name="confirm_recommandation_multiple_faces_are">&lt;Data>"Êtes-vous sûr que ce sont &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font> ? Ces personnes seront déplacées vers l'album \"%2$s\"."&lt;/Data></string>
+  <string name="confirm_recommandation_multiple_faces_not">&lt;Data>Êtes-vous certain que ce ne sont pas plutôt &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font> ?&lt;/Data></string>
   <string name="contact_tip">Contact</string>
   <string name="context_menu_add_contact">Ajouter aux contacts</string>
   <string name="context_menu_copy">Copier</string>
@@ -650,7 +650,7 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
   <string name="error_build_thumbnail_msg">Impossible de télécharger la miniature. Essayez de télécharger le fichier original.</string>
   <string name="error_build_thumbnail_tip">Impossible de télécharger la miniature.</string>
   <string name="error_change_storage_action">Changer de stockage</string>
-  <string name="error_change_storage_msg">Aller à Paramètres &gt; Stockage, changez de stockage et réessayez.</string>
+  <string name="error_change_storage_msg">Aller à Paramètres > Stockage, changez de stockage et réessayez.</string>
   <string name="error_cloud_not_active">Aucune photo dans Xiaomi Cloud</string>
   <string name="error_connect_timeout_action">Sélectionner un réseau</string>
   <string name="error_connect_timeout_msg">Connectez-vous à un autre réseau et réessayez.</string>
@@ -658,7 +658,7 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
   <string name="error_decode_tip">"Le format du fichier n'est pas pris en charge ou les fichiers sont corrompus."</string>
   <string name="error_download_tip">Impossible de télécharger</string>
   <string name="error_external_sdcard_write_action">Changer de stockage</string>
-  <string name="error_external_sdcard_write_msg">Aller à Paramètres &gt; Stockage, changez de stockage et réessayez.</string>
+  <string name="error_external_sdcard_write_msg">Aller à Paramètres > Stockage, changez de stockage et réessayez.</string>
   <string name="error_external_sdcard_write_tip">Impossible de sauvegarder des éléments sur la carte SD.</string>
   <string name="error_forbidden">La synchronisation a été désactivée en raison de problèmes avec votre compte Mi.</string>
   <string name="error_install_connect_fail">Impossible de charger le plug-in. Vérifez votre connexion réseau.</string>
@@ -717,7 +717,7 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
   <string name="expand_button_title">Avancé</string>
   <string name="expand_desc">Plus</string>
   <string name="expand_people">Afficher plus de personnes</string>
-  <string name="ext_sdcard_first_entrance_request_failed_text">La Galerie enregistre les éléments dans la mémoire interne à la place. Vous pouvez modifier cela dans Paramètres &gt; Stockage &gt; Paramètres de stockage.</string>
+  <string name="ext_sdcard_first_entrance_request_failed_text">La Galerie enregistre les éléments dans la mémoire interne à la place. Vous pouvez modifier cela dans Paramètres > Stockage > Paramètres de stockage.</string>
   <string name="ext_sdcard_first_entrance_request_failed_title">Impossible de donner les permissions.</string>
   <string name="ext_sdcard_guide_first_page_button_text">Suivant</string>
   <string name="ext_sdcard_guide_last_page_button_text">Donner les permissions</string>
@@ -1035,8 +1035,8 @@ sont disponibles"</string>
   <string name="kick_sharer_failed">Impossible de supprimer cette personne</string>
   <string name="kick_sharer_successfully">Cette personne a été supprimée</string>
   <string name="kilobyteShort">" Ko"</string>
-  <string name="limit_height">La hauteur doit être &gt; 0</string>
-  <string name="limit_width">La largeur doit être &gt; 0</string>
+  <string name="limit_height">La hauteur doit être > 0</string>
+  <string name="limit_width">La largeur doit être > 0</string>
   <string name="live_photo">Live photo</string>
   <string name="load_complete">Aucun élément ici</string>
   <string name="load_failed">Impossible de charger les informations, appuyez pour réessayer</string>
@@ -2194,7 +2194,7 @@ Le transcodage peut prendre un certain temps lorsque vous utilisez cette fonctio
   <string name="user_agreement2">"Conditions d'utilisation"</string>
   <string name="user_agreement4">Politique de confidentialité</string>
   <string name="user_alias_self">Auto</string>
-  <string name="user_notice_identify_summary_format">"&lt;Data&gt;"En utilisant ce service, vous acceptez les Conditions de Xiaomi &amp;lt;a href=\"%1$s\"&amp;gt;\"Conditions d'utilisation\"&amp;lt;/a&amp;gt; et &amp;lt;a href=\"%2$s\"&amp;gt;\"Politique de confidentialité\"&amp;lt;/a&amp;gt;."&lt;/Data&gt;"</string>
+  <string name="user_notice_identify_summary_format">&lt;Data>"En utilisant ce service, vous acceptez les Conditions de Xiaomi &lt;a href=\"%1$s\">\"Conditions d'utilisation\"&lt;/a> et &lt;a href=\"%2$s\">\"Politique de confidentialité\"&lt;/a>."&lt;/Data></string>
   <string name="user_notice_title">"Conditions générales d'utilisation"</string>
   <string name="v7_preference_off">DÉSACTIVÉ</string>
   <string name="v7_preference_on">ACTIVÉ</string>

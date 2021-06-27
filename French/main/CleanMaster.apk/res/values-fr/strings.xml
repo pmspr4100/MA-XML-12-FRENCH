@@ -698,8 +698,8 @@
   <string name="powerful_acceleration_notification_summary">"Appuyez pour libérer plus d'espace"</string>
   <string name="powerful_acceleration_notification_title">Défragmentation terminée</string>
   <string name="powerful_acceleration_tip">Le stockage interne souffre de fragmentation, ce qui peut ralentir considérablement votre appareil. La défragmentation organise physiquement vos fichiers dans le plus petit nombre de fragments, réduisant ainsi le décalage.</string>
-  <string name="powerful_acceleration_tip_high"><Data>Votre stockage est &lt;font color=#ff0000 >fortement&lt;/font> fragmenté. La défragmentation peut résoudre le problème.</Data></string>
-  <string name="powerful_acceleration_tip_middle"><Data>Votre stockage est &lt;font color=#ff0000 >légèrement&lt;/font> fragmenté. La défragmentation peut résoudre le problème.</Data></string>
+  <string name="powerful_acceleration_tip_high">&lt;Data>Votre stockage est &lt;font color=#ff0000 >fortement&lt;/font> fragmenté. La défragmentation peut résoudre le problème.&lt;/Data></string>
+  <string name="powerful_acceleration_tip_middle">&lt;Data>Votre stockage est &lt;font color=#ff0000 >légèrement&lt;/font> fragmenté. La défragmentation peut résoudre le problème.&lt;/Data></string>
   <string name="powerful_acceleration_toast">"La défragmentation sera effectuée lorsque vous n'utilisez pas l'appareil"</string>
   <string name="pref_about_privacy_title">Politique de confidentialité</string>
   <string name="pref_category_title_auto_clean_settings">Rappel de nettoyage</string>
@@ -763,9 +763,9 @@
   <string name="recommend_news">Recevoir des recommandations</string>
   <string name="recommend_the_following">Prenez les mesures suivantes pour tirer le meilleur parti de votre appareil</string>
   <string name="recommended">Sélection</string>
-  <string name="resutl_function_deep_clean_summary"><Data>"&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; d'autres fichiers peuvent être effacés. Libérez plus d'espace."</Data></string>
-  <string name="resutl_function_qq_clean_summary"><Data>"Vous pouvez nettoyer &amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; de cache généré par QQ"</Data></string>
-  <string name="resutl_function_wechat_clean_summary"><Data>"&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; du cache de WeChat. Libérez plus d'espace."</Data></string>
+  <string name="resutl_function_deep_clean_summary">&lt;Data>"&lt;font color=#ff0000 >%1$s&lt;/font> d'autres fichiers peuvent être effacés. Libérez plus d'espace."&lt;/Data></string>
+  <string name="resutl_function_qq_clean_summary">&lt;Data>"Vous pouvez nettoyer &lt;font color=#ff0000 >%1$s&lt;/font> de cache généré par QQ"&lt;/Data></string>
+  <string name="resutl_function_wechat_clean_summary">&lt;Data>"&lt;font color=#ff0000 >%1$s&lt;/font> du cache de WeChat. Libérez plus d'espace."&lt;/Data></string>
   <string name="rs_clean_size_free_space">%s libérés</string>
   <string name="rs_clean_size_storage_size">%1$s/%2$s occupés</string>
   <string name="rs_clean_size_storage_title">Stockage</string>

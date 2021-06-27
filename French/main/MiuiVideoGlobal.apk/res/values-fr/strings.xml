@@ -33,7 +33,7 @@
   <string name="account_crop_user_avatar">Recadrer la photo</string>
   <string name="account_empty_user_name">Entrez votre identifiant de Compte Mi</string>
   <string name="account_error_all_space_user_name">"L'identifiant ne doit pas contenir que des espaces"</string>
-  <string name="account_error_invalid_user_name">"L'identifiant ne doit pas contenir de &lt;, &gt;, ou /"</string>
+  <string name="account_error_invalid_user_name">"L'identifiant ne doit pas contenir de &lt;, >, ou /"</string>
   <string name="account_error_longer_user_name">Le nom ne peut pas faire plus de 20 caractères</string>
   <string name="account_error_shorter_user_name">Le nom doit faire plus de 2 caractères</string>
   <string name="account_error_user_birthday">La date de naissance entrée est invalide</string>
@@ -171,7 +171,7 @@
   <string name="columbus_player_close_video">FERMER LA VIDÉO</string>
   <string name="columbus_player_install_now">INSTALLER MAINTENANT</string>
   <string name="columbus_player_learn_more">En savoir plus</string>
-  <string name="com_facebook_device_auth_instructions">Consultez &lt;b&gt;facebook.com/device&lt;/b&gt; et entrez le code affiché ci-dessus.</string>
+  <string name="com_facebook_device_auth_instructions">Consultez &lt;b>facebook.com/device&lt;/b> et entrez le code affiché ci-dessus.</string>
   <string name="com_facebook_image_download_unknown_error">Une erreur inattendue s’est produite lors du téléchargement d’une image.</string>
   <string name="com_facebook_internet_permission_error_message">La connexion à WebView nécessite une autorisation INTERNET</string>
   <string name="com_facebook_internet_permission_error_title">Erreur AndroidManifest</string>
@@ -258,9 +258,9 @@ ID: %s
 Envoyez ce code au superviseur."</string>
   <string name="dialog_disagree_privacychange_info">"Vous ne pourrez pas utiliser les services de streaming en ligne Mi Vidéo si vous n'acceptez pas notre Politique de confidentialité. Appuyez sur \"Annuler\" pour revenir en arrière ou sur \"Refuser\" pour continuer et utiliser Mi Vidéo comme lecteur local uniquement."</string>
   <string name="dialog_disagree_privacychange_title">"Refuser ?"</string>
-  <string name="dialog_privacy_change_info">"Nous avons mis à jour la Politique de confidentialité de Mi Vidéo en raison des ajustements dans les services que nous proposons. Pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez nos &lt;a href=%1$s>Contrat utilisateur&lt;/a> et &lt;a href=%2$s>Politique de confidentialité&lt;/a> avant d'utiliser l'application."</string>
+  <string name="dialog_privacy_change_info">"Nous avons mis à jour la Politique de confidentialité de Mi Vidéo en raison des ajustements dans les services que nous proposons. Pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez notre &lt;a href=%1$s>Contrat utilisateur&lt;/a> et notre &lt;a href=%2$s>Politique de confidentialité&lt;/a>, avant d'utiliser l'application."</string>
   <string name="dialog_privacy_change_title">Mise à jour Politique de confidentialité</string>
-  <string name="dialog_privacy_info_new2">"Pour pouvoir utiliser ses services, vous devez accepter que %1$s collecte, traite et utilise vos informations personnelles. Nous considérons que vous avez lu et accepté notre &lt;a href=\"%2$s\"&gt;Politique de confidentialité&lt;/a&gt; lorsque vous appuyez sur \"Accepter\" ci-dessous."</string>
+  <string name="dialog_privacy_info_new2">"Pour pouvoir utiliser ses services, vous devez accepter que %1$s collecte, traite et utilise vos informations personnelles. Nous considérons que vous avez lu et accepté notre &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a> lorsque vous appuyez sur \"Accepter\" ci-dessous."</string>
   <string name="dialog_privacy_info_new3">"Pour pouvoir utiliser ce service, vous devez autoriser %1$s à collecter, traiter et utiliser vos informations personnelles conformément à la Politique de confidentialité. En appuyant sur \"J'accepte\" ci-dessous, vous acceptez la &lt;a href=%2$s>Politique de confidentialité&lt;/a> de Xiaomi et l'&lt;a href=%3$s>Accord d'utilisation&lt;/a>.&lt;br />&lt;br />Appuyer sur \"Accepter\" permet également à Mi Vidéo d'accéder à la liste des applications installées sur votre appareil. Avec cette autorisation, Mi Vidéo pourra partager des éléments, comprendre si une application est installée sur votre appareil, quelle version d'une application est installée et si une application est sécurisée."</string>
   <string name="dialog_privacy_info_new4">"Bienvenue sur Mi Vidéo ! Cette application fournit les services suivants : &lt;br>&lt;/ br> - Services de streaming en ligne&lt;br>&lt;/ br> - Un lecteur vidéo local&lt;br>&lt;/ br> Mi Vidéo doit collecter les informations personnelles nécessaires pour vous fournir les services de base. Vous pouvez découvrir comment nous traitons les informations que nous collectons dans notre Politique de confidentialité. Vous pourrez modifier les paramètres associés dans Paramètres > Mots de passe &amp;amp; sécurité.&lt;br>&lt;/ br>Lisez et acceptez notre &lt;a href=%1$s>Accord d'utilisation&lt;/ a> et notre &lt;a href=%2$s>Politique de confidentialité&lt;/ a> avant en utilisant Mi Vidéo."</string>
   <string name="dialog_privacy_revoke_cancel">Annuler</string>
@@ -429,7 +429,7 @@ Envoyez ce code au superviseur."</string>
   <string name="galleryplus_orientation_lock">Orientation verrouillée avec succès</string>
   <string name="galleryplus_orientation_unlock">"L'orientation de l'écran est déverrouillée"</string>
   <string name="galleryplus_permission_content">Donner à Mi Vidéo les permissions requises pour pouvoir utiliser cette fonctionnalité.</string>
-  <string name="galleryplus_permission_content2">"Pour pouvoir utiliser cette fonctionnalité, allez dans Paramètres &gt; Gestion des applications &gt; Applications installées &gt; Mi Vidéo &gt; Permissions, et autorisez Mi Vidéo à faire les choses suivantes:
+  <string name="galleryplus_permission_content2">"Pour pouvoir utiliser cette fonctionnalité, allez dans Paramètres > Gestion des applications > Applications installées > Mi Vidéo > Permissions, et autorisez Mi Vidéo à faire les choses suivantes:
 
 1. Accéder au stockage
 2. Accéder à l'ID de l'appareil"</string>
@@ -498,11 +498,11 @@ Envoyez ce code au superviseur."</string>
   <string name="item_card_related">En relation</string>
   <string name="item_setting_go_back">Retrait du consentement</string>
   <string name="just_a_second">Chargement…</string>
-  <string name="language_later_setting_tips">Vous pouvez modifier vos préférences de langue dans  &gt; Language.</string>
+  <string name="language_later_setting_tips">Vous pouvez modifier vos préférences de langue dans  > Language.</string>
   <string name="language_select_tips">"Sélectionnez votre langue préférée
 pour les vidéos"</string>
-  <string name="language_setting_tips">Sélectionnez vos préférences linguistiques pour recevoir des recommandations de contenu plus pertinentes. Vous pouvez modifier vos préférences linguistiques dans Profil &gt; Langue.</string>
-  <string name="language_setting_tips_dialog">Vous pouvez sélectionner les préférences de langue pour le contenu dans Compte &gt; Langue.</string>
+  <string name="language_setting_tips">Sélectionnez vos préférences linguistiques pour recevoir des recommandations de contenu plus pertinentes. Vous pouvez modifier vos préférences linguistiques dans Profil > Langue.</string>
+  <string name="language_setting_tips_dialog">Vous pouvez sélectionner les préférences de langue pour le contenu dans Compte > Langue.</string>
   <string name="later">Plus tard</string>
   <string name="library_android_database_sqlcipher_libraryDescription">Android SQLite API basé sur SQLCipher</string>
   <string name="library_android_database_sqlcipher_libraryName">SQLCipher pour Android</string>
@@ -616,7 +616,7 @@ pour les vidéos"</string>
   <string name="lv_subtitle_onlinesub_loading">Chargement des sous-titres…</string>
   <string name="lv_subtitle_onlinesub_loading_wait">Chargement des sous-titres…</string>
   <string name="lv_subtitle_onlinesub_right_declare">Avertissement</string>
-  <string name="lv_subtitle_onlinesub_right_declare_content">Obtenir les sous-titres &lt;br/&gt;&lt;br/&gt;de &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;Tous les sous-titres en ligne sont fournis par &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt;.</string>
+  <string name="lv_subtitle_onlinesub_right_declare_content">Obtenir les sous-titres &lt;br/>&lt;br/>de &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a>.&lt;br/>&lt;br/>Tous les sous-titres en ligne sont fournis par &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a>.</string>
   <string name="lv_subtitle_onlinesub_save_failed">"Impossible d'ajouter les sous-titres"</string>
   <string name="lv_subtitle_onlinesub_save_success">Sous-titres ajoutés avec succès</string>
   <string name="lv_subtitle_onlinesub_search_keyword">Entrez les mots-clés à rechercher</string>
@@ -883,8 +883,8 @@ Mettez d'abord à jour Mi Vidéo vers la dernière version."</string>
   <string name="passport_unknow_error">Une erreur inconnue est survenue</string>
   <string name="passport_unknow_host_network_error">Vérifiez vos paramètres réseau et réessayez</string>
   <string name="passport_unknow_network_error">"Une erreur réseau s'est produite"</string>
-  <string name="passport_user_agreement_link"><Data>"J'ai lu et accepté l'&lt;a href=\"%1$s\"&gt;Accord d'utilisation&lt;/a&gt; et la &lt;a href=\"%2$s\"&gt;Politique de confidentialité&lt;/a&gt; de Xiaomi.&lt;"</Data></string>
-  <string name="passport_user_agreement_link_more"><Data>"J'ai lu et accepté les documents suivants: &lt;a href=\"%1$s\"&gt;Accord d'utilisation&lt;/a&gt; et &lt;a href=\"%4$s\"&gt;Politique de confidentialité&lt;/a&gt; de Xiaomi, &lt;a href=\"%2$s\"&gt;\"%3$s\"&lt;/a&gt;."</Data></string>
+  <string name="passport_user_agreement_link">&lt;Data>"J'ai lu et accepté l'&lt;a href=\"%1$s\">Accord d'utilisation&lt;/a> et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a> de Xiaomi.&lt;"&lt;/Data></string>
+  <string name="passport_user_agreement_link_more">&lt;Data>"J'ai lu et accepté les documents suivants: &lt;a href=\"%1$s\">Accord d'utilisation&lt;/a> et &lt;a href=\"%4$s\">Politique de confidentialité&lt;/a> de Xiaomi, &lt;a href=\"%2$s\">\"%3$s\"&lt;/a>."&lt;/Data></string>
   <string name="passport_user_id_intro">Enter password for %1$s</string>
   <string name="passport_v_code_error">Le code de vérification est incorrect</string>
   <string name="passport_vcode_notification_title">Votre vérification de connexion est incomplète</string>
@@ -996,7 +996,7 @@ Augmenter la sécurité de votre compte."</string>
   <string name="plus_player_subtitle_local_add_success">Sous-titres ajoutés avec succès</string>
   <string name="plus_player_subtitle_no_file">Pas de sous-titres ici.</string>
   <string name="plus_player_subtitle_online">Sous-titres en ligne</string>
-  <string name="plus_player_subtitle_online_declare_content">"Vous êtes sur le point de rechercher &lt;br/&gt;des sous-titres dans la base de données de &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt;. &lt;br/&gt;Tous les sous-titres sont fournis pas &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt;."</string>
+  <string name="plus_player_subtitle_online_declare_content">"Vous êtes sur le point de rechercher &lt;br/>des sous-titres dans la base de données de &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a>. &lt;br/>Tous les sous-titres sont fournis pas &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a>."</string>
   <string name="plus_player_subtitle_online_declare_title">Avertissement</string>
   <string name="plus_player_subtitle_online_download_fail">Impossible de télécharger les sous-titres</string>
   <string name="plus_player_subtitle_online_download_start">Téléchargement des sous-titres…</string>
@@ -1170,7 +1170,7 @@ Augmenter la sécurité de votre compte."</string>
   <string name="srl_header_release">Relâcher pour rafraîchir</string>
   <string name="srl_header_secondary">Libérer au deuxième étage</string>
   <string name="srl_header_update">"'Dernière mise à jour' dd-MM HH:mm"</string>
-  <string name="start_download_tip">"Ajouté à la file d'attente. Vérifiez la progression dans Profil &gt; Téléchargements."</string>
+  <string name="start_download_tip">"Ajouté à la file d'attente. Vérifiez la progression dans Profil > Téléchargements."</string>
   <string name="storage_external_sdcard">Carte SD</string>
   <string name="storage_internal_sdcard">Stockage interne</string>
   <string name="submit">Soumettre</string>
@@ -1222,7 +1222,7 @@ Augmenter la sécurité de votre compte."</string>
   <string name="ticket_sign_in">Se connecter via SMS</string>
   <string name="tip_auth_again">"Étant donné que vous n'avez pas préalablement accepté les Termes de la Politique de confidentialité correspondante du fournisseur de contenu tiers, nous ne pouvons pas afficher de contenu vidéo dans Moments. Appuyez sur le bouton ci-dessous pour accepter la Politique de confidentialité et accéder à cette fonctionnalité."</string>
   <string name="tip_author_click">Appuyez pour voir plus de vidéos de ce compte</string>
-  <string name="tip_pop"><Data>"Le contenu de Moments est fourni par Firework. Afin d'améliorer votre expérience de visionnage et de recevoir des recommandations de contenu plus pertinentes, autorisez Firework à collecter, traiter et utiliser vos informations personnelles conformément à sa Politique de confidentialité. Lisez et acceptez la &lt;a href=\"%1$s\">Politique de confidentialité de Firework&lt;/a> avant d'utiliser ses services."</Data></string>
+  <string name="tip_pop">&lt;Data>"Le contenu de Moments est fourni par Firework. Afin d'améliorer votre expérience de visionnage et de recevoir des recommandations de contenu plus pertinentes, autorisez Firework à collecter, traiter et utiliser vos informations personnelles conformément à sa Politique de confidentialité. Lisez et acceptez la &lt;a href=\"%1$s\">Politique de confidentialité de Firework&lt;/a> avant d'utiliser ses services."&lt;/Data></string>
   <string name="tip_topic_click">Appuyez pour trouver plus de vidéos sur ce sujet</string>
   <string name="title_firework_recommend">Recommandations Firework</string>
   <string name="title_publisher">Créateurs</string>

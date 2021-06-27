@@ -495,14 +495,14 @@
   <string name="hungama_free_download_out_summary_toast">"Vous avez déjà téléchargé %d chansons. Obtenez un abonnement pour télécharger plus."</string>
   <string name="hungama_playlist_category">Catégorie de playliste</string>
   <string name="hungama_privacy_desc">Politique de confidentialité de Hungama (facultatif)</string>
-  <string name="hungama_privacy_tips_content">Pour avoir accès au contenu en ligne, vous devez accepter &lt;a href="/link/click"&gt;Politique de confidentialité de Hungama&lt;/a&gt;.</string>
+  <string name="hungama_privacy_tips_content">Pour avoir accès au contenu en ligne, vous devez accepter la &lt;a href=\"/link/click\">Politique de confidentialité de Hungama&lt;/a>.</string>
   <string name="hungama_privacy_tips_title">Politique de confidentialité de Hungama</string>
   <string name="hungama_subscribe_message">Payez pour un abonnement PRO pour télécharger de la musique de haute qualité.</string>
   <string name="hungama_subscribe_positive_button">Payer pour un abonnement PRO</string>
   <string name="hungama_subscribe_title">Abonnement PRO</string>
   <string name="i_know">OK</string>
   <string name="icon_content_description">Icône de dialogue</string>
-  <string name="impunity_declaration_content">"Vous devez lire et accepter nos &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=fr_FR\">Accord d'utilisation&lt;/a> et &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=fr_FR\">Politique de confidentialité&lt;/a>avant d'utiliser le produit."</string>
+  <string name="impunity_declaration_content">"Vous devez lire et accepter notre &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=fr_FR\">Accord d'utilisation&lt;/a> et notre &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=fr_FR\">Politique de confidentialité&lt;/a>, avant d'utiliser le produit."</string>
   <string name="impunity_declaration_ignore">Ne plus afficher</string>
   <string name="impunity_declaration_negative_text">Quitter</string>
   <string name="impunity_declaration_positive_text">Accepter</string>
@@ -573,7 +573,7 @@
   <string name="joox_download_tab_title">JOOX</string>
   <string name="joox_download_title">Téléchargements JOOX</string>
   <string name="joox_privacy_desc">Politique de confidentailité JOOX (optionnel)</string>
-  <string name="joox_privacy_tips_content">"Lisez et acceptez la &lt;a href="/link/click"&gt;Politique de confidentialité JOOX&lt;/a&gt; avant d'utiliser les services en ligne."</string>
+  <string name="joox_privacy_tips_content">"Lisez et acceptez la &lt;a href=\"/link/click\">Politique de confidentialité JOOX&lt;/a>, avant d'utiliser les services en ligne."</string>
   <string name="joox_privacy_tips_title">Politique de confidentialité JOOX</string>
   <string name="joox_recommend_artist_title">Artistes recommendés</string>
   <string name="joox_recommend_playlist_title">Playlists recommandées</string>
@@ -638,7 +638,7 @@
   <string name="metered_serious_allow">Lire quand même</string>
   <string name="middle_sound_quality">Standard</string>
   <string name="milink_unavaliable_please_update">"Le lien Mi n'est pas disponible. Mettre MIUI à jour."</string>
-  <string name="missing_title">&lt;Inconnu&gt;</string>
+  <string name="missing_title">&lt;Inconnu></string>
   <string name="miuishare_account_login_ok">Se connecter</string>
   <string name="miuishare_no_network">Impossible de se connecter au réseau.</string>
   <string name="miuishare_publish">Envoyer</string>
@@ -893,10 +893,10 @@
   <string name="privacy_authorize_revoking">"Révocation de l'autorisation…"</string>
   <string name="privacy_desc">Politique de confidentialité (obligatoire)</string>
   <string name="privacy_policy">Politique de confidentialité</string>
-  <string name="privacy_request_desc"><Data>"Mi Music doit collecter les données personnelles nécessaires pour vous fournir des services de diffusion en ligne. Vous pouvez découvrir comment nous traitons les informations que nous collectons dans notre &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a>. Vous pouvez retirer votre consentement à la Politique de confidentialité de Mi Music dans les Paramètres à tout moment.
-Lisez et acceptez notre &lt;a href=\"%2$s\">Accord d'utilisation&lt;/a> et notre &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a> avant d'utiliserMi Music.
-Si vous n'acceptez pas d'utiliser les services sus-mentionnés, vous serez dans l'incapacité d'utiliser certaines fonctionnalités de l'application; toutefois, les fonctionnalités basiques seront toujours accessibles."</Data></string>
-  <string name="privacy_request_subtitle">"Bienvenue dans Mi Music! Cette application fournit les services suivants:
+  <string name="privacy_request_desc">&lt;Data>"Mi Music doit collecter les données personnelles nécessaires pour vous fournir des services de diffusion en ligne. Vous pouvez découvrir comment nous traitons les informations que nous collectons dans notre &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a>. Vous pouvez retirer votre consentement à la Politique de confidentialité de Mi Music dans les Paramètres à tout moment.
+Lisez et acceptez notre &lt;a href=\"%2$s\">Accord d'utilisation&lt;/a> et notre &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a> avant d'utiliser Mi Music.
+Si vous n'acceptez pas d'utiliser les services sus-mentionnés, vous serez dans l'incapacité d'utiliser certaines fonctionnalités de l'application; toutefois, les fonctionnalités basiques seront toujours accessibles."&lt;/Data></string>
+  <string name="privacy_request_subtitle">"Bienvenue dans Mi Music ! Cette application fournit les services suivants :
 - Un lecteur audio local
 - Des services de diffusion en ligne"</string>
   <string name="privacy_request_title">Termes et Conditions</string>

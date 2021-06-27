@@ -149,25 +149,25 @@ Activez cette fonction et appuyez sur le bouton Accessibilité en bas de votre �
   <string name="accessibility_screen_magnification_navbar_short_summary">Appuyer sur un bouton pour zoomer</string>
   <string name="accessibility_screen_magnification_navbar_summary">"Lorsque la loupe est activée, utilisez le bouton d'accessibilité situé en bas de l'écran pour effectuer un agrandissement rapide.
 
-"<b>Pour zoomer</b>", appuyez sur le bouton d'accessibilité, puis n'importe où sur l'écran.
-"<ul><li>"Pour faire défiler l'écran, faites glisser deux doigts ou plus dessus"</li>"
-"<li>"Pour régler le niveau de zoom, pincez deux doigts ou plus sur l'écran"</li></ul>"
+"&lt;b>Pour zoomer&lt;/b>", appuyez sur le bouton d'accessibilité, puis n'importe où sur l'écran.
+"&lt;ul>&lt;li>"Pour faire défiler l'écran, faites glisser deux doigts ou plus dessus"&lt;/li>"
+"&lt;li>"Pour régler le niveau de zoom, pincez deux doigts ou plus sur l'écran"&lt;/li>&lt;/ul>"
 
-"<b>Pour faire un zoom temporaire</b>", appuyez sur le bouton d'accessibilité, puis appuyez de manière prolongée n'importe où sur l'écran.
-"<ul><li>"Pour vous déplacer sur l'écran, faites glisser un doigt dessus"</li>"
-"<li>Pour faire un zoom arrière, relevez le doigt</li></ul>"
+"&lt;b>Pour faire un zoom temporaire&lt;/b>", appuyez sur le bouton d'accessibilité, puis appuyez de manière prolongée n'importe où sur l'écran.
+"&lt;ul>&lt;li>"Pour vous déplacer sur l'écran, faites glisser un doigt dessus"&lt;/li>"
+"&lt;li>Pour faire un zoom arrière, relevez le doigt&lt;/li>&lt;/ul>"
 
 Il est impossible de faire un zoom avant sur le clavier ou la barre de navigation."</string>
   <string name="accessibility_screen_magnification_navbar_title">Agrandir avec un bouton</string>
   <string name="accessibility_screen_magnification_short_summary">Appuyer trois fois pour zoomer</string>
   <string name="accessibility_screen_magnification_state_navbar_gesture">Agrandir avec un bouton et en appuyant trois fois</string>
-  <string name="accessibility_screen_magnification_summary">"&lt;b&gt;Pour zoomer&lt;/b&gt;", appuyez rapidement sur l'écran 3 fois.
-"&lt;ul&gt;&lt;li&gt;Faites glisser 2 doigts ou plus pour faire défiler&lt;/li&gt;"
-"&lt;li&gt;Pincez 2 doigts ou plus pour régler le zoom&lt;/li&gt;&lt;/ul&gt;"
+  <string name="accessibility_screen_magnification_summary">"&lt;b>Pour zoomer&lt;/b>", appuyez rapidement sur l'écran 3 fois.
+"&lt;ul>&lt;li>Faites glisser 2 doigts ou plus pour faire défiler&lt;/li>"
+"&lt;li>Pincez 2 doigts ou plus pour régler le zoom&lt;/li>&lt;/ul>"
 
-"&lt;b&gt;Pour zoomer temporairement&lt;/b&gt;", appuyez rapidement sur l'écran 3 fois et maintenez votre doigt sur le troisième robinet.
-"&lt;ul&gt;&lt;li&gt;Faites glisser pour vous déplacer sur l'écran&lt;/li&gt;"
-"&lt;li&gt;Soulevez le doigt pour effectuer un zoom arrière&lt;/li&gt;&lt;/ul&gt;"
+"&lt;b>Pour zoomer temporairement&lt;/b>", appuyez rapidement sur l'écran 3 fois et maintenez votre doigt sur le troisième robinet.
+"&lt;ul>&lt;li>Faites glisser pour vous déplacer sur l'écran&lt;/li>"
+"&lt;li>Soulevez le doigt pour effectuer un zoom arrière&lt;/li>&lt;/ul>"
 
 Vous ne pouvez pas zoomer sur le clavier et la barre de navigation."</string>
   <string name="accessibility_screen_magnification_title">Agrandissement</string>
@@ -750,7 +750,7 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
   <string name="auto_sync_personal_account_title">Synchronisation automatique des données personnelles</string>
   <string name="auto_sync_work_account_title">Synchronisation automatique des données professionnelles</string>
   <string name="autofill_app">Service de saisie automatique</string>
-  <string name="autofill_confirmation_message">"&lt;b&gt;Assurez-vous de faire confiance à cette application&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; &lt;xliff:g id=app_name example=Google Autofill&gt;%1$s&lt;/xliff:g&gt; utilise les éléments affichés à l'écran pour déterminer les champs qui peuvent bénéficier de la saisie automatique."</string>
+  <string name="autofill_confirmation_message">"&lt;b>Assurez-vous de faire confiance à cette application&lt;/b> &lt;br/> &lt;br/> &lt;xliff:g id=app_name example=Google Autofill>%1$s&lt;/xliff:g> utilise les éléments affichés à l'écran pour déterminer les champs qui peuvent bénéficier de la saisie automatique."</string>
   <string name="autofill_keywords">automatique, saisie, saisie automatique</string>
   <string name="autofill_logging_level_title">Niveau de journalisation</string>
   <string name="autofill_max_partitions">Nombre maximal de demandes par session</string>
@@ -1080,7 +1080,7 @@ Applications :
   <string name="bluetooth_blacklist_cancel_remove_device">Annuler</string>
   <string name="bluetooth_blacklist_remove_device">Débloquer</string>
   <string name="bluetooth_broadcasting">Diffusion</string>
-  <string name="bluetooth_confirm_passkey_msg">"Pour associer votre appareil à : &lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Assurez-vous que le mot de passe &lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt; s'affiche."</string>
+  <string name="bluetooth_confirm_passkey_msg">"Pour associer votre appareil à : &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Assurez-vous que le mot de passe &lt;br>&lt;b>%2$s&lt;/b> s'affiche."</string>
   <string name="bluetooth_connect_failed">Impossible de se connecter. Réessayez.</string>
   <string name="bluetooth_connect_settings">Paramètres de connexion Bluetooth</string>
   <string name="bluetooth_connect_specific_profiles_title">Se connecter à…</string>
@@ -1137,7 +1137,7 @@ Applications :
   <string name="bluetooth_disable_inband_ringing_summary">Ne jouez pas de sonneries personnalisées sur les casques Bluetooth</string>
   <string name="bluetooth_disable_mi_fast_connect">Désactiver Mi Link</string>
   <string name="bluetooth_disable_mi_fast_connect_summary">Désactiver la fonctionnalité Mi Link</string>
-  <string name="bluetooth_disable_profile_message">Le profil :&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;va être désactivé sur :&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
+  <string name="bluetooth_disable_profile_message">Le profil :&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>va être désactivé sur :&lt;br>&lt;b>%2$s&lt;/b></string>
   <string name="bluetooth_disable_profile_title">Désactiver le profil ?</string>
   <string name="bluetooth_disabled">Désactivé</string>
   <string name="bluetooth_disconnect_a2dp_profile">"%1$s sera déconnecté de l'audio du support."</string>
@@ -1150,7 +1150,7 @@ Applications :
   <string name="bluetooth_disconnect_title">"Déconnecter l'appareil ?"</string>
   <string name="bluetooth_disconnected">Déconnecté</string>
   <string name="bluetooth_disconnecting">Déconnexion…</string>
-  <string name="bluetooth_display_passkey_pin_msg">"Pour l'association à :&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Saisissez &lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;, puis appuyez sur \"Retour\" ou sur \"Entrée\"."</string>
+  <string name="bluetooth_display_passkey_pin_msg">"Pour l'association à :&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Saisissez &lt;br>&lt;b>%2$s&lt;/b>, puis appuyez sur \"Retour\" ou sur \"Entrée\"."</string>
   <string name="bluetooth_display_settings">"Paramètres d'affichage Bluetooth"</string>
   <string name="bluetooth_dock_settings">"Paramètres de la station d'accueil"</string>
   <string name="bluetooth_dock_settings_a2dp">Pour la musique et le multimédia</string>
@@ -1183,7 +1183,7 @@ Applications :
   <string name="bluetooth_hearingaid_right_pairing_message">"Association de l'aide auditive droite…"</string>
   <string name="bluetooth_hid_profile_summary_connected">Connecté au périphérique de saisie</string>
   <string name="bluetooth_hid_profile_summary_use_for">Utiliser pour la saisie</string>
-  <string name="bluetooth_incoming_pairing_msg">De :&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Associer à cet appareil ?</string>
+  <string name="bluetooth_incoming_pairing_msg">De :&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Associer à cet appareil ?</string>
   <string name="bluetooth_inform_messgae">"Connexion à %1$s impossible.
 Voici ce qui a pu mal se passer :
 1. Le Bluetooth est désactivé sur cet appareil ou il est hors de portée.
@@ -1307,7 +1307,7 @@ Vous ne vous êtes jamais connecté à %2$s auparavant."</string>
   <string name="bluetooth_scan_for_devices">"Recherche d'appareils"</string>
   <string name="bluetooth_scanning_on_info_message">"Lorsque le Bluetooth est activé, votre appareil peut communiquer avec d'autres appareils Bluetooth à proximité.
 
-Pour améliorer l'expérience d'utilisation de l'appareil, les applications et les services peuvent continuer de rechercher les appareils à proximité à tout moment, même si le Bluetooth est désactivé. Cette autorisation peut permettre, par exemple, d'améliorer les fonctionnalités et les services basés sur la localisation. Vous pouvez modifier cette option dans les "<annotation id="link">paramètres de recherche</annotation>.</string>
+Pour améliorer l'expérience d'utilisation de l'appareil, les applications et les services peuvent continuer de rechercher les appareils à proximité à tout moment, même si le Bluetooth est désactivé. Cette autorisation peut permettre, par exemple, d'améliorer les fonctionnalités et les services basés sur la localisation. Vous pouvez modifier cette option dans les "&lt;annotation id="link">paramètres de recherche&lt;/annotation>.</string>
   <string name="bluetooth_search_for_devices">Actualiser</string>
   <string name="bluetooth_searching_for_devices">Recherche...</string>
   <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode">Mode audio BT aptX adaptatif</string>
@@ -1431,7 +1431,7 @@ Pour améliorer l'expérience d'utilisation de l'appareil, les applications et l
   <string name="bootloader_status_locked">Verrouillé</string>
   <string name="bootloader_status_locked_info">Cet appareil est verrouillé</string>
   <string name="bootloader_status_locked_summary">Le téléphone est sécurisé</string>
-  <string name="bootloader_status_privacy_dialog_message"><Data>"Mi Unlock doit accéder à votre compte Mi, l'ID du CPU et l'IMSI pour fonctionner normalement. Lisez et acceptez notre &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a>. Êtes-vous d'accord ?"</Data></string>
+  <string name="bootloader_status_privacy_dialog_message">&lt;Data>"Mi Unlock doit accéder à votre compte Mi, l'ID du CPU et l'IMSI pour fonctionner normalement. Lisez et acceptez notre &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a>. Êtes-vous d'accord ?"&lt;/Data></string>
   <string name="bootloader_status_privacy_dialog_no">Annuler</string>
   <string name="bootloader_status_privacy_dialog_title">Permissions requise</string>
   <string name="bootloader_status_privacy_dialog_url_text">Politique de confidentialité</string>
@@ -1459,7 +1459,7 @@ Si vous avez déjà effectué l'une des opérations ci-dessus, ajoutez à nouvea
 Vous pouvez le modifier dans les paramètres."</string>
   <string name="bt_aac_dialog_title">Connexion Bluetooth</string>
   <string name="bt_aac_open_dialog_summary">"L'AAC risque de ne pas reproduire le son en raison de problèmes de compatibilité.
-Vous pouvez désactiver cette fonctionnalité dans les paramètres &gt; Bluetooth &gt; Appareils jumelés."</string>
+Vous pouvez désactiver cette fonctionnalité dans les paramètres > Bluetooth > Appareils jumelés."</string>
   <string name="bt_aac_open_dialog_title">Basculer vers codec AAC</string>
   <string name="bt_absVolume_open_dialog_summary">En raison de problèmes de compatibilité, certains appareils Bluetooth peuvent avoir des niveaux de volume anormaux, ce qui peut être résolu en désactivant cette fonction.</string>
   <string name="bt_absVolume_open_dialog_title">Attention</string>
@@ -2202,10 +2202,10 @@ Ce paramètre affecte tous les utilisateurs de cet appareil."</string>
   <string name="data_usage_restrict_denied_dialog">La consommation des données en arrière-plan ne peut être restreinte que si vous avez défini une limite de données mobiles.</string>
   <string name="data_usage_summary_format">Volume des données utilisées : %1$s</string>
   <string name="data_usage_summary_title">Utilisation des données</string>
-  <string name="data_usage_sweep_limit">&lt;font size="18"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;"
-"&lt;font size="12"&gt;limite&lt;/font&gt;</string>
-  <string name="data_usage_sweep_warning">&lt;font size="18"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;"
-"&lt;font size="12"&gt;alerte&lt;/font&gt;</string>
+  <string name="data_usage_sweep_limit">&lt;font size="18">^1&lt;/font> &lt;font size="9">^2&lt;/font>"
+"&lt;font size="12">limite&lt;/font></string>
+  <string name="data_usage_sweep_warning">&lt;font size="18">^1&lt;/font> &lt;font size="9">^2&lt;/font>"
+"&lt;font size="12">alerte&lt;/font></string>
   <string name="data_usage_tab_3g">2G-3G</string>
   <string name="data_usage_tab_4g">4G</string>
   <string name="data_usage_tab_ethernet">Ethernet</string>
@@ -2634,7 +2634,7 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
   <string name="dual_cdma_sim_warning_notification_channel_title">Combinaison SIM</string>
   <string name="dual_cdma_sim_warning_notification_summary">Utiliser %1$s peut limiter la fonctionnalité. Appuyez pour en savoir plus.</string>
   <string name="dual_clock">Double horloge</string>
-  <string name="dual_clock_aod_hint">"\"Double horloge\" repose sur les fonctionnalités suivantes : 1. Pour l'écran éteitn, autoriser d'afficher les éléments dans Paramètres &gt; Afficher; 2. Dans l'écran de verrouillage, assurez-vous que vous utilisez le thème par défaut ou classique dans Paramètres &gt; Thèmes; 3. Pour l'écran d'accueil, assurez-vous que vous utilisez le widget horloge système par défaut."</string>
+  <string name="dual_clock_aod_hint">"\"Double horloge\" repose sur les fonctionnalités suivantes : 1. Pour l'écran éteitn, autoriser d'afficher les éléments dans Paramètres > Afficher; 2. Dans l'écran de verrouillage, assurez-vous que vous utilisez le thème par défaut ou classique dans Paramètres > Thèmes; 3. Pour l'écran d'accueil, assurez-vous que vous utilisez le widget horloge système par défaut."</string>
   <string name="dual_clock_aod_open_message">"La double horloge s'affichera sur l'écran de verrouillage, l'écran d'accueil et l'écran éteint."</string>
   <string name="dual_clock_hint">"La double horloge nécessite l'utilisation d'un widget d'horloge système et d'un thème par défaut"</string>
   <string name="dual_clock_ok">Compris</string>
@@ -3480,7 +3480,7 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
   <string name="high_power_on">Non optimisée</string>
   <string name="high_power_prompt_body">"Si vous autorisez l'exécution en arrière-plan systématique de %1$s, vous risquez de réduire l'autonomie de l'appareil.
 
-Vous pouvez modifier cette option ultérieurement dans Paramètres &gt; Applications et notifications."</string>
+Vous pouvez modifier cette option ultérieurement dans Paramètres > Applications et notifications."</string>
   <string name="high_power_prompt_title">"Autoriser l'exécution en arrière-plan systématique de l'application ?"</string>
   <string name="high_power_system">Optimisation de la batterie non disponible</string>
   <string name="hint_unadjustable_text">"Can't adjust manually. Color temperature is adjusted automatically now."</string>
@@ -3518,13 +3518,13 @@ N'oubliez pas le mot de passe que vous avez défini pour les sauvegardes chiffr�
   <string name="how_restore_backup_content">"Voici comment restaurer des éléments sauvegardés à l'aide de différentes méthodes :
 
 Sauvegardes locales :
-Copiez le fichier de sauvegarde de votre ordinateur vers votre appareil (MIUI-backup-AllBackup). Accédez à Paramètres &gt; Sauvegarder, restaurer ou réinitialiser &gt; Sur cet appareil, puis sélectionnez le fichier de sauvegarde.
+Copiez le fichier de sauvegarde de votre ordinateur vers votre appareil (MIUI-backup-AllBackup). Accédez à Paramètres > Sauvegarder, restaurer ou réinitialiser > Sur cet appareil, puis sélectionnez le fichier de sauvegarde.
 
 Sauvegardes cloud :
-Connectez-vous à votre compte Mi, accédez à Paramètres &gt; Sauvegarder, restaurer ou réinitialiser &gt; Dans Xiaomi Cloud, et sélectionnez le fichier de sauvegarde.
+Connectez-vous à votre compte Mi, accédez à Paramètres > Sauvegarder, restaurer ou réinitialiser > Dans Xiaomi Cloud, et sélectionnez le fichier de sauvegarde.
 
 Sauvegardes USB :
-Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Accédez à Paramètres &gt; Sauvegarder, restaurer ou réinitialiser &gt; Sur cet appareil, puis sélectionnez le fichier de sauvegarde.
+Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Accédez à Paramètres > Sauvegarder, restaurer ou réinitialiser > Sur cet appareil, puis sélectionnez le fichier de sauvegarde.
 "</string>
   <string name="how_restore_backup_title">2. Comment restaurer des éléments sauvegardés ?</string>
   <string name="http_invoke_app">Applications Web</string>
@@ -4204,7 +4204,7 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
   <string name="long_press_power_key">"Appuyez longuement sur le bouton d'alimentation"</string>
   <string name="long_press_power_key_half_of_second">"Appuyez et maintenez le bouton d'alimentation pendant 0,5 s pour activer Google Assistant"</string>
   <string name="long_press_power_key_half_second">"Appuyez et maintenez le bouton d'alimentation pendant 0,5 s"</string>
-  <string name="long_press_power_key_tips">"&lt;Data&gt;Appuyez longuement sur le bouton d'alimentation &amp;lt;font color=#999999&amp;gt;Plus rapide et plus pratique&amp;lt;/font&amp;gt;&lt;/Data&gt;"</string>
+  <string name="long_press_power_key_tips">&lt;Data>"Appuyez longuement sur le bouton d'alimentation &lt;font color=#999999>Plus rapide et plus pratique&lt;/font>"&lt;/Data></string>
   <string name="long_press_volume_down">Appui prolongé sur le bouton inférieur du volume</string>
   <string name="lost_internet_access_cancel">Rester en Wi-Fi</string>
   <string name="lost_internet_access_persist">Ne plus afficher</string>
@@ -4265,31 +4265,31 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
 Vous êtes actuellement connecté aux comptes suivants :
 "</string>
   <string name="master_clear_all">Effacer la totalité des données pour revenir en configuration usine ? Cette opération est irréversible !</string>
-  <string name="master_clear_apply_step_1">"&lt;b&gt;&amp;#8220;Réinitialisation des données d'usine&amp;#8221; effacera toutes les données de votre téléphone&lt;/b&gt;, y compris des photos, des chansons, des notes et d'autres données personnelles. Assurez-vous de sauvegarder tous les éléments importants sur votre ordinateur."</string>
-  <string name="master_clear_apply_step_2">"Assurez-vous que tous les éléments importants sont sauvegardés sur votre ordinateur. Toutes les données de cet appareil seront effacées lors de la réinitialisation. &lt;b&gt;"Vous ne pourrez pas restaurer les éléments que vous n'avez pas sauvegardés."&lt;/b&gt;"</string>
+  <string name="master_clear_apply_step_1">"&lt;b>&amp;#8220;Réinitialisation des données d'usine&amp;#8221; effacera toutes les données de votre téléphone&lt;/b>, y compris des photos, des chansons, des notes et d'autres données personnelles. Assurez-vous de sauvegarder tous les éléments importants sur votre ordinateur."</string>
+  <string name="master_clear_apply_step_2">"Assurez-vous que tous les éléments importants sont sauvegardés sur votre ordinateur. Toutes les données de cet appareil seront effacées lors de la réinitialisation. &lt;b>"Vous ne pourrez pas restaurer les éléments que vous n'avez pas sauvegardés."&lt;/b>"</string>
   <string name="master_clear_apply_title">Attention</string>
   <string name="master_clear_button_text">Réinitialiser le téléphone</string>
   <string name="master_clear_confirm_title">Réinitialiser ?</string>
   <string name="master_clear_desc">
-    <b>stockage interne</b>
-    <li>Votre compte Google</li>
-    <li>Les données et paramètres du système et des applications</li>
-    <li>Les applications téléchargées</li>" de votre téléphone, y compris :
+    &lt;b>stockage interne&lt;/b>
+    &lt;li>Votre compte Google&lt;/li>
+    &lt;li>Les données et paramètres du système et des applications&lt;/li>
+    &lt;li>Les applications téléchargées&lt;/li>" de votre téléphone, y compris :
 
 ""
 ""
 "Cette action effacera toutes les données du </string>
   <string name="master_clear_desc_also_erases_esim">
-    <li>Cartes eSIM</li>
+    &lt;li>Cartes eSIM&lt;/li>
   </string>
   <string name="master_clear_desc_also_erases_external">
-    <li>La musique</li>
-    <li>Les photos</li>
-    <li>Les autres données utilisateur</li>"
+    &lt;li>La musique&lt;/li>
+    &lt;li>Les photos&lt;/li>
+    &lt;li>Les autres données utilisateur&lt;/li>"
 ""
 ".</string>
   <string name="master_clear_desc_erase_external_storage">
-    <b>carte SD</b>"
+    &lt;b>carte SD&lt;/b>"
 
 Pour supprimer la musique, les photos et les autres données utilisateur, vous devez formater la ".</string>
   <string name="master_clear_desc_no_cancel_mobile_plan">"
@@ -5083,7 +5083,7 @@ Sélectionnez votre système d'exploitation :"</string>
   <string name="night_light_summary">"Pour activer le mode Nuit, réduisez la luminosité de l'écran dans des conditions de faible luminosité."</string>
   <string name="night_light_tip">Les modifications prendront effet lorsque le mode Nuit sera activé</string>
   <string name="no">Non</string>
-  <string name="no_5g_in_dsds_text">"Lors de l'utilisation de 2 SIM, ce téléphone sera limité à la 4G. <annotation id="url"> En savoir plus </annotation>."</string>
+  <string name="no_5g_in_dsds_text">"Lors de l'utilisation de 2 SIM, ce téléphone sera limité à la 4G. &lt;annotation id="url"> En savoir plus &lt;/annotation>."</string>
   <string name="no_application">Aucune</string>
   <string name="no_applications">Aucune application</string>
   <string name="no_battery_summary">Aucune utilisation de la batterie depuis la dernière charge complète</string>
@@ -5717,7 +5717,7 @@ Read and agree to %s before using this service."</string>
   <string name="prevent_ringing_option_vibrate_summary">Activé (vibreur uniquement)</string>
   <string name="preview_page_indicator_content_description">Aperçu, page %1$d sur %2$d</string>
   <string name="preview_pager_content_description">Aperçu</string>
-  <string name="previous_connected_see_all">Afficher tout</string>
+  <string name="previous_connected_see_all">Tout afficher</string>
   <string name="print_blocked_state_title_template">Impression de %1$s bloquée</string>
   <string name="print_cancel">Annuler</string>
   <string name="print_cancelling_state_title_template">Annulation de \"%1$s\" en cours…</string>
@@ -5754,7 +5754,7 @@ Read and agree to %s before using this service."</string>
   <string name="privacy_authorize_cloud_msg">"Pour garantir la sécurité de votre compte, connectez-vous à i.mi.com si vous souhaitez annuler l'autorisation pour les services Xiaomi Cloud (y compris la synchronisation et les sauvegardes)."</string>
   <string name="privacy_authorize_dialog_agree">Accepter</string>
   <string name="privacy_authorize_dialog_exit">Quitter</string>
-  <string name="privacy_authorize_dialog_message">"&lt;Data&gt;"Pour utiliser les fonctionnalités de base de ce service, vous devez accepter que Xiaomi collecte, traite et utilise vos données personnelles. Consultez notre Politique de confidentialité pour savoir comment nous recueillons et traitons des données personnelles. La sélection de \"Accepter\" signifie que vous avez lu et accepté notre &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt; et &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Accord d'utilisation&amp;lt;/a&amp;gt;."&lt;/Data&gt;"</string>
+  <string name="privacy_authorize_dialog_message">&lt;Data>"Pour utiliser les fonctionnalités de base de ce service, vous devez accepter que Xiaomi collecte, traite et utilise vos données personnelles. Consultez notre Politique de confidentialité pour savoir comment nous recueillons et traitons des données personnelles. La sélection de \"Accepter\" signifie que vous avez lu et accepté notre &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Politique de confidentialité&lt;/a> et &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\">Accord d'utilisation&lt;/a>."&lt;/Data></string>
   <string name="privacy_authorize_network_error">Connectez-vous au réseau et réessayez.</string>
   <string name="privacy_authorize_privacy_policy">Politique de confidentialité</string>
   <string name="privacy_authorize_revoke">Révoquer</string>
@@ -5833,7 +5833,7 @@ Read and agree to %s before using this service."</string>
   <string name="privacy_thumbnail_blur_title">"Flouter les aperçus d'applications"</string>
   <string name="private_dns_broken">"Impossible d'accéder au serveur DNS privé"</string>
   <string name="private_dns_help_message">
-    <annotation id="url">En savoir plus</annotation> sur les fonctionnalités de DNS privé</string>
+    &lt;annotation id="url">En savoir plus&lt;/annotation> sur les fonctionnalités de DNS privé</string>
   <string name="private_dns_mode_off">Désactivé</string>
   <string name="private_dns_mode_opportunistic">Automatique</string>
   <string name="private_dns_mode_provider">"Nom d'hôte du fournisseur de DNS privé"</string>
@@ -6031,11 +6031,11 @@ Interface UT : %5$s"</string>
   <string name="reset_app_preferences_button">Réinitialiser applis</string>
   <string name="reset_app_preferences_desc">"Cela réinitialisera toutes les préférences pour :
 
-"<li>Applications désactivées</li>"
-"<li>Notifications associées aux applications désactivées</li>"
-"<li>Applications par défaut pour les actions</li>"
-"<li>Restrictions des données en arrière-plan pour les applications</li>"
-"<li>Restrictions d'autorisations</li>"
+"&lt;li>Applications désactivées&lt;/li>"
+"&lt;li>Notifications associées aux applications désactivées&lt;/li>"
+"&lt;li>Applications par défaut pour les actions&lt;/li>"
+"&lt;li>Restrictions des données en arrière-plan pour les applications&lt;/li>"
+"&lt;li>Restrictions d'autorisations&lt;/li>"
 
 Vous ne perdrez aucune donnée d'application."</string>
   <string name="reset_app_preferences_title">Réinitialiser les préférences ?</string>
@@ -6059,9 +6059,9 @@ Redémarrez votre appareil et réessayez."</string>
   <string name="reset_network_data">Données mobiles</string>
   <string name="reset_network_desc">"Ceci réinitialisera tous les paramètres réseau, y compris :
 
-"&lt;li&gt;Wi-Fi&lt;/li&gt;"
-"&lt;li&gt;Données mobiles&lt;/li&gt;"
-"&lt;li&gt;Bluetooth&lt;/li&gt;</string>
+"&lt;li>Wi-Fi&lt;/li>"
+"&lt;li>Données mobiles&lt;/li>"
+"&lt;li>Bluetooth&lt;/li></string>
   <string name="reset_network_final_button_text">Réinitialiser les paramètres</string>
   <string name="reset_network_final_desc">"Réinitialiser tous les paramètres réseau maintenant ? Cela peut prendre plusieurs secondes. Vous ne pourrez pas inverser cette action"</string>
   <string name="reset_network_final_desc_esim">Réinitialiser tous les paramètres réseau et effacer les cartes SIM téléchargées ? Vous ne pouvez pas annuler cette action.</string>
@@ -6321,7 +6321,7 @@ Pour utiliser l'épinglage d'application : \u0009
   <string name="screen_projection_characteristics_privacy_protect_title">Masquer les fichiers privés</string>
   <string name="screen_projection_characteristics_small_window_summary">"Réduisez au minimum la fenêtre projetée pour pouvoir utiliser les autres fonctionnalités de votre téléphone."</string>
   <string name="screen_projection_characteristics_small_window_title">Réduire la fenêtre</string>
-  <string name="screen_projection_example_document_summary">Affichez des présentations sur un moniteur externe tout en utilisant votre téléphone pour basculer entre les diapositives et afficher les notes. Aller au gestionnaire de fichiers &gt; Docs pour essayer cette fonctionnalité.</string>
+  <string name="screen_projection_example_document_summary">Affichez des présentations sur un moniteur externe tout en utilisant votre téléphone pour basculer entre les diapositives et afficher les notes. Aller au gestionnaire de fichiers > Docs pour essayer cette fonctionnalité.</string>
   <string name="screen_projection_example_document_title">Documents</string>
   <string name="screen_projection_example_gallery_summary">"Appuyez sur le bouton Partager sous un élément de l'application Galerie pour l'afficher sur un moniteur externe."</string>
   <string name="screen_projection_example_gallery_title">Photos et vidéos</string>
@@ -6715,10 +6715,10 @@ Votre téléphone peut être déverrouillé par quelqu'un qui vous ressemble bea
   <string name="security_settings_fingerprint_enroll_dialog_name_label">Nom</string>
   <string name="security_settings_fingerprint_enroll_dialog_ok">OK</string>
   <string name="security_settings_fingerprint_enroll_disclaimer">
-    <annotation id="url">En savoir plus</annotation>"Votre empreinte digitale vous permet non seulement de déverrouiller votre téléphone, mais également d'autoriser des achats et d'accéder à des applications. "</string>
+    &lt;annotation id="url">En savoir plus&lt;/annotation>"Votre empreinte digitale vous permet non seulement de déverrouiller votre téléphone, mais également d'autoriser des achats et d'accéder à des applications. "</string>
   <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">
-    <annotation id="admin_details">"Plus d'informations"</annotation>
-    <annotation id="url">En savoir plus</annotation>" L'option de verrouillage de l'écran est désactivée. Pour en savoir plus, contactez l'administrateur de votre entreprise. ""
+    &lt;annotation id="admin_details">"Plus d'informations"&lt;/annotation>
+    &lt;annotation id="url">En savoir plus&lt;/annotation>" L'option de verrouillage de l'écran est désactivée. Pour en savoir plus, contactez l'administrateur de votre entreprise. ""
 
 Vous pouvez toujours utiliser votre empreinte digitale pour autoriser des achats et l'accès aux applications. "</string>
   <string name="security_settings_fingerprint_enroll_done">OK</string>
@@ -6803,7 +6803,7 @@ Remarque : Vous ne pouvez pas utiliser votre empreinte digitale pour déverroui
   <string name="services_subtitle">Services</string>
   <string name="set_data_limit">Définir une limite</string>
   <string name="set_data_warning">Activer une alerte</string>
-  <string name="set_jeejen_prompt_message">"Jeejen sera défini comme lanceur par défaut. Vous pouvez modifier le lanceur par défaut dans Paramètres &gt; Paramètres du système &gt; Écran d'accueil et Récents &gt; Lanceur par défaut."</string>
+  <string name="set_jeejen_prompt_message">"Jeejen sera défini comme lanceur par défaut. Vous pouvez modifier le lanceur par défaut dans Paramètres > Paramètres du système > Écran d'accueil et Récents > Lanceur par défaut."</string>
   <string name="set_jeejen_prompt_title">Confirmer les changements</string>
   <string name="set_screen_paper_mode">Mode lecture</string>
   <string name="setting_privacy_password">Définissez un mot de passe de protection de confidentialité</string>
@@ -7275,10 +7275,10 @@ Vous pouvez réinstaller les applications plus tard, mais les données correspon
 
 Toutes les données sur ce ^1 seront effacées. Pensez d'abord à sauvegarder.
 
-"<b>Sauvegardez vos photos et autres médias</b>"
+"&lt;b>Sauvegardez vos photos et autres médias&lt;/b>"
 Déplacez vos fichiers multimédias vers une autre mémoire de stockage sur cet appareil, ou transférez-les sur un ordinateur à l'aide d'un câble USB.
 
-"<b>Sauvegardez vos applications</b>"
+"&lt;b>Sauvegardez vos applications&lt;/b>"
 Toutes les applications stockées sur ce ^1 seront désinstallées et leurs données seront effacées. Pour conserver ces applications, déplacez-les vers un autre stockage sur cet appareil."</string>
   <string name="storage_internal_title">Stockage non-système</string>
   <string name="storage_internal_unmount_details">"Lorsque vous éjectez la mémoire de stockage \"^1\", les applications qui y sont enregistrées cessent de fonctionner, et les fichiers multimédias qu'elle contient ne sont plus disponibles jusqu'à ce que vous la réinsériez."
@@ -7332,14 +7332,14 @@ La mémoire de stockage \"^1\" a été configurée pour ne fonctionner que sur c
   <string name="storage_volume_used">Utilisés sur %1$s</string>
   <string name="storage_volume_used_total">Utilisé(s) au total sur %1$s</string>
   <string name="storage_wizard_format_confirm_body">
-    <b>Le formatage entraîne la suppression de toutes les données enregistrées sur \"^1\".</b> Pour ne pas risquer de perdre vos données, nous vous conseillons de les sauvegarder."Cette option nécessite de formater la mémoire de stockage \"^1\" pour qu'elle soit sécurisée.
+    &lt;b>Le formatage entraîne la suppression de toutes les données enregistrées sur \"^1\".&lt;/b> Pour ne pas risquer de perdre vos données, nous vous conseillons de les sauvegarder."Cette option nécessite de formater la mémoire de stockage \"^1\" pour qu'elle soit sécurisée.
 
 Après le formatage, \"^1\" ne fonctionnera que sur cet appareil.
 
 "</string>
   <string name="storage_wizard_format_confirm_next">Effacer et formater</string>
   <string name="storage_wizard_format_confirm_public_body">
-    <b>Formater efface toutes les données stockées sur ^1.</b>" Pour éviter une perte de données, veuillez les sauvegarder. ""Cela exige que ^1 soit formaté.
+    &lt;b>Formater efface toutes les données stockées sur ^1.&lt;/b>" Pour éviter une perte de données, veuillez les sauvegarder. ""Cela exige que ^1 soit formaté.
 "</string>
   <string name="storage_wizard_format_confirm_public_title">Formater mémoire stockage externe</string>
   <string name="storage_wizard_format_confirm_third_body">"Le ^1 est entrain d'être formaté"</string>
@@ -7402,13 +7402,13 @@ L'application \"^2\" ne sera pas disponible jusqu'à la fin de l'opération."</s
   <string name="storage_wizard_ready_external_body">"Votre ^1 est totalement configurée afin d'être utilisée avec des photos et d'autres médias."</string>
   <string name="storage_wizard_ready_internal_body">"Votre nouvelle mémoire de stockage \"^1\" fonctionne correctement.
 
-Pour déplacer des photos, des fichiers et des données d'application sur cet appareil, sélectionnez Paramètres &gt; Stockage."</string>
+Pour déplacer des photos, des fichiers et des données d'application sur cet appareil, sélectionnez Paramètres > Stockage."</string>
   <string name="storage_wizard_ready_title">^1 est prêt</string>
   <string name="storage_wizard_ready_v2_external_body">Vous pouvez déplacer le contenu vers la ^1</string>
   <string name="storage_wizard_ready_v2_internal_body">
-    <b>Paramètres &gt; Stockage</b>Pour déplacer le contenu vers la ^1, accédez à </string>
+    &lt;b>Paramètres > Stockage&lt;/b>Pour déplacer le contenu vers la ^1, accédez à </string>
   <string name="storage_wizard_ready_v2_internal_moved_body">
-    <b>Paramètres &gt; Stockage</b>"Le contenu a été déplacé vers la ^1.
+    &lt;b>Paramètres > Stockage&lt;/b>"Le contenu a été déplacé vers la ^1.
 
 Pour gérer cette ^2, accédez à ".</string>
   <string name="storage_wizard_slow_body">"Ce ^1 ne semble pas rapide.
@@ -7923,7 +7923,7 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
   <string name="unlock_set_unlock_pin_summary">"Entrez %1$d-%2$d chiffres pour déverrouiller l'appareil"</string>
   <string name="unlock_set_unlock_pin_title">Code PIN</string>
   <string name="unlock_set_unlock_summary">Définir un écran de verrouillage</string>
-  <string name="unlock_setup_wizard_fingerprint_details">"Une fois que vous avez configuré un verrouillage de l'écran, vous pouvez également configurer votre empreinte digitale dans Paramètres &gt; Sécurité."</string>
+  <string name="unlock_setup_wizard_fingerprint_details">"Une fois que vous avez configuré un verrouillage de l'écran, vous pouvez également configurer votre empreinte digitale dans Paramètres > Sécurité."</string>
   <string name="unlock_type_category_title">Méthode de reconnaissance</string>
   <string name="unlogin_account_summary">Tous les services Mi. Un compte Mi.</string>
   <string name="unlogin_account_title">Se connecter avec le compte Mi</string>
@@ -8557,7 +8557,7 @@ Merci de prendre connaissance de la politique de données personnells de votre f
   <string name="wifi_ask_enable">"%s requiert l'activation du Wi-Fi."</string>
   <string name="wifi_assist">Assistant Wi-Fi</string>
   <string name="wifi_assistant">Rester connecté</string>
-  <string name="wifi_assistant_auto_confirm_data_help">Vous pouvez désactivé cette fonctionnalité dans Paramètres &gt; Paramètres Wi-Fi &gt; Assistant Wi-Fi.</string>
+  <string name="wifi_assistant_auto_confirm_data_help">Vous pouvez désactivé cette fonctionnalité dans Paramètres > Paramètres Wi-Fi > Assistant Wi-Fi.</string>
   <string name="wifi_assistant_auto_confirm_data_message">Utilise les réseaux de données mobiles lorsque votre appareil ne peut pas se connecter à internet en Wi-Fi.</string>
   <string name="wifi_assistant_confirm_always">Ne plus demander</string>
   <string name="wifi_assistant_confirm_connection_title">Connexion à internet impossible</string>
@@ -8941,13 +8941,13 @@ Allow this for all apps that want to scan?"</string>
   <string name="wifi_setup_cancel">Annuler</string>
   <string name="wifi_setup_connect">Se connecter</string>
   <string name="wifi_setup_description_connected">
-    <b>Suivant</b>
-    <b>Retour</b> pour se connecter à un autre réseau Wi-Fi." pour continuer la configuration.
+    &lt;b>Suivant&lt;/b>
+    &lt;b>Retour&lt;/b> pour se connecter à un autre réseau Wi-Fi." pour continuer la configuration.
 
     Toucher "Toucher </string>
   <string name="wifi_setup_description_connecting">La connexion peut prendre quelques minutes…</string>
   <string name="wifi_setup_detail">Infos réseau</string>
-  <string name="wifi_setup_eap_not_supported">Vous ne pouvez pas modifier une connexion Wi-Fi EAP pendant la configuration. Après vous pourrez aller dans Paramètres &gt; Réseaux.</string>
+  <string name="wifi_setup_eap_not_supported">Vous ne pouvez pas modifier une connexion Wi-Fi EAP pendant la configuration. Après vous pourrez aller dans Paramètres > Réseaux.</string>
   <string name="wifi_setup_forget">Supprimer</string>
   <string name="wifi_setup_next">Suivant</string>
   <string name="wifi_setup_not_connected">Non connecté</string>
@@ -9076,7 +9076,7 @@ Allow this for all apps that want to scan?"</string>
   <string name="wifi_wakeup_scan_summary">"Autorisez les applications et les services à rechercher des réseaux Wi-Fi pour pouvoir activer automatiquement le Wi-Fi. L'activation de cette fonction permettra à votre appareil de se connecter automatiquement aux réseaux enregistrés à proximité."</string>
   <string name="wifi_wakeup_summary">Réactiver le Wi-Fi à proximité des réseaux haute qualité déjà enregistrés, par exemple votre réseau domestique</string>
   <string name="wifi_wakeup_summary_no_location">
-    <annotation id="link">localisation</annotation>.Indisponible, car le service de localisation est désactivé. Activez la </string>
+    &lt;annotation id="link">localisation&lt;/annotation>.Indisponible, car le service de localisation est désactivé. Activez la </string>
   <string name="wifi_wakeup_summary_scanning_disabled">Indisponible, car la recherche Wi-Fi est désactivée</string>
   <string name="wifi_wakeup_summary_scoring_disabled">"Pour utiliser cette fonctionnalité, sélectionnez un fournisseur d'évaluation de l'état du réseau"</string>
   <string name="wifi_wapi_as_cert">Certificat AS</string>
@@ -9175,7 +9175,7 @@ Allow this for all apps that want to scan?"</string>
   <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
   <string name="xiaomi_cloud_service_description">"Xiaomi Cloud synchronisera les contacts, les photos et d'autres éléments sur vos appareils. \"Localiser l'appareil\" nécessite également que Mi Cloud fonctionne normalement."</string>
   <string name="xiaomi_cloud_service_description_contact">contacts et</string>
-  <string name="xiaomi_cloud_service_description_format">"Xiaomi Cloud synchronise vos %s photos, sauvegarde vos applications et vos paramètres et vous aide à trouver votre téléphone à l'aide de Trouver un appareil."</string>
+  <string name="xiaomi_cloud_service_description_format">"Xiaomi Cloud synchronise vos %s photos, sauvegarde vos applications et vos paramètres et vous aide à trouver votre téléphone à l'aide de Localiser l'appareil."</string>
   <string name="xiaomi_cloud_service_description_without_contacts">"Xiaomi Cloud synchronise vos photos, sauvegarde vos applications et vos paramètres, et vous aide à localiser votre téléphone en utilisant Localiser l'appreil."</string>
   <string name="xiaomi_cloud_service_disabled">Désactivé</string>
   <string name="xiaomi_cloud_service_unknown">Inconnu</string>
@@ -9381,7 +9381,7 @@ Allow this for all apps that want to scan?"</string>
   <string name="zen_mode_settings_dnd_automatic_rule">Le mode Ne pas déranger a été activé automatiquement par une règle (%s)</string>
   <string name="zen_mode_settings_dnd_automatic_rule_app">Le mode Ne pas déranger a été activé automatiquement par une application (%s)</string>
   <string name="zen_mode_settings_dnd_custom_settings_footer">Ne pas déranger est actif pour %s avec des réglages personnalisés.</string>
-  <string name="zen_mode_settings_dnd_custom_settings_footer_link">&lt;annotation id="link"&gt; Voir les réglages personnalisés&lt;/annotation&gt;</string>
+  <string name="zen_mode_settings_dnd_custom_settings_footer_link">&lt;annotation id="link"> Voir les réglages personnalisés&lt;/annotation></string>
   <string name="zen_mode_settings_dnd_manual_end_time">"Le mode Ne pas déranger est activé jusqu'à %s"</string>
   <string name="zen_mode_settings_dnd_manual_indefinite">"Le mode Ne pas déranger restera activé jusqu'à ce que vous le désactiviez"</string>
   <string name="zen_mode_settings_summary_off">Jamais</string>

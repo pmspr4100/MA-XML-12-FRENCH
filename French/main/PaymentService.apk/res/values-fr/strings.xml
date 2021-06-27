@@ -22,7 +22,7 @@
   <string name="account_crop_user_avatar">Recadrer la photo</string>
   <string name="account_empty_user_name">Entrez votre identifiant de Compte Mi</string>
   <string name="account_error_all_space_user_name">"L'identifiant ne doit pas contenir que des espaces"</string>
-  <string name="account_error_invalid_user_name">"L'identifiant ne doit pas contenir de &lt;, &gt;, ou /"</string>
+  <string name="account_error_invalid_user_name">"L'identifiant ne doit pas contenir de &lt;, >, ou /"</string>
   <string name="account_error_longer_user_name">Le nom ne peut pas faire plus de 20 caractères</string>
   <string name="account_error_shorter_user_name">Le nom doit faire plus de 2 caractères</string>
   <string name="account_error_user_birthday">La date de naissance entrée est invalide</string>
@@ -219,7 +219,7 @@ Please check your local date and try again."</string>
   <string name="mibi_frozen">Frozen</string>
   <string name="mibi_frozen_prim">Account frozen</string>
   <string name="mibi_frozen_sub">Abnormal activity detected</string>
-  <string name="mibi_frozen_text">&lt;Data&gt;Your account is frozen. &amp;lt;font color=#33aaff&amp;gt;Contact our customer support.&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+  <string name="mibi_frozen_text">&lt;Data>Your account is frozen. &lt;font color=#33aaff>Contact our customer support.&lt;/font>&lt;/Data></string>
   <string name="mibi_frozen_text_pad">Your account is frozen. Contact 400–100–3399.</string>
   <string name="mibi_get_phone_format_error">Verify phone number</string>
   <string name="mibi_get_phone_num_summary">Enter the phone number used for payments</string>
@@ -249,7 +249,7 @@ Please check your local date and try again."</string>
   <string name="mibi_giftcard_used">Redeemed</string>
   <string name="mibi_giftcard_vaild_util">vaild util %1$s</string>
   <string name="mibi_giftcard_will_expire">Expires on %1$s</string>
-  <string name="mibi_giftcard_with_num">&lt;Data&gt;&amp;lt;font color=#FF7700&amp;gt;&amp;lt;xliff:g id=value&amp;gt;%1$d&amp;lt;/xliff:g&amp;gt; Mi Coin coupon available&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+  <string name="mibi_giftcard_with_num">&lt;Data>&lt;font color=#FF7700>&lt;xliff:g id=value>%1$d&lt;/xliff:g> Mi Coin coupon available&lt;/font>&lt;/Data></string>
   <string name="mibi_header_network_error">"Couldn't connect to network."</string>
   <string name="mibi_illegal_intent">Illegal intent request</string>
   <string name="mibi_is_what">What can you buy with Mi Coins?</string>
@@ -274,7 +274,7 @@ Please check your local date and try again."</string>
   <string name="mibi_msg_order_hint_1_1">After you touch Confirm purchase, your phone will</string>
   <string name="mibi_msg_order_hint_1_2">Automatically contact your service provider.</string>
   <string name="mibi_msg_picker_hint_1_1">1.</string>
-  <string name="mibi_msg_picker_hint_1_2">Topping up via text may be more expensive: &lt;font color=red&gt;￥%1$d = %2$d Mi Coin&lt;/font&gt;</string>
+  <string name="mibi_msg_picker_hint_1_2">Topping up via text may be more expensive: &lt;font color=red>￥%1$d = %2$d Mi Coin&lt;/font></string>
   <string name="mibi_msg_picker_hint_2_1">2.</string>
   <string name="mibi_msg_picker_hint_2_a">Carriers charge a ￥%1$s service fee per top-up</string>
   <string name="mibi_msg_picker_hint_2_b">An SMS will be sent to your carrier after you tap \"Top up\". Carrier will charge you for a regular SMS.</string>
@@ -342,9 +342,9 @@ Please check your local date and try again."</string>
   <string name="mibi_prepaid_picker_hint_1_2">Only supports one-time charge;</string>
   <string name="mibi_prepaid_picker_hint_2_1">2.</string>
   <string name="mibi_prepaid_picker_hint_2_2_a">"Selected nominal value must be consistent with that of the prepaid card. Choosing another value will void the card. This action can't be undone."</string>
-  <string name="mibi_prepaid_picker_hint_2_2_b">If the nominal value of the prepaid card is not &lt;font color=red&gt;￥%1$s&lt;/font&gt;, the card will be void. Xiaomi is not responsible for any monetary loss that occurs as a result of user error.</string>
+  <string name="mibi_prepaid_picker_hint_2_2_b">If the nominal value of the prepaid card is not &lt;font color=red>￥%1$s&lt;/font>, the card will be void. Xiaomi is not responsible for any monetary loss that occurs as a result of user error.</string>
   <string name="mibi_prepaid_picker_hint_3_1">3.</string>
-  <string name="mibi_prepaid_picker_hint_3_2">Enter your card number, face value, and password. <b>Any loss caused by the discrepancy between the information you provide and the actual information shall be borne by you.</b></string>
+  <string name="mibi_prepaid_picker_hint_3_2">Enter your card number, face value, and password. &lt;b>Any loss caused by the discrepancy between the information you provide and the actual information shall be borne by you.&lt;/b></string>
   <string name="mibi_prepaid_picker_title_default">Select amount</string>
   <string name="mibi_prepaid_picker_title_selected">amount</string>
   <string name="mibi_privacy_license_name">Politique de confidentialité</string>
@@ -380,7 +380,7 @@ Customer service center：400-100-3399"</string>
   <string name="mibi_progress_warning_waiting">"Payment hasn't reached your account yet."</string>
   <string name="mibi_prompt_info_button_hint">Attention(%d)</string>
   <string name="mibi_prompt_info_button_text">OK</string>
-  <string name="mibi_prompt_info_for_first_use">&lt;Data&gt;"&amp;lt;font color=#ff7700&amp;gt;Les Mi Coin ne peuvent pas être utilisé pour acheter des produits sur Mi.com.&amp;lt;/font&amp;gt;"&lt;/Data&gt;</string>
+  <string name="mibi_prompt_info_for_first_use">&lt;Data>"&lt;font color=#ff7700>Les Mi Coin ne peuvent pas être utilisé pour acheter des produits sur Mi.com.&lt;/font>"&lt;/Data></string>
   <string name="mibi_prompt_info_title">Tips</string>
   <string name="mibi_push_register_fail">Register push fail.</string>
   <string name="mibi_push_register_success">Register push success.</string>
@@ -586,8 +586,8 @@ Customer service center：400-100-3399"</string>
   <string name="passport_unknow_error">An unknown error occurred</string>
   <string name="passport_unknow_host_network_error">Check your network settings and try again</string>
   <string name="passport_unknow_network_error">A network error occurred</string>
-  <string name="passport_user_agreement_link">"&lt;Data&gt;I've read and agree to Xiaomi's &lt;a href=%1$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%2$s&gt;Privacy Policy&lt;/a&gt;.&lt;/Data&gt;"</string>
-  <string name="passport_user_agreement_link_more">"&lt;Data&gt;I've read and agree to the following documents: Xiaomi's &lt;a href=%1$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%4$s&gt;Privacy Policy&lt;/a&gt;, &lt;a href=%2$s&gt;%3$s&lt;/a&gt;.&lt;/Data&gt;"</string>
+  <string name="passport_user_agreement_link">&lt;Data>"I've read and agree to Xiaomi's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>."&lt;/Data></string>
+  <string name="passport_user_agreement_link_more">&lt;Data>"I've read and agree to the following documents: Xiaomi's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, &lt;a href=%2$s>%3$s&lt;/a>."&lt;/Data></string>
   <string name="passport_user_id_intro">Enter password for %1$s</string>
   <string name="passport_v_code_error">Verification code is incorrect</string>
   <string name="passport_vcode_notification_title">"La vérification n'est pas terminée"</string>

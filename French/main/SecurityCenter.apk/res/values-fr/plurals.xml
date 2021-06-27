@@ -146,8 +146,8 @@
         <item quantity="one">Protection de %d appli</item>
     </plurals>
     <plurals name="card_uninstall_title">
-        <item quantity="other"><Data>Vous pouvez désinstaller &lt;font color=#F22424>%d&lt;/font> applications</Data></item>
-        <item quantity="one"><Data>Vous pouvez désinstaller &lt;font color=#F22424>%d&lt;/font> application</Data></item>
+        <item quantity="other">&lt;Data>Vous pouvez désinstaller &lt;font color=#F22424>%d&lt;/font> applications&lt;/Data></item>
+        <item quantity="one">&lt;Data>Vous pouvez désinstaller &lt;font color=#F22424>%d&lt;/font> application&lt;/Data></item>
     </plurals>
     <plurals name="daily_sim_over_limit_dialog_message">
         <item quantity="other">"Vous avez déjà atteint les limites de données quotidiennes de %s.
@@ -175,10 +175,10 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
     </plurals>
     <plurals name="exit_dialog_release_memory_message">
         <item quantity="other">
-            <Data>"Fermer les applications &lt;font color=#0099ff&gt;%d&lt;/font&gt; pour accélérer votre appareil ?"</Data>
+            &lt;Data>"Fermer les applications &lt;font color=#0099ff>%d&lt;/font> pour accélérer votre appareil ?"&lt;/Data>
         </item>
         <item quantity="one">
-            <Data>"Fermer l'application &lt;font color=#0099ff&gt;%d&lt;/font&gt; pour accélérer votre appareil ?"</Data>
+            &lt;Data>"Fermer l'application &lt;font color=#0099ff>%d&lt;/font> pour accélérer votre appareil ?"&lt;/Data>
         </item>
     </plurals>
     <plurals name="exit_dialog_scan_message_new">
@@ -432,8 +432,8 @@ Vous pouvez obtenir un essai gratuit de %d jours maintenant !"</item>
         <item quantity="one">"%d jour restant avant que la session d'augmentation de la vitesse du réseau ne se termine. Renouveler la session pour éviter des problèmes de vitesse de réseau."</item>
     </plurals>
     <plurals name="network_restrict_count">
-        <item quantity="other">"L'accès réseau est restreint pour &lt;font color='#ff0000'&gt;%d&lt;/font&gt; applications"</item>
-        <item quantity="one">"L'accès réseau est restreint pour &lt;font color='#ff0000'&gt;%d&lt;/font&gt; application"</item>
+        <item quantity="other">"L'accès réseau est restreint pour &lt;font color='#ff0000'>%d&lt;/font> applications"</item>
+        <item quantity="one">"L'accès réseau est restreint pour &lt;font color='#ff0000'>%d&lt;/font> application"</item>
     </plurals>
     <plurals name="notification_antivirus_title">
         <item quantity="other">%d jours sans analyse de sécurité</item>
@@ -812,8 +812,8 @@ Vous pouvez obtenir un essai gratuit de %d jours maintenant !"</item>
         <item quantity="one">%1$d fichier sécurisé</item>
     </plurals>
     <plurals name="title_app_update_cn">
-        <item quantity="other"><Data>Mettre à jour &lt;font color=#F22424>%d&lt;/font> applications</Data></item>
-        <item quantity="one"><Data>Mettre à jour &lt;font color=#F22424>%d&lt;/font> application</Data></item>
+        <item quantity="other">&lt;Data>Mettre à jour &lt;font color=#F22424>%d&lt;/font> applications&lt;/Data></item>
+        <item quantity="one">&lt;Data>Mettre à jour &lt;font color=#F22424>%d&lt;/font> application&lt;/Data></item>
     </plurals>
     <plurals name="title_virus_clean">
         <item quantity="other">%d virus effacés</item>
