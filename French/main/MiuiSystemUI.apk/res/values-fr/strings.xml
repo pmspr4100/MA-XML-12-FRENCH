@@ -379,7 +379,7 @@
   <string name="as_unimportant">Sans importance</string>
   <string name="ask_me_later_bubbles">Ask me later</string>
   <string name="aspect_cancel">Annuler</string>
-  <string name="aspect_message">Cette application sera lancée à nouveau en mode plein écran. Si vous rencontrez des problèmes, vous pouvez désactiver le mode plein écran pour cette application dans les paramètres &gt; Affichage plein écran &gt; Mode plein écran.</string>
+  <string name="aspect_message">Cette application sera lancée à nouveau en mode plein écran. Si vous rencontrez des problèmes, vous pouvez désactiver le mode plein écran pour cette application dans les paramètres > Affichage plein écran > Mode plein écran.</string>
   <string name="aspect_ok">OK </string>
   <string name="aspect_title">Mode plein écran</string>
   <string name="audio_effect_custom">Configurer</string>
@@ -994,7 +994,7 @@ Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données.
   <string name="fs_gesture_back_ready_title">Retour</string>
   <string name="fs_gesture_final_over">"J'ai terminé"</string>
   <string name="fs_gesture_final_restart">Une fois de plus</string>
-  <string name="fs_gesture_final_summary">Vous pouvez basculer en utilisant les boutons dans Paramètres &gt; Affichage en plein écran</string>
+  <string name="fs_gesture_final_summary">Vous pouvez basculer en utilisant les boutons dans Paramètres > Affichage en plein écran</string>
   <string name="fs_gesture_final_title">Vous êtes prêt à faire sensation !</string>
   <string name="fs_gesture_finish">Super !</string>
   <string name="fs_gesture_left_back_ready_summary">Balayer vers la droite depuis le bord</string>
@@ -1090,7 +1090,7 @@ Une fois le téléphone refroidi, il fonctionnera normalement."</string>
   <string name="ims_reg_status_not_registered">Non enregisté</string>
   <string name="ims_reg_status_registered">Enregistré</string>
   <string name="ims_reg_title">"État d'enregistrement d'IMS"</string>
-  <string name="imsi_protection_warning">"Ce réseau reçoit un identifiant unique qui peut être utilisé pour suivre l'emplacement de l'appareil." <annotation id="url">En savoir plus</annotation></string>
+  <string name="imsi_protection_warning">"Ce réseau reçoit un identifiant unique qui peut être utilisé pour suivre l'emplacement de l'appareil." &lt;annotation id="url">En savoir plus&lt;/annotation></string>
   <string name="inactive_app_active_summary">Active. Appuyer pour basculer.</string>
   <string name="inactive_app_inactive_summary">Inactive. Appuyer pour basculer.</string>
   <string name="inactive_apps_title">Applications inactives</string>
@@ -1646,7 +1646,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="no_multi_window_app">Aucune application ne prend en charge le mode Écran divisé</string>
   <string name="no_notification_tips">Aucune notification</string>
   <string name="no_tiles_add">Pas de tuiles à ajouter</string>
-  <string name="no_weather_description">Obtenir les informations de la météo &gt;</string>
+  <string name="no_weather_description">Obtenir les informations de la météo ></string>
   <string name="noon">Midi</string>
   <string name="not_set">Non défini</string>
   <string name="not_support_multi_window">Les applications actuelles ne prennent pas en charge le mode Écran divisé</string>
@@ -1742,11 +1742,11 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="phone_locked_foget_password">Mot de passe oublié ?</string>
   <string name="phone_locked_foget_password_mehod_back">Retour</string>
   <string name="phone_locked_foget_password_method">Mot de passe oublié ?</string>
-  <string name="phone_locked_foget_password_method_content">"&lt;Data&gt;Vous devez &amp;lt;font color=#a5220e&amp;gt;effacer toutes les données &amp;lt;/font&amp;gt;sur votre appareil, y compris les photos et les contacts, puis définissez un nouveau mot de passe pour l'écran de verrouillage.&lt;/Data&gt;"</string>
+  <string name="phone_locked_foget_password_method_content">&lt;Data>"Vous devez &lt;font color=#a5220e>effacer toutes les données &lt;/font>sur votre appareil, y compris les photos et les contacts, puis définissez un nouveau mot de passe pour l'écran de verrouillage."&lt;/Data></string>
   <string name="phone_locked_foget_password_method_next">Suivant</string>
   <string name="phone_locked_foget_password_ok">Compris</string>
-  <string name="phone_locked_forget_password_suggesstion_one_content">"&lt;Data&gt;Mettez votre appareil hors tension , appuyez et maintenez le &lt;font color=#a5220e&gt;bouton d'alimentation&lt;/font&gt; et le &lt;font color=#a5220e&gt; bouton Volume haut&lt;/font&gt; simultanément jusqu'à ce que voyez le logo Mi.;&lt;/Data&gt;"</string>
-  <string name="phone_locked_forget_password_suggesstion_two_content">"&lt;Data&gt;sélectionner&lt;font color=#a5220e&gt;\"Effacer &amp;amp; Réinitialiser\"&lt;/font&gt; et patientez jusqu'à ce que l'appareil redémarre.;&lt;/Data&gt;"</string>
+  <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data>"Mettez votre appareil hors tension , appuyez et maintenez le &lt;font color=#a5220e>bouton d'alimentation&lt;/font> et le &lt;font color=#a5220e> bouton Volume haut&lt;/font> simultanément jusqu'à ce que voyez le logo Mi.;"&lt;/Data></string>
+  <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data>"sélectionner&lt;font color=#a5220e>\"Effacer &amp;amp; Réinitialiser\"&lt;/font> et patientez jusqu'à ce que l'appareil redémarre.;"&lt;/Data></string>
   <string name="phone_locked_forget_password_suggesstions_title">Comment effacer les données ?</string>
   <string name="phone_locked_string">Appareil verrouillé</string>
   <string name="picture_color_mode">Mode image couleur</string>
@@ -1781,32 +1781,32 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="power_discharging_duration_enhanced">About %1$s left based on your usage (%2$s)</string>
   <string name="power_notification_controls_description">"Avec les commandes de notification d'alimentation, vous pouvez définir un niveau d'importance de 0 à 5 pour les notifications d'une application.
 
-<b>Niveau 5</b>
+&lt;b>Niveau 5&lt;/b>
 - Afficher en haut de la liste de notifications
 - Autoriser l'interruption en plein écran
 - Toujours regarder
 
-<b>Niveau 4</b>
+&lt;b>Niveau 4&lt;/b>
 - Empêcher l'interruption en plein écran
 - Toujours regarder
 
-<b>Niveau 3</b>
+&lt;b>Niveau 3&lt;/b>
 - Empêcher l'interruption en plein écran
 - Ne jamais regarder
 
-<b>Niveau 2</b>
+&lt;b>Niveau 2&lt;/b>
 - Empêcher l'interruption en plein écran
 - Ne jamais regarder
 - Ne jamais sonner ou vibrer
 
-<b>Niveau 1</b>
+&lt;b>Niveau 1&lt;/b>
 - Empêcher l'interruption en plein écran
 - Ne jamais regarder
 - Ne jamais sonner ou vibrer
 - Masquer depuis l'écran de verrouillage et la barre d'état
 - Afficher en bas de la liste de notification
 
-<b>Niveau 0</b>"
+&lt;b>Niveau 0&lt;/b>"
 - Bloquer toutes les notifications de l'application"</string>
   <string name="power_remaining_charging_duration_only">"%1$s- Jusqu'à être complètement chargé"</string>
   <string name="power_remaining_duration_only">Environ %1$s min restantes</string>
@@ -2227,8 +2227,8 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="status_bar_clock_date_format_12">EEEE d MMMM</string>
   <string name="status_bar_clock_date_time_format">EEEE d MMMM HH:mm</string>
   <string name="status_bar_clock_date_time_format_12">EEEE d MMMM hh:mm aa</string>
-  <string name="status_bar_clock_date_weekday_format">EEE, d MMMM</string>
-  <string name="status_bar_clock_date_weekday_format_12">EEE, d MMMM</string>
+  <string name="status_bar_clock_date_weekday_format">EEE. d MMMM</string>
+  <string name="status_bar_clock_date_weekday_format_12">EEE. d MMMM</string>
   <string name="status_bar_date_format">"EEEE
 d MMMM"</string>
   <string name="status_bar_date_format_12">"EEEE
@@ -2237,9 +2237,9 @@ d MMMM"</string>
   <string name="status_bar_input_method_settings_configure_input_methods">Configurer des méthodes de saisie</string>
   <string name="status_bar_latest_events_title">Notifications</string>
   <string name="status_bar_network_flow_content">"Aujourd'hui: %1$s   Restant: %2$s"</string>
-  <string name="status_bar_network_flow_exceed_content">"Aujourd'hui: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Dépassé: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;"</string>
+  <string name="status_bar_network_flow_exceed_content">"Aujourd'hui: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Dépassé: &lt;font color=%2$s>%3$s&lt;/font>"</string>
   <string name="status_bar_network_flow_limit">"   Limite mensuelle: %1$s   "</string>
-  <string name="status_bar_network_flow_purchase">"   Acheter &gt;"</string>
+  <string name="status_bar_network_flow_purchase">"   Acheter >"</string>
   <string name="status_bar_network_flow_today">"Aujourd'hui: %1$s"</string>
   <string name="status_bar_no_notifications_title">Aucune notification</string>
   <string name="status_bar_no_recent_apps">Vos écrans récents apparaissent ici</string>

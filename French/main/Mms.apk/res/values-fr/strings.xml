@@ -289,9 +289,9 @@
     <string name="favorite_at_time">Ajouté aux favoris sur: %1s</string>
     <string name="fdn_check_failure">Vous ne pouvez pas envoyer de SMS à un téléphone fixe.</string>
     <string name="feature_mx">Mi Message</string>
-    <string name="feature_mx_summary">"&lt;b&gt;Mi Message vous permet d'envoyer des messages à d'autres utilisateurs de Mi Message par internet sans occasionner de frais&lt;/b&gt;. Un message SMS doit être envoyé pour activer ce service. Cela pourra engendrer des frais facturés par votre opérateur. Lisez et acceptez notre &lt;font color=\"#B3000000\"&gt;&lt;a href=\"http://url1\"&gt;Accord d'utilisation&lt;/a&gt;&lt;/font&gt; et notre &lt;font color=\"#B3000000\"&gt;&lt;a href=\"http://url2\"&gt;Politique de confidentialité&lt;/a&gt;&lt;/font&gt; avant d'utiliser cette fonctionnalité."</string>
+    <string name="feature_mx_summary">"&lt;b>Mi Message vous permet d'envoyer des messages à d'autres utilisateurs de Mi Message par internet sans occasionner de frais&lt;/b>. Un message SMS doit être envoyé pour activer ce service. Cela pourra engendrer des frais facturés par votre opérateur. Lisez et acceptez notre &lt;font color=\"#B3000000\">&lt;a href=\"http://url1\">Accord d'utilisation&lt;/a>&lt;/font> et notre &lt;font color=\"#B3000000\">&lt;a href=\"http://url2\">Politique de confidentialité&lt;/a>&lt;/font> avant d'utiliser cette fonctionnalité."</string>
     <string name="feature_smart_sms">Messagerie intelligente</string>
-    <string name="feature_smart_sms_summary">"&lt;b&gt;La messagerie intelligente offre une reconnaissance de l'identifiant de l'expéditeur et des menus intelligents&lt;/b&gt;". La messagerie intelligente est fournie en partie par Yulore. Lisez et acceptez les Conditions de Yulore "&lt;font color="#B3000000"&gt;&lt;a href="http://url3"&gt;Politique de confidentialité&lt;/a&gt;&lt;/font&gt; avant d'utiliser cette fonction."</string>
+    <string name="feature_smart_sms_summary">"&lt;b>La messagerie intelligente offre une reconnaissance de l'identifiant de l'expéditeur et des menus intelligents&lt;/b>. La messagerie intelligente est fournie en partie par Yulore. Lisez et acceptez les Conditions de Yulore (&lt;font color=\"#B3000000\">&lt;a href=\"http://url3\">Politique de confidentialité&lt;/a>&lt;/font>), avant d'utiliser cette fonction."</string>
     <string name="festival_sms_loading">Chargement…</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="file_create_time">"Créé : "</string>
@@ -338,7 +338,7 @@
     <string name="guild_add_attachments">"Appuyer pour ajouter des émoticônes et d'autres éléments"</string>
     <string name="guild_add_recipients">Appuyer pour ajouter des destinaires depuis les contacts</string>
     <string name="guild_msim_switcher">Appuyer pour changer de carte SIM</string>
-    <string name="has_invalid_recipient">Destinataires non valides: &lt;%1$s&gt;</string>
+    <string name="has_invalid_recipient">Destinataires non valides: &lt;%1$s></string>
     <string name="heduohao_sub_sim_card">Sub</string>
     <string name="hidden_sender_address">"Adresse d'expéditeur masquée"</string>
     <string name="hold_to_talk">Maintenir pour parler</string>
@@ -555,7 +555,7 @@ Ce message peut être non sollicité."</string>
     <string name="mx_enable_ex">Mi Messages et Voix</string>
     <string name="mx_enable_popup_msg">"Mi Message vous permet d'envoyer des SMS aux autres utilisateurs MIUI sans encourir de frais."</string>
     <string name="mx_filter_message_from_stranger">Bloquez les Mi Messages venant de numéros inconnus</string>
-    <string name="mx_filter_message_from_stranger_dialog_desc">"Vous pourrez toujours recevoir les SMS réguliers venant de numéros inconnus. Vous pouvez activer ou désactiver cette fonctionnalité à n'importe quel moment dans Messages &gt; Paramètres."</string>
+    <string name="mx_filter_message_from_stranger_dialog_desc">"Vous pourrez toujours recevoir les SMS réguliers venant de numéros inconnus. Vous pouvez activer ou désactiver cette fonctionnalité à n'importe quel moment dans Messages > Paramètres."</string>
     <string name="mx_filter_message_from_stranger_dialog_title">Bloquez les Mi Messages venant de numéros inconnus</string>
     <string name="mx_filter_message_from_stranger_summary">Vous pourrez toujours recevoir des SMS réguliers venant de numéros inconnus</string>
     <string name="mx_main_purpose">"Mi Message vous permet d'envoyer des messages à d’autres utilisateurs de Mi Message sur internet, sans frais.
@@ -630,7 +630,7 @@ Ce message peut être non sollicité."</string>
     <string name="perm_purpose_mms_account">Pour accéder aux informations du compte</string>
     <string name="perm_purpose_mms_storage">Pour enregistrer les pièces jointes MMS</string>
     <string name="perm_purpose_rcs_account">"Pour afficher le guide du débutant pour les nouveaux utilisateurs"</string>
-    <string name="perm_purpose_rcs_phone_state">"Pour accéder à IMEI afin d'identifier votre appareil"</string>
+    <string name="perm_purpose_rcs_phone_state">"Pour accéder à l'IMEI afin d'identifier votre appareil"</string>
     <string name="perm_purpose_rcs_storage">"Pour enregistrer des images, des vidéos, des fichiers et d'autres pièces jointes RCS"</string>
     <string name="phrase_confirm_delete_message">Cette réponse sera effacée.</string>
     <string name="phrase_empty">Aucune réponse</string>

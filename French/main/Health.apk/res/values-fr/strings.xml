@@ -231,7 +231,7 @@ Si vous ne souhaitez pas accéder aux cours recommandés, vous pouvez toujours u
   <string name="data_account_info_loading">Obtenir des informations sur le compte…</string>
   <string name="data_delete_tip">Suppression des données de santé de cet appareil…</string>
   <string name="data_details">Data details</string>
-  <string name="data_empty">Aucune données</string>
+  <string name="data_empty">Aucune donnée</string>
   <string name="data_safety_tip_details">Vos données de santé seront conservées sur cet appareil après votre déconnexion. Vous pouvez supprimer vos données de santé dans Santé et Sources de données.</string>
   <string name="data_safety_tip_details2">"Certaines de vos données de santé ont été téléchargées sur le cloud. Vous pouvez choisir de conserver vos données de santé sur cet appareil ou de les supprimer. La sélection de \"Supprimer\" ci-dessous supprimera uniquement les données de cet appareil, les éléments synchronisés seront toujours stockés dans le cloud.
 Si vous décidez de supprimer vos données de santé après avoir choisi de les conserver, vous pouvez le faire dans les sources de santé et Source de données."</string>
@@ -241,9 +241,9 @@ Si vous décidez de supprimer vos données de santé après avoir choisi de les 
   <string name="data_source_data_updating">Mise à jour des données de santé…</string>
   <string name="data_source_list_description">"Mi Santé obtient des données sur la santé (%1$s) à partir de ces sources. Si les données sont dupliquées dans plusieurs sources, vous verrez les données des sources qui apparaissent en premier sur la liste dans Mi Santé."</string>
   <string name="data_source_manage">Gérer les sources de données</string>
-  <string name="data_source_not_support_hm_description">"%1$s ne fournit pas de décompte détaillé. Vous pouvez essayer de basculer vers d'autres sources de données dans Plus &gt; Sources de données."</string>
-  <string name="data_source_not_support_hm_description_consume">"La source de données sélectionnée (%1$s) ne donne d'informations détaillées à propos des calories. Vous pouvez sélectionner une autre source de données dans Plus &gt; Sources de données."</string>
-  <string name="data_source_not_support_hm_description_duration">"La source de données sélectionnée (%1$s) ne donne d'informations détaillées à propos des entraînements d'intensité modérée à élevée. Vous pouvez sélectionner une autre source de données dans Plus &gt; Sources de données."</string>
+  <string name="data_source_not_support_hm_description">"%1$s ne fournit pas de décompte détaillé. Vous pouvez essayer de basculer vers d'autres sources de données dans Plus > Sources de données."</string>
+  <string name="data_source_not_support_hm_description_consume">"La source de données sélectionnée (%1$s) ne donne d'informations détaillées à propos des calories. Vous pouvez sélectionner une autre source de données dans Plus > Sources de données."</string>
+  <string name="data_source_not_support_hm_description_duration">"La source de données sélectionnée (%1$s) ne donne d'informations détaillées à propos des entraînements d'intensité modérée à élevée. Vous pouvez sélectionner une autre source de données dans Plus > Sources de données."</string>
   <string name="date">Date</string>
   <string name="date_format_m_d">dd/MM</string>
   <string name="date_format_m_d_2">dd/MM</string>
@@ -336,7 +336,7 @@ Mi Santé ne vous informera que des articles importants."</string>
   <string name="dialog_feedback_title">Commentaires</string>
   <string name="dialog_health_applicator">Mi Santé fournit actuellement des services uniquement aux adultes.</string>
   <string name="dialog_juveniles_details">"Selon notre Politique de confidentialité, l'âge minimum pour utiliser ce produit est de 18 ans."</string>
-  <string name="dialog_juveniles_link">"Selon nos &lt;font color=\"#FE6D67\"&gt;&lt;a href=%1$s&gt;Politique de confidentialité&lt;/a&gt;&lt;/font&gt;, l'âge minimum pour utiliser ce produit est de 18 ans."</string>
+  <string name="dialog_juveniles_link">"Selon notre &lt;font color=\"#FE6D67\">&lt;a href=%1$s>Politique de confidentialité&lt;/a>&lt;/font>, l'âge minimum pour utiliser ce produit est de 18 ans."</string>
   <string name="dialog_keep">Conserver</string>
   <string name="dialog_known">Compris</string>
   <string name="dialog_menstruation_purpose">"Bienvenue sur Mi Santé ! \"Règles menstruelles\" vous permet d'enregistrer vos règles, de déterminer les dates estimées des règles à venir et de recevoir des rappels. Toutes les données associées seront stockées localement sur votre appareil, ce qui vous permet de les gérer facilement."</string>
@@ -401,11 +401,11 @@ Mi Santé ne vous informera que des articles importants."</string>
   <string name="exercise_consume_exercise_description">"La durée de l'exercice est le temps consacré aux activités d'intensité moyenne et élevée. Selon les autorités sanitaires chinoises, la durée de l'exercice hebdomadaire devrait être d'au moins 150 minutes. Le temps consacré à des activités de haute intensité telles que la marche rapide (cadence supérieure à 100 pas par minute), la course à pied et la montée des escaliers s'ajoutera à la durée de votre exercice."</string>
   <string name="exercise_correct">Corriger</string>
   <string name="exercise_detail_no_consume_hint">"La source de données sélectionnée (%1$s) ne fournit pas des informations sur les calories comptées.
-Vous pouvez sélectionner une autre source de données dans Plus &gt; Sources de données."</string>
+Vous pouvez sélectionner une autre source de données dans Plus > Sources de données."</string>
   <string name="exercise_detail_no_exercise_hint">"Votre source de données actuelle (%1$s) ne fournit pas de statistiques d'entraînement détaillées.
-Vous pouvez sélectionner une autre source dans Plus &gt; Sources de données."</string>
+Vous pouvez sélectionner une autre source dans Plus > Sources de données."</string>
   <string name="exercise_detail_no_steps_hint">"SLa source de données sélectionnée (%1$s) ne fournit pas d'informations sur le nombre de pas.
-Vous pouvez sélectionner une autre source dans Plus &gt; Sources de données."</string>
+Vous pouvez sélectionner une autre source dans Plus > Sources de données."</string>
   <string name="exercise_duration">"Durée de l'exercice"</string>
   <string name="exercise_duration_consume">Durée: %1$s | Brûlée: %2$s</string>
   <string name="exercise_goal">"Objectif de l'activité"</string>
@@ -424,7 +424,7 @@ Vous pouvez sélectionner une autre source dans Plus &gt; Sources de données."<
   <string name="exercise_notification_meet_title">"Pas d'aujourd'hui: %d. Objectif atteint !"</string>
   <string name="exercise_notification_no_meet_title">"Pas d'aujourd'hui: %d. Continuez à atteindre votre objectif !"</string>
   <string name="exercise_question_answer_one">"1. Certains modèles d'appareils ne sont pas équipés de capteurs à faible consommation d'énergie. Xiaomi Santé ne suit pas les données d'activité pour économiser la batterie sur les appareils suivants: Redmi 1S, Redmi 2A, Redmi 2, Redmi 3, Redmi Pro, Redmi Note, Redmi Note 2, Redmi Note 3, Redmi Note 4, Mi 2, Mi 3, Mi 4.
-Si votre appareil est répertorié ici, vous pouvez ajouter manuellement des sources de données dans Xiaomi Santé &gt; Menu &gt; Sources de données &gt; Ajouter des sources de données."</string>
+Si votre appareil est répertorié ici, vous pouvez ajouter manuellement des sources de données dans Xiaomi Santé > Menu > Sources de données > Ajouter des sources de données."</string>
   <string name="exercise_question_answer_two">2. Parfois, les détecteurs de mouvement peuvent ne pas se monter. Redémarrez votre téléphone et vérifiez si le suivi démarre normalement dans de tels cas.</string>
   <string name="exercise_question_title">Pourquoi ne voyez-vous pas vos statistiques ?</string>
   <string name="exercise_recog_confirm_ridding">Faisiez-vous du vélo entre %1$s et %2$s ?</string>
@@ -455,7 +455,7 @@ Si votre appareil est répertorié ici, vous pouvez ajouter manuellement des sou
   <string name="exit_running_tips_confirm">Non</string>
   <string name="exit_running_tips_desc">"Il semble que vous n’avez pas encore commencé à vous entraîner. Terminer cet entraînement ?"</string>
   <string name="exit_running_tips_title">"Fin d'entraînement ?"</string>
-  <string name="expand_all">Afficher tout</string>
+  <string name="expand_all">Tout afficher</string>
   <string name="expand_button_title">Avancé</string>
   <string name="exposed_dropdown_menu_content_description">Afficher le menu déroulant</string>
   <string name="fall_sleep_hard">"Difficulté à s'endormir"</string>
@@ -1156,7 +1156,7 @@ Recommencer."</string>
   <string name="sleep">Sommeil</string>
   <string name="sleep_and_get_up_time">Horaire du coucher</string>
   <string name="sleep_auto_start_perm_grant">Permissions accordées</string>
-  <string name="sleep_chart_empty">Aucune données</string>
+  <string name="sleep_chart_empty">Aucune donnée</string>
   <string name="sleep_chart_loading">Chargement…</string>
   <string name="sleep_day">Jour</string>
   <string name="sleep_day_multi_short_title">Sieste %1$d</string>
@@ -1283,7 +1283,7 @@ Si ce problème se produit fréquemment, vérifiez sur votre appareil les tâche
   <string name="snore_detection_enable">Détecter le ronflement et parler</string>
   <string name="snore_detection_guide_one_description">"Le son sera enregistré pendant que vous dormez. L'apprentissage automatique permet à Xiaomi Santé de détecter les ronflements, les conversations et les bruits forts et de sauvegarder les enregistrements sur votre appareil."</string>
   <string name="snore_detection_guide_one_title">"Enregistrer de l'audio à l'aide d'un microphone"</string>
-  <string name="snore_detection_guide_schedule_suggest">Le microphone sera activé et désactivé en fonction de votre horaire de coucher. Définissez votre horaire de coucher pour le faire fonctionner&gt;</string>
+  <string name="snore_detection_guide_schedule_suggest">Le microphone sera activé et désactivé en fonction de votre horaire de coucher. Définissez votre horaire de coucher pour le faire fonctionner></string>
   <string name="snore_detection_guide_schedule_suggest_details">Le microphone sera allumé pendant le coucher pour analyser votre cycle de sommeil. Pour rendre les statistiques plus précises, réglez votre heure de coucher dans Horloge.</string>
   <string name="snore_detection_guide_three_description">"Assurez-vous que votre appareil est suffisamment chargé avant de vous coucher. Une batterie faible peut interrompre l'enregistrement sonore."</string>
   <string name="snore_detection_guide_three_title">Gardez votre appareil chargé</string>

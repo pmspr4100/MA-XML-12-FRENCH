@@ -276,7 +276,7 @@ ous devez d'abord créer une sauvegarde iCloud."</string>
   <string name="import_from_xiaomi_account_hint2">Si vous avez déjà une sauvegarde, appuyez sur Suivant.</string>
   <string name="import_from_xiaomi_account_hint_title">"Utilisez Mi Talk pour sauvegarder vos contacts sur d'autres appareils."</string>
   <string name="import_tip_summary">En raison des problèmes de compatibilité, vous pouvez seulement transférer partiellement les données depuis vos appareil iOS. Assurez-vous de créer une sauvegarde iCloud avant de commencer le transfert.</string>
-  <string name="lack_perm_msg">Mi Transfert a besoin des autorisations suivantes: &lt;b&gt;%s&lt;/b&gt;.</string>
+  <string name="lack_perm_msg">Mi Transfert a besoin des autorisations suivantes: &lt;b>%s&lt;/b>.</string>
   <string name="lack_perm_title">Permissions requise</string>
   <string name="list_footer_tip_title">Astuces:</string>
   <string name="loading_data">Chargement des données</string>
@@ -713,7 +713,7 @@ Libérez au moins %s."</string>
   <string name="trans_cancelling">Annulation…</string>
   <string name="trans_complete_restoring">"Transféré avec succès. Restauration des données d'application…"</string>
   <string name="trans_connect_failed_device_incompatible">"L'appareil n'est pas compatible. Annulez le transfert et réessayez."</string>
-  <string name="trans_connect_failed_message">"Connexion échouée, veuillez réessayer ou redémarrer. Et sur l'autre appareil aller dans Paramètres &gt; Paramètres supplémentaires &gt; Transférer, Appuyez sur [Je suis l'expéditeur], ou relancer Mi Transfert après avoir redémarré."</string>
+  <string name="trans_connect_failed_message">"Connexion échouée, veuillez réessayer ou redémarrer. Et sur l'autre appareil aller dans Paramètres > Paramètres supplémentaires > Transférer, Appuyez sur [Je suis l'expéditeur], ou relancer Mi Transfert après avoir redémarré."</string>
   <string name="trans_connect_failed_title">Impossible de se connecter</string>
   <string name="trans_connect_failed_toast">Impossible de se connecter</string>
   <string name="trans_connecting_toast">Connexion…</string>
@@ -772,7 +772,7 @@ pour télécharger et installer Mi Transfert."</string>
   <string name="trans_intro_desc_6">"Il existe plusieurs raisons pour lesquelles cela peut se produire: des problèmes de compatibilité de la version du système et de l'application, des problèmes de réseau, des problèmes de compatibilité spécifiques à un périphérique particulier, etc."</string>
   <string name="trans_intro_desc_7">"Certains profils d'applications (e-banking, finance, etc.) sont associés à un périphérique spécifique pour des raisons de sécurité. Essayez d'effacer les données de l'application ou de réinstaller l'application sur un nouvel appareil."</string>
   <string name="trans_intro_desc_8">"Les données de l'application WeChat et l'historique des conversations peuvent ne pas être transférés intégralement via Mi Transfert. Accédez aux paramètres de WeChat et déconnectez-vous de votre compte pour obtenir plus de chances pour un transfert réussi."</string>
-  <string name="trans_intro_desc_9_method_1_dec">"Allez à l'écran d'accueil &gt; Outils &gt; Commentaire."</string>
+  <string name="trans_intro_desc_9_method_1_dec">"Allez à l'écran d'accueil > Outils > Commentaire."</string>
   <string name="trans_intro_desc_9_method_1_title">"1. Partagez votre avis avec l'application \"Commentaire\"."</string>
   <string name="trans_intro_desc_9_method_2_dec">Envoyez votre commentaire à miui-mover@xiaomi.com.</string>
   <string name="trans_intro_desc_9_method_2_title">2. Envoyez-nous un Email</string>
@@ -812,19 +812,19 @@ Libérez de l'espace de stockage ou ne transférez que des éléments importants
   <string name="trans_old_phone_low_space_msg">"Mi Transfert a besoin d'espace de stockage pour regrouper les données transférées, mais il semble que l'espace disponible sur l'ancien appareil est insuffisant. Libérez de l'espace dans \"Sécurité\" ou ne transférez que des éléments importants."</string>
   <string name="trans_old_phone_low_space_title">Espace de stockage insuffisant</string>
   <string name="trans_one_key_migrate">Mi Transfert</string>
-  <string name="trans_open_camera_failed_message">Redémarrez votre appareil ou vérifiez que Mi Transfert est autorisé à utiliser &lt;b&gt;Appareil photo&lt;/b&gt;.</string>
+  <string name="trans_open_camera_failed_message">Redémarrez votre appareil ou vérifiez que Mi Transfert est autorisé à utiliser &lt;b>Appareil photo&lt;/b>.</string>
   <string name="trans_open_camera_failed_title">"Impossible de se connecter à l'appareil photo"</string>
   <string name="trans_open_location_button">Activer</string>
   <string name="trans_open_location_message">Activez les services de localisation pour obtenir la liste des réseaux Wi-Fi disponibles.</string>
   <string name="trans_open_location_title">Activer les services de localisation</string>
   <string name="trans_operate_func_one">Méthode A</string>
   <string name="trans_operate_func_two">Méthode B</string>
-  <string name="trans_operate_new_phone_tips">"Aller à Paramètres &gt; Paramètres Supplémentaires &gt; Mi Transfert
+  <string name="trans_operate_new_phone_tips">"Aller à Paramètres > Paramètres Supplémentaires > Mi Transfert
 Appuyer [Je suis le receveur] pour créer le QR code"</string>
   <string name="trans_operate_old_phone_tips1">"1. Installer l'application Mi Transfert sur votre ancien appareil
 2. Ouvrir l'application et appuyer sur \"Démarrer\"
 3. Scanner le Code QR avec votre ancien appareil"</string>
-  <string name="trans_operate_old_phone_tips2">"Allez dans Paramètres &gt; Paramètres supplémentaires &gt; Mi Transfert, appuyez sur [Je suis l'expéditeur]"</string>
+  <string name="trans_operate_old_phone_tips2">"Allez dans Paramètres > Paramètres supplémentaires > Mi Transfert, appuyez sur [Je suis l'expéditeur]"</string>
   <string name="trans_operate_reconnect_new_tips">"Patientez jusqu'à ce que le nouveau téléphone affiche \"La connexion a été interrompue\".
 Puis appuyez sur \"Reconnecter\" pour générer un QR code."</string>
   <string name="trans_operate_reconnect_old_tips">"Patientez jusqu'à ce que l'ancien téléphone affiche \"La connexion a été interrompue\".

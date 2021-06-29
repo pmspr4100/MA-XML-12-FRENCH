@@ -36,7 +36,7 @@
   <string name="miuix_sbl_tracking_progress_labe_refreshed">actualisation terminé</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">actualisation</string>
   <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Relâcher pour actualisé</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_nodata">aucune données</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">aucune donnée</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">ne fais pas ça</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">actualisation</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">échec</string>
@@ -97,7 +97,7 @@
 Toutes vos données utilisateur précédentes seront enregistrées."</string>
   <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) remplacera la version actuellement installée (%3$s). Toutes les données d'application existantes seront enregistrées."</string>
   <string name="dlg_app_replacement_title">"Remplacer l'application ?"</string>
-  <string name="dlg_appstore_notice">"Nous ne pouvons pas vérifier l'authenticité ou la sécurité des applications à partir de sources extérieures au &lt;u&gt;&lt;font color=#91c727&gt;App Store&lt;/font&gt;&lt;/u&gt;."</string>
+  <string name="dlg_appstore_notice">"Nous ne pouvons pas vérifier l'authenticité ou la sécurité des applications à partir de sources extérieures au &lt;u>&lt;font color=#91c727>App Store&lt;/font>&lt;/u>."</string>
   <string name="dlg_game_center_intercept_game_center_install">Installer depuis Mi Games</string>
   <string name="dlg_game_center_intercept_install">Installer quand même</string>
   <string name="dlg_game_center_intercept_msg">"L'installation de jeux tiers peut poser des risques de sécurité. Téléchargez et installez Mi Games pour accéder aux versions sécurisées de l'application."</string>
@@ -140,7 +140,7 @@ Toutes vos données utilisateur précédentes seront enregistrées."</string>
   <string name="install_confirm_dialog_positive_button">Install</string>
   <string name="install_confirm_dialog_title">Attention</string>
   <string name="install_confirm_question">Voulez-vous installer cette application ? Elle aura accès à:</string>
-  <string name="install_confirm_question_des_10">"If you're willing to take the risks and want to proceed with the installation, authorize the installation in Security &gt; Manage apps &gt; Permissions &gt; Apps with possible risks. If you can't find \"Apps with possible risks\", update your Security app and try again."</string>
+  <string name="install_confirm_question_des_10">"If you're willing to take the risks and want to proceed with the installation, authorize the installation in Security > Manage apps > Permissions > Apps with possible risks. If you can't find \"Apps with possible risks\", update your Security app and try again."</string>
   <string name="install_confirm_question_no_perms">"Voulez-vous installer cette application ? Elle ne nécessite aucune autorisation spéciale."</string>
   <string name="install_confirm_question_update">"Voulez-vous installer une mise à jour de cette application existante ? Les données d'application existantes ne seront pas perdues. L'application mise à jour aura accès à:"</string>
   <string name="install_confirm_question_update_no_perms">"Voulez-vous installer une mise à jour de cette application existante ? Les données d'application existantes ne seront pas perdues. Il ne nécessite aucune autorisation spéciale."</string>
@@ -166,7 +166,7 @@ Vous pouvez également désactiver le mode lite et réessayer."</string>
   <string name="install_failed_system_incompatible">"Cette application n'est pas compatible avec MIUI"</string>
   <string name="install_finished_notification_summary">"Appuyez pour libérer de l'espace de stockage"</string>
   <string name="install_finished_notification_title">"Installé %1$s avec succès. Vous pouvez libérer %2$s d'espace de stockage."</string>
-  <string name="install_from_appstore_hint">"Nous vous recommandons d'installer l'application depuis &lt;u&gt;&lt;font color=#91c727&gt;AppStore&lt;/font&gt;&lt;/u&gt;"</string>
+  <string name="install_from_appstore_hint">"Nous vous recommandons d'installer l'application depuis &lt;u>&lt;font color=#91c727>AppStore&lt;/font>&lt;/u>"</string>
   <string name="install_vip_account_mode_explain_des">This is a Beta version of the app. Apply for Beta testing permissions before installing it.</string>
   <string name="install_vip_account_mode_solution_des">Apply for Beta</string>
   <string name="installing">Installation…</string>
@@ -221,7 +221,7 @@ Vous pouvez également désactiver le mode lite et réessayer."</string>
   <string name="miui_failed_solution_1">Désinstallez la version actuelle de cette application et réinstallez-la.</string>
   <string name="miui_failed_solution_2">"Le package d'installation est peut-être corrompu. Téléchargez à nouveau l'application."</string>
   <string name="miui_failed_solution_3">"Essayez d'enregistrer le package d'installation dans un autre emplacement."</string>
-  <string name="miui_failed_solution_4">"Libérez de l'espace de stockage dans Sécurité &gt; Nettoyez et réessayez."</string>
+  <string name="miui_failed_solution_4">"Libérez de l'espace de stockage dans Sécurité > Nettoyez et réessayez."</string>
   <string name="miui_failed_solution_5">"Essayez d'utiliser un package d'installation compatible."</string>
   <string name="miui_failed_solution_6">Désinstallez la version déjà installée et réessayez de réinstaller.</string>
   <string name="miui_failed_solution_7">Téléchargez la dernière version de cette application dans GetApps.</string>
@@ -240,7 +240,7 @@ Vous pouvez également désactiver le mode lite et réessayer."</string>
   <string name="miui_install_source_unkown">Inconnu</string>
   <string name="miui_install_success">Installé avec succès</string>
   <string name="miui_install_version">Version : %1$s | Taille : %2$s</string>
-  <string name="miui_install_version_3">Version: %1$s -&gt; %2$s | Taille : %3$s</string>
+  <string name="miui_install_version_3">Version: %1$s -> %2$s | Taille : %3$s</string>
   <string name="miui_installing">Installation…</string>
   <string name="miui_installing2">Installation…</string>
   <string name="miui_message_staging_0">Application intermédiaire   </string>
@@ -263,7 +263,7 @@ Vous pouvez également désactiver le mode lite et réessayer."</string>
   <string name="miui_uninstall_success">Désinstallé avec succès</string>
   <string name="miui_uninstalling">Désinstaller…</string>
   <string name="miui_virus_deleted">Virus supprimés avec succès</string>
-  <string name="miui_virus_install">&lt;u&gt;Installer quand même&lt;/u&gt;</string>
+  <string name="miui_virus_install">&lt;u>Installer quand même&lt;/u></string>
   <string name="miui_virus_scanning">Balayage…</string>
   <string name="miui_virus_scanning_0">Balayage</string>
   <string name="miui_virus_scanning_1">Balayage.</string>
@@ -335,7 +335,7 @@ Vous pouvez également désactiver le mode lite et réessayer."</string>
   <string name="safe_guard_support">Support technique fourni par %1$s</string>
   <string name="safe_relative">Sécurité</string>
   <string name="screen_overlay_button">Ouvrir les paramètres</string>
-  <string name="screen_overlay_message">"Pour modifier ce paramètre d'autorisation, vous devez d'abord désactiver la superposition d'écran dans Paramètres &gt; Applications"</string>
+  <string name="screen_overlay_message">"Pour modifier ce paramètre d'autorisation, vous devez d'abord désactiver la superposition d'écran dans Paramètres > Applications"</string>
   <string name="screen_overlay_title">"Superposition d'écran détectée"</string>
   <string name="security_settings_desc">Autoriser cette application à:</string>
   <string name="settings">Paramètres</string>
@@ -351,7 +351,7 @@ Le package d'installation provient d'une source inconnue."</string>
   <string name="uninstall_activity_text">"%1$s fait partie de l'application suivante:"</string>
   <string name="uninstall_all_blocked_profile_owner">This app is required for some users or profiles and was uninstalled for others</string>
   <string name="uninstall_application_text">Voulez-vous désinstaller cette application ?</string>
-  <string name="uninstall_application_text_all_users">"Voulez-vous désinstaller cette application pour &lt;b&gt;all&lt;/b&gt; utilisateurs ? L'application et ses données seront supprimées de &lt;b&gt;all&lt;/b&gt; utilisateurs sur l'appareil."</string>
+  <string name="uninstall_application_text_all_users">"Voulez-vous désinstaller cette application pour &lt;b>all&lt;/b> utilisateurs ? L'application et ses données seront supprimées de &lt;b>all&lt;/b> utilisateurs sur l'appareil."</string>
   <string name="uninstall_application_text_user">"Voulez-vous désinstaller cette application pour l'utilisateur %1$s ?"</string>
   <string name="uninstall_application_title">"Désinstaller l'application"</string>
   <string name="uninstall_blocked_device_owner">"Cette application est requise par l'administrateur de votre appareil et ne peut pas être désinstallée."</string>
@@ -380,7 +380,7 @@ Le package d'installation provient d'une source inconnue."</string>
   <string name="user_is_not_allowed_dlg_title">Interdit</string>
   <string name="virus_scan_caller_unknown">Inconnu</string>
   <string name="virus_scan_clear">Supprimer</string>
-  <string name="virus_scan_install">&lt;u&gt;Installer quand même&lt;/u&gt;</string>
+  <string name="virus_scan_install">&lt;u>Installer quand même&lt;/u></string>
   <string name="virus_scan_is_risk">"Cette application présente un risque pour la sécurité de votre appareil."</string>
   <string name="virus_scan_is_virus">Cette application contient un virus.</string>
   <string name="virus_title_subtext">"Cette application peut contenir des virus: "</string>

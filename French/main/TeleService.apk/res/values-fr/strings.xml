@@ -638,9 +638,9 @@ Bluetooth"</string>
     <string name="debug_networking_category">Mise en réseau</string>
     <string name="debug_view_attributes">Activer inspect. attribut affich.</string>
     <string name="default_notification_description">Sonnerie par défaut (%1$s)</string>
-    <string name="default_preference_summary_domain_address">&lt;Non défini&gt;</string>
-    <string name="default_preference_summary_password">&lt;Non défini&gt;</string>
-    <string name="default_preference_summary_username">&lt;Non défini&gt;</string>
+    <string name="default_preference_summary_domain_address">&lt;Non défini></string>
+    <string name="default_preference_summary_password">&lt;Non défini></string>
+    <string name="default_preference_summary_username">&lt;Non défini></string>
     <string name="delete">Supprimer</string>
     <string name="delete_fdn_contact">Supprimer un numéro autorisé</string>
     <string name="deleting_fdn_contact">Suppression du numéro autorisé…</string>
@@ -700,7 +700,7 @@ Bluetooth"</string>
     <string name="disabled">Désactivée</string>
     <string name="disabled_by_admin">"Désactivé par l'administrateur"</string>
     <string name="disabled_by_admin_summary_text">"Contrôlé par l'administrateur"</string>
-    <string name="display_name_summary">"&lt;Identique au nom d'utilisateur&gt;"</string>
+    <string name="display_name_summary">"&lt;Identique au nom d'utilisateur>"</string>
     <string name="display_name_title">Affichage du nom</string>
     <string name="do_not_show_again">Ne plus afficher</string>
     <string name="domain_address_title">Serveur</string>
@@ -1329,7 +1329,7 @@ Le réseau préféré sera utilisé."</string>
     <string name="opened_dual_4g_confirm_prompt">Il semble que vous avez une carte SIM qui a uniquement la 4G. Dual 4G a été activé automatiquement.</string>
     <string name="opened_dual_4g_confirm_prompt_with_sim">La carte SIM %1$s prend en charge uniquement la 4G. Pour vous assurer que vos cartes SIM fonctionnent correctement, vérifiez que la double 4G est activée.</string>
     <string name="operator">Transporteur</string>
-    <string name="optional_summary">&lt;Facultatif&gt;</string>
+    <string name="optional_summary">&lt;Facultatif></string>
     <string name="osu_completing_sign_up">Completing sign-up…</string>
     <string name="osu_connect_failed">Couldn’t connect</string>
     <string name="osu_opening_provider">Opening %1$s</string>
@@ -1761,9 +1761,9 @@ Votre carte SIM sera bloquée en cas de nouvel échec."</string>
     <string name="roaming_user_package_summary_kr">"Purchase, cancel, and edit your roaming package. You won't be charged for using this menu while roaming."</string>
     <string name="roaming_user_package_title_kr">Use roaming package</string>
     <string name="roaming_warning">"Vous pouvez encourir d'importants frais de service."</string>
-    <string name="rtt_mode_more_information">"La fonctionnalité de texte en temps réel vient en aide aux personnes sourdes, malentendantes, qui ont un trouble de la parole, ou qui ont besoin d'une transcription en plus de la voix.&lt;br&gt; &lt;a href=http://support.google.com/mobile?p=telephony_rtt&gt;En savoir plus&lt;/a&gt;
-     &lt;br&gt;&lt;br&gt; - Les appels texte en temps réel sont enregistrés sous forme transcrite
-     &lt;br&gt; - Le mode texte en temps réel n'est pas disponible pour les appels vidéo"</string>
+    <string name="rtt_mode_more_information">"La fonctionnalité de texte en temps réel vient en aide aux personnes sourdes, malentendantes, qui ont un trouble de la parole, ou qui ont besoin d'une transcription en plus de la voix.&lt;br> &lt;a href=\"http://support.google.com/mobile?p=telephony_rtt\">En savoir plus&lt;/a>
+     &lt;br>&lt;br> - Les appels texte en temps réel sont enregistrés sous forme transcrite
+     &lt;br> - Le mode texte en temps réel n'est pas disponible pour les appels vidéo"</string>
     <string name="rtt_mode_summary">"Autoriser l'échange de messages pendant les appels vocaux"</string>
     <string name="rtt_mode_title">Appel texte en temps réel</string>
     <string name="running_process_item_user_label">Utilisateur: %1$s</string>
@@ -2154,7 +2154,7 @@ Cette tablette ne possède pas d'écouteur. Vous pouvez passer en mode Mains lib
     <string name="voicemail_default">Votre opérateur</string>
     <string name="voicemail_notification_vibrate_when_title">Vibrer</string>
     <string name="voicemail_notifications_preference_title">Notifications</string>
-    <string name="voicemail_number_not_set">&lt;Non défini&gt;</string>
+    <string name="voicemail_number_not_set">&lt;Non défini></string>
     <string name="voicemail_provider">Service</string>
     <string name="voicemail_provider_summary">Choix du service de messagerie vocale</string>
     <string name="voicemail_set_pin_dialog_title">Définir un code PIN</string>
@@ -2222,7 +2222,7 @@ Les appels d’urgence ne sont possibles que dans les zones couvertes par une co
     <string name="wifi_call_help">Aide</string>
     <string name="wifi_call_help_message_1">"Les appels Wi-Fi sont un service fourni par Orange qui vous permet de passer et de recevoir des appels via Wi-Fi. Cette fonctionnalité peut être utilisée dans les zones à faible couverture de réseau mobile.
 
-Pour utiliser les appels Wi-Fi, activez-le dans Paramètres &gt; Appel Wi-Fi.
+Pour utiliser les appels Wi-Fi, activez-le dans Paramètres > Appel Wi-Fi.
 
 Pour activer le service, Orange vous enverra un message de confirmation dès que le service sera disponible. Après cela, vous pourrez vous connecter à un réseau Wi-Fi et passer des appels.
 

@@ -45,7 +45,7 @@
     <string name="clearable_edittext_clear_description">Effacer</string>
     <string name="clock_introduction">"Vous pouvez utiliser cette application pour visualiser l'heure, ainsi que pour utiliser la minuterie, l'horloge mondiale, le chronomètre, régler les alarmes, et plus encore."</string>
     <string name="close">Fermer</string>
-    <string name="close_location_service_setting">"Vous pouvez choisir de désactiver l'accès à l'emplacement dans Paramètres &gt; Paramètres supplémentaires &gt; Confidentialité ou de limiter les autorisations pour des applications individuelles dans Sécurité."</string>
+    <string name="close_location_service_setting">"Vous pouvez choisir de désactiver l'accès à l'emplacement dans Paramètres > Paramètres supplémentaires > Confidentialité ou de limiter les autorisations pour des applications individuelles dans Sécurité."</string>
     <string name="cm_terms_content">"In order to improve the services provided to you, the mobile network operator of your choice may upload your personal data and the info about this device to its servers using Wi-Fi networks or mobile data connection. This information will only be used for statistical purposes in order to improve the quality of the services and provide more personalized content. This information won't be used to identify you personally and won't be disclosed to third parties."</string>
     <string name="cm_terms_title">"Accord de l'opérateur du réseau mobile"</string>
     <string name="compass_introduction">"Vous pouvez utiliser cette application pour la navigation, ainsi que pour visualiser les coordonnées, la pression atmosphérique et l'altitude."</string>
@@ -292,7 +292,7 @@ Vous pouvez contrôler cette fonctionnalité depuis Paramètres > Mots de passe 
     <string name="privacy_provision_text">"Nous nous engageons à respecter et à protéger votre vie privée. Privilégiant la recherche et le développement dans le domaine de la sécurité de l'information, Xiaomi travaille constamment à l'amélioration des méthodes, des pratiques et des solutions techniques qui protègent vos données. Nous partageons également nos dernières réalisations avec nos partenaires afin de garantir votre confidentialité à tous les niveaux."</string>
     <string name="privacy_provision_title">Confidentialité</string>
     <string name="protect_persoanl_info_statement">Nous protégerons vos renseignements personnels conformément aux lois, aux règlements et aux Politiques de confidentialité pertinents.</string>
-    <string name="provision_inputmethod_policy_description"><Data>Afficher la &lt;a href=%1$s>Politique de confidentalité&lt;/a> de votre clavier sélectionné.</Data></string>
+    <string name="provision_inputmethod_policy_description">&lt;Data>Afficher la &lt;a href=%1$s>Politique de confidentalité&lt;/a> de votre clavier sélectionné.&lt;/Data></string>
     <string name="provision_inputmethod_policy_description1">Politique de confidentialité</string>
     <string name="recorder_introduction">"Vous pouvez utiliser cette application pour enregistrer de l'audio et sauvegarder des enregistrements sur le cloud."</string>
     <string name="require_authority_statement">Pour nous permettre de vous fournir des services de base, vous devez nous accorder les autorisations suivantes afin que nous puissions recueillir vos renseignements personnels:</string>
@@ -326,10 +326,10 @@ Vous pouvez contrôler cette fonctionnalité depuis Paramètres > Mots de passe 
     <string name="service_name_screen_recording">"Enregistreur d'écran"</string>
     <string name="service_name_security">Sécurité</string>
     <string name="service_name_service_framework">Mi Services Framework</string>
-    <string name="service_policy">"&lt;Data&gt;Lire et accepter notre &amp;lt;a href=%1$s&amp;gt;Politique de confidentialité&amp;lt;/a &amp;gt;.&lt;/Data&gt;"</string>
-    <string name="service_policy_download">"&lt;Data&gt;Before using our services, read and agree to &amp;lt;a href=%1$s&amp;gt;Xunlei Privacy Policy&amp;lt;/a &amp;gt;.&lt;/Data&gt;"</string>
+    <string name="service_policy">&lt;Data>"Lire et accepter notre &lt;a href=%1$s>Politique de confidentialité&lt;/a >."&lt;/Data></string>
+    <string name="service_policy_download">&lt;Data>"Before using our services, read and agree to &lt;a href=%1$s>Xunlei Privacy Policy&lt;/a >."&lt;/Data></string>
     <string name="service_privacy_index">Politique de confidentialité</string>
-    <string name="service_security_over_r"><Data>"Lisez et acceptez notre &lt;a href=%1$s>Politique de confidentialité&lt;/a> avant d'utiliser la sécurité.&lt;br/>&lt;br/>Conformément aux normes Android 11, une autorisation unique sera retirée dans les 5 secondes suivant l'arrêt de l'application correspondante. Si vous ouvrez l'application pendant cette courte période, l'autorisation sera alors retirée."</Data></string>
+    <string name="service_security_over_r">&lt;Data>"Lisez et acceptez notre &lt;a href=%1$s>Politique de confidentialité&lt;/a> avant d'utiliser la sécurité.&lt;br/>&lt;br/>Conformément aux normes Android 11, une autorisation unique sera retirée dans les 5 secondes suivant l'arrêt de l'application correspondante. Si vous ouvrez l'application pendant cette courte période, l'autorisation sera alors retirée."&lt;/Data></string>
     <string name="servicestate_title">Déclaration sur les services de base</string>
     <string name="setting_locale">Définition de la région…</string>
     <string name="shut_down">Éteindre</string>

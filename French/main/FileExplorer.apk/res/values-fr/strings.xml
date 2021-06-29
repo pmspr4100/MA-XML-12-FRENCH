@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
   <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
@@ -35,8 +35,11 @@
   <string name="ad_download">Télécharger</string>
   <string name="add_private">Cacher les fichiers maintenant</string>
   <string name="add_private_files">Ajouter des fichiers</string>
+  <string name="added_category">Catégorie(s) ajoutée(s)</string>
   <string name="afternoon">Après-midi</string>
   <string name="aggree_desc">"Autorisez cette application à se connecter à internet et accordez les permissions obligatoires répertoriées ci-dessus."</string>
+  <string name="app_all_purpose">Bienvenue dans le Gestionnaire de fichiers ! Vous pouvez utiliser cette application pour gérer les fichiers stockés sur votre appareil. </string>
+  <string name="app_all_purpose_pad">Bienvenue dans le Gestionnaire de fichiers ! Vous pouvez utiliser cette application pour gérer les fichiers stockés sur votre appareil. </string>
   <string name="app_function">Gérer les fichiers sur votre appareil</string>
   <string name="app_name">Gestionnaire de fichiers</string>
   <string name="app_name_bluetooth">Bluetooth</string>
@@ -50,15 +53,20 @@
   <string name="app_name_miuiringtone">Sonnerie</string>
   <string name="app_name_miuiwallpaper">"Fonds d'écran"</string>
   <string name="app_name_screenshot">"Captures d'écran"</string>
-  <string name="backup_cancel">"Don't back up"</string>
+  <string name="available_size">Disponible : %s</string>
+  <string name="backup_cancel">Annuler</string>
   <string name="backup_checkbox_msg">Sauvegarder automatiquement</string>
-  <string name="backup_confirm">Back up now</string>
+  <string name="backup_confirm">Sauvegarder</string>
   <string name="backup_success_cancel">OK</string>
   <string name="backup_success_confirm">Voir</string>
   <string name="backup_success_message">Sauvegardé sur %1$s</string>
   <string name="backup_success_title">Sauvegardé</string>
   <string name="backup_title">Sauvegarder des vidéos de chat ?</string>
   <string name="big5_summary">Encodage par défaut Windows en chinois traditionnel</string>
+  <string name="by_date">Date de modification</string>
+  <string name="by_name">Nom</string>
+  <string name="by_size">Taille</string>
+  <string name="by_type">Type</string>
   <string name="byteShort">" o"</string>
   <string name="can_not_send_with_too_many">"Impossible d'envoyer autant d'éléments à la fois"</string>
   <string name="cancel">Annuler</string>
@@ -75,11 +83,14 @@
   <string name="category_bluetooth">Bluetooth</string>
   <string name="category_document">Documents</string>
   <string name="category_download">Téléchargements</string>
+  <string name="category_editor_mode">Modifier</string>
+  <string name="category_exit_editor_mode">Quitter</string>
   <string name="category_favorite">Mes favoris</string>
   <string name="category_file">Fichiers</string>
   <string name="category_files">Fichiers</string>
   <string name="category_installed_app">Applications installées</string>
   <string name="category_midrive">Mi Drive</string>
+  <string name="category_more">Plus</string>
   <string name="category_music">Musiques</string>
   <string name="category_other">Autres</string>
   <string name="category_photo">Photos</string>
@@ -98,6 +109,8 @@
   <string name="character_counter_content_description">%1$d caractères entrés sur %2$d</string>
   <string name="character_counter_overflowed_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
   <string name="clean_hint">"Appuyez pour libérer de l'espace"</string>
+  <string name="clear_text_end_icon_content_description">Effacer le texte</string>
+  <string name="clearable_edittext_clear_description">Effacer</string>
   <string name="click_to_switch_volume">Cliquer ici pour basculer entre la mémoire interne et la carte SD</string>
   <string name="click_to_switch_volume_pad">Cliquer ici pour basculer entre la mémoire interne et la carte SD</string>
   <string name="clock_in">Checking in…</string>
@@ -153,6 +166,7 @@
   <string name="dialog_type_video">Vidéos</string>
   <string name="disk_available">"Disponible : "</string>
   <string name="disk_total">"Total : "</string>
+  <string name="display_setting">Éléments affichés</string>
   <string name="doc_all">Tout</string>
   <string name="doc_epub">EPUB</string>
   <string name="doc_pdf">PDF</string>
@@ -164,14 +178,19 @@
   <string name="downloading">Téléchargements</string>
   <string name="drag_not_support_with_dir">"Can't rearrange or send folders"</string>
   <string name="early_morning">Matin</string>
+  <string name="edit_quick_category">Modifier</string>
   <string name="enable_sd_card">Insérez une carte SD ou désactivez la fonction USB mass storage.</string>
   <string name="enable_usb">Connecter un appareil en USB</string>
   <string name="encrypt_error">Impossible de cacher les fichiers, veuillez réessayer</string>
-  <string name="encrypt_prefix">CACHÉ</string>
+  <string name="encrypt_prefix">PRIVÉ</string>
   <string name="encrypt_setting">Chiffrement</string>
-  <string name="encrypt_success">Caché avec succès</string>
-  <string name="encrypt_success_first_five">"Fichier chiffré et caché. Vous pouvez voir les fichiers cachés en tirant vers le bas sur la page d'accueil du Gestionnaire de fichiers."</string>
+  <string name="encrypt_success">Privé avec succès</string>
+  <string name="encrypt_success_first_five">"Fichier chiffré et privé. Vous pouvez voir les fichiers privés en tirant vers le bas sur la page d'accueil du Gestionnaire de fichiers."</string>
   <string name="encrypting">Chiffrement…</string>
+  <string name="enter">Ouvrir le Gestionnaire de fichiers</string>
+  <string name="entry_phone_storage_internal">Stockage interne</string>
+  <string name="entry_storage_cloned_app">Applications clônées</string>
+  <string name="entry_storage_usb">Clé USB</string>
   <string name="eras_ad">Apr. J.-C.</string>
   <string name="eras_bc">Av. J.-C.</string>
   <string name="error_contains_sharer_path">Impossible de chiffrer les fichiers dans le dossier /MIUI/Gallery/cloud/sharer. Déplacez les fichiers vers un autre dossier puis réessayez.</string>
@@ -215,6 +234,7 @@
   <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_short_month_day">dd/MM</string>
   <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+  <string name="fmt_time_12hour">"h 'o''horloge'"</string>
   <string name="folder_name_empty">Le nom de dossier ne peut être vide</string>
   <string name="folder_name_illegal">Nom de dossier incorrect</string>
   <string name="found_router">Routeur connecté</string>
@@ -235,7 +255,7 @@
   <string name="ftp_username_hint">Utilisateur</string>
   <string name="function_file_operation">"Pour accéder aux fichiers et les ouvrir; "</string>
   <string name="function_set_private">"Pour visualiser et chiffrer des fichiers; "</string>
-  <string name="function_use_imei">"Pour accéder à IMEI et chiffrer des fichiers; "</string>
+  <string name="function_use_imei">"Pour accéder à l'IMEI et chiffrer des fichiers; "</string>
   <string name="gbk_summary">Encodage par défaut Windows chinois simplifié</string>
   <string name="gigabyteShort">" Go"</string>
   <string name="go_ahead">Ouvrir</string>
@@ -246,6 +266,12 @@
   <string name="group_title_extra_new">Nouveau</string>
   <string name="guide_newfunc_content">Vous pouvez désormais filtrer les formats de fichiers, réorganiser les éléments et basculer entre les vues en appuyant sur le raccourci.</string>
   <string name="guide_newfunc_title">Nouvelle fonctionnalité</string>
+  <string name="guide_one_summary">Les éléments récents sont regroupés par date.</string>
+  <string name="guide_one_title">Classer chronologiquement les éléments</string>
+  <string name="guide_three_summary">"Ajouter, supprimer ou réorganiser les raccourcis de la page de démarrage."</string>
+  <string name="guide_three_title">Gérer les raccourcis</string>
+  <string name="guide_two_summary">"Les photos et captures d'écran sont masquées par défaut.</string>
+  <string name="guide_two_title">Afficher uniquement les éléments essentiels</string>
   <string name="hint_switch_to_grid_mode">Basculé en mode grille</string>
   <string name="hint_switch_to_list_mode">Basculé en mode liste</string>
   <string name="home_action_up">Retour</string>
@@ -261,11 +287,13 @@
   <string name="instruction">"Entrez l'adresse suivante dans le client FTP: "</string>
   <string name="instruction_pre_pad">Cliquez pour démarrer le serveur FTP</string>
   <string name="instruction_pre_phone">Cliquez pour démarrer le serveur FTP</string>
+  <string name="item_view_role_description">Onglet</string>
   <string name="just_now">juste maintenant</string>
   <string name="kilobyteShort">" Ko"</string>
   <string name="launcher_icon_add_description">"Ajouter un nouveau raccourci sur l'écran d'accueil"</string>
   <string name="launcher_icon_remove_description_content">"Gestionnaire de fichiers est une application système. Vous ne pourrez plus gérer les fichiers sur votre appareil après avoir supprimé le raccourci en page d'accueil."</string>
   <string name="launcher_icon_remove_description_title">"Supprimer \"Gestionnaire de fichiers\" de l'écran d'accueil ?"</string>
+  <string name="least_quick_category_hint">Ajoutez au moins %d raccourci</string>
   <string name="list_mode">Vue liste</string>
   <string name="load_more">Afficher plus</string>
   <string name="loading">Chargement…</string>
@@ -275,7 +303,7 @@
   <string name="make_private">Cacher</string>
   <string name="make_private_msg_1">Cacher ce fichier ?</string>
   <string name="make_private_msg_2">Cacher ces fichiers ?</string>
-  <string name="make_private_msg_3">Tous les fichiers dans ce dossier seront cachés.</string>
+  <string name="make_private_msg_3">Tous les fichiers dans ce dossier sont privés.</string>
   <string name="material_slider_range_end">"Fin d'intervalle,"</string>
   <string name="material_slider_range_start">"Début d'intervalle,"</string>
   <string name="megabyteShort">" Mo"</string>
@@ -386,6 +414,7 @@
   <string name="month_september_shortest">Sep</string>
   <string name="more">Plus</string>
   <string name="morning">Matin</string>
+  <string name="most_quick_category_hint">"Vous pouvez ajouter jusqu'à %d raccourcis"</string>
   <string name="move_failed">Impossible de déplacer les fichiers</string>
   <string name="move_icon_to_desktop_hint">"Créez un raccourci pour le gestionnaire de fichiers sur l'Écran d'accueil afin de gérer plus efficacement les fichiers."</string>
   <string name="move_icon_to_desktop_success">"Raccourci ajouté sur l'écran d'accueil."</string>
@@ -425,6 +454,7 @@
   <string name="need_read_storage_permission">"Le Gestionnaire de fichiers nécessite l'autorisation d'accéder au stockage de l'appareil pour fonctionner normalement."</string>
   <string name="network_not_available">"Impossible de se connecter au réseau"</string>
   <string name="new_folder_name">Dossier sans nom</string>
+  <string name="next">Suivant</string>
   <string name="night">Soirée</string>
   <string name="no">Non</string>
   <string name="no_apk">Appuyez pour obtenir des applications</string>
@@ -435,8 +465,10 @@
   <string name="no_recent_files">Aucun fichier récent</string>
   <string name="no_wifi">Aucun réseau détecté</string>
   <string name="noon">Midi</string>
+  <string name="not_added_category">Catégorie(s) disponible(s)</string>
   <string name="not_set">Non défini</string>
   <string name="not_support_documentui">"Document UI n'est pas pris en charge sur cet appareil"</string>
+  <string name="not_use">Pas maintenant</string>
   <string name="notif_server_starting">Démarrage du serveur FTP…</string>
   <string name="notif_title">"Le serveur FTP est en cours d'exécution"</string>
   <string name="notification_dialog_confirm">OK</string>
@@ -490,7 +522,7 @@
   <string name="pad">Stockage interne</string>
   <string name="partial_cancel_successful">Impossible de retirer certains fichiers. Le reste des fichiers a été déplacé vers %s.</string>
   <string name="partial_delete_failure">Impossible de supprimer certains fichiers, essayez à nouveau</string>
-  <string name="partial_encrypt_success">"Certains fichiers n'ont pas pu être cachés, veuillez réessayer"</string>
+  <string name="partial_encrypt_success">"Certains fichiers n'ont pas pu être privés, veuillez réessayer"</string>
   <string name="password_toggle_content_description">Afficher le mot de passe</string>
   <string name="path_name_email">E-mail</string>
   <string name="permission_denial">"Impossible d'accéder aux fichiers. Autoriser Gestionnaire de fichiers à accéder aux paramètres."</string>
@@ -515,18 +547,23 @@
   <string name="port_range">Le port doit être compris entre 1024–65535</string>
   <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
   <string name="privacy_policy">Politique de confidentialité</string>
-  <string name="private_files">Caché</string>
+  <string name="private_files">Privés</string>
   <string name="private_folder">Dossiers privés</string>
-  <string name="private_folder_no_file_hints">Aucun fichier caché.</string>
-  <string name="private_folder_update">Mise à jour des fichiers cachés…</string>
+  <string name="private_folder_no_file_hints">Aucun fichier privé.</string>
+  <string name="private_folder_update">Mise à jour des fichiers privés…</string>
+  <string name="private_folder_update_msg">Le Gestionnaire de fichiers introduit une mesure de sécurité supplémentaire : Vous pouvez désormais chiffrer les fichiers privés !</string>
+  <string name="private_folder_update_msg_summary">Le chiffrement ralentira la suppression des fichiers présents dans le dossier privé. Vous pouvez activer/désactiver le chiffrement dans les paramètres.</string>
+  <string name="private_folder_update_tips">Nouvelle fonctionnalité</string>
   <string name="private_toast_hint2">Pour cacher un fichier, appuyez et maintenez-le, puis ajoutez-le à un dossier privé.</string>
   <string name="prize_result_tip">Exchange</string>
   <string name="promot_enctypt_password">Entrez le mot de passe utilisé pour déverrouiller votre appareil</string>
   <string name="pull_to_enter_private">Tirez vers le bas pour ouvrir le dossier privé</string>
   <string name="qq_msg">"En raison des restrictions d'Android 11, le Gestionnaire de fichiers ne peut pas accéder aux documents QQ et les afficher."</string>
   <string name="qq_title">"Impossible d'accéder aux documents WeChat"</string>
+  <string name="recent_hide_camera_and_screenshots">"Ne pas afficher, parmi les fichiers récents, les éléments de la Galerie et les captures d'écran"</string>
   <string name="refresh_success">Actualisation terminé</string>
   <string name="release_enter_private">Relâchez pour ouvrir le dossier privé</string>
+  <string name="remainder_size">| Disponible : %s</string>
   <string name="rename_alert">"Si vous modifiez l'extension de ce fichier, vous ne pourrez peut-être pas l'ouvrir."</string>
   <string name="rename_alert2">Le fichier sera caché après avoir modifié son extension.</string>
   <string name="rename_failed">Impossible de renommer %1$s</string>
@@ -552,6 +589,8 @@
   <string name="save_file_to_mishare">Enregistré dans le dossier de Mi Share</string>
   <string name="search_app">Applications et dossiers</string>
   <string name="search_app_more">Plus</string>
+  <string name="search_category">Rechercher par catégorie</string>
+  <string name="search_category_folder">Dossiers</string>
   <string name="search_description">"Rechercher tous les fichiers sur l'appareil"</string>
   <string name="search_empty_view_hint">Pas de résultat</string>
   <string name="search_error_hint">Rechercher</string>
@@ -564,6 +603,7 @@
   <string name="search_hint">Rechercher</string>
   <string name="search_keyword">Tags</string>
   <string name="search_menu_title">Recherche</string>
+  <string name="search_more_category">Plus</string>
   <string name="search_result">Résultats</string>
   <string name="search_result_more">Plus</string>
   <string name="search_title">Rechercher</string>
@@ -580,6 +620,12 @@
   <string name="set_pattern">Le mot de passe a été mis à jour</string>
   <string name="set_pattern_btn">Définir</string>
   <string name="set_pattern_msg">Veuillez saisir à nouveau votre mot de passe. Le mot de passe de protection de confidentialité fonctionne également pour les photos et les messages.</string>
+  <string name="size_lv1">Plus petit que %d Ko</string>
+  <string name="size_lv2" formatted="false">%1d Ko - %2d Mo</string>
+  <string name="size_lv3" formatted="false">%1d Mo - %2d Mo</string>
+  <string name="size_lv4" formatted="false">%1d Mo - %2d Mo</string>
+  <string name="size_lv5" formatted="false">%1d Mo - %2d Go</string>
+  <string name="size_lv6">Plus grand que %d Go</string>
   <string name="skip">Suivant</string>
   <string name="skip_file">Suivant</string>
   <string name="smb_loading">Chargement…</string>
@@ -612,6 +658,7 @@
   <string name="sort_hint_type">Trier par type</string>
   <string name="sort_size_asc">Du plus petit au plus grand</string>
   <string name="sort_size_desc">Du plus grand au plus petit</string>
+  <string name="start_all">Afficher tout</string>
   <string name="start_doc">Fichiers</string>
   <string name="start_phone">Stockage</string>
   <string name="start_server">Démarrer le serveur</string>
@@ -625,6 +672,7 @@
   <string name="storage_sd_card">Stockage externe</string>
   <string name="storage_usb">Stockage USB</string>
   <string name="storage_warning">"Impossible d'utiliser le stockage externe"</string>
+  <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="sunday">Dimanche</string>
   <string name="sunday_short">Dim</string>
   <string name="sunday_shortest">Dim</string>
@@ -640,6 +688,46 @@
   <string name="terabyteShort">" To"</string>
   <string name="text_select_all">Tout sélectionner</string>
   <string name="text_select_nothing">Tout désélectionner</string>
+  <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
+  <string name="the_anti_aggression_day">Anti-Aggression Day</string>
+  <string name="the_arbor_day">Arbor Day</string>
+  <string name="the_armed_forces_day">Armed Forces Day</string>
+  <string name="the_armys_day">PLA Day</string>
+  <string name="the_childrens_day">"Children's Day"</string>
+  <string name="the_chinese_youth_day">Youth Day</string>
+  <string name="the_christmas_day">Christmas</string>
+  <string name="the_double_ninth_festival">Double Ninth Festival</string>
+  <string name="the_dragon_boat_festival">Dragon Boat Festival</string>
+  <string name="the_easter_day">Easter</string>
+  <string name="the_eve_of_the_spring_festival">Eve of Chinese New Year</string>
+  <string name="the_fifth_day">Fifth day of Chinese New Year</string>
+  <string name="the_fools_day">"April Fool's Day"</string>
+  <string name="the_forth_day">Fourth day of Chinese New Year</string>
+  <string name="the_hksar_establishment_day">Hong Kong SAR Establishment Day</string>
+  <string name="the_international_womens_day">"Women's Day"</string>
+  <string name="the_laba_festival">Laba Festival</string>
+  <string name="the_labour_day">Labor Day</string>
+  <string name="the_lantern_festival">Lantern Festival</string>
+  <string name="the_mid_autumn_festival">Mid-Autumn Festival</string>
+  <string name="the_national_day">National Day</string>
+  <string name="the_national_father_day">"Sun Yat-sen's Birthday"</string>
+  <string name="the_new_years_day">New Year</string>
+  <string name="the_night_of_sevens">Qixi Festival</string>
+  <string name="the_partys_day">CPC Day</string>
+  <string name="the_peace_day">Remembrance Day</string>
+  <string name="the_retrocession_day">Retrocession Day</string>
+  <string name="the_second_day">Second day of Chinese New Year</string>
+  <string name="the_seventh_day">Seventh day of Chinese New Year</string>
+  <string name="the_sixth_day">Sixth day of Chinese New Year</string>
+  <string name="the_spirit_festival">Ghost Festival</string>
+  <string name="the_spring_festival">Chinese New Year</string>
+  <string name="the_teachers_day">"Teachers' Day"</string>
+  <string name="the_third_day">Third day of Chinese New Year</string>
+  <string name="the_tw_childrens_day">"Children's Day"</string>
+  <string name="the_tw_youth_day">Youth Day</string>
+  <string name="the_united_nations_day">United Nations Day</string>
+  <string name="the_valentines_day">"Valentine's Day"</string>
+  <string name="the_water_lantern_festival">Water Lantern Festival</string>
   <string name="thursday">Jeudi</string>
   <string name="thursday_short">Jeu</string>
   <string name="thursday_shortest">Jeu</string>
@@ -653,6 +741,7 @@
   <string name="today">"Aujourd'hui"</string>
   <string name="tomorrow">Demain</string>
   <string name="tools">OUTILS</string>
+  <string name="total_size">Total : %s</string>
   <string name="transfer">Transferts &amp; téléchargements</string>
   <string name="transfer_done">Les fichiers ont été déplacés avec succès.</string>
   <string name="transfer_private_data">Déplacement des dossiers privés depuis la carte SD…</string>
@@ -669,6 +758,7 @@
   <string name="unlock_pattern_title">Nouveau mot de passe</string>
   <string name="upload_user_photo">Ajouter</string>
   <string name="usb_label">USB</string>
+  <string name="use">Utiliser</string>
   <string name="use_to_all">"S'applique à tous"</string>
   <string name="used">Utilisé</string>
   <string name="user_guide_continue_use">OK</string>

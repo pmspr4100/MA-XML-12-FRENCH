@@ -24,7 +24,7 @@
     <string name="account_crop_user_avatar">Recadrer la photo</string>
     <string name="account_empty_user_name">Entrez votre identifiant de Compte Mi</string>
     <string name="account_error_all_space_user_name">"L'identifiant ne doit pas contenir que des espaces"</string>
-    <string name="account_error_invalid_user_name">"L'identifiant ne doit pas contenir de &lt;, &gt;, ou /"</string>
+    <string name="account_error_invalid_user_name">"L'identifiant ne doit pas contenir de &lt;, >, ou /"</string>
     <string name="account_error_longer_user_name">Le nom ne peut pas faire plus de 20 caractères</string>
     <string name="account_error_shorter_user_name">Le nom doit faire plus de 2 caractères</string>
     <string name="account_error_user_birthday">La date de naissance entrée est invalide</string>
@@ -662,26 +662,12 @@ Send this code to the supervisor."</string>
     <string name="fm_guide_btn">Got it</string>
     <string name="fm_guide_msg">You can manage local videos, songs, and images using Mi Browser now!</string>
     <string name="fmt_chinese_date">N月e</string>
-    <string name="fmt_date">D</string>
-    <string name="fmt_date_day">d</string>
-    <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
-    <string name="fmt_date_long_year_month">MMMM yyyy</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
-    <string name="fmt_date_numeric_day">dd</string>
-    <string name="fmt_date_numeric_month">MM</string>
     <string name="fmt_date_numeric_month_day">dd/MM</string>
-    <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">MM/yyyy</string>
     <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_short_month">MM</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_time">D T</string>
-    <string name="fmt_date_time_timezone">zD T</string>
-    <string name="fmt_date_timezone">zD</string>
-    <string name="fmt_date_year">yyyy</string>
     <string name="folder_name_empty">"Folder name can't be blank"</string>
     <string name="folder_name_illegal">Invalid folder name</string>
     <string name="follow_account_title">Accounts</string>
@@ -891,7 +877,7 @@ Send this code to the supervisor."</string>
     <string name="month_august">August</string>
     <string name="month_august_short">Aug</string>
     <string name="month_august_shortest">Aug</string>
-    <string name="month_day_format">MMM dd</string>
+    <string name="month_day_format">d MMM</string>
     <string name="month_december">December</string>
     <string name="month_december_short">Dec</string>
     <string name="month_december_shortest">Dec</string>
@@ -1348,8 +1334,8 @@ Leave this page now?"</string>
     <string name="passport_unknow_error">An unknown error occurred</string>
     <string name="passport_unknow_host_network_error">Check your network settings and try again</string>
     <string name="passport_unknow_network_error">A network error occurred</string>
-    <string name="passport_user_agreement_link">"&lt;Data>I've read and agree to Xiaomi's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>.&lt;/Data>"</string>
-    <string name="passport_user_agreement_link_more">"&lt;Data>I've read and agree to the following documents: Xiaomi's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data>"</string>
+    <string name="passport_user_agreement_link">&lt;Data>"I've read and agree to Xiaomi's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>."&lt;/Data></string>
+    <string name="passport_user_agreement_link_more">&lt;Data>"I've read and agree to the following documents: Xiaomi's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, &lt;a href=%2$s>%3$s&lt;/a>."&lt;/Data></string>
     <string name="passport_user_id_intro">Enter password for %1$s</string>
     <string name="passport_v_code_error">Verification code is incorrect</string>
     <string name="passport_vcode_notification_title">Your sign-in verification is incomplete</string>

@@ -127,7 +127,7 @@ Visitez https://appleid.apple.com/#!&amp;page=signin pour désactiver"</string>
   <string name="dialog_request_permission_message_buttom_content">Allow this app to connect to the internet and grant the mandatory permissions listed above.</string>
   <string name="dialog_request_permission_message_extra_summary">These permissions are required to make the basic features and services of this app available.</string>
   <string name="dialog_request_permission_message_extra_title">Mandatory permissions</string>
-  <string name="dialog_request_permission_message_link" formatted="false">"&lt;Data&gt;"At the same time, to fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &amp;lt;a href='%1s'&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href='%2s'&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;."&lt;/Data&gt;"</string>
+  <string name="dialog_request_permission_message_link" formatted="false">&lt;Data>"At the same time, to fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &lt;a href='%1s'>User Agreement&lt;/a> and &lt;a href='%2s'>Privacy Policy&lt;/a>."&lt;/Data></string>
   <string name="dialog_request_permission_message_provision_link">At the same time, to fully understand your rights as a user as well as the ways in which we use your data, read and agree to our %1$s and %2$s.</string>
   <string name="dialog_request_permission_title">Attention</string>
   <string name="dialog_tip_upgrade_summary">Mi Mover est une version trop ancienne. Mettez à jour Mi Mover dans sa dernière version pour pouvoir transférer des fichiers.</string>
@@ -136,7 +136,7 @@ Visitez https://appleid.apple.com/#!&amp;page=signin pour désactiver"</string>
   <string name="dialog_version_title_tip">Une mise à jour est disponible</string>
   <string name="dialog_wechat_data_transfer_fail_button">Got it</string>
   <string name="dialog_wechat_data_transfer_fail_message">"Couldn't transfer WeChat app data and chat history due to app restrictions. Try the in-app backup feature.
-Open WeChat and go to Me &gt; Settings &gt; General &gt; Back up &amp; migrate chats."</string>
+Open WeChat and go to Me > Settings > General > Back up &amp; migrate chats."</string>
   <string name="dialog_wechat_data_transfer_fail_title">"Couldn't transfer WeChat app data"</string>
   <string name="document">Documents</string>
   <string name="early_morning">Matin</string>
@@ -259,7 +259,7 @@ Open WeChat and go to Me &gt; Settings &gt; General &gt; Back up &amp; migrate c
   <string name="international_new_trans_intro_desc_8">"Les messages texte ne peuvent pas être transférés à cause de problèmes de compatibilité. Des applications tierces peuvent empêcher le transfert de leur données pour des raisons de sécurité."</string>
   <string name="international_new_trans_intro_question_8">"8. Pourquoi les messages texte et les données applicatives de certaines applications tierces ne peuvent-elles transférées ?"</string>
   <string name="international_scanner_send_dialog_message">"Les messages texte et les données applicatives de certaines applications tierces ne peuvent pas être transférées. Ne désactivez pas le Wi-Fi et ne changez pas de réseau durant le transfert."</string>
-  <string name="lack_perm_msg">Mi Mover requiert les permissions suivantes: &lt;b&gt;%s&lt;/b&gt;.</string>
+  <string name="lack_perm_msg">Mi Mover requiert les permissions suivantes: &lt;b>%s&lt;/b>.</string>
   <string name="lack_perm_title">Permissions requises</string>
   <string name="launcher">"Disposition écran d'accueil"</string>
   <string name="less_than_1_minute">"Moins d'une minute"</string>
