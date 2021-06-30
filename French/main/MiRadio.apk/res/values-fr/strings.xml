@@ -1018,8 +1018,8 @@ Send this code to the supervisor."</string>
   <string name="cancel_delay_stop">Turn off timer</string>
   <string name="declaration_main_content">"We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.
 To be able to work normally, this app needs to connect to the internet and requires the following permissions in order to collect your personal information:"</string>
-  <string name="declaration_main_content2">&lt;Data>"If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use this app. You can choose to sign out or restrict permissions in the Settings in such cases. Read and agree to our &lt;font color=#0097ff>&lt;a href=%1$s>User Agreement&lt;/a>&lt;/font> and &lt;font color=#0097ff>&lt;a href=%2$s>Privacy Policy&lt;/a>&lt;/font> before using FM Radio."&lt;/Data></string>
-  <string name="declaration_main_content2_unloadable">&lt;Data>"If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use this app. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases. Read and agree to our &lt;font color=#0097ff>&lt;a href=%1$s>User Agreement&lt;/a>&lt;/font> and &lt;font color=#0097ff>&lt;a href=%2$s>Privacy Policy&lt;/a>&lt;/font> before using FM Radio."&lt;/Data></string>
+  <string name="declaration_main_content2">"&lt;Data>If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use this app. You can choose to sign out or restrict permissions in the Settings in such cases. Read and agree to our &lt;font color=#0097ff>&lt;a href=%1$s>User Agreement&lt;/a>&lt;/font> and &lt;font color=#0097ff>&lt;a href=%2$s>Privacy Policy&lt;/a>&lt;/font> before using FM Radio.&lt;/Data>"</string>
+  <string name="declaration_main_content2_unloadable">"&lt;Data>If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use this app. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases. Read and agree to our &lt;font color=#0097ff>&lt;a href=%1$s>User Agreement&lt;/a>&lt;/font> and &lt;font color=#0097ff>&lt;a href=%2$s>Privacy Policy&lt;/a>&lt;/font> before using FM Radio.&lt;/Data>"</string>
   <string name="declaration_main_purpose">Welcome to FM Radio! You can use this app to listen to the programs provided by the local and online radio stations.</string>
   <string name="declaration_runtime_perm_desc">"Access device info in order to identify your device
 Access accounts on your device in order to sign in using Mi Account
@@ -1123,8 +1123,8 @@ Access storage in order to access and save cover art and downloaded files"</stri
   <string name="passport_talkback_voice_captcha">Play voice verification code</string>
   <string name="passport_trust_device">This is a trusted device</string>
   <string name="passport_trying_read_verify_code_sms">Getting verification code…</string>
-  <string name="passport_user_agreement_link">&lt;Data>"I've read and agree to Xiaomi's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>."&lt;/Data></string>
-  <string name="passport_user_agreement_link_more">&lt;Data>"I've read and agree to the following documents: Xiaomi's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, &lt;a href=%2$s>%3$s&lt;/a>."&lt;/Data></string>
+  <string name="passport_user_agreement_link">"&lt;Data>I've read and agree to Xiaomi's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>.&lt;/Data>"</string>
+  <string name="passport_user_agreement_link_more">"&lt;Data>I've read and agree to the following documents: Xiaomi's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data>"</string>
   <string name="passport_vcode_notification_title">Your sign-in verification is incomplete</string>
   <string name="passport_vcode_prompt_long">Enter verification code</string>
   <string name="passport_vcode_sms_send_prompt">Sent code to %s</string>

@@ -38,7 +38,7 @@
   <string name="account_crop_user_avatar">Recadrer la photo</string>
   <string name="account_empty_user_name">Entrez votre identifiant de Compte Mi</string>
   <string name="account_error_all_space_user_name">"L'identifiant ne doit pas contenir que des espaces"</string>
-  <string name="account_error_invalid_user_name">"L'identifiant ne doit pas contenir de &lt;, &gt;, ou /"</string>
+  <string name="account_error_invalid_user_name">"L'identifiant ne doit pas contenir de &lt;, >, ou /"</string>
   <string name="account_error_longer_user_name">Le nom ne peut pas faire plus de 20 caractères</string>
   <string name="account_error_shorter_user_name">Le nom doit faire plus de 2 caractères</string>
   <string name="account_error_user_birthday">La date de naissance entrée est invalide</string>
@@ -112,7 +112,7 @@ Vous pouvez vous connecter à votre compte Mi en utilisant %s maintenant."</stri
   <string name="cloud_description_normal">Occupé</string>
   <string name="cloud_service">Xiaomi Cloud</string>
   <string name="collect_diagnosis_log">Générer un journal de diagnostic</string>
-  <string name="com_facebook_device_auth_instructions">Visiter &lt;b&gt;facebook.com/device&lt;/b&gt; et entrez le code indiqué ci-dessus.</string>
+  <string name="com_facebook_device_auth_instructions">Visiter &lt;b>facebook.com/device&lt;/b> et entrez le code indiqué ci-dessus.</string>
   <string name="com_facebook_image_download_unknown_error">"Erreur inattendue lors du téléchargement d'une image."</string>
   <string name="com_facebook_internet_permission_error_message">La connexion WebView nécessite une permission INTERNET</string>
   <string name="com_facebook_internet_permission_error_title">Erreur AndroidManifest</string>
@@ -364,7 +364,7 @@ Envoyez ce code au superviseur."</string>
   <string name="notify_network_restricted_title">"Le compte Mi n'arrive pas à se connecter au réseau"</string>
   <string name="oauth_get_scopes_failed">"Impossible d'obtenir les infos du compte"</string>
   <string name="oauth_getting_scopes">Vérification du compte…</string>
-  <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; obtiendra les permissions suivantes:&lt;br&gt; &lt;br&gt; %3$s ;</string>
+  <string name="oauth_scopes_intro">&lt;font color=#%1$s>%2$s&lt;/font> obtiendra les permissions suivantes:&lt;br> &lt;br> %3$s ;</string>
   <string name="oauth_title">Se connecter avec le compte Mi</string>
   <string name="ok">OK </string>
   <string name="optional_permissions">Permissions optionnelles</string>
@@ -397,7 +397,7 @@ Envoyez ce code au superviseur."</string>
   <string name="passport_completed">Terminé</string>
   <string name="passport_confirm_login">Se connecter</string>
   <string name="passport_confirm_recycle_account">Oui</string>
-  <string name="passport_confirm_recycle_account_msg">&lt;font color=Red&gt;Il semble&lt;/font&gt; que le numéro %s a été recyclé par votre opérateur, et il est associé à un compte Mi. Ce compte est-il le vôtre ?</string>
+  <string name="passport_confirm_recycle_account_msg">&lt;font color=Red>Il semble&lt;/font> que le numéro %s a été recyclé par votre opérateur, et il est associé à un compte Mi. Ce compte est-il le vôtre ?</string>
   <string name="passport_continue">Continuer</string>
   <string name="passport_copy_message_text_success">Copié avec succès</string>
   <string name="passport_copy_message_vcode">Copier le code</string>
@@ -440,7 +440,7 @@ Envoyez ce code au superviseur."</string>
   <string name="passport_get_back_pwd">Récupérer le mot de passe</string>
   <string name="passport_get_innetdate_agree">Vérifier</string>
   <string name="passport_get_innetdate_disagree">Non</string>
-  <string name="passport_get_innetdate_msg">&lt;font color=Red&gt;Il semble&lt;/font&gt; que le numéro %s a été recyclé par votre opérateur. Vérifier quand est-ce que le numéro était en ligne ?</string>
+  <string name="passport_get_innetdate_msg">&lt;font color=Red>Il semble&lt;/font> que le numéro %s a été recyclé par votre opérateur. Vérifier quand est-ce que le numéro était en ligne ?</string>
   <string name="passport_get_innetdate_title">Vérifiez quand est-ce que le numéro était en ligne</string>
   <string name="passport_get_verify_code">Obtenir le code</string>
   <string name="passport_getting_activator_phone">Obtention des infos de la SIM…</string>
@@ -492,21 +492,21 @@ Envoyez ce code au superviseur."</string>
   <string name="passport_privacy_policy_required">Politique de confidentialité (obligatoire)</string>
   <string name="passport_provision_activator_phone_summary_sim1_prefix">
     SIM 
-    &lt;xliff id="sim1" refersto="1"&gt;%1$d&lt;/xliff&gt;
+    &lt;xliff id="sim1" refersto="1">%1$d&lt;/xliff>
      %2$s
   </string>
   <string name="passport_provision_activator_phone_summary_sim2_prefix">
     SIM 
-    &lt;xliff id="sim2" refersto="2"&gt;%1$d&lt;/xliff&gt;
+    &lt;xliff id="sim2" refersto="2">%1$d&lt;/xliff>
      %2$s
   </string>
   <string name="passport_provision_input_email_register_prompt">Vos données personnelles seront stockées conformément aux lois et règlements de la région que vous sélectionnez.</string>
   <string name="passport_provision_password_req_notice">
-    &lt;xliff id="min_pwd_len" refersto="8"&gt;%1$d&lt;/xliff&gt;
+    &lt;xliff id="min_pwd_len" refersto="8">%1$d&lt;/xliff>
     -
-    &lt;xliff id="max_pwd_len" refersto="16"&gt;%2$d&lt;/xliff&gt;
+    &lt;xliff id="max_pwd_len" refersto="16">%2$d&lt;/xliff>
      caractères sur au moins 
-    &lt;xliff id="min_pwd_type" refersto="2"&gt;%3$d&lt;/xliff&gt;
+    &lt;xliff id="min_pwd_type" refersto="2">%3$d&lt;/xliff>
      des types suivants : lettres, chiffres, symboles spéciaux
   </string>
   <string name="passport_pwd_generate_failure">Impossible de générer un mot de passe</string>
@@ -518,7 +518,7 @@ Envoyez ce code au superviseur."</string>
   <string name="passport_quick_login_step2_title">Vérification en 2 étapes</string>
   <string name="passport_quick_login_title">Saisissez votre mot de passe</string>
   <string name="passport_quick_register">"S'enregistrer"</string>
-  <string name="passport_quick_register_notice">"&lt;u&gt;Vous n'avez pas de compte Mi ? Créer en un.&lt;/u&gt;"</string>
+  <string name="passport_quick_register_notice">"&lt;u>Vous n'avez pas de compte Mi ? Créer en un.&lt;/u>"</string>
   <string name="passport_re_get_verify_code">Obtenir le code à nouveau</string>
   <string name="passport_re_register">"S'inscrire à nouveau"</string>
   <string name="passport_recycle_account_prompt">Est-ce votre compte Mi ?</string>
@@ -540,7 +540,7 @@ Envoyez ce code au superviseur."</string>
   <string name="passport_register">Créer un compte</string>
   <string name="passport_register_account_goto_email">Aller à la boite de réception</string>
   <string name="passport_register_account_verified_confirm">Compte vérifié</string>
-  <string name="passport_register_by_email">"&lt;u&gt;Créer un compte à l'aide d'une adresse Email&lt;/u&gt;"</string>
+  <string name="passport_register_by_email">"&lt;u>Créer un compte à l'aide d'une adresse Email&lt;/u>"</string>
   <string name="passport_register_restricted">Trop de comptes ont été associés à ce numéro, essayez avec un autre</string>
   <string name="passport_register_restricted_title">"Impossible d'utiliser ce numéro de téléphone"</string>
   <string name="passport_register_using_other_ways">Autres moyens de créer un compte</string>
@@ -596,7 +596,7 @@ Envoyez ce code au superviseur."</string>
   <string name="passport_use_generated_pwd_message">"Assurez-vous de vous souvenir de votre mot de passe. Vous pourrez l'utiliser pour vous connecter à d'autres services Mi."</string>
   <string name="passport_use_generated_pwd_title">Se souvenir de votre mot de passe !</string>
   <string name="passport_user_agreement">"Accord d'utilisation"</string>
-  <string name="passport_user_agreement_link">&lt;Data&gt;"J'ai lu et accepté Xiaomi &lt;a href=%1$s&gt;Accord d'utilisation&lt;/a&gt; et &lt;a href=%2$s&gt;Politique de confidentialité&lt;/a&gt;."&lt;/Data&gt;</string>
+  <string name="passport_user_agreement_link">"&lt;Data>J'ai lu et accepté l'&lt;a href=%1$s>Accord d'utilisation&lt;/a> et la &lt;a href=%2$s>Politique de confidentialité&lt;/a> de Xiaomi.&lt;/Data>"</string>
   <string name="passport_user_agreement_required">"Accord d'utilisation (obligatoire)"</string>
   <string name="passport_user_id_notice">Votre ID de compte Mi est %s.</string>
   <string name="passport_user_reg_region">Pays/Région</string>

@@ -75,7 +75,7 @@
     <string name="bind_sign_in_title">Ajouter Compte Mi</string>
     <string name="btn_send">Envoyer</string>
     <string name="bugreport_dialog_not_show_again">Ne plus afficher</string>
-    <string name="bugreport_dialog_submit_content">&lt;Data>"Vous enregistrez les journaux du logiciel sur cet appareil maintenant. Les journaux peuvent contenir des informations personnelles et vos données de localisation. Ne partagez pas les journaux avec quiconque si vous ne voulez pas que ces informations soient exposées. Choisir \"Accepter\" signifie que vous avez lu et accepté notre &lt;a href=\"%1$s">Politique de confidentialité&lt;/a> et &lt;a href=\"%2$s\">Accord d'utilisation&lt;/a>."&lt;/Data></string>
+    <string name="bugreport_dialog_submit_content">"&lt;Data>Vous enregistrez les journaux du logiciel sur cet appareil maintenant. Les journaux peuvent contenir des informations personnelles et vos données de localisation. Ne partagez pas les journaux avec quiconque si vous ne voulez pas que ces informations soient exposées. Choisir \"Accepter\" signifie que vous avez lu et accepté notre &lt;a href=\"%1$s">Politique de confidentialité&lt;/a> et &lt;a href=\"%2$s\">Accord d'utilisation&lt;/a>.&lt;/Data>"</string>
     <string name="bugreport_dump_complete_notification_summary">Appuyez pour afficher.</string>
     <string name="bugreport_dump_complete_notification_title">"Rapport d'erreur créé"</string>
     <string name="bugreport_dump_start_notification_summary">Cela peut prendre plusieurs minutes.</string>
@@ -578,8 +578,8 @@ Envoyer ce code au superviseur."</string>
     <string name="passport_unknow_error">An unknown error occurred</string>
     <string name="passport_unknow_host_network_error">Check your network settings and try again</string>
     <string name="passport_unknow_network_error">A network error occurred</string>
-    <string name="passport_user_agreement_link">&lt;Data>"I've read and agree to Xiaomi's &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a>."&lt;/Data></string>
-    <string name="passport_user_agreement_link_more">&lt;Data>"I've read and agree to the following documents: Xiaomi's &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%4$s\">Privacy Policy&lt;/a>, &lt;a href=\"%2$s\">\"%3$s\"&lt;/a>."&lt;/Data></string>
+    <string name="passport_user_agreement_link">"&lt;Data>I've read and agree to Xiaomi's &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a>.&lt;/Data>"</string>
+    <string name="passport_user_agreement_link_more">"&lt;Data>I've read and agree to the following documents: Xiaomi's &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%4$s\">Privacy Policy&lt;/a>, &lt;a href=\"%2$s\">\"%3$s\"&lt;/a>.&lt;/Data>"</string>
     <string name="passport_user_id_intro">Enter password for %1$s</string>
     <string name="passport_v_code_error">Verification code is incorrect</string>
     <string name="passport_vcode_notification_title">"La vérification n'est pas terminée"</string>
@@ -679,8 +679,8 @@ Envoyer ce code au superviseur."</string>
     <string name="stop_full_log_dialog_title">Création des journaux…</string>
     <string name="submit_dialog_cancel">Refuser</string>
     <string name="submit_dialog_confirm">Accepter</string>
-    <string name="submit_dialog_content">&lt;Data>"Lisez et acceptez notre &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a> et notre &lt;a href=\"%2$s\">Accord d'utilisation&lt;/a> avant d'envoyer votre retour. Les problèmes que vous signalez ainsi que les éléments que vous joignez (y compris les journaux qui peuvent contenir des informations personnelles, ainsi que des informations sur votre appareil et votre réseau) seront téléchargés sur les serveurs de MIUI. Cela nous aidera à localiser et à résoudre les problèmes que vous signalez. Si vous signalez des problèmes liés à plusieurs appareils, les journaux d'autres appareils sur lesquels votre Compte Mi est utilisé seront également envoyés."&lt;/Data></string>
-    <string name="submit_dialog_content_global">&lt;Data>"Vos commentaires, ainsi que les pièces jointes (le cas échéant) et les journaux (vous pouvez décocher les cases correspondantes pour les éléments que vous ne souhaitez pas télécharger) seront envoyés aux serveurs de MIUI. Les journaux peuvent contenir des informations personnelles et vos données de localisation. Sélectionner \"Accepter\" signifie que vous avez lu et accepté notre &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a> et notre &lt;a href=\"%2$s\">Accord d'utilisation&lt;/a>."&lt;/Data></string>
+    <string name="submit_dialog_content">"&lt;Data>Lisez et acceptez notre &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a> et notre &lt;a href=\"%2$s\">Accord d'utilisation&lt;/a> avant d'envoyer votre retour. Les problèmes que vous signalez ainsi que les éléments que vous joignez (y compris les journaux qui peuvent contenir des informations personnelles, ainsi que des informations sur votre appareil et votre réseau) seront téléchargés sur les serveurs de MIUI. Cela nous aidera à localiser et à résoudre les problèmes que vous signalez. Si vous signalez des problèmes liés à plusieurs appareils, les journaux d'autres appareils sur lesquels votre Compte Mi est utilisé seront également envoyés.&lt;/Data>"</string>
+    <string name="submit_dialog_content_global">"&lt;Data>Vos commentaires, ainsi que les pièces jointes (le cas échéant) et les journaux (vous pouvez décocher les cases correspondantes pour les éléments que vous ne souhaitez pas télécharger) seront envoyés aux serveurs de MIUI. Les journaux peuvent contenir des informations personnelles et vos données de localisation. Sélectionner \"Accepter\" signifie que vous avez lu et accepté notre &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a> et notre &lt;a href=\"%2$s\">Accord d'utilisation&lt;/a>.&lt;/Data>"</string>
     <string name="submit_dialog_not_show_again">Ne plus montrer</string>
     <string name="submit_dialog_title">Envoyer le rapport</string>
     <string name="submit_feedback_info_failed">"Impossible d'envoyer le rapport"</string>

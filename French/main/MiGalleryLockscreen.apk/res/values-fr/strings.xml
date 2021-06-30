@@ -85,7 +85,7 @@
   <string name="permission_account_tip">Accéder aux informations du compte</string>
   <string name="permission_storage_tip">"Accéder aux images sur votre appareil afin de les utiliser en tant que fonds d'écran"</string>
   <string name="privacy_setting">Paramètres de confidentialité</string>
-  <string name="prv_end">&lt;CDATA>"C'est tout pour le moment."&lt;/CDATA></string>
+  <string name="prv_end">"&lt;CDATA>C'est tout pour le moment.&lt;/CDATA>"</string>
   <string name="prv_loading">&lt;CDATA>Chargement…&lt;/CDATA></string>
   <string name="prv_nodata">&lt;CDATA>Aucune donnée&lt;/CDATA></string>
   <string name="recommend_switch_desc">Recevez des recommandations de contenu en fonction de vos préférences</string>
@@ -633,8 +633,8 @@ dd/MM"</string>
   <string name="passport_unknow_error">Une erreur inconnue est survenue</string>
   <string name="passport_unknow_host_network_error">Vérifiez vos paramètres réseau et réessayez</string>
   <string name="passport_unknow_network_error">"Une erreur réseau s'est produite"</string>
-  <string name="passport_user_agreement_link">&lt;Data>"J'ai lu et accepté l'&lt;a href=%1$s>Accord d'utilisation&lt;/a> et la &lt;a href=%2$s>Politique de confidentialité&lt;/a> de Xiaomi."&lt;/Data></string>
-  <string name="passport_user_agreement_link_more">&lt;Data>"J'ai lu et accepté les documents suivants : l'&lt;a href=%1$s>Accord d'utilisation&lt;/a> et la &lt;a href=%4$s>Politique de confidentialité&lt;/a> de Xiaomi, &lt;a href=%2$s>%3$s&lt;/a>."&lt;/Data></string>
+  <string name="passport_user_agreement_link">"&lt;Data>J'ai lu et accepté l'&lt;a href=%1$s>Accord d'utilisation&lt;/a> et la &lt;a href=%2$s>Politique de confidentialité&lt;/a> de Xiaomi.&lt;/Data>"</string>
+  <string name="passport_user_agreement_link_more">"&lt;Data>J'ai lu et accepté les documents suivants : l'&lt;a href=%1$s>Accord d'utilisation&lt;/a> et la &lt;a href=%4$s>Politique de confidentialité&lt;/a> de Xiaomi, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data>"</string>
   <string name="passport_user_id_intro">Entrez le mot de passe pour %1$s</string>
   <string name="passport_v_code_error">Le code de vérification est incorrect</string>
   <string name="passport_vcode_notification_title">Votre vérification de connexion est incomplète</string>
