@@ -142,7 +142,7 @@
     <string name="bh_delete_charged_phone_number">Supprimer le numéro de téléphone récemment utilisé</string>
     <string name="bh_delete_edited_phone_number">Supprimer le numéro de téléphone entré</string>
     <string name="bh_delete_success">Supprimer avec succès</string>
-    <string name="bh_device_not_available_hint">&lt;Data>"&lt;font color='#F22424'>Impossible d'utiliser ce périphérique.&lt;/font>La carte SIM virtuelle a été émise pour être utilisée sur l'appareil sur lequel l'achat a été effectué (&lt;font color='#F22424'>%1$s&lt;/font>). Utilisez plutôt cet appareil."&lt;/Data></string>
+    <string name="bh_device_not_available_hint">"&lt;Data>&lt;font color='#F22424'>Impossible d'utiliser ce périphérique.&lt;/font>La carte SIM virtuelle a été émise pour être utilisée sur l'appareil sur lequel l'achat a été effectué (&lt;font color='#F22424'>%1$s&lt;/font>). Utilisez plutôt cet appareil.&lt;/Data>"</string>
     <string name="bh_discover">Découvrir</string>
     <string name="bh_edit_saved_phone_number">Éditer le libellé pour le numéro enregistré</string>
     <string name="bh_edit_sim_num">Éditer le numéro de téléphone SIM</string>
@@ -540,8 +540,8 @@ Les cartes de contact ont été désactivées"</string>
     <string name="create_group_item_label">Créer un nouveau groupe</string>
     <string name="create_qrcode_fail_message">Impossible de créer le QR code</string>
     <string name="cta_content_seg1">
-        &lt;Data>"&lt;strong>Avertissement important
-    En appuyant sur \"J'accepte\" ci-dessous, vous acceptez les &lt;font color=#33aaff>&lt;a href='https://static.account.xiaomi.com/html/agreement/account/en.html'>Conditions de service du Compte Mi&lt;/a>&lt;/font>, l'&lt;font color=#33aaff>&lt;a href='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'>Accord d'utilisation Mi Roaming&lt;/a>&lt;/font>, et la &lt;font color=#33aaff>&lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Politique de confidentialité&lt;/a>&lt;/font>. Lisez attentivement ces documents et veillez à bien comprendre tous les Termes relatifs et les Conditions avant d'accepter.&lt;/strong>"&lt;/Data>
+        "&lt;Data>&lt;strong>Avertissement important
+    En appuyant sur \"J'accepte\" ci-dessous, vous acceptez les &lt;font color=#33aaff>&lt;a href='https://static.account.xiaomi.com/html/agreement/account/en.html'>Conditions de service du Compte Mi&lt;/a>&lt;/font>, l'&lt;font color=#33aaff>&lt;a href='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'>Accord d'utilisation Mi Roaming&lt;/a>&lt;/font>, et la &lt;font color=#33aaff>&lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Politique de confidentialité&lt;/a>&lt;/font>. Lisez attentivement ces documents et veillez à bien comprendre tous les Termes relatifs et les Conditions avant d'accepter.&lt;/strong>&lt;/Data>"
     </string>
     <string name="cta_content_seg2">"
     Mi Roaming nécessite une connexion à internet et doit accéder à vos informations de localisation pour fonctionner normalement. De plus, Mi Roaming est suceptible de collecter, d'utiliser, et de partager vos données personnelles. Celles-ci seront protégées en accord avec les lois et réglementations locales."</string>
@@ -549,14 +549,14 @@ Les cartes de contact ont été désactivées"</string>
     <string name="cta_dialog_ok">"J'accepte"</string>
     <string name="cta_dialog_title">Termes et Conditions</string>
     <string name="cta_newcontent_seg1">
-        &lt;Data>"Nous avons mis à jour l'&lt;font color=#33aaff>&lt;a href='https://static.account.xiaomi.com/html/agreement/account/en.html'>Accord de service du Compte Mi&lt;/a>&lt;/font>, l'&lt;font color=#33aaff>&lt;a href='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'>Accord d'utilisation Mi Roaming&lt;/a>&lt;/font>, et la &lt;font color=#33aaff>&lt;a href='https://privacy.mi.com/business_hall/zh_CN/'>Politique de confidentialité&lt;/a>&lt;/font>. &lt;strong>Lisez attentivement ces documents et veillez à bien comprendre tous les Termes relatifs et les Conditions avant d'accepter.&lt;/strong>"&lt;/Data>
+        "&lt;Data>Nous avons mis à jour l'&lt;font color=#33aaff>&lt;a href='https://static.account.xiaomi.com/html/agreement/account/en.html'>Accord de service du Compte Mi&lt;/a>&lt;/font>, l'&lt;font color=#33aaff>&lt;a href='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'>Accord d'utilisation Mi Roaming&lt;/a>&lt;/font>, et la &lt;font color=#33aaff>&lt;a href='https://privacy.mi.com/business_hall/zh_CN/'>Politique de confidentialité&lt;/a>&lt;/font>. &lt;strong>Lisez attentivement ces documents et veillez à bien comprendre tous les Termes relatifs et les Conditions avant d'accepter.&lt;/strong>&lt;/Data>"
     </string>
     <string name="cta_newcontent_seg2">"
     Mi Roaming est susceptible de collecter, d'utiliser, et de partager vos données personnelles. Celles-ci seront protégées en accord avec les lois et réglementations locales.
     "</string>
     <string name="cta_newcontent_seg3">
-        &lt;Data>"&lt;strong>Avertissement important
-    En appuyant sur \"J'accepte\" ci-dessous, vous acceptez tous les Termes et Conditions inclus dans les documents listés ci-dessus.&lt;/strong>"&lt;/Data>
+        "&lt;Data>&lt;strong>Avertissement important
+    En appuyant sur \"J'accepte\" ci-dessous, vous acceptez tous les Termes et Conditions inclus dans les documents listés ci-dessus.&lt;/strong>&lt;/Data>"
     </string>
     <string name="customLabelPickerTitle">Nom personnalisé</string>
     <string name="custom_list_filter">Définir une vue personnalisée</string>

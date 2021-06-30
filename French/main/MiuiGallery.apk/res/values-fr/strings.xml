@@ -512,9 +512,9 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
   <string name="confirm_merge_face_albums">&lt;Data>Fusionner cet album avec %s ?&lt;/Data></string>
   <string name="confirm_merge_many_face_albums">&lt;Data>Fusionner ces albums avec %s ?&lt;/Data></string>
   <string name="confirm_not_face">Ne correspond pas</string>
-  <string name="confirm_recommandation_face_is">&lt;Data>"Êtes-vous sûr que c'est &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font> ? Cette personne sera déplacée vers l'album \"%2$s\"."&lt;/Data></string>
-  <string name="confirm_recommandation_face_not">&lt;Data>"Êtes-vous certain que ce n'est pas plutôt &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font> ?"&lt;/Data></string>
-  <string name="confirm_recommandation_multiple_faces_are">&lt;Data>"Êtes-vous sûr que ce sont &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font> ? Ces personnes seront déplacées vers l'album \"%2$s\"."&lt;/Data></string>
+  <string name="confirm_recommandation_face_is">"&lt;Data>Êtes-vous sûr que c'est &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font> ? Cette personne sera déplacée vers l'album \"%2$s\".&lt;/Data>"</string>
+  <string name="confirm_recommandation_face_not">"&lt;Data>Êtes-vous certain que ce n'est pas plutôt &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font> ?&lt;/Data>"</string>
+  <string name="confirm_recommandation_multiple_faces_are">"&lt;Data>Êtes-vous sûr que ce sont &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font> ? Ces personnes seront déplacées vers l'album \"%2$s\".&lt;/Data>"</string>
   <string name="confirm_recommandation_multiple_faces_not">&lt;Data>Êtes-vous certain que ce ne sont pas plutôt &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font> ?&lt;/Data></string>
   <string name="contact_tip">Contact</string>
   <string name="context_menu_add_contact">Ajouter aux contacts</string>
@@ -2194,7 +2194,7 @@ Le transcodage peut prendre un certain temps lorsque vous utilisez cette fonctio
   <string name="user_agreement2">"Conditions d'utilisation"</string>
   <string name="user_agreement4">Politique de confidentialité</string>
   <string name="user_alias_self">Auto</string>
-  <string name="user_notice_identify_summary_format">&lt;Data>"En utilisant ce service, vous acceptez les Conditions de Xiaomi &lt;a href=\"%1$s\">\"Conditions d'utilisation\"&lt;/a> et &lt;a href=\"%2$s\">\"Politique de confidentialité\"&lt;/a>."&lt;/Data></string>
+  <string name="user_notice_identify_summary_format">"&lt;Data>En utilisant ce service, vous acceptez les Conditions de Xiaomi &lt;a href=\"%1$s\">\"Conditions d'utilisation\"&lt;/a> et &lt;a href=\"%2$s\">\"Politique de confidentialité\"&lt;/a>.&lt;/Data>"</string>
   <string name="user_notice_title">"Conditions générales d'utilisation"</string>
   <string name="v7_preference_off">DÉSACTIVÉ</string>
   <string name="v7_preference_on">ACTIVÉ</string>

@@ -64,8 +64,8 @@
         <item quantity="one">Libérez %2$s en prenant cette mesure</item>
     </plurals>
     <plurals name="dc_item_summary_apk">
-        <item quantity="other">&lt;Data>"Vous pouvez supprimer &lt;font color=#0097FF>%d&lt;/font> paquets d'installation"&lt;/Data></item>
-        <item quantity="one">&lt;Data>"Vous pouvez supprimer &lt;font color=#0097FF>%d&lt;/font> paquets d'installation"&lt;/Data></item>
+        <item quantity="other">"&lt;Data>Vous pouvez supprimer &lt;font color=#0097FF>%d&lt;/font> paquets d'installation&lt;/Data>"</item>
+        <item quantity="one">"&lt;Data>Vous pouvez supprimer &lt;font color=#0097FF>%d&lt;/font> paquets d'installation&lt;/Data>"</item>
     </plurals>
     <plurals name="dc_item_summary_app_data">
         <item quantity="other">&lt;Data>Vous pouvez effacer les données pour &lt;font color=#0097FF>%d&lt;/font> applications&lt;/Data></item>
@@ -207,10 +207,10 @@
     </plurals>
     <plurals name="resutl_function_install_app_summary">
         <item quantity="other">
-            &lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> les applications n'ont pas été utilisées depuis longtemps, jetez un œil."&lt;/Data>
+            "&lt;Data>&lt;font color=#ff0000 >%d&lt;/font> les applications n'ont pas été utilisées depuis longtemps, jetez un œil.&lt;/Data>"
         </item>
         <item quantity="one">
-            &lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> l'application n'a pas été utilisée depuis longtemps, jetez un œil."&lt;/Data>
+            "&lt;Data>&lt;font color=#ff0000 >%d&lt;/font> l'application n'a pas été utilisée depuis longtemps, jetez un œil.&lt;/Data>"
         </item>
     </plurals>
     <plurals name="rs_clean_size_hint_image">

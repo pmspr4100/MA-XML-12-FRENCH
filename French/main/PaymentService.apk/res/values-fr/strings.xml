@@ -380,7 +380,7 @@ Customer service center：400-100-3399"</string>
   <string name="mibi_progress_warning_waiting">"Payment hasn't reached your account yet."</string>
   <string name="mibi_prompt_info_button_hint">Attention(%d)</string>
   <string name="mibi_prompt_info_button_text">OK</string>
-  <string name="mibi_prompt_info_for_first_use">&lt;Data>"&lt;font color=#ff7700>Les Mi Coin ne peuvent pas être utilisé pour acheter des produits sur Mi.com.&lt;/font>"&lt;/Data></string>
+  <string name="mibi_prompt_info_for_first_use">"&lt;Data>&lt;font color=#ff7700>Les Mi Coin ne peuvent pas être utilisé pour acheter des produits sur Mi.com.&lt;/font>&lt;/Data>"</string>
   <string name="mibi_prompt_info_title">Tips</string>
   <string name="mibi_push_register_fail">Register push fail.</string>
   <string name="mibi_push_register_success">Register push success.</string>
@@ -586,8 +586,8 @@ Customer service center：400-100-3399"</string>
   <string name="passport_unknow_error">An unknown error occurred</string>
   <string name="passport_unknow_host_network_error">Check your network settings and try again</string>
   <string name="passport_unknow_network_error">A network error occurred</string>
-  <string name="passport_user_agreement_link">&lt;Data>"I've read and agree to Xiaomi's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>."&lt;/Data></string>
-  <string name="passport_user_agreement_link_more">&lt;Data>"I've read and agree to the following documents: Xiaomi's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, &lt;a href=%2$s>%3$s&lt;/a>."&lt;/Data></string>
+  <string name="passport_user_agreement_link">"&lt;Data>I've read and agree to Xiaomi's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>.&lt;/Data>"</string>
+  <string name="passport_user_agreement_link_more">"&lt;Data>I've read and agree to the following documents: Xiaomi's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data>"</string>
   <string name="passport_user_id_intro">Enter password for %1$s</string>
   <string name="passport_v_code_error">Verification code is incorrect</string>
   <string name="passport_vcode_notification_title">"La vérification n'est pas terminée"</string>
