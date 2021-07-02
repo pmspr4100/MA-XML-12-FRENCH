@@ -1378,8 +1378,9 @@ Pour améliorer l'expérience d'utilisation de l'appareil, les applications et l
   <string name="bluetooth_unlock_reject">La demande de déverrouillage de cet appareil a été rejetée</string>
   <string name="bluetooth_unlock_settings_devices_prompt">Only selected wearable Bluetooth devices are supported (e.g. fitness bands and smartwatches)</string>
   <string name="bluetooth_unlock_settings_devices_title">Périphérique</string>
-  <string name="bluetooth_unlock_settings_toggle_title">Appliquer à</string>
+  <string name="bluetooth_unlock_settings_toggle_title">Appliqué à</string>
   <string name="bluetooth_unlock_settings_unlock_device">"Déverrouiller l'appareil"</string>
+  <string name="bluetooth_unlock_settings_unlock_summary">Cette fonctionnalité est uniquement compatible avec certains appareils de la marque Xiaomi</string>
   <string name="bluetooth_unlock_state_disconnected">Déconnecté</string>
   <string name="bluetooth_unlock_state_key_error">Clé érronée</string>
   <string name="bluetooth_unlock_state_label">"État : "</string>
@@ -3085,7 +3086,6 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
   <string name="firewall_temp_rule_reason">%2$s a restreint la connexion internet pour %1$s</string>
   <string name="firewall_wifi">Wi-Fi</string>
   <string name="firewall_wifi_dialog_message">"L'application installée ne sera plus en mesure de se connecter à internet via Wi-Fi lorsque cet interrupteur est désactivé."</string>
-  <string name="firmware_title">Android</string>
   <string name="firmware_version">"Version d'Android"</string>
   <string name="flash_drive_backup_disable">"Branchez d'abord un lecteur USB"</string>
   <string name="flash_drive_backup_enable">Utiliser un lecteur USB pour sauvegarder ou restaurer des éléments</string>
@@ -3178,11 +3178,11 @@ Il semblait n'y avoir ni chevaux, ni animaux d'aucune espèce ; les hommes tran
   <string name="forget_passpoint_wifi_message">Votre téléphone cessera automatiquement de se connecter à ce réseau.</string>
   <string name="forget_password_button_text">Mot de passe oublié</string>
   <string name="forget_password_dialog_button_text">Retour</string>
-  <string name="forget_password_dialog_content_four">"2. Sélectionnez [Wipe data] et attendez que votre appareil redémarre."</string>
-  <string name="forget_password_dialog_content_one">"Si vous oubliez votre mot de passe, vous ne pourrez pas le restaurer. Cependant, vous pouvez le réinitialiser une fois que vous aurez effacez toutes les données de votre appareil (y compris les photos, contacts, etc.). Sauvegardez toutes les données importantes avant cette action"</string>
-  <string name="forget_password_dialog_content_three">"1. Éteignez votre appareil. Appuyez simultanément sur le bouton [Power] et sur le bouton [Volume +]."</string>
+  <string name="forget_password_dialog_content_four">"2. Sélectionnez [Wipe data] et attendez que votre appareil redémarre"</string>
+  <string name="forget_password_dialog_content_one">"Si vous oubliez votre mot de passe, vous ne pourrez pas le restaurer. Cependant, vous pouvez le réinitialiser une fois que vous aurez effacé toutes les données de votre appareil (y compris les photos, contacts, etc.). Sauvegardez toutes les données importantes avant de réaliser cette action."</string>
+  <string name="forget_password_dialog_content_three">"1. Éteignez votre appareil puis appuyez et maintenez le bouton d'alimentation et Volume haut simultanément"</string>
   <string name="forget_password_dialog_content_two">"Suivez ces étapes pour effacer les données : "</string>
-  <string name="forget_password_dialog_title">Réinitialisez votre mot de passe</string>
+  <string name="forget_password_dialog_title">Réinitialiser votre mot de passe</string>
   <string name="forget_pattern">Schéma oublié ?</string>
   <string name="forget_privacy_password_setting">Ajouter un compte Mi</string>
   <string name="forget_privacy_password_summary">Utiliser le compte Mi pour réinitialiser votre mot de passe</string>
@@ -4096,6 +4096,7 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
   <string name="lockpassword_confirm_workspace_password">Vérifier le mot de passe de votre espace de travail</string>
   <string name="lockpassword_confirm_your_lock_password_header">Confirmez votre mot de passe</string>
   <string name="lockpassword_confirm_your_lock_pattern_header">Confirmez votre schéma</string>
+  <string name="lockpassword_confirm_your_lock_pin_header">Confirmez votre code PIN</string>
   <string name="lockpassword_confirm_your_password_details_frp">"La configuration d'usine du téléphone a été rétablie. Pour l'utiliser, saisissez mot passe précédent."</string>
   <string name="lockpassword_confirm_your_password_generic">Saisissez le mot de passe de votre appareil pour continuer.</string>
   <string name="lockpassword_confirm_your_password_generic_profile">Saisissez le mot de passe de travail pour continuer</string>
@@ -4109,7 +4110,7 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
   <string name="lockpassword_confirm_your_pin_details_frp">"La configuration d'usine du téléphone a été rétablie. Pour l'utiliser, saisissez le code précédent."</string>
   <string name="lockpassword_confirm_your_pin_generic">Saisissez le code PIN de votre appareil pour continuer.</string>
   <string name="lockpassword_confirm_your_pin_generic_profile">Saisissez le code du profil professionnel pour continuer.</string>
-  <string name="lockpassword_confirm_your_pin_header">Confirmer votre code PIN</string>
+  <string name="lockpassword_confirm_your_pin_header">Confirmez votre code PIN</string>
   <string name="lockpassword_confirm_your_pin_header_frp">Valider le code</string>
   <string name="lockpassword_confirm_your_private_password_header">Confirmez votre mot de passe</string>
   <string name="lockpassword_confirm_your_private_pattern_header">Confirmez votre schéma</string>
@@ -7195,7 +7196,6 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
   <string name="status_bar_carrier_settings_no_sim_card">Pas de carte SIM</string>
   <string name="status_bar_settings">"Notifications et barre de statut</string>
   <string name="status_bar_settings_all_app_display_loading">Chargement…</string>
-  <string name="status_bar_settings_carrier_sim">"SIM %1$s : "</string>
   <string name="status_bar_settings_manage_notification">"Notifications d'applications"</string>
   <string name="status_bar_settings_notification_bar">Panneau de notification</string>
   <string name="status_bar_settings_notification_use_app_icon">Utiliser les icônes des applications</string>
@@ -7917,7 +7917,7 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
   <string name="unlock_set_unlock_off_title">Aucun</string>
   <string name="unlock_set_unlock_password_none">Aucun</string>
   <string name="unlock_set_unlock_password_summary">"Saisissez 4 lettres ou plus pour déverrouiller l'appareil"</string>
-  <string name="unlock_set_unlock_password_title">Désactiver avec un mot de passe</string>
+  <string name="unlock_set_unlock_password_title">Mot de passe</string>
   <string name="unlock_set_unlock_pattern_summary">"Dessinez un schéma simple avec votre doigt pour déverrouiller l'appareil"</string>
   <string name="unlock_set_unlock_pattern_title">Schéma</string>
   <string name="unlock_set_unlock_pin_summary">"Entrez %1$d-%2$d chiffres pour déverrouiller l'appareil"</string>
@@ -8557,7 +8557,7 @@ Merci de prendre connaissance de la politique de données personnells de votre f
   <string name="wifi_ask_enable">"%s requiert l'activation du Wi-Fi."</string>
   <string name="wifi_assist">Assistant Wi-Fi</string>
   <string name="wifi_assistant">Rester connecté</string>
-  <string name="wifi_assistant_auto_confirm_data_help">Vous pouvez désactivé cette fonctionnalité dans Paramètres > Paramètres Wi-Fi > Assistant Wi-Fi.</string>
+  <string name="wifi_assistant_auto_confirm_data_help">Vous pouvez désactiver cette fonctionnalité dans Paramètres > Paramètres Wi-Fi > Assistant Wi-Fi.</string>
   <string name="wifi_assistant_auto_confirm_data_message">Utilise les réseaux de données mobiles lorsque votre appareil ne peut pas se connecter à internet en Wi-Fi.</string>
   <string name="wifi_assistant_confirm_always">Ne plus demander</string>
   <string name="wifi_assistant_confirm_connection_title">Connexion à internet impossible</string>
