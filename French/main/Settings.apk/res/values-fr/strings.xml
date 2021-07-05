@@ -1119,7 +1119,7 @@ Applications :
   <string name="bluetooth_device_details">"Paramètres de l'appareil"</string>
   <string name="bluetooth_device_mac_address">"Adresse Bluetooth de l'appareil : %1$s"</string>
   <string name="bluetooth_device_misc_title">Périphériques rarement utilisés</string>
-  <string name="bluetooth_device_name">Nom :</string>
+  <string name="bluetooth_device_name">"Nom : "</string>
   <string name="bluetooth_device_name_summary">Visible avec le nom \"^1\" pour les autres appareils</string>
   <string name="bluetooth_device_nearby_title">Appareils à proximité</string>
   <string name="bluetooth_device_searchable">Visibilité</string>
@@ -1378,7 +1378,7 @@ Pour améliorer l'expérience d'utilisation de l'appareil, les applications et l
   <string name="bluetooth_unlock_reject">La demande de déverrouillage de cet appareil a été rejetée</string>
   <string name="bluetooth_unlock_settings_devices_prompt">Only selected wearable Bluetooth devices are supported (e.g. fitness bands and smartwatches)</string>
   <string name="bluetooth_unlock_settings_devices_title">Périphérique</string>
-  <string name="bluetooth_unlock_settings_toggle_title">Appliqué à</string>
+  <string name="bluetooth_unlock_settings_toggle_title"></string>
   <string name="bluetooth_unlock_settings_unlock_device">"Déverrouiller l'appareil"</string>
   <string name="bluetooth_unlock_settings_unlock_summary">Cette fonctionnalité est uniquement compatible avec certains appareils de la marque Xiaomi</string>
   <string name="bluetooth_unlock_state_disconnected">Déconnecté</string>
@@ -1456,6 +1456,7 @@ Si vous avez déjà effectué l'une des opérations ci-dessus, ajoutez à nouvea
   <string name="brightness_auto_adjust_on">"La luminosité de l'écran sera optimisée en fonction de la lumière ambiante."</string>
   <string name="brightness_summary">"Régler la luminosité de l'écran"</string>
   <string name="brightness_title">Luminosité</string>
+  <string name="bssid_label">BSSID :</string>
   <string name="bt_aac_dialog_summary">"L'appareil actuel prend en charge le codec AAC. Cependant, AAC peut ne pas lire le son en raison de problèmes de compatibilité. Votre appareil est passé automatiquement au codec SBC.
 Vous pouvez le modifier dans les paramètres."</string>
   <string name="bt_aac_dialog_title">Connexion Bluetooth</string>
@@ -3465,7 +3466,7 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
   <string name="help_and_feedback_title">Aide et commentaires</string>
   <string name="help_feedback_label">Aide et commentaires</string>
   <string name="help_label">Aide et commentaires</string>
-  <string name="hidden_ssid_label">Caché SSID :</string>
+  <string name="hidden_ssid_label">SSID caché :</string>
   <string name="hide_extra_apps">Afficher utilisation appli</string>
   <string name="hide_silent_icons_summary">"Les icônes des notifications douces ne sont pas affichées dans la barre de notification"</string>
   <string name="hide_silent_icons_title">Masquer les icônes des notifications douces</string>
@@ -3541,9 +3542,9 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
   <string name="ime_security_warning">"%1$s peut enregistrer tout ce que vous tapez, y compris les mots de passe, numéros de carte de crédit et autres données personnelles"</string>
   <string name="ime_security_warning_global">"Les méthodes de saisie peuvent être en mesure de collecter tout le texte que vous tapez, y compris les données personnelles comme le mot de passe et les numéros de carte de crédit. Utilisation %1$s ?"</string>
   <string name="ime_security_warning_title_global">Activer le clavier</string>
-  <string name="imei_information_summary">Informations relatives au code IMEI</string>
-  <string name="imei_information_title">Informations sur le code IMEI</string>
-  <string name="imei_multi_sim">Code IMEI (SIM %1$d)</string>
+  <string name="imei_information_summary">Informations relatives au numéro IMEI</string>
+  <string name="imei_information_title">Informations sur le numéro IMEI</string>
+  <string name="imei_multi_sim">Numéro IMEI (SIM %1$d)</string>
   <string name="immediately_destroy_activities">Ne pas conserver les activités</string>
   <string name="immediately_destroy_activities_summary">"Terminer toute activité aussitôt que l'utilisateur la quitte"</string>
   <string name="importance_default">Par défaut</string>
@@ -5939,7 +5940,7 @@ Interface UT : %5$s"</string>
   <string name="radio_info_ims_reg_status_registered">Enregistré</string>
   <string name="radio_info_ims_reg_status_title">État IMS</string>
   <string name="radio_info_message_waiting_label">Message en attente :</string>
-  <string name="radio_info_neighboring_location_label">Informations mobiles voisines (obsolètes) :</string>
+  <string name="radio_info_neighboring_location_label">Informations sur les téléphones à proximité (obsolètes) :</string>
   <string name="radio_info_phone_number_label">Numéro de téléphone :</string>
   <string name="radio_info_phy_chan_config">Configuration de la chaîne physique LTE :</string>
   <string name="radio_info_ping_hostname_v4">"Pinguer l'IPv4 du nom d'hôte (www.google.com) :"</string>
@@ -5950,7 +5951,7 @@ Interface UT : %5$s"</string>
   <string name="radio_info_radio_power">Alimentation radio mobile</string>
   <string name="radio_info_roaming_label">Itinérance :</string>
   <string name="radio_info_set_perferred_label">Définir le type de réseau préféré :</string>
-  <string name="radio_info_signal_location_label">Informations de géolocalisation mobiles (obsolètes) :</string>
+  <string name="radio_info_signal_location_label">Informations de la géolocalisation mobile (obsolètes) :</string>
   <string name="radio_info_signal_strength_label">Intensité du signal :</string>
   <string name="radio_info_smsc_refresh_label">Actualiser</string>
   <string name="radio_info_smsc_update_label">Mettre à jour</string>
@@ -5962,7 +5963,7 @@ Interface UT : %5$s"</string>
   <string name="radioInfo_data_connected">Connecté</string>
   <string name="radioInfo_data_connecting">Connexion</string>
   <string name="radioInfo_data_disconnected">Déconnecté</string>
-  <string name="radioInfo_data_suspended">Interrompu</string>
+  <string name="radioInfo_data_suspended">Suspendu</string>
   <string name="radioInfo_display_bytes">octets</string>
   <string name="radioInfo_display_packets">paquets</string>
   <string name="radioInfo_menu_getIMS">État du service IMS</string>
@@ -5970,14 +5971,14 @@ Interface UT : %5$s"</string>
   <string name="radioInfo_menu_viewFDN">Afficher les numéros autorisés</string>
   <string name="radioInfo_menu_viewSDN">Afficher les numéros de service</string>
   <string name="radioInfo_phone_idle">Inactif</string>
-  <string name="radioInfo_phone_offhook">Appel en cours…</string>
+  <string name="radioInfo_phone_offhook">Appel en cours</string>
   <string name="radioInfo_phone_ringing">Sonnerie</string>
-  <string name="radioInfo_roaming_in">Itinérance</string>
-  <string name="radioInfo_roaming_not">Sans itinérance</string>
+  <string name="radioInfo_roaming_in">En itinérance</string>
+  <string name="radioInfo_roaming_not">"Pas d'itinérance"</string>
   <string name="radioInfo_service_emergency">"Appels d'urgence uniquement"</string>
   <string name="radioInfo_service_in">En service</string>
   <string name="radioInfo_service_off">Signal radio désactivé</string>
-  <string name="radioInfo_service_out">Hors-service</string>
+  <string name="radioInfo_service_out">Hors service</string>
   <string name="radioInfo_unknown">Inconnu</string>
   <string name="raise_bottom_height_of_keyboard">Renforcé</string>
   <string name="raise_bottom_height_of_keyboard_sub_title">Une barre avec des raccourcis personnalisables apparaîtra sous le clavier si vous passez en mode amélioré</string>
@@ -6148,6 +6149,7 @@ Redémarrez votre appareil et réessayez."</string>
 Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="rom_total_size">Taille total ROM</string>
   <string name="root">Accès root</string>
+  <string name="rssi_label">RSSI :</string>
   <string name="rule_name">Nom</string>
   <string name="running_frequency">Fréquence</string>
   <string name="running_process_item_removed_user_label">Utilisateur supprimé</string>
@@ -6174,8 +6176,8 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="runtime_permissions_summary_control_app_access">"Contrôlez l'accès des applications à vos données"</string>
   <string name="runtime_permissions_summary_no_permissions_granted">Aucune autorisation accordée</string>
   <string name="runtime_permissions_summary_no_permissions_requested">Aucune autorisation demandée</string>
-  <string name="rx_link_speed_label">Recevoir la vitesse de liaison :</string>
-  <string name="rx_wifi_speed">Recevoir la vitesse du lien</string>
+  <string name="rx_link_speed_label">Vitesse de connexion en réception :</string>
+  <string name="rx_wifi_speed">Vitesse de connexion en réception</string>
   <string name="safety_and_regulatory_info">Manuel de sécurité et réglementation</string>
   <string name="sar">"Informations sur l'exposition aux RF"</string>
   <string name="saturday">Samedi</string>
@@ -7177,6 +7179,7 @@ Avant d'utiliser nos services, lisez et acceptez nos %s."</string>
   <string name="spellcheckers_settings_for_work_title">"Vérificateur d'orthographe pour le travail"</string>
   <string name="spellcheckers_settings_title">Correcteur orthographique</string>
   <string name="split_screen">Passer en mode écran divisé</string>
+  <string name="ssid_label">SSID :</string>
   <string name="ssl_ca_cert_warning">Il est possible que le réseau soit surveillé.</string>
   <string name="ssl_ca_cert_warning_message">"Des tiers ont la possibilité de surveiller votre activité sur le réseau, y compris en ce qui concerne les Emails, les applications et les sites Web sécurisés.
 
@@ -7503,7 +7506,7 @@ Essayez d'utiliser un périphérique ^3 plus rapide, ou utilisez à la place ^4 
   <string name="sunlight_mode">Mode lumière du soleil</string>
   <string name="sunlight_mode_summary">Ajustez la luminosité à une forte lumière ambiante lorsque la luminosité automatique est désactivée</string>
   <string name="supl_not_set">Non définie</string>
-  <string name="supplicant_state_label">État suppliant :</string>
+  <string name="supplicant_state_label">État du suppliant :</string>
   <string name="support_gesture_title">Modèles 3D</string>
   <string name="support_summary">"Articles d'aide, téléphone et chat, premiers pas"</string>
   <string name="sure_sync_now">Synchroniser les éléments maintenant ?</string>
@@ -7589,11 +7592,11 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
   <string name="tap_to_wake_summary">"Appuyez deux fois n'importe où sur l'écran pour réactiver l'appareil."</string>
   <string name="taplus_title">Taplus</string>
   <string name="terms_title">"Conditions d'utilisation"</string>
-  <string name="testing">Test</string>
-  <string name="testing_phone_info">Informations sur le téléphone</string>
+  <string name="testing">Info</string>
+  <string name="testing_phone_info">"Informations sur SIM "</string>
   <string name="testing_sim_toolkit">Boîte à outils SIM</string>
   <string name="testing_usage_stats">Données statistiques</string>
-  <string name="testing_wifi_info">Information Wi-Fi</string>
+  <string name="testing_wifi_info">Informations sur le Wi-Fi</string>
   <string name="tether_and_hotspot_title">"Partage de connexion et point d'accès mobile"</string>
   <string name="tether_auto_disable_summary">"Désactiver automatiquement le point d'accès lorsqu'aucun appareil n'est connecté"</string>
   <string name="tether_auto_disable_title">Désactiver automatiquement les données mobiles</string>
@@ -7829,9 +7832,8 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
   <string name="twilight_mode_launch_location">Paramètres de localisation</string>
   <string name="twilight_mode_location_off_dialog_message">"Emplacement de l'appareil nécessaire pour déterminer vos heures de coucher et de lever du soleil."</string>
   <string name="twohours">1 heure</string>
-  <string name="tx_link_speed">%1$d Mbps</string>
-  <string name="tx_link_speed_label">Transmit link speed:</string>
-  <string name="tx_wifi_speed">Transmit link speed</string>
+  <string name="tx_link_speed_label">Vitesse de connexion en transmission :</string>
+  <string name="tx_wifi_speed">Vitesse de connexion en transmission</string>
   <string name="under_keyguard">Écran éteint</string>
   <string name="unimportant">Sans importance</string>
   <string name="uninstall_all_users_text">Désinstaller pour tous les utilisateurs</string>
@@ -8109,7 +8111,7 @@ La désactivation de cette fonction n'affecte pas la capacité de votre appareil
   <string name="usb_use_file_transfers_desc">Transférer des fichiers vers un autre appareil</string>
   <string name="usb_use_file_transfers_miui12_5">Transferts de fichiers</string>
   <string name="usb_use_MIDI_desc">Utiliser cet appareil en tant que MIDI</string>
-  <string name="usb_use_miui12_5">Utiliser USB pour</string>
+  <string name="usb_use_miui12_5">"Utiliser l'USB pour"</string>
   <string name="usb_use_photo_transfers">Transférer des photos (PTP)</string>
   <string name="usb_use_photo_transfers_desc">"Transférer des photos ou des fichiers si MTP n'est pas compatible (PTP)"</string>
   <string name="usb_use_photo_transfers_miui12_5">Transferts de photos</string>
@@ -8935,7 +8937,7 @@ Allow this for all apps that want to scan?"</string>
   <string name="wifi_settings_scanning_required_title">Activer la recherche de réseaux Wi-Fi ?</string>
   <string name="wifi_settings_scanning_required_turn_on">Activer</string>
   <string name="wifi_settings_summary">"Configurer et gérer les points d'accès sans fil"</string>
-  <string name="wifi_settings_title">Paramètres Wi-Fi</string>
+  <string name="wifi_settings_title">Wi-Fi</string>
   <string name="wifi_setup_add_network">Ajouter un réseau</string>
   <string name="wifi_setup_back">Retour</string>
   <string name="wifi_setup_cancel">Annuler</string>
@@ -9015,7 +9017,7 @@ Allow this for all apps that want to scan?"</string>
   <string name="wifi_state_disabling">Désactivation</string>
   <string name="wifi_state_enabled">Activé</string>
   <string name="wifi_state_enabling">Activation</string>
-  <string name="wifi_state_label">État Wi-Fi :</string>
+  <string name="wifi_state_label">État du Wi-Fi :</string>
   <string name="wifi_state_unknown">Inconnu</string>
   <string name="wifi_status">État</string>
   <string name="wifi_status_mac_randomized">Adresse MAC randomisée</string>

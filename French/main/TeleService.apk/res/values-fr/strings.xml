@@ -203,7 +203,7 @@
     <string name="bluetooth_pan_profile_summary_use_for">"Utiliser pour l'accès à internet"</string>
     <string name="bluetooth_pan_user_profile_summary_connected">"Connecté à l'appareil pour accès internet"</string>
     <string name="bluetooth_profile_a2dp">Multimédia</string>
-    <string name="bluetooth_profile_a2dp_high_quality">Audio HD: %1$s</string>
+    <string name="bluetooth_profile_a2dp_high_quality">Audio HD : %1$s</string>
     <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Audio HD</string>
     <string name="bluetooth_profile_dun">Accès au réseau commuté</string>
     <string name="bluetooth_profile_headset">Appels téléphoniques</string>
@@ -220,17 +220,17 @@
     <string name="bluetooth_sap_profile_summary_use_for">"Utiliser pour l'accès à la carte SIM"</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample">"Nombre de bits par échantillon pour l'audio Bluetooth"</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Critère de sélection du codec audio
-Bluetooth: nombre de bits par échantillon"</string>
+Bluetooth : nombre de bits par échantillon"</string>
     <string name="bluetooth_select_a2dp_codec_channel_mode">"Mode de chaîne de l'audio Bluetooth"</string>
     <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Critère de sélection du codec audio
-Bluetooth: mode de chaîne"</string>
-    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Codec audio Bluetooth LDAC: qualité de lecture</string>
+Bluetooth : mode de chaîne"</string>
+    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Codec audio Bluetooth LDAC : qualité de lecture</string>
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Critère de sélection du codec audio
-LDAC: qualité de lecture"</string>
+LDAC : qualité de lecture"</string>
     <string name="bluetooth_select_a2dp_codec_sample_rate">"Taux d'échantillonnage audio Bluetooth"</string>
     <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Critère de sélection du codec audio
-Bluetooth: taux d'échantillonnage"</string>
-    <string name="bluetooth_select_a2dp_codec_streaming_label">Diffusion: %1$s</string>
+Bluetooth : taux d'échantillonnage"</string>
+    <string name="bluetooth_select_a2dp_codec_streaming_label">Diffusion : %1$s</string>
     <string name="bluetooth_select_a2dp_codec_type">Codec audio Bluetooth</string>
     <string name="bluetooth_select_a2dp_codec_type_dialog_title">"Critère pour déclencher la sélection du codec audio
 Bluetooth"</string>
@@ -328,7 +328,7 @@ Bluetooth"</string>
     <string name="callFailed_resources_unavailable_or_unspecified">Ressources non disponibles, non précisées</string>
     <string name="callFailed_resp_to_status_enquiry">"Réponse à l'ENQUÊTE SUR L'ÉTAT"</string>
     <string name="callFailed_semantically_incorrect_message">Message sémantiquement incorrect</string>
-    <string name="callFailed_server_error">Erreur serveur: réessayez plus tard.</string>
+    <string name="callFailed_server_error">Erreur serveur : réessayez plus tard.</string>
     <string name="callFailed_server_unreachable">Serveur injoignable.</string>
     <string name="callFailed_service_option_not_available">Service ou option non disponible, non spécifié</string>
     <string name="callFailed_service_or_option_not_implemented">Service ou option non implémenté, non spécifié</string>
@@ -418,7 +418,7 @@ Bluetooth"</string>
     <string name="caller_id_title">"Identité de l'appelant"</string>
     <string name="calling_via_template">Appel via %s</string>
     <string name="callwait_open_hint">"La fonction \" Appel en attente \" est fournie par votre opérateur. Si vous recevez une notification d'erreur, contactez votre opérateur pour s'assurer que cette fonctionnalité est prise en charge."</string>
-    <string name="can_not_use_for_not_data_sim">(Utilisation impossible: Doit être défini comme SIM de données par défaut)</string>
+    <string name="can_not_use_for_not_data_sim">(Utilisation impossible : Doit être défini comme SIM de données par défaut)</string>
     <string name="cancel">Annuler</string>
     <string name="card_title_call_ended">"Appel terminé "</string>
     <string name="card_title_conf_call">Conférence téléphonique</string>
@@ -562,7 +562,7 @@ Bluetooth"</string>
     <string name="config_default_data_sim">Paramètres</string>
     <string name="confirmPin2Label">Confirmer le nouveau code PIN 2</string>
     <string name="confirmPinLabel">Confirmer le nouveau code PIN</string>
-    <string name="confirm_enable_oem_unlock_text">"AVERTISSEMENT: Les fonctionnalités de protection de l'appareil sont désactivées tant que ce paramètre est activé."</string>
+    <string name="confirm_enable_oem_unlock_text">"AVERTISSEMENT : Les fonctionnalités de protection de l'appareil sont désactivées tant que ce paramètre est activé."</string>
     <string name="confirm_enable_oem_unlock_title">Autoriser le déverrouillage OEM ?</string>
     <string name="confirm_password_label">Confirmez le nouveau mot de passe</string>
     <string name="confirm_pin2_label">Confirmer le nouveau code PIN 2</string>
@@ -624,7 +624,7 @@ Bluetooth"</string>
     <string name="deactivate_all">Tout annuler</string>
     <string name="debug_app">Sélectionner une application à déboguer</string>
     <string name="debug_app_not_set">Aucune application à déboguer définie</string>
-    <string name="debug_app_set">Application à déboguer: %1$s</string>
+    <string name="debug_app_set">Application à déboguer : %1$s</string>
     <string name="debug_applications_category">Applications</string>
     <string name="debug_debugging_category">Débogage</string>
     <string name="debug_drawing_category">Tracé</string>
@@ -790,7 +790,7 @@ Bluetooth"</string>
     <string name="enter_callbarring_password">"Mot de passe d'interdiction (%d chiffres)"</string>
     <string formatted="false" name="enter_input">Le message USSD doit être compris entre %d et %d caractères. Réessayez.</string>
     <string name="enter_pin2_text">PIN 2</string>
-    <string name="enter_pin_text">Code PIN de la carte SIM:</string>
+    <string name="enter_pin_text">Code PIN de la carte SIM :</string>
     <string name="entertainment_news_settings">Actualités de divertissement</string>
     <string name="eo_disable">"Les offres d'emploi sont désactivées"</string>
     <string name="eo_enable">"Les offres d'emploi sont activées"</string>
@@ -1100,8 +1100,8 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
     <string name="missed_call_notify_times_title">Rappel des appels manqués</string>
     <string name="missed_call_notify_twice">%d fois</string>
     <string name="miui_network_selection_reset_text">Réinitialiser</string>
-    <string name="miui_notification_network_selection_title">SIM: pas de service</string>
-    <string name="miui_notification_network_selection_title_by_sim">SIM %s: pas de service</string>
+    <string name="miui_notification_network_selection_title">SIM : pas de service</string>
+    <string name="miui_notification_network_selection_title_by_sim">SIM %s : pas de service</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez vers le bas pour actualiser</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualisation…</string>
@@ -1143,7 +1143,7 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
     <string name="mobile_special_network_optimization_config_title">Optimisation spéciale du réseau</string>
     <string name="mock_location_app">"Sélectionner l'application de position fictive"</string>
     <string name="mock_location_app_not_set">Aucune application de position fictive définie</string>
-    <string name="mock_location_app_set">Application de position fictive: \"%1$s\"</string>
+    <string name="mock_location_app_set">Application de position fictive : \"%1$s\"</string>
     <string name="modem_dialog_body">"Le réseau mobile n'est pas stable provoquant ainsi des interruptions ou des problèmes de réseau. Envoyer un rapport de bogue à Mi pour analyse ? Ce rapport peut contenir des informations personnelles identifiables. Votre rapport sera utilisé pour aider à résoudre ce bogue et ne sera jamais partagé dans un contexte commercial."</string>
     <string name="modem_dialog_title">"Le réseau n'est pas stable"</string>
     <string name="modem_set_title">MODEM SETTING</string>
@@ -1303,6 +1303,7 @@ Le réseau préféré sera utilisé."</string>
     <string name="nr_usaged_used_time">"Durée d'utilisation"</string>
     <string name="number">Numéro</string>
     <string name="numerous_emergency_numbers_title">Emergency numbers</string>
+    <string name="oem_radio_info_label">Infos / paramètres OEM</string>
     <string name="oem_unlock_enable">Déverrouillage OEM</string>
     <string name="oem_unlock_enable_summary">"Autoriser le déverrouillage du chargeur d'amorçage"</string>
     <string name="ok">OK</string>
@@ -1570,9 +1571,9 @@ Votre téléphone sera automatiquement bloqué en cas de nouvel échec"</string>
     <string name="power_discharging_duration">Environ %1$s restants (%2$s)</string>
     <string name="power_discharging_duration_enhanced">Environ %1$s restant en fonction de votre utilisation (%2$s)</string>
     <string name="power_remaining_charging_duration_only">%1$s avant charge complète</string>
-    <string name="power_remaining_duration_only">Temps restant: environ %1$s</string>
-    <string name="power_remaining_duration_only_enhanced">Temps restant en fonction de votre utilisation: environ %1$s</string>
-    <string name="power_remaining_duration_only_short">Temps restant: %1$s</string>
+    <string name="power_remaining_duration_only">Temps restant : environ %1$s</string>
+    <string name="power_remaining_duration_only_enhanced">Temps restant en fonction de votre utilisation : environ %1$s</string>
+    <string name="power_remaining_duration_only_short">Temps restant : %1$s</string>
     <string name="power_remaining_duration_only_shutdown_imminent">"Il est possible que le téléphone s'éteigne bientôt"</string>
     <string name="power_remaining_duration_shutdown_imminent">"Il est possible que le téléphone s'éteigne bientôt (%1$s)"</string>
     <string name="power_remaining_less_than_duration">Il reste moins de %1$s (%2$s)</string>
@@ -1597,44 +1598,44 @@ Votre téléphone sera automatiquement bloqué en cas de nouvel échec"</string>
     <string name="preference_telocation_title">Localisation</string>
     <string name="preferred_network_mode_cdma_evdo_auto_choice">CDMA/EvDo automatique</string>
     <string name="preferred_network_mode_cdma_evdo_gsm_wcdma_choice">CDMA/EvDo/GSM/WCDMA</string>
-    <string name="preferred_network_mode_cdma_evdo_gsm_wcdma_summary">Mode réseau préféré: CDMA/EvDo/GSM/WCDMA</string>
-    <string name="preferred_network_mode_cdma_evdo_summary">Mode réseau préféré: CDMA/EvDo</string>
+    <string name="preferred_network_mode_cdma_evdo_gsm_wcdma_summary">Mode réseau préféré : CDMA/EvDo/GSM/WCDMA</string>
+    <string name="preferred_network_mode_cdma_evdo_summary">Mode réseau préféré : CDMA/EvDo</string>
     <string name="preferred_network_mode_cdma_lte_evdo_choice">CDMA + LTE/EvDo</string>
-    <string name="preferred_network_mode_cdma_only_summary">Mode réseau préféré: WCDMA uniquement</string>
-    <string name="preferred_network_mode_cdma_summary">Mode réseau préféré: CDMA</string>
+    <string name="preferred_network_mode_cdma_only_summary">Mode réseau préféré : WCDMA uniquement</string>
+    <string name="preferred_network_mode_cdma_summary">Mode réseau préféré : CDMA</string>
     <string name="preferred_network_mode_cdma_wo_evdo_choice">CDMA sans EvDo</string>
     <string name="preferred_network_mode_dialogtitle">Type de réseau préféré</string>
     <string name="preferred_network_mode_evdo_only_choice">EvDo uniquement</string>
-    <string name="preferred_network_mode_evdo_only_summary">Mode réseau préféré: EvDo uniquement</string>
+    <string name="preferred_network_mode_evdo_only_summary">Mode réseau préféré : EvDo uniquement</string>
     <string name="preferred_network_mode_global_choice">Général</string>
-    <string name="preferred_network_mode_global_summary">Mode réseau préféré: Global</string>
+    <string name="preferred_network_mode_global_summary">Mode réseau préféré : Global</string>
     <string name="preferred_network_mode_gsm_only_choice">GSM uniquement</string>
-    <string name="preferred_network_mode_gsm_only_summary">Mode réseau préféré: GSM uniquement</string>
+    <string name="preferred_network_mode_gsm_only_summary">Mode réseau préféré : GSM uniquement</string>
     <string name="preferred_network_mode_gsm_wcdma_auto_choice">GSM/WCDMA automatique</string>
     <string name="preferred_network_mode_gsm_wcdma_preferred_choice">GSM/WCDMA de préférence</string>
-    <string name="preferred_network_mode_gsm_wcdma_summary">Mode réseau préféré: GSM/WCDMA</string>
-    <string name="preferred_network_mode_lte_cdma_evdo_summary">Mode réseau préféré: CDMA+LTE/EVDO</string>
-    <string name="preferred_network_mode_lte_cdma_summary">Mode réseau préféré: LTE/WCDMA</string>
-    <string name="preferred_network_mode_lte_gsm_umts_summary">Mode réseau préféré: LTE/GSM/UMTS</string>
-    <string name="preferred_network_mode_lte_gsm_wcdma_summary">Mode réseau préféré: GSM/WCDMA/LTE</string>
-    <string name="preferred_network_mode_lte_summary">Mode réseau préféré: LTE</string>
-    <string name="preferred_network_mode_lte_tdscdma_cdma_evdo_gsm_wcdma_summary">Mode réseau préféré: LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</string>
-    <string name="preferred_network_mode_lte_tdscdma_gsm_summary">Mode réseau préféré: LTE/GSM/TDSCDMA</string>
-    <string name="preferred_network_mode_lte_tdscdma_gsm_wcdma_summary">Mode réseau préféré: LTE/TDSCDMA/GSM/WCDMA</string>
-    <string name="preferred_network_mode_lte_tdscdma_summary">Mode réseau préféré: LTE/TDSCDMA</string>
-    <string name="preferred_network_mode_lte_tdscdma_wcdma_summary">Mode réseau préféré: LTE/TDSCDMA/WCDMA</string>
-    <string name="preferred_network_mode_lte_wcdma_summary">Mode réseau préféré: LTE/WCDMA</string>
+    <string name="preferred_network_mode_gsm_wcdma_summary">Mode réseau préféré : GSM/WCDMA</string>
+    <string name="preferred_network_mode_lte_cdma_evdo_summary">Mode réseau préféré : CDMA+LTE/EVDO</string>
+    <string name="preferred_network_mode_lte_cdma_summary">Mode réseau préféré : LTE/WCDMA</string>
+    <string name="preferred_network_mode_lte_gsm_umts_summary">Mode réseau préféré : LTE/GSM/UMTS</string>
+    <string name="preferred_network_mode_lte_gsm_wcdma_summary">Mode réseau préféré : GSM/WCDMA/LTE</string>
+    <string name="preferred_network_mode_lte_summary">Mode réseau préféré : LTE</string>
+    <string name="preferred_network_mode_lte_tdscdma_cdma_evdo_gsm_wcdma_summary">Mode réseau préféré : LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</string>
+    <string name="preferred_network_mode_lte_tdscdma_gsm_summary">Mode réseau préféré : LTE/GSM/TDSCDMA</string>
+    <string name="preferred_network_mode_lte_tdscdma_gsm_wcdma_summary">Mode réseau préféré : LTE/TDSCDMA/GSM/WCDMA</string>
+    <string name="preferred_network_mode_lte_tdscdma_summary">Mode réseau préféré : LTE/TDSCDMA</string>
+    <string name="preferred_network_mode_lte_tdscdma_wcdma_summary">Mode réseau préféré : LTE/TDSCDMA/WCDMA</string>
+    <string name="preferred_network_mode_lte_wcdma_summary">Mode réseau préféré : LTE/WCDMA</string>
     <string name="preferred_network_mode_summary">Changer le mode de fonctionnement du réseau</string>
     <string name="preferred_network_mode_td_scdma_only_choice">TD-SCDMA uniquement</string>
-    <string name="preferred_network_mode_tdscdma_cdma_evdo_gsm_wcdma_summary">Mode réseau préféré: CDMA/EvDo/GSM/WCDMA</string>
-    <string name="preferred_network_mode_tdscdma_gsm_summary">Mode réseau préféré: TDSCDMA/GSM</string>
-    <string name="preferred_network_mode_tdscdma_gsm_wcdma_summary">Mode réseau préféré: TDSCDMA/GSM/WCDMA</string>
-    <string name="preferred_network_mode_tdscdma_summary">Mode réseau préféré: TDSCDMA</string>
-    <string name="preferred_network_mode_tdscdma_wcdma_summary">Mode réseau préféré: TDSCDMA/WCDMA</string>
+    <string name="preferred_network_mode_tdscdma_cdma_evdo_gsm_wcdma_summary">Mode réseau préféré : CDMA/EvDo/GSM/WCDMA</string>
+    <string name="preferred_network_mode_tdscdma_gsm_summary">Mode réseau préféré : TDSCDMA/GSM</string>
+    <string name="preferred_network_mode_tdscdma_gsm_wcdma_summary">Mode réseau préféré : TDSCDMA/GSM/WCDMA</string>
+    <string name="preferred_network_mode_tdscdma_summary">Mode réseau préféré : TDSCDMA</string>
+    <string name="preferred_network_mode_tdscdma_wcdma_summary">Mode réseau préféré : TDSCDMA/WCDMA</string>
     <string name="preferred_network_mode_title">Type de réseau préféré</string>
     <string name="preferred_network_mode_wcdma_only_choice">WCDMA uniquement</string>
-    <string name="preferred_network_mode_wcdma_only_summary">Mode réseau préféré: WCDMA uniquement</string>
-    <string name="preferred_network_mode_wcdma_perf_summary">Mode réseau préféré: WCDMA de préférence</string>
+    <string name="preferred_network_mode_wcdma_only_summary">Mode réseau préféré : WCDMA uniquement</string>
+    <string name="preferred_network_mode_wcdma_perf_summary">Mode réseau préféré : WCDMA de préférence</string>
     <string name="preferred_network_restrict_network_changed_incall">Vous ne pouvez pas modifier le réseau de téléphonie mobile pendant un appel</string>
     <string name="preferred_network_type_3g_only_warning">Votre carte SIM doit prendre en charge la 3G pour se connecter au réseau.</string>
     <string name="preferred_network_type_pref_entries_3g_preferred">3G préféré</string>
@@ -1688,6 +1689,75 @@ Votre carte SIM sera bloquée en cas de nouvel échec."</string>
     <string name="puk_requested">Mot de passe incorrect. Le code PIN est bloqué. Veuillez saisir la clé PUK.</string>
     <string name="puk_unlocked">Votre carte SIM a été débloquée. Votre téléphone est en cours de déverouillage …</string>
     <string name="quick_dial_setting_title">Composition rapide</string>
+    <string name="radio_info_band_mode_label">Sélectionner une bande radio</string>
+    <string name="radio_info_call_redirect_label">Redirection des appels :</string>
+    <string name="radio_info_call_status_label">"État de l'appel vocal :"</string>
+    <string name="radio_info_cell_info_refresh_rate">"Fréquence d'actualisation des informations cellulaires :"</string>
+    <string name="radio_info_cellinfo_label">Toutes les informations cellulaires liées aux mesures :</string>
+    <string name="radio_info_current_network_label">Réseau actuel :</string>
+    <string name="radio_info_data_connection_disable">Désactiver la connexion des données</string>
+    <string name="radio_info_data_connection_enable">Activer la connexion des données</string>
+    <string name="radio_info_data_network_type_label">Type de réseau de données :</string>
+    <string name="radio_info_dcrtinfo_label">Informations en temps réel sur la connexion de données :</string>
+    <string name="radio_info_dds">SubId de données SIM par défaut :</string>
+    <string name="radio_info_dl_kbps">Bande passante en réception (kbit/s) :</string>
+    <string name="radio_info_gprs_service_label">Service de données :</string>
+    <string name="radio_info_gsm_service_label">Service vocal :</string>
+    <string name="radio_info_http_client_test">Test du client HTTP :</string>
+    <string name="radio_info_imei_label">Numéro IMEI :</string>
+    <string name="radio_info_ims_feature_status_available">Disponible</string>
+    <string name="radio_info_ims_feature_status_unavailable">Indisponible</string>
+    <string name="radio_info_ims_reg_status">"Enregistrement IMS : %1$s
+VoLTE : %2$s
+VoWiFi : %3$s
+Appels vidéo : %4$s
+Interface UT : %5$s"</string>
+    <string name="radio_info_ims_reg_status_not_registered">Non enregistré</string>
+    <string name="radio_info_ims_reg_status_registered">Enregistré</string>
+    <string name="radio_info_ims_reg_status_title">État IMS</string>
+    <string name="radio_info_imsi_label">IMSI :</string>
+    <string name="radio_info_message_waiting_label">Message en attente :</string>
+    <string name="radio_info_neighboring_location_label">Informations sur les téléphones à proximité (obsolètes) :</string>
+    <string name="radio_info_phone_number_label">Numéro de téléphone :</string>
+    <string name="radio_info_phy_chan_config">Configuration de la chaîne physique LTE :</string>
+    <string name="radio_info_ping_hostname_v4">"Pinguer l'IPv4 du nom d'hôte (www.google.com) :"</string>
+    <string name="radio_info_ping_hostname_v6">"Pinguer l'IPv6 du nom d'hôte (www.google.com) :"</string>
+    <string name="radio_info_ppp_received_label">Données reçues :</string>
+    <string name="radio_info_ppp_resets_label">Nombre de réinitialisations PPP depuis le démarrage :</string>
+    <string name="radio_info_ppp_sent_label">Données envoyées :</string>
+    <string name="radio_info_radio_power">Puissance du signal radio</string>
+    <string name="radio_info_roaming_label">Itinérance :</string>
+    <string name="radio_info_set_perferred_label">Définir le type de réseau préféré :</string>
+    <string name="radio_info_signal_location_label">Informations de la géolocalisation mobile (obsolètes) :</string>
+    <string name="radio_info_signal_strength_label">Puissance du signal :</string>
+    <string name="radio_info_smsc_label">SMSC :</string>
+    <string name="radio_info_smsc_refresh_label">Actualiser</string>
+    <string name="radio_info_smsc_update_label">Mettre à jour</string>
+    <string name="radio_info_subid">SubId actuel :</string>
+    <string name="radio_info_toggle_dns_check_label">Activer/Désactiver le contrôle DNS</string>
+    <string name="radio_info_ul_kbps">Bande passante en émission (kbit/s) :</string>
+    <string name="radio_info_voice_network_type_label">Type de réseau vocal :</string>
+    <string name="radioInfo_cid">CID ou IDC</string>
+    <string name="radioInfo_data_connected">Connecté</string>
+    <string name="radioInfo_data_connecting">Connexion</string>
+    <string name="radioInfo_data_disconnected">Déconnecté</string>
+    <string name="radioInfo_data_suspended">Suspendu</string>
+    <string name="radioInfo_display_bytes">octets</string>
+    <string name="radioInfo_display_packets">paquets</string>
+    <string name="radioInfo_menu_getIMS">État du service IMS</string>
+    <string name="radioInfo_menu_viewADN">"Afficher le carnet d'adresses de la carte SIM"</string>
+    <string name="radioInfo_menu_viewFDN">Afficher les numéros autorisés</string>
+    <string name="radioInfo_menu_viewSDN">Afficher les numéros de service</string>
+    <string name="radioInfo_phone_idle">Inactif</string>
+    <string name="radioInfo_phone_offhook">Appel en cours</string>
+    <string name="radioInfo_phone_ringing">Sonnerie</string>
+    <string name="radioInfo_roaming_in">En itinérance</string>
+    <string name="radioInfo_roaming_not">"Pas d'itinérance"</string>
+    <string name="radioInfo_service_emergency">"Appels d'urgence uniquement"</string>
+    <string name="radioInfo_service_in">En service</string>
+    <string name="radioInfo_service_off">Signal radio désactivé</string>
+    <string name="radioInfo_service_out">Hors service</string>
+    <string name="radioInfo_unknown">Inconnu</string>
     <string name="radio_off_during_emergency_call">"Impossible d'activer le mode avion pendant un appel d'urgence."</string>
     <string name="radio_off_error">"Activez le signal radio avant d'afficher ces paramètres."</string>
     <string name="reading_settings">Lecture des paramètres…</string>
@@ -1698,7 +1768,7 @@ Votre carte SIM sera bloquée en cas de nouvel échec."</string>
     <string name="registration_done">Enregistré sur le réseau.</string>
     <string name="registration_status_checking_status">"Vérification de l'état…"</string>
     <string name="registration_status_done">Cet appareil peut recevoir des appels.</string>
-    <string name="registration_status_failed_try_later">"Impossible d'enregistrer le compte: %s. Une autre tentative sera faite plus tard."</string>
+    <string name="registration_status_failed_try_later">"Impossible d'enregistrer le compte : %s. Une autre tentative sera faite plus tard."</string>
     <string name="registration_status_invalid_credentials">"Impossible d'enregistrer le compte. Identifiant ou mot de passe incorrect."</string>
     <string name="registration_status_no_data">"Impossible d'enregistrer le compte. Cet appareil n'est pas connecté à internet."</string>
     <string name="registration_status_no_wifi_data">"Impossible d'enregistrer le compte. Cet appareil n'est pas connecté au Wi-Fi."</string>
@@ -1765,11 +1835,11 @@ Votre carte SIM sera bloquée en cas de nouvel échec."</string>
      &lt;br> - Le mode texte en temps réel n'est pas disponible pour les appels vidéo"</string>
     <string name="rtt_mode_summary">"Autoriser l'échange de messages pendant les appels vocaux"</string>
     <string name="rtt_mode_title">Appel texte en temps réel</string>
-    <string name="running_process_item_user_label">Utilisateur: %1$s</string>
+    <string name="running_process_item_user_label">Utilisateur : %1$s</string>
     <string name="runningservices_settings_summary">"Afficher et contrôler les services en cours d'exécution"</string>
     <string name="runningservices_settings_title">"Services en cours d'exécution"</string>
     <string name="save">Enregistrer</string>
-    <string name="saved_network">Enregistré lors de: %1$s</string>
+    <string name="saved_network">Enregistré lors de : %1$s</string>
     <string name="saving_account">Enregistrement du compte…</string>
     <string name="screen_zoom_summary_custom">Personnalisé (%d)</string>
     <string name="screen_zoom_summary_default">Par défaut</string>
@@ -1912,7 +1982,7 @@ Votre carte SIM sera bloquée en cas de nouvel échec."</string>
     <string name="sports_news_settings">Actualités sportives</string>
     <string name="srvcc_message">"L'appel vocal 4G est déclassé en appel vocal 2G/3G car le réseau 4G n'est pas disponible."</string>
     <string name="srvcc_video_message">"L'appel vidéo est déclassé en appel vocal 2G/3G car le réseau 4G n'est pas disponible."</string>
-    <string name="standby_bucket_summary">"État de mise en veille de l'application: %s"</string>
+    <string name="standby_bucket_summary">"État de mise en veille de l'application : %s"</string>
     <string name="status_hint_label_incoming_wifi_call">Appel Wi-Fi de</string>
     <string name="status_hint_label_wifi_call">Appel Wi-Fi</string>
     <string name="status_unavailable">Indisponible</string>
@@ -2148,7 +2218,7 @@ Cette tablette ne possède pas d'écouteur. Vous pouvez passer en mode Mains lib
     <string name="voice_service_warning_dialog_ok_timer">"C'est compris (%d)"</string>
     <string name="voice_service_warning_dialog_title">Appels VoLTE</string>
     <string name="voicemail">Boite vocale</string>
-    <string name="voicemail_abbreviated">MV:</string>
+    <string name="voicemail_abbreviated">MV :</string>
     <string name="voicemail_change_pin_dialog_title">Changer de code PIN</string>
     <string name="voicemail_default">Votre opérateur</string>
     <string name="voicemail_notification_vibrate_when_title">Vibrer</string>
@@ -2205,7 +2275,7 @@ Les appels d’urgence ne sont possibles que dans les zones couvertes par une co
     <string name="wapi_password_is_not_hex_format">Caractères hexadécimaux non valides</string>
     <string name="wapi_password_length_is_max">Le mot de passe ne peut pas dépasser 64 caractères</string>
     <string name="wapi_password_length_is_min">Le mot de passe ne peut pas comporter moins de 8 caractères</string>
-    <string name="wapi_password_length_is_min_to_max">"Le mot de passe doit l'être: 8-64 caractères"</string>
+    <string name="wapi_password_length_is_min_to_max">Le mot de passe doit être de 8-64 caractères</string>
     <string name="wapi_yes">oui</string>
     <string name="wfcmode_ims_preferred">Privilégier IMS</string>
     <string name="wfcmode_mobile_preferred">Réseaux mobiles</string>

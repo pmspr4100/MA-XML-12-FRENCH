@@ -3,11 +3,11 @@
   <string name="accept">Accepter</string>
   <string name="accessibility_binding_label">Accessibilité</string>
   <string name="accessibility_button_instructional_text">"Pour changer des fonctionnalités, appuyez de manière prolongée sur le bouton d'accessibilité."</string>
-  <string name="accessibility_button_prompt_text">"Choisissez une fonctionnalité à utiliser lorsque vous appuyez sur le bouton d'accessibilité:"</string>
+  <string name="accessibility_button_prompt_text">"Choisissez une fonctionnalité à utiliser lorsque vous appuyez sur le bouton d'accessibilité :"</string>
   <string name="accessibility_gesture_3finger_instructional_text">"Pour passer d'un service à l'autre, faites glisser trois doigts vers le haut et maintenez-les enfoncés."</string>
-  <string name="accessibility_gesture_3finger_prompt_text">"Choisissez un service à utiliser avec le geste d'accessibilité (glisser vers le haut à partir du bas de l'écran avec trois doigts):"</string>
+  <string name="accessibility_gesture_3finger_prompt_text">"Choisissez un service à utiliser avec le geste d'accessibilité (glisser vers le haut à partir du bas de l'écran avec trois doigts) :"</string>
   <string name="accessibility_gesture_instructional_text">"Pour passer d'un service à l'autre, faites glisser deux doigts vers le haut et maintenez-les enfoncés."</string>
-  <string name="accessibility_gesture_prompt_text">"Choisissez un service à utiliser avec le geste d'accessibilité (glisser vers le haut à partir du bas de l'écran avec deux doigts):"</string>
+  <string name="accessibility_gesture_prompt_text">"Choisissez un service à utiliser avec le geste d'accessibilité (glisser vers le haut à partir du bas de l'écran avec deux doigts) :"</string>
   <string name="accessibility_magnification_chooser_text">Agrandissement</string>
   <string name="accessibility_shortcut_disabling_service">"Le raccourci d'accessibilité a désactivé %1$s"</string>
   <string name="accessibility_shortcut_enabling_service">"Le raccourci d'accessibilité a activé %1$s"</string>
@@ -192,10 +192,10 @@
   <string name="chooseUsbActivity">Sélectionnez une application pour le périphérique de stockage USB</string>
   <string name="clearDefaultHintMsg">Pour supprimer les valeurs par défaut, accédez à Paramètres système > Applications > Téléchargements.</string>
   <string name="ClipMmi">"Numéro de l'appelant (entrant)"</string>
-  <string name="CLIRDefaultOffNextCallOff">Par défaut, les numéros des appelants ne sont pas restreints. Appel suivant: non restreint</string>
-  <string name="CLIRDefaultOffNextCallOn">Par défaut, les numéros des appelants ne sont pas restreints. Appel suivant: restreint</string>
-  <string name="CLIRDefaultOnNextCallOff">Par défaut, les numéros des appelants ne sont pas restreints. Appel suivant: non restreint</string>
-  <string name="CLIRDefaultOnNextCallOn">Par défaut, les numéros des appelants ne sont pas restreints. Appel suivant: restreint</string>
+  <string name="CLIRDefaultOffNextCallOff">Par défaut, les numéros des appelants ne sont pas restreints. Appel suivant : non restreint</string>
+  <string name="CLIRDefaultOffNextCallOn">Par défaut, les numéros des appelants ne sont pas restreints. Appel suivant : restreint</string>
+  <string name="CLIRDefaultOnNextCallOff">Par défaut, les numéros des appelants ne sont pas restreints. Appel suivant : non restreint</string>
+  <string name="CLIRDefaultOnNextCallOn">Par défaut, les numéros des appelants ne sont pas restreints. Appel suivant : restreint</string>
   <string name="ClirMmi">"Numéro de l'appelant (sortant)"</string>
   <string name="CLIRPermanent">"Impossible de modifier le paramètre relatif au numéro de l'appelant."</string>
   <string name="close_button_text">Fermer</string>
@@ -206,14 +206,14 @@
   <string name="color_inversion_feature_name">Inversion des couleurs</string>
   <string name="ColpMmi">Identifiant de la ligne connectée</string>
   <string name="ColrMmi">"Restriction d'identifiant de la ligne connectée"</string>
-  <string name="common_name">Nom commun:</string>
+  <string name="common_name">Nom commun :</string>
   <string name="condition_provider_service_binding_label">Fournisseur de conditions</string>
   <string name="conference_call">Conférence téléphonique</string>
   <string name="confirm_battery_saver">OK</string>
   <string name="content_description_sliding_handle">Poignée coulissante. Appuyez de manière prolongée.</string>
   <string name="contentServiceSync">Synchroniser</string>
   <string name="contentServiceSyncNotificationTitle">Synchronisation impossible</string>
-  <string name="contentServiceTooManyDeletesNotificationDesc">Vous avez dépassé le nombre limite de tentatives de suppression de ce type de contenu: %s.</string>
+  <string name="contentServiceTooManyDeletesNotificationDesc">Vous avez dépassé le nombre limite de tentatives de suppression de ce type de contenu : %s.</string>
   <string name="copied">Copié</string>
   <string name="copy">Copier</string>
   <string name="copyUrl">"Copier l'URL"</string>
@@ -291,13 +291,13 @@ en utilisant %s"</string>
   <string name="dlg_ok">OK</string>
   <string name="DndMmi">Ne pas déranger</string>
   <string name="done_label">OK</string>
-  <string name="double_tap_toast">Conseil: Appuyez deux fois pour faire un zoom avant ou arrière.</string>
+  <string name="double_tap_toast">Conseil : Appuyez deux fois pour faire un zoom avant ou arrière.</string>
   <string name="dump_heap_notification">Le processus \"%1$s\" a dépassé la limite de mémoire</string>
   <string name="dump_heap_notification_detail">Une empreinte de la mémoire a bien été générée. Appuyez pour partager.</string>
   <string name="dump_heap_ready_notification">%1$s tas de processus prêt</string>
-  <string name="dump_heap_ready_text">Un tas de processus de %1$s est disponible pour que vous puissiez le partager. Attention: ce tas peut contenir des informations personnelles sensibles auxquelles le processus a accès, ce qui peut inclure des choses que vous avez tapées.</string>
-  <string name="dump_heap_system_text">Le processus %1$s a dépassé sa limite de mémoire de %2$s. Un dump de tas est disponible pour que vous puissiez le partager. Attention: ce tas peut contenir toute information personnelle sensible à laquelle le processus a accès, ce qui peut inclure des choses que vous avez tapées.</string>
-  <string name="dump_heap_text">"Le processus \"%1$s\" a dépassé sa limite de mémoire fixée à %2$s. Une empreinte de la mémoire est disponible pour que vous la communiquiez à son développeur. Attention: celle-ci peut contenir des informations personnelles auxquelles l'application a accès."</string>
+  <string name="dump_heap_ready_text">Un tas de processus de %1$s est disponible pour que vous puissiez le partager. Attention : ce tas peut contenir des informations personnelles sensibles auxquelles le processus a accès, ce qui peut inclure des choses que vous avez tapées.</string>
+  <string name="dump_heap_system_text">Le processus %1$s a dépassé sa limite de mémoire de %2$s. Un dump de tas est disponible pour que vous puissiez le partager. Attention : ce tas peut contenir toute information personnelle sensible à laquelle le processus a accès, ce qui peut inclure des choses que vous avez tapées.</string>
+  <string name="dump_heap_text">"Le processus \"%1$s\" a dépassé sa limite de mémoire fixée à %2$s. Une empreinte de la mémoire est disponible pour que vous la communiquiez à son développeur. Attention : celle-ci peut contenir des informations personnelles auxquelles l'application a accès."</string>
   <string name="dump_heap_title">"Partager l'empreinte de la mémoire ?"</string>
   <string name="dynamic_mode_notification_channel_name">"Avis d'information en mode de routine"</string>
   <string name="dynamic_mode_notification_summary">Économiseur de batterie activé pour prolonger la durée de vie de la batterie</string>
@@ -331,7 +331,7 @@ en utilisant %s"</string>
   <string name="expand_action_accessibility">activer/désactiver le développement</string>
   <string name="expand_button_content_description_collapsed">Développer</string>
   <string name="expand_button_content_description_expanded">Réduire</string>
-  <string name="expires_on">"Date d'expiration:"</string>
+  <string name="expires_on">"Date d'expiration :"</string>
   <string name="ext_media_badremoval_notification_message">Éjectez le périphérique externe avant de le retirer pour éviter toute perte de contenu</string>
   <string name="ext_media_badremoval_notification_title">Retrait inattendu de mémoire \"%s\"</string>
   <string name="ext_media_browse_action">Parcourir</string>
@@ -343,11 +343,11 @@ en utilisant %s"</string>
   <string name="ext_media_move_failure_message">Nouvelle tentative de déplacement du contenu</string>
   <string name="ext_media_move_failure_title">Impossible de déplacer le contenu</string>
   <string name="ext_media_move_specific_title">"Transfert de l'application %s"</string>
-  <string name="ext_media_move_success_message">Contenu déplacé vers: %s</string>
+  <string name="ext_media_move_success_message">Contenu déplacé vers : %s</string>
   <string name="ext_media_move_success_title">Le contenu a bien été déplacé</string>
   <string name="ext_media_move_title">Déplacement des données en cours</string>
   <string name="ext_media_new_notification_message">Appuyer pour configurer</string>
-  <string name="ext_media_new_notification_title">Nouveau périphérique: %s</string>
+  <string name="ext_media_new_notification_title">Nouveau périphérique : %s</string>
   <string name="ext_media_nomedia_notification_message">"Certaines fonctionnalités risquent de ne pas s'exécuter correctement. Insérez un nouveau périphérique de stockage externe."</string>
   <string name="ext_media_nomedia_notification_title">%s supprimé</string>
   <string name="ext_media_ready_notification_message">Pour transférer photos et fichiers</string>
@@ -365,7 +365,7 @@ en utilisant %s"</string>
   <string name="ext_media_status_unsupported">Non compatible</string>
   <string name="ext_media_unmount_action">Éjecter</string>
   <string name="ext_media_unmountable_notification_message">Appuyez sur la notification pour résoudre le problème</string>
-  <string name="ext_media_unmountable_notification_title">Problème avec: %s</string>
+  <string name="ext_media_unmountable_notification_title">Problème avec : %s</string>
   <string name="ext_media_unmounting_notification_message">Ne retirez pas le périphérique</string>
   <string name="ext_media_unmounting_notification_title">Éjection de \"%s\"</string>
   <string name="ext_media_unsupported_notification_message">"Cet appareil n'est pas compatible avec la mémoire de stockage \"%s\". Appuyez ici pour le configurer dans un format accepté."</string>
@@ -443,7 +443,7 @@ Si vous avez des questions, contactez l'administrateur de votre organisation."</
   <string name="fingerprint_icon_content_description">"Icône d'empreinte digitale"</string>
   <string name="fingerprint_name_template">Doigt %d</string>
   <string name="fingerprint_not_recognized">Non reconnu</string>
-  <string name="fingerprints">Empreintes:</string>
+  <string name="fingerprints">Empreintes :</string>
   <string name="floating_toolbar_close_overflow_description">"Fermer la barre d'outils en superposition"</string>
   <string name="floating_toolbar_open_overflow_description">"Plus d'options"</string>
   <string name="force_close">OK</string>
@@ -525,7 +525,7 @@ Si vous avez des questions, contactez l'administrateur de votre organisation."</
   <string name="ime_action_previous">Préc.</string>
   <string name="ime_action_search">Rechercher</string>
   <string name="ime_action_send">Envoyer</string>
-  <string name="imei">Code IMEI</string>
+  <string name="imei">Numéro IMEI</string>
   <string name="immersive_cling_description">"Pour quitter, balayez l'écran du haut vers le bas."</string>
   <string name="immersive_cling_positive">OK</string>
   <string name="immersive_cling_title">Affichage en plein écran</string>
@@ -544,16 +544,16 @@ Si vous avez des questions, contactez l'administrateur de votre organisation."</
   <string name="install_carrier_app_notification_title">Activer le service de données mobiles</string>
   <string name="invalidPin">Le code PIN doit compter de 4 à 8 chiffres.</string>
   <string name="invalidPuk">Saisissez un code PUK comportant au moins huit chiffres.</string>
-  <string name="issued_by">Émis par:</string>
-  <string name="issued_on">"Date d'émission:"</string>
-  <string name="issued_to">Délivré à:</string>
+  <string name="issued_by">Émis par :</string>
+  <string name="issued_on">"Date d'émission :"</string>
+  <string name="issued_to">Délivré à :</string>
   <string name="js_dialog_before_unload">"%s
 
 Voulez-vous vraiment quitter cette page ?"</string>
   <string name="js_dialog_before_unload_negative_button">Rester sur cette page</string>
   <string name="js_dialog_before_unload_positive_button">Quitter cette page</string>
   <string name="js_dialog_before_unload_title">Quitter la page</string>
-  <string name="js_dialog_title">La page \"%s\" indique:</string>
+  <string name="js_dialog_title">La page \"%s\" indique :</string>
   <string name="js_dialog_title_default">JavaScript</string>
   <string name="keyboardview_keycode_alt">Alt</string>
   <string name="keyboardview_keycode_cancel">Annuler</string>
@@ -643,7 +643,7 @@ Veuillez réessayer dans %2$d secondes."</string>
   <string name="language_picker_section_suggested">Recommandations</string>
   <string name="language_selection_title">Ajouter une langue</string>
   <string name="last_month">Le mois dernier</string>
-  <string name="launch_warning_original">Application lancée initialement: %1$s.</string>
+  <string name="launch_warning_original">Application lancée initialement : %1$s.</string>
   <string name="launch_warning_replace">%1$s est maintenant lancée.</string>
   <string name="launch_warning_title">Application redirigée</string>
   <string name="launchBrowserDefault">Lancer le navigateur ?</string>
@@ -821,9 +821,9 @@ Veuillez réessayer dans %2$d secondes."</string>
   <string name="network_logging_notification_title">"L'appareil est géré"</string>
   <string name="network_partial_connectivity">%1$s a une connectivité limitée</string>
   <string name="network_partial_connectivity_detailed">Tapez sur pour vous connecter quand même</string>
-  <string name="network_switch_metered">Nouveau réseau: %1$s</string>
+  <string name="network_switch_metered">Nouveau réseau : %1$s</string>
   <string name="network_switch_metered_detail">"L'appareil utilise %1$s lorsque %2$s n'a pas de connexion internet. Des frais peuvent s'appliquer."</string>
-  <string name="network_switch_metered_toast">Ancien réseau: %1$s. Nouveau réseau: %2$s</string>
+  <string name="network_switch_metered_toast">Ancien réseau : %1$s. Nouveau réseau : %2$s</string>
   <string name="network_switch_type_name_unknown">type de réseau inconnu</string>
   <string name="NetworkPreferenceSwitchSummary">Essayez de changer le réseau préféré. Appuyez pour le modifier.</string>
   <string name="NetworkPreferenceSwitchTitle">"Impossible d'accéder au réseau mobile"</string>
@@ -889,8 +889,8 @@ Veuillez réessayer dans %2$d secondes."</string>
   <string name="older">Préc.</string>
   <string name="oneMonthDurationPast">Il y a 1 mois</string>
   <string name="open_permission_deny">"Vous n'êtes pas autorisé à ouvrir cette page."</string>
-  <string name="org_name">Organisation:</string>
-  <string name="org_unit">Unité organisationnelle:</string>
+  <string name="org_name">Organisation :</string>
+  <string name="org_unit">Unité organisationnelle :</string>
   <string name="orgTypeCustom">Personnalisé</string>
   <string name="orgTypeOther">Autre</string>
   <string name="orgTypeWork">Bureau</string>
@@ -901,10 +901,10 @@ Veuillez réessayer dans %2$d secondes."</string>
   <string name="passwordIncorrect">Le mot de passe est incorrect.</string>
   <string name="paste">Coller</string>
   <string name="paste_as_plain_text">Coller au format texte brut</string>
-  <string name="peerTtyModeFull">"Mode TTY demandé par l'interlocuteur: COMPLET"</string>
-  <string name="peerTtyModeHco">"Mode TTY demandé par l'interlocuteur: HCO"</string>
-  <string name="peerTtyModeOff">"Mode TTY demandé par l'interlocuteur: DÉSACTIVÉ"</string>
-  <string name="peerTtyModeVco">"Mode TTY demandé par l'interlocuteur: VCO"</string>
+  <string name="peerTtyModeFull">"Mode TTY demandé par l'interlocuteur : COMPLET"</string>
+  <string name="peerTtyModeHco">"Mode TTY demandé par l'interlocuteur : HCO"</string>
+  <string name="peerTtyModeOff">"Mode TTY demandé par l'interlocuteur : DÉSACTIVÉ"</string>
+  <string name="peerTtyModeVco">"Mode TTY demandé par l'interlocuteur : VCO"</string>
   <string name="perm_costs_money">Cela peut engendrer des frais</string>
   <string name="permdesc_acceptHandovers">"Autorise l'application à continuer un appel qui a été démarré dans une autre application."</string>
   <string name="permdesc_access_notification_policy">"Permet à l'application de consulter et de modifier la configuration du mode Ne pas déranger."</string>
@@ -1093,7 +1093,7 @@ pour le compte \"%s\""</string>
   <string name="permlab_bindNotificationListenerService">"S'associer à l'interface de niveau supérieur d'un service d'écoute des notifications"</string>
   <string name="permlab_bluetooth">Associer à appareils Bluetooth</string>
   <string name="permlab_bluetoothAdmin">Accéder aux paramètres Bluetooth</string>
-  <string name="permlab_bodySensors">Accéder capteurs corp. (ex: cardiofréquencemètres)</string>
+  <string name="permlab_bodySensors">Accéder capteurs corp. (ex : cardiofréquencemètres)</string>
   <string name="permlab_broadcastSticky">"Envoi d'une diffusion persistante"</string>
   <string name="permlab_callCompanionApp">Voir et contrôler les appels par le biais du système.</string>
   <string name="permlab_callPhone">Appeler directement les numéros de téléphone</string>
@@ -1359,7 +1359,7 @@ L'écoute prolongée à un volume élevé peut endommager vos facultés auditive
   <string name="selectTextMode">Sélectionner texte</string>
   <string name="sending">Envoi en cours…</string>
   <string name="sendText">Sélectionner une action pour le texte</string>
-  <string name="serial_number">Numéro de série:</string>
+  <string name="serial_number">Numéro de série :</string>
   <string name="serviceClassData">Données</string>
   <string name="serviceClassDataAsync">Asynchrones</string>
   <string name="serviceClassDataSync">Synchrones</string>
@@ -1370,14 +1370,14 @@ L'écoute prolongée à un volume élevé peut endommager vos facultés auditive
   <string name="serviceClassVoice">Voix</string>
   <string name="serviceDisabled">Ce service a été désactivé.</string>
   <string name="serviceEnabled">Le service a été activé.</string>
-  <string name="serviceEnabledFor">Ce service a été activé pour:</string>
+  <string name="serviceEnabledFor">Ce service a été activé pour :</string>
   <string name="serviceErased">Effacement réussi.</string>
   <string name="serviceNotProvisioned">"Ce service n'est pas pris en charge."</string>
   <string name="serviceRegistered">Enregistrement réussi.</string>
   <string name="setup_autofill">Conf. saisie auto</string>
   <string name="SetupCallDefault">"Prendre l'appel ?"</string>
-  <string name="sha1_fingerprint">Empreinte SHA-1:</string>
-  <string name="sha256_fingerprint">Empreinte SHA-256:</string>
+  <string name="sha1_fingerprint">Empreinte SHA-1 :</string>
+  <string name="sha256_fingerprint">Empreinte SHA-256 :</string>
   <string name="share">Partager</string>
   <string name="share_action_provider_share_with">Partager avec</string>
   <string name="share_remote_bugreport_action">PARTAGER</string>
@@ -1419,17 +1419,16 @@ L'écoute prolongée à un volume élevé peut endommager vos facultés auditive
   <string name="sms_control_yes">Autoriser</string>
   <string name="sms_desc">Envoyer un message au numéro de téléphone sélectionné</string>
   <string name="sms_premium_short_code_details">
-    &lt;b>Ceci entraînera des frais sur votre compte de téléphonie mobile.&lt;/b>
-  </string>
+    &lt;b>Ceci entraînera des frais supplémentaires sur votre facture mobile.&lt;/b></string>
   <string name="sms_short_code_confirm_allow">Envoyer</string>
   <string name="sms_short_code_confirm_always_allow">Toujours autoriser</string>
   <string name="sms_short_code_confirm_deny">Annuler</string>
   <string name="sms_short_code_confirm_message">&lt;b>%1$s&lt;/b> souhaite envoyer un message à &lt;b>%2$s&lt;/b>.</string>
   <string name="sms_short_code_confirm_never_allow">Ne jamais autoriser</string>
   <string name="sms_short_code_details">
-    &lt;b>peut entraîner des frais&lt;/b> sur votre compte de téléphonie mobile.Ceci </string>
+    &lt;b>Ceci peut entraîner des frais supplémentaires&lt;/b> sur votre facture mobile.</string>
   <string name="sms_short_code_remember_choice">Mémoriser mon choix</string>
-  <string name="sms_short_code_remember_undo_instruction">Pour modifier: Paramètres > Applications</string>
+  <string name="sms_short_code_remember_undo_instruction">Pour modifier : Paramètres > Applications</string>
   <string name="smv_application">"L'application %1$s (du processus %2$s) a enfreint ses propres règles du mode strict."</string>
   <string name="smv_process">Le processus %1$s a enfreint ses propres règles du mode strict.</string>
   <string name="ssl_ca_cert_noti_by_administrator">"Par l'administrateur de votre profil professionnel"</string>
@@ -1530,7 +1529,7 @@ L'écoute prolongée à un volume élevé peut endommager vos facultés auditive
   <string name="usb_notification_message">"Appuyez ici pour plus d'options."</string>
   <string name="usb_power_notification_message">"Rechargement de l'appareil connecté. Appuyez ici pour plus d'options."</string>
   <string name="usb_ptp_notification_title">PTP via USB est activé</string>
-  <string name="usb_storage_activity_title">USB de stockage de masse</string>
+  <string name="usb_storage_activity_title">Stockage de masse USB</string>
   <string name="usb_storage_button_mount">Activer le stockage USB</string>
   <string name="usb_storage_error_message">"Il y a un problème lors de l'utilisation de votre carte SD pour le stockage de masse USB."</string>
   <string name="usb_storage_message">"Vous vous êtes connecté à votre ordinateur via USB. Appuyez sur le bouton ci-dessous si vous souhaitez copier des fichiers entre votre ordinateur et la carte SD de votre Android."</string>
@@ -1555,9 +1554,9 @@ L'écoute prolongée à un volume élevé peut endommager vos facultés auditive
   <string name="user_encrypted_title">Des fonctionnalités peuvent être limitées</string>
   <string name="user_logging_out_message">Déconnexion de %1$s…</string>
   <string name="user_owner_label">Passer au profil personnel</string>
-  <string name="user_switched">Utilisateur actuel: %1$s</string>
+  <string name="user_switched">Utilisateur actuel : %1$s</string>
   <string name="user_switching_message">Chargement du profil de %1$s…</string>
-  <string name="validity_period">Validité:</string>
+  <string name="validity_period">Validité :</string>
   <string name="VideoView_error_button">OK</string>
   <string name="VideoView_error_text_invalid_progressive_playback">Impossible de lire cette vidéo en streaming sur cet appareil.</string>
   <string name="VideoView_error_text_unknown">Impossible de lire la vidéo.</string>
@@ -1671,14 +1670,14 @@ If you continue, %1$s will change your privacy setting and try to connect again.
   <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
   <string name="wifi_p2p_enabled_notification_message">Appuyez ici pour accéder aux paramètres.</string>
   <string name="wifi_p2p_enabled_notification_title">Wi-Fi Direct activé</string>
-  <string name="wifi_p2p_enter_pin_message">Saisissez le code PIN requis:</string>
+  <string name="wifi_p2p_enter_pin_message">Saisissez le code PIN requis :</string>
   <string name="wifi_p2p_failed_message">"Impossible d'activer le Wi-Fi Direct."</string>
   <string name="wifi_p2p_frequency_conflict_message">"Le téléphone sera déconnecté du réseau Wi-Fi tant qu'il sera connecté à l'appareil %1$s."</string>
-  <string name="wifi_p2p_from_message">De:</string>
+  <string name="wifi_p2p_from_message">De :</string>
   <string name="wifi_p2p_invitation_sent_title">Invitation envoyée</string>
   <string name="wifi_p2p_invitation_to_connect_title">Invitation à se connecter</string>
-  <string name="wifi_p2p_show_pin_message">Code PIN:</string>
-  <string name="wifi_p2p_to_message">À:</string>
+  <string name="wifi_p2p_show_pin_message">Code PIN :</string>
+  <string name="wifi_p2p_to_message">À :</string>
   <string name="wifi_p2p_turnon_message">"Lancer le Wi-Fi Direct. Cela désactive le fonctionnement du Wi-Fi client ou via un point d'accès."</string>
   <string name="wifi_softap_config_change">Modifications des paramètres de votre hotspot</string>
   <string name="wifi_softap_config_change_detailed">Cet appareil ne supporte pas votre préférence pour 5GHz seulement. Au lieu de cela, cet appareil utilisera la bande 5GHz quand elle est disponible.</string>
@@ -1687,7 +1686,7 @@ If you continue, %1$s will change your privacy setting and try to connect again.
   <string name="wifi_suggestion_action_disallow_app">Non merci</string>
   <string name="wifi_suggestion_content">"%s réseaux suggérés. L'appareil peut se connecter automatiquement."</string>
   <string name="wifi_suggestion_title">Autoriser les réseaux Wi-Fi suggérés ?</string>
-  <string name="wifi_wakeup_enabled_content">"Vous vous trouvez à proximité d'un réseau enregistré: %1$s"</string>
+  <string name="wifi_wakeup_enabled_content">"Vous vous trouvez à proximité d'un réseau enregistré : %1$s"</string>
   <string name="wifi_wakeup_enabled_title">Wi-Fi activé automatiquement</string>
   <string name="wifi_wakeup_onboarding_action_disable">Ne pas réactiver</string>
   <string name="wifi_wakeup_onboarding_subtext">"Lorsque vous êtes à proximité d'un réseau enregistré de haute qualité"</string>
@@ -1720,5 +1719,5 @@ If you continue, %1$s will change your privacy setting and try to connect again.
   <string name="zen_upgrade_notification_content">Appuyez pour vérifier les contenus bloqués.</string>
   <string name="zen_upgrade_notification_title">Le mode Ne pas déranger a été modifié</string>
   <string name="zen_upgrade_notification_visd_content">Appuyez pour en savoir plus et pour modifier les paramètres.</string>
-  <string name="zen_upgrade_notification_visd_title">Nouveau: Le mode Ne pas déranger masque les notifications</string>
+  <string name="zen_upgrade_notification_visd_title">Nouveau : Le mode Ne pas déranger masque les notifications</string>
 </resources>
