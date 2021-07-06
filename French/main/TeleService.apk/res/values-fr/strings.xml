@@ -1729,7 +1729,7 @@ Interface UT : %5$s"</string>
     <string name="radio_info_roaming_label">Itinérance :</string>
     <string name="radio_info_set_perferred_label">Définir le type de réseau préféré :</string>
     <string name="radio_info_signal_location_label">Informations de la géolocalisation mobile (obsolètes) :</string>
-    <string name="radio_info_signal_strength_label">Puissance du signal :</string>
+    <string name="radio_info_signal_strength_label">Intensité du signal :</string>
     <string name="radio_info_smsc_label">SMSC :</string>
     <string name="radio_info_smsc_refresh_label">Actualiser</string>
     <string name="radio_info_smsc_update_label">Mettre à jour</string>
@@ -2284,7 +2284,7 @@ Les appels d’urgence ne sont possibles que dans les zones couvertes par une co
     <string name="wifi_ap_unable_to_handle_new_sta">"Point d'accès temporairement saturé"</string>
     <string name="wifi_auto_sel_wapi_cert">Sélectionnez automatiquement</string>
     <string name="wifi_call_accept">Suivant</string>
-    <string name="wifi_call_available_message">"Vous pouvez maintenant passer des appels en utilisant le Wi-Fi. Si vous êtes connecté à un réseau Wi-Fi, vous pourrez parler même lorsque vous vous trouvez dans des zones sans couverture de réseau mobile."</string>
+    <string name="wifi_call_available_message">Vous pouvez maintenant passer des appels via une connexion Wi-Fi. Si votre appareil est connecté à un réseau Wi-Fi, vous pourrez alors émettre et recevoir des appels même lorsque vous vous trouvez dans une zone sans couverture de réseau mobile.</string>
     <string name="wifi_call_available_message_for_ATT_MX">Vous êtes sur le point de vous connecter à un réseau Wi-Fi, la qualité des appels peut varier en fonction du réseau.</string>
     <string name="wifi_call_available_title">Activer les appels Wi-Fi</string>
     <string name="wifi_call_cancel">"Plus d'informations"</string>
@@ -2338,6 +2338,12 @@ Si vous choisissez de préférer les réseaux mobiles, ils seront utilisés par 
     <string name="wifi_scan_throttling_summary">Réduit la consommation de la batterie et améliore les performances du réseau</string>
     <string name="wifi_security_none">Aucune</string>
     <string name="wifi_security_wapi_psk_hexadecimal">Hexadécimal</string>
+    <string name="wifi_security_psk_sae">WPA2/WPA3 Personnel</string>
+    <string name="wifi_security_sae">WPA3 Personnel</string>
+    <string name="wifi_security_wpa">WPA Personnel</string>
+    <string name="wifi_security_wpa_wpa2">WPA/WPA2 Personnel</string>
+    <string name="wifi_security_wpa_wpa2_wpa3">WPA/WPA2/WPA3 Personnel</string>
+    <string name="wifi_security_wpa2">WPA2 Personnel</string>
     <string name="wifi_ssid_is_empty">Le champ SSID ne peut pas être laissé vide</string>
     <string name="wifi_ssid_length_is_max">SSID ne peut pas dépasser 32 caractères</string>
     <string name="wifi_status_mac_randomized">La sélection des adresses MAC est aléatoire</string>

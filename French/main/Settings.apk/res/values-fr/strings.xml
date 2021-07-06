@@ -8884,7 +8884,7 @@ Merci de prendre connaissance de la politique de données personnells de votre f
   <string name="wifi_priority_settings_title">"Paramètres de priorité des points d'accès"</string>
   <string name="wifi_priority_type_summary">"Permettre de définir la priorité pour chaque point d'accès manuellement"</string>
   <string name="wifi_priority_type_title">"Définir la priorité des points d'accès manuellement"</string>
-  <string name="wifi_privacy_settings">Privé</string>
+  <string name="wifi_privacy_settings">Confidentialité</string>
   <string name="wifi_privacy_settings_ephemeral_summary">MAC aléatoire</string>
   <string name="wifi_property">Propriété Wi-Fi</string>
   <string name="wifi_protection_on">Activé</string>
@@ -8920,6 +8920,12 @@ Allow this for all apps that want to scan?"</string>
   <string name="wifi_security_owe">Enhanced Open</string>
   <string name="wifi_security_passpoint">Passpoint</string>
   <string name="wifi_security_wapi_psk_hexadecimal">Hexadécimal</string>
+  <string name="wifi_security_psk_sae">WPA2/WPA3 Personnel</string>
+  <string name="wifi_security_sae">WPA3 Personnel</string>
+  <string name="wifi_security_wpa">WPA Personnel</string>
+  <string name="wifi_security_wpa_wpa2">WPA/WPA2 Personnel</string>
+  <string name="wifi_security_wpa_wpa2_wpa3">WPA/WPA2/WPA3 Personnel</string>
+  <string name="wifi_security_wpa2">WPA2 Personnel</string>
   <string name="wifi_select_network">Sélectionner le Wi-Fi</string>
   <string name="wifi_setting_category">Réseaux Wi-Fi disponibles</string>
   <string name="wifi_setting_frequency_band_error">"Un problème s'est produit lors du réglage de la bande de fréquence."</string>
