@@ -900,8 +900,11 @@ Tout utilisateur peut mettre à jour les applications de tous les autres utilisa
     <string name="wifi_security_short_none_owe">Aucune/OWE</string>
     <string name="wifi_security_wapi_psk_ascii">ASCII</string>
     <string name="wifi_security_wapi_psk_hexadecimal">Hexadécimal</string>
+    <string name="wifi_security_psk_sae">WPA2/WPA3 Personnel</string>
+    <string name="wifi_security_sae">WPA3 Personnel</string>
     <string name="wifi_security_wpa">WPA Personnel</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2 Personnel</string>
+    <string name="wifi_security_wpa_wpa2_wpa3">WPA/WPA2/WPA3 Personnel</string>
     <string name="wifi_security_wpa2">WPA2 Personnel</string>
     <string name="wifi_ssid_is_empty">Le SSID ne doit pas être vide</string>
     <string name="wifi_ssid_length_is_max">"Le SSID peut faire jusqu'à 32 caractères de long"</string>
