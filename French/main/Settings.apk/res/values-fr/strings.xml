@@ -5833,10 +5833,10 @@ Read and agree to %s before using this service."</string>
   <string name="privacy_settings_title">Sauvegarde</string>
   <string name="privacy_thumbnail_blur_progress_message">Chargement…</string>
   <string name="privacy_thumbnail_blur_title">"Flouter les aperçus d'applications"</string>
-  <string name="private_dns_broken">"Impossible d'accéder au serveur DNS privé"</string>
-  <string name="private_dns_help_message">
-    &lt;annotation id="url">En savoir plus&lt;/annotation> sur les fonctionnalités de DNS privé</string>
+  <string name="private_dns_broken">"Le serveur DNS privé n'est pas accessible"</string>
+  <string name="private_dns_help_message">&lt;annotation id="url">En savoir plus&lt;/annotation> sur les fonctionnalités de DNS privé</string>
   <string name="private_dns_mode_off">Désactivé</string>
+  <string name="private_dns_mode_on">Activé</string>
   <string name="private_dns_mode_opportunistic">Automatique</string>
   <string name="private_dns_mode_provider">"Nom d'hôte du fournisseur de DNS privé"</string>
   <string name="private_dns_mode_provider_failure">Connexion impossible</string>
