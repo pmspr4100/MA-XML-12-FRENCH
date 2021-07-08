@@ -59,7 +59,7 @@
   <string name="account_security">Sécurité du compte</string>
   <string name="account_security_info_pref_title">Informations de sécurité</string>
   <string name="account_token_expired_msg">"Le code de vérification a expiré, recommencez ou déconnectez-vous
-L'ID de votre compte: %s"</string>
+L'ID de votre compte : %s"</string>
   <string name="account_token_expired_title">"Échec de l'authentification"</string>
   <string name="account_user_avatar">Photo du profil</string>
   <string name="account_user_avatar_from_album">Galerie</string>
@@ -70,7 +70,7 @@ L'ID de votre compte: %s"</string>
   <string name="account_user_email">E-mail de secours</string>
   <string name="account_user_gender">Sexe</string>
   <string name="account_user_id">ID du Compte Mi</string>
-  <string name="account_user_id_show">Compte Mi: %s</string>
+  <string name="account_user_id_show">Compte Mi : %s</string>
   <string name="account_user_name">Nom</string>
   <string name="account_user_name_dialog_title">"Entrez un nom d'utilisateur"</string>
   <string name="account_user_other_info">"Plus d'infos"</string>
@@ -125,7 +125,7 @@ Vous pouvez vous connecter à votre compte Mi en utilisant %s maintenant."</stri
   <string name="com_facebook_loginview_log_in_button_long">Se connecter avec Facebook</string>
   <string name="com_facebook_loginview_log_out_action">Déconnexion</string>
   <string name="com_facebook_loginview_log_out_button">Déconnexion</string>
-  <string name="com_facebook_loginview_logged_in_as">Connecté en tant que: %1$s</string>
+  <string name="com_facebook_loginview_logged_in_as">Connecté(e) en tant que : %1$s</string>
   <string name="com_facebook_loginview_logged_in_using_facebook">Connecté en utilisant Facebook</string>
   <string name="com_facebook_send_button_text">Envoyer</string>
   <string name="com_facebook_share_button_text">Partager</string>
@@ -134,7 +134,7 @@ Vous pouvez vous connecter à votre compte Mi en utilisant %s maintenant."</stri
   <string name="com_facebook_smart_login_confirmation_cancel">Pas toi ?</string>
   <string name="com_facebook_smart_login_confirmation_continue_as">Continuer comme %1$s</string>
   <string name="com_facebook_smart_login_confirmation_title">Confirmer la connexion</string>
-  <string name="com_facebook_tooltip_default">"Vous avez le contrôle: choisissez les informations que vous souhaitez partager avec les applications."</string>
+  <string name="com_facebook_tooltip_default">"Vous avez le contrôle : choisissez les informations que vous souhaitez partager avec les applications."</string>
   <string name="common_google_play_services_enable_button">Activer</string>
   <string name="common_google_play_services_enable_text">"%1$s ne fonctionnera que si vous activez les services Google Play."</string>
   <string name="common_google_play_services_enable_title">Activer les services Google Play</string>
@@ -179,7 +179,7 @@ Vous pouvez vous connecter à votre compte Mi en utilisant %s maintenant."</stri
   <string name="device_name">"Nom de l'appareil"</string>
   <string name="diagnosis_log_send_failed">"Impossible d'envoyer le journal."</string>
   <string name="diagnosis_log_sent_format">"Journal envoyé avec succès. 
-ID:%s
+ID : %s
 Envoyez ce code au superviseur."</string>
   <string name="download_file">Téléchargement de %s…</string>
   <string name="early_morning">Matin</string>
@@ -206,16 +206,16 @@ Envoyez ce code au superviseur."</string>
   <string name="find_device_interrupted">"L'action a été interrompue, attendez une minute ou deux et essayez à nouveau"</string>
   <string name="find_device_io_error">Impossible de se connecter au réseau</string>
   <string name="find_device_location">Locate</string>
-  <string name="find_device_locked_account_email" formatted="false">%s, adresse Email associée: %s</string>
-  <string name="find_device_locked_account_phone" formatted="false">%s, numéro de téléphone associé: %s</string>
-  <string name="find_device_message">Appareil verrouillé. Message: %1$s. Appeler %2$s.</string>
+  <string name="find_device_locked_account_email" formatted="false">%s, adresse Email associée : %s</string>
+  <string name="find_device_locked_account_phone" formatted="false">%s, numéro de téléphone associé : %s</string>
+  <string name="find_device_message">Appareil verrouillé. Message : %1$s. Appeler %2$s.</string>
   <string name="find_device_null_credential_error">"Impossible d'obtenir les informations de l'appareil, contactez le service client Xiaomi"</string>
   <string name="find_device_open">Activé</string>
   <string name="find_device_operation_failed_error">"Une erreur serveur s'est produite, attendez une minute ou deux et réessayez"</string>
   <string name="find_device_operation_failed_error_unknown">Une erreur est survenue, essayez plus tard</string>
   <string name="find_device_owner_phone">Appareil verrouillé. Appeler %1$s.</string>
   <string name="find_device_play_sound">Play sound</string>
-  <string name="find_device_prompt_message">Appareil verrouillé. Message: %1$s.</string>
+  <string name="find_device_prompt_message">Appareil verrouillé. Message : %1$s.</string>
   <string name="find_device_remote_exception">Erreur du RPC</string>
   <string name="find_device_request_error">"Une erreur serveur s'est produite, attendez une minute ou deux et réessayez"</string>
   <string name="find_device_request_prepare_error">"Impossible d'obtenir l'état, réessayez plus tard"</string>
@@ -364,7 +364,7 @@ Envoyez ce code au superviseur."</string>
   <string name="notify_network_restricted_title">"Le compte Mi n'arrive pas à se connecter au réseau"</string>
   <string name="oauth_get_scopes_failed">"Impossible d'obtenir les infos du compte"</string>
   <string name="oauth_getting_scopes">Vérification du compte…</string>
-  <string name="oauth_scopes_intro">&lt;font color=#%1$s>%2$s&lt;/font> obtiendra les permissions suivantes:&lt;br> &lt;br> %3$s ;</string>
+  <string name="oauth_scopes_intro">&lt;font color=#%1$s>%2$s&lt;/font> obtiendra les permissions suivantes :&lt;br> &lt;br> %3$s ;</string>
   <string name="oauth_title">Se connecter avec le compte Mi</string>
   <string name="ok">OK </string>
   <string name="optional_permissions">Permissions optionnelles</string>
@@ -372,7 +372,7 @@ Envoyez ce code au superviseur."</string>
   <string name="passport_account_hint_text">Email/Téléphone/ID de Compte Mi</string>
   <string name="passport_account_identity_title">Vérifier votre identité</string>
   <string name="passport_account_label">Compte Mi</string>
-  <string name="passport_account_name">"Compte: %1$s "</string>
+  <string name="passport_account_name">"Compte : %1$s "</string>
   <string name="passport_account_not_activated">"Votre compte n'a pas été activé "</string>
   <string name="passport_account_not_actived">"Votre compte n'a pas été activé"</string>
   <string name="passport_account_set_password">Définir le mot de passe</string>
@@ -546,8 +546,8 @@ Envoyez ce code au superviseur."</string>
   <string name="passport_register_using_other_ways">Autres moyens de créer un compte</string>
   <string name="passport_registered_phone_num">Numéro de téléphone : %s</string>
   <string name="passport_registered_phone_num_v2">Numéro de téléphone</string>
-  <string name="passport_registered_phone_user_ID">ID utilisateur: %s</string>
-  <string name="passport_registered_phone_user_name">"Nom d'utilisateur: %s"</string>
+  <string name="passport_registered_phone_user_ID">ID utilisateur : %s</string>
+  <string name="passport_registered_phone_user_name">"Nom d'utilisateur : %s"</string>
   <string name="passport_reject_recycle_account">Non</string>
   <string name="passport_relogin">Se connecter à nouveau</string>
   <string name="passport_relogin_notice">Reconnectez-vous</string>
@@ -621,7 +621,7 @@ Envoyez ce code au superviseur."</string>
   <string name="permission_group_phone">Téléphone</string>
   <string name="permission_group_sms">SMS</string>
   <string name="permission_group_storage">Stockage</string>
-  <string name="phone_num_use_for">Numéro de téléphone utilisé pour:</string>
+  <string name="phone_num_use_for">Numéro de téléphone utilisé pour :</string>
   <string name="photoPickerNotFoundText">Aucune photo disponible.</string>
   <string name="pm">PM</string>
   <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
@@ -773,10 +773,10 @@ Envoyez ce code au superviseur."</string>
   <string name="two_factor_auth_need_code_summary">"Vous verrez un code sur d'autres appareils Mi connectés. Entrez ce code sur un nouvel appareil pour vous connecter."</string>
   <string name="two_factor_auth_summary">"Lorsque vous essayez de vous connecter sur un nouvel appareil ou dans un nouvel emplacement, vous en serez informé sur les autres appareils connectés. Vous devrez confirmer si de telles tentatives de connexion sont autorisées par vous."</string>
   <string name="unbind_sns_description">"Après avoir supprimé ce compte, vous ne serez plus en mesure d'utiliser les informations du compte  %s pour vous connecter à votre compte Mi."</string>
-  <string name="unlock_help_notice">"Aide:
+  <string name="unlock_help_notice">"Aide :
 1. Si vous avez oublié votre mot de passe, rendez-vous sur id.mi.com pour le réinitialiser.
 2. Si vous ne parvenez pas à réinitialiser votre mot de passe ou si quelqu'un a verrouillé votre appareil, rendez-vous sur i.mi.com pour le déverrouiller.
-3. Votre numéro de déverrouillage: %s"</string>
+3. Votre numéro de déverrouillage : %s"</string>
   <string name="update_email_address_dialog_message">"Vous devez vérifier votre identité avant de mettre à jour l'e-mail de récupération."</string>
   <string name="update_email_address_dialog_title">"Mettre à jour l'e-mail de récupération"</string>
   <string name="update_phone_notice">Modifier les paramètres de sécurité</string>

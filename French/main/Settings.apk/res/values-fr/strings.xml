@@ -518,7 +518,7 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
   <string name="animator_duration_scale_title">"Échelle de durée de l'animateur"</string>
   <string name="another_migration_already_in_progress">Une autre migration est déjà en cours.</string>
   <string name="anti_spam">Antispam</string>
-  <string name="aod_and_lock_screen_settings_title">Affichage ambiant et écran de verrouillage</string>
+  <string name="aod_and_lock_screen_settings_title">Affichage ambiant &amp; écran de verrouillage</string>
   <string name="aod_close_color_inversion">"Cette fonctionnalité ne fonctionne pas avec l'inversion de couleur. Désactivez l'inversion des couleurs en premier."</string>
   <string name="aod_name_wanxiang">Affichage ambiant</string>
   <string name="aod_notification_style">Effet de notification</string>
@@ -1627,10 +1627,10 @@ Si vous installez un certificat CA, le propriétaire du certificat peut accéder
   <string name="capture_system_heap_dump_title">Capturer le vidage mémoire système</string>
   <string name="capturing_system_heap_dump_message">Capturing system heap dump</string>
   <string name="card_main_hbassistant_title">Enveloppes rouges; Enveloppe rouge; Argent</string>
-  <string name="cards_passes_lower">cartes &amp; passes</string>
-  <string name="cards_passes_sentence">Cartes &amp; passes</string>
+  <string name="cards_passes_lower">cartes et pass</string>
+  <string name="cards_passes_sentence">Cartes et pass</string>
   <string name="cards_passes_setting_subtitle">"Pour accéder à des éléments tels que vos modes de paiement et vos cartes d'embarquement, maintenez le bouton Marche / Arrêt enfoncé."</string>
-  <string name="cards_passes_setting_toggle">Afficher cartes &amp; passes</string>
+  <string name="cards_passes_setting_toggle">Afficher cartes et pass</string>
   <string name="carrier">Opérateur</string>
   <string name="carrier_and_update_now_text">"Mis à jour par ^1 à l'instant"</string>
   <string name="carrier_and_update_text">Mis à jour par ^1 il y a ^2</string>
@@ -1913,7 +1913,7 @@ Si vous installez un certificat CA, le propriétaire du certificat peut accéder
   <string name="connected_via_passpoint">Connecté via %1$s</string>
   <string name="connected_wifi">Connecté</string>
   <string name="connecting_to_vpn">Connexion au VPN</string>
-  <string name="connection_and_sharing">Connexion et partage</string>
+  <string name="connection_and_sharing">Connexion &amp; partage</string>
   <string name="contact_data">Contacts</string>
   <string name="content_capture">Contenu application</string>
   <string name="content_capture_summary">Autoriser les applications à envoyer du contenu au système Android</string>
@@ -3967,7 +3967,7 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
   <string name="location_modem_title">"Partager les informations de localisation avec l'opérateur"</string>
   <string name="location_neighborhood_level">Laisser les applications utiliser les données comme le Wi-Fi et les données réseaux pour déterminer votre localisation</string>
   <string name="location_neighborhood_level_wifi">Localisation déterminée par Wi-Fi</string>
-  <string name="location_network_based">Wi-Fi et réseau mobile</string>
+  <string name="location_network_based">Wi-Fi &amp; réseaux mobiles</string>
   <string name="location_no_recent_accesses">Aucune application récemment accédée à la localisation</string>
   <string name="location_no_recent_apps">"Aucune demande d'accès à votre localisation n'a récemment été envoyée pour une application."</string>
   <string name="location_off_summary">Désactivé</string>
@@ -5457,10 +5457,10 @@ Read and agree to %s before using this service."</string>
   <string name="passpoint_r1_privacy_dialog_url_text">\"exands Privacy Policy\"</string>
   <string name="passpoint_r1_privacy_dialog_yes">Accepter et continuer</string>
   <string name="passwordIncorrect">Mot de passe incorrect</string>
-  <string name="password_and_security">Mots de passe et sécurité</string>
+  <string name="password_and_security">Mots de passe &amp; Sécurité</string>
   <string name="password_entrance_title">"Définir le verrouillage de l'écran"</string>
   <string name="password_guard">Déverrouillage avec mot de passe</string>
-  <string name="password_security_settings_title">Mots de passe et sécurité</string>
+  <string name="password_security_settings_title">Mots de passe &amp; Sécurité</string>
   <string name="password_toggle_content_description">Afficher le mot de passe</string>
   <string name="password_turned_off_text">Le mot de passe a été désactivé</string>
   <string name="password_turned_on_text">Le mot de passe a été activé</string>
@@ -5578,7 +5578,7 @@ Read and agree to %s before using this service."</string>
   <string name="power_key_start_enjoy">Apprenez en plus à propos du Google Assistant</string>
   <string name="power_key_start_guide">"Activation de Google Assistant à l'aide du bouton d'alimentation sur des appareils à affichage plein écran"</string>
   <string name="power_label">Power</string>
-  <string name="power_menu_cards_passes">Afficher les cartes &amp; pass</string>
+  <string name="power_menu_cards_passes">Afficher les cartes et les pass</string>
   <string name="power_menu_cards_passes_device_controls">"Afficher les cartes, les pass et les commandes de l'appareil"</string>
   <string name="power_menu_device_controls">"Afficher les commandes de l'appareil"</string>
   <string name="power_menu_lock_screen_category">Écran verrouillé</string>
@@ -6973,8 +6973,8 @@ Le code PIN est peut-être incorrect."</string>
   <string name="sim_lock_settings_summary_off">Désactivé</string>
   <string name="sim_lock_settings_summary_on">Verrouillée</string>
   <string name="sim_lock_settings_title">Verrouillage de la carte SIM</string>
-  <string name="sim_management_title">Réseaux mobiles</string>
-  <string name="sim_management_title_singlesim">Réseaux mobiles</string>
+  <string name="sim_management_title">Cartes SIM &amp; réseaux mobiles</string>
+  <string name="sim_management_title_singlesim">Carte SIM &amp; réseaux mobiles</string>
   <string name="sim_multi_sims_summary">Sélectionnez la carte SIM à utiliser en priorité pour les données mobiles.</string>
   <string name="sim_multi_sims_title">Plusieurs cartes SIM détectées</string>
   <string name="sim_name_hint">Saisir le nom de la carte SIM</string>
@@ -7157,9 +7157,9 @@ Avant d'utiliser nos services, lisez et acceptez nos %s."</string>
   <string name="sound_stereo_mode_summary">Uniquement disponible lorsque vous jouez un son avec le haut-parleur</string>
   <string name="sound_stereo_mode_title">Son stéréo</string>
   <string name="sound_title">Son</string>
-  <string name="sound_vibrate_settings">Sonnerie</string>
+  <string name="sound_vibrate_settings">Sons &amp; vibrations</string>
   <string name="sound_work_settings">Sons du profil professionnel</string>
-  <string name="speaker">Speaker</string>
+  <string name="speaker">Haut-parleur</string>
   <string name="speaker_clean">Nettoyage haut-parleur</string>
   <string name="special_access">Applications : accès spécial</string>
   <string name="special_access_more">Afficher plus</string>
@@ -8239,7 +8239,7 @@ La désactivation de cette fonction n'affecte pas la capacité de votre appareil
   <string name="user_summary_restricted_profile">Profil limité</string>
   <string name="user_switch_to_user">Basculer vers %s</string>
   <string name="user_you">Vous (%s)</string>
-  <string name="users_summary">Connecté en tant que \"%1$s\"</string>
+  <string name="users_summary">Connecté(e) en tant que \"%1$s\"</string>
   <string name="v7_preference_off">DÉSACTIVÉ</string>
   <string name="v7_preference_on">ACTIVÉ</string>
   <string name="var_font_switch_title">"Police variable à l'échelle du système"</string>
@@ -9179,7 +9179,7 @@ Allow this for all apps that want to scan?"</string>
   <string name="xiaoai_other_shortcut">Autres méthodes</string>
   <string name="xiaoai_shortcut_settings_title">"Déclenchez Mi AI à l'aide de boutons et de gestes"</string>
   <string name="xiaomi_account">Compte Mi</string>
-  <string name="xiaomi_cloud_find_device">Localiser un appareil</string>
+  <string name="xiaomi_cloud_find_device">"Localiser l'appareil"</string>
   <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
   <string name="xiaomi_cloud_service_description">"Xiaomi Cloud synchronisera les contacts, les photos et d'autres éléments sur vos appareils. \"Localiser l'appareil\" nécessite également que Mi Cloud fonctionne normalement."</string>
   <string name="xiaomi_cloud_service_description_contact">contacts et</string>
