@@ -102,7 +102,7 @@
   <string name="accessibility_desc_connected">Connecté.</string>
   <string name="accessibility_desc_connecting">Connexion.</string>
   <string name="accessibility_desc_lock_screen">Écran de verrouillage.</string>
-  <string name="accessibility_desc_notification_icon">Notification de %1$s: %2$s</string>
+  <string name="accessibility_desc_notification_icon">Notification de %1$s : %2$s</string>
   <string name="accessibility_desc_notification_shade">Panneau de notification.</string>
   <string name="accessibility_desc_off">Désactivé.</string>
   <string name="accessibility_desc_on">Activé.</string>
@@ -253,7 +253,7 @@
   <string name="accessibility_recent_task_exit">Fermés récemments</string>
   <string name="accessibility_recent_task_locked">Verrouillé, balayer vers le bas pour déverrouiller.</string>
   <string name="accessibility_recent_task_locked_state">Verrouillé</string>
-  <string name="accessibility_recent_task_memory_info">RAM totale: %2$s | RAM disponible: %1$s. Appuyer rapidement 2 fois pour vider.</string>
+  <string name="accessibility_recent_task_memory_info">RAM totale : %2$s | RAM disponible : %1$s. Appuyer rapidement 2 fois pour vider.</string>
   <string name="accessibility_recent_task_unlocked">Déverrouillé</string>
   <string name="accessibility_recent_task_unlocked_state">Déverrouillé</string>
   <string name="accessibility_recents_all_items_dismissed">Toutes les applications récentes ont été retirées.</string>
@@ -473,10 +473,10 @@ Réessayez dans %d secondes."</string>
   <string name="bluetooth_a2dp_profile_summary_connected">"Connecté à l'audio média"</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Utiliser pour audio média</string>
   <string name="bluetooth_active_battery_level">Actif, batterie %1$s</string>
-  <string name="bluetooth_active_battery_level_untethered">Actif, L: %1$s batterie, R: %2$s batterie</string>
+  <string name="bluetooth_active_battery_level_untethered">Actif, L : %1$s batterie, R : %2$s batterie</string>
   <string name="bluetooth_active_no_battery_level">Actif</string>
   <string name="bluetooth_battery_level">Batterie %1$s</string>
-  <string name="bluetooth_battery_level_untethered">L: %1$s batterie, R: %2$s batterie</string>
+  <string name="bluetooth_battery_level_untethered">L : %1$s batterie, R : %2$s batterie</string>
   <string name="bluetooth_connected">Connecté %1$s</string>
   <string name="bluetooth_connected_battery_level">"Connecté |  Batterie %1$s%2$s"</string>
   <string name="bluetooth_connected_no_a2dp">Connecté (sans média) %1$s</string>
@@ -528,7 +528,7 @@ Réessayez dans %d secondes."</string>
   <string name="bluetooth_pan_profile_summary_use_for">"Utiliser pour l'accès à internet"</string>
   <string name="bluetooth_pan_user_profile_summary_connected">"Connecté à l'appareil pour l'accès à internet"</string>
   <string name="bluetooth_profile_a2dp">Audio média</string>
-  <string name="bluetooth_profile_a2dp_high_quality">Audio haut qualité: %1$s</string>
+  <string name="bluetooth_profile_a2dp_high_quality">Audio haut qualité : %1$s</string>
   <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Audio haut qualité</string>
   <string name="bluetooth_profile_dun">Accéder au réseau téléphonique</string>
   <string name="bluetooth_profile_headset">Appels téléphoniques</string>
@@ -548,15 +548,15 @@ Réessayez dans %d secondes."</string>
   <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Sélectionner Bluetooth Audio Codec
     Bits par échantillon"</string>
   <string name="bluetooth_select_a2dp_codec_channel_mode">Mode channel bluetooth Audio</string>
-  <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Sélectionner Bluetooth Audio Codec:
+  <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Sélectionner Bluetooth Audio Codec :
     Mode de canal"</string>
-  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Bluetooth Audio LDAC Codec: Qualité de lecture</string>
-  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Sélectionner Bluetooth Audio LDAC Codec:
+  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Bluetooth Audio LDAC Codec : Qualité de lecture</string>
+  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Sélectionner Bluetooth Audio LDAC Codec :
     Qualité de lecture"</string>
   <string name="bluetooth_select_a2dp_codec_sample_rate">"Taux d'échantillon d'audio bluetooth"</string>
   <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Sélectionner Bluetooth Audio Coded
     Échantillon"</string>
-  <string name="bluetooth_select_a2dp_codec_streaming_label">Streaming: %1$s</string>
+  <string name="bluetooth_select_a2dp_codec_streaming_label">Streaming : %1$s</string>
   <string name="bluetooth_select_a2dp_codec_type">Codec audio Bluetooth</string>
   <string name="bluetooth_select_a2dp_codec_type_dialog_title">Déclencher la sélection du codec audio Bluetooth</string>
   <string name="bluetooth_select_a2dp_codec_type_help_info">Le grisé signifie non pris en charge par le téléphone ou le casque</string>
@@ -662,7 +662,7 @@ Réessayez dans %d secondes."</string>
   <string name="compat_mode_off">"Étirer pour remplir l'écran"</string>
   <string name="compat_mode_on">"Zoomer pour remplir l'écran"</string>
   <string name="confirm">Confirmer</string>
-  <string name="confirm_enable_oem_unlock_text">"AVERTISSEMENT: les fonctionnalités de protection de l'appareil ne fonctionneront pas sur cet appareil tant que ce paramètre sera activé."</string>
+  <string name="confirm_enable_oem_unlock_text">"AVERTISSEMENT : les fonctionnalités de protection de l'appareil ne fonctionneront pas sur cet appareil tant que ce paramètre sera activé."</string>
   <string name="confirm_enable_oem_unlock_title">Autoriser le déverrouillage OEM ?</string>
   <string name="confirm_pin_msg">Répétez le code PIN</string>
   <string name="connected_via_app">Connecté via %1$s</string>
@@ -749,7 +749,7 @@ Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données.
   <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>
   <string name="debug_app">Sélectionner une application de débogage</string>
   <string name="debug_app_not_set">Aucune application de débogage définie</string>
-  <string name="debug_app_set">Application de débogage: %1$s</string>
+  <string name="debug_app_set">Application de débogage : %1$s</string>
   <string name="debug_applications_category">Applications</string>
   <string name="debug_debugging_category">Débogage</string>
   <string name="debug_drawing_category">Dessin</string>
@@ -903,7 +903,7 @@ Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données.
   <string name="face_data_manage_unlock_title">Déverrouiller avec les données de visage</string>
   <string name="face_data_siggesstion_next">Suivant</string>
   <string name="face_data_siggesstion_next_time">Suivant (%d sec)</string>
-  <string name="face_data_suggesstion_first">"Problèmes de sécurité: le déverrouillage faciale est moins sécurisé qu'un code PIN, un mot de passe ou un schéma. Votre appareil pourrait être déverrouillé avec votre photo, aussi bien par des personnes ou objets avec une apparence similaire."</string>
+  <string name="face_data_suggesstion_first">"Problèmes de sécurité : le déverrouillage faciale est moins sécurisé qu'un code PIN, un mot de passe ou un schéma. Votre appareil pourrait être déverrouillé avec votre photo, aussi bien par des personnes ou objets avec une apparence similaire."</string>
   <string name="face_data_suggesstion_second">"Assurez-vous que toutes les parties de votre visage ne sont pas couvertes d'objets et sont clairement visibles. Votre visage devrait être bien éclairé également."</string>
   <string name="face_dialog_looking_for_face">Je te cherchais...</string>
   <string name="face_unlock_adjust_distance">"Assurez-vous que la distance entre votre visage et l'écran est optimale."</string>
@@ -1451,7 +1451,7 @@ une capture d'écran de défilement"</string>
   <string name="miui_ringer_standard_description">Réduire les sonneries au silence pour les appels entrants et les notifications</string>
   <string name="miui_ringer_total">NPD</string>
   <string name="miui_ringer_total_description">"Réduire les sons et désactiver le vibreur pour tous les éléments sauf l'alarme"</string>
-  <string name="miui_screen_rotation_freeze_message">Rotation auto désactivée.</string>
+  <string name="miui_screen_rotation_freeze_message">"La rotation de l'écran est verrouillée"</string>
   <string name="miui_snooze_always_float">Ne pas masquer</string>
   <string name="miui_snooze_cancel">Annuler</string>
   <string name="miui_snooze_default_time">Pendant %d minute(s)</string>
@@ -1494,7 +1494,7 @@ une capture d'écran de défilement"</string>
   <string name="mobile_data_always_on_summary">Toujours garder les données mobiles actives, même lorsque le Wi-Fi est actif (pour un changement rapide de réseau).</string>
   <string name="mock_location_app">Sélectionner une application de localisation fictive</string>
   <string name="mock_location_app_not_set">Aucune application de localisation fictive définie</string>
-  <string name="mock_location_app_set">"Simulation de l'appli de localisation: %1$s"</string>
+  <string name="mock_location_app_set">"Simulation de l'appli de localisation : %1$s"</string>
   <string name="monday">Lundi</string>
   <string name="monday_short">Lun</string>
   <string name="monday_shortest">Lun</string>
@@ -1826,7 +1826,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="pref_show_lunar_calendar_title">"Afficher le calendrier chinois traditionnel sur l'écran de verrouillage"</string>
   <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
   <string name="priority_onboarding_appear_as_bubble_text">Apparaissent comme une bulle flottante au-dessus des applications</string>
-  <string name="priority_onboarding_behavior">Les conversations prioritaires:</string>
+  <string name="priority_onboarding_behavior">Les conversations prioritaires :</string>
   <string name="priority_onboarding_done_button_title">Compris</string>
   <string name="private_dns_broken">"Le serveur DNS privé n'est pas accessible"</string>
   <string name="private_dns_mode_off">Désactivé</string>
@@ -1978,7 +1978,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="quick_settings_rotation_locked_landscape_label">Paysage</string>
   <string name="quick_settings_rotation_locked_portrait_label">Portrait</string>
   <string name="quick_settings_rotation_unlocked_label">Rotation auto</string>
-  <string name="quick_settings_rotationlock_label">Rotation désactivée</string>
+  <string name="quick_settings_rotationlock_label">Verrouiller la rotation</string>
   <string name="quick_settings_rssi_emergency_only">"Appel d'urgence uniquement"</string>
   <string name="quick_settings_screen_record_label">"Enregistreur d'écran"</string>
   <string name="quick_settings_screen_record_start">Démarrer</string>
@@ -2073,7 +2073,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="right_nav_bar_button_type">Appuyer une fois de plus sur le bouton droit</string>
   <string name="running_foreground_services_msg">"Appuyer pour les détails sur la batterie ou l'utilisation des données"</string>
   <string name="running_foreground_services_title">Applications fonctionnant en arrière-plan</string>
-  <string name="running_process_item_user_label">Utilisateur: %1$s</string>
+  <string name="running_process_item_user_label">Utilisateur : %1$s</string>
   <string name="runningservices_settings_summary">Voir et contrôler les services actuellement en exécution</string>
   <string name="runningservices_settings_title">"Services en cours d'exécution"</string>
   <string name="saturday">Samedi</string>
@@ -2236,11 +2236,11 @@ d MMMM"</string>
   <string name="status_bar_ethernet">Ethernet</string>
   <string name="status_bar_input_method_settings_configure_input_methods">Configurer des méthodes de saisie</string>
   <string name="status_bar_latest_events_title">Notifications</string>
-  <string name="status_bar_network_flow_content">"Aujourd'hui: %1$s   Restant: %2$s"</string>
-  <string name="status_bar_network_flow_exceed_content">"Aujourd'hui: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Dépassé: &lt;font color=%2$s>%3$s&lt;/font>"</string>
-  <string name="status_bar_network_flow_limit">"   Limite mensuelle: %1$s   "</string>
+  <string name="status_bar_network_flow_content">"Aujourd'hui : %1$s   Restant : %2$s"</string>
+  <string name="status_bar_network_flow_exceed_content">"Aujourd'hui : %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Dépassé : &lt;font color=%2$s>%3$s&lt;/font>"</string>
+  <string name="status_bar_network_flow_limit">"   Limite mensuelle : %1$s   "</string>
   <string name="status_bar_network_flow_purchase">"   Acheter >"</string>
-  <string name="status_bar_network_flow_today">"Aujourd'hui: %1$s"</string>
+  <string name="status_bar_network_flow_today">"Aujourd'hui : %1$s"</string>
   <string name="status_bar_no_notifications_title">Aucune notification</string>
   <string name="status_bar_no_recent_apps">Vos écrans récents apparaissent ici</string>
   <string name="status_bar_notification_app_settings_title">%s paramètres</string>
@@ -2500,7 +2500,7 @@ Vous serez averti lorsque vous pourrez à nouveau utiliser le port USB."</string
   <string name="usb_contaminant_title">Port USB Désactivé</string>
   <string name="usb_debugging_allow">Allow</string>
   <string name="usb_debugging_always">Toujours autoriser depuis cet ordinateur</string>
-  <string name="usb_debugging_message">"L'empreinte digitale de la clé RSA de cet ordinateur est:
+  <string name="usb_debugging_message">"L'empreinte digitale de la clé RSA de cet ordinateur est :
 %1$s"</string>
   <string name="usb_debugging_secondary_user_message">"L'utilisateur actuellement connecté à cet appareil ne peut pas activer le débogage USB. Pour utiliser cette fonctionnalité, passez à un utilisateur administrateur."</string>
   <string name="usb_debugging_secondary_user_title">Débogage USB non autorisé</string>
