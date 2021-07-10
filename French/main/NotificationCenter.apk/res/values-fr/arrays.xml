@@ -3,7 +3,7 @@
     <string-array name="drop_down_menu">
         <item>Trier par heure de réception</item>
         <item>Trier par nombre de notifications</item>
-        <item>Applications pouvant afficher des notifications</item>
+        <item>Applications qui peuvent afficher des notifications</item>
         <item>Applications qui ne peuvent pas afficher les notifications</item>
     </string-array>
     <string-array name="lock_screen_display_rules_no_password">
@@ -12,7 +12,7 @@
     </string-array>
     <string-array name="lock_screen_display_rules_with_password">
         <item>Afficher le contenu</item>
-        <item>Masquer le contenu</item>
+        <item>Cacher le contenu</item>
         <item>"Ne pas afficher sur l'écran de verrouillage"</item>
     </string-array>
 </resources>
