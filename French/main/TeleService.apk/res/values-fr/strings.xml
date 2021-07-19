@@ -155,10 +155,10 @@
     <string name="bluetooth_a2dp_profile_summary_connected">Connecté aux paramètres audio du média</string>
     <string name="bluetooth_a2dp_profile_summary_use_for">Utiliser pour les paramètres audio du média</string>
     <string name="bluetooth_active_battery_level">Actif, %1$s de batterie</string>
-    <string name="bluetooth_active_battery_level_untethered">Active, L: %1$s battery, R: %2$s battery</string>
+    <string name="bluetooth_active_battery_level_untethered">Actif, L : %1$s de batterie | R : %2$s de batterie</string>
     <string name="bluetooth_active_no_battery_level">Actif</string>
     <string name="bluetooth_battery_level">%1$s de batterie</string>
-    <string name="bluetooth_battery_level_untethered">L: %1$s battery, R: %2$s battery</string>
+    <string name="bluetooth_battery_level_untethered">L : %1$s de battrie | R : %2$s de batterie</string>
     <string name="bluetooth_connected">Connecté %1$s</string>
     <string name="bluetooth_connected_battery_level">Connecté, batterie à %1$s%2$s</string>
     <string name="bluetooth_connected_no_a2dp">Connecté (aucun contenu mutimédia) %1$s</string>
@@ -220,16 +220,16 @@
     <string name="bluetooth_sap_profile_summary_use_for">"Utiliser pour l'accès à la carte SIM"</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample">"Nombre de bits par échantillon pour l'audio Bluetooth"</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Critère de sélection du codec audio
-Bluetooth : nombre de bits par échantillon"</string>
+Bluetooth : Nombre de bits par échantillon"</string>
     <string name="bluetooth_select_a2dp_codec_channel_mode">"Mode de chaîne de l'audio Bluetooth"</string>
     <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Critère de sélection du codec audio
-Bluetooth : mode de chaîne"</string>
-    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Codec audio Bluetooth LDAC : qualité de lecture</string>
+Bluetooth : Mode de chaîne"</string>
+    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Codec audio Bluetooth LDAC : Qualité de lecture</string>
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Critère de sélection du codec audio
-LDAC : qualité de lecture"</string>
+LDAC : Qualité de lecture"</string>
     <string name="bluetooth_select_a2dp_codec_sample_rate">"Taux d'échantillonnage audio Bluetooth"</string>
     <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Critère de sélection du codec audio
-Bluetooth : taux d'échantillonnage"</string>
+Bluetooth : Taux d'échantillonnage"</string>
     <string name="bluetooth_select_a2dp_codec_streaming_label">Diffusion : %1$s</string>
     <string name="bluetooth_select_a2dp_codec_type">Codec audio Bluetooth</string>
     <string name="bluetooth_select_a2dp_codec_type_dialog_title">"Critère pour déclencher la sélection du codec audio
@@ -328,7 +328,7 @@ Bluetooth"</string>
     <string name="callFailed_resources_unavailable_or_unspecified">Ressources non disponibles, non précisées</string>
     <string name="callFailed_resp_to_status_enquiry">"Réponse à l'ENQUÊTE SUR L'ÉTAT"</string>
     <string name="callFailed_semantically_incorrect_message">Message sémantiquement incorrect</string>
-    <string name="callFailed_server_error">Erreur serveur : réessayez plus tard.</string>
+    <string name="callFailed_server_error">Erreur serveur : Réessayez plus tard.</string>
     <string name="callFailed_server_unreachable">Serveur injoignable.</string>
     <string name="callFailed_service_option_not_available">Service ou option non disponible, non spécifié</string>
     <string name="callFailed_service_or_option_not_implemented">Service ou option non implémenté, non spécifié</string>
@@ -399,7 +399,7 @@ Bluetooth"</string>
     <string name="call_recording_notification_message">Appuyer pour écouter.</string>
     <string name="call_recording_notification_message_low_storage">La carte SD est pleine.</string>
     <string name="call_recording_notification_message_sd_unmounted">La carte SD a été retirée.</string>
-    <string name="call_recording_notification_summary">"Afficher une notification après l'enregistrement d' un appel"</string>
+    <string name="call_recording_notification_summary">"Afficher une notification après l'enregistrement d'un appel"</string>
     <string name="call_recording_notification_title">Appel enregistré</string>
     <string name="call_recording_notification_title_error">"Impossible d'enregistrer l'appel"</string>
     <string name="call_recording_notification_toggle_title">"Notification d'enregistrement des appels"</string>
@@ -684,7 +684,7 @@ Bluetooth"</string>
     <string name="dialog_ota_change_number_processing">Téléchargement USIM…</string>
     <string name="dialog_ota_change_number_success">Numéro de téléphone modifié avec succès</string>
     <string name="dialog_report">Signaler</string>
-    <string name="direct_boot_unaware_dialog_message">"Remarque : après un redémarrage, vous ne pouvez pas lancer cette application tant que vous n'avez pas déverrouillé votre téléphone."</string>
+    <string name="direct_boot_unaware_dialog_message">"Remarque : Après un redémarrage, vous ne pouvez pas lancer cette application tant que vous n'avez pas déverrouillé votre téléphone."</string>
     <string name="disable">Désactiver</string>
     <string name="disable_all_cf">"Désactiver toutes les fonctions de transfert d'appels"</string>
     <string name="disable_cfb_forbidden">"Votre opérateur ne prend pas en charge la désactivation des transferts d'appels lorsque votre téléphone est occupé."</string>
@@ -1100,8 +1100,8 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
     <string name="missed_call_notify_times_title">Rappel des appels manqués</string>
     <string name="missed_call_notify_twice">%d fois</string>
     <string name="miui_network_selection_reset_text">Réinitialiser</string>
-    <string name="miui_notification_network_selection_title">SIM : pas de service</string>
-    <string name="miui_notification_network_selection_title_by_sim">SIM %s : pas de service</string>
+    <string name="miui_notification_network_selection_title">SIM : Pas de service</string>
+    <string name="miui_notification_network_selection_title_by_sim">SIM %s : Pas de service</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez vers le bas pour actualiser</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualisation…</string>
@@ -1345,7 +1345,7 @@ Cette opération peut prendre jusqu'à 5 minutes."</string>
     <string name="ota_listen">"Suivez les instructions orales jusqu'au bout de la procédure d'activation."</string>
     <string name="ota_next">Suivant</string>
     <string name="ota_progress">Programmation du téléphone…</string>
-    <string name="ota_skip_activation_dialog_message">"Si vous poursuivez sans activer votre mobile, vous ne pourrez ni téléphoner, ni vous connecter à des réseaux de données mobiles. La connexion à un réseau Wi-Fi reste possible. Vous serez invité à effectuer l'activation à chaque démarrage du téléphone."</string>
+    <string name="ota_skip_activation_dialog_message">"Si vous poursuivez sans activer votre téléphone, vous ne pourrez ni téléphoner ni vous connecter à des réseaux mobiles. La connexion à un réseau Wi-Fi reste possible. Vous serez invité à effectuer l'activation à chaque démarrage de l'appareil."</string>
     <string name="ota_skip_activation_dialog_skip_label">Ignorer</string>
     <string name="ota_skip_activation_dialog_title">"Ignorer l'activation ?"</string>
     <string name="ota_spc_failure">EXCESS SPC FAILURES</string>
@@ -1729,7 +1729,7 @@ Interface UT : %5$s"</string>
     <string name="radio_info_radio_power">Puissance du signal radio</string>
     <string name="radio_info_roaming_label">Itinérance :</string>
     <string name="radio_info_set_perferred_label">Définir le type de réseau préféré :</string>
-    <string name="radio_info_signal_location_label">Informations de la géolocalisation mobile (obsolètes) :</string>
+    <string name="radio_info_signal_location_label">Infos de localisation mobile (obsolètes) :</string>
     <string name="radio_info_signal_strength_label">Intensité du signal :</string>
     <string name="radio_info_smsc_label">SMSC :</string>
     <string name="radio_info_smsc_refresh_label">Actualiser</string>
@@ -1853,7 +1853,7 @@ Interface UT : %5$s"</string>
     <string name="search_menu">Paramètres de recherche</string>
     <string name="search_menu_title">Recherche</string>
     <string name="selectContact">sélectionner un contact</string>
-    <string name="select_apn_list_title">Choisissez votre APN par défaut : pour la carte%1$s</string>
+    <string name="select_apn_list_title">Choisissez votre APN par défaut pour la SIM %1$s</string>
     <string name="select_application">Sélectionner une appli</string>
     <string name="select_automatically">Sélectionner automatiquement un réseau</string>
     <string name="select_dds_dialog_title">Sélectionner les données mobiles par défaut SIM</string>

@@ -1364,13 +1364,13 @@ Pour améliorer l'expérience d'utilisation de l'appareil, les applications et l
   <string name="bluetooth_turning_off">Désactivation du Bluetooth...</string>
   <string name="bluetooth_turning_on">Activation du Bluetooth...</string>
   <string name="bluetooth_unlock_add_device">Ajouter</string>
-  <string name="bluetooth_unlock_change_device_confirm_msg">"L'ancien va être remplacé par l'actuel."</string>
+  <string name="bluetooth_unlock_change_device_confirm_msg">"Le nouveau périphérique Bluetooth remplacera l'ancien."</string>
   <string name="bluetooth_unlock_change_matched_device">Autre périphérique</string>
-  <string name="bluetooth_unlock_confirm_device_text">"Appuyez le Bluetooth de l'appareil pour confirmer."</string>
+  <string name="bluetooth_unlock_confirm_device_text">Confirmez sur le périphérique Bluetooth.</string>
   <string name="bluetooth_unlock_confirm_device_text_for_huami_band">Confirmez sur le bracelet.</string>
-  <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Appuyez sur le bouton sur la montre pour déverrouiller.</string>
-  <string name="bluetooth_unlock_confirm_device_text_for_mi_wear">"Confirmer sur l'appareil"</string>
-  <string name="bluetooth_unlock_confirm_device_text_for_miband2">"Appuyer sur l'appareil pour déverrouiller."</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Appuyez sur le bouton de la montre pour déverrouiller.</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_mi_wear">Confirmez sur le périphérique Bluetooth.</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_miband2">Appuyez sur le bouton du bracelet pour déverrouiller.</string>
   <string name="bluetooth_unlock_delete_device">Supprimer cet appareil</string>
   <string name="bluetooth_unlock_delete_device_confirm_msg">Supprimer cet appareil ?</string>
   <string name="bluetooth_unlock_device_matched_text">Utilisez celui-ci pour déverrouiller.</string>
@@ -5951,7 +5951,7 @@ Interface UT : %5$s"</string>
   <string name="radio_info_radio_power">Alimentation radio mobile</string>
   <string name="radio_info_roaming_label">Itinérance :</string>
   <string name="radio_info_set_perferred_label">Définir le type de réseau préféré :</string>
-  <string name="radio_info_signal_location_label">Informations de la géolocalisation mobile (obsolètes) :</string>
+  <string name="radio_info_signal_location_label">Infos de localisation mobile (obsolètes) :</string>
   <string name="radio_info_signal_strength_label">Intensité du signal :</string>
   <string name="radio_info_smsc_refresh_label">Actualiser</string>
   <string name="radio_info_smsc_update_label">Mettre à jour</string>
