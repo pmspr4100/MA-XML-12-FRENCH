@@ -982,7 +982,7 @@ Veuillez réessayer dans %2$d secondes."</string>
   <string name="permdesc_readSms">Cette application peut lire tous les SMS enregistrés sur votre téléphone.</string>
   <string name="permdesc_readSyncSettings">"Permet à l'application d'accéder aux paramètres de synchronisation d'un compte. Par exemple, cette autorisation peut permettre de déterminer si l'application Contacts est synchronisée avec un compte ou non."</string>
   <string name="permdesc_readSyncStats">"Permet à une application d'accéder aux statistiques de synchronisation d'un compte, y compris l'historique des événements de synchronisation et le volume de données synchronisées."</string>
-  <string name="permdesc_receiveBootCompleted">"Permet à l'application de se lancer une fois le démarrage du système terminé. Elle peut rallonger le temps de démarrage du téléphone et ralentir son fonctionnement global en raison de son exécution continue."</string>
+  <string name="permdesc_receiveBootCompleted">"Permet à l'application de se lancer une fois le démarrage du système terminé. Elle peut rallonger le temps de démarrage de l'appareil et ralentir son fonctionnement global en raison de son exécution continue."</string>
   <string name="permdesc_receiveMms">"Permet à l'application de recevoir et de traiter les MMS. Cette autorisation lui donne la possibilité de surveiller ou supprimer les messages envoyés à votre appareil sans vous les montrer."</string>
   <string name="permdesc_receiveSms">"Permet à l'application de recevoir et de traiter les SMS. Cette autorisation lui donne la possibilité de surveiller ou supprimer les messages envoyés à votre appareil sans vous les montrer."</string>
   <string name="permdesc_receiveWapPush">"Permet à l'application de recevoir et de traiter les messages WAP. Cette autorisation lui donne la possibilité de surveiller ou supprimer les messages envoyés à votre appareil sans vous les montrer."</string>
@@ -1143,7 +1143,7 @@ pour le compte \"%s\""</string>
   <string name="permlab_readSms">Afficher les messages texte (SMS ou MMS)</string>
   <string name="permlab_readSyncSettings">Lire les paramètres de synchronisation</string>
   <string name="permlab_readSyncStats">Lecture des statistiques de synchronisation</string>
-  <string name="permlab_receiveBootCompleted">"s'exécuter au démarrage"</string>
+  <string name="permlab_receiveBootCompleted">"S'exécuter au démarrage de l'appareil"</string>
   <string name="permlab_receiveMms">Recevoir des messages texte (MMS)</string>
   <string name="permlab_receiveSms">Recevoir des messages texte (SMS)</string>
   <string name="permlab_receiveWapPush">Recevoir des messages texte (WAP)</string>
