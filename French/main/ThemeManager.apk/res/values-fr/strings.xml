@@ -216,7 +216,7 @@
   <string name="description_summary">Résumé</string>
   <string name="description_uploadtime">Mise à jour</string>
   <string name="description_version">Version</string>
-  <string name="description_version_szie">Version : %1$s Taille : %2$s</string>
+  <string name="description_version_szie">Version : %1$s | Taille : %2$s</string>
   <string name="desktop_effects">"Effets de l'écran d'accueil"</string>
   <string name="desktop_wallpaper">"Écran d'accueil"</string>
   <string name="detail_author_attention_head">Suivez certains de nos designers les plus remarquables</string>
@@ -671,7 +671,7 @@ dd/M"</string>
   <string name="resource_comment_no_comment">Pas encore de commentaires ici. Vous pouvez être le premier à laisser un commentaire.</string>
   <string name="resource_comment_over_limit">Votre commentaire est trop long. Raccourcissez le et réessayez.</string>
   <string name="resource_comment_publish">Envoyer</string>
-  <string name="resource_comment_rate">Note:</string>
+  <string name="resource_comment_rate">Note :</string>
   <string name="resource_comment_rating_star_tips">Votre classement</string>
   <string name="resource_comment_sending">Envoi du commentaire…</string>
   <string name="resource_comment_title">Commentaires à propos de %1$s</string>
@@ -695,7 +695,7 @@ dd/M"</string>
   <string name="resource_detail">Détails</string>
   <string name="resource_detail_comment_title">Commentaires</string>
   <string name="resource_detail_description_pic_text">%1$d icônes au total</string>
-  <string name="resource_detail_header_theme_designer_title">Concepteur: %1$s</string>
+  <string name="resource_detail_header_theme_designer_title">Concepteur : %1$s</string>
   <string name="resource_detail_jump_to_online_title">En ligne</string>
   <string name="resource_detail_jump_to_same_author_title">Du même auteur</string>
   <string name="resource_detail_recommend_desiner_other_themes">Thèmes conçus par %1$s</string>
@@ -703,7 +703,7 @@ dd/M"</string>
   <string name="resource_detail_update_log_title">Mises à jour</string>
   <string name="resource_detail_window_title">%1$s détails</string>
   <string name="resource_download">Télécharger</string>
-  <string name="resource_download_notification_title_one">Téléchargé  %1$s avec succès</string>
+  <string name="resource_download_notification_title_one">Téléchargé %1$s avec succès</string>
   <string name="resource_download_trial">Essayer</string>
   <string name="resource_downloaded_title">Ressources téléchargées</string>
   <string name="resource_downloading">Téléchargement</string>
@@ -717,7 +717,7 @@ dd/M"</string>
   <string name="resource_exchange_hint">Entrez votre code</string>
   <string name="resource_exchange_purchase_unkown_error">"Oups, une erreur inconnue est survenue. Connectez-vous sur http://market.xiaomi.com pour voir l'état du paiement."</string>
   <string name="resource_exchange_share_code_content">"Vous avez reçu un code cadeau (%2$s) pour télécharger le thème \"%1$s\" dans les thèmes MIUI. Appuyez sur %3$s pour l'utiliser maintenant."</string>
-  <string name="resource_exchange_share_code_dlg_content">"Code pour le thème \"%1$s\": %2$s. Lorsque vous l'enverrez à un autre utilisateur MIUI, il pourra l'utiliser pour télécharger ce thème."</string>
+  <string name="resource_exchange_share_code_dlg_content">"Code pour le thème \"%1$s\" : %2$s. Lorsque vous l'enverrez à un autre utilisateur MIUI, il pourra l'utiliser pour télécharger ce thème."</string>
   <string name="resource_exchange_share_code_dlg_title">Envoi</string>
   <string name="resource_exchange_success">Racheté avec succès</string>
   <string name="resource_exchange_unavailable">"Cet article n'est pas disponible actuellement"</string>
@@ -755,13 +755,13 @@ dd/M"</string>
   <string name="resource_no_network_text">Impossible de se connecter au réseau.</string>
   <string name="resource_no_result">Aucun résultat</string>
   <string name="resource_notification_default">Notifications</string>
-  <string name="resource_on_trial">Essayer: %1$s</string>
+  <string name="resource_on_trial">Essayer : %1$s</string>
   <string name="resource_online">En ligne</string>
   <string name="resource_online_picker">Choisir une sonnerie en ligne</string>
   <string name="resource_pack_confirm">Même si vous avez déjà acheté %1$d éléments de ce thème, le prix du thème complet est plus avantageux.</string>
-  <string name="resource_pack_discount_info">Économisé: %1$s</string>
+  <string name="resource_pack_discount_info">Économisé : %1$s</string>
   <string name="resource_pack_get_auth_has_been_undercarriaged">"Ce thème n'est plus disponible."</string>
-  <string name="resource_pack_price_info">"Prix d'origine: %1$s"</string>
+  <string name="resource_pack_price_info">"Prix d'origine : %1$s"</string>
   <string name="resource_pack_warning">"Attention, vous avez déjà acheté %1$d éléments de ce thème, il sera moins cher d'acheter les éléments restants individuellement."</string>
   <string name="resource_present">Cadeau</string>
   <string name="resource_price_free">Gratuit</string>
@@ -801,8 +801,8 @@ dd/M"</string>
   <string name="resource_send">Envoyer</string>
   <string name="resource_server_alert_dialog_title">Bientôt de retour…</string>
   <string name="resource_server_out_of_service">Malheureusement, notre serveur est indisponible pour le moment.</string>
-  <string name="resource_share_subject">Partager le thème: %1$s</string>
-  <string name="resource_share_text">Voici un thème que vous pourriez aimer: %1$s ! Lien: %2$s</string>
+  <string name="resource_share_subject">Partager le thème : %1$s</string>
+  <string name="resource_share_text">Voici un thème que vous pourriez aimer : %1$s ! Lien : %2$s</string>
   <string name="resource_share_title">Partager</string>
   <string name="resource_system_title">Ressources système</string>
   <string name="resource_tab_to_view">Appuyez pour afficher.</string>
@@ -814,8 +814,8 @@ dd/M"</string>
   <string name="resource_title_rank">Top</string>
   <string name="resource_title_select_ringtone">Sélectionnez une sonnerie</string>
   <string name="resource_title_subject">Sélection</string>
-  <string name="resource_trial_days">(Essai: %1$d j)</string>
-  <string name="resource_trial_days_hours">(Essai: %1$d j %2$d h)</string>
+  <string name="resource_trial_days">(Essai : %1$d j)</string>
+  <string name="resource_trial_days_hours">(Essai : %1$d j %2$d h)</string>
   <string name="resource_trial_end_get_mibi">Recevoir des crédits Mi</string>
   <string name="resource_trial_end_jump_hint">Redirection en cours…</string>
   <string name="resource_trial_end_message">"Essai de %1$s expiré. Terminer l'achat si vous l'appréciez."</string>
@@ -828,9 +828,9 @@ dd/M"</string>
   <string name="resource_trial_fail_go_settings">Paramètres</string>
   <string name="resource_trial_fail_message">Assurez-vous que votre horloge système est réglée à la bonne heure.</string>
   <string name="resource_trial_fail_title">"Impossible de mettre en place la séance d'essai"</string>
-  <string name="resource_trial_hours">(Essai: %1$d h)</string>
-  <string name="resource_trial_hours_minutes">(Essai: %1$d h %2$d min)</string>
-  <string name="resource_trial_minutes">(Essai: %1$d min)</string>
+  <string name="resource_trial_hours">(Essai : %1$d h)</string>
+  <string name="resource_trial_hours_minutes">(Essai : %1$d h %2$d min)</string>
+  <string name="resource_trial_minutes">(Essai : %1$d min)</string>
   <string name="resource_unknow_error">Une erreur inconnue est survenue</string>
   <string name="resource_update">Mettre à jour</string>
   <string name="resource_user_know">OK</string>
@@ -854,7 +854,7 @@ dd/M"</string>
   <string name="search_non_filter_result">"Aucuns résultats trouvés"</string>
   <string name="search_price_charge">Payant</string>
   <string name="search_price_free">Free</string>
-  <string name="search_price_name">"Prix: "</string>
+  <string name="search_price_name">"Prix : "</string>
   <string name="search_price_no_limit">Illimité</string>
   <string name="search_sort_name">Trier</string>
   <string name="search_sort_news">Nouveauté</string>
@@ -881,8 +881,8 @@ dd/M"</string>
   <string name="share_picture_loading">"Chargement de l'image…"</string>
   <string name="share_save_success">Enregistré avec succès</string>
   <string name="share_save_to_photo">Galerie</string>
-  <string name="share_theme_content_text">"Vous pouvez télécharger un thème incroyable \"%1$s\" ici: %2$s. Depuis "</string>
-  <string name="share_wallpaper_content_text">"Vous pouvez télécharger un fond d'écran incroyable \"%1$s\" ici: %2$s. Depuis "</string>
+  <string name="share_theme_content_text">"Vous pouvez télécharger un thème incroyable \"%1$s\" ici : %2$s. Depuis "</string>
+  <string name="share_wallpaper_content_text">"Vous pouvez télécharger un fond d'écran incroyable \"%1$s\" ici : %2$s. Depuis "</string>
   <string name="shortcut_add">Ajouter</string>
   <string name="shortcut_cancel">Non merci</string>
   <string name="shortcut_message">"Ajouter un raccourci à l'écran d'accueil !"</string>
@@ -899,7 +899,7 @@ dd/M"</string>
   <string name="show_mamual_hide_aod">Afficher les éléments masqués</string>
   <string name="show_mamual_hide_font">Afficher les polices masquées</string>
   <string name="show_mamual_hide_icons">Afficher les icônes masquées</string>
-  <string name="show_mamual_hide_miwallpaper">"Afficher les éffets de l'écran d'accueil masqués"</string>
+  <string name="show_mamual_hide_miwallpaper">"Afficher les effets de l'écran d'accueil masqués"</string>
   <string name="show_mamual_hide_theme">Afficher les thèmes masqués</string>
   <string name="show_mamual_hide_wallpaper">"Afficher les fonds d'écran masqués"</string>
   <string name="solar_term_autumn_begins">"Début de l'automne"</string>
@@ -1063,7 +1063,7 @@ dd/M"</string>
   <string name="theme_is_external_priority_storage_summary">"L'application Thème va redémarrer immédiatement pour prendre effet."</string>
   <string name="theme_multiple_button_title_customize">Personnaliser</string>
   <string name="theme_no">Non</string>
-  <string name="theme_not_include_module_desc">"Ce thème ne contient pas les éléments suivants: %s"</string>
+  <string name="theme_not_include_module_desc">"Ce thème ne contient pas les éléments suivants : %s"</string>
   <string name="theme_on_the_phone_alert">"Ne peut-être lu pendant les appels"</string>
   <string name="theme_preview">Aperçu du thème</string>
   <string name="theme_select_others">Parcourir</string>
@@ -1247,7 +1247,7 @@ dd/M"</string>
   <string name="xiaomi_update_sdk_dialog_message">"Présentation de la version %1$s
 Taille : %2$s"</string>
   <string name="xiaomi_update_sdk_dialog_message_diff">"Présentation de la version %1$s
-Taille de la mise à jour Delta: %2$s"</string>
+Taille de la mise à jour : %2$s"</string>
   <string name="xiaomi_update_sdk_dialog_title">%1$s mises à jour !</string>
   <string name="xiaomi_update_sdk_external_storage_unavailable">Mémoire indisponible, veuillez vérifier la carte SD.</string>
   <string name="xiaomi_update_sdk_kilobytes_unit">%1$s Ko</string>

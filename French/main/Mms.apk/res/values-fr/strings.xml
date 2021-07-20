@@ -89,7 +89,7 @@
     <string name="batch_adding_progress_message">Ajout…</string>
     <string name="batch_deleting_message_progress_message">Suppression…</string>
     <string name="batch_deleting_progress_message">Suppression…</string>
-    <string name="bcc_label">"Cci: "</string>
+    <string name="bcc_label">"Cci : "</string>
     <string name="block_messaging_entry_title">SMS bloqué</string>
     <string name="block_number_message">Ce numéro de téléphone sera ajouté à la liste noire. Tous les messages envoyés à partir de ce numéro seront bloqués.</string>
     <string name="block_support_text">Pris en charge par Antiy.</string>
@@ -152,7 +152,7 @@
     <string name="confirm_delete_message">Supprimer ce message ?</string>
     <string name="confirm_dialog_locked_title">Supprimer les messages verrouillés ?</string>
     <string name="confirm_dialog_title">Supprimer ?</string>
-    <string name="confirm_dlg__msg">Note de CMCC: les services et assistance de CMCC ne seront pas fournis si vous annulez. Annuler quand même ?</string>
+    <string name="confirm_dlg__msg">Note de CMCC : Les services et assistance de CMCC ne seront pas fournis si vous annulez. Annuler quand même ?</string>
     <string name="confirm_dlg_title">"Gestion de l'appareil"</string>
     <string name="confirm_export_dialog_description">Les conversations précédentes avec ce contact ne seront plus cachés.</string>
     <string name="confirm_export_dialog_title">Retirer des contacts privés</string>
@@ -173,7 +173,7 @@
     <string name="context_menu_add_to_browser_favorite">Ajouter aux favoris du navigateur</string>
     <string name="context_menu_browse_web">Visiter</string>
     <string name="context_menu_call">Composer</string>
-    <string name="context_menu_contact">Contact: %1$s</string>
+    <string name="context_menu_contact">Contact : %1$s</string>
     <string name="context_menu_copy">Copier</string>
     <string name="context_menu_copy_notice">Copié dans le presse-papiers</string>
     <string name="context_menu_new_contact">Nouveau contact</string>
@@ -258,7 +258,7 @@
     <string name="enabled">Activé</string>
     <string name="english_subject_limit">40 caractères</string>
     <string name="enter_edit_mode">Éditer les messages</string>
-    <string name="error_code_label">"Code d'erreur:"</string>
+    <string name="error_code_label">"Code d'erreur :"</string>
     <string name="error_field_required">Requis</string>
     <string name="error_incorrect_otp">Code incorrect</string>
     <string name="error_invalid_otp">Code invalide</string>
@@ -274,11 +274,11 @@
     <string name="exceed_message_size_limitation_add_slide">La taille du message est insuffisante pour ajouter une diapositive</string>
     <string name="exceed_message_text_limitation">Limite de longueur de texte du message atteint.</string>
     <string name="expand_button_title">Avancé</string>
-    <string name="expire_on">Expiration: %s</string>
+    <string name="expire_on">Expiration : %s</string>
     <string name="exporting_progress_private_message">Exportation…</string>
     <string name="fail_to_add_attachment">"Impossible d'ajouter la pièce jointe"</string>
     <string name="fail_to_view_attachment">Pièce jointe non disponible</string>
-    <string name="failed_to_add_media">Désolé, vous ne pouvez pas ajouter cet élément à votre message: %1$s.</string>
+    <string name="failed_to_add_media">Désolé, vous ne pouvez pas ajouter cet élément à votre message : %1$s.</string>
     <string name="failed_to_resize_image">"L'image n'a pas été redimensionnée."</string>
     <string name="failed_to_send">Envoi impossible</string>
     <string name="fake_cell_alert_detect_error">"Cela n'a pas été envoyé à partir d'un faux téléphone portable"</string>
@@ -286,7 +286,7 @@
     <string name="fake_cell_checking_hint">Vérification de sécurité…</string>
     <string name="fake_cell_safe_hint">Ce message est sécurisé</string>
     <string name="fake_cell_timeout_hint">Impossible de vérifier la sécurité</string>
-    <string name="favorite_at_time">Ajouté aux favoris sur: %1s</string>
+    <string name="favorite_at_time">Ajouté aux favoris sur : %1s</string>
     <string name="fdn_check_failure">Vous ne pouvez pas envoyer de SMS à un téléphone fixe.</string>
     <string name="feature_mx">Mi Message</string>
     <string name="feature_mx_summary">"&lt;b>Mi Message vous permet d'envoyer des messages à d'autres utilisateurs de Mi Message par internet sans occasionner de frais&lt;/b>. Un message SMS doit être envoyé pour activer ce service. Cela pourra engendrer des frais facturés par votre opérateur. Lisez et acceptez notre &lt;font color=\"#B3000000\">&lt;a href=\"http://url1\">Accord d'utilisation&lt;/a>&lt;/font> et notre &lt;font color=\"#B3000000\">&lt;a href=\"http://url2\">Politique de confidentialité&lt;/a>&lt;/font> avant d'utiliser cette fonctionnalité."</string>
@@ -307,7 +307,7 @@
     <string name="force_touch_new_message_title">Nouveau message</string>
     <string name="forward_from">"Transférer de : "</string>
     <string name="forward_message_select_title">Transférer le message</string>
-    <string name="forward_prefix">"TR: "</string>
+    <string name="forward_prefix">"TR : "</string>
     <string name="found_old_messages">Envoyez les messages de (%1$s) à %2$s ?</string>
     <string name="found_old_messages_title">Envoyez les messages de vos autres cartes SIM ?</string>
     <string name="found_wild_messages_guide_cloud_desc">Pour synchroniser les messages de Xiaomi Cloud, connectez-vous à votre compte Mi et activez la synchronisation SMS.</string>
@@ -317,8 +317,8 @@
     <string name="friday">Vendredi</string>
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
-    <string name="from_label">"De: "</string>
-    <string name="from_pkg_name">"De l'application: "</string>
+    <string name="from_label">"De : "</string>
+    <string name="from_pkg_name">"De l'application : "</string>
     <string name="ft_cfs_dialog_content">"Des fichiers n'ont pas pu être transférés en utilisant RCS. Envoyer à la place un lien dans un message texte ?"</string>
     <string name="ft_cfs_dialog_title">Transfert de fichier alternatif</string>
     <string name="go_to">"Ouvrir "</string>
@@ -338,7 +338,7 @@
     <string name="guild_add_attachments">"Appuyer pour ajouter des émoticônes et d'autres éléments"</string>
     <string name="guild_add_recipients">Appuyer pour ajouter des destinaires depuis les contacts</string>
     <string name="guild_msim_switcher">Appuyer pour changer de carte SIM</string>
-    <string name="has_invalid_recipient">Destinataires non valides: &lt;%1$s></string>
+    <string name="has_invalid_recipient">Destinataires non valides : &lt;%1$s></string>
     <string name="heduohao_sub_sim_card">Sub</string>
     <string name="hidden_sender_address">"Adresse d'expéditeur masquée"</string>
     <string name="hold_to_talk">Maintenir pour parler</string>
@@ -398,14 +398,14 @@
     <string name="menu_unlock">Retirer des favoris</string>
     <string name="menu_view_contact">Afficher le contact</string>
     <string name="menu_view_group_info">Informations du groupe</string>
-    <string name="message_class_label">Catégorie:</string>
-    <string name="message_contact">Contact:</string>
+    <string name="message_class_label">Catégorie :</string>
+    <string name="message_contact">Contact :</string>
     <string name="message_details_title">Détails du message</string>
     <string name="message_download_failed_title">Message non téléchargé</string>
     <string name="message_expired">Expiré</string>
     <string name="message_failed">Échec</string>
     <string name="message_failed_body">Appuyez pour revoir le message puis réessayez.</string>
-    <string name="message_number">Numéro de téléphone:</string>
+    <string name="message_number">Numéro de téléphone :</string>
     <string name="message_pending">En attente</string>
     <string name="message_queued">"Impossible d'envoyer le message maintenant. Il sera envoyé dès que le service sera disponible."</string>
     <string name="message_queued_second_space">"Impossible d'envoyer le message. Activez les données pour effectuer l'envoi."</string>
@@ -452,7 +452,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un instant…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Chargement des éléments impossible"</string>
     <string name="mms">MMS</string>
-    <string name="mms_block_alert_message">"Tous les MMS, à l'exception des messages envoyés par les expéditeurs autorisés, seront bloqués. Les expéditeurs autorisés comprennent les transporteurs de réseau, les systèmes nationaux de réservation des chemins de fer, etc."</string>
+    <string name="mms_block_alert_message">"Tous les MMS, à l'exception des messages envoyés par les expéditeurs autorisés, seront bloqués. Les expéditeurs autorisés comprennent les réseaux de transport, les systèmes nationaux de réservation des chemins de fer, etc."</string>
     <string name="mms_block_alert_ok">Bloquer</string>
     <string name="mms_block_alert_title">Bloquer MMS</string>
     <string name="mms_block_hint">"Cet expéditeur n'est pas dans vos contacts.
@@ -603,7 +603,7 @@ Ce message peut être non sollicité."</string>
     <string name="not_support_audio_forward">Impossible de transférer des messages vocaux</string>
     <string name="notification_ad_content">Vous avez reçu un message promotionnel de %s</string>
     <string name="notification_add_todo">Me le rappeler</string>
-    <string name="notification_add_todo_content">Code de retrait: %s</string>
+    <string name="notification_add_todo_content">Code de retrait : %s</string>
     <string name="notification_channel_msg_description">Notifications à propos des messages</string>
     <string name="notification_channel_msg_name">Messages</string>
     <string name="notification_channel_other_description">Autres notifications</string>
@@ -716,7 +716,7 @@ Ce message peut être non sollicité."</string>
     <string name="preview">Aperçu</string>
     <string name="preview_slideshow">Aperçu</string>
     <string name="priority_high">Élevée</string>
-    <string name="priority_label">"Priorité: "</string>
+    <string name="priority_label">"Priorité : "</string>
     <string name="priority_low">Faible</string>
     <string name="priority_normal">Normale</string>
     <string name="privacy_mode_hint">"Impossible d'envoyer un SMS en mode invité"</string>
@@ -786,7 +786,7 @@ Take a look at the recommended ones!"</string>
     <string name="rcs_chatbot_near_tab_empty">No mini apps here yet.</string>
     <string name="rcs_chatbot_net_error">"Couldn't connect to the network. Check your network settings and try again."</string>
     <string name="rcs_chatbot_normal_message">You received a message. Tap to view details.</string>
-    <string name="rcs_chatbot_notification">Mini app: %s</string>
+    <string name="rcs_chatbot_notification">Mini app : %s</string>
     <string name="rcs_chatbot_progress_failed">"Couldn't load info. Tap to try again."</string>
     <string name="rcs_chatbot_progress_loading">Just a sec…</string>
     <string name="rcs_chatbot_recommend_tab_empty">No recommended apps here yet.</string>
@@ -824,7 +824,7 @@ Take a look at the recommended ones!"</string>
     <string name="rcs_chatdetail_send_messge">Send message</string>
     <string name="rcs_chatdetail_special_chabot_tip">"Can't block this mini app"</string>
     <string name="rcs_chatlist_scan_error">"Can't read this QR code"</string>
-    <string name="rcs_conversation_rcs_tip">Mini app: %s</string>
+    <string name="rcs_conversation_rcs_tip">Mini app : %s</string>
     <string name="rcs_create_new_group">Créer un groupe de discussion</string>
     <string name="rcs_dspt">Envoyer et recevoir des messages via Wifi ou le réseau China Mobile</string>
     <string name="rcs_dspt_unavailable">"Impossible d'utiliser cette fonctionnalité maintenant. La carte SIM de China Mobile n'est pas votre carte de données par défaut."</string>
@@ -883,16 +883,16 @@ Take a look at the recommended ones!"</string>
     <string name="rcs_setting">Paramètres de la Messagerie China Mobile</string>
     <string name="rcs_setting_tips">You can change alternative delivery methods in the Messaging settings.</string>
     <string name="rcs_silence_message">Notification de message en mode silencieux</string>
-    <string name="rcs_summary_auto_resend_mms">"Convertir les messages multimédia de China Mobile en MMS après l'échec d'envoi du message original. Votre transporteur vous facturera ce message."</string>
-    <string name="rcs_summary_auto_resend_sms">"Convertir les messages texte de China Mobile en SMS après l'échec d'envoi du message original. Votre transporteur vous facturera ce message."</string>
+    <string name="rcs_summary_auto_resend_mms">"Convertir les messages multimédia de China Mobile en MMS après l'échec d'envoi du message original. Votre opérateur vous facturera ce message."</string>
+    <string name="rcs_summary_auto_resend_sms">"Convertir les messages texte de China Mobile en SMS après l'échec d'envoi du message original. Votre opérateur vous facturera ce message."</string>
     <string name="rcs_summary_silence_message">Notifications de messages en mode silencieux lorsque le bureau client fonctionne</string>
     <string name="rcs_unavailable">"Impossible d'utiliser la messagerie China Mobile maintenant. La carte SIM China Mobile n'est pas votre carte de données par défaut."</string>
     <string name="rcs_up_not_online">RCS is offline. Check your network settings and try again.</string>
     <string name="rcs_wait_for_retry_text">En attente…</string>
-    <string name="received_at_time">Reçu à: %1s</string>
-    <string name="received_label">"Reçu: "</string>
+    <string name="received_at_time">Reçu à : %1s</string>
+    <string name="received_label">"Reçu : "</string>
     <string name="recent_label">Contacts récents</string>
-    <string name="recipient_label">"Destinataire: "</string>
+    <string name="recipient_label">"Destinataire : "</string>
     <string name="recipients_contain_sub_sim_number">"On dirait qu'il y a un numéro de carte SIM secondaire parmi les destinataires. Envoyez ce message en utilisant la carte SIM secondaire."</string>
     <string name="recipients_over_size">Trop de destinataires.</string>
     <string name="recommend_bar_cancel">Ignorer</string>
@@ -959,7 +959,7 @@ Take a look at the recommended ones!"</string>
     <string name="save_ringtone">Enregistrer comme sonnerie</string>
     <string name="save_to_sim">Enregistrer dans la carte SIM</string>
     <string name="save_to_sim_failed">"Impossible d'enregistrer"</string>
-    <string name="saved_label">"Sauvegardé: "</string>
+    <string name="saved_label">"Sauvegardé : "</string>
     <string name="saved_ringtone">Sonnerie enregistrée</string>
     <string name="saved_ringtone_fail">"impossible d'enregistrement la sonnerie"</string>
     <string name="saved_to_sim">Sauvé</string>
@@ -999,7 +999,7 @@ Take a look at the recommended ones!"</string>
     <string name="select_top_text">Texte en haut</string>
     <string name="send">Envoyer</string>
     <string name="send_message_dlg_check_hint">Ne plus afficher</string>
-    <string name="send_message_dlg_mgs">"Note de CMCC: nous devons enregistrer votre appareil sur notre plateforme de gestion d'appareils dans le but de fournir une assistance et des services client gratuits. Cette plateforme CMCC gère les appareils mobiles et vous permet de modifier les paramètres et de mettre à niveau les logiciels à distance. Un message gratuit avec les informations relatives à votre appareil sera envoyé pour votre enregistrement. Le message sera envoyé seulement une fois et ne contiendra pas vos données personnelles. Ce message ne peut pas être envoyé par les utilisateurs de Honk Kong, Macao, Taïwan et d'ailleurs. Sélectionnez \"OK\" pour accepter et enregistrer votre appareil. Sélectionnez \"Annuler\" si vous refusez les Conditions. Les services ne vous seront pas fournis dans ce cas."</string>
+    <string name="send_message_dlg_mgs">"Note de CMCC : Nous devons enregistrer votre appareil sur notre plateforme de gestion d'appareils dans le but de fournir une assistance et des services client gratuits. Cette plateforme CMCC gère les appareils mobiles et vous permet de modifier les paramètres et de mettre à niveau les logiciels à distance. Un message gratuit avec les informations relatives à votre appareil sera envoyé pour votre enregistrement. Le message sera envoyé seulement une fois et ne contiendra pas vos données personnelles. Ce message ne peut pas être envoyé par les utilisateurs de Honk Kong, Macao, Taïwan et d'ailleurs. Sélectionnez \"OK\" pour accepter et enregistrer votre appareil. Sélectionnez \"Annuler\" si vous refusez les Conditions. Les services ne vous seront pas fournis dans ce cas."</string>
     <string name="send_message_dlg_title">Gestion des périphériques</string>
     <string name="send_message_notification_msg">Appuyez pour voir les détails de la demande.</string>
     <string name="send_message_notification_tickerText">"Demande d'autorisation de l'appareil"</string>
@@ -1009,9 +1009,9 @@ Take a look at the recommended ones!"</string>
     <string name="send_signature_confirm_dialog_message">Pas de contenu trouvé, envoyer votre signature ?</string>
     <string name="send_signature_confirm_dialog_title">Envoyer un message</string>
     <string name="send_sms">Envoyer le message</string>
-    <string name="send_to">Envoyer à:</string>
-    <string name="sent_at_time">Envoyé à: %1s</string>
-    <string name="sent_label">"Envoyé: "</string>
+    <string name="send_to">Envoyer à :</string>
+    <string name="sent_at_time">Envoyé à : %1s</string>
+    <string name="sent_label">"Envoyé : "</string>
     <string name="service_message_not_found">Message expiré ou indisponible.</string>
     <string name="service_network_problem">"Impossible d'envoyer suite à un problème de réseau"</string>
     <string name="service_not_activated">Service non activé sur le réseau</string>
@@ -1045,8 +1045,8 @@ Take a look at the recommended ones!"</string>
     <string name="smart_messages_network_allow_title">Une connexion internet est nécessaire</string>
     <string name="smart_msg_main_purpose">"La messagerie intelligente fournit la reconnaissance de l'identifiant de l'expéditeur et des services de menu intelligent."</string>
     <string name="smart_msg_privacy_policy">Politique de confidentialité de la messagerie intelligente</string>
-    <string name="sms_content">Contenu:</string>
-    <string name="sms_full_body">"Message entrant rejeté: Il n'y a pas assez d'espace sur cet appareil."</string>
+    <string name="sms_content">Contenu :</string>
+    <string name="sms_full_body">"Message entrant rejeté : Il n'y a pas assez d'espace sur cet appareil."</string>
     <string name="sms_full_title">Mémoire pleine</string>
     <string name="sms_rejected_body">Un SMS entrant a été rejeté.</string>
     <string name="sms_rejected_title">SMS rejeté</string>
@@ -1089,7 +1089,7 @@ Take a look at the recommended ones!"</string>
     <string name="sqlite_disk_full">"L'espace de stockage sur votre appareil est plein."</string>
     <string name="sqlite_low_memory">Espace de stockage insuffisant</string>
     <string name="status_failed">Échec</string>
-    <string name="status_label">État:</string>
+    <string name="status_label">État :</string>
     <string name="status_pending">En attente</string>
     <string name="status_read">Lire</string>
     <string name="status_received">Reçu</string>
@@ -1098,12 +1098,12 @@ Take a look at the recommended ones!"</string>
     <string name="stick">Épingler</string>
     <string name="stick_conversation">Épingler la conversation en cours</string>
     <string name="sticked_conversation">La conversation est déjà épinglée</string>
-    <string name="storage_dialog_attachments">Pièces jointes du MMS:</string>
-    <string name="storage_dialog_available_space">Espace disponible:</string>
-    <string name="storage_dialog_database">Base de données:</string>
-    <string name="storage_dialog_mms">MMS: %d</string>
-    <string name="storage_dialog_mms_size">Taille du MMS:</string>
-    <string name="storage_dialog_sms">SMS: %d</string>
+    <string name="storage_dialog_attachments">Pièces jointes du MMS :</string>
+    <string name="storage_dialog_available_space">Espace disponible :</string>
+    <string name="storage_dialog_database">Base de données :</string>
+    <string name="storage_dialog_mms">MMS : %d</string>
+    <string name="storage_dialog_mms_size">Taille du MMS :</string>
+    <string name="storage_dialog_sms">SMS : %d</string>
     <string name="storage_limits_activity">Limites de stockage atteintes</string>
     <string name="storage_limits_message">Souhaitez-vous limiter le nombre de messages enregistrés par fil ?</string>
     <string name="storage_limits_setting">Définir les limites</string>
@@ -1113,7 +1113,7 @@ Take a look at the recommended ones!"</string>
     <string name="sub_sim_card_indicator">Sub %d</string>
     <string name="sub_sim_not_support_mms">"Impossible d'envoyer des MMS avec une carte SIM secondaire"</string>
     <string name="subject_hint">Objet</string>
-    <string name="subject_label">"Objet: "</string>
+    <string name="subject_label">"Objet : "</string>
     <string name="subscribe">"S'abonner"</string>
     <string name="success_login">Signed in successfully</string>
     <string name="summary_pref_cm_smart_sms">Modèles de cartes, numéros de service SMS, et plus.</string>
@@ -1128,7 +1128,7 @@ Take a look at the recommended ones!"</string>
     <string formatted="false" name="system_permission_declare_main_purpose">Bienvenue à %1s ! %2s</string>
     <string name="system_permission_declare_no_say_no">"Nous protégerons vos informations personnelles conformément aux lois, réglementations et Politiques de confidentialité en vigueur.
 Si vous n'acceptez pas d'accorder de telles autorisations ou de partager et télécharger vos informations personnelles, vous ne pourrez pas utiliser cette application."</string>
-    <string name="system_permission_declare_privacy_declare">%1s doit collecter vos données et nécessite les autorisations suivantes pour fonctionner normalement:</string>
+    <string name="system_permission_declare_privacy_declare">%1s doit collecter vos données et nécessite les autorisations suivantes pour fonctionner normalement :</string>
     <string name="system_permission_declare_privacy_declare_new">This app needs to connect to the internet and requires the following permissions to be able to work normally:</string>
     <string name="system_permission_declare_revoke_path">Vous pouvez révoquer votre autorisation et désactiver les services dans les paramètres de messagerie.</string>
     <string name="system_permission_declare_single_link">"Lisez et acceptez nos %1s avant d'utiliser cette fonction."</string>
@@ -1199,7 +1199,7 @@ Si vous n'acceptez pas d'accorder de telles autorisations ou de partager et tél
     <string name="title_show_sms_template_in">"Vérifier les SMS pour l'OTP"</string>
     <string name="title_timed_message_dialog">"Régler l'heure d'envoi de ce message"</string>
     <string name="title_use_gsm_alphabet">"Utiliser l'alphabet GSM"</string>
-    <string name="to_address_label">"À: "</string>
+    <string name="to_address_label">"À : "</string>
     <string name="to_label">"À "</string>
     <string name="to_send_wrapper">Sera envoyé à %s.</string>
     <string name="toast_failed_to_close_priv_auth">"Couldn't revoke authorization. Check your network settings and try again."</string>

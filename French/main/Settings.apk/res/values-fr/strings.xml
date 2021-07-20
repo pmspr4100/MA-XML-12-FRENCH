@@ -42,7 +42,7 @@
   <string name="abc_slices_permission_request">%1$s souhaite afficher des éléments de %2$s</string>
   <string name="abc_toolbar_collapse_description">Réduire</string>
   <string name="about_ad_service_instructions">À propos des services publicitaires et de la confidentialité</string>
-  <string name="about_phone_device_name_warning">"Le nom de votre appareil est visible par les applications installées sur votre téléphone. Il peut l'être également par d'autres personnes en cas de connexion à des appareils Bluetooth ou de configuration d'un point d'accès Wi-Fi."</string>
+  <string name="about_phone_device_name_warning">"Le nom de votre appareil est visible par les applications installées sur votre téléphone. Il peut l'être également par d'autres personnes en cas de connexion à des périphériques Bluetooth ou de configuration d'un point d'accès Wi-Fi."</string>
   <string name="about_phone_enter_xiaomi_net">En savoir plus</string>
   <string name="about_settings">À propos du téléphone</string>
   <string name="about_settings_summary">Informations légales, état et version du logiciel</string>
@@ -339,7 +339,7 @@ Pour basculer entre les services, balayez vers le haut avec deux doigts et maint
   <string name="adb_device_fingerprint_title_format">"Empreinte de l'appareil : %1$s"</string>
   <string name="adb_device_forget">Oublier</string>
   <string name="adb_keys_warning_message">"Révoquer l'accès au débogage USB pour tous les ordinateurs que vous-avez précédemment autorisés ?"</string>
-  <string name="adb_pair_method_code_summary">"Associer de nouveaux appareils à l'aide d'un code à six chiffres"</string>
+  <string name="adb_pair_method_code_summary">"Associer de nouveaux appareils à l'aide d'un code à 6 chiffres"</string>
   <string name="adb_pair_method_code_title">"Associer l'appareil avec le code d'association"</string>
   <string name="adb_pair_method_qrcode_summary">"Associer de nouveaux appareils à l'aide du scanner de QR code"</string>
   <string name="adb_pair_method_qrcode_title">"Associer l'appareil avec le QR code"</string>
@@ -986,7 +986,7 @@ Les sauvegardes sont stockées dans le Cloud Xiaomi et sont accessibles avec un 
   <string name="battery_sugg_apps_info">"Arrêter ou désinstaller l'application"</string>
   <string name="battery_sugg_apps_settings">"L'application dispose peut-être de paramètres permettant de réduire l'utilisation de la batterie."</string>
   <string name="battery_sugg_bluetooth_basic">"Désactivez Bluetooth lorsque vous ne l'utilisez pas."</string>
-  <string name="battery_sugg_bluetooth_headset">Essayez de vous connecter à un autre appareil Bluetooth.</string>
+  <string name="battery_sugg_bluetooth_headset">Essayez de vous connecter à un autre périphérique Bluetooth.</string>
   <string name="battery_sugg_display">"Réduire la luminosité et/ou le délai de mise en veille de l'écran"</string>
   <string name="battery_sugg_radio">Passez en mode avion pour économiser la batterie dans les zones sans couverture mobile.</string>
   <string name="battery_sugg_wifi">"Désactivez le Wi-Fi lorsque vous ne l'utilisez pas ou lorsqu'il n'est pas disponible"</string>
@@ -1040,7 +1040,7 @@ Applications :
   <string name="biometric_weak_improve_matching_title">Améliorer la correspondance de visages</string>
   <string name="biometric_weak_liveliness_summary">Un clignement est exigé pour déverrouiller</string>
   <string name="biometric_weak_liveliness_title">Contrôle de personne réelle</string>
-  <string name="ble_scan_notify_text">Pour améliorer la précision de la localisation, les applications et les services système peuvent toujours détecter les appareils Bluetooth. Vous pouvez modifier ce paramètre dans les LINK_BEGINparamètres de rechercheLINK_END.</string>
+  <string name="ble_scan_notify_text">Pour améliorer la précision de la localisation, les applications et les services système peuvent toujours détecter les périphériques Bluetooth. Vous pouvez modifier ce paramètre dans les LINK_BEGINparamètres de rechercheLINK_END.</string>
   <string name="block_list_connected_devices">Appareils connectés</string>
   <string name="block_list_diaglog_cancle">Annuler</string>
   <string name="block_list_diaglog_ok">OK</string>
@@ -1053,16 +1053,16 @@ Applications :
   <string name="block_list_title">Liste noire</string>
   <string name="block_title">Afficher les notifications</string>
   <string name="bluetooth">Bluetooth</string>
-  <string name="bluetooth_a2dp_profile_summary_connected">"Connecté à l'audio média"</string>
-  <string name="bluetooth_a2dp_profile_summary_use_for">Utiliser pour audio média</string>
-  <string name="bluetooth_active_battery_level">Actif, batterie %1$s</string>
-  <string name="bluetooth_active_battery_level_untethered">Actif, G : %1$s batterie, D : %2$s batterie</string>
+  <string name="bluetooth_a2dp_profile_summary_connected">"Connecté à l'audio du contenu multimédia"</string>
+  <string name="bluetooth_a2dp_profile_summary_use_for">"Jouer l'audio du contenu multimédia"</string>
+  <string name="bluetooth_active_battery_level">Actif, %1$s de batterie</string>
+  <string name="bluetooth_active_battery_level_untethered">Actif, G : %1$s - D : %2$s (batterie)</string>
   <string name="bluetooth_active_no_battery_level">Actif</string>
   <string name="bluetooth_advanced_titlebar">Paramètres Bluetooth avancés</string>
   <string name="bluetooth_ask_disablement">%1$s requiert la désactivation du Bluetooth.</string>
   <string name="bluetooth_ask_disablement_no_name">Une application requiert la désactivation du Bluetooth.</string>
-  <string name="bluetooth_ask_discovery">"%1$s nécessite que d'autres appareils Bluetooth puissent détecter votre téléphone pendant %2$d secondes."</string>
-  <string name="bluetooth_ask_discovery_no_name">"Une application nécessite que d'autres appareils Bluetooth puissent détecter votre téléphone pendant %1$d secondes."</string>
+  <string name="bluetooth_ask_discovery">"%1$s nécessite que d'autres périphériques Bluetooth puissent détecter votre téléphone pendant %2$d secondes."</string>
+  <string name="bluetooth_ask_discovery_no_name">"Une application nécessite que d'autres périphériques Bluetooth puissent détecter votre téléphone pendant %1$d secondes."</string>
   <string name="bluetooth_ask_enablement">"%1$s requiert l'activation du Bluetooth."</string>
   <string name="bluetooth_ask_enablement_and_discovery">"%1$s requiert l'activation du Bluetooth et nécessite que d'autres appareils puissent détecter votre téléphone pendant %2$d secondes."</string>
   <string name="bluetooth_ask_enablement_and_discovery_detected">" veut activer le Bluetooth et rendre votre téléphone visible par d'autres appareils pendant %1$d secondes."</string>
@@ -1072,11 +1072,11 @@ Applications :
   <string name="bluetooth_ask_enablement_and_lasting_discovery_no_name">"Une application requiert l'activation du Bluetooth et nécessite que d'autres appareils puissent détecter votre téléphone. Vous pourrez ensuite annuler cette opération dans les paramètres Bluetooth."</string>
   <string name="bluetooth_ask_enablement_detected">" veut activer le Bluetooth."</string>
   <string name="bluetooth_ask_enablement_no_name">"Une application requiert l'activation du Bluetooth."</string>
-  <string name="bluetooth_ask_lasting_discovery">"%1$s nécessite que d'autres appareils Bluetooth puissent détecter votre téléphone. Vous pourrez ensuite annuler cette opération dans les paramètres Bluetooth."</string>
-  <string name="bluetooth_ask_lasting_discovery_no_name">"Une application nécessite que d'autres appareils Bluetooth puissent détecter votre téléphone. Vous pourrez ensuite annuler cette opération dans les paramètres Bluetooth."</string>
+  <string name="bluetooth_ask_lasting_discovery">"%1$s nécessite que d'autres périphériques Bluetooth puissent détecter votre téléphone. Vous pourrez ensuite annuler cette opération dans les paramètres Bluetooth."</string>
+  <string name="bluetooth_ask_lasting_discovery_no_name">"Une application nécessite que d'autres périphériques Bluetooth puissent détecter votre téléphone. Vous pourrez ensuite annuler cette opération dans les paramètres Bluetooth."</string>
   <string name="bluetooth_auto_connect">Connexion automatique</string>
-  <string name="bluetooth_battery_level">Batterie %1$s</string>
-  <string name="bluetooth_battery_level_untethered">G : %1$s batterie, D : %2$s batterie</string>
+  <string name="bluetooth_battery_level">%1$s de batterie</string>
+  <string name="bluetooth_battery_level_untethered">G : %1$s - D : %2$s (batterie)</string>
   <string name="bluetooth_blacklist_cancel_remove_device">Annuler</string>
   <string name="bluetooth_blacklist_remove_device">Débloquer</string>
   <string name="bluetooth_broadcasting">Diffusion</string>
@@ -1084,31 +1084,31 @@ Applications :
   <string name="bluetooth_connect_failed">Impossible de se connecter. Réessayez.</string>
   <string name="bluetooth_connect_settings">Paramètres de connexion Bluetooth</string>
   <string name="bluetooth_connect_specific_profiles_title">Se connecter à…</string>
-  <string name="bluetooth_connected">%1$s connecté</string>
-  <string name="bluetooth_connected_battery_level">"Connecté |  Batterie %1$s%2$s"</string>
-  <string name="bluetooth_connected_multiple_devices_summary">Connecté à plusieurs appareils</string>
-  <string name="bluetooth_connected_no_a2dp">%1$s connecté (aucun média)</string>
-  <string name="bluetooth_connected_no_a2dp_battery_level">"Connecté (sans média), |  Batterie %1$s%2$s"</string>
-  <string name="bluetooth_connected_no_headset">%1$s (aucun téléphone) connecté</string>
-  <string name="bluetooth_connected_no_headset_battery_level">"Connecté (sans téléphone), |  Batterie %1$s%2$s"</string>
-  <string name="bluetooth_connected_no_headset_no_a2dp">%1$s connecté (pas de téléphone ni de média)</string>
-  <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">"Connecté (sans téléphone ou média), |  Batterie %1$s%2$s"</string>
-  <string name="bluetooth_connected_no_map">"%1$s connecté (pas d'accès aux messages)"</string>
+  <string name="bluetooth_connected">Connecté %1$s</string>
+  <string name="bluetooth_connected_battery_level">Connecté | Batterie %1$s%2$s</string>
+  <string name="bluetooth_connected_multiple_devices_summary">Connecté à plusieurs périphériques</string>
+  <string name="bluetooth_connected_no_a2dp">Connecté (sans audio contenu multimédia) %1$s</string>
+  <string name="bluetooth_connected_no_a2dp_battery_level">Connecté (sans audio contenu multimédia) | Batterie %1$s%2$s</string>
+  <string name="bluetooth_connected_no_headset">Connecté (sans audio appels tél.) %1$s</string>
+  <string name="bluetooth_connected_no_headset_battery_level">Connecté (sans audio appels tél.) | Batterie %1$s%2$s</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp">Connecté (sans audio appels tél./contenu multimédia) %1$s</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Connecté (sans audio appels tél./contenu multimédia) | Batterie %1$s%2$s</string>
+  <string name="bluetooth_connected_no_map">Connecté (sans acccès aux messages) %1$s</string>
   <string name="bluetooth_connected_summary">Connecté à %1$s</string>
   <string name="bluetooth_connecting">Connexion…</string>
   <string name="bluetooth_connecting_error_message">Impossible de se connecter à %1$s.</string>
   <string name="bluetooth_connection_dialog_text">Voulez-vous vous connecter à \"%1$s\" ?</string>
   <string name="bluetooth_connection_notif_message">"Appuyez pour vous connecter à l'appareil \"%1$s\"."</string>
   <string name="bluetooth_connection_permission_request">Demande de connexion Bluetooth</string>
-  <string name="bluetooth_device">Appareil Bluetooth sans nom</string>
+  <string name="bluetooth_device">Périphérique Bluetooth sans nom</string>
   <string name="bluetooth_device_address">Adresse :</string>
   <string name="bluetooth_device_advanced_enable_opp_title">Autoriser les fichiers entrants</string>
-  <string name="bluetooth_device_advanced_online_mode_summary">Connecter à un appareil Bluetooth</string>
+  <string name="bluetooth_device_advanced_online_mode_summary">Connecter à un périphérique Bluetooth</string>
   <string name="bluetooth_device_advanced_online_mode_title">Se connecter</string>
   <string name="bluetooth_device_advanced_profile_header_title">Utiliser pour</string>
   <string name="bluetooth_device_advanced_rename_device">Renommer</string>
-  <string name="bluetooth_device_advanced_title">Appareil Bluetooth associé</string>
-  <string name="bluetooth_device_blacklist_summary">Gérer les appareils Bluetooth bloqués</string>
+  <string name="bluetooth_device_advanced_title">Périphérique Bluetooth associé</string>
+  <string name="bluetooth_device_blacklist_summary">Gérer les périphériques Bluetooth bloqués</string>
   <string name="bluetooth_device_blacklist_tital">Liste de blocage Bluetooth</string>
   <string name="bluetooth_device_context_connect">Se connecter</string>
   <string name="bluetooth_device_context_connect_advanced">Options…</string>
@@ -1123,7 +1123,7 @@ Applications :
   <string name="bluetooth_device_name_summary">Visible avec le nom \"^1\" pour les autres appareils</string>
   <string name="bluetooth_device_nearby_title">Appareils à proximité</string>
   <string name="bluetooth_device_searchable">Visibilité</string>
-  <string name="bluetooth_devices">Appareils Bluetooth</string>
+  <string name="bluetooth_devices">Périphériques Bluetooth</string>
   <string name="bluetooth_devices_card_off_summary">Appuyez pour activer</string>
   <string name="bluetooth_devices_card_off_title">Bluetooth est désactivé</string>
   <string name="bluetooth_disable_a2dp_hw_offload">Désact. décharg. Bluetooth A2DP</string>
@@ -1132,7 +1132,7 @@ Applications :
   <string name="bluetooth_disable_a2dp_hw_offload_dialog_message">"Vous devez redémarrer l'appareil pour modifier ce paramètre."</string>
   <string name="bluetooth_disable_a2dp_hw_offload_dialog_title">Redémarrer ?</string>
   <string name="bluetooth_disable_absolute_volume">Désactiver le volume absolu</string>
-  <string name="bluetooth_disable_absolute_volume_summary">Désactivez tout le volume du Bluetooth en cas de problème de volume avec des périphériques distants, par exemple un volume inacceptable ou une incapacité à le contrôler.</string>
+  <string name="bluetooth_disable_absolute_volume_summary">"Désactivez le volume absolu pour les périphériques Bluetooth si le volume sonore est trop élevé ou s'il ne peut pas être contrôlé"</string>
   <string name="bluetooth_disable_inband_ringing">Disable in-band ringing</string>
   <string name="bluetooth_disable_inband_ringing_summary">Ne jouez pas de sonneries personnalisées sur les casques Bluetooth</string>
   <string name="bluetooth_disable_mi_fast_connect">Désactiver Mi Link</string>
@@ -1159,7 +1159,7 @@ Applications :
   <string name="bluetooth_dock_settings_title">"Utiliser station d'accueil pour l'audio"</string>
   <string name="bluetooth_dun_profile_summary_connected">Connecté au serveur DUN</string>
   <string name="bluetooth_dun_profile_summary_use_for">Utiliser pour accéder au réseau téléphonique</string>
-  <string name="bluetooth_empty_list_bluetooth_off">"L'activation du Bluetooth permet à votre appareil de communiquer avec les appareils Bluetooth à proximité."</string>
+  <string name="bluetooth_empty_list_bluetooth_off">"L'activation du Bluetooth permet à votre appareil de communiquer avec les périphériques Bluetooth à proximité."</string>
   <string name="bluetooth_empty_list_user_restricted">"Vous n'êtes pas autorisé à modifier les paramètres Bluetooth."</string>
   <string name="bluetooth_enable">Bluetooth</string>
   <string name="bluetooth_enable_alphanumeric_pin">Le code PIN contient des lettres ou des symboles.</string>
@@ -1173,15 +1173,15 @@ Applications :
   <string name="bluetooth_fastConnect_key_device_id">ID appareil</string>
   <string name="bluetooth_fastConnect_resource_load">Bluetooth fastConnect resource load</string>
   <string name="bluetooth_footer_mac_message">Adresse Bluetooth du téléphone : %1$s</string>
-  <string name="bluetooth_headset_profile_summary_connected">"Connecté à l'audio du téléphone"</string>
-  <string name="bluetooth_headset_profile_summary_use_for">"Utiliser pour l'audio du téléphone"</string>
+  <string name="bluetooth_headset_profile_summary_connected">"Connecté à l'audio des appels tél."</string>
+  <string name="bluetooth_headset_profile_summary_use_for">"Jouer l'audio des appels téléphoniques"</string>
   <string name="bluetooth_hearing_aid_profile_summary_connected">"Connecté à l'assistance auditive"</string>
   <string name="bluetooth_hearing_aid_profile_summary_use_for">"Utiliser pour l'assistance auditive"</string>
   <string name="bluetooth_hearingaid_left_battery_level">Gauche - %1$s de batterie</string>
   <string name="bluetooth_hearingaid_left_pairing_message">"Association de l'aide auditive gauche…"</string>
   <string name="bluetooth_hearingaid_right_battery_level">Droite - %1$s de batterie</string>
   <string name="bluetooth_hearingaid_right_pairing_message">"Association de l'aide auditive droite…"</string>
-  <string name="bluetooth_hid_profile_summary_connected">Connecté au périphérique de saisie</string>
+  <string name="bluetooth_hid_profile_summary_connected">Connecté comme périphérique de saisie</string>
   <string name="bluetooth_hid_profile_summary_use_for">Utiliser pour la saisie</string>
   <string name="bluetooth_incoming_pairing_msg">De :&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Associer à cet appareil ?</string>
   <string name="bluetooth_inform_messgae">"Connexion à %1$s impossible.
@@ -1191,7 +1191,7 @@ Voici ce qui a pu mal se passer :
 3. Cet appareil est connecté à d'autres appareils. Déconnectez-le et réessayez."</string>
   <string name="bluetooth_inform_messgae_title">"Connexion impossible"</string>
   <string name="bluetooth_is_disconnect_question">"Déconnecter l'appareil \"%1$s\" ?"</string>
-  <string name="bluetooth_is_discoverable">Visible par tous appareils Bluetooth à proximité (%1$s)</string>
+  <string name="bluetooth_is_discoverable">Visible par tous périphériques Bluetooth à proximité (%1$s)</string>
   <string name="bluetooth_is_discoverable_always">"Rendre l'appareil visible aux autres appareils bluetooth"</string>
   <string name="bluetooth_is_visible_message">Lorsque le Bluetooth est activé, votre %1$s est visible par les appareils à proximité.</string>
   <string name="bluetooth_le_audio_profile_summary_connected">Connecté à LE_AUDIO</string>
@@ -1206,7 +1206,7 @@ Voici ce qui a pu mal se passer :
   <string name="bluetooth_max_connected_audio_devices_dialog_title">"Sélectionner le nombre maximal d'appareils audio Bluetooth connectés"</string>
   <string name="bluetooth_max_connected_audio_devices_string">"Nb max appareils audio BT connectés"</string>
   <string name="bluetooth_menu_advanced">Paramètres additionnels</string>
-  <string name="bluetooth_message_access_dialog_content">"Un appareil Bluetooth non approuvé, %1$s, souhaite accéder à vos messages.
+  <string name="bluetooth_message_access_dialog_content">"Un périphérique Bluetooth non approuvé, %1$s, souhaite accéder à vos messages.
 
 Vous ne vous êtes jamais connecté à %2$s auparavant."</string>
   <string name="bluetooth_message_access_dialog_title">"Autoriser l'accès aux messages ?"</string>
@@ -1217,8 +1217,8 @@ Vous ne vous êtes jamais connecté à %2$s auparavant."</string>
   <string name="bluetooth_middle_name">Boîtier</string>
   <string name="bluetooth_move_out_of_blacklist">"Débloquer l'appareil"</string>
   <string name="bluetooth_name_not_set">"Aucun nom n'a été défini. Utilisation du nom du compte…"</string>
-  <string name="bluetooth_no_devices_found">Aucun appareil Bluetooth détecté.</string>
-  <string name="bluetooth_not_visible_to_other_devices">"Non visible par d'autres appareils Bluetooth"</string>
+  <string name="bluetooth_no_devices_found">Aucun périphérique Bluetooth détecté.</string>
+  <string name="bluetooth_not_visible_to_other_devices">"Non visible par d'autres périphériques Bluetooth"</string>
   <string name="bluetooth_notif_message">"Appuyez pour associer l'appareil à \"%1$s\"."</string>
   <string name="bluetooth_notif_ticker">"Demande d'association Bluetooth"</string>
   <string name="bluetooth_notif_title">"Demande d'association"</string>
@@ -1226,7 +1226,7 @@ Vous ne vous êtes jamais connecté à %2$s auparavant."</string>
   <string name="bluetooth_on_time">Temps de fonctionnement du Wi-Fi</string>
   <string name="bluetooth_on_while_driving_pref">Utiliser le Bluetooth en conduisant</string>
   <string name="bluetooth_on_while_driving_summary">Activer automatiquement le Bluetooth lorsque vous conduisez</string>
-  <string name="bluetooth_only_visible_to_paired_devices">Visible uniquement par les appareils associés</string>
+  <string name="bluetooth_only_visible_to_paired_devices">Visible uniquement par les périphériques associés</string>
   <string name="bluetooth_opp_profile_summary_connected">Connecté au serveur de transfert de fichiers</string>
   <string name="bluetooth_opp_profile_summary_not_connected">Pas connecté au serveur de transfert de fichiers</string>
   <string name="bluetooth_opp_profile_summary_use_for">Utiliser pour les transferts de fichiers</string>
@@ -1252,38 +1252,38 @@ Vous ne vous êtes jamais connecté à %2$s auparavant."</string>
   <string name="bluetooth_pairing_shares_phonebook">"Autoriser l'accès à vos contacts et à l'historique des appels"</string>
   <string name="bluetooth_pairing_toast_add_to_blackfile">Bloqué avec succès. Vous pouvez gérer les éléments bloqués dans \"Paramètres supplémentaires\".</string>
   <string name="bluetooth_pairing_will_share_phonebook">"L'association accorde l'accès à tous les contacts et à l'historique des appels une fois connecté."</string>
-  <string name="bluetooth_pan_nap_profile_summary_connected">"Partage de connexion internet locale avec l'appareil"</string>
+  <string name="bluetooth_pan_nap_profile_summary_connected">"Partage de connexion internet locale avec le périphérique"</string>
   <string name="bluetooth_pan_profile_summary_use_for">"Utiliser pour l'accès à internet"</string>
-  <string name="bluetooth_pan_user_profile_summary_connected">"Connecté à l'appareil pour l'accès à internet"</string>
+  <string name="bluetooth_pan_user_profile_summary_connected">"Connecté au périphérique pour l'accès à internet"</string>
   <string name="bluetooth_pb_acceptance_dialog_text">"%1$s requiert l'accès à vos contacts et à l'historique de vos appels. Autoriser l'accès à %2$s ?"</string>
   <string name="bluetooth_pb_remember_choice">Ne plus me demander</string>
-  <string name="bluetooth_phonebook_access_dialog_content">"Un appareil Bluetooth non approuvé, %1$s, souhaite accéder à vos contacts et au journal des appels. Cela inclut les données sur les appels entrants et sortants.
+  <string name="bluetooth_phonebook_access_dialog_content">"Un périphérique Bluetooth non approuvé, %1$s, souhaite accéder à vos contacts et au journal des appels. Cela inclut les données sur les appels entrants et sortants.
 
 Vous ne vous êtes jamais connecté à %2$s auparavant."</string>
   <string name="bluetooth_phonebook_access_dialog_title">"Autoriser l'accès aux contacts et au journal des appels ?"</string>
-  <string name="bluetooth_phonebook_access_notification_content">Un appareil non approuvé souhaite accéder à vos contacts et au journal des appels. Appuyez pour plus de détails.</string>
+  <string name="bluetooth_phonebook_access_notification_content">Un périphérique non approuvé souhaite accéder à vos contacts et au journal des appels. Appuyez pour plus de détails.</string>
   <string name="bluetooth_phonebook_request">"Demande d'accès au répertoire"</string>
   <string name="bluetooth_pin_values_hint">Habituellement 0000 ou 1234</string>
   <string name="bluetooth_pin_values_hint_16_digits">Doit comporter 16 chiffres.</string>
-  <string name="bluetooth_pref_summary">Autoriser le téléphone à communiquer avec les appareils Bluetooth à proximité</string>
+  <string name="bluetooth_pref_summary">Autoriser le téléphone à communiquer avec les périphériques Bluetooth à proximité</string>
   <string name="bluetooth_preference_connected_devices">Connectés</string>
   <string name="bluetooth_preference_device_settings">"Paramètres de l'appareil"</string>
   <string name="bluetooth_preference_found_devices">Appareils disponibles</string>
-  <string name="bluetooth_preference_found_media_devices">Appareils disponibles</string>
-  <string name="bluetooth_preference_no_found_devices">Aucun appareil disponible.</string>
-  <string name="bluetooth_preference_paired_devices">Appareils associés</string>
+  <string name="bluetooth_preference_found_media_devices">Périphériques disponibles</string>
+  <string name="bluetooth_preference_no_found_devices">Aucun périphérique disponible.</string>
+  <string name="bluetooth_preference_paired_devices">Périphériques associés</string>
   <string name="bluetooth_preference_paired_dialog_contacts_option">Contacts et historique des appels</string>
   <string name="bluetooth_preference_paired_dialog_internet_option">Connexion internet</string>
   <string name="bluetooth_preference_paired_dialog_keyboard_option">Clavier</string>
   <string name="bluetooth_preference_paired_dialog_name_label">Nom</string>
-  <string name="bluetooth_preference_paired_dialog_title">Appareil associé</string>
-  <string name="bluetooth_preference_scan_title">Rechercher des appareils</string>
-  <string name="bluetooth_profile_a2dp">Audio média</string>
+  <string name="bluetooth_preference_paired_dialog_title">Périphérique associé</string>
+  <string name="bluetooth_preference_scan_title">Rechercher des périphériques</string>
+  <string name="bluetooth_profile_a2dp">Audio du contenu multimédia</string>
   <string name="bluetooth_profile_a2dp_high_quality">Utiliser audio haut qualité : %1$s</string>
   <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Utiliser audio haut qualité</string>
   <string name="bluetooth_profile_details">Paramètres du profil</string>
   <string name="bluetooth_profile_dun">Utilisé pour accéder au réseau téléphonique</string>
-  <string name="bluetooth_profile_headset">Audio du téléphone</string>
+  <string name="bluetooth_profile_headset">Audio des appels tél.</string>
   <string name="bluetooth_profile_hearing_aid">Prothèse auditive</string>
   <string name="bluetooth_profile_hid">Périphérique de saisie</string>
   <string name="bluetooth_profile_le_audio">LE_AUDIO</string>
@@ -1291,8 +1291,8 @@ Vous ne vous êtes jamais connecté à %2$s auparavant."</string>
   <string name="bluetooth_profile_opp">Transfert de fichier</string>
   <string name="bluetooth_profile_pan">Accès à internet</string>
   <string name="bluetooth_profile_pan_nap">Connexion internet partagé</string>
-  <string name="bluetooth_profile_pbap">Partage de contacts</string>
-  <string name="bluetooth_profile_pbap_summary">Utilisé pour partager contacts</string>
+  <string name="bluetooth_profile_pbap">Partager les contacts</string>
+  <string name="bluetooth_profile_pbap_summary">Utiliser pour partager les contacts</string>
   <string name="bluetooth_profile_sap">Utilisé pour accéder à la SIM</string>
   <string name="bluetooth_quick_toggle_summary">Activer le Bluetooth</string>
   <string name="bluetooth_quick_toggle_title">Bluetooth</string>
@@ -1304,10 +1304,10 @@ Vous ne vous êtes jamais connecté à %2$s auparavant."</string>
   <string name="bluetooth_sap_profile_summary_connected">Connecté au SAP</string>
   <string name="bluetooth_sap_profile_summary_use_for">Utiliser pour accéder à la SIM</string>
   <string name="bluetooth_sap_request">"Demande d'accès à la carte SIM"</string>
-  <string name="bluetooth_scan_for_devices">"Recherche d'appareils"</string>
-  <string name="bluetooth_scanning_on_info_message">"Lorsque le Bluetooth est activé, votre appareil peut communiquer avec d'autres appareils Bluetooth à proximité.
+  <string name="bluetooth_scan_for_devices">Recherche de périphériques</string>
+  <string name="bluetooth_scanning_on_info_message">"Lorsque le Bluetooth est activé, votre appareil peut communiquer avec d'autres périphériques Bluetooth à proximité.
 
-Pour améliorer l'expérience d'utilisation de l'appareil, les applications et les services peuvent continuer de rechercher les appareils à proximité à tout moment, même si le Bluetooth est désactivé. Cette autorisation peut permettre, par exemple, d'améliorer les fonctionnalités et les services basés sur la localisation. Vous pouvez modifier cette option dans les "&lt;annotation id="link">paramètres de recherche&lt;/annotation>.</string>
+Pour améliorer l'expérience d'utilisation de l'appareil, les applications et les services peuvent continuer de rechercher les périphériques à proximité à tout moment, même si le Bluetooth est désactivé. Cette autorisation peut permettre, par exemple, d'améliorer les fonctionnalités et les services basés sur la localisation. Vous pouvez modifier cette option dans les "&lt;annotation id="link">paramètres de recherche&lt;/annotation>.</string>
   <string name="bluetooth_search_for_devices">Actualiser</string>
   <string name="bluetooth_searching_for_devices">Recherche...</string>
   <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode">Mode audio BT aptX adaptatif</string>
@@ -1376,7 +1376,7 @@ Pour améliorer l'expérience d'utilisation de l'appareil, les applications et l
   <string name="bluetooth_unlock_device_matched_text">Utilisez celui-ci pour déverrouiller.</string>
   <string name="bluetooth_unlock_no_matched_device_yet">Aucun périphérique détecté</string>
   <string name="bluetooth_unlock_reject">La demande de déverrouillage de cet appareil a été rejetée</string>
-  <string name="bluetooth_unlock_settings_devices_prompt">Only selected wearable Bluetooth devices are supported (e.g. fitness bands and smartwatches)</string>
+  <string name="bluetooth_unlock_settings_devices_prompt">Uniquement compatible avec certains appareils Bluetooth (ex.: bracelets connectés et montres connectées)</string>
   <string name="bluetooth_unlock_settings_devices_title">Périphérique</string>
   <string name="bluetooth_unlock_settings_toggle_title">Appliquer pour</string>
   <string name="bluetooth_unlock_settings_unlock_device">"Déverrouiller l'appareil"</string>
@@ -1461,14 +1461,14 @@ Si vous avez déjà effectué l'une des opérations ci-dessus, ajoutez à nouvea
 Vous pouvez le modifier dans les paramètres."</string>
   <string name="bt_aac_dialog_title">Connexion Bluetooth</string>
   <string name="bt_aac_open_dialog_summary">"L'AAC risque de ne pas reproduire le son en raison de problèmes de compatibilité.
-Vous pouvez désactiver cette fonctionnalité dans les paramètres > Bluetooth > Appareils jumelés."</string>
-  <string name="bt_aac_open_dialog_title">Basculer vers codec AAC</string>
-  <string name="bt_absVolume_open_dialog_summary">En raison de problèmes de compatibilité, certains appareils Bluetooth peuvent avoir des niveaux de volume anormaux, ce qui peut être résolu en désactivant cette fonction.</string>
+Vous pouvez désactiver cette fonctionnalité dans Paramètres > Bluetooth > Périphérique Bluetooth associé"</string>
+  <string name="bt_aac_open_dialog_title">Basculer vers le codec AAC</string>
+  <string name="bt_absVolume_open_dialog_summary">En raison de problèmes de compatibilité, certains périphériques Bluetooth peuvent avoir des niveaux de volume anormaux, ce qui peut être résolu en désactivant cette fonction.</string>
   <string name="bt_absVolume_open_dialog_title">Attention</string>
   <string name="bt_absVolume_pre_title">Volume absolu</string>
-  <string name="bt_absVolume_summary">Gardez le volume des appareils Bluetooth et du téléphone strictement cohérent</string>
+  <string name="bt_absVolume_summary">"Synchronise le volume sonore du périphérique Bluetooth avec celui de l'appareil"</string>
   <string name="bt_audio_share_property">Partage</string>
-  <string name="bt_audio_share_switch_summary">"Partager l'audio avec les appareils Bluetooth connectés"</string>
+  <string name="bt_audio_share_switch_summary">"Partager l'audio avec les périphériques Bluetooth connectés"</string>
   <string name="bt_audio_share_switch_title">Partage audio</string>
   <string name="bt_dialog_remember_choice">Se souvenir de ce choix</string>
   <string name="bt_dialog_settings">Paramètres</string>
@@ -1484,14 +1484,14 @@ Vous pouvez désactiver cette fonctionnalité dans les paramètres > Bluetooth >
   <string name="bt_leaudio_open_dialog_title">Attention</string>
   <string name="bt_leaudio_pre_title">LC3</string>
   <string name="bt_leaudio_summary">Expérience audio haute qualité</string>
-  <string name="bt_lhdc_declaration">"Lorsqu'un appareil Bluetooth prend en charge LHDC, il sera connecté par défaut. LHDC permet de lire un son de haute qualité et réduit la latence pendant le jeu, mais augmente également la consommation d'énergie. Des problèmes peuvent survenir pendant la lecture en raison des limitations matérielles Bluetooth."</string>
+  <string name="bt_lhdc_declaration">"Lorsqu'un périphérique Bluetooth prend en charge LHDC, il sera connecté par défaut. LHDC permet de lire un son de haute qualité et réduit la latence pendant le jeu, mais augmente également la consommation d'énergie. Des problèmes peuvent survenir pendant la lecture en raison des limitations matérielles Bluetooth."</string>
   <string name="bt_lhdc_dialog_summary">"LHDC permet de lire un son de haute qualité et réduit la latence pendant le jeu, mais augmente également la consommation d'énergie. Cette fonction peut être désactivée dans les paramètres."</string>
   <string name="bt_lhdc_dialog_title">Le périphérique actuel prend en charge LHDC, qui a été connecté par défaut :</string>
   <string name="bt_lhdc_open_dialog_summary">"LHDC permet de lire un son de haute qualité et réduit la latence pendant le jeu, mais augmente également la consommation d'énergie. Des problèmes peuvent survenir pendant la lecture en raison des limitations matérielles Bluetooth."</string>
   <string name="bt_lhdc_open_dialog_title">Activer LHDC ?</string>
   <string name="bt_lhdc_property">Attributs</string>
   <string name="bt_pre_summary">Fournit une expérience audio de haute qualité</string>
-  <string name="bt_rarely_used_device_title">Appareils rarement utilisés (%d)</string>
+  <string name="bt_rarely_used_device_title">%d appareil(s) rarement utilisé(s)</string>
   <string name="bt_show_notification_summary">Affiche une notification permanente dans la barre des notifications</string>
   <string name="bt_show_notification_title">Notifier les connexions Bluetooth</string>
   <string name="bt_trace_log">Activer le suivi du journal Bluetooth</string>
@@ -1994,10 +1994,10 @@ Pour continuer d'utiliser votre téléphone, vous devez rétablir sa configurati
   <string name="crypt_keeper_decrypt_methods">"Après chiffrement de l'appareil, en supposant que vous-avez mis en place un verrouillage de l'écran (qui est, un motif ou un PIN numérique ou un mot de passe), vous-aurez besoin pour déverrouiller l'écran pour déchiffrer l'appareil chaque fois que vous l'allumez. La seule autre façon de déchiffrer consiste à effectuer une réinitialisation des données d'usine pour supprimer toutes vos données."</string>
   <string name="crypt_keeper_decrypt_methods_cannot_decrypt">"Si vous avez chiffré votre téléphone, vous devez entrer votre mot de passe, PIN, ou schéma à chaque fois que vous redémarrez l'appareil afin de le déchiffrer."</string>
   <string name="crypt_keeper_decrypt_methods_title">Déchiffrer votre appareil</string>
-  <string name="crypt_keeper_desc">"Vous pouvez chiffrer l'ensemble de vos données : vos comptes, paramètres, applications et tout autre fichier. Si vous avez activé le verrouillage d'écran (avec un schéma, un code ou un mot de passe), vous devez déverrouiller l'écran pour déchiffrer le téléphone chaque fois que vous l'allumez. La seule autre manière de déchiffrer ce dernier consiste à rétablir la configuration d'usine, ce qui entraîne la suppression de l'ensemble de vos données.
+  <string name="crypt_keeper_desc">"Vous pouvez chiffrer l'ensemble de vos données : vos comptes, paramètres, applications et tout autre fichier. Si vous avez activé le verrouillage d'écran (avec un schéma, un code PIN ou un mot de passe), vous devez déverrouiller l'écran pour déchiffrer le téléphone chaque fois que vous l'allumez. La seule autre manière de déchiffrer ce dernier consiste à rétablir la configuration d'usine, ce qui entraîne la suppression de l'ensemble de vos données.
 
 La procédure de chiffrement dure au moins une heure. La batterie du téléphone doit être chargée au départ, et le téléphone doit rester branché pendant tout le processus. Toute interruption entraîne la perte d'une partie ou de la totalité des données."</string>
-  <string name="crypt_keeper_dialog_need_password_message">"Vous devez définir un code ou un mot de passe pour le verrouillage de l'écran avant de lancer le chiffrement."</string>
+  <string name="crypt_keeper_dialog_need_password_message">"Vous devez définir un code PIN ou un mot de passe pour le verrouillage de l'écran avant de lancer le chiffrement."</string>
   <string name="crypt_keeper_dialog_need_password_title">"Aucun code PIN ni mot de passe saisi pour le verrouillage de l'écran"</string>
   <string name="crypt_keeper_encrypt_title">Chiffrer le téléphone</string>
   <string name="crypt_keeper_encrypted_summary">Chiffré</string>
@@ -2458,7 +2458,7 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
   <string name="dialog_wifi_context">"Vous devez vous connecter à internet pour configurer votre appareil. Sauf si vous vous connectez au Wi-Fi, les données mobiles peuvent être utilisées. L'utilisation de données mobiles peut générer des frais supplémentaires pour les opérateurs. Utiliser quand même les données mobiles ?"</string>
   <string name="dialog_wifi_title">Utilisation des données mobiles</string>
   <string name="dialog_yes">Oui</string>
-  <string name="direct_boot_unaware_dialog_message">"Remarque : vous ne pourrez utiliser ce clavier qu'après un redémarrage uniquement si vous déverrouillez votre appareil"</string>
+  <string name="direct_boot_unaware_dialog_message">"Remarque : Vous ne pourrez utiliser ce clavier qu'après un redémarrage uniquement si vous déverrouillez votre appareil"</string>
   <string name="directory_access">"Accès à l'annuaire"</string>
   <string name="disable_overlays">Désactiver les superpostions HW</string>
   <string name="disable_overlays_summary">"Toujours utiliser le GPU pour le rendu d'écran"</string>
@@ -2767,15 +2767,15 @@ Cela permet de protéger les données sur les appareils perdus ou volés. Besoin
   <string name="encryption_interstitial_message_pattern_for_fingerprint">"Outre la reconnaissance de votre empreinte digitale pour déverrouiller votre appareil, vous pouvez renforcer la sécurité en exigeant la saisie de votre schéma avant que l'appareil ne démarre. De cette façon, il ne pourra pas recevoir d'appels, de messages, de notifications, ni d'alarmes tant qu'il n'aura pas démarré.
 
 Cela permet de protéger les données en cas de perte ou de vol de l'appareil. Voulez-vous exiger la saisie de votre schéma avant le démarrage de votre appareil ?"</string>
-  <string name="encryption_interstitial_message_pin">"Pour renforcer la protection de cet appareil, vous pouvez exiger la saisie de votre code avant que l'appareil ne démarre. De cette façon, il ne pourra pas recevoir d'appels, de messages, de notifications ni d'alarmes tant qu'il n'aura pas démarré.
+  <string name="encryption_interstitial_message_pin">"Pour renforcer la protection de cet appareil, vous pouvez exiger la saisie de votre code PIN avant que l'appareil ne démarre. De cette façon, il ne pourra pas recevoir d'appels, de messages, de notifications ni d'alarmes tant qu'il n'aura pas démarré.
 
-Cela permet de protéger les données en cas de perte ou de vol de l'appareil. Voulez-vous exiger la saisie de votre code avant le démarrage de votre appareil ?"</string>
+Cela permet de protéger les données en cas de perte ou de vol de l'appareil. Voulez-vous exiger la saisie de votre code PIN avant le démarrage de votre appareil ?"</string>
   <string name="encryption_interstitial_message_pin_for_face">"En plus d'utiliser votre visage pour déverrouiller votre appareil, vous pouvez protéger davantage cet appareil en exigeant votre code PIN avant qu'il ne démarre. Jusqu'à ce que l'appareil démarre, il ne peut pas recevoir d'appels, de messages ou de notifications, y compris des alarmes.
 
 Cela permet de protéger les données sur les appareils perdus ou volés. Vous avez besoin d'un code PIN pour démarrer votre appareil ?"</string>
-  <string name="encryption_interstitial_message_pin_for_fingerprint">"Outre la reconnaissance de votre empreinte digitale pour déverrouiller votre appareil, vous pouvez renforcer la sécurité en exigeant la saisie de votre code avant que l'appareil ne démarre. De cette façon, il ne pourra pas recevoir d'appels, de messages, de notifications, ni d'alarmes tant qu'il n'aura pas démarré.
+  <string name="encryption_interstitial_message_pin_for_fingerprint">"Outre la reconnaissance de votre empreinte digitale pour déverrouiller votre appareil, vous pouvez renforcer la sécurité en exigeant la saisie de votre code PIN avant que l'appareil ne démarre. De cette façon, il ne pourra pas recevoir d'appels, de messages, de notifications, ni d'alarmes tant qu'il n'aura pas démarré.
 
-Cela permet de protéger les données de votre appareil en cas de perte ou de vol. Voulez-vous exiger la saisie de votre code avant le démarrage de votre appareil ?"</string>
+Cela permet de protéger les données de votre appareil en cas de perte ou de vol. Voulez-vous exiger la saisie de votre code PIN avant le démarrage de votre appareil ?"</string>
   <string name="encryption_interstitial_no">Non</string>
   <string name="encryption_interstitial_yes">Oui</string>
   <string name="encryption_progress_summary">Chiffrement en cours, ne redémarrez pas votre appareil.</string>
@@ -2972,9 +2972,9 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
   <string name="factory_reset_summary">"Effacez vos données personnelles de la carte SD pour remettre l'appareil en configuration usine."</string>
   <string name="failed_to_check_find_device_status_content">"Impossible de vérifier l'état de \"Localiser l'appareil\". Attendez une minute ou deux puis réessayez."</string>
   <string name="failed_to_check_find_device_status_title">"Impossible de vérifier l'état"</string>
-  <string name="failed_to_erase_text">"Désactivez le mot de passe de l'écran de verrouillage avant d'entrer le code \"1217\"."</string>
+  <string name="failed_to_erase_text">"Désactivez le verrouillage de l'écran avant d'entrer le code \"1217\"."</string>
   <string name="failed_to_erase_title">Impossible de compléter cette action</string>
-  <string name="failed_to_open_app_settings_toast">"Echec de l'ouverture des paramètres pour %1$s"</string>
+  <string name="failed_to_open_app_settings_toast">"Échec de l'ouverture des paramètres pour %1$s"</string>
   <string name="failed_to_shut_down_find_device_content">"Impossible de désactiver Localiser l'appareil. Attendez une minute ou deux et réessayez."</string>
   <string name="failed_to_shut_down_find_device_title">Impossible de désactiver</string>
   <string name="fallback_home_title">Chargement…</string>
@@ -3455,7 +3455,7 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
   <string name="headset_notification_switch_summary">"Afficher l'état sur le widget Panneau de notification lorsque les écouteurs sont connectés"</string>
   <string name="headset_notification_switch_title">Widget Panneau de notification</string>
   <string name="headset_remove_message">Souhaitez-vous supprimer cet appareil de votre compte ?</string>
-  <string name="headset_remove_message_indicate">Tous les appareils associés avec le compte Xiaomi seront supprimés</string>
+  <string name="headset_remove_message_indicate">Tous les périphériques associés avec le compte Xiaomi seront supprimés</string>
   <string name="headset_sbc">SBC</string>
   <string name="headset_settings_title">Effets sonores</string>
   <string name="headset_unsaved_device">"Supprimer l'appareil"</string>
@@ -3766,7 +3766,7 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
   <string name="keywords_keyboard_and_ime">correction de texte, corriger, son, vibreur, automatique, langue, geste, suggérer, suggestion, thème, choquant, mot, saisir, emoji, international</string>
   <string name="keywords_location">à proximité, historique, position, mise à jour</string>
   <string name="keywords_lock_screen_notif">"notification d'écran de verrouillage, notifications"</string>
-  <string name="keywords_lockscreen">"faire glisser pour déverrouiller, mot de passe, schéma, code d'accès"</string>
+  <string name="keywords_lockscreen">faire glisser pour déverrouiller, mot de passe, schéma, code PIN</string>
   <string name="keywords_model_and_hardware">numéro de série, version logicielle</string>
   <string name="keywords_more_default_sms_app">SMS, envoyer un SMS, messages, envoyer un message, par défaut</string>
   <string name="keywords_more_mobile_networks">mobile, mobile, opérateur mobile, sans fil, données, 4g, 3g, 2g, lte</string>
@@ -4002,9 +4002,9 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
   <string name="lock_last_pattern_attempt_before_wipe_device">Si vous dessinez un schéma incorrect lors de la prochaine tentative, les données de cet appareil seront supprimées</string>
   <string name="lock_last_pattern_attempt_before_wipe_profile">Si vous dessinez un schéma incorrect lors de la prochaine tentative, votre profil professionnel et les données associées seront supprimés</string>
   <string name="lock_last_pattern_attempt_before_wipe_user">Si vous dessinez un schéma incorrect lors de la prochaine tentative, ce compte utilisateur sera supprimé</string>
-  <string name="lock_last_pin_attempt_before_wipe_device">Si vous saisissez un code incorrect lors de la prochaine tentative, les données de cet appareil seront supprimées</string>
-  <string name="lock_last_pin_attempt_before_wipe_profile">Si vous saisissez un code incorrect lors de la prochaine tentative, votre profil professionnel et les données associées seront supprimés</string>
-  <string name="lock_last_pin_attempt_before_wipe_user">Si vous saisissez un code incorrect lors de la prochaine tentative, ce compte utilisateur sera supprimé</string>
+  <string name="lock_last_pin_attempt_before_wipe_device">Si vous saisissez un code PIN incorrect lors de la prochaine tentative, les données de cet appareil seront supprimées</string>
+  <string name="lock_last_pin_attempt_before_wipe_profile">Si vous saisissez un code PIN incorrect lors de la prochaine tentative, votre profil professionnel et les données associées seront supprimés</string>
+  <string name="lock_last_pin_attempt_before_wipe_user">Si vous saisissez un code PIN incorrect lors de la prochaine tentative, ce compte utilisateur sera supprimé</string>
   <string name="lock_profile_wipe_warning_content_password">Si vous entrez un mot de passe de travail incorrect lors de cette tentative, votre profil professionnel et les données associées seront supprimés de cet appareil.</string>
   <string name="lock_profile_wipe_warning_content_pattern">Si vous entrez un schéma incorrect du profil de travail lors de cette tentative, votre profil professionnel et les données associées seront supprimés de cet appareil.</string>
   <string name="lock_profile_wipe_warning_content_pin">Si vous saisissez un code PIN de travail incorrect lors de cette tentative, votre profil professionnel et les données associées seront supprimés de cet appareil.</string>
@@ -4110,7 +4110,7 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
   <string name="lockpassword_confirm_your_pattern_header_frp">Valider le schéma</string>
   <string name="lockpassword_confirm_your_pin_details_frp">"La configuration d'usine du téléphone a été rétablie. Pour l'utiliser, saisissez le code précédent."</string>
   <string name="lockpassword_confirm_your_pin_generic">Saisissez le code PIN de votre appareil pour continuer.</string>
-  <string name="lockpassword_confirm_your_pin_generic_profile">Saisissez le code du profil professionnel pour continuer.</string>
+  <string name="lockpassword_confirm_your_pin_generic_profile">Saisissez le code PIN du profil professionnel pour continuer.</string>
   <string name="lockpassword_confirm_your_pin_header">Confirmez votre code PIN</string>
   <string name="lockpassword_confirm_your_pin_header_frp">Valider le code</string>
   <string name="lockpassword_confirm_your_private_password_header">Confirmez votre mot de passe</string>
@@ -4140,10 +4140,10 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
   <string name="lockpassword_pin_too_short">Le code PIN doit contenir au moins %d chiffres</string>
   <string name="lockpassword_strong_auth_required_device_password">"Pour plus de sécurité, saisissez le mot de passe de l'appareil"</string>
   <string name="lockpassword_strong_auth_required_device_pattern">"Pour plus de sécurité, utilisez le schéma de l'appareil"</string>
-  <string name="lockpassword_strong_auth_required_device_pin">"Pour plus de sécurité, saisissez le code de l'appareil"</string>
+  <string name="lockpassword_strong_auth_required_device_pin">"Pour plus de sécurité, saisissez le code PIN de l'appareil"</string>
   <string name="lockpassword_strong_auth_required_work_password">Pour plus de sécurité, saisissez le mot de passe du profil professionnel</string>
   <string name="lockpassword_strong_auth_required_work_pattern">Pour plus de sécurité, utilisez le schéma du profil professionnel</string>
-  <string name="lockpassword_strong_auth_required_work_pin">Pour plus de sécurité, saisissez le code du profil professionnel</string>
+  <string name="lockpassword_strong_auth_required_work_pin">Pour plus de sécurité, saisissez le code PIN du profil professionnel</string>
   <string name="lockpattern_change_lock_pattern_label">Changer le schéma de déverrouillage</string>
   <string name="lockpattern_change_lock_pin_label">Modifier le code PIN de déverrouillage</string>
   <string name="lockpattern_confirm_button_text">Confirmer</string>
@@ -4175,7 +4175,7 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
   <string name="lockpattern_settings_require_cred_before_startup">Démarrage sécurisé</string>
   <string name="lockpattern_settings_require_password_before_startup_summary">"Un mot de passe est nécessaire pour démarrer l'appareil. Lorsque celui-ci est éteint, il ne peut pas recevoir d'appels ni de messages, ni émettre de notifications ni d'alarmes."</string>
   <string name="lockpattern_settings_require_pattern_before_startup_summary">"Un schéma est nécessaire pour démarrer l'appareil. Lorsque celui-ci est éteint, il ne peut pas recevoir d'appels ni de messages, ni émettre de notifications ni d'alarmes."</string>
-  <string name="lockpattern_settings_require_pin_before_startup_summary">"Un code est nécessaire pour démarrer l'appareil. Lorsque celui-ci est éteint, il ne peut pas recevoir d'appels ni de messages, ni émettre de notifications ni d'alarmes."</string>
+  <string name="lockpattern_settings_require_pin_before_startup_summary">"Un code PIN est nécessaire pour démarrer l'appareil. Lorsque celui-ci est éteint, il ne peut pas recevoir d'appels ni de messages, ni émettre de notifications ni d'alarmes."</string>
   <string name="lockpattern_settings_title">Schéma de déverrouillage</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts">Trop de tentatives incorrectes. Veuillez réessayer dans %d secondes.</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Trop de tentatives infructueuses !</string>
@@ -4244,7 +4244,7 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
   <string name="manageapplications_settings_summary">Gérer et supprimer les applications installées</string>
   <string name="manageapplications_settings_title">Applications installées</string>
   <string name="managed_device_admin_title">Professionnel</string>
-  <string name="managed_profile_contact_search_summary">Autoriser les recherches de contacts dans votre organisation à identifier les appelants et les contacts</string>
+  <string name="managed_profile_contact_search_summary">Autoriser la recherche de contacts par votre organisation pour identifier les appelants et les contacts</string>
   <string name="managed_profile_contact_search_title">Recherche de contacts</string>
   <string name="managed_profile_location_category">Profil de travail</string>
   <string name="managed_profile_location_services">Services de localisation pour le travail</string>
@@ -4511,7 +4511,7 @@ D'autres personnes utilisent cet appareil.
   <string name="miheadset_triple_click_key_mode">Triple appui</string>
   <string name="miheadset_triple_press_left">"Tapotez 3 fois sur l'écouteur de gauche"</string>
   <string name="miheadset_triple_press_right">"Tapotez 3 fois sur l'écouteur de droite"</string>
-  <string name="miheadset_unpair_device_text">%1$s sera dissocié de tous les appareils associés à ce Compte Mi.</string>
+  <string name="miheadset_unpair_device_text">%1$s sera dissocié de tous les périphériques associés à ce Compte Mi.</string>
   <string name="mipush_fake_channel_group_name">Mi Push</string>
   <string name="misc_files">Fichiers divers</string>
   <string name="misc_files_selected_count">%1$d fichiers sélectionnés sur %2$d</string>
@@ -4789,10 +4789,10 @@ Passer à %1$s n'annulera pas votre %2$s service."</string>
   <string name="mr_system_route_name">Système</string>
   <string name="mr_user_route_category_name">Appareils</string>
   <string name="msd_driver_download">Télécharger le pilote</string>
-  <string name="msd_driver_download_mac">Pour Mac, Téléchargez et installez AndroidFileTransfer.dmg</string>
+  <string name="msd_driver_download_mac">Pour Mac, téléchargez et installez \"AndroidFileTransfer.dmg\"</string>
   <string name="msd_driver_download_mac_url">Téléchargez le pilote sur : http://www.android.com/filetransfer/</string>
   <string name="msd_driver_download_xp">Téléchargez Mi Phone Manager pour utiliser votre téléphone comme un périphérique de stockage USB.</string>
-  <string name="msd_driver_download_xp_url">Téléchargez pilote sur : http://zhushou.xiaomi.com/</string>
+  <string name="msd_driver_download_xp_url">Téléchargez le pilote sur : http://zhushou.xiaomi.com/</string>
   <string name="msd_help_summary">"Impossible de se connecter à votre appareil ?
 Sélectionnez votre système d'exploitation :"</string>
   <string name="msd_help_title">Aide</string>
@@ -4907,7 +4907,7 @@ Sélectionnez votre système d'exploitation :"</string>
   <string name="mvno_match_data">Valeur MVNO</string>
   <string name="mvno_type">Type MVNO</string>
   <string name="my_device">Mon appareil</string>
-  <string name="my_device_disclaimer">"Remarque : les informations des matériels, y compris le processeur, la capacité de la batterie, la taille et la définition de l'écran, ainsi que l'appareil photo sont fournies par les laboratoires, les concepteurs et fournisseurs de Xiaomi."</string>
+  <string name="my_device_disclaimer">"Remarque : Les informations des matériels, y compris le processeur, la capacité de la batterie, la taille et la définition de l'écran, ainsi que l'appareil photo sont fournies par les laboratoires, les concepteurs et fournisseurs de Xiaomi."</string>
   <string name="my_device_info_account_preference_title">Compte</string>
   <string name="my_device_info_device_name_preference_title">"Nom de l'appareil"</string>
   <string name="n_cacrts">%d certificats CA</string>
@@ -4948,9 +4948,9 @@ Sélectionnez votre système d'exploitation :"</string>
   <string name="netcheck_title">Diagnostique réseau</string>
   <string name="network_4G">4G (recommandé)</string>
   <string name="network_alarm">"Ne faites pas taire les appels internet"</string>
-  <string name="network_alarm_summary">"Remarque : certaines applications ne sont pas compatibles avec cette fonctionnalité. %1$s"</string>
+  <string name="network_alarm_summary">"Remarque : Certaines applications ne sont pas compatibles avec cette fonctionnalité. %1$s"</string>
   <string name="network_alarm_summary_reg">Afficher les applications prises en charge</string>
-  <string name="network_alarm_support_apps">Supported apps</string>
+  <string name="network_alarm_support_apps">Applications prises en charge</string>
   <string name="network_assistant">Consommation des données</string>
   <string name="network_changed_noti_summary">Avec les données mobiles</string>
   <string name="network_changed_noti_title">Déconnecté du Wi-Fi</string>
@@ -5089,7 +5089,7 @@ Sélectionnez votre système d'exploitation :"</string>
   <string name="no_application">Aucune</string>
   <string name="no_applications">Aucune application</string>
   <string name="no_battery_summary">Aucune utilisation de la batterie depuis la dernière charge complète</string>
-  <string name="no_bluetooth_devices">Aucun appareil Bluetooth</string>
+  <string name="no_bluetooth_devices">Aucun périphérique Bluetooth</string>
   <string name="no_carrier_update_now_text">"Mis à jour à l'instant"</string>
   <string name="no_carrier_update_text">Mis à jour il y a ^2</string>
   <string name="no_channels">"Cette application n'a publié aucune notification"</string>
@@ -5756,7 +5756,7 @@ Read and agree to %s before using this service."</string>
   <string name="privacy_authorize_cloud_msg">"Pour garantir la sécurité de votre compte, connectez-vous à i.mi.com si vous souhaitez annuler l'autorisation pour les services Xiaomi Cloud (y compris la synchronisation et les sauvegardes)."</string>
   <string name="privacy_authorize_dialog_agree">Accepter</string>
   <string name="privacy_authorize_dialog_exit">Quitter</string>
-  <string name="privacy_authorize_dialog_message">"&lt;Data>Pour utiliser les fonctionnalités de base de ce service, vous devez accepter que Xiaomi collecte, traite et utilise vos données personnelles. Consultez notre Politique de confidentialité pour savoir comment nous recueillons et traitons des données personnelles. La sélection de \"Accepter\" signifie que vous avez lu et accepté notre &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Politique de confidentialité&lt;/a> et &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\">Accord d'utilisation&lt;/a>.&lt;/Data>"</string>
+  <string name="privacy_authorize_dialog_message">"&lt;Data>Pour utiliser les fonctionnalités de base de ce service, vous devez accepter que Xiaomi collecte, traite et utilise vos données personnelles. Consultez notre Politique de confidentialité pour savoir comment nous recueillons et traitons des données personnelles. La sélection de \"Accepter\" signifie que vous avez lu et accepté notre &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Politique de confidentialité&lt;/a> et &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Accord d'utilisation&lt;/a>.&lt;/Data>"</string>
   <string name="privacy_authorize_network_error">Connectez-vous au réseau et réessayez.</string>
   <string name="privacy_authorize_privacy_policy">Politique de confidentialité</string>
   <string name="privacy_authorize_revoke">Révoquer</string>
@@ -6095,7 +6095,7 @@ Redémarrez votre appareil et réessayez."</string>
   <string name="restore_oaid_positive">Réinitialiser</string>
   <string name="restore_oaid_positive_step">Réinitialiser (%1$d)</string>
   <string name="restore_oaid_title">"Réinitialisation de l'identifiant de l'appareil"</string>
-  <string name="restr_pin_enter_admin_pin">"Saisir le code d'accès administrateur"</string>
+  <string name="restr_pin_enter_admin_pin">Saisir le code PIN administrateur</string>
   <string name="restrict_background_blacklisted">Les données en arrière-plan sont désactivées.</string>
   <string name="restrict_bg_app">Restreindre</string>
   <string name="restrict_max_aspect_ratio_title">Ces applications ne fonctionnent pas bien en mode plein écran</string>
@@ -6496,7 +6496,7 @@ Pour utiliser l'épinglage d'application : \u0009
   <string name="search_local_auto_backup_section_title">Sauvegarde automatique;Sauvegardes automatiques;Sauvegarder automatiquement</string>
   <string name="search_local_backup_section_title">Sauvegardes locales</string>
   <string name="search_location_settings_title">Localisation;Services de localisation;GPS</string>
-  <string name="search_lock_settings">"Écran de verrouillage et mot de passe;Déverrouillage Bluetooth;code d'accès;Déverrouiller avec un appareil Bluetooth"</string>
+  <string name="search_lock_settings">Écran de verrouillage et mot de passe;Déverrouillage Bluetooth;code PIN;Déverrouiller avec un périphérique Bluetooth</string>
   <string name="search_lock_sounds_enable_title">"Verrouillage d'écran;Activer le son du verrouillage d'écran"</string>
   <string name="search_manage_device_admin">"Administrateurs de l'appareil;Admin;Administrateur"</string>
   <string name="search_manage_facerecoginition_text">Déverrouillage faciale;reconnaissance faciale</string>
@@ -6675,7 +6675,7 @@ Pour utiliser l'épinglage d'application : \u0009
   <string name="security_settings_face_enroll_introduction_message_setup">Utilisez votre visage pour déverrouiller votre téléphone, autoriser des achats ou vous connecter à des applications</string>
   <string name="security_settings_face_enroll_introduction_message_unlock_disabled">"Utilisez votre visage pour déverrouiller votre téléphone ou approuver des achats.
 
-Remarque : vous ne pouvez pas utiliser votre visage pour déverrouiller cet appareil. Pour plus d'informations, contactez l'administrateur de votre organisation."</string>
+Remarque : Vous ne pouvez pas utiliser votre visage pour déverrouiller cet appareil. Pour plus d'informations, contactez l'administrateur de votre organisation."</string>
   <string name="security_settings_face_enroll_introduction_more">Plus</string>
   <string name="security_settings_face_enroll_introduction_no_thanks">Non merci</string>
   <string name="security_settings_face_enroll_introduction_title">Déverrouillez avec votre visage</string>
@@ -6740,10 +6740,10 @@ Vous pouvez toujours utiliser votre empreinte digitale pour autoriser des achats
   <string name="security_settings_fingerprint_enroll_introduction_continue_setup">Suivant</string>
   <string name="security_settings_fingerprint_enroll_introduction_message">"Il vous suffit d'appuyer sur le lecteur d'empreintes digitales pour déverrouiller votre téléphone, autoriser des achats ou vous connecter à des applications. Toutes les personnes dont les empreintes digitales sont ajoutées sur votre téléphone peuvent effectuer ces opérations. Choisissez donc ces personnes avec soin.
 
-Remarque : Vos empreintes digitales peuvent être moins sécurisées qu'un schéma ou un code fiables."</string>
+Remarque : Vos empreintes digitales peuvent être moins sécurisées qu'un schéma ou mot de passe fort."</string>
   <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Utilisez votre empreinte digitale pour déverrouiller votre téléphone ou approuver des achats.
 
-Remarque : Votre empreinte digitale peut être moins sécurisée qu'un schéma ou un code fiable."</string>
+Remarque : Votre empreinte digitale peut être moins sécurisée qu'un schéma ou mot de passe fort."</string>
   <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Utilisez votre empreinte digitale pour déverrouiller votre téléphone ou approuver des achats.
 
 Remarque : Vous ne pouvez pas utiliser votre empreinte digitale pour déverrouiller cet appareil. Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
@@ -6992,7 +6992,7 @@ Le code PIN est peut-être incorrect."</string>
   <string name="sim_preferred_message">%1$s est la seule carte SIM dans votre appareil. Voulez-vous utiliser cette carte SIM pour les données mobiles, les appels et les SMS ?</string>
   <string name="sim_preferred_title">Modifier carte SIM préférée ?</string>
   <string name="sim_radio_off">Désactivé</string>
-  <string name="sim_reenter_new">"Saisissez à nouveau le code d'accès."</string>
+  <string name="sim_reenter_new">Saisissez à nouveau le code PIN.</string>
   <string name="sim_select_card">Sélectionnez une carte SIM</string>
   <string name="sim_selection_channel_title">Sélection de la carte SIM</string>
   <string name="sim_selection_required_pref">Veuillez sélectionner une option.</string>
@@ -8064,7 +8064,7 @@ La désactivation de cette fonction n'affecte pas la capacité de votre appareil
   <string name="usb_eject">Éjecter le stockage USB</string>
   <string name="usb_eject_summary">Éjecter le stockage USB pour le retirer en toute sécurité</string>
   <string name="usb_format">Effacer le stockage USB</string>
-  <string name="usb_format_summary">Efface toutes les données sur le stockage USB (ex : musique et photos)</string>
+  <string name="usb_format_summary">Efface toutes les données sur le stockage USB (ex.: musique et photos)</string>
   <string name="usb_headset_not_support_cancel">Compris</string>
   <string name="usb_headset_not_support_message">"Impossible de lire de l'audio via un adaptateur. Utilisez des écouteurs numériques
     ou des écouteurs avec fiche de 3,5 mm."</string>

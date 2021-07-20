@@ -116,9 +116,9 @@
   <string name="autofill_state">État</string>
   <string name="autofill_this_form">Saisie auto</string>
   <string name="autofill_update_title">Mettre à jour dans %1$s ?</string>
-  <string name="autofill_update_title_with_2types">Mise à jour %1$s et %2$s dans %3$s ?</string>
-  <string name="autofill_update_title_with_3types">Mettez à jour ces éléments dans ;%4$s :%1$s, %2$s, et %3$s ?</string>
-  <string name="autofill_update_title_with_type">Mise à jour %1$s dans %2$s ?</string>
+  <string name="autofill_update_title_with_2types">Mettre à jour %1$s et %2$s dans %3$s ?</string>
+  <string name="autofill_update_title_with_3types">Mettre à jour %1$s, %2$s, et %3$s dans %4$s ?</string>
+  <string name="autofill_update_title_with_type">Mettre à jour %1$s dans %2$s ?</string>
   <string name="autofill_update_yes">Mise à jour</string>
   <string name="autofill_window_title">Saisie automatique avec %1$s</string>
   <string name="autofill_zip_code">Code postal</string>
@@ -180,10 +180,10 @@
   <string name="carrier_app_notification_text">Appuyez ici pour effectuer la configuration.</string>
   <string name="carrier_app_notification_title">Nouvelle carte SIM insérée</string>
   <string name="CfMmi">"Transfert d'appel"</string>
-  <string name="cfTemplateForwardedTime">{0}: {1} au bout de {2} secondes</string>
-  <string name="cfTemplateNotForwarded">{0}: non transféré</string>
-  <string name="cfTemplateRegistered">{0}: non transféré</string>
-  <string name="cfTemplateRegisteredTime">{0}: non transféré</string>
+  <string name="cfTemplateForwardedTime">{0} : {1} au bout de {2} secondes</string>
+  <string name="cfTemplateNotForwarded">{0} : non transféré</string>
+  <string name="cfTemplateRegistered">{0} : non transféré</string>
+  <string name="cfTemplateRegisteredTime">{0} : non transféré</string>
   <string name="choose_account_label">Sélectionnez un compte</string>
   <string name="chooseActivity">Sélectionnez une action</string>
   <string name="chooser_all_apps_button_label">Liste des applications</string>
@@ -295,9 +295,9 @@ en utilisant %s"</string>
   <string name="dump_heap_notification">Le processus \"%1$s\" a dépassé la limite de mémoire</string>
   <string name="dump_heap_notification_detail">Une empreinte de la mémoire a bien été générée. Appuyez pour partager.</string>
   <string name="dump_heap_ready_notification">%1$s tas de processus prêt</string>
-  <string name="dump_heap_ready_text">Un tas de processus de %1$s est disponible pour que vous puissiez le partager. Attention : ce tas peut contenir des informations personnelles sensibles auxquelles le processus a accès, ce qui peut inclure des choses que vous avez tapées.</string>
-  <string name="dump_heap_system_text">Le processus %1$s a dépassé sa limite de mémoire de %2$s. Un dump de tas est disponible pour que vous puissiez le partager. Attention : ce tas peut contenir toute information personnelle sensible à laquelle le processus a accès, ce qui peut inclure des choses que vous avez tapées.</string>
-  <string name="dump_heap_text">"Le processus \"%1$s\" a dépassé sa limite de mémoire fixée à %2$s. Une empreinte de la mémoire est disponible pour que vous la communiquiez à son développeur. Attention : celle-ci peut contenir des informations personnelles auxquelles l'application a accès."</string>
+  <string name="dump_heap_ready_text">Un tas de processus de %1$s est disponible pour que vous puissiez le partager. Attention : Ce tas peut contenir des informations personnelles sensibles auxquelles le processus a accès, ce qui peut inclure des choses que vous avez tapées.</string>
+  <string name="dump_heap_system_text">Le processus %1$s a dépassé sa limite de mémoire de %2$s. Un dump de tas est disponible pour que vous puissiez le partager. Attention : Ce tas peut contenir toute information personnelle sensible à laquelle le processus a accès, ce qui peut inclure des choses que vous avez tapées.</string>
+  <string name="dump_heap_text">"Le processus \"%1$s\" a dépassé sa limite de mémoire fixée à %2$s. Une empreinte de la mémoire est disponible pour que vous la communiquiez à son développeur. Attention : Celle-ci peut contenir des informations personnelles auxquelles l'application a accès."</string>
   <string name="dump_heap_title">"Partager l'empreinte de la mémoire ?"</string>
   <string name="dynamic_mode_notification_channel_name">"Avis d'information en mode de routine"</string>
   <string name="dynamic_mode_notification_summary">Économiseur de batterie activé pour prolonger la durée de vie de la batterie</string>
@@ -697,8 +697,8 @@ Accédez à la page ".</string>
   <string name="lockscreen_pattern_correct">Combinaison correcte !</string>
   <string name="lockscreen_pattern_instructions">Dessinez un schéma pour déverrouiller le téléphone</string>
   <string name="lockscreen_pattern_wrong">Veuillez réessayer.</string>
-  <string name="lockscreen_permanent_disabled_sim_instructions">"Votre Carte SIM a été désactivée de manière permanente.
-Contactez votre opérateur pour une autre Carte SIM."</string>
+  <string name="lockscreen_permanent_disabled_sim_instructions">"Votre carte SIM a été désactivée de manière permanente.
+Contactez votre opérateur pour en obtenir une nouvelle."</string>
   <string name="lockscreen_permanent_disabled_sim_message_short">Carte SIM inutilisable.</string>
   <string name="lockscreen_return_to_call">"Retour à l'appel"</string>
   <string name="lockscreen_screen_locked">Écran verrouillé</string>
@@ -932,8 +932,8 @@ Veuillez réessayer dans %2$d secondes."</string>
   <string name="permdesc_bindConditionProviderService">"Permet à l'application de s'associer à l'interface de niveau supérieur d'un service de fournisseur de conditions. Ne devrait pas être nécessaire pour les applications standards."</string>
   <string name="permdesc_bindDreamService">"Permet à l'application autorisée de s'associer à l'interface de plus haut niveau d'un service d'écran de veille interactif. Cette autorisation ne devrait jamais être nécessaire pour les applications standards."</string>
   <string name="permdesc_bindNotificationListenerService">"Permet à l'application de s'associer à l'interface de niveau supérieur d'un service d'écoute des notifications. Ne devrait jamais être nécessaire pour les applications normales."</string>
-  <string name="permdesc_bluetooth">"Permet à l'application d'accéder à la configuration du Bluetooth sur le téléphone, et d'établir et accepter des connexions avec les appareils associés."</string>
-  <string name="permdesc_bluetoothAdmin">"Permet à l'application de configurer le téléphone Bluetooth local, d'identifier des appareils distants et de les associer au téléphone."</string>
+  <string name="permdesc_bluetooth">"Permet à l'application d'accéder à la configuration du Bluetooth sur le téléphone, et d'établir et accepter des connexions avec les périphériques associés."</string>
+  <string name="permdesc_bluetoothAdmin">"Permet à l'application de configurer le téléphone Bluetooth local, d'identifier des périphériques distants et de les associer au téléphone."</string>
   <string name="permdesc_bodySensors">"Permet à l'application d'accéder aux données des capteurs qui contrôlent votre condition physique, comme votre rythme cardiaque."</string>
   <string name="permdesc_broadcastSticky">"Permet à l'application d'envoyer des intentions de diffusion \"persistantes\", qui perdurent une fois la diffusion terminée. Une utilisation excessive peut ralentir le téléphone ou le rendre instable en l'obligeant à utiliser trop de mémoire."</string>
   <string name="permdesc_callCompanionApp">"Permet à l'application de voir et de contrôler les appels en cours sur l'appareil. Cela comprend des informations telles que les numéros d'appel pour les appels et l'état des appels."</string>
@@ -974,7 +974,7 @@ Veuillez réessayer dans %2$d secondes."</string>
   <string name="permdesc_readCallLog">"Cette application peut lire l'historique de vos appels."</string>
   <string name="permdesc_readCellBroadcasts">"Permet à l'application de lire les messages que votre appareil reçoit via un canal de diffusion mobile. Dans certaines zones géographiques, des alertes vous sont envoyées afin de vous prévenir en cas de situation d'urgence. Les applications malveillantes peuvent venir perturber les performances ou le fonctionnement de votre appareil lorsqu'un message est reçu via un canal de diffusion mobile."</string>
   <string name="permdesc_readContacts">"Permet à l'application de lire les données de vos contacts stockées sur votre téléphone. Cette permission permet aux applications d'enregistrer vos données de contact, et les applications malveillantes peuvent partager des données de contact à votre insu."</string>
-  <string name="permdesc_readHistoryBookmarks">"Permet à l'application d'accéder à l'historique de toutes les URL auxquelles le navigateur a accédé, ainsi qu'à l'ensemble des favoris du navigateur. Remarque : il est possible que cette autorisation ne soit pas appliquée par les navigateurs tiers ni par d'autres applications permettant de naviguer sur le Web."</string>
+  <string name="permdesc_readHistoryBookmarks">"Permet à l'application d'accéder à l'historique de toutes les URL auxquelles le navigateur a accédé, ainsi qu'à l'ensemble des favoris du navigateur. Remarque : Il est possible que cette autorisation ne soit pas appliquée par les navigateurs tiers ni par d'autres applications permettant de naviguer sur le Web."</string>
   <string name="permdesc_readInstallSessions">"Permet à une application d'accéder aux sessions d'installation. Cela lui permet de consulter les détails relatifs à l'installation des packages actifs."</string>
   <string name="permdesc_readNetworkUsageHistory">"Permet à l'application de lire l'historique d'utilisation de réseaux et d'applications spécifiques."</string>
   <string name="permdesc_readPhoneNumbers">"Permet à l'application d'accéder aux numéros de téléphone de l'appareil."</string>
@@ -1025,7 +1025,7 @@ Veuillez réessayer dans %2$d secondes."</string>
   <string name="permdesc_writeCallLog">"Permet à l'application de lire le journal d'appels de votre téléphone, y compris les données relatives aux appels entrants et sortants. Des applications malveillantes peuvent utiliser cette fonctionnalité pour effacer ou modifier votre journal d'appels."</string>
   <string name="permdesc_writeContacts">"Permet à l'application de modifier les données de vos contacts stockées sur votre téléphone. Cette permission permet aux applications de supprimer les données de contact."</string>
   <string name="permdesc_writeGeolocationPermissions">"Permet à l'application de modifier les autorisations de géolocalisation du navigateur. Des applications malveillantes peuvent exploiter cette fonctionnalité pour permettre l'envoi de données de localisation à des sites Web arbitraires."</string>
-  <string name="permdesc_writeHistoryBookmarks">"Permet à l'application de modifier l'historique du navigateur ou les favoris enregistrés sur votre téléphone. Cette autorisation peut lui permettre d'effacer ou de modifier les données du navigateur. Remarque : il est possible que cette autorisation ne soit pas appliquée par les navigateurs tiers ni par d'autres applications permettant de naviguer sur le Web."</string>
+  <string name="permdesc_writeHistoryBookmarks">"Permet à l'application de modifier l'historique du navigateur ou les favoris enregistrés sur votre téléphone. Cette autorisation peut lui permettre d'effacer ou de modifier les données du navigateur. Remarque : Il est possible que cette autorisation ne soit pas appliquée par les navigateurs tiers ni par d'autres applications permettant de naviguer sur le Web."</string>
   <string name="permdesc_writeSettings">"Permet à l'application de modifier les paramètres du système. Des applications malveillantes peuvent exploiter cette fonctionnalité pour corrompre la configuration de votre système."</string>
   <string name="permdesc_writeSyncSettings">"Permet à une application de modifier les paramètres de synchronisation d'un compte. Cette autorisation peut, par exemple, être utilisée pour activer la synchronisation de l'application Contacts avec un compte."</string>
   <string name="permgroupbackgroundrequest_location">"Allow Allow;b>%1$s&lt;/b> to access this device's location &lt;b>all the time&lt;/b>?"</string>
@@ -1093,9 +1093,9 @@ pour le compte \"%s\""</string>
   <string name="permlab_bindConditionProviderService">"S'associer à un service de fournisseur de conditions"</string>
   <string name="permlab_bindDreamService">"Associer à un service d'écran de veille interactif"</string>
   <string name="permlab_bindNotificationListenerService">"S'associer à l'interface de niveau supérieur d'un service d'écoute des notifications"</string>
-  <string name="permlab_bluetooth">Associer à appareils Bluetooth</string>
+  <string name="permlab_bluetooth">Associer à périphériques Bluetooth</string>
   <string name="permlab_bluetoothAdmin">Accéder aux paramètres Bluetooth</string>
-  <string name="permlab_bodySensors">Accéder capteurs corp. (ex : cardiofréquencemètres)</string>
+  <string name="permlab_bodySensors">Accéder aux capteurs corp. (ex.: cardiofréquencemètre)</string>
   <string name="permlab_broadcastSticky">"Envoi d'une diffusion persistante"</string>
   <string name="permlab_callCompanionApp">Voir et contrôler les appels par le biais du système.</string>
   <string name="permlab_callPhone">Appeler directement les numéros de téléphone</string>
@@ -1191,7 +1191,7 @@ pour le compte \"%s\""</string>
   <string name="permlab_writeSyncSettings">Activer/désactiver la synchronisation</string>
   <string name="perms_description_app">Fourni par %1$s</string>
   <string name="perms_new_perm_prefix">
-    <font fgcolor="#ff33b5e5" size="12">NOUVEAU</font>:</string>
+    <font fgcolor="#ff33b5e5" size="12">NOUVEAU</font> :</string>
   <string name="petabyteShort">" Po"</string>
   <string name="phoneTypeAssistant">Assistant</string>
   <string name="phoneTypeCallback">Rappel</string>
@@ -1217,9 +1217,9 @@ pour le compte \"%s\""</string>
   <string name="policydesc_disableCamera">"Empêcher l'utilisation de tous les appareils photos"</string>
   <string name="policydesc_disableKeyguardFeatures">"Empêchez l'utilisation de certaines fonctionnalités du verrouillage de l'écran."</string>
   <string name="policydesc_encryptedStorage">"Exiger le chiffrement des données d'application stockées"</string>
-  <string name="policydesc_expirePassword">"Modifier la fréquence de modification du mot de passe, du code d'accès ou du schéma de verrouillage de l'écran"</string>
+  <string name="policydesc_expirePassword">"Modifier la fréquence de modification du mot de passe, du code PIN ou du schéma de verrouillage de l'écran"</string>
   <string name="policydesc_forceLock">"Gérer le mode et les conditions de verrouillage de l'écran"</string>
-  <string name="policydesc_limitPassword">"Gérer le nombre et le type de caractères autorisés dans les mots de passe et les codes d'accès de verrouillage de l'écran"</string>
+  <string name="policydesc_limitPassword">"Gérer le nombre et le type de caractères autorisés dans le mot de passe ou le code PIN de verrouillage de l'écran"</string>
   <string name="policydesc_resetPassword">"Modifier le verrouillage de l'écran"</string>
   <string name="policydesc_setGlobalProxy">"Indiquer le proxy global à utiliser pour l'appareil lorsque la règle est activée. Seul le propriétaire de l'appareil peut définir le proxy global."</string>
   <string name="policydesc_watchLogin">"Contrôler le nombre de mots de passe incorrects saisis pour le déverrouillage de l'écran, puis verrouiller le téléphone ou effacer toutes ses données si le nombre maximal de tentatives de saisie du mot de passe est atteint"</string>

@@ -230,13 +230,13 @@
     <string name="bh_recharge_record">Enregistrer la recharge</string>
     <string name="bh_recharge_title">Rechargement</string>
     <string name="bh_recommend">Recommandé</string>
-    <string name="bh_refresh_time">Dernière mise à jour: %1$s</string>
+    <string name="bh_refresh_time">Dernière mise à jour : %1$s</string>
     <string name="bh_refreshing_sim_state">Actualisation du statut de la carte SIM…</string>
     <string name="bh_return_home_page">"Revenir à la page d'accueil"</string>
     <string name="bh_save">Enregistrer</string>
     <string name="bh_save_desc">"Enregistrer ce numéro pour l'utiliser lors de la prochaine recharge"</string>
     <string name="bh_save_sccuss">Enregistré avec succès</string>
-    <string name="bh_saved_number">Numéro enregistré: %1$s</string>
+    <string name="bh_saved_number">Numéro enregistré : %1$s</string>
     <string name="bh_set_package">"Paramétrer le forfait de l'opérateur"</string>
     <string name="bh_settings">Paramètres</string>
     <string name="bh_should_login_to_buy">"Identifiez-vous sur votre Compte Mi pour pouvoir acheter des minutes d'appel et des données mobiles"</string>
@@ -351,8 +351,8 @@
     <string name="callrecordview_item_op_time_only_minutes">%d min</string>
     <string name="callrecordview_item_op_time_only_seconds">%d s</string>
     <string name="callrecordview_item_op_time_rejected">Rejeté</string>
-    <string name="callrecordview_item_op_time_short_incoming">"entrant: "</string>
-    <string name="callrecordview_item_op_time_short_outgoing">"sortant: "</string>
+    <string name="callrecordview_item_op_time_short_incoming">"entrant : "</string>
+    <string name="callrecordview_item_op_time_short_outgoing">"sortant : "</string>
     <string name="callrecordview_item_op_video">Vidéo</string>
     <string name="callrecordview_menu_add_call_note">"Ajouter une note d'appel"</string>
     <string name="callrecordview_menu_aiphone">AI calls</string>
@@ -440,7 +440,7 @@
     <string name="confirm_delete_contact_all_call_logs">"Effacer tout l'historique de %s ?"</string>
     <string name="confirm_delete_selected_all_call_logs">"Effacer l'historique des appels ?"</string>
     <string name="confirm_delete_sim_entry_miui_title">Supprimer</string>
-    <string name="confirm_export_message">Votre liste de contacts va être exporter dans le fichier: %s.</string>
+    <string name="confirm_export_message">Votre liste de contacts va être exporter dans le fichier : %s.</string>
     <string name="confirm_export_title">Exporter les contacts ?</string>
     <string name="confirming_pay_result">Confirmation du paiement…</string>
     <string name="connections">Connexions</string>
@@ -694,7 +694,7 @@ Les cartes de contact ont été désactivées"</string>
     <string name="dialog_voicemail_airplane_mode_message">Pour appeler votre boîte vocale, désactiver le mode avion.</string>
     <string name="dialog_voicemail_not_ready_message">Pour paramétrer la messagerie vocale, allez dans Menu > Paramètres.</string>
     <string name="directory_search_label">Dossier</string>
-    <string name="disclaimer_text">"Les Pages jaunes obtiennent les informations sur votre solde en envoyant un SMS. Votre transporteur peut mettre à jour ces informations avec un délai, de sorte que les numéros que vous obtenez peuvent ne pas être exacts. Si vous voyez une erreur, vous pouvez signaler le SMS pour nous aider à améliorer ce service. 
+    <string name="disclaimer_text">"Les Pages jaunes obtiennent les informations sur votre solde en envoyant un SMS. Votre opérateur peut mettre à jour ces informations avec un délai, de sorte que les numéros que vous obtenez peuvent ne pas être exacts. Si vous voyez une erreur, vous pouvez signaler le SMS pour nous aider à améliorer ce service. 
 
 Pour éviter les requêtes fréquentes, nous mettons à jour l'information de votre solde une fois par jour."</string>
     <string name="disclaimer_title">Avertissement</string>
@@ -750,7 +750,7 @@ Pour éviter les requêtes fréquentes, nous mettons à jour l'information de vo
     <string name="export_to_sim_title">Exportation…</string>
     <string name="export_vcard_description">"Exporter une vCard vers le stockage de l'appareil"</string>
     <string name="exporting_contact_failed_message">"Impossible d'exporter les données du contact.
-Raison: \"%s\""</string>
+Raison : \"%s\""</string>
     <string name="exporting_contact_failed_title">Exportation impossible</string>
     <string name="exporting_contact_list_message">Exportés vers %s.</string>
     <string name="exporting_contact_list_progress">%1$s de %2$s contacts</string>
@@ -759,7 +759,7 @@ Raison: \"%s\""</string>
     <string name="exporting_vcard_finished_title">Exportation de %s terminée.</string>
     <string name="external_profile_title">Mon profil %1$s</string>
     <string name="fail_reason_could_not_initialize_exporter">"Échec de l'initialisation du module d'exportation : \"%s\"."</string>
-    <string name="fail_reason_could_not_open_file">"Impossible d'ouvrir \"%1$s\": %2$s."</string>
+    <string name="fail_reason_could_not_open_file">"Impossible d'ouvrir \"%1$s\" : %2$s."</string>
     <string name="fail_reason_error_occurred_during_export">"Une erreur s'est produite lors de l'exportation : \"%s\"."</string>
     <string name="fail_reason_failed_to_collect_vcard_meta_info">Impossible de récupérer les données du fichier Vcard.</string>
     <string name="fail_reason_failed_to_read_files">Un ou plusieurs fichiers ne peuvent pas être importés (%s).</string>
@@ -1118,7 +1118,7 @@ Raison: \"%s\""</string>
     <string name="name_prefix">Préfixe de nom</string>
     <string name="name_suffix">Suffixe de nom</string>
     <string name="next">Suivant</string>
-    <string name="next_birthday">Prochain anniversaire: %s</string>
+    <string name="next_birthday">Prochain anniversaire : %s</string>
     <string name="nfc_vcard_file_name">Contact reçu par NFC</string>
     <string name="nicknameLabelsGroup">Surnom</string>
     <string name="nickname_editor_title">Éditer le pseudo</string>
@@ -1132,7 +1132,7 @@ Raison: \"%s\""</string>
     <string name="noContactsWithPhoneNumbers">Aucun contact avec numéro de téléphone</string>
     <string name="noFavoritesHelpText">"Vous n'avez pas de favoris.
 
-Pour ajouter un contact à votre liste de favoris:
+Pour ajouter un contact à votre liste de favoris :
 
 "&lt;li>Appuyez sur le &lt;b>Contacts&lt;/b>" tab
         "&lt;li>Appuyez sur le &lt;b>Contacts&lt;/b>" tab
@@ -1267,7 +1267,7 @@ Pour ajouter un contact à votre liste de favoris:
     <string name="pref_title_account_import">Importer des contacts</string>
     <string name="pref_title_import_from_account">Importer vers le compte Mi</string>
     <string name="preference_auto_ip_summary_disable">Désactivé</string>
-    <string name="preference_auto_ip_summary_on">Préfixe du fournisseur: %s</string>
+    <string name="preference_auto_ip_summary_on">Préfixe du fournisseur : %s</string>
     <string name="preference_auto_ip_title">Préfixe Automatique</string>
     <string name="preference_contacts">Contacts</string>
     <string name="preference_contacts_display">"Préférences d'affichage"</string>
@@ -1398,11 +1398,11 @@ Pour commencer, appuyez sur l'icône fusionner en bas de votre écran."</string>
     <string name="scan_merge">Recherche de contacts en double…</string>
     <string name="scan_not_installed">"Installez d'abord le scanner"</string>
     <string name="scan_qrcode_card_hint1">Scannez le QR code ci-dessus</string>
-    <string name="scanning_sdcard_failed_message">Raison: \"%s\".</string>
+    <string name="scanning_sdcard_failed_message">Raison : \"%s\".</string>
     <string name="scanning_sdcard_failed_title">"Impossible d'analyser la mémoire"</string>
     <string name="sdnContacts_empty">Aucun SDN</string>
     <string name="sdnContacts_emptyLoading">Chargement SDN…</string>
-    <string name="searchHint">Rech. des contacts</string>
+    <string name="searchHint">Rechercher dans les contacts</string>
     <string name="search_batch_delete">Organiser;Contacts</string>
     <string name="search_contacts_display">Contacts;Afficher</string>
     <string name="search_contacts_more">Organiser;Contacts</string>
@@ -1587,7 +1587,7 @@ Pour commencer, appuyez sur l'icône fusionner en bas de votre écran."</string>
     <string name="take_photo">Prendre une photo</string>
     <string name="text_buy_time">Commande créée</string>
     <string name="text_charge_name">Montant</string>
-    <string name="text_misim_balance">Solde: %1$s CNY</string>
+    <string name="text_misim_balance">Solde : %1$s</string>
     <string name="text_misim_used_flow_month">Utilisé ce mois-ci</string>
     <string name="text_msim_balance">"Utilisé aujourd'hui"</string>
     <string name="text_msim_used_flow">"Utilisé aujourd'hui"</string>
@@ -1696,7 +1696,7 @@ Pour commencer, appuyez sur l'icône fusionner en bas de votre écran."</string>
 
 Le processus de mise à jour réclame %s Mo de stockage interne. 
 
-Choisissez une des options suivantes:"</string>
+Choisissez une des options suivantes :"</string>
     <string name="upgrade_out_of_memory_retry">Réessayer la mise à jour</string>
     <string name="upgrade_out_of_memory_uninstall">Désinstaller des applications</string>
     <string name="use_photo_as_primary">Utiliser cette photo</string>

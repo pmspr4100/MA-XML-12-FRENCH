@@ -323,7 +323,7 @@
   <string name="adb_device_fingerprint_title_format">"Empreinte de l'appareil : %1$s"</string>
   <string name="adb_device_forget">Oublier</string>
   <string name="adb_keys_warning_message">"Révoquer l'accès au débogage USB pour tous les ordinateurs que vous ’avez précédemment autorisés ?"</string>
-  <string name="adb_pair_method_code_summary">"Associer de nouveaux appareils à l'aide d'un code à six chiffres"</string>
+  <string name="adb_pair_method_code_summary">"Associer de nouveaux appareils à l'aide d'un code à 6 chiffres"</string>
   <string name="adb_pair_method_code_title">"Associer l'appareil avec le code d'association"</string>
   <string name="adb_pair_method_qrcode_summary">"Associer de nouveaux appareils à l'aide du scanner de QR code"</string>
   <string name="adb_pair_method_qrcode_title">"Associer l'appareil avec le QR code"</string>
@@ -379,7 +379,7 @@
   <string name="as_unimportant">Sans importance</string>
   <string name="ask_me_later_bubbles">Ask me later</string>
   <string name="aspect_cancel">Annuler</string>
-  <string name="aspect_message">Cette application sera lancée à nouveau en mode plein écran. Si vous rencontrez des problèmes, vous pouvez désactiver le mode plein écran pour cette application dans les paramètres > Affichage plein écran > Mode plein écran.</string>
+  <string name="aspect_message">Cette application sera lancée à nouveau en mode plein écran. Si vous rencontrez des problèmes, vous pouvez désactiver le mode plein écran pour cette application dans Paramètres > Affichage plein écran > Mode plein écran.</string>
   <string name="aspect_ok">OK </string>
   <string name="aspect_title">Mode plein écran</string>
   <string name="audio_effect_custom">Configurer</string>
@@ -472,23 +472,23 @@ Réessayez dans %d secondes."</string>
   <string name="block_record_notification_title">Notifications cachées</string>
   <string name="bluetooth_a2dp_profile_summary_connected">"Connecté à l'audio média"</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Utiliser pour audio média</string>
-  <string name="bluetooth_active_battery_level">Actif, batterie %1$s</string>
-  <string name="bluetooth_active_battery_level_untethered">Actif, L : %1$s batterie, R : %2$s batterie</string>
+  <string name="bluetooth_active_battery_level">Actif, %1$s de batterie</string>
+  <string name="bluetooth_active_battery_level_untethered">Actif, G : %1$s - D : %2$s (batterie)</string>
   <string name="bluetooth_active_no_battery_level">Actif</string>
-  <string name="bluetooth_battery_level">Batterie %1$s</string>
-  <string name="bluetooth_battery_level_untethered">L : %1$s batterie, R : %2$s batterie</string>
+  <string name="bluetooth_battery_level">%1$s de batterie</string>
+  <string name="bluetooth_battery_level_untethered">G : %1$s - D : %2$s (batterie)</string>
   <string name="bluetooth_connected">Connecté %1$s</string>
-  <string name="bluetooth_connected_battery_level">"Connecté |  Batterie %1$s%2$s"</string>
-  <string name="bluetooth_connected_no_a2dp">Connecté (sans média) %1$s</string>
-  <string name="bluetooth_connected_no_a2dp_battery_level">"Connecté (sans média) |  Batterie %1$s%2$s"</string>
-  <string name="bluetooth_connected_no_headset">Connecté (sans téléphone) %1$s</string>
-  <string name="bluetooth_connected_no_headset_battery_level">"Connecté (sans téléphone) |  Batterie %1$s%2$s"</string>
-  <string name="bluetooth_connected_no_headset_no_a2dp">Connecté (sans téléphone ou média) %1$s</string>
-  <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">"Connecté (sans téléphone ou média) |  Batterie %1$s%2$s"</string>
-  <string name="bluetooth_connected_no_map">"Connecté (pas d'accès au messages) %1$s"</string>
+  <string name="bluetooth_connected_battery_level">Connecté | Batterie %1$s%2$s</string>
+  <string name="bluetooth_connected_no_a2dp">Connecté (sans audio contenu multimédia) %1$s</string>
+  <string name="bluetooth_connected_no_a2dp_battery_level">Connecté (sans audio contenu multimédia) | Batterie %1$s%2$s</string>
+  <string name="bluetooth_connected_no_headset">Connecté (sans audio appels tél.) %1$s</string>
+  <string name="bluetooth_connected_no_headset_battery_level">Connecté (sans audio appels tél.) | Batterie %1$s%2$s</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp">Connecté (sans audio appels tél./contenu multimédia) %1$s</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Connecté (sans audio appels tél./contenu multimédia) | Batterie %1$s%2$s</string>
+  <string name="bluetooth_connected_no_map">Connecté (sans accès aux messages) %1$s</string>
   <string name="bluetooth_connecting">Connexion…</string>
   <string name="bluetooth_disable_absolute_volume">Désactiver le volume absolu</string>
-  <string name="bluetooth_disable_absolute_volume_summary">"Désactivez la fonction de volume absolu Bluetooth en cas de problèmes de volume avec des périphériques distants tels qu'un volume trop élevé ou un manque de contrôle."</string>
+  <string name="bluetooth_disable_absolute_volume_summary">"Désactivez le volume absolu pour les périphériques Bluetooth si le volume sonore est trop élevé ou s'il ne peut pas être contrôlé"</string>
   <string name="bluetooth_disconnected">Déconnecté</string>
   <string name="bluetooth_disconnecting">Déconnexion…</string>
   <string name="bluetooth_dun_profile_summary_connected">Connecté au serveur DUN</string>
@@ -662,7 +662,7 @@ Réessayez dans %d secondes."</string>
   <string name="compat_mode_off">"Étirer pour remplir l'écran"</string>
   <string name="compat_mode_on">"Zoomer pour remplir l'écran"</string>
   <string name="confirm">Confirmer</string>
-  <string name="confirm_enable_oem_unlock_text">"AVERTISSEMENT : les fonctionnalités de protection de l'appareil ne fonctionneront pas sur cet appareil tant que ce paramètre sera activé."</string>
+  <string name="confirm_enable_oem_unlock_text">"AVERTISSEMENT : Les fonctionnalités de protection de l'appareil ne fonctionneront pas sur cet appareil tant que ce paramètre sera activé."</string>
   <string name="confirm_enable_oem_unlock_title">Autoriser le déverrouillage OEM ?</string>
   <string name="confirm_pin_msg">Répétez le code PIN</string>
   <string name="connected_via_app">Connecté via %1$s</string>
@@ -785,7 +785,7 @@ Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données.
   <string name="development_settings_summary">"Définir les options pour le développement d'appplication"</string>
   <string name="development_settings_title">Options développeur</string>
   <string name="device_services">"Services de l'appareil"</string>
-  <string name="direct_boot_unaware_dialog_message">"Remarque : vous ne pourrez utiliser ce clavier qu'après un redémarrage uniquement si vous déverrouillez votre appareil."</string>
+  <string name="direct_boot_unaware_dialog_message">"Remarque : Vous ne pourrez utiliser ce clavier qu'après un redémarrage uniquement si vous déverrouillez votre appareil."</string>
   <string name="disable_carrier_button_text">Désactiver eSIM</string>
   <string name="disable_notification_title">Masquer les notifications</string>
   <string name="disable_overlays">Désactiver les superpostions HW</string>
@@ -903,7 +903,7 @@ Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données.
   <string name="face_data_manage_unlock_title">Déverrouiller avec les données de visage</string>
   <string name="face_data_siggesstion_next">Suivant</string>
   <string name="face_data_siggesstion_next_time">Suivant (%d sec)</string>
-  <string name="face_data_suggesstion_first">"Problèmes de sécurité : le déverrouillage faciale est moins sécurisé qu'un code PIN, un mot de passe ou un schéma. Votre appareil pourrait être déverrouillé avec votre photo, aussi bien par des personnes ou objets avec une apparence similaire."</string>
+  <string name="face_data_suggesstion_first">"Problèmes de sécurité : Le déverrouillage faciale est moins sécurisé qu'un code PIN, un mot de passe ou un schéma. Votre appareil pourrait être déverrouillé avec votre photo, aussi bien par des personnes ou objets avec une apparence similaire."</string>
   <string name="face_data_suggesstion_second">"Assurez-vous que toutes les parties de votre visage ne sont pas couvertes d'objets et sont clairement visibles. Votre visage devrait être bien éclairé également."</string>
   <string name="face_dialog_looking_for_face">Je te cherchais...</string>
   <string name="face_unlock_adjust_distance">"Assurez-vous que la distance entre votre visage et l'écran est optimale."</string>
@@ -951,7 +951,7 @@ Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données.
   <string name="face_unlock_success_show_message_toast">"Les notifications seront affichées sur l'écran de verrouillage"</string>
   <string name="face_unlock_success_stay_screen_msg">"Restez sur l'écran de verrouillage une fois votre visage vérifié. Balayez vers le haut pour ouvrir l'écran d'accueil."</string>
   <string name="face_unlock_success_stay_screen_title">"Reste sur l'écran de verrouillage après le déverrouillage"</string>
-  <string name="failed_to_open_app_settings_toast">"Echec de l'ouverture des paramètres pour %1$s"</string>
+  <string name="failed_to_open_app_settings_toast">"Échec de l'ouverture des paramètres pour %1$s"</string>
   <string name="finger_error_single_mode">"Impossible d'utiliser le lecteur d'empreintes digitales en mode Une main. Quittez le mode Une main et réessayez."</string>
   <string name="fingerprint_add_text">"L'interface d'empreinte digitale a été mise à jour. Ajoutez de nouveau votre empreinte digitale."</string>
   <string name="fingerprint_add_title">Ajouter une empreinte digitale</string>
@@ -1235,8 +1235,8 @@ Utilisez uniquement le chargeur fourni."</string>
   <string name="keyguard_password_enter_puk_prompt">Code PUK de la SIM</string>
   <string name="keyguard_password_entry_touch_hint"><font size="17">Touchez pour saisir le mot de passe</font></string>
   <string name="keyguard_password_wrong_pin_code">Code PIN incorrect.</string>
-  <string name="keyguard_permanent_disabled_sim_instructions">"Votre Carte SIM a été désactivée de manière permanente.
-Contactez votre opérateur pour une autre Carte SIM."</string>
+  <string name="keyguard_permanent_disabled_sim_instructions">"Votre carte SIM a été désactivée de manière permanente.
+Contactez votre opérateur pour en obtenir une nouvelle."</string>
   <string name="keyguard_permanent_disabled_sim_message_short">Carte SIM inutilisable.</string>
   <string name="keyguard_plugged_in">%s • En charge</string>
   <string name="keyguard_plugged_in_charging_fast">%s • Charge rapide</string>
@@ -1269,10 +1269,10 @@ Réessayer dans %3$d secondes."</string>
   <string name="kg_invalid_sim_puk_hint">Le code PUK doit être de 8 chiffres.</string>
   <string name="kg_login_too_many_attempts">Trop de tentatives de schéma</string>
   <string name="kg_password_instructions">Saisir le mot de passe</string>
-  <string name="kg_password_pin_failed">"Échec de l'opération SIM PIN !"</string>
-  <string name="kg_password_puk_failed">"Échec de l'opération SIM PUK !"</string>
-  <string name="kg_password_wrong_pin_code_pukked">Code SIM PIN incorrect. Contactez votre opérateur pour déverrouiller votre appareil.</string>
-  <string name="kg_password_wrong_puk_code_dead">La carte SIM est inutilisable. Contactez votre transporteur.</string>
+  <string name="kg_password_pin_failed">"Échec de l'opération !"</string>
+  <string name="kg_password_puk_failed">"Échec de l'opération !"</string>
+  <string name="kg_password_wrong_pin_code_pukked">Code PIN incorrect. Contactez votre opérateur si vous ne possédez pas le code PUK de la carte SIM.</string>
+  <string name="kg_password_wrong_puk_code_dead">La carte SIM est inutilisable. Contactez votre opérateur pour en obtenir une nouvelle.</string>
   <string name="kg_pattern_instructions">Dessiner votre schéma</string>
   <string name="kg_pin_accepted">Code accepté !</string>
   <string name="kg_pin_instructions">Saisir le code PIN</string>
@@ -1746,7 +1746,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="phone_locked_foget_password_method_next">Suivant</string>
   <string name="phone_locked_foget_password_ok">Compris</string>
   <string name="phone_locked_forget_password_suggesstion_one_content">"&lt;Data>Mettez votre appareil hors tension , appuyez et maintenez le &lt;font color=#a5220e>bouton d'alimentation&lt;/font> et le &lt;font color=#a5220e> bouton Volume haut&lt;/font> simultanément jusqu'à ce que voyez le logo Mi.;&lt;/Data>"</string>
-  <string name="phone_locked_forget_password_suggesstion_two_content">"&lt;Data>sélectionner&lt;font color=#a5220e>\"Effacer &amp;amp; Réinitialiser\"&lt;/font> et patientez jusqu'à ce que l'appareil redémarre.;&lt;/Data>"</string>
+  <string name="phone_locked_forget_password_suggesstion_two_content">"&lt;Data>sélectionner&lt;font color=#a5220e>\"Effacer &amp; Réinitialiser\"&lt;/font> et patientez jusqu'à ce que l'appareil redémarre.;&lt;/Data>"</string>
   <string name="phone_locked_forget_password_suggesstions_title">Comment effacer les données ?</string>
   <string name="phone_locked_string">Appareil verrouillé</string>
   <string name="picture_color_mode">Mode image couleur</string>
@@ -1879,7 +1879,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="quick_settings">Paramètres rapides</string>
   <string name="quick_settings_autobrightness_label">Luminosité auto</string>
   <string name="quick_settings_batterysaver_label">Économiseur de batterie</string>
-  <string name="quick_settings_bluetooth_detail_empty_text">Aucun appareil associé à proximité</string>
+  <string name="quick_settings_bluetooth_detail_empty_text">Aucun périphérique associé à proximité</string>
   <string name="quick_settings_bluetooth_label">Bluetooth</string>
   <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (%d appareils)</string>
   <string name="quick_settings_bluetooth_off_label">Bluetooth désactivé</string>
@@ -2314,7 +2314,7 @@ Glissez vers le bas pour verrouiller"</string>
   <string name="structure_face_data_open_cameraing">"Lancement de l'appareil photo…"</string>
   <string name="structure_face_data_rgb_input_face">Placez votre visage dans le cadre</string>
   <string name="structure_face_data_suggestion_text">"Assurez-vous que toutes les parties de votre visage sont clairement visibles. Ne portez pas de chapeaux, de lunettes de soleil ou d'autres accessoires qui pourraient couvrir votre visage pendant l'enregistrement de données de visages en 3D. Assurez-vous que votre visage est également allumé."</string>
-  <string name="structure_face_data_suggestion_warning_text">"Remarque : l'utilisation de données de visage 3D est légèrement moins sûre que l'utilisation d'un mot de passe. Les personnes ou les objets qui vous ressemblent pourraient être en mesure de déverrouiller votre appareil."</string>
+  <string name="structure_face_data_suggestion_warning_text">"Remarque : L'utilisation de données de visage 3D est légèrement moins sûre que l'utilisation d'un mot de passe. Les personnes ou les objets qui vous ressemblent pourraient être en mesure de déverrouiller votre appareil."</string>
   <string name="structure_face_delete_data_dialog_msg">"Impossible de lancer la l'appareil photo et obtenir un aperçu. Réessayez."</string>
   <string name="structure_face_delete_data_dialog_msg_retry">Veuillez réessayer</string>
   <string name="structure_face_delete_data_dialog_title">"Impossible de lancer l'appareil photo"</string>
