@@ -66,7 +66,7 @@
   <string name="auto_backup_user_data">Applications</string>
   <string name="backup">Sauvegarde</string>
   <string name="backup_data">Choisir les éléments à sauvegarder</string>
-  <string name="backup_delete">Supprimer:</string>
+  <string name="backup_delete">Supprimer :</string>
   <string name="backup_empty">Aucune sauvegarde.</string>
   <string name="backup_empty_info">Sauvegarder vos données, paramètres et applications</string>
   <string name="backup_empty_info_onpad">" Sauvegarder vos données, paramètres et applications"</string>
@@ -78,7 +78,7 @@
   <string name="backup_hint_onpad">Laissez votre appareil allumé</string>
   <string name="backup_hint_pad">Laissez votre appareil allumé</string>
   <string name="backup_is_running">"Sauvegarde de l'appareil"</string>
-  <string name="backup_new">Nouveau:</string>
+  <string name="backup_new">Nouveau :</string>
   <string name="backup_progress">Sauvegarde en cours…</string>
   <string name="backup_report">Afficher les détails du message</string>
   <string name="backup_security_tips_message">Certaines applications peuvent ne pas être sauvegardées ou restaurées.</string>
@@ -113,12 +113,12 @@
   <string name="close_twice_auth_btn">"Désactiver l'authentification à 2 facteurs"</string>
   <string name="close_twice_auth_note">"Remarque :
 Après la création d'une nouvelle question de sécurité et la confirmation de votre date de naissance, la fonction d'authentification à 2 facteurs sera désactivée. Si vous ne voyez pas l'option pour la désactiver sur la page du compte de l'identifiant Apple, vous ne pouvez pas alors la désactiver."</string>
-  <string name="close_twice_auth_operation">"URL:
+  <string name="close_twice_auth_operation">"URL :
 https://appleid.apple.com/#!&amp;page=signin pour désactiver"</string>
   <string name="close_twice_auth_step_1">"1. Ouvrez n'importe quel navigateur sur n'importe quel ordinateur et rendez-vous sur appleid.apple.com."</string>
   <string name="close_twice_auth_step_2">"2. Connectez-vous à l'identifiant Apple dont vous souhaitez désactiver l'authentification à 2 facteurs, allez à la section \"Sécurité\" des paramètres du comptes et choisissez \"Éditer\"."</string>
   <string name="close_twice_auth_step_3">"3. Cliquez sur \"Désactiver l'authentification à 2 facteurs\". Cliquez une fois de plus pour confirmer."</string>
-  <string name="close_twice_auth_steps">"Suivez ces étapes pour désactiver l'authentification à 2 facteurs de l'identifiant Apple:"</string>
+  <string name="close_twice_auth_steps">"Suivez ces étapes pour désactiver l'authentification à 2 facteurs de l'identifiant Apple :"</string>
   <string name="close_twice_auth_tutor">"Désactivez l'authentification à 2 facteurs de l'identifiant Apple"</string>
   <string name="cloud_app_name">Sauvegarde Mi Cloud</string>
   <string name="cloud_backup_hint">Pour accéder à vos sauvegardes , connectez-vous maintenant</string>
@@ -249,7 +249,7 @@ Ne pas modifier ou renommer les fichiers de sauvegarde."</string>
   <string name="hsa_tip_message_with_device">"1. Un message avec le code de vérification a été envoyé à \"%s\" associé à votre ID Apple.
 
 2. Désactivez l'authentification à 2 facteurs si le code de vérification ne fonctionne pas."</string>
-  <string name="hsa_tip_title">Astuces:</string>
+  <string name="hsa_tip_title">Astuces :</string>
   <string name="hsa_title">Authentification à 2 facteurs</string>
   <string name="hsa_verify_failed">"L'authentification à 2 facteurs a échoué"</string>
   <string name="hsa_verify_failed_message">"L'authentification à 2 facteurs a échoué. Vous pouvez réessayer ou désactiver l'authentification à 2 facteurs."</string>
@@ -261,7 +261,7 @@ Ne pas modifier ou renommer les fichiers de sauvegarde."</string>
 2. Déplacez le bouton pour Contacts et autres éléments.
 3. Sélectionnez Photos et déplacez le bouton pour la bibliothèque Photo de iCloud."</string>
   <string name="icloud_how_to_backup_tip_summary">Pour importer les données depuis iOS, vous devez créer une sauvegarde iCloud.</string>
-  <string name="icloud_how_to_backup_tip_title">Astuces:</string>
+  <string name="icloud_how_to_backup_tip_title">Astuces :</string>
   <string name="icloud_login_title">Se connecter à iCloud</string>
   <string name="icloud_need_sync">"Pour importer les données depuis iOS, 
 ous devez d'abord créer une sauvegarde iCloud."</string>
@@ -276,12 +276,12 @@ ous devez d'abord créer une sauvegarde iCloud."</string>
   <string name="import_from_xiaomi_account_hint2">Si vous avez déjà une sauvegarde, appuyez sur Suivant.</string>
   <string name="import_from_xiaomi_account_hint_title">"Utilisez Mi Talk pour sauvegarder vos contacts sur d'autres appareils."</string>
   <string name="import_tip_summary">En raison des problèmes de compatibilité, vous pouvez seulement transférer partiellement les données depuis vos appareil iOS. Assurez-vous de créer une sauvegarde iCloud avant de commencer le transfert.</string>
-  <string name="lack_perm_msg">Mi Transfert a besoin des autorisations suivantes: &lt;b>%s&lt;/b>.</string>
+  <string name="lack_perm_msg">Mi Transfert a besoin des autorisations suivantes : &lt;b>%s&lt;/b>.</string>
   <string name="lack_perm_title">Permissions requise</string>
-  <string name="list_footer_tip_title">Astuces:</string>
+  <string name="list_footer_tip_title">Astuces :</string>
   <string name="loading_data">Chargement des données</string>
   <string name="local_app_name">Sauvegarde</string>
-  <string name="local_back_up_detail_description">"Note:
+  <string name="local_back_up_detail_description">"Note :
 1. Pour éviter la perte de données, copier les sauvegardes locales vers votre ordinateur.
 2. Toujours copier les sauvegardes locales vers votre ordinateur avant d'effectuer une réinitialisation d'usine; sinon sauvegardes locales seront perdues.
 3. Où sont stockées les sauvegardes locales ? %1$s"</string>
@@ -302,7 +302,7 @@ ous devez d'abord créer une sauvegarde iCloud."</string>
   <string name="local_main_backup_manager">Gérer les sauvegardes locales</string>
   <string name="local_main_backup_manager_title">Gérer sauvegardes locales</string>
   <string name="local_main_backup_settings">Paramètres sauvegardes locales</string>
-  <string name="local_main_backup_time">Dernière sauvegarde: %1$s</string>
+  <string name="local_main_backup_time">Dernière sauvegarde : %1$s</string>
   <string name="local_main_date_format">dd/MM/yyyy HH:mm</string>
   <string name="local_main_encrypt_backup_summary">Chiffrer les fichiers sauvegardés dans votre compte Mi</string>
   <string name="local_main_encrypt_backup_title">Chiffrement des sauvegardes</string>
@@ -407,7 +407,7 @@ ous devez d'abord créer une sauvegarde iCloud."</string>
   <string name="new_local_button_backup">Sauvegarder</string>
   <string name="new_local_button_restore">Restaurer</string>
   <string name="new_local_click_to_jump">Appuyez pour afficher des instructions détaillées</string>
-  <string name="new_local_detail_description">"Note:
+  <string name="new_local_detail_description">"Note :
 %1$d. Copiez les sauvegardes sur votre ordinateur pour éviter la perte de données. %2$s.
 %3$d. Les sauvegardes seront enregistrées dans MIUI-Backup-AllBackup."</string>
   <string name="new_local_tab_backup">Sauvegarder</string>
@@ -425,7 +425,7 @@ ous devez d'abord créer une sauvegarde iCloud."</string>
   <string name="new_pc_backup_summary1">Sélectionnez les éléments et appuyez sur \"Sauvegarder\".</string>
   <string name="new_pc_backup_summary2">"Connectez votre appareil mobile à l'ordinateur via un câble USB."</string>
   <string name="new_pc_backup_summary2_pad">"Connectez votre appareil mobile à l'ordinateur via un câble USB."</string>
-  <string name="new_pc_backup_summary4">Note: vous pouvez également copier des photos et des vidéos de DCIM.</string>
+  <string name="new_pc_backup_summary4">Note : Vous pouvez également copier des photos et des vidéos de DCIM.</string>
   <string name="new_pc_restore_content1">"%d. Connectez votre appareil mobile à l'ordinateur via un câble USB."</string>
   <string name="new_pc_restore_content1_pad">"%d. Connectez votre appareil mobile à l'ordinateur via un câble USB."</string>
   <string name="new_pc_restore_content2">%d. Copiez la sauvegarde de votre ordinateur vers MIUI-Backup-AllBackup.</string>
@@ -443,7 +443,7 @@ ous devez d'abord créer une sauvegarde iCloud."</string>
   <string name="new_tab_pc_backup">Sauvegarder</string>
   <string name="new_tab_pc_restore">Restaurer</string>
   <string name="new_task_finished">Terminé</string>
-  <string name="new_usb_detail_description">"Note:
+  <string name="new_usb_detail_description">"Note :
 %1$d. Cette méthode permet de sauvegarder les applications tierces et leurs données.
 %2$d. Soyez sûr d'avoir assez d'espace libre sur votre lecteur USB pour stocker les sauvegardes."</string>
   <string name="new_usb_disconnect_dialog_message">"Branchez d'abord un lecteur USB."</string>
@@ -523,7 +523,7 @@ ous devez d'abord créer une sauvegarde iCloud."</string>
   <string name="restore_contact">Restaurer des contacts</string>
   <string name="restore_contact_content">La restauration peut entrainer la duplication de contacts.</string>
   <string name="restore_contacts_hit">Vous devrez peut-être vous reconnecter pour voir votre restauration</string>
-  <string name="restore_counts">Restauration:</string>
+  <string name="restore_counts">Restauration :</string>
   <string name="restore_data">Choisir les éléments à restaurer</string>
   <string name="restore_failed">Impossible de restaurer</string>
   <string name="restore_finished">Restauré avec succès</string>
@@ -769,16 +769,16 @@ pour télécharger et installer Mi Transfert."</string>
   <string name="trans_intro_desc_4">"Mi Transfert utilise Wi-Fi pour transférer des fichiers. C'est pourquoi vous ne pouvez pas vous connecter à internet en utilisant Wi-Fi sur l'un ou l'autre périphérique pendant un transfert. Vous pouvez toujours utiliser des données mobiles. Cependant, certains périphériques plus récents (par exemple, Mi 6) pourraient toujours se connecter à internet en utilisant Wi-Fi pendant les transferts."</string>
   <string name="trans_intro_desc_4_market">"Mi Transfert utilise le Wi-Fi pour transférer les fichiers. C'est pourquoi vous ne pouvez pas vous connecter à internet avec le Wi-Fi sur les deux appareils pendant le transfert. Vous pouvez cependant continuer à utiliser les données mobiles."</string>
   <string name="trans_intro_desc_5">"L'espace de stockage sur les anciens appareils est utilisé pour la création des paquets de transferts. Assurez-vous que vous avez au moins 500 Mo à 1 Go d'espace de stockage disponible sur votre ancien téléphone avant de commencer le transfert."</string>
-  <string name="trans_intro_desc_6">"Il existe plusieurs raisons pour lesquelles cela peut se produire: des problèmes de compatibilité de la version du système et de l'application, des problèmes de réseau, des problèmes de compatibilité spécifiques à un périphérique particulier, etc."</string>
+  <string name="trans_intro_desc_6">"Il existe plusieurs raisons pour lesquelles cela peut se produire : Des problèmes de compatibilité de la version du système et de l'application, des problèmes de réseau, des problèmes de compatibilité spécifiques à un périphérique particulier, etc."</string>
   <string name="trans_intro_desc_7">"Certains profils d'applications (e-banking, finance, etc.) sont associés à un périphérique spécifique pour des raisons de sécurité. Essayez d'effacer les données de l'application ou de réinstaller l'application sur un nouvel appareil."</string>
   <string name="trans_intro_desc_8">"Les données de l'application WeChat et l'historique des conversations peuvent ne pas être transférés intégralement via Mi Transfert. Accédez aux paramètres de WeChat et déconnectez-vous de votre compte pour obtenir plus de chances pour un transfert réussi."</string>
   <string name="trans_intro_desc_9_method_1_dec">"Allez à l'écran d'accueil > Outils > Commentaire."</string>
   <string name="trans_intro_desc_9_method_1_title">"1. Partagez votre avis avec l'application \"Commentaire\"."</string>
   <string name="trans_intro_desc_9_method_2_dec">Envoyez votre commentaire à miui-mover@xiaomi.com.</string>
   <string name="trans_intro_desc_9_method_2_title">2. Envoyez-nous un Email</string>
-  <string name="trans_intro_desc_9_method_3_dec">Goupe QQ de Mi Transfert: 687338378</string>
+  <string name="trans_intro_desc_9_method_3_dec">Goupe QQ de Mi Transfert : 687338378</string>
   <string name="trans_intro_desc_9_method_3_title">3. Signaler des problèmes dans QQ</string>
-  <string name="trans_intro_desc_account">Vous devez vous connecter à nouveau à vos comptes (ex.: Compte Mi, Exchange, Google, etc.) sur le nouvel appareil pour des raisons de sécurité.</string>
+  <string name="trans_intro_desc_account">Vous devez vous connecter à nouveau à vos comptes (ex.: compte Mi, Exchange, Google, etc.) sur le nouvel appareil pour des raisons de sécurité.</string>
   <string name="trans_intro_desc_gms">"En raison de la forte probabilité d'échec des transferts en raison de problèmes de compatibilité, Mi Transfert ne prend pas en charge le transfert des données générées par les applications Google."</string>
   <string name="trans_intro_desc_multiapp">"Mi Transfert ne transfère pas les données des applications clônées afin d'éviter des conflits entre les fichiers."</string>
   <string name="trans_intro_desc_multiuser">Mi Transfert ne peut pas accéder aux éléments dans le Second espace. Déplacez les éléments vers le Premier espace et lancez Mi Transfert depuis ledit espace.</string>
@@ -798,13 +798,13 @@ pour télécharger et installer Mi Transfert."</string>
   <string name="trans_intro_question_9">%d. Quels éléments ne peuvent pas être transférés ?</string>
   <string name="trans_intro_question_9_market">%d. Commentaires.</string>
   <string name="trans_intro_title">F.A.Q</string>
-  <string name="trans_intro_title_account">Comptes et mots de passe:</string>
-  <string name="trans_intro_title_gms">Données générées par les applications Google:</string>
-  <string name="trans_intro_title_multiapp">Données des applications clônées:</string>
-  <string name="trans_intro_title_multiuser">Données du Second espace:</string>
-  <string name="trans_intro_title_new">Sur un nouveau téléphone:</string>
-  <string name="trans_intro_title_old">Sur un ancien téléphone:</string>
-  <string name="trans_intro_title_private">Album privé:</string>
+  <string name="trans_intro_title_account">Comptes et mots de passe :</string>
+  <string name="trans_intro_title_gms">Données générées par les applications Google :</string>
+  <string name="trans_intro_title_multiapp">Données des applications clônées :</string>
+  <string name="trans_intro_title_multiuser">Données du Second espace :</string>
+  <string name="trans_intro_title_new">Sur un nouveau téléphone :</string>
+  <string name="trans_intro_title_old">Sur un ancien téléphone :</string>
+  <string name="trans_intro_title_private">Album privé :</string>
   <string name="trans_main_tutor">"Transférer les contacts, l'historique d'appel, les messages, la disposition du bureau, les applications, les paramètres, etc. sur un nouvel appareil"</string>
   <string name="trans_my_device">Mon appareil</string>
   <string name="trans_native_no_space">"L'espace de stockage sur l'ancien périphérique (%s disponible) est insuffisant.
@@ -888,7 +888,7 @@ Avez-vous apprécié Mi Transfert ?"</string>
   <string name="trans_success_survey_hint">"Remplissez tous les champs tout d'abord."</string>
   <string name="trans_switching_5g">Passage au Wi-Fi 5 GHz…</string>
   <string name="trans_time_format_second">"Moins d'une minute"</string>
-  <string name="trans_time_spent">Temps écoulé: %s</string>
+  <string name="trans_time_spent">Temps écoulé : %s</string>
   <string name="trans_wait_trans_data">"Connectez l'ancien appareil.
 En attente de transfert…"</string>
   <string name="trans_waiting_ensurance">"Assurez-vous que l'ancien appareil est en marche
@@ -935,7 +935,7 @@ Ne fermez pas la page avant que la connexion ne soit établie. "</string>
   <string name="xiaomi_update_dialog_message">"Version %1$s
 Taille : %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Version %1$s
-Taille de la mise à jour: %2$s"</string>
+Taille de la mise à jour : %2$s"</string>
   <string name="xiaomi_update_dialog_title">Mise à jour disponible</string>
   <string name="yesterday">Hier</string>
 </resources>

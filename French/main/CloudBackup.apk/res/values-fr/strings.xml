@@ -53,7 +53,7 @@
   <string name="backup_now">Sauvegarder maintenant</string>
   <string name="backup_remind_buy_cloud_space">Adaptez votre abonnement de stockage sur le cloud</string>
   <string name="backup_remind_clean_disk_space">"Libérez de l'espace de stockage"</string>
-  <string name="backup_remind_cloud_space_cost">Taille de la sauvegarde: %s</string>
+  <string name="backup_remind_cloud_space_cost">Taille de la sauvegarde : %s</string>
   <string name="backup_size">Taille : %s</string>
   <string name="backup_stopped_msg">La sauvegarde actuelle écrasera la précédente. Appuyez pour voir.</string>
   <string name="backup_stopped_title">La sauvegarde était en pause</string>
@@ -105,18 +105,18 @@ Réessayez"</string>
   <string name="cloud_app_restore_success">Applications restaurées</string>
   <string name="cloud_app_restore_wifi_prompt">"Restaurer à partir de la sauvegarde sur le cloud."</string>
   <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
-  <string name="cloud_back_up_detail_discription">"Ces éléments seront sauvegardés sur Xiaomi Cloud lorsque votre appareil sera connecté au Wi-Fi:
+  <string name="cloud_back_up_detail_discription">"Ces éléments seront sauvegardés sur Xiaomi Cloud lorsque votre appareil sera connecté au Wi-Fi :
 *  Applications, dispositions sur l'écran d'accueil, et fonds d'écran
 *  Alarme, horloge, et réglages des dates et heures
 *  Paramètres des notifications
 *  MIUI et réglages système
-Note: les données des applications que vous avez installées ne seront pas sauvegardées sur Xiaomi Cloud."</string>
-  <string name="cloud_back_up_detail_discription_china">"Ces éléments seront sauvegardés sur Xiaomi Cloud lorsque votre appareil sera connecté au Wi-Fi:
+Note : Les données des applications que vous avez installées ne seront pas sauvegardées sur Xiaomi Cloud."</string>
+  <string name="cloud_back_up_detail_discription_china">"Ces éléments seront sauvegardés sur Xiaomi Cloud lorsque votre appareil sera connecté au Wi-Fi :
 *  Applications, dispositions sur l'écran d'accueil, et fonds d'écran
 *  Alarme, horloge, et réglages des dates et heures
 *  Paramètres des notifications
 *  MIUI et réglages système
-Note: les données des applications que vous avez installées ne seront pas sauvegardées sur Xiaomi Cloud."</string>
+Note : Les données des applications que vous avez installées ne seront pas sauvegardées sur Xiaomi Cloud."</string>
   <string name="cloud_back_up_frequence_choice_title">Planifier une sauvegarde</string>
   <string name="cloud_back_up_frequence_long">Tous les 7 jours</string>
   <string name="cloud_back_up_frequence_short">Tous les jours</string>
@@ -137,7 +137,7 @@ Note: les données des applications que vous avez installées ne seront pas sauv
   <string name="cloud_backup_detail_state">Sauvegardes automatiques</string>
   <string name="cloud_backup_detail_state_summary">Créez des sauvegardes Xiaomi Cloud automatiquement lorsque vous êtes connecté à un réseau Wi-Fi.</string>
   <string name="cloud_backup_detail_state_summary_china">Crée des sauvegardes sur Xiaomi Cloud automatiquement lorsque vous êtes connecté à un réseau Wi-Fi.</string>
-  <string name="cloud_backup_detail_time">Dernière sauvegarde: %1$s</string>
+  <string name="cloud_backup_detail_time">Dernière sauvegarde : %1$s</string>
   <string name="cloud_backup_detail_title">"Écran d'accueil, applications et paramètres."</string>
   <string name="cloud_backup_have_data">Trouvé une sauvegarde dans Xiaomi Cloud</string>
   <string name="cloud_backup_in_cancel">Annuler</string>
@@ -213,7 +213,7 @@ Note: les données des applications que vous avez installées ne seront pas sauv
   <string name="friday_shortest">Ven</string>
   <string name="get_device_id_error">"Impossible d'obtenir l'ID de l'appareil"</string>
   <string name="help_and_feedback">Aide et commentaires</string>
-  <string name="hint_restore_wechat_data">Remarque : les données WeChat peuvent ne pas être restaurées en raison de problèmes de compatibilité dans certains cas.</string>
+  <string name="hint_restore_wechat_data">Remarque : Les données WeChat peuvent ne pas être restaurées en raison de problèmes de compatibilité dans certains cas.</string>
   <string name="home_hint_global_launcher">"Lanceur d'application POCO"</string>
   <string name="home_hint_other_launcher">"Autre lanceur d'application"</string>
   <string name="home_restore_error">"Impossible de restaurer l'écran d'accueil"</string>
@@ -459,7 +459,7 @@ Vérifiez vos paramètres réseau et réessayez."</string>
   <string name="title_restore_with_current_network">Utiliser la connexion actuelle pour télécharger des fichiers</string>
   <string name="today">"Aujourd'hui"</string>
   <string name="tomorrow">Demain</string>
-  <string name="total_space">Espace total: %s</string>
+  <string name="total_space">Espace total : %s</string>
   <string name="try_again">Appuyez pour essayer à nouveau</string>
   <string name="try_continue">Appuyez pour continuer</string>
   <string name="tuesday">Mardi</string>

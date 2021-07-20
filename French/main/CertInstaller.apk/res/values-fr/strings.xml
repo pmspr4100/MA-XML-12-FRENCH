@@ -9,7 +9,7 @@
   <string name="cert_temp_error">Échec temporaire. Veuillez réessayer plus tard.</string>
   <string name="cert_too_large_error">"Impossible de procéder à l'installation, car le certificat est trop volumineux."</string>
   <string name="certificate">Certificat</string>
-  <string name="certificate_capabilities_warning">"Remarque : l'émetteur de ce certificat peut inspecter tout le trafic à destination et en provenance de l'appareil."</string>
+  <string name="certificate_capabilities_warning">"Remarque : L'émetteur de ce certificat peut inspecter tout le trafic à destination et en provenance de l'appareil."</string>
   <string name="certificate_name">Nom du certificat</string>
   <string name="credential_info">"Le package contient : "</string>
   <string name="credential_password">Saisir le mot de passe pour extraire les certificats</string>
@@ -50,7 +50,7 @@
   <string name="wifi_cert_is_added">Certificat Wi-Fi installé</string>
   <string name="wifi_certificate">Certificat Wi-Fi</string>
   <string name="wifi_config_text">"Nom : %1$s
-Nom de domaine complètement qualifié (FQDN): %2$s
+Nom de domaine complètement qualifié (FQDN) : %2$s
 Consortiums en itinérance : %3$s
 Domaine : %4$s
 Méthode d'authentification : EAP-%5$s
@@ -72,7 +72,7 @@ Méthode d'authentification : EAP-%5$s
   <string name="wifi_title">Profil du Wi-Fi</string>
   <string name="wifi_tls_config_text">"Certificat client :
 %1$s
-Clé: %2$s
+Clé : %2$s
 "</string>
   <string name="wifi_trust_config_text">"Certificat de confiance :
 %s

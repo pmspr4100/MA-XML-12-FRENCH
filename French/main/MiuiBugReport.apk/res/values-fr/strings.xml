@@ -87,7 +87,7 @@
     <string name="catch_full_log_action_start">Générer le journal</string>
     <string name="catch_full_log_add_original_photo">Ajouter une image originale ou une vidéo courte</string>
     <string name="catch_full_log_add_photo">Ajouter une photo</string>
-    <string name="catch_full_log_add_photo_dialog_content">"Si le problème que vous signalez est lié à la qualité d'image de l'appareil photo, ajoutez un échantillon de la photo d'origine (non rogné) pour nous aider à localiser le problème. Ajouter une photo maintenant?"</string>
+    <string name="catch_full_log_add_photo_dialog_content">"Si le problème que vous signalez est lié à la qualité d'image de l'appareil photo, ajoutez un échantillon de la photo d'origine (non rogné) pour nous aider à localiser le problème. Ajouter une photo maintenant ?"</string>
     <string name="catch_full_log_category">Catégorie</string>
     <string name="catch_full_log_dialog_confirm_text">"Aller à l'écran d'accueil"</string>
     <string name="catch_full_log_dialog_content">MIUI génère un journal. Cela pourrait affecter la performance globale de votre appareil. Si vous ne pouvez pas reproduire le problème que vous souhaitez signaler, retournez aux journaux et appuyez sur \"Annuler\".</string>
@@ -97,7 +97,7 @@
     <string name="catch_full_log_item_content_need_open">"1. Appuyez sur \"Générer le journal\".
 2. Retournez à la fonctionnalité que vous souhaitez signaler et reproduisez-la.
 3. Revenez à cette page et appuyez sur \"Terminer et mettre en ligne\"."</string>
-    <string name="catch_full_log_item_content_title">Étapes:</string>
+    <string name="catch_full_log_item_content_title">Étapes :</string>
     <string name="catch_full_log_item_title_audio">Audio, enregistrement audio et appel audio</string>
     <string name="catch_full_log_item_title_bt">Bluetooth</string>
     <string name="catch_full_log_item_title_dump_heap">Décalage</string>
@@ -143,7 +143,7 @@
     <string name="description">"Décrivez l'erreur"</string>
     <string name="diagnosis_log_send_failed">Envoi des journaux impossible. Réessayez.</string>
     <string name="diagnosis_log_sent_format">"Journaux envoyés avec succès.
-ID: %s
+ID : %s
 Envoyer ce code au superviseur."</string>
     <string name="dialog_ask_delete">Supprimer</string>
     <string name="dialog_ask_quit">Sortie</string>
@@ -202,7 +202,7 @@ Envoyer ce code au superviseur."</string>
     <string name="feedback_detail_feedback_attach_upload_failed">Envoi impossible</string>
     <string name="feedback_detail_feedback_attach_uploading">Envoi…</string>
     <string name="feedback_detail_feedback_category">Catégorie</string>
-    <string name="feedback_detail_feedback_id">ID du rapport: %d</string>
+    <string name="feedback_detail_feedback_id">ID du rapport : %d</string>
     <string name="feedback_detail_feedback_reply_hint">Répondre</string>
     <string name="feedback_detail_feedback_summary">Réponse</string>
     <string name="feedback_detail_need_content">Entrer le contenu en premier</string>
@@ -213,10 +213,10 @@ Envoyer ce code au superviseur."</string>
     <string name="feedback_detail_upload_log">Envoyer journaux</string>
     <string name="feedback_detail_waiting">Création…</string>
     <string name="feedback_empty_report_list">Aucun rapport pour le moment</string>
-    <string name="feedback_guess">Notre avis:</string>
+    <string name="feedback_guess">Notre avis :</string>
     <string name="feedback_history_remind_login_desc">Connectez-vous avec votre Compte Mi pour voir les détails et la progression de vos commentaires</string>
-    <string name="feedback_id">ID: %d</string>
-    <string name="feedback_jira_key">Clé JIRA: %s</string>
+    <string name="feedback_id">ID : %d</string>
+    <string name="feedback_jira_key">Clé JIRA : %s</string>
     <string name="feedback_jira_key_place_holder">Création du ticket Jira…</string>
     <string name="feedback_package_log_failed">Impossible de compresser les journaux</string>
     <string name="feedback_remind_login_btn">"S'identifier"</string>
@@ -473,7 +473,7 @@ Envoyer ce code au superviseur."</string>
     <string name="more">Plus</string>
     <string name="morning">Matin</string>
     <string name="mtrl_chip_close_icon_content_description">Supprimer %1$s</string>
-    <string name="multi_graph_more">Total des éléments: %d</string>
+    <string name="multi_graph_more">Total des éléments : %d</string>
     <string name="net_error_info">Pas de connexion réseau, appuyez ici pour aller dans Paramètres</string>
     <string name="network_err">Impossible de se connecter au réseau.</string>
     <string name="network_errorbtntip_custom">Essayez encore.</string>
@@ -504,7 +504,7 @@ Envoyer ce code au superviseur."</string>
     <string name="open_settings">Aller dans Paramètres</string>
     <string name="passport_access_denied">Accès refusé</string>
     <string name="passport_account_label">Compte Mi</string>
-    <string name="passport_account_name">"Compte: %1$s "</string>
+    <string name="passport_account_name">"Compte : %1$s "</string>
     <string name="passport_activate_token_expired">Code de vérification périmé. Réessayez.</string>
     <string name="passport_area_code_title">Code régional</string>
     <string name="passport_bad_authentication">Identifiant ou mot de passe incorrect</string>
@@ -544,7 +544,7 @@ Envoyer ce code au superviseur."</string>
     <string name="passport_input_vcode_hint">Entrez le code de vérification</string>
     <string name="passport_input_voice_captcha_hint">Entrez le code vocal de vérification</string>
     <string name="passport_input_voice_hint">Entrez le code vocal</string>
-    <string name="passport_international_phone_password_login_tip">(Les utilisateurs en dehors de la Chine doivent saisir leur numéro de téléphone mobile au format suivant: +[code régional] [numéro de téléphone], par ex.: +33 675489998)</string>
+    <string name="passport_international_phone_password_login_tip">(Les utilisateurs en dehors de la Chine doivent saisir leur numéro de téléphone mobile au format suivant : +[code régional] [numéro de téléphone], par ex.: +33 675489998)</string>
     <string name="passport_log_detail">Voir détails</string>
     <string name="passport_login_failed">Identification impossible</string>
     <string name="passport_next">Suivant</string>
@@ -675,7 +675,7 @@ Envoyer ce code au superviseur."</string>
     <string name="solar_term_winter_solstice">"Solstice d'hiver"</string>
     <string name="stop_full_log_dialog_cancel">Pas maintenant</string>
     <string name="stop_full_log_dialog_confirm">Envoyer</string>
-    <string name="stop_full_log_dialog_content">Il semble que les journaux sont en cours de création. Arrêtez leur création et envoyer ceux qui sont déjà créés?</string>
+    <string name="stop_full_log_dialog_content">Il semble que les journaux sont en cours de création. Arrêtez leur création et envoyer ceux qui sont déjà créés ?</string>
     <string name="stop_full_log_dialog_title">Création des journaux…</string>
     <string name="submit_dialog_cancel">Refuser</string>
     <string name="submit_dialog_confirm">Accepter</string>
@@ -786,7 +786,7 @@ Envoyer ce code au superviseur."</string>
     <string name="tuesday_shortest">Mar</string>
     <string name="update_dialog_cancel">Annuler</string>
     <string name="update_dialog_confirm">Rafraîchir</string>
-    <string name="update_dialog_content_log">"Nouveautés:
+    <string name="update_dialog_content_log">"Nouveautés :
 %1$s
 Taille : %2$s"</string>
     <string name="update_dialog_content_version">Vous pouvez à présent mettre à jour vers la version %1$s.</string>

@@ -113,7 +113,7 @@
   <string name="friday">Vendredi</string>
   <string name="friday_short">Ven</string>
   <string name="friday_shortest">Ven</string>
-  <string name="head_set_tip_dialog_msg">"Déconnectez vos écouteurs afin d'enregistrer du son avec des préréglages spécifiques (ex. Musique, Voix)."</string>
+  <string name="head_set_tip_dialog_msg">"Déconnectez vos écouteurs afin d'enregistrer du son avec des préréglages spécifiques (ex.: Musique, Voix)."</string>
   <string name="head_set_tip_dialog_ok">Compris</string>
   <string name="head_set_tip_dialog_title">Utiliser le microphone interne</string>
   <string name="invalid_argument">Argument non valide</string>
@@ -246,8 +246,8 @@
   <string name="online_recognize_other_order_upload">Attendez que les téléchargements en cours soient terminés et réessayez.</string>
   <string name="online_recognize_running">Transcription en cours…</string>
   <string name="online_recognize_service_unavailable">Le service nest pas disponible maintenant. Attendez une minute ou deux, puis réessayez.</string>
-  <string name="order_item_duration">Durée: %s</string>
-  <string name="order_item_number">Numéro de commande: %s</string>
+  <string name="order_item_duration">Durée : %s</string>
+  <string name="order_item_number">Numéro de commande : %s</string>
   <string name="order_item_price">%s CNY</string>
   <string name="path_soundrecorder_setting">Applications système/Magnétophone</string>
   <string name="pause">Pause</string>
@@ -278,7 +278,7 @@
   <string name="recognition_button_start">Transcrire</string>
   <string name="recognition_confirm_dialog_body">"La transcription peut prendre un certain temps. Vous recevrez une notification lorsque cette tâche sera terminée. Transcrire maintenant ?"</string>
   <string name="recognition_error_cancel">Annulé</string>
-  <string name="recognition_error_code">Erreur de code: %d</string>
+  <string name="recognition_error_code">"Code d'erreur : %d"</string>
   <string name="recognition_error_download_cancel">Plus tard</string>
   <string name="recognition_error_download_data_msg">Téléchargez le moteur de transcription pour rendre ce service disponible. Ce téléchargement nécessite environ 20 Mo de vos données mobiles.</string>
   <string name="recognition_error_download_fail">Impossible de télécharger, vérifiez votre réseau puis réessayez.</string>

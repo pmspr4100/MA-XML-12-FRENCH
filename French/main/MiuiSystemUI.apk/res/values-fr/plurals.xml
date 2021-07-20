@@ -146,8 +146,8 @@
         <item quantity="one">Saisissez le code PIN de la SIM%1$d, vous avez %2$d tentative restante avant le blocage de cette carte SIM.</item>
     </plurals>
     <plurals name="kg_password_default_puk_message">
-        <item quantity="other">La carte SIM est bloquée. Entrez le code PUK pour continuer. Vous avez %d tentatives restantes avant que la carte SIM devienne définitivement inutilisable. Contactez votre opérateur mobile pour plus de détails.</item>
-        <item quantity="one">La carte SIM est bloquée. Entrez le code PUK pour continuer. Vous avez %d tentative restante avant que la carte SIM devienne définitivement inutilisable. Contactez votre opérateur mobile pour plus de détails.</item>
+        <item quantity="other">La carte SIM est bloquée. Entrez le code PUK pour continuer. Vous avez %d tentatives restantes avant que la carte SIM devienne définitivement inutilisable. Contactez votre opérateur pour plus de détails.</item>
+        <item quantity="one">La carte SIM est bloquée. Entrez le code PUK pour continuer. Vous avez %d tentative restante avant que la carte SIM devienne définitivement inutilisable. Contactez votre opérateur pour plus de détails.</item>
     </plurals>
     <plurals name="kg_password_wrong_pin_code">
         <item quantity="other">Code PIN incorrect, il vous reste %d tentatives restantes avant le blocage de la carte SIM.</item>

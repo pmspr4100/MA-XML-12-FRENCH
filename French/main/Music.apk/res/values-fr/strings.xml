@@ -15,7 +15,7 @@
   <string name="November">Novembre</string>
   <string name="October">Octobre</string>
   <string name="September">Septembre</string>
-  <string name="Updated_at">"Mise à jour: "</string>
+  <string name="Updated_at">"Mise à jour : "</string>
   <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
   <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
   <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
@@ -130,7 +130,7 @@
   <string name="back">Retour</string>
   <string name="back_confirm">"Appuyez encore pour mettre l'application en arrière-plan"</string>
   <string name="banner_op">Mi Musique</string>
-  <string name="bluetooth_device">Appareil audio Bluetooth</string>
+  <string name="bluetooth_device">Périphérique audio Bluetooth</string>
   <string name="btn_text_edit">Modifier</string>
   <string name="btn_text_view_all">Tout afficher</string>
   <string name="buffering">Chargement…</string>
@@ -251,7 +251,7 @@
   <string name="dialog_song_sort_type_name">Par nom</string>
   <string name="dialog_song_sort_type_playing_times">Par le nombre de lectures</string>
   <string name="dialog_song_sort_type_time">"Par heure d'ajout"</string>
-  <string name="dialog_song_view_type">"Trier la musique par:"</string>
+  <string name="dialog_song_view_type">"Trier la musique par :"</string>
   <string name="dialog_song_view_type_album">Par album</string>
   <string name="dialog_song_view_type_artist">Par artiste</string>
   <string name="dialog_song_view_type_folder">Par dossier</string>
@@ -338,7 +338,7 @@
   <string name="downloading_apk">"Téléchargement…, l'état d'avancement dans la barre de notification."</string>
   <string name="downloading_empty">Vide</string>
   <string name="downloading_pause_apk">En pause. Reprendre le téléchargement dans la barre de notification.</string>
-  <string name="due_date">"Date d'échéance: %s"</string>
+  <string name="due_date">"Date d'échéance : %s"</string>
   <string name="edit_playlist_info">Modifier les informations de la Playlist</string>
   <string name="empty_page_no_album">Aucun album.</string>
   <string name="empty_page_no_artist">Aucun artiste.</string>
@@ -517,13 +517,13 @@
   <string name="individuation_recommend_title">Recommandations</string>
   <string name="individuation_setting_summary">Recevoir des recommandations de contenus basées sur vos intérêts</string>
   <string name="individuation_setting_title">Recommandations personnalisées</string>
-  <string name="info_app_package_name">Nom du paquet:</string>
-  <string name="info_app_version">"Version de l'application:"</string>
-  <string name="info_language">Langue:</string>
-  <string name="info_location">Région:</string>
-  <string name="info_product">Appareil:</string>
-  <string name="info_system">Système:</string>
-  <string name="info_system_version">Version du système:</string>
+  <string name="info_app_package_name">Nom du paquet :</string>
+  <string name="info_app_version">"Version de l'application :"</string>
+  <string name="info_language">Langue :</string>
+  <string name="info_location">Région :</string>
+  <string name="info_product">Appareil :</string>
+  <string name="info_system">Système :</string>
+  <string name="info_system_version">Version du système :</string>
   <string name="input_hint_prefix">Entrer %1$s</string>
   <string name="installing_apk">Installation…</string>
   <string name="insufficient_space">"Plus assez d'espace sur le stockage interne de votre appareil"</string>
@@ -816,7 +816,7 @@
   <string name="online_apk_install_completed">Contenu en ligne chargé avec succès. Appuyez %s pour afficher.</string>
   <string name="online_apk_install_error_no_enough_space">"Impossible d'installer en raison de l'espace de stockage insuffisant."</string>
   <string name="online_apk_install_error_with_reason">"Impossible d'installer (Erreur %d)"</string>
-  <string name="online_apk_install_failed_with_reason" formatted="false">"Impossible de charger le contenu en ligne. Appuyez %s pour essayer à nouveau. Code d'erreur: %d."</string>
+  <string name="online_apk_install_failed_with_reason" formatted="false">"Impossible de charger le contenu en ligne. Appuyez %s pour essayer à nouveau. Code d'erreur : %d."</string>
   <string name="online_apk_install_in_background">Chargement de contenu en ligne en arrière-plan…</string>
   <string name="online_apk_install_network_change_paused">"Vous utilisez des données mobiles. Mise en pause des éléments pour le moment. Appuyez sur %s pour afficher."</string>
   <string name="online_apk_install_network_error">"Impossible de se connecter au réseau. Vérifiez vos paramètres réseau et réessayez."</string>
@@ -968,7 +968,7 @@ Soyez heureux"</string>
   <string name="search_result_local_songs">Locale</string>
   <string name="search_result_online_songs">En ligne</string>
   <string name="search_songs">Rechercher des chansons</string>
-  <string name="search_songs_count">Chansons: %d</string>
+  <string name="search_songs_count">Chansons : %d</string>
   <string name="select">Sélectionner</string>
   <string name="select_all">Tout sélectionner</string>
   <string name="select_clip_desc">Sélectionnez une partie de la chanson</string>
@@ -1005,8 +1005,8 @@ Soyez heureux"</string>
   <string name="share_failed">Impossible de partager</string>
   <string name="share_image_error">"Impossible de partager l'image en raison d'une erreur de téléchargement"</string>
   <string name="share_song">Partager</string>
-  <string name="share_text_list">"Playlist de Mi Musique: "</string>
-  <string name="share_text_song">"Chanson dans Mi Musique: "</string>
+  <string name="share_text_list">"Playlist de Mi Musique : "</string>
+  <string name="share_text_song">"Chanson dans Mi Musique : "</string>
   <string name="show_float_first_hint">Minimize player</string>
   <string name="show_more">Afficher %s de plus</string>
   <string name="shuffle_music">Lecture aléatoire</string>
@@ -1219,8 +1219,8 @@ Soyez heureux"</string>
   <string name="user_privacy_setting_group_title">Retrait du consentement</string>
   <string name="user_privacy_setting_title">"En désactivant l'interrupteur, vous révoquez votre consentement à la Politique de confidentialité de mi Music"</string>
   <string name="user_profile_created_playlist_title">Playlists personnalisées</string>
-  <string name="user_profile_fans_count">Abonnés: %s</string>
-  <string name="user_profile_follow_count">Abonnements: %s</string>
+  <string name="user_profile_fans_count">Abonnés : %s</string>
+  <string name="user_profile_follow_count">Abonnements : %s</string>
   <string name="v7_preference_off">Désactivé</string>
   <string name="v7_preference_on">Activé</string>
   <string name="version_info">Version</string>
@@ -1243,7 +1243,7 @@ Appuyez sur %s pour démarrer ce téléchargement la prochaine fois que vous ser
   <string name="xiaomi_update_sdk_dialog_message">"Présentation de la version %1$s
 Taille : %2$s"</string>
   <string name="xiaomi_update_sdk_dialog_message_diff">"Présentation de la version %1$s
-Taille de la mise à jour Delta: %2$s"</string>
+Taille de la mise à jour : %2$s"</string>
   <string name="xiaomi_update_sdk_dialog_title">%1$s mise à jour !</string>
   <string name="xiaomi_update_sdk_external_storage_unavailable">Mémoire indisponible, veuillez vérifier la carte SD.</string>
   <string name="yesterday">Hier</string>

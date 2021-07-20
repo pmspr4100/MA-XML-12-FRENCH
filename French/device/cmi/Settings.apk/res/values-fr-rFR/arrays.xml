@@ -1074,8 +1074,8 @@
     </string-array>
     <string-array name="date_of_traffic_prefix">
       <item>"Aujourd'hui : "</item>
-      <item>"Ce mois-ci: "</item>
-      <item>"Le mois dernier: "</item>
+      <item>"Ce mois-ci : "</item>
+      <item>"Le mois dernier : "</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
       <item>Désactivé</item>
@@ -1231,13 +1231,13 @@
       <item></item>
     </string-array>
     <string-array name="msd_pc_system_retry_linux">
-      <item>"Outils d'installation: sudo aptitude install mtpfs libfuse-dev libmad0-dev"</item>
+      <item>"Outils d'installation : sudo aptitude install mtpfs libfuse-dev libmad0-dev"</item>
       <item>Créez un dossier \"mkdir\" /media/mtp</item>
       <item>"Confirmer les autorisations du groupe d'utilisateur dans le groupe d'utilisateurs actuels"</item>
       <item>Connectez-vous à nouveau</item>
-      <item>Accéder au périphérique monté: mtpfs/media/mtp via Gestionnaire de fichiers; pareil que le dossier local.</item>
-      <item>"Désinstaller le périphérique: fusermount -u/media/mtp
-Note : seulement pour Ubuntu 8.04 !"</item>
+      <item>Accéder au périphérique monté : mtpfs/media/mtp via Gestionnaire de fichiers; pareil que le dossier local.</item>
+      <item>"Désinstaller le périphérique : fusermount -u/media/mtp
+Note : Seulement pour Ubuntu 8.04 !"</item>
     </string-array>
     <string-array name="msd_pc_system_retry_xp">
       <item>Réinstaller Mi PC Suite</item>

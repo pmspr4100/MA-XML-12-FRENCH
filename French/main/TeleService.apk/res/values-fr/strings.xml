@@ -155,22 +155,22 @@
     <string name="bluetooth_a2dp_profile_summary_connected">Connecté aux paramètres audio du média</string>
     <string name="bluetooth_a2dp_profile_summary_use_for">Utiliser pour les paramètres audio du média</string>
     <string name="bluetooth_active_battery_level">Actif, %1$s de batterie</string>
-    <string name="bluetooth_active_battery_level_untethered">Actif, L : %1$s de batterie | R : %2$s de batterie</string>
+    <string name="bluetooth_active_battery_level_untethered">Actif, G : %1$s - D : %2$s (batterie)</string>
     <string name="bluetooth_active_no_battery_level">Actif</string>
     <string name="bluetooth_battery_level">%1$s de batterie</string>
-    <string name="bluetooth_battery_level_untethered">L : %1$s de battrie | R : %2$s de batterie</string>
+    <string name="bluetooth_battery_level_untethered">G : %1$s - D : %2$s (batterie)</string>
     <string name="bluetooth_connected">Connecté %1$s</string>
-    <string name="bluetooth_connected_battery_level">Connecté, batterie à %1$s%2$s</string>
-    <string name="bluetooth_connected_no_a2dp">Connecté (aucun contenu mutimédia) %1$s</string>
-    <string name="bluetooth_connected_no_a2dp_battery_level">Connecté (aucun contenu multimédia), batterie à %1$s%2$s</string>
-    <string name="bluetooth_connected_no_headset">Connecté (aucun téléphone) %1$s</string>
-    <string name="bluetooth_connected_no_headset_battery_level">Connecté (aucun téléphone), batterie à %1$s%2$s</string>
-    <string name="bluetooth_connected_no_headset_no_a2dp">Connecté (aucun tél./contenu multimédia) %1$s</string>
-    <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Connecté (aucun téléphone ni contenu multimédia), batterie à %1$s%2$s</string>
+    <string name="bluetooth_connected_battery_level">Connecté | Batterie %1$s%2$s</string>
+    <string name="bluetooth_connected_no_a2dp">Connecté (sans audio contenu multimédia) %1$s</string>
+    <string name="bluetooth_connected_no_a2dp_battery_level">Connecté (sans audio contenu multimédia) | Batterie %1$s%2$s</string>
+    <string name="bluetooth_connected_no_headset">Connecté (sans audio appels tél.) %1$s</string>
+    <string name="bluetooth_connected_no_headset_battery_level">Connecté (sans audio appels tél.) | Batterie %1$s%2$s</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp">Connecté (sans audio appels tél./contenu multimédia) %1$s</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Connecté (sans audio appels tél./contenu multimédia) | Batterie %1$s%2$s</string>
     <string name="bluetooth_connected_no_map">Connecté (sans accès aux messages) %1$s</string>
     <string name="bluetooth_connecting">Connexion…</string>
     <string name="bluetooth_disable_absolute_volume">Désactiver le volume absolu</string>
-    <string name="bluetooth_disable_absolute_volume_summary">"Désactive la fonctionnalité de volume absolu du Bluetooth en cas de problème de volume sur les appareils à distance, par exemple si le volume est trop élevé ou s'il ne peut pas être contrôlé"</string>
+    <string name="bluetooth_disable_absolute_volume_summary">"Désactivez le volume absolu pour les périphériques Bluetooth si le volume sonore est trop élevé ou s'il ne peut pas être contrôlé"</string>
     <string name="bluetooth_disconnected">Déconnecté</string>
     <string name="bluetooth_disconnecting">Déconnexion…</string>
     <string name="bluetooth_dun_profile_summary_connected">Connexion à un Server</string>
@@ -236,8 +236,8 @@ Bluetooth : Taux d'échantillonnage"</string>
 Bluetooth"</string>
     <string name="bluetooth_select_avrcp_version_dialog_title">Sélectionner la version Bluetooth AVRCP</string>
     <string name="bluetooth_select_avrcp_version_string">Version Bluetooth AVRCP</string>
-    <string name="bluetooth_show_devices_without_names">Afficher les appareils Bluetooth sans nom</string>
-    <string name="bluetooth_show_devices_without_names_summary">Les appareils Bluetooth seront affichés sans nom (adresse MAC uniquement)</string>
+    <string name="bluetooth_show_devices_without_names">Afficher les périphériques Bluetooth sans nom</string>
+    <string name="bluetooth_show_devices_without_names_summary">Les périphériques Bluetooth seront affichés sans nom (adresse MAC uniquement)</string>
     <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
     <string name="bluetooth_talkback_computer">Ordinateur</string>
     <string name="bluetooth_talkback_headphone">Casque audio</string>
@@ -372,7 +372,7 @@ Bluetooth"</string>
     <string name="call_barring_new_pwd">Nouveau mot de passe</string>
     <string name="call_barring_old_pwd">Ancien mot de passe</string>
     <string name="call_barring_pwd_not_match">Les mots de passe ne concordent pas</string>
-    <string name="call_barring_right_pwd_number">Saisissez un mot de passe à quatre chiffres</string>
+    <string name="call_barring_right_pwd_number">Saisissez un mot de passe à 4 chiffres</string>
     <string name="call_barring_settings">"Paramètres d'interdiction d'appel"</string>
     <string name="call_barring_sum">Paramètres de limitation des appels vocaux</string>
     <string name="call_category">Appel</string>
@@ -694,8 +694,8 @@ Bluetooth"</string>
     <string name="disable_fdn_ok">Activer FDN</string>
     <string name="disable_overlays">Désactiver superpos. matér.</string>
     <string name="disable_overlays_summary">Toujours utiliser le GPU pour la composition écran</string>
-    <string name="disable_pin_ok">Code PIN éffacé</string>
-    <string name="disable_sim_pin">Effacer le code PIN SIM</string>
+    <string name="disable_pin_ok">Code PIN enlevé</string>
+    <string name="disable_sim_pin">Enlever le code PIN de la SIM</string>
     <string name="disabled">Désactivée</string>
     <string name="disabled_by_admin">"Désactivé par l'administrateur"</string>
     <string name="disabled_by_admin_summary_text">"Contrôlé par l'administrateur"</string>
@@ -1202,7 +1202,7 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
     <string name="msim_select_default_time_left">(%d s)</string>
     <string name="msim_set_icc_card_error">Erreur de carte ICC</string>
     <string name="msim_set_sub_not_supported_phone_in_call">Appel en cours, impossible de modifier</string>
-    <string name="msim_set_sub_not_supported_slot_id_error">Erreur de la Carte SIM</string>
+    <string name="msim_set_sub_not_supported_slot_id_error">Erreur de la carte SIM</string>
     <string name="msim_setting_categery_title">Paramètres de la carte SIM</string>
     <string name="msim_setting_default_data">Données SIM</string>
     <string name="msim_setting_default_data_description">Données SIM %d</string>
@@ -2184,7 +2184,7 @@ Prochaine période dans %2$d jours (%3$s)"</string>
     <string name="verify_apps_over_usb_summary">Vérifiez que les applications installées par ADB/ADT ne présentent pas de comportement dangereux.</string>
     <string name="verify_apps_over_usb_title">Vérifier les applis via USB</string>
     <string name="vice_card_data_in_use_alert">Des frais de données supplémentaires peuvent être générés.</string>
-    <string name="vice_slot_volte_data_switch_prompt">Votre appareil se connectera à un réseau de données mobiles utilisant la carte SIM secondaire lors des appels VoLTE. Cela peut générer des frais de données supplémentaires. Contactez votre opérateur local pour des détails concernant votre forfait de données.</string>
+    <string name="vice_slot_volte_data_switch_prompt">Votre appareil se connectera à un réseau de données mobiles utilisant la carte SIM secondaire lors des appels VoLTE. Cela peut générer des frais de données supplémentaires. Contactez votre opérateur pour des détails concernant votre forfait de données.</string>
     <string name="vice_slot_volte_data_switch_summary">"Lors des appels VoLTE, l'appareil se connectera au réseau de données mobiles utilisant la carte SIM secondaire"</string>
     <string name="vice_slot_volte_data_switch_title">Utiliser les données mobiles lors des appels VoLTE sur la carte SIM secondaire</string>
     <string name="video_calling_settings_title">"Appel vidéo de l'opérateur"</string>
@@ -2209,7 +2209,7 @@ Veuillez contacter votre opérateur si le problème persiste."</string>
     <string name="voice_service_cannot_call_notification_title">Impossible de passer des appels sur le réseau actuel</string>
     <string name="voice_service_switch_summary">"Activer pour être en mesure d'utiliser la fonctionnalité d'appel VoLTE sur les réseaux VoLTE"</string>
     <string name="voice_service_switch_title">"Utiliser les services d'appel VoLTE"</string>
-    <string name="voice_service_warning_dialog_body">"Cette tablette prend en charge les appels VoLTE sur les réseaux 4G. Assurez-vous que les réseaux auxquels votre appareil est connecté prennent en charge cette fonctionnalité. Les services VoLTE sont fournis par votre opérateur. Contactez votre opérateur local pour savoir si VoLTE est pris en charge dans votre région.
+    <string name="voice_service_warning_dialog_body">"Cette tablette prend en charge les appels VoLTE sur les réseaux 4G. Assurez-vous que les réseaux auxquels votre appareil est connecté prennent en charge cette fonctionnalité. Les services VoLTE sont fournis par votre opérateur. Contactez votre opérateur pour savoir si VoLTE est pris en charge dans votre région.
 
 Si vous voyez _ dans votre barre d'état, les appels VoLTE ne sont pas disponibles. Si vous ne pouvez pas passer ou recevoir des appels, ou si vos appels sont interrompus, assurez-vous que votre réseau est compatible avec VoLTE.
 
