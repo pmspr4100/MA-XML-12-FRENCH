@@ -150,16 +150,16 @@
         <item quantity="one">&lt;Data>Vous pouvez désinstaller &lt;font color=#F22424>%d&lt;/font> application&lt;/Data></item>
     </plurals>
     <plurals name="daily_sim_over_limit_dialog_message">
-        <item quantity="other">"Vous avez déjà atteint les limites de données quotidiennes de %s.
+        <item quantity="other">"Vous avez déjà atteint la limite de données quotidienne pour %s.
 
 Si vous activez les données mobiles, votre opérateur pourrait vous facturer des frais supplémentaires."</item>
-        <item quantity="one">"Vous avez déjà atteint la limite de données quotidiennes de %s.
+        <item quantity="one">"Vous avez déjà atteint la limite de données quotidienne pour %s.
 
 Si vous activez les données mobiles, votre opérateur pourrait vous facturer des frais supplémentaires."</item>
     </plurals>
     <plurals name="daily_sim_over_limit_notify_title">
-        <item quantity="other">Vous avez déjà utilisé les limites de données quotidiennes de %s.</item>
-        <item quantity="one">Vous avez déjà utilisé les limites de données quotidiennes de %s.</item>
+        <item quantity="other">Limite de données quotidienne atteinte pour %s.</item>
+        <item quantity="one">Limite de données quotidienne atteinte pour %s.</item>
     </plurals>
     <plurals name="deep_clean_auto_memory_clean">
         <item quantity="other">Dans %1$d minutes</item>

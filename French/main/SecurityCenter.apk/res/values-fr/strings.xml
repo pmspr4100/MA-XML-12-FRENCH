@@ -180,13 +180,13 @@
     <string name="antivirus_privacy_dialog_cloudscan_description">Envoyer et analyser les noms et détails des applications en utilisant les bases de données de virus en ligne.</string>
     <string name="antivirus_privacy_dialog_ok">OK</string>
     <string name="antivirus_privacy_dialog_summary">"&lt;Data>Cette fonctionnalité est fournie par un moteur antivirus tiers. Pour en savoir plus, lisez l'&lt;a href=\"%1$s\">Accord de licence&lt;/a> fourni par l'application tierce.&lt;/Data>"</string>
-    <string name="antivirus_privacy_dialog_summary_kddi">"&lt;Data>Lorsque vous effectuez une analyse de sécurité, le modèle de votre appareil et les résultats de l'analyse seront téléchargés sur les serveurs %1$s et utilisés conformément aux &lt;a href=\"%2$s\">Conditions générales&lt;/a>.&lt;br />&lt;br />Lisez et acceptez les Termes et Conditions de %3$s avant d'effectuer des analyses de sécurité.&lt;br />&lt;br />Si vous n'acceptez pas de télécharger des données vers %4$s serveurs, vous pouvez toujours utiliser les définitions de virus stockées localement sur votre appareil.&lt;/Data>"</string>
+    <string name="antivirus_privacy_dialog_summary_kddi">"&lt;Data>Lorsque vous effectuez une analyse de sécurité, le modèle de votre appareil et les résultats de l'analyse seront téléchargés sur les serveurs %1$s et utilisés conformément aux &lt;a href=\"%2$s\">Conditions générales&lt;/a>.&lt;br />&lt;br />Lisez et acceptez les Termes et conditions de %3$s avant d'effectuer des analyses de sécurité.&lt;br />&lt;br />Si vous n'acceptez pas de télécharger des données vers %4$s serveurs, vous pouvez toujours utiliser les définitions de virus stockées localement sur votre appareil.&lt;/Data>"</string>
     <string name="antivirus_privacy_dialog_summary_link">Politique de confidentialité</string>
     <string name="antivirus_privacy_dialog_summary_new">&lt;Data>Cette fonctionnalité utilise les définitions antivirus fournies par Avast, AVL et Tencent. Lisez les &lt;a href=\"%1$s\">Accords de licence&lt;/a> pour en savoir plus.&lt;/Data></string>
     <string name="antivirus_privacy_dialog_summary_not_have_avast">&lt;Data>Cette fonctionnalité utilise les définitions antivirus fournies par AVL et Tencent. Lisez les &lt;a href=\"%1$s\">Accords de licence&lt;/a> pour en savoir plus.&lt;/Data></string>
     <string name="antivirus_privacy_dialog_summary_not_have_tencent">&lt;Data>Cette fonctionnalité utilise les définitions antivirus fournies par Avast et AVL. Lisez les &lt;a href=\"%1$s\">Accords de licence&lt;/a> pour en savoir plus.&lt;/Data></string>
     <string name="antivirus_privacy_dialog_title">Politique de confidentialité</string>
-    <string name="antivirus_privacy_dialog_title_kddi">Termes et Conditions</string>
+    <string name="antivirus_privacy_dialog_title_kddi">Termes et conditions</string>
     <string name="antivirus_sec_network_unavailable">"Sécurité ne peut pas se mettre à jour car vous avez restreint la connexion internet. Autoriser sécurité à se connecter à internet ?"</string>
     <string name="antivirus_third_privacy_title">Politiques de confidentialité des tiers</string>
     <string name="antivirus_toast_already_update">À jour</string>
@@ -964,23 +964,23 @@ Vous ne perdrez aucune donnée d'application."</string>
     <string name="daily_card_setting_fragment_daily_card_brand_value">"Sélectionner l'opérateur"</string>
     <string name="daily_card_setting_fragment_daily_card_setting">Paramètres du forfait de données quotidien</string>
     <string name="daily_card_setting_fragment_daily_card_summary">MIUI définira des limites de données et des applications avec des données illimitées en fonction de lopérateur que vous sélectionnez. Si votre opérateur ne figure pas dans la liste, sélectionnez \"Autre\" et configurez manuellement votre forfait de données quotidien.</string>
-    <string name="daily_card_setting_fragment_daily_package">Limite de données quotidiennes</string>
+    <string name="daily_card_setting_fragment_daily_package">Limite de données quotidienne</string>
     <string name="daily_card_setting_fragment_month_package">Forfait de données mensuel</string>
     <string name="daily_card_setting_fragment_package_summary">Si votre forfait de données quotidien contient un forfait de données mensuel, celui-ci sera utilisé avant le forfait quotidien.</string>
     <string name="daily_limit_and_lock_screen">"Alerte d'utilisation des données"</string>
-    <string name="daily_limit_network_available_body">"Appuyez pour afficher les statistiques d'utilisation de données."</string>
-    <string name="daily_limit_over_message">Vous avez dépassé votre limite quotidienne de données mobiles.</string>
-    <string name="daily_pkg_traffic">"Limite d'utilisation de données en heures pleines"</string>
+    <string name="daily_limit_network_available_body">Appuyez pour réactiver les données mobiles.</string>
+    <string name="daily_limit_over_message">Limite quotidienne de données mobiles dépassée.</string>
+    <string name="daily_pkg_traffic">"Limite d'utilisation des données en heures pleines"</string>
     <string name="data_booster_desc">Désactiver les autres tiroirs de SIM pour stabiliser la connexion</string>
     <string name="data_booster_title">Stabliser la connexion de données</string>
     <string name="data_local_processing_and_storage">Données stockées et traitées localement</string>
     <string name="data_local_processing_and_storage_detail">Votre entrée sera stockée et traitée sur cet appareil et ne sera pas téléchargée dans le cloud.</string>
     <string name="data_network_blocked_notification_title">Pas de connexion internet</string>
     <string name="data_usage_correction_timeout_title">"Temps d'attente de synchronisation dépassé"</string>
-    <string name="data_usage_disabled_dialog">"Vous avez atteint la limite d'utilisation de données de votre forfait. Si vous dépassez votre limite, votre opérateur peut vous facturer des frais supplémentaires."</string>
+    <string name="data_usage_disabled_dialog">"Vous avez atteint la limite d'utilisation des données de votre forfait. Si vous dépassez votre limite, votre opérateur peut vous facturer des frais supplémentaires."</string>
     <string name="data_usage_disabled_dialog_enable">Activer les données mobiles</string>
-    <string name="data_usage_leisure_warning_body">"Appuyez pour voir les détails d'utilisation de données."</string>
-    <string name="data_usage_leisure_warning_title">Au dessus de la limite de données</string>
+    <string name="data_usage_leisure_warning_body">"Appuyez pour voir les détails d'utilisation des données."</string>
+    <string name="data_usage_leisure_warning_title">Limite de données mobiles dépassée</string>
     <string name="data_usage_limit_body">Appuyez pour activer les données mobiles.</string>
     <string name="data_usage_mobile_dialog_title">Vous avez déjà utilisé 5 Go de données mobiles. MIUI a désactivé les données mobiles.</string>
     <string name="data_usage_mobile_limit_title">Limite de données mobiles atteinte</string>
@@ -992,9 +992,9 @@ Vous ne perdrez aucune donnée d'application."</string>
 Votre opérateur peut vous facturer des frais supplémentaires si vous activer les données mobiles à nouveau."</string>
     <string name="data_usage_protected_notify_message">"MUI a désactivé les données mobiles afin de vous empêcher de générer des frais supplémentaires de l'opérateur."</string>
     <string name="data_usage_protected_notify_title">Vous avez déjà utilisé 5 Go de données mobiles</string>
-    <string name="data_usage_warning_body">"Appuyez pour voir les détails d'utilisation de données."</string>
-    <string name="data_usage_warning_body_notify">Appuyer pour voir les détails</string>
-    <string name="data_usage_warning_title_notify">Vous avez dépassé votre limite de données</string>
+    <string name="data_usage_warning_body">"Appuyez pour voir les détails d'utilisation des données."</string>
+    <string name="data_usage_warning_body_notify">Appuyez pour voir les détails</string>
+    <string name="data_usage_warning_title_notify">Limite de données mobiles atteinte</string>
     <string name="databooster_tips_message">"Activez pour restreindre toutes les cartes SIM à l'exception de la carte de données. Désactivez cette fonction si des erreurs se produisent dans les jeux de votre choix."</string>
     <string name="databooster_tips_title">Attention</string>
     <string name="date_picker_lunar">Calendrier chinois traditionnel</string>
@@ -1041,7 +1041,7 @@ Toutes les données sur votre appareil peuvent être supprimées et le mot de pa
     <string name="dialog_restrict_all_wlan_title">Restreindre la connexion Wi-Fi</string>
     <string name="dialog_restrict_negative">Restreindre</string>
     <string name="dialog_restrict_positive">Annuler</string>
-    <string name="dialog_roaming_message">"Votre opérateur peut vous facturer des frais supplémentaires pour l'utilisation de données en itinérance."</string>
+    <string name="dialog_roaming_message">"Votre opérateur peut vous facturer des frais supplémentaires pour l'utilisation des données en itinérance."</string>
     <string name="dialog_roaming_title">"Autoriser l'itinérance des données ?"</string>
     <string name="dialog_roaming_warning_checkbox">Ne plus afficher</string>
     <string name="dialog_roaming_warning_message">"L'opérateur vous facturera des frais après avoir activé l'itinérance internationale des données. Activer quand même ?"</string>
@@ -1204,7 +1204,7 @@ carte médicale"</string>
     <string name="ew_emergency_privacy">"Déclaration de confidentialité : Les informations que vous fournissez ici ne seront utilisées que pour les cas d'urgence et stockées sur votre appareil. Nous ne téléchargerons pas ces informations sur nos serveurs."</string>
     <string name="ew_emergency_recent_medicine">Médicament actif récent</string>
     <string name="ew_emergency_title">Carte médicale</string>
-    <string name="ew_first_start_network_title">Termes et Conditions</string>
+    <string name="ew_first_start_network_title">Termes et conditions</string>
     <string name="ew_get_location">Localiser</string>
     <string name="ew_guide_law_agree">Accepter</string>
     <string name="ew_guide_law_done">Compris</string>
@@ -1218,7 +1218,7 @@ carte médicale"</string>
     <string name="ew_guide_start_agree">Activer</string>
     <string name="ew_guide_start_find_area">Rechercher des zones</string>
     <string name="ew_guide_start_warning_range">"Des alertes précoces sont fournies pour les zones couvertes par le réseau d'alerte aux tremblements de terre du continent de l'Institut de prévention des catastrophes de haute technologie de Chengdu. Vous pouvez trouver des zones de couverture spécifiques dans les paramètres."</string>
-    <string name="ew_guide_statement_text_new">"Cette clause de non-responsabilité s'applique à tous les utilisateurs (ci-après dénommés « vous ») qui activent la fonction d'avertissement de tremblement de terre. En acceptant cette clause de non-responsabilité, vous concluez un contrat juridiquement contraignant avec Xiaomi Inc. et ses sociétés affiliées (ci-après dénommées « Xiaomi »). Vous reconnaissez que vous avez lu tout le contenu de cette clause de non-responsabilité, et que vous comprenez et acceptez pleinement tous les Termes et Conditions de cette clause de non-responsabilité; sinon, vous devez désactiver immédiatement la fonction d'avertissement de tremblement de terre.
+    <string name="ew_guide_statement_text_new">"Cette clause de non-responsabilité s'applique à tous les utilisateurs (ci-après dénommés « vous ») qui activent la fonction d'avertissement de tremblement de terre. En acceptant cette clause de non-responsabilité, vous concluez un contrat juridiquement contraignant avec Xiaomi Inc. et ses sociétés affiliées (ci-après dénommées « Xiaomi »). Vous reconnaissez que vous avez lu tout le contenu de cette clause de non-responsabilité, et que vous comprenez et acceptez pleinement tous les Termes et conditions de cette clause de non-responsabilité; sinon, vous devez désactiver immédiatement la fonction d'avertissement de tremblement de terre.
 Conformément aux lois et réglementations en vigueur, Xiaomi vous fournira des services d'alerte précoce en fonction de l'étendue de la zone de surveillance d'alerte précoce des tremblements de terre couverte par les agences compétentes. Autrement dit, lorsque vous activez la fonctionnalité d'avertissement de tremblement de terre, vous pourrez recevoir des avertissements de tremblement de terre émis pour des zones spécifiques. Vous pouvez trouver des zones de couverture spécifiques dans les paramètres.
 Cette fonction vous offre une fonctionnalité d'avertissement de tremblement de terre. Vous devez comprendre que les informations d'alerte au tremblement de terre sont fournies par le Chengdu Hi-tech Disaster Reduction Institute. Xiaomi ne supervise pas cette organisation et n'a aucun contrôle sur elle.
 Xiaomi ne promet ni ne garantit l'exactitude, la validité et l'actualité des informations d'avertissement de tremblement de terre, ni ne garantit que le service d'alerte de tremblement de terre répondra à tous vos besoins.
@@ -1498,11 +1498,11 @@ des tremblements de terre"</string>
     <string name="free_send_net_booster_busniess">Obtenir un accélérateur de vitesse Xunlei gratuit</string>
     <string name="free_send_net_booster_busniess_tip">Appuyez pour recevoir</string>
     <string name="free_send_net_booster_tip">"Profitez d'une expérience de jeux fluide avec une augmentation gratuite de la vitesse du réseau."</string>
-    <string name="free_time_traffic">"Limite d'utilisation de données en heures creuses"</string>
+    <string name="free_time_traffic">"Limite d'utilisation des données en heures creuses"</string>
     <string name="free_time_traffic_hint">Entrer la limite de données en heure creuse</string>
-    <string name="free_time_traffic_settings">"Limite d'utilisation de données en heures creuses"</string>
+    <string name="free_time_traffic_settings">"Limite d'utilisation des données en heures creuses"</string>
     <string name="free_time_traffic_title">Entrer la limite de données en heure creuse</string>
-    <string name="free_traffic_settings">"Paramètres de l'utilisation de données en heures creuses"</string>
+    <string name="free_traffic_settings">"Paramètres de l'utilisation des données en heures creuses"</string>
     <string name="friday">Vendredi</string>
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
@@ -2000,9 +2000,9 @@ pour rejoindre notre chasse aux œufs !"</string>
     <string name="legal_workday_message">(Ignorer les vacances)</string>
     <string name="leisure_usage_dialog_message">"Vous avez atteint votre limite de données en heures creuses.
 
-Votre opérateur peut vous facturer des frais supplémentaires si vous utilisez à nouveau la connexion de données mobiles."</string>
-    <string name="leisure_usage_dialog_title">Vous avez dépassé votre limite de données en heures creuses, la connexion de données est désactivée</string>
-    <string name="limit_speed_by_quota">Speed restrictions may apply after you reach the limit</string>
+Votre opérateur peut vous facturer des frais supplémentaires si vous utilisez à nouveau les données mobiles."</string>
+    <string name="leisure_usage_dialog_title">Limite de données en heures creuses atteinte, les donées mobiles sont désactivées</string>
+    <string name="limit_speed_by_quota">Le débit peut être réduit après avoir atteint la limite de données mobiles</string>
     <string name="list_empty_text">Vide</string>
     <string name="load_only_under_wlan">Charger uniquement en Wi-Fi</string>
     <string name="loading">Chargement…</string>
@@ -2071,14 +2071,14 @@ Votre opérateur peut vous facturer des frais supplémentaires si vous utilisez 
     <string name="main_indicator_title">Activation</string>
     <string name="main_leisure_remained">Données en heures creuses restantes</string>
     <string name="main_month_total_used">Utilisées ce mois</string>
-    <string name="main_month_used">Forfait de donnée</string>
+    <string name="main_month_used">Forfait de données</string>
     <string name="main_no_info">Aucune donnée</string>
     <string name="main_normal_data_usage">Données mobiles utilisées</string>
     <string name="main_open_traffic_ctrl_button">"Restreindre l'utilisation des données"</string>
-    <string name="main_primary_message_leisure_alert">"Alerte d'utilisation de données en heures creuses"</string>
+    <string name="main_primary_message_leisure_alert">"Alerte d'utilisation des données en heures creuses"</string>
     <string name="main_primary_message_leisure_overlimit">Limite de données en heures creuses dépassée</string>
     <string name="main_primary_message_leisure_remain">Données en heures creuses</string>
-    <string name="main_primary_message_traffic_overlimit">Vous avez dépassé la limite des données mobiles</string>
+    <string name="main_primary_message_traffic_overlimit">Limite de données mobiles dépassée</string>
     <string name="main_primary_message_traffic_remain">Données mobiles</string>
     <string name="main_primary_message_traffic_warning">"Alerte de l'utilisation des données mobiles"</string>
     <string name="main_purchase_tips">Promotion</string>
@@ -2574,7 +2574,7 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
     <string name="other_milink_connect">Impossible de lancer. Une autre fonctionnalité est en cours de conversion.</string>
     <string name="package_change_notification_summary">Appuyez pour en savoir plus.</string>
     <string name="package_change_notification_title">Ajuster automatiquement la limite de données</string>
-    <string name="package_setted_error_notification_summary">"Appuyez pour voir les détails d'utilisation de données."</string>
+    <string name="package_setted_error_notification_summary">"Appuyez pour voir les détails d'utilisation des données."</string>
     <string name="package_setted_error_notification_titile">Impossible de définir le forfait de données</string>
     <string name="packages_subtitle">Paquets inclus</string>
     <string name="passwordIncorrect">"Nom d'utilisateur ou de mot de passe incorrect"</string>
@@ -2765,7 +2765,7 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
     <string name="phone_manage_special_title">Caractéristiques spéciales</string>
     <string name="phone_manage_system_tool_summary">Outils utiles au niveau du système</string>
     <string name="phone_manage_system_tool_title">Outils</string>
-    <string name="pkg_traffic">"Définir la limite d'utilisation de données"</string>
+    <string name="pkg_traffic">"Définir la limite d'utilisation des données"</string>
     <string name="pm_auto_start_by_other">Démarrer le déclencheur</string>
     <string name="pm_auto_start_by_other_app">"Autoriser l'application à être démarrée par d'autres applications"</string>
     <string name="pm_auto_start_by_system">Applications au démarrage</string>
@@ -3203,12 +3203,12 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
     <string name="pp_virtual_identity_manager">ID virtuel</string>
     <string name="pref_about_traffic_title">"Paramètres d'utilisation des données"</string>
     <string name="pref_adjust_data_usage">Modèle de message opérateur</string>
-    <string name="pref_adjust_data_usage_summary">"Après avoir changé le modèle d'étalonnage, MIUI l'utilisera afin d'obtenir les statistiques d'utilisation de données de votre opérateur"</string>
+    <string name="pref_adjust_data_usage_summary">"Après avoir changé le modèle d'étalonnage, MIUI l'utilisera afin d'obtenir les statistiques d'utilisation des données de votre opérateur"</string>
     <string name="pref_adjust_traffic_data">"Définir l'utilisation des données"</string>
     <string name="pref_allow_connect_network_title">Itinérance des données</string>
     <string name="pref_auto_adjust_traffic">Synchronisation automatique des statistiques</string>
     <string name="pref_automatic_adjust">"Synchroniser l'utilisation des données de l'opérateur"</string>
-    <string name="pref_avaible_traffic">Forfait de donnée</string>
+    <string name="pref_avaible_traffic">Forfait de données</string>
     <string name="pref_bg_network_title">Connexion en arrière-plan</string>
     <string name="pref_category_daily_package_tile">Forfait de données quotidien</string>
     <string name="pref_category_extra_package_tile">Recharge de forfait</string>
@@ -3222,9 +3222,9 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
     <string name="pref_correction_sms_content">"Modèle d'étalonnage"</string>
     <string name="pref_correction_sms_number">"Envoyer un SMS d'étalonnage à"</string>
     <string name="pref_daily_adjust">Définir la limite des données en heures pleines</string>
-    <string name="pref_daily_traffic">"Limite d'utilisation de données en heures pleines"</string>
+    <string name="pref_daily_traffic">"Limite d'utilisation des données en heures pleines"</string>
     <string name="pref_data_usage_ignore_settings">"Ignorer l'utilisation des données"</string>
-    <string name="pref_data_usage_ignore_settings_summary">"Ne pas garder de traces de l'utilisation de données des applications sélectionnées"</string>
+    <string name="pref_data_usage_ignore_settings_summary">"Ne pas garder de traces de l'utilisation des données des applications sélectionnées"</string>
     <string name="pref_data_usage_not_set">Forfait de données inconnu</string>
     <string name="pref_free_adjust">Définir la limite des données en heure creuse</string>
     <string name="pref_key_daily_package_summary">Activer pour réinitialiser le forfait de données quotidien</string>
@@ -3242,13 +3242,13 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
     <string name="pref_more_settings">Paramètres additionnels</string>
     <string name="pref_new_installed_preconfig_title">Paramètres par défaut des nouvelles applications</string>
     <string name="pref_normal_traffic_limit">Lorsque le forfait de données a expiré</string>
-    <string name="pref_open_adjust_traffic">"Mettre à jour l'utilisation de données chaque jour en utilisant les statistiques de votre opérateur"</string>
+    <string name="pref_open_adjust_traffic">"Mettre à jour l'utilisation des données chaque jour en utilisant les statistiques de votre opérateur"</string>
     <string name="pref_operator_not_set">Opérateur non défini</string>
     <string name="pref_over_traffic_limit">Lorsque vous dépassez votre forfait de données</string>
-    <string name="pref_package_traffic_settings">Forfait des données</string>
+    <string name="pref_package_traffic_settings">Forfait de données</string>
     <string name="pref_pkg_begin_date">"Date de réinitialisation d'utilisation"</string>
     <string name="pref_roaming_daily_limit_setting">Définir la limite quotidienne des données en itinérance</string>
-    <string name="pref_roaming_daily_limit_setting_cat_title">Limite de données quotidiennes</string>
+    <string name="pref_roaming_daily_limit_setting_cat_title">Limite de données quotidienne</string>
     <string name="pref_roaming_setting_gategory">Paramètres</string>
     <string name="pref_special_package_setting">Personnaliser le forfait de données</string>
     <string name="pref_special_package_setting_summary">Gérez les données des heures creuses, les forfaits de recharges, ainsi que les données désignées</string>
@@ -3260,7 +3260,7 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
     <string name="pref_title_traffic_limit_number">Taille</string>
     <string name="pref_title_traffic_package_type">Type de forfait de données</string>
     <string name="pref_title_traffic_speed_state">Afficher la vitesse de connexion</string>
-    <string name="pref_title_update_notification">"Notifications de l'utilisation de données"</string>
+    <string name="pref_title_update_notification">"Notifications de l'utilisation des données"</string>
     <string name="pref_title_upload_data_usage">"Signaler les informations d'utilisation des données"</string>
     <string name="pref_traffic_daily_package">Forfait de données quotidien</string>
     <string name="pref_traffic_daily_package_brand">Fournisseur de forfait de données quotidien</string>
@@ -3696,7 +3696,7 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
     <string name="shortcut_title_scan">Scan</string>
     <string name="shortcut_title_whatsapp_clean">WhatsApp cleaner</string>
     <string name="show_system_app">Afficher les applications système</string>
-    <string name="show_traffic_dialog_message">"Vos informations d'utilisation de données apparaîtront dans le Panneau de notification. Vous pouvez activer ou désactiver cette fonctionnalité à tout moment dans Utilisation des données > Paramètres."</string>
+    <string name="show_traffic_dialog_message">"Vos informations d'utilisation des données apparaîtront dans le Panneau de notification. Vous pouvez activer ou désactiver cette fonctionnalité à tout moment dans Utilisation des données > Paramètres."</string>
     <string name="show_traffic_dialog_title">"Afficher l'utilisation dans le Panneau de notification"</string>
     <string name="showpattern">Afficher le schéma</string>
     <string name="shutdown_cancel_reminder">"Impossible d'éteindre l'appareil"</string>
@@ -4260,37 +4260,37 @@ Formatting will erase existing content on the ^2. To avoid losing content, back 
     <string name="tc_send_sms_error">"Impossible d'envoyer le SMS"</string>
     <string name="tc_sms_report_direction">Demande de code par SMS</string>
     <string name="tc_sms_report_do_report">Envoyer</string>
-    <string name="tc_sms_report_get_default">"Vous n'encourrez pas de frais pour les SMS envoyés par votre opérateur pour vous informer de votre utilisation de données."</string>
+    <string name="tc_sms_report_get_default">"Vous n'encourrez pas de frais pour les SMS envoyés par votre opérateur pour vous informer de votre utilisation des données."</string>
     <string name="tc_sms_report_get_sms">Recevoir un SMS</string>
     <string name="tc_sms_report_get_sms2">Recevoir un SMS</string>
     <string name="tc_sms_report_get_sms_again">Actualiser les SMS</string>
     <string name="tc_sms_report_get_sms_bill">Recevoir un SMS</string>
     <string name="tc_sms_report_get_sms_calltime">Recevoir un SMS</string>
-    <string name="tc_sms_report_get_sms_failure">"Impossible d'obtenir les informations d'utilisation de données"</string>
+    <string name="tc_sms_report_get_sms_failure">"Impossible d'obtenir les informations d'utilisation des données"</string>
     <string name="tc_sms_report_get_sms_successs">"Informations de l'utilisation des données ont été mises à jour avec succès"</string>
     <string name="tc_sms_report_get_sms_timeout">La requête a expiré</string>
     <string name="tc_sms_report_get_success">"SMS du rapport d'utilisation des données de l'opérateur a été reçu. Assurez-vous qu'il soit précis et transmettez le nous."</string>
     <string name="tc_sms_report_get_success_notify_body">Assurez-vous que le rapport soit exact et envoyez-le à MIUI.</string>
-    <string name="tc_sms_report_get_success_notify_title">"SMS de rapport d'utilisation de données reçu"</string>
+    <string name="tc_sms_report_get_success_notify_title">"SMS de rapport d'utilisation des données reçu"</string>
     <string name="tc_sms_report_geting_sms">"Obtention d'infos SMS…"</string>
     <string name="tc_sms_report_notify_correction_body">"Accédez à l'application d'utilisation des données dans le centre de sécurité et essayez à nouveau manuellement."</string>
     <string name="tc_sms_report_notify_correction_business_hall">Calibrez à nouveau dans Services Opérateur</string>
     <string name="tc_sms_report_notify_correction_failure_title">"Impossible de mettre à jour les informations d'utilisation des données"</string>
-    <string name="tc_sms_report_notify_get_failure_body">"Impossible de vous présenter le rapport d'utilisation de données. Veuillez vérifier que vous êtes connecté à un réseau mobile."</string>
+    <string name="tc_sms_report_notify_get_failure_body">"Impossible de vous présenter le rapport d'utilisation des données. Veuillez vérifier que vous êtes connecté à un réseau mobile."</string>
     <string name="tc_sms_report_notify_get_failure_title">"Impossible d'obtenir le SMS d'utilisation des données"</string>
     <string name="tc_sms_report_notify_get_timeout_body">Le processus a expiré. Confirmez avec votre opérateur que le code de demande SMS entré est correct.</string>
     <string name="tc_sms_report_notify_get_timeout_title">"Impossible d'obtenir le SMS d'utilisation des données"</string>
-    <string name="tc_sms_report_receive_content">"SMS de rapport d'utilisation des données (Confirme les statistiques d'utilisation de données)"</string>
+    <string name="tc_sms_report_receive_content">"SMS de rapport d'utilisation des données (Confirme les statistiques d'utilisation des données)"</string>
     <string name="tc_sms_report_receive_content_null">Aidez-nous à améliorer cette fonctionnalité !&lt;br/>Voici comment :&lt;br/>1. Aller à \"Vérifier la commande SMS\" et \"Numéros du destinataire\"&lt;br/>2. Appuyez sur \"Obtenir un modèle de SMS\"&lt;br/>3. Attendez de recevoir un SMS de la part de votre opérateur&lt;br/>4. Appuyez sur \"Envoyer à MIUI\"</string>
     <string name="tc_sms_report_receive_num">Numéro du destinataire</string>
     <string name="tc_sms_report_send_num">"Téléphone de l'opérateur #"</string>
     <string name="tc_sms_report_summary">"Aidez-nous à améliorer cette fonction en envoyant un rapport lorsque vos informations d'utilisations des données sont incorrectes ou ne se mettent pas à jour."</string>
-    <string name="tc_sms_report_tips_dialog_message">"Un SMS est envoyé pour obtenir les dernières informations d'utilisation de données de votre opérateur. Si vous pensez que l'information n'est pas correcte, envoyez-nous vos commentaires."</string>
+    <string name="tc_sms_report_tips_dialog_message">"Un SMS est envoyé pour obtenir les dernières informations d'utilisation des données de votre opérateur. Si vous pensez que l'information n'est pas correcte, envoyez-nous vos commentaires."</string>
     <string name="tc_sms_report_tips_dialog_title">"SMS d'utilisation des données"</string>
     <string name="tc_sms_report_title">"Signaler un bogue d'utilisation des données"</string>
     <string name="tc_sms_report_toast_text">"Obtention d'infos…"</string>
     <string name="tc_sms_report_type">Type de rapport</string>
-    <string name="tc_sms_report_upload_success">"SMS de rapport d'utilisation de données soumis. Nous nous en occuperons au plus vite !"</string>
+    <string name="tc_sms_report_upload_success">"SMS de rapport d'utilisation des données soumis. Nous nous en occuperons au plus vite !"</string>
     <string name="tc_sms_report_upload_when_net">Merci pour votre commentaire !</string>
     <string name="tc_web_correct_error">"Impossible d'étalonner"</string>
     <string name="ten_percent_total_pkg">%s (10%% de données mensuelles)</string>
@@ -4396,7 +4396,7 @@ Formatting will erase existing content on the ^2. To avoid losing content, back 
     <string name="title_install_virus_no">"Moniteur d'installation désactivé"</string>
     <string name="title_install_virus_yes">"Moniteur d'installation activé"</string>
     <string name="title_like">"J'aime"</string>
-    <string name="title_limit_traffic_per_day">"Limite d'utilisation de données quotidiennes"</string>
+    <string name="title_limit_traffic_per_day">"Limite d'utilisation des données quotidienne"</string>
     <string name="title_mifi_insurance">Garantie prolongée</string>
     <string name="title_miui_update">Mises à jour disponibles</string>
     <string name="title_miui_update_latest">MIUI est à jour</string>
@@ -4489,7 +4489,7 @@ Le volume de données restant inclut l'excédent du mois précédent."</string>
     <string name="traffic_limit_error_alert_title">Rappel de la limite de données %s</string>
     <string name="traffic_limit_input">Limite de données (obligatoire)</string>
     <string name="traffic_none">Aucun</string>
-    <string name="traffic_over_purchase_link">"Vous avez atteint la limite d'utilisation de données de votre forfait."&lt;br/>"Si vous dépassez la limite d'utilisation de données de votre forfait, votre opérateur peut vous facturer des frais supplémentaires."&lt;br/>&lt;br/>&lt;font color=#ccffffff>&lt;U>Appuyez pour recharger votre solde.&lt;/U>&lt;/font></string>
+    <string name="traffic_over_purchase_link">"Vous avez atteint la limite d'utilisation des données de votre forfait."&lt;br/>"Si vous dépassez la limite d'utilisation des données de votre forfait, votre opérateur peut vous facturer des frais supplémentaires."&lt;br/>&lt;br/>&lt;font color=#ccffffff>&lt;U>Appuyez pour recharger votre solde.&lt;/U>&lt;/font></string>
     <string name="traffic_provider_no_sim">"La carte SIM n'est pas installée"</string>
     <string name="traffic_purchase_body">Appuyez pour recharger votre solde.</string>
     <string name="traffic_setting_fragment_area">Lieu</string>
