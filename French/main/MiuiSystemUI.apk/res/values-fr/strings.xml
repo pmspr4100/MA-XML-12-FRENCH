@@ -966,6 +966,8 @@ Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données.
   <string name="fingerprint_not_recognized">Non reconnu</string>
   <string name="fingerprint_try_again_msg">"Impossible de vérifier l'empreinte digitale, veuillez réessayer."</string>
   <string name="fingerprint_try_again_text">Réessayer</string>
+  <string name="fiveg_sa_switch_summary">Utiliser le réseau SA sur la SIM secondaire (uniquement pour les tests)</string>
+  <string name="fiveg_sa_vice_switch_title">SA sur la SIM secondaire</string>
   <string name="float_incall_ignore">Ignorer</string>
   <string name="float_incall_message">Message</string>
   <string name="float_notification_snooze_strategy">Masquer temporairement les notifications flottantes</string>
@@ -1742,11 +1744,11 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="phone_locked_foget_password">Mot de passe oublié ?</string>
   <string name="phone_locked_foget_password_mehod_back">Retour</string>
   <string name="phone_locked_foget_password_method">Mot de passe oublié ?</string>
-  <string name="phone_locked_foget_password_method_content">"&lt;Data>Vous devez &lt;font color=#a5220e>effacer toutes les données &lt;/font>sur votre appareil, y compris les photos et les contacts, puis définissez un nouveau mot de passe pour l'écran de verrouillage.&lt;/Data>"</string>
+  <string name="phone_locked_foget_password_method_content"><Data>"Vous devez &lt;font color=#a5220e>effacer toutes les données &lt;/font>sur votre appareil, y compris les photos et les contacts, puis définissez un nouveau mot de passe pour l'écran de verrouillage."</Data></string>
   <string name="phone_locked_foget_password_method_next">Suivant</string>
   <string name="phone_locked_foget_password_ok">Compris</string>
-  <string name="phone_locked_forget_password_suggesstion_one_content">"&lt;Data>Mettez votre appareil hors tension , appuyez et maintenez le &lt;font color=#a5220e>bouton d'alimentation&lt;/font> et le &lt;font color=#a5220e> bouton Volume haut&lt;/font> simultanément jusqu'à ce que voyez le logo Mi.;&lt;/Data>"</string>
-  <string name="phone_locked_forget_password_suggesstion_two_content">"&lt;Data>sélectionner&lt;font color=#a5220e>\"Effacer &amp; Réinitialiser\"&lt;/font> et patientez jusqu'à ce que l'appareil redémarre.;&lt;/Data>"</string>
+  <string name="phone_locked_forget_password_suggesstion_one_content"><Data>"Mettez votre appareil hors tension, puis appuyez et maintenez le &lt;font color=#a5220e>bouton d'alimentation&lt;/font> et le &lt;font color=#a5220e> bouton Volume haut&lt;/font> simultanément jusqu'à ce que voyez le logo Mi."</Data></string>
+  <string name="phone_locked_forget_password_suggesstion_two_content"><Data>"Sélectionner&lt;font color=#a5220e>\"Effacer &amp; Réinitialiser\"&lt;/font> et patientez jusqu'à ce que l'appareil redémarre."</Data></string>
   <string name="phone_locked_forget_password_suggesstions_title">Comment effacer les données ?</string>
   <string name="phone_locked_string">Appareil verrouillé</string>
   <string name="picture_color_mode">Mode image couleur</string>
