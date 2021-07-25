@@ -398,6 +398,7 @@ Envoyez ce code au superviseur."</string>
   <string name="galleryplus_copyright_unsported_video">"Impossible de lire cette vidéo en raison de restrictions de droits d'auteur"</string>
   <string name="galleryplus_cta_tips">"Vous pouvez nous aider à améliorer nos services en souscrivant à notre Programme d'expérience utilisateur, et en autorisant Mi Vidéo à se connecter à internet. D'accord ?"</string>
   <string name="galleryplus_double_tap_to_higher_definition">Appuyez à nouveau 2 fois pour ouvrir la prévisualisation HD</string>
+  <string name="galleryplus_file_edit_save">Fichier enregistré dans %s</string>
   <string name="galleryplus_fr_unsupport_restore_speed">"Fréquence d'images non prise en charge. Revenir à la vitesse normale."</string>
   <string name="galleryplus_gallery_fold_tags">Masquer les marques</string>
   <string name="galleryplus_gallery_video_adjust_hint">Seules les vidéos à 960 ips sont gérées</string>
@@ -1287,13 +1288,18 @@ Augmenter la sécurité de votre compte."</string>
   <string name="video_download_floating_guide">Téléchargez des vidéos gratuitement</string>
   <string name="video_download_folder_title">Téléchargements Mi Vidéo</string>
   <string name="video_download_forbidden">Impossible de télécharger à partir de ce site Web</string>
+  <string name="video_download_login_guide">Connectez-vous à %s pour pouvoir télécharger des vidéos</string>
   <string name="video_download_network_error">Erreur réseau</string>
   <string name="video_download_play_video_guide">Commencez par lire la vidéo.</string>
-  <string name="video_download_play_video_guide2">Appuyez ensuite sur le bouton pour télécharger.</string>
+  <string name="video_download_play_video_guide2">"Appuyez sur le bouton après qu'il s'allume pour commencer le téléchargement."</string>
+  <string name="video_download_play_video_step1">Étape %1$d</string>
+  <string name="video_download_play_video_step2">Étape %2$d</string>
   <string name="video_download_site_search">URL</string>
   <string name="video_download_source">Téléchargement web</string>
   <string name="video_download_start">Téléchargement…</string>
   <string name="video_download_storage_error">Espace de stockage insuffisant</string>
+  <string name="video_download_title">Télécharger des vidéos</string>
+  <string name="video_download_youtube_copyright_forbidden">"Impossible de télécharger des vidéos YouTube en raison de restrictions de droits d'auteur"</string>
   <string name="video_downloading">Téléchargement…</string>
   <string name="video_live_over">Cette session est terminée</string>
   <string name="video_noyet_download_tip">Cette vidéo est toujours en cours de téléchargement</string>

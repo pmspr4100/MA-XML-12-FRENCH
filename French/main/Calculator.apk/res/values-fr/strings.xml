@@ -188,8 +188,10 @@
   <string name="label_from_date">De</string>
   <string name="label_history">Historique</string>
   <string name="label_interest">Intérêt (pourcentage)</string>
-  <string name="label_investment_duration">Duration</string>
-  <string name="label_loan_tenure">Loan tenure</string>
+  <string name="label_investment_disclaimer">Nous utilisons une période de composition de trois mois pour les calculs récurrents</string>
+  <string name="label_investment_duration">Durée</string>
+  <string name="label_loan_tenure">Durée du prêt</string>
+  <string name="label_monthly_investment">Investissement mensuel</string>
   <string name="label_months">Mois</string>
   <string name="label_no_history">Aucun article ici encore</string>
   <string name="label_principal">Principal</string>
@@ -762,6 +764,11 @@ Les RAPI sur un an et cinq ans seront indiqués le 20 de chaque mois (des retard
   <string name="wf_word_figure">Caractères financiers</string>
   <string name="withdraw_network_error">Votre appareil doit se connecter au réseau pour que vous puissiez retirer votre consentement. Vérifiez vos paramètres réseau et réessayez.</string>
   <string name="word_figure_guide_text">Appuyez et maintenez le texte pour convertir entre les cas.</string>
+  <string name="xiaomi_bytes_unit">%1$s o</string>
+  <string name="xiaomi_calculator_delete_description">"Calculatrice est une application système. Vous ne pourrez pas utiliser plusieurs convertisseurs et fonctionnalités supplémentaires après avoir désinstallé l'application."</string>
+  <string name="xiaomi_calculator_delete_title">Désinstaller Calculatrice ?</string>
+  <string name="xiaomi_calculator_remove_icon_description">"Calculatrice est une application système. Vous ne pourrez pas utiliser plusieurs convertisseurs et fonctionnalités supplémentaires après avoir supprimé le raccourci de l'écran d'accueil."</string>
+  <string name="xiaomi_calculator_remove_icon_title">"Supprimer \"Calculatrice\" de l'écran d'accueil ?"</string>
   <string name="xiaomi_connect_download_manager_fail">Impossible de se connecter aux téléchargements. Vérifiez si cette application dispose de toutes les permissions requises dans Paramètres > Applications installées.</string>
   <string name="xiaomi_external_storage_unavailable">"Le stockage n'est pas disponible. Vérifiez votre carte SD."</string>
   <string name="xiaomi_update_dialog_message">"Présentation de la version %1$s

@@ -200,29 +200,37 @@
         <item quantity="few">%1$s nouvelles vidéos trouvées</item>
         <item quantity="many">%1$s nouvelles vidéos trouvées</item>
     </plurals>
+    <plurals name="search_head_hint_all">
+        <item quantity="other">Résultats de la recherche (%1$d éléments)</item>
+        <item quantity="zero">Résultats de la recherche (%1$d éléments)</item>
+        <item quantity="one">Résultats de la recherche (%1$d élément)</item>
+        <item quantity="two">Résultats de la recherche (%1$d éléments)</item>
+        <item quantity="few">Résultats de la recherche (%1$d éléments)</item>
+        <item quantity="many">Résultats de la recherche (%1$d éléments)</item>
+    </plurals>
     <plurals name="search_head_hint_app">
-        <item quantity="other">App %1$s related files (%2$d éléments)</item>
-        <item quantity="zero">App %1$s related files (%2$d éléments)</item>
-        <item quantity="one">App %1$s related files (%2$d élément)</item>
-        <item quantity="two">App %1$s related files (%2$d éléments)</item>
-        <item quantity="few">App %1$s related files (%2$d éléments)</item>
-        <item quantity="many">App %1$s related files (%2$d éléments)</item>
+        <item quantity="other">"Fichiers liés à l'application %1$s (%2$d éléments)"</item>
+        <item quantity="zero">"Fichiers liés à l'application %1$s (%2$d élément)"</item>
+        <item quantity="one">"Fichiers liés à l'application %1$s (%2$d élément)"</item>
+        <item quantity="two">"Fichiers liés à l'application %1$s (%2$d éléments)"</item>
+        <item quantity="few">"Fichiers liés à l'application %1$s (%2$d éléments)"</item>
+        <item quantity="many">"Fichiers liés à l'application %1$s (%2$d éléments)"</item>
     </plurals>
     <plurals name="search_head_hint_file">
-        <item quantity="other">%1$s related files (%2$d éléments)</item>
-        <item quantity="zero">%1$s related files (%2$d éléments)</item>
-        <item quantity="one">%1$s related files (%2$d élément)</item>
-        <item quantity="two">%1$s related files (%2$d éléments)</item>
-        <item quantity="few">%1$s related files (%2$d éléments)</item>
-        <item quantity="many">%1$s related files (%2$d éléments)</item>
+        <item quantity="other">Fichiers relatifs à %1$s (%2$d éléments)</item>
+        <item quantity="zero">Fichiers relatifs à %1$s (%2$d élément)</item>
+        <item quantity="one">Fichiers relatifs à %1$s (%2$d élément)</item>
+        <item quantity="two">Fichiers relatifs à %1$s (%2$d éléments)</item>
+        <item quantity="few">Fichiers relatifs à %1$s (%2$d éléments)</item>
+        <item quantity="many">Fichiers relatifs à %1$s (%2$d éléments)</item>
     </plurals>
     <plurals name="search_head_hint_tag">
-        <item quantity="other">Tag %1$s related files (%2$d éléments)</item>
-        <item quantity="zero">Tag %1$s related files (%2$d éléments)</item>
-        <item quantity="one">Tag %1$s related files (%2$d élément)</item>
-        <item quantity="two">Tag %1$s related files (%2$d éléments)</item>
-        <item quantity="few">Tag %1$s related files (%2$d éléments)</item>
-        <item quantity="many">Tag %1$s related files (%2$d éléments)</item>
+        <item quantity="other">Fichiers relatifs au tag 1$s (%2$d éléments)</item>
+        <item quantity="zero">Fichiers relatifs au tag 1$s (%2$d élément)</item>
+        <item quantity="one">Fichiers relatifs au tag 1$s (%2$d élément)</item>
+        <item quantity="two">Fichiers relatifs au tag 1$s (%2$d éléments)</item>
+        <item quantity="few">Fichiers relatifs au tag 1$s (%2$d éléments)</item>
+        <item quantity="many">Fichiers relatifs au tag 1$s (%2$d éléments)</item>
     </plurals>
     <plurals name="text_group_count">
         <item quantity="other">%d fichiers</item>

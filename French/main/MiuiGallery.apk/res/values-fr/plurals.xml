@@ -65,8 +65,8 @@
         <item quantity="one">%d photo cloud a été ajoutée, désactiver \"Afficher uniquement les albums locaux\" pour la voir.</item>
     </plurals>
     <plurals name="add_to_album_failed_with_reason_and_count">
-        <item quantity="other">"%2$d fichiers ne peuvent être ajoutés à l'album. %1$s."</item>
-        <item quantity="one">"%2$d fichier ne peut être ajouté à l'album. %1$s."</item>
+        <item quantity="other">" %2$d fichiers ne peuvent être ajoutés à l'album. %1$s."</item>
+        <item quantity="one">" %2$d fichier ne peut être ajouté à l'album. %1$s."</item>
     </plurals>
     <plurals name="add_to_secret_failed_with_reason_and_count">
         <item quantity="other">"%2$d fichiers ne peuvent pas être ajoutés à l'album privé: %1$s."</item>

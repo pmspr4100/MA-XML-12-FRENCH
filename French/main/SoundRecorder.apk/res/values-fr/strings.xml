@@ -130,7 +130,8 @@
   <string name="loading_order_list">Chargement…</string>
   <string name="loading_order_list_empty">Aucune commande ici.</string>
   <string name="low_battery_error">"Moins de 5% de batterie restant. Arrêtez et sauvegardez votre enregistrement pour vous assurer qu'il ne soit pas perdu."</string>
-  <string name="low_battery_error_confirm">OK </string>
+  <string name="low_battery_error_confirm">OK</string>
+  <string name="low_battery_error_for_pad">"Moins de %s de batterie restante. Arrêtez et sauvegardez votre enregistrement pour vous assurer qu'il ne se perde pas."</string>
   <string name="low_battery_error_title">Batterie faible</string>
   <string name="lyric_item_point_count">%1$d à %2$d</string>
   <string name="mark_point_list_title">Marques</string>
@@ -217,7 +218,8 @@
   <string name="notification_message_all_paused">"En attente d'une connexion Wi-Fi."</string>
   <string name="notification_playback">En lecture…</string>
   <string name="notification_recording">Enregistrement…</string>
-  <string name="notification_recording_ticker">Téléphone en mode silencieux</string>
+  <string name="notification_recording_ticker">Téléphone en mode Silencieux</string>
+  <string name="notification_recording_ticker_for_pad">"Votre appareil enregistre actuellement de l'audio en mode Silencieux. Utilisez les boutons de volume pour désactiver le mode Silencieux."</string>
   <string name="notification_save_as_complete">Enregistré avec succès</string>
   <string name="notification_stopped">"L'enregistrement s'est arrêté"</string>
   <string name="notification_title_all_paused">Téléchargement en pause</string>
