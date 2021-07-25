@@ -190,12 +190,10 @@
   <string name="float_todo_guide_title_v2">Gesture shortcut</string>
   <string name="fmt_date_long_month_day">d MMMM</string>
   <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
-  <string name="fmt_date_numeric_month_day">dd-MM</string>
-  <string name="fmt_date_numeric_year_month_day">dd-MM-yyyy</string>
+  <string name="fmt_date_numeric_month_day">dd/MM</string>
+  <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_short_month_day">d MMM</string>
   <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
-  <string name="fmt_time_12hour">"h 'o''horloge'"</string>
-  <string name="fmt_time_24hour">"H 'o''horloge'"</string>
   <string name="folder_exist">Un dossier avec le même nom existe déjà</string>
   <string name="folder_operation_delete">Supprimer</string>
   <string name="folder_operation_rename">Renommer</string>
@@ -216,6 +214,15 @@
   <string name="hide_arrow_description">Masquer</string>
   <string name="hint_cannot_view_hidden_note_content">Vous ne pouvez pas afficher le contenu des notes masquées</string>
   <string name="hint_foler_name">Nom</string>
+  <string name="hybrid_provider">Fourni par %1$s</string>
+  <string name="image_action_annotate">"Ajouter une description de l'image"</string>
+  <string name="image_action_browse">"Afficher l'image"</string>
+  <string name="image_action_delete">"Supprimer l'image"</string>
+  <string name="image_action_save_to_gallery">Enregistrer dans Galerie</string>
+  <string name="image_action_zoom_in">Agrandir</string>
+  <string name="image_action_zoom_out">Dézoomer</string>
+  <string name="image_annotation_edit_hint">"Description de l'image"</string>
+  <string name="image_annotation_edit_length_warning">"La description de l'image peut contenir jusqu'à %d caractères"</string>
   <string name="info_note_enter_desktop">Note créée sur le bureau</string>
   <string name="last_excerpt_unfinish_hint">Le dernier extrait est incomplet</string>
   <string name="loading_text">Chargement…</string>
@@ -322,6 +329,7 @@
   <string name="new_audio_create_done_talkback_des">Créer</string>
   <string name="new_data_empty_note">"Pas d'éléments ici pour le moment"</string>
   <string name="night">Soirée</string>
+  <string name="no_network">Connexion au réseau impossible</string>
   <string name="noon">Midi</string>
   <string name="new_audio_create_guide_tip">Appuyez longuement pour créer une note vocale</string>
   <string name="new_audio_create_talkback_des">"Appuyez pour créer une note de texte. Appuyez longuement pour créer une note vocale. Relâchez le bouton pour arrêter l'enregistrement et créer la note, ou faites glisser vers le haut pour annuler."</string>
@@ -345,6 +353,7 @@
   <string name="note_mindnote_entrance_hint_newversion">"Commencer à écrire "</string>
   <string name="note_mindnote_entrance_icon_text">Créer une carte mentale</string>
   <string name="note_mindnote_entrance_icon_text_newversion">Créer une carte mentale</string>
+  <string name="note_not_text_stub">Aucun texte</string>
   <string name="note_sort_way">Trier</string>
   <string name="notealert_enter">Ouvrir une note</string>
   <string name="notealert_ok">Ignorer</string>
@@ -525,6 +534,7 @@
   <string name="solar_term_white_dews">Rosée blanche</string>
   <string name="solar_term_winter_begins">"Début de l'hiver"</string>
   <string name="solar_term_winter_solstice">"Solstice d'hiver"</string>
+  <string name="splash_note">Stylus</string>
   <string name="sunday">Dimanche</string>
   <string name="sunday_short">Dim</string>
   <string name="sunday_shortest">Dim</string>
@@ -606,6 +616,7 @@
   <string name="toast_notes_delete_success">Supprimé avec succès</string>
   <string name="toast_notes_hidden_edit">Cette note a été cachée avec succès. Tirez vers le bas pour voir les notes cachées.</string>
   <string name="toast_notes_hidden_home">Cette note a été cachée avec succès. Tirez vers le bas pour voir les notes cachées.</string>
+  <string name="toast_notes_hidden_pad">Cette note est maintenant masquée. Déroulez le panneau latéral pour afficher les notes masquées.</string>
   <string name="toast_notes_unhidden">Affiché avec succès</string>
   <string name="toast_pic_is_not_really">"Sauvegarde d'image…"</string>
   <string name="toast_reach_text_limit_attachment">Le contenu de la note est trop long pour être joint au message.</string>
@@ -706,10 +717,18 @@ Autorisez Notes à lire le statut et lidentité du téléphone."</string>
   <string name="v7_preference_off">DÉSACTIVÉ</string>
   <string name="v7_preference_on">ACTIVÉ</string>
   <string name="view_all_notes">Tout afficher</string>
+  <string name="web_sso_login_fail">Vous devez vous reconnecter</string>
+  <string name="web_sso_login_message">Connexion…</string>
+  <string name="webview_reload">Réessayez</string>
   <string name="wednesday">Mercredi</string>
   <string name="wednesday_short">Mer</string>
   <string name="wednesday_shortest">Mer</string>
   <string name="widget_content_loading">Chargement…</string>
+  <string name="widget_create_select_size">Sélectionnez la taille</string>
+  <string name="widget_empty_content">Appuyez pour sélectionner une note</string>
   <string name="widget_havenot_content">Appuyer pour créer une note. Maintenir le widget pour redimensionner.</string>
-  <string name="yesterday">Yesterday</string>
+  <string name="xiaomi_market_sdk_update_dialog_cancel">Pas maintenant</string>
+  <string name="xiaomi_market_sdk_update_dialog_ok">Mettre à jour</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Une mise à jour est disponible</string>
+  <string name="yesterday">Hier</string>
 </resources>

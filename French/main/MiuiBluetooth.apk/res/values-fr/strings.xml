@@ -276,7 +276,7 @@ Appuyez sur \"Effacer et convertir…\" pour continuer."</string>
     <string name="device_picker">"Paramètres Bluetooth de l'appareil"</string>
     <string name="direct_boot_unaware_dialog_message">"Remarque : Après un redémarrage, cette application ne peut pas démarrer tant que vous n'avez pas déverrouillé votre téléphone"</string>
     <string name="disable_overlays">Désactiver les superpositions matérielles</string>
-    <string name="disable_overlays_summary"></string>
+    <string name="disable_overlays_summary">"Utilisez toujours le GPU pour la composition d'écran"</string>
     <string name="disabled">Désactivé</string>
     <string name="disabled_by_admin">"Désactivé par l'admin"</string>
     <string name="disabled_by_admin_summary_text">"Controllé par l'admin"</string>
@@ -341,12 +341,14 @@ Protocole de connexion plus rapide."</string>
     <string name="fast_connect_wbs_name">Haut-parleur chargeur sans fil Mi</string>
     <string name="fast_connect_wbs_reset">Maintenez enfoncé le bouton du haut pendant %1$s secondes tout en mettant hors tension</string>
     <string name="feiyu_vlog_name">Feiyu VLOG pocket</string>
+    <string name="fiveg_sa_switch_summary">Utiliser le réseau SA sur la SIM secondaire (uniquement pour les tests)</string>
+    <string name="fiveg_sa_vice_switch_title">SA sur la SIM secondaire</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">dd/MM</string>
     <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="force_allow_on_external">Forcer les applications à écrire sur le stockage externe</string>
     <string name="force_allow_on_external_summary">Rend toute application éligible pour être écrite sur un stockage externe, quelles que soient les valeurs du manifeste</string>
     <string name="force_msaa">Forcer 4x MSAA</string>

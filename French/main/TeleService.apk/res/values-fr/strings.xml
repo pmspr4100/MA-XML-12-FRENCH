@@ -1136,6 +1136,8 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
     <string name="mobile_data_status_roaming_turned_on_subtext">Itinérance des données activée</string>
     <string name="mobile_data_status_roaming_with_plan_subtext">Actuellement en itinérance, forfait de données mobiles actif</string>
     <string name="mobile_data_status_roaming_without_plan_subtext">Itinérance activée, besoin de forfait de données mobiles</string>
+    <string name="mobile_geo_location_config_title">Optimisation du réseau en point fixe</string>
+    <string name="mobile_intelligent_connection_title">Optimisation du réseau mobile</string>
     <string name="mobile_network_settings_not_available">Paramètres de réseau mobile ne sont pas disponibles pour cet utilisateur</string>
     <string name="mobile_networks">Paramètres du réseau mobile</string>
     <string name="mobile_property">Propriétés du réseau mobile</string>
@@ -1781,6 +1783,9 @@ Interface UT : %5$s"</string>
     <string name="reject_via_sms">Réponses rapides</string>
     <string name="reject_via_sms_summary">Afficher les boutons pour terminer un appel ou pour envoyer des SMS</string>
     <string name="reject_via_sms_title">Réponses rapides</string>
+    <string name="relay_call_answered_by_other_devices">Cet appel a été répondu sur un autre appareil.</string>
+    <string name="relay_call_released_due_to_connect_lost">"La connexion a été perdue. Continuez l'appel sur votre autre appareil."</string>
+    <string name="relay_connection_service_label">Appel RELAY intégré</string>
     <string name="remaining_length_format">Il reste %1$s</string>
     <string name="remove">Retirer</string>
     <string name="remove_sip_account">Retirer le compte</string>

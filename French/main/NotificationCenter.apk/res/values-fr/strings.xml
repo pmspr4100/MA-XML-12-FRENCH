@@ -60,8 +60,8 @@
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">dd/MM</string>
     <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="friday">Vendredi</string>
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
@@ -279,7 +279,6 @@
     <string name="enable_lockscreen_notification">"Les notifications d'écran de verrouillage sont autorisées"</string>
     <string name="enable_show_badge_notification">Les badges de notification sont autorisés</string>
     <string name="expand_top_notification">Développer la notification supérieure</string>
-    <string name="expandable_under_keyguard">"Ouvrir le panneau des notifications sur l'écran de verrouillage"</string>
     <string name="float_notifications">Notifications flottantes</string>
     <string name="float_notifications_short">Flottantes</string>
     <string name="hint_search_all">Rechercher des applications</string>
