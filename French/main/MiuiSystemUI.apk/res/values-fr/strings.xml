@@ -975,8 +975,8 @@ Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données.
   <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
   <string name="fmt_date_numeric_month_day">dd/MM</string>
   <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-  <string name="fmt_date_short_month_day">dd/MM</string>
-  <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+  <string name="fmt_date_short_month_day">d MMM</string>
+  <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
   <string name="force_allow_on_external">"Force permet aux applications d'écrire sur le stockage externe"</string>
   <string name="force_allow_on_external_summary">"Autoriser toute application susceptible d'être écrite dans un stockage externe, indépendamment des valeurs manifestes"</string>
   <string name="force_hw_ui">Forcer le rendu GPU</string>

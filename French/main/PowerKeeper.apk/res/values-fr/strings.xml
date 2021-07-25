@@ -101,8 +101,8 @@ L'économiseur de batterie traitera les applications importantes de manière sé
   <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
   <string name="fmt_date_numeric_month_day">dd/MM</string>
   <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-  <string name="fmt_date_short_month_day">dd/MM</string>
-  <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+  <string name="fmt_date_short_month_day">d MMM</string>
+  <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
   <string name="hide_mode_desc">"Lorsqu'une application s'exécute en arrière-plan, ses activités seront surveillées pour réduire l'utilisation de la batterie. Cette fonction permet d'obtenir et d'utiliser les données utilisateur %s"</string>
   <string name="hide_system_app">Masquer les applications système</string>
   <string name="high_temp_state">Surchauffe</string>
