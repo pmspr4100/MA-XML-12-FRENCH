@@ -889,12 +889,13 @@
   <string name="privacy_authorize_revoking">"Révocation de l'autorisation…"</string>
   <string name="privacy_desc">Politique de confidentialité (obligatoire)</string>
   <string name="privacy_policy">Politique de confidentialité</string>
-  <string name="privacy_request_desc">"&lt;Data>Mi Music doit collecter les données personnelles nécessaires pour vous fournir des services de diffusion en ligne. Vous pouvez découvrir comment nous traitons les informations que nous collectons dans notre &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a>. Vous pouvez retirer votre consentement à la Politique de confidentialité de Mi Music dans les Paramètres à tout moment.
-Lisez et acceptez notre &lt;a href=\"%2$s\">Accord d'utilisation&lt;/a> et notre &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a> avant d'utiliser Mi Music.
-Si vous n'acceptez pas d'utiliser les services sus-mentionnés, vous serez dans l'incapacité d'utiliser certaines fonctionnalités de l'application; toutefois, les fonctionnalités basiques seront toujours accessibles.&lt;/Data>"</string>
-  <string name="privacy_request_subtitle">"Bienvenue dans Mi Music ! Cette application fournit les services suivants :
+  <string name="privacy_request_desc"><Data>"Mi Musique doit collecter les données personnelles nécessaires pour vous fournir des services de diffusion en ligne. Vous pouvez découvrir comment nous traitons les informations que nous collectons dans notre &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a>. Vous pouvez retirer votre consentement à la Politique de confidentialité de Mi Musique dans les Paramètres à tout moment.
+Lisez et acceptez notre &lt;a href=\"%2$s\">Accord d'utilisation&lt;/a> et notre &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a> avant d'utiliser Mi Musique.
+    Si vous n'acceptez pas d'utiliser les services sus-mentionnés, vous serez dans l'incapacité d'utiliser certaines fonctionnalités de l'application; toutefois, les fonctionnalités basiques seront toujours accessibles."</Data></string>
+  <string name="privacy_request_subtitle">"Bienvenue dans Mi Musique ! Cette application fournit les services suivants :
 - Un lecteur audio local
 - Des services de diffusion en ligne"</string>
+  <string name="privacy_request_subtitle_offline">Bienvenue sur Mi Musique ! Cette application fournit un lecteur local pour les fichiers audio.</string>
   <string name="privacy_request_title">Termes et Conditions</string>
   <string name="pro_member">Membre PRO</string>
   <string name="project_device">Téléphone Mi</string>
@@ -912,14 +913,14 @@ Si vous n'acceptez pas d'utiliser les services sus-mentionnés, vous serez dans 
   <string name="recommended_no_file_size_download_in_mobile">Utiliser votre connexion de données mobiles pour télécharger ce fichier ?</string>
   <string name="remove">Retirer</string>
   <string name="remove_download">Retirer</string>
-  <string name="remove_user_privacy_dialog_message">"En désactivant l'interrupteur, vous retirez votre consentement à la Politique de confidentialité de Mi Music. Nous cesserons de collecter vos données personnelles. Les données personnelles préalablement collectées et conservées seront supprimées au bout de la période spécifique prévue par les lois applicables. Mi Music a besoin de collecter des données personnelles essentielles pour vous fournir ses services de base. Le retrait de votre consentement à sa Politique de confidentialité équivaudra au refus d'accepter ses services basés sur les données personnelles collectées."</string>
-  <string name="remove_user_privacy_dialog_message_canuse">"En désactivant l'interrupteur, vous retirez votre consentement à la Politique de confidentialité de Mi Music. Nous cesserons de collecter vos données personnelles. Les données personnelles préalablement collectées et conservées seront supprimées au bout de la période spécifique prévue par les lois applicables. Mi Music a besoin de collecter des données personnelles essentielles pour vous fournir ses services de diffusion en ligne. Le retrait de votre consentement à sa Politique de confidentialité équivaudra au refus d'accepter ses services basés sur les données personnelles collectées."</string>
+  <string name="remove_user_privacy_dialog_message">"En désactivant l'interrupteur, vous retirez votre consentement à la Politique de confidentialité de Mi Musique. Nous cesserons de collecter vos données personnelles. Les données personnelles préalablement collectées et conservées seront supprimées au bout de la période spécifique prévue par les lois applicables. Mi Musique a besoin de collecter des données personnelles essentielles pour vous fournir ses services de base. Le retrait de votre consentement à sa Politique de confidentialité équivaudra au refus d'accepter ses services basés sur les données personnelles collectées."</string>
+  <string name="remove_user_privacy_dialog_message_canuse">"En désactivant l'interrupteur, vous retirez votre consentement à la Politique de confidentialité de Mi Musique. Nous cesserons de collecter vos données personnelles. Les données personnelles préalablement collectées et conservées seront supprimées au bout de la période spécifique prévue par les lois applicables. Mi Musique a besoin de collecter des données personnelles essentielles pour vous fournir ses services de diffusion en ligne. Le retrait de votre consentement à sa Politique de confidentialité équivaudra au refus d'accepter ses services basés sur les données personnelles collectées."</string>
   <string name="remove_user_privacy_dialog_title">Retrait du consentement</string>
   <string name="renew_dialog_title">"Devenez Pro
 Soyez heureux"</string>
   <string name="repeat_all_notif">Répétition de tous les morceaux.</string>
   <string name="repeat_current_notif">Répétition de la chanson en cours.</string>
-  <string name="request_overlay_permission_desc">Autoriser Mi Music à afficher des fenêtres flottantes pour pouvoir utiliser cette fonctionnalité.</string>
+  <string name="request_overlay_permission_desc">Autoriser Mi Musique à afficher des fenêtres flottantes pour pouvoir utiliser cette fonctionnalité.</string>
   <string name="request_privacy_permission_title">Lisez et acceptez nos Termes et Conditions ci-dessous pour accéder à tous nos services.</string>
   <string name="request_share_info">Chargement…</string>
   <string name="request_subscription_status">Chargement…</string>
@@ -1214,7 +1215,7 @@ Soyez heureux"</string>
   <string name="user_privacy_dialog_positive_count_down_text">Révoquer (%ss)</string>
   <string name="user_privacy_dialog_positive_text">Révoquer</string>
   <string name="user_privacy_setting_group_title">Retrait du consentement</string>
-  <string name="user_privacy_setting_title">"En désactivant l'interrupteur, vous révoquez votre consentement à la Politique de confidentialité de mi Music"</string>
+  <string name="user_privacy_setting_title">"En désactivant l'interrupteur, vous révoquez votre consentement à la Politique de confidentialité de Mi Musique"</string>
   <string name="user_profile_created_playlist_title">Playlists personnalisées</string>
   <string name="user_profile_fans_count">Abonnés : %s</string>
   <string name="user_profile_follow_count">Abonnements : %s</string>

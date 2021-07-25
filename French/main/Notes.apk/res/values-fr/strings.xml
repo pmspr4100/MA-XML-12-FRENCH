@@ -214,6 +214,15 @@
   <string name="hide_arrow_description">Masquer</string>
   <string name="hint_cannot_view_hidden_note_content">Vous ne pouvez pas afficher le contenu des notes masquées</string>
   <string name="hint_foler_name">Nom</string>
+  <string name="hybrid_provider">Fourni par %1$s</string>
+  <string name="image_action_annotate">"Ajouter une description de l'image"</string>
+  <string name="image_action_browse">"Afficher l'image"</string>
+  <string name="image_action_delete">"Supprimer l'image"</string>
+  <string name="image_action_save_to_gallery">Enregistrer dans Galerie</string>
+  <string name="image_action_zoom_in">Agrandir</string>
+  <string name="image_action_zoom_out">Dézoomer</string>
+  <string name="image_annotation_edit_hint">"Description de l'image"</string>
+  <string name="image_annotation_edit_length_warning">"La description de l'image peut contenir jusqu'à %d caractères"</string>
   <string name="info_note_enter_desktop">Note créée sur le bureau</string>
   <string name="last_excerpt_unfinish_hint">Le dernier extrait est incomplet</string>
   <string name="loading_text">Chargement…</string>
@@ -320,6 +329,7 @@
   <string name="new_audio_create_done_talkback_des">Créer</string>
   <string name="new_data_empty_note">"Pas d'éléments ici pour le moment"</string>
   <string name="night">Soirée</string>
+  <string name="no_network">Connexion au réseau impossible</string>
   <string name="noon">Midi</string>
   <string name="new_audio_create_guide_tip">Appuyez longuement pour créer une note vocale</string>
   <string name="new_audio_create_talkback_des">"Appuyez pour créer une note de texte. Appuyez longuement pour créer une note vocale. Relâchez le bouton pour arrêter l'enregistrement et créer la note, ou faites glisser vers le haut pour annuler."</string>
@@ -707,6 +717,9 @@ Autorisez Notes à lire le statut et lidentité du téléphone."</string>
   <string name="v7_preference_off">DÉSACTIVÉ</string>
   <string name="v7_preference_on">ACTIVÉ</string>
   <string name="view_all_notes">Tout afficher</string>
+  <string name="web_sso_login_fail">Vous devez vous reconnecter</string>
+  <string name="web_sso_login_message">Connexion…</string>
+  <string name="webview_reload">Réessayez</string>
   <string name="wednesday">Mercredi</string>
   <string name="wednesday_short">Mer</string>
   <string name="wednesday_shortest">Mer</string>
