@@ -179,8 +179,8 @@
     <string name="antivirus_privacy_dialog_cloudscan">Envoyer les noms et détails des applications</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">Envoyer et analyser les noms et détails des applications en utilisant les bases de données de virus en ligne.</string>
     <string name="antivirus_privacy_dialog_ok">OK</string>
-    <string name="antivirus_privacy_dialog_summary">"&lt;Data>Cette fonctionnalité est fournie par un moteur antivirus tiers. Pour en savoir plus, lisez l'&lt;a href=\"%1$s\">Accord de licence&lt;/a> fourni par l'application tierce.&lt;/Data>"</string>
-    <string name="antivirus_privacy_dialog_summary_kddi">"&lt;Data>Lorsque vous effectuez une analyse de sécurité, le modèle de votre appareil et les résultats de l'analyse seront téléchargés sur les serveurs %1$s et utilisés conformément aux &lt;a href=\"%2$s\">Conditions générales&lt;/a>.&lt;br />&lt;br />Lisez et acceptez les Termes et conditions de %3$s avant d'effectuer des analyses de sécurité.&lt;br />&lt;br />Si vous n'acceptez pas de télécharger des données vers %4$s serveurs, vous pouvez toujours utiliser les définitions de virus stockées localement sur votre appareil.&lt;/Data>"</string>
+    <string name="antivirus_privacy_dialog_summary"><Data>"Cette fonctionnalité est fournie par un moteur antivirus tiers. Pour en savoir plus, lisez l'&lt;a href=\"%1$s\">Accord de licence&lt;/a> fourni par l'application tierce."</Data></string>
+    <string name="antivirus_privacy_dialog_summary_kddi"><Data>"Lorsque vous effectuez une analyse de sécurité, le modèle de votre appareil et les résultats de l'analyse seront téléchargés sur les serveurs %1$s et utilisés conformément aux &lt;a href=\"%2$s\">Conditions générales&lt;/a>.&lt;br />&lt;br />Lisez et acceptez les Termes et conditions de %3$s avant d'effectuer des analyses de sécurité.&lt;br />&lt;br />Si vous n'acceptez pas de télécharger des données vers %4$s serveurs, vous pouvez toujours utiliser les définitions de virus stockées localement sur votre appareil."</Data></string>
     <string name="antivirus_privacy_dialog_summary_link">Politique de confidentialité</string>
     <string name="antivirus_privacy_dialog_summary_new">&lt;Data>Cette fonctionnalité utilise les définitions antivirus fournies par Avast, AVL et Tencent. Lisez les &lt;a href=\"%1$s\">Accords de licence&lt;/a> pour en savoir plus.&lt;/Data></string>
     <string name="antivirus_privacy_dialog_summary_not_have_avast">&lt;Data>Cette fonctionnalité utilise les définitions antivirus fournies par AVL et Tencent. Lisez les &lt;a href=\"%1$s\">Accords de licence&lt;/a> pour en savoir plus.&lt;/Data></string>
@@ -1174,7 +1174,7 @@ carte médicale"</string>
     <string name="ew_arrive_text_tips">Arrivée de la vague sismique : %s</string>
     <string name="ew_button_confirm">Accepter</string>
     <string name="ew_button_exit">Refuser</string>
-    <string name="ew_china_version_first_start_network_msg">"&lt;Data>Cette fonction vous offre une fonctionnalité d'avertissement de tremblement de terre. Il vous informera des tremblements de terre à venir et émettra un son d'avertissement. Vous pourrez trouver le refuge le plus proche, appeler votre contact d'urgence et présenter votre carte médicale si nécessaire. &lt;br>Nous protégerons vos informations personnelles conformément aux lois, réglementations et Politiques de confidentialité applicables. &lt;br>Pour pouvoir fonctionner normalement, cette fonctionnalité nécessite les autorisations suivantes afin de collecter vos informations personnelles : &lt;br>&#8226; Infos de localisation : &lt;br>Pour accéder à votre localisation et fournir des avertissements de tremblement de terre précis. &lt;br>Si vous n'acceptez pas d'accorder de telles autorisations ou de partager et de télécharger vos informations personnelles, vous ne pourrez pas utiliser cette fonctionnalité. Vous pouvez choisir de désactiver cette fonction ou de ne pas l'activer dans de tels cas. &lt;br>Vous devez lire et accepter notre &lt;a href=\"http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;lang=%2$s\">Politique de confidentialité&lt;/a> avant d'utiliser cette fonction.&lt;/Data>"</string>
+    <string name="ew_china_version_first_start_network_msg"><Data>"Cette fonction vous offre une fonctionnalité d'avertissement de tremblement de terre. Il vous informera des tremblements de terre à venir et émettra un son d'avertissement. Vous pourrez trouver le refuge le plus proche, appeler votre contact d'urgence et présenter votre carte médicale si nécessaire. &lt;br>Nous protégerons vos informations personnelles conformément aux lois, réglementations et Politiques de confidentialité applicables. &lt;br>Pour pouvoir fonctionner normalement, cette fonctionnalité nécessite les autorisations suivantes afin de collecter vos informations personnelles : &lt;br>&#8226; Infos de localisation : &lt;br>Pour accéder à votre localisation et fournir des avertissements de tremblement de terre précis. &lt;br>Si vous n'acceptez pas d'accorder de telles autorisations ou de partager et de télécharger vos informations personnelles, vous ne pourrez pas utiliser cette fonctionnalité. Vous pouvez choisir de désactiver cette fonction ou de ne pas l'activer dans de tels cas. &lt;br>Vous devez lire et accepter notre &lt;a href=\"http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;lang=%2$s\">Politique de confidentialité&lt;/a> avant d'utiliser cette fonction."</Data></string>
     <string name="ew_close">"Désactiver l'alerte"</string>
     <string name="ew_close_warning">Désactiver</string>
     <string name="ew_concern_city">Ajouter des villes</string>
@@ -1277,7 +1277,7 @@ Vous devez comprendre que cette fonctionnalité est fournie à titre indicatif u
     <string name="ew_monitor_my_content">"Mon appareil mobile fait partie du réseau d'alerte précoce en cas de tremblement de terre. Une fois que ses capteurs ont détecté les ondes sismiques, les données seront analysées par l'algorithme d'IA et des alertes précoces seront émises aux personnes dans les zones touchées."</string>
     <string name="ew_monitor_number_prex">No %s</string>
     <string name="ew_monitor_open">Joindre</string>
-    <string name="ew_monitor_read_privacy">"&lt;Data>J'ai lu et accepté la &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a>.&lt;/Data>"</string>
+    <string name="ew_monitor_read_privacy"><Data>"J'ai lu et accepté la &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a>."</Data></string>
     <string name="ew_monitor_share">Partager</string>
     <string name="ew_monitor_slogan">"Rejoignez notre programme de surveillance
 de tremblement de terre"</string>
@@ -1324,7 +1324,7 @@ des tremblements de terre"</string>
     <string name="exit">Quitter</string>
     <string name="exit_dialog_exit">Quitter</string>
     <string name="exit_dialog_garbage_clean_message">La quantité de fichiers inutiles sur votre appareil est supérieure à %s. Nettoyer ?</string>
-    <string name="exit_dialog_garbage_clean_message_new">"&lt;Data>Nettoyeur peut libérer &lt;font color='#0099ff'>%s&lt;/font> d'espace de stockage. Nettoyer maintenant ?&lt;/Data>"</string>
+    <string name="exit_dialog_garbage_clean_message_new"><Data>"Nettoyeur peut libérer &lt;font color='#0099ff'>%s&lt;/font> d'espace de stockage. Nettoyer maintenant ?"</Data></string>
     <string name="exit_dialog_garbage_clean_positive_button">Nettoyer</string>
     <string name="exit_dialog_garbage_clean_title">Nettoyer les fichiers inutiles</string>
     <string name="exit_dialog_homepage_optimise_message">Le score de performance de votre appareil est à moins de 80 points. Optimiser maintenant ?</string>
@@ -1784,7 +1784,7 @@ de vos sessions de jeu"</string>
     <string name="gb_xunyou_gift_type_one">Boost Xunyou 1 jour</string>
     <string name="gb_xunyou_gift_type_three">Boost Xunyou 3 jours</string>
     <string name="gb_xunyou_gift_type_two">Boost Xunyou 2 jours</string>
-    <string name="gdpr_msg">"&lt;Data>Pour pouvoir détecter les risques de sécurité et protéger vos données, nous devons collecter la quantité nécessaire d'informations sur votre appareil. Lisez et acceptez notre &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Politique de confidentialité&lt;/a> avant d'utiliser nos services. Si vous ne nous autorisez pas à collecter de telles informations, vous pourrez toujours utiliser cette application, mais certaines fonctionnalités ne vous seront pas disponibles.&lt;/Data>"</string>
+    <string name="gdpr_msg"><Data>"Pour pouvoir détecter les risques de sécurité et protéger vos données, nous devons collecter la quantité nécessaire d'informations sur votre appareil. Lisez et acceptez notre &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Politique de confidentialité&lt;/a> avant d'utiliser nos services. Si vous ne nous autorisez pas à collecter de telles informations, vous pourrez toujours utiliser cette application, mais certaines fonctionnalités ne vous seront pas disponibles."</Data></string>
     <string name="get_detail_by_click">Tap to view details</string>
     <string name="get_sys_info">"Obtention d'informations…"</string>
     <string name="gigabyteShort">" Go"</string>
@@ -4260,24 +4260,24 @@ Formatting will erase existing content on the ^2. To avoid losing content, back 
     <string name="system_permission_declare_agree">Accepter</string>
     <string name="system_permission_declare_analytics_declare">"Merci pour votre inscription à notre programme d'expérience utilisateur. Votre appareil doit être connecté à internet pour permettre à cette fonctionnalité de fonctionner normalement. Vous devez également accorder les permissions suivantes pour nous permettre de collecter les données qui nous aideront à améliorer nos produits et services. Ces données sont collectées à des fins statistiques uniquement. Nous ne pourrons pas utiliser ces données pour vous identifier personnellement."</string>
     <string name="system_permission_declare_disagree">Refuser</string>
-    <string name="system_permission_declare_double_link">"&lt;Data>Lisez et acceptez notre &lt;a href=\"%1$s\">Accord d'utilisation&lt;/a> et &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a> avant d'utiliser cette fonctionnalité.&lt;/Data>"</string>
+    <string name="system_permission_declare_double_link"><Data>"Lisez et acceptez notre &lt;a href=\"%1$s\">Accord d'utilisation&lt;/a> et &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a> avant d'utiliser cette fonctionnalité."</Data></string>
     <string name="system_permission_declare_main_purpose" formatted="false">"Bienvenue sur %1s ! Cette application vous permet d'utiliser la fonctionnalité suivante : %2s."</string>
-    <string name="system_permission_declare_meanwhile_double_link">"&lt;Data>Dans le même temps, pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez notre &lt;a href=\"%1$s\">Accord d'utilisation&lt;/a> et notre &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>.&lt;/Data>"</string>
-    <string name="system_permission_declare_meanwhile_privacy_policy">"&lt;Data>Dans le même temps, pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez notre &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a>.&lt;/Data>"</string>
-    <string name="system_permission_declare_meanwhile_user_agreement">"&lt;Data>Dans le même temps, pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez notre &lt;a href=\"%1$s\">Accord d'utilisation&lt;/a>.&lt;/Data>"</string>
+    <string name="system_permission_declare_meanwhile_double_link"><Data>"Dans le même temps, pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez notre &lt;a href=\"%1$s\">Accord d'utilisation&lt;/a> et notre &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>."</Data></string>
+    <string name="system_permission_declare_meanwhile_privacy_policy"><Data>"Dans le même temps, pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez notre &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a>."</Data></string>
+    <string name="system_permission_declare_meanwhile_user_agreement"><Data>"Dans le même temps, pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez notre &lt;a href=\"%1$s\">Accord d'utilisation&lt;/a>."</Data></string>
     <string name="system_permission_declare_no_say_no">"Si vous choisissez de ne pas donner les permissions requises ou de ne pas nous permettre de collecter et d'utiliser vos données, cette application ne pourra pas fonctionner normalement."</string>
     <string name="system_permission_declare_no_say_no_analytics">"Si vous ne souhaitez pas donner ces permissions, vous pouvez vous désinscrire depuis Paramètres > Mots de passe &amp; Sécurité > Paramètres de confidentialité > Programme d'expérience utilisateur."</string>
     <string name="system_permission_declare_no_say_no_non_mandatory">"Si vous choisissez de ne pas donner les permissions requises ou de ne pas nous permettre de collecter et d'utiliser vos données, cette application ne pourra pas fonctionner normalement."</string>
     <string name="system_permission_declare_privacy_declare">"Nous protégerons vos informations personnelles conformément aux lois, réglementations et Politiques de confidentialité en vigueur. Notez que Sécurité doit se connecter à internet et requiert les permissions suivantes pour collecter vos informations personnelles :"</string>
     <string name="system_permission_declare_privacy_no_network">This app needs the following permissions to be able to work normally:</string>
     <string name="system_permission_declare_privacy_no_permission">"Notez que Sécurité doit se connecter à internet et collecter les informations personnelles requises pour vous fournir des services. Nous protégerons vos informations personnelles conformément aux lois, réglementations et Politiques de confidentialité en vigueur."</string>
-    <string name="system_permission_declare_privacy_policy">"&lt;Data>Lisez et acceptez notre &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a> avant d'utiliser cette fonctionnalité.&lt;/Data>"</string>
+    <string name="system_permission_declare_privacy_policy"><Data>"Lisez et acceptez notre &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a> avant d'utiliser cette fonctionnalité."</Data></string>
     <string name="system_permission_declare_revoke_system">Vous pouvez quitter cette application.</string>
     <string name="system_permission_declare_revoke_uninstallable">"Vous pouvez vous déconnecter, désinstaller cette application ou révoquer vos permissions dans Sécurité. > Gérer les applications > Permissions > Permissions."</string>
     <string name="system_permission_declare_title">Attention</string>
     <string name="system_permission_declare_use_network">Se connecter au réseau</string>
     <string name="system_permission_declare_use_network_no_permission">Se connecter au réseau</string>
-    <string name="system_permission_declare_user_agreement">"&lt;Data>Lisez et acceptez notre &lt;a href=\"%1$s\">Accord d'utilisation&lt;/a> avant d'utiliser cette fonctionnalité.&lt;/Data>"</string>
+    <string name="system_permission_declare_user_agreement"><Data>"Lisez et acceptez notre &lt;a href=\"%1$s\">Accord d'utilisation&lt;/a> avant d'utiliser cette fonctionnalité."</Data></string>
     <string name="system_permission_perm_answer_call">Faire des appels</string>
     <string name="system_permission_perm_optional">" (optionnel)"</string>
     <string name="system_permission_perm_read_mms">Lire le MMS</string>
@@ -4826,7 +4826,7 @@ Essayez de mettre à l'échelle la définition !"</string>
     <string name="warningcenter_policeassist_open_btn">Activer</string>
     <string name="warningcenter_policeassist_open_content">"Envoyez automatiquement vos informations de localisation à la police à l'aide de SMS ou de données mobiles lorsque vous appelez le 110, 120, 119, 122 ou 12122."</string>
     <string name="warningcenter_policeassist_open_title">"Partagez votre position avec la police lors des appels d'urgence"</string>
-    <string name="warningcenter_policeassist_privacy">"&lt;Data>J'ai lu et accepté l'&lt;a href=\"%1$s\">Accord d'utilisation&lt;/a> et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>.&lt;/Data>"</string>
+    <string name="warningcenter_policeassist_privacy"><Data>"J'ai lu et accepté l'&lt;a href=\"%1$s\">Accord d'utilisation&lt;/a> et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>."</Data></string>
     <string name="warningcenter_policeassist_title">"Emplacement d'urgence"</string>
     <string name="warningcenter_smarthome">Mi Home</string>
     <string name="warningcenter_title">"Centre d'avertissement MIUI"</string>

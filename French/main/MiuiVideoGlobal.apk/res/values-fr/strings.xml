@@ -884,8 +884,8 @@ Mettez d'abord à jour Mi Vidéo vers la dernière version."</string>
   <string name="passport_unknow_error">Une erreur inconnue est survenue</string>
   <string name="passport_unknow_host_network_error">Vérifiez vos paramètres réseau et réessayez</string>
   <string name="passport_unknow_network_error">"Une erreur réseau s'est produite"</string>
-  <string name="passport_user_agreement_link">"&lt;Data>J'ai lu et accepté l'&lt;a href=\"%1$s\">Accord d'utilisation&lt;/a> et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a> de Xiaomi.&lt;&lt;/Data>"</string>
-  <string name="passport_user_agreement_link_more">"&lt;Data>J'ai lu et accepté les documents suivants: &lt;a href=\"%1$s\">Accord d'utilisation&lt;/a> et &lt;a href=\"%4$s\">Politique de confidentialité&lt;/a> de Xiaomi, &lt;a href=\"%2$s\">\"%3$s\"&lt;/a>.&lt;/Data>"</string>
+  <string name="passport_user_agreement_link"><Data>"J'ai lu et accepté l'&lt;a href=\"%1$s\">Accord d'utilisation&lt;/a> et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a> de Xiaomi.&lt;"</Data></string>
+  <string name="passport_user_agreement_link_more"><Data>"J'ai lu et accepté les documents suivants: &lt;a href=\"%1$s\">Accord d'utilisation&lt;/a> et &lt;a href=\"%4$s\">Politique de confidentialité&lt;/a> de Xiaomi, &lt;a href=\"%2$s\">\"%3$s\"&lt;/a>."</Data></string>
   <string name="passport_user_id_intro">Enter password for %1$s</string>
   <string name="passport_v_code_error">Le code de vérification est incorrect</string>
   <string name="passport_vcode_notification_title">Votre vérification de connexion est incomplète</string>
@@ -1223,7 +1223,7 @@ Augmenter la sécurité de votre compte."</string>
   <string name="ticket_sign_in">Se connecter via SMS</string>
   <string name="tip_auth_again">"Étant donné que vous n'avez pas préalablement accepté les Termes de la Politique de confidentialité correspondante du fournisseur de contenu tiers, nous ne pouvons pas afficher de contenu vidéo dans Moments. Appuyez sur le bouton ci-dessous pour accepter la Politique de confidentialité et accéder à cette fonctionnalité."</string>
   <string name="tip_author_click">Appuyez pour voir plus de vidéos de ce compte</string>
-  <string name="tip_pop">"&lt;Data>Le contenu de Moments est fourni par Firework. Afin d'améliorer votre expérience de visionnage et de recevoir des recommandations de contenu plus pertinentes, autorisez Firework à collecter, traiter et utiliser vos informations personnelles conformément à sa Politique de confidentialité. Lisez et acceptez la &lt;a href=\"%1$s\">Politique de confidentialité de Firework&lt;/a> avant d'utiliser ses services.&lt;/Data>"</string>
+  <string name="tip_pop"><Data>"Le contenu de Moments est fourni par Firework. Afin d'améliorer votre expérience de visionnage et de recevoir des recommandations de contenu plus pertinentes, autorisez Firework à collecter, traiter et utiliser vos informations personnelles conformément à sa Politique de confidentialité. Lisez et acceptez la &lt;a href=\"%1$s\">Politique de confidentialité de Firework&lt;/a> avant d'utiliser ses services."</Data></string>
   <string name="tip_topic_click">Appuyez pour trouver plus de vidéos sur ce sujet</string>
   <string name="title_firework_recommend">Recommandations Firework</string>
   <string name="title_publisher">Créateurs</string>

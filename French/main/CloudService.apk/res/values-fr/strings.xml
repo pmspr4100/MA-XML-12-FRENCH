@@ -133,7 +133,7 @@
   <string name="find_device_dspt_provision">"Si vous perdez votre appareil, vous pouvez aller à &lt;font color=#0097FF>%s&lt;/font> pour le localiser, le verrouiller ou le réinitialiser. Vous pouvez activer ou désactiver cette fonctionnalité à tout moment dans les paramètres."</string>
   <string name="find_device_error_network">Vérifiez votre connexion de données et réessayez.</string>
   <string name="find_device_error_server">Erreur du serveur</string>
-  <string name="find_device_gdpr_prompt">"&lt;Data>En activant Localiser l'appareil, vous acceptez notre &lt;a href=\"app://com.miui.cloudservice.gdpr.license\">&lt;u>Politique de confidentialité&lt;/u>&lt;/a>. Si vous devez révoquer l'autorisation, désactivez cette fonction.&lt;/Data>"</string>
+  <string name="find_device_gdpr_prompt"><Data>"En activant Localiser l'appareil, vous acceptez notre &lt;a href=\"app://com.miui.cloudservice.gdpr.license\">&lt;u>Politique de confidentialité&lt;/u>&lt;/a>. Si vous devez révoquer l'autorisation, désactivez cette fonction."</Data></string>
   <string name="find_device_operation_failure_rpc">"Impossible d'exécuter l'opération en raison d'une erreur RPC."</string>
   <string name="find_device_send_sms_alert">Si vous changez de carte SIM, un SMS sera envoyé automatiquement pour réactiver ce service.</string>
   <string name="find_device_service_title">"Localiser l'appareil"</string>

@@ -175,10 +175,10 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
     </plurals>
     <plurals name="exit_dialog_release_memory_message">
         <item quantity="other">
-            "&lt;Data>Fermer les applications &lt;font color=#0099ff>%d&lt;/font> pour accélérer votre appareil ?&lt;/Data>"
+            <Data>"Fermer les applications &lt;font color=#0099ff>%d&lt;/font> pour accélérer votre appareil ?"</Data>
         </item>
         <item quantity="one">
-            "&lt;Data>Fermer l'application &lt;font color=#0099ff>%d&lt;/font> pour accélérer votre appareil ?&lt;/Data>"
+            <Data>"Fermer l'application &lt;font color=#0099ff>%d&lt;/font> pour accélérer votre appareil ?"</Data>
         </item>
     </plurals>
     <plurals name="exit_dialog_scan_message_new">

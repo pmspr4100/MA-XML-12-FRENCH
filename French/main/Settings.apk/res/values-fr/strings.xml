@@ -1432,7 +1432,7 @@ Pour améliorer l'expérience d'utilisation de l'appareil, les applications et l
   <string name="bootloader_status_locked">Verrouillé</string>
   <string name="bootloader_status_locked_info">Cet appareil est verrouillé</string>
   <string name="bootloader_status_locked_summary">Le téléphone est sécurisé</string>
-  <string name="bootloader_status_privacy_dialog_message">"&lt;Data>Mi Unlock doit accéder à votre compte Mi, l'ID du CPU et l'IMSI pour fonctionner normalement. Lisez et acceptez notre &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a>. Êtes-vous d'accord ?&lt;/Data>"</string>
+  <string name="bootloader_status_privacy_dialog_message"><Data>"Mi Unlock doit accéder à votre compte Mi, l'ID du CPU et l'IMSI pour fonctionner normalement. Lisez et acceptez notre &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a>. Êtes-vous d'accord ?"</Data></string>
   <string name="bootloader_status_privacy_dialog_no">Annuler</string>
   <string name="bootloader_status_privacy_dialog_title">Permissions requise</string>
   <string name="bootloader_status_privacy_dialog_url_text">Politique de confidentialité</string>
@@ -4209,7 +4209,7 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
   <string name="long_press_power_key">"Appuyez longuement sur le bouton d'alimentation"</string>
   <string name="long_press_power_key_half_of_second">"Appuyez et maintenez le bouton d'alimentation pendant 0,5 s pour activer Google Assistant"</string>
   <string name="long_press_power_key_half_second">"Appuyez et maintenez le bouton d'alimentation pendant 0,5 s"</string>
-  <string name="long_press_power_key_tips">"&lt;Data>Appuyez longuement sur le bouton d'alimentation &lt;font color=#999999>Plus rapide et plus pratique&lt;/font>&lt;/Data>"</string>
+  <string name="long_press_power_key_tips"><Data>"Appuyez longuement sur le bouton d'alimentation &lt;font color=#999999>Plus rapide et plus pratique&lt;/font>"</Data></string>
   <string name="long_press_volume_down">Appui prolongé sur le bouton inférieur du volume</string>
   <string name="lost_internet_access_cancel">Rester en Wi-Fi</string>
   <string name="lost_internet_access_persist">Ne plus afficher</string>
@@ -5759,7 +5759,7 @@ Read and agree to %s before using this service."</string>
   <string name="privacy_authorize_cloud_msg">"Pour garantir la sécurité de votre compte, connectez-vous à i.mi.com si vous souhaitez annuler l'autorisation pour les services Xiaomi Cloud (y compris la synchronisation et les sauvegardes)."</string>
   <string name="privacy_authorize_dialog_agree">Accepter</string>
   <string name="privacy_authorize_dialog_exit">Quitter</string>
-  <string name="privacy_authorize_dialog_message">"&lt;Data>Pour utiliser les fonctionnalités de base de ce service, vous devez accepter que Xiaomi collecte, traite et utilise vos données personnelles. Consultez notre Politique de confidentialité pour savoir comment nous recueillons et traitons des données personnelles. La sélection de \"Accepter\" signifie que vous avez lu et accepté notre &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Politique de confidentialité&lt;/a> et &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Accord d'utilisation&lt;/a>.&lt;/Data>"</string>
+  <string name="privacy_authorize_dialog_message"><Data>"Pour utiliser les fonctionnalités de base de ce service, vous devez accepter que Xiaomi collecte, traite et utilise vos données personnelles. Consultez notre Politique de confidentialité pour savoir comment nous recueillons et traitons des données personnelles. La sélection de \"Accepter\" signifie que vous avez lu et accepté notre &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Politique de confidentialité&lt;/a> et &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Accord d'utilisation&lt;/a>."</Data></string>
   <string name="privacy_authorize_network_error">Connectez-vous au réseau et réessayez.</string>
   <string name="privacy_authorize_privacy_policy">Politique de confidentialité</string>
   <string name="privacy_authorize_revoke">Révoquer</string>
