@@ -133,7 +133,7 @@
   <string name="find_device_dspt_provision">"Si vous perdez votre appareil, vous pouvez aller à &lt;font color=#0097FF>%s&lt;/font> pour le localiser, le verrouiller ou le réinitialiser. Vous pouvez activer ou désactiver cette fonctionnalité à tout moment dans les paramètres."</string>
   <string name="find_device_error_network">Vérifiez votre connexion de données et réessayez.</string>
   <string name="find_device_error_server">Erreur du serveur</string>
-  <string name="find_device_gdpr_prompt">"En activant Localiser l'appareil, vous acceptez notre &lt;a href=app://com.miui.cloudservice.gdpr.license>&lt;u>Politique de confidentialité&lt;/u>&lt;/a>. Si vous devez révoquer l'autorisation, désactivez cette fonction."</string>
+  <string name="find_device_gdpr_prompt">"&lt;Data>En activant Localiser l'appareil, vous acceptez notre &lt;a href=\"app://com.miui.cloudservice.gdpr.license\">&lt;u>Politique de confidentialité&lt;/u>&lt;/a>. Si vous devez révoquer l'autorisation, désactivez cette fonction.&lt;/Data>"</string>
   <string name="find_device_operation_failure_rpc">"Impossible d'exécuter l'opération en raison d'une erreur RPC."</string>
   <string name="find_device_send_sms_alert">Si vous changez de carte SIM, un SMS sera envoyé automatiquement pour réactiver ce service.</string>
   <string name="find_device_service_title">"Localiser l'appareil"</string>
@@ -604,7 +604,7 @@ Les informations de localisation peuvent ne pas être transmises si la connexion
   <string name="priv_dialog_finddevice_all_purpose_pad">"Bienvenue dans Localiser l'appareil ! Vous pouvez utiliser ce service pour localiser, verrouiller ou effacer les données de votre appareil en cas de perte."</string>
   <string name="priv_dialog_finddevice_all_purpose_phone">"Bienvenue dans Localiser l'appareil ! Vous pouvez utiliser ce service pour localiser, verrouiller ou effacer les données de votre appareil en cas de perte."</string>
   <string name="priv_dialog_sync_all_purpose">"Bienvenue aux services de Xiaomi Cloud ! Vous pouvez utiliser Xiaomi Cloud pour synchroniser vos messages, l'historique des appels, les contacts, les notes, les paramètres du navigateur, les chansons, les photos et les vidéos, les paramètres Wi-Fi, les enregistrements, la mise en page de l'écran d'accueil, les applications, les événements de l'agenda, les éléments de la liste de blocage et le coffre-fort des applications sur tous les appareils connectés."</string>
-  <string name="privacy_and_agreement">Termes et Conditions</string>
+  <string name="privacy_and_agreement">Termes et conditions</string>
   <string name="privacy_dialog_finddevice_all_purpose_pad">"Bienvenue dans Localiser l'appareil ! Vous pouvez utiliser ce service pour localiser, verrouiller ou effacer des données sur votre appareil en cas de perte."</string>
   <string name="privacy_dialog_finddevice_all_purpose_phone">"Bienvenue dans Localiser l'appareil ! Vous pouvez utiliser ce service pour localiser, verrouiller ou effacer des données sur votre appareil en cas de perte."</string>
   <string name="privacy_dialog_sync_all_purpose">"Bienvenue dans les services Xiaomi Cloud ! Vous pouvez utiliser Xiaomi Cloud pour synchroniser vos messages, l'historique des appels, les contacts, les notes, les paramètres du navigateur, les musiques, les photos et les vidéos, les paramètres Wi-Fi, les enregistrements, la disposition de l'écran d'accueil, les applications, les événements de calendrier, les éléments de la liste de blocage et le coffre-fort d'applications dans tous les des appareils connectés."</string>
