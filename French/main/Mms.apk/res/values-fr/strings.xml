@@ -54,9 +54,12 @@
     <string name="adding_attachments">Veuillez patienter pendant que les éléments sont ajoutés au diaporama.</string>
     <string name="adding_attachments_title">Ajout de pièces jointes</string>
     <string name="adding_recipients">Ajout de destinataires…</string>
-    <string name="afternoon">Après midi</string>
+    <string name="afternoon">Après-midi</string>
+    <string name="aim_show_card">Afficher la carte</string>
+    <string name="aim_show_original">Afficher le message</string>
     <string name="alert_dlg_cancel_button">Annuler</string>
     <string name="alert_dlg_ok_button">OK</string>
+    <string name="allow">OK</string>
     <string name="allow_network_hint">Activer \"Mettre à jour les infos automatiquement\" ou vérifier votre connexion réseau</string>
     <string name="already_updated">À jour</string>
     <string name="app_label">Messages</string>
@@ -112,6 +115,7 @@
     <string name="call_sender">"Appeler l'expéditeur"</string>
     <string name="can_not_send_by_rcs">"Impossible d'utiliser la messagerie de China Mobile"</string>
     <string name="can_not_view_group_chat_stranger">"Impossible d'afficher les détails des étrangers."</string>
+    <string name="cancel">Annuler</string>
     <string name="cannot_add_picture_and_video">"Impossible d'ajouter une vidéo et une image sur une diapositive."</string>
     <string name="cannot_add_slide_anymore">"Impossible d'ajouter d'autres diapositives."</string>
     <string name="cannot_forward_drm_obj">"Impossible de transférer l'objet GDN inclus dans le message."</string>
@@ -321,6 +325,7 @@
     <string name="from_pkg_name">"De l'application : "</string>
     <string name="ft_cfs_dialog_content">"Des fichiers n'ont pas pu être transférés en utilisant RCS. Envoyer à la place un lien dans un message texte ?"</string>
     <string name="ft_cfs_dialog_title">Transfert de fichier alternatif</string>
+    <string name="go_close">Paramètres</string>
     <string name="go_to">"Ouvrir "</string>
     <string name="group_already_kicked_hint">"Impossible d'envoyer des messages. Vous n'êtes pas membre de ce groupe de discussion."</string>
     <string name="group_member_is_composing">Saisie…</string>
@@ -364,9 +369,15 @@
     <string name="invalid_destination">"L'adresse saisie n'est pas valide."</string>
     <string name="invalid_private_contact">Contact non valide</string>
     <string name="invalid_recipient_message">Corrigez le ou les noms des destinataires, faute de quoi ils ne recevront pas le message.</string>
+    <string name="invisible_mode_on">Vous êtes incognito</string>
     <string name="is_composing">Saisie…</string>
     <string name="kilobyte">" Ko"</string>
     <string name="layout_selector_title">"Mise en page du diaporama "</string>
+    <string name="leave_mms_tips_context_app">"Quitter Messaging et ouvrir l'application maintenant ?"</string>
+    <string name="leave_mms_tips_context_app_name">Quitter Messaging et ouvrir \"%s\" maintenant ?</string>
+    <string name="leave_mms_tips_context_browser">Quitter Messaging et ouvrir le navigateur web maintenant ?</string>
+    <string name="leave_mms_tips_context_email">Quitter Messaging et ouvrir le client de messagerie maintenant ?</string>
+    <string name="leave_mms_tips_context_map">Quitter Messaging et ouvrir la carte maintenant ?</string>
     <string name="loading_all_messages">Chargement…</string>
     <string name="loading_conversations">Chargement…</string>
     <string name="loading_mms">Chargement…</string>
@@ -676,6 +687,7 @@ Ce message peut être non sollicité."</string>
     <string name="pref_summary_on_system_mms_priority">"Régler l'application de messagerie MIUI par défaut pour envoyer et recevoir des MMS."</string>
     <string name="pref_summary_privacy_authority">Actionnez cet interrupteur pour donner ou révoquer votre autorisation</string>
     <string name="pref_summary_send_delivery_reports">"Envoyer un accusé de réception à l'expéditeur à la réception d'un message multimédia"</string>
+    <string name="pref_summary_switch_aim_card">Afficher des messages contenant des vidéos, des images et des mises en forme complexes sous forme de cartes</string>
     <string name="pref_summary_voice_report">"Activez pour lire des messages à haute voix lorsqu'ils sont réceptionnés. Appuyez sur Volume - ou sur le bouton d'alimentation pour arrêter la lecture."</string>
     <string name="pref_summary_wake_up_screen">"Allumer l'écran lors de la réception d'un nouveau message"</string>
     <string name="pref_switch_sdk_setting">Changer prestataire de services SMS intelligents</string>
@@ -706,6 +718,7 @@ Ce message peut être non sollicité."</string>
     <string name="pref_title_sms_delete">Limite pour les SMS</string>
     <string name="pref_title_sms_validity_period">Expiration des SMS</string>
     <string name="pref_title_storage_status">Statut du stockage du message</string>
+    <string name="pref_title_switch_aim_card">Convertir les messages en cartes</string>
     <string name="pref_title_system_mms_priority">Définir par défaut</string>
     <string name="pref_title_vcard">Envoyer via vCard</string>
     <string name="pref_title_voice_report">Lire les messages à haute voix</string>
@@ -1223,6 +1236,9 @@ Si vous n'acceptez pas d'accorder de telles autorisations ou de partager et tél
     <string name="type_to_compose_text_or_leave_blank">Saisissez votre texte ou laissez le champ vide.</string>
     <string name="type_vcard">vCard</string>
     <string name="type_video">vidéo</string>
+    <string name="unable_connect_camera">"Vous êtes incognito. Impossible d'utiliser l'appareil photo maintenant."</string>
+    <string name="unable_get_location">"Vous êtes incognito. Impossible d'utiliser les services de localisation pour le moment."</string>
+    <string name="unable_use_microphone">"Vous êtes incognito. Impossible d'utiliser le microphone maintenant."</string>
     <string name="undelivered_msg_dialog_body">"Impossible d'envoyer ce message.
 Dernière tentative : %s."</string>
     <string name="undelivered_msg_dialog_title">Message non transmis</string>
