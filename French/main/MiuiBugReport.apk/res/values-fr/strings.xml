@@ -84,28 +84,30 @@
     <string name="bugreport_tool_log_dumping_title">Créer un rapport de bogue</string>
     <string name="catch_full_log_action_cancel">Annuler</string>
     <string name="catch_full_log_action_complete">Terminer et mettre en ligne</string>
-    <string name="catch_full_log_action_start">Générer le journal</string>
+    <string name="catch_full_log_action_start">Démarrer</string>
     <string name="catch_full_log_add_original_photo">Ajouter une image originale ou une vidéo courte</string>
     <string name="catch_full_log_add_photo">Ajouter une photo</string>
     <string name="catch_full_log_add_photo_dialog_content">"Si le problème que vous signalez est lié à la qualité d'image de l'appareil photo, ajoutez un échantillon de la photo d'origine (non rogné) pour nous aider à localiser le problème. Ajouter une photo maintenant ?"</string>
     <string name="catch_full_log_category">Catégorie</string>
     <string name="catch_full_log_dialog_confirm_text">"Aller à l'écran d'accueil"</string>
-    <string name="catch_full_log_dialog_content">MIUI génère un journal. Cela pourrait affecter la performance globale de votre appareil. Si vous ne pouvez pas reproduire le problème que vous souhaitez signaler, retournez aux journaux et appuyez sur \"Annuler\".</string>
+    <string name="catch_full_log_dialog_content">Cela pourrait affecter la performance globale de votre appareil. Si vous ne pouvez pas reproduire le problème que vous souhaitez signaler, retournez aux journaux et appuyez sur \"Annuler\".</string>
+    <string name="catch_full_log_dialog_title">Génération des journaux…</string>
     <string name="catch_full_log_dump_hprof_failed">Impossible de générer un journal décalé</string>
     <string name="catch_full_log_item_content_catch_direct">"1. Retournez à la fonctionnalité que vous souhaitez signaler et reproduisez-la.
 2. Revenez à cette page et appuyez sur \"Terminer et mettre en ligne\"."</string>
-    <string name="catch_full_log_item_content_need_open">"1. Appuyez sur \"Générer le journal\".
+    <string name="catch_full_log_item_content_catching">Génération des journaux…</string>
+    <string name="catch_full_log_item_content_need_open">"1. Appuyez sur \"Démarrer\" pour commencer à générer les journaux.
 2. Retournez à la fonctionnalité que vous souhaitez signaler et reproduisez-la.
 3. Revenez à cette page et appuyez sur \"Terminer et mettre en ligne\"."</string>
-    <string name="catch_full_log_item_content_title">Étapes :</string>
+    <string name="catch_full_log_item_content_title">Comment générer des jouranux</string>
     <string name="catch_full_log_item_title_audio">Audio, enregistrement audio et appel audio</string>
     <string name="catch_full_log_item_title_bt">Bluetooth</string>
     <string name="catch_full_log_item_title_dump_heap">Décalage</string>
     <string name="catch_full_log_item_title_gps">Services de localisation</string>
     <string name="catch_full_log_item_title_sensor">Capteurs</string>
     <string name="catch_full_log_item_title_signal">Téléphone, signal, et réseaux mobiles</string>
-    <string name="catch_full_log_item_title_wifi">Wi-Fi et ShareMe</string>
-    <string name="catch_full_log_item_title_wifi_china">WLAN and ShareMe</string>
+    <string name="catch_full_log_item_title_wifi">Wi-Fi</string>
+    <string name="catch_full_log_item_title_wifi_china">Wi-Fi</string>
     <string name="catch_full_log_notification_content">Appuyez pour retourner aux journaux</string>
     <string name="catch_full_log_notification_title">Génération du journal…</string>
     <string name="catch_full_log_privacy_content_audio">"Vous générez des journaux et les enregistrez sur votre appareil. Les journaux peuvent contenir des informations sur l'audio de votre appareil, y compris l'historique de lecture et l'historique d'enregistrement. Soyez prudent et ne divulguez pas ces journaux à d'autres personnes. En appuyant sur \"Accepter\" ci-dessous, vous acceptez que nous collections les données ci-dessus lors de la génération des journaux, puis téléchargions les journaux sur nos serveurs afin de localiser et de résoudre les problèmes que vous signalez."</string>

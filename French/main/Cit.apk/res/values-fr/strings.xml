@@ -377,7 +377,7 @@ Touch the screen to start GPS…"</string>
   <string name="cit_led_check_second_flash_light">second flash led</string>
   <string name="cit_leds_check_summary">Backlight, notification light, and flash light (rear), should respond when corresponding button is pressed.</string>
   <string name="cit_leds_check_title">Notification light (LED)</string>
-  <string name="cit_light_sensor_check_summary">DAC value should appear below,please test for light sensor</string>
+  <string name="cit_light_sensor_check_summary">DAC value should appear below,please test for light sensor(The machine that supports the rear DAC needs to test the rear DAC sensor at the same time, so that the value meets the range of 200 luxes.)</string>
   <string name="cit_light_sensor_check_title">Light sensor</string>
   <string name="cit_macro_camera_check_title">Macro camera</string>
   <string name="cit_magnetic_sensor_check_summary">Values for X，Y，Z, coordinates should appear below</string>
@@ -437,6 +437,7 @@ When calibrating, make sure there's nothing between the sensor and your hand (e.
   <string name="cit_rear_sub_second_camera_check_title">rear sub second camera</string>
   <string name="cit_recovery_signature_failed">recovery signature FAILED</string>
   <string name="cit_recovery_signature_passed">recovery signature PASSED</string>
+  <string name="cit_reverse_wireless_charge_check_tips">Please put the device to be charged as required and start testing</string>
   <string name="cit_reset_check_summary">This test will reboot the device. All previous test data will be lost.</string>
   <string name="cit_reset_check_title">Reboot test</string>
   <string name="cit_reset_ese_summary">Reset eSE ,all your NFC bankcards and transcards will be deleted.</string>

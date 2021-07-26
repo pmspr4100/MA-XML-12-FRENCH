@@ -784,6 +784,7 @@ Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données.
   <string name="development_settings_not_available">Les options développeur ne sont pas disponibles pour cet utilisateur</string>
   <string name="development_settings_summary">"Définir les options pour le développement d'appplication"</string>
   <string name="development_settings_title">Options développeur</string>
+  <string name="device_locked_without_biometric">"La détection biométrique ne peut pas être effectuée en raison de l'utilisation de la fonction de verrouillage d'écran à une touche, trois parties"</string>
   <string name="device_services">"Services de l'appareil"</string>
   <string name="direct_boot_unaware_dialog_message">"Remarque : Vous ne pourrez utiliser ce clavier qu'après un redémarrage uniquement si vous déverrouillez votre appareil."</string>
   <string name="disable_carrier_button_text">Désactiver eSIM</string>
@@ -1118,7 +1119,7 @@ Continuer de les afficher ?"</string>
   <string name="input_lockscreen_password_hint_text">Entrer le mot de passe</string>
   <string name="input_lockscreen_pattern_hint_text">Dessiner le schéma</string>
   <string name="input_lockscreen_pin_hint_text">Entrer le code PIN</string>
-  <string name="input_password_after_boot_msg">Saisissez votre mot de passe pour déverrouiller votre appareil</string>
+  <string name="input_password_after_boot_msg">"La confirmation de votre verrouillage d'écran est requise lorsque l'appareil redémarre"</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">"Impossible de basculer entre les espaces lors d'un appel"</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Impossible de basculer entre les espaces lorsque les contrôles parentaux sont activés</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"Impossible de basculer entre les espaces lorsque l'ultra économiseur de batterie est activé"</string>
@@ -1446,8 +1447,11 @@ une capture d'écran de défilement"</string>
   <string name="miui_notification_menu_more_setting">Plus</string>
   <string name="miui_notification_menu_msg_fold">Regrouper toutes les notifications de %1$s ensemble ?</string>
   <string name="miui_notification_menu_msg_not_allow">Restreindre toutes les notifications de %1$s ?</string>
+  <string name="miui_notification_menu_msg_unfold">Afficher les notifications de %1$s séparément ?</string>
   <string name="miui_notification_menu_setting_success">Effectué</string>
   <string name="miui_notification_menu_snooze">Reporter</string>
+  <string name="miui_notification_menu_title_not_allow">Restreindre</string>
+  <string name="miui_notification_menu_unfold">Marquer comme important</string>
   <string name="miui_ringer_count_down">Compte à rebours</string>
   <string name="miui_ringer_standard">Silencieux</string>
   <string name="miui_ringer_standard_description">Réduire les sonneries au silence pour les appels entrants et les notifications</string>
@@ -1469,6 +1473,7 @@ une capture d'écran de défilement"</string>
   <string name="miui_toast_zen_to_dnd">Mode NPD activé. Les sons sont réduits au silence et les vibrations sont désactivées.</string>
   <string name="miui_toast_zen_to_standard">Mode NPD activé. Les sonneries pour les appels et les notifications sont maintenant désactivées.</string>
   <string name="miui_toast_zen_to_standard_when_shield_media">Mode NPD activé. Les sonneries, ainsi que les notifications et les sons de média, sont maintenant désactivés.</string>
+  <string name="miui_unimportant_notifications">Notifications non importantes</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Désélectionner</string>
   <string name="miuix_appcompat_action_mode_select_all">Tout sélectionner</string>
   <string name="miuix_appcompat_action_mode_title_empty">Sélectionner des éléments</string>
@@ -1616,6 +1621,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="mr_dialog_transferable_header">Jouer sur un groupe</string>
   <string name="mr_system_route_name">Système</string>
   <string name="mr_user_route_category_name">Appareils</string>
+  <string name="msim_set_sub_not_supported_phone_in_call">"Impossible de régler pendant l'appel"</string>
   <string name="mtrl_chip_close_icon_content_description">Supprimer %1$s</string>
   <string name="mtrl_picker_cancel">Annuler</string>
   <string name="mtrl_picker_confirm">Sauvegarder</string>
@@ -2000,6 +2006,9 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="quick_settings_user_new_user">Nouvel utilisateur</string>
   <string name="quick_settings_user_title">Utilisateur</string>
   <string name="quick_settings_vibrate_label">Vibreur</string>
+  <string name="quick_settings_vowifi_label">Appel Wi-Fi</string>
+  <string name="quick_settings_vowifi_sim1_label">Appel Wi-Fi SIM1</string>
+  <string name="quick_settings_vowifi_sim2_label">Appel Wi-Fi SIM2</string>
   <string name="quick_settings_wifi_detail_dual_wifi_accelerated">Augmenter la vitesse</string>
   <string name="quick_settings_wifi_detail_dual_wifi_switching_cancel">Annuler</string>
   <string name="quick_settings_wifi_detail_dual_wifi_switching_confirm">Confirmer</string>
@@ -2164,6 +2173,8 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
   <string name="show_silently">Afficher silencieusement les notifications</string>
   <string name="show_touches">"Afficher les pressions à l'écran"</string>
   <string name="show_touches_summary">"Afficher les commentaires visuels pour les pressions à l'écran"</string>
+  <string name="shut_down_password_forget_password_suggesstion_one_content"><Data>"Appuyez et maintenez les boutons &lt;font color=#e6e6e6>[Power]&lt;/font> et &lt;font color=#e6e6e6>[Volume +]&lt;/font> jusqu'à ce que vous voyiez &lt;img src=\"\">."</Data></string>
+  <string name="shut_down_password_forget_password_suggesstion_two_content"><Data>Sélectionnez &lt;font color=#e6e6e6>[Effacer les données]&lt;/font> et appuyez ensuite sur &lt;font color=#e6e6e6>[Redémarrer]&lt;/font>.</Data></string>
   <string name="sim_state_locked_dialog_title">Carte SIM invalide</string>
   <string name="sim_state_locked_puk_dialog_message">"Vous avez saisi au moins 10 fois un code PUK erroné. Votre carte SIM est désormais invalide. Remplacez cette carte SIM par une autre."</string>
   <string name="simulate_color_space">Simuler un espace de couleur</string>
