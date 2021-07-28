@@ -5385,6 +5385,36 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
   <string name="owner_info_settings_title">"Signature de l'écran de verrouillage"</string>
   <string name="owner_space">Premier espace</string>
   <string name="packages_subtitle">Modules inclus</string>
+  <string name="pad_backup_summary">Sauvegarder et restaurer des éléments sur cet appareil</string>
+  <string name="pad_backup_title">Appareil mobile</string>
+  <string name="pad_computer_backup_summary">"Sauvegarder et restaurer des éléments à l'aide d'un ordinateur"</string>
+  <string name="pad_flash_drive_backup_enable">Utiliser une clé USB pour sauvegarder ou restaurer des éléments</string>
+  <string name="pad_how_backup_content">"Vous pouvez enregistrer des sauvegardes localement ou dans le cloud. Les sauvegardes locales peuvent être stockées sur votre appareil mobile, votre ordinateur ou votre clé USB.
+
+Appareil mobile
+Enregistrez vos paramètres système, vos comptes, vos données d'application et d'autres éléments dans un fichier séparé stocké sur votre appareil (MIUI-backup-AllBackup). Remarque : effectuer une réinitialisation d'usine supprimera définitivement ces sauvegardes. N'oubliez pas de copier les sauvegardes sur votre ordinateur.
+
+Ordinateur
+Créez une sauvegarde sur cet appareil, puis accédez à MIUI-backup-AllBackup et copiez la sauvegarde sur votre ordinateur via un câble USB.
+
+Clé USB
+Enregistrez vos paramètres système, vos comptes, vos données d'application et d'autres éléments sur une clé USB.
+
+Nuage de Xiaomi
+Synchronisez vos contacts, photos, vidéos, la liste de vos applications, les paramètres système et la disposition de l'écran d'accueil avec le cloud."</string>
+  <string name="pad_how_restore_backup_content">"Voici comment restaurer des éléments qui ont été sauvegardés à l'aide de différentes méthodes :
+
+Appareil mobile
+Appuyez sur \"Appareil mobile\" recherchez l'option de restauration des éléments et sélectionnez la sauvegarde pour continuer.
+
+Ordinateur
+Copiez la sauvegarde de votre ordinateur vers MIUI-backup-AllBackup via un câble USB et restaurez les éléments à partir de votre appareil mobile.
+
+Clé USB
+Copiez la sauvegarde de votre clé USB vers MIUI-backup-AllBackup et sélectionnez l'option de restauration des éléments à partir d'une clé USB pour continuer.
+
+Nuage de Xiaomi
+Ouvrez Xiaomi Cloud et restaurez les éléments à partir de là."</string>
   <string name="page_layout_1">Dimanche 16 août</string>
   <string name="page_layout_10">Paramètres</string>
   <string name="page_layout_11">Météo</string>
