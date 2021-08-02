@@ -1203,6 +1203,7 @@ Utilisez uniquement le chargeur fourni."</string>
   <string name="keyguard_carrier_default">Aucun service.</string>
   <string name="keyguard_charged">Chargée</string>
   <string name="keyguard_charging_back_to_lockscreen">"Retour à l'écran de verrouillage"</string>
+  <string name="keyguard_charging_double_fast_and_level_tip">Augmentation de la vitesse de charge %s</string>
   <string name="keyguard_charging_info_last_charge_time">dd/MM H:mm</string>
   <string name="keyguard_charging_info_last_charge_today_time">"Aujourd'hui %s"</string>
   <string name="keyguard_charging_info_last_charge_yesterday_time">Hier %s</string>
@@ -1499,6 +1500,9 @@ une capture d'écran de défilement"</string>
   <string name="mobile_data">Données mobiles</string>
   <string name="mobile_data_always_on">Données mobiles toujours actives</string>
   <string name="mobile_data_always_on_summary">Toujours garder les données mobiles actives, même lorsque le Wi-Fi est actif (pour un changement rapide de réseau).</string>
+  <string name="mobile_data_disable_message">"Vous n'aurez pas accès aux données ou à Internet via %s. Internet ne sera disponible que via Wi-Fi."</string>
+  <string name="mobile_data_disable_message_default_carrier">votre opérateur</string>
+  <string name="mobile_data_disable_title">Désactiver les données mobiles ?</string>
   <string name="mock_location_app">Sélectionner une application de localisation fictive</string>
   <string name="mock_location_app_not_set">Aucune application de localisation fictive définie</string>
   <string name="mock_location_app_set">"Simulation de l'appli de localisation : %1$s"</string>

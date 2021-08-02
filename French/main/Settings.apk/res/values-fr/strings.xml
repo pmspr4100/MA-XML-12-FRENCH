@@ -3456,6 +3456,8 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
   <string name="headset_find_tip_title">Attention</string>
   <string name="headset_find_title">Trouver vos écouteurs</string>
   <string name="headset_find_voice_warning">Avertissement de volume élevé</string>
+  <string name="headset_head_tracking_desc">Ajustez le son surround en fonction du mouvement de la tête</string>
+  <string name="headset_head_tracking_title">Suivre le mouvement de la tête</string>
   <string name="headset_notification_switch_summary">"Afficher l'état sur le widget Panneau de notification lorsque les écouteurs sont connectés"</string>
   <string name="headset_notification_switch_title">Widget Panneau de notification</string>
   <string name="headset_remove_message">Souhaitez-vous supprimer cet appareil de votre compte ?</string>
@@ -4443,7 +4445,7 @@ D'autres personnes utilisent cet appareil.
   <string name="miheadset_cancel_device">Annuler</string>
   <string name="miheadset_checkUpdate">Vérifier les mises à jour</string>
   <string name="miheadset_closeAnc">Désactivé</string>
-  <string name="miheadset_connectHeadsetForFw">Connecter les écouteurs pour afficher la version du firmware</string>
+  <string name="miheadset_connectHeadsetForFw">Connecter les écouteurs pour afficher la version du micrologiciel</string>
   <string name="miheadset_connect_play_music">Démarrer la lecture automatiquement lorsque les écouteurs sont connectés</string>
   <string name="miheadset_connect_toast_tips">"Connectez d'abord les écouteurs"</string>
   <string name="miheadset_define_self">Personnalisé</string>
@@ -4496,7 +4498,7 @@ D'autres personnes utilisent cet appareil.
   <string name="miheadset_key_config_triple_right">"Appuyez 3 fois sur l'écouteur droit"</string>
   <string name="miheadset_key_config_volume_down">Volume -</string>
   <string name="miheadset_key_config_volume_up">Volume +</string>
-  <string name="miheadset_last_version">Le firmware est à jour</string>
+  <string name="miheadset_last_version">Le micrologiciel est à jour</string>
   <string name="miheadset_local_ota">Mise à jour</string>
   <string name="miheadset_minus">Volume -</string>
   <string name="miheadset_moreSettingsInAi">Réglages supplémentaires</string>
@@ -7516,12 +7518,14 @@ Essayez d'utiliser un périphérique ^3 plus rapide, ou utilisez à la place ^4 
   <string name="style_and_wallpaper_settings_title">"Styles et fond d'écran"</string>
   <string name="style_suggestion_summary">"Essayez différents styles, fonds d'écran, horloges, etc."</string>
   <string name="style_suggestion_title">Personnalisez votre Pixel</string>
+  <string name="stylus_ota_check_failed_battery">Impossible de vérifier. La batterie de votre stylet est faible.</string>
+  <string name="stylus_ota_check_failed_info">Impossible de vérifier la version du micrologiciel. Attachez à nouveau votre stylet.</string>
   <string name="stylus_ota_check_update">Vérifier les mises à jour</string>
-  <string name="stylus_ota_current_firmware_version">Version du firmware</string>
+  <string name="stylus_ota_current_firmware_version">Version du micrologiciel</string>
   <string name="stylus_ota_demands">Gardez cet appareil connecté au stylet via Bluetooth. Les deux appareils doivent être chargés à au moins %1$s tout au long de la mise à jour.</string>
-  <string name="stylus_ota_download_failed">Impossible de télécharger le firmware</string>
-  <string name="stylus_ota_downloading_firmware">Téléchargement du firmware</string>
-  <string name="stylus_ota_firmware_update">Mise à jour du firmware</string>
+  <string name="stylus_ota_download_failed">Impossible de télécharger le micrologiciel</string>
+  <string name="stylus_ota_downloading_firmware">Téléchargement du micrologiciel</string>
+  <string name="stylus_ota_firmware_update">Mise à jour du micrologiciel</string>
   <string name="stylus_ota_hardware_version">Version matérielle</string>
   <string name="stylus_ota_latest">À jour</string>
   <string name="stylus_ota_model">Modèle</string>
@@ -7529,7 +7533,7 @@ Essayez d'utiliser un périphérique ^3 plus rapide, ou utilisez à la place ^4 
   <string name="stylus_ota_serial_number">Numéro de série</string>
   <string name="stylus_ota_timeout_failed">Session expirée</string>
   <string name="stylus_ota_update">Mettre à jour</string>
-  <string name="stylus_ota_update_failed">Impossible de mettre à jour le firmware</string>
+  <string name="stylus_ota_update_failed">Impossible de mettre à jour le micrologiciel</string>
   <string name="stylus_ota_updating">Mise à jour…</string>
   <string name="subscription_available">Disponible</string>
   <string name="sud_back_button_label">Retour</string>
@@ -7560,6 +7564,10 @@ Essayez d'utiliser un périphérique ^3 plus rapide, ou utilisez à la place ^4 
   <string name="support_gesture_title">Modèles 3D</string>
   <string name="support_summary">"Articles d'aide, téléphone et chat, premiers pas"</string>
   <string name="sure_sync_now">Synchroniser les éléments maintenant ?</string>
+  <string name="surround_sound_all_desc">Améliorez la profondeur de la reproduction sonore pour les écouteurs et les haut-parleurs</string>
+  <string name="surround_sound_only_headset_desc">Améliore la profondeur de la reproduction sonore pour les écouteurs</string>
+  <string name="surround_sound_only_speaker_desc">Améliore la profondeur de la reproduction sonore des haut-parleurs</string>
+  <string name="surround_sound_title">Son surround</string>
   <string name="suw_back_button_label">Retour</string>
   <string name="suw_more_button_label">Plus</string>
   <string name="suw_next_button_label">Suivant</string>
