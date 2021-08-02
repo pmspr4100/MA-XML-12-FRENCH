@@ -133,7 +133,7 @@
   <string name="find_device_dspt_provision">"Si vous perdez votre appareil, vous pouvez aller à &lt;font color=#0097FF>%s&lt;/font> pour le localiser, le verrouiller ou le réinitialiser. Vous pouvez activer ou désactiver cette fonctionnalité à tout moment dans les paramètres."</string>
   <string name="find_device_error_network">Vérifiez votre connexion de données et réessayez.</string>
   <string name="find_device_error_server">Erreur du serveur</string>
-  <string name="find_device_gdpr_prompt"><Data>"En activant Localiser l'appareil, vous acceptez notre &lt;a href=\"app://com.miui.cloudservice.gdpr.license\">&lt;u>Politique de confidentialité&lt;/u>&lt;/a>. Si vous devez révoquer l'autorisation, désactivez cette fonction."</Data></string>
+  <string name="find_device_gdpr_prompt">"En activant Localiser l'appareil, vous acceptez notre "<a href="app://com.miui.cloudservice.gdpr.license"><u>Politique de confidentialité</u></a>". Si vous devez révoquer l'autorisation, désactivez cette fonction."</string>
   <string name="find_device_operation_failure_rpc">"Impossible d'exécuter l'opération en raison d'une erreur RPC."</string>
   <string name="find_device_send_sms_alert">Si vous changez de carte SIM, un SMS sera envoyé automatiquement pour réactiver ce service.</string>
   <string name="find_device_service_title">"Localiser l'appareil"</string>
@@ -210,7 +210,7 @@
   <string name="loading_server_key_info">Chargement des éléments…</string>
   <string name="low_battery_locate_summary">Rapporter automatiquement les informations de localisation lorsque la batterie est faiblement chargée</string>
   <string name="low_battery_locate_title">Indication de localisation en cas de batterie faible</string>
-  <string name="master_alert_notif_content">"Sauvegardez régulièrement les éléments pour ne rien perdre d’important."</string>
+  <string name="master_alert_notif_content">"Sauvegardez régulièrement les éléments pour ne rien perdre d'important."</string>
   <string name="master_alert_notif_title">Activer Xiaomi Cloud</string>
   <string name="member_entrance_normal_title">Changer le plan Xiaomi Cloud</string>
   <string name="member_entrance_title_free_high_case_a">"Obtenir plus d'espace de stockage"</string>
@@ -283,7 +283,7 @@ sur votre compte Mi pour réactiver Xiaomi Cloud."</string>
   <string name="micloud_confusion_yes">Oui</string>
   <string name="micloud_detail_fail">Impossible de synchroniser</string>
   <string name="micloud_detail_query_error">"Impossible d'obtenir l'état de synchronisation"</string>
-  <string name="micloud_dspt">"Synchronisez vos contacts, vos messages, l’historique des appels et d’autres éléments sur tous les appareils.
+  <string name="micloud_dspt">"Synchronisez vos contacts, vos messages, l'historique des appels et d'autres éléments sur tous les appareils.
 Localisez et verrouillez votre appareil en cas de perte. "</string>
   <string name="micloud_dspt_provision">Utiliser Xiaomi Cloud pour synchroniser vos données, localiser votre appareil et partager avec vos amis.</string>
   <string name="micloud_dspt_provision_china">Utiliser Xiaomi Cloud pour synchroniser vos données, localiser votre appareil et partager avec vos amis.</string>

@@ -94,12 +94,12 @@
         <item quantity="one">Code PUK incorrect, %d tentative restante</item>
     </plurals>
     <plurals name="input_password_after_timeout_msg">
-        <item quantity="other">Vous n’avez pas utilisé votre mot de passe depuis %d heures. Entrez votre mot de passe.</item>
-        <item quantity="one">Vous n’avez pas utilisé votre mot de passe depuis %d heure. Entrez votre mot de passe.</item>
+        <item quantity="other">"Vous n'avez pas utilisé votre code ou mot de passe de déverrouillage depuis %d heures. Entrez votre code ou mot de passe."</item>
+        <item quantity="one">"Vous n'avez pas utilisé votre code ou mot de passe de déverrouillage depuis %d heure. Entrez votre code ou mot de passe."</item>
     </plurals>
     <plurals name="input_pattern_after_timeout_msg">
-        <item quantity="other">Vous n’avez pas utilisé votre schéma de déverrouillage depuis %d heures. Entrez votre mot de passe.</item>
-        <item quantity="one">Vous n’avez pas utilisé votre schéma de déverrouillage depuis %d heure. Entrez votre mot de passe.</item>
+        <item quantity="other">"Vous n'avez pas utilisé votre schéma de déverrouillage depuis %d heures. Dessinez votre schéma."</item>
+        <item quantity="one">"Vous n'avez pas utilisé votre schéma de déverrouillage depuis %d heure. Dessinez votre schéma."</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_hour_time_text">
         <item quantity="other">Environ %d heures restantes</item>
