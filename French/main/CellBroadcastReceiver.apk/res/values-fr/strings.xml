@@ -40,7 +40,7 @@
   <string name="accessibility_wifi_three_bars">Wifi three bars.</string>
   <string name="accessibility_wifi_two_bars">Wifi two bars.</string>
   <string name="active_input_method_subtypes">Active input methods</string>
-  <string name="adb_keys_warning_message">Revoke access to USB debugging from all computers you’ve previously authorized?</string>
+  <string name="adb_keys_warning_message">"Revoke access to USB debugging from all computers you've previously authorized?"</string>
   <string name="adb_warning_message">USB debugging is intended for development purposes only. Use it to copy data between your computer and your device, install apps on your device without notification, and read log data.</string>
   <string name="adb_warning_title">Autoriser le débogage USB ?</string>
   <string name="add_channel">Ajouter une chaîne</string>
@@ -387,7 +387,7 @@ Selection"</string>
   <string name="help_feedback_label">"Aide et retour d'information"</string>
   <string name="home">"Paramètres d'accueil"</string>
   <string name="ime_security_warning">This input method may be able to collect all the text you type, including personal data like passwords and credit card numbers. It comes from the app %1$s. Use this input method?</string>
-  <string name="immediately_destroy_activities">Don’t keep activities</string>
+  <string name="immediately_destroy_activities">"Don't keep activities"</string>
   <string name="immediately_destroy_activities_summary">Destroy every activity as soon as the user leaves it</string>
   <string name="ims_reg_status_not_registered">Not registered</string>
   <string name="ims_reg_status_registered">Registered</string>
@@ -402,9 +402,9 @@ Selection"</string>
   <string name="launch_defaults_some">Some defaults set</string>
   <string name="loading_injected_setting_summary">Loading…</string>
   <string name="local_backup_password_summary_change">Tap to change or remove the password for desktop full backups</string>
-  <string name="local_backup_password_summary_none">Desktop full backups aren’t currently protected</string>
+  <string name="local_backup_password_summary_none">"Desktop full backups aren't currently protected"</string>
   <string name="local_backup_password_title">Desktop backup password</string>
-  <string name="local_backup_password_toast_confirmation_mismatch">New password and confirmation don’t match</string>
+  <string name="local_backup_password_toast_confirmation_mismatch">"New password and confirmation don't match"</string>
   <string name="local_backup_password_toast_success">New backup password set</string>
   <string name="local_backup_password_toast_validation_failure">Failure setting backup password</string>
   <string name="managed_user_title">All work apps</string>
@@ -465,10 +465,10 @@ Selection"</string>
   <string name="oem_unlock_enable_summary">Autoriser le déverrouillage du chargeur de démarrage</string>
   <string name="okay">OK</string>
   <string name="osu_completing_sign_up">Completing sign-up…</string>
-  <string name="osu_connect_failed">Couldn’t connect</string>
+  <string name="osu_connect_failed">"Couldn't connect"</string>
   <string name="osu_opening_provider">Opening %1$s</string>
   <string name="osu_sign_up_complete">Sign-up complete. Connecting…</string>
-  <string name="osu_sign_up_failed">Couldn’t complete sign-up. Tap to try again.</string>
+  <string name="osu_sign_up_failed">"Couldn't complete sign-up. Tap to try again."</string>
   <string name="overlay_display_devices_title">Simulate secondary displays</string>
   <string name="picture_color_mode">Picture color mode</string>
   <string name="picture_color_mode_desc">Use sRGB</string>

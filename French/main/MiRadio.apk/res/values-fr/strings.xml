@@ -620,7 +620,7 @@ Send this code to the supervisor."</string>
   <string name="no_album_info">No album info</string>
   <string name="no_artist_info">No artist info</string>
   <string name="no_copyright_song_hint_text">"This song isn't available due to copyright issues."</string>
-  <string name="no_copyright_song_recommend_hint_text">It’s better to try this one</string>
+  <string name="no_copyright_song_recommend_hint_text">"It's better to try this one"</string>
   <string name="no_downloads">No downloads</string>
   <string name="no_favorites_songs">Empty</string>
   <string name="no_local_songs">Empty</string>
@@ -724,10 +724,10 @@ Send this code to the supervisor."</string>
   <string name="phone_bind_too_many">This phone has been associated with several Mi Accounts in a short period of time. Try using another phone number.</string>
   <string name="phone_hint">Phone number</string>
   <string name="phone_number">Phone number</string>
-  <string name="play_all">&lt;Data>Play all &lt;font color=#999999>(%1$d)&lt;/font>&lt;/Data></string>
-  <string name="play_all_shuffle">&lt;Data>Shuffle all&lt;font color=#999999>(%1$d)&lt;/font>&lt;/Data></string>
+  <string name="play_all"><Data>Play all &lt;font color=#999999>(%1$d)&lt;/font></Data></string>
+  <string name="play_all_shuffle"><Data>Shuffle all&lt;font color=#999999>(%1$d)&lt;/font></Data></string>
   <string name="play_all_song">Play all</string>
-  <string name="play_continue">&lt;Data>Continue playing &lt;font color=#999999>(%1$d)&lt;/font>&lt;/Data></string>
+  <string name="play_continue"><Data>Continue playing &lt;font color=#999999>(%1$d)&lt;/font></Data></string>
   <string name="play_error_program_not_find">"This program isn't available."</string>
   <string name="play_mode_circle">Circle Mode</string>
   <string name="play_mode_circle_hint">Repeating one track now</string>
@@ -1212,7 +1212,7 @@ Access storage in order to access and save cover art and downloaded files"</stri
   <string name="vip_tomorrow_renew_message">"You won't be able to stream high quality audio, but some songs will be available in regular quality."</string>
   <string name="voice_ass">Voice assistant</string>
   <string name="warning_tip_cancel">Download</string>
-  <string name="warning_tip_content">"You're no longer connected to Wi-Fi. Using your mobile data connection to complete this download will increase your data usage. If you go over your plan’s data limit, your carrier could charge you additional fees."</string>
+  <string name="warning_tip_content">"You're no longer connected to Wi-Fi. Using your mobile data connection to complete this download will increase your data usage. If you go over your plan's data limit, your carrier could charge you additional fees."</string>
   <string name="warning_tip_ok">Pause</string>
   <string name="warning_tip_title">"Avertissement sur l'utilisation des données"</string>
   <string name="wifi_required_body" formatted="false">"Connectez-vous au Wi-Fi pour terminer ce téléchargement de %s.

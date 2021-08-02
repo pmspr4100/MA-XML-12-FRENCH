@@ -322,7 +322,7 @@
   <string name="activity_not_found">"L'application n'est pas installée sur votre appareil"</string>
   <string name="adb_device_fingerprint_title_format">"Empreinte de l'appareil : %1$s"</string>
   <string name="adb_device_forget">Oublier</string>
-  <string name="adb_keys_warning_message">"Révoquer l'accès au débogage USB pour tous les ordinateurs que vous ’avez précédemment autorisés ?"</string>
+  <string name="adb_keys_warning_message">"Révoquer l'accès au débogage USB pour tous les ordinateurs que vous 'avez précédemment autorisés ?"</string>
   <string name="adb_pair_method_code_summary">"Associer de nouveaux appareils à l'aide d'un code à 6 chiffres"</string>
   <string name="adb_pair_method_code_title">"Associer l'appareil avec le code d'association"</string>
   <string name="adb_pair_method_qrcode_summary">"Associer de nouveaux appareils à l'aide du scanner de QR code"</string>
@@ -1119,7 +1119,7 @@ Continuer de les afficher ?"</string>
   <string name="input_lockscreen_password_hint_text">Entrer le mot de passe</string>
   <string name="input_lockscreen_pattern_hint_text">Dessiner le schéma</string>
   <string name="input_lockscreen_pin_hint_text">Entrer le code PIN</string>
-  <string name="input_password_after_boot_msg">"La confirmation de votre verrouillage d'écran est requise lorsque l'appareil redémarre"</string>
+  <string name="input_password_after_boot_msg">"La confirmation de votre verrouillage d'écran est requise après un redémarrage de l'appareil"</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">"Impossible de basculer entre les espaces lors d'un appel"</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Impossible de basculer entre les espaces lorsque les contrôles parentaux sont activés</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"Impossible de basculer entre les espaces lorsque l'ultra économiseur de batterie est activé"</string>
@@ -1357,7 +1357,7 @@ Réessayez dans %2$d secondes."</string>
   <string name="local_backup_password_summary_change">"Appuyez pour changer ou supprimer le mot de passe pour les sauvegardes complètes de l'écran d'accueil"</string>
   <string name="local_backup_password_summary_none">"Les sauvegardes complètes de l'écran d'accueil ne sont pas actuellement protégées"</string>
   <string name="local_backup_password_title">"Mot de passe de sauvegarde de l'écran d'accueil"</string>
-  <string name="local_backup_password_toast_confirmation_mismatch">Les mots de passe ne’ correspondent pas</string>
+  <string name="local_backup_password_toast_confirmation_mismatch">Les mots de passe ne correspondent pas</string>
   <string name="local_backup_password_toast_success">Nouveau de mot de passe de sauvegarde défini</string>
   <string name="local_backup_password_toast_validation_failure">Impossible de définir le mot de passe de sauvegarde</string>
   <string name="lock_screen_carrier_airplane_mode_on">Mode avion</string>
@@ -2612,7 +2612,7 @@ N'importe quel utilisateur peut mettre à jour les applications pour tous les au
   <string name="wapi_all_sel_mode">Sélectionner</string>
   <string name="wapi_auto_sel_cert">Sélectionner automatiquement</string>
   <string name="wapi_auto_sel_cert_fail">Impossible de sélectionner les certificats automatiquement. Sélectionnez un certificat dans la liste, puis essayez de vous connecter.</string>
-  <string name="wapi_cert_is_not_exist">Aucun certificat disponible. Ajoutez d’abord un.</string>
+  <string name="wapi_cert_is_not_exist">"Aucun certificat disponible. Ajoutez-en un d'abord."</string>
   <string name="wapi_cert_is_not_selected">"Sélectionnez d'abord le certificat"</string>
   <string name="wapi_cert_manage_error">Impossible de définir le certificat WAPI.</string>
   <string name="wapi_cert_manage_summary">Ajouter ou supprimer le certificat WAPI</string>
@@ -2628,7 +2628,7 @@ N'importe quel utilisateur peut mettre à jour les applications pour tous les au
   <string name="wapi_password_is_empty">Le mot de passe ne peut être vide</string>
   <string name="wapi_password_is_not_hex_format">Caractères hexadécimaux non valides</string>
   <string name="wapi_password_length_invalid">Le mot de passe doit contenir entre 8 et 64 caractères</string>
-  <string name="wapi_password_length_is_max">Le mot de passe peut contenir jusqu’à 64 caractères</string>
+  <string name="wapi_password_length_is_max">"Le mot de passe peut contenir jusqu'à 64 caractères"</string>
   <string name="wapi_password_length_is_min">Le mot de passe doit contenir au moins 8 caractères</string>
   <string name="wapi_password_length_is_min_to_max">Le mot de passe doit contenir entre 8 et 64 caractères</string>
   <string name="wapi_psk_type">Type de mot de passe</string>
@@ -2646,8 +2646,8 @@ N'importe quel utilisateur peut mettre à jour les applications pour tous les au
   <string name="wifi_connected_mac_randomization">Connexion avec adresse MAC aléatoire</string>
   <string name="wifi_connected_mac_randomization_summary">"Randomiser l'adresse MAC lors des connexions à des réseaux Wi-Fi"</string>
   <string name="wifi_connected_no_internet">"Connecté, pas d'internet"</string>
-  <string name="wifi_coverage_extend">Activer l’extension de couverture Wi-Fi</string>
-  <string name="wifi_coverage_extend_summary">Étendre la couverture Wi-Fi en utilisant un point d’accès</string>
+  <string name="wifi_coverage_extend">"Activer l'extension de couverture Wi-Fi"</string>
+  <string name="wifi_coverage_extend_summary">"Étendre la couverture Wi-Fi en utilisant un point d'accès"</string>
   <string name="wifi_debugging_allow">Autoriser</string>
   <string name="wifi_debugging_always">Toujours autoriser sur ce réseau</string>
   <string name="wifi_debugging_message">"Nom du réseau (SSID)
@@ -2667,7 +2667,7 @@ Adresse Wi‑Fi (BSSID)
   <string name="wifi_display_certification">"Certification de l'affichage sans fil"</string>
   <string name="wifi_display_certification_summary">"Afficher les options pour la certification de l'affichage sans fil"</string>
   <string name="wifi_enhanced_mac_randomization">Randomisation MAC améliorée par Wi‑Fi</string>
-  <string name="wifi_enhanced_mac_randomization_summary">"Lorsque ce mode est activé, l’adresse MAC de cet appareil peut changer chaque fois qu’il se connecte à un réseau sur lequel la randomisation MAC est activée."</string>
+  <string name="wifi_enhanced_mac_randomization_summary">"Lorsque ce mode est activé, l'adresse MAC de cet appareil peut changer chaque fois qu'il se connecte à un réseau sur lequel la randomisation MAC est activée."</string>
   <string name="wifi_fail_to_scan">Impossible de rechercher les réseaux</string>
   <string name="wifi_hand_sel_wapi_cert">Certificat WAPI</string>
   <string name="wifi_is_off">Wi-Fi désactivé</string>
@@ -2689,7 +2689,7 @@ Adresse Wi‑Fi (BSSID)
   <string name="wifi_security_wpa_wpa2_wpa3">WPA/WPA2/WPA3 Personnel</string>
   <string name="wifi_security_wpa2">WPA2 Personnel</string>
   <string name="wifi_ssid_is_empty">SSID ne peut pas être laissé vide</string>
-  <string name="wifi_ssid_length_is_max">SSID peut contenir jusqu’à 32 caractères</string>
+  <string name="wifi_ssid_length_is_max">"SSID peut contenir jusqu'à 32 caractères"</string>
   <string name="wifi_status_mac_randomized">Adresse MAC randomisée</string>
   <string name="wifi_status_no_internet">"Pas d'internet"</string>
   <string name="wifi_status_sign_in_required">Connexion requise</string>
@@ -2701,10 +2701,10 @@ Adresse Wi‑Fi (BSSID)
   <string name="wifi_wapi_as_certificate">Certificat AS</string>
   <string name="wifi_wapi_cert_mode_hand_text">Sélectionner manuellement</string>
   <string name="wifi_wapi_certification_dont_exist">Le mot de passe du réseau que vous avez entré est incorrect.</string>
-  <string name="wifi_wapi_fail_to_auth">"Impossible de terminer l’authentification WAPI.
+  <string name="wifi_wapi_fail_to_auth">"Impossible de terminer l'authentification WAPI.
 Assurez-vous que vos certificats sont valides."</string>
-  <string name="wifi_wapi_fail_to_init">"Impossible d’ouvrir le certificat WAPI.
-On dirait que le stockage des certificats n’est pas activé."</string>
+  <string name="wifi_wapi_fail_to_init">"Impossible d'ouvrir le certificat WAPI.
+On dirait que le stockage des certificats n'est pas activé."</string>
   <string name="wifi_wapi_psk_type">Type de mot de passe</string>
   <string name="wifi_wapi_user_certificate">Certificat utilisateur</string>
   <string name="wifi_whitelist_roaming">SSID Bridging ‑ Fast Handover</string>

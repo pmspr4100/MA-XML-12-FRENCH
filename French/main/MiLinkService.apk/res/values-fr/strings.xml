@@ -96,7 +96,7 @@ Voir l'aide si vous avez des problèmes de connexion."</string>
   <string name="global_privacy_main">"Projection des éléments de l'écran de votre téléphone sur un moniteur externe plus grand."</string>
   <string name="global_privacy_negative">Refuser</string>
   <string name="global_privacy_positive">Accepter</string>
-  <string name="global_privacy_tip">&lt;Data>Nous devons collecter les informations personnelles nécessaires pour vous fournir les services de base et optimiser le processus de diffusion. Vous pouvez découvrir comment nous traitons les informations que nous collectons dans notre &lt;a href=%1$s>Politique de confidentialité&lt;/a>. Vous pouvez à tout moment retirer votre consentement à la Politique de confidentialité dans les paramètres.&lt;/Data></string>
+  <string name="global_privacy_tip"><Data>Nous devons collecter les informations personnelles nécessaires pour vous fournir les services de base et optimiser le processus de diffusion. Vous pouvez découvrir comment nous traitons les informations que nous collectons dans notre &lt;a href=%1$s>Politique de confidentialité&lt;/a>. Vous pouvez à tout moment retirer votre consentement à la Politique de confidentialité dans les paramètres.</Data></string>
   <string name="hang_up">Diffusion écran éteint</string>
   <string name="hang_up_alert_dialog_content">"Continue à diffuser lorsque l'écran de votre appareil est éteint. Cette fonction réduit la consommation d'énergie. Appuyez sur le bouton d'alimentation pour rallumer l'écran."</string>
   <string name="hang_up_alert_dialog_neg">Annuler</string>
@@ -250,8 +250,8 @@ If you need to manually open the Miracast function, you can press the [Menu] but
   <string name="open_game_accelerate">Turn on Game Turbo</string>
   <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
   <string name="privacy_agree">Agree</string>
-  <string name="privacy_detail">&lt;Data>This app needs to connect to the internet and collect the required personal data to be able to work normally. To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>.&lt;/Data></string>
-  <string name="privacy_detail_extra">&lt;Data>Some features are provided by a third party service provider HappyCast. Before using this feature, read and agree to &lt;a href=%1$s>HappyCast Privacy Policy&lt;/a> and &lt;a href=%2$s>HappyCast Legal Statement&lt;/a>.&lt;/Data></string>
+  <string name="privacy_detail"><Data>This app needs to connect to the internet and collect the required personal data to be able to work normally. To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>.</Data></string>
+  <string name="privacy_detail_extra"><Data>Some features are provided by a third party service provider HappyCast. Before using this feature, read and agree to &lt;a href=%1$s>HappyCast Privacy Policy&lt;/a> and &lt;a href=%2$s>HappyCast Legal Statement&lt;/a>.</Data></string>
   <string name="privacy_explain">"Welcome to Casting! Casting allows projecting the items from your phone's screen on a bigger external monitor. This app needs to connect to the internet and requires the following permissions to be able to work normally:"</string>
   <string name="privacy_negative">Exit</string>
   <string name="privacy_permission_ble">Turning Bluetooth on and off</string>
