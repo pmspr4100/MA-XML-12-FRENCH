@@ -387,7 +387,7 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
   <string name="change_to_visible">Restaurer cette personne ?</string>
   <string name="channel_default_name">Nouvelles fonctionnalités</string>
   <string name="channel_low_name">Nouveaux messages</string>
-  <string name="channel_min_name">Notifications de l’application</string>
+  <string name="channel_min_name">"Notifications de l'application"</string>
   <string name="checked">Sélectionné</string>
   <string name="checked_something">%s sélectionné</string>
   <string name="choose_baby_sexy">Sexe</string>
@@ -503,8 +503,8 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
   <string name="collage_talkback_margin_medium">Marge régulière</string>
   <string name="collage_talkback_margin_non">Pas de marge</string>
   <string name="collage_talkback_margin_small">Cette marge</string>
-  <string name="collage_talkback_ratio_1_1">Format d'image : carré</string>
-  <string name="collage_talkback_ratio_3_4">Format d'image : quatre tiers</string>
+  <string name="collage_talkback_ratio_1_1">"Format d'image : carré"</string>
+  <string name="collage_talkback_ratio_3_4">"Format d'image : quatre tiers"</string>
   <string name="collage_title_layout">Disposition</string>
   <string name="collage_title_poster">Poster</string>
   <string name="collage_title_stitching">Film</string>
@@ -520,13 +520,13 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
   <string name="confirm_hidden_recommend_group_message">"Quand les recommandations sont arrêtées, vous pouvez toujours utiliser l'option \"Plus de personnes qui se ressemblent\""</string>
   <string name="confirm_hidden_recommend_group_title">Ne pas afficher les recommandations</string>
   <string name="confirm_hide_selected_albums">Masquer les albums sélectionnés ?</string>
-  <string name="confirm_merge_face_albums">&lt;Data>Fusionner cet album avec %s ?&lt;/Data></string>
-  <string name="confirm_merge_many_face_albums">&lt;Data>Fusionner ces albums avec %s ?&lt;/Data></string>
+  <string name="confirm_merge_face_albums"><Data>Fusionner cet album avec %s ?</Data></string>
+  <string name="confirm_merge_many_face_albums"><Data>Fusionner ces albums avec %s ?</Data></string>
   <string name="confirm_not_face">Ne correspond pas</string>
   <string name="confirm_recommandation_face_is"><Data>"Êtes-vous sûr que c'est &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font> ? Cette personne sera déplacée vers l'album \"%2$s\"."</Data></string>
   <string name="confirm_recommandation_face_not"><Data>"Êtes-vous certain que ce n'est pas plutôt &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font> ?"</Data></string>
   <string name="confirm_recommandation_multiple_faces_are"><Data>"Êtes-vous sûr que ce sont &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font> ? Ces personnes seront déplacées vers l'album \"%2$s\"."</Data></string>
-  <string name="confirm_recommandation_multiple_faces_not">&lt;Data>Êtes-vous certain que ce ne sont pas plutôt &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font> ?&lt;/Data></string>
+  <string name="confirm_recommandation_multiple_faces_not"><Data>Êtes-vous certain que ce ne sont pas plutôt &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font> ?</Data></string>
   <string name="contact_tip">Contact</string>
   <string name="context_menu_add_contact">Ajouter aux contacts</string>
   <string name="context_menu_copy">Copier</string>
@@ -1288,7 +1288,7 @@ pour personnaliser Galerie"</string>
   <string name="month_september_short">Sept</string>
   <string name="month_september_shortest">Sept</string>
   <string name="month_view_tip_button_text">Compris</string>
-  <string name="month_view_tip_sub_title">Pincez l’écran pour passer en vue mensuelle</string>
+  <string name="month_view_tip_sub_title">"Pincez l'écran pour passer en vue mensuelle"</string>
   <string name="month_view_tip_title">Vue du mois</string>
   <string name="more">Plus</string>
   <string name="more_album_hint">, etc.</string>
@@ -1334,7 +1334,7 @@ pour personnaliser Galerie"</string>
   <string name="movie_content_describe_pause">En pause</string>
   <string name="movie_content_describe_play">Lire</string>
   <string name="movie_customer_unsupport_audio_file">"Ce format audio n'est pas pris en charge"</string>
-  <string name="movie_delete_disable">Vous avez besoin d’au moins %d photos pour créer un clip.</string>
+  <string name="movie_delete_disable">"Vous avez besoin d'au moins %d photos pour créer un clip."</string>
   <string name="movie_download_failed">Impossible de télécharger</string>
   <string name="movie_download_failed_for_notwork">Impossible de télécharger. Veuillez vous connecter au réseau puis réessayez.</string>
   <string name="movie_download_sdk_without_wifi_msg">Votre appareil ne semble pas connecté au Wi-Fi. Télécharger le plug-in requis (3 Mo) en utilisant les données mobiles ?</string>
@@ -1487,7 +1487,7 @@ Le transcodage peut prendre un certain temps lorsque vous utilisez cette fonctio
   <string name="operation_send">Envoyer</string>
   <string name="operation_set_contact_photo">Définir comme photo de contact</string>
   <string name="operation_set_slide_wallpaper">"Définir comme fond d'écran du diaporama"</string>
-  <string name="operation_set_video_wallpaper">Définir un fond d’écran vidéo</string>
+  <string name="operation_set_video_wallpaper">"Définir un fond d'écran vidéo"</string>
   <string name="operation_set_wallpaper">"Définir comme fond d'écran"</string>
   <string name="operation_share">Partager</string>
   <string name="operation_share_manage">Manage shared items</string>
@@ -1808,7 +1808,7 @@ Le transcodage peut prendre un certain temps lorsque vous utilisez cette fonctio
   <string name="saturday">Samedi</string>
   <string name="saturday_short">Sam</string>
   <string name="saturday_shortest">Sam</string>
-  <string name="scan_barcode_guide">Pour obtenir un QR code, appuyez sur l’icône Partage.</string>
+  <string name="scan_barcode_guide">"Pour obtenir un QR code, appuyez sur l'icône Partage."</string>
   <string name="scan_barcode_to_join">Scannez le QR code pour ajouter un album</string>
   <string name="scan_qr_code_buttom_text">Scanner le QR code pour voir cet album</string>
   <string name="scanning_device_tips">"Recherche d'appareils à proximité… Assurez-vous que l'autre appareil est en mode détectable."</string>
@@ -1926,8 +1926,8 @@ Le transcodage peut prendre un certain temps lorsque vous utilisez cette fonctio
   <string name="set_as_baby_lock_wallpaper">"Définir comme fond d'écran de verrouillage"</string>
   <string name="set_as_slide_wallpaper_description">"Cette image est une miniature, télécharger l'original ?"</string>
   <string name="set_as_slide_wallpaper_title">"Définir comme fond d'écran du diaporama"</string>
-  <string name="set_as_video_wallpaper_description">Télécharger cet élément et l’utiliser comme fond d’écran vidéo ?</string>
-  <string name="set_as_video_wallpaper_title">Définir un fond d’écran vidéo</string>
+  <string name="set_as_video_wallpaper_description">"Télécharger cet élément et l'utiliser comme fond d'écran vidéo ?"</string>
+  <string name="set_as_video_wallpaper_title">"Définir un fond d'écran vidéo"</string>
   <string name="set_as_wallpaper_description">"Cette image est une miniature, télécharger l'original ?"</string>
   <string name="set_as_wallpaper_title">"Définir comme fond d'écran"</string>
   <string name="set_face_group_toast_msg_new_user">Maintenir une personne pour fusionner ou ignorer.</string>

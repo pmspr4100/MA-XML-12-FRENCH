@@ -103,7 +103,7 @@
   <string name="app_permission_use_group_phone">Téléphone</string>
   <string name="app_permission_use_group_phone_desc">Pour les services Google Push</string>
   <string name="app_permission_use_group_storage">Stockage</string>
-  <string name="app_permission_use_group_storage_desc">Pour rechercher et lire des chansons enregistrées sur l’appareil</string>
+  <string name="app_permission_use_group_storage_desc">"Pour rechercher et lire des chansons enregistrées sur l'appareil"</string>
   <string name="artist">Artistes</string>
   <string name="artist_area_all">Tous</string>
   <string name="artist_area_china">Chine</string>
@@ -136,7 +136,7 @@
   <string name="buffering">Chargement…</string>
   <string name="button_cancel_download">Annuler</string>
   <string name="button_download_now">Télécharger maintenant</string>
-  <string name="button_queue_for_wifi">File d’attente</string>
+  <string name="button_queue_for_wifi">"File d'attente"</string>
   <string name="button_sort_by_date">Trier par date</string>
   <string name="button_sort_by_size">Trier par taille</string>
   <string name="button_wait_for_wifi">En attente</string>
@@ -235,7 +235,7 @@
   <string name="dialog_media_not_found">"Impossible de télécharger. La carte SD n'est pas disponible."</string>
   <string name="dialog_message_unfollow">Ne plus suivre cette personne ?</string>
   <string name="dialog_my_playlist_online_changed_merge">Garder</string>
-  <string name="dialog_my_playlist_online_changed_message">"On dirait que cette playlist a changé. Vous pouvez la remplacer par la nouvelle version ou conserver l’ancienne."</string>
+  <string name="dialog_my_playlist_online_changed_message">"On dirait que cette playlist a changé. Vous pouvez la remplacer par la nouvelle version ou conserver l'ancienne."</string>
   <string name="dialog_my_playlist_online_changed_replace">Replacer</string>
   <string name="dialog_my_playlist_set_to_public">Partager cette playlist sur Mi Musique</string>
   <string name="dialog_queued_body">"Ce fichier est mis en file d'attente pour un téléchargement à venir."</string>
@@ -1238,7 +1238,7 @@ Soyez heureux"</string>
 
 Appuyez sur %s pour démarrer ce téléchargement la prochaine fois que vous serez connecté à un réseau Wi-Fi."</string>
   <string name="wifi_required_title">Vous devriez vous connecter en Wi-Fi pour télécharger ce fichier</string>
-  <string name="xiaomi_update_sdk_connect_download_manager_fail">"Échec de la connexion au gestionnaire de téléchargement. Veuillez vérifier l’état du gestionnaire de téléchargement dans Gestion des applications."</string>
+  <string name="xiaomi_update_sdk_connect_download_manager_fail">"Échec de la connexion au gestionnaire de téléchargement. Veuillez vérifier l'état du gestionnaire de téléchargement dans Gestion des applications."</string>
   <string name="xiaomi_update_sdk_dialog_message">"Présentation de la version %1$s
 Taille : %2$s"</string>
   <string name="xiaomi_update_sdk_dialog_message_diff">"Présentation de la version %1$s

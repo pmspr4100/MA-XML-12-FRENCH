@@ -182,9 +182,9 @@
     <string name="antivirus_privacy_dialog_summary"><Data>"Cette fonctionnalité est fournie par un moteur antivirus tiers. Pour en savoir plus, lisez l'&lt;a href=\"%1$s\">Accord de licence&lt;/a> fourni par l'application tierce."</Data></string>
     <string name="antivirus_privacy_dialog_summary_kddi"><Data>"Lorsque vous effectuez une analyse de sécurité, le modèle de votre appareil et les résultats de l'analyse seront téléchargés sur les serveurs %1$s et utilisés conformément aux &lt;a href=\"%2$s\">Conditions générales&lt;/a>.&lt;br />&lt;br />Lisez et acceptez les Termes et conditions de %3$s avant d'effectuer des analyses de sécurité.&lt;br />&lt;br />Si vous n'acceptez pas de télécharger des données vers %4$s serveurs, vous pouvez toujours utiliser les définitions de virus stockées localement sur votre appareil."</Data></string>
     <string name="antivirus_privacy_dialog_summary_link">Politique de confidentialité</string>
-    <string name="antivirus_privacy_dialog_summary_new">&lt;Data>Cette fonctionnalité utilise les définitions antivirus fournies par Avast, AVL et Tencent. Lisez les &lt;a href=\"%1$s\">Accords de licence&lt;/a> pour en savoir plus.&lt;/Data></string>
-    <string name="antivirus_privacy_dialog_summary_not_have_avast">&lt;Data>Cette fonctionnalité utilise les définitions antivirus fournies par AVL et Tencent. Lisez les &lt;a href=\"%1$s\">Accords de licence&lt;/a> pour en savoir plus.&lt;/Data></string>
-    <string name="antivirus_privacy_dialog_summary_not_have_tencent">&lt;Data>Cette fonctionnalité utilise les définitions antivirus fournies par Avast et AVL. Lisez les &lt;a href=\"%1$s\">Accords de licence&lt;/a> pour en savoir plus.&lt;/Data></string>
+    <string name="antivirus_privacy_dialog_summary_new"><Data>Cette fonctionnalité utilise les définitions antivirus fournies par Avast, AVL et Tencent. Lisez les &lt;a href=\"%1$s\">Accords de licence&lt;/a> pour en savoir plus.</Data></string>
+    <string name="antivirus_privacy_dialog_summary_not_have_avast"><Data>Cette fonctionnalité utilise les définitions antivirus fournies par AVL et Tencent. Lisez les &lt;a href=\"%1$s\">Accords de licence&lt;/a> pour en savoir plus.</Data></string>
+    <string name="antivirus_privacy_dialog_summary_not_have_tencent"><Data>Cette fonctionnalité utilise les définitions antivirus fournies par Avast et AVL. Lisez les &lt;a href=\"%1$s\">Accords de licence&lt;/a> pour en savoir plus.</Data></string>
     <string name="antivirus_privacy_dialog_title">Politique de confidentialité</string>
     <string name="antivirus_privacy_dialog_title_kddi">Termes et conditions</string>
     <string name="antivirus_riskapp_title">Risques possibles</string>
@@ -530,7 +530,7 @@ Vous ne perdrez aucune donnée d'application."</string>
     <string name="app_right">Produit officiellement par Xiaomi</string>
     <string name="app_running_tip_dialog_negative">Annuler</string>
     <string name="app_running_tip_dialog_positive">OK</string>
-    <string name="app_running_tip_dialog_text">"Quittez %1$s pour l’empêcher de s’exécuter en arrière-plan. Cela accélérera votre appareil et réduira la consommation d'énergie."</string>
+    <string name="app_running_tip_dialog_text">"Quittez %1$s pour l'empêcher de s'exécuter en arrière-plan. Cela accélérera votre appareil et réduira la consommation d'énergie."</string>
     <string name="app_running_tip_dialog_title">"Quitter l'application"</string>
     <string name="app_running_tip_uninstall">Désinstaller cette application</string>
     <string name="app_statusbar_audio_now">Enregistrement audio</string>
@@ -1335,7 +1335,7 @@ des tremblements de terre"</string>
     <string name="exit_dialog_garbage_clean_title">Nettoyer les fichiers inutiles</string>
     <string name="exit_dialog_homepage_optimise_message">Le score de performance de votre appareil est à moins de 80 points. Optimiser maintenant ?</string>
     <string name="exit_dialog_release_memory_positive_button">Fermer</string>
-    <string name="exit_dialog_release_memory_title">&lt;Data>Accélérez votre appareil en &lt;font color=#0099ff>%d%%&lt;/font>&lt;/Data></string>
+    <string name="exit_dialog_release_memory_title"><Data>Accélérez votre appareil en &lt;font color=#0099ff>%d%%&lt;/font></Data></string>
     <string name="exit_dialog_release_storage_message">"Plus de 80% du stockage sur votre appareil est occupé. Libérez de l'espace en désinstallant les applications que vous n'utilisez jamais."</string>
     <string name="exit_dialog_release_storage_message_new">"Plus de %s de l'espace de stockage de votre appareil est occupé. Libérez de l'espace en désinstallant les applications que vous n'utilisez jamais."</string>
     <string name="exit_dialog_release_storage_positive_button">"Libérer de l'espace"</string>
