@@ -34,8 +34,10 @@
   <string name="cancel_download">Téléchargement annulé</string>
   <string name="character_counter_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
   <string name="clearable_edittext_clear_description">Effacer</string>
+  <string name="close">Fermer</string>
   <string name="copy">Copie</string>
   <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
+  <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>
   <string name="download_failed">Téléchargement impossible</string>
   <string name="early_morning">Matin</string>
   <string name="earth_id">earth</string>
@@ -50,8 +52,8 @@
   <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_short_month_day">d MMM</string>
   <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
-  <string name="fmt_time_12hour">"h 'o''horloge'"</string>
-  <string name="fmt_time_24hour">"H 'o''horloge'"</string>
+  <string name="fmt_time_12hour">h</string>
+  <string name="fmt_time_24hour">h</string>
   <string name="friday">Vendredi</string>
   <string name="friday_short">Ven</string>
   <string name="friday_shortest">Ven</string>
@@ -172,6 +174,7 @@ dd/MM"</string>
   <string name="saturn_super_wallpaper_label">Anneaux lointains</string>
   <string name="saturn_title">Anneaux lointains</string>
   <string name="search_menu_title">Recherche</string>
+  <string name="send">Envoyer</string>
   <string name="snowmountain_id">snowmountain</string>
   <string name="snowmountain_summary">Pentes ensoleillées du mont Siguniang</string>
   <string name="snowmountain_super_wallpaper_label">Sommets enneigés</string>

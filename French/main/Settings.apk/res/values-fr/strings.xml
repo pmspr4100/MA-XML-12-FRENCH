@@ -3155,6 +3155,7 @@ Il semblait n'y avoir ni chevaux, ni animaux d'aucune espèce ; les hommes tran
   <string name="font_size_summary1">"Si votre police système est trop petite, essayez "</string>
   <string name="font_size_summary2">Mode simplifié.</string>
   <string name="forbidden_network">(interdit)</string>
+  <string name="forbidden_set_unlock_password_msg">Actuellement en mode maintenance, le mot de passe ne peut pas être défini ou modifié.</string>
   <string name="forbidden_switch_apn_string">Les paramètres de APN ne correspondent pas avec le type de réseau actuel</string>
   <string name="force_allow_on_external">Forcer écriture applications sur stockage externe</string>
   <string name="force_allow_on_external_summary">"Autoriser toute application susceptible d'être écrite dans un stockage externe, indépendamment des valeurs manifestes"</string>
@@ -4220,6 +4221,7 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
   <string name="lost_internet_access_switch">Se connecter au réseau mobile</string>
   <string name="lost_internet_access_text">"Vous pouvez vous connecter au réseau mobile lorsque vous rencontrez un problème de connexion Wi-Fi. Des frais liés à la consommation de données peuvent s'appliquer."</string>
   <string name="lost_internet_access_title">"Le réseau Wi-Fi n'est pas connecté à internet"</string>
+  <string name="low_dc_light_title">Mode anti-scintillement faible luminosité</string>
   <string name="low_label">Faible</string>
   <string name="low_storage_summary">Stockage faible. %1$s utilisé - %2$s disponible</string>
   <string name="macaddr_label">Adresse MAC :</string>
@@ -4519,6 +4521,7 @@ D'autres personnes utilisent cet appareil.
   <string name="miheadset_triple_press_left">"Tapotez 3 fois sur l'écouteur de gauche"</string>
   <string name="miheadset_triple_press_right">"Tapotez 3 fois sur l'écouteur de droite"</string>
   <string name="miheadset_unpair_device_text">%1$s sera dissocié de tous les périphériques associés à ce Compte Mi.</string>
+  <string name="miheadset_windnoise">Vent</string>
   <string name="mipush_fake_channel_group_name">Mi Push</string>
   <string name="misc_files">Fichiers divers</string>
   <string name="misc_files_selected_count">%1$d fichiers sélectionnés sur %2$d</string>
