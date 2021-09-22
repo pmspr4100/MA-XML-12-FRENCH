@@ -3041,7 +3041,7 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
   <string name="fingerprint_list_title">Empreinte digitale</string>
   <string name="fingerprint_lock_first">Déverrouiller le premier espace</string>
   <string name="fingerprint_lock_screen_setup_skip_dialog_text">"Protégez votre téléphone avec une option de verrouillage d'écran afin que personne ne puisse l'utiliser s'il est perdu ou volé. Vous avez également besoin d'une option de verrouillage d'écran pour configurer les empreintes digitales. Appuyez sur Annuler, puis définissez un code PIN, un modèle ou un mot de passe."</string>
-  <string name="fingerprint_lock_second">Déverrouiller le deuxième espace</string>
+  <string name="fingerprint_lock_second">Déverrouiller le Deuxième espace</string>
   <string name="fingerprint_manage">Gestion des empreintes digitales</string>
   <string name="fingerprint_manage_category_title">Gérer empreintes num.</string>
   <string name="fingerprint_manage_tittle">Empreinte digitale</string>
@@ -4076,14 +4076,14 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
   <string name="lockdown_settings_title">"Afficher l'option de verrouillage"</string>
   <string name="locked_work_profile_notification_title">Profil professionnel verrouillé</string>
   <string name="lockpassword_cancel_label">Annuler</string>
-  <string name="lockpassword_choose_for_second_user">Définir le mot de passe du deuxième espace</string>
+  <string name="lockpassword_choose_for_second_user">Définir le mot de passe du Deuxième espace</string>
   <string name="lockpassword_choose_lock_generic_header">Choisir écran de verrouillage</string>
   <string name="lockpassword_choose_your_password_header">Saisissez votre mot de passe</string>
   <string name="lockpassword_choose_your_password_header_for_face">"Pour utiliser l'authentification faciale, définissez un mot de passe"</string>
   <string name="lockpassword_choose_your_password_header_for_fingerprint">Pour utiliser votre empreinte, définissez un mot de passe</string>
   <string name="lockpassword_choose_your_password_message">Pour des raisons de sécurité, définissez un mot de passe</string>
   <string name="lockpassword_choose_your_password_second_space">"Définir un mot de passe
- pour le deuxième espace"</string>
+ pour le Deuxième espace"</string>
   <string name="lockpassword_choose_your_pattern_header">Dessinez un schéma</string>
   <string name="lockpassword_choose_your_pattern_header_for_face">"Pour utiliser l'authentification faciale, définissez un schéma"</string>
   <string name="lockpassword_choose_your_pattern_header_for_fingerprint">Pour utiliser votre empreinte, définissez un schéma</string>
@@ -4092,12 +4092,12 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
   <string name="lockpassword_choose_your_pin_header_for_face">"Pour utiliser l'authentification faciale, définissez un code PIN"</string>
   <string name="lockpassword_choose_your_pin_header_for_fingerprint">Pour utiliser votre empreinte, définissez un code</string>
   <string name="lockpassword_choose_your_pin_header_second_space">"Définir un code
- pour le deuxième espace"</string>
+ pour le Deuxième espace"</string>
   <string name="lockpassword_choose_your_pin_message">Pour des raisons de sécurité, définissez un code</string>
   <string name="lockpassword_choose_your_pin_title">Entrez %1$d-%2$d chiffres</string>
   <string name="lockpassword_choose_your_screen_lock_header">"Définir le verrouillage de l'écran"</string>
   <string name="lockpassword_clear_label">Effacer</string>
-  <string name="lockpassword_confirm_for_second_user">Confirmer le mot de passe du deuxième espace</string>
+  <string name="lockpassword_confirm_for_second_user">Confirmer le mot de passe du Deuxième espace</string>
   <string name="lockpassword_confirm_label">Confirmer</string>
   <string name="lockpassword_confirm_passwords_dont_match">Mots de passe différents</string>
   <string name="lockpassword_confirm_pins_dont_match">Les codes PIN ne correspondent pas.</string>
@@ -5811,7 +5811,7 @@ Read and agree to %s before using this service."</string>
   <string name="privacy_close_dlg_title">Attention</string>
   <string name="privacy_dashboard_summary">Autorisations, activité du compte, données personnelles</string>
   <string name="privacy_dashboard_title">Paramètres de confidentialité</string>
-  <string name="privacy_delete_space_dlg_message">Pour changer le mot de passe du deuxième espace, vous devriez supprimer votre deuxième espace actuel et en créer un nouveau.</string>
+  <string name="privacy_delete_space_dlg_message">Pour changer le mot de passe du Deuxième espace, vous devriez supprimer votre Deuxième espace actuel et en créer un nouveau.</string>
   <string name="privacy_dlg_button_cancel">Annuler</string>
   <string name="privacy_factory_reset_dlg_button_text">Réinitialiser</string>
   <string name="privacy_factory_reset_dlg_message">"Si vous oubliez votre mot de passe, vous devrez effectuer une réinitialisation d'usine afin d'en définir un nouveau."</string>
@@ -5832,7 +5832,7 @@ Read and agree to %s before using this service."</string>
   <string name="privacy_password_add_account_setting">Compte et confidentialité</string>
   <string name="privacy_password_bind_account">Ajouter un compte Mi</string>
   <string name="privacy_password_bind_account_immediate">Ajouter</string>
-  <string name="privacy_password_confirm_SecondSpace_Password">Confirmer le mot de passe du deuxième espace</string>
+  <string name="privacy_password_confirm_SecondSpace_Password">Confirmer le mot de passe du Deuxième espace</string>
   <string name="privacy_password_confirm_use_finger">"Déverrouiller avec l'empreinte digitale"</string>
   <string name="privacy_password_enter_privacy">Saisissez le mot de passe de protection de confidentialité</string>
   <string name="privacy_password_exit_account_info">Le compte sera retiré automatiquement lorsque vous vous déconnectez</string>
@@ -6107,7 +6107,7 @@ Redémarrez votre appareil et réessayez."</string>
   <string name="reset_network_title">Réinitialiser le Wi-Fi, les réseaux mobiles et le Bluetooth</string>
   <string name="reset_network_wifi">Wi-Fi</string>
   <string name="reset_remove_data_hint">Tous les éléments répertoriés ci-dessus seront effacés définitivement. Sauvegardez tous les éléments importants sur votre ordinateur ou Xiaomi Cloud avant de continuer.</string>
-  <string name="reset_second_space_passwd">Réinitialiser le mot de passe du deuxième espace</string>
+  <string name="reset_second_space_passwd">Réinitialiser le mot de passe du Deuxième espace</string>
   <string name="reset_second_space_passwd_cancel">Annuler</string>
   <string name="reset_second_space_passwd_confirm">Continuer</string>
   <string name="reset_second_space_passwd_detail">Saisir le mot de passe de votre compte Mi utilisé dans le premier espace</string>
@@ -6653,7 +6653,7 @@ Pour utiliser l'épinglage d'application : \u0009
   <string name="search_xspace">Application double;Applications doubles;Double application;Doubles applications;Application clônée;Applications clônées;Deux applications;Deux applications;Deux comptes;Deux comptes</string>
   <string name="second_space">Deuxième espace</string>
   <string name="secondspace_category">Deuxième espace</string>
-  <string name="secondspace_delete_space_title">Supprimer le deuxième espace</string>
+  <string name="secondspace_delete_space_title">Supprimer le Deuxième espace</string>
   <string name="secspace_fod_finger_tips">Impossible de vérifier. Réessayez.</string>
   <string name="secspace_fod_finger_title">Vérifiez votre empreinte digitale</string>
   <string name="secspace_fod_use_password">Saisir le mot de passe</string>

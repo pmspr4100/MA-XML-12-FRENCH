@@ -68,6 +68,7 @@
   <string name="button_return">Retour</string>
   <string name="button_scanning">Recherche…</string>
   <string name="button_send">Envoyer</string>
+  <string name="calendar_permission_desc">"Pour transférer des événements vers d'autres appareils"</string>
   <string name="calllog">Historique des appels</string>
   <string name="cancel">Annuler</string>
   <string name="cancel_moving_dialog_message">"Arrêter d'importer maintenant ?"</string>
@@ -107,10 +108,13 @@ Visitez https://appleid.apple.com/#!&amp;page=signin pour désactiver"</string>
   <string name="connection_tips_other_title">"Si votre ancien appareil est un téléphone Android d'une autre marque :"</string>
   <string name="connection_tips_owner_message">Mi Mover est préinstallé sur tous les appareils utilisant MIUI 11 ou plus récent. Si vous avez une ancienne version de MIUI, vous pouvez télécharger la dernière version de Mi Mover dans GetApps ou utiliser ce lien : %1$s.</string>
   <string name="connection_tips_owner_title">Si votre ancien appareil est un téléphone Mi :</string>
+  <string name="contact_records_permission_desc">"Pour transférer l'historique des appels vers d'autres appareils"</string>
   <string name="contacts">Contacts</string>
+  <string name="contacts_permission_desc">"Pour transférer des contacts vers d'autres appareils"</string>
   <string name="copy">Copier</string>
   <string name="current_user_not_supported_summary">Les paramètres système actuels restreignent le transfert de données en utilisant Mi Mover.</string>
   <string name="current_user_not_supported_title">Transfert de données impossible</string>
+  <string name="data_read_white_permission_desc">"Pour transférer des éléments vers d'autres appareils"</string>
   <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
   <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>
   <string name="dialog_airplane_mode_button">Paramètres</string>
@@ -267,6 +271,7 @@ Open WeChat and go to Me > Settings > General > Back up &amp; migrate chats."</s
   <string name="launcher">"Disposition écran d'accueil"</string>
   <string name="less_than_1_minute">"Moins d'une minute"</string>
   <string name="loading_data">Un instant…</string>
+  <string name="location_permission_desc">Pour trouver des appareils à proximité</string>
   <string name="location_permission_request">Pour vous connecter aux appareils autour de vous</string>
   <string name="login">"S'identifier"</string>
   <string name="login_failed">Identification impossible. Réessayez.</string>
@@ -360,6 +365,7 @@ Open WeChat and go to Me > Settings > General > Back up &amp; migrate chats."</s
   <string name="month_september_shortest">Sept</string>
   <string name="more">Plus</string>
   <string name="morning">Matin</string>
+  <string name="msg_permission_desc">"Pour transférer des messages vers d'autres appareils"</string>
   <string name="name_password_not_consistent">"L'identifiant Apple et le mot de passe entrés ne correspondent pas"</string>
   <string name="need_location_permission_confirm">Paramètres</string>
   <string name="need_location_permission_summary">Autoriser Mi Mover à accéder à votre localisation afin de pouvoir trouver des appareils autour.</string>
@@ -468,36 +474,46 @@ Open WeChat and go to Me > Settings > General > Back up &amp; migrate chats."</s
   <string name="permission_call_log_title">Accessing call history</string>
   <string name="permission_contacts_summary">For transferring contacts to your new device</string>
   <string name="permission_contacts_title">Accessing contacts</string>
-  <string name="permission_locale_summary">For connecting nearby devices</string>
-  <string name="permission_locale_title">Accessing location</string>
-  <string name="permission_message_summary">For transferring messages to your new device</string>
-  <string name="permission_message_title">Accessing SMS content</string>
-  <string name="permission_storage_summary">For transferring files and photos to your new device</string>
-  <string name="permission_storage_title">Accessing and saving files and photos stored on your device</string>
-  <string name="permission_wifi_summary">For transferring items to your new device</string>
-  <string name="permission_wifi_title">Turning Wi-Fi on and off</string>
+  <string name="permission_grant_request">"Pour pouvoir transférer cet élément, Mi Mover a besoin de l'autorisation \"%1$s\"."</string>
+  <string name="permission_locale_summary">Pour connecter des appareils à proximité</string>
+  <string name="permission_locale_title">"Accéder à l'emplacement"</string>
+  <string name="permission_message_summary">Pour transférer des messages vers votre nouvel appareil</string>
+  <string name="permission_message_title">Accéder aux contenus SMS</string>
+  <string name="permission_request_title">Permission \"%1$s\" requise</string>
+  <string name="permission_setting_button">Paramètres</string>
+  <string name="permission_storage_summary">Pour transférer des fichiers et des photos vers votre nouvel appareil</string>
+  <string name="permission_storage_title">Accéder et enregistrer des fichiers et des photos stockés sur votre appareil</string>
+  <string name="permission_wifi_summary">Pour transférer des éléments vers votre nouvel appareil</string>
+  <string name="permission_wifi_title">Activer et désactiver le Wi-Fi</string>
   <string name="pm">PM</string>
   <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
   <string name="privacy_policy">Politique de confidentialité</string>
-  <string name="prompt_before_transmission_message1_summary">If you choose to transfer them from your old device, app data (including chat history) will be overwritten.</string>
-  <string name="prompt_before_transmission_message1_title">These apps have already generated app data on your new device</string>
-  <string name="prompt_before_transmission_message2_summary">"Dual apps can't be transferred. However, you can transfer original apps."</string>
-  <string name="prompt_before_transmission_message2_title">"You're using dual apps for the following items"</string>
-  <string name="prompt_before_transmission_message3_summary">"Items from Second space can't be transferred due to system restrictions."</string>
-  <string name="prompt_before_transmission_message3_title">"You're using Second space"</string>
-  <string name="prompt_before_transmission_message4_summary">"Don't turn off WLAN or switch between networks until the transfer is complete."</string>
-  <string name="prompt_before_transmission_message4_title">Stay connected throughout the transfer</string>
-  <string name="prompt_before_transmission_message5_summary">"Transferring big amounts of data wirelessly might cause slight overheating which isn't abnormal. Your device will cool down soon after the transfer is complete."</string>
-  <string name="prompt_before_transmission_message5_title">Your device might heat up during transfers.</string>
-  <string name="qq_app_receive_fail">"Couldn't receive QQ"</string>
-  <string name="qq_app_send_fail">"Couldn't send QQ"</string>
+  <string name="prompt_before_transmission_message1_summary">"Si vous choisissez de les transférer depuis votre ancien appareil, les données de l'application (y compris l'historique des discussions) seront écrasées."</string>
+  <string name="prompt_before_transmission_message1_title">"Ces applications ont déjà généré des données d'application sur votre nouvel appareil"</string>
+  <string name="prompt_before_transmission_message2_summary">Les applications doubles ne peuvent pas être transférées. Cependant, vous pouvez transférer des applications originales.</string>
+  <string name="prompt_before_transmission_message2_title">Vous utilisez deux applications pour les éléments suivants</string>
+  <string name="prompt_before_transmission_message3_summary">Les éléments du Deuxième espace ne peuvent pas être transférés en raison de restrictions du système.</string>
+  <string name="prompt_before_transmission_message3_title">Vous utilisez le Deuxième espace</string>
+  <string name="prompt_before_transmission_message4_summary">"Ne désactivez pas le WLAN ou ne basculez pas entre les réseaux tant que le transfert n'est pas terminé."</string>
+  <string name="prompt_before_transmission_message4_title">Restez connecté tout au long du transfert</string>
+  <string name="prompt_before_transmission_message5_summary">"Le transfert de grandes quantités de données sans fil peut provoquer une légère surchauffe qui n'est pas anormale. Votre appareil refroidira peu de temps après la fin du transfert."</string>
+  <string name="prompt_before_transmission_message5_title">Votre appareil peut chauffer pendant les transferts.</string>
+  <string name="qq_app_receive_fail">Impossible de recevoir QQ</string>
+  <string name="qq_app_send_fail">"Impossible d'envoyer QQ"</string>
   <string name="qq_data_external">Données carte SD QQ</string>
   <string name="quit_now">Quitter</string>
   <string name="reconnect">Reconnecter</string>
   <string name="recreate_soft_ap_tips">Appuyez sur le bouton ci-dessous pour réessayer.</string>
-  <string name="restore_data_to_device_content">"Your items were synced with Xiaomi Cloud.
-Sign in to your Mi Account to restore them."</string>
-  <string name="restore_data_to_device_title">Restore items to this device</string>
+  <string name="request_all_permission_content">"Mi Mover doit accéder aux éléments suivants pour pouvoir transférer des éléments vers un nouvel appareil :
+- Emplacement
+- Contacts
+- Historique d'appels
+- Messages texte
+- Stockage"</string>
+  <string name="request_all_permission_title">Permissions required</string>
+  <string name="restore_data_to_device_content">"Vos articles ont été synchronisés avec Xiaomi Cloud.
+Connectez-vous à votre compte Mi pour les restaurer."</string>
+  <string name="restore_data_to_device_title">Restaurer des éléments sur cet appareil</string>
   <string name="saturday">Samedi</string>
   <string name="saturday_short">Sam</string>
   <string name="saturday_shortest">Sam</string>
@@ -509,7 +525,7 @@ Les données qui n'ont pas été importées doivent l'être à nouveau."</string
 Libérez au moins %s."</string>
   <string name="scan_soft_ap_label">Connectez le nouvel appareil</string>
   <string name="scanner_bottom_tip">Sélectionnez uniquement des données importantes pour rendre le transfert plus rapide.</string>
-  <string name="scanner_not_support_data_transfer_tip">"Can't transfer app data (including WeChat and QQ chat history) from non-Xiaomi devices."</string>
+  <string name="scanner_not_support_data_transfer_tip">"Impossible de transférer les données de l'application (y compris l'historique des discussions WeChat et QQ) à partir d'appareils autres que Xiaomi."</string>
   <string name="scanner_permission_alert_cancel">Compris</string>
   <string name="scanner_permission_alert_ok">Paramètres</string>
   <string name="scanner_quit_alert_btn_negative">Quitter</string>
