@@ -443,6 +443,10 @@
   <string name="navigation_guide_recent_summary">"Balayez vers le haut depuis le bas de l'écran et mettez en pause"</string>
   <string name="navigation_guide_recent_title">Ouvrir les récents</string>
   <string name="navigation_guide_settings">Démos de gestes</string>
+  <string name="navigation_set_miui_home_as_default_dialog_cancel">Annuler</string>
+  <string name="navigation_set_miui_home_as_default_dialog_message">"Impossible d'utiliser des gestes en plein écran avec des lanceurs tiers. Basculer vers le lanceur du système et activer les gestes en plein écran ?"</string>
+  <string name="navigation_set_miui_home_as_default_dialog_ok">OK</string>
+  <string name="navigation_set_miui_home_as_default_dialog_title">Attention</string>
   <string name="navigation_type_full_screen">Gestes</string>
   <string name="navigation_type_title">Navigation système</string>
   <string name="navigation_type_virtual_key">Boutons</string>
@@ -533,10 +537,10 @@
   <string name="recommend_app">"Suggestions d'applications"</string>
   <string name="recommend_apps_default_title">Vide</string>
   <string name="recommend_apps_no_data">Aucune donnée</string>
-  <string name="recommend_apps_no_data_toast">"Aucune recommandation pour l'instant."</string>
-  <string name="recommend_apps_notice">Applications recommandées</string>
-  <string name="recommend_apps_notice_nodata">Applications recommandées (Aucune donnée)</string>
-  <string name="recommend_apps_switch_title">Applications recommandées</string>
+  <string name="recommend_apps_no_data_toast">"Aucun élément dans \"Recommandations d'aujourd'hui\" pour le moment"</string>
+  <string name="recommend_apps_notice">"Recommandations d'aujourd'hui"</string>
+  <string name="recommend_apps_notice_nodata">"Recommandations d'aujourd'hui (aucun élément)"</string>
+  <string name="recommend_apps_switch_title">"Recommandations d'aujourd'hui"</string>
   <string name="recommend_apps_tips">Cette fonctionnalité doit se connecter à internet pour fonctionner normalement. Pour la désactiver, appuyez sur le nom de ce dossier.</string>
   <string name="recommend_loading">Chargement en cours</string>
   <string name="recommend_refresh">Actualiser</string>

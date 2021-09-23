@@ -1250,6 +1250,7 @@ Vous ne vous êtes jamais connecté à %2$s auparavant."</string>
   <string name="bluetooth_pairing_rejected_error_message">Association rejetée par %1$s.</string>
   <string name="bluetooth_pairing_request">Associer avec %1$s ?</string>
   <string name="bluetooth_pairing_shares_phonebook">"Autoriser l'accès à vos contacts et à l'historique des appels"</string>
+  <string name="bluetooth_pairing_shares_phonebook_not_support_voice">"Autoriser l'accès aux contacts"</string>
   <string name="bluetooth_pairing_toast_add_to_blackfile">Bloqué avec succès. Vous pouvez gérer les éléments bloqués dans \"Paramètres supplémentaires\".</string>
   <string name="bluetooth_pairing_will_share_phonebook">"L'association accorde l'accès à tous les contacts et à l'historique des appels une fois connecté."</string>
   <string name="bluetooth_pan_nap_profile_summary_connected">"Partage de connexion internet locale avec le périphérique"</string>
@@ -2404,7 +2405,7 @@ Ce paramètre affecte tous les utilisateurs de cet appareil."</string>
   <string name="device_status_activity_title">Informations</string>
   <string name="device_status_summary">Numéro de téléphone, signal, etc.</string>
   <string name="device_theme">"Thème de l'appareil"</string>
-  <string name="device_total_memory">"Stockage interne "</string>
+  <string name="device_total_memory">"Espace de stockage total "</string>
   <string name="device_usage_list_summary">"Utilisation de l'appareil depuis la charge complète"</string>
   <string name="devices_title">Appareils</string>
   <string name="dial_application_title">Composeur</string>
@@ -2423,6 +2424,8 @@ Pour résoudre le problème, vous pouvez arrêter %1$s et l'empêcher de s'exéc
   <string name="dialog_check_title">Connexion à internet impossible</string>
   <string name="dialog_chose_item">Sélectionner un élément à afficher</string>
   <string name="dialog_content_login">Se connecter avec votre compte Mi pour mettre à jour ?</string>
+  <string name="dialog_esim_button_negative">Annuler</string>
+  <string name="dialog_esim_button_positive">OK</string>
   <string name="dialog_location_message">"Votre téléphone ne peut pas gérer la batterie normalement, car l'application %1$s continue de demander votre position lorsque vous ne l'utilisez pas.
 
 Pour résoudre le problème, vous pouvez désactiver les services de localisation pour cette application."</string>
@@ -2435,6 +2438,12 @@ Pour résoudre le problème, vous pouvez désactiver les services de localisatio
   <string name="dialog_restrict_all_wlan_title">Restreindre la connexion Wi-Fi</string>
   <string name="dialog_restrict_negative">Restreindre</string>
   <string name="dialog_restrict_positive">Annuler</string>
+  <string name="dialog_softbank_esim_wipe_cancel">Annuler</string>
+  <string name="dialog_softbank_esim_wipe_info">Toutes les données eSIM seront effacées si vous continuez. Continuer quand même ?</string>
+  <string name="dialog_softbank_esim_wipe_ok">Continuer</string>
+  <string name="dialog_softbank_esim_wipe_title">Effacer les données eSIM</string>
+  <string name="dialog_softbank_esime_context">"Cet appareil doit se connecter à Internet pour pouvoir activer eSIM. Ignorer également l'activation eSIM ?"</string>
+  <string name="dialog_softbank_esime_title">"Ignorer l'activation eSIM"</string>
   <string name="dialog_speaker_auto_clean_button">Compris</string>
   <string name="dialog_speaker_auto_clean_content">"L'effacement prend 30 secondes. Ne quittez pas cette page. Maximisez le volume sonore pour un meilleur effet."</string>
   <string name="dialog_speaker_auto_clean_title">Attention</string>

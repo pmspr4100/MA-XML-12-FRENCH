@@ -54,7 +54,7 @@
   <string name="action_item_download">Télécharger</string>
   <string name="action_item_favorite">Ajouter aux favoris</string>
   <string name="action_item_hide">Cacher</string>
-  <string name="action_item_hifi">Écouteurs et effets audio</string>
+  <string name="action_item_hifi">Écouteurs</string>
   <string name="action_item_play_all">Lecture aléatoire</string>
   <string name="action_item_play_next">Lire plus tard</string>
   <string name="action_item_play_video">Play music video</string>
@@ -67,6 +67,7 @@
   <string name="ad_data_exception">Erreur de données publicitaires</string>
   <string name="ad_recommend">Afficher les annonces</string>
   <string name="ad_setting">Paramètres supplémentaires</string>
+  <string name="add">Ajouter</string>
   <string name="add_music">Ajouter des chansons</string>
   <string name="add_to_last_of_playlist">Ajouter à la fin de la playlist</string>
   <string name="add_to_playlist">"Ajouter à la file d'attente"</string>
@@ -256,6 +257,7 @@
   <string name="dialog_song_view_type_artist">Par artiste</string>
   <string name="dialog_song_view_type_folder">Par dossier</string>
   <string name="dialog_song_view_type_song">Par chanson</string>
+  <string name="dialog_stop_audio_in">Minuterie de lecture</string>
   <string name="dialog_subtitle_make_playlist_public">"Les playlists publiques sont disponibles pour d'autres personnes. Les playlists privées ne sont visibles que par vous sur tous les appareils synchronisés."</string>
   <string name="dialog_title_clearlist_tracks">"Supprimer de la file d'attente"</string>
   <string name="dialog_title_delete_tracks">Supprimer</string>
@@ -735,7 +737,8 @@
   <string name="mulit_choice_management">Gérer plusieurs éléments</string>
   <string name="music_browser_label">Musique</string>
   <string name="music_filter">Filtrer les fichiers audio</string>
-  <string name="music_recommendation">Song recommendations</string>
+  <string name="music_quality">Qualité audio</string>
+  <string name="music_recommendation">Recommandations de chansons</string>
   <string name="music_service">Service Musique</string>
   <string name="music_settings">Musique</string>
   <string name="mv_metered_play_summary">"Ne pas afficher l'avertissement d'utilisation des données"</string>
@@ -766,7 +769,8 @@
   <string name="no_local_songs">Vide</string>
   <string name="no_local_songs_selected">"Impossible d'envoyer ces chansons parce qu'elles n'ont pas été téléchargées"</string>
   <string name="no_local_source_find">Impossible de trouver la chanson</string>
-  <string name="no_longer_prompt">"Don't show again"</string>
+  <string name="no_longer_prompt">Ne plus afficher</string>
+  <string name="no_lyrics">Aucunes paroles</string>
   <string name="no_results_return">Aucun résultat</string>
   <string name="no_scanned_songs">Aucun</string>
   <string name="no_song_downloaded">Impossible de trouver des chansons à télécharger</string>
@@ -1169,6 +1173,7 @@ Soyez heureux"</string>
   <string name="toast_download_in_process">Téléchargement en cours</string>
   <string name="toast_favorite_has_been_added">Ajouté à la playlist avec succès</string>
   <string name="toast_follow_success">Suivi avec succès</string>
+  <string name="toast_hungama_vip_song">Cette chanson n'est disponible que pour les membres PRO. Obtenez un abonnement pour télécharger cette chanson.</string>
   <string name="toast_is_pro">Vous êtes déjà un membre PRO.</string>
   <string name="toast_my_playlist_illegal_name">"Le titre de cette playlist n'est pas valide. Renommez cette playlist."</string>
   <string name="toast_my_playlist_set_to_private">"Cette playlist est maintenant privée. Les autres ne peuvent pas la voir."</string>

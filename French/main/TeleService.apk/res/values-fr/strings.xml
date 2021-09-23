@@ -788,6 +788,7 @@ Bluetooth"</string>
     <string name="enhanced_4g_lte_mode_title">Mode 4G LTE amélioré</string>
     <string name="enhanced_4g_lte_mode_title_variant">"Mode d'appel avancé"</string>
     <string name="enter_callbarring_password">"Mot de passe d'interdiction (%d chiffres)"</string>
+    <string name="enter_esim_manager">Gestion eSIM</string>
     <string formatted="false" name="enter_input">Le message USSD doit être compris entre %d et %d caractères. Réessayez.</string>
     <string name="enter_pin2_text">PIN 2</string>
     <string name="enter_pin_text">Code PIN de la carte SIM :</string>
@@ -797,6 +798,10 @@ Bluetooth"</string>
     <string name="eps_only_set_button">set eps only</string>
     <string name="eps_only_set_title">this button is for setting eps only</string>
     <string name="error_updating_title">"Erreur des paramètres d'appel"</string>
+    <string name="esim_goto_active">Activer</string>
+    <string name="esim_inactive_message">eSIM inactive</string>
+    <string name="esim_inactive_notification_message">Aucune carte SIM détectée. Appuyez pour activer eSIM.</string>
+    <string name="esim_inactive_settings_title">Double SIM &amp; réseaux mobiles</string>
     <string name="exception_error">Erreur de réseau ou de carte SIM.</string>
     <string name="expand_button_title">Options avancées</string>
     <string name="external_source_trusted">Autorisé</string>

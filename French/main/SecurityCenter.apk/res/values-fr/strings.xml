@@ -10,6 +10,7 @@
     <string name="HIPS_Perm_External_Storage_Desc">"Ajouter et supprimer des fichiers dans la mémoire interne de l'appareil"</string>
     <string name="HIPS_Perm_External_Storage_Group">Gérer les permissions de stockage</string>
     <string name="HIPS_Perm_External_Storage_Group_Desc">"Sélectionnez les éléments d'applications sont autorisés à accéder"</string>
+    <string name="HIPS_Perm_GetInstall_Desc">Obtenir des informations sur les applications installées sur cet appareil</string>
     <string name="HIPS_Perm_PhoneID_Desc">Accéder au numéro de téléphone, IMEI et IMSI</string>
     <string name="HIPS_Perm_PhoneID_Desc_Q">"Accéder au numéro de téléphone et à l'état de l'appareil"</string>
     <string name="HIPS_Perm_Read_Call_Log_Desc">"Lire l'historique des appels"</string>
@@ -2241,7 +2242,6 @@ Votre appareil est %d%% plus rapide maintenant."</string>
     <string name="mi_service_traffic_detail">Détails du Framework</string>
     <string name="mian_page_primary_txt">"Itinérance à l'étranger"</string>
     <string name="midnight">Nuit</string>
-    <string name="midrop_post_notification_contentText">"Transférer des fichiers à une vitesse jusqu'à 50 Mbps avec Mi Drop."</string>
     <string name="midrop_post_notification_contentTitle">Besoin de partager des fichiers ?</string>
     <string name="miui_optimization_close_final_tip">"Désactiver l'optimisation MIUI ?"</string>
     <string name="miui_optimization_close_title">This feature is intended for developers and might not be convenient for general users. Turning off MIUI optimization might bring about the following changes:</string>
@@ -4921,6 +4921,9 @@ Essayez de mettre à l'échelle la définition !"</string>
     <string name="wlan_optimization_summary">Réduire les délais du réseau Wi-Fi</string>
     <string name="wlan_optimization_title">Optimisation du Wi-Fi</string>
     <string name="wrong_password">Mot de passe incorrect</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Plus tard</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Mettre à jour</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Une mis eà jour est disponible</string>
     <string name="xiaomi_privacy_protection_measures">Mesures de protection de la vie privée</string>
     <string name="xunyou_net_booster">Augmentation de la vitesse du réseau</string>
     <string name="xunyou_net_booster_detail">"Utiliser les services d'augmentation de vitesse Xunyou pour les jeux"</string>
