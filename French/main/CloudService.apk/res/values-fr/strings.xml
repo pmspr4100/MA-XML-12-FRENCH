@@ -580,6 +580,15 @@ Cette fonctionnalité crypte et envoie l'ID de votre appareil aux serveurs de Mi
   <string name="no_sim">Impossible de trouver la carte SIM</string>
   <string name="noon">Midi</string>
   <string name="not_set">Non défini</string>
+  <string name="noti_quota_button_text">Mettre à jour</string>
+  <string name="noti_quota_full_sum">Mettez à niveau votre forfait de stockage pour continuer à synchroniser les éléments.</string>
+  <string name="noti_quota_full_sum_without_button">"Obtenez plus d'espace de stockage pour continuer à synchroniser les éléments."</string>
+  <string name="noti_quota_full_title">Le stockage cloud est plein</string>
+  <string name="noti_quota_full_title_without_button">Le stockage cloud est plein</string>
+  <string name="noti_quota_low_sum">Mettez à niveau votre forfait de stockage pour continuer à synchroniser les éléments.</string>
+  <string name="noti_quota_low_sum_without_button">"Obtenez plus d'espace de stockage pour continuer à synchroniser les éléments."</string>
+  <string name="noti_quota_low_title">"Pas assez d'espace de stockage cloud"</string>
+  <string name="noti_quota_low_title_without_button">"Pas assez d'espace de stockage cloud"</string>
   <string name="notification_reinstall_key_text">Vérifiez votre identité et réessayez</string>
   <string name="notification_sync_fail_title">Synchronisation impossible</string>
   <string name="notification_update_key_text">Votre mot de passe a été réinitialisé</string>
@@ -653,7 +662,7 @@ Les informations de localisation peuvent ne pas être transmises si la connexion
   <string name="send">Envoyer</string>
   <string name="share_cancel">Partage annulé</string>
   <string name="share_failed">Impossible de partager</string>
-  <string name="share_location_app_name">Trouver</string>
+  <string name="share_location_app_name">"Trouver l'appareil"</string>
   <string name="share_location_dialog_confirm">Compris</string>
   <string name="share_location_dialog_content">"Vous pouvez désormais utiliser le raccourci de l'écran d'accueil pour accéder plus rapidement aux paramètres."</string>
   <string name="share_location_dialog_title">Attention</string>
