@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="ErrorTooManyRequests">Trop de demandes sont en cours de traitement. Réessayez plus tard.</string>
+  <string name="a2dp_sink_mbs_label">Bluetooth Audio</string>
   <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
   <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
   <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
