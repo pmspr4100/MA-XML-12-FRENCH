@@ -3478,6 +3478,7 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
   <string name="headset_remove_message_indicate">Tous les périphériques associés avec le compte Xiaomi seront supprimés</string>
   <string name="headset_sbc">SBC</string>
   <string name="headset_settings_title">Effets sonores</string>
+  <string name="headset_spatial_audio">Audio spatial</string>
   <string name="headset_unsaved_device">"Supprimer l'appareil"</string>
   <string name="headset_unsaved_devices">"Utilisé sur d'autres appareils"</string>
   <string name="hearing_aids_category">"Outils d'aide à l'audition"</string>
@@ -3710,6 +3711,7 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
   <string name="keyboard_and_input_methods_category">Clavier</string>
   <string name="keyboard_assistance_category">Assistance relative au clavier</string>
   <string name="keyboard_disconnected">Non connecté</string>
+  <string name="keyboard_funtion_key">Touche Fonction</string>
   <string name="keyboard_layout_default_label">Par défaut</string>
   <string name="keyboard_layout_dialog_setup_button">Configurer dispositions clavier</string>
   <string name="keyboard_layout_dialog_switch_hint">Appuyez sur Ctrl+Espace pour changer disposition</string>
@@ -7055,6 +7057,7 @@ Le code PIN est peut-être incorrect."</string>
   <string name="sim_slot_empty">Carte SIM vide</string>
   <string name="sim_status_title">Statut SIM</string>
   <string name="sim_status_title_sim_slot">État de la carte SIM (SIM %1$d)</string>
+  <string name="sim_status_title_sim_softbank">Statut carte SIM %1$d</string>
   <string name="simulate_color_space">Simuler un espace de couleur</string>
   <string name="single_key_use">Bouton unique</string>
   <string name="single_key_use_summary">"Utilisez le bouton d'accueil pour les fonctions exécutées par les 2 autres boutons"</string>
@@ -7269,6 +7272,7 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
   <string name="status_latest_area_info">"Informations sur l'opérateur"</string>
   <string name="status_number">Numéro de téléphone</string>
   <string name="status_number_sim_slot">Numéro de téléphone (SIM %1$d)</string>
+  <string name="status_number_sim_softbank">Numéro de téléphone %1$d</string>
   <string name="status_number_sim_status">Numéro de téléphone sur SIM</string>
   <string name="status_operator">Réseau</string>
   <string name="status_prl_version">"Version de la liste d'itinérance préférée"</string>
@@ -7533,7 +7537,12 @@ Essayez d'utiliser un périphérique ^3 plus rapide, ou utilisez à la place ^4 
   <string name="structure_manage_facerecoginition_text">Gérer la reconnaissance faciale 3D</string>
   <string name="style_and_wallpaper_settings_title">"Styles et fond d'écran"</string>
   <string name="style_suggestion_summary">"Essayez différents styles, fonds d'écran, horloges, etc."</string>
-  <string name="style_suggestion_title">Personnalisez votre Pixel</string>
+  <string name="style_suggestion_title">Personnalisez votre téléphone</string>
+  <string name="stylus_connect_fail">Impossible de se connecter. Attachez à nouveau.</string>
+  <string name="stylus_connect_fail_no_battery">Chargez votre stylet maintenant</string>
+  <string name="stylus_connect_fail_no_reason">Impossible de se connecter</string>
+  <string name="stylus_connect_fail_not_open_gps">Impossible de se connecter. Activez les services de localisation et réessayez.</string>
+  <string name="stylus_connecting">Connexion…</string>
   <string name="stylus_ota_check_failed_battery">Impossible de vérifier. La batterie de votre stylet est faible.</string>
   <string name="stylus_ota_check_failed_info">Impossible de vérifier la version du micrologiciel. Attachez à nouveau votre stylet.</string>
   <string name="stylus_ota_check_update">Vérifier les mises à jour</string>
