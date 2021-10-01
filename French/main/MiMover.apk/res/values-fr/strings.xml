@@ -130,21 +130,21 @@ Visitez https://appleid.apple.com/#!&amp;page=signin pour désactiver"</string>
   <string name="dialog_rating_title">Évaluer Mi Mover</string>
   <string name="dialog_request_network_btn_negative">Quitter</string>
   <string name="dialog_request_network_btn_positive">Accepter</string>
-  <string name="dialog_request_permission_message">Welcome to Mi Mover! You can use this app to transfer data from iCloud or your old device to a new one. This app needs to connect to the internet and requires the following permissions to be able to work normally:</string>
-  <string name="dialog_request_permission_message_buttom_content">Allow this app to connect to the internet and grant the mandatory permissions listed above.</string>
-  <string name="dialog_request_permission_message_extra_summary">These permissions are required to make the basic features and services of this app available.</string>
-  <string name="dialog_request_permission_message_extra_title">Mandatory permissions</string>
-  <string name="dialog_request_permission_message_link" formatted="false"><Data>"At the same time, to fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &lt;a href='%1s'>User Agreement&lt;/a> and &lt;a href='%2s'>Privacy Policy&lt;/a>."</Data></string>
-  <string name="dialog_request_permission_message_provision_link">At the same time, to fully understand your rights as a user as well as the ways in which we use your data, read and agree to our %1$s and %2$s.</string>
+  <string name="dialog_request_permission_message">"Bienvenue sur Mi Mover ! Vous pouvez utiliser cette application pour transférer des données de votre ancien appareil vers un nouveau. Les données seront transférées entre les deux appareils et ne seront pas téléchargées sur nos serveurs. Cette application doit se connecter à Internet et nécessite les autorisations suivantes pour pouvoir fonctionner normalement :"</string>
+  <string name="dialog_request_permission_message_buttom_content">Autorisez cette application à se connecter à Internet et accordez les autorisations obligatoires répertoriées ci-dessus.</string>
+  <string name="dialog_request_permission_message_extra_summary">Ces autorisations sont nécessaires pour rendre disponibles les fonctionnalités et services de base de cette application.</string>
+  <string name="dialog_request_permission_message_extra_title">Autorisations obligatoires</string>
+  <string name="dialog_request_permission_message_link" formatted="false"><Data>"En même temps, pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez notre &lt;a href='%1s'>Contrat d'utilisation&lt;/a> et notre &lt;a href='%2s'>Politique de confidentialité&lt;/a>."</Data></string>
+  <string name="dialog_request_permission_message_provision_link">"Dans le même temps, pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez notre %1$s et notre %2$s."</string>
   <string name="dialog_request_permission_title">Attention</string>
-  <string name="dialog_tip_upgrade_summary">Mi Mover est une version trop ancienne. Mettez à jour Mi Mover dans sa dernière version pour pouvoir transférer des fichiers.</string>
+  <string name="dialog_tip_upgrade_summary">Cette version de Mi Mover est trop ancienne. Mettez à jour Mi Mover dans sa dernière version pour pouvoir transférer des fichiers.</string>
   <string name="dialog_tip_upgrade_title">Mise à jour Mi Mover</string>
   <string name="dialog_version_summary_tip">"Nouveautés :"</string>
   <string name="dialog_version_title_tip">Une mise à jour est disponible</string>
-  <string name="dialog_wechat_data_transfer_fail_button">Got it</string>
-  <string name="dialog_wechat_data_transfer_fail_message">"Couldn't transfer WeChat app data and chat history due to app restrictions. Try the in-app backup feature.
-Open WeChat and go to Me > Settings > General > Back up &amp; migrate chats."</string>
-  <string name="dialog_wechat_data_transfer_fail_title">"Couldn't transfer WeChat app data"</string>
+  <string name="dialog_wechat_data_transfer_fail_button">Compris</string>
+  <string name="dialog_wechat_data_transfer_fail_message">"Impossible de transférer les données de l'application WeChat et l'historique des discussions en raison des restrictions de l'application. Essayez la fonction de sauvegarde intégrée à l'application.
+Ouvrez WeChat et accédez à Moi > Paramètres > Général > Sauvegarder &amp; migrer les discussions."</string>
+  <string name="dialog_wechat_data_transfer_fail_title">"Impossible de transférer les données de l'application WeChat"</string>
   <string name="document">Documents</string>
   <string name="early_morning">Matin</string>
   <string name="eras_ad">Apr. J.-C.</string>

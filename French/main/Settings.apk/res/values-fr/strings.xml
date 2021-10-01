@@ -3394,6 +3394,7 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
   <string name="gxzw_quick_open_title">Raccourcis</string>
   <string name="handy_mode">Mode Une main</string>
   <string name="handy_mode_enable">Mode Une main</string>
+  <string name="handy_mode_no_touch_assistant">"Le mode à une main ne fonctionnera que si vous utilisez des boutons pour la navigation dans le système. Vous pouvez basculer entre les gestes et les boutons dans la section \"Navigation système\" des paramètres."</string>
   <string name="handy_mode_size">"Taille de l'écran"</string>
   <string name="handy_mode_tips">"Glissez vers la gauche ou la droite depuis le bouton Accueil pour réduire la taille de l'écran."</string>
   <string name="handy_mode_tips_full_screen">Lorsque vous utilisez des gestes en plein écran, vous pouvez activer le mode Une main en utilisant la balle rapide. Vous pouvez également utiliser les boutons plutôt que les gestes en plein écran.</string>
@@ -3644,6 +3645,7 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
   <string name="input_methods_settings_title">Saisie de texte</string>
   <string name="input_pattern_hint_text">Dessinez votre schéma de déverrouillage</string>
   <string name="input_settings">Paramètres de saisie</string>
+  <string name="insert_sim_card_and_try_again">Insérez votre carte SIM et réessayez.</string>
   <string name="input_text">Barre de saisie de texte</string>
   <string name="install_all_warning">"Votre téléphone et vos données personnelles sont très vulnérables aux attaques provenant d'applications inconnues. En installant des applications provenant de cette source, vous acceptez d'être le seul responsable de tout dommage causé à votre téléphone ou de toute perte de données pouvant découler de l'utilisation de telles applications."</string>
   <string name="install_applications">Sources inconnues</string>
@@ -8024,6 +8026,7 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
   <string name="unrestricted_app_title">Conso. données non restreinte</string>
   <string name="unrestricted_data_saver">Données non restreintes</string>
   <string name="unsupported_setting_summary">"Le paramètre n'est pas disponible sur ce téléphone"</string>
+  <string name="unsupported_usim_card">Carte USIM non prise en charge.</string>
   <string name="update_new_version">Mise à jour disponible</string>
   <string name="update_progress_for_updates">Mise à jour (%s)</string>
   <string name="updating_settings">Mise à jour des paramètres…</string>
