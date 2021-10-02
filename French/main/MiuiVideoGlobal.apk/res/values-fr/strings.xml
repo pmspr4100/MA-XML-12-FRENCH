@@ -70,6 +70,8 @@
   <string name="ad_download">Télécharger</string>
   <string name="ad_join">Joindre la communauté</string>
   <string name="ad_more">Plus</string>
+  <string name="add_local_shortcut_add">Ajouter</string>
+  <string name="add_local_shortcut_des">"Ajoutez \"Mes vidéos\" à l'écran d'accueil pour accéder aux fichiers vidéo locaux en un seul clic."</string>
   <string name="add_search_channel_link">URL</string>
   <string name="add_search_channel_name">Nom</string>
   <string name="add_search_channel_tip">"Chercher \"%s\" sur le site web cible, puis copier et coller l'URL ici."</string>
@@ -172,6 +174,7 @@
   <string name="columbus_player_close_video">FERMER LA VIDÉO</string>
   <string name="columbus_player_install_now">INSTALLER MAINTENANT</string>
   <string name="columbus_player_learn_more">En savoir plus</string>
+  <string name="columbus_skip_ad">Ignorer</string>
   <string name="com_facebook_device_auth_instructions">Consultez &lt;b>facebook.com/device&lt;/b> et entrez le code affiché ci-dessus.</string>
   <string name="com_facebook_image_download_unknown_error">"Une erreur inattendue s'est produite lors du téléchargement d'une image."</string>
   <string name="com_facebook_internet_permission_error_message">La connexion à WebView nécessite une autorisation INTERNET</string>
@@ -257,8 +260,14 @@
   <string name="diagnosis_log_sent_format">"Journaux envoyés avec succès.
 ID: %s
 Envoyez ce code au superviseur."</string>
+  <string name="dialog_app_comment_cancel">Annuler</string>
+  <string name="dialog_app_comment_default_content">Que pensez-vous de Mi Vidéo ?</string>
+  <string name="dialog_app_comment_ok">OK</string>
+  <string name="dialog_app_comment_select_feedback">Pourriez-vous également nous donner votre avis ?</string>
+  <string name="dialog_app_comment_select_praise">Super ! Noter également Mi Vidéo dans Play Store ?</string>
+  <string name="dialog_app_comment_title">Évaluez notre application</string>
   <string name="dialog_disagree_privacychange_info">"Vous ne pourrez pas utiliser les services de streaming en ligne Mi Vidéo si vous n'acceptez pas notre Politique de confidentialité. Appuyez sur \"Annuler\" pour revenir en arrière ou sur \"Refuser\" pour continuer et utiliser Mi Vidéo comme lecteur local uniquement."</string>
-  <string name="dialog_disagree_privacychange_title">"Refuser ?"</string>
+  <string name="dialog_disagree_privacychange_title">"Refuser ?"</string>
   <string name="dialog_privacy_change_info">"Nous avons mis à jour la Politique de confidentialité de Mi Vidéo en raison des ajustements dans les services que nous proposons. Pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez notre &lt;a href=%1$s>Contrat utilisateur&lt;/a> et notre &lt;a href=%2$s>Politique de confidentialité&lt;/a>, avant d'utiliser l'application."</string>
   <string name="dialog_privacy_change_title">Mise à jour Politique de confidentialité</string>
   <string name="dialog_privacy_info_new2">"Pour pouvoir utiliser ses services, vous devez accepter que %1$s collecte, traite et utilise vos informations personnelles. Nous considérons que vous avez lu et accepté notre &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a> lorsque vous appuyez sur \"Accepter\" ci-dessous."</string>
@@ -423,7 +432,13 @@ Envoyez ce code au superviseur."</string>
   <string name="galleryplus_network_connect_confirm">Connectez-vous au Wi-Fi ou activez les données mobiles dans les paramètres réseau.</string>
   <string name="galleryplus_network_error">Impossible de se connecter au réseau</string>
   <string name="galleryplus_network_not_wifi">"L'utilisation de données mobiles pour diffuser des vidéos peut générer des frais d'opérateur supplémentaires"</string>
-  <string name="galleryplus_online_cta">"Mi Video doit se connecter à Internet pour fonctionner normalement. Se connecter ?"</string>
+  <string name="galleryplus_notification_linkvideo_subtitle1" formatted="false">Gérer les fichiers %$s Ajouter des sous-titres %$s Diffuser des vidéos %$s</string>
+  <string name="galleryplus_notification_linkvideo_subtitle2">Protégez vos vidéos privées avec un mot de passe %$s</string>
+  <string name="galleryplus_notification_linkvideo_subtitle3">Téléchargez des vidéos depuis TikTok, Instagram et Twitter %$s</string>
+  <string name="galleryplus_notification_linkvideo_title1">%$s Découvrez toutes les fonctionnalités intéressantes de Mi Vidéo !</string>
+  <string name="galleryplus_notification_linkvideo_title2">%$s Appuyez pour gérer vos vidéos</string>
+  <string name="galleryplus_notification_linkvideo_title3">%1$s Télécharger des vidéos gratuitement %2$s Gérer les fichiers</string>
+  <string name="galleryplus_online_cta">"Mi Vidéo doit se connecter à Internet pour fonctionner normalement. Se connecter ?"</string>
   <string name="galleryplus_online_cta_agree">Accepter</string>
   <string name="galleryplus_online_cta_disagree">Refuser</string>
   <string name="galleryplus_online_cta_title">Termes et conditions</string>
@@ -438,6 +453,9 @@ Envoyez ce code au superviseur."</string>
   <string name="galleryplus_permission_open_settings">Paramètres</string>
   <string name="galleryplus_permission_refuse">Non merci</string>
   <string name="galleryplus_permission_retry">Permissions</string>
+  <string name="galleryplus_permission_storage_content_reshowable_video_player">"Pour pouvoir utiliser le lecteur vidéo local, autorisez d'abord cette application à accéder au stockage."</string>
+  <string name="galleryplus_permission_storage_content_unreshowable_video_player">Pour pouvoir utiliser le lecteur vidéo local, autorisez cette application à accéder au stockage dans la section \"Autorisations\" des paramètres.</string>
+  <string name="galleryplus_permission_storage_title">Accès au stockage requis</string>
   <string name="galleryplus_permission_title">Attention</string>
   <string name="galleryplus_restore_play_speed">Lecture à la vitesse normale à présent</string>
   <string name="galleryplus_save_cancel_toast">"Appuyez encore sur \"Retour\" pour annuler l'enregistrement de la vidéo"</string>
@@ -513,8 +531,22 @@ pour les vidéos"</string>
   <string name="live_title">En direct</string>
   <string name="live_tv_title">TV en direct</string>
   <string name="loading">Chargement…</string>
+  <string name="local_empty_guide">Les vidéos que vous filmez apparaîtront ici</string>
   <string name="local_play_tip">Lecture vidéo locale</string>
   <string name="local_push_title">"Populaire aujourd'hui"</string>
+  <string name="local_video_create_a_new_playlist">Nouvelle liste de lecture</string>
+  <string name="local_video_date">Date</string>
+  <string name="local_video_dialog_default">Par défaut</string>
+  <string name="local_video_edit_playlist">Modifier la liste de lecture</string>
+  <string name="local_video_from_a_to_z">De A à Z</string>
+  <string name="local_video_from_big_to_small">Des grandes vers les petites</string>
+  <string name="local_video_from_long_to_short">Des longues vers les courtes</string>
+  <string name="local_video_from_new_to_old">Des nouvelles aux anciennes</string>
+  <string name="local_video_from_old_to_new">Des anciennes aux nouvelles</string>
+  <string name="local_video_from_short_to_long">Des courtes aux longues</string>
+  <string name="local_video_from_small_to_big">Des petites vers les grandes</string>
+  <string name="local_video_from_z_to_a">De Z à A</string>
+  <string name="local_video_name">Nom</string>
   <string name="local_video_notification_btn">Regarder dans Mi Vidéo</string>
   <string name="local_video_notification_title">Nouvelle vidéo locale trouvée</string>
   <string name="local_video_space">Occupé: %s</string>
@@ -774,6 +806,7 @@ pour les vidéos"</string>
   <string name="ovp_navigation_language">Langue</string>
   <string name="ovp_navigation_localvideo">Local</string>
   <string name="ovp_navigation_notice">Notifications</string>
+  <string name="ovp_navigation_score">Évaluez notre application</string>
   <string name="ovp_navigation_setting">Paramètres</string>
   <string name="ovp_navigation_subscribe">Abonnement</string>
   <string name="ovp_player_cached_error_btn">Vidéos en ligne</string>
@@ -1081,6 +1114,7 @@ Augmenter la sécurité de votre compte."</string>
   <string name="remaining_space_not_enough">"Téléchargement impossible à cause d'un manque d'espace de stockage"</string>
   <string name="reminder">Attention</string>
   <string name="rename">Renommer</string>
+  <string name="rename_word_out">Ce nom de fichier est trop long</string>
   <string name="report">Signaler</string>
   <string name="report_content_dislike">Violence ou comportement inapproprié</string>
   <string name="report_content_fakement">Spam ou fraude</string>
@@ -1218,6 +1252,7 @@ Augmenter la sécurité de votre compte."</string>
   <string name="tab_name_video">Vidéos</string>
   <string name="temporary_not_available">"Cette fonctionnalité n'est pas encore disponible"</string>
   <string name="This_week">Cette semaine</string>
+  <string name="the_item_choosed_tint">%s sélectionné</string>
   <string name="thursday">Jeudi</string>
   <string name="ticket_hint">Code de vérification</string>
   <string name="ticket_invalid">Le code que vous avez entré est incorrect</string>
@@ -1237,6 +1272,7 @@ Augmenter la sécurité de votre compte."</string>
   <string name="tool_bar_notification_setting_title">"Barre d'outils dans les notifications"</string>
   <string name="top_bar_game_desc">Découvrez plein de nouveaux jeux ici</string>
   <string name="top_bar_game_title">Chaîne des jeux</string>
+  <string name="trending_scroll_load_more">Balayez vers le haut pour plus de vidéos</string>
   <string name="tuesday">Mardi</string>
   <string name="type_content">Contenu</string>
   <string name="type_issue">Problème</string>
