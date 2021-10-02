@@ -45,7 +45,11 @@
   <string name="atrace_saving">Sauvegarde en cours du journal atrace…</string>
   <string name="atrace_start">Enregistrement du journal atrace…</string>
   <string name="base_info">Infos de base</string>
+  <string name="character_counter_content_description">%1$d caractères entrés sur %2$d</string>
+  <string name="character_counter_overflowed_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
   <string name="checking_intranet">Vérification de la connexion intranet, veuillez patienter...</string>
+  <string name="chip_text">Chip text</string>
+  <string name="clear_text_end_icon_content_description">Effacer le texte</string>
   <string name="clearable_edittext_clear_description">Effacer</string>
   <string name="close">Fermer</string>
   <string name="cloud_addr_info">Info sur Cloud</string>
@@ -107,6 +111,7 @@ L'économiseur de batterie traitera les applications importantes de manière sé
   <string name="high_temp_state">Surchauffe</string>
   <string name="high_temp_state_message">"Votre appareil surchauffe. Les données mobiles, les points d'accès Wi-Fi, le GPS et l'appareil photo seront restreints."</string>
   <string name="hints_loading_text">Chargement…</string>
+  <string name="icon_content_description">Icône de dialogue</string>
   <string name="important_warning">Attention</string>
   <string name="insert_data">Insérer des données</string>
   <string name="kill_pkg_toast_message">"Votre appareil surchauffe et l'application va se fermer"</string>
@@ -178,6 +183,12 @@ L'économiseur de batterie traitera les applications importantes de manière sé
   <string name="month_september_shortest">Sept</string>
   <string name="more">Plus</string>
   <string name="morning">Matin</string>
+  <string name="mtrl_chip_close_icon_content_description">Supprimer %1$s</string>
+  <string name="mtrl_picker_cancel">Annuler</string>
+  <string name="mtrl_picker_confirm">Enregistrer</string>
+  <string name="mtrl_picker_date_format">dd MMM yyyy</string>
+  <string name="mtrl_picker_header_prompt">Sélectionnez une date</string>
+  <string name="mtrl_picker_range_header_prompt">Sélectionnez une plage de dates</string>
   <string name="night">Soirée</string>
   <string name="nonui_mode_config_description">"Ne pas allumer l'écran pour les notifications, désactiver le voyant lumineux, le capteur d'empreintes digitales ainsi que les touches de contrôle afin d'économiser la batterie lorsque MIU détecte que vous n'utilisez pas votre appareil."</string>
   <string name="nonui_mode_config_title">Mode non interactif</string>
@@ -186,6 +197,7 @@ L'économiseur de batterie traitera les applications importantes de manière sé
   <string name="notification_exit_extreme_mode_text">La batterie est chargée à plus de %s</string>
   <string name="notification_exit_extreme_mode_title">Économiseur de batterie extrême désactivé</string>
   <string name="notification_open_extreme_mode_text">Économiseur de batterie extrême activé</string>
+  <string name="password_toggle_content_description">Afficher le mot de passe</string>
   <string name="performance_category">Performance</string>
   <string name="permstep_description">"Autoriser cette application à accéder à vos nombres de pas"</string>
   <string name="permstep_label">Accès au nombre de pas</string>
@@ -312,6 +324,8 @@ L'économiseur de batterie traitera les applications importantes de manière sé
   <string name="thursday_short">Jeu</string>
   <string name="thursday_shortest">Jeu</string>
   <string name="time_picker_dialog_title">"Réglage de l'heure"</string>
+  <string name="title_history">Historique</string>
+  <string name="title_home">Accueil</string>
   <string name="today">"Aujourd'hui"</string>
   <string name="tomorrow">Demain</string>
   <string name="tuesday">Mardi</string>

@@ -94,8 +94,20 @@
         <item quantity="one">%d réseau Wi-Fi</item>
     </plurals>
     <plurals name="dirty_wlan_count_china">
-        <item quantity="other">%d réseaux WLAN</item>
-        <item quantity="one">%d réseau WLAN</item>
+        <item quantity="other">%d réseaux Wi-Fi</item>
+        <item quantity="one">%d réseau Wi-Fi</item>
+    </plurals>
+    <plurals name="error_retry_hour">
+        <item quantity="other">%s heures</item>
+        <item quantity="one">%s heure</item>
+    </plurals>
+    <plurals name="error_retry_minute">
+        <item quantity="other">%s minutes</item>
+        <item quantity="one">%s minute</item>
+    </plurals>
+    <plurals name="error_retry_second">
+        <item quantity="other">%s secondes</item>
+        <item quantity="one">%s seconde</item>
     </plurals>
     <plurals name="error_screen_pwd_next_retry_time">
         <item quantity="other">Réessayez dans %d secondes</item>
@@ -106,8 +118,8 @@
         <item quantity="one">dans 1 minute</item>
     </plurals>
     <plurals name="items_unsynced">
-        <item quantity="other">Éléments en attente de synchronisation: %d</item>
-        <item quantity="one">Élément en attente de synchronisation: %d</item>
+        <item quantity="other">Éléments en attente de synchronisation : %d</item>
+        <item quantity="one">Élément en attente de synchronisation : %d</item>
     </plurals>
     <plurals name="last_sync_time_hours_ago">
         <item quantity="other">Il y a %s heures</item>

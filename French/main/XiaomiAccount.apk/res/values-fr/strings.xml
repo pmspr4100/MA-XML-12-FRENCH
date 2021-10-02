@@ -265,9 +265,11 @@ Envoyez ce code au superviseur."</string>
   <string name="kr_permission_sms_desc">Pour les codes de vérification à remplissage automatique</string>
   <string name="kr_permission_storage_desc">Pour sauvegarder les diagnostics</string>
   <string name="loading_micloud_sync_data">Chargement…</string>
+  <string name="login_3rd_app_with_system_account">"S'identifier dans %s"</string>
   <string name="login_check_find_device">Obtention des informations de sécurité…</string>
   <string name="login_check_find_device_failed_title">"Impossible de vérifier les informations de sécurité de l'appareil"</string>
   <string name="login_find_device_bind">"Cet appareil est associé à l'ID d'un Compte Mi existant (%s)."</string>
+  <string name="login_with_other">"Plus d'options"</string>
   <string name="logout_account">Se déconnecter</string>
   <string name="logout_failed">Impossible de se déconnecter</string>
   <string name="mi_account_identity_title">Vérifier votre identité</string>
@@ -803,6 +805,8 @@ Envoyez ce code au superviseur."</string>
   <string name="user_avatar_uploading">Un instant…</string>
   <string name="user_instruction_all_purpose">"Bienvenue sur le Compte Mi ! Vous pouvez utiliser votre compte pour accéder aux services fournis par Xiaomi et ses sociétés affiliées, telles que Mi.com, Xiaomi Cloud et GetApps. Vous pouvez obtenir des Mi Coins, acheter des biens virtuels et profiter de services à valeur ajoutée, notamment des jeux, des thèmes et des livres électroniques."</string>
   <string name="user_instruction_tip">Pour pouvoir vous connecter, lisez et acceptez les termes et conditions.</string>
+  <string name="user_license_with_3rd_app"><Data>"En me connectant avec mon Compte Mi, je confirme avoir lu et accepté le &lt;a href=%1$s>Contrat d'utilisation&lt;/a>, la &lt;a href=%2$s>Politique de confidentialité&lt;/a>, le  &lt;a href=%3$s>Contrat d'utilisation&lt;/a> et la &lt;a href=%4$s>Politique de confidentialité&lt;/a> du Compte Mi."</Data></string>
+  <string name="user_license_without_3rd_app"><Data>"J'ai lu et j'accepte le &lt;a href=%1$s>Contrat d'utilisation&lt;/a> et la &lt;a href=%2$s>Politique de confidentialité&lt;/a> du Compte Mi."</Data></string>
   <string name="v7_preference_off">DÉSACTIVÉ</string>
   <string name="v7_preference_on">ACTIVÉ</string>
   <string name="vip_account_settings">Paramètres VIP</string>
