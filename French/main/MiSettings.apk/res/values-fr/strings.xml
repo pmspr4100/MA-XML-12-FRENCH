@@ -37,6 +37,7 @@
   <string name="all_ringtone">Plus</string>
   <string name="all_ringtone_summary">Sélectionnez des sonneries en ligne</string>
   <string name="all_ringtone_summary_pad">Sélectionnez des sonneries</string>
+  <string name="am">AM</string>
   <string name="amazon_introduction">La région la plus riche en biodiversité de notre planète, souvent appelée "poumon de la Terre".</string>
   <string name="amazon_orange_winged_info">"L'amazone aourou est un grand perroquet bruyant qui pousse des cris forts et aigus."</string>
   <string name="animal_branch">Famille</string>
@@ -155,6 +156,10 @@
   <string name="dc_light_hint_unnormal_other">Le mode anti-scintillement à faible luminosité peut affecter le taux de rafraîchissement et la façon dont certains éléments sont affichés.</string>
   <string name="dc_lignt_enable_hint">Le mode anti-scintillement va régler la fréquence de rafraîchissement à 60 Hz. Activer le mode anti-scintillement ?</string>
   <string name="delete_first_to_add_animal">"Pour ajouter un nouvel élément, supprimez-en d'abord un."</string>
+  <string name="desktop_widget_authorization">Appuyez pour accorder des autorisations pour pouvoir afficher les statistiques</string>
+  <string name="desktop_widget_not_support">"Les statistiques de temps d'écran
+ne sont pas générées dans le Deuxième espace"</string>
+  <string name="desktop_widget_screen_use_time">"Temps d'écran"</string>
   <string name="display_description">"Icônes plus grandes, texte plus large, moins d'encombrement visuel"</string>
   <string name="display_title">Interface plus grande</string>
   <string name="dynamic_ringtone_desc">"Nous avons exploré différents écosystèmes et recréé leurs sons distincts. Commencez à explorer les sons de la nature avec nous !"</string>
@@ -276,6 +281,7 @@
   <string name="high_fps_description">"Taux de rafraîchissement d'écran élevé. Consommation d'énergie plus élevée."</string>
   <string name="high_fps_tip_footer">"L'utilisation de taux de rafraîchissement plus élevés rend l'expérience de visionnage plus fluide mais consomme plus d'énergie."</string>
   <string name="hsv_space_color">Espace colorimétrique HSV</string>
+  <string name="hsv_space_color_hue">Teinte</string>
   <string name="hsv_space_color_saturation">Saturation</string>
   <string name="intelligent_radio_btn_summary">"Ajustez le taux de rafraîchissement de manière dynamique en fonction de scénarios pour équilibrer les performances avec la consommation d'énergie"</string>
   <string name="intelligent_radio_btn_title">Auto (recommandé)</string>
@@ -414,7 +420,7 @@
   <string name="narwhal_info">Les narvals possèdent une grande défense et se nourrissent de proies benthiques, principalement des poissons plats.</string>
   <string name="native_hen_info">"Les gallinules de Tasmanie vivent près de l'eau et ne savent pas voler."</string>
   <string name="nature_mix">Mélange nature</string>
-  <string name="nature_mix_summary">Créez un mix personnalisé</string>
+  <string name="nature_mix_summary">Créez un mélange personnalisé</string>
   <string name="nazca_booby">Fou de Grant</string>
   <string name="network_error">"Une erreur de réseau s'est produite. Réessayer."</string>
   <string name="night">Soirée</string>
@@ -632,15 +638,16 @@
   <string name="unlock_times_per_day">"Moyenne quotidienne : "</string>
   <string name="unlock_times_per_hour">"Déverrouillé par heure : "</string>
   <string name="usage_agree">Accepter</string>
+  <string name="usage_app_desktop_widget_limit">%s restant</string>
   <string name="usage_app_get_it">Compris</string>
   <string name="usage_app_holiday_limit">Jours de congé</string>
   <string name="usage_app_limit_alter_summary">"On dirait que ce délai est plus court que le temps que vous avez utilisé cette application aujourd'hui. Fixer la limite quand même ?"</string>
   <string name="usage_app_limit_alter_title">"Vérifier le temps limite d'utilisation"</string>
   <string name="usage_app_limit_prelong">Prolonger le temps</string>
   <string name="usage_app_limit_reach_summay">%s restants</string>
-  <string name="usage_app_limit_reach_summay_new">Tap to add %d mins</string>
+  <string name="usage_app_limit_reach_summay_new">Appuyez pour ajouter %d minutes</string>
   <string name="usage_app_limit_reach_title">"%s atteint sa limite de temps d'utilisation"</string>
-  <string name="usage_app_limit_reach_title_new" formatted="false">Remaining screen time for %1s: %2s</string>
+  <string name="usage_app_limit_reach_title_new" formatted="false">"Temps d'écran restant pour %1s : %2s"</string>
   <string name="usage_app_limit_summary">"Les applications sélectionnées ne seront plus disponibles lorsque la limite sera atteinte"</string>
   <string name="usage_app_limit_title">"Limiter le temps d'utilisation"</string>
   <string name="usage_app_other_settings">Paramètres additionnels</string>
@@ -780,10 +787,11 @@ Cette application doit se connecter à Internet et requiert les autorisations su
   <string name="usage_state_download">Sauvegarder dans la galerie</string>
   <string name="usage_state_duration_title">Cette session</string>
   <string name="usage_state_focus_call">"Appel d'urgence"</string>
-  <string name="usage_state_focus_level_summary">Niveau actuel : %s</string>
   <string name="usage_state_focus_level1">Étoile montante</string>
+  <string name="usage_state_focus_level_summary">Niveau actuel : %s</string>
   <string name="usage_state_focus_mode_experience_warning_message">"Le mode de mise au point permet uniquement d'utiliser l'appareil photo et de faire des appels d'urgence. Vous ne pourrez pas désactiver le mode de mise au point prématurément."</string>
   <string name="usage_state_focus_mode_experience_warning_message_pad">"Le mode de mise au point permet uniquement d'utiliser l'appareil photo et de faire des appels d'urgence. Vous ne pourrez pas désactiver le mode de mise au point prématurément."</string>
+  <string name="usage_state_focus_mode_experience_warning_message_sim_pad">"Le mode de mise au point permet uniquement d'utiliser l'appareil photo et de passer des appels d'urgence. Vous ne pourrez pas désactiver le mode de mise au point prématurément."</string>
   <string name="usage_state_focus_mode_summary">"Restreindre toutes les fonctions sauf les appels d'urgence et l'appareil photo"</string>
   <string name="usage_state_focus_mode_summary1">Bien commencé est à moitié fait</string>
   <string name="usage_state_focus_mode_summary2">Reste concentrée</string>
@@ -791,6 +799,7 @@ Cette application doit se connecter à Internet et requiert les autorisations su
   <string name="usage_state_focus_mode_title">Mode de mise au point</string>
   <string name="usage_state_focus_mode_warning_message">"Le mode de mise au point permet uniquement d'utiliser l'appareil photo et de faire des appels d'urgence. Vous ne pourrez pas désactiver le mode de mise au point prématurément."</string>
   <string name="usage_state_focus_mode_warning_message_pad">"Le mode de mise au point permet uniquement d'utiliser l'appareil photo et de faire des appels d'urgence. Vous ne pourrez pas désactiver le mode de mise au point prématurément."</string>
+  <string name="usage_state_focus_mode_warning_message_sim_pad">"Le mode de mise au point permet uniquement d'utiliser l'appareil photo et de passer des appels d'urgence. Vous ne pourrez pas désactiver le mode de mise au point prématurément."</string>
   <string name="usage_state_focus_mode_warning_title">Attention</string>
   <string name="usage_state_focus_success">Défi complété</string>
   <string name="usage_state_focus_take_photo">Appareil photo</string>
