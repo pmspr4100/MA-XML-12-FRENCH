@@ -152,6 +152,10 @@
         <item quantity="other">Il y a %d minutes</item>
         <item quantity="one">Il y a 1 minute</item>
     </plurals>
+    <plurals name="num_picker_hint">
+        <item quantity="other">" jours"</item>
+        <item quantity="one">" jour"</item>
+    </plurals>
     <plurals name="other_all_day_events">
         <item quantity="other">%d autres événements</item>
         <item quantity="one">%d autre événement</item>

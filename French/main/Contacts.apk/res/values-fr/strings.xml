@@ -211,6 +211,7 @@
     <string name="bh_perm_ask_read_contacts">"Autoriser d'abord les Services Mi Carrier à accéder à vos contacts."</string>
     <string name="bh_perm_ask_read_phone_state">Autoriser les Services Mi Carrier à accéder au stockage dans les Paramètres.</string>
     <string name="bh_perm_desc_read_contacts">Pour afficher les contacts durant la recharge</string>
+    <string name="bh_permission_contact_desc">Pour recharger le solde de vos contacts</string>
     <string name="bh_permission_get_accounts_desc">Pour passer des commandes et vérifier leur statut</string>
     <string name="bh_permission_read_call_log_desc">Pour afficher la durée des appels</string>
     <string name="bh_permission_read_phone_state_desc">Pour afficher des numéros de téléphone et les informations relatives aux opérateurs</string>
@@ -1216,7 +1217,6 @@ Pour ajouter un contact à votre liste de favoris :
     <string name="people">Contacts</string>
     <string name="permission_access_fine_location_desc">Pour améliorer le signal du réseau local</string>
     <string name="permission_camera_desc">"Pour prendre des photos durant la vérification de l'identité"</string>
-    <string name="permission_contact_desc">Pour recharger le solde de vos contacts</string>
     <string name="permission_dailog_positive_button">"C'est parti"</string>
     <string name="permission_dailog_title">Permissions requises</string>
     <string name="permission_record_audio_desc">"Pour utiliser votre voix durant la vérification de l'identité"</string>
