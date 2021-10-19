@@ -317,7 +317,7 @@
   <string name="account_info">Non connecté</string>
   <string name="activate_usb_message">Pour activer cette fonctionnalité, insérez votre carte SIM.</string>
   <string name="activate_usb_title">"Activer l'USB"</string>
-  <string name="active_input_method_subtypes">Méthode de saisie active</string>
+  <string name="active_input_method_subtypes">"Méthodes d'entrée actives"</string>
   <string name="activity_launch_on_secondary_display_failed_text">"L'application ne supporte pas le lancement sur des écrans secondaires."</string>
   <string name="activity_not_found">"L'application n'est pas installée sur votre appareil"</string>
   <string name="adb_device_fingerprint_title_format">"Empreinte de l'appareil : %1$s"</string>
@@ -406,9 +406,9 @@
   <string name="battery_detail_switch_summary">Réduit la performance et les données en arrière-plan</string>
   <string name="battery_detail_switch_title">Économiseur de batterie</string>
   <string name="battery_info_status_charging">En charge</string>
-  <string name="battery_info_status_charging_fast">Chargement rapide</string>
+  <string name="battery_info_status_charging_fast">En charge rapide</string>
   <string name="battery_info_status_charging_lower">chargement</string>
-  <string name="battery_info_status_charging_slow">Chargement lent</string>
+  <string name="battery_info_status_charging_slow">En charge lente</string>
   <string name="battery_info_status_discharging">Pas de chargement</string>
   <string name="battery_info_status_full">Pleine</string>
   <string name="battery_info_status_not_charging">Branché, ne peut pas charger maintenant</string>
@@ -463,7 +463,7 @@ Réessayez dans %d secondes."</string>
   <string name="biometric_dialog_wrong_pattern">Mauvais schéma</string>
   <string name="biometric_dialog_wrong_pin">Mauvais code PIN</string>
   <string name="blob_expires_text">Expire à %s</string>
-  <string name="blob_id_text">ID données partagées : %d</string>
+  <string name="blob_id_text">ID des données partagées : %d</string>
   <string name="block">Bloquer toutes les notifications</string>
   <string name="block_notification_content_text">"Les notifications de %1$s ne s'afficheront plus. Vous pourrez changer ceci dans les Paramètres."</string>
   <string name="block_notification_desc">"Les notifications ne s'afficheront plus. Vous pouvez changer ceci dans les Paramètres."</string>
@@ -535,7 +535,7 @@ Réessayez dans %d secondes."</string>
   <string name="bluetooth_profile_hearing_aid">Aide auditive</string>
   <string name="bluetooth_profile_hid">Périphérique de saisie</string>
   <string name="bluetooth_profile_le_audio">LE_AUDIO</string>
-  <string name="bluetooth_profile_map">Messages texte</string>
+  <string name="bluetooth_profile_map">SMS</string>
   <string name="bluetooth_profile_opp">Transfert de fichier</string>
   <string name="bluetooth_profile_pan">Accès à internet</string>
   <string name="bluetooth_profile_pan_nap">Connexion internet partagé</string>
