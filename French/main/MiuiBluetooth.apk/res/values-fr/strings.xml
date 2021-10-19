@@ -274,6 +274,7 @@ Appuyez sur \"Effacer et convertir…\" pour continuer."</string>
     <string name="development_settings_summary">"Définir les options de développement d'applications"</string>
     <string name="development_settings_title">Options de développeur</string>
     <string name="device_picker">"Paramètres Bluetooth de l'appareil"</string>
+    <string name="device_update_plugin">nouvelle version</string>
     <string name="direct_boot_unaware_dialog_message">"Remarque : Après un redémarrage, cette application ne peut pas démarrer tant que vous n'avez pas déverrouillé votre téléphone"</string>
     <string name="disable_overlays">Désactiver les superpositions matérielles</string>
     <string name="disable_overlays_summary">"Utilisez toujours le GPU pour la composition d'écran"</string>
@@ -596,6 +597,11 @@ Protocole de connexion plus rapide."</string>
     <string name="plugin_install_timeout">"En attente de l'expiration du délai d'installation."</string>
     <string name="plugin_last_update_going">La dernière mise à jour est en cours.</string>
     <string name="plugin_no_update">"C'est déjà la dernière version."</string>
+    <string name="plugin_ota_finish">la mise à jour de la version bluetooth a réussi</string>
+    <string name="plugin_ota_indicate">redémarrez bluetooth et connectez le casque</string>
+    <string name="plugin_ota_messages1">Ajouter plus de ressources de casques Bluetooth</string>
+    <string name="plugin_ota_messages2">Mettre à jour le framework du service Bluetooth</string>
+    <string name="plugin_ota_progress">mettre à jour maintenant</string>
     <string name="plugin_start_update">Commencer la mise à jour des plugins...</string>
     <string name="plugin_update_failed">Échec de la mise à jour :</string>
     <string name="plugin_update_notification_summary">La mise à jour du plug-in Bluetooth est terminée. Redémarrez les paramètres et Bluetooth pour appliquer les modifications.</string>
@@ -724,6 +730,7 @@ Protocole de connexion plus rapide."</string>
     <string name="storage_category">Stockage</string>
     <string name="strict_mode">Mode strict activé</string>
     <string name="strict_mode_summary">"Fait clignoter l'écran flash lorsque les applications effectuent de longues opérations sur le thread principal"</string>
+    <string name="stylus_ota_check_update">mettre à jour maintenant</string>
     <string name="sunday">Dimanche</string>
     <string name="sunday_short">Dim</string>
     <string name="sunday_shortest">Dim</string>

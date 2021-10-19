@@ -1041,6 +1041,7 @@ Applications :
   <string name="biometric_weak_improve_matching_title">Améliorer la correspondance de visages</string>
   <string name="biometric_weak_liveliness_summary">Un clignement est exigé pour déverrouiller</string>
   <string name="biometric_weak_liveliness_title">Contrôle de personne réelle</string>
+  <string name="blank_screen_no_device">AUcun périphérique</string>
   <string name="ble_scan_notify_text">Pour améliorer la précision de la localisation, les applications et les services système peuvent toujours détecter les périphériques Bluetooth. Vous pouvez modifier ce paramètre dans les LINK_BEGINparamètres de rechercheLINK_END.</string>
   <string name="block_list_connected_devices">Appareils connectés</string>
   <string name="block_list_diaglog_cancle">Annuler</string>
@@ -1083,7 +1084,7 @@ Applications :
   <string name="bluetooth_broadcasting">Diffusion</string>
   <string name="bluetooth_confirm_passkey_msg">"Pour associer votre appareil à : &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Assurez-vous que le mot de passe &lt;br>&lt;b>%2$s&lt;/b> s'affiche."</string>
   <string name="bluetooth_connect_failed">Impossible de se connecter. Réessayez.</string>
-  <string name="bluetooth_connect_settings">Paramètres de connexion Bluetooth</string>
+  <string name="bluetooth_connect_settings">Connexion</string>
   <string name="bluetooth_connect_specific_profiles_title">Se connecter à…</string>
   <string name="bluetooth_connected">Connecté %1$s</string>
   <string name="bluetooth_connected_battery_level">Connecté | Batterie %1$s%2$s</string>
@@ -1109,7 +1110,6 @@ Applications :
   <string name="bluetooth_device_advanced_profile_header_title">Utiliser pour</string>
   <string name="bluetooth_device_advanced_rename_device">Renommer</string>
   <string name="bluetooth_device_advanced_title">Périphérique Bluetooth associé</string>
-  <string name="bluetooth_device_blacklist_summary">Gérer les périphériques Bluetooth bloqués</string>
   <string name="bluetooth_device_blacklist_tital">Liste de blocage Bluetooth</string>
   <string name="bluetooth_device_context_connect">Se connecter</string>
   <string name="bluetooth_device_context_connect_advanced">Options…</string>
@@ -1152,7 +1152,7 @@ Applications :
   <string name="bluetooth_disconnected">Déconnecté</string>
   <string name="bluetooth_disconnecting">Déconnexion…</string>
   <string name="bluetooth_display_passkey_pin_msg">"Pour l'association à :&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Saisissez &lt;br>&lt;b>%2$s&lt;/b>, puis appuyez sur \"Retour\" ou sur \"Entrée\"."</string>
-  <string name="bluetooth_display_settings">"Paramètres d'affichage Bluetooth"</string>
+  <string name="bluetooth_display_settings">Éléments affichés</string>
   <string name="bluetooth_dock_settings">"Paramètres de la station d'accueil"</string>
   <string name="bluetooth_dock_settings_a2dp">Pour la musique et le multimédia</string>
   <string name="bluetooth_dock_settings_headset">Comme téléphone à haut-parleur</string>
@@ -1214,7 +1214,7 @@ Vous ne vous êtes jamais connecté à %2$s auparavant."</string>
   <string name="bluetooth_message_access_notification_content">Un appareil non approuvé souhaite accéder à vos messages. Appuyez pour plus de détails.</string>
   <string name="bluetooth_message_move_out_of_blacklist">Débloquer %1$s maintenant ?</string>
   <string name="bluetooth_mi_fast_connect">Jumeler des appareils compatibles</string>
-  <string name="bluetooth_mi_fast_connect_summary">"Connectez-vous aux appareils à proximité à l'aide d'un processus de couplage simplifié"</string>
+  <string name="bluetooth_mi_fast_connect_summary">"Connectez rapidement des écouteurs, des haut-parleurs et d'autres appareils compatibles"</string>
   <string name="bluetooth_middle_name">Boîtier</string>
   <string name="bluetooth_move_out_of_blacklist">"Débloquer l'appareil"</string>
   <string name="bluetooth_name_not_set">"Aucun nom n'a été défini. Utilisation du nom du compte…"</string>
@@ -1231,6 +1231,7 @@ Vous ne vous êtes jamais connecté à %2$s auparavant."</string>
   <string name="bluetooth_opp_profile_summary_connected">Connecté au serveur de transfert de fichiers</string>
   <string name="bluetooth_opp_profile_summary_not_connected">Pas connecté au serveur de transfert de fichiers</string>
   <string name="bluetooth_opp_profile_summary_use_for">Utiliser pour les transferts de fichiers</string>
+  <string name="bluetooth_other_settings">Paramètres supplémentaires</string>
   <string name="bluetooth_paired">Sauvegardé</string>
   <string name="bluetooth_paired_device_title">Vos appareils</string>
   <string name="bluetooth_pairing">Appairage en cours…</string>
@@ -2032,6 +2033,7 @@ Pour continuer d'utiliser votre téléphone, vous devez rétablir la configurati
   <string name="current_input_method">Clavier actuel</string>
   <string name="current_password">"Verrouillage d'écran actuel"</string>
   <string name="current_screen_lock">"Verrouillage de l'écran actuel"</string>
+  <string name="current_use_default_wallet">Sélectionné automatiquement</string>
   <string name="current_use_ese">Utilisation des éléments sécurisés intégrés</string>
   <string name="current_use_ese_wallet">"Vous utilisez Mi Wallet. Cela vous permet d'utiliser Mi Pay et la carte de transport NFC."</string>
   <string name="current_use_hce_wallet">Vous utilisez le portefeuille HCE</string>
@@ -2266,6 +2268,7 @@ Ce paramètre affecte tous les utilisateurs de cet appareil."</string>
   <string name="dc_light_summary">Appliquer une gradation CC pour réduire la fatigue oculaire</string>
   <string name="dc_light_summary_new">Empêche le scintillement important et réduit la fatigue oculaire dans des conditions de faible éclairage</string>
   <string name="dc_light_title">Mode anti-scintillement</string>
+  <string name="dclight_unavailable_prompt">"Le Mode anti-scintillement n'est pris en charge que par l'écran extérieur"</string>
   <string name="debug_app">Sélectionner une application de débogage</string>
   <string name="debug_app_not_set">Aucune application de débogage définie</string>
   <string name="debug_app_set">Application de débogage : %1$s</string>
@@ -2521,6 +2524,7 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
   <string name="display_dashboard_summary_with_style">"Styles, fonds d'écran, temporisation d'écran, taille de police"</string>
   <string name="display_label">Écran</string>
   <string name="display_order_text">Trier par :</string>
+  <string name="display_prompt_confirm">Compris</string>
   <string name="display_settings">Affichage</string>
   <string name="display_settings_title">Affichage</string>
   <string name="display_summary">"Mode veille activé après %1$s d'inactivité"</string>
@@ -6394,6 +6398,7 @@ Pour utiliser l'épinglage d'application : \u0009
   <string name="screen_projection_title">Diffusion</string>
   <string name="screen_reader_category_title">"Lecteurs d'écran"</string>
   <string name="screen_recorder_title">"Enregistreur d'écran"</string>
+  <string name="screen_refresh_unavailable_prompt">"La modification du taux de rafraîchissement n'est prise en charge que par l'écran extérieur"</string>
   <string name="screen_reader_mode_input_type_summary">Sélectionnez le geste pour activer la saisie de texte lorsque TalkBack est activé</string>
   <string name="screen_reader_mode_input_type_title">Entrée texte</string>
   <string name="screen_resolution_dialog_title">Changer de résolution</string>
@@ -6474,11 +6479,13 @@ Pour utiliser l'épinglage d'application : \u0009
   <string name="sdcard_settings_unmounted_status">Vous pouvez maintenant retirer la carte SD en toute sécurité.</string>
   <string name="sdcard_settings_used_bytes_label">Octets utilisés :</string>
   <string name="sdcard_unmount">Désinstaller la carte SD</string>
+  <string name="se_route_default">Sélectionner automatiquement</string>
   <string name="se_route_ese">Élément sécurisé intégré</string>
   <string name="se_route_uicc">Élément sécurisé sur la carte SIM</string>
   <string name="se_wallet_ese">Mi Pay et carte de transport NFC</string>
   <string name="se_wallet_hce">Utiliser le portefeuille HCE</string>
   <string name="se_wallet_uicc">Utiliser le portefeuille de la carte SIM %1$s</string>
+  <string name="se_wallet_uicc_jp">"Portefeuille de la SIM %1$s (Ne peut pas être sélectionné automatiquement)"</string>
   <string name="search_about_settings">À propos du téléphone;Modèle;Version Android;Version MIUI;Processeur;Mémoire vive;Mémoire interne;Mémoire;Stockage;Stockage interne;Version du modem;Version du noyau;Numéro de build;Mon appareil;Téléphone;Appareil</string>
   <string name="search_accelerometer_title">"Rotation automatique de l'écran;Rotation de l'écran;Orientation;Portrait;Paysage"</string>
   <string name="search_access_control">Paramètres de confidentialité;confidentialité de sécurité;Invité;Mode invité</string>

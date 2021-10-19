@@ -79,7 +79,7 @@
   <string name="mtrl_picker_toggle_to_text_input_mode">Passer en mode de saisie de texte</string>
   <string name="mtrl_picker_toggle_to_year_selection">"Appuyez pour passer à la sélection d'une année"</string>
   <string name="open_gallery">"Diaporama fonds d'écran"</string>
-  <string name="open_gallery_tips">"Appuyez ici pour activer le Carrousel de fonds d'écran"</string>
+  <string name="open_gallery_tips">"Appuyez ici pour activer le Diaporama de fonds d'écran"</string>
   <string name="opened">Activer</string>
   <string name="password_toggle_content_description">Afficher le mot de passe</string>
   <string name="permission_account_tip">Accéder aux informations du compte</string>
@@ -379,6 +379,7 @@ Send this code to the supervisor."</string>
   <string name="get_ph_ticket">Obtenir un code</string>
   <string name="get_phone_bind_exceed_limit">"Vous pouvez associer jusqu'à 3 Comptes Mi à un numéro de téléphone. Impossible d'ajouter de nouveaux comptes."</string>
   <string name="get_phone_verifycode_exceed_limit">Trop de codes de vérification ont été envoyés à ce numéro. Attendez 24 heures et réessayez.</string>
+  <string name="goto_confirm">Paramètres</string>
   <string name="goto_sign_up">Créer un compte</string>
   <string name="history_list_no_data">Aucun article ici</string>
   <string name="hour_1">Toutes les heures</string>
@@ -667,6 +668,8 @@ dd/MM"</string>
   <string name="pull_to_refresh_release_label">Relâchez pour actualiser</string>
   <string name="refresh_network">Actualiser</string>
   <string name="req_permission_dis_tip">Permissions requises</string>
+  <string name="require_permission">Permissions requises</string>
+  <string name="require_permission_text">"Pour pouvoir enregistrer et afficher des éléments, autorisez Diaporama de fonds d'écran à accéder au stockage."</string>
   <string name="resend_active_email">Envoyer à nouveau</string>
   <string name="resend_email_reach_limit_message">"Vous avez demandé trop d'e-mails de vérification. Assurez-vous que l'e-mail de vérification ne se trouve pas dans le dossier Spam de votre boîte de réception."</string>
   <string name="resend_email_reach_limit_title">"Trop d'essais"</string>
@@ -687,7 +690,7 @@ dd/MM"</string>
   <string name="save_to_album">Enregistré dans la galerie avec succès</string>
   <string name="save_to_album_fail">"Impossible d'enregistrer"</string>
   <string name="scribe_btn_ok">Souscrire</string>
-  <string name="scribe_title1">"Souscrire au Carrousel de fonds d'écran"</string>
+  <string name="scribe_title1">"Souscrire au Diaporama de fonds d'écran"</string>
   <string name="search">Rechercher</string>
   <string name="search_menu_title">Rechercher</string>
   <string name="search_str">Populaire maintenant</string>
@@ -811,9 +814,12 @@ dd/MM"</string>
   <string name="subscribe_item_checked">Abonné</string>
   <string name="subscribe_item_unchecked">Désabonné</string>
   <string name="subscribe_success_content_per_5_minutes">"Changer le fond d'écran toutes les 5 minutes"</string>
-  <string name="summary">"Agree to our &lt;a href='%s'>Privacy Policy&lt;/a> to view online content. If you disagree, local wallpapers will still be available."</string>
+  <string name="summary">"Acceptez notre &lt;a href='%s'>Politique de confidentialité&lt;/a> pour afficher le contenu en ligne. Si vous n'êtes pas d'accord, les fonds d'écran locaux seront toujours disponibles."</string>
   <string name="summary2">"En utilisant cette fonctionnalité, vous acceptez notre &lt;font color='#0D84FF'>&lt;a href='%1$s'>Accord d'utilisation&lt;/font>&lt;/a> et notre &lt;font color='#0D84FF'>&lt;a href='%2$s'>Politique de confidentialité&lt;/font>&lt;/a>. Cette fonctionnalité doit se connecter à internet pour fonctionner normalement.​"</string>
-  <string name="summary_international">"By using this feature, you're agreeing to our &lt;a href='%1$s'>User Agreement&lt;/a> and &lt;a href='%2$s'>Privacy Policy&lt;/a>. This feature needs to connect to the internet to work normally.​"</string>
+  <string name="summary3">"Bienvenue dans le Diaporama de fonds d'écran ! Ici, vous pouvez vous abonner à vos catégories de papiers peints préférées et recevoir régulièrement de nouvelles images sur votre écran de verrouillage. Cette application doit se connecter à Internet et collecter les données personnelles requises pour pouvoir fonctionner normalement.&lt;br>Pour fournir des services supplémentaires, nous pouvons demander l'autorisation d'accéder et d'enregistrer des éléments dans le stockage de cet appareil.&lt;br> Pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez notre &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Contrat d'utilisation&lt; /font>&lt;/a> et notre &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Politique de confidentialité&lt;/font>&lt;/a> avant d'utiliser cette application."</string>
+  <string name="summary4">"Bienvenue dans le Diaporama de fonds d'écran ! Ici, vous pouvez vous abonner à vos catégories de papiers peints préférées et recevoir régulièrement de nouvelles images sur votre écran de verrouillage. "</string>
+  <string name="summary5">"Pour fournir des services supplémentaires, nous pouvons demander l'autorisation d'accéder et d'enregistrer des éléments dans le stockage de cet appareil. "</string>
+  <string name="summary_international">"En utilisant cette fonctionnalité, vous acceptez notre &lt;a href='%1$s'>Contrat d'utilisation&lt;/a> et notre &lt;a href='%2$s'>Politique de confidentialité&lt;/a>. Cette fonctionnalité doit se connecter à Internet pour fonctionner normalement.​"</string>
   <string name="sunday">Dimanche</string>
   <string name="sunday_short">Dim</string>
   <string name="sunday_shortest">Dim</string>
@@ -867,14 +873,14 @@ dd/MM"</string>
   <string name="theme_apply_failured">"Impossible d'appliquer, réessayez plus tard"</string>
   <string name="theme_apply_success">Appliqué avec succès</string>
   <string name="theme_applying">Appliquer…</string>
-  <string name="theme_close_maml">"Les images du Carrousel de fonds d'écran remplaceront le fond d'écran de l'écran de verrouillage."</string>
-  <string name="theme_des">"Appliquer le thème par défaut et réactiver le Carrousel de fonds d'écran."</string>
-  <string name="theme_des_lock_style">"Appliquer l'écran de verrouillage par défaut et réactiver le Carrousel de fonds d'écran."</string>
+  <string name="theme_close_maml">"Les images du Diaporama de fonds d'écran remplaceront le fond d'écran de l'écran de verrouillage."</string>
+  <string name="theme_des">"Appliquer le thème par défaut et réactiver le Diaporama de fonds d'écran."</string>
+  <string name="theme_des_lock_style">"Appliquer l'écran de verrouillage par défaut et réactiver le Diaporama de fonds d'écran."</string>
   <string name="theme_des_maml">"Les autres composants du thème actuel ne seront pas affectés. Le thème sera actualisé pour appliquer les modifications."</string>
   <string name="theme_ok">Paramètres</string>
   <string name="theme_title">Passer au thème par défaut</string>
   <string name="theme_title_lock_style">"Basculer vers l'écran de verrouillage par défaut"</string>
-  <string name="theme_title_subscribe">"S'abonner au Carrousel de fonds d'écran"</string>
+  <string name="theme_title_subscribe">"S'abonner au Diaporama de fonds d'écran"</string>
   <string name="thursday">Jeudi</string>
   <string name="thursday_short">Jeu</string>
   <string name="thursday_shortest">Jeu</string>
