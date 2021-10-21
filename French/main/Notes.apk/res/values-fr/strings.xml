@@ -394,7 +394,8 @@
   <string name="note_gesture_guide_step3">Appuyez et maintenez une note, puis faites-la glisser sur un dossier pour y déplacer la note</string>
   <string name="note_header_first_enter_guide">Tirez vers le bas pour en voir plus</string>
   <string name="note_invalid_mindnote_hint">"Les cartes mentales ne sont pas disponibles dans cette version. Mettez à jour l'application pour utiliser cette fonctionnalité."</string>
-  <string name="note_link_email">Rédiger un Email</string>
+  <string name="note_item_default_title">Note vierge</string>
+  <string name="note_link_email">Rédiger un e-mail</string>
   <string name="note_link_other">Ouvrir en utilisant une application de carte</string>
   <string name="note_link_select">Sélectionner le texte</string>
   <string name="note_link_tel">Appeler</string>
@@ -462,6 +463,12 @@
   <string name="pref_desc_skip_confirm_for_quick_delete">Faites glisser votre doigt vers le haut pour supprimer des notes sans confirmation.</string>
   <string name="pref_desc_todo_float_mode">"Faites glisser votre doigt depuis le bord de l'écran pour ouvrir la boîte à outils des tâches."</string>
   <string name="pref_excerpt_link_float">"Recevoir un rappel pour créer un extrait chaque fois qu'une URL est copiée"</string>
+  <string name="pref_permission_allowed">Autorisé</string>
+  <string name="pref_permission_manage">Détails des autorisations</string>
+  <string name="pref_permission_manage_key_contact">Accéder aux contacts</string>
+  <string name="pref_permission_manage_key_recording">"Enregistrer de l'audio"</string>
+  <string name="pref_permission_manage_key_storage">Accéder au stockage</string>
+  <string name="pref_permission_not_allowed">Refusé</string>
   <string name="pref_quick_note_desc">"Utilisez le raccourci au bord de l'écran pour créer des notes et des tâches, ainsi que pour enregistrer les URL, le texte et les images copiés dans Notes."</string>
   <string name="pref_remind_type_summary">Jouer un son de rappel en mode silencieux</string>
   <string name="pref_remind_type_summary_new">"Ignorer le mode silencieux et continuer à jouer le son jusqu'à ce que l'alarme soit désactivée"</string>
@@ -779,8 +786,9 @@ Autorisez Notes à lire le statut et lidentité du téléphone."</string>
   <string name="widget_empty_content">Appuyez pour sélectionner une note</string>
   <string name="widget_havenot_content">Appuyer pour créer une note. Maintenir le widget pour redimensionner.</string>
   <string name="widget_havenot_content_new">Appuyez pour créer une note. Appuyez et maintenez pour changer la taille.</string>
-  <string name="xiaomi_market_sdk_update_dialog_cancel">Plus tard</string>
-  <string name="xiaomi_market_sdk_update_dialog_ok">Mettre à jour</string>
-  <string name="xiaomi_market_sdk_update_dialog_title">Une mise à jour est disponible</string>
+  <string name="widget_size_item_big">Grand</string>
+  <string name="widget_size_item_medium">Moyen</string>
+  <string name="widget_size_item_small">Petit</string>
+  <string name="widget_take_notes_title">Notes</string>
   <string name="yesterday">Hier</string>
 </resources>

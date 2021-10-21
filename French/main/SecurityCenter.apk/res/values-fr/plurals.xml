@@ -811,13 +811,29 @@ Vous pouvez obtenir un essai gratuit de %d jours maintenant !"</item>
         <item quantity="other">%d numéros</item>
         <item quantity="one">%d numéro</item>
     </plurals>
+    <plurals name="summary_absorbed_time_foramt">
+        <item quantity="other">Activer le mode Focus pendant %d minutes</item>
+        <item quantity="one">Activer le mode Focus pendant %d minute</item>
+    </plurals>
     <plurals name="summary_app_update">
         <item quantity="other">Mises à jour disponibles pour %d applications.</item>
         <item quantity="one">Mise à jour disponible pour %d application.</item>
     </plurals>
+    <plurals name="summary_condition_lock_screen_format">
+        <item quantity="other">"Après le verrouillage de l'écran pendant %d min"</item>
+        <item quantity="one">"Après le verrouillage de l'écran pendant %d min"</item>
+    </plurals>
     <plurals name="summary_flow_verify">
         <item quantity="other">"Les statistiques de l'utilisation des données de l'opérateur n'ont pas été synchronisées depuis %d jours"</item>
         <item quantity="one">"Les statistiques de l'utilisation des données de l'opérateur n'ont pas été synchronisées depuis %d jour"</item>
+    </plurals>
+    <plurals name="summary_result_absorbed_time_format">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="summary_result_lock_screen_format">
+        <item quantity="other">"Verrouiller l'écran après %d min"</item>
+        <item quantity="one">"Verrouiller l'écran après %d min"</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d fichiers sécurisés</item>

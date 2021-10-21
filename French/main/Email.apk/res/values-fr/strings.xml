@@ -506,7 +506,7 @@
   <string name="folder_junk_name_en2">Courrier indésirable</string>
   <string name="folder_junk_name_en3">Courrier électronique indésirable</string>
   <string name="folder_junk_name_en4">Corbeille</string>
-  <string name="folder_list_current_account">Boîte aux lettres actuelle</string>
+  <string name="folder_list_current_account">Compte actuel</string>
   <string name="folder_list_display_all">Afficher tous les dossiers</string>
   <string name="folder_list_display_only_import">Afficher seulement les dossiers importants</string>
   <string name="folder_no_mails">"Pas d'e-mails dans ce dossier."</string>
@@ -565,6 +565,10 @@
   <string name="get_database_exception">Effacer les données de cette application dans Paramètres > Applications système et essayez à nouveau.</string>
   <string name="get_oauth_code">Obtenir le code</string>
   <string name="gmail_acceleration">Utiliser le serveur proxy pour le compte Gmail</string>
+  <string name="gmail_invalid_tip_cancel">Annuler</string>
+  <string name="gmail_invalid_tip_confirm">Se connecter</string>
+  <string name="gmail_invalid_tip_message">Les conditions générales de Google ont changé. Connectez-vous à nouveau à Gmail.</string>
+  <string name="gmail_invalid_tip_title">Connectez-vous à Gmail</string>
   <string name="gmail_login_confirm_to_use_proxy">Utiliser le serveur proxy pour accéder à votre compte Gmail ?</string>
   <string name="gmail_login_failed_non_proxy_title">"Impossible d'accéder au serveur Gmail"</string>
   <string name="gmail_server_authorization_deleted">"Impossible d'authentifier le compte. Essayez d'ajouter ce compte à nouveau."</string>
@@ -777,6 +781,8 @@ Bonjour, veuillez vérifier que le mot de passe de l'application est activé. S'
   <string name="network_try_again">Vérifiez la connexion réseau et réessayez</string>
   <string name="network_unavailable">Réseau non disponible</string>
   <string name="new_incoming_messages_one">Nouveau message de %s. Afficher.</string>
+  <string name="new_mail_notification">Avertir des nouveaux messages</string>
+  <string name="new_mail_notification_str">Autoriser les rappels</string>
   <string name="new_signature_has_saved">Sauvegardée avec succès</string>
   <string name="next_action">Suivant</string>
   <string name="no">Non</string>
@@ -906,11 +912,18 @@ Essayez un autre compte de messagerie."</string>
   <string name="perference_setup_send_tag">Serveur de courrier sortant</string>
   <string name="permission_access_provider_desc">"Autorise l'application à accéder à vos e-mails, noms d'utilisateur et aux mots de passe"</string>
   <string name="permission_access_provider_label">Accéder aux données utilisateur</string>
+  <string name="permission_calendar_subtitle">"Pour synchroniser les événements de l'e-mail vers votre Calendrier"</string>
+  <string name="permission_calendar_title">Accéder et ajouter des événements de Calendrier</string>
   <string name="permission_des_calendar">Il est utilisé pour synchroniser vos e-mails avec les informations de planification avec le calendrier dans le temps. Il est fortement recommandé de sélectionner Toujours autoriser</string>
   <string name="permission_des_contact">Utilisé pour synchroniser instantanément vos contacts de messagerie avec les contacts mobiles, il est fortement recommandé de sélectionner Toujours autoriser</string>
   <string name="permission_des_external_storage">À créer de nouveaux e-mails, ou bien enregistrer ou ajouter des pièces jointes</string>
+  <string name="permission_get_accounts_subtitle">Pour se connecter et gérer les comptes système</string>
+  <string name="permission_phone_status_subtitle">Pour identifier différents appareils</string>
+  <string name="permission_phone_status_title">"Accéder aux comptes sur l'appareil"</string>
   <string name="permission_read_attachment_desc">"Autorise l'application à lire vos pièces jointes"</string>
   <string name="permission_read_attachment_label">Lire les pièces jointes</string>
+  <string name="permission_write_contacts_subtitle">Pour afficher et modifier les adresses e-mail des contacts</string>
+  <string name="permission_write_external_storage_title">"Accéder et enregistrer des photos et des fichiers sur l'appareil"</string>
   <string name="personal_data_collection_summary">Lorsque le commutateur est activé, vous acceptez que nous puissions collecter vos données personnelles. Vous pouvez désactiver cette option, révoquer votre autorisation et supprimer vos données de nos serveurs à tout moment.</string>
   <string name="personal_data_collection_title">Autoriser la collecte de données personnelles</string>
   <string name="phone">Téléphone</string>

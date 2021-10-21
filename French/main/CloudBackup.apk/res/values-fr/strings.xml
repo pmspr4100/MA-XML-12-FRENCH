@@ -44,6 +44,10 @@
   <string name="backup_action_buy_cloud_space">"Obtenez plus d'espace de stockage"</string>
   <string name="backup_action_check_network">Vérifiez les paramètres du réseau</string>
   <string name="backup_action_clean_disk_space">"Libérer de l'espace"</string>
+  <string name="backup_action_no_space_with_wechat_off_content">Espace de stockage cloud insuffisant pour sauvegarder les éléments de cet appareil. Appuyez pour afficher les options de stockage cloud disponibles.</string>
+  <string name="backup_action_no_space_with_wechat_off_title">Impossible de sauvegarder les éléments</string>
+  <string name="backup_action_no_space_with_wechat_on_content">Espace de stockage cloud insuffisant pour sauvegarder les données WeChat. Mettez à niveau votre plan de stockage pour sauvegarder des éléments.</string>
+  <string name="backup_action_no_space_with_wechat_on_title">Impossible de sauvegarder les données WeChat</string>
   <string name="backup_action_retry_now">Réessayer</string>
   <string name="backup_failed_reason_app_usage_denied">Accordez les autorisations requises pour sauvegarder les éléments</string>
   <string name="backup_failed_reason_cloud_space_not_enough">"Espace disponible sur le cloud insuffisant pour créer cette sauvegarde. Changez votre abonnement ou libérez de l'espace de stockage cloud."</string>

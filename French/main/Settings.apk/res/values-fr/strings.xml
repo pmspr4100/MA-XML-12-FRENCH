@@ -4226,7 +4226,8 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
   <string name="lockscreen_sidepanel_shortcuts_title">Raccourcis des panneaux latéraux</string>
   <string name="login_account_dialog_message">Connectez-vous avec un compte Mi et activez la synchronisation avec le Cloud.</string>
   <string name="login_account_dialog_title">Se connecter avec le compte Mi</string>
-  <string name="login_account_summary">Gérer les comptes, les services Cloud, les paiements et plus encore</string>
+  <string name="login_account_summary">Gérer les comptes, les services cloud, les paiements et plus encore</string>
+  <string name="login_account_summary_temp">Gérer les comptes, les services cloud et plus encore</string>
   <string name="login_action">Se connecter</string>
   <string name="long_press_back_key">Appui prolongé sur bouton Retour</string>
   <string name="long_press_buttom_key">"Appui prolongé sur Menu à l'écran de verrouillage"</string>
@@ -7204,6 +7205,24 @@ Pour partager votre position avec des contacts d'urgence
 Si vous n'acceptez pas d'accorder de telles permissions ou de partager et de télécharger vos informations personnelles, vous ne pourrez pas utiliser cette application. Vous pouvez choisir de désactiver ou de ne pas utiliser SOS d'urgence dans de tels cas.
 Avant d'utiliser nos services, lisez et acceptez nos %s."</string>
   <string name="sos_privacy_dialog_title">"Conditions générales d'utilisation"</string>
+  <string name="sos_privacy_policy">Politique de confidentialité</string>
+  <string name="sos_privacy_policy_change_endtitle">Lisez et acceptez la nouvelle version de %s avant de continuer.</string>
+  <string name="sos_privacy_policy_change_message_reject">"Vous ne pourrez pas continuer à utiliser SOS d'urgence à moins d'accepter la nouvelle version de sa Politique de confidentialité. Accepter la mise à jour %s maintenant ?"</string>
+  <string name="sos_privacy_policy_change_subtitle">"La Politique de confidentialité de SOS d'urgence a été mise à jour :"</string>
+  <string name="sos_privacy_policy_change_title">Politique de confidentialité mise à jour</string>
+  <string name="sos_privacy_policy_change_title_reject">"Impossible d'utiliser l'application"</string>
+  <string name="sos_privacy_policy_no_net_button">Compris</string>
+  <string name="sos_privacy_policy_no_net_message">Votre appareil doit se connecter au réseau pour que vous puissiez retirer votre consentement. Vérifiez vos paramètres réseau et réessayez.</string>
+  <string name="sos_privacy_policy_no_net_title">Impossible de se connecter au réseau</string>
+  <string name="sos_privacy_policy_revoke">Retrait du consentement</string>
+  <string name="sos_privacy_policy_revoke_message_reject">"Si vous continuez, vous retirerez votre consentement à la Politique de confidentialité de SOS d'urgence. Les informations personnelles déjà collectées et conservées seront supprimées dans le délai imparti conformément aux lois et réglementations applicables, sauf indication contraire.
+
+Comme SOS d'urgence fournit ses services sur la base de la collecte des informations personnelles nécessaires, votre retrait de consentement sera considéré comme un refus d'accepter les services de sécurité.
+
+Retirer le consentement à %s maintenant ?"</string>
+  <string name="sos_privacy_policy_revoke_title_reject">Attention</string>
+  <string name="sos_privacy_revoke_failed_dialog_content">"Une erreur de serveur s'est produite. Attendez une minute ou deux et réessayez."</string>
+  <string name="sos_privacy_revoke_failed_dialog_title">Impossible de retirer le consentement</string>
   <string name="sound_assist_summary">Personnalisez vos paramètres sonores</string>
   <string name="sound_assist_title">Assistant son</string>
   <string name="sound_category_call_ringtone_vibrate_title">Sonnerie et notifications</string>

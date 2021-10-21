@@ -174,11 +174,13 @@
   <string name="not_set">Non défini</string>
   <string name="operation_delete">Supprimer</string>
   <string name="operation_send">Envoyer</string>
+  <string name="permission_desc">Détails des autorisations</string>
   <string name="permission_intro_microphone">Pour enregistrer le son lorsque la source sonore est réglée sur le microphone</string>
   <string name="permission_intro_storage">"Pour sauvegarder des enregistrements d'écran"</string>
   <string name="permission_microphone_desc">"Utilisation du microphone comme source audio pour les enregistrements d'écran"</string>
   <string name="pm">PM</string>
   <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
+  <string name="privacy_settings">Vie privée</string>
   <string name="quit_recording">"Fermeture de l'enregistreur d'écran"</string>
   <string name="recording_failure">"Impossible d'enregistrer, recommencez"</string>
   <string name="recording_max_size">"L'enregistrement a été suspendu et enregistré car le fichier vidéo a atteint sa limite de taille. Commencez l'enregistrement où il a été interrompu si vous ne l'avez pas encore terminé."</string>
@@ -300,6 +302,7 @@
   <string name="using_record_confirm_ok">Autoriser</string>
   <string name="v7_preference_off">DÉSACTIVÉ</string>
   <string name="v7_preference_on">ACTIVÉ</string>
+  <string name="view_privacy">Afficher la Politique de confidentialité</string>
   <string name="view_recorded_file">Appuyez pour afficher le fichier enregistré</string>
   <string name="view_recorded_videos">Afficher les enregistrements</string>
   <string name="warning_recording_when_a2dp_connect">Votre appareil ne prend pas en charge les sons du système denregistrement pendant lutilisation du casque Bluetooth.</string>

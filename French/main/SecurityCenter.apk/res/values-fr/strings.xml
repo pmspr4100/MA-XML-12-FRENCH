@@ -10,7 +10,7 @@
     <string name="HIPS_Perm_External_Storage_Desc">"Ajouter et supprimer des fichiers dans la mémoire interne de l'appareil"</string>
     <string name="HIPS_Perm_External_Storage_Group">Gérer les permissions de stockage</string>
     <string name="HIPS_Perm_External_Storage_Group_Desc">"Sélectionnez les éléments d'applications sont autorisés à accéder"</string>
-    <string name="HIPS_Perm_GetInstall_Desc">Obtenir des informations sur les applications installées sur cet appareil</string>
+    <string name="HIPS_Perm_GetInstall_Desc">Accéder à la liste des applications installées sur cet appareil</string>
     <string name="HIPS_Perm_PhoneID_Desc">Accéder au numéro de téléphone, IMEI et IMSI</string>
     <string name="HIPS_Perm_PhoneID_Desc_Q">"Accéder au numéro de téléphone et à l'état de l'appareil"</string>
     <string name="HIPS_Perm_Read_Call_Log_Desc">"Lire l'historique des appels"</string>
@@ -94,6 +94,13 @@
     <string name="action_source_call_title">Appels bloqués</string>
     <string name="action_source_sms_title">Messages bloqués</string>
     <string name="actionbar_button_up_description">Retour</string>
+    <string name="activity_edit_task_name">Modifier la tâche</string>
+    <string name="activity_mine_task">Mes tâches</string>
+    <string name="activity_new_condition_name">Ajouter une condition</string>
+    <string name="activity_new_result_name">Ajouter un résultat</string>
+    <string name="activity_new_task_name">Ajouter une tâche</string>
+    <string name="activity_no_task">Aucune tâche pour le moment</string>
+    <string name="activity_task_center">Centre des tâches</string>
     <string name="activity_title_antispam">Liste noire</string>
     <string name="activity_title_antivirus">Analyse de sécurité</string>
     <string name="activity_title_antivirus_kddi">Analyse de sécurité</string>
@@ -106,6 +113,7 @@
     <string name="activity_title_other_permission_manager">Autres permissions</string>
     <string name="activity_title_permission_manager">Permissions</string>
     <string name="activity_title_permissions_manager">Permissions</string>
+    <string name="activity_title_permissions_instruction">Détails des autorisations</string>
     <string name="activity_title_power_manager">Optimisation de la batterie</string>
     <string name="activity_title_risk_app_install_manager">Apps with possible risks</string>
     <string name="activity_title_root_acquired">"Autoriser l'accès root"</string>
@@ -125,7 +133,8 @@
     <string name="adb_install_open_error">"Impossible d'autoriser, vérifez votre connexion réseau"</string>
     <string name="adb_install_reject_notiy">"L'installation de \"%s\" via USB n'a pas été autorisée"</string>
     <string name="adb_install_reject_notiy_desc">"Vous pouvez autoriser l'installation via USB dans Options développeur"</string>
-    <string name="adb_login_xiaomi_account">"Connectez-vous d'abord à votre compte Mi"</string>
+    <string name="adb_login_xiaomi_account">"Connectez-vous d'abord à votre Compte Mi"</string>
+    <string name="add_auto_task_desktop_icon">"Ajouter un raccourci sur l'écran d'accueil"</string>
     <string name="add_done">Ajouté avec succès</string>
     <string name="add_game">Ajouter un jeu</string>
     <string name="add_game_notification_summary">Appuyez pour lancer et augmenter la vitesse</string>
@@ -283,11 +292,11 @@
     <string name="app_behavior_monitor_tips_summary">"Vous pouvez recevoir des notifications lorsque des applications enregistrent du son, accèdent à votre position ou effectuent d'autres actions sensibles en arrière-plan."</string>
     <string name="app_behavior_no_recorder">Impossible de trouver les résultats</string>
     <string name="app_behavior_notification_audio_now_one">\"%1s\" enregistrement</string>
-  <string name="app_behavior_notification_audio_now_two" formatted="false">%1s et %2s enregistrent le son</string>
+    <string name="app_behavior_notification_audio_now_two" formatted="false">%1s et %2s enregistrent le son</string>
     <string name="app_behavior_notification_camera_one">%1s prend des photos</string>
-  <string name="app_behavior_notification_camera_two" formatted="false">%1s et %2s prennent des photos</string>
+    <string name="app_behavior_notification_camera_two" formatted="false">%1s et %2s prennent des photos</string>
     <string name="app_behavior_notification_location_one">\"%1s\" accéde à votre localisation</string>
-  <string name="app_behavior_notification_location_two" formatted="false">%1s and %2s accèdent à votre localisation</string>
+    <string name="app_behavior_notification_location_two" formatted="false">%1s and %2s accèdent à votre localisation</string>
     <string name="app_behavior_notification_title_calllog_read">"%1s a accédé à l'historique des appels en arrière-plan"</string>
     <string name="app_behavior_notification_title_calllog_write">"%1s a modifié l'historique des appels en arrière-plan"</string>
     <string name="app_behavior_notification_title_clipboard_read">%1s a accédé au presse-papiers en arrière-plan</string>
@@ -334,7 +343,7 @@
     <string name="app_behavior_sms_read_single">Cette application a lu des SMS</string>
     <string name="app_behavior_sms_send">%1s a envoyé des SMS</string>
     <string name="app_behavior_sms_send_single">Cette application a envoyé des SMS</string>
-  <string name="app_behavior_start_from_app" formatted="false">%1s a été lancé par %2s</string>
+    <string name="app_behavior_start_from_app" formatted="false">%1s a été lancé par %2s</string>
     <string name="app_behavior_start_from_app_single">Cette application a été lancée par %1s</string>
     <string name="app_behavior_start_from_launcher">"%1s a été lancé depuis l'écran d'accueil"</string>
     <string name="app_behavior_start_from_launcher_single">"Cette application a été lancée à partir de l'écran d'accueil"</string>
@@ -351,7 +360,7 @@
     <string name="app_behavior_this_run">Once</string>
     <string name="app_behavior_time_today">"Aujourd'hui"</string>
     <string name="app_behavior_time_yesterday">Hier</string>
-  <string name="app_behavior_wakepath" formatted="false">%1s a lancé %2s</string>
+    <string name="app_behavior_wakepath" formatted="false">%1s a lancé %2s</string>
     <string name="app_behavior_wakepath_single">Cette application a été lancée %2s</string>
     <string name="app_behavior_warning_audio_title">"%1s enregistre de l'audio en arrière-plan"</string>
     <string name="app_behavior_warning_content">"Mettez fin à ce processus si vous ne l'avez pas autorisé"</string>
@@ -653,6 +662,8 @@ Vous ne perdrez aucune donnée d'application."</string>
     <string name="auto_import_games">Placer tous les jeux dans le même dossier</string>
     <string name="auto_send_correcting_msg">Laisser vide pour vérifier automatiquement avec un SMS gratuit</string>
     <string name="auto_set_by_brand">Synchroniser les détails de votre forfait avec votre opérateur</string>
+    <string name="auto_task_allow_suggestion">Suggestions de tâches intelligentes</string>
+    <string name="auto_task_available_device">Appareils disponibles</string>
     <string name="auto_task_condition_choose_battery_level_down">Lorsque la batterie atteint un certain niveau</string>
     <string name="auto_task_condition_choose_end_time">Heure de fin</string>
     <string name="auto_task_condition_choose_ontime">Minuteur</string>
@@ -663,11 +674,40 @@ Vous ne perdrez aucune donnée d'application."</string>
     <string name="auto_task_condition_time_duration_text">De %1$s à %2$s</string>
     <string name="auto_task_condition_time_pick_title">Régler le minuteur</string>
     <string name="auto_task_condition_time_text">À %s</string>
+    <string name="auto_task_conncet_to_some_device">Connecté à %s</string>
+    <string name="auto_task_create_success">Tâche créée avec succès</string>
+    <string name="auto_task_custom_time">"Régler l'heure"</string>
+    <string name="auto_task_custom_time_lable">min</string>
+    <string name="auto_task_default_add_action">Ajouter une action</string>
+    <string name="auto_task_default_add_task">Ajouter à \"Mes tâches\"</string>
+    <string name="auto_task_default_add_to_task_list">Ajouter à \"Mes tâches\"</string>
+    <string name="auto_task_default_do_action">Alors</string>
+    <string name="auto_task_default_if_exclude">Si</string>
+    <string name="auto_task_default_task_summary_driver_car">"Activer le point d'accès portable lorsqu'il est connecté au système de voiture via Bluetooth"</string>
+    <string name="auto_task_default_task_summary_get_up">Désactiver le mode NPD et réactiver le Bluetooth, le Wi-Fi et les données mobiles</string>
+    <string name="auto_task_default_task_summary_listen_music">"Jouer de la musique et sélectionner le type d'écouteur"</string>
+    <string name="auto_task_default_task_summary_meet">"Planifier l'heure de la réunion et activer le mode NPD"</string>
+    <string name="auto_task_default_task_summary_noon_break">"Planifiez l'heure de la sieste et activez le mode NPD"</string>
+    <string name="auto_task_default_task_summary_save_power">"Activer l'économiseur de batterie lorsque la batterie est inférieure à %s"</string>
+    <string name="auto_task_default_task_summary_sleep">"Planifiez l'heure du coucher et personnalisez le comportement de l'appareil"</string>
+    <string name="auto_task_default_task_summary_watch_video">"Ouvrez l'application, activez le Wi-Fi, réglez le volume"</string>
+    <string name="auto_task_default_task_title_driver_car">Conduire</string>
+    <string name="auto_task_default_task_title_get_up">Préparer</string>
+    <string name="auto_task_default_task_title_listen_music">Écouter de la musique</string>
+    <string name="auto_task_default_task_title_meet">Réunion</string>
+    <string name="auto_task_default_task_title_noon_break">Sieste</string>
+    <string name="auto_task_default_task_title_save_power">Économiser la batterie</string>
+    <string name="auto_task_default_task_title_sleep">Sommeil</string>
+    <string name="auto_task_default_task_title_watch_video">Regarder des vidéos</string>
+    <string name="auto_task_delete_task">Supprimer une tâche</string>
     <string name="auto_task_dialog_button_close">Terminé</string>
+    <string name="auto_task_disconnect_to_some_device">Se déconnecter de %s</string>
     <string name="auto_task_edit_abandon_change">Abandonner les modifications ?</string>
+    <string name="auto_task_edit_address">"Modifier l'adresse"</string>
     <string name="auto_task_edit_activity_title">Mes tâches automatiques</string>
     <string name="auto_task_edit_adandon_button_text">Abandonner</string>
     <string name="auto_task_edit_choose_condition_title">Sélectionnez une condition</string>
+    <string name="auto_task_edit_default_task_name">Modifier le nom de la tâche</string>
     <string name="auto_task_edit_choose_new_operation">Ajouter une action</string>
     <string name="auto_task_edit_choose_operation_title">Sélectionnez une action</string>
     <string name="auto_task_edit_condition_summary">Par exemple, \"À %s\"</string>
@@ -675,11 +715,21 @@ Vous ne perdrez aucune donnée d'application."</string>
     <string name="auto_task_edit_my_custom_task">Nom</string>
     <string name="auto_task_edit_operation_summary">Par exemple, \"Activer le mode avion\"</string>
     <string name="auto_task_edit_task_name">Nom</string>
+    <string name="auto_task_exit_finish">Tâche terminée automatiquement</string>
+    <string name="auto_task_font_setting_weight_toast">"Impossible d'ajuster la graisse de cette police"</string>
+    <string name="auto_task_leave_app">Quitter %s</string>
+    <string name="auto_task_lock_screen_now">"Verrouiller l'écran"</string>
+    <string name="auto_task_loop_exclude_cancel">Tâche en boucle annulée</string>
     <string name="auto_task_main_title">Tâches automatiques</string>
     <string name="auto_task_mamange_activity_title">Paramètres</string>
     <string name="auto_task_manage_delete_prompt">Supprimer les tâches sélectionnées ?</string>
     <string name="auto_task_manage_new_task">Nouvelle tâche automatisée</string>
     <string name="auto_task_manager_group_title">Mes tâches automatiques</string>
+    <string name="auto_task_nearby_device">Appareils disponibles</string>
+    <string name="auto_task_nearby_wlan">Réseaux disponibles</string>
+    <string name="auto_task_no_in_call">"Quand vous n'avez pas d'appel"</string>
+    <string name="auto_task_no_need">Non merci</string>
+    <string name="auto_task_notification_tips">Notifications</string>
     <string name="auto_task_notify_do_task_title">Tâche automatique démarrée</string>
     <string name="auto_task_notify_exit_task_title">Tâche automatique terminée</string>
     <string name="auto_task_notify_task_cancel_count_down_new">"L'action automatique sera annulée dans %d secondes"</string>
@@ -692,6 +742,14 @@ Vous ne perdrez aucune donnée d'application."</string>
     <string name="auto_task_notify_task_continue_do">"Démarrer l'action"</string>
     <string name="auto_task_notify_task_count_down_new">"L'action automatique va commencer dans %d secondes"</string>
     <string name="auto_task_notify_task_exit_task">Annuler la tâche</string>
+    <string name="auto_task_notify_title_has_cancel">Tâche annulée</string>
+    <string name="auto_task_notify_title_has_cancel_exit">Saisie automatique annulée</string>
+    <string name="auto_task_notify_title_has_exclude">Tâche exécutée</string>
+    <string name="auto_task_offen_use_device">Mes appareils</string>
+    <string name="auto_task_offen_use_wlan">Mes réseaux</string>
+    <string name="auto_task_open_app">Ouvrir %s</string>
+    <string name="auto_task_open_bluetooth">Activer le Bluetooth</string>
+    <string name="auto_task_open_wlan">Activer le Wi-Fi</string>
     <string name="auto_task_operation_airplane_mode">Mode avion</string>
     <string name="auto_task_operation_auto_brightness">Luminosité auto</string>
     <string name="auto_task_operation_bluetooth">Bluetooth</string>
@@ -710,7 +768,37 @@ Vous ne perdrez aucune donnée d'application."</string>
     <string name="auto_task_operation_sync">Synchronisation</string>
     <string name="auto_task_operation_vibration">Vibration</string>
     <string name="auto_task_operation_wifi">Wi-Fi</string>
+    <string name="auto_task_please_select_item">Sélectionner un élément</string>
     <string name="auto_task_result_summary_text">"Définir des tâches automatisées pour l'économiseur de batterie"</string>
+    <string name="auto_task_rule_bluetooth">Vous pouvez ouvrir automatiquement %2$s lorsque vous utilisez Bluetooth avec %1$s. Créer cette tâche maintenant ?</string>
+    <string name="auto_task_rule_map_location">Vous pouvez activer automatiquement les services de localisation lorsque vous utilisez des cartes. Créer cette tâche maintenant ?</string>
+    <string name="auto_task_rule_read_mode">Vous pouvez activer le mode Lecture automatiquement lorsque vous utilisez des applications de lecture. Créer cette tâche maintenant ?</string>
+    <string name="auto_task_rule_zen_mode">Vous pouvez activer automatiquement le mode NPD pendant les siestes entre 12h00 et 14h00. Créer cette tâche maintenant ?</string>
+    <string name="auto_task_select_address_company">Travail</string>
+    <string name="auto_task_select_address_home">DOmicile</string>
+    <string name="auto_task_select_address_leave">Quitter</string>
+    <string name="auto_task_select_address_no_set">Non réglé</string>
+    <string name="auto_task_select_address_other">Adresses fréquentes</string>
+    <string name="auto_task_select_address_to">Arriver</string>
+    <string name="auto_task_set_conncet_bluetooth">Réglé</string>
+    <string name="auto_task_set_conncet_wlan">Réglé</string>
+    <string name="auto_task_set_exit_condition">"Utiliser les conditions d'achèvement"</string>
+    <string name="auto_task_set_exit_condition_summary">"Terminez la tâche lorsque l'une des conditions suivantes est remplie"</string>
+    <string name="auto_task_set_open_app">Réglé</string>
+    <string name="auto_task_setting_allow_notify">Autoriser les notifications</string>
+    <string name="auto_task_setting_allow_tips_smart_task">Autoriser les notifications avec des suggestions intelligentes</string>
+    <string name="auto_task_setting_before_exclude_notify">Notifications avant la tâche</string>
+    <string name="auto_task_setting_exclude_notify">Notifications pendant la tâche</string>
+    <string name="auto_task_setting_need_reset">Restaurer les valeurs par défaut après avoir terminé la tâche</string>
+    <string name="auto_task_setting_show_task_shortcut_in_desktop">"Raccourci de l'écran d'accueil"</string>
+    <string name="auto_task_show_notification_before_exclude">Notifications avant exécution</string>
+    <string name="auto_task_show_notification_before_exit">Notifications avant la fin</string>
+    <string name="auto_task_temp_allow">OK</string>
+    <string name="auto_task_temp_no_exit">Annuler</string>
+    <string name="auto_task_temp_no_need">Annuler</string>
+    <string name="auto_task_voice_dialog_alarm_title">Alarmes</string>
+    <string name="auto_task_voice_dialog_call_title">Appels, notifications, rappels</string>
+    <string name="auto_task_voice_dialog_media_title">Musique, jeux, médias</string>
     <string name="back_app_name">Retourner à Verr. App</string>
     <string name="back_description_securitycenter">Retour</string>
     <string name="back_modifypassword">Retourner au changement du type de mot de passe</string>
@@ -987,6 +1075,12 @@ Vous ne perdrez aucune donnée d'application."</string>
     <string name="cta_main_purpose">"Bienvenue dans la sécurité ! Vous pouvez utiliser cette application pour nettoyer les fichiers inutiles de votre appareil, rechercher et neutraliser les virus, optimiser les performances de jeu, économiser la batterie, gérer des applications, etc."</string>
     <string name="cta_settings">Autoriser la connexion à internet</string>
     <string name="current_network_state_not_need_diagnose">La connexion internet est normale.</string>
+    <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Pour ajouter des éléments à la Liste de blocage</string>
+    <string name="custom_define_permission_desc_android.permission.READ_CALL_LOG">"Pour accéder à l'historique des appels afin d'afficher les éléments bloqués"</string>
+    <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">"Pour fournir la fonctionnalité de Liste de blocage et appeler les contacts d'urgence"</string>
+    <string name="custom_define_permission_desc_android.permission.SEND_SMS">Pour envoyer des messages aux contacts bloqués</string>
+    <string name="custom_define_permission_desc_android.permission.WRITE_CALL_LOG">"Pour ajouter des éléments à l'historique des appels et supprimer les appels bloqués"</string>
+    <string name="custom_define_permission_desc_android.permission_group.STORAGE">Pour effectuer une analyse antivirus et optimiser votre appareil</string>
     <string name="customize_limit_pkg">%s (personnaliser)</string>
     <string name="customizer_mode_user_define_name">Mes règles</string>
     <string name="daily_card_setting_fragment_daily_card_brand">Opérateur</string>
@@ -1043,6 +1137,12 @@ Votre opérateur peut vous facturer des frais supplémentaires si vous activer l
     <string name="deep_power_save_item_title_lock_screen_time">"Mettre l'écran en veille"</string>
     <string name="deep_save_memory_clean_summary">Nettoyer le cache lorsque vous verrouillez votre appareil pour éviter que les applicaitons déchargent la batterie</string>
     <string name="deep_save_ontime_boot_shutdown_summary">"Définir l'heure pour allumer et éteindre l'appareil"</string>
+    <string name="default_condition_summary">Par exemple : \"La batterie est inférieure à %s\"</string>
+    <string name="default_condition_title">Ajouter une condition</string>
+    <string name="default_condition_title_continue">Ajouter une condition</string>
+    <string name="default_result_summary">Par exemple : \"Désactiver le Mode avion\"</string>
+    <string name="default_result_title">Ajouter un résultat</string>
+    <string name="default_result_title_continue">Ajouter un résultat</string>
     <string name="delete">Supprimer</string>
     <string name="delete_all_sms">Tout supprimer</string>
     <string name="delete_from_manual_item_white_list">Retirer des exceptions</string>
@@ -1158,7 +1258,9 @@ Il sera ajouté aux exceptions, mais les éléments bloqués précédemment n'ap
     <string name="doze_optimization_summary">Augmente la réponse au toucher et la sensibilité</string>
     <string name="doze_optimization_title">Commandes tactiles optimisées</string>
     <string name="early_morning">Matin</string>
-    <string name="email">Email</string>
+    <string name="edit_new_task_name">Entrez le nom de la tâche</string>
+    <string name="eew_privacy_revoke_title">"Retirer son consentement à la politique de confidentialité de l'avertissement de tremblement de terre"</string>
+    <string name="email">E-mail</string>
     <string name="empty_app">Aucune application</string>
     <string name="empty_title_auto_start_list">Aucune application ne peut démarrer automatiquement.</string>
     <string name="empty_title_garbage_virus_white_list">Maintenir les résultats dans la liste pour les ignorer pendant la prochaine analyse</string>
@@ -1306,6 +1408,7 @@ Vous devez comprendre que cette fonctionnalité est fournie à titre indicatif u
     <string name="ew_monitor_my_content">"Mon appareil mobile fait partie du réseau d'alerte précoce en cas de tremblement de terre. Une fois que ses capteurs ont détecté les ondes sismiques, les données seront analysées par l'algorithme d'IA et des alertes précoces seront émises aux personnes dans les zones touchées."</string>
     <string name="ew_monitor_number_prex">No %s</string>
     <string name="ew_monitor_open">Joindre</string>
+    <string name="ew_monitor_privacy_revoke_title">Retirer son consentement à la politique de confidentialité de Earthquake Monitor</string>
     <string name="ew_monitor_read_privacy"><Data>"J'ai lu et accepté la &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a>."</Data></string>
     <string name="ew_monitor_share">Partager</string>
     <string name="ew_monitor_slogan">"Rejoignez notre programme de surveillance
@@ -2357,13 +2460,17 @@ Votre appareil est %d%% plus rapide maintenant."</string>
     <string name="network_connected_exception_title">Tester le réseau</string>
     <string name="network_control">"Afficher les paramètres de l'application"</string>
     <string name="network_diagnostics">Test du réseau</string>
+    <string name="network_disable_dialog_btn_text">Compris</string>
+    <string name="network_disable_dialog_content">Votre appareil doit se connecter au réseau pour que vous puissiez retirer votre consentement. Vérifiez vos paramètres réseau et réessayez.</string>
+    <string name="network_disable_dialog_content_cn">Votre appareil doit se connecter au réseau pour que vous puissiez retirer votre consentement. Vérifiez vos paramètres réseau et réessayez.</string>
+    <string name="network_disable_dialog_title">Impossible de se connecter au réseau</string>
     <string name="network_mobile_exception_detail">"Votre appareil ne peut pas se connecter à internet :
 
 1. Assurez-vous que vous n'avez pas dépassé la limite de votre forfait de données mobiles.
 
- 2. Si vous avez juste rechargé votre crédit, redémarrez votre appareil puis réessayez.
+2. Si vous avez juste rechargé votre crédit, redémarrez votre appareil puis réessayez.
 
- 3. Le signal de votre réseau pourrait être faible à votre localisation actuelle."</string>
+3. Le signal de votre réseau pourrait être faible à votre localisation actuelle."</string>
     <string name="network_operator_exception_summary">"Impossible d'activer la carte SIM. Assurez-vous que votre carte SIM est insérée correctement et que votre forfait mobile a été activé par votre opérateur."</string>
     <string name="network_permission_exception_tips">"Impossible d'utiliser les données mobiles pour se connecter au réseau"</string>
     <string name="network_roaming_exception_tips">"Impossible d'utiliser les données mobiles en itinérance pour se connecter au réseau."</string>
@@ -2409,6 +2516,16 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
     <string name="networkchanged_exception_summary">La connexion réseau a changé. Tester à nouveau.</string>
     <string name="networkchanged_exception_title">Connexion changée</string>
     <string name="never_new">%d fois</string>
+    <string name="new_condition_communication">Interaction</string>
+    <string name="new_condition_event">Évènement</string>
+    <string name="new_condition_setting_item">Réglage</string>
+    <string name="new_condition_situation">Situation</string>
+    <string name="new_result_function">Caractéristique</string>
+    <string name="new_result_screen_display">Affichage</string>
+    <string name="new_result_setting_item">Réglage</string>
+    <string name="new_result_sound_and_vibration">Son &amp; vibration</string>
+    <string name="new_task_condition_name">Si</string>
+    <string name="new_task_result_name">Alors</string>
     <string name="news_change">Changer</string>
     <string name="nickname">Surnom</string>
     <string name="night">Soirée</string>
@@ -3356,9 +3473,11 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
     <string name="privacy_dialog_danger_mission_title">Permissions à haut risque</string>
     <string name="privacy_dialog_feedback">"Retour d'information"</string>
     <string name="privacy_dialog_message">"Lorsque vous vous connectez à internet, ce message ainsi que les infos de l'opérateur seront chiffrés et envoyés aux serveurs Mi afin de nous aider à améliorer la surveillance de l'utilisation des données."</string>
+    <string name="privacy_dialog_negative_button_text">Quitter</string>
     <string name="privacy_dialog_ok">Compris</string>
     <string name="privacy_dialog_ok_with_num">"C'est compris (%ss)"</string>
     <string name="privacy_dialog_open">Activer</string>
+    <string name="privacy_dialog_positive_button_text">Accepter</string>
     <string name="privacy_empty_call">"Aucun accès à l'historique des appels aujourd'hui"</string>
     <string name="privacy_empty_contact">"Aucun accès aux contacts aujourd'hui"</string>
     <string name="privacy_empty_location">"Aucune localisation aujourd'hui"</string>
@@ -3380,6 +3499,7 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
     <string name="privacy_location_info_title">Info localisation</string>
     <string name="privacy_look_all_permission_status">Toutes les permissions</string>
     <string name="privacy_look_all_permission_times">Toutes les applications</string>
+    <string name="privacy_look_privacy">Politique de confidentialité</string>
     <string name="privacy_manage_title">Gestionnaires</string>
     <string name="privacy_mask_summary">"Au lieu de votre véritable identifiant, MIUI fournira un ID virtuel (OAID) aux applications tierces. Il empêche les applications de suivre votre comportement et vos préférences et protège votre vie privée."</string>
     <string name="privacy_mask_title">"L'ID virtuel est activé"</string>
@@ -3395,10 +3515,12 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
     <string name="privacy_permission_call_title">Protéger les appels</string>
     <string name="privacy_permission_camera_title">"Restreindre l'utilisation de l'appareil photo en arrière-plan"</string>
     <string name="privacy_permission_contacts">Accès ou modification des contacts</string>
+    <string name="privacy_permission_desc">Détails des autorisations</string>
     <string name="privacy_permission_location">Accéder à la localisation</string>
     <string name="privacy_permission_management">Gérer les permissions</string>
     <string name="privacy_permission_management_summary">"Applications utilisant des permissions permettant de passer des appels, d'envoyer des SMS et d'accéder aux contacts"</string>
     <string name="privacy_permission_record">Enregistrement audio</string>
+    <string name="privacy_permission_relate">Autorisations</string>
     <string name="privacy_permission_right">Confidentialité</string>
     <string name="privacy_permission_status">Permissions actuellement utilisées</string>
     <string name="privacy_permission_storage">Accéder au stockage</string>
@@ -3423,6 +3545,24 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
     <string name="privacy_provision_summary">"La protection de la vie privée est l'engagement derrière la conception de nos produits"</string>
     <string name="privacy_provision_text">"Nous nous engageons à respecter et à protéger votre vie privée. Privilégiant la recherche et le développement dans le domaine de la sécurité de l'information, Xiaomi travaille constamment à l'amélioration des méthodes, des pratiques et des solutions techniques qui protègent vos données. Nous partageons également nos dernières réalisations avec nos partenaires afin de garantir votre confidentialité à tous les niveaux."</string>
     <string name="privacy_provision_title">Confidentialité</string>
+    <string name="privacy_recommend_category">Personnalisation</string>
+    <string name="privacy_recommend_summary">Recevez des recommandations de contenu personnalisées</string>
+    <string name="privacy_recommend_title">Recommandations personnalisées</string>
+    <string name="privacy_revoke_category_title">Retrait du consentement et annulation du service</string>
+    <string name="privacy_revoke_dialog_content">"En désactivant le commutateur, vous retirez votre consentement à la Politique de confidentialité de sécurité. Nous cesserons de collecter vos informations personnelles. Les informations personnelles déjà collectées et conservées seront supprimées dans le délai spécifique requis par les lois applicables. La sécurité doit collecter les informations personnelles nécessaires pour vous fournir des services de base. Votre retrait de consentement à sa Politique de confidentialité sera considéré comme un refus d'accepter ses services sur la base des informations personnelles collectées."</string>
+    <string name="privacy_revoke_dialog_content_cn">"Si vous continuez, vous retirerez votre consentement à la Politique de confidentialité de %1$s. Nous cesserons de collecter vos informations personnelles. Les informations personnelles déjà collectées et conservées seront supprimées dans le délai imparti conformément aux lois et réglementations applicables, sauf indication contraire.
+Comme %2$s fournit ses services sur la base de la collecte des informations personnelles nécessaires, votre retrait de consentement sera considéré comme un refus d'accepter les services de %3$s.
+Retirer le consentement maintenant ?"</string>
+    <string name="privacy_revoke_dialog_negetive_text">Annuler</string>
+    <string name="privacy_revoke_dialog_positive_text">Retirer</string>
+    <string name="privacy_revoke_dialog_positive_text_numbers">Retirer (%ds)</string>
+    <string name="privacy_revoke_dialog_title">Retrait du consentement</string>
+    <string name="privacy_revoke_dialog_title_cn">Attention</string>
+    <string name="privacy_revoke_failed_dialog_content">"Une erreur de serveur s'est produite. Attendez une minute ou deux et réessayez."</string>
+    <string name="privacy_revoke_failed_dialog_title">Impossible de retirer le consentement</string>
+    <string name="privacy_revoke_tip_dialog_content"><Data>"Vous ne pourrez pas continuer à utiliser %1$s à moins d'accepter la nouvelle version de sa Politique de confidentialité. Accepter la %2$s &lt;a href=\"%3$s\">Politique de confidentialité&lt;/a> mise à jour ?"</Data></string>
+    <string name="privacy_revoke_tip_dialog_title">"Impossible d'utiliser l'application"</string>
+    <string name="privacy_revoke_title">Retrait du consentement</string>
     <string name="privacy_risk_app">Applications à risque</string>
     <string name="privacy_risk_app_fuzzy">Applications sans aperçus flous</string>
     <string name="privacy_risk_dangerous_bar_title">Permissions à haut risque</string>
@@ -3513,6 +3653,9 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
     <string name="privacy_thumbnail_blur_title">Flouter les aperçus</string>
     <string name="privacy_thumbnail_blur_top_tip">Sélectionnez les applications pour lesquelles les aperçus seront flous dans Récents</string>
     <string name="privacy_type_open">Activé</string>
+    <string name="privacy_update_dialog_content_1">La politique de confidentialité de %s a été mise à jour :</string>
+    <string name="privacy_update_dialog_content_2"><Data>Lisez et acceptez la nouvelle version de la &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a> avant de continuer.</Data></string>
+    <string name="privacy_update_dialog_title">Politique de confidentialité mise à jour</string>
     <string name="privacy_using_camera">"Utilisation de l'appareil photo"</string>
     <string name="privacy_using_location">Accéder à la localisation</string>
     <string name="privacy_using_record">Enregistrement audio</string>
@@ -3683,10 +3826,11 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
     <string name="section_title_security_defend">Sécurité</string>
     <string name="section_title_system">Sécurité système</string>
     <string name="security_bottom_guide_to_pm_text">Release to open utilities</string>
+    <string name="security_center_auto_task">Centre de tâches</string>
     <string name="security_center_slogan">Gardez votre appareil rapide et sécurisé</string>
-    <string name="security_guide_bubble_text">Open</string>
-    <string name="security_guide_summary">One-stop spot for tools and services</string>
-    <string name="security_guide_title">MIUI Utility Kit</string>
+    <string name="security_guide_bubble_text">Ouvrir</string>
+    <string name="security_guide_summary">Un guichet unique pour les outils et les services</string>
+    <string name="security_guide_title">Kit utilitaire MIUI</string>
     <string name="security_scan_optimizing">Optimisation…</string>
     <string name="securityadd_install_fail">"Impossible de mettre à jour le plug-in. Réessayer."</string>
     <string name="securityadd_update_tips_cancle">Pas maintenant</string>
@@ -3697,6 +3841,8 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
     <string name="see_all_app_behavior_record">"Afficher tous les comportements des applications"</string>
     <string name="see_detail">Détails</string>
     <string name="see_more_content">Mettre à jour le centre de jeux pour voir plus de moments forts</string>
+    <string name="select_app_title_default">"Ouvrir l'application"</string>
+    <string name="select_app_title_music">Jouer de la musique</string>
     <string name="select_province_and_city">Sélectionnez la localisation</string>
     <string name="send">Envoyer</string>
     <string name="send_msg_to_query">Envoyez un SMS pour vérifier</string>
@@ -3723,11 +3869,16 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
     <string name="settings_image_camera_summary">"Modèle d'appareil, métadonnées, etc."</string>
     <string name="settings_location_subtitle_no">Aucune information de localisation</string>
     <string name="settings_power_save_ontime_title">Planifier</string>
+    <string name="settings_privacy_revoke_desc">"En désactivant l'interrupteur, vous retirez votre consentement à la Politique de confidentialité de sécurité."</string>
+    <string name="settings_privacy_revoke_title">Retrait du consentement</string>
+    <string name="settings_privacy_settings_title">Vie privée</string>
     <string name="settings_share_enable_summary">Les éléments que vous partagez sur WeChat apparaîtront avec un badge MIUI</string>
     <string name="settings_share_info">Voici les options de partage sécurisé disponibles pour les éléments partagés depuis la Galerie et le Gestionnaire de fichiers :</string>
     <string name="settings_show_detail">Afficher les détails</string>
     <string name="settings_tip">"Aller à la galerie > Paramètres pour afficher plus d'options"</string>
     <string name="settings_title">Partage sécurisé</string>
+    <string name="share_uid_app">Applications avec autorisations partagées</string>
+    <string name="share_uid_instruction">"Cette application doit partager des autorisations avec les applications suivantes pour fournir les services système associés. Chaque fois que vous modifiez le statut d'une autorisation pour cette application, le statut correspondant sera également modifié pour les applications suivantes."</string>
     <string name="shield_keyboard_detail">Appuyer rapidement deux fois sur les boutons pour les activer</string>
     <string name="shield_keyboard_summary">Restreindre les boutons et les gestes en plein écran pendant les jeux</string>
     <string name="shield_keyboard_title">Restreindre les boutons et les gestes</string>
@@ -4187,23 +4338,17 @@ Pour utiliser ce ^1 avec cet appareil, vous devez d'abord le configurer."</strin
     <string name="storage_item_picture_name">Images</string>
     <string name="storage_item_system_name">Système</string>
     <string name="storage_item_video_name">Vidéo</string>
-    <string name="storage_menu_mount">Mount</string>
-    <string name="storage_mount_failure">"Couldn't mount %1$s"</string>
-    <string name="storage_mount_success">Mounted %1$s successfully</string>
+    <string name="storage_menu_mount">Mountage</string>
+    <string name="storage_mount_failure">Impossible de monter %1$s</string>
+    <string name="storage_mount_success">%1$s monté avec succès</string>
     <string name="storage_space_release_hint">"Besoin de plus d'espace de stockage ?"</string>
-    <string name="storage_unmount_failure">"Couldn't unmount %1$s"</string>
-    <string name="storage_unmount_success">Unmounted %1$s successfully</string>
-    <string name="storage_wizard_format_confirm_v2_action">Format ^1</string>
-    <string name="storage_wizard_format_confirm_v2_body">"This ^1 needs to be formatted to store apps, files, and media.
+    <string name="storage_unmount_failure">Impossible de démonter %1$s</string>
+    <string name="storage_unmount_success">%1$s démonté avec succès</string>
+    <string name="storage_wizard_format_confirm_v2_action">Formater ^1</string>
+    <string name="storage_wizard_format_confirm_v2_body">"Ce ^1 doit être formaté pour stocker des applications, des fichiers et des médias.
 
-Formatting will erase existing content on the ^2. To avoid losing content, back it up to another ^3 or device."</string>
-    <string name="storage_wizard_format_confirm_v2_title">Format this ^1 now?</string>
-    <string name="stranger_call_dialog_add_block_list">Block</string>
-    <string name="stranger_call_dialog_add_contacts">New contact</string>
-    <string name="stranger_call_dialog_notification_body">Add to contacts or block this number</string>
-    <string name="stranger_call_dialog_notification_title_format">Unknown number %s</string>
-    <string name="stranger_call_dialog_subtitle_format">"%s isn't among your contacts. You can add this phone number to contacts or block it."</string>
-    <string name="stranger_call_dialog_title">"Unknown number "</string>
+Le formatage effacera le contenu existant sur le ^2. Pour éviter de perdre du contenu, sauvegardez-le sur un autre ^3 ou appareil."</string>
+    <string name="storage_wizard_format_confirm_v2_title">Formater ce ^1 maintenant ?</string>
     <string name="suggest_app_tolock">Suggestions</string>
     <string name="suggest_app_tolock_masked">Contenu caché</string>
     <string name="suggest_app_tolock_unmasked">Notifications visibles</string>
@@ -4220,6 +4365,25 @@ Formatting will erase existing content on the ^2. To avoid losing content, back 
     <string name="summary_cloud_space_almost_full">"Obtenir de l'espace de stockage"</string>
     <string name="summary_cloud_space_full">"Obtenir plus d'espace de stockage et accéder à plus de fonctionnalités"</string>
     <string name="summary_cmcc_app_check">"Certaines applications n'ont pas pu être vérifiées"</string>
+    <string name="summary_condition_charge_to_target">Lorsque la batterie est chargée au niveau défini</string>
+    <string name="summary_condition_charge_to_target_percent">Lorsque la batterie est chargée à %s</string>
+    <string name="summary_condition_close_absorbed_mode">Après avoir désactivé le Mode concentration</string>
+    <string name="summary_condition_in_charge">Lors de la charge</string>
+    <string name="summary_condition_insert_headset">Connecter des écouteurs filaires</string>
+    <string name="summary_condition_missing_call">Appel manqué</string>
+    <string name="summary_condition_no_in_charge">En dehors de la charge</string>
+    <string name="summary_condition_open_absorbed_mode">Après avoir activé le Mode concentration</string>
+    <string name="summary_condition_reduce_to_target">Lorsque la batterie est au niveau défini</string>
+    <string name="summary_condition_reduce_to_target_percent">Lorsque la batterie est à %s</string>
+    <string name="summary_condition_scan_rubbish">Nettoyeur</string>
+    <string name="summary_condition_scan_virus">Recherche de virus</string>
+    <string name="summary_condition_unplug_headset">Déconnecter les écouteurs filaires</string>
+    <string name="summary_condition_wired_charge">Lorsque le chargeur est connecté</string>
+    <string name="summary_condition_wireless_charge">Lors de la charge sans fil</string>
+    <string name="summary_confirm_open_flashligt">Allumer la lampe de poche ?</string>
+    <string name="summary_confirm_open_meeting_tips">Activer le rappel de réunion ?</string>
+    <string name="summary_confirm_open_phone_check">Exécuter une analyse de sécurité ?</string>
+    <string name="summary_confirm_switch">"Éteindre l'appareil?"</string>
     <string name="summary_consume_power">Problèmes de chauffage détectés, cela peut affecter la vie de la batterie</string>
     <string name="summary_dark_mode">Certaines pages sont en noir en raison de services tiers</string>
     <string name="summary_data_flow">"Contrôler l'utilisation des données mobiles afin d'éviter des frais supplémentaires"</string>
@@ -4235,11 +4399,14 @@ Formatting will erase existing content on the ^2. To avoid losing content, back 
     <string name="summary_garbage_clean">"Nettoyer le cache pour libérer de l'espace"</string>
     <string name="summary_garbage_lib">Utilisez les dernières définitions pour supprimer les logiciels espions, publicitaires et autres éléments indésirables</string>
     <string name="summary_install_virus">"Vérifier l'absence de virus avant l'installation d'applications"</string>
+    <string name="summary_meeting_tips">Rappel de réunion</string>
     <string name="summary_mifi_insurance">"Bénéficier d'un plan de remplacement pour un an, ce qui prend en compte les cas de dommage du matériel"</string>
     <string name="summary_miui_update">Mise à jour disponible pour %s.</string>
     <string name="summary_mms">Bloquer les SMS indésirables automatiquement</string>
     <string name="summary_network_switch">"Autoriser sécurité à se connecter à internet"</string>
     <string name="summary_never_flow_verify">"Ce numéro n'a pas été vérifié avec votre opérateur"</string>
+    <string name="summary_open_flashligt">Allumer la lampe de poche</string>
+    <string name="summary_open_phone_check">Exécuter une analyse de sécurité</string>
     <string name="summary_password_manager">Le gestionnaire de mots de passe vous permet de chiffrer vos mots de passe et de les stocker dans le cloud</string>
     <string name="summary_payment_risk">"Il semble que l'environnement de paiement n'est pas sécurisé"</string>
     <string name="summary_permission">Éviter les paiements non désirés et protéger vos données personnelles</string>
@@ -4248,6 +4415,7 @@ Formatting will erase existing content on the ^2. To avoid losing content, back 
     <string name="summary_rcs_switch">Envoi de SMS aux utilisateurs de China Mobile sans frais</string>
     <string name="summary_realname_verify">Vérifiez votre identité pour effectuer des paiements plus sécurisés.</string>
     <string name="summary_restrict_data_usage">"Vous avez restreint l'utilisation des données pour cette application."</string>
+    <string name="summary_result_screen_brightness_format">"Régler la luminosité de l'écran sur %s"</string>
     <string name="summary_show_notification">"Nettoyer le cache, voir l'état de la batterie, et bloquer les éléments dans le Panneau de notification"</string>
     <string name="summary_telecom_operator">"Obtenir vos statistiques d'utilisation mensuelle de données de votre opérateur"</string>
     <string name="summary_usb">Prévenir les malwares depuis les données transmises par USB</string>
@@ -4294,28 +4462,30 @@ Formatting will erase existing content on the ^2. To avoid losing content, back 
     <string name="sys_title_gamebooster_unit_gb">" Go"</string>
     <string name="sys_title_gamebooster_unit_mb">" Mo"</string>
     <string name="system_app">Applications système</string>
+    <string name="system_app_permission_instruction">"Cette application a besoin des autorisations suivantes pour fournir des services système de base. La gestion des autorisations est limitée pour cette application, car la modification des statuts d'autorisation entraînera des anomalies de fonctionnement du système."</string>
     <string name="system_application">Applications système</string>
     <string name="system_permission_declare_agree">Accepter</string>
     <string name="system_permission_declare_analytics_declare">"Merci pour votre inscription à notre programme d'expérience utilisateur. Votre appareil doit être connecté à internet pour permettre à cette fonctionnalité de fonctionner normalement. Vous devez également accorder les permissions suivantes pour nous permettre de collecter les données qui nous aideront à améliorer nos produits et services. Ces données sont collectées à des fins statistiques uniquement. Nous ne pourrons pas utiliser ces données pour vous identifier personnellement."</string>
     <string name="system_permission_declare_disagree">Refuser</string>
-    <string name="system_permission_declare_double_link"><Data>"Lisez et acceptez notre &lt;a href=\"%1$s\">Accord d'utilisation&lt;/a> et &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a> avant d'utiliser cette fonctionnalité."</Data></string>
+    <string name="system_permission_declare_double_link"><Data>"Lisez et acceptez notre &lt;a href=\"%1$s\">Accord d'utilisation&lt;/a> et &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a> avant de continuer."</Data></string>
     <string name="system_permission_declare_main_purpose" formatted="false">"Bienvenue sur %1s ! Cette application vous permet d'utiliser la fonctionnalité suivante : %2s."</string>
-    <string name="system_permission_declare_meanwhile_double_link"><Data>"Dans le même temps, pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez notre &lt;a href=\"%1$s\">Accord d'utilisation&lt;/a> et notre &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>."</Data></string>
-    <string name="system_permission_declare_meanwhile_privacy_policy"><Data>"Dans le même temps, pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez notre &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a>."</Data></string>
-    <string name="system_permission_declare_meanwhile_user_agreement"><Data>"Dans le même temps, pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez notre &lt;a href=\"%1$s\">Accord d'utilisation&lt;/a>."</Data></string>
+    <string name="system_permission_declare_meanwhile_double_link"><Data>"Lisez et acceptez notre &lt;a href=\"%1$s\">Accord d'utilisation&lt;/a> et notre &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a> avant de continuer."</Data></string>
+    <string name="system_permission_declare_meanwhile_privacy_policy"><Data>"Lisez et acceptez notre &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a> avant de continuer."</Data></string>
+    <string name="system_permission_declare_meanwhile_user_agreement"><Data>"Lisez et acceptez notre &lt;a href=\"%1$s\">Accord d'utilisation&lt;/a> avant de continuer."</Data></string>
     <string name="system_permission_declare_no_say_no">"Si vous choisissez de ne pas donner les permissions requises ou de ne pas nous permettre de collecter et d'utiliser vos données, cette application ne pourra pas fonctionner normalement."</string>
     <string name="system_permission_declare_no_say_no_analytics">"Si vous ne souhaitez pas donner ces permissions, vous pouvez vous désinscrire depuis Paramètres > Mots de passe &amp; Sécurité > Paramètres de confidentialité > Programme d'expérience utilisateur."</string>
     <string name="system_permission_declare_no_say_no_non_mandatory">"Si vous choisissez de ne pas donner les permissions requises ou de ne pas nous permettre de collecter et d'utiliser vos données, cette application ne pourra pas fonctionner normalement."</string>
+    <string name="system_permission_declare_optional">"Pour vous fournir des services supplémentaires pendant que vous utilisez l'application, nous pourrions avoir besoin des autorisations suivantes : %s."</string>
     <string name="system_permission_declare_privacy_declare">"Nous protégerons vos informations personnelles conformément aux lois, réglementations et Politiques de confidentialité en vigueur. Notez que Sécurité doit se connecter à internet et requiert les permissions suivantes pour collecter vos informations personnelles :"</string>
     <string name="system_permission_declare_privacy_no_network">This app needs the following permissions to be able to work normally:</string>
     <string name="system_permission_declare_privacy_no_permission">"Notez que Sécurité doit se connecter à internet et collecter les informations personnelles requises pour vous fournir des services. Nous protégerons vos informations personnelles conformément aux lois, réglementations et Politiques de confidentialité en vigueur."</string>
-    <string name="system_permission_declare_privacy_policy"><Data>"Lisez et acceptez notre &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a> avant d'utiliser cette fonctionnalité."</Data></string>
+    <string name="system_permission_declare_privacy_policy"><Data>"Lisez et acceptez notre &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a> avant de continuer."</Data></string>
     <string name="system_permission_declare_revoke_system">Vous pouvez quitter cette application.</string>
     <string name="system_permission_declare_revoke_uninstallable">"Vous pouvez vous déconnecter, désinstaller cette application ou révoquer vos permissions dans Sécurité. > Gérer les applications > Permissions > Permissions."</string>
     <string name="system_permission_declare_title">Attention</string>
     <string name="system_permission_declare_use_network">Se connecter au réseau</string>
     <string name="system_permission_declare_use_network_no_permission">Se connecter au réseau</string>
-    <string name="system_permission_declare_user_agreement"><Data>"Lisez et acceptez notre &lt;a href=\"%1$s\">Accord d'utilisation&lt;/a> avant d'utiliser cette fonctionnalité."</Data></string>
+    <string name="system_permission_declare_user_agreement"><Data>"Lisez et acceptez notre &lt;a href=\"%1$s\">Accord d'utilisation&lt;/a> avant de continuer."</Data></string>
     <string name="system_permission_perm_answer_call">Faire des appels</string>
     <string name="system_permission_perm_optional">" (optionnel)"</string>
     <string name="system_permission_perm_read_mms">Lire le MMS</string>
@@ -4331,6 +4501,48 @@ Formatting will erase existing content on the ^2. To avoid losing content, back 
     <string name="tab_sms">Messages</string>
     <string name="tab_sort_all">Tout</string>
     <string name="tab_title">Liste noire</string>
+    <string name="task_summary_close_airplane">Désactiver le Mode avion</string>
+    <string name="task_summary_close_auto_brightness">Désactiver la luminosité automatique</string>
+    <string name="task_summary_close_bluetooth">Désactiver le Bluetooth</string>
+    <string name="task_summary_close_dark_mode">Désactiver le Mode sombre</string>
+    <string name="task_summary_close_dc_light">Désactiver le Mode anti-scintillement</string>
+    <string name="task_summary_close_dial_tone">Désactiver les tonalités du clavier</string>
+    <string name="task_summary_close_drive_mode">Désactiver le Mode voiture</string>
+    <string name="task_summary_close_eye_care_mode">Désactiver le Mode lecture</string>
+    <string name="task_summary_close_hotspot">"Désactiver le point d'accès portable"</string>
+    <string name="task_summary_close_location">Désactiver les services de localisation</string>
+    <string name="task_summary_close_mute">Désactiver le Mode silencieux</string>
+    <string name="task_summary_close_network">Désactiver les données mobiles</string>
+    <string name="task_summary_close_nfc">Désactiver le NFC</string>
+    <string name="task_summary_close_rotate_lock">"Déverrouiller l'orientation"</string>
+    <string name="task_summary_close_save_battery">"Désactiver l'économiseur de batterie"</string>
+    <string name="task_summary_close_screen_display">"Désactiver l'Affichage permanent"</string>
+    <string name="task_summary_close_system_touch">Désactiver le retour haptique</string>
+    <string name="task_summary_close_wlan">Désactiver le Wi-Fi</string>
+    <string name="task_summary_close_zen_mode">Désactiver le mode NPD</string>
+    <string name="task_summary_open_airplane">Activer le Mode avion</string>
+    <string name="task_summary_open_auto_brightness">Activer la luminosité automatique</string>
+    <string name="task_summary_open_bluetooth">Activer le Bluetooth</string>
+    <string name="task_summary_open_dark_mode">Activer le Mode sombre</string>
+    <string name="task_summary_open_dc_light">Activer le Mode anti-scintillement</string>
+    <string name="task_summary_open_dial_tone">Activer les tonalités du clavier</string>
+    <string name="task_summary_open_disturb_mode">Activer le mode NPD</string>
+    <string name="task_summary_open_drive_mode">Activer le Mode voiture</string>
+    <string name="task_summary_open_eye_care_mode">Activer le Mode lecture</string>
+    <string name="task_summary_open_hotspot">"Activer le point d'accès portable"</string>
+    <string name="task_summary_open_location">Activer les services de localisation</string>
+    <string name="task_summary_open_mute">Activer le Mode silencieux</string>
+    <string name="task_summary_open_mute_mode">Activer le Mode silencieux</string>
+    <string name="task_summary_open_network">Activer les données mobiles</string>
+    <string name="task_summary_open_nfc">Activer le NFC</string>
+    <string name="task_summary_open_rotate_lock">"Verrouiller l'orientation"</string>
+    <string name="task_summary_open_save_battery">"Activer l'économiseur de batterie"</string>
+    <string name="task_summary_open_screen_display">"Activer l'Affichage permanent"</string>
+    <string name="task_summary_open_system_touch">Activer le retour haptique</string>
+    <string name="task_summary_open_wlan">Activer le Wi-Fi</string>
+    <string name="task_summary_open_zen_mode">Activer le mode NPD</string>
+    <string name="task_title_charge">Charge</string>
+    <string name="task_title_nfc">NFC</string>
     <string name="tc_cmd_invalid">Modèle invalide</string>
     <string name="tc_diagnostic_all_error_notification_summary">Appuyer pour signaler un problème</string>
     <string name="tc_diagnostic_all_error_notification_title">Impossible de terminer les diagnostics</string>
@@ -4490,6 +4702,29 @@ Formatting will erase existing content on the ^2. To avoid losing content, back 
     <string name="title_cloud_space_almost_full">Le stockage du Cloud est bientôt plein, des éléments peuvent ne pas être synchronisés</string>
     <string name="title_cloud_space_full">Mi Cloud est plein</string>
     <string name="title_cmcc_app_check">Vérification incomplète</string>
+    <string name="title_condition_absorbed">Mode concentration</string>
+    <string name="title_condition_alarm">Alarme</string>
+    <string name="title_condition_battery">Batterie</string>
+    <string name="title_condition_bluetooth">Bluetooth</string>
+    <string name="title_condition_bluetooth_device">"Se connecter à l'appareil Bluetooth"</string>
+    <string name="title_condition_bluetooth_disconnect_device">"Se déconnecter de l'appareil Bluetooth"</string>
+    <string name="title_condition_charge">En charge</string>
+    <string name="title_condition_connect_wlan">Se connecter au Wi-Fi</string>
+    <string name="title_condition_disconnect_wlan">Désactiver le Wi-Fi</string>
+    <string name="title_condition_headset">Écouteurs filaires</string>
+    <string name="title_condition_hotspot">"Point d'accès portable"</string>
+    <string name="title_condition_incall">Appel</string>
+    <string name="title_condition_leave">Quitter un emplacement</string>
+    <string name="title_condition_leave_activity">"Quitter l'application"</string>
+    <string name="title_condition_location">Emplacement</string>
+    <string name="title_condition_lock_screen">"Verrouiller l'écran"</string>
+    <string name="title_condition_meeting">Réunion</string>
+    <string name="title_condition_message">Message</string>
+    <string name="title_condition_mute">Silencieux/NPD</string>
+    <string name="title_condition_nfc">NFC</string>
+    <string name="title_condition_start_activity">"Ouvrir l'application"</string>
+    <string name="title_condition_to_somewhere">Arriver à un emplacement</string>
+    <string name="title_condition_wlan">Wi-Fi</string>
     <string name="title_consume_power_rank">"Utilisation de l'alimentation de l'application"</string>
     <string name="title_dark_mode">"Certains éléments ne sont pas affichés correctement"</string>
     <string name="title_data_flow">Contrôler les données mobiles</string>
@@ -4533,6 +4768,35 @@ Formatting will erase existing content on the ^2. To avoid losing content, back 
     <string name="title_realname_verify">"Vérification d'identité"</string>
     <string name="title_reply">Commentaire</string>
     <string name="title_restrict_data_usage">%s ne peut pas se connecter à internet ?</string>
+    <string name="title_result_absorbed">Mode concentration</string>
+    <string name="title_result_adjust_volume">Volume</string>
+    <string name="title_result_airplan">Mode avion</string>
+    <string name="title_result_bluetooth">Bluetooth</string>
+    <string name="title_result_brightness">Luminosité automatique</string>
+    <string name="title_result_dark">Mode sombre</string>
+    <string name="title_result_dial_tone">Tonalité des touches</string>
+    <string name="title_result_drive">Mode voiture</string>
+    <string name="title_result_examination">Analyse de sécurité</string>
+    <string name="title_result_eye_care">Mode lecture</string>
+    <string name="title_result_flashlight">Lampe de poche</string>
+    <string name="title_result_hotspot">"Point d'accès portable"</string>
+    <string name="title_result_location">Localisation</string>
+    <string name="title_result_lock_screen">"Verrouillage d'écran"</string>
+    <string name="title_result_music">Jouer de la musique</string>
+    <string name="title_result_mute">Mode silencieux</string>
+    <string name="title_result_network">Données mobiles</string>
+    <string name="title_result_nfc">NFC</string>
+    <string name="title_result_rotate_off">"Orientation de l'écran"</string>
+    <string name="title_result_save_battery">Économiseur de batterie</string>
+    <string name="title_result_screen_brightness">"Luminosité de l'écran"</string>
+    <string name="title_result_screen_display">Affichage permanent</string>
+    <string name="title_result_start_activity">"Ouvrir l'application"</string>
+    <string name="title_result_switch">Éteindre</string>
+    <string name="title_result_touch">Retour haptique</string>
+    <string name="title_result_twinkle">Mode anti-scintillement</string>
+    <string name="title_result_typeface">Taille du texte &amp; graisse de la police</string>
+    <string name="title_result_wlan">Wi-Fi</string>
+    <string name="title_result_zen_mode">Mode NPD</string>
     <string name="title_show_notification">Widget du Panneau de notification</string>
     <string name="title_system_auto_download">Les mises à jour se téléchargeront automatiquement</string>
     <string name="title_telecom_operator">Ajustement automatique</string>
@@ -4644,6 +4908,7 @@ Le volume de données restant inclut l'excédent du mois précédent."</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
     <string name="two_address_choose_hint">%1$s et %2$s</string>
+    <string name="type_face_condition_summary">Ajuster la taille du texte et la graisse de la police</string>
     <string name="unable_connect_internet">Pas de connexion internet</string>
     <string name="uninstall_app_dialog_msg">"La désinstallation va supprimer toutes les données de l'application."</string>
     <string name="uninstall_app_dialog_title">Désinstaller maintenant ?</string>
@@ -4889,6 +5154,8 @@ Essayez de mettre à l'échelle la définition !"</string>
     <string name="wednesday">Mercredi</string>
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>
+    <string name="weight_heavy">Gras</string>
+    <string name="weight_light">Léger</string>
     <string name="whitelist_prefix_add_hint">Ajouter tous les numéros avec préfixe aux exceptions</string>
     <string name="wifi_danger_dialog_messgae">Current Wi-Fi network might pose security risks. Use it with caution.</string>
     <string name="wifi_danger_dialog_tips">You can manage Wi-Fi security in Security > Security scan > Settings > Wi-Fi.</string>

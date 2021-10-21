@@ -83,6 +83,7 @@
   <string name="app_disable_transparent_wallpaper">"Sans fond d'écran transparent"</string>
   <string name="app_enable_transparent_wallpaper">"Avec fond d'écran transparent"</string>
   <string name="app_name">Thèmes</string>
+  <string name="application_list_permission_desc">"Pour afficher les applications compatibles avec les fonds d'écran transparents"</string>
   <string name="apply_choosen_type_resource">Appliquer les éléments sélectionnés</string>
   <string name="apply_default_font_tip">Conserver la police actuelle ?</string>
   <string name="apply_failed">"Application impossible"</string>
@@ -355,6 +356,7 @@
   <string name="has_mamual_hide_icons">Icônes cachées</string>
   <string name="has_mamual_hide_theme">Caché</string>
   <string name="has_mamual_hide_wallpaper">Caché</string>
+  <string name="head_portraits">Photo de profil</string>
   <string name="hide_free_aod">"Ne pas afficher les thèmes gratuits"</string>
   <string name="hide_free_font">Masquer les polices gratuites</string>
   <string name="hide_free_icons">"Ne pas afficher les icônes gratuites"</string>
@@ -584,6 +586,9 @@ dd/M"</string>
   <string name="multi_sim_ringtone_settings_dialog_title">Problèmes de compatibilité</string>
   <string name="multiwindow_no_support">"Cette action n'est pas prise en charge dans le mode Écran divisé"</string>
   <string name="multiwindow_no_support_icon">"Impossible de changer les icônes en utilisant le mode Écran divisé"</string>
+  <string name="need_to_open_application_permission_desc">"Pour savoir quelles applications sont compatibles avec les fonds d'écran transparents, autorisez Thèmes à accéder à la liste des applications installées sur votre appareil."</string>
+  <string name="need_to_open_permission">Autorisations requises</string>
+  <string name="need_to_open_storage_permission_desc">"Pour pouvoir utiliser et télécharger des éléments dans les thèmes, autorisez d'abord l'application à accéder au stockage."</string>
   <string name="network_exception">"Impossible de se connecter au réseau. Vérifiez vos paramètres réseau et réessayez."</string>
   <string name="new_resource_price_unit"> Mi</string>
   <string name="night">Soirée</string>
@@ -643,6 +648,7 @@ dd/M"</string>
   <string name="present_local_themes_subtitle">Personnaliser votre appareil</string>
   <string name="present_official_themes">Nos choix</string>
   <string name="present_online_themes">Obtenir plus de thèmes en ligne</string>
+  <string name="privacy_settings">Vie privée</string>
   <string name="provision_default_theme_title">Par défaut</string>
   <string name="provision_loading_tips">Chargement…</string>
   <string name="provision_second_title">Sélectionner un des plusieurs thèmes par défaut</string>
@@ -969,6 +975,8 @@ dd/M"</string>
   <string name="solar_term_winter_begins">"Début de l'hiver"</string>
   <string name="solar_term_winter_solstice">"Solstice d'hiver"</string>
   <string name="still_apply">Appliquer</string>
+  <string name="storage_migration_exit_msg">"Pour rendre les thèmes compatibles avec les prochaines versions d'Android, nous avons déplacé vos éléments téléchargés vers un nouvel emplacement. Redémarrez l'application pour appliquer les modifications et afficher votre contenu téléchargé."</string>
+  <string name="storage_permission_denied_desc">Autoriser Thèmes à accéder au stockage pour pouvoir afficher les éléments</string>
   <string name="sunday">Dimanche</string>
   <string name="sunday_short">Dim</string>
   <string name="sunday_shortest">Dim</string>

@@ -50,6 +50,8 @@
   <string name="confirm_cancel_task_files">"Annuler l'envoi de fichiers à %1$s ?"</string>
   <string name="confirm_cancel_task_images">"Annuler l'envoi d'images à %1$s ?"</string>
   <string name="copy">Copier</string>
+  <string name="custom_define_permission_desc_android.permission_group.LOCATION">Pour transférer des fichiers via Bluetooth et Wi-Fi</string>
+  <string name="custom_define_permission_desc_android.permission_group.STORAGE">Pour envoyer et recevoir des fichiers</string>
   <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
   <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>
   <string name="default_device_name">Appareil inconnu</string>
@@ -126,6 +128,7 @@
   <string name="hide">Masquer</string>
   <string name="i_know">Compris</string>
   <string name="location_enabled">Mi Share a activé les services de localisation pour trouver des appareils à proximité</string>
+  <string name="menu_item_permission_title">Détails des autorisations</string>
   <string name="menu_item_privacy_title">Politique de confidentialité</string>
   <string name="midnight">Nuit</string>
   <string name="mishare_folder_in_file_explorer">Gestionnaire de fichiers > MiShare</string>
