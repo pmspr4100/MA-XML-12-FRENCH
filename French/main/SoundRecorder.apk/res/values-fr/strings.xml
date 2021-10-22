@@ -28,6 +28,8 @@
   <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
   <string name="abc_toolbar_collapse_description">Réduire</string>
   <string name="actionbar_button_up_description">Retour</string>
+  <string name="add_remark_hint">Entrez votre remarque ici</string>
+  <string name="add_remark_tip">Appuyez pour ajouter une remarque</string>
   <string name="afternoon">Après-midi</string>
   <string name="agree_description">Allow this app to connect to the internet to be able to use all its features.</string>
   <string name="alert_message_clear_records">Supprimer le(s) enregistrement(s) sélectionné(s) ?</string>
@@ -76,6 +78,7 @@
   <string name="duration_format_second">%s s</string>
   <string name="early_morning">Matin</string>
   <string name="empty_recognition_tip">Vide</string>
+  <string name="empty_tips">"Appuyez sur le bouton pour commencer l'enregistrement"</string>
   <string name="eras_ad">Apr. J.-C.</string>
   <string name="eras_bc">Av. J.-C.</string>
   <string name="err_msg_abandon">La commande a été abandonné</string>
@@ -100,6 +103,8 @@
   <string name="error_file_access">"Le fichier n'existe pas ou a été endommagé"</string>
   <string name="error_filename_illegal_char">Nom de fichier contient des caractères non valides.</string>
   <string name="error_filename_too_long">Nom de fichier trop long.</string>
+  <string name="error_icon_content_description">Erreur</string>
+  <string name="error_remark_too_long">Votre remarque est trop longue</string>
   <string name="error_sdcard_access">"Impossible d'accéder à la carte SD"</string>
   <string name="error_sdcard_unmounted">Insérez une carte SD</string>
   <string name="evening">Après-midi</string>
@@ -213,6 +218,8 @@
   <string name="night">Soirée</string>
   <string name="no_file">Vide</string>
   <string name="no_network">Connexion au réseau impossible</string>
+  <string name="no_playback_file">Sélectionnez un enregistrement pour afficher les détails</string>
+  <string name="no_records">"Pas encore d'enregistrements ici"</string>
   <string name="noon">Midi</string>
   <string name="not_set">Non défini</string>
   <string name="notification_message_all_paused">"En attente d'une connexion Wi-Fi."</string>
@@ -327,8 +334,11 @@
   <string name="record_downloading_notification_complete">Téléchargement terminé</string>
   <string name="record_downloading_notification_count">%d téléchargé</string>
   <string name="record_format_preference_title">"Format d'enregistrement"</string>
+  <string name="record_item_title_multi_choice">Sélectionner</string>
+  <string name="record_item_title_remark">Ajouter une remarque</string>
+  <string name="record_item_title_send">Partager</string>
   <string name="record_list">Enregistrements</string>
-  <string name="record_list_app">App recordings</string>
+  <string name="record_list_app">"Enregistrements d'applications"</string>
   <string name="record_list_call">Appels enregistrés</string>
   <string name="record_list_category_title_format">MMMM yyyy</string>
   <string name="record_list_cloud">Enregistrements synchronisés</string>
@@ -431,6 +441,10 @@
   <string name="sunday">Dimanche</string>
   <string name="sunday_short">Dim</string>
   <string name="sunday_shortest">Dim</string>
+  <string name="tab_all">Tous</string>
+  <string name="tab_apps">Applications</string>
+  <string name="tab_call">Appels</string>
+  <string name="tab_fm">FM</string>
   <string name="text_btn_backward_3_seconds">3 secondes en arrière</string>
   <string name="text_btn_complete">Arrêter</string>
   <string name="text_btn_forward_3_seconds">3 secondes en avant</string>
