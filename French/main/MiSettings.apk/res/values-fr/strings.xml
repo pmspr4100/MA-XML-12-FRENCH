@@ -453,8 +453,8 @@ ne sont pas générées dans le Deuxième espace"</string>
   <string name="plains_zebra">Zèbre</string>
   <string name="platpus_info">"L'ornithorynque est un sujet important dans l'étude de la biologie évolutive. C'est aussi l'une des rares espèces de mammifères venimeux."</string>
   <string name="platypus">Ornithorynque</string>
-  <string name="permission_china_version_msg"><Data>"Avant d'utiliser \"Services et commentaires\", vous devez lire et accepter notre &lt;a href=%1$s>Accord d'utilisation&lt;/a> et notre &lt;a href=%2$s>Politique de confidentialité&lt;/a>. Cette application doit également se connecter à internet pour fonctionner normalement."</Data></string>
-  <string name="permission_region_version_msg"><Data>"Avant d'utiliser \"Services et commentaires\", vous devez lire et accepter notre &lt;a href=%1$s>Accord d'utilisation&lt;/a> et notre &lt;a href=%2$s>Politique de confidentialité&lt;/a>."</Data></string>
+  <string name="permission_china_version_msg"><Data>"Avant d'utiliser \"Services &amp; Retour d'information\", vous devez lire et accepter notre &lt;a href=%1$s>Accord d'utilisation&lt;/a> et notre &lt;a href=%2$s>Politique de confidentialité&lt;/a>. Cette application doit également se connecter à internet pour fonctionner normalement."</Data></string>
+  <string name="permission_region_version_msg"><Data>"Avant d'utiliser \"Services &amp; Retour d'information\", vous devez lire et accepter notre &lt;a href=%1$s>Accord d'utilisation&lt;/a> et notre &lt;a href=%2$s>Politique de confidentialité&lt;/a>."</Data></string>
   <string name="polar_bear">Ours polaire</string>
   <string name="pomarine_jaeger">Labbe pomarin</string>
   <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
@@ -654,12 +654,15 @@ ne sont pas générées dans le Deuxième espace"</string>
   <string name="usage_app_over_content">"Vous avez déjà utilisé cette application pour %s aujourd'hui."</string>
   <string name="usage_app_over_summary">"Vous avez atteint votre limite. Le temps est écoulé !"</string>
   <string name="usage_app_set_limit_time">Définir une limite</string>
+  <string name="usage_app_stop_desc">"Toutes les données et autorisations de temps d'écran, y compris les paramètres individuels, ainsi que les éléments associés stockés localement, seront supprimés une fois cette fonctionnalité désactivée.​"</string>
   <string name="usage_app_system_app_summary">"Impossible de limiter le temps d'utilisation pour les applications système"</string>
   <string name="usage_app_weekday_limit">Semaine</string>
   <string name="usage_app_weekend_limit">Week-ends</string>
   <string name="usage_beat_fans">Mieux que %s Mi Fans</string>
   <string name="usage_continuous_days">Jours continus</string>
   <string name="usage_creating_weekly_report">"Création d'un rapport hebdomadaire"…</string>
+  <string name="usage_cta_desc">"Bienvenue dans Paramètres ! Pour vous fournir des statistiques sur le temps d'écran et le Mode concentration, cette application doit collecter les données suivantes : le nombre de fois que vous déverrouillez l'appareil, la liste de vos applications ainsi que leur durée d'utilisation correspondante, le nombre de fois que votre écran s'allume, et les paramètres du Mode concentration. Les données collectées ne seront stockées que localement sur cet appareil.
+"</string>
   <string name="usage_current_week_usage">%s en moyenne au cours des 7 derniers jours</string>
   <string name="usage_device_limit_app_prolong">Ajouter du temps</string>
   <string name="usage_device_limit_app_prolong_time1">Ajouter 20 minutes</string>
