@@ -85,8 +85,8 @@ Visitez https://appleid.apple.com/#!&amp;page=signin pour désactiver"</string>
   <string name="dialog_request_network_btn_negative">Quitter</string>
   <string name="dialog_request_network_btn_positive">Accepter</string>
   <string name="dialog_request_network_message">"Bienvenue dans Mi Mover! Vous pouvez utiliser cette application pour transférer vos données d'un ancien appareil vers un nouveau.
-Nous protégeons vos données personnelles en accord avec les lois applicables, régulations, et Politiques de confidentialité. Notez que Mi Mover a besoin de se connecter à internet et requiert les permissions suivantes afin de collecter vos données personnelles : Activer/désactiver le Wi-Fi, accéder et transférer vos contacts, historique d'appels, SMS, MMS, enregistrements d'appels, et enregistrements audios."</string>
-  <string name="dialog_request_network_message_extra">"Si vous n'êtes pas d'accord pour accorder ces permissions, partager ou envoyer vos données personnelles, vous ne pourrez pas utiliser cette application. Vous pouvez alors désinstaller cette application ou restreindre les permissions dans les Paramètres."</string>
+Nous protégeons vos données personnelles en accord avec les lois applicables, régulations, et Politiques de confidentialité. Notez que Mi Mover a besoin de se connecter à internet et requiert les autorisations suivantes afin de collecter vos données personnelles : Activer/désactiver le Wi-Fi, accéder et transférer vos contacts, historique d'appels, SMS, MMS, enregistrements d'appels, et enregistrements audios."</string>
+  <string name="dialog_request_network_message_extra">"Si vous n'êtes pas d'accord pour accorder ces autorisations, partager ou envoyer vos données personnelles, vous ne pourrez pas utiliser cette application. Vous pouvez alors désinstaller cette application ou restreindre les autorisations dans les Paramètres."</string>
   <string name="dialog_tip_upgrade_summary">Mi Mover est une version trop ancienne. Mettez à jour Mi Mover dans sa dernière version pour pouvoir transférer des fichiers.</string>
   <string name="dialog_tip_upgrade_title">Mise à jour Mi Mover</string>
   <string name="dialog_version_summary_tip">"Nouveautés :"</string>
@@ -111,7 +111,7 @@ Open WeChat and go to Me > Settings > General > Back up &amp; migrate chats."</s
   <string name="err_version_unsupported">"La version de la sauvegarde n'est pas compatible."</string>
   <string name="error_forbidden">La synchronisation a été désactivée à cause de problèmes avec votre compte Mi.</string>
   <string name="error_not_acceptable">La synchronisation a été désactivée.</string>
-  <string name="error_permissions">"Cette application n'a pas les the permissions requises pour accéder au  Calendrier. Allez dans Paramètres et vérifiez les permissions pour continuer."</string>
+  <string name="error_permissions">"Cette application n'a pas les autorisations requises pour accéder au  Calendrier. Allez dans Paramètres et vérifiez les autorisations pour continuer."</string>
   <string name="error_title">Synchronisation impossible</string>
   <string name="error_unauthorized">"La synchronisation a été désactivée à cause d'un trop grand nombre de tentatives d'identification."</string>
   <string name="failed_description">Échec</string>
@@ -209,8 +209,8 @@ Open WeChat and go to Me > Settings > General > Back up &amp; migrate chats."</s
   <string name="international_new_trans_intro_desc_8">"Les messages texte ne peuvent pas être transférés à cause de problèmes de compatibilité. Des applications tierces peuvent empêcher le transfert de leur données pour des raisons de sécurité."</string>
   <string name="international_new_trans_intro_question_8">"8. Pourquoi les messages texte et les données applicatives de certaines applications tierces ne peuvent-elles transférées ?"</string>
   <string name="international_scanner_send_dialog_message">"Les messages texte et les données applicatives de certaines applications tierces ne peuvent pas être transférées. Ne désactivez pas le Wi-Fi et ne changez pas de réseau durant le transfert."</string>
-  <string name="lack_perm_msg">Mi Mover requiert les permissions suivantes : &lt;b>%s&lt;/b>.</string>
-  <string name="lack_perm_title">Permissions requises</string>
+  <string name="lack_perm_msg">Mi Mover requiert les autorisations suivantes : &lt;b>%s&lt;/b>.</string>
+  <string name="lack_perm_title">Autorisations requises</string>
   <string name="launcher">"Disposition écran d'accueil"</string>
   <string name="less_than_1_minute">"Moins d'une minute"</string>
   <string name="loading_data">Un instant…</string>
@@ -223,10 +223,10 @@ Open WeChat and go to Me > Settings > General > Back up &amp; migrate chats."</s
   <string name="main_chooser_item_android_others">Importer depuis un autre téléphone Android</string>
   <string name="main_chooser_item_ios">Importer depuis un iPhone</string>
   <string name="main_chooser_title">"Sélection de l'ancien appareil"</string>
-  <string name="message_request_package_stats_perm">Appuyez sur \"Continue\" pour ouvrir les Paramètres et donnez à Mi Mover les permissions requises.</string>
+  <string name="message_request_package_stats_perm">Appuyez sur \"Continue\" pour ouvrir les Paramètres et donnez à Mi Mover les autorisations requises.</string>
   <string name="miui_need_location_permission_summary">"Autoriser Mi Mover à accéder à votre localisation pour trouver des appareils à proximité. Vous ne pourrez pas utiliser Mi Mover tant que vous n'aurez pas donné cette permission."</string>
   <string name="miui_need_location_permission_title">"Autoriser l'accès à la localisation"</string>
-  <string name="miui_need_open_high_accuracy_summary">"Autoriser Mi Mover à accéder à votre localisation en mode Haute précision pour trouver des appareils à proximité. Vous ne pourrez pas utiliser Mi Mover tant que vous n'aurez pas donné cette permission."</string>
+  <string name="miui_need_open_high_accuracy_summary">"Autoriser Mi Mover à accéder à votre localisation en mode Haute précision pour trouver des appareils à proximité. Vous ne pourrez pas utiliser Mi Mover tant que vous n'aurez pas donné cette autorisation."</string>
   <string name="miui_need_open_high_accuracy_title">"Autoriser l'accès à la localisation précise"</string>
   <string name="mms">MMS</string>
   <string name="mms_contacts_calllog">"Messages, contacts, et historique d'appels"</string>
@@ -274,7 +274,7 @@ Open WeChat and go to Me > Settings > General > Back up &amp; migrate chats."</s
   <string name="name_password_not_consistent">"L'identifiant Apple et le mot de passe entrés ne correspondent pas"</string>
   <string name="need_location_permission_confirm">Paramètres</string>
   <string name="need_location_permission_summary">Autoriser Mi Mover à accéder à votre localisation afin de pouvoir trouver des appareils autour.</string>
-  <string name="need_location_permission_title">Permissions requises</string>
+  <string name="need_location_permission_title">Autorisations requises</string>
   <string name="need_more_memory_cacel">Annuler</string>
   <string name="need_more_memory_confirm">Nettoyer</string>
   <string name="need_more_memory_summary">"Pas assez d'espace de stockage. Mi Mover a besoin de %1$s d'espace supplémentaire pour créer des paquets compressés avant le transfert.
@@ -357,7 +357,7 @@ Open WeChat and go to Me > Settings > General > Back up &amp; migrate chats."</s
   <string name="perm_storage">Lire et écrire sur un stockage externe</string>
   <string name="permdesc_sendSmsNoConfirmation">"L'application peut envoyer des messages  SMS sans demander votre permission. Votre opérateur est susceptible de vous facturer ces messages."</string>
   <string name="permission_alert_message_usage_access">"Mi Mover nécessite d'accéder aux statistiques d'utilisation des applications. Donnez les permissions requises à Mi Mover dans les Paramètres."</string>
-  <string name="permission_alert_title">Permissions requises</string>
+  <string name="permission_alert_title">Autorisations requises</string>
   <string name="permlab_sendSmsNoConfirmation">Autoriser les messages SMS en arrière-plan</string>
   <string name="phone">Téléphone</string>
   <string name="privacy_policy">Politique de confidentialité</string>
@@ -522,7 +522,7 @@ Libérez au moins %s."</string>
   <string name="thursday_shortest">J</string>
   <string name="time_picker_dialog_title">"Réglage de l'heure"</string>
   <string name="time_spent">Temps passé : &lt;g id="time">%1$s&lt;/g></string>
-  <string name="title_request_package_stats_perm">Permissions required</string>
+  <string name="title_request_package_stats_perm">Autorisations requises</string>
   <string name="today">"Aujourd'hui"</string>
   <string name="tomorrow">Demain</string>
   <string name="trans_detail_item_app_data_skip_data">Impossible de transférer les données de cette application</string>

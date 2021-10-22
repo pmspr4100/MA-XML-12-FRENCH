@@ -580,6 +580,8 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
   <string name="delete_third_party_video">Supprimez cette vidéo ?</string>
   <string name="deny">Rejeter</string>
   <string name="detail_title">Infos détaillées</string>
+  <string name="device_list_all">Tous les appareils</string>
+  <string name="device_list_more">Plus</string>
   <string name="device_offline">"L'autre appareil est hors ligne. Recommencer."</string>
   <string name="device_status_failed">"Couldn't send"</string>
   <string name="device_status_sending">Sending…</string>
@@ -834,6 +836,7 @@ sont disponibles"</string>
   <string name="filter_movie_to">T&amp;O</string>
   <string name="filter_movie_wonderful">Merveille</string>
   <string name="filter_original">Aucun</string>
+  <string name="filter_popular_agave">Agave</string>
   <string name="filter_popular_autumn">Automne</string>
   <string name="filter_popular_blackred">Sangria</string>
   <string name="filter_popular_bluedream">Sommeil</string>
@@ -848,8 +851,11 @@ sont disponibles"</string>
   <string name="filter_popular_icesnow">Chute de neige</string>
   <string name="filter_popular_kamakura">Kamakura</string>
   <string name="filter_popular_mango">Mangue</string>
+  <string name="filter_popular_navy">Marine</string>
+  <string name="filter_popular_pearl">Perle</string>
   <string name="filter_popular_pinellia">Pinellia</string>
   <string name="filter_popular_purple">Violet</string>
+  <string name="filter_popular_retro_powder">Poudre</string>
   <string name="filter_popular_shallow_summer">Juin</string>
   <string name="filter_popular_summercloud">Vêpres</string>
   <string name="filter_popular_sunset">Tombée du jour</string>
@@ -859,9 +865,14 @@ sont disponibles"</string>
   <string name="filter_popular_youth">Juventas</string>
   <string name="filter_portrait_greyish">Cendré</string>
   <string name="filter_portrait_hint">Mise au point des couleurs</string>
+  <string name="filter_portrait_holiday">Vacances</string>
+  <string name="filter_portrait_light_oxygen">Oxygène</string>
+  <string name="filter_portrait_mint">Menthe</string>
   <string name="filter_portrait_mist">Brume</string>
   <string name="filter_portrait_mojito">Mojito</string>
   <string name="filter_portrait_painting">Painting</string>
+  <string name="filter_portrait_pink_orange">Orange</string>
+  <string name="filter_portrait_protist">Original</string>
   <string name="filter_single_sky">Skyscaping</string>
   <string name="filter_sky_bikong">Azure</string>
   <string name="filter_sky_chenguang">Aurore</string>
@@ -964,9 +975,14 @@ sont disponibles"</string>
   <string name="grant_permission_go_and_set">Définir</string>
   <string name="grant_permission_text">"La Galerie a besoin de se connecter à 
 %s
- pour fonctionner normalement, appuyez sur \"Définir\" pour aller à Permissions."</string>
+ pour fonctionner normalement, appuyez sur \"Définir\" pour aller à Autorisations."</string>
   <string name="grant_permission_title">"Autoriser l'accès"</string>
   <string name="grant_permission_unlock_and_set">Déverrouiller et configurer</string>
+  <string name="grant_permission_unlock_and_set_2">Déverrouiller</string>
+  <string name="grant_permission_write_clipboard">Pour pouvoir copier des éléments, autorisez cette application à enregistrer des éléments dans le presse-papiers.</string>
+  <string name="group_header_title_immutable_album">Organiser les photos</string>
+  <string name="group_header_title_third_album">"Plus d'albums"</string>
+  <string name="group_header_title_user_create_album">Mes albums</string>
   <string name="has_invalid_recipient">Destinataires non valides : %1$s</string>
   <string name="have_known">Compris</string>
   <string name="hello_blank_fragment">Bonjour fragment vide</string>
@@ -975,7 +991,9 @@ sont disponibles"</string>
   <string name="hidden_album_display_name">Album privé</string>
   <string name="hisense">Hisense</string>
   <string name="hisense_phone">Hisense</string>
+  <string name="home_menu_all_photos">Afficher tous les éléments</string>
   <string name="home_menu_art_still">Art</string>
+  <string name="home_menu_camera">"Afficher uniquement les éléments de l'Appareil photo"</string>
   <string name="home_menu_cleaner">"Libérer de l'espace"</string>
   <string name="home_menu_collage">Collage</string>
   <string name="home_menu_id_photo">"Photo d'identité"</string>
@@ -1038,6 +1056,8 @@ sont disponibles"</string>
   <string name="input_or_select_a_name">Saisir ou choisir un nom</string>
   <string name="input_relation_name">Saisissez le nom du groupe</string>
   <string name="install_fail">"Impossible de charger votre plug-in en raison d'une erreur."</string>
+  <string name="install_media_editor_message">"Pour pouvoir modifier des éléments, téléchargez d'abord le plug-in. Télécharger maintenant ?"</string>
+  <string name="install_media_editor_title">Télécharger le plug-in</string>
   <string name="invalid_invition_url">"Adresse d'invitation non valide"</string>
   <string name="invalid_recipient_message">Le nom des destinataires est non valide</string>
   <string name="invite_sharer_confirm_button_text">Inviter</string>
@@ -1196,6 +1216,18 @@ sont disponibles"</string>
   <string name="main_save_origin">"Enregistrer le fichier d'origine"</string>
   <string name="manual_hide_manage">Ajouter des fichiers \".aucun média\"</string>
   <string name="manual_hide_state">Fichiers \".aucun média\" ajoutés avec succès</string>
+  <string name="map_album">Carte</string>
+  <string name="map_album_detail_page_title">Localisation</string>
+  <string name="map_enable_position_service_message">"Pour afficher des photos et des vidéos sur la carte, activez d'abord les services de localisation."</string>
+  <string name="map_enable_position_service_title">Activer les services de localisation</string>
+  <string name="map_grant_position_permission_after_declined_twice_message">"Pour afficher des photos et des vidéos sur la carte, autorisez d'abord la Galerie à accéder à votre position."</string>
+  <string name="map_grant_position_permission_subtitle">Pour afficher les photos et vidéos à proximité sur la carte</string>
+  <string name="map_guide_message">Visualisez vos photos et vidéos sur la carte</string>
+  <string name="map_positioning_failed_tip">"Impossible d'obtenir les informations de localisation en raison d'un signal faible"</string>
+  <string name="map_privacy_dialog_message"><Data>Ce service vous permet de visualiser des photos et des vidéos avec des informations de localisation sur une carte. Nous utilisons Baidu Map Open SDK pour vous fournir ce service. Lisez la &lt;a href=\"%1$s\">Politique de confidentialité de Baidu Map pour les produits et services Open Platform&lt;/a> pour en savoir plus.</Data></string>
+  <string name="map_privacy_dialog_title">Carte de la Galerie</string>
+  <string name="map_privacy_policy">Politique de confidentialité de la carte de la Galerie</string>
+  <string name="map_privacy_policy_1">Politique de confidentialité</string>
   <string name="mark_myself_default_name">Moi</string>
   <string name="mark_myself_suggestion_load_more">"Ce n'est pas moi"</string>
   <string name="mark_myself_suggestion_title">"Sélectionner les photos avec votre visage
@@ -1226,6 +1258,8 @@ pour personnaliser Galerie"</string>
   <string name="micloud_introduce">Synchronisez les photos et les vidéos automatiquement (compte Mi requis)</string>
   <string name="midnight">Nuit</string>
   <string name="mishare_all_devices">Tous les appareils</string>
+  <string name="miuix_access_state_desc">Sélectionné</string>
+  <string name="miuix_alphabet_indexer_name">"Barre d'index"</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Désélectionner</string>
   <string name="miuix_appcompat_action_mode_select_all">Tout sélectionner</string>
   <string name="miuix_appcompat_action_mode_title_empty">Sélectionner des éléments</string>
@@ -1240,6 +1274,7 @@ pour personnaliser Galerie"</string>
   <string name="miuix_appcompat_select_all">Tout sélectionner</string>
   <string name="miuix_appcompat_select_all_description">Tout sélectionner</string>
   <string name="miuix_appcompat_select_item">Sélectionner des éléments</string>
+  <string name="miuix_indexer_selected">%s sélectionné</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez vers le bas pour actualiser</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualisation…</string>
@@ -1522,13 +1557,13 @@ Le transcodage peut prendre un certain temps lorsque vous utilisez cette fonctio
   <string name="permission_contacts_desc">Pour attribuer des contacts à des personnes sur des photos</string>
   <string name="permission_contacts_name">Contacts</string>
   <string name="permission_contract_name">Contacts</string>
-  <string name="permission_optional_category">Permissions optionnelles</string>
+  <string name="permission_optional_category">Autorisations optionnelles</string>
   <string name="permission_phone_desc">"Pour les requêtes réseau basées sur l'ID de l'appareil"</string>
   <string name="permission_phone_name">Téléphone</string>
-  <string name="permission_require_category">Permissions obligatoires</string>
+  <string name="permission_require_category">Autorisations obligatoires</string>
   <string name="permission_storage_desc">Pour afficher, éditer et enregistrer des photos</string>
   <string name="permission_storage_name">Stockage</string>
-  <string name="permission_use_desc">Permissions</string>
+  <string name="permission_use_desc">Autorisations</string>
   <string name="pet_album_display_name">"Photos d'animaux"</string>
   <string name="petabyteShort">" Po"</string>
   <string name="photo">Photos</string>
@@ -1660,8 +1695,11 @@ Le transcodage peut prendre un certain temps lorsque vous utilisez cette fonctio
   <string name="photo_print_menu_loading">Chargement du plug-in…</string>
   <string name="photo_print_package_finish">Plug-in Print chargé avec succès</string>
   <string name="photo_print_package_installing">Chargement du plug-in Print…</string>
+  <string name="photo_purge_dialog_message_cloud">Les éléments sélectionnés seront définitivement supprimés du cloud et de tous les appareils synchronisés. Supprimer quand même ?</string>
   <string name="photo_purge_dialog_message_image">"Vous ne pourrez pas restaurer des éléments si vous les supprimez. Supprimer quand même ?"</string>
+  <string name="photo_purge_dialog_message_local">Les éléments sélectionnés seront définitivement supprimés. Supprimer quand même ?</string>
   <string name="photo_purge_dialog_message_video">"Vous ne pourrez pas restaurer des éléments si vous les supprimez. Supprimer quand même ?"</string>
+  <string name="photo_purge_dialog_title">Supprimer les éléments sélectionnés</string>
   <string name="photo_save_to_msg">Enregistré dans %s</string>
   <string name="photo_size_not_support">"Cette définition d'image n'est pas prise en charge"</string>
   <string name="photo_vlog_module_finish">Downloaded video editor successfully</string>
@@ -1714,7 +1752,7 @@ Le transcodage peut prendre un certain temps lorsque vous utilisez cette fonctio
   <string name="privacy_permission_request_message"><Data>"Galerie a besoin d'accès à %3$s. Les informations collectées seront utilisées en accord avec nos &lt;a href=\"%1$s\">\"Conditions d'utilisation\"&lt;/a> et notre &lt;a href=\"%2$s\">\"Politique de confidentialité\"&lt;/a>. Autoriser ?"</Data></string>
   <string name="privacy_permission_request_negative">Restreindre</string>
   <string name="privacy_permission_request_positive">Autoriser</string>
-  <string name="privacy_permission_request_title">Permissions requise</string>
+  <string name="privacy_permission_request_title">Autorisations requise</string>
   <string name="private_entry_lock_state_activated_text">Release to open private folder</string>
   <string name="private_entry_lock_state_enterd_text">Pull down to open private folder</string>
   <string name="problem_feedback">"Retour d'information"</string>
@@ -2350,6 +2388,9 @@ Le transcodage peut prendre un certain temps lorsque vous utilisez cette fonctio
   <string name="trash_menu_delete">Supprimer</string>
   <string name="trash_menu_recovery">Restaurer</string>
   <string name="trash_purge_all">"Toutes les photos et vidéos seront supprimées du cloud. Vous ne pourrez pas les restaurer. Supprimer quand même ?"</string>
+  <string name="trash_purge_all_cloud">Tous les éléments de la corbeille seront définitivement supprimés du cloud et de tous les appareils synchronisés. Supprimer quand même ?</string>
+  <string name="trash_purge_all_local">Tous les éléments de la corbeille seront définitivement supprimés. Supprimer quand même ?</string>
+  <string name="trash_purge_dialog_title">Vider la corbeille</string>
   <string name="trash_purge_positive_button">Supprimer</string>
   <string name="trash_size">Éléments supprimés (%s)</string>
   <string name="trash_vip_button_login">Étendre</string>

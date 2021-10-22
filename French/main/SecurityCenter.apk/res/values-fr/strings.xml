@@ -108,11 +108,11 @@
     <string name="activity_title_auto_start_manager">Démarrage automatique</string>
     <string name="activity_title_create_shortcut">Gérer les raccourcis</string>
     <string name="activity_title_garbage_cleanup">Nettoyeur</string>
-    <string name="activity_title_license_manager">Permissions</string>
+    <string name="activity_title_license_manager">Autorisations</string>
     <string name="activity_title_networkassistants">Utilisation des données</string>
     <string name="activity_title_other_permission_manager">Autres permissions</string>
-    <string name="activity_title_permission_manager">Permissions</string>
-    <string name="activity_title_permissions_manager">Permissions</string>
+    <string name="activity_title_permission_manager">Autorisations</string>
+    <string name="activity_title_permissions_manager">Autorisations</string>
     <string name="activity_title_permissions_instruction">Détails des autorisations</string>
     <string name="activity_title_power_manager">Optimisation de la batterie</string>
     <string name="activity_title_risk_app_install_manager">Apps with possible risks</string>
@@ -129,7 +129,7 @@
     <string name="ad_update_time">Dernière mise à jour : %s</string>
     <string name="ad_update_time_unKnown">Dernière mise à jour inconnue</string>
     <string name="adb_install_no_network">Connectez-vous à internet et réessayez</string>
-    <string name="adb_install_open">Permissions…</string>
+    <string name="adb_install_open">Autorisations…</string>
     <string name="adb_install_open_error">"Impossible d'autoriser, vérifez votre connexion réseau"</string>
     <string name="adb_install_reject_notiy">"L'installation de \"%s\" via USB n'a pas été autorisée"</string>
     <string name="adb_install_reject_notiy_desc">"Vous pouvez autoriser l'installation via USB dans Options développeur"</string>
@@ -212,7 +212,7 @@
     <string name="apn_exception_summary">"Test des configurations du Nom de Point d'Accès"</string>
     <string name="apn_exception_title">Vérifiez la configuration des APN</string>
     <string name="apn_exception_wap_summary">Le WAP est instable maintenant. Passez à NET.</string>
-    <string name="app_behavior_about_content_no_link">"MIUI peut montrer quand les applications ont lancé d'autres applications, démarré automatiquement, utilisé des Permissions et effectué des actions sensibles. En raison de problèmes de compatibilité de version Android, certains de ces enregistrements peuvent ne pas être précis. Si vous trouvez un enregistrement de comportement d'application qui n'est pas précis, signalez-le-nous à l'aide de l'application \"Services et commentaires\"."</string>
+    <string name="app_behavior_about_content_no_link">"MIUI peut montrer quand les applications ont lancé d'autres applications, démarré automatiquement, utilisé des autorisations et effectué des actions sensibles. En raison de problèmes de compatibilité de version Android, certains de ces enregistrements peuvent ne pas être précis. Si vous trouvez un enregistrement de comportement d'application qui n'est pas précis, signalez-le-nous à l'aide de l'application \"Services et commentaires\"."</string>
     <string name="app_behavior_about_negative">Signaler des inexactitudes</string>
     <string name="app_behavior_about_positive">Compris</string>
     <string name="app_behavior_about_setting">Paramètres</string>
@@ -396,7 +396,7 @@
     <string name="app_manager_back">Retour</string>
     <string name="app_manager_bipartition">Applications clônées</string>
     <string name="app_manager_cache_size">Cache</string>
-    <string name="app_manager_card_permission_title">Permissions</string>
+    <string name="app_manager_card_permission_title">Autorisations</string>
     <string name="app_manager_clear_all_data">Effacer toutes les données</string>
     <string name="app_manager_clear_cache">Nettoyer le cache</string>
     <string name="app_manager_clear_data_dlg_message">"Toutes les données d'applications, y compris les fichiers, les paramètres, les bases de données ainsi que le cache seront supprimées de façon permanente."</string>
@@ -437,7 +437,7 @@
     <string name="app_manager_full_screen_title">Mode plein écran</string>
     <string name="app_manager_globel_other_perm_title">Autres permissions</string>
     <string name="app_manager_globel_perm_summary">Gérer les permissions relatives à la localisation, au stockage, au téléphone, aux messages et aux contacts.</string>
-    <string name="app_manager_globel_perm_title">"Permissions de l'application"</string>
+    <string name="app_manager_globel_perm_title">"Autorisations de l'application"</string>
     <string name="app_manager_has_not_data">Aucune donnée</string>
     <string name="app_manager_have_not_consume">Aucun</string>
     <string name="app_manager_hide_system_server">Masquer les services du système</string>
@@ -452,9 +452,9 @@
     <string name="app_manager_net_wifi">Wi-Fi</string>
     <string name="app_manager_not_allow">Non</string>
     <string name="app_manager_open_show_all_apps_immediate">Afficher tous les résultats</string>
-    <string name="app_manager_perm">Permissions</string>
+    <string name="app_manager_perm">Autorisations</string>
     <string name="app_manager_permission_dcimcontrol_title">Accès à la Galerie</string>
-    <string name="app_manager_permission_manager_title">Permissions</string>
+    <string name="app_manager_permission_manager_title">Autorisations</string>
     <string name="app_manager_permission_notify_title">Notifications</string>
     <string name="app_manager_permission_power_saving_title">Économiseur de batterie</string>
     <string name="app_manager_permission_startself_title">Démarrage automatique</string>
@@ -503,7 +503,7 @@ Vous ne perdrez aucune donnée d'application."</string>
     <string name="app_name_na">Utilisation des données</string>
     <string name="app_name_securitycenter">Sécurité</string>
     <string name="app_not_installed_toast">"L'application n'est pas installée sur votre appareil."</string>
-    <string name="app_perm_manager_service">Permissions</string>
+    <string name="app_perm_manager_service">Autorisations</string>
     <string name="app_permission_use_group_calendar">Calendrier</string>
     <string name="app_permission_use_group_calendar_des">Lire et ajouter des informations de calendrier</string>
     <string name="app_permission_use_group_camera">Appareil photo</string>
@@ -522,9 +522,9 @@ Vous ne perdrez aucune donnée d'application."</string>
     <string name="app_permission_use_group_sms_des">Envoyer, recevoir et lire des messages</string>
     <string name="app_permission_use_group_storage">Stockage</string>
     <string name="app_permission_use_group_storage_des">Accéder aux éléments et les sauvegarder</string>
-    <string name="app_permission_use_neccesary">Permissions requises</string>
-    <string name="app_permission_use_no_neccesary">Permissions optionnelles</string>
-    <string name="app_permission_use_title">Permissions</string>
+    <string name="app_permission_use_neccesary">Autorisations requises</string>
+    <string name="app_permission_use_no_neccesary">Autorisations optionnelles</string>
+    <string name="app_permission_use_title">Autorisations</string>
     <string name="app_predict_black_list_empty">Aucun élément ici pour le moment</string>
     <string name="app_predict_black_list_setting_title">"Liste de blocage des suggestions d'applications"</string>
     <string name="app_predict_classification_search_empty">Impossible de trouver des résultats</string>
@@ -1878,7 +1878,7 @@ Enregistrez des séquences et utilisez-les à tout moment !"</string>
     <string name="gb_voice_changer_men">Homme</string>
     <string name="gb_voice_changer_normal">Originale</string>
     <string name="gb_voice_changer_permission_dlg_msg">"Le changeur de voix doit pouvoir enregistrer l'audio pour fonctionner normalement."</string>
-    <string name="gb_voice_changer_permission_dlg_title">Permissions requises</string>
+    <string name="gb_voice_changer_permission_dlg_title">Autorisations requises</string>
     <string name="gb_voice_changer_recommend">Recommandé</string>
     <string name="gb_voice_changer_renew_dailog">Renouvelez votre abonnement pour pouvoir utiliser cet effet.</string>
     <string name="gb_voice_changer_robot">Robot</string>
@@ -2099,7 +2099,7 @@ pour rejoindre notre chasse aux œufs !"</string>
     <string name="intl_perm_privacy_control_title">Contrôlez la confidentialité</string>
     <string name="invalid_charger">"Impossible de charger via USB. Utilisez le chargeur fourni avec votre appareil."</string>
     <string name="ip_address_exception_summary">"Impossible d'obtenir une adresse IP. Si vous rencontrez à nouveau ce problème, essayez d'utiliser une adresse IP statique."</string>
-    <string name="item_app_permission">Permissions des applications</string>
+    <string name="item_app_permission">Autorisations des applications</string>
     <string name="item_dev_mode">Options développeur</string>
     <string name="item_install_monitor">"Moniteur d'installation"</string>
     <string name="item_mms">Filtrer les messages indésirables</string>
@@ -2108,8 +2108,8 @@ pour rejoindre notre chasse aux œufs !"</string>
     <string name="item_virus_lib">Mise à jour automatique de la base de données virales</string>
     <string name="keywords_antispam">"Liste noire;Bloquer;Liste noire;Liste noire intelligente;Fraude;Ventes;Agents;Liste noire d'appel;Liste noire de message;Liste noire de messagerie;Liste noire de SMS;listenoire;liste noire;bloquer une liste;fraude;bloquer un contact;bloquer des contacts"</string>
     <string name="keywords_antivirus">Virus;Risque;Antivirus;Vérifier la sécurité de paiement;sécurité de paiement;sécuriser le paiement;sécuriser des paiements;protection de paiement;protéger des paiements;sécuriser la zone;zone de paiement</string>
-    <string name="keywords_app_permissions">Permissions;Localisation;Accéder aux contacts;Permissions;Permissions des applications</string>
-    <string name="keywords_auto_restart">"Démarrage automatique;Permissions;Démarrer automatiquement;Gérer le démarrage automatique;Démarrage automatique MIUI;Démarrage automatique d'application;Démarrer automatiquement des applis;Démarrage à la chaîne;Démarrage à la chaîne;Démarrage déclenché"</string>
+    <string name="keywords_app_permissions">Autorisations;Localisation;Accéder aux contacts;Autorisations;Autorisations des applications</string>
+    <string name="keywords_auto_restart">"Démarrage automatique;Autorisations;Démarrer automatiquement;Gérer le démarrage automatique;Démarrage automatique MIUI;Démarrage automatique d'application;Démarrer automatiquement des applis;Démarrage à la chaîne;Démarrage à la chaîne;Démarrage déclenché"</string>
     <string name="keywords_buy_flow">donnée;données Mobiles;acheter du volume de données mobiles;recharger les données;forfait de données</string>
     <string name="keywords_cleanmaster">"Fichiers inutiles;Nettoyer;Vitesse;Stockage;Nettoyer le stockage;Nettoyer les fichiers inutiles;indésirables;libérer;libérer de l'espace de stockage;libérer de l'espace;nettoyer;nettoyage en profondeur;nettoyeur"</string>
     <string name="keywords_gamebooster">Jeu;Augmentation de vitesse;Roi de Gloire;Mode Performance;NPD;Jeux;jeu;Vitesse de jeu;augmenter</string>
@@ -2119,7 +2119,7 @@ pour rejoindre notre chasse aux œufs !"</string>
     <string name="keywords_powercenter">"Économiser la batterie;Chauffage;Activer;Désactiver;Batterie;Déchargement;Batterie;Problèmes de batterie;Énergie;Déchargement;Chauffage;Économiseur de batterie;Économiseur d'énergie;Économie de batterie"</string>
     <string name="keywords_powercenter_powerrank">"Consommation d'énergie"</string>
     <string name="keywords_securitycenter">Sécurité;Vérifier;Scanner</string>
-    <string name="keywords_securitycenter_settings">"Utilisation de la batterie; Gérer le démarrage automatique; Installer via USB; Permissions d'application; Acheter des données mobiles; Liste de blocage; Utilisation des données; Calibrer le plan de données; Tester le réseau; Économiser la batterie; Chauffage; Allumer; Éteindre; Batterie; Vidange; Problèmes de batterie; Énergie; Économiseur de batterie; Économiseur d'énergie; Économie d'énergie; Économie de batterie; Démarrage automatique; permission; démarrage automatique; démarrage automatique MIUI; App autostart; applications à démarrage automatique; démarrage en chaîne; démarrage en chaîne; démarrage déclenché; Installation par USB, installation depuis un ordinateur; installation par ADB; Localisation; Contacts d'accès; données; données mobiles; données d'achat; données de recharge; plan de données; Blocs; Liste noire; Liste de blocage intelligente; Fraude; Ventes; Agents; Liste de blocage d'appels; Liste de blocage de messages; Liste de blocage de messagerie; Liste de blocage de SMS; Liste noire; Liste noire; Liste de blocage; Liste de blocage; Fraude; Contact de bloc; Contacts de blocage Trafic; Étalonner; Connexion; internet; Test; Utilisation de la batterie; Optimisation de la batterie; Utilisation de la consommation d'énergie; Jeu; Booster de vitesse; Gloire du roi; Mode Performance; NPD"</string>
+    <string name="keywords_securitycenter_settings">"Utilisation de la batterie; Gérer le démarrage automatique; Installer via USB; Autorisations d'application; Acheter des données mobiles; Liste de blocage; Utilisation des données; Calibrer le plan de données; Tester le réseau; Économiser la batterie; Chauffage; Allumer; Éteindre; Batterie; Vidange; Problèmes de batterie; Énergie; Économiseur de batterie; Économiseur d'énergie; Économie d'énergie; Économie de batterie; Démarrage automatique; permission; démarrage automatique; démarrage automatique MIUI; App autostart; applications à démarrage automatique; démarrage en chaîne; démarrage en chaîne; démarrage déclenché; Installation par USB, installation depuis un ordinateur; installation par ADB; Localisation; Contacts d'accès; données; données mobiles; données d'achat; données de recharge; plan de données; Blocs; Liste noire; Liste de blocage intelligente; Fraude; Ventes; Agents; Liste de blocage d'appels; Liste de blocage de messages; Liste de blocage de messagerie; Liste de blocage de SMS; Liste noire; Liste noire; Liste de blocage; Liste de blocage; Fraude; Contact de bloc; Contacts de blocage Trafic; Étalonner; Connexion; internet; Test; Utilisation de la batterie; Optimisation de la batterie; Utilisation de la consommation d'énergie; Jeu; Booster de vitesse; Gloire du roi; Mode Performance; NPD"</string>
     <string name="keywords_usb_install">"USB installer;installer de l'ordinateur;ADB installer"</string>
     <string name="kilobyteShort">" Ko"</string>
     <string name="kilobyte_per_second">" Ko/s"</string>
@@ -2327,7 +2327,7 @@ Votre appareil est %d%% plus rapide maintenant."</string>
     <string name="menu_text_deepclean_summary">%1$s/%2$s occupé</string>
     <string name="menu_text_garbage_cleanup">Nettoyeur</string>
     <string name="menu_text_garbage_cleanup_danger">%s de fichiers inutiles</string>
-    <string name="menu_text_license_manager">Permissions</string>
+    <string name="menu_text_license_manager">Autorisations</string>
     <string name="menu_text_networkassistants">Utilisation des données</string>
     <string name="menu_text_networkassistants_danger">%s dépassé</string>
     <string name="menu_text_networkassistants_remain">%s restants</string>
@@ -2703,7 +2703,7 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
     <string name="optimize_result_title_uninstall_apps">Désinstaller des applications</string>
     <string name="optimize_result_toast_system_default_settings">Paramètres par défaut restaurés</string>
     <string name="optimize_result_toast_system_no_item_selected">Aucun élément sélectionné</string>
-    <string name="optional_permissions">Permissions facultatives </string>
+    <string name="optional_permissions">Autorisations facultatives </string>
     <string name="optional_permissions_desc">Ces permissions sont requises lorsque vous utilisez des fonctionnalités supplémentaires.</string>
     <string name="optmizingbar_optimize_done">Optimisé</string>
     <string name="optmizingbar_ready">Optimisation…</string>
@@ -2736,8 +2736,8 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
     <string name="password_xspace_forget_pattern_message">Pour changer le mot de passe du second espace, vous devriez supprimer votre second espace actuel et en créer un nouveau.</string>
     <string name="path_antispam">Applications système/Sécurité/Liste noire</string>
     <string name="path_antivirus">Applications système/Sécurtité/Analyse de virus</string>
-    <string name="path_app_permissions">Applications système/Permissions/Permissions des applications</string>
-    <string name="path_auto_restart">Applications système/Sécurité/Permissions/Démarrage automatique</string>
+    <string name="path_app_permissions">Applications système/Autorisations/Autorisations des applications</string>
+    <string name="path_auto_restart">Applications système/Sécurité/Autorisations/Démarrage automatique</string>
     <string name="path_buy_flow">Applications système/Sécurité/Acheter du volume de données mobiles</string>
     <string name="path_cleanmaster">Applications système/Sécurité/Nettoyeur</string>
     <string name="path_gamebooster">Applications système/Sécurité/Accélérateur de jeu</string>
@@ -2748,7 +2748,7 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
     <string name="path_powercenter_powerrank">Batterie et Performance / Utilisation de la batterie</string>
     <string name="path_securitycenter">Applications système/Sécurité</string>
     <string name="path_securitycenter_settings">Applications système/Sécurité</string>
-    <string name="path_usb_install">Applications système/Sécurité/Permissions/Installer via USB</string>
+    <string name="path_usb_install">Applications système/Sécurité/Autorisations/Installer via USB</string>
     <string name="pc_abnormal_scan_button_text">Fermer les applications</string>
     <string name="pc_abnormal_scan_reason_prevent_standby">Empêche le système de passer en mode veille</string>
     <string name="pc_abnormal_scan_reason_reconnect">Essaie de se connecter trop souvent au réseau</string>
@@ -2894,8 +2894,8 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
     <string name="permission_upgrade_runtime">"Les permissions pour accéder à votre emplacement ou prendre des photos ont maintenant une option qui vous permet de donner ces permissions une seule fois. Pour protéger la confidentialité de vos informations personnelles, ces actions ne seront pas effectuées après avoir quitté l'application. On vous demandera à nouveau des permissions lorsque vous utiliserez les fonctionnalités associées la prochaine fois."</string>
     <string name="permission_upgrade_title">Mises à jour des permissions</string>
     <string name="permission_upgrade_virtual">"Si vous ne souhaitez pas autoriser les applications à accéder à vos contacts ou à l'historique des appels, vous pouvez sélectionner \"Retourner des messages vides\" lorsque vous accordez les permissions correspondantes."</string>
-    <string name="permission_with_SMS_and_MMS">Permissions concernant les SMS et MMS</string>
-    <string name="permission_with_call_and_contact">"Permissions concernant les appels, les informations des contacts, et le journal d'appels."</string>
+    <string name="permission_with_SMS_and_MMS">Autorisations concernant les SMS et MMS</string>
+    <string name="permission_with_call_and_contact">"Autorisations concernant les appels, les informations des contacts, et le journal d'appels."</string>
     <string name="permit_running_network">Données en arrière-plan</string>
     <string name="person_hotpot">Partage de connexion</string>
     <string name="phone">Téléphone</string>

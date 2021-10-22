@@ -144,7 +144,7 @@
     <string name="actionbar_button_up_description">Retour</string>
     <string name="afternoon">Après-midi</string>
     <string name="am">AM</string>
-    <string name="app_name">Permissions</string>
+    <string name="app_name">Autorisations</string>
     <string name="background_location_access_reminder_notification_content">Cette application peut toujours accéder à votre position. Appuyez pour changer.</string>
     <string name="background_location_access_reminder_notification_title">%s utilise votre position</string>
     <string name="blur_location_is_on_tip">"%1$s utilise votre localisation approximative. Continuer de l'utiliser au lieu de la localisation précise ?"</string>
@@ -158,7 +158,7 @@
     <string name="clipboard_ai_allow_once">%1$s a été autorisé à accéder aux éléments du presse-papiers automatiquement</string>
     <string name="clipboard_data">Contenu: </string>
     <string name="clipboard_data_request">"%1$s tente d'accéder aux éléments du presse-papiers"</string>
-    <string name="clipboard_deny_notification_content">Cette tentative a été bloquée. Appuyez pour gérer les permissions.</string>
+    <string name="clipboard_deny_notification_content">Cette tentative a été bloquée. Appuyez pour gérer les autorisations.</string>
     <string name="clipboard_deny_notification_operation">Gérer</string>
     <string name="clipboard_deny_notification_title">"%1$s tente d'accéder aux éléments du presse-papiers"</string>
     <string name="clipboard_may_sensitive">Information potentiellement sensible</string>
@@ -187,7 +187,7 @@
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
     <string name="go_behavior_record">"Historique du comportement de l'application"</string>
-    <string name="go_perm_manager">Gérer les permissions</string>
+    <string name="go_perm_manager">Gérer les autorisations</string>
     <string name="go_setting">Paramètres</string>
     <string name="gold_master_dialog_reject">Restreindre (%d)</string>
     <string name="gold_master_dialog_title">%1$s souhaite accéder à votre presse-papiers</string>
@@ -283,8 +283,8 @@
     <string name="ok">OK</string>
     <string name="perm_action_allow">Autoriser</string>
     <string name="perm_action_deny">Ne jamais autoriser</string>
-    <string name="perm_manager_suggest_operation">Gérer les permissions</string>
-    <string name="perm_manager_suggest_title">Ajuster les permissions ?</string>
+    <string name="perm_manager_suggest_operation">Gérer les autorisations</string>
+    <string name="perm_manager_suggest_title">Ajuster les autorisations ?</string>
     <string name="perm_modem_location">Accès à votre localisation</string>
     <string name="perm_modem_location_desc">"Votre opérateur tente d'accéder à vos informations de localisation. Partager les informations de localisation avec votre opérateur ?"</string>
     <string name="permdesc_camera">Prendre des photos et enregistrer des vidéos</string>
@@ -311,7 +311,7 @@
     <string name="permgroupdesc_sms">Lire ou envoyer des SMS</string>
     <string name="permgroupdesc_storage">"Accéder aux photos ou aux fichiers sur l'appareil"</string>
     <string name="permgrouprequest_storage_isolated">Autoriser %1$s accéder aux photos et aux médias sur votre appareil ?</string>
-    <string name="permission_description_summary_activity_recognition">Les applications disposant de cette permission peuvent accéder à votre activité physique, comment marcher, faire du vélo, conduire, compter les pas, etc.</string>
+    <string name="permission_description_summary_activity_recognition">Les applications disposant de cette autorisation peuvent accéder à votre activité physique, comment marcher, faire du vélo, conduire, compter les pas, etc.</string>
     <string name="permission_description_summary_calendar">Les applications avec cette permission peuvent accéder à votre calendrier</string>
     <string name="permission_description_summary_call_log">Les applications disposant de cette permission peuvent lire et écrire dans le journal des appels téléphoniques.</string>
     <string name="permission_description_summary_camera">Les applications avec cette permission peuvent prendre des photos et enregistrer des vidéos</string>

@@ -97,9 +97,9 @@ Nous rendrons anonymes ces éléments avant de les partager afin d'empêcher les
 Si vous ne souhaitez pas accéder aux cours recommandés, vous pouvez toujours utiliser les entraînements réguliers."</string>
   <string name="auth_dialog_link">"Pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez notre &lt;font color=\"#0D84FF\">&lt;a href=%1$s>Accord d'utilisation&lt;/a>&lt;/font> et notre &lt;font color=\"#0D84FF\">&lt;a href=%2$s>Politique de confidentialité&lt;/a>&lt;/font>."</string>
   <string name="auth_dialog_title">Cours recommandés</string>
-  <string name="auto_start_fail">"Impossible d'accorder les permissions"</string>
-  <string name="auto_start_success">Permissions accordées avec succès</string>
-  <string name="auto_start_tips">Appuyer sur \"Paramètres\" ci-dessous pour ouvrir les paramètres Mi Santé et accorder les permissions requises.</string>
+  <string name="auto_start_fail">"Impossible d'accorder les autorisations"</string>
+  <string name="auto_start_success">Autorisations accordées avec succès</string>
+  <string name="auto_start_tips">Appuyer sur \"Paramètres\" ci-dessous pour ouvrir les paramètres Mi Santé et accorder les autorisations requises.</string>
   <string name="avatar">Photo de profil</string>
   <string name="avatar_upload_failure">Envoi impossible. Vérifiez vos paramètres réseau et réessayez.</string>
   <string name="average_cycle_days">Cycle moyen</string>
@@ -330,7 +330,7 @@ Mi Santé ne vous informera que des articles importants."</string>
   <string name="dialog_exercise_purpose">"Bienvenue sur Mi Santé ! \"Le compteur de pas\" vous permet de voir combien de pas vous faîtes par jour, aussi bien que définir et gérer vos buts d'activités. Toutes les données concernées seront emmagasinées localement sur votre appareil, ce qui vous permet de les gérer facilement."</string>
   <string name="dialog_exit">Quitter</string>
   <string name="dialog_exit_use">Quitter</string>
-  <string name="dialog_feedback_content">"Si vous refusez d'accorder ces permissions, vous ne pourrez pas utiliser certaines fonctionnalités de l'application. Toutefois, les fonctionnalités de base resteront disponibles . Vous pouvez restreindre ou révoquer les permissions dans les Réglages."</string>
+  <string name="dialog_feedback_content">"Si vous refusez d'accorder ces autorisations, vous ne pourrez pas utiliser certaines fonctionnalités de l'application. Toutefois, les fonctionnalités de base resteront disponibles. Vous pouvez restreindre ou révoquer les autorisations dans les Réglages."</string>
   <string name="dialog_feedback_purpose">Mi Santé doit accéder au stockage afin de soumettre des commentaires.</string>
   <string name="dialog_feedback_purpose2">Pour envoyer vos commentaires</string>
   <string name="dialog_feedback_title">Commentaires</string>
@@ -345,7 +345,7 @@ Mi Santé ne vous informera que des articles importants."</string>
   <string name="dialog_ok">OK</string>
   <string name="dialog_open">Autoriser</string>
   <string name="dialog_permission_loading_msg">Vérification…</string>
-  <string name="dialog_permission_title">Permissions requises</string>
+  <string name="dialog_permission_title">Autorisations requises</string>
   <string name="dialog_privacy_policy_statement">Déclaration de confidentialité</string>
   <string name="dialog_privacy_title">Termes et conditions</string>
   <string name="dialog_read_phone_perm_desc">"Pour identifier les fonctionnalités de l'appareil en utilisant OAID ou Android ID"</string>
@@ -586,7 +586,7 @@ Recommencer."</string>
   <string name="hr_input_heart_rate">Enregistrer la fréquence cardiaque</string>
   <string name="hr_measure_heart_rate">Mesure</string>
   <string name="hr_open_permission_desc">"Xiaomi Health doit accéder au capteur photo de votre téléphone pour pouvoir mesurer la fréquence cardiaque. Autoriser ?"</string>
-  <string name="hr_open_permission_title">Permissions requises</string>
+  <string name="hr_open_permission_title">Autorisations requises</string>
   <string name="hr_phone_detect_records">Historique des mesures du téléphone</string>
   <string name="hr_pre_detect">Couvrez complètement le flash et le capteur avec un doigt</string>
   <string name="hr_pre_detect_finger">Vérification…</string>
@@ -667,7 +667,7 @@ Recommencer."</string>
   <string name="label_today_sleep_summary">Sommeil de la nuit dernière</string>
   <string name="label_wake_up">Réveillé(e)</string>
   <string name="label_wake_up_time">Réveillé(e)</string>
-  <string name="lack_permisson">Donner à Mi Santé toutes les permissions requises pour continuer.</string>
+  <string name="lack_permisson">Donner à Mi Santé toutes les autorisations requises pour continuer.</string>
   <string name="last_measure_date">"Dernière pesée : "</string>
   <string name="last_measure_hours_minutes">%1$s depuis la dernière pesée</string>
   <string name="last_sync_time">Dernière synchronisation : %1$s</string>
@@ -681,7 +681,7 @@ Recommencer."</string>
   <string name="load_failed">Impossible de charger les éléments. Attendez une minute ou deux et réessayez.</string>
   <string name="loading">Un instant…</string>
   <string name="location_perm_description">Pour suivre les entraînements en extérieur et enregistrer les itinéraires</string>
-  <string name="location_permission_dialog_content">Autorisez Mi Santé à accéder à votre emplacement dans \"Mi Santé\" > \"Gérer les permissions\" pour pouvoir suivre vos entraînements en extérieur."</string>
+  <string name="location_permission_dialog_content">Autorisez Mi Santé à accéder à votre emplacement dans \"Mi Santé\" > \"Gérer les autorisations\" pour pouvoir suivre vos entraînements en extérieur."</string>
   <string name="location_permission_dialog_negative">Pas maintenant</string>
   <string name="location_permission_dialog_positive">Autoriser</string>
   <string name="location_permission_dialog_title">Autorisations de localisation requises</string>
@@ -1014,7 +1014,7 @@ Recommencer."</string>
   <string name="rb_gender_male">Sexe : Homme</string>
   <string name="reach_standard">Conforme à la norme</string>
   <string name="recog_permission_dialog_content">"Autorisez Mi Santé à accéder à vos informations d'activité pour pouvoir voir le nombre de pas."</string>
-  <string name="recog_permission_dialog_title">Permissions requises</string>
+  <string name="recog_permission_dialog_title">Autorisations requises</string>
   <string name="recommand_body_weight_msg">"Poids cible recommandé : %1$.1f kg. Atteindre l'IMC %2$.1f pour réduire le risque de maladies cardiovasculaires et hépatiques."</string>
   <string name="recommend_sleep_goal">21:00-11:00</string>
   <string name="record_blood_pressure">Enregistrer la mesure</string>
@@ -1154,7 +1154,7 @@ Recommencer."</string>
   <string name="skipping_upload_tips">"Envoyer l'audio pour rendre les statistiques plus précises"</string>
   <string name="sleep">Sommeil</string>
   <string name="sleep_and_get_up_time">Horaire du coucher</string>
-  <string name="sleep_auto_start_perm_grant">Permissions accordées</string>
+  <string name="sleep_auto_start_perm_grant">Autorisations accordées</string>
   <string name="sleep_chart_empty">Aucune donnée</string>
   <string name="sleep_chart_loading">Chargement…</string>
   <string name="sleep_day">Jour</string>
@@ -1309,7 +1309,7 @@ Si ce problème se produit fréquemment, vérifiez sur votre appareil les tâche
   <string name="snore_write_description">Pour sauvegarder des enregistrements audio sur votre appareil</string>
   <string name="sport_audio_permission_dialog_content">"Cette application a besoin d'autorisations pour enregistrer de l'audio pour pouvoir suivre les entraînements en fonction des sons que vous produisez."</string>
   <string name="sport_audio_permission_dialog_desc">Pour suivre les entraînements en fonction des sons que vous produisez</string>
-  <string name="sport_audio_permission_dialog_title">Permissions requises</string>
+  <string name="sport_audio_permission_dialog_title">Autorisations requises</string>
   <string name="sport_btn_continue">Reprendre</string>
   <string name="sport_btn_finish">Terminer</string>
   <string name="sport_btn_lock">Verrouiller</string>
@@ -1430,7 +1430,7 @@ Si ce problème se produit fréquemment, vérifiez sur votre appareil les tâche
   <string name="sync_status_in_progress">Synchronisation…</string>
   <string name="sync_status_network_failure">Impossible de synchroniser. Connectez-vous au réseau et réessayez.</string>
   <string name="sync_status_never_done">Non synchronisé</string>
-  <string name="sync_status_oauth_error">"Impossible de synchroniser les données. Accordez d'abord les permissions requises."</string>
+  <string name="sync_status_oauth_error">"Impossible de synchroniser les données. Accordez d'abord les autorisations requises."</string>
   <string name="system_app_setting">"Réglages de l'application système"</string>
   <string name="systolic_pressure">Systolique</string>
   <string name="tb_audio_progress_bar">Barre de lecture audio</string>

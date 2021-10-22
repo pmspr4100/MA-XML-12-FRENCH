@@ -520,9 +520,17 @@
         <item quantity="other">%1$s, %2$s éléments</item>
         <item quantity="one">%1$s, %2$s élément</item>
     </plurals>
+    <plurals name="trash_purge_dialog_message_cloud">
+        <item quantity="other">%d éléments sélectionnés seront définitivement supprimés du cloud et de tous les appareils synchronisés. Supprimer quand même ?</item>
+        <item quantity="one">%d élément sélectionné sera définitivement supprimé du cloud et de tous les appareils synchronisés. Supprimer quand même ?</item>
+    </plurals>
     <plurals name="trash_purge_dialog_message_image">
         <item quantity="other">"Vous ne pourrez pas restaurer %d éléments sélectionnés si vous les supprimez. Supprimer quand même ?"</item>
         <item quantity="one">"Vous ne pourrez pas restaurer %d élément sélectionné si vous l'avez supprimé. Supprimer quand même ?"</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_local">
+        <item quantity="other">%d éléments sélectionnés seront supprimés définitivement. Supprimer quand même ?</item>
+        <item quantity="one">%d élément sélectionné sera supprimé définitivement. Supprimer quand même ?</item>
     </plurals>
     <plurals name="trash_purge_dialog_message_media">
         <item quantity="other">"Vous ne pourrez pas restaurer %d éléments sélectionnés si vous les supprimez. Supprimer quand même ?"</item>

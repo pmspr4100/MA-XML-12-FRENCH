@@ -194,7 +194,7 @@
     <string name="bh_number_not_supported">Impossible de recharger le solde pour ce numéro de téléphone</string>
     <string name="bh_online_service">Support en ligne</string>
     <string name="bh_open_traffic_service">Activer un forfait téléphonique</string>
-    <string name="bh_option_agree_dec">"Autoriser les Services Mi Carrier à se connecter à internet et accorder les permissions demandéesavant d'utiliser l'application."</string>
+    <string name="bh_option_agree_dec">"Autoriser les Services Mi Carrier à se connecter à internet et accorder les autorisations demandées avant d'utiliser l'application."</string>
     <string name="bh_order_detail">Détails de la commande</string>
     <string name="bh_order_id">ID de la commande</string>
     <string name="bh_order_loading">Un instant…</string>
@@ -267,7 +267,7 @@
     <string name="bh_traffic_service">Plus de services</string>
     <string name="bh_traffic_surplus">Données restantes</string>
     <string name="bh_traffic_title">Obtenir les données</string>
-    <string name="bh_unavailable">Aucune permission de voir cette page</string>
+    <string name="bh_unavailable">Aucune autorisationde voir cette page</string>
     <string name="bh_used_month">Utilisé ce mois-ci</string>
     <string name="bh_used_today">"Utilisé aujourd'hui"</string>
     <string name="bh_user_agreement">"Accord d'utilisation"</string>
@@ -470,7 +470,7 @@
     <string name="contact_detail_miprofile_binded_label">Vérifié</string>
     <string name="contact_detail_miprofile_exchange_closed">"Aucun numéro de téléphone associé avec ce compte Mi
 Les cartes de contact ont été désactivées"</string>
-    <string name="contact_detail_miprofile_privacy_settings">Permission requise pour voir</string>
+    <string name="contact_detail_miprofile_privacy_settings">Autorisationrequise pour voir</string>
     <string name="contact_detail_miprofile_request">Échanger les cartes de contact</string>
     <string name="contact_detail_miprofile_request_fail_toast">"Impossible d'envoyer la demande"</string>
     <string name="contact_detail_miprofile_request_subtitle">Mettre à jour automatiquement les informations du contact</string>
@@ -665,7 +665,7 @@ Les cartes de contact ont été désactivées"</string>
 
 %2$d. Le mode Visibilité devrait aussi être activé sur les appareils Android.
 
-%3$d. Appuyer sur \"Suivant\", et accorder à Contacts les permissions requises."</string>
+%3$d. Appuyer sur \"Suivant\", et accorder à Contacts les autorisations requises."</string>
     <string name="device_transfer_by_sim_message">"%1$d. Enregistrer les contacts de l'autre appareil sur la carte SIM ; 
 
 %2$d. Ouvrir les paramètres dans l'application Contacts, et puis aller à \"Importer/Exporter des contacts\" -- \"Importer de la carte SIM\", maintenir n'importe quel contact sur la carte SIM pour le sélectionner, sélectionner tous les contacts requis, puis appuyer sur \"Importer\".\""</string>
@@ -1021,7 +1021,7 @@ Raison : \"%s\""</string>
     <string name="miprofile_switch_on_alertdialog_positive">Activer</string>
     <string name="miprofile_switch_on_alertdialog_title">Mettre à jour la photo de profil</string>
     <string name="missing_name">(Aucun nom)</string>
-    <string name="missing_required_permission">Vous avez désactivé les permissions requises.</string>
+    <string name="missing_required_permission">Vous avez désactivé les autorisations requises.</string>
     <string name="miuix_appcompat_cloud_state_disabled">Synchronisation avec le cloud est désactivée</string>
     <string name="miuix_appcompat_cloud_state_finished">Synchronisé avec le cloud avec succès</string>
     <string name="miuix_appcompat_cloud_state_syncing">Synchronisation avec le cloud…</string>
@@ -1218,8 +1218,24 @@ Pour ajouter un contact à votre liste de favoris :
     <string name="permission_access_fine_location_desc">Pour améliorer le signal du réseau local</string>
     <string name="permission_camera_desc">"Pour prendre des photos durant la vérification de l'identité"</string>
     <string name="permission_dailog_positive_button">"C'est parti"</string>
-    <string name="permission_dailog_title">Permissions requises</string>
+    <string name="permission_dailog_title">Autorisations requises</string>
+    <string name="permission_notice_desc_access_fine_location">"Pour importer des contacts depuis d'autres appareils via Bluetooth"</string>
+    <string name="permission_notice_desc_add_voicemail">Pour utiliser les fonctionnalités de messagerie vocale et de message audio</string>
+    <string name="permission_notice_desc_call_phone">Pour passer des appels dans des applications tierces</string>
+    <string name="permission_notice_desc_camera">Pour prendre des photos de profil</string>
+    <string name="permission_notice_desc_read_call_logs">"Pour afficher l'historique des appels"</string>
+    <string name="permission_notice_desc_read_contacts">Pour afficher les contacts</string>
+    <string name="permission_notice_desc_read_external_storage">Pour ajouter des photos de profil et importer des vCards</string>
+    <string name="permission_notice_desc_read_phone_state">Pour accéder aux informations SIM</string>
+    <string name="permission_notice_desc_title">Autorisations requises</string>
+    <string name="permission_notice_desc_write_call_logs">"Pour modifier l'historique des appels"</string>
+    <string name="permission_notice_desc_write_contacts">Pour la gestion des contacts</string>
+    <string name="permission_notice_desc_write_external_storage">Pour ajouter des photos de profil et importer des vCards</string>
     <string name="permission_record_audio_desc">"Pour utiliser votre voix durant la vérification de l'identité"</string>
+    <string name="permission_retry_deny">Annuler</string>
+    <string name="permission_retry_dialog_msg">"Pour pouvoir utiliser votre carte SIM avec cette application, gérer vos contacts et maintenir l'historique des appels à jour, autorisez cette application à accéder et à modifier vos contacts et l'historique des appels, ainsi qu'à accéder aux informations de l'appareil."</string>
+    <string name="permission_retry_dialog_msg_pad">"Pour pouvoir utiliser votre carte SIM avec cette application et gérer vos contacts, autorisez cette application à accéder et à modifier vos contacts, ainsi qu'à accéder aux informations de l'appareil."</string>
+    <string name="permission_retry_setting">Paramètres</string>
     <string name="permission_write_external_storage_desc">"Pour sauvegarder les données de l'application"</string>
     <string name="phoneLabelsGroup">Téléphone</string>
     <string name="phone_number_too_long_toast">Ce numéro est trop long</string>
@@ -1293,6 +1309,8 @@ Pour ajouter un contact à votre liste de favoris :
     <string name="preference_phone">Périphérique</string>
     <string name="preference_phone_more_title">"Paramètres d'appel"</string>
     <string name="preference_privacy_policy_title">Politique de confidentialité</string>
+    <string name="preference_privacy_settings">Vie privée</string>
+    <string name="preference_privacy_settings_title">Vie privée</string>
     <string name="preference_remove_duplicate">Fusionner les contacts dupliqués</string>
     <string name="preference_show_firewall_calllog">"Afficher les appels bloqués dans l'historique des appels"</string>
     <string name="preference_show_yellowpage_tab_description">Pages jaunes pourrait ne pas fonctionner correctement lorsque cette fonctionnalité est désactivée.</string>
@@ -1316,7 +1334,41 @@ Pour ajouter un contact à votre liste de favoris :
     <string name="preview_contact_card_title">Importer une carte de contact</string>
     <string name="preview_incall_show_entry">Aperçu vidéo</string>
     <string name="previous">Précédent</string>
+    <string name="privacy_password_message1">Le mot de passe de protection de la confidentialité fonctionne pour les photos, les notes et les dossiers cachés.</string>
+    <string name="privacy_password_message2">Utilisez le Mot de passe de protection de la vie privée. Il fonctionne pour les photos, les notes et les dossiers cachés.</string>
+    <string name="privacy_password_message3">Votre mot de passe sera remplacé par un Mot de passe de protection de la vie privée qui fonctionne pour les photos, les notes et les dossiers cachés.</string>
+    <string name="privacy_password_set_password">Définir</string>
+    <string name="privacy_password_title1">Définir le mot de passe</string>
+    <string name="privacy_password_title2">Utiliser le Mot de passe de protection de la vie privée</string>
+    <string name="privacy_password_title3">Mettez à jour votre mot de passe</string>
+    <string name="privacy_password_title4">Mot de passe mis à jour</string>
     <string name="privacy_policy_and_user_agreement">"Politique de confidentialité et Accord d'utilisation"</string>
+    <string name="privacy_settings_call_phone">Passer des appels</string>
+    <string name="privacy_settings_call_phone_description">Pour passer des appels dans des applications tierces</string>
+    <string name="privacy_settings_contacts">Contacts et Téléphone</string>
+    <string name="privacy_settings_mallowed">Autorisé</string>
+    <string name="privacy_settings_mnotallowed">Refusé</string>
+    <string name="privacy_settings_permission_description">Détails des autorisations</string>
+    <string name="privacy_settings_permission_related">Autorisations</string>
+    <string name="privacy_settings_phone_position">Localisation</string>
+    <string name="privacy_settings_phone_position_description">"Pour importer des contacts depuis d'autres appareils via Bluetooth"</string>
+    <string name="privacy_settings_privacy_policy">Politique de confidentialité</string>
+    <string name="privacy_settings_read_call_log">"Accéder à l'historique des appels"</string>
+    <string name="privacy_settings_read_call_log_description">"Pour afficher l'historique des appels"</string>
+    <string name="privacy_settings_read_contacts">Accéder aux contacts</string>
+    <string name="privacy_settings_read_contacts_description">Pour afficher les contacts</string>
+    <string name="privacy_settings_read_phone_state">"Accéder aux informations sur l'appareil"</string>
+    <string name="privacy_settings_read_phone_state_description">Pour accéder aux informations SIM</string>
+    <string name="privacy_settings_read_write_phone">Accéder au stockage</string>
+    <string name="privacy_settings_read_write_phone_description">Pour ajouter des photos de profil et importer des vCards</string>
+    <string name="privacy_settings_take_photo_record_video">Prendre des photos et enregistrer des vidéos</string>
+    <string name="privacy_settings_take_photo_record_video_description">Pour prendre des photos de profil</string>
+    <string name="privacy_settings_view_policy">Afficher la Politique de confidentialité</string>
+    <string name="privacy_settings_write_call_log">"Modifier l'historique des appels"</string>
+    <string name="privacy_settings_write_call_log_description">"Pour modifier l'historique des appels"</string>
+    <string name="privacy_settings_write_contacts">Modifier les contacts</string>
+    <string name="privacy_settings_write_contacts_description">Pour la gestion des contacts</string>
+    <string name="privacy_settings_yellowpage">Pages jaunes</string>
     <string name="private_num">Numéro privé</string>
     <string name="profileSavedErrorToast">"Impossible d'enregistrer les modifications du profile"</string>
     <string name="profileSavedToast">Profil enregistré</string>
@@ -1668,6 +1720,14 @@ Pour commencer, appuyez sur l'icône fusionner en bas de votre écran."</string>
     <string name="toast_for_failed_saving_nickname">Impossible de sauvegarder le pseudo</string>
     <string name="toast_for_saving_nickname">Pseudo sauvegardé</string>
     <string name="toast_join_with_empty_contact">Donnez un nom au contact avant de le fusionner avec un autre contact</string>
+    <string name="toast_not_show_camera_perm_req">"Pour pouvoir utiliser l'appareil photo pour prendre des photos de profil, autorisez d'abord cette application à prendre des photos et à enregistrer des vidéos."</string>
+    <string name="toast_not_show_location_perm_req">"Pour pouvoir importer des contacts depuis d'autres appareils via Bluetooth, autorisez d'abord cette application à accéder à votre position."</string>
+    <string name="toast_not_show_read_calllogs_perm_req">"Pour pouvoir afficher l'historique des appels, autorisez d'abord cette application à accéder à l'historique des appels."</string>
+    <string name="toast_not_show_read_contacts_perm_req">"Pour pouvoir afficher les contacts, autorisez d'abord cette application à accéder aux contacts."</string>
+    <string name="toast_not_show_read_phone_state_perm_req">"Pour pouvoir utiliser cette application avec votre carte SIM, autorisez d'abord cette application à accéder aux informations de l'appareil."</string>
+    <string name="toast_not_show_storage_perm_req">"Pour pouvoir ajouter des photos de profil et importer des vCards, autorisez d'abord cette application à accéder au stockage."</string>
+    <string name="toast_not_show_write_calllogs_perm_req">"Pour pouvoir maintenir l'historique des appels à jour, autorisez d'abord cette application à modifier l'historique des appels."</string>
+    <string name="toast_not_show_write_contacts_perm_req">"Pour pouvoir afficher les contacts, autorisez d'abord cette application à modifier les contacts."</string>
     <string name="toast_making_personal_copy">Créer une copie personnelle</string>
     <string name="toast_start_intent_failed">Impossible trouver des applications pour gérer cette action</string>
     <string name="toast_text_copied">Texte copié</string>

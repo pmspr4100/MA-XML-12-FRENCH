@@ -82,7 +82,7 @@
   <string name="cta_confirm_cancel">Ne pas autoriser</string>
   <string name="cta_confirm_ok">Autoriser</string>
   <string name="cta_dialog_message">"Notes nécessite des autorisations pour se connecter à internet, enregistrer de l'audio et accéder à vos contacts pour fonctionner normalement. Autoriser ?"</string>
-  <string name="cta_dialog_title">Permissions requise</string>
+  <string name="cta_dialog_title">Autorisations requise</string>
   <string name="cta_reminder">"Notes nécessite des autorisations pour se connecter à internet, enregistrer de l'audio et accéder à vos contacts pour fonctionner normalement. Autoriser ?"</string>
   <string name="cta_v2_agree_desc">Autorisez cette application à se connecter à Internet et accordez les autorisations obligatoires répertoriées ci-dessus.</string>
   <string name="cta_v2_app_purpose">Créer, afficher et gérer des notes</string>
@@ -683,13 +683,13 @@
   <string name="toast_refuse_to_record_when_in_call">"Impossible d'utiliser cette fonction pendant les appels"</string>
   <string name="toast_refuse_to_record_when_in_multi_window">"Impossible d'utiliser cette fonctionnalité avec écran divisé"</string>
   <string name="toast_refuse_to_record_when_in_multi_window_new">"Can't use this feature in Split screen or floating windows"</string>
-  <string name="toast_refuse_to_use_contact">"Les permissions des contacts sont limitées. 
+  <string name="toast_refuse_to_use_contact">"Les autorisations des contacts sont limitées.
 Autorisez Notes à lire vos contacts et à rechercher des comptes sur lappareil."</string>
-  <string name="toast_refuse_to_use_external_storage">"Les permissions de stockage sont limitées.
+  <string name="toast_refuse_to_use_external_storage">"Les autorisations de stockage sont limitées.
  Autorisez Notes à lire le contenu de votre carte SD."</string>
-  <string name="toast_refuse_to_use_phone_state">"Les permissions du téléphone sont limitées. 
+  <string name="toast_refuse_to_use_phone_state">"Les autorisations du téléphone sont limitées.
 Autorisez Notes à lire le statut et lidentité du téléphone."</string>
-  <string name="toast_refuse_to_use_record_audio">"Les permissions du microphone sont limitées.
+  <string name="toast_refuse_to_use_record_audio">"Les autorisations du microphone sont limitées.
  Autorisez Notes à enregistrer de laudio."</string>
   <string name="today">"Aujourd'hui"</string>
   <string name="toast_refuse_to_use_storage_in_excerpt">Autoriser Notes à accéder au stockage pour pouvoir ajouter des images à vos notes</string>

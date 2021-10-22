@@ -90,7 +90,7 @@ L'ID de votre compte : %s"</string>
   <string name="am">AM</string>
   <string name="app_name">Compte Mi</string>
   <string name="auth_fail_warning">La session a expiré, veuillez vous reconnecter plus tard</string>
-  <string name="authorize_title">Permissions</string>
+  <string name="authorize_title">Autorisations</string>
   <string name="bind_facebook">Se connecter à votre compte Facebook</string>
   <string name="bind_google">Se connecter à votre compte Google</string>
   <string name="bind_safe_phone_msg">Ajoutez votre numéro de téléphone pour être en mesure de vous connecter à votre Compte Mi la prochaine fois.</string>
@@ -260,7 +260,7 @@ Envoyez ce code au superviseur."</string>
   <string name="just_a_second">Chargement…</string>
   <string name="kr_license_desc">"Vous devez accepter notre Accord d'utilisation et notre Politique de confidentialité avant d'utiliser les services Compte Mi et Mi Cloud."</string>
   <string name="kr_permission_contacts_desc">Pour accéder aux informations de contact</string>
-  <string name="kr_permission_desc">Permissions requises</string>
+  <string name="kr_permission_desc">Autorisations requises</string>
   <string name="kr_permission_phone_desc">Pour protéger votre compte</string>
   <string name="kr_permission_sms_desc">Pour les codes de vérification à remplissage automatique</string>
   <string name="kr_permission_storage_desc">Pour sauvegarder les diagnostics</string>
@@ -373,7 +373,7 @@ Envoyez ce code au superviseur."</string>
   <string name="oauth_scopes_intro">&lt;font color=#%1$s>%2$s&lt;/font> obtiendra les permissions suivantes :&lt;br> &lt;br> %3$s ;</string>
   <string name="oauth_title">Se connecter avec le Compte Mi</string>
   <string name="ok">OK </string>
-  <string name="optional_permissions">Permissions optionnelles</string>
+  <string name="optional_permissions">Autorisations optionnelles</string>
   <string name="passport_access_denied">Accès refusé</string>
   <string name="passport_account_hint_text">Email/Téléphone/ID de Compte Mi</string>
   <string name="passport_account_identity_title">Vérifier votre identité</string>
@@ -460,7 +460,7 @@ Envoyez ce code au superviseur."</string>
   <string name="passport_i_know">Compris</string>
   <string name="passport_identification_expired">Le code de vérification a expiré, recommencez</string>
   <string name="passport_imei_permission_denied_message">"Nous demandons la permission d'obtenir l'IMEI de votre appareil. Le Compte Mi utilise l'IMEI comme identité du périphérique sur lequel vous vous connectez/vous inscrivez, pour aider à garder votre Compte Mi fiable."</string>
-  <string name="passport_imei_permission_denied_title">Permission IMEI requise</string>
+  <string name="passport_imei_permission_denied_title">Autorisation IMEI requise</string>
   <string name="passport_input_captcha_hint">Saisir le captcha</string>
   <string name="passport_input_password_for_login">Ce numéro est associé à un compte existant, entrez votre mot de passe</string>
   <string name="passport_input_password_hint">Saisir le mot de passe</string>
@@ -650,7 +650,7 @@ Envoyez ce code au superviseur."</string>
   <string name="recycle_phone_notification_title">Rsique de sécurité du Compte Mi</string>
   <string name="removing_account">Suppression du compte…</string>
   <string name="replace_binded_phone">Remplacer le numéro</string>
-  <string name="request_open_permission">Permissions requises</string>
+  <string name="request_open_permission">Autorisations requises</string>
   <string name="request_use_camera_message">"Autoriser le Compte Mi à accéder au capteur photo de votre téléphone ?"</string>
   <string name="request_use_camera_title">Accès au capteur photo</string>
   <string name="request_use_gallery_message">Autoriser le Compte Mi à accéder à Galerie ?</string>

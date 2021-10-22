@@ -556,7 +556,7 @@ ne sont pas générées dans le Deuxième espace"</string>
   <string name="stop_app_timer">"Désactiver le temps d'utilisation"</string>
   <string name="stop_app_timer_fail">"Le Temps d'utilisation n'a pas pu être désactivé"</string>
   <string name="stop_app_timer_success">"Le Temps d'utilisation a été désactivé"</string>
-  <string name="stop_app_timer_tip">"Les données et les permissions liées au temps d'utilisation seront effacées après la désactivation, y compris les paramètres, les données locales et dans le cloud, etc."</string>
+  <string name="stop_app_timer_tip">"Les données et les autorisations liées au temps d'utilisation seront effacées après la désactivation, y compris les paramètres, les données locales et dans le cloud, etc."</string>
   <string name="stop_summary">"Toutes les statistiques et données de temps d'utilisation seront supprimées lorsque vous désactivez cette fonction"</string>
   <string name="suggestion">"Retour d'information"</string>
   <string name="sunday">Dimanche</string>
@@ -615,7 +615,7 @@ ne sont pas générées dans le Deuxième espace"</string>
   <string name="title_mix_match_sound">Mélange nature</string>
   <string name="title_mix_match_tips">"Appuyez sur les animaux pour écouter des démos. Vous pouvez ajouter jusqu'à 5 animaux au mélange."</string>
   <string name="title_submit_mix_match">Appuyez sur \ "Appliquer \" pour définir une sonnerie générale.</string>
-  <string name="to_authorize">Accorder des permissions</string>
+  <string name="to_authorize">Accorder des autorisations</string>
   <string name="toco_toucan">Toucan toco</string>
   <string name="today">"Aujourd'hui"</string>
   <string name="today_usage_title">"Aujourd'hui"</string>
@@ -699,7 +699,7 @@ Cette application doit également se connecter à internet et nécessite les aut
   <string name="usage_home_premission_second_summary">"Pour pouvoir travailler normalement, cette application doit collecter vos informations personnelles. Nous protégerons vos informations personnelles conformément aux lois, réglementations et Politiques de confidentialité en vigueur."</string>
   <string name="usage_home_premission_second_summary_double_link_prefix">"Nous protégerons vos informations personnelles conformément aux lois, réglementations et Politiques de confidentialité applicables. Si vous n'acceptez pas d'accorder de telles autorisations ou de partager et de télécharger vos informations personnelles, vous ne pourrez pas utiliser cette application. Vous pouvez révoquer votre autorisation dans Temps d'écran > Paramètres > Désactiver le temps d'écran."</string>
   <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false"><Data>"Avant d'utiliser cette application, vous devez lire et accepter notre &lt;a href='%1s'>Accord d'utilisation&lt;/a> et notre &lt;a href='%2s'>Politique de confidentialité&lt;/a>."</Data></string>
-  <string name="usage_home_premission_second_summary_new">"Nous protégerons vos informations personnelles conformément aux lois, réglementations et Politiques de confidentialité applicables. Si vous n'acceptez pas d'accorder de telles permissions ou de partager et de télécharger vos informations personnelles, vous ne pourrez pas utiliser cette application. Vous pouvez révoquer votre permissions dans Gestionnaires d'utilisations > Paramètres > Désactiver le temps d'utilisation. Si vous avez plus de questions sur la confidentialité, vous pouvez nous contacter à privacy@xiaomi.com."</string>
+  <string name="usage_home_premission_second_summary_new">"Nous protégerons vos informations personnelles conformément aux lois, réglementations et Politiques de confidentialité applicables. Si vous n'acceptez pas d'accorder de telles autorisations ou de partager et de télécharger vos informations personnelles, vous ne pourrez pas utiliser cette application. Vous pouvez révoquer votre autorisations dans Gestionnaires d'utilisations > Paramètres > Désactiver le temps d'utilisation. Si vous avez plus de questions sur la confidentialité, vous pouvez nous contacter à privacy@xiaomi.com."</string>
   <string name="usage_new_home_app_limit_summary">"Définir une limite quotidienne de temps d'écran pour cette application"</string>
   <string name="usage_new_home_app_limit_title">"Limiter le temps d'écran"</string>
   <string name="usage_new_home_average">"Moy. "</string>
@@ -741,7 +741,7 @@ Cette application doit également se connecter à internet et nécessite les aut
   <string name="usage_new_home_which_week">Semaine %d</string>
   <string name="usage_no_net_summary">Vérifiez vos paramètres réseau et réessayez</string>
   <string name="usage_optional_summary">Ces autorisations sont requises lorsque vous utilisez des fonctionnalités supplémentaires.</string>
-  <string name="usage_optional_title">Permissions optionnelles</string>
+  <string name="usage_optional_title">Autorisations optionnelles</string>
   <string name="usage_permisison_agree_desc_o">"Pour vous fournir des statistiques de temps d'écran, cette application doit collecter les données suivantes : le nombre de fois où vous déverrouillez l'appareil, la liste de vos applications ainsi que la durée d'utilisation correspondante."</string>
   <string name="usage_permisison_agree_desc_p">"Pour vous fournir les statistiques de temps d'écran et de mode de mise au point, cette application doit collecter les données suivantes : le nombre de fois où vous déverrouillez l'appareil, la liste de vos applications avec la durée d'utilisation correspondante, le nombre de fois où votre écran s'allume, et les paramètres du mode de mise au point."</string>
   <string name="usage_permission_double_link" formatted="false"><Data>"Cette application doit se connecter à Internet et collecter les données personnelles nécessaires pour pouvoir fonctionner normalement. Pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez notre &lt;a href='%1s'>Accord d'utilisation&lt;/a> et notre &lt;a href='%2s'>Politique de confidentialité&lt;/a>."</Data></string>
@@ -756,7 +756,7 @@ Cette application doit se connecter à Internet et requiert les autorisations su
   <string name="usage_runtime_per_des_summary">"Pour enregistrer vos statistiques de temps d'écran"</string>
   <string name="usage_runtime_per_des_title">"Ajout et suppression de fichiers sur la mémoire interne de l'appareil"</string>
   <string name="usage_runtime_summary">Ces autorisations sont nécessaires pour rendre disponibles les fonctionnalités et services de base de cette application.</string>
-  <string name="usage_runtime_title">Permissions obligatoires</string>
+  <string name="usage_runtime_title">Autorisations obligatoires</string>
   <string name="usage_special_feature">Particularités</string>
   <string name="usage_state_accurate_date">d MMMM yyyy</string>
   <string name="usage_state_add_up_count">Sessions</string>
