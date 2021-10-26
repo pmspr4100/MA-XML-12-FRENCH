@@ -1024,6 +1024,13 @@ Raison : \"%s\""</string>
     <string name="miprofile_switch_on_alertdialog_title">Mettre à jour la photo de profil</string>
     <string name="missing_name">(Aucun nom)</string>
     <string name="missing_required_permission">Vous avez désactivé les autorisations requises.</string>
+    <string name="miuix_access_state_desc">Sélectionné</string>
+    <string name="miuix_alphabet_indexer_name">"Barre d'index"</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Désélectionner</string>
+    <string name="miuix_appcompat_action_mode_select_all">Tout sélectionner</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Sélectionner des éléments</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Plus</string>
+    <string name="miuix_appcompat_cancel_description">Annuler</string>
     <string name="miuix_appcompat_cloud_state_disabled">Synchronisation avec le cloud est désactivée</string>
     <string name="miuix_appcompat_cloud_state_finished">Synchronisé avec le cloud avec succès</string>
     <string name="miuix_appcompat_cloud_state_syncing">Synchronisation avec le cloud…</string>
@@ -1036,6 +1043,8 @@ Raison : \"%s\""</string>
     <string name="miuix_appcompat_select_all">Tout sélectionner</string>
     <string name="miuix_appcompat_select_all_description">Tout sélectionner</string>
     <string name="miuix_appcompat_select_item">Sélectionner des éléments</string>
+    <string name="miuix_indexer_collect">Collections</string>
+    <string name="miuix_indexer_selected">%s sélectionné</string>
     <string name="miuix_sb_tracking_progress_labe_pull_to_refresh">tirer pour actualiser</string>
     <string name="miuix_sb_tracking_progress_labe_refreshed">actualisation terminé</string>
     <string name="miuix_sb_tracking_progress_labe_refreshing">actualiser</string>
@@ -1224,6 +1233,7 @@ Pour ajouter un contact à votre liste de favoris :
     <string name="permission_notice_desc_access_fine_location">"Pour importer des contacts depuis d'autres appareils via Bluetooth"</string>
     <string name="permission_notice_desc_add_voicemail">Pour utiliser les fonctionnalités de messagerie vocale et de message audio</string>
     <string name="permission_notice_desc_call_phone">Pour passer des appels dans des applications tierces</string>
+    <string name="permission_notice_desc_call_phone_for_pad">Pour passer des appels dans des applications tierces</string>
     <string name="permission_notice_desc_camera">Pour prendre des photos de profil</string>
     <string name="permission_notice_desc_read_call_logs">"Pour afficher l'historique des appels"</string>
     <string name="permission_notice_desc_read_contacts">Pour afficher les contacts</string>
@@ -1347,7 +1357,10 @@ Pour ajouter un contact à votre liste de favoris :
     <string name="privacy_policy_and_user_agreement">"Politique de confidentialité et Accord d'utilisation"</string>
     <string name="privacy_settings_call_phone">Passer des appels</string>
     <string name="privacy_settings_call_phone_description">Pour passer des appels dans des applications tierces</string>
+    <string name="privacy_settings_call_phone_description_for_pad">Pour passer des appels dans des applications tierces</string>
+    <string name="privacy_settings_call_phone_for_pad">Passer des appels</string>
     <string name="privacy_settings_contacts">Contacts et Téléphone</string>
+    <string name="privacy_settings_contacts_for_pad">Vie privée</string>
     <string name="privacy_settings_mallowed">Autorisé</string>
     <string name="privacy_settings_mnotallowed">Refusé</string>
     <string name="privacy_settings_permission_description">Détails des autorisations</string>
@@ -1728,6 +1741,7 @@ Pour commencer, appuyez sur l'icône fusionner en bas de votre écran."</string>
     <string name="toast_not_show_read_contacts_perm_req">"Pour pouvoir afficher les contacts, autorisez d'abord cette application à accéder aux contacts."</string>
     <string name="toast_not_show_read_phone_state_perm_req">"Pour pouvoir utiliser cette application avec votre carte SIM, autorisez d'abord cette application à accéder aux informations de l'appareil."</string>
     <string name="toast_not_show_storage_perm_req">"Pour pouvoir ajouter des photos de profil et importer des vCards, autorisez d'abord cette application à accéder au stockage."</string>
+    <string name="toast_not_show_storage_perm_req_for_pad">"Pour pouvoir ajouter des photos de profil et importer des vCards, autorisez d'abord cette application à accéder au stockage."</string>
     <string name="toast_not_show_write_calllogs_perm_req">"Pour pouvoir maintenir l'historique des appels à jour, autorisez d'abord cette application à modifier l'historique des appels."</string>
     <string name="toast_not_show_write_contacts_perm_req">"Pour pouvoir afficher les contacts, autorisez d'abord cette application à modifier les contacts."</string>
     <string name="toast_making_personal_copy">Créer une copie personnelle</string>
