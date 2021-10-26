@@ -113,6 +113,22 @@
         <item quantity="other">Réessayez dans %d secondes</item>
         <item quantity="one">Réessayez dans %d seconde</item>
     </plurals>
+    <plurals name="gallery_auto_sync_fail_noti_title">
+        <item quantity="other">Impossible de synchroniser %s éléments</item>
+        <item quantity="one">Impossible de synchroniser %s élément</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Il y a 1 demi-heure</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Dans 1 heure</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Dans 1 demi-heure</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Immédiatement</item>
+    </plurals>
     <plurals name="in_num_minutes">
         <item quantity="other">dans %d minutes</item>
         <item quantity="one">dans 1 minute</item>

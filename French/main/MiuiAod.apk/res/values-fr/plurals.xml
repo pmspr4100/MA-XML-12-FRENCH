@@ -33,6 +33,12 @@
         <item quantity="other">" %1$sheures %2$s"</item>
         <item quantity="one">" %1$sheure %2$s"</item>
     </plurals>
+    <plurals name="choose_long_gif_limit_toast_tip">
+        <item quantity="other">"La durée de lecture des animations ne peut pas dépasser %d secondes.
+Les animations plus longues seront arrêtées à ce stade."</item>
+        <item quantity="one">"La durée de lecture des animations ne peut pas dépasser %d seconde.
+Les animations plus longues seront arrêtées à ce stade."</item>
+    </plurals>
     <plurals name="count_selected">
         <item quantity="other">%d éléments sélectionnés</item>
         <item quantity="one">%d élément sélectionné</item>

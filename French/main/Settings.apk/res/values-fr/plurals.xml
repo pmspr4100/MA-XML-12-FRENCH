@@ -121,6 +121,10 @@
     <item quantity="other">%d appareils disponibles</item>
     <item quantity="one">%d appareil disponible</item>
   </plurals>
+  <plurals name="color_game_led_freq_entries">
+    <item quantity="other">Toutes les %d secondes</item>
+    <item quantity="one">À chaque %d seconde</item>
+  </plurals>
   <plurals name="connected_devices_number">
     <item quantity="other">%d appareils</item>
     <item quantity="one">%d appareil</item>

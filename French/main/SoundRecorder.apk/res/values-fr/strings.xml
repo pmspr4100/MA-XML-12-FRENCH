@@ -36,6 +36,8 @@
   <string name="alert_message_delete_local_record">Supprimer cet enregistrement ?</string>
   <string name="alert_message_delete_record">Supprimer les enregistrements de votre appareil effacera également cet enregistrement du Xiaomi Cloud. Supprimer maintenant ?</string>
   <string name="alert_message_delete_record_title">"Supprimer l'enregistrement ?"</string>
+  <string name="all_record">Tous les enregistrements</string>
+  <string name="allowed">Autorisé</string>
   <string name="am">AM</string>
   <string name="app_name">Magnéto</string>
   <string name="app_record">"Enregistrements de l'application"</string>
@@ -221,6 +223,8 @@
   <string name="no_playback_file">Sélectionnez un enregistrement pour afficher les détails</string>
   <string name="no_records">"Pas encore d'enregistrements ici"</string>
   <string name="noon">Midi</string>
+  <string name="normal_settings_pref_title">Paramètres généraux</string>
+  <string name="not_allowed">Refusé</string>
   <string name="not_set">Non défini</string>
   <string name="notification_message_all_paused">"En attente d'une connexion Wi-Fi."</string>
   <string name="notification_playback">En lecture…</string>
@@ -263,6 +267,16 @@
   <string name="pay_error_cancel">Le paiement a été annulé</string>
   <string name="pay_error_null">Impossible de compléter le paiement. Vérifiez votre compte.</string>
   <string name="pay_error_unknown">Erreur inconnue</string>
+  <string name="permission_desc">Détails des autorisations</string>
+  <string name="permission_dialog_cancel">Annuler</string>
+  <string name="permission_dialog_ok">Paramètres</string>
+  <string name="permission_record">"Enregistrer l'audio"</string>
+  <string name="permission_record_description">"Pour fournir des services d'enregistrement audio"</string>
+  <string name="permission_storage">Accéder au stockage</string>
+  <string name="permission_storage_description">Pour gérer les enregistrements et les télécharger depuis le cloud</string>
+  <string name="permission_storage_description_for_download">Pour télécharger des enregistrements depuis le cloud</string>
+  <string name="permission_storage_description_for_manage_files">Pour gérer les enregistrements</string>
+  <string name="play_speed">Vitesse %1$.1f×</string>
   <string name="playback_delete_records">"Supprimer l'enregistrement"</string>
   <string name="playback_share_records">"Partager l'enregistrement"</string>
   <string name="pm">PM</string>
@@ -282,6 +296,7 @@
   <string name="preference_status_bar_indicator_prompt">"Afficher le raccourci de la barre d'état pendant l'enregistrement"</string>
   <string name="preference_tip_rename">Enregistrer le nom manuellement</string>
   <string name="privacy_policy_title">Politique de confidentialité</string>
+  <string name="privacy_settings">Vie privée</string>
   <string name="recognition_button_add_to_queue">Ajouter à la liste</string>
   <string name="recognition_button_cancel">Pas maintenant</string>
   <string name="recognition_button_start">Transcrire</string>
@@ -348,6 +363,7 @@
   <string name="record_list_item_recognize_text">Texte</string>
   <string name="record_mark_point">Marque %s</string>
   <string name="record_name_minute">​</string>
+  <string name="record_permission_dialog_title">Autorisations micro requises</string>
   <string name="record_quliaty_preference_title">"Qualité d'enregistrement"</string>
   <string name="record_resotre">Récupérer les enregistrements</string>
   <string name="recording">Enregistrement audio</string>
@@ -438,6 +454,7 @@
   <string name="status_bar_back">Appuyez pour revenir au Magnéto</string>
   <string name="status_bar_recording">Enregistrement…</string>
   <string name="status_bar_recording_pause">"Enregistrement en pause. "</string>
+  <string name="storage_permission_dialog_title">Autorisations de stockage requises</string>
   <string name="sunday">Dimanche</string>
   <string name="sunday_short">Dim</string>
   <string name="sunday_shortest">Dim</string>
@@ -522,6 +539,7 @@
   <string name="user_feedback">Avis</string>
   <string name="v7_preference_off">Désactivé</string>
   <string name="v7_preference_on">Activé</string>
+  <string name="view_privacy">Afficher la Politique de confidentialité</string>
   <string name="webview_check_network">Paramètres réseau</string>
   <string name="webview_data_error">"Une erreur s'est produite"</string>
   <string name="webview_locating_fail">Impossible de trouver votre localisation</string>

@@ -1768,7 +1768,11 @@ Si vous installez un certificat CA, le propriétaire du certificat peut accéder
   <string name="color_game_led_applications_title_summary">Sélectionnez des applications individuelles qui fonctionneront avec la lumière LED</string>
   <string name="color_game_led_battery_title">Continuez tout en chargeant</string>
   <string name="color_game_led_charging_summary">"La lumière LED sera éteinte lorsque la batterie est chargée"</string>
+  <string name="color_game_led_color_title">Couleur claire</string>
   <string name="color_game_led_end_time">Fin</string>
+  <string name="color_game_led_feature_off">Désactivé</string>
+  <string name="color_game_led_feature_on">Activé</string>
+  <string name="color_game_led_freq_title">Fréquence de scintillement</string>
   <string name="color_game_led_game_mode_summary">Afficher les effets des jeux lorsque Game Turbo est activé</string>
   <string name="color_game_led_game_mode_title">Utiliser pour Game Turbo</string>
   <string name="color_game_led_incall_pulse_title">Utiliser pour les appels entrants</string>
@@ -2732,6 +2736,12 @@ Vous pouvez afficher les journaux générés dans le Gestionnaire de fichiers."<
   <string name="enable_gnss_raw_meas_full_tracking_summary">Effectuer le suivi de toutes les fréquences et constellations GNSS sans rapport cyclique</string>
   <string name="enable_gpu_debug_layers">Activer les couches de débogage GPU</string>
   <string name="enable_gpu_debug_layers_summary">Autoriser le chargement des couches de débogage GPU pour les applications de débogage</string>
+  <string name="enable_local_backup">Activer</string>
+  <string name="enable_local_backup_cancel">Annuler</string>
+  <string name="enable_local_backup_message">Activez cette fonction pour pouvoir enregistrer des sauvegardes sur cet appareil et les copier sur votre ordinateur ou votre périphérique de stockage USB. Activer maintenant ?</string>
+  <string name="enable_local_backup_message_intledition">Activez cette fonction pour pouvoir enregistrer des sauvegardes sur cet appareil et les copier sur votre ordinateur. Activer maintenant ?</string>
+  <string name="enable_local_backup_ok">OK</string>
+  <string name="enable_local_backup_title">Local backups</string>
   <string name="enable_mms_notification_channel_title">Message MMS</string>
   <string name="enable_mms_notification_summary">Appuyez pour autoriser les messages MMS sur %1$s lorsque les données mobiles sont désactivées</string>
   <string name="enable_mobile_data_when_opening_hotspot">Activer aussi la connexion de données mobile ?</string>
@@ -6243,6 +6253,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="runtime_permissions_summary_no_permissions_requested">Aucune autorisation demandée</string>
   <string name="rx_link_speed_label">Vitesse de connexion en réception :</string>
   <string name="rx_wifi_speed">Vitesse de connexion en réception</string>
+  <string name="safe_install_mode_settings">Mode sécurisé</string>
   <string name="safety_and_regulatory_info">Manuel de sécurité et réglementation</string>
   <string name="sar">"Informations sur l'exposition aux RF"</string>
   <string name="saturday">Samedi</string>
@@ -7147,7 +7158,8 @@ Le code PIN est peut-être incorrect."</string>
   <string name="sms_received_sound_dialog_title">Choisir un son pour les SMS reçus</string>
   <string name="sms_received_sound_title">Message reçu</string>
   <string name="snooze_options_title">Autoriser la répétition des notifications</string>
-  <string name="software_version">Version software</string>
+  <string name="softbank_apn_lock_toast">"L'APN est verrouillé. Impossible de modifier."</string>
+  <string name="software_version">Version du logiciel</string>
   <string name="solar_term_autumn_begins">"Début de l'automne"</string>
   <string name="solar_term_autumn_equinox">"Équinoxe d'automne"</string>
   <string name="solar_term_clear_and_bright">Claire et lumineuse</string>
@@ -7248,7 +7260,7 @@ Retirer le consentement à %s maintenant ?"</string>
   <string name="sound_work_settings">Sons du profil professionnel</string>
   <string name="speaker">Haut-parleur</string>
   <string name="speaker_clean">Nettoyage haut-parleur</string>
-  <string name="special_access">Applications : accès spécial</string>
+  <string name="special_access">Autorisations spéciales</string>
   <string name="special_access_more">Afficher plus</string>
   <string name="special_preview">Démos</string>
   <string name="speed_label_fast">Rapide</string>
