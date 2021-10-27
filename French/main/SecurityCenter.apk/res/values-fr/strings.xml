@@ -575,7 +575,7 @@ Vous ne perdrez aucune donnée d'application."</string>
     <string name="applock_add_account">Ajouter</string>
     <string name="applock_add_account_ignore">Pas maintenant</string>
     <string name="applock_add_account_ignore_with_seconds">Pas maintenant (%ds)</string>
-    <string name="applock_add_account_info">"Ajoutez votre compte Mi pour être en mesure de réinitialiser votre mot de passe en cas d'oubli."</string>
+    <string name="applock_add_account_info">"Ajoutez votre Compte Mi pour être en mesure de réinitialiser votre mot de passe en cas d'oubli."</string>
     <string name="applock_add_account_setting">Compte et confidentialité</string>
     <string name="applock_add_account_tips">"Avec le Compte Mi, vous pourrez récupérer votre Verrouillage des applications si vous l'oubliez."</string>
     <string name="applock_add_account_title">Ajouter votre Compte Mi</string>
@@ -604,7 +604,7 @@ Vous ne perdrez aucune donnée d'application."</string>
     <string name="applock_guide_tip1_without_face">Plusieurs options de type de mot de passe sont disponibles. Déverrouillez des applications avec votre empreinte digitale ou entrez un mot de passe.</string>
     <string name="applock_guide_tip1_without_finger">Plusieurs options de type de mot de passe sont disponibles. Déverrouillez des applications avec votre visage ou entrez un mot de passe.</string>
     <string name="applock_guide_tip1_without_finger_face">Plusieurs options de type de mot de passe sont disponibles.</string>
-    <string name="applock_guide_tip2">Ajoutez votre compte Mi pour pouvoir réinitialiser votre mot de passe.</string>
+    <string name="applock_guide_tip2">Ajoutez votre Compte Mi pour pouvoir réinitialiser votre mot de passe.</string>
     <string name="applock_guide_tip3">Masquer le contenu des notifications.</string>
     <string name="applock_guide_tip3_global">Masquer le contenu des notifications.</string>
     <string name="applock_guide_title">"Protégez votre vie privée avec Verrouillage d'application"</string>
@@ -868,10 +868,10 @@ Vous ne perdrez aucune donnée d'application."</string>
     <string name="bill_limit_notification_title">Insufficient balance</string>
     <string name="bind_xiaomi_account_cancel">Annuler</string>
     <string name="bind_xiaomi_account_confirm">Ajouter</string>
-    <string name="bind_xiaomi_account_dialog_summery">"Vous êtes sur le point d'ajouter un compte Mi %s. Si vous oubliez votre mot de passe, vous pouvez utiliser ce compte pour le réinitialiser. Le compte sera supprimé automatiquement si vous vous déconnectez."</string>
+    <string name="bind_xiaomi_account_dialog_summery">"Vous êtes sur le point d'ajouter un Compte Mi %s. Si vous oubliez votre mot de passe, vous pouvez utiliser ce compte pour le réinitialiser. Le compte sera supprimé automatiquement si vous vous déconnectez."</string>
     <string name="bind_xiaomi_account_success">Compte Mi ajouté avec succès</string>
-    <string name="bind_xiaomi_account_summary">Utiliser le compte Mi pour réinitialiser votre mot de passe</string>
-    <string name="bind_xiaomi_account_title">Ajouter un compte Mi</string>
+    <string name="bind_xiaomi_account_summary">Utiliser le Compte Mi pour réinitialiser votre mot de passe</string>
+    <string name="bind_xiaomi_account_title">Ajouter un Compte Mi</string>
     <string name="birthday">Anniversaire</string>
     <string name="bl_no_blacklist">Aucun numéro bloqué.</string>
     <string name="bl_no_block_call">Aucun appel bloqué.</string>
@@ -1040,7 +1040,7 @@ Vous ne perdrez aucune donnée d'application."</string>
     <string name="comprehensive_protection_measures">Protection complète</string>
     <string name="confirmSecondSpacePassword">Confirmer le mot de passe du Deuxième espace</string>
     <string name="confirm_allow_all_permission">Autoriser toutes les applications à utiliser cette fonctionnalité?</string>
-    <string name="confirm_bind_xiaomi_account_dialog_title">"Ajout d'un compte Mi"</string>
+    <string name="confirm_bind_xiaomi_account_dialog_title">"Ajout d'un Compte Mi"</string>
     <string name="confirm_fingerprint_msg">Vérifiez votre empreinte digitale</string>
     <string name="confirm_leave">Non merci</string>
     <string name="confirm_open">Activer</string>
@@ -1902,7 +1902,7 @@ Basculez entre différents personnages et effets spéciaux."</string>
     <string name="gb_voice_changer_user_status_expired">Abonnement expiré</string>
     <string name="gb_voice_changer_user_status_get_trial_card_dialog">"Obtenez un essai gratuit de %d jours
 et explorez notre changeur de voix !"</string>
-    <string name="gb_voice_changer_user_status_no_login">Connectez-vous au compte Mi</string>
+    <string name="gb_voice_changer_user_status_no_login">Connectez-vous au Compte Mi</string>
     <string name="gb_voice_changer_user_status_remain_time">"Date d'expiration : %s"</string>
     <string name="gb_voice_changer_user_status_renew">Renouveler</string>
     <string name="gb_voice_changer_user_tips_info_vip_expire">Vos abonnement a expiré. Renouvelez votre abonnement maintenant pour bénéficier des avantages !</string>
@@ -2736,9 +2736,9 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
     <string name="password_forget_pattern_message_none">Les applications ne sont pas verrouillées. Vous pouvez réinitialiser votre mot de passe.</string>
     <string name="password_forget_pattern_reset">Réinitialiser</string>
     <string name="password_forget_pattern_title">Attention</string>
-    <string name="password_promotion_not_login_xiaomi_account_message">"Ajoutez votre compte Mi pour pouvoir réinitialiser votre mot de passe au cas où vous l'oubliez."</string>
+    <string name="password_promotion_not_login_xiaomi_account_message">"Ajoutez votre Compte Mi pour pouvoir réinitialiser votre mot de passe au cas où vous l'oubliez."</string>
     <string name="password_promotion_postbutton_text">Ajouter</string>
-    <string name="password_promotion_title">Ajouter un compte Mi</string>
+    <string name="password_promotion_title">Ajouter un Compte Mi</string>
     <string name="password_type">Modifier le mot de passe</string>
     <string name="password_type_underline">Modifier le mot de passe</string>
     <string name="password_xspace_forget_pattern_message">Pour changer le mot de passe du second espace, vous devriez supprimer votre second espace actuel et en créer un nouveau.</string>
@@ -3541,7 +3541,7 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
     <string name="privacy_pop_record">"Audio enregistré aujourd'hui"</string>
     <string name="privacy_pop_storage">"Accès au stockage aujourd'hui"</string>
     <string name="privacy_prompt_tc_sms_report_message">"Votre numéro de téléphone et les détails d'opérateur doivent être chiffrés et envoyés aux serveurs Mi pour obtenir la mise à jour de votre utilisation des données."</string>
-    <string name="privacy_prompt_traffic_adjust_message">"Après que vous ayez lancé l'étalonnage, MIUI se connectera au réseau, cryptera les infos de votre opérateur, votre numéro de téléphone, votre IMEI et votre compte Mi, puis enverra ces éléments vers les serveurs Mi. Ceci se fera dans le but d'acquérir le modèle d'étalonnage et apprenez si possible à acheter des données dans votre localité.
+    <string name="privacy_prompt_traffic_adjust_message">"Après que vous ayez lancé l'étalonnage, MIUI se connectera au réseau, cryptera les infos de votre opérateur, votre numéro de téléphone, votre IMEI et votre Compte Mi, puis enverra ces éléments vers les serveurs Mi. Ceci se fera dans le but d'acquérir le modèle d'étalonnage et apprenez si possible à acheter des données dans votre localité.
 
 Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recevoir le modèle d'étalonnage."</string>
     <string name="privacy_prompt_upload">Envoyer</string>
@@ -3737,7 +3737,7 @@ Retirer le consentement maintenant ?"</string>
     <string name="report_warning_title">Attention</string>
     <string name="required_permissions">Permissions obligatoires </string>
     <string name="required_permissions_desc">Ces permissions sont nécessaires pour rendre les fonctionnalités et services de base de cette application disponibles.</string>
-    <string name="reset_data_dialog_message">"Cet appareil n'est pas associé à votre compte Mi. Impossible de restaurer ou de réinitialiser le mot de passe. Sauvegardez tous les éléments importants et effectuez une réinitialisation d'usine. Toutes les données seront définitivement supprimées et votre carte SD sera formatée lors de la réinitialisation d'usine."</string>
+    <string name="reset_data_dialog_message">"Cet appareil n'est pas associé à votre Compte Mi. Impossible de restaurer ou de réinitialiser le mot de passe. Sauvegardez tous les éléments importants et effectuez une réinitialisation d'usine. Toutes les données seront définitivement supprimées et votre carte SD sera formatée lors de la réinitialisation d'usine."</string>
     <string name="reset_data_dialog_ok">"Réinitialisation des paramètres d'usine"</string>
     <string name="reset_data_title">Impossible restaurer le mot de passe</string>
     <string name="resource_antispam">Liste noire</string>

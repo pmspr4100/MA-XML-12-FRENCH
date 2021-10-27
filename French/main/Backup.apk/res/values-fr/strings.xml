@@ -23,7 +23,7 @@
   <string name="abort_restore_confirm">"La restauration n'est pas terminée. Arrêter quand même ?"</string>
   <string name="account_contact_backup_info">Données des comptes Google, Mi, et de Contacts</string>
   <string name="account_login">Se connecter</string>
-  <string name="account_summary">"Sauvegardez le compte Google, le compte Mi et d'autres données utilisateur"</string>
+  <string name="account_summary">"Sauvegardez le compte Google, le Compte Mi et d'autres données utilisateur"</string>
   <string name="actionbar_button_up_description">Retour</string>
   <string name="afternoon">Après-midi</string>
   <string name="alert_button_agree_and_continue">Autoriser</string>
@@ -115,7 +115,7 @@ https://appleid.apple.com/#!&amp;page=signin pour désactiver"</string>
   <string name="close_twice_auth_tutor">"Désactivez l'authentification à 2 facteurs de l'identifiant Apple"</string>
   <string name="cloud_app_name">Sauvegarde Mi Cloud</string>
   <string name="cloud_backup_hint">Pour accéder à vos sauvegardes , connectez-vous maintenant</string>
-  <string name="cloud_backup_login">Connectez-vous à votre compte Mi</string>
+  <string name="cloud_backup_login">Connectez-vous à votre Compte Mi</string>
   <string name="cloud_backup_window_title">Sauvegarde Mi Cloud</string>
   <string name="cloud_home_title">Mi Cloud</string>
   <string name="cloud_item_info_summary">" (Locale %1$s | Mi Cloud %2$s)"</string>
@@ -172,8 +172,8 @@ https://appleid.apple.com/#!&amp;page=signin pour désactiver"</string>
   <string name="enable_encrypt_description">Chiffrer</string>
   <string name="enable_encrypt_fail">Erreur de chiffrement</string>
   <string name="enable_encrypt_indicator">Appuyer pour chiffrer</string>
-  <string name="enable_encrypt_summery1">Connectez-vous avec votre compte Mi pour accéder à vos sauvegardes chiffrées.</string>
-  <string name="enable_encrypt_summery2">Vos sauvegardes seront automatiquement chiffrées. Vous devrez être connecté à votre compte Mi pour y accéder.</string>
+  <string name="enable_encrypt_summery1">Connectez-vous avec votre Compte Mi pour accéder à vos sauvegardes chiffrées.</string>
+  <string name="enable_encrypt_summery2">Vos sauvegardes seront automatiquement chiffrées. Vous devrez être connecté à votre Compte Mi pour y accéder.</string>
   <string name="enable_encrypt_title">Chiffrer les sauvegardes</string>
   <string name="enable_local_backup">Activer les sauvegardes locales</string>
   <string name="enable_local_backup_and_restore">Activer les sauvegardes locales</string>
@@ -271,7 +271,7 @@ ous devez d'abord créer une sauvegarde iCloud."</string>
   <string name="import_from_xiaomi_account_hint1">"1.\u0009Téléchargez l'application Mi Talk et connectez-vous.
 \u0009http://www.miliao.com
 
-2.\u0009Allez dans les Paramètres de MiTalk et sélectionnez \"Sauvegarder vos contacts vers votre compte Mi\""</string>
+2.\u0009Allez dans les Paramètres de MiTalk et sélectionnez \"Sauvegarder vos contacts vers votre Compte Mi\""</string>
   <string name="import_from_xiaomi_account_hint2">Si vous avez déjà une sauvegarde, appuyez sur Suivant.</string>
   <string name="import_from_xiaomi_account_hint_title">"Utilisez Mi Talk pour sauvegarder vos contacts sur d'autres appareils."</string>
   <string name="import_tip_summary">En raison des problèmes de compatibilité, vous pouvez seulement transférer partiellement les données depuis vos appareil iOS. Assurez-vous de créer une sauvegarde iCloud avant de commencer le transfert.</string>
@@ -303,7 +303,7 @@ ous devez d'abord créer une sauvegarde iCloud."</string>
   <string name="local_main_backup_settings">Paramètres sauvegardes locales</string>
   <string name="local_main_backup_time">Dernière sauvegarde : %1$s</string>
   <string name="local_main_date_format">dd/MM/yyyy HH:mm</string>
-  <string name="local_main_encrypt_backup_summary">Chiffrer les fichiers sauvegardés dans votre compte Mi</string>
+  <string name="local_main_encrypt_backup_summary">Chiffrer les fichiers sauvegardés dans votre Compte Mi</string>
   <string name="local_main_encrypt_backup_title">Chiffrement des sauvegardes</string>
   <string name="local_main_latest_backup_time_loading">Chargement…</string>
   <string name="local_no_backup">Aucune sauvegarde.</string>
@@ -323,7 +323,7 @@ ous devez d'abord créer une sauvegarde iCloud."</string>
   <string name="login_failed">Impossible de se connecter, réessayez.</string>
   <string name="logining">Connexion…</string>
   <string name="midnight">Nuit</string>
-  <string name="miliao_account_guide">Utilisez votre compte Mi pour vous connecter au Mi Cloud, au MIUI Theme Store, et aux autres services Mi, où que vous soyez.</string>
+  <string name="miliao_account_guide">Utilisez votre Compte Mi pour vous connecter au Mi Cloud, au MIUI Theme Store, et aux autres services Mi, où que vous soyez.</string>
   <string name="miliao_account_login">Connectez-vous avec Mi Talk</string>
   <string name="miuix_access_state_desc">Sélectionné</string>
   <string name="miuix_alphabet_indexer_name">"Barre d'index"</string>
@@ -405,7 +405,7 @@ ous devez d'abord créer une sauvegarde iCloud."</string>
   <string name="new_britem_other">Autre</string>
   <string name="new_britem_pic">Images</string>
   <string name="new_britem_video">Vidéos</string>
-  <string name="new_confirm_enable_encrypt_content">"MIUI associe des sauvegardes chiffrées à votre compte Mi. Vous devrez vous connecter à votre compte Mi pour restaurer des éléments à partir de telles sauvegardes."</string>
+  <string name="new_confirm_enable_encrypt_content">"MIUI associe des sauvegardes chiffrées à votre Compte Mi. Vous devrez vous connecter à votre Compte Mi pour restaurer des éléments à partir de telles sauvegardes."</string>
   <string name="new_confirm_enable_encrypt_title">Crypter</string>
   <string name="new_local_button_backup">Sauvegarder</string>
   <string name="new_local_button_restore">Restaurer</string>
@@ -588,7 +588,7 @@ Libérez au moins %s."</string>
   <string name="sc_internal_server_error">Erreur interne du serveur</string>
   <string name="sc_network_unavailable">Vérifiez votre connexion puis réessayez.</string>
   <string name="sc_others">"Une erreur s'est produite"</string>
-  <string name="sc_precondition_failed">"Vous devez d'abord ajouter une adresse Email à votre compte Mi."</string>
+  <string name="sc_precondition_failed">"Vous devez d'abord ajouter une adresse Email à votre Compte Mi."</string>
   <string name="sc_request_timeout">La requête a expiré</string>
   <string name="sc_service_unavailable">Service Mi Cloud indisponible</string>
   <string name="sc_unaccess_password_file">Impossible de trouver le mot de passe du réseau Wi-Fi</string>
@@ -659,7 +659,7 @@ Libérez au moins %s."</string>
   <string name="succeed">Terminé</string>
   <string name="summary_err_backup_encrypting">Connectez-vous à votre Compte Mi.</string>
   <string name="summary_err_backup_no_network">Impossible de se connecter au réseau</string>
-  <string name="summary_err_restore_encrypting">Impossible de restaurer. Assurez-vous que cette sauvegarde a été créée en utilisant votre compte Mi.</string>
+  <string name="summary_err_restore_encrypting">Impossible de restaurer. Assurez-vous que cette sauvegarde a été créée en utilisant votre Compte Mi.</string>
   <string name="summary_err_restore_no_network">Impossible de se connecter au réseau</string>
   <string name="sunday">Dimanche</string>
   <string name="sunday_short">Dim</string>
@@ -819,7 +819,7 @@ pour télécharger et installer Mi Transfert."</string>
   <string name="trans_intro_desc_9_method_2_title">2. Envoyez-nous un Email</string>
   <string name="trans_intro_desc_9_method_3_dec">Goupe QQ de Mi Transfert : 687338378</string>
   <string name="trans_intro_desc_9_method_3_title">3. Signaler des problèmes dans QQ</string>
-  <string name="trans_intro_desc_account">Vous devez vous connecter à nouveau à vos comptes (ex.: compte Mi, Exchange, Google, etc.) sur le nouvel appareil pour des raisons de sécurité.</string>
+  <string name="trans_intro_desc_account">Vous devez vous connecter à nouveau à vos comptes (ex.: Compte Mi, Exchange, Google, etc.) sur le nouvel appareil pour des raisons de sécurité.</string>
   <string name="trans_intro_desc_gms">"En raison de la forte probabilité d'échec des transferts en raison de problèmes de compatibilité, Mi Transfert ne prend pas en charge le transfert des données générées par les applications Google."</string>
   <string name="trans_intro_desc_multiapp">"Mi Transfert ne transfère pas les données des applications clônées afin d'éviter des conflits entre les fichiers."</string>
   <string name="trans_intro_desc_multiuser">Mi Transfert ne peut pas accéder aux éléments dans le Second espace. Déplacez les éléments vers le Premier espace et lancez Mi Transfert depuis ledit espace.</string>

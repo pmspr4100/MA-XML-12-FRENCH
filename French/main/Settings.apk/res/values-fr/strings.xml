@@ -1036,7 +1036,7 @@ Applications :
   <string name="billing_cycle_less_than_one_day_left">Moins de 1 jour restant</string>
   <string name="billing_cycle_none_left">Le cycle de facturation est arrivé à échéance</string>
   <string name="bind_xiaomi_account_confirm">Ajouter</string>
-  <string name="bind_xiaomi_account_dialog_summery">"Vous êtes sur le point d'ajouter le compte Mi %s. Si vous oubliez votre mot de passe, vous pouvez utiliser ce compte pour le réinitialiser."</string>
+  <string name="bind_xiaomi_account_dialog_summery">"Vous êtes sur le point d'ajouter le Compte Mi %s. Si vous oubliez votre mot de passe, vous pouvez utiliser ce compte pour le réinitialiser."</string>
   <string name="bind_xiaomi_account_success">Compte Mi ajouté avec succès</string>
   <string name="biometric_weak_improve_matching_title">Améliorer la correspondance de visages</string>
   <string name="biometric_weak_liveliness_summary">Un clignement est exigé pour déverrouiller</string>
@@ -1413,11 +1413,11 @@ Pour améliorer l'expérience d'utilisation de l'appareil, les applications et l
   <string name="bootloader_apply_step_4">Cela peut conduire à la divulgation ou la perte des données, ou même provoquer des dommages matériels irréparables.</string>
   <string name="bootloader_apply_step_5">"Assurez-vous de savoir utiliser le mode Fastboot avant de l'activer."</string>
   <string name="bootloader_apply_title">Avertissement important</string>
-  <string name="bootloader_device_bind_already">Ajouté avec succès. Votre compte Mi est maintenant associé à cet appareil.</string>
+  <string name="bootloader_device_bind_already">Ajouté avec succès. Votre Compte Mi est maintenant associé à cet appareil.</string>
   <string name="bootloader_device_bind_exceed_sim_limit">"Impossible d'associer d'autres comptes à cette carte SIM."</string>
   <string name="bootloader_device_bind_fail">Impossible de vérifier. Attendez une minute ou deux, puis réessayez</string>
   <string name="bootloader_device_bind_msg">"Préparation de l'ajout du compte et de l'appareil…"</string>
-  <string name="bootloader_device_bind_no_account">"Connectez-vous d'abord à votre compte Mi"</string>
+  <string name="bootloader_device_bind_no_account">"Connectez-vous d'abord à votre Compte Mi"</string>
   <string name="bootloader_device_bind_no_data_network">Désactivez le Wi-Fi et ajoutez votre compte et appareil utilisant les données mobiles.</string>
   <string name="bootloader_device_bind_no_network">Connectez-vous au réseau et réessayez</string>
   <string name="bootloader_device_bind_no_sim">Insérez une carte SIM et réessayez.</string>
@@ -1429,9 +1429,9 @@ Pour améliorer l'expérience d'utilisation de l'appareil, les applications et l
   <string name="bootloader_locked_answer_1_warning">"Souvenez-vous : Vous ne serez pas en mesure d'utiliser \"Localiser l'appareil\" après que le téléphone sera déverrouillé."</string>
   <string name="bootloader_locked_answer_2">"1. Assurez-vous d'avoir inséré une carte SIM dans votre appareil.
 2. Désactivez le Wi-Fi et activez les données mobiles. Assurez votre appareil peut être connecter à internet en utilisant les données mobiles.
-3. Appuyez sur \"Ajouter un compte\" ci-dessous pour associer votre compte Mi avec cet appareil.
+3. Appuyez sur \"Ajouter un compte\" ci-dessous pour associer votre Compte Mi avec cet appareil.
 4. Téléchargez l'outil de déverrouillage depuis notre site web. Notez que vous devriez déverrouiller vos appareils depuis un ordinateur. Téléchargez ici :"</string>
-  <string name="bootloader_locked_answer_2_no_sim">"Appuyez sur \"Ajouter un compte\" ci-dessous pour associer votre compte Mi avec cet appareil.
+  <string name="bootloader_locked_answer_2_no_sim">"Appuyez sur \"Ajouter un compte\" ci-dessous pour associer votre Compte Mi avec cet appareil.
 2. Téléchargez l'outil de déverrouillage depuis notre site web. Notez que vous devriez déverrouiller vos appareils depuis un ordinateur. Téléchargez ici :"</string>
   <string name="bootloader_locked_check_status">Ajouter un compte et un appareil</string>
   <string name="bootloader_locked_question_1">Pourquoi les appareils devraient-ils être verrouillés ?</string>
@@ -1440,7 +1440,7 @@ Pour améliorer l'expérience d'utilisation de l'appareil, les applications et l
   <string name="bootloader_status_locked">Verrouillé</string>
   <string name="bootloader_status_locked_info">Cet appareil est verrouillé</string>
   <string name="bootloader_status_locked_summary">Le téléphone est sécurisé</string>
-  <string name="bootloader_status_privacy_dialog_message"><Data>"Mi Unlock doit accéder à votre compte Mi, l'ID du CPU et l'IMSI pour fonctionner normalement. Lisez et acceptez notre &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a>. Êtes-vous d'accord ?"</Data></string>
+  <string name="bootloader_status_privacy_dialog_message"><Data>"Mi Unlock doit accéder à votre Compte Mi, l'ID du CPU et l'IMSI pour fonctionner normalement. Lisez et acceptez notre &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a>. Êtes-vous d'accord ?"</Data></string>
   <string name="bootloader_status_privacy_dialog_no">Annuler</string>
   <string name="bootloader_status_privacy_dialog_title">Autorisations requise</string>
   <string name="bootloader_status_privacy_dialog_url_text">Politique de confidentialité</string>
@@ -1451,9 +1451,9 @@ Pour améliorer l'expérience d'utilisation de l'appareil, les applications et l
   <string name="bootloader_summary">Flasher votre appareil en USB</string>
   <string name="bootloader_tips">"%s
 
-Si vous avez déjà effectué l'une des opérations ci-dessus, ajoutez à nouveau votre compte Mi. sinon, vous ne pourrez pas déverrouiller votre appareil."</string>
+Si vous avez déjà effectué l'une des opérations ci-dessus, ajoutez à nouveau votre Compte Mi. sinon, vous ne pourrez pas déverrouiller votre appareil."</string>
   <string name="bootloader_tips_ok">Compris</string>
-  <string name="bootloader_tips_warning">"Ne vous déconnectez pas du réseau, ne vous déconnectez pas de votre compte Mi, n'effectuez pas une réinitialisation d'usine ou n'effacez pas les données système."</string>
+  <string name="bootloader_tips_warning">"Ne vous déconnectez pas du réseau, ne vous déconnectez pas de votre Compte Mi, n'effectuez pas une réinitialisation d'usine ou n'effacez pas les données système."</string>
   <string name="bottom_function_settings">Fonctions des boutons supplémentaires</string>
   <string name="breathing_light_color_menu_title">Couleur du voyant</string>
   <string name="breathing_light_color_summary">"Couleur du voyant à la réception d'une notification"</string>
@@ -2436,7 +2436,7 @@ Pour résoudre le problème, vous pouvez arrêter %1$s et l'empêcher de s'exéc
 · Si vous souhaitez utiliser les données mobiles, appuyez sur \"Réessayer\" ou retirez et réinsérez votre carte SIM."</string>
   <string name="dialog_check_title">Connexion à internet impossible</string>
   <string name="dialog_chose_item">Sélectionner un élément à afficher</string>
-  <string name="dialog_content_login">Se connecter avec votre compte Mi pour mettre à jour ?</string>
+  <string name="dialog_content_login">Se connecter avec votre Compte Mi pour mettre à jour ?</string>
   <string name="dialog_esim_button_negative">Annuler</string>
   <string name="dialog_esim_button_positive">OK</string>
   <string name="dialog_location_message">"Votre téléphone ne peut pas gérer la batterie normalement, car l'application %1$s continue de demander votre position lorsque vous ne l'utilisez pas.
@@ -2474,7 +2474,7 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
   <string name="dialog_stop_title">"Arrêter l'application ?"</string>
   <string name="dialog_title_color_calibration">Correction des couleurs prédéfinies</string>
   <string name="dialog_title_hdmi_color_calibration">Correction des couleurs prédéfinies</string>
-  <string name="dialog_title_login">Se connecter à votre compte Mi</string>
+  <string name="dialog_title_login">Se connecter à votre Compte Mi</string>
   <string name="dialog_wifi_button_negative">Non</string>
   <string name="dialog_wifi_button_positive">Oui</string>
   <string name="dialog_wifi_context">"Vous devez vous connecter à internet pour configurer votre appareil. Sauf si vous vous connectez au Wi-Fi, les données mobiles peuvent être utilisées. L'utilisation de données mobiles peut générer des frais supplémentaires pour les opérateurs. Utiliser quand même les données mobiles ?"</string>
@@ -3040,7 +3040,7 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
   <string name="find_my_device">"Localiser l'appareil"</string>
   <string name="find_my_device_disable">Désactivé</string>
   <string name="find_my_device_enable">Activé</string>
-  <string name="find_my_device_summary">Cette fonctionnalité nécessite une connexion au compte Mi</string>
+  <string name="find_my_device_summary">Cette fonctionnalité nécessite une connexion au Compte Mi</string>
   <string name="fingerprint_add_max">"Vous pouvez ajouter jusqu'à %d empreintes digitales."</string>
   <string name="fingerprint_add_title">Ajouter une empreinte digitale</string>
   <string name="fingerprint_and_password_entrance_title">"Verrouillage de l'écran et empreinte digitale"</string>
@@ -3219,8 +3219,8 @@ Il semblait n'y avoir ni chevaux, ni animaux d'aucune espèce ; les hommes tran
   <string name="forget_password_dialog_content_two">"Suivez ces étapes pour effacer les données : "</string>
   <string name="forget_password_dialog_title">Réinitialiser votre mot de passe</string>
   <string name="forget_pattern">Schéma oublié ?</string>
-  <string name="forget_privacy_password_setting">Ajouter un compte Mi</string>
-  <string name="forget_privacy_password_summary">Utiliser le compte Mi pour réinitialiser votre mot de passe</string>
+  <string name="forget_privacy_password_setting">Ajouter un Compte Mi</string>
+  <string name="forget_privacy_password_summary">Utiliser le Compte Mi pour réinitialiser votre mot de passe</string>
   <string name="forget_wifi_message">Votre appareil arrêtera de se connecter automatiquement à ce réseau.</string>
   <string name="found_new_version">Nouvelle version disponible :</string>
   <string name="fourhours">2 heures</string>
@@ -3548,7 +3548,7 @@ Cette méthode vous permet d'enregistrer les paramètres système, les comptes, 
 "</string>
   <string name="how_backup_title">1. Comment sauvegarder des éléments ?</string>
   <string name="how_encrypt_content">"Vous ne pouvez chiffrer que les sauvegardes locales. Il y a 2 façons de procéder :
-a) Ouvrez la page avec vos sauvegardes locales, appuyez sur le bouton pour activer le chiffrement et connectez-vous à votre compte Mi. Les sauvegardes seront chiffrées automatiquement après cela. N'oubliez pas que vous devrez vous connecter à votre compte Mi pour restaurer des éléments à partir de sauvegardes chiffrées.
+a) Ouvrez la page avec vos sauvegardes locales, appuyez sur le bouton pour activer le chiffrement et connectez-vous à votre Compte Mi. Les sauvegardes seront chiffrées automatiquement après cela. N'oubliez pas que vous devrez vous connecter à votre Compte Mi pour restaurer des éléments à partir de sauvegardes chiffrées.
 b) Si vous utilisez Mi PC Suite pour sauvegarder des éléments, vous pouvez y utiliser des options de chiffrement.
 
 Remarque :
@@ -3561,7 +3561,7 @@ Sauvegardes locales :
 Copiez le fichier de sauvegarde de votre ordinateur vers votre appareil (MIUI-backup-AllBackup). Accédez à Paramètres > Sauvegarder, restaurer ou réinitialiser > Sur cet appareil, puis sélectionnez le fichier de sauvegarde.
 
 Sauvegardes cloud :
-Connectez-vous à votre compte Mi, accédez à Paramètres > Sauvegarder, restaurer ou réinitialiser > Dans Xiaomi Cloud, et sélectionnez le fichier de sauvegarde.
+Connectez-vous à votre Compte Mi, accédez à Paramètres > Sauvegarder, restaurer ou réinitialiser > Dans Xiaomi Cloud, et sélectionnez le fichier de sauvegarde.
 
 Sauvegardes USB :
 Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Accédez à Paramètres > Sauvegarder, restaurer ou réinitialiser > Sur cet appareil, puis sélectionnez le fichier de sauvegarde.
@@ -4236,8 +4236,8 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
   <string name="lockscreen_settings_what_to_show_category">Que montrer</string>
   <string name="lockscreen_sidepanel_shortcuts_summary">"Personnaliser les applications affichées sur le panneau latéral de l'écran de verrouillage"</string>
   <string name="lockscreen_sidepanel_shortcuts_title">Raccourcis des panneaux latéraux</string>
-  <string name="login_account_dialog_message">Connectez-vous avec un compte Mi et activez la synchronisation avec le Cloud.</string>
-  <string name="login_account_dialog_title">Se connecter avec le compte Mi</string>
+  <string name="login_account_dialog_message">Connectez-vous avec un Compte Mi et activez la synchronisation avec le Cloud.</string>
+  <string name="login_account_dialog_title">Se connecter avec le Compte Mi</string>
   <string name="login_account_summary">Gérer les comptes, les services cloud, les paiements et plus encore</string>
   <string name="login_account_summary_temp">Gérer les comptes, les services cloud et plus encore</string>
   <string name="login_action">Se connecter</string>
@@ -5866,9 +5866,9 @@ Read and agree to %s before using this service."</string>
   <string name="privacy_notes">Notes</string>
   <string name="privacy_password">Mot de passe de confidentialité</string>
   <string name="privacy_password_add_account">Ajouter</string>
-  <string name="privacy_password_add_account_info">"Ajoutez votre compte Mi pour pourvoir réinitialiser votre mot de passe au cas où vous l'oubliez"</string>
+  <string name="privacy_password_add_account_info">"Ajoutez votre Compte Mi pour pourvoir réinitialiser votre mot de passe au cas où vous l'oubliez"</string>
   <string name="privacy_password_add_account_setting">Compte et confidentialité</string>
-  <string name="privacy_password_bind_account">Ajouter un compte Mi</string>
+  <string name="privacy_password_bind_account">Ajouter un Compte Mi</string>
   <string name="privacy_password_bind_account_immediate">Ajouter</string>
   <string name="privacy_password_confirm_SecondSpace_Password">Confirmer le mot de passe du Deuxième espace</string>
   <string name="privacy_password_confirm_use_finger">"Déverrouiller avec l'empreinte digitale"</string>
@@ -5883,8 +5883,8 @@ Read and agree to %s before using this service."</string>
   <string name="privacy_password_never_remind">Ne plus demander</string>
   <string name="privacy_password_not_add_account">Pas maintenant</string>
   <string name="privacy_password_not_login_account">"Vous n'êtes pas connecté"</string>
-  <string name="privacy_password_remind_bind_notlogin_account">"Ajoutez votre compte Mi pour être en mesure de réinitialiser votre mot de passe en cas d'oubli."</string>
-  <string name="privacy_password_remind_bindaccount_title">Ajouter un compte Mi</string>
+  <string name="privacy_password_remind_bind_notlogin_account">"Ajoutez votre Compte Mi pour être en mesure de réinitialiser votre mot de passe en cas d'oubli."</string>
+  <string name="privacy_password_remind_bindaccount_title">Ajouter un Compte Mi</string>
   <string name="privacy_password_settings">Utiliser un mot de passe de confidentialité</string>
   <string name="privacy_password_settings_next">Suivant</string>
   <string name="privacy_password_settings_summary">Le mot de passe de protection de la confidentialité est utilisé pour les applications susceptibles de contenir des informations sensibles.</string>
@@ -5921,7 +5921,7 @@ Read and agree to %s before using this service."</string>
   <string name="private_gallery_reset_by_account">Pour réinitialiser votre mot de passe, connectez-vous à votre compte Xiaomi</string>
   <string name="private_sms_need_to_unlock">Mot de passe requis :</string>
   <string name="private_sms_recording_intro_header">Dessinez un schéma de déverrouillage :</string>
-  <string name="private_sms_reset_by_account">Pour réinitialiser votre mot de passe, connectez-vous à votre compte Mi</string>
+  <string name="private_sms_reset_by_account">Pour réinitialiser votre mot de passe, connectez-vous à votre Compte Mi</string>
   <string name="process_dex2oat_label">Optimisation des applications</string>
   <string name="process_mediaserver_label">Serveur multimédia</string>
   <string name="process_provider_in_use_description">"L'opérateur %1$s est actuellement utilisé."</string>
@@ -6148,7 +6148,7 @@ Redémarrez votre appareil et réessayez."</string>
   <string name="reset_second_space_passwd">Réinitialiser le mot de passe du Deuxième espace</string>
   <string name="reset_second_space_passwd_cancel">Annuler</string>
   <string name="reset_second_space_passwd_confirm">Continuer</string>
-  <string name="reset_second_space_passwd_detail">Saisir le mot de passe de votre compte Mi utilisé dans le premier espace</string>
+  <string name="reset_second_space_passwd_detail">Saisir le mot de passe de votre Compte Mi utilisé dans le premier espace</string>
   <string name="reset_shortcut_manager_throttling">Réinitialiser la limitation de débit de ShortcutManager</string>
   <string name="reset_shortcut_manager_throttling_complete">La limitation de débit ShortcutManager a bien été réinitialisée.</string>
   <string name="reset_title">Réinitialiser</string>
@@ -6691,7 +6691,7 @@ Pour utiliser l'épinglage d'application : \u0009
   <string name="search_wifi_wapi_cert_install">Installer le certificatWAPI;Certificats WAPI;WAPI</string>
   <string name="search_wifi_wapi_cert_uninstall">Désinstaller le certificat WAPI;Certificats WAPI;WAPI</string>
   <string name="search_wps_connect_title">Bouton WPS push;Connecter WPS;WPS</string>
-  <string name="search_xiaomi_account">Compte Mi; Identifiant de compte Mi; Compte; Identifiant de compte; Compte Xiaomi; Protection de compte; Protéger le compte; Sécurité du compte; Mon compte</string>
+  <string name="search_xiaomi_account">Compte Mi; Identifiant de Compte Mi; Compte; Identifiant de compte; Compte Xiaomi; Protection de compte; Protéger le compte; Sécurité du compte; Mon compte</string>
   <string name="search_xspace">Application double;Applications doubles;Double application;Doubles applications;Application clônée;Applications clônées;Deux applications;Deux applications;Deux comptes;Deux comptes</string>
   <string name="second_space">Deuxième espace</string>
   <string name="secondspace_category">Deuxième espace</string>
@@ -7850,7 +7850,7 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
   <string name="to_close">Désactiver</string>
   <string name="toast_apply_font_fail">Impossible de définir la police</string>
   <string name="toast_lockscreen_glogin_empty_password">Mot de passe</string>
-  <string name="toast_need_login">Connectez-vous à votre compte Mi</string>
+  <string name="toast_need_login">Connectez-vous à votre Compte Mi</string>
   <string name="toast_sta_ap_works_wifi_display_disable">"Impossible de diffuser lorsque la connexion Wi-Fi est établie et que le point d'accès est activé."</string>
   <string name="today">"Aujourd'hui"</string>
   <string name="toggle_auto_speaker_preference_summary">"L'appareil basculera sur le haut-parleur lorsque vous l'éloignerez de votre oreille pendant les appels. Cette fonctionnalité ne fonctionne que lorsque TalkBack est activé."</string>
@@ -8058,8 +8058,8 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
   <string name="unlock_set_unlock_summary">Définir un écran de verrouillage</string>
   <string name="unlock_setup_wizard_fingerprint_details">"Une fois que vous avez configuré un verrouillage de l'écran, vous pouvez également configurer votre empreinte digitale dans Paramètres > Sécurité."</string>
   <string name="unlock_type_category_title">Méthode de reconnaissance</string>
-  <string name="unlogin_account_summary">Tous les services Mi. Un compte Mi.</string>
-  <string name="unlogin_account_title">Se connecter avec le compte Mi</string>
+  <string name="unlogin_account_summary">Tous les services Mi. Un Compte Mi.</string>
+  <string name="unlogin_account_title">Se connecter avec le Compte Mi</string>
   <string name="unmount_inform_text">La carte SD va être désinstallée.</string>
   <string name="unmute_sound_title">Activer le son</string>
   <string name="unrestrict_max_aspect_ratio_title">Ces applications sont optimisées pour le mode plein écran</string>
@@ -9113,7 +9113,7 @@ Allow this for all apps that want to scan?"</string>
   <string name="wifi_share">Partager un Wi-Fi</string>
   <string name="wifi_share_action_turn_off">Arrêter le partage de réseaux</string>
   <string name="wifi_share_action_turn_on">Partager le Wi-Fi</string>
-  <string name="wifi_share_action_turn_on_summary">Pour partager, connectez-vous à votre compte Mi</string>
+  <string name="wifi_share_action_turn_on_summary">Pour partager, connectez-vous à votre Compte Mi</string>
   <string name="wifi_share_add">Partager mon Wi-Fi public</string>
   <string name="wifi_share_add_summary">\"Quand vous partagez un Wi-Fi public, vous pouvez utiliser le réseau des autres\"</string>
   <string name="wifi_share_connect">Se connecter</string>

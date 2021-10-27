@@ -60,8 +60,8 @@
     <string name="add_organization">Ajouter une entreprise</string>
     <string name="add_to_my_contacts">Ajouter à mes contacts</string>
     <string name="add_wait">Ajouter une pause</string>
-    <string name="add_xiaomi_account_dialog_btn">Utiliser le compte Mi</string>
-    <string name="add_xiaomi_account_dialog_msg">"Sauvegardez vos contacts vers votre compte Mi afin d'y accéder depuis n'importe où !"</string>
+    <string name="add_xiaomi_account_dialog_btn">Utiliser le Compte Mi</string>
+    <string name="add_xiaomi_account_dialog_msg">"Sauvegardez vos contacts vers votre Compte Mi afin d'y accéder depuis n'importe où !"</string>
     <string name="add_xiaomi_account_dialog_title">Choisissez le compte</string>
     <string name="afternoon">Après-midi</string>
     <string name="aggregation_suggestion_edit_dialog_message">Passer en mode édition du contact ? Les informations saisies seront copiées.</string>
@@ -470,7 +470,7 @@
     <string name="contact_detail_miprofile_accept_fail_toast">"Impossible d'échanger les cartes de contact"</string>
     <string name="contact_detail_miprofile_accept_success_toast">Cartes de contact échangées</string>
     <string name="contact_detail_miprofile_binded_label">Vérifié</string>
-    <string name="contact_detail_miprofile_exchange_closed">"Aucun numéro de téléphone associé avec ce compte Mi
+    <string name="contact_detail_miprofile_exchange_closed">"Aucun numéro de téléphone associé avec ce Compte Mi
 Les cartes de contact ont été désactivées"</string>
     <string name="contact_detail_miprofile_privacy_settings">Autorisationrequise pour voir</string>
     <string name="contact_detail_miprofile_request">Échanger les cartes de contact</string>
@@ -860,8 +860,8 @@ Raison : \"%s\""</string>
     <string name="import_to_xiaomi_account_confirm">Importer</string>
     <string name="import_to_xiaomi_account_progress_finish">Contacts importés</string>
     <string name="import_to_xiaomi_account_progress_message">Importation…</string>
-    <string name="import_to_xiaomi_account_progress_title">Importer les contacts du compte Mi</string>
-    <string name="import_to_xiaomi_account_title">Importer vers le compte Mi</string>
+    <string name="import_to_xiaomi_account_progress_title">Importer les contacts du Compte Mi</string>
+    <string name="import_to_xiaomi_account_title">Importer vers le Compte Mi</string>
     <string name="import_vcard_description">Importer les contacts depuis le stockage de votre appareil</string>
     <string name="import_vcard_dialog_message">Importer vCard ?</string>
     <string name="importing_sim_contacts_miui">Contacts importés de la carte SIM…</string>
@@ -972,7 +972,7 @@ Raison : \"%s\""</string>
     <string name="miprofile_alertdialog_edit">Saisir un nom</string>
     <string name="miprofile_alertdialog_message">"Afficher ce nom aux contacts quand vous demandez d'échanger des cartes."</string>
     <string name="miprofile_alertdialog_title">Saisir un nom</string>
-    <string name="miprofile_bind_account_alertdialog_message">Vous devez ajouter le numéro de téléphone de cet appareil dans votre compte Mi pour utiliser cette fonction.</string>
+    <string name="miprofile_bind_account_alertdialog_message">Vous devez ajouter le numéro de téléphone de cet appareil dans votre Compte Mi pour utiliser cette fonction.</string>
     <string name="miprofile_bind_account_alertdialog_positive">Ajouter un numéro</string>
     <string name="miprofile_bind_account_alertdialog_title">Ajouter un numéro de téléphone</string>
     <string name="miprofile_contact_add">Ajouter</string>
@@ -982,7 +982,7 @@ Raison : \"%s\""</string>
     <string name="miprofile_contact_verifying">Vérification</string>
     <string name="miprofile_edit_title">Éditer le profil</string>
     <string name="miprofile_error_accept_self">"Impossible d'échanger votre propre carte de contact"</string>
-    <string name="miprofile_error_no_miaccount">Connectez-vous à votre compte Mi</string>
+    <string name="miprofile_error_no_miaccount">Connectez-vous à votre Compte Mi</string>
     <string name="miprofile_error_not_opened">Désactiver les cartes de contact</string>
     <string name="miprofile_error_not_set">"Votre carte de contact n'a pas été synchronisée avec le serveur"</string>
     <string name="miprofile_error_unknown">Erreur inconnue</string>
@@ -1139,7 +1139,7 @@ Raison : \"%s\""</string>
     <string name="night">Soirée</string>
     <string name="noAccounts">Pour créer des groupes, vous devez ajouter un compte.</string>
     <string name="no_contact_selected">Sélectionnez un contact pour afficher les détails</string>
-    <string name="noContactHelpTextImportXiaomiAccountInfo">Restaurer les données de contact depuis le compte Mi</string>
+    <string name="noContactHelpTextImportXiaomiAccountInfo">Restaurer les données de contact depuis le Compte Mi</string>
     <string name="noContacts">Aucun contact</string>
     <string name="noContactsWithPhoneNumbers">Aucun contact avec numéro de téléphone</string>
     <string name="noFavoritesHelpText">"Vous n'avez pas de favoris.
@@ -1291,9 +1291,9 @@ Pour ajouter un contact à votre liste de favoris :
     <string name="pref_key_sim_manage">Cartes SIM</string>
     <string name="pref_key_sim_manage1">Configurer la carte SIM 1</string>
     <string name="pref_key_sim_manage2">Configurer la carte SIM 2</string>
-    <string name="pref_summary_import_from_account">Transférer les contacts des comptes Google et Exchange vers mon compte Mi</string>
+    <string name="pref_summary_import_from_account">Transférer les contacts des comptes Google et Exchange vers mon Compte Mi</string>
     <string name="pref_title_account_import">Importer des contacts</string>
-    <string name="pref_title_import_from_account">Importer vers le compte Mi</string>
+    <string name="pref_title_import_from_account">Importer vers le Compte Mi</string>
     <string name="preference_auto_ip_summary_disable">Désactivé</string>
     <string name="preference_auto_ip_summary_on">Préfixe du fournisseur : %s</string>
     <string name="preference_auto_ip_title">Préfixe Automatique</string>

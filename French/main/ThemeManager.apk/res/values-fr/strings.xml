@@ -62,6 +62,7 @@
   <string name="add_resource_detail_fail">"Impossible d'ajouter la ressource"</string>
   <string name="afternoon">Après-midi</string>
   <string name="all_resources">Tout</string>
+  <string name="allow">Accordé</string>
   <string name="already_latest_version">À jour</string>
   <string name="already_newest_version">Cette version est à jour</string>																			
   <string name="anonymous_resource_link_error">"Impossible d'ajouter"</string>
@@ -145,7 +146,7 @@
   <string name="community_community_message_trigger_summary">"Recevez des notifications sur les réponses, les mentions J'aime et les mises à jour du statut de la communauté Mi en utilisant votre identifiant de Compte Mi"</string>
   <string name="community_community_message_trigger_title">"Notifier l'activité"</string>
   <string name="community_cta_dialog_cancel">Non merci</string>
-  <string name="community_cta_dialog_des">Les thèmes tiers prennent désormais en charge le widget Mi Community. Autorisez les thèmes à accéder à votre ID de compte Mi et aux statuts de la communauté Mi associés au compte pour pouvoir les consulter ici.</string>
+  <string name="community_cta_dialog_des">Les thèmes tiers prennent désormais en charge le widget Mi Community. Autorisez les thèmes à accéder à votre ID de Compte Mi et aux statuts de la communauté Mi associés au compte pour pouvoir les consulter ici.</string>
   <string name="community_cta_dialog_ok">Autoriser</string>
   <string name="community_cta_dialog_title">Autorisations requises</string>
   <string name="community_entrance_summary">Trouvez du contenu lié à un thème dans Mi Community. Cette fonctionnalité est prise en charge par des thèmes sélectionnés.</string>
@@ -250,6 +251,7 @@
   <string name="dialog_content_get_device_status">"Cette application doit accéder à l'ID de votre appareil pour pouvoir authentifier les articles achetés sur vos autres appareils. Vous ne pourrez peut-être pas utiliser certains des articles achetés après avoir désactivé cette fonctionnalité. Désactiver quand même ?"</string>
   <string name="dialog_show_never">Ne plus afficher</string>
   <string name="display">Affichage</string>
+  <string name="do_not_allow">Restreint</string>
   <string name="download_failed">Échec du téléchargement</string>
   <string name="download_preview_failed">"Impossible de charger l'aperçu"</string>
   <string name="download_success">Téléchargement terminé</string>
@@ -437,23 +439,23 @@ Appuyez ici pour vous connecter maintenant."</string>
   <string name="mine_tab_title_purchase">Ordres</string>
   <string name="miui_clock_city_name_local">Locale</string>
   <string name="miui_clock_city_name_second">Deuxième horloge</string>
-  <string name="miui_lock_screen_date">EEEE d MMMM</string>
-  <string name="miui_lock_screen_date_12">EEEE d MMMM</string>
+  <string name="miui_lock_screen_date">EEEE dd/MM</string>
+  <string name="miui_lock_screen_date_12">EEEE dd/MM</string>
   <string name="miui_lock_screen_date_two_lines">"EEEE
-d MMMM"</string>
+dd/MM"</string>
   <string name="miui_lock_screen_date_two_lines_12">"EEEE
-d MMMM"</string>
+dd/MM"</string>
   <string name="miui_lock_screen_large_date">"EEE
-dd/M"</string>
+dd/MM"</string>
   <string name="miui_lock_screen_large_date_12">"EEE
-dd/M"</string>
-  <string name="miuishare_account_activate_confirmation">Activer le compte Mi</string>
+dd/MM"</string>
+  <string name="miuishare_account_activate_confirmation">Activer le Compte Mi</string>
   <string name="miuishare_account_activate_ok">Activer</string>
   <string name="miuishare_account_login_cancel">Annuler</string>
-  <string name="miuishare_account_login_confirmation">Se connecter au compte Mi</string>
+  <string name="miuishare_account_login_confirmation">Se connecter au Compte Mi</string>
   <string name="miuishare_account_login_ok">Se connecter</string>
-  <string name="miuishare_account_need_activate">Partager avec Weibo nécessite un compte Weibo qui est associé à votre compte Mi. Activez votre compte Mi pour continuer.</string>
-  <string name="miuishare_account_need_login">Partager avec Weibo nécessite un compte Weibo qui est associé à votre compte Mi. Connectez-vous à votre compte Mi pour continuer.</string>
+  <string name="miuishare_account_need_activate">Partager avec Weibo nécessite un compte Weibo qui est associé à votre Compte Mi. Activez votre Compte Mi pour continuer.</string>
+  <string name="miuishare_account_need_login">Partager avec Weibo nécessite un compte Weibo qui est associé à votre Compte Mi. Connectez-vous à votre Compte Mi pour continuer.</string>
   <string name="miuishare_app_name">MIUI Share</string>
   <string name="miuishare_mini_program_title">"Vérifiez le fond d'écran que j'ai trouvé !"</string>
   <string name="miuishare_no_network">Impossible de se connecter au réseau.</string>
@@ -600,6 +602,7 @@ dd/M"</string>
   <string name="no_network_please_retry">Vérifiez vos paramètres réseau et réessayez</string>
   <string name="no_wallpaper">Aucun élément ici pour le moment</string>
   <string name="noon">Midi</string>
+  <string name="not_allow">Refusé</string>
   <string name="not_set">Non défini</string>
   <string name="not_support_incall_show">"Ce fond d'écran ne fonctionne pas avec ces profils vidéos"</string>
   <string name="official_accounts">WeChat</string>
@@ -620,7 +623,15 @@ dd/M"</string>
   <string name="ota_recovery_theme_notity_btn">Restaurer</string>
   <string name="ota_recovery_theme_notity_content">"Vous pouvez revenir au thème que vous utilisiez avant la mise à jour"</string>
   <string name="ota_recovery_theme_notity_title">Restaurez votre thème</string>
+  <string name="pad_fold_exit_wallpaper_warning_content">"Après vous être déconnecté, vous ne pourrez plus effectuer les actions suivantes :
+Afficher et utiliser les éléments que vous avez achetés ou ajoutés à vos favoris."</string>
+  <string name="pad_fold_exit_wallpaper_warning_title">"Se déconnecter de Fond d'écran et personnalisation ?"</string>
+  <string name="pad_fold_log_in_theme_detail"><Data>"J'ai lu et j'accepte le &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a>&lt;/ font> et la &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>&lt;/font>, ainsi que le &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Contrat d'utilisation&lt;/a>&lt;/font> du Compte Mi &lt;font color=\"#37A5FF\">et la &lt;a href=\"%4$s\">Politique de confidentialité&lt;/a>&lt;/font> (pour vous connecter à l'aide du compte système)."</Data></string>
+  <string name="pad_fold_log_in_wallpaper">"Se connecter à Fond d'écran et personnalisation"</string>
+  <string name="pad_fold_no_permission">Autorisations de stockage requises</string>
+  <string name="pad_fold_no_permission_detail">"Pour pouvoir modifier les préférences de personnalisation et enregistrer les éléments téléchargés, autorisez d'abord cette fonctionnalité à accéder au stockage."</string>
   <string name="password_toggle_content_description">Afficher le mot de passe</string>
+  <string name="personalize">Personalisation</string>
   <string name="personalize_alarm_ringtone_title">Alarmes</string>
   <string name="personalize_aod_title">AOD</string>
   <string name="personalize_call_ringtone_title">Sonneries</string>
@@ -636,10 +647,18 @@ dd/M"</string>
   <string name="personalize_third_font">Polices</string>
   <string name="personalize_title">"Fond d'écran et personnalisation"</string>
   <string name="personalize_wallpaper_sub_title">"Super fonds d'écran et fonds spéciaux"</string>
-  <string name="personalize_wallpaper_title">"Fond d'écran"</string>																 
+  <string name="personalize_wallpaper_title">"Fond d'écran"</string>
+  <string name="phone_exit_theme_warning_content">"Après vous être déconnecté, vous ne pourrez plus effectuer les actions suivantes :
+1. Affichez et utilisez les éléments que vous avez achetés ou ajoutés aux favoris.
+2. Ajoutez des commentaires et des likes, suivez d'autres personnes et interagissez avec elles."</string>
+  <string name="phone_exit_theme_warning_title">Se déconnecter de Thèmes ?</string>
+  <string name="phone_log_in_theme">Se connecter à Thèmes</string>
+  <string name="phone_log_in_theme_detail"><Data>"J'ai lu et j'accepte le &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a>&lt;/font > et la &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>&lt;/font>, ainsi que le &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Contrat d'utilisation&lt;/a>&lt;/font> du Compte Mi &lt;font color=\"#37A5FF\">et la &lt;a href=\"%4$s\">Politique de confidentialité&lt;/a>&lt;/font> (pour se connecter à l'aide du compte système)."</Data></string>
   <string name="playing_ringtone">Lecture</string>
   <string name="pref_lockscreen_magazine_summary">"Remplacer le fond d'écran par des diaporamas d'images de différentes catégories"</string>							 
   <string name="pref_privacy_policy">Politique de confidentialité</string>
+  <string name="pref_read_write_function_detail">Pour modifier les préférences de personnalisation et enregistrer les éléments téléchargés</string>
+  <string name="pref_reading_the_application_list_detail">Pour utiliser des papiers peints transparents</string>
   <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
   <string name="preference_subtitle_get_device_status">"Autorisez l'application à accéder à l'ID de votre appareil pour pouvoir télécharger les articles achetés sur vos autres appareils"</string>
   <string name="preference_title_get_device_status">"Accès à l'ID de l'appareil"</string>
@@ -648,7 +667,112 @@ dd/M"</string>
   <string name="present_local_themes_subtitle">Personnaliser votre appareil</string>
   <string name="present_official_themes">Nos choix</string>
   <string name="present_online_themes">Obtenir plus de thèmes en ligne</string>
+  <string name="privacy_action_failed_net_content">"Une erreur réseau s'est produite. Attendez une minute ou deux et réessayez."</string>
+  <string name="privacy_action_failed_server_content">"Une erreur de serveur s'est produite. Attendez une minute ou deux et réessayez."</string>
+  <string name="privacy_action_failed_title">Erreur</string>
+  <string name="privacy_confirm_logoff_and_exit">Annuler les services</string>
+  <string name="privacy_confirm_revoke_and_exit_btn">Retirer le consentement</string>
+  <string name="privacy_exit_btn">Quitter</string>
+  <string name="privacy_give_up_logoff">Retour</string>
+  <string name="privacy_give_up_revoke_btn">Retour</string>
+  <string name="privacy_i_know_btn">Continuer</string>
+  <string name="privacy_important_prompt_title">Attention</string>
+  <string name="privacy_log_off_succeed">Services annulés avec succès</string>
+  <string name="privacy_loging_off_warning">Annulation des services…</string>
+  <string name="privacy_logoff_services_title">Annuler des services</string>
+  <string name="privacy_logoff_theme_content_1">1. Toutes les commandes (y compris les commandes payées) passées sur les appareils Xiaomi. Vous ne pourrez plus utiliser les articles que vous avez achetés.</string>
+  <string name="privacy_logoff_theme_content_2">2. Toutes les informations sur vos goûts, commentaires, évaluations et abonnés générés sur les appareils Xiaomi.</string>
+  <string name="privacy_logoff_theme_content_5">5. Tous les éléments de personnalisation actuellement utilisés sur cet appareil. Les préférences de personnalisation par défaut seront restaurées.</string>
+  <string name="privacy_logoff_theme_service_warning">"Les éléments suivants seront supprimés définitivement après l'annulation des services :"</string>
+  <string name="privacy_network_exception">"Une erreur réseau s'est produite. Attendez une minute ou deux et réessayez."</string>
+  <string name="privacy_pad_fold_Read_write_storage">Accéder au stockage</string>
+  <string name="privacy_pad_fold_entry">Vie privée</string>
+  <string name="privacy_pad_fold_logoff_service_content">"Annuler les services de fond d'écran et de personnalisation"</string>
+  <string name="privacy_pad_fold_logoff_wallpaper_content_3">"3. Tous les fonds d'écran, polices et sonneries téléchargés sur cet appareil."</string>
+  <string name="privacy_pad_fold_logoff_wallpaper_content_4">"4. Toutes les préférences d'autorisations, les paramètres et les éléments mis en cache générés sur cet appareil."</string>
+  <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_1">"1. Assurez-vous que vous avez le droit d'annuler les services avant de continuer.
+2. L'annulation du fond d'écran et des services de personnalisation n'affectera pas l'utilisation normale des autres produits Xiaomi.
+3. L'annulation du service est une action irréversible. Sauvegardez tous les éléments importants avant de continuer, car ils pourraient être supprimés définitivement. N'oubliez pas que vous ne pourrez pas revenir sur votre décision une fois les services annulés. Les données suivantes seront définitivement supprimées ou rendues anonymes après l'annulation du service (sauf disposition contraire des lois et règlements, ou autrement requis par les autorités réglementaires) :"</string>
+  <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_2">"Toutes les commandes (y compris les commandes payées) passées sur les appareils Xiaomi. Vous ne pourrez plus utiliser les articles que vous avez achetés.
+Toutes les informations sur vos goûts, commentaires, évaluations et abonnés générés sur les appareils Xiaomi.
+Tous les fonds d'écran, polices et sonneries téléchargés sur cet appareil.
+Toutes les préférences d'autorisations, les paramètres et les éléments mis en cache générés sur cet appareil.
+Tous les éléments de personnalisation actuellement utilisés sur cet appareil. Les préférences de personnalisation par défaut seront restaurées."</string>
+  <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_3">"4. L'annulation du service n'implique pas d'exemption ou d'atténuation en ce qui concerne les responsabilités induites par les actions effectuées avant l'annulation des services."</string>
+  <string name="privacy_pad_fold_logoff_wallpaper_service_detail_prompt">"Déclaration sur l'annulation des services de Fond d'écran et personnalisation"</string>
+  <string name="privacy_pad_fold_logoff_wallpaper_service_detail_title">"Lisez et acceptez la \"Déclaration sur l'annulation des services de Fond d'écran et personnalisation\" avant d'annuler nos services."</string>
+  <string name="privacy_pad_fold_logoff_wallpaper_service_introduce">"Vous êtes sur le point d'annuler les services de Fond d'écran et personnalisation."</string>
+  <string name="privacy_pad_fold_read_wallpaper_logoff_privacy_policy"><Data>"J'ai lu et j'accepte la \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Déclaration sur l'annulation des services de Fond d'écran et personnalisation&lt;/a>&lt;/font>\"."</Data></string>
+  <string name="privacy_pad_fold_read_wallpaper_privacy_policy"><Data>"J'ai lu et j'accepte la \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Déclaration sur le retrait du consentement à la Politique de confidentialité de Fond d'écran et personnalisation&lt;/a>&lt;/font>\"."</Data></string>
+  <string name="privacy_pad_fold_revoke_agree_content_3">"3. Tous les fonds d'écran, polices et sonneries téléchargés sur cet appareil."</string>
+  <string name="privacy_pad_fold_revoke_agree_content_4">"4. Toutes les préférences d'autorisations, les paramètres et les éléments mis en cache générés sur cet appareil."</string>
+  <string name="privacy_pad_fold_revoke_agree_detail_prompt">"Déclaration sur le retrait du consentement à la Politique de confidentialité de Fond d'écran et personnalisation"</string>
+  <string name="privacy_pad_fold_revoke_agree_detail_title">"Lisez et acceptez la \"Déclaration sur le retrait du consentement à la Politique de confidentialité de Fond d'écran et personnalisation\" avant de retirer votre consentement."</string>
+  <string name="privacy_pad_fold_revoke_agree_introduce">"Si vous continuez, vous retirerez votre consentement à la Politique de confidentialité de Fond d'écran et personnalisation. Les informations personnelles déjà collectées et conservées seront supprimées dans le délai imparti conformément aux lois et réglementations applicables, sauf indication contraire. Comme Fond d'écran et personnalisation fournit ses services sur la base de la collecte des informations personnelles nécessaires, votre retrait de consentement sera considéré comme un refus d'accepter les services Fond d'écran et personnalisation."</string>
+  <string name="privacy_pad_fold_update_content">"La politique de confidentialité de Fond d'écran et personnalisation a été mise à jour :"</string>
+  <string name="privacy_pad_important_prompt_content">"Il semble que vous n'ayez pas encore accepté nos Conditions d'utilisation et notre Politique de confidentialité. Cependant, les fonctionnalités et services de base de Fond d'écran et personnalisation sont toujours à votre disposition.
+Chaque fois que vous utilisez les éléments stockés sur cet appareil à des fins de personnalisation (par exemple que vous définissez des fonds d'écran ou des sonneries), nous vous demanderons d'autoriser cette application à accéder au stockage de l'appareil."</string>
+  <string name="privacy_permission_management_description">Détails des autorisations</string>
+  <string name="privacy_permission_related_content">Autorisations</string>
+  <string name="privacy_permit_privacy_policy_content">"Vous ne pourrez pas continuer à utiliser notre service sauf si vous acceptez la nouvelle version de la &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Politique de confidentialité&lt;/font>&lt;/a >. Accepter la Politique de confidentialité mise à jour maintenant ?"</string>
+  <string name="privacy_phone_important_prompt_content">"Il semble que vous n'ayez pas encore accepté nos Conditions d'utilisation et notre Politique de confidentialité. Cependant, les fonctionnalités de base et les services de Thèmes sont toujours à votre disposition.
+Chaque fois que vous utilisez les éléments stockés sur cet appareil à des fins de personnalisation (par exemple que vous définissez des fonds d'écran ou des sonneries), nous vous demanderons d'autoriser cette application à accéder au stockage de l'appareil."</string>
+  <string name="privacy_phone_logoff_service_content">Annuler les services de Thèmes</string>
+  <string name="privacy_phone_logoff_theme_content_3">"3. Tous les thèmes, fonds d'écran, fonds d'écran dynamiques, polices, icônes et sonneries téléchargés sur cet appareil."</string>
+  <string name="privacy_phone_logoff_theme_content_4">"4. Tous les enregistrements de l'historique de recherche, les préférences d'autorisations, les paramètres et les éléments mis en cache générés sur cet appareil."</string>
+  <string name="privacy_phone_logoff_theme_service_detail_content_1">"1. Assurez-vous que vous avez le droit d'annuler les services avant de continuer.
+2. L'annulation des services Thèmes n'affectera pas l'utilisation normale des autres produits Xiaomi.
+3. L'annulation du service est une action irréversible. Sauvegardez tous les éléments importants avant de continuer, car ils pourraient être supprimés définitivement. N'oubliez pas que vous ne pourrez pas revenir sur votre décision une fois les services annulés. Les données suivantes seront définitivement supprimées ou rendues anonymes après l'annulation du service (sauf disposition contraire des lois et règlements, ou autrement requis par les autorités réglementaires) :"</string>
+  <string name="privacy_phone_logoff_theme_service_detail_content_2">"Toutes les commandes (y compris les commandes payées) passées sur les appareils Xiaomi. Vous ne pourrez plus utiliser les articles que vous avez achetés.
+Toutes les informations sur vos goûts, commentaires, évaluations et abonnés générés sur les appareils Xiaomi.
+Tous les thèmes, fonds d'écran, fonds d'écran dynamiques, polices, icônes et sonneries téléchargés sur cet appareil.
+Tous les enregistrements de l'historique de recherche, les préférences d'autorisations, les paramètres et les éléments mis en cache générés sur cet appareil.
+Tous les éléments de personnalisation actuellement utilisés sur cet appareil. Les préférences de personnalisation par défaut seront restaurées."</string>
+  <string name="privacy_phone_logoff_theme_service_detail_content_3">"4. L'annulation du service n'implique pas d'exemption ou d'atténuation en ce qui concerne les responsabilités induites par les actions effectuées avant l'annulation des services."</string>
+  <string name="privacy_phone_logoff_theme_service_detail_prompt">"Déclaration sur l'annulation des services de Thèmes"</string>
+  <string name="privacy_phone_logoff_theme_service_detail_title">"Lisez et acceptez la \"Déclaration sur l'annulation des services de Thèmes\" avant d'annuler nos services."</string>
+  <string name="privacy_phone_logoff_theme_service_introduce">"Vous êtes sur le point d'annuler les services de Thèmes."</string>
+  <string name="privacy_phone_read_and_write_storage">Accéder au stockage</string>
+  <string name="privacy_phone_read_theme_logoff_privacy_policy"><Data>"J'ai lu et j'accepte la \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Déclaration sur l'annulation des services de Thèmes&lt;/ a>&lt;/font>\"."</Data></string>
+  <string name="privacy_phone_read_theme_privacy_policy"><Data>"J'ai lu et j'accepte la \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Déclaration sur le retrait du consentement à la Politique de confidentialité de Thèmes&lt;/a>&lt;/font>\"."</Data></string>
+  <string name="privacy_phone_revoke_agree_content_3">"3. Tous les thèmes, fonds d'écran, fonds d'écran dynamiques, polices, icônes et sonneries téléchargés sur cet appareil."</string>
+  <string name="privacy_phone_revoke_agree_content_4">"4. Tous les enregistrements de l'historique de recherche, les préférences d'autorisations, les paramètres et les éléments mis en cache générés sur cet appareil."</string>
+  <string name="privacy_phone_revoke_agree_detail_content_1">"1. Assurez-vous que vous avez le droit de retirer votre consentement avant de continuer.
+2. Votre retrait de consentement à la Politique de confidentialité de Thèmes n'affectera pas l'utilisation normale des autres produits Xiaomi.
+3. Le retrait du consentement est une action irréversible. Sauvegardez tous les éléments importants avant de continuer, car ils pourraient être supprimés définitivement. N'oubliez pas que vous ne pourrez pas revenir sur votre décision une fois votre consentement retiré. Les données suivantes seront définitivement supprimées ou rendues anonymes après le retrait du consentement (sauf disposition contraire des lois et règlements, ou autrement requis par les autorités réglementaires) :"</string>
+  <string name="privacy_phone_revoke_agree_detail_content_2">"Toutes les commandes (y compris les commandes payées) passées sur les appareils Xiaomi sur lesquels vous avez utilisé votre Compte Mi. Vous ne pourrez plus utiliser les articles que vous avez achetés.
+Toutes les informations sur vos goûts, commentaires, évaluations et abonnés générés sur les appareils Xiaomi sur lesquels vous avez utilisé votre Compte Mi.
+Tous les thèmes, fonds d'écran, fonds d'écran dynamiques, polices, icônes et sonneries téléchargés sur cet appareil.
+Tous les enregistrements de l'historique de recherche, les préférences d'autorisations, les paramètres et les éléments mis en cache générés sur cet appareil.
+Tous les éléments de personnalisation actuellement utilisés sur cet appareil. Les préférences de personnalisation par défaut seront restaurées."</string>
+  <string name="privacy_phone_revoke_agree_detail_content_3">"4. Après avoir retiré votre consentement à la Politique de confidentialité de Thèmes, nous cesserons de collecter vos informations personnelles. Les informations personnelles déjà collectées et conservées seront supprimées dans le délai imparti conformément aux lois et réglementations applicables, sauf indication contraire.
+5. Le retrait du consentement n'implique pas d'exemption ou d'atténuation en ce qui concerne les responsabilités induites par les actes accomplis avant le retrait du consentement."</string>
+  <string name="privacy_phone_revoke_agree_detail_prompt">Déclaration sur le retrait du consentement à la Politique de confidentialité de Thèmes</string>
+  <string name="privacy_phone_revoke_agree_detail_title">Lisez et acceptez la \"Déclaration sur le retrait du consentement à la Politique de confidentialité de Thèmes\" avant de retirer votre consentement.</string>
+  <string name="privacy_phone_revoke_agree_introduce">"Si vous continuez, vous retirerez votre consentement à la Politique de confidentialité de Thèmes. Les informations personnelles déjà collectées et conservées seront supprimées dans le délai imparti conformément aux lois et réglementations applicables, sauf indication contraire. Étant donné que Thèmes fournit ses services sur la base de la collecte des informations personnelles nécessaires, votre retrait de consentement sera considéré comme un refus d'accepter les services de Thèmes."</string>
+  <string name="privacy_phone_update_content">La Politique de confidentialité de Thèmes a été mise à jour :</string>
+  <string name="privacy_read_statement">"Acceptez d'abord les termes et conditions"</string>
+  <string name="privacy_read_the_updated_privacy_policy_content">"Lisez et acceptez la nouvelle version de la &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Politique de confidentialité&lt;/font>&lt;/a> avant de continuer."</string>
+  <string name="privacy_reading_the_application_list">Accéder à la liste des applications installées sur cet appareil</string>
+  <string name="privacy_revoke_agree_content">Retrait du consentement</string>
+  <string name="privacy_revoke_agree_content_1">1. Toutes les commandes (y compris les commandes payées) passées sur les appareils Xiaomi sur lesquels vous avez utilisé votre Compte Mi. Vous ne pourrez plus utiliser les articles que vous avez achetés.</string>
+  <string name="privacy_revoke_agree_content_2">2. Toutes les informations sur vos goûts, commentaires, évaluations et abonnés générés sur les appareils Xiaomi sur lesquels vous avez utilisé votre Compte Mi.</string>
+  <string name="privacy_revoke_agree_content_5">5. Tous les éléments de personnalisation actuellement utilisés sur cet appareil. Les préférences de personnalisation par défaut seront restaurées.</string>
+  <string name="privacy_revoke_agree_data_warning">Les données suivantes seront définitivement supprimées ou rendues anonymes après le retrait du consentement (sauf disposition contraire des lois et règlements, ou autrement requis par les autorités réglementaires) :</string>
+  <string name="privacy_revoke_succeed">Consentement retiré avec succès</string>
+  <string name="privacy_revoking_warning">Retrait du consentement…</string>
   <string name="privacy_settings">Vie privée</string>
+  <string name="privacy_update_prompt_title">Politique de confidentialité mise à jour</string>
+  <string name="private_pad_fold_revoke_agree_detail_content_1">"1. Assurez-vous que vous avez le droit de retirer votre consentement avant de continuer.
+2. Votre retrait de consentement à la Politique de confidentialité de Fond d'écran et personnalisation n'affectera pas l'utilisation normale des autres produits Xiaomi.
+3. Le retrait du consentement est une action irréversible. Sauvegardez tous les éléments importants avant de continuer, car ils pourraient être supprimés définitivement. N'oubliez pas que vous ne pourrez pas revenir sur votre décision une fois votre consentement retiré. Les données suivantes seront définitivement supprimées ou rendues anonymes après le retrait du consentement (sauf disposition contraire des lois et règlements, ou autrement requis par les autorités réglementaires) :"</string>
+  <string name="private_pad_fold_revoke_agree_detail_content_2">"Toutes les commandes (y compris les commandes payées) passées sur les appareils Xiaomi sur lesquels vous avez utilisé votre Compte Mi. Vous ne pourrez plus utiliser les articles que vous avez achetés.
+Toutes les informations sur vos goûts, commentaires, évaluations et abonnés générés sur les appareils Xiaomi sur lesquels vous avez utilisé votre Compte Mi.
+Tous les fonds d'écran, polices et sonneries téléchargés sur cet appareil.
+Toutes les préférences d'autorisations, les paramètres et les éléments mis en cache générés sur cet appareil.
+Tous les éléments de personnalisation actuellement utilisés sur cet appareil. Les préférences de personnalisation par défaut seront restaurées."</string>
+  <string name="private_pad_fold_revoke_agree_detail_content_3">"4. Après avoir retiré votre consentement à la Politique de confidentialité de Fond d'écran et personnalisation, nous cesserons de collecter vos informations personnelles. Les informations personnelles déjà collectées et conservées seront supprimées dans le délai imparti conformément aux lois et réglementations applicables, sauf indication contraire.
+5. Le retrait du consentement n'implique pas d'exemption ou d'atténuation en ce qui concerne les responsabilités induites par les actes accomplis avant le retrait du consentement."</string>
   <string name="provision_default_theme_title">Par défaut</string>
   <string name="provision_loading_tips">Chargement…</string>
   <string name="provision_second_title">Sélectionner un des plusieurs thèmes par défaut</string>
@@ -671,7 +795,7 @@ dd/M"</string>
   <string name="resource_account_abnormal_state">Erreur de compte. Patientez une minute ou deux et réessayez.</string>
   <string name="resource_account_fail_to_add">"Impossible d'ajouter un compte"</string>
   <string name="resource_account_login">Se connecter</string>
-  <string name="resource_account_login_before_action">Connectez-vous à votre compte Mi maintenant</string>
+  <string name="resource_account_login_before_action">Connectez-vous à votre Compte Mi maintenant</string>
   <string name="resource_account_login_title">Se connecter</string>
   <string name="resource_account_switch">Basculer</string>
   <string name="resource_alarm_default">Alarme</string>
@@ -1112,6 +1236,7 @@ dd/M"</string>
   <string name="theme_import_from_sdcard">Importer</string>
   <string name="theme_is_external_priority_storage">Enregistrer sur la carte SD</string>
   <string name="theme_is_external_priority_storage_summary">"L'application Thème va redémarrer immédiatement pour prendre effet."</string>
+  <string name="theme_log_out">Se déconnecter</string>
   <string name="theme_multiple_button_title_customize">Personnaliser</string>
   <string name="theme_no">Non</string>
   <string name="theme_not_include_module_desc">"Ce thème ne contient pas les éléments suivants : %s"</string>
@@ -1153,7 +1278,7 @@ dd/M"</string>
   <string name="title_system_audio_notification_resource">Notifications système</string>
   <string name="title_system_audio_resource">Sonneries du système</string>
   <string name="title_system_wallpaper_resource">"Fond d'écran du système"</string>
-  <string name="to_activate_the_account">Activez votre compte Mi maintenant</string>
+  <string name="to_activate_the_account">Activez votre Compte Mi maintenant</string>
   <string name="today">"Aujourd'hui"</string>
   <string name="tomorrow">Demain</string>
   <string name="transparency_pref_summary">"Choisissez le degré de transparence de votre fond d'écran"</string>
@@ -1176,7 +1301,7 @@ dd/M"</string>
   <string name="transparent_wallpaper_white_wallpaper">Rendre le fond blanc</string>
   <string name="transparent_wallpaper_white_wallpaper_failed">"Impossible de rendre le fond blanc"</string>
   <string name="transparent_wallpaper_white_wallpaper_success">La couleur de fond est blanche maintenant</string>
-  <string name="transparent_wallpaper_white_wallpaper_tip">Le papier peint transparent semble le meilleur sur fond blanc</string>
+  <string name="transparent_wallpaper_white_wallpaper_tip">"Le fond d'écran transparent semble le meilleur sur fond blanc"</string>
   <string name="trial_count_empty">"Il ne reste plus d'articles gratuits pour aujourd'hui. Reviens demain !"</string>
   <string name="trial_count_tip">"La période d'essai se termine dans %1$s:%2$s:%3$s"</string>
   <string name="trial_for_free">Essai gratuit</string>

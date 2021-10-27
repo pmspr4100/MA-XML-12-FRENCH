@@ -34,7 +34,7 @@
     <string name="activate_feature_mx_and_voip">Messages Mi et Voix</string>
     <string name="activate_feature_register_xiaomi_account">Configuration du Compte Mi</string>
     <string name="activate_feature_remote_assist">Assistance à distance</string>
-    <string name="activate_feature_verify_mx_token">Vérification du compte Mi</string>
+    <string name="activate_feature_verify_mx_token">Vérification du Compte Mi</string>
     <string name="activate_feature_voip">Messages Mi VoIP</string>
     <string name="activate_history_canceled_overview">"L'activation de la carte SIM a été annulée. L'activation est déclenchée par \"%1$s\"."</string>
     <string name="activate_history_multisim_canceled_overview">"L'activation de la carte SIM %2$d a été annulée. L'activation est déclenchée par %1$s\"."</string>
@@ -48,7 +48,7 @@
     <string name="activate_phone_failed_notif_title_msim">"Impossible d'activer la carte SIM %d"</string>
     <string name="activate_phone_failed_notif_title_sim">"Impossible d'activer \"%2$s\" en utilisant la SIM %1$d"</string>
     <string name="activate_phone_register_xiaomi_account_success_notif_title_sim">Compte Mi créé avec la carte SIM %d avec succès</string>
-    <string name="activate_phone_registered_xiaomi_account_failed_notif_title_sim">"Impossible de créer un compte Mi avec la carte SIM %d"</string>
+    <string name="activate_phone_registered_xiaomi_account_failed_notif_title_sim">"Impossible de créer un Compte Mi avec la carte SIM %d"</string>
     <string name="activate_phone_server_failed_notif_title">"Impossible d'activer \"%s\""</string>
     <string name="activate_phone_server_success_notif_title">\"%s\" activé avec succès</string>
     <string name="activate_phone_success_notif_title">Carte SIM activée avec succès</string>
@@ -94,7 +94,7 @@
     <string name="activate_popup_desc_new_sim_card_downlink">On dirait que vous avez changé de carte SIM. Entrez votre numéro de téléphone actuel pour activer %s.</string>
     <string name="activate_popup_desc_register_account">Un message SMS sortant peut être nécessaire pour créer votre compte MI. Votre opérateur vous facturera ce message.</string>
     <string name="activate_popup_desc_register_account_downlink">Entrez votre numéro de téléphone</string>
-    <string name="activate_popup_desc_register_account_intl">Un message SMS international sortant peut être nécessaire pour créer votre compte Mi. Votre opérateur vous facturera ce message.</string>
+    <string name="activate_popup_desc_register_account_intl">Un message SMS international sortant peut être nécessaire pour créer votre Compte Mi. Votre opérateur vous facturera ce message.</string>
     <string name="activate_popup_desc_sim_card">Un SMS sera envoyé pour activer %s. Vous serez facturé par votre opérateur.</string>
     <string name="activate_popup_desc_sim_card_downlink">Entrez votre numéro de téléphone actuel pour activer %s.</string>
     <string name="activate_popup_desc_sim_card_downlink_msg">Pour activer \"%2$s\", entrez le numéro de téléphone de la carte SIM %1$d.</string>
@@ -113,7 +113,7 @@
     <string name="activate_popup_title_failed_server">Erreur du serveur</string>
     <string name="activate_popup_title_manual">Activer %s</string>
     <string name="activate_popup_title_new_sim_card">Réactiver %s</string>
-    <string name="activate_popup_title_register_account">Créer un compte Mi</string>
+    <string name="activate_popup_title_register_account">Créer un Compte Mi</string>
     <string name="activate_progress_status_title">Activation de \"%s\"…</string>
     <string name="activate_registered_xiaomi_account_failed_notif_title">Impossible de créer le Compte Mi</string>
     <string name="activate_registered_xiaomi_account_success_notif_title">Compte Mi créé avec succès</string>
@@ -121,8 +121,8 @@
     <string name="activate_status_desc_acquire_phone_number_server_error">Erreur de serveur survenue lors de la vérification du numéro de téléphone</string>
     <string name="activate_status_desc_acquire_phone_number_server_no_info">Impossible de vérifier le numéro de téléphone</string>
     <string name="activate_status_desc_acquire_phone_number_server_no_info_tip">Impossible de vérifier le numéro de téléphone. Vérifiez que la carte SIM %d fonctionne correctement et réessayez.</string>
-    <string name="activate_status_desc_checking_xiaomi_account">Vérification du compte Mi…</string>
-    <string name="activate_status_desc_checking_xiaomi_account_server_error">"Une erreur du serveur s'est produite lors de la vérification du compte Mi"</string>
+    <string name="activate_status_desc_checking_xiaomi_account">Vérification du Compte Mi…</string>
+    <string name="activate_status_desc_checking_xiaomi_account_server_error">"Une erreur du serveur s'est produite lors de la vérification du Compte Mi"</string>
     <string name="activate_status_desc_completed_with_sms_sent">SMS envoyé pour activer la carte SIM</string>
     <string name="activate_status_desc_completed_with_sms_sent_for_activate_server">%d SMS classique a été envoyé pour activer ce service.</string>
     <string name="activate_status_desc_device_id_error">IMEI non valide</string>
@@ -136,8 +136,8 @@
     <string name="activate_status_desc_query_activation_server_info">Récupération des informations…</string>
     <string name="activate_status_desc_registering_sim_account">Enregistrement de la carte SIM…</string>
     <string name="activate_status_desc_registering_sim_account_server_error">"Une erreur du serveur s'est produite lors de l'enregistrement de la carte SIM"</string>
-    <string name="activate_status_desc_registering_xiaomi_account">Création du compte Mi…</string>
-    <string name="activate_status_desc_registering_xiaomi_account_server_error">"Une erreur du serveur s'est produite lors de la création du compte Mi"</string>
+    <string name="activate_status_desc_registering_xiaomi_account">Création du Compte Mi…</string>
+    <string name="activate_status_desc_registering_xiaomi_account_server_error">"Une erreur du serveur s'est produite lors de la création du Compte Mi"</string>
     <string name="activate_status_desc_request_activation_sms">"Demande du SMS d'activation…"</string>
     <string name="activate_status_desc_request_activation_sms_server_error">"Une erreur du serveur s'est produite lors de la demande du SMS d'activation."</string>
     <string name="activate_status_desc_request_activation_sms_server_error_tip">"Impossible de recevoir le SMS d'activation. Assurez-vous que la carte SIM %d fonctionne correctement et réessayez."</string>
