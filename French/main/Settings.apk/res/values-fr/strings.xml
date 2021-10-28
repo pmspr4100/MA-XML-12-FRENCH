@@ -2712,9 +2712,23 @@ Vous pouvez afficher les journaux générés dans le Gestionnaire de fichiers."<
   <string name="elastic_text">"Les invites et les menus déroulants apparaissent avec un pop élastique qui met davantage l'accent sur ces objets"</string>
   <string name="emergency_address_summary">"Adresse utilisée pour votre position si vous effectuez un appel d'urgence à l'aide du Wi-Fi"</string>
   <string name="emergency_address_title">"Adresse d'urgence"</string>
-  <string name="emergency_info_contextual_card_summary">"Informations médicales, contacts en cas d'urgence"</string>
+  <string name="emergency_dashboard_summary">"SOS d'urgence, infos médicales, alertes"</string>
+  <string name="emergency_gesture_call_for_help_dialog_title">"Numéro à appeler pour obtenir de l'aide"</string>
+  <string name="emergency_gesture_call_for_help_summary">%1$s. Appuyez pour changer</string>
+  <string name="emergency_gesture_call_for_help_title">"Appel à l'aide"</string>
+  <string name="emergency_gesture_category_call_for_help_title">"Demander de l'aide"</string>
+  <string name="emergency_gesture_entrypoint_summary">Géré par %1$s</string>
+  <string name="emergency_gesture_number_override_notes">"Si vous saisissez un numéro non urgent :
+• Votre appareil doit être déverrouillé pour utiliser le SOS d'urgence
+• Votre appel peut ne pas être répondu"</string>
+  <string name="emergency_gesture_screen_summary">"Appuyez rapidement sur le bouton d'alimentation 5 fois ou plus pour lancer les actions ci-dessous"</string>
+  <string name="emergency_gesture_screen_title">"SOS d'urgence"</string>
+  <string name="emergency_gesture_sound_setting_summary">"Jouer un son fort lorsque SOS d'urgence démarre"</string>
+  <string name="emergency_gesture_sound_setting_title">"Jouer l'alarme du compte à rebours"</string>
+  <string name="emergency_gesture_switchbar_title">"Utiliser SOS d'urgence"</string>
   <string name="emergency_info_summary">Informations et contacts pour %1$s</string>
   <string name="emergency_info_title">"Informations d'urgence"</string>
+  <string name="emergency_settings_preference_title">Sécurité &amp; urgence</string>
   <string name="emergency_sos_title">"Messages d'urgences"</string>
   <string name="emergency_tone_alert">Tonalités</string>
   <string name="emergency_tone_silent">Silence</string>
@@ -2723,6 +2737,8 @@ Vous pouvez afficher les journaux générés dans le Gestionnaire de fichiers."<
   <string name="emergency_tone_vibrate">Vibrations</string>
   <string name="empty_list_msg">"Aucune application tierce n'est installée."</string>
   <string name="empty_networks_list">Aucun réseau trouvé.</string>
+  <string name="enable_2g_summary">Utilisez des connexions cellulaires 2G. Pour les appels d'urgence, la 2G est toujours activée.</string>
+  <string name="enable_2g_title">AUtoriser la 2G</string>
   <string name="enable_adb">Débogage USB</string>
   <string name="enable_adb_summary">Activer le Mode débogage lorsque le support USB est connecté</string>
   <string name="enable_adb_wireless">Débogage sans fil</string>
