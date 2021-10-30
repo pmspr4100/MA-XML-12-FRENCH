@@ -45,6 +45,7 @@
   <string name="character_counter_overflowed_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
   <string name="clear_text_end_icon_content_description">Effacer le texte</string>
   <string name="clearable_edittext_clear_description">Effacer</string>
+  <string name="close">Fermer</string>
   <string name="controls_confirmation_message">Confirmer le changement pour %s</string>
   <string name="controls_dialog_confirmation">Contrôles mis à jour</string>
   <string name="controls_dialog_message">%s a suggéré que ce contrôle soit ajouté à vos favoris.</string>
@@ -90,6 +91,7 @@
   <string name="controls_structure_tooltip">Balayez pour en voir plus</string>
   <string name="copy">Copier</string>
   <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
+  <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>
   <string name="disabled">Désactivé</string>
   <string name="dnd_popup_close_message">Compris</string>
   <string name="dnd_popup_message">Vous pouvez activer le mode NPD pour désactiver les appels et les notifications sans désactiver les sons multimédias.</string>
@@ -143,10 +145,20 @@
   <string name="miui_toast_zen_to_dnd">Basculé en mode NPD. Les sons et le vibreur sont désactivés à présent.</string>
   <string name="miui_toast_zen_to_standard">"Basculé en mode Silencieux. Les sonneries d'appels et les sons des notifications sont désactivés à présent."</string>
   <string name="miui_toast_zen_to_standard_when_shield_media">"Basculé en mode Silencieux. Les sonneries d'appels, ainsi que les sons des notifications et des médias, sont désactivés à présent."</string>
-  <string name="miuix_appcompat_cloud_state_disabled">La synchronisation avec le cloud est désactivée</string>
-  <string name="miuix_appcompat_cloud_state_finished">Synchronisé avec le cloud avec succès</string>
-  <string name="miuix_appcompat_cloud_state_syncing">Synchronisation avec le cloud…</string>
+  <string name="miuix_appcompat_action_mode_deselect_all">Désélectionner</string>
+  <string name="miuix_appcompat_action_mode_select_all">Tout sélectionner</string>
+  <string name="miuix_appcompat_action_mode_title_empty">Sélectionner des éléments</string>
+  <string name="miuix_appcompat_actionbar_immersion_button_more_description">Plus</string>
+  <string name="miuix_appcompat_cancel_description">Annuler</string>
+  <string name="miuix_appcompat_confirm_description">Confirmer</string>
+  <string name="miuix_appcompat_delete_description">Supprimer</string>
+  <string name="miuix_appcompat_deselect_all">Désélectionner</string>
+  <string name="miuix_appcompat_deselect_all_description">Tout désélectionner</string>
+  <string name="miuix_appcompat_search_action_mode_cancel">Annuler</string>
   <string name="miuix_appcompat_search_input_description">Chercher</string>
+  <string name="miuix_appcompat_select_all">Tout sélectionner</string>
+  <string name="miuix_appcompat_select_all_description">Tout sélectionner</string>
+  <string name="miuix_appcompat_select_item">Sélectionner des éléments</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez vers le bas pour actualiser</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualisation…</string>
@@ -258,6 +270,7 @@ Une longue exposition à des sons forts peut entraîner des problèmes d'auditio
   <string name="saturday_shortest">Sam</string>
   <string name="save">Enregistrer</string>
   <string name="search_menu_title">Recherche</string>
+  <string name="send">Envoyer</string>
   <string name="slider_view_content_description">Glissez vers le haut pour éteindre ou vers le bas pour redémarrer</string>
   <string name="smart_home_title">Appareils intelligents</string>
   <string name="solar_term_autumn_begins">"Début de l'automne"</string>

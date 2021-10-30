@@ -33,6 +33,8 @@
     <string name="am">AM</string>
     <string name="antispam">Liste noire</string>
     <string name="app_name">Mi Mover</string>
+    <string name="app_update_title">Mettre à jour toutes les applications</string>
+    <string name="appname_app_data_suffix">"%1$s données d'application"</string>
     <string name="audio">Audio</string>
     <string name="audio_video_document">Audio, vidéo et documents</string>
     <string name="back">Retour</string>
@@ -192,7 +194,6 @@ Ouvrez WeChat et accédez à Moi > Paramètres > Général > Sauvegarder &amp; m
     <string name="guest_unfinished_task_alert_btn_positive">Continuer</string>
     <string name="guest_unfinished_task_alert_message">Il semble que vous ayez des tâches de transfert non terminées. Continuer avec le transfert ?</string>
     <string name="guest_unfinished_task_alert_title">Tâches non terminées</string>
-    <string name="guest_wainting_title">Continuer sur votre nouvel appareil</string>
     <string name="hide_password_description">Masquer le mot de passe</string>
     <string name="host_boot_installation_bottom_tips">"Vous ne trouvez pas Mi Mover ? Appuyez pour le télécharger."</string>
     <string name="host_boot_installation_button">Suivant</string>
@@ -218,10 +219,6 @@ Ouvrez WeChat et accédez à Moi > Paramètres > Général > Sauvegarder &amp; m
     <string name="host_memory_insuff_summary">"Il n'y a pas assez d'espace de stockage sur le nouvel appareil pour démarrer un transfert."</string>
     <string name="host_memory_insuff_title">Espace de stockage insuffisant</string>
     <string name="host_new_device_hint">Cet appareil</string>
-    <string name="host_verify_lock_hint">"Entrer dans l'écran de verrouillage"</string>
-    <string name="host_verify_lock_retry">"Confirmer le verrouillage de l'écran"</string>
-    <string name="host_verify_lock_summary">"Cela deviendra le verrouillage d'écran de votre nouvel appareil"</string>
-    <string name="host_verify_lock_title">"Entrez le verrouillage d'écran de votre ancien appareil"</string>
     <string name="hsa_code_null">Le code de vérification ne doit pas être vide</string>
     <string name="hsa_input_tip">Votre identifiant Apple utilise une authentification à deux facteurs. Entrez le code de vérification.</string>
     <string name="hsa_send_again">Envoyer à nouveau</string>
@@ -251,9 +248,6 @@ Ouvrez WeChat et accédez à Moi > Paramètres > Général > Sauvegarder &amp; m
     <string name="icloud_signin_fail_message">Votre identifiant Apple a été bloqué pour des raisons de sécurité. Allez sur iforgot.apple.com et suivez les instructions.</string>
     <string name="icloud_start_now">Utiliser les données mobiles</string>
     <string name="icloud_verify_tips">Appuyez sur Autoriser sur votre appareil iOS et entrez ici le code qui apparaît sur celui-ci.</string>
-    <string name="idm_discovery_positive_text">Transférer</string>
-    <string name="idm_discovery_summary">"On dirait que vous activez un nouvel appareil maintenant. Transférer des éléments de cet appareil vers le nouveau ?"</string>
-    <string name="idm_discovery_title">Transférer des éléments vers votre nouvel appareil</string>
     <string name="im_recipient">Je suis le destinataire</string>
     <string name="im_sender">"Je suis l'expéditeur"</string>
     <string name="image">Images</string>
@@ -281,9 +275,6 @@ Ouvrez WeChat et accédez à Moi > Paramètres > Général > Sauvegarder &amp; m
     <string name="loading_data">Un instant…</string>
     <string name="location_permission_desc">Pour trouver des appareils à proximité</string>
     <string name="location_permission_request">Pour vous connecter aux appareils autour de vous</string>
-    <string name="lockscreen_access_pattern_cell_added">Cellule ajoutée</string>
-    <string name="lockscreen_access_pattern_cleared">Motif effacé</string>
-    <string name="lockscreen_access_pattern_start">Motif commencé</string>
     <string name="login">"S'identifier"</string>
     <string name="login_failed">Identification impossible. Réessayez.</string>
     <string name="logining">Identification…</string>
@@ -509,9 +500,7 @@ Ouvrez WeChat et accédez à Moi > Paramètres > Général > Sauvegarder &amp; m
     <string name="prompt_before_transmission_message4_title">Restez connecté tout au long du transfert</string>
     <string name="prompt_before_transmission_message5_summary">"Le transfert de grandes quantités de données sans fil peut provoquer une légère surchauffe qui n'est pas anormale. Votre appareil refroidira peu de temps après la fin du transfert."</string>
     <string name="prompt_before_transmission_message5_title">Votre appareil peut chauffer pendant les transferts.</string>
-    <string name="provision_cta_title">"Transfert depuis l'ancien appareil"</string>
     <string name="provision_receiver_finish_button">Suivant</string>
-    <string name="provision_select_data_null">Sélectionnez les éléments à transférer</string>
     <string name="qq_app_receive_fail">Impossible de recevoir QQ</string>
     <string name="qq_app_send_fail">"Impossible d'envoyer QQ"</string>
     <string name="qq_data_external">Données carte SD QQ</string>
@@ -521,8 +510,6 @@ Ouvrez WeChat et accédez à Moi > Paramètres > Général > Sauvegarder &amp; m
     <string name="receiver_finish_detail_fail">Transfert impossible</string>
     <string name="receiver_finish_detail_success">Éléments transférés</string>
     <string name="receiver_finish_title">Vous êtes prêt !</string>
-    <string name="receiver_video_summary">Déverrouillez votre ancien appareil, appuyez sur \"Transférer\" et scannez cette image</string>
-    <string name="receiver_video_title">"Transférer depuis l'ancien appareil"</string>
     <string name="reconnect">Reconnecter</string>
     <string name="recreate_soft_ap_tips">Appuyez sur le bouton ci-dessous pour réessayer.</string>
     <string name="request_all_permission_content">"Mi Mover doit accéder aux éléments suivants pour pouvoir transférer des éléments vers un nouvel appareil :
@@ -584,8 +571,6 @@ Libérez au moins %s."</string>
     <string name="sender">Envoyer</string>
     <string name="sender_finish_bottom_tips">"Assurez-vous d'avoir sauvegardé tous les éléments importants avant d'effacer les données sur cet appareil."</string>
     <string name="sender_finish_title">Transféré avec succès</string>
-    <string name="sender_scanning_code">"Placer l'image dans le cadre"</string>
-    <string name="sender_scanning_connecting">Connexion avec un nouvel appareil…</string>
     <string name="settings_phone">Paramètres téléphone</string>
     <string name="settings_powerkeeper">Données podomètre</string>
     <string name="settings_sms">Paramètres des messages</string>
@@ -597,7 +582,6 @@ Libérez au moins %s."</string>
     <string name="size_mega_byte">" Mo"</string>
     <string name="size_peta_byte">" Po"</string>
     <string name="size_tera_byte">" To"</string>
-    <string name="skip_transfer">Ignorer</string>
     <string name="skip_underline">Passer cette étape</string>
     <string name="sms">SMS</string>
     <string name="soft_ap_create_failed">Impossible de créer le hotspot</string>

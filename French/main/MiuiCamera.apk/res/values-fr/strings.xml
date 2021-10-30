@@ -374,6 +374,8 @@ et ajustez les préférences automatiquement"</string>
   <string name="beauty_makeups_solid">Contour</string>
   <string name="beauty_makeups_toughman">Bronze</string>
   <string name="beauty_mode_reset_toast">Effet de remodelage effacé avec succès</string>
+  <string name="beauty_ne">Original</string>
+  <string name="beauty_no_t">Embellissement désactivé</string>
   <string name="beauty_origin_skincolor">Original</string>
   <string name="beauty_reset">Réinitialiser</string>
   <string name="beauty_reset_toast">Réinitialiser les effets beauté avec succès</string>
@@ -403,6 +405,11 @@ et ajustez les préférences automatiquement"</string>
   <string name="camera_liveshot_off_tip">Désactiver les prises dynamiques</string>
   <string name="camera_liveshot_on_tip">Prise dynamiques</string>
   <string name="camera_mode_options">Modes</string>
+  <string name="camera_newcta_audio_message">Pour enregistrer des vidéos avec son</string>
+  <string name="camera_newcta_camera_message">Pour prendre des photos et enregistrer des vidéos</string>
+  <string name="camera_newcta_message">"Bienvenue Appareil photo ! Vous pouvez utiliser cette application pour prendre des photos et enregistrer des vidéos."</string>
+  <string name="camera_newcta_other_message">"Pour vous fournir des services supplémentaires pendant que vous utilisez l'application, nous pourrions avoir besoin des autorisations pour accéder à votre position."</string>
+  <string name="camera_newcta_storage_message">Pour enregistrer et afficher des photos et des vidéos</string>
   <string name="camera_setting">Appareil photo</string>
   <string name="camera_settings_category_development">Caractéristiques expérimentales</string>
   <string name="camera_settings_label">Appareil photo</string>
@@ -607,6 +614,8 @@ Scannez des documents en un clic"</string>
   <string name="download_cancel_hint">Annuler le téléchargement %1$s ?</string>
   <string name="download_confirm">Télécharger</string>
   <string name="download_hint">%1$s Mo des données mobiles seront utilisées pour télécharger des éléments. Télécharger quand même ?</string>
+  <string name="download_hint_cn">"Il semble que votre appareil ne soit pas connecté au Wi-Fi. Utiliser %1$s Mo de données mobiles pour télécharger des éléments maintenant ?"</string>
+  <string name="download_hint_wifi">"Il semble que votre appareil ne soit pas connecté au Wi-Fi. Utiliser %1$s Mo de données mobiles pour télécharger des éléments maintenant ?"</string>
   <string name="download_in_progress">Téléchargement…</string>
   <string name="download_title">Avertissement utilisation des données</string>
   <string name="draco_module_name_pixel">108 MPX</string>
@@ -711,6 +720,7 @@ Scannez des documents en un clic"</string>
   <string name="friday">Vendredi</string>
   <string name="friday_short">Ven</string>
   <string name="friday_shortest">Ven</string>
+  <string name="fromkeyguard_not_permission">"Pour pouvoir utiliser cette fonctionnalité, déverrouillez d'abord votre appareil."</string>
   <string name="front_camera_hint_text_place">"Prendre des selfies sera plus facile
 si vous faites pivoter votre téléphone"</string>
   <string name="front_camera_hint_text_rotate">Faire pivoter votre téléphone</string>
@@ -811,6 +821,7 @@ en mode portrait"</string>
   <string name="live_workspace_title">Brouillons</string>
   <string name="live_workspace_title_edit">Sélectionnez les éléments à supprimer</string>
   <string name="location_access_allow">Accepter</string>
+  <string name="location_fromkeyguard_not_permission">"Appareil photo n'est pas autorisé à accéder à votre position pour le moment. Déverrouillez d'abord votre appareil."</string>
   <string name="location_permission_des">Mémoriser les emplacements pour les photos et les vidéos</string>
   <string name="location_permission_not_ask_again">"Autoriser l'appareil photo à accéder à votre position dans les paramètres."</string>
   <string name="location_permission_not_ask_again_go_to_settings">Autoriser</string>
@@ -819,6 +830,19 @@ en mode portrait"</string>
   <string name="lpl_dialog_item_name_burst">Gardez appuyé pour prendre des photos en rafale</string>
   <string name="lpl_dialog_item_name_record">Gardez appuyé pour enregistrer une vidéo</string>
   <string name="lpl_dialog_title">Sélectionnez la fonction pour le diaphragme</string>
+  <string name="lunch_audio_permission_des">Pour enregistrer des vidéos avec son</string>
+  <string name="lunch_audio_permission_not_ask_again">"Autorisez cette application à enregistrer de l'audio pour pouvoir utiliser cette fonctionnalité."</string>
+  <string name="lunch_camera_audio_permission_not_ask_again">"Autorisez cette application à utiliser le capteur photo et à enregistrer l'audio pour pouvoir utiliser cette fonctionnalité."</string>
+  <string name="lunch_camera_permission_des">Pour prendre des photos et enregistrer des vidéos</string>
+  <string name="lunch_camera_permission_not_ask_again">Autorisez cette application à utiliser le capteur photo pour pouvoir utiliser cette fonctionnalité.</string>
+  <string name="lunch_camera_storge_permission_not_ask_again">Autorisez cette application à utiliser le capteur photo et à accéder au stockage pour pouvoir utiliser cette fonctionnalité.</string>
+  <string name="lunch_dialog_setting">Paramètres</string>
+  <string name="lunch_fromkeyguard_not_permission">"Appareil photo n'est pas autorisé à effectuer cette action pour le moment. Déverrouillez d'abord votre appareil."</string>
+  <string name="lunch_fromkeyguard_not_permission_dialog_ok">Compris</string>
+  <string name="lunch_permission_not_ask_again">"Autorisez cette application à utiliser le capteur photo, à accéder au stockage et à enregistrer l'audio pour pouvoir utiliser cette fonctionnalité."</string>
+  <string name="lunch_storge_audio_permission_not_ask_again">"Autorisez cette application à accéder au stockage et à enregistrer l'audio pour pouvoir utiliser cette fonctionnalité."</string>
+  <string name="lunch_storge_permission_des">Pour enregistrer et afficher des photos et des vidéos</string>
+  <string name="lunch_storge_permission_not_ask_again">Autorisez cette application à accéder au stockage pour pouvoir utiliser cette fonctionnalité.</string>
   <string name="lying_direct_hint">Orientation actuelle</string>
   <string name="macro_mode">Macro</string>
   <string name="macro_mode_tip">"La distance entre la lentille et l'objet ne doit pas dépasser 10 cm"</string>
@@ -834,6 +858,7 @@ regarder plus grand sur les photos"</string>
   <string name="makeup_reset_toast">Effet de maquillage effacé avec succès</string>
   <string name="manual_picture_style">Paramètres</string>
   <string name="manually_raw_hint">RAW</string>
+  <string name="manually_raw_tip">"Impossible d'utiliser le zoom avec le format RAW"</string>
   <string name="masterfilter_description_title">Filtres de film</string>
   <string name="message_snap_double_confirm">Un appui long sur le bouton de volume déclenche le NFC. Remplacer cette fonctionnalité ?</string>
   <string name="midnight">Nuit</string>
@@ -973,6 +998,11 @@ regarder plus grand sur les photos"</string>
   <string name="mode_edit_cancel">Annuler</string>
   <string name="mode_edit_exit">Quitter</string>
   <string name="mode_edit_exit_message">Toutes les modifications seront perdues si vous quittez maintenant. Quitter quand même ?</string>
+  <string name="mode_edit_hold_on">Élément collecté</string>
+  <string name="mode_edit_moved">Mis dans la ligne %1$d, position %2$d</string>
+  <string name="mode_edit_moving">Déplacé dans la ligne %1$d, position %2$d</string>
+  <string name="mode_edit_photo_disable">Prise de photos interrompue</string>
+  <string name="mode_edit_video_disable">Prise de vidéos interrompue</string>
   <string name="module_name_beauty">Beauté</string>
   <string name="module_name_capture">Photo</string>
   <string name="module_name_clone">Cloner</string>
@@ -1168,6 +1198,8 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_audio_focus_entry_general">Normal</string>
   <string name="pref_audio_focus_entry_rear">Arrière</string>
   <string name="pref_audio_focus_title">Focus audio</string>
+  <string name="pref_auto_boot">Démarrage automatique</string>
+  <string name="pref_auto_boot_summary">"Rendez la caméra plus réactive en lui permettant de démarrer automatiquement. Vous pouvez gérer les autorisations de démarrage automatique dans les détails de l'application."</string>
   <string name="pref_burst_shoot_title">Prise en rafale</string>
   <string name="pref_camcorder_settings">Vidéo</string>
   <string name="pref_camcorder_settings_category">"Paramètres de l'appareil photo"</string>
@@ -1278,7 +1310,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_camera_hdr_entry_normal">Pro</string>
   <string name="pref_camera_hdr_entry_off">Désactivé</string>
   <string name="pref_camera_heic_image_format_description">"Les photos au format High Efficiency Image File (HEIF) occupent moins d'espace disque, mais ne sont pas prises en charge par certaines applications"</string>
-  <string name="pref_camera_heic_image_format_description2">"Le format High Efficiency Image File permet d'économiser de l'espace disque, mais n'est pas pris en charge par certaines applications. Vous ne pouvez pas prendre de photos animées ni enlever les filigranes en HEIF"</string>
+  <string name="pref_camera_heic_image_format_description2">"Le format High Efficiency Image File permet d'économiser de l'espace disque, mais n'est pas pris en charge par certaines applications. Vous ne pouvez pas prendre de photos dynamiques ni enlever les filigranes en HEIF"</string>
   <string name="pref_camera_heic_image_format_title">Format HEIC</string>
   <string name="pref_camera_hfr_entry_off">Désactivé</string>
   <string name="pref_camera_high_quality_preferred_description">"Améliorez la qualité d'image à l'aide de l'algorithme intelligent. La vitesse de capture d'image peut diminuer lorsque cette fonction est activée. Le mode nuit sera automatiquement activé lorsque des conditions de faible éclairage sont détectées."</string>
@@ -1466,7 +1498,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="pref_google_lens_summary">"Pointez l'appareil photo sur les informations de contact, les URL et les QR codes pour afficher les options disponibles."</string>
   <string name="pref_google_lens_title">Suggestion Lens</string>
   <string name="pref_groupshot_with_primitive_title">"Enregistrer les photos d'origine également"</string>
-  <string name="pref_hdr10_hdr10plus_video_mode_description">Optimisez les couleurs pour les vidéos 4K (HDR10+) et 8K (HDR10). Cette fonction ne fonctionne que sur les appareils compatibles HDR10+/HDR10.</string>
+  <string name="pref_hdr10_hdr10plus_video_mode_description">Enregistrez des vidéos haute définition en HDR10+/HDR10 pour optimiser les couleurs et la plage dynamique. Les vidéos enregistrées ne peuvent être lues que sur des appareils compatibles HDR10+/HDR10.</string>
   <string name="pref_hdr10_video_mode_description">Optimisez automatiquement les couleurs et le contraste pour les vidéos 4K et 8K. Les vidéos optimisées ne peuvent être lues que sur des appareils compatibles HDR10.</string>
   <string name="pref_hdr10_video_mode_title">HDR 10</string>
   <string name="pref_hdr10plus_video_mode_description">Optimise les couleurs et ajuste le contraste pour les vidéos 4K et 8K. Cette fonction ne fonctionne que sur les appareils compatibles HDR10 +.</string>
@@ -1572,8 +1604,10 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
   <string name="prek_b_j_p">"Réduit l'impact du vent sur l'enregistrement sonore"</string>
   <string name="prep_video_ai_audio_new_desc_tip">Les sons du sujet visé sont améliorés</string>
   <string name="prep_video_ai_audio_new_desc_tip_alone">Les sons du sujet visé sont améliorés en mode paysage</string>
+  <string name="prep_video_ai_audio_new_mutex_tip">"Impossible d'utiliser le zoom audio maintenant"</string>
   <string name="prep_video_ai_audio_single_desc_tip">"Les sons de l'arrière de l'écran sont filtrés"</string>
   <string name="prep_video_ai_audio_single_desc_tip_alone">"Les sons de l'arrière de l'écran sont filtrés en mode paysage"</string>
+  <string name="prep_video_ai_audio_single_mutex_tip">"Impossible d'enregistrer le son frontal maintenant"</string>
   <string name="prep_video_ai_audio_unsupported_headset_desc_tips">"Le zoom audio ne fonctionne pas avec un moniteur intra-auriculaire en direct et le micro externe"</string>
   <string name="preparing_sd">Vérification carte SD…</string>
   <string name="preview_back_pressed_hint">"Appuyez à nouveau pour revenir à l'aperçu"</string>
