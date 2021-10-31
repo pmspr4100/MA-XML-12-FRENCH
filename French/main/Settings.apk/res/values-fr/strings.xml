@@ -28,7 +28,7 @@
     <string name="abc_menu_meta_shortcut_label">Méta+</string>
     <string name="abc_menu_shift_shortcut_label">Maj+</string>
     <string name="abc_menu_space_shortcut_label">espace</string>
-    <string name="abc_search_hint">Rechercher…</string>
+    <string name="abc_search_hint">Recherche…</string>
     <string name="abc_searchview_description_clear">Effacer la requête</string>
     <string name="abc_searchview_description_query">Requête de recherche</string>
     <string name="abc_searchview_description_search">Rechercher</string>
@@ -513,7 +513,7 @@ Pour basculer entre les services, balayez vers le haut avec deux doigts et maint
     <string name="ai_settings_long_click_category">Appuyer et maintenir le bouton IA</string>
     <string name="ai_settings_long_click_title">Appuyer et maintenir</string>
     <string name="ai_settings_single_press_des">"Appuyer sur le bouton IA pour parler à l'assistant Google, puis relâcher pour avoir la réponse."</string>
-    <string name="airplane_mode">Mode avion</string>
+    <string name="airplane_mode">Mode Avion</string>
     <string name="airplane_mode_summary">"Activez pour déconnecter votre appareil des réseaux mobiles. Vous ne pourrez pas passer d'appels, envoyer et recevoir des SMS, ni utiliser les données mobiles lorsque cette fonctionnalité est activée."</string>
     <string name="alarm_ringtone_title">"Son de l'alarme par défaut"</string>
     <string name="alarm_sound_dialog_title">"Choisir le son de l'alarme"</string>
@@ -1123,7 +1123,7 @@ Les sauvegardes sont stockées dans le Cloud Xiaomi et sont accessibles avec un 
     <string name="battery_sugg_bluetooth_basic">"Désactivez Bluetooth lorsque vous ne l'utilisez pas."</string>
     <string name="battery_sugg_bluetooth_headset">Essayez de vous connecter à un autre périphérique Bluetooth.</string>
     <string name="battery_sugg_display">"Réduire la luminosité et/ou le délai de mise en veille de l'écran"</string>
-    <string name="battery_sugg_radio">Passez en mode avion pour économiser la batterie dans les zones sans couverture mobile.</string>
+    <string name="battery_sugg_radio">Passez en mode Avion pour économiser la batterie dans les zones sans couverture mobile.</string>
     <string name="battery_sugg_wifi">"Désactivez le Wi-Fi lorsque vous ne l'utilisez pas ou lorsqu'il n'est pas disponible"</string>
     <string name="battery_suggestion_title">"Améliorer l'autonomie de batterie du téléphone"</string>
     <string name="battery_summary">Utilisation depuis la dernière charge complète : %1$s</string>
@@ -1975,8 +1975,8 @@ Si vous installez un certificat CA, le propriétaire du certificat peut accéder
     <string name="computer_backup_summary">"Sauvegarder et restaurer des éléments à l'aide d'un ordinateur"</string>
     <string name="computer_backup_title">Ordinateur</string>
     <string name="computing_size">Traitement…</string>
-    <string name="condition_airplane_summary">Lorsque le mode avion est activé, le Wi-Fi, le Bluetooth et le réseau mobile sont désactivés. Vous pouvez toutefois réactiver le Wi-Fi et le Bluetooth.</string>
-    <string name="condition_airplane_title">Le mode avion est activé</string>
+    <string name="condition_airplane_summary">Lorsque le mode Avion est activé, le Wi-Fi, le Bluetooth et le réseau mobile sont désactivés. Vous pouvez toutefois réactiver le Wi-Fi et le Bluetooth.</string>
+    <string name="condition_airplane_title">Le mode Avion est activé</string>
     <string name="condition_battery_summary">"L'économiseur de batterie désactive certaines fonctionnalités de l'appareil et limite les applications"</string>
     <string name="condition_battery_title">Économiseur de batterie activé</string>
     <string name="condition_bg_data_summary">"Les données en arrière-plan ne sont disponibles que via le Wi-Fi. Cela peut affecter certaines applications ou certains services lorsque le Wi-Fi n'est pas accessible."</string>
@@ -3898,7 +3898,7 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
     <string name="keyguard_security_setting_privacy_policy">Politique de confidentialité</string>
     <string name="keywords_accounts">compte</string>
     <string name="keywords_add_an_account">profil professionnel</string>
-    <string name="keywords_airplane">Avion;Mode avion;Aéroplane;Mode aéroplane;Vol;Mode vol</string>
+    <string name="keywords_airplane">Avion;Mode Avion;Aéroplane;Mode aéroplane;Vol;Mode vol</string>
     <string name="keywords_all_apps">applis, télécharger, applications, système</string>
     <string name="keywords_ambient_display">notification reçue</string>
     <string name="keywords_ambient_display_screen">"affichage en mode veille, affichage de l'écran de verrouillage"</string>
@@ -4844,7 +4844,7 @@ en utilisant vos données faciales. Continuez pour accéder
     <string name="mobile_data_active">Données cellualires actives</string>
     <string name="mobile_data_always_on">Données mobiles toujours actives</string>
     <string name="mobile_data_always_on_summary">"Maintenir les données mobiles à l'état actif, même lorsque le Wi-Fi est actif (pour changer rapidement de réseau)"</string>
-    <string name="mobile_data_ap_mode_disabled">Non disponible en mode avion</string>
+    <string name="mobile_data_ap_mode_disabled">Non disponible en mode Avion</string>
     <string name="mobile_data_off">Données cellualires désactivées</string>
     <string name="mobile_data_settings_summary">Accéder aux données via le réseau mobile</string>
     <string name="mobile_data_settings_summary_auto_switch">"Le téléphone bascule automatiquement sur cet opérateur lorsqu'il est à portée"</string>
@@ -6137,7 +6137,7 @@ Lisez et acceptez %s avant d'utiliser ce service."</string>
     <string name="quiet_important_interruptions_mode">Autoriser seulement les exceptions</string>
     <string name="quiet_no_interruptions_mode">Mettre en silencieux toutes les alertes</string>
     <string name="quiet_off_mode">Toujours autoriser toutes les alertes</string>
-    <string name="radio_controls_summary">Gérer le Wi-Fi, Bluetooth, Mode avion, Réseaux mobiles, et VPN</string>
+    <string name="radio_controls_summary">Gérer le Wi-Fi, Bluetooth, Mode Avion, Réseaux mobiles, et VPN</string>
     <string name="radio_controls_title">Paramètres additionnels</string>
     <string name="radio_info_asdiv_switch_label">État ASDiv :</string>
     <string name="radio_info_band_mode_label">Sélectionner une bande radio</string>
@@ -6664,7 +6664,7 @@ Pour utiliser l'épinglage d'application : \u0009
     <string name="search_account_list">Autres comptes;Compte;Comptes</string>
     <string name="search_add_facerecoginition_text">Déverrouillage faciale;reconnaissance faciale</string>
     <string name="search_advanced_settings">Paramètres additionnels;Wi-Fi;Paramètres Wi-Fi;Paramètres Wi-Fi</string>
-    <string name="search_airplane_mode">Mode avion;Mode aéroplane;Mode Vol;Avion;Aéroplane;Vol</string>
+    <string name="search_airplane_mode">Mode Avion;Mode aéroplane;Mode Vol;Avion;Aéroplane;Vol</string>
     <string name="search_alarm_sound_title">"Son alarme;sonnerie d'alarme;alarme"</string>
     <string name="search_ambient_display_screen_title">Affichage ambiant;Always-on display;Always on display</string>
     <string name="search_android_beam_settings_title">NFC;Android Beam;Beam</string>
@@ -9170,7 +9170,7 @@ Configurer un réseau masqué n'affectera pas les paramètres de votre routeur."
     <string name="wifi_hotspot_switch_on_text">On</string>
     <string name="wifi_hotspot_tethering_on_subtext">"Connexion internet de ce téléphone partagée via un point d'accès"</string>
     <string name="wifi_hotspot_title">"Se connecter au point d'accès pour la connexion ?"</string>
-    <string name="wifi_in_airplane_mode">En mode avion</string>
+    <string name="wifi_in_airplane_mode">En mode Avion</string>
     <string name="wifi_info_reconnect">Impossible de se connecter, veuillez réessayer.</string>
     <string name="wifi_install_credentials">Installation de certificats</string>
     <string name="wifi_ip_address">Adresse IP</string>
@@ -9231,7 +9231,7 @@ Configurer un réseau masqué n'affectera pas les paramètres de votre routeur."
     <string name="wifi_notify_open_networks_summary">"M'avertir lorsqu'un réseau public de haute qualité est disponible"</string>
     <string name="wifi_off_airplane_on_cancel">Annuler</string>
     <string name="wifi_off_airplane_on_confirm">OK</string>
-    <string name="wifi_off_airplane_on_content">Vous pouvez activer le Wi-Fi manuellement quand le mode avion est activé.</string>
+    <string name="wifi_off_airplane_on_content">Vous pouvez activer le Wi-Fi manuellement quand le mode Avion est activé.</string>
     <string name="wifi_off_airplane_on_not_remind">Ne plus afficher</string>
     <string name="wifi_off_airplane_on_title">Attention</string>
     <string name="wifi_on_time">Temps de fonctionnement du Wi-Fi</string>
@@ -9450,7 +9450,7 @@ Toucher "Toucher </string>
     <string name="wifi_tether_configure_ap_text">"Configurer le point d'accès"</string>
     <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
     <string name="wifi_tether_configure_subtext">Nom : %1$s | Sécurité : %2$s</string>
-    <string name="wifi_tether_disabled_by_airplane">Indisponible, car le mode avion est activé</string>
+    <string name="wifi_tether_disabled_by_airplane">Indisponible, car le mode Avion est activé</string>
     <string name="wifi_tether_enabled_subtext">%1$s est actif</string>
     <string name="wifi_tether_enabled_summary">%1$s est actif</string>
     <string name="wifi_tether_failed_subtext">Erreur sur le partage de connexion</string>

@@ -52,7 +52,7 @@
     <string name="abc_menu_space_shortcut_label">espace</string>
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">Menu+</string>
-    <string name="abc_search_hint">Rechercher…</string>
+    <string name="abc_search_hint">Recherche…</string>
     <string name="abc_searchview_description_clear">Effacer la requête</string>
     <string name="abc_searchview_description_query">Requête de recherche</string>
     <string name="abc_searchview_description_search">Rechercher</string>
@@ -713,7 +713,7 @@ Vous ne perdrez aucune donnée d'application."</string>
     <string name="auto_task_edit_condition_summary">Par exemple, \"À %s\"</string>
     <string name="auto_task_edit_condition_title">Ajouter une condition</string>
     <string name="auto_task_edit_my_custom_task">Nom</string>
-    <string name="auto_task_edit_operation_summary">Par exemple, \"Activer le mode avion\"</string>
+    <string name="auto_task_edit_operation_summary">Par exemple, \"Activer le mode Avion\"</string>
     <string name="auto_task_edit_task_name">Nom</string>
     <string name="auto_task_exit_finish">Tâche terminée automatiquement</string>
     <string name="auto_task_font_setting_weight_toast">"Impossible d'ajuster la graisse de cette police"</string>
@@ -750,7 +750,7 @@ Vous ne perdrez aucune donnée d'application."</string>
     <string name="auto_task_open_app">Ouvrir %s</string>
     <string name="auto_task_open_bluetooth">Activer le Bluetooth</string>
     <string name="auto_task_open_wlan">Activer le Wi-Fi</string>
-    <string name="auto_task_operation_airplane_mode">Mode avion</string>
+    <string name="auto_task_operation_airplane_mode">Mode Avion</string>
     <string name="auto_task_operation_auto_brightness">Luminosité auto</string>
     <string name="auto_task_operation_bluetooth">Bluetooth</string>
     <string name="auto_task_operation_brightness">"Luminosité de l'écran"</string>
@@ -1142,7 +1142,7 @@ Votre opérateur peut vous facturer des frais supplémentaires si vous activer l
     <string name="default_condition_summary">Par exemple : \"La batterie est inférieure à %s\"</string>
     <string name="default_condition_title">Ajouter une condition</string>
     <string name="default_condition_title_continue">Ajouter une condition</string>
-    <string name="default_result_summary">Par exemple : \"Désactiver le Mode avion\"</string>
+    <string name="default_result_summary">Par exemple : \"Désactiver le mode Avion\"</string>
     <string name="default_result_title">Ajouter un résultat</string>
     <string name="default_result_title_continue">Ajouter un résultat</string>
     <string name="delete">Supprimer</string>
@@ -1188,7 +1188,7 @@ Toutes les données sur votre appareil peuvent être supprimées et le mot de pa
     <string name="dialog_title_attention">Attention</string>
     <string name="dialog_title_auto_start_declare">À propos du démarrage auto</string>
     <string name="dialog_title_stop_virus_scan">"Arrêter l'analyse de sécurité"</string>
-    <string name="disable_air_mode">"Désactivez le mode avion d'abord"</string>
+    <string name="disable_air_mode">"Désactivez le mode Avion d'abord"</string>
     <string name="disable_sensitive_permissions">Autorisations sensibles restreintes</string>
     <string name="disable_sensitive_permissions_detail">Votre clavier ne pourra pas utiliser les autorisations liées à la confidentialité (par exemple, accéder aux contacts ou aux informations de localisation).</string>
     <string name="dlg_add_blacklist">Bloquer ce numéro ?</string>
@@ -1556,7 +1556,7 @@ des tremblements de terre"</string>
     <string name="firewall_wifi_dialog_message">"L'application installée ne sera plus en mesure de se connecter à internet via Wi-Fi lorsque cet interrupteur est désactivé."</string>
     <string name="first_aid_activity_title">Résoudre des problèmes</string>
     <string name="first_aid_card_airplane_button">Désactiver</string>
-    <string name="first_aid_card_airplane_summary">Désactivez le mode avion pour pouvoir passer des appels et vous connecter au réseau</string>
+    <string name="first_aid_card_airplane_summary">Désactivez le mode Avion pour pouvoir passer des appels et vous connecter au réseau</string>
     <string name="first_aid_card_airplane_title">Impossible de passer des appels ou de se connecter au réseau</string>
     <string name="first_aid_card_consume_power_button1">Restreindre</string>
     <string name="first_aid_card_consume_power_button2">Désactiver</string>
@@ -3118,7 +3118,7 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
     <string name="power_idle">Téléphone en veille</string>
     <string name="power_main_battery_last_day_hour">%1$s j %2$s h restantes</string>
     <string name="power_main_battery_last_hour_minute">%1$s h %2$s m restantes</string>
-    <string name="power_mode_airplane_mode">Mode avion</string>
+    <string name="power_mode_airplane_mode">Mode Avion</string>
     <string name="power_mode_auto_clean_memery_lock_screen">Après %1$d mins</string>
     <string name="power_mode_auto_clean_memory">Nettoyer la mémoire</string>
     <string name="power_mode_auto_clean_memory_in_five_minutes">Après 5 minutes</string>
@@ -4509,7 +4509,7 @@ Le formatage effacera le contenu existant sur le ^2. Pour éviter de perdre du c
     <string name="tab_sms">Messages</string>
     <string name="tab_sort_all">Tout</string>
     <string name="tab_title">Liste noire</string>
-    <string name="task_summary_close_airplane">Désactiver le Mode avion</string>
+    <string name="task_summary_close_airplane">Désactiver le mode Avion</string>
     <string name="task_summary_close_auto_brightness">Désactiver la luminosité automatique</string>
     <string name="task_summary_close_bluetooth">Désactiver le Bluetooth</string>
     <string name="task_summary_close_dark_mode">Désactiver le Mode sombre</string>
@@ -4528,7 +4528,7 @@ Le formatage effacera le contenu existant sur le ^2. Pour éviter de perdre du c
     <string name="task_summary_close_system_touch">Désactiver le retour haptique</string>
     <string name="task_summary_close_wlan">Désactiver le Wi-Fi</string>
     <string name="task_summary_close_zen_mode">Désactiver le mode NPD</string>
-    <string name="task_summary_open_airplane">Activer le Mode avion</string>
+    <string name="task_summary_open_airplane">Activer le mode Avion</string>
     <string name="task_summary_open_auto_brightness">Activer la luminosité automatique</string>
     <string name="task_summary_open_bluetooth">Activer le Bluetooth</string>
     <string name="task_summary_open_dark_mode">Activer le Mode sombre</string>
@@ -4778,7 +4778,7 @@ Le formatage effacera le contenu existant sur le ^2. Pour éviter de perdre du c
     <string name="title_restrict_data_usage">%s ne peut pas se connecter à internet ?</string>
     <string name="title_result_absorbed">Mode concentration</string>
     <string name="title_result_adjust_volume">Volume</string>
-    <string name="title_result_airplan">Mode avion</string>
+    <string name="title_result_airplan">Mode Avion</string>
     <string name="title_result_bluetooth">Bluetooth</string>
     <string name="title_result_brightness">Luminosité automatique</string>
     <string name="title_result_dark">Mode sombre</string>
