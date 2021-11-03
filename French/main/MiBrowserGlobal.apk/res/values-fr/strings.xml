@@ -382,6 +382,9 @@ Désactivez pour arrêter la synchronisation."</string>
     <string name="copy">Copier</string>
     <string name="copy_url">"Copier l'URL"</string>
     <string name="could_not_load_data">"Impossible de charger les données, actualisez et réessayez"</string>
+    <string name="crash_page_button">Réessayer</string>
+    <string name="crash_page_description">"Une erreur s'est produite lors de l'affichage de cette page web."</string>
+    <string name="crash_page_title">Oh zut !</string>
     <string name="create_qr_code">QR code</string>
     <string name="current_version_pad">Tablette</string>
     <string name="current_version_pc">PC fixe</string>
@@ -392,13 +395,15 @@ Désactivez pour arrêter la synchronisation."</string>
 Les pages que vous consultez n'apparaîtront pas dans l'historique."</string>
     <string name="custom_page_guide_content">Les signets, les paramètres et les outils sont ici !</string>
     <string name="dark_mode">Mode sombre</string>
-    <string name="data_error">Erreur de donnée</string>
+    <string name="data_error">Erreur de données</string>
     <string name="data_format_ymd">dd/MM/yyyy</string>
     <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
     <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>
-    <string name="debug_youtube_file">Debug youtube file</string>
-    <string name="debug_youtube_in_release">Debug youtube in release</string>
+    <string name="debug_crash">"Activer le débogage en cas d'incident"</string>
+    <string name="debug_youtube_file">Déboguer le fichier YouTube</string>
+    <string name="debug_youtube_in_release">Déboguer YouTube dans la version</string>
     <string name="delete">Supprimer</string>
+    <string name="delete_bookmark">Supprimer</string>
     <string name="delete_bookmark">Supprimer</string>
     <string name="delete_bookmark_group_warning">Supprimer \"%s\" ? Tous les favoris de ce groupe seront supprimés.</string>
     <string name="delete_bookmark_warning">Supprimer le favori \"%s\" ?</string>

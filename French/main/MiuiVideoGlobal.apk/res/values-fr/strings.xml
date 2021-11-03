@@ -103,6 +103,8 @@
   <string name="background_playback_enabled">La lecture en arrière-plan est activée</string>
   <string name="before_yestoday">Il y a 2 jours</string>
   <string name="bind_sign_in_title">Ajouter un Compte Mi</string>
+  <string name="box_title_gallery">Boîte à outils vidéo</string>
+  <string name="box_title_mivideo">Fonctionnalités supplémentaires</string>
   <string name="brvah_app_name">Médiathèque</string>
   <string name="cancel">Annuler</string>
   <string name="cancel_choose">Désélectionner</string>
@@ -158,6 +160,7 @@
   <string name="choose_to_signup">"Non, j'en créerai un"</string>
   <string name="clearable_edittext_clear_description">Effacer</string>
   <string name="click_to_open_pip">Appuyez pour basculer en écran partagé</string>
+  <string name="click_to_play_video_push_context">Appuyez pour lire la vidéo</string>
   <string name="click_to_reload_more">Appuyer pour charger plus</string>
   <string name="click_to_retry">Veuillez réessayer</string>
   <string name="close">Fermer</string>
@@ -267,8 +270,15 @@ Envoyez ce code au superviseur."</string>
   <string name="dialog_app_comment_select_feedback">Pourriez-vous également nous donner votre avis ?</string>
   <string name="dialog_app_comment_select_praise">Super ! Noter également Mi Vidéo dans Play Store ?</string>
   <string name="dialog_app_comment_title">Évaluez notre application</string>
+  <string name="dialog_bookmark_add">Ajouter</string>
+  <string name="dialog_bookmark_cancel">Annuler</string>
   <string name="dialog_disagree_privacychange_info">"Vous ne pourrez pas utiliser les services de streaming en ligne Mi Vidéo si vous n'acceptez pas notre Politique de confidentialité. Appuyez sur \"Annuler\" pour revenir en arrière ou sur \"Refuser\" pour continuer et utiliser Mi Vidéo comme lecteur local uniquement."</string>
   <string name="dialog_disagree_privacychange_title">"Refuser ?"</string>
+  <string name="dialog_edit_hint_bookmarks_name">Nom du favori</string>
+  <string name="dialog_edit_hint_bookmarks_url">URL</string>
+  <string name="dialog_jumpto_choose">Ne plus afficher</string>
+  <string name="dialog_jumpto_content">Passer à Mi Vidéo pour accéder à des fonctionnalités de lecture supplémentaires ?</string>
+  <string name="dialog_jumpto_title">Mi Vidéo</string>
   <string name="dialog_privacy_change_info">"Nous avons mis à jour la Politique de confidentialité de Mi Vidéo en raison des ajustements dans les services que nous proposons. Pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez notre &lt;a href=%1$s>Contrat utilisateur&lt;/a> et notre &lt;a href=%2$s>Politique de confidentialité&lt;/a>, avant d'utiliser l'application."</string>
   <string name="dialog_privacy_change_title">Mise à jour Politique de confidentialité</string>
   <string name="dialog_privacy_info_new2">"Pour pouvoir utiliser ses services, vous devez accepter que %1$s collecte, traite et utilise vos informations personnelles. Nous considérons que vous avez lu et accepté notre &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a> lorsque vous appuyez sur \"Accepter\" ci-dessous."</string>
@@ -284,12 +294,16 @@ Envoyez ce code au superviseur."</string>
   <string name="dialog_privacy_title">Termes et conditions</string>
   <string name="dialog_revoke_privacy_info_new2">"Une fois l'autorisation révoquée, l'application cessera de collecter des données et toutes les données associées seront supprimées de nos serveurs. Cela pourrait rendre l'application pratiquement inutilisable. Révoquer l'autorisation de toute façon ?"</string>
   <string name="dialog_revoke_privacy_title">Révoquer une autorisation</string>
+  <string name="dialog_set_default_later">Non merci</string>
+  <string name="dialog_set_default_set">Définir</string>
+  <string name="dialog_set_default_text">Définir Mi Video comme lecteur vidéo par défaut ?</string>
   <string name="disagree">Refuser</string>
   <string name="diy_channels_tips">Vous pouvez désormais personnaliser la liste de vos chaînes.</string>
   <string name="do_not_show_again">Ne plus montrer</string>
   <string name="download">Télécharger</string>
   <string name="download_checking_tip">Préparation du téléchargement…</string>
   <string name="download_complete">Téléchargé</string>
+  <string name="download_completed_push_title">Téléchargement terminé</string>
   <string name="download_delete_tip">Supprimer les éléments sélectionnés ?</string>
   <string name="download_delete_title">Supprimer</string>
   <string name="download_guide_click_icon_to_website_or_enter_url">Appuyez sur un raccourci pour ouvrir un site Web ou entrez une URL</string>
@@ -507,6 +521,8 @@ Envoyez ce code au superviseur."</string>
   <string name="have_learned">Compris</string>
   <string name="hidden_channels">"Les chaînes suivantes ne s'afficheront pas sur la page d'accueil."</string>
   <string name="hide">Masquer</string>
+  <string name="hint_icon_ad_title">Recommandé</string>
+  <string name="hint_in_mivideo">Vous pouvez vérifier le panneau latéral pour des fonctionnalités supplémentaires maintenant</string>
   <string name="history">Historique</string>
   <string name="history_local_video">Locale</string>
   <string name="history_online_video">En ligne</string>
@@ -1429,6 +1445,13 @@ Il ne montre rien."</string>
   <string name="title_firework_recommend">Recommandations Firework</string>
   <string name="title_publisher">Créateurs</string>
   <string name="title_subscribe">Abonnements</string>
+  <string name="toast_bookmark_add_success">Favori ajouté</string>
+  <string name="toast_bookmark_already_created">Ce favo existe déjà</string>
+  <string name="toast_bookmark_input_name">Entrez le nom du favori</string>
+  <string name="toast_bookmark_input_url">"Entrez l'URL"</string>
+  <string name="toast_bookmark_success_to_add">Favori ajouté</string>
+  <string name="toast_bookmark_success_to_delete">Favori supprimé</string>
+  <string name="toast_bookmark_url_error">Entrez une adresse valide</string>
   <string name="toast_no_data">"Ce contenu n'est pas disponible pour le moment. Réessayez plus tard."</string>
   <string name="toast_request_too_frequently">Pas si vite !</string>
   <string name="toast_share_failed">Impossible de partager. Réessayez dans 1 à 2 minutes.</string>
@@ -1524,6 +1547,7 @@ Il ne montre rien."</string>
   <string name="vp_replay">Rejouer</string>
   <string name="vp_upcoming_auto_play">Autoplay</string>
   <string name="vp_upcoming_title">À suivre</string>
+  <string name="website_button_add_bookmarks">Ajouter un favori</string>
   <string name="wednesday">Mercredi</string>
   <string name="wednesday_short">Mer</string>
   <string name="wednesday_shortest">Mer</string>

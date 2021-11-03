@@ -248,37 +248,70 @@ If you need to manually open the Miracast function, you can press the [Menu] but
   <string name="notification_rc_title">XiaoMi TV Assistant</string>
   <string name="notification_show_more">Tap to view more features</string>
   <string name="open_game_accelerate">Turn on Game Turbo</string>
+  <string name="p2p_location_des">Pour connecter votre appareil mobile à des moniteurs externes</string>
+  <string name="path_setting_cast">Connexion &amp; partage/Diffusion</string>
+  <string name="path_setting_cast_demo">Connexion &amp; partage/Diffusion/Démos</string>
+  <string name="path_setting_cast_demo_document">Connexion &amp; partage/Diffusion/Démos/Documents</string>
+  <string name="path_setting_cast_demo_gallery">Connexion &amp; partage/Diffusion/Démos/Photos &amp; vidéos</string>
+  <string name="path_setting_cast_demo_game">Connexion &amp; partage/Diffusion/Démos/Jeux</string>
+  <string name="path_setting_cast_feature">Connexion &amp; partage/Diffusion/Particularités</string>
+  <string name="path_setting_cast_help">Connexion &amp; partage/Diffusion/Aide</string>
+  <string name="permission_allowed">Accordé</string>
+  <string name="permission_uballowed">Refusé</string>
+  <string name="pm">PM</string>
+  <string name="pre_privacy_setting_title">Vie privée</string>
   <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
-  <string name="privacy_agree">Agree</string>
-  <string name="privacy_detail"><Data>This app needs to connect to the internet and collect the required personal data to be able to work normally. To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>.</Data></string>
-  <string name="privacy_detail_extra"><Data>Some features are provided by a third party service provider HappyCast. Before using this feature, read and agree to &lt;a href=%1$s>HappyCast Privacy Policy&lt;/a> and &lt;a href=%2$s>HappyCast Legal Statement&lt;/a>.</Data></string>
-  <string name="privacy_explain">"Welcome to Casting! Casting allows projecting the items from your phone's screen on a bigger external monitor. This app needs to connect to the internet and requires the following permissions to be able to work normally:"</string>
-  <string name="privacy_negative">Exit</string>
-  <string name="privacy_permission_ble">Turning Bluetooth on and off</string>
-  <string name="privacy_permission_ble_desc">For finding available devices nearby</string>
-  <string name="privacy_permission_location">Accessing location</string>
-  <string name="privacy_permission_location_desc">For finding available devices nearby</string>
-  <string name="privacy_permission_necessary">Mandatory permissions</string>
-  <string name="privacy_permission_necessary_desc">These permissions are required to make the basic features and services of this app available.</string>
-  <string name="privacy_permission_nfc_desc">For pairing devices using NFC</string>
-  <string name="privacy_permission_optional">Optional permissions</string>
-  <string name="privacy_permission_optional_desc">"Used for additional features while you're using them"</string>
-  <string name="privacy_permission_wlan">Turning Wi-Fi on and off</string>
-  <string name="privacy_permission_wlan_china">Turning WLAN on and off</string>
-  <string name="privacy_permission_wlan_desc">For finding available devices nearby</string>
-  <string name="privacy_permission_wlan_desc_china">For finding available devices nearby</string>
-  <string name="privacy_positive">Agree</string>
-  <string name="privacy_text_1"><Data>"Welcome to Casting! Casting allows projecting the items from your phone's screen on a bigger external monitor.
-We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies. Some features are provided by a third party service provider HappyCast. Before using this feature, read and agree to &lt;a href=%2$s>HappyCast Legal Statement&lt;/a> and &lt;a href=%1$s>HappyCast Privacy Policy&lt;/a>.
-To be able to work normally, this app needs to connect to the internet and requires the following permissions in order to collect your personal information:"</Data></string>
-  <string name="privacy_text_2"><Data>"If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use this app. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.
-Read and agree to our &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> before using this feature."</Data></string>
-  <string name="privacy_text_pemission">"　　•Access and save images on your device in order to project these items on external monitors
-　　•Record calls and audio in order to cast audio on external devices
-　　•Access phone number, IMEI, and IMSI to identify your device
-　　•Access your location to find devices nearby"</string>
+  <string name="privacy_agree">Accepter</string>
+  <string name="privacy_detail"><Data>"Cette application doit se connecter à Internet et collecter les données personnelles nécessaires pour pouvoir fonctionner normalement. Pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez notre &lt;a href=%1$s>Contrat d'utilisation&lt;/a> et notre &lt;a href=%2$s>Politique de confidentialité&lt;/a>."</Data></string>
+  <string name="privacy_detail_extra"><Data>"Certaines fonctionnalités sont fournies par un fournisseur de services tiers HappyCast. Avant d'utiliser cette fonctionnalité, lisez et acceptez la &lt;a href=%1$s>Politique de confidentialité de HappyCast&lt;/a> et la &lt;a href=%2$s>Déclaration légale de HappyCast&lt;/a>."</Data></string>
+  <string name="privacy_explain">"Bienvenue dans Diffusion ! Diffusion permet de projeter les éléments de l'écran de votre téléphone sur un moniteur externe plus grand. Cette application doit se connecter à Internet et nécessite les autorisations suivantes pour pouvoir fonctionner normalement :"</string>
+  <string name="privacy_negative">Quitter</string>
+  <string name="privacy_permission_ble">Activer et désactiver le Bluetooth</string>
+  <string name="privacy_permission_ble_desc">Pour trouver des appareils disponibles à proximité</string>
+  <string name="privacy_permission_location">"Accéder à l'emplacement"</string>
+  <string name="privacy_permission_location_desc">Pour trouver des appareils disponibles à proximité</string>
+  <string name="privacy_permission_necessary">Autorisations obligatoires</string>
+  <string name="privacy_permission_necessary_desc">Ces autorisations sont nécessaires pour rendre disponibles les fonctionnalités et services de base de cette application.</string>
+  <string name="privacy_permission_nfc_desc">"Pour jumeler des appareils à l'aide du NFC"</string>
+  <string name="privacy_permission_optional">Autorisations facultatives</string>
+  <string name="privacy_permission_optional_desc">"Utilisé pour des fonctionnalités supplémentaires pendant que vous les utilisez"</string>
+  <string name="privacy_permission_wlan">Activer et désactiver le Wi-Fi</string>
+  <string name="privacy_permission_wlan_china">Activer et désactiver le WLAN</string>
+  <string name="privacy_permission_wlan_desc">Pour trouver des appareils disponibles à proximité</string>
+  <string name="privacy_permission_wlan_desc_china">Pour trouver des appareils disponibles à proximité</string>
+  <string name="privacy_positive">Accepter</string>
+  <string name="privacy_revoke_confirm_cancel">Annuler</string>
+  <string name="privacy_revoke_confirm_message">"Vous ne pourrez pas continuer à utiliser les fonctionnalités de diffusion à moins que vous ne nous autorisiez à fournir nos services sur la base de la collecte des informations personnelles nécessaires. Retirer quand même votre consentement à la politique de confidentialité de HappyCast ?"</string>
+  <string name="privacy_revoke_confirm_sure">OK</string>
+  <string name="privacy_revoke_confirm_title">"Impossible d'utiliser les services"</string>
+  <string name="privacy_revoke_dialog_agree">accepter</string>
+  <string name="privacy_revoke_dialog_message">"Si vous continuez, vous retirerez votre consentement à la Politique de confidentialité de HappyCast. Les informations personnelles déjà collectées et conservées seront supprimées dans le délai imparti conformément aux lois et réglementations applicables, sauf indication contraire. Comme HappyCast fournit ses services sur la base de la collecte des informations personnelles nécessaires, votre retrait de consentement sera considéré comme un refus d'accepter les services HappyCast. Retirer le consentement maintenant ?"</string>
+  <string name="privacy_revoke_dialog_revoke">Retirer</string>
+  <string name="privacy_revoke_dialog_title">Retrait du consentement</string>
+  <string name="privacy_setting_category_1">Politique de confidentialité</string>
+  <string name="privacy_setting_category_2">Politique de confidentialité de HappyCast</string>
+  <string name="privacy_setting_category_3">Autorisations</string>
+  <string name="privacy_setting_permission_manager">Gérer les autorisations</string>
+  <string name="privacy_setting_revoke_lelink_policy">Retrait du consentement à la Politique de confidentialité de HappyCast</string>
+  <string name="privacy_setting_show_authority">Détails des autorisations</string>
+  <string name="privacy_setting_show_lelink_law">Afficher la Déclaration légale de HappyCast</string>
+  <string name="privacy_setting_show_lelink_policy">Afficher la Politique de confidentialité de HappyCast</string>
+  <string name="privacy_setting_show_policy">Afficher la Politique de confidentialité</string>
+  <string name="privacy_setting_show_user_agreement">"Afficher le Contrat d'utilisation"</string>
+  <string name="privacy_text_1"><Data>"Bienvenue dans Diffusion ! Diffusion permet de projeter les éléments de l'écran de votre téléphone sur un moniteur externe plus grand.
+Nous protégerons vos informations personnelles conformément aux lois, réglementations et politiques de confidentialité applicables. Certaines fonctionnalités sont fournies par un fournisseur de services tiers HappyCast. Avant d'utiliser cette fonctionnalité, lisez et acceptez la &lt;a href=%2$s>Déclaration légale de HappyCast&lt;/a> et la &lt;a href=%1$s>Politique de confidentialité de HappyCast&lt;/a>.
+Pour pouvoir fonctionner normalement, cette application doit se connecter à Internet et nécessite les autorisations suivantes afin de collecter vos informations personnelles :"</Data></string>
+  <string name="privacy_text_2"><Data>"Si vous n'acceptez pas d'accorder de telles autorisations ou de partager et de télécharger vos informations personnelles, vous ne pourrez pas utiliser cette application. Vous pouvez choisir de désinstaller cette application, de vous déconnecter ou de restreindre les autorisations dans les paramètres dans de tels cas.
+Lisez et acceptez notre &lt;a href=%1$s>Contrat d'utilisation&lt;/a> et notre &lt;a href=%2$s>Politique de confidentialité&lt;/a> avant d'utiliser cette fonctionnalité."</Data></string>
+  <string name="privacy_text_pemission">"　　• Accédez et enregistrez des images sur votre appareil afin de projeter ces éléments sur des moniteurs externes
+　　• Enregistrez les appels et l'audio afin de diffuser l'audio sur des appareils externes
+　　• Accédez au numéro de téléphone, IMEI et IMSI pour identifier votre appareil
+　　• Accédez à votre position pour trouver des appareils à proximité"</string>
   <string name="privacy_title">Attention</string>
-  <string name="private_protect">Hide private items</string>
+  <string name="privacy_update_dialog_negative_btn">Annuler</string>
+  <string name="privacy_update_dialog_positive_btn">Accepter</string>
+  <string name="privacy_update_dialog_quit">Quitter</string>
+  <string name="private_protect">Masquer les éléments privés</string>
   <string name="san_wait_msg_1">"Activer la diffusion sans fil sur l'appareil cible"</string>
   <string name="san_wait_msg_2">"La recherche d'appareils peut prendre un certain temps…"</string>
   <string name="san_wait_msg_3">"Les appareils externes sont plus faciles à trouver lorsqu'ils sont connectés au même réseau que votre téléphone"</string>

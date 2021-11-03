@@ -141,11 +141,15 @@
         <item quantity="one">" abonné"</item>
     </plurals>
     <plurals name="subtitle_offset_advance_times">
-        <item quantity="other">Subtitles are moved %.1f seconds forward</item>
-        <item quantity="one">Subtitles are moved %.1f second forward</item>
+        <item quantity="other">Les sous-titres sont déplacés de %.1f secondes en avant</item>
+        <item quantity="one">Les sous-titres sont déplacés de %.1f seconde en avant</item>
     </plurals>
     <plurals name="subtitle_offset_delay_times">
-        <item quantity="other">Subtitles are delayed for %.1f seconds</item>
-        <item quantity="one">Subtitles are delayed for %.1f second</item>
+        <item quantity="other">Les sous-titres sont retardés de %.1f secondes</item>
+        <item quantity="one">Les sous-titres sont retardés de %.1f seconde</item>
+    </plurals>
+    <plurals name="toast_bookmark_max_size">
+        <item quantity="other">"Ajouter jusqu'à %d favoris"</item>
+        <item quantity="one">"Ajouter jusqu'à %d favori"</item>
     </plurals>
 </resources>

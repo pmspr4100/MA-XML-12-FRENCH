@@ -195,6 +195,7 @@ Ouvrez WeChat et accédez à Moi > Paramètres > Général > Sauvegarder &amp; m
     <string name="guest_unfinished_task_alert_message">Il semble que vous ayez des tâches de transfert non terminées. Continuer avec le transfert ?</string>
     <string name="guest_unfinished_task_alert_title">Tâches non terminées</string>
     <string name="hide_password_description">Masquer le mot de passe</string>
+    <string name="high_temp_summary">Votre appareil peut chauffer lors du transfert de grandes quantités de données. Ceci est normal et votre appareil se refroidira une fois le transfert terminé.</string>
     <string name="host_boot_installation_bottom_tips">"Vous ne trouvez pas Mi Mover ? Appuyez pour le télécharger."</string>
     <string name="host_boot_installation_button">Suivant</string>
     <string name="host_boot_installation_content">"1. Allez dans Paramètres sur votre ancien appareil.
@@ -290,6 +291,7 @@ Ouvrez WeChat et accédez à Moi > Paramètres > Général > Sauvegarder &amp; m
     <string name="main_sender_title">Ancien</string>
     <string name="manual_connection_hint">Appuyez sur \"Connecter manuellement\" sur votre ancien appareil.</string>
     <string name="manual_connection_title">"Connectez l'ancien appareil à ce point d'accès"</string>
+    <string name="message_request_manage_external_storage_perm">Mi Mover doit accéder à tous les fichiers de cet appareil pour pouvoir les déplacer de votre ancien appareil vers un nouveau.</string>
     <string name="message_request_package_stats_perm">Mi Mover a besoin de cette permission pour connaître les applications qui sont installées sur un appareil et les transférer sur un autre.</string>
     <string name="midnight">Nuit</string>
     <string name="miui_need_location_permission_summary">"Autoriser Mi Mover à accéder à votre localisation pour trouver des appareils à proximité. Vous ne pourrez pas utiliser Mi Mover tant que vous n'aurez pas donné cette permission."</string>
@@ -315,6 +317,7 @@ Ouvrez WeChat et accédez à Moi > Paramètres > Général > Sauvegarder &amp; m
     <string name="miuix_appcompat_select_all">Tout sélectionner</string>
     <string name="miuix_appcompat_select_all_description">Tout sélectionner</string>
     <string name="miuix_appcompat_select_item">Sélectionner des éléments</string>
+    <string name="miuix_indexer_collect">Collections</string>
     <string name="miuix_indexer_selected">%s sélectionné</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez vers le bas pour actualiser</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
@@ -459,6 +462,7 @@ Ouvrez WeChat et accédez à Moi > Paramètres > Général > Sauvegarder &amp; m
     <string name="password">Entrer le mot de passe</string>
     <string name="password_null">Le mot de passe ne peut pas être vide</string>
     <string name="perm_location">Localisation</string>
+    <string name="perm_manage_external_storage">Accéder à tous les fichiers</string>
     <string name="perm_package_stats">"Accéder aux statisques d'utilisation des applications"</string>
     <string name="perm_read_call_log">"Accéder à l'historique d'appels"</string>
     <string name="perm_read_contacts">Accéder aux contacts</string>
@@ -673,6 +677,7 @@ Libérez au moins %s."</string>
     <string name="time_spent">Temps passé : %1$s</string>
     <string name="title_open_wlan">Activer le Wi-Fi</string>
     <string name="title_request_alert_window_perm">Autoriser les fenêtres flottantes</string>
+    <string name="title_request_manage_external_storage_perm">Autorisations requises</string>
     <string name="title_request_package_stats_perm">Autorisations requises</string>
     <string name="title_request_write_settings_perm">Autoriser la modification des paramètres système</string>
     <string name="today">"Aujourd'hui"</string>
