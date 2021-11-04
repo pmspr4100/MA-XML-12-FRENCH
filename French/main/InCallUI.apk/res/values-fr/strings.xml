@@ -60,7 +60,18 @@
     <string name="call_button_tools_text">Fonctionnalités</string>
     <string name="call_contacts_deny_permission_msg">"Vous avez rejeté l'autorisation de la lecture des contacts, impossible d'afficher les informations de contacts."</string>
     <string name="call_description_recording">Enregistrement…</string>
-    <string name="call_not_support_high_frequency_click">Nappuyez pas sur ce bouton si fréquemment</string>
+    <string name="call_not_support_high_frequency_click">"N'appuyez pas sur ce bouton si fréquemment"</string>
+    <string name="call_progress_info_call_forwarding">"L'appel est renvoyé vers un autre numéro"</string>
+    <string name="call_progress_info_call_rejected">appel rejeté</string>
+    <string name="call_progress_info_call_waiting">Le destinataire est en communication, veuillez patienter et attendre</string>
+    <string name="call_progress_info_no_answer_from_user">"pas de réponse de l'utilisateur"</string>
+    <string name="call_progress_info_no_user_responding">aucun utilisateur ne répond</string>
+    <string name="call_progress_info_nonuser_call_rejected">nonusr - appel rejeté</string>
+    <string name="call_progress_info_remote_available">Le destinataire est prévenu</string>
+    <string name="call_progress_info_subscriber_absent">Abonné absent</string>
+    <string name="call_progress_info_unallocated_number">Numéro non attribué</string>
+    <string name="call_progress_info_user_busy">utilisateur occupé</string>
+    <string name="call_progress_info_user_call_rejected">usr - appel rejeté</string>
     <string name="call_record_wait_label">En attente</string>
     <string name="call_recording_deny_permission_msg">"Vous avez rejeté l'autorisation d'enregistrement, impossible d'enregistrer."</string>
     <string name="call_recording_error_low_storage">Espace de stockage insuffisant.</string>
@@ -88,7 +99,8 @@
     <string name="card_title_hanging_up_weak_signal">"Signal du réseau mobile faible ! Fin de l'appel…"</string>
     <string name="card_title_in_call">Appel en cours</string>
     <string name="card_title_in_call_short">Appel en cours</string>
-    <string name="card_title_in_video">Vidéo</string>
+    <string name="card_title_in_crbt">Attend une réponse</string>
+    <string name="card_title_in_video">Vidéo </string>
     <string name="card_title_incoming_conference_call">Conférence téléphonique entrante</string>
     <string name="card_title_on_hold">"En attente "</string>
     <string name="card_title_threeway_call">Conférence à trois</string>
@@ -184,6 +196,7 @@
     <string name="incoming_circle_text_reject_p">Faire glisser vers le haut</string>
     <string name="incoming_circle_text_video_answer">Relâchez pour répondre à la vidéo</string>
     <string name="incoming_circle_text_video_answer_p">Glissez vers le haut pour répondre à la vidéo</string>
+    <string name="incoming_video_crs_call">Video CRS Recevoir un appel de</string>
     <string name="manageConferenceLabel">Gérer la conférence téléphonique</string>
     <string name="manager_conference_done">Terminé</string>
     <string name="midnight">Nuit</string>

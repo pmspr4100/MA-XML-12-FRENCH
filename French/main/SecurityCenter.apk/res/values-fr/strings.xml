@@ -1918,8 +1918,25 @@ de vos sessions de jeu"</string>
     <string name="gb_xunyou_gift_type_one">Boost Xunyou 1 jour</string>
     <string name="gb_xunyou_gift_type_three">Boost Xunyou 3 jours</string>
     <string name="gb_xunyou_gift_type_two">Boost Xunyou 2 jours</string>
+    <string name="gd_app_edit_done">Terminé</string>
+    <string name="gd_app_edit_title">Ajouter des applications</string>
+    <string name="gd_setting_desc_action1">Ouvrir la fenêtre flottante</string>
+    <string name="gd_setting_desc_action2">Utiliser un raccourci</string>
+    <string name="gd_setting_group_custom_gtb_apps">Jeux</string>
+    <string name="gd_setting_group_custom_line_location">Emplacement de la boîte à outils</string>
+    <string name="gd_setting_group_custom_settings">Personalisation</string>
+    <string name="gd_setting_group_custom_vtb_apps">Applications vidéo</string>
+    <string name="gd_setting_group_smart_tool_box">Boîte à outils intelligente</string>
+    <string name="gd_setting_group_title_switch">Scènes</string>
+    <string name="gd_setting_gtb">Afficher en jouant à des jeux</string>
+    <string name="gd_setting_gtb_desc">Fonctionnalités spéciales pour les jeux</string>
+    <string name="gd_setting_miui_dock">Toujours afficher</string>
+    <string name="gd_setting_shorthand">Notes rapides</string>
+    <string name="gd_setting_title">Boîte à outils intelligente</string>
+    <string name="gd_setting_vtb">Afficher en lisant des vidéos</string>
+    <string name="gd_setting_vtb_desc">Fonctionnalités spéciales pour la lecture vidéo</string>
     <string name="gdpr_msg"><Data>"Pour pouvoir détecter les risques de sécurité et protéger vos données, nous devons collecter la quantité nécessaire d'informations sur votre appareil. Lisez et acceptez notre &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Politique de confidentialité&lt;/a> avant d'utiliser nos services. Si vous ne nous autorisez pas à collecter de telles informations, vous pourrez toujours utiliser cette application, mais certaines fonctionnalités ne vous seront pas disponibles."</Data></string>
-    <string name="get_detail_by_click">Tap to view details</string>
+    <string name="get_detail_by_click">Appuyez pour afficher les détails</string>
     <string name="get_sys_info">"Obtention d'informations…"</string>
     <string name="gigabyteShort">" Go"</string>
     <string name="global_wa_setting_alert_dialog_content">Vous pouvez libérer %s</string>
@@ -2539,6 +2556,7 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
     <string name="night">Soirée</string>
     <string name="no_game">Impossible de trouver des jeux</string>
     <string name="no_open">Pas maintenant</string>
+    <string name="no_privacy_permission">Consentement à la Politique de confidentialité non requis</string>
     <string name="noon">Midi</string>
     <string name="not_limited_brand">Illimité</string>
     <string name="not_set">Non défini</string>
@@ -2781,7 +2799,7 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
     <string name="pc_hidemode_normal">Équilibré</string>
     <string name="pc_hidemode_performance">Performance</string>
     <string name="pc_hidemode_performance_title">Mode Performance</string>
-    <string name="pc_hidemode_power_save">Énergie</string>
+    <string name="pc_hidemode_power_save">Économiser la batterie</string>
     <string name="pc_install_manager">Installation via USB</string>
     <string name="pc_main_activity_back">Retour</string>
     <string name="pc_main_battery_text_day">Ajouté %1$s m, sur %2$s j restante</string>
@@ -4424,6 +4442,7 @@ Le formatage effacera le contenu existant sur le ^2. Pour éviter de perdre du c
     <string name="summary_realname_verify">Vérifiez votre identité pour effectuer des paiements plus sécurisés.</string>
     <string name="summary_restrict_data_usage">"Vous avez restreint l'utilisation des données pour cette application."</string>
     <string name="summary_result_screen_brightness_format">"Régler la luminosité de l'écran sur %s"</string>
+    <string name="summary_safe_mode">"Neutraliser les risques lors de l'installation"</string>
     <string name="summary_show_notification">"Nettoyer le cache, voir l'état de la batterie, et bloquer les éléments dans le Panneau de notification"</string>
     <string name="summary_telecom_operator">"Obtenir vos statistiques d'utilisation mensuelle de données de votre opérateur"</string>
     <string name="summary_usb">Prévenir les malwares depuis les données transmises par USB</string>
@@ -4805,6 +4824,7 @@ Le formatage effacera le contenu existant sur le ^2. Pour éviter de perdre du c
     <string name="title_result_typeface">Taille du texte &amp; graisse de la police</string>
     <string name="title_result_wlan">Wi-Fi</string>
     <string name="title_result_zen_mode">Mode NPD</string>
+    <string name="title_safe_mode">Activer le Mode sécurisé</string>
     <string name="title_show_notification">Widget du Panneau de notification</string>
     <string name="title_system_auto_download">Les mises à jour se téléchargeront automatiquement</string>
     <string name="title_telecom_operator">Ajustement automatique</string>
