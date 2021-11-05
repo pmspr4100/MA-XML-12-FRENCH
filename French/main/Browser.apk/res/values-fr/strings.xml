@@ -727,7 +727,7 @@ Are you sure you want to navigate away from this page ?"</string>
   <string name="mw_opening_file_error">Failed to open selected file</string>
   <string name="mw_permission_alert_window">To use the feature, please open system option Diplay pop-up window.</string>
   <string name="mw_permission_unknown">Unknown Option</string>
-  <string name="mw_private_browsing_warning">This functionality is not supported in this version of Android.</string>
+  <string name="mw_private_browsing_warning">"Cette fonctionnalité n'est pas prise en charge dans cette version d'Android."</string>
   <string name="mw_profiler_error_toast">Failed to start profiler</string>
   <string name="mw_profiler_no_storage_toast">"Can't start profiler because external storage is not ready"</string>
   <string name="mw_profiler_started_toast">Profiler started</string>
@@ -742,7 +742,7 @@ Are you sure you want to navigate away from this page ?"</string>
   <string name="mw_video_float_window_playing">Playing video</string>
   <string name="mw_video_play_error">"Couldn't play video"</string>
   <string name="mw_webview_find_on_page">Trouver sur la page</string>
-  <string name="mw_webviewchromium_private_browsing_warning">This functionality is not supported in this version of Android.</string>
+  <string name="mw_webviewchromium_private_browsing_warning">"Cette fonctionnalité n'est pas prise en charge dans cette version d'Android."</string>
   <string name="mw_week_picker_dialog_title">Set week</string>
   <string name="nav_bottom_bar_back">Retour</string>
   <string name="nav_bottom_bar_close_all">Tout fermer</string>
@@ -801,11 +801,11 @@ Are you sure you want to navigate away from this page ?"</string>
   <string name="wednesday_shortest">Mer</string>
   <string name="yesterday">Hier</string>
   <string name="ok">OK</string>
-  <string name="open_app_confirm_message">"Autoriser cette page à s'ouvrir %s ?"</string>
+  <string name="open_app_confirm_message">"Autoriser cette page à ouvrir %s ?"</string>
   <string name="open_cloud_sync">Activer la synchronisation avec le cloud</string>
   <string name="open_cloud_sync_desc">"Ajout du favori avec succès. Activez la synchronisation avec le cloud pour synchroniser les favoris ajoutés sur d'autres appareils. Connectez-vous et allumez ?"</string>
   <string name="open_file_explorer_failed">"Can't open File Manager"</string>
-  <string name="open_voice_permission">Allow the mic to connect to the internet</string>
+  <string name="open_voice_permission">Autoriser le micro à se connecter à Internet</string>
   <string name="page_hang_message">The current page is stuck and you need to restart your browser.</string>
   <string name="page_hang_title">Page stuck</string>
   <string name="page_info">Page info</string>
