@@ -7,8 +7,8 @@
 
 ## Traducteur
 * Pseudo : pmspr4100
-* Appareil : Redmi Note 7 Pro
-* Version : Xiaomi EU MIUI 12 Android Q Bêta
+* Appareil : Redmi Note 10 Pro
+* Version : MIUI 12.5
 * Contact : (pms.pr4100@gmail.com)
 * Paypal : https://www.paypal.me/pmspr4100
 * Telegram : https://t.me/Miui12French
@@ -24,6 +24,4 @@
 ## Structure
 Dossiers | Descriptions
 :------------: | :------------:
-/ French / extras | Widgets, écran de verrouillage par ex.
-/ French / device | Dossiers spécifiques pour certains modèles Xiaomi.
 / French / main | Applications MIUI (APK) pour tous les appareils Xiaomi
