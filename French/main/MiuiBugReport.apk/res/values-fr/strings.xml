@@ -106,6 +106,7 @@
     <string name="catch_full_log_item_title_gps">Services de localisation</string>
     <string name="catch_full_log_item_title_sensor">Capteurs</string>
     <string name="catch_full_log_item_title_signal">Téléphone, signal, et réseaux mobiles</string>
+    <string name="catch_full_log_item_title_trace">Lag</string>
     <string name="catch_full_log_item_title_wifi">Wi-Fi</string>
     <string name="catch_full_log_item_title_wifi_china">Wi-Fi</string>
     <string name="catch_full_log_notification_content">Appuyez pour retourner aux journaux</string>
@@ -115,6 +116,7 @@
     <string name="catch_full_log_privacy_content_gps">"Vous générez des journaux et les enregistrez sur votre appareil. Les journaux peuvent contenir vos informations personnelles et vos informations de localisation. Soyez prudent et ne divulguez pas ces journaux à d'autres personnes. En appuyant sur \"Accepter\" ci-dessous, vous acceptez que nous collections les données ci-dessus lors de la génération des journaux, puis téléchargions les journaux sur nos serveurs afin de localiser et de résoudre les problèmes que vous signalez."</string>
     <string name="catch_full_log_privacy_content_sensor">"Vous générez des journaux et les enregistrez sur votre appareil. Les journaux peuvent contenir les informations collectées par les capteurs de votre appareil (y compris le capteur de lumière ambiante, le baromètre, le podomètre, le magnétomètre, etc.). Soyez prudent et ne divulguez pas ces journaux à d'autres personnes. En appuyant sur \"Accepter\" ci-dessous, vous acceptez que nous collections les données ci-dessus lors de la génération des journaux, puis téléchargions les journaux sur nos serveurs afin de localiser et de résoudre les problèmes que vous signalez."</string>
     <string name="catch_full_log_privacy_content_signal">"Vous générez des journaux et les enregistrez sur votre appareil. Les journaux peuvent contenir vos messages, l'historique des appels, les informations réseau et les données de communication. Soyez prudent et ne divulguez pas ces journaux à d'autres personnes. En appuyant sur \"Accepter\" ci-dessous, vous acceptez que nous collections les données ci-dessus lors de la génération des journaux, puis téléchargions les journaux sur nos serveurs afin de localiser et de résoudre les problèmes que vous signalez."</string>
+    <string name="catch_full_log_privacy_content_trace">"Vous générez des journaux et les enregistrez sur votre appareil. Les journaux peuvent contenir des statistiques d'utilisation des applications (y compris la fréquence du processeur, l'appel système, l'utilisation de la mémoire, etc.). Soyez prudent et ne divulguez pas ces journaux à d'autres personnes. En appuyant sur \"Accepter\" ci-dessous, vous acceptez que nous collections les données ci-dessus lors de la génération des journaux, puis téléchargions les journaux sur nos serveurs afin de localiser et de résoudre les problèmes que vous signalez."</string>
     <string name="catch_full_log_privacy_content_wifi">"Vous générez des journaux et les enregistrez sur votre appareil. Les journaux peuvent contenir vos informations personnelles, vos informations de localisation, ainsi que les adresses IP et MAC de votre appareil. Si vous êtes connecté à un réseau Wi-Fi non chiffré, nous pourrions également être en mesure d'accéder à des parties de vos données de communication. Soyez prudent et ne divulguez pas ces journaux à d'autres personnes. En appuyant sur \"Accepter\" ci-dessous, vous acceptez que nous collections les données ci-dessus lors de la génération des journaux, puis téléchargions les journaux sur nos serveurs afin de localiser et de résoudre les problèmes que vous signalez."</string>
     <string name="catch_full_log_privacy_content_wifi_china">"Vous générez des journaux et les enregistrez sur votre appareil. Les journaux peuvent contenir vos informations personnelles, vos informations de localisation, ainsi que les adresses IP et MAC de votre appareil. Si vous êtes connecté à un réseau WLAN non chiffré, nous pourrions également être en mesure d'accéder à des parties de vos données de communication. Soyez prudent et ne divulguez pas ces journaux à d'autres personnes. En appuyant sur \"Accepter\" ci-dessous, vous acceptez que nous collections les données ci-dessus lors de la génération des journaux, puis téléchargions les journaux sur nos serveurs afin de localiser et de résoudre les problèmes que vous signalez."</string>
     <string name="catch_full_log_start_dump_hprof">Générer un journal décalé</string>
@@ -293,6 +295,7 @@ Envoyer ce code au superviseur."</string>
     <string name="goon_feedback_main">Continuer</string>
     <string name="goto_sign_up">Créer compte</string>
     <string name="hint_feedback_main">"Décrivez l'erreur"</string>
+    <string name="i_get_it">Compris</string>
     <string name="i_know">OK</string>
     <string name="identity">Identification</string>
     <string name="inconsistent_pwd">Les mots de passe ne correspondent pas</string>
@@ -606,6 +609,10 @@ Envoyer ce code au superviseur."</string>
     <string name="post_miui_bbs_failed">Impossible de poster sur le forum MIUI</string>
     <string name="privacy_category_title">Confidentialité</string>
     <string name="privacy_policy_title">Politique de confidentialité</string>
+    <string name="privacy_policy_update_hint">"%1$s La politique de confidentialité a été mise à jour :
+%2$s
+Lisez et acceptez la nouvelle version de %3$s avant de continuer."</string>
+    <string name="privacy_policy_update_title">Updated Privacy Policy</string>
     <string name="psw_hint">Password</string>
     <string name="psw_sign_in">Sign in using password</string>
     <string name="pull_to_refresh_pull_label">Tirez vers le bas pour rafraîchir</string>
@@ -801,20 +808,27 @@ Taille : %2$s"</string>
     <string name="user_avatar_update_title">Modifier la photo de profil</string>
     <string name="user_avatar_uploading">Un instant…</string>
     <string name="user_id_hint">E-mail/Téléphone/ID du Compte Mi</string>
+    <string name="user_must_known">Attention</string>
+    <string name="user_must_known_content">"Vous ne pourrez continuer à utiliser nos services que si vous acceptez la nouvelle version de notre %s. Accepter la Politique de confidentialité mise à jour maintenant ?"</string>
     <string name="v7_preference_off">Actif</string>
     <string name="v7_preference_on">Inactif</string>
     <string name="v_code_title">Entrez le code de vérification</string>
     <string name="wednesday">Mercredi</string>
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>
+    <string name="withdraw">Retirer</string>
+    <string name="withdraw_consent">Retrait du consentement</string>
+    <string name="withdraw_consent_failed">Impossible de retirer le consentement</string>
+    <string name="withdraw_consent_failed_hint">"Une erreur de serveur s'est produite. Attendez une minute ou deux et réessayez."</string>
+    <string name="withdraw_consent_failed_hint_connect_net">"Votre appareil doit se connecter au réseau pour que vous puissiez retirer votre consentement. Vérifiez vos paramètres réseau et réessayez."</string>
     <string name="xiaomi_update_sdk_bytes_unit">%1$s o</string>
-    <string name="xiaomi_update_sdk_connect_download_manager_fail">Connect Download Manager failed, please check the Download Manager state in the Application Management.</string>
-    <string name="xiaomi_update_sdk_dialog_message">"Introducing version %1$s
-Size: %2$s"</string>
-    <string name="xiaomi_update_sdk_dialog_message_diff">"Introducing version %1$s
-Delta update size: %2$s"</string>
-    <string name="xiaomi_update_sdk_dialog_title">%1$s update!</string>
-    <string name="xiaomi_update_sdk_external_storage_unavailable">Storage unavailable, please check the SD card.</string>
+    <string name="xiaomi_update_sdk_connect_download_manager_fail">Échec de la connexion au Gestionnaire de téléchargement, veuillez vérifier l'état du Gestionnaire de téléchargement dans la Gestion des applications.</string>
+    <string name="xiaomi_update_sdk_dialog_message">"Présentation de la version %1$s
+Taille : %2$s"</string>
+    <string name="xiaomi_update_sdk_dialog_message_diff">"Présentation de la version %1$s
+Taille du delta de mise à jour : %2$s"</string>
+    <string name="xiaomi_update_sdk_dialog_title">Mise à jour %1$s !</string>
+    <string name="xiaomi_update_sdk_external_storage_unavailable">Stockage indisponible, veuillez vérifier la carte SD.</string>
     <string name="xiaomi_update_sdk_kilobytes_unit">%1$s Ko</string>
     <string name="xiaomi_update_sdk_megabytes_unit">%1$s Mo</string>
     <string name="yesterday">Hier</string>
