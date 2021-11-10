@@ -53,6 +53,8 @@
   <string name="cloud_find_device_off">Désactivée</string>
   <string name="cloud_find_device_on">Activée</string>
   <string name="cloud_lab_title">Lab</string>
+  <string name="cloud_service_open_authorization">"Bienvenue dans les services Xiaomi Cloud ! Vous pouvez utiliser Xiaomi Cloud pour synchroniser vos notes, photos et vidéos, enregistrements et autres éléments des applications système sur tous les appareils connectés. Les sauvegardes de la disposition de l'écran d'accueil seront également stockées dans Xiaomi Cloud. Vous pourrez voir tous les éléments synchronisés sur i.mi.com."</string>
+  <string name="cloud_service_title">Xiaomi Cloud</string>
   <string name="cloud_space_full_gallery_notification_content_text">"Mettez à jour votre abonnement pour obtenir plus d'espace de stockage Cloud"</string>
   <string name="cloud_storage_already_full">Le stockage cloud est plein : %1$s/%2$s</string>
   <string name="cloud_storage_already_used">Occupé : %1$s/%2$s</string>
@@ -597,6 +599,7 @@ Cette fonctionnalité crypte et envoie l'ID de votre appareil aux serveurs de Mi
   <string name="notification_reinstall_key_text">Vérifiez votre identité et réessayez</string>
   <string name="notification_sync_fail_title">Synchronisation impossible</string>
   <string name="notification_update_key_text">Votre mot de passe a été réinitialisé</string>
+  <string name="open_service_title">Activer</string>
   <string name="pay_info_dialog_confirm_to_pay">Payer %s</string>
   <string name="pay_info_dialog_mibi_balance_prefix">Utiliser les Mi Crédits restants : %s</string>
   <string name="pay_info_dialog_title">Sélectionnez le mode de paiement</string>
