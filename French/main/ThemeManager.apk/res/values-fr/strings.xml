@@ -98,6 +98,7 @@
   <string name="apply_success_not_enable_aod">"Activez d'abord Always-on display dans les paramètres"</string>
   <string name="apply_success_not_support_aod">"Impossible de combiner Always-on display avec des thèmes sur cet appareil. Les autres composants de ce thème ont été appliqués avec succès."</string>
   <string name="apply_theme_with_ringtones">Appliquer le thème avec la sonnerie</string>
+  <string name="apply_warning_get_device_dialog_message">"Pour pouvoir utiliser le contenu téléchargé, autorisez d'abord cette fonctionnalité à accéder à l'ID de votre appareil. Vous pouvez accorder cette autorisation dans Paramètres > Confidentialité."</string>
   <string name="apply_warning_tip_get_device_status">"Autorisez d'abord cette application à accéder à l'ID de votre appareil dans Profil > Paramètres."</string>
   <string name="audio_duration_minutes_format">%1$d minutes</string>
   <string name="audio_duration_seconds_format">%1$d secondes</string>
@@ -114,12 +115,16 @@
   <string name="backup_theme_name">Mon thème</string>
   <string name="backup_theme_progress_message">Sauvegarde…</string>
   <string name="backup_theme_success_message">Les paramètres de votre thème actuel ont été sauvegardés.</string>
+  <string name="basic_mode">Mode Hors connexion</string>
+  <string name="basic_mode_desc">"Les thèmes ne se connecteront pas à Internet et n'utiliseront que du contenu local. Vos informations personnelles ne seront pas collectées."</string>
   <string name="boot_audio_dialog_cancel">Annuler</string>
   <string name="boot_audio_dialog_confirm">OK</string>
   <string name="boot_audio_dialog_content">Le son de démarrage est maintenant désactivé. Ré-activé le et appliqué ce son?</string>
   <string name="boot_audio_dialog_title">Attention</string>  
   <string name="both_all_apply_failured">"Impossible d'appliquer le fond d'écran"</string>
   <string name="both_all_apply_success">"Fond d'écran appliqué"</string>
+  <string name="browse_mode">Mode Connecté</string>
+  <string name="browse_mode_desc">"Les thèmes se connecteront à Internet et utiliseront à la fois du contenu local et en ligne. Vos informations personnelles ne seront pas collectées."</string>
   <string name="browser_local_resource">Ressources locales</string>
   <string name="can_not_apply">"Impossible d'appliquer"</string>
   <string name="can_not_apply_error">"Ce format vidéo n'est pas pris en charge"</string>
@@ -139,6 +144,7 @@
   <string name="clear_text_end_icon_content_description">Effacer le texte</string>
   <string name="clearable_edittext_clear_description">Effacer</string>
   <string name="close">Fermer</string>
+  <string name="close_custom_permission_warning_text">"Sans autorisations de stockage, cette application ne pourra pas télécharger d'éléments et personnaliser votre appareil. Désactiver quand même ?"</string>
   <string name="common_applying">Appliquer…</string>
   <string name="common_downloading">Téléchargements…</string>
   <string name="common_format_date_no_year">dd/MM</string>
@@ -170,6 +176,7 @@
   <string name="current_using_lockscreen_wallpaper_text">Écran de verrouillage</string>
   <string name="current_version">Version actuelle : %1$s</string>
   <string name="current_version_incompatible">Non compatible</string>
+  <string name="custom_storage_permission_desc">"Pour pouvoir modifier les préférences de personnalisation et enregistrer les éléments téléchargés, autorisez d'abord cette fonctionnalité à accéder au stockage. Vous pouvez accorder cette autorisation dans Paramètres > Confidentialité."</string>
   <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
   <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>
   <string name="de_apply_icons">"Icônes d'applications"</string>
@@ -249,7 +256,13 @@
   <string name="dialog_apply_lock_screen_wallpaper_content">"Le thème actuel peut ne pas prendre en charge la modification du fond d'écran de l'écran de verrouillage."</string>
   <string name="dialog_apply_lock_screen_wallpaper_warning">"Fond d'écran de verrouillage"</string>
   <string name="dialog_content_get_device_status">"Cette application doit accéder à l'ID de votre appareil pour pouvoir authentifier les articles achetés sur vos autres appareils. Vous ne pourrez peut-être pas utiliser certains des articles achetés après avoir désactivé cette fonctionnalité. Désactiver quand même ?"</string>
+  <string name="dialog_negative_button_text">Plus tard</string>
+  <string name="dialog_positive_button_text">Autoriser</string>
   <string name="dialog_show_never">Ne plus afficher</string>
+  <string name="dialog_trans_wallpaper_offline_detail">"Les fonds d'écran transparents ne sont plus disponibles car ils ne sont pas pris en charge par Android 12."</string>
+  <string name="dialog_trans_wallpaper_offline_inform_detail">"Les fonds d'écran transparents ne sont plus disponibles en raison des restrictions d'Android 12 et des problèmes de compatibilité."</string>
+  <string name="dialog_trans_wallpaper_offline_inform_title">Fonds d'écran transparents</string>
+  <string name="dialog_trans_wallpaper_offline_title">Les papiers peints transparents ne sont pas disponibles</string>
   <string name="display">Affichage</string>
   <string name="do_not_allow">Restreint</string>
   <string name="download_failed">Échec du téléchargement</string>
@@ -428,6 +441,7 @@ Pour désactiver cette fonction, accédez à Paramètres > Sons &amp; vibrations
   <string name="lockscreen_magazine_title">"Carrousel de fonds d'écran"</string>
   <string name="lockscreen_wallpaper">Verrouillage</string>
   <string name="lockstyle_personal_settings">Personnaliser</string>
+  <string name="login_theme">Connectez-vous à Thèmes</string>
   <string name="long_click_can_hide_resource">Appuyez longuement pour masquer les éléments</string>
   <string name="mi_wallpaper">"Fond d'écran MIUI"</string>
   <string name="midnight">Nuit</string>
@@ -642,6 +656,7 @@ Afficher et utiliser les éléments que vous avez achetés ou ajoutés à vos fa
   <string name="personalize_icon_title">Icônes</string>
   <string name="personalize_notify_ringtone_title">Notifications</string>
   <string name="personalize_notify_style_title">Effets</string>
+  <string name="personalize_recommend_switch_desc">"Recevez des recommandations de contenu personnalisées en fonction de l'ID de l'appareil"</string>
   <string name="personalize_second_space_not_support_set_font">"Impossible de changer la police dans le Deuxième espace"</string>
   <string name="personalize_theme_entrance">Thèmes</string>
   <string name="personalize_third_font">Polices</string>
@@ -754,6 +769,9 @@ Tous les éléments de personnalisation actuellement utilisés sur cet appareil.
   <string name="privacy_read_statement">"Acceptez d'abord les termes et conditions"</string>
   <string name="privacy_read_the_updated_privacy_policy_content">"Lisez et acceptez la nouvelle version de la &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Politique de confidentialité&lt;/font>&lt;/a> avant de continuer."</string>
   <string name="privacy_reading_the_application_list">Accéder à la liste des applications installées sur cet appareil</string>
+  <string name="privacy_remind_user_mode_agree">Accepter</string>
+  <string name="privacy_remind_user_mode_content"><Data>"Acceptez notre Politique de confidentialité pour utiliser cette fonctionnalité. Lisez notre &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Politique de confidentialité&lt;/a>&lt;/font> pour savoir comment nous collectons, utilisons, divulguons, traitons et stockons les informations personnelles que vous nous fournissez lorsque vous utilisez Thèmes."</Data></string>
+  <string name="privacy_remind_user_mode_title">Attention</string>
   <string name="privacy_revoke_agree_content">Retrait du consentement</string>
   <string name="privacy_revoke_agree_content_1">1. Toutes les commandes (y compris les commandes payées) passées sur les appareils Xiaomi sur lesquels vous avez utilisé votre Compte Mi. Vous ne pourrez plus utiliser les articles que vous avez achetés.</string>
   <string name="privacy_revoke_agree_content_2">2. Toutes les informations sur vos goûts, commentaires, évaluations et abonnés générés sur les appareils Xiaomi sur lesquels vous avez utilisé votre Compte Mi.</string>
@@ -761,6 +779,8 @@ Tous les éléments de personnalisation actuellement utilisés sur cet appareil.
   <string name="privacy_revoke_agree_data_warning">Les données suivantes seront définitivement supprimées ou rendues anonymes après le retrait du consentement (sauf disposition contraire des lois et règlements, ou autrement requis par les autorités réglementaires) :</string>
   <string name="privacy_revoke_succeed">Consentement retiré avec succès</string>
   <string name="privacy_revoking_warning">Retrait du consentement…</string>
+  <string name="privacy_select_mode">Sélectionnez le mode</string>
+  <string name="privacy_select_mode_desc">"Puisque vous n'avez pas accepté notre Politique de confidentialité, sélectionnez l'un des modes suivants :"</string>
   <string name="privacy_settings">Vie privée</string>
   <string name="privacy_update_prompt_title">Politique de confidentialité mise à jour</string>
   <string name="private_pad_fold_revoke_agree_detail_content_1">"1. Assurez-vous que vous avez le droit de retirer votre consentement avant de continuer.
@@ -777,9 +797,12 @@ Tous les éléments de personnalisation actuellement utilisés sur cet appareil.
   <string name="provision_loading_tips">Chargement…</string>
   <string name="provision_second_title">Sélectionner un des plusieurs thèmes par défaut</string>
   <string name="provision_title">Choisir un thème</string>
+  <string name="prvicay_permission_not_allow_desc">"Cette application doit accéder au stockage pour supprimer toutes les données générées sur cet appareil. Sans cette autorisation, certaines données peuvent ne pas être supprimées. Annuler les services quand même ?
+Vous pouvez accorder cette autorisation dans Paramètres > Confidentialité."</string>
   <string name="pull_down_view_error_message">Oups! Aucune connexion Internet trouvée. Vérifiez votre connexion ou réessayez.</string>
   <string name="pull_down_view_refresh">Actualiser</string>
   <string name="pull_down_view_title">"Quoi de neuf"</string>
+  <string name="read_and_agree_account_privacy"><Data>"J'ai lu et j'accepte le &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Contrat d'utilisation&lt;/a>&lt;/font> du Compte Mi et la &lt; font color=\"#37A5FF\">&lt;a href=\"%4$s\">Politique de confidentialité&lt;/a>&lt;/font>."</Data></string>
   <string name="recently_used">Récemment utilisé</string>
   <string name="recommend_trigger">Recommandations personnalisées </string>
   <string name="recommend_trigger_summary">Activez-le pour recevoir des recommandations en fonction de vos préférences</string>
@@ -1281,6 +1304,7 @@ Tous les éléments de personnalisation actuellement utilisés sur cet appareil.
   <string name="to_activate_the_account">Activez votre Compte Mi maintenant</string>
   <string name="today">"Aujourd'hui"</string>
   <string name="tomorrow">Demain</string>
+  <string name="trans_wallpaper_offline_notice">"Les fonds d'écran transparents ne sont pas disponibles"</string>
   <string name="transparency_pref_summary">"Choisissez le degré de transparence de votre fond d'écran"</string>
   <string name="transparency_pref_title">"Niveau d'opacité"</string>
   <string name="transparent_wallpaper">"Fond d'écran transparent"</string>
