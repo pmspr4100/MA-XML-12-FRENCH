@@ -8,15 +8,6 @@
   <string name="abc_activitychooserview_choose_application">Sélectionner une application</string>
   <string name="abc_capital_off">DÉSACTIVÉ</string>
   <string name="abc_capital_on">ACTIVÉ</string>
-  <string name="abc_menu_alt_shortcut_label">Alt+</string>
-  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-  <string name="abc_menu_delete_shortcut_label">supprimer</string>
-  <string name="abc_menu_enter_shortcut_label">entrée</string>
-  <string name="abc_menu_function_shortcut_label">Fonction+</string>
-  <string name="abc_menu_meta_shortcut_label">Méta+</string>
-  <string name="abc_menu_shift_shortcut_label">Maj+</string>
-  <string name="abc_menu_space_shortcut_label">espace</string>
-  <string name="abc_menu_sym_shortcut_label">Sym+</string>
   <string name="abc_prepend_shortcut_label">Menu+</string>
   <string name="abc_search_hint">Recherche…</string>
   <string name="abc_searchview_description_clear">Effacer la requête</string>
@@ -36,6 +27,8 @@
   <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
   <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>
   <string name="early_morning">Matin</string>
+  <string name="eras_ad">Apr. J.-C.</string>
+  <string name="eras_bc">Av. J.-C.</string>
   <string name="evening">Après-midi</string>
   <string name="expand_button_title">Avancé</string>
   <string name="fmt_date_long_month_day">d MMMM</string>
@@ -48,6 +41,13 @@
   <string name="friday_short">Ven</string>
   <string name="friday_shortest">Ven</string>
   <string name="mi_service_app_name">"Services &amp; Retour d'information"</string>
+  <string name="midnight">Nuit</string>
+  <string name="i_get_it">Compris</string>
+  <string name="icon_add_description">"Ajouter un raccourci sur l'écran d'accueil"</string>
+  <string name="icon_remove_confirm">Supprimer</string>
+  <string name="icon_remove_description_content">"\"Services &amp; commentaires\" est une application système. Vous pourrez toujours l'utiliser via les paramètres après avoir supprimé le raccourci de l'écran d'accueil."</string>
+  <string name="icon_remove_description_title">"Supprimer \"Services &amp; commentaires\" de l'écran d'accueil ?"</string>
+  <string name="mi_service_app_name">Services &amp; commentaires</string>
   <string name="midnight">Nuit</string>
   <string name="miservice_channel_boot_name">boot</string>
   <string name="miservice_channel_guide_name">guide</string>
@@ -118,6 +118,8 @@
   <string name="miui_feedback_edit_storage_permission_name">"Accéder au stockage de l'appareil"</string>
   <string name="miui_feedback_edit_submit_dialog_cancel">Refuser</string>
   <string name="miui_feedback_edit_submit_dialog_confirm">Accepter</string>
+  <string name="miui_feedback_edit_submit_dialog_content"><Data>"Vous devez accepter notre &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Politique de confidentialité&lt;/ a> et notre &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Contrat utilisateur&lt;/a> pour pouvoir utiliser Commentaires. Les problèmes que vous signalez ainsi que les éléments que vous joignez (pouvant contenir des informations personnelles, ainsi que des informations sur votre appareil et votre réseau) seront téléchargés sur les serveurs de MIUI. Cela nous aidera à localiser et à résoudre les problèmes que vous signalez."</Data></string>
+  <string name="miui_feedback_edit_submit_dialog_content_global"><Data>"Vos commentaires, ainsi que les pièces jointes (le cas échéant) et les journaux (vous pouvez décocher les cases correspondantes pour les éléments que vous ne souhaitez pas télécharger) seront envoyés aux serveurs de MIUI. Les journaux peuvent contenir des informations personnelles et vos données de localisation. Sélectionner \"Accepter\" signifie que vous avez lu et accepté notre &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang= %2$s\">Politique de confidentialité&lt;/a> et notre &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4 $s\">Contrat d'utilisation&lt;/a>."</Data></string>
   <string name="miui_feedback_edit_submit_dialog_not_show_again">Ne plus afficher</string>
   <string name="miui_feedback_edit_submit_dialog_title">Envoyer un rapport</string>
   <string name="miui_feedback_edit_submit_directly">Soumettre</string>
@@ -141,6 +143,7 @@
   <string name="miui_feedback_main_search_footer">Ce ne sont pas les questions que vous vouliez poser ?</string>
   <string name="miui_feedback_main_search_footer_submit">Soumettre des commentaires</string>
   <string name="miui_feedback_main_search_issue">Entrez les mots-clés à rechercher</string>
+  <string name="miui_feedback_main_search_no_answer">Aucun résultat trouvé</string>
   <string name="miui_feedback_main_start_submit">Soumettre des commentaires</string>
   <string name="miui_feedback_main_submit_dialog_confirm">Soumettre</string>
   <string name="miui_feedback_main_submit_dialog_content">"On dirait que nous n'avons pas trouvé de solution à votre problème. Vous pouvez nous envoyer vos commentaires."</string>
@@ -189,6 +192,7 @@
   <string name="miui_main_ring_sub_title">Appuyez pour lire les démos et sélectionnez le son de notification</string>
   <string name="miui_main_ring_title">Les sons de notification inspirés de la nature</string>
   <string name="miui_main_shortcut_label_submit_feedback">Soumettre des commentaires</string>
+  <string name="miui_main_update_back_to_home">"Préparation de l'écran d'accueil…"</string>
   <string name="miui_main_update_continue">Suivant</string>
   <string name="miui_main_update_end_title">Bienvenue dans MIUI</string>
   <string name="miui_main_update_learn_more">En savoir plus</string>
@@ -270,6 +274,7 @@
   <string name="noon">Midi</string>
   <string name="not_set">Non paramétré</string>
   <string name="permission_agree">Accepter</string>
+  <string name="permission_china_version_msg"><Data>"Avant d'utiliser \"Services &amp; commentaires\", vous devez lire et accepter notre &lt;a href=%1$s>Contrat d'utilisation&lt;/a> et notre &lt;a href=%2$s>Politique de confidentialité&lt; /a>. Cette application doit également se connecter à Internet pour fonctionner normalement."</Data></string>
   <string name="permission_complete">Terminé</string>
   <string name="permission_contacts_info">Accès infos du compte</string>
   <string name="permission_contacts_introduce">"Pour s'authentifier en utilisant le Compte Mi"</string>
@@ -283,12 +288,17 @@
   <string name="permission_location_introduce">Pour afficher les points de service à proximité</string>
   <string name="permission_main_purpose">Affichage de démonstrations de fonctionnalités MIUI, envoi de retours utilisateurs, et demande de services après-vente.</string>
   <string name="permission_privacy">Politique de confidentialité (obligatoire)</string>
+  <string name="permission_region_version_msg"><Data>"Avant d'utiliser \"Services &amp; commentaires\", vous devez lire et accepter notre &lt;a href=%1$s>Contrat d'utilisation&lt;/a> et notre &lt;a href=%2$s>Politique de confidentialité&lt; /a>."</Data></string>
   <string name="permission_select_all">Sélectionner tout</string>
   <string name="permission_storage">Stockage</string>
   <string name="permission_storage_introduce">Pour enregistrer des objets sur votre appareil</string>
   <string name="permission_user_protocol">"Accord d'utilisation (obligatoire)"</string>
   <string name="pm">PM</string>
   <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
+  <string name="privacy_policy_update_hint">"%1$s La politique de confidentialité a été mise à jour :
+%2$s
+Lisez et acceptez la nouvelle version de %3$s avant de continuer."</string>
+  <string name="privacy_policy_update_title">Politique de confidentialité mise à jour</string>
   <string name="public_authorize_now">Paramètres</string>
   <string name="public_loading_text">Chargement…</string>
   <string name="public_net_error_retry">Réessayer</string>
@@ -391,10 +401,16 @@
   <string name="tuesday">Mardi</string>
   <string name="tuesday_short">Mar</string>
   <string name="tuesday_shortest">Mar</string>
+  <string name="user_must_known">Attention</string>
+  <string name="user_must_known_content">"Vous ne pourrez continuer à utiliser nos services que si vous acceptez la nouvelle version de notre %s. Accepter la Politique de confidentialité mise à jour maintenant ?"</string>
   <string name="v7_preference_off">DÉSACTIVÉ</string>
   <string name="v7_preference_on">ACTIVÉ</string>
   <string name="wednesday">Mercredi</string>
   <string name="wednesday_short">Mer</string>
   <string name="wednesday_shortest">Mer</string>
+  <string name="withdraw_consent_failed">Impossible de retirer le consentement</string>
+  <string name="withdraw_consent_failed_hint">"Une erreur de serveur s'est produite. Attendez une minute ou deux et réessayez."</string>
+  <string name="withdraw_consent_failed_hint_connect_net">Votre appareil doit se connecter au réseau pour que vous puissiez retirer votre consentement. Vérifiez vos paramètres réseau et réessayez.</string>
+  <string name="withdrawing">Retrait du consentement…</string>
   <string name="yesterday">Hier</string>
 </resources>

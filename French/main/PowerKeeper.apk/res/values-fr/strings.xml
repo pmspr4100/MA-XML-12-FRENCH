@@ -227,8 +227,9 @@ L'économiseur de batterie traitera les applications importantes de manière sé
   <string name="search_result_text">Impossible de trouver une application</string>
   <string name="send">Envoyer</string>
   <string name="show_system_app">Afficher les applications système</string>
-  <string name="sleep_config_enhance_description">"Chaque fois que MIUI détecte que vous dormez, il fermera les applications en arrière-plan, restreindra l'utilisation du NFC, Bluetooth, GPS, des données mobiles et du réseau Wi-Fi puis n'allumera pas l'écran à la réception des notifications."</string>
-  <string name="sleep_config_enhance_description_non_nfc">"Chaque fois que MIUI détecte que vous dormez, il fermera les applications en arrière-plan, restreindra l'utilisation du Bluetooth, GPS, des données mobiles et du réseau Wi-Fi puis n'allumera pas l'écran à la réception des notifications."</string>
+  <string name="sleep_config_enhance_description">"Pour économiser la batterie, MIUI fermera les applications en arrière-plan, limitera l'utilisation du NFC, du Bluetooth, du GPS, des données mobiles et du Wi-Fi, et n'allumera pas l'écran pour les notifications pendant que vous dormez la nuit."</string>
+  <string name="sleep_config_enhance_description_non_nfc">"Pour économiser la batterie, MIUI fermera les applications en arrière-plan, restreindra l'utilisation du Bluetooth, du GPS, des données mobiles et du Wi-Fi, et n'allumera pas l'écran pour les notifications pendant que vous dormez la nuit."</string>
+  <string name="sleep_config_enhance_description_pad">"Pour économiser la batterie, MIUI fermera les applications en arrière-plan, restreindra l'utilisation du Bluetooth et du Wi-Fi et n'allumera pas l'écran pour les notifications pendant que vous dormez la nuit."</string>
   <string name="sleep_config_enhance_title">Mode veille</string>
   <string name="sleepmode_disclaimer_agree">Accepter</string>
   <string name="sleepmode_disclaimer_cancel">Annuler</string>
