@@ -99,6 +99,10 @@ Note : Le fichier sera également supprimé de cet appareil."</item>
         <item quantity="other">Retirer %d chansons ?</item>
         <item quantity="one">Retirer %d chanson ?</item>
     </plurals>
+    <plurals name="dialog_request_delete_permission_descript">
+        <item quantity="other">%d des chansons sélectionnées sont stockées dans un dossier externe. Accordez les autorisations requises pour les supprimer.</item>
+        <item quantity="one">%d des chansons sélectionnées est stockée dans un dossier externe. Accordez les autorisations requises pour la supprimer.</item>
+    </plurals>
     <plurals name="download_finished">
         <item quantity="other">&lt;font color==\"red\">%d chansons&lt;/font> téléchargées</item>
         <item quantity="one">&lt;font color==\"red\">%d chanson&lt;/font> téléchargée</item>
