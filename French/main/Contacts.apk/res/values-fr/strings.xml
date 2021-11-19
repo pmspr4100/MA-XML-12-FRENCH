@@ -82,7 +82,7 @@
     <string name="batch_delete">Supprimer les contacts par lot</string>
     <string name="bh_about_business_hall">À propos de nous</string>
     <string name="bh_access_ms">Ouvrir Mi SIM</string>
-    <string name="bh_access_vs">Ouvrir Mi Roaming</string>
+    <string name="bh_access_vs">Ouvrir Itinérance Mi</string>
     <string name="bh_account_balance">Solde</string>
     <string name="bh_account_binded_number">%1$s est associé à votre compte</string>
     <string name="bh_add_as_shortcut">"Ajouter un raccourci vers l'écran d'accueil"</string>
@@ -110,6 +110,9 @@
     <string name="bh_buy_now">Acheter</string>
     <string name="bh_call_used">Minutes utilisées</string>
     <string name="bh_cancel">Annuler</string>
+    <string name="bh_cancellation_of_carrier_services">Annuler les services</string>
+    <string name="bh_cancellation_of_carrier_services_des">Annuler les services Mi Carrier</string>
+    <string name="bh_cancellation_of_carrier_services_result">"Si vous continuez, vous annulerez les services Mi Carrier. Après cela, nous cesserons de collecter et d'utiliser vos informations personnelles et supprimerons définitivement l'historique de vos commandes. Assurez-vous que toutes vos transactions sont terminées avant d'annuler les services."</string>
     <string name="bh_cannot_action">"Impossible d'utiliser %1$s. Installez d'abord l'application correspondante."</string>
     <string name="bh_cannot_fetch_num">Numéro de téléphone inconnu</string>
     <string name="bh_cannot_login_miacount">Identification au Compte Mi impossible</string>
@@ -142,6 +145,9 @@
     <string name="bh_delete_charged_phone_number">Supprimer le numéro de téléphone récemment utilisé</string>
     <string name="bh_delete_edited_phone_number">Supprimer le numéro de téléphone entré</string>
     <string name="bh_delete_success">Supprimer avec succès</string>
+    <string name="bh_deregister_service_failure_description">Attendez une minute ou deux et réessayez.</string>
+    <string name="bh_deregister_service_failure_title">"Impossible d'annuler les services"</string>
+    <string name="bh_deregister_service_success">Services annulés avec succès</string>
     <string name="bh_device_not_available_hint"><Data>"&lt;font color='#F22424'>Impossible d'utiliser ce périphérique.&lt;/font>La carte SIM virtuelle a été émise pour être utilisée sur l'appareil sur lequel l'achat a été effectué (&lt;font color='#F22424'>%1$s&lt;/font>). Utilisez plutôt cet appareil."</Data></string>
     <string name="bh_discover">Découvrir</string>
     <string name="bh_edit_saved_phone_number">Éditer le libellé pour le numéro enregistré</string>
@@ -159,7 +165,9 @@
     <string name="bh_gb">Go</string>
     <string name="bh_get_balance_success">"Vérifié avec succès. L'information peut être actualisée avec retard."</string>
     <string name="bh_get_charge_phone_number">Sélectionner depuis les contacts</string>
+    <string name="bh_goto_open">Refusé</string>
     <string name="bh_goto_set">Réglé</string>
+    <string name="bh_i_got_it">Compris</string>
     <string name="bh_hi">Bonjour %1$s !</string>
     <string name="bh_hi1">Bonjour %1$s (%2$s) !</string>
     <string name="bh_hi2">Bonjour utilisateur %1$s !</string>
@@ -168,8 +176,11 @@
     <string name="bh_input_hint">Entrer le numéro de téléphone</string>
     <string name="bh_input_total_limit">Entrez la quantité de données</string>
     <string name="bh_insert_card_number">Ajouter le numéro de téléphone de la SIM %1$d</string>
+    <string name="bh_is_open">Accordé</string>
     <string name="bh_just_now">"À l'instant"</string>
     <string name="bh_kb">Ko</string>
+    <string name="bh_login_to_cancellation">"Pour pouvoir annuler les services, connectez-vous d'abord."</string>
+    <string name="bh_login_to_withdrawal">"Pour pouvoir retirer votre consentement, connectez-vous d'abord."</string>
     <string name="bh_mb">Mo</string>
     <string name="bh_minute">min</string>
     <string name="bh_misim_recharge">Recharger</string>
@@ -182,11 +193,13 @@
     <string name="bh_my_order">Mes commandes</string>
     <string name="bh_net_error">Une erreur de réseau est survenue</string>
     <string name="bh_network_ctl">Gérer la connexion</string>
+    <string name="bh_no_permission_read_call_log_desc">"Cette autorisation permet d'afficher la durée de l'appel"</string>
+    <string name="bh_no_permission_read_contact_desc">"Cette autorisation permet d'accéder aux numéros de téléphone dans les contacts"</string>
     <string name="bh_no_card">Pas de carte SIM</string>
     <string name="bh_no_sim">"La carte SIM n'est pas installée"</string>
     <string name="bh_no_sim_inserted">"La carte SIM n'est pas installée"</string>
     <string name="bh_none">Aucun</string>
-    <string name="bh_not_contact">Impossible de trouver des résultats</string>
+    <string name="bh_not_contact">"Ce numéro n'est pas dans vos contacts"</string>
     <string name="bh_not_insert_card">Non insérée</string>
     <string name="bh_notice">Attention</string>
     <string name="bh_number_incorrect">Entrez un numéro de téléphone valide</string>
@@ -211,12 +224,15 @@
     <string name="bh_perm_ask_read_contacts">"Autoriser d'abord les Services Mi Carrier à accéder à vos contacts."</string>
     <string name="bh_perm_ask_read_phone_state">Autoriser les Services Mi Carrier à accéder au stockage dans les Paramètres.</string>
     <string name="bh_perm_desc_read_contacts">Pour afficher les contacts durant la recharge</string>
+    <string name="bh_permission_contact">Accéder aux contacts</string>
     <string name="bh_permission_contact_desc">Pour recharger le solde de vos contacts</string>
     <string name="bh_permission_get_accounts_desc">Pour passer des commandes et vérifier leur statut</string>
+    <string name="bh_permission_read_call_log">"Accéder à l'historique des appels"</string>
     <string name="bh_permission_read_call_log_desc">Pour afficher la durée des appels</string>
     <string name="bh_permission_read_call_log_desc_and_reason">"Lire le journal des appels pour afficher la durée de l'appel"</string>
     <string name="bh_permission_read_contact_desc_and_reason">Lire les contacts pour recharger le solde de vos contacts</string>
     <string name="bh_permission_read_phone_state_desc">Pour afficher des numéros de téléphone et les informations relatives aux opérateurs</string>
+    <string name="bh_permission_showing">Détails des autorisations</string>
     <string name="bh_personal_center">Afficher le profil</string>
     <string name="bh_phone_card_order">Carte SIM</string>
     <string name="bh_pkg_data_cant_query">"Affichage des détails impossible à cause de restrictions de l'opérateur"</string>
@@ -244,6 +260,9 @@
     <string name="bh_settings">Paramètres</string>
     <string name="bh_should_login_to_buy">"Identifiez-vous sur votre Compte Mi pour pouvoir acheter des minutes d'appel et des données mobiles"</string>
     <string name="bh_similar_number_hint">Ce numéro est similaire à %1$s. Recharger quand même ce numéro ?</string>
+    <string name="bh_stop_carrier_services">Désactiver les services Mi Carrier</string>
+    <string name="bh_stop_carrier_services_short">Désactiver les services Mi Carrier</string>
+    <string name="bh_stop_result">"Vous ne pourrez pas gérer votre forfait opérateur ou acheter des données et des minutes d'appel si vous désactivez les services Mi Carrier. Désactiver quand même ?"</string>
     <string name="bh_system_recommend">Recommandations système</string>
     <string name="bh_system_recommend_des">"Nous permettre d'analyser votre trafic et de recommander des produits numériques basés sur les résultats"</string>
     <string name="bh_tag">*%1$s</string>
@@ -277,9 +296,18 @@
     <string name="bh_verify_now">Vérifier ID</string>
     <string name="bh_view_detail">Afficher les détails</string>
     <string name="bh_view_more_options">"Plus d'options"</string>
-    <string name="bh_vs">Mi Roaming</string>
+    <string name="bh_vs">Itinérance Mi</string>
+    <string name="bh_where_to_restart_carrier_services">Vous pouvez toujours réactiver les services Mi Carrier dans Contacts > Paramètres.</string>
     <string name="bh_waiting_for_balance">Vérification du solde…</string>
     <string name="bh_will_open">Ouverture de %1$s…</string>
+    <string name="bh_withdraw_permission_failure_description">Attendez une minute ou deux et réessayez.</string>
+    <string name="bh_withdraw_permission_failure_title">Impossible de retirer le consentement</string>
+    <string name="bh_withdraw_permission_success">Consentement retiré avec succès</string>
+    <string name="bh_withdrawal_of_consent">Retrait du consentement</string>
+    <string name="bh_withdrawal_of_consent_and_cancellation_of_services">Retrait du consentement et annulation du service</string>
+    <string name="bh_withdrawal_of_consent_des">Retirer son consentement à la Politique de confidentialité des services Mi Carrier</string>
+    <string name="bh_withdrawal_of_consent_long">Retrait du consentement</string>
+    <string name="bh_withdrawal_of_consent_result">"Si vous continuez, vous retirerez votre consentement à la politique de confidentialité des services Mi Carrier. Après cela, nous cesserons de collecter et d'utiliser vos informations personnelles et supprimerons définitivement l'historique de vos commandes. Assurez-vous que toutes vos transactions sont terminées avant de retirer votre consentement."</string>
     <string name="bh_wrong_number_hint">Entrez un numéro de téléphone valide</string>
     <string name="bind_simcard_default">SIM par défaut pour les appels</string>
     <string name="bind_simcard_menu">Définir la carte SIM par défaut pour les appels</string>
@@ -544,18 +572,18 @@ Les cartes de contact ont été désactivées"</string>
     <string name="create_qrcode_fail_message">Impossible de créer le QR code</string>
     <string name="cta_content_seg1">
         <Data>"&lt;strong>Avertissement important
-    En appuyant sur \"J'accepte\" ci-dessous, vous acceptez les &lt;font color=#33aaff>&lt;a href='https://static.account.xiaomi.com/html/agreement/account/en.html'>Conditions de service du Compte Mi&lt;/a>&lt;/font>, l'&lt;font color=#33aaff>&lt;a href='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'>Accord d'utilisation Mi Roaming&lt;/a>&lt;/font>, et la &lt;font color=#33aaff>&lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Politique de confidentialité&lt;/a>&lt;/font>. Lisez attentivement ces documents et veillez à bien comprendre tous les Termes relatifs et les Conditions avant d'accepter.&lt;/strong>"</Data>
+    En appuyant sur \"J'accepte\" ci-dessous, vous acceptez les &lt;font color=#33aaff>&lt;a href='https://static.account.xiaomi.com/html/agreement/account/en.html'>Conditions de service du Compte Mi&lt;/a>&lt;/font>, l'&lt;font color=#33aaff>&lt;a href='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'>Accord d'utilisation Itinérance Mi&lt;/a>&lt;/font>, et la &lt;font color=#33aaff>&lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Politique de confidentialité&lt;/a>&lt;/font>. Lisez attentivement ces documents et veillez à bien comprendre tous les Termes relatifs et les Conditions avant d'accepter.&lt;/strong>"</Data>
     </string>
     <string name="cta_content_seg2">"
-    Mi Roaming nécessite une connexion à internet et doit accéder à vos informations de localisation pour fonctionner normalement. De plus, Mi Roaming est suceptible de collecter, d'utiliser, et de partager vos données personnelles. Celles-ci seront protégées en accord avec les lois et réglementations locales."</string>
+    Itinérance Mi nécessite une connexion à internet et doit accéder à vos informations de localisation pour fonctionner normalement. De plus, Itinérance Mi est suceptible de collecter, d'utiliser, et de partager vos données personnelles. Celles-ci seront protégées en accord avec les lois et réglementations locales."</string>
     <string name="cta_dialog_cancel">Quitter</string>
     <string name="cta_dialog_ok">"J'accepte"</string>
     <string name="cta_dialog_title">Termes et conditions</string>
     <string name="cta_newcontent_seg1">
-        <Data>"Nous avons mis à jour l'&lt;font color=#33aaff>&lt;a href='https://static.account.xiaomi.com/html/agreement/account/en.html'>Accord de service du Compte Mi&lt;/a>&lt;/font>, l'&lt;font color=#33aaff>&lt;a href='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'>Accord d'utilisation Mi Roaming&lt;/a>&lt;/font>, et la &lt;font color=#33aaff>&lt;a href='https://privacy.mi.com/business_hall/zh_CN/'>Politique de confidentialité&lt;/a>&lt;/font>. &lt;strong>Lisez attentivement ces documents et veillez à bien comprendre tous les Termes relatifs et les Conditions avant d'accepter.&lt;/strong>"</Data>
+        <Data>"Nous avons mis à jour l'&lt;font color=#33aaff>&lt;a href='https://static.account.xiaomi.com/html/agreement/account/en.html'>Accord de service du Compte Mi&lt;/a>&lt;/font>, l'&lt;font color=#33aaff>&lt;a href='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'>Accord d'utilisation Itinérance Mi&lt;/a>&lt;/font>, et la &lt;font color=#33aaff>&lt;a href='https://privacy.mi.com/business_hall/zh_CN/'>Politique de confidentialité&lt;/a>&lt;/font>. &lt;strong>Lisez attentivement ces documents et veillez à bien comprendre tous les Termes relatifs et les Conditions avant d'accepter.&lt;/strong>"</Data>
     </string>
     <string name="cta_newcontent_seg2">"
-    Mi Roaming est susceptible de collecter, d'utiliser, et de partager vos données personnelles. Celles-ci seront protégées en accord avec les lois et réglementations locales.
+    Itinérance Mi est susceptible de collecter, d'utiliser, et de partager vos données personnelles. Celles-ci seront protégées en accord avec les lois et réglementations locales.
     "</string>
     <string name="cta_newcontent_seg3">
         <Data>"&lt;strong>Avertissement important
@@ -1452,6 +1480,10 @@ Pour commencer, appuyez sur l'icône fusionner en bas de votre écran."</string>
     <string name="return_call_dialing">Numérotation</string>
     <string name="return_call_incoming">Appel entrant</string>
     <string name="ringLabelsGroup">Sonnerie</string>
+    <string name="saf_permission_dialog_content">"Android n'autorise pas Contacts et Téléphone à accéder aux enregistrements d'appels par défaut. Autorisez ces applications à accéder aux enregistrements d'appels pour pouvoir les afficher."</string>
+    <string name="saf_permission_dialog_grant_permission_immediately">Autoriser</string>
+    <string name="saf_permission_dialog_later">Plus tard</string>
+    <string name="saf_permission_dialog_title">"Autoriser Contacts et Téléphone à accéder aux enregistrements d'appels"</string>
     <string name="saturday">Samedi</string>
     <string name="saturday_short">Sam</string>
     <string name="saturday_shortest">Sam</string>

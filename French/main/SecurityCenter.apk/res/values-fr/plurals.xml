@@ -703,6 +703,10 @@ Vous pouvez obtenir un essai gratuit de %d jours maintenant !"</item>
         <item quantity="other">%s applications ont un accès permanent</item>
         <item quantity="one">%s application a un accès permanent</item>
     </plurals>
+    <plurals name="privacy_permission_summary_allow">
+        <item quantity="other">Autorisé pour %s applications</item>
+        <item quantity="one">Autorisé pour %s application</item>
+    </plurals>
     <plurals name="privacy_pop_times">
         <item quantity="other">%s fois</item>
         <item quantity="one">%s fois</item>

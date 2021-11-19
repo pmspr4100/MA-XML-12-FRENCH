@@ -3856,9 +3856,9 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
     <string name="join_many_items_last">%1$s et %2$s</string>
     <string name="join_two_items">%1$s et %2$s</string>
     <string name="kddi_nfc_disabled_summary">Indisponible parce que NFC/Osaifu-keitai est désactivé</string>
-    <string name="kddi_nfc_quick_toggle_summary">Activer la fonction NFC/Osaifu-keitai</string>
+    <string name="kddi_nfc_quick_toggle_summary">Activer la fonctionnalité NFC/Osaifu-keitai</string>
     <string name="kddi_nfc_secure_settings_title">"Verrouiller sur l'écran de verrouillage"</string>
-    <string name="kddi_nfc_secure_toggle_summary">"Autoriser la fonction NFC/Osaifu-keitai lorsque l'écran est déverrouillé"</string>
+    <string name="kddi_nfc_secure_toggle_summary">"Autoriser la fonctionnalité NFC/Osaifu-keitai uniquement lorsque l'appareil est déverrouillé"</string>
     <string name="keep_legacy_fingerprint">Garder</string>
     <string name="keep_screen_on">Laisser allumé</string>
     <string name="keep_screen_on_summary">"L'écran ne se mettra pas en veille pendant le chargement"</string>
@@ -4011,7 +4011,7 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
     <string name="kilobyte_per_second">" Ko/s"</string>
     <string name="kilobyteShort">" Ko"</string>
     <string name="knock_edge_area_invalid">"Ce geste ne fonctionne pas sur les bords de l'écran"</string>
-    <string name="knock_guide_sub_title">"En toquant sur votre écran, vous pouvez ouvrir Mi AI ou prendre des captures d'écran"</string>
+    <string name="knock_guide_sub_title">"En toquant sur votre écran, vous pouvez ouvrir Mi IA ou prendre des captures d'écran"</string>
     <string name="knock_guide_title">"Toquer rapidement deux fois sur l'écran"</string>
     <string name="knock_long_press_horizontal_slid">"Appuyer et glisser horizontalement avec l'articulation d'un doigt"</string>
     <string name="knock_slide_shape">"Dessiner un cercle avec l'articulation d'un doigt"</string>
@@ -4027,7 +4027,7 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
     <string name="last_synced">Dernière synchronisation : %1$s</string>
     <string name="last_time_used_label">Dernière utilisation</string>
     <string name="lattice_smartcover_title">Couverture avant Lattice</string>
-    <string name="launch_ai_shortcut">Raccourci Mi AI</string>
+    <string name="launch_ai_shortcut">Raccourci Mi IA</string>
     <string name="launch_alipay_health_code">Code de santé Alipay</string>
     <string name="launch_alipay_health_code_auto_close">"Le raccourci du code de santé Alipay n'est plus disponible. Vous pouvez passer à un autre raccourci."</string>
     <string name="launch_alipay_payment_code">Code de paiement Alipay</string>
@@ -6239,7 +6239,7 @@ Interface UT : %5$s"</string>
     <string name="recommend_item_title">Recommandations</string>
     <string name="recommend_text_wakeup_xiaoai">Paramètres</string>
     <string name="recommend_tip">"Besoin d'autres paramètres ?"</string>
-    <string name="recommend_tip_wakeup_xiaoai">"L'utilisation de boutons pour interagir avec Mi AI nécessite de désactiver les gestes en plein écran et de sélectionner des boutons comme méthode de navigation."</string>
+    <string name="recommend_tip_wakeup_xiaoai">"L'utilisation de boutons pour interagir avec Mi IA nécessite de désactiver les gestes en plein écran et de sélectionner des boutons comme méthode de navigation."</string>
     <string name="recompute_size">Calcul de la taille…</string>
     <string name="regional_screen_shot">"Capture d'écran partielle"</string>
     <string name="register_automatically">Inscription automatique…</string>
@@ -7326,6 +7326,7 @@ Le code PIN est peut-être incorrect."</string>
     <string name="smart_battery_manager_title">Gestionnaire de batterie</string>
     <string name="smart_battery_summary">"Limiter l'utilisation de la batterie pour les applications que vous n'utilisez pas souvent"</string>
     <string name="smart_battery_title">Gérer les applications automatiquement</string>
+    <string name="smart_dual_sim_title">Double SIM intelligente</string>
     <string name="smart_home_select_smart_device">Application pour la gestion des appareils domestiques intelligents</string>
     <string name="smart_home_title">Maison intelligente</string>
     <string name="smart_home_value_none">Aucune</string>
@@ -9250,7 +9251,8 @@ Configurer un réseau masqué n'affectera pas les paramètres de votre routeur."
     <string name="wifi_metered_title">Utilisation du réseau</string>
     <string name="wifi_modify">Éditer</string>
     <string name="wifi_more">Paramètres additionnels</string>
-    <string name="wifi_multi_network_acceleration">Smart network acceleration</string>
+    <string name="wifi_multi_network_acceleration">Accélération intelligente du réseau</string>
+    <string name="wifi_multi_network_acceleration_title">Accélération du réseau</string>
     <string name="wifi_multiple_cert_added">(Plusieurs certificats ajoutés)</string>
     <string name="wifi_network_optimization">Connexion au réseau intelligent</string>
     <string name="wifi_network_prefix_length">Longueur du préfixe réseau</string>
@@ -9685,7 +9687,7 @@ On dirait que le stockage des certificats n'est pas activé."</string>
     <string name="xiaoai_global_shortcut">Général</string>
     <string name="xiaoai_key_shortcut">Boutons</string>
     <string name="xiaoai_other_shortcut">Autres méthodes</string>
-    <string name="xiaoai_shortcut_settings_title">"Déclenchez Mi AI à l'aide de boutons et de gestes"</string>
+    <string name="xiaoai_shortcut_settings_title">"Déclenchez Mi IA à l'aide de boutons et de gestes"</string>
     <string name="xiaomi_account">Compte Mi</string>
     <string name="xiaomi_cloud_find_device">"Localiser l'appareil"</string>
     <string name="xiaomi_cloud_service">Xiaomi Cloud</string>

@@ -68,6 +68,7 @@
     <string name="alert_vibrate_enable_summary">"Vibrer lorsque l'alarme se déclenche"</string>
     <string name="alert_volume">Volume de la sonnerie</string>
     <string name="alert_volume_summary">Définir le volume de la sonnerie pour les alarmes et les minuteries</string>
+    <string name="alert_xiaoai_ringtone_desc">Mi IA parle…</string>
     <string name="analog_gadget">Horloge analogique</string>
     <string name="app_label">Horloge</string>
     <string name="auto_silence_never">Jamais</string>
@@ -373,6 +374,7 @@
     <string name="read_internal_storage">Accéder au stockage</string>
     <string name="remind_ringtone">Sonnerie</string>
     <string name="repeat_count">Fois</string>
+    <string name="repeat_type">Répéter</string>
     <string name="reset">RAZ</string>
     <string name="revert">Revenir</string>
     <string name="ringtone_all">Toutes les sonneries</string>
@@ -392,7 +394,9 @@
     <string name="search_stopwatch_keywords">Chronomètre</string>
     <string name="search_timer_keywords">Minuteur</string>
     <string name="search_worldclock_keywords">Heure;Horloge Mondiale;Horloge</string>
+    <string name="select_all">Tout sélectionner</string>
     <string name="select_operation">Sélectionner</string>
+    <string name="selected">Sélectionné</string>
     <string name="send">Envoyer</string>
     <string name="set_alarm">"Sélectionner l'heure"</string>
     <string name="set_alarm_choose_ringtone">Sélectionner une sonnerie</string>
@@ -535,6 +539,7 @@
     <string name="tv_blank_list_show_text">"Rien ici encore. Recherchez un lieu pour l'ajouter à votre horloge mondiale."</string>
     <string name="tv_world_clock_edit_title1">"Emplacements affichés sur l'écran d'accueil"</string>
     <string name="tv_world_clock_edit_title2">Autres emplacements enregistrés</string>
+    <string name="unselect_all">Tout désélectionner</string>
     <string name="upcoming_alarm">Prochaine alarme : %s</string>
     <string name="upcoming_alarm_hint">Vous pouvez désactiver cette alarme maintenant</string>
     <string name="update_health_app">Mettre à jour Mi Santé</string>
@@ -582,6 +587,7 @@
     <string name="worldcolock_timezone_current_date">dd/MM/yyyy</string>
     <string name="worldcolock_timezone_date">d MMMM</string>
     <string name="worldcolock_timezone_local">"Identique à l'heure locale"</string>
+    <string name="xiaoai_ringtone_title">Sonneries Mi IA</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Plus tard</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Mettre à jour</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Une mise à jour est disponible</string>

@@ -245,6 +245,7 @@
   <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
   <string name="quick_controls_subtitle">Ajouter des contrôles pour vos appareils connectés</string>
   <string name="quick_controls_title">"Contrôles de l'appareil"</string>
+  <string name="quick_settings_aitranslate_label">Traducteur MI IA</string>
   <string name="quick_settings_hang_label">Fenêtres flottantes</string>
   <string name="quick_settings_hang_on">Vous pouvez utiliser des fenêtres flottantes maintenant</string>
   <string name="quick_settings_pcmode_cancel_button">Annuler</string>
@@ -257,6 +258,8 @@
   <string name="quick_settings_pcmode_turn_off_description">"L'écran de votre téléphone s'affichera sur le moniteur externe. Désactiver le mode PC ?"</string>
   <string name="quick_settings_pcmode_turn_on_description">"L'écran de votre ordinateur s'affichera sur le moniteur externe. Désactiver le mode PC ?"</string>
   <string name="quick_settings_scanner_label">Scanner</string>
+  <string name="quick_settings_tiles_default">vowifi1,vowifi2,cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,gps,rotation,custom(com.miui.screenrecorder/.service.QuickService),scanner,papermode,night,quietmode,batterysaver,extremebatterysaver,custom(com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService),custom(com.milink.service/com.milink.ui.service.MiLinkTileService),pcmode,custom(com.miui.mishare.connectivity/.tile.MiShareTileService),uwb_shp,aitranslate,powermode,freeformhang,vibrate,hotspot,sync,custom(com.google.android.gms/.nearby.sharing.SharingTileService),screenbutton,wirelesspower,nfc,dolbyatomssound,edit</string>
+  <string name="quick_settings_tiles_stock">vowifi1,vowifi2,cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,gps,rotation,scanner,papermode,night,quietmode,batterysaver,extremebatterysaver,pcmode,uwb_shp,aitranslate,powermode,freeformhang,vibrate,hotspot,sync,screenbutton,wirelesspower,nfc,dolbyatomssound,edit,drivemode,hearingassisttile</string>
   <string name="quick_settings_wireless_label">Inverser la charge sans fil</string>
   <string name="reboot_info_auto_boot">Prochain démarrage : %s</string>
   <string name="reboot_info_shutdown_alarm">Prochaine alarme : %s</string>
