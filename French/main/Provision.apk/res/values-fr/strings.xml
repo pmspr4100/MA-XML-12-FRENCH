@@ -51,7 +51,8 @@
     <string name="clock_introduction">"Vous pouvez utiliser cette application pour visualiser l'heure, ainsi que pour utiliser la minuterie, l'horloge mondiale, le chronomètre, régler les alarmes, et plus encore."</string>
     <string name="close">Fermer</string>
     <string name="close_location_service_setting">"Vous pouvez choisir de désactiver l'accès à l'emplacement dans Paramètres > Protection de la vie privée > Gérer ou limiter les autorisations pour des applications individuelles dans Sécurité."</string>
-    <string name="cm_terms_content">"In order to improve the services provided to you, the mobile network operator of your choice may upload your personal data and the info about this device to its servers using Wi-Fi networks or mobile data connection. This information will only be used for statistical purposes in order to improve the quality of the services and provide more personalized content. This information won't be used to identify you personally and won't be disclosed to third parties."</string>
+    <string name="cloud_service_discount">Remise sur le service cloud</string>
+    <string name="cm_terms_content">"Afin d'améliorer les services qui vous sont fournis, l'opérateur de réseau mobile de votre choix peut télécharger vos données personnelles et les informations sur cet appareil sur ses serveurs à l'aide de réseaux Wi-Fi ou d'une connexion de données mobiles. Ces informations ne seront utilisées qu'à des fins statistiques afin d'améliorer la qualité des services et de proposer des contenus plus personnalisés. Ces informations ne seront pas utilisées pour vous identifier personnellement et ne seront pas divulguées à des tiers."</string>
     <string name="cm_terms_title">"Accord de l'opérateur du réseau mobile"</string>
     <string name="compass_introduction">"Vous pouvez utiliser cette application pour la navigation, ainsi que pour visualiser les coordonnées, la pression atmosphérique et l'altitude."</string>
     <string name="congratulation_label">Vous êtes prêt à faire sensation !</string>
@@ -94,6 +95,7 @@
     <string name="eras_ad">Apr. J.-C.</string>
     <string name="eras_bc">Av. J.-C.</string>
     <string name="evening">Après-midi</string>
+    <string name="exclusive_member_merchandise">Marchandises exclusives aux membres</string>
     <string name="expand_button_title">Avancé</string>
     <string name="fast_application_introduction">"L'infrastructure de service d'applications rapides est une infrastructure de service de base qui prend en charge la distribution et l'exploitation rapides d'applications."</string>
     <string name="fast_pairing_introduction">Mi Link utilise les capacités Bluetooth MIUI pour vous permettre de vous connecter rapidement aux appareils Bluetooth à proximité.</string>
@@ -133,6 +135,8 @@
     <string name="locale_picker_title">Sélectionnez votre région</string>
     <string name="location_introduction">Les services de localisation fournissent une variété de services basés sur la localisation en fonction de vos informations de localisation.</string>
     <string name="lockscreen_introduction">"Le Carrousel de fonds d'écran vous permet de toujours recevoir de nouvelles images sur votre écran de verrouillage."</string>
+    <string name="member_exclusive_medal">Médaille exclusive aux membres</string>
+    <string name="membership_rights_tip">Connectez-vous à votre compte Xiaomi pour obtenir les droits exclusifs</string>
     <string name="message_introduction">Vous pouvez utiliser cette application pour envoyer et recevoir des SMS.</string>
     <string name="mi_account_introduction">Le Compte Mi vous permet de vous inscrire, de vous connecter et de gérer les comptes système.</string>
     <string name="midnight">Nuit</string>
@@ -415,7 +419,7 @@ Pour contrôler cette fonctionnalité, recherchez \"Utilisation et diagnostics\"
     <string name="service_policy_adjust_content">Politique de confidentialité de Xunlei</string>
     <string name="service_policy_download"><Data>"Lisez et acceptez la &lt;a href=%1$s>Politique de confidentialité Xunlei&lt;/a > et le &lt;a href=%1$s>Contrat d'utilisation des services réseau Xunlei&lt;/a > avant de continuer."</Data></string>
     <string name="service_privacy_index">Politique de confidentialité</string>
-    <string name="service_security_over_r"><Data>"Lisez et acceptez notre &lt;a href=%1$s>Politique de confidentialité&lt;/a >.&lt;br/>&lt;br/>Conformément aux normes Android R, une autorisation unique sera retirée dans une période de temps définie (environ &lt;xliff:g example=5 secondes id=short>%2$s&lt;/xliff:g>) suivant l'arrêt de l'application correspondante. Si vous ouvrez l'application pendant cette courte période, l'autorisation sera alors retirée."</Data></string>
+    <string name="service_security_over_r"><Data>"Lisez et acceptez notre &lt;a href=%1$s>Politique de confidentialité&lt;/a>.&lt;br/>&lt;br/>Conformément aux normes Android &lt;xliff:g id=version_number example=11>%2$d&lt;/xliff:g>, une autorisation unique sera retirée dans une période de temps définie (environ &lt;xliff:g example=5 secondes id=short>%3$s&lt;/xliff:g>) suivant l'arrêt de l'application correspondante. Si vous ouvrez l'application pendant cette courte période, l'autorisation sera alors retirée."</Data></string>
     <string name="service_sim_activation">Activation de la carte SIM</string>
     <string name="servicestate_title">Déclaration sur les services de base</string>
     <string name="setting_locale">Définition de la région…</string>
@@ -572,6 +576,7 @@ Vous devez accepter la Politique de confidentialité de Mint Keyboard avant d'ut
     <string name="title_set_fingerprint">Écran de verrouillage</string>
     <string name="today">"Aujourd'hui"</string>
     <string name="tomorrow">Demain</string>
+    <string name="trade_in">Échanger</string>
     <string name="tuesday">Mardi</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
@@ -601,6 +606,10 @@ Vous devez accepter la Politique de confidentialité de Mint Keyboard avant d'ut
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>
     <string name="welcome">Bienvenue</string>
+    <string name="withdraw_consent">"Si vous retirez votre consentement, les services Diaporama de fonds d'écran seront désactivés."</string>
+    <string name="xiaomi_game_discounts">Remises sur les jeux Xiaomi</string>
+    <string name="xiaomi_membership_rights">"Droits d'adhésion Xiaomi"</string>
+    <string name="xiaomi_video_discount">Remise vidéo Xiaomi</string>
     <string name="yesterday">Hier</string>
     <string name="zone_picker_title">Choisir un fuseau horaire</string>
 </resources>
