@@ -8,7 +8,7 @@
 ## Traducteur
 * Pseudo : pmspr4100
 * Appareil : Redmi Note 10 Pro
-* Version : MIUI 12.5
+* Version : MIUI 12.5 Stable
 * Contact : (pms.pr4100@gmail.com)
 * Paypal : https://www.paypal.me/pmspr4100
 * Telegram : https://t.me/Miui12French
