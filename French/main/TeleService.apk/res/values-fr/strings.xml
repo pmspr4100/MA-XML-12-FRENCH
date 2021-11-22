@@ -1248,6 +1248,8 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
     <string name="msim_sim_radio_off">Désactivé</string>
     <string name="msim_switch_data_conn_toast">Cartes SIM échangées. Le type de réseau a changé. Voir les informations supplémentaires des cartes SIM et les réseaux cellulaires dans le menu Paramètres.</string>
     <string name="msim_switch_data_conn_toast_for_h2xct">"L'emplacement SIM 2 prend uniquement en charge les réseaux GSM. Le type de réseau préféré pour cet emplacement a été changé à 2G seulement."</string>
+    <string name="mtn_simlock_emergency">Urgence</string>
+    <string name="mtn_simlock_text_tip">"La carte SIM insérée ne répond pas aux exigences. Vous devez insérer une carte SIM requise par le contrat avant d'utiliser le téléphone. Pour plus de détails, veuillez contacter votre opérateur local."</string>
     <string name="multi_category_disable">Les catégories multiples sont désactivées</string>
     <string name="multi_category_enable">Les catégories multiples sont activées</string>
     <string name="n28_summary">Utiliser la bande de fréquence 803 MHz</string>
@@ -1943,6 +1945,7 @@ Interface UT : %5$s"</string>
     <string name="simContacts_title">Sélection des contacts à importer</string>
     <string name="simFdnContacts_empty">Aucun contact sur la liste numéros autorisés.</string>
     <string name="sim_accounts">Comptes SIM</string>
+    <string name="sim_can_not_read">"l'emplacement pour carte %d ne peut lire que la carte SIM de l'opérateur MTN"</string>
     <string name="sim_card_num">SIM %s</string>
     <string name="sim_change_data_message">Utiliser %1$s au lieu de %2$s pour les données mobiles ?</string>
     <string name="sim_change_data_title">Changer la carte SIM de données ?</string>
