@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="permission_delete_audio">
+        <item quantity="other">Autoriser ^1 à supprimer ^2 fichiers audio ?</item>
+        <item quantity="one">Autoriser ^1 à supprimer ce fichier audio ?</item>
+    </plurals>
+    <plurals name="permission_delete_generic">
+        <item quantity="other">Autoriser ^1 à supprimer ^2 éléments ?</item>
+        <item quantity="one">Autoriser ^1 à supprimer cet élément ?</item>
+    </plurals>
+    <plurals name="permission_delete_image">
+        <item quantity="other">Autoriser ^1 à supprimer ^2 photos ?</item>
+        <item quantity="one">Autoriser ^1 à supprimer cette photo ?</item>
+    </plurals>
+    <plurals name="permission_delete_video">
+        <item quantity="other">Autoriser ^1 à supprimer ^2 vidéos ?</item>
+        <item quantity="one">Autoriser ^1 à supprimer cette vidéo ?</item>
+    </plurals>
+    <plurals name="permission_more_text">
+        <item quantity="other">Plus ^1 éléments supplémentaires</item>
+        <item quantity="one">Plus ^1 élément supplémentaire</item>
+    </plurals>
+    <plurals name="permission_progress_delete_audio">
+        <item quantity="other">Suppression de ^1 fichiers audio…</item>
+        <item quantity="one">Suppression du fichier audio…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_generic">
+        <item quantity="other">Suppression de ^1 éléments…</item>
+        <item quantity="one">"Suppression de l'élément…"</item>
+    </plurals>
+    <plurals name="permission_progress_delete_image">
+        <item quantity="other">Suppression de ^1 photos…</item>
+        <item quantity="one">Suppression de la photo…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_video">
+        <item quantity="other">Suppression de ^1 vidéos…</item>
+        <item quantity="one">Suppression de la vidéo…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_audio">
+        <item quantity="other">Déplacement de ^1 fichiers audio vers la corbeille…</item>
+        <item quantity="one">Déplacement du fichier audio vers la corbeille…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_generic">
+        <item quantity="other">Déplacement de ^1 éléments vers la corbeille…</item>
+        <item quantity="one">"Déplacement de l'élément vers la corbeille…"</item>
+    </plurals>
+    <plurals name="permission_progress_trash_image">
+        <item quantity="other">Déplacement de ^1 photos vers la corbeille…</item>
+        <item quantity="one">Déplacement de la photo vers la corbeille…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_video">
+        <item quantity="other">Déplacement de ^1 vidéos vers la corbeille…</item>
+        <item quantity="one">Déplacement de la vidéo vers la corbeille…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_audio">
+        <item quantity="other">Récupération de ^1 fichiers audio depuis la corbeille…</item>
+        <item quantity="one">Récupération du fichier audio depuis la corbeille…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_generic">
+        <item quantity="other">Récupération de ^1 éléments depuis la corbeille…</item>
+        <item quantity="one">"Récupération de l'élément depuis la corbeille…"</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_image">
+        <item quantity="other">Récupération de ^1 photos depuis la corbeille…</item>
+        <item quantity="one">Récupération de la photo depuis la corbeille…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_video">
+        <item quantity="other">Récupération de ^1 vidéos depuis la corbeille…</item>
+        <item quantity="one">Récupération de la vidéo depuis la corbeille…</item>
+    </plurals>
+    <plurals name="permission_progress_write_audio">
+        <item quantity="other">Modification de ^1 fichiers audio…</item>
+        <item quantity="one">Modification du fichier audio…</item>
+    </plurals>
+    <plurals name="permission_progress_write_generic">
+        <item quantity="other">Modification de ^1 éléments…</item>
+        <item quantity="one">"Modification de l'élément…"</item>
+    </plurals>
+    <plurals name="permission_progress_write_image">
+        <item quantity="other">Modification de ^1 photos…</item>
+        <item quantity="one">Modification de la photo…</item>
+    </plurals>
+    <plurals name="permission_progress_write_video">
+        <item quantity="other">Modification de ^1 vidéos…</item>
+        <item quantity="one">Modification de la vidéo…</item>
+    </plurals>
+    <plurals name="permission_trash_audio">
+        <item quantity="other">Autoriser ^1 à déplacer ^2 fichiers audio vers la corbeille ?</item>
+        <item quantity="one">Autoriser ^1 à déplacer ce fichiers audio vers la corbeille ?</item>
+    </plurals>
+    <plurals name="permission_trash_generic">
+        <item quantity="other">Autoriser ^1 à déplacer ^2 éléments vers la corbeille ?</item>
+        <item quantity="one">Autoriser ^1 à déplacer cet élément vers la corbeille ?</item>
+    </plurals>
+    <plurals name="permission_trash_image">
+        <item quantity="other">Autoriser ^1 à déplacer ^2 photos vers la corbeille ?</item>
+        <item quantity="one">Autoriser ^1 à déplacer cette photo vers la corbeille ?</item>
+    </plurals>
+    <plurals name="permission_trash_video">
+        <item quantity="other">Autoriser ^1 à déplacer ^2 vidéos vers la corbeille ?</item>
+        <item quantity="one">Autoriser ^1 à déplacer cette vidéo vers la corbeille ?</item>
+    </plurals>
+    <plurals name="permission_untrash_audio">
+        <item quantity="other">Autoriser ^1 à récupérer ^2 fichiers audio de la corbeille ?</item>
+        <item quantity="one">Autoriser ^1 à récupérer ce fichier audio de la corbeille ?</item>
+    </plurals>
+    <plurals name="permission_untrash_generic">
+        <item quantity="other">Autoriser ^1 à récupérer ^2 éléments de la corbeille ?</item>
+        <item quantity="one">Autoriser ^1 à récupérer cet élément de la corbeille ?</item>
+    </plurals>
+    <plurals name="permission_untrash_image">
+        <item quantity="other">Autoriser ^1 à récupérer ^2 photos de la corbeille ?</item>
+        <item quantity="one">Autoriser ^1 à récupérer cette photo de la corbeille ?</item>
+    </plurals>
+    <plurals name="permission_untrash_video">
+        <item quantity="other">Autoriser ^1 à récupérer ^2 vidéos de la corbeille ?</item>
+        <item quantity="one">Autoriser ^1 à récupérer cette vidéo de la corbeille ?</item>
+    </plurals>
+    <plurals name="permission_write_audio">
+        <item quantity="other">Autoriser ^1 à modifier ^2 fichiers audio ?</item>
+        <item quantity="one">Autoriser ^1 à modifier ce fichier audio ?</item>
+    </plurals>
+    <plurals name="permission_write_generic">
+        <item quantity="other">Autoriser ^1 à modifier ^2 éléments ?</item>
+        <item quantity="one">Autoriser ^1 à modifier cet élément ?</item>
+    </plurals>
+    <plurals name="permission_write_image">
+        <item quantity="other">Autoriser ^1 à modifier ^2 photos ?</item>
+        <item quantity="one">Autoriser ^1 à modifier cette photo ?</item>
+    </plurals>
+    <plurals name="permission_write_video">
+        <item quantity="other">Autoriser ^1 à modifier ^2 vidéos ?</item>
+        <item quantity="one">Autoriser ^1 à modifier cette vidéo ?</item>
+    </plurals>
+</resources>

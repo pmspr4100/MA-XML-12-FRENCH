@@ -164,6 +164,7 @@
   <string name="click_to_reload_more">Appuyer pour charger plus</string>
   <string name="click_to_retry">Veuillez réessayer</string>
   <string name="close">Fermer</string>
+  <string name="close_notify_panel_tips">"Le mini lecteur s'affichera dans le panneau de notification lorsque la lecture en arrière-plan est activée"</string>
   <string name="cloud_auto_pip_play_switch">Utiliser le picture-in-picture automatiquement</string>
   <string name="cloud_online_player">Lecteur</string>
   <string name="cloud_online_switch">Recommandations personnalisées</string>
@@ -495,6 +496,23 @@ Envoyez ce code au superviseur."</string>
   <string name="galleryplus_subtitle_edit_literal_edit">Éditer texte</string>
   <string name="galleryplus_subtitle_edit_reminder">Le texte que vous avez entré est trop long</string>
   <string name="galleryplus_subtitle_recognized_empty_subtitles">"Échec reconnaissance vocale pendant votre enregistrement"</string>
+  <string name="galleryplus_talkback_btn_back">Retour</string>
+  <string name="galleryplus_talkback_btn_cancel">Annuler</string>
+  <string name="galleryplus_talkback_btn_fold_speed_view">Masquer la vitesse de lecture</string>
+  <string name="galleryplus_talkback_btn_lock_orientation">Rotation désactivée</string>
+  <string name="galleryplus_talkback_btn_mute">Muet</string>
+  <string name="galleryplus_talkback_btn_pause">Pause</string>
+  <string name="galleryplus_talkback_btn_play">Lecture</string>
+  <string name="galleryplus_talkback_btn_rotate_screen">"Tourner l'écran"</string>
+  <string name="galleryplus_talkback_btn_save">Enregistrer</string>
+  <string name="galleryplus_talkback_btn_send">Envoyer</string>
+  <string name="galleryplus_talkback_btn_unfold_speed_view">Vitesse de lecture</string>
+  <string name="galleryplus_talkback_btn_unmute">Réactiver le son</string>
+  <string name="galleryplus_talkback_focused_speed">Sélectionné, %sX</string>
+  <string name="galleryplus_talkback_sound_track_item_ai_music">Bande son automatique</string>
+  <string name="galleryplus_talkback_sound_track_item_local_music">Bande son locale</string>
+  <string name="galleryplus_talkback_sound_track_item_no_music">Pas de bande son</string>
+  <string name="galleryplus_talkback_unfocused_speed">Non sélectionné, %sX</string>
   <string name="galleryplus_v_agree">Accepter</string>
   <string name="galleryplus_v_cancel">Annuler</string>
   <string name="galleryplus_v_confirm_cancel_edit_subtitle_msg">"Abandonner toutes les modifications et arrêter l'édition des sous-titres maintenant ?"</string>
@@ -554,9 +572,15 @@ pour les vidéos"</string>
   <string name="library_android_database_sqlcipher_libraryName">SQLCipher pour Android</string>
   <string name="library_roundedimageview_libraryDescription">A fast ImageView (and Drawable) that supports rounded corners (and ovals or circles) based on the original example from Romain Guy.</string>
   <string name="live_now">En direct maintenant</string>
-  <string name="live_title">En direct</string>
+  <string name="live_title">TV en direct</string>
   <string name="live_tv_title">TV en direct</string>
   <string name="loading">Chargement…</string>
+  <string name="local_diversion_close_recommend">Fermer</string>
+  <string name="local_diversion_download_more_video">Plus de vidéos</string>
+  <string name="local_diversion_manage_local_video">Gérer les fichiers</string>
+  <string name="local_diversion_open_mivideo">"Regarder dans Mi Vidéo
+pour la meilleure expérience visuelle"</string>
+  <string name="local_diversion_recommend_title">Populaire</string>
   <string name="local_empty_guide">Les vidéos que vous filmez apparaîtront ici</string>
   <string name="local_play_tip">Lecture vidéo locale</string>
   <string name="local_push_title">"Populaire aujourd'hui"</string>
@@ -836,7 +860,7 @@ pour les vidéos"</string>
   <string name="notification_bar_player_subtitle">Afficher le lecteur réduit dans le panneau des notifications</string>
   <string name="notification_bar_player_title">Minimiser le lecteur</string>
   <string name="notification_open_tip">Activer pour recevoir des notifications</string>
-  <string name="notification_promotion">Recommandations</string>
+  <string name="notification_promotion">Recommandé</string>
   <string name="notification_recall_action">Activer</string>
   <string name="notification_recall_desc">Mi Vidéo peut vous notifier à propos des vidéos populaires et de vos abonnements.</string>
   <string name="notification_recall_title">Activer les notifications</string>
@@ -1054,6 +1078,7 @@ Augmenter la sécurité de votre compte."</string>
   <string name="phone_number">Numéro de téléphone</string>
   <string name="photoPickerNotFoundText">Aucune photo disponible.</string>
   <string name="pip">PiP</string>
+  <string name="pip_not_supported_toast">"Mettez à jour MIUI pour pouvoir utiliser l'image dans l'image (PiP)."</string>
   <string name="playlist_create">Créer</string>
   <string name="playlist_detail_recomm_title">Listes de lecture recommandées</string>
   <string name="playlist_finish">Effectué</string>
@@ -1187,8 +1212,14 @@ Augmenter la sécurité de votre compte."</string>
   <string name="plus_sort_type_time">Temps</string>
   <string name="plus_tab_gallery">Dossiers</string>
   <string name="plus_tab_time">Chronologie</string>
+  <string name="pm">PM</string>
+  <string name="popup_click_for_download_video">Télécharger la vidéo</string>
+  <string name="popup_pip_activate_button">Paramètres</string>
+  <string name="popup_pip_not_activated">"Autorisez Mi Vidéo à utiliser d'abord l'image dans l'image (PiP)."</string>
   <string name="privacy_revoke_setting">"En désactivant l'interrupteur, vous retirez votre consentement à la Politique de confidentialité de Mi Vidéo."</string>
   <string name="privacy_revoke_title">Retrait du consentement</string>
+  <string name="pro_prize_popup_style_one">Supprimer les publicités pour %s</string>
+  <string name="pro_prize_popup_style_two">Débloquez plus de fonctionnalités pour %s</string>
   <string name="progressbar_title">Recherche de problèmes de sécurité…</string>
   <string name="psw_hint">Mot de passe</string>
   <string name="psw_sign_in">Se connecter avec un mot de passe</string>
@@ -1571,5 +1602,5 @@ Taille : %2$s"</string>
   <string name="ytb_logout">Déconnexion</string>
   <string name="ytb_play_next">Suivant</string>
   <string name="ytb_subscribed">Abonnements</string>
-  <string name="ytb_trending">Tendance</string>
+  <string name="ytb_trending">Populaire</string>
 </resources>

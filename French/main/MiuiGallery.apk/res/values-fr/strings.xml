@@ -974,10 +974,13 @@ sont disponibles"</string>
   <string name="get_album_info_in_process">"Récupération des détails de l'album…"</string>
   <string name="gif_tip">GIF</string>
   <string name="gigabyteShort">" Go"</string>
+  <string name="global_pad">Ma tablette</string>
+  <string name="global_pc">Mon laptop</string>
+  <string name="global_phone">Mon téléphone</string>
   <string name="grant_permission_go_and_set">Définir</string>
-  <string name="grant_permission_text">"La Galerie a besoin de se connecter à 
+  <string name="grant_permission_text">"Galerie a besoin de se connecter à
 %s
- pour fonctionner normalement, appuyez sur \"Définir\" pour aller à Autorisations."</string>
+ pour fonctionner normalement, appuyez sur \"Définir\" pour aller aux Autorisations."</string>
   <string name="grant_permission_title">"Autoriser l'accès"</string>
   <string name="grant_permission_unlock_and_set">Déverrouiller et configurer</string>
   <string name="grant_permission_unlock_and_set_2">Déverrouiller</string>
@@ -2458,6 +2461,17 @@ Le transcodage peut prendre un certain temps lorsque vous utilisez cette fonctio
   <string name="unsupported_media_downloading_tip_format">"Affichage de l'original %s images ne sont pas prises en charge dans cette version d'Android. Télécharger quand même ?"</string>
   <string name="unsupported_media_scanned_tip">"%1$s images ont été détectées. Visualisation %2$s images ne sont pas prises en charge dans cette version d'Android."</string>
   <string name="unsupported_media_view_tip">"Affichage de l'original %s images ne sont pas prises en charge dans cette version d'Android"</string>
+  <string name="update_apk_size">Taille de mise à jour : %s Mo</string>
+  <string name="update_btn_exit">Quitter</string>
+  <string name="update_btn_negative">Plus tard</string>
+  <string name="update_btn_positive">Mettre à jour</string>
+  <string name="update_check">Vérifier les mises à jour</string>
+  <string name="update_check_title">Version actuelle : %s</string>
+  <string name="update_ignore">Ignorer cette version</string>
+  <string name="update_latest_version">La version actuelle est à jour</string>
+  <string name="update_network_error">Vérifiez vos paramètres réseau et réessayez</string>
+  <string name="update_new_version">Une mise à jour est disponible</string>
+  <string name="update_title">La version %s est disponible maintenant</string>
   <string name="user_agree">Accepter</string>
   <string name="user_agreement2">"Conditions d'utilisation"</string>
   <string name="user_agreement4">Politique de confidentialité</string>
@@ -2842,6 +2856,9 @@ Le transcodage peut prendre un certain temps lorsque vous utilisez cette fonctio
   <string name="widget_talkback_custom">Galerie. Images sélectionnées.</string>
   <string name="widget_talkback_recommend">Galerie. Souvenirs.</string>
   <string name="xiaomi_account_not_exists_toast">"Ce Compte Mi n'existe pas"</string>
+  <string name="xiaomi_market_sdk_update_dialog_cancel">Plus tard</string>
+  <string name="xiaomi_market_sdk_update_dialog_ok">Mettre à jour</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Une mise à jour est disponible</string>
   <string name="yes">Oui</string>
   <string name="yesterday">Hier</string>
   <string name="you_are">Vous êtes le</string>
