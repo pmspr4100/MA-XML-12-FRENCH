@@ -92,12 +92,12 @@
   <string name="accessibility_control_not_favorite">Non favori</string>
   <string name="accessibility_data_connection_roaming">Itinérance</string>
   <string name="accessibility_data_connection_wifi">Wi-Fi</string>
-  <string name="accessibility_data_one_bar">Signal de connexion de données très faible.</string>
+  <string name="accessibility_data_one_bar">Une barre de données.</string>
   <string name="accessibility_data_saver_off">Économiseur de données désactivé</string>
   <string name="accessibility_data_saver_on">Économiseur de données activé</string>
-  <string name="accessibility_data_signal_full">Signal de connexion de données excellent.</string>
-  <string name="accessibility_data_three_bars">Signal de connexion de données fort.</string>
-  <string name="accessibility_data_two_bars">Signal de connexion de données faible.</string>
+  <string name="accessibility_data_signal_full">Signal de données complet.</string>
+  <string name="accessibility_data_three_bars">Trois barres de données.</string>
+  <string name="accessibility_data_two_bars">Deux barres de données.</string>
   <string name="accessibility_desc_close">Fermer</string>
   <string name="accessibility_desc_connected">Connecté.</string>
   <string name="accessibility_desc_connecting">Connexion.</string>
@@ -308,7 +308,7 @@
   <string name="accessibility_wimax_signal_full">Signal WiMAX maximal.</string>
   <string name="accessibility_wimax_three_bars">Trois barres WiMAX.</string>
   <string name="accessibility_wimax_two_bars">Deux barres WiMAX.</string>
-  <string name="accessibility_work_profile_app_description">travail %s</string>
+  <string name="accessibility_work_profile_app_description">Travail %s</string>
   <string name="accessibility_zero_bars">Zéro barre.</string>
   <string name="accessor_expires_text">Le bail expire le %s</string>
   <string name="accessor_info_title">Applications partageant des données</string>
@@ -462,7 +462,7 @@ Réessayez dans %d secondes."</string>
   <string name="biometric_dialog_wrong_password">Mauvais mot de passe</string>
   <string name="biometric_dialog_wrong_pattern">Mauvais schéma</string>
   <string name="biometric_dialog_wrong_pin">Mauvais code PIN</string>
-  <string name="blob_expires_text">Expire à %s</string>
+  <string name="blob_expires_text">Expire le %s</string>
   <string name="blob_id_text">ID des données partagées : %d</string>
   <string name="block">Bloquer toutes les notifications</string>
   <string name="block_notification_content_text">"Les notifications de %1$s ne s'afficheront plus. Vous pourrez changer ceci dans les Paramètres."</string>
@@ -2432,7 +2432,7 @@ Il peut surchauffer si vous :
   <string name="thursday_short">Jeu</string>
   <string name="thursday_shortest">Jeu</string>
   <string name="tile_unavailable">Indisponible</string>
-  <string name="time_picker_dialog_title">"Réglage de l'heure"</string>
+  <string name="time_picker_dialog_title">"Régler l'heure"</string>
   <string name="time_unit_just_now">"À l'instant"</string>
   <string name="title_convert_fbe">Conversion en fichiers basés sur le chiffrement</string>
   <string name="title_usb_accessory">Accessoire USB</string>
