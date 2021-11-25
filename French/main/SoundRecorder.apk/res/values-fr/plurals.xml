@@ -96,6 +96,22 @@
         <item quantity="other">%d enregistrements trouvés</item>
         <item quantity="one">%d enregistrement trouvé</item>
     </plurals>
+    <plurals name="text_btn_list_with_message">
+        <item quantity="other">%d nouveaux enregistrements</item>
+        <item quantity="one">%d nouvel enregistrement</item>
+    </plurals>
+    <plurals name="time_left_for_clear_file">
+        <item quantity="other">%d jours restants</item>
+        <item quantity="one">%d jour restant</item>
+    </plurals>
+    <plurals name="trash_box_delete_items">
+        <item quantity="other">Supprimer définitivement %d enregistrements sélectionnés ?</item>
+        <item quantity="one">Supprimer définitivement %d enregistrement sélectionné ?</item>
+    </plurals>
+    <plurals name="trash_box_tip">
+        <item quantity="other">Les éléments supprimés peuvent être stockés dans la corbeille jusqu'à %d jours</item>
+        <item quantity="one">Les éléments supprimés peuvent être stockés dans la corbeille jusqu'à %d jour</item>
+    </plurals>
     <plurals name="unsynced_records_count">
         <item quantity="other">%d non synchronisés</item>
         <item quantity="one">%d non synchronisé</item>

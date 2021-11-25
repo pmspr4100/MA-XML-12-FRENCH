@@ -184,10 +184,16 @@
     <string name="context_menu_copy">Copier</string>
     <string name="context_menu_copy_notice">Copié dans le presse-papiers</string>
     <string name="context_menu_new_contact">Nouveau contact</string>
-    <string name="context_menu_send_mail">Envoyer un Email</string>
+    <string name="context_menu_send_mail">Envoyer un e-mail</string>
     <string name="context_menu_send_sms">Envoyer des SMS</string>
     <string name="context_menu_view_contact">Afficher le contact</string>
     <string name="context_menu_view_mms">Afficher le MMS</string>
+    <string name="conv_content_defraud_tip">Raporter une fraude</string>
+    <string name="conv_content_risk">Envoyé depuis un numéro inconnu</string>
+    <string name="conv_head_link_tip">Raporter une fraude</string>
+    <string name="conv_head_risk_tip">"Peut-être une fraude à l'étranger"</string>
+    <string name="conv_item_official">Officiel</string>
+    <string name="conv_item_risk_tip">Risque</string>
     <string name="conversation">Messages</string>
     <string name="conversation_listitem_avatar">Avatar</string>
     <string name="converting_to_picture_message">Conversion en MMS…</string>
@@ -410,6 +416,7 @@
     <string name="menu_new_manual">Entrez un numéro de téléphone</string>
     <string name="menu_pick_from_contact">Sélectionnez depuis les contacts</string>
     <string name="menu_preferences">Paramètres</string>
+    <string name="menu_report">Commentaires</string>
     <string name="menu_send_as_common">Envoyer par SMS</string>
     <string name="menu_sms_block">Liste noire</string>
     <string name="menu_traffic_destination">Destination</string>
