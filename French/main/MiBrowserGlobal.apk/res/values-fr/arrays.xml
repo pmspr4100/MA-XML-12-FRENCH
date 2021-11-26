@@ -12,12 +12,20 @@
         <item>Vert</item>
         <item>Bleu</item>
     </string-array>
+    <string-array name="nf_ad_feedback_reason">
+        <item>Pas intéressé</item>
+        <item>Répétitif</item>
+        <item>Faible qualité</item>
+        <item>Photo inappropriée</item>
+        <item>Information frauduleuse</item>
+    </string-array>
     <string-array name="nf_feedback_reason">
         <item>Contenu explicite</item>
         <item>Mensonge</item>
         <item>Actualités périmées</item>
         <item>Points de vue extrémistes</item>
         <item>Publicité subliminale</item>
+        <item>"Je n'aime pas ça"</item>
     </string-array>
     <string-array name="pref_fling_on_border_gesture_entries">
         <item>Aller en avant/en arrière</item>

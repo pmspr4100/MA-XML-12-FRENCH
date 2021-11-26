@@ -227,7 +227,7 @@ Désactivez pour arrêter la synchronisation."</string>
     <string name="category_folder">Dossiers</string>
     <string name="category_installed_app">Applications installées</string>
     <string name="category_midrive">Mi Drive</string>
-    <string name="category_move_limit_notice">"Vous pouvez déplacer de 3 à 7 éléments vers la partie supérieure de l'écran"</string>
+    <string name="category_move_limit_notice">"Vous pouvez déplacer de %1$d à %2$d éléments vers la partie supérieure de l'écran"</string>
     <string name="category_music">Musique</string>
     <string name="category_other">Autre</string>
     <string name="category_photo">Photos</string>
@@ -443,7 +443,7 @@ Envoyez ce code au superviseur."</string>
     <string name="download_btn_select_none">Tout désélectionner</string>
     <string name="download_business_app_new_version">La dernière version de cette application est déjà installée</string>
     <string name="download_business_app_update_install">Prêt à installer la mise à jour.</string>
-    <string name="download_business_v5_edit_mode_title_empty">0 sélectionné</string>
+    <string name="download_business_v5_edit_mode_title_empty">Sélectionnez des éléments</string>
     <string name="download_change_dir">Changer de dossier</string>
     <string name="download_complete">Téléchargé avec succès</string>
     <string name="download_completed">Téléchargé</string>
@@ -464,7 +464,7 @@ Envoyez ce code au superviseur."</string>
     <string name="download_dialog_failed_body">"Réessayez plus tard ou supprimez ce fichier de la file ​d'attente de téléchargement ?"</string>
     <string name="download_dialog_file_already_exists">"Vous avez déjà téléchargé ce fichier"</string>
     <string name="download_dialog_file_length_hint_txt">"Taille du fichier : "</string>
-    <string name="download_dialog_file_length_lessthan1kb">Moins de 1 Ko</string>
+    <string name="download_dialog_file_length_lessthan1kb">Moins de %1$d Ko</string>
     <string name="download_dialog_file_length_nolength_error_txt">Téléchargement impossible</string>
     <string name="download_dialog_file_length_nolength_txt">Un instant…</string>
     <string name="download_dialog_file_missing_body">"Impossible de trouver le fichier. L'avez-vous déplacé ou supprimé ?"</string>
@@ -674,6 +674,8 @@ Envoyez ce code au superviseur."</string>
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
     <string name="gaid">GAID(Cliquer pour exporter)</string>
+    <string name="game_center_recommend_play">Jouer</string>
+    <string name="game_center_recommend_title">Recommandé pour vous</string>
     <string name="game_news_flow_download_bar_download">Télécharger</string>
     <string name="game_news_flow_download_bar_play">Lire</string>
     <string name="game_played">Récent</string>
@@ -790,9 +792,9 @@ Envoyez ce code au superviseur."</string>
     <string name="lockpattern_need_to_unlock_wrong">Réessayer</string>
     <string name="lockpattern_pattern_confirmed_header">Voici votre schéma de déverrouillage :</string>
     <string name="lockpattern_pattern_entered_header">Terminé !</string>
-    <string name="lockpattern_recording_incorrect_too_short">Réessayer. Connectez au moins 4 points.</string>
+    <string name="lockpattern_recording_incorrect_too_short">Réessayer. Connectez au moins %1$d points.</string>
     <string name="lockpattern_recording_inprogress">Relâchez lorsque votre schéma est terminé</string>
-    <string name="lockpattern_recording_intro_header">Connectez au moins 4 points</string>
+    <string name="lockpattern_recording_intro_header">Connectez au moins %1$d points</string>
     <string name="lockpattern_retry_button_text">Réinitialiser</string>
     <string name="login_failed_toast">Impossible de se connecter, actualisez et réessayez</string>
     <string name="login_or_register">ou</string>
@@ -803,7 +805,7 @@ Envoyez ce code au superviseur."</string>
     <string name="make_private_msg_1">Masquer ce fichier ?</string>
     <string name="make_private_msg_2">Masquer ces fichiers ?</string>
     <string name="max_tabs_warning">"Impossible d'ouvrir plus d'onglets"</string>
-    <string name="maximum_input_alert">"Impossible d'entrer plus de 2048 caractères"</string>
+    <string name="maximum_input_alert">"Impossible d'entrer plus de %1$d caractères"</string>
     <string name="menu_addtodesk">"Ajouter à l'écran d'accueil"</string>
     <string name="menu_exit_nightmode">Quitter</string>
     <string name="menu_hv_swap">Écran V/H</string>
@@ -1710,7 +1712,6 @@ Certains sites n'utiliseront pas votre historique de navigation précédent pour
     <string name="search_hint">Search</string>
     <string name="search_label">Browser</string>
     <string name="search_menu_title">Search</string>
-    <string name="search_s139">139</string>
     <string name="search_settings_description">Favoris et historique Web</string>
     <string name="search_shipin">Video</string>
     <string name="search_sm">SM</string>
@@ -2045,8 +2046,8 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="vpn_data_used_info">Used %2$s of %1$s</string>
     <string name="vpn_detail_guide1">Unlock all servers to speed up your connection</string>
     <string name="vpn_detail_guide2">Subscribe to VPN services to access more websites</string>
-    <string name="vpn_detail_guide3">"You're almost out of traffic. Try our 12-month plan! Tap to learn about your options."</string>
-    <string name="vpn_detail_guide4">"You're out of traffic. Try our 12-month plan! Tap to learn about your options."</string>
+    <string name="vpn_detail_guide3">"You're almost out of traffic. Try our %1$d-month plan! Tap to learn about your options."</string>
+    <string name="vpn_detail_guide4">"You're out of traffic. Try our %1$d-month plan! Tap to learn about your options."</string>
     <string name="vpn_detail_guide5">"You're almost out of traffic"</string>
     <string name="vpn_detail_guide6">"You're out of traffic"</string>
     <string name="vpn_detail_subscribe">Subscribe</string>
@@ -2077,7 +2078,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="whatsapp_how_it_works">How it works</string>
     <string name="whatsapp_intro_dialog_title">New feature</string>
     <string name="whatsapp_no_status_tips">No images or videos here yet. View your WhatsApp status updates and come back here again.</string>
-    <string name="whatsapp_principle_page_message">WhatsApp saves photos and videos that you browse to a hidden folder. These items disappear after 24 hours. Now you can use Mi Browser to save them.</string>
+    <string name="whatsapp_principle_page_message">WhatsApp saves photos and videos that you browse to a hidden folder. These items disappear after %1$d hours. Now you can use Mi Browser to save them.</string>
     <string name="whatsapp_principle_page_title">You can save images and videos from WhatsApp statuses using Mi Browser</string>
     <string name="whatsapp_principle_step_1">Browse images and videos from the \"Status\" tab in WhatsApp.</string>
     <string name="whatsapp_principle_step_2">Come back here to save them.</string>
