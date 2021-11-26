@@ -30,8 +30,8 @@
         <item quantity="one">Il y a 1 min</item>
     </plurals>
     <plurals name="current_page_number">
-        <item quantity="other">Viewing page %d</item>
-        <item quantity="one">Viewing page %d</item>
+        <item quantity="other">Page %d affichée</item>
+        <item quantity="one">Page %d affichée</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Il y a 1 demi-heure</item>
@@ -61,7 +61,7 @@
         <item quantity="one">Il y a 1 minute</item>
     </plurals>
     <plurals name="total_pages">
-        <item quantity="other">Total %d pages</item>
-        <item quantity="one">Total %d page</item>
+        <item quantity="other">Total de %d pages</item>
+        <item quantity="one">Total de %d page</item>
     </plurals>
 </resources>

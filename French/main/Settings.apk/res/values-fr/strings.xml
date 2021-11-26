@@ -3410,6 +3410,7 @@ Il semblait n'y avoir ni chevaux, ni animaux d'aucune espèce ; les hommes tran
     <string name="freeform_guide_notification_drop_down_title">Ouverture de fenêtres flottantes</string>
     <string name="freeform_guide_settings">Fenêtre flottante</string>
     <string name="freeform_guide_slide_to_small_freeform_summary">"Faites glisser du bas de l'écran vers le coin supérieur droit de l'écran"</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary_pad">Faites glisser le coin pour réduire une application</string>
     <string name="freeform_guide_slide_to_small_freeform_title">Glisser vers des fenêtres flottantes</string>
     <string name="freeform_guide_slide_up_to_close_summary">"Glissez vers le haut depuis la barre d'action d'une fenêtre flottante"</string>
     <string name="freeform_guide_slide_up_to_close_title">Fermer les fenêtres flottantes</string>
@@ -5041,6 +5042,8 @@ Sélectionnez votre système d'exploitation :"</string>
     <string name="multi_network_acceleration_app_settings">Accélération du réseau pour les applications</string>
     <string name="multi_touch_points_category_title">Multi-touch points</string>
     <string name="multi_touch_points_preference">Ce paramètre prendra effet après avoir redémarré votre appareil</string>
+    <string name="multi_window_cvw_summary">Faites glisser le coin pour basculer vers une fenêtre flottante et ajuster sa taille</string>
+    <string name="multi_window_cvw_title">Fenêtre flottante</string>
     <string name="multifunction_keyboard">Multifonctionnel</string>
     <string name="music_app_unavailable">"Assurez-vous que l'application Mi Musique est disponible."</string>
     <string name="music_audio_effect_optimize">Paramètres audio</string>
@@ -7063,6 +7066,11 @@ Remarque : Vous ne pouvez pas utiliser votre empreinte digitale pour déverroui
     <string name="settings_backup">Sauvegarder les paramètres</string>
     <string name="settings_backup_summary">Sauvegarder mes paramètres</string>
     <string name="settings_button">Paramètres</string>
+    <string name="settings_charging_at_fast_speed">En charge rapide</string>
+    <string name="settings_charging_at_normal_speed">En charge</string>
+    <string name="settings_charging_at_top_speed">En charge à pleine vitesse</string>
+    <string name="settings_charging_fully_charged">Charge complétée</string>
+    <string name="settings_charging_not_charging">Pas en charge</string>
     <string name="settings_forbidden_message">Ce paramètre est restreint</string>
     <string name="settings_label">Paramètres</string>
     <string name="settings_label_launcher">Paramètres</string>
@@ -8661,10 +8669,11 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
     <string name="vibrate_when_ringing_title">Vibrer pour les appels</string>
     <string name="video_calling_settings_title">Appel vidéo opérateur</string>
     <string name="video_tool_box_title">Boîte à outils vidéo</string>
-    <string name="view_saved_network">To view, choose saved network</string>
+    <string name="view_saved_network">Pour afficher, choisissez le réseau enregistré</string>
     <string name="vip_list">Notifier les appels</string>
+    <string name="vip_service_settings">Mes services</string>
     <string name="virtual_keyboard_category">Clavier virtuel</string>
-    <string name="virtual_keyboards_for_work_title">Virtual keyboard for work</string>
+    <string name="virtual_keyboards_for_work_title">Clavier virtuel pour le travail</string>
     <string name="virtual_sim_category_title">Mi Itinérance</string>
     <string name="virtual_sim_description">"Service d'itinérance fiable"</string>
     <string name="virtual_sim_global_category_title">Mi SIM</string>
