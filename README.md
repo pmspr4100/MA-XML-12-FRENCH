@@ -8,7 +8,7 @@
 ## Traducteur
 * Pseudo : pmspr4100
 * Appareil : Redmi Note 10 Pro
-* Version : MIUI 12.5 Stable
+* Version : MIUI 12.5.8 Stable
 * Contact : (pms.pr4100@gmail.com)
 * Paypal : https://www.paypal.me/pmspr4100
 * Telegram : https://t.me/Miui12French
@@ -24,4 +24,6 @@
 ## Structure
 Dossiers | Descriptions
 :------------: | :------------:
-/ French / main | Applications MIUI (APK) pour tous les appareils Xiaomi
+/ French / device | Applications MIUI spécifique au modèle Xiaomi
+/ French / extras | Widgets MIUI pour tous les appareils Xiaomi
+/ French / main | Applications MIUI pour tous les appareils Xiaomi
