@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+      <item>Domicile</item>
+      <item>Bureau</item>
+      <item>Autre</item>
+      <item>Personnalisée</item>
+    </string-array>
+    <string-array name="organizationTypes">
+      <item>Bureau</item>
+      <item>Autre</item>
+      <item>Personnalisée</item>
+    </string-array>
+    <string-array name="phoneTypes">
+      <item>Domicile</item>
+      <item>Mobile</item>
+      <item>Bureau</item>
+      <item>Télécopie bureau</item>
+      <item>Télécopie domicile</item>
+      <item>Bipeur</item>
+      <item>Autre</item>
+      <item>Personnalisé</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+      <item>Domicile</item>
+      <item>Bureau</item>
+      <item>Autre</item>
+      <item>Personnalisée</item>
+    </string-array>
+	<string-array name="fingerprint_acquired_vendor">
+      <item>Réessayer</item>
+      <item></item>
+      <item></item>
+      <item>"Couvrir complètement le lecteur d'empreintes digitales et appliquer une pression"</item>
+      <item></item>
+      <item>"Couvrir complètement le lecteur d'empreintes digitales et appliquer une pression"</item>
+      <item>"Couvrir complètement le lecteur d'empreintes digitales et appliquer une pression"</item>
+      <item></item>
+      <item></item>
+      <item></item>
+      <item></item>
+      <item>"Couvrir complètement le lecteur d'empreintes digitales et appliquer une pression"</item>
+      <item>"Couvrir complètement le lecteur d'empreintes digitales et appliquer une pression"</item>
+      <item>"Trop vite ! Impossible de reconnaître les empreintes digitales"</item>
+      <item>Déplacez votre doigt un peu et essayez à nouveau</item>
+      <item>Soulevez votre doigt et remettez-le sur le lecteur</item>
+      <item>Gardez votre doigt sur le lecteur un peu plus longtemps</item>
+      <item></item>
+      <item></item>
+      <item></item>
+      <item></item>
+      <item></item>
+      <item></item>
+      <item></item>
+      <item></item>
+      <item>Déplacer légèrement votre doigt</item>
+      <item>Cette empreinte a été ajoutée, utilisez un autre doigt</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+      <item>Domicile</item>
+      <item>Bureau</item>
+      <item>Autre</item>
+      <item>Personnalisé</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+      <item>Données mobiles</item>
+      <item>Wi-Fi</item>
+      <item>Bluetooth</item>
+      <item>Ethernet</item>
+      <item>VPN</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+      <item>"Pour passer des appels et envoyer des messages via le Wi-Fi, demandez d'abord à votre opérateur de configurer ce service. Ensuite, réactivez les appels Wi-Fi dans les paramètres. (Code d'erreur : %1$s)"</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+      <item>"Problème lors de l'enregistrement des appels Wi-Fi avec votre opérateur : %1$s"</item>
+    </string-array>
+</resources>
