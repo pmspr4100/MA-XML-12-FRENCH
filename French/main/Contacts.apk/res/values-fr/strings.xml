@@ -900,6 +900,7 @@ Raison : \"%s\""</string>
     <string name="insertContactDescription">Créer un contact</string>
     <string name="insertGroupDescription">Créer un groupe</string>
     <string name="invalidContactMessage">"Le contact n'existe pas"</string>
+    <string name="item_offical">Officiel</string>
     <string name="keep_local">Synchro désactivée</string>
     <string name="keep_local_btn">Utiliser le stockage interne du périphérique</string>
     <string name="label_custom_type">Personnaliser</string>
@@ -1260,7 +1261,7 @@ Pour ajouter un contact à votre liste de favoris :
     <string name="permission_dailog_title">Autorisations requises</string>
     <string name="permission_notice_desc_access_fine_location">"Pour importer des contacts depuis d'autres appareils via Bluetooth"</string>
     <string name="permission_notice_desc_add_voicemail">Pour utiliser les fonctionnalités de messagerie vocale et de message audio</string>
-    <string name="permission_notice_desc_call_phone">Pour passer des appels dans des applications tierces</string>
+    <string name="permission_notice_desc_call_phone">"Pour passer des appels via les raccourcis de l'écran d'accueil"</string>
     <string name="permission_notice_desc_call_phone_for_pad">Pour passer des appels dans des applications tierces</string>
     <string name="permission_notice_desc_camera">Pour prendre des photos de profil</string>
     <string name="permission_notice_desc_read_call_logs">"Pour afficher l'historique des appels"</string>
@@ -1273,14 +1274,14 @@ Pour ajouter un contact à votre liste de favoris :
     <string name="permission_notice_desc_write_external_storage">Pour ajouter des photos de profil et importer des vCards</string>
     <string name="permission_record_audio_desc">"Pour utiliser votre voix durant la vérification de l'identité"</string>
     <string name="permission_retry_deny">Annuler</string>
-    <string name="permission_retry_dialog_msg">"Pour pouvoir utiliser votre carte SIM avec cette application, gérer vos contacts et maintenir l'historique des appels à jour, autorisez cette application à accéder et à modifier vos contacts et l'historique des appels, ainsi qu'à accéder aux informations de l'appareil."</string>
+    <string name="permission_retry_dialog_msg">"Pour pouvoir utiliser votre carte SIM avec cette application, passer des appels via les raccourcis de l'écran d'accueil, gérer vos contacts et maintenir l'historique des appels à jour, autorisez cette application à accéder et à modifier vos contacts et l'historique des appels, ainsi qu'à accéder aux informations de l'appareil."</string>
     <string name="permission_retry_dialog_msg_pad">"Pour pouvoir utiliser votre carte SIM avec cette application et gérer vos contacts, autorisez cette application à accéder et à modifier vos contacts, ainsi qu'à accéder aux informations de l'appareil."</string>
     <string name="permission_retry_setting">Paramètres</string>
     <string name="permission_write_external_storage_desc">"Pour sauvegarder les données de l'application"</string>
     <string name="phoneLabelsGroup">Téléphone</string>
     <string name="phone_number_too_long_toast">Ce numéro est trop long</string>
     <string name="phone_primary">Primaire</string>
-    <string name="photoPickerNotFoundText">Aucune photo disponible sur le périphérique.</string>
+    <string name="photoPickerNotFoundText">Aucune photo disponible.</string>
     <string name="photo_fragment">Photo</string>
     <string name="photo_load_failed">Impossible de charger la photo</string>
     <string name="pick_new_photo">Sélectionnez une nouvelle photo depuis %s</string>
@@ -1384,7 +1385,7 @@ Pour ajouter un contact à votre liste de favoris :
     <string name="privacy_password_title4">Mot de passe mis à jour</string>
     <string name="privacy_policy_and_user_agreement">"Politique de confidentialité et Accord d'utilisation"</string>
     <string name="privacy_settings_call_phone">Passer des appels</string>
-    <string name="privacy_settings_call_phone_description">Pour passer des appels dans des applications tierces</string>
+    <string name="privacy_settings_call_phone_description">"Pour passer des appels via les raccourcis de l'écran d'accueil"</string>
     <string name="privacy_settings_call_phone_description_for_pad">Pour passer des appels dans des applications tierces</string>
     <string name="privacy_settings_call_phone_for_pad">Passer des appels</string>
     <string name="privacy_settings_contacts">Contacts et Téléphone</string>

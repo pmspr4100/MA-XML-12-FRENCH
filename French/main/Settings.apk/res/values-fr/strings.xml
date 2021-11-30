@@ -864,6 +864,7 @@ Si cette autorisation est désactivée, les alarmes existantes et les événemen
     <string name="auto_sync_account_title">Synchronisation auto. données</string>
     <string name="auto_sync_personal_account_title">Synchronisation automatique des données personnelles</string>
     <string name="auto_sync_work_account_title">Synchronisation automatique des données professionnelles</string>
+    <string name="auto_task_operation_close">Fermer</string>
     <string name="autofill_app">Service de saisie automatique</string>
     <string name="autofill_confirmation_message">"&lt;b>Assurez-vous de faire confiance à cette application&lt;/b> &lt;br/> &lt;br/> &lt;xliff:g id=app_name example=Google Autofill>%1$s&lt;/xliff:g> utilise les éléments affichés à l'écran pour déterminer les champs qui peuvent bénéficier de la saisie automatique."</string>
     <string name="autofill_keywords">automatique, saisie, saisie automatique</string>
@@ -1303,6 +1304,8 @@ Applications :
     <string name="bluetooth_enable_gabeldorsche_summary">Active la pile de fonctionnalités Gabeldorsche.</string>
     <string name="bluetooth_enable_page_scan">"Activer l'analyse de page Bluetooth"</string>
     <string name="bluetooth_enable_page_scan_summary">"Désactiver/activer l'analyse de page pour le test Bluetooth"</string>
+    <string name="bluetooth_enable_pts_test">enable bluetooth PTS test</string>
+    <string name="bluetooth_enable_pts_test_summary">disable/enable PTS for Bluetooth test</string>
     <string name="bluetooth_enter_passkey_msg">Saisissez le code de couplage, puis appuyez sur Retour ou Entrée</string>
     <string name="bluetooth_enter_passkey_other_device">"Vous devrez peut-être également saisir ce mot de passe sur l'autre appareil."</string>
     <string name="bluetooth_enter_pin_other_device">"Vous devrez peut-être également saisir ce code sur l'autre appareil."</string>
@@ -4587,6 +4590,7 @@ D'autres personnes utilisent cet appareil.
     <string name="menu_duration_3h">3 heures</string>
     <string name="menu_duration_6h">6 heures</string>
     <string name="menu_hide_system">Masquer les processus système</string>
+    <string name="menu_item_notification_power_text">Optimisation de la batterie</string>
     <string name="menu_key">Menu</string>
     <string name="menu_new">Nouvel APN</string>
     <string name="menu_proc_stats_duration">Durée</string>
@@ -5586,6 +5590,7 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="owner_info_settings_summary">Aucun</string>
     <string name="owner_info_settings_title">"Signature de l'écran de verrouillage"</string>
     <string name="owner_space">Premier espace</string>
+    <string name="p2p_summary_enable_GPS">Cette fonctionnalité fonctionne lorsque les services de localisation sont activés</string>
     <string name="packages_subtitle">Modules inclus</string>
     <string name="pad_backup_summary">Sauvegarder et restaurer des éléments sur cet appareil</string>
     <string name="pad_backup_title">Appareil mobile</string>
@@ -7472,8 +7477,10 @@ Retirer le consentement à %s maintenant ?"</string>
     <string name="speed_label_slow">Lent</string>
     <string name="speed_label_very_fast">Très rapide</string>
     <string name="speed_label_very_slow">Très lent</string>
-    <string name="speed_mode">Mode vitesse</string>
-    <string name="speed_mode_summary">Pour déboguer des applications.</string>
+    <string name="speed_mode">Mode Vitesse</string>
+    <string name="speed_mode_noti_summary">"Le mode Vitesse augmentera la consommation d'énergie et la production de chaleur"</string>
+    <string name="speed_mode_noti_title">Mode vitesse activé</string>
+    <string name="speed_mode_summary">"Lorsqu'il est allumé, les performances atteindront l'état extrême, mais cela augmentera la consommation d'énergie et générera de la chaleur. Veuillez l'activer avec précaution"</string>
     <string name="spell_checker_master_switch_title">Utiliser le correcteur orthographique</string>
     <string name="spell_checker_not_selected">Non sélectionné</string>
     <string name="spell_checker_primary_switch_title">Use spell checker</string>

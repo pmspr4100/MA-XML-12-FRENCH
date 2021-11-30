@@ -42,6 +42,11 @@
     <string name="application_package_introduction">"Le programme d'installation du package est utilisé pour installer des applications tierces, y compris les services d'analyse avant l'installation et de recommandation d'applications après l'installation."</string>
     <string name="application_permissions">Autorisations des applications</string>
     <string name="back">Retour</string>
+    <string name="backup_introduction">Vous pouvez utiliser cette application pour sauvegarder et restaurer des éléments sur votre appareil.</string>
+    <string name="bluetooth_introduction">Bluetooth est utilisé par le système pour la communication sans fil. Pour pouvoir fonctionner normalement, Bluetooth a besoin des autorisations suivantes :</string>
+    <string name="boot_video_desc">Voir le monde en 2K</string>
+    <string name="boot_video_replay">Rejouer</string>
+    <string name="boot_video_skip">Ignorer</string>
     <string name="calculator_introduction">"Vous pouvez utiliser cette application pour les calculs, la conversion des unités et des devises, et l'estimation de vos remboursements hypothécaires."</string>
     <string name="camera_application_introduction">Vous pouvez utiliser cette application pour prendre des photos et des vidéos.</string>
     <string name="camera_introduction">"Vous pouvez utiliser l'appareil photo pour prendre des photos et filmer des vidéos."</string>
@@ -84,6 +89,7 @@
     <string name="disagreement_location_service_abnormal">"Si vous n'acceptez pas d'accorder ces autorisations, vous ne pourrez pas utiliser les services de localisation. Vous pouvez activer ou désactiver les services de localisation à tout moment dans Paramètres > Protection de la vie privée."</string>
     <string name="disagreement_mi_account_abnormal">"Si vous n'acceptez pas d'accorder ces autorisations, vous ne pourrez pas utiliser les services du Compte Mi. Vous pouvez activer ou désactiver les services du Compte Mi à tout moment dans Paramètres > Compte Mi."</string>
     <string name="disagreement_service_not_working_properly">"Si vous n'acceptez pas d'accorder ces autorisations, vous ne pourrez pas utiliser cette application."</string>
+    <string name="disagreement_terminate_bluetooth">"Si vous ne souhaitez pas accorder ces autorisations, vous ne pourrez pas utiliser Bluetooth. Vous pouvez activer et désactiver Bluetooth et ajouter des appareils Bluetooth dans les Paramètres."</string>
     <string name="disagreement_terminate_miuidaemon">"Nous utiliserons les autorisations uniquement lorsque vous commencerez à transférer des données depuis votre appareil lorsque son écran est endommagé. Si vous n'acceptez pas d'accorder ces autorisations, vous ne pourrez pas utiliser cette application."</string>
     <string name="disagreement_terminate_service">"Si vous n'acceptez pas d'accorder de telles autorisations ou de partager et de télécharger vos informations personnelles, vous ne pourrez pas utiliser cette application. Dans ce cas, vous pouvez choisir de désinstaller, de vous déconnecter ou de limiter les autorisations dans les Paramètres."</string>
     <string name="download_introduction">"Téléchargements est une application fournie par Xunlei utilisée pour télécharger et gérer du contenu téléchargé (y compris le contenu de l'App Store, les vidéos, les mises à jour du système, les thèmes et le contenu du navigateur) pour les utilisateurs d'appareils Xiaomi."</string>
@@ -262,12 +268,14 @@ Pour contrôler cette fonctionnalité, recherchez \"Utilisation et diagnostics\"
     <string name="permission_account_introduction">Pour se connecter avec le Compte Mi</string>
     <string name="permission_application_package_introduction">"Pour accéder au stockage afin d'analyser et de scanner les paquets d'installation"</string>
     <string name="permission_call_records">"Accéder à l'historique des appels"</string>
+    <string name="permission_call_records_describe_bluetooth_summary">"Pour permettre à vos autres appareils compatibles que vous connectez à cet appareil d'accéder à l'historique des appels. Cela ne se produira que lorsque vous aurez besoin de manière proactive d'utiliser l'historique des appels via un autre appareil. L'historique des appels et les contacts partagés par le système via Bluetooth ne seront mis en cache que localement sur vos appareils et partagés avec eux avec votre autorisation."</string>
     <string name="permission_call_records_introduction">"Pour accéder à l'historique des appels afin d'afficher les postes bloqués"</string>
     <string name="permission_call_state_introduction">"Pour accéder à l'état du téléphone, enregistrer les appels et mettre en pause les enregistrements pendant les appels entrants"</string>
     <string name="permission_clock_info_introduction">"Pour la sauvegarde des données d'alarme"</string>
     <string name="permission_contact">Accéder aux contacts</string>
     <string name="permission_contact_describe">Accède aux contacts</string>
     <string name="permission_contact_describe_MIUIDaemon_summary">Pour vérifier votre identité.</string>
+    <string name="permission_contact_describe_bluetooth_summary">"Pour permettre à vos autres appareils compatibles que vous connectez à cet appareil d'accéder aux contacts. Cela ne se produira que lorsque vous activez Bluetooth ou modifiez vos contacts alors que Bluetooth est activé."</string>
     <string name="permission_contact_describe_desktop_summary">"Pour utiliser la fonction de contact d'urgence de l'écran d'accueil en mode simplifié et afficher les notifications de conversation ;"</string>
     <string name="permission_contact_describe_message_summary">Pour afficher les informations de contact correspondantes des SMS et MMS.</string>
     <string name="permission_contact_introduction">"Pour fournir la fonctionnalité de liste de blocage et appeler les contacts d'urgence"</string>
@@ -395,6 +403,8 @@ Pour contrôler cette fonctionnalité, recherchez \"Utilisation et diagnostics\"
     <string name="service_name_address_dialing">Contacts et Téléphone</string>
     <string name="service_name_album">Galerie</string>
     <string name="service_name_application_package">Installateur de paquets</string>
+    <string name="service_name_backup">Sauvegardes</string>
+    <string name="service_name_bluetooth">Bluetooth</string>
     <string name="service_name_calculator">Calculatrice</string>
     <string name="service_name_camera">Appareil photo</string>
     <string name="service_name_carrier">Déclaration sur les services des opérateurs</string>
@@ -434,7 +444,7 @@ Pour contrôler cette fonctionnalité, recherchez \"Utilisation et diagnostics\"
     <string name="sim_card_detection_mobile_not_available">"La carte SIM n'arrive pas à se connecter au réseau"</string>
     <string name="sim_card_dial_card1">SIM1 pour les appels</string>
     <string name="sim_card_dial_card2">SIM2 pour les appels</string>
-    <string name="sim_card_do_not_select_dial_card">Sélectionnez la carte SIM pour appeler</string>
+    <string name="sim_card_do_not_select_dial_card">Sélectionnez la carte SIM lors de la composition du numéro</string>
     <string name="sim_card_network_card1">Données SIM1</string>
     <string name="sim_card_network_card2">Données SIM2</string>
     <string name="sim_dectection_next">Continuer</string>

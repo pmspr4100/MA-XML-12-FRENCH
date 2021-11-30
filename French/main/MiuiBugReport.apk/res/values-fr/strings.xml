@@ -8,16 +8,6 @@
     <string name="abc_activitychooserview_choose_application">Sélectionner une application</string>
     <string name="abc_capital_off">Désactivé</string>
     <string name="abc_capital_on">Activé</string>
-    <string name="abc_menu_alt_shortcut_label">Alt+</string>
-    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">supprimer</string>
-    <string name="abc_menu_enter_shortcut_label">entrée</string>
-    <string name="abc_menu_function_shortcut_label">Fonction+</string>
-    <string name="abc_menu_meta_shortcut_label">Méta+</string>
-    <string name="abc_menu_shift_shortcut_label">Maj+</string>
-    <string name="abc_menu_space_shortcut_label">espace</string>
-    <string name="abc_menu_sym_shortcut_label">Sym+</string>
-    <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">Recherche…</string>
     <string name="abc_searchview_description_clear">Effacer la requête</string>
     <string name="abc_searchview_description_query">Requête de recherche</string>
@@ -27,6 +17,7 @@
     <string name="abc_shareactionprovider_share_with">Partager avec</string>
     <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
     <string name="abc_toolbar_collapse_description">Réduire</string>
+    <string name="access_denied_info">"Trop d'essais. Attendez une minute ou deux et réessayez."</string>
     <string name="account_bind_secure_email_title">Ajouter un e-mail de secours</string>
     <string name="account_bind_secure_phone_title">Ajouter un numéro de téléphone de secours</string>
     <string name="account_crop_user_avatar">Recadrer la photo</string>
@@ -155,6 +146,9 @@ Envoyer ce code au superviseur."</string>
     <string name="discard_draft_dialog_button_discard">OK</string>
     <string name="discard_draft_dialog_content">Le rapport a été modifié, OK pour supprimer le brouillon.</string>
     <string name="discard_draft_dialog_title">Supprimer le brouillon ?</string>
+    <string name="doing_login">Connexion…</string>
+    <string name="doing_query_account">Vérification des informations du compte…</string>
+    <string name="doing_register">Création du compte…</string>
     <string name="early_morning">Matin</string>
     <string name="err_type">"Type d'erreur"</string>
     <string name="err_type_app">Applications</string>
@@ -294,12 +288,14 @@ Envoyer ce code au superviseur."</string>
     <string name="get_phone_verifycode_exceed_limit">Trop de codes de vérification ont été envoyés à ce numéro. Attendez 24 heures et réessayez.</string>
     <string name="goon_feedback_main">Continuer</string>
     <string name="goto_sign_up">Créer compte</string>
+    <string name="header_help">Aide</string>
     <string name="hint_feedback_main">"Décrivez l'erreur"</string>
     <string name="i_get_it">Compris</string>
-    <string name="i_know">OK</string>
+    <string name="i_know">Compris</string>
     <string name="identity">Identification</string>
     <string name="inconsistent_pwd">Les mots de passe ne correspondent pas</string>
     <string name="input_email_address_notice">Nous utiliserons cet e-mail pour vérifier votre compte</string>
+    <string name="input_length_exceeds_limit">Le texte entré est trop long</string>
     <string name="input_new_pwd">Entrer le nouveau mot de passe</string>
     <string name="isornot_your_mi_account">Est-ce bien votre Compte Mi ?</string>
     <string name="issue_search">Rechercher</string>
@@ -325,7 +321,12 @@ Envoyer ce code au superviseur."</string>
     <string name="kr_authorization_user_protocol">"Accord d'utilisation (obligatoire)"</string>
     <string name="loading">Un instant…</string>
     <string name="loading_apps">Chargement de la liste…</string>
+    <string name="login_by_local_phone_long_text">Identifiez-vous maintenant</string>
+    <string name="login_by_local_phone_short_text">"S'identifier"</string>
+    <string name="login_other">Autre Compte Mi</string>
+    <string name="login_register_by_local_phone_long_text">Créer le compte</string>
     <string name="login_system_failed">"Je n'ai pas pu me connecter, essayez encore"</string>
+    <string name="login_with_sns">Autres façons de se connecter</string>
     <string name="logo_title">Commentaires</string>
     <string name="logout_account">Se déconnecter</string>
     <string name="menu_copy">Copier</string>
@@ -396,6 +397,9 @@ Envoyer ce code au superviseur."</string>
     <string name="michat_wait_for_a_moment">Juste une seconde, les secours sont en route !</string>
     <string name="michat_webview_title">Afficher les détails</string>
     <string name="midnight">Nuit</string>
+    <string name="mishop_login_other">Autre compte</string>
+    <string name="miuix_access_state_desc">Sélectionné</string>
+    <string name="miuix_alphabet_indexer_name">"Barre d'index"</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Désélectionner</string>
     <string name="miuix_appcompat_action_mode_select_all">Tout sélectionner</string>
     <string name="miuix_appcompat_action_mode_title_empty">Sélectionner les éléments</string>
@@ -410,8 +414,18 @@ Envoyer ce code au superviseur."</string>
     <string name="miuix_appcompat_select_all">Tout sélectionner</string>
     <string name="miuix_appcompat_select_all_description">Tout sélectionner</string>
     <string name="miuix_appcompat_select_item">Sélectionner des éléments</string>
+    <string name="miuix_indexer_collect">Collections</string>
+    <string name="miuix_indexer_selected">%s sélectionné</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez vers le bas pour actualiser</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualisation…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Relâchez pour actualiser</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"C'est tout pour le moment"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un instant…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Chargement des éléments impossible</string>
     <string name="mobile_data_note_dialog_cancel">En attente du Wi-Fi</string>
-    <string name="mobile_data_note_dialog_cancel_china">En attente du WLAN</string>
+    <string name="mobile_data_note_dialog_cancel_china">En attente du Wi-Fi</string>
     <string name="mobile_data_note_dialog_confirm">Ajouter</string>
     <string name="mobile_data_note_dialog_content">On dirait que vous êtes connecté à un réseau payant. Le téléchargement de journaux peut générer des frais supplémentaires.</string>
     <string name="mobile_data_note_dialog_content_with_file_size">"Il semble que vous êtes connecté à un réseau payant. L'envoi des journaux nécessite %s Mo de données mobiles."</string>
@@ -481,6 +495,8 @@ Envoyer ce code au superviseur."</string>
     <string name="multi_graph_more">Total des éléments : %d</string>
     <string name="net_error_info">Pas de connexion réseau, appuyez ici pour aller dans Paramètres</string>
     <string name="network_err">Impossible de se connecter au réseau.</string>
+    <string name="network_error_info">Une erreur réseau est survenue. Vérifiez vos paramètres réseau, puis réessayez.</string>
+    <string name="network_timeout_info">Impossible de se connecter au réseau. Réessayez</string>
     <string name="network_errorbtntip_custom">Essayez encore.</string>
     <string name="network_errorbtntip_login">"S'identifier"</string>
     <string name="network_errorbtntip_noconnection">Vérifier les paramètres réseau</string>
@@ -506,7 +522,7 @@ Envoyer ce code au superviseur."</string>
     <string name="noon">Midi</string>
     <string name="ok">OK</string>
     <string name="open_feedback_main">Plus</string>
-    <string name="open_settings">Aller dans Paramètres</string>
+    <string name="open_settings">Paramètres</string>
     <string name="passport_access_denied">Accès refusé</string>
     <string name="passport_account_label">Compte Mi</string>
     <string name="passport_account_name">"Compte : %1$s "</string>
@@ -598,14 +614,16 @@ Envoyer ce code au superviseur."</string>
     <string name="passport_wrong_vcode">Le code que vous avez entré est incorrect</string>
     <string name="passport_wrong_voice">The code you entered is incorrect</string>
     <string name="password_toggle_content_description">Afficher le mot de passe</string>
-    <string name="phone_bind_too_many">This phone has been associated with several Mi Accounts in a short period of time. Try using another phone number.</string>
+    <string name="phone_bind_too_many">"Ce téléphone a été associé à plusieurs Comptes Mi en peu de temps. Essayez d'utiliser un autre numéro de téléphone."</string>
     <string name="phone_hint">Phone number</string>
-    <string name="phone_num_use_for">Phone number is used for:</string>
-    <string name="phone_number">Phone number</string>
-    <string name="photoPickerNotFoundText">No photos available.</string>
+    <string name="phone_num_use_for">Le numéro de téléphone est utilisé pour :</string>
+    <string name="phone_number">Numéro de téléphone</string>
+    <string name="photoPickerNotFoundText">Aucune photo disponible.</string>
     <string name="pic_not_exist">"Cette image n'existe pas"</string>
+    <string name="please_agree_protocal">Veuillez accepter le protocole</string>
     <string name="plus_one_submit_dialog_content">"Votre rapport, ainsi que les journaux d'erreurs seront envoyés aux serveurs de Xiaomi."</string>
     <string name="plus_one_submit_dialog_not_show_again">Se souvenir</string>
+    <string name="pm">PM</string>
     <string name="post_miui_bbs_failed">Impossible de poster sur le forum MIUI</string>
     <string name="privacy_category_title">Confidentialité</string>
     <string name="privacy_policy_title">Politique de confidentialité</string>
@@ -613,28 +631,40 @@ Envoyer ce code au superviseur."</string>
 %2$s
 Lisez et acceptez la nouvelle version de %3$s avant de continuer."</string>
     <string name="privacy_policy_update_title">Updated Privacy Policy</string>
-    <string name="psw_hint">Password</string>
-    <string name="psw_sign_in">Sign in using password</string>
+    <string name="progressbar_title">Recherche de problèmes de sécurité…</string>
+    <string name="protocal_dialog_cancel">Annuler</string>
+    <string name="protocal_dialog_confirm">Accepter</string>
+    <string name="protocal_dialog_title">Attention</string>
+    <string name="psw_hint">Mot de passe</string>
+    <string name="psw_sign_in">Connectez-vous avec un mot de passe</string>
     <string name="pull_to_refresh_pull_label">Tirez vers le bas pour rafraîchir</string>
     <string name="pull_to_refresh_refreshing_label">Mise à jour…</string>
     <string name="pull_to_refresh_release_label">Relâchez pour rafraîchir</string>
     <string name="refresh">Actualiser</string>
+    <string name="register_by_local_phone_long_text">Créer le compte</string>
+    <string name="register_by_local_phone_short_text">Créer le compte</string>
     <string name="related_question_answer_details">Problème associé</string>
     <string name="reply_failed">Impossible de répondre</string>
     <string name="reply_option_log_hint">Facultatif</string>
     <string name="reply_select_log_hint">Sélectionnez le journal</string>
     <string name="reply_successful">Répondu avec succès</string>
     <string name="report_miui">Signaler une erreur</string>
-    <string name="request_camera_permission_message">This service need to ask your permission follows, we will strictly abide by relevant laws to protect your personal information: &lt;br>&lt;br>&lt;b> Access Camera: experience real-time recording services for setting Avatar &lt;/b>&lt;br>&lt;br> If you do not agree to call the above permissions, this function will not work properly, but it will not affect your use of the basic functions of this application. You can choose to turn off the above permission call in the system settings to withdraw your consent.</string>
+    <string name="request_agree">Autoriser</string>
+    <string name="request_camera_permission_message">"Nous protégerons vos informations personnelles conformément aux lois et réglementations en vigueur. Cette application nécessite les autorisations suivantes pour fonctionner normalement: &lt;br>&lt;br>&lt;b>Utilisation de la caméra (pour définir votre photo de profil)&lt;/b>&lt;br>&lt;br>Si vous n'êtes pas d'accord pour accorder de telles autorisations, vous ne pourrez pas utiliser certaines fonctionnalités de cette application; cependant, sa fonctionnalité de base sera toujours disponible pour vous. Vous pouvez toujours restreindre les autorisations ou révoquer votre autorisation dans les paramètres."</string>
+    <string name="request_cancel">Annuler</string>
+    <string name="request_error_invalid_token">Vérification impossible</string>
+    <string name="request_error_network">"Une erreur réseau s'est produite. Vérifiez vos paramètres réseau et réessayez."</string>
+    <string name="request_error_unknown">"Une erreur système s'est produite. Revenez en arrière et réessayez."</string>
+    <string name="request_gallery_permission_message">"Autoriser l'accès à Galerie :&lt;br />Pour définir les photos de profil"</string>
     <string name="request_empty_data">Pas de données</string>
-    <string name="resend_active_email">Resend</string>
-    <string name="resend_email_reach_limit_message">"You've requested too many verification emails. Make sure that the verification email isn't in your inbox's Spam folder."</string>
-    <string name="resend_email_reach_limit_title">Too many attempts</string>
-    <string name="resend_email_success">Sent successfully</string>
-    <string name="restart_action">Start over</string>
-    <string name="restart_phone_bind_message">It may take some time to receive SMS. Start over anyway?</string>
-    <string name="restart_phone_bind_title">Change recovery phone</string>
-    <string name="same_new_and_old_pwd">"Can't be the same as current password"</string>
+    <string name="resend_active_email">Renvoyer</string>
+    <string name="resend_email_reach_limit_message">"Vous avez demandé trop d'e-mails de vérification. Assurez-vous que l'e-mail de vérification ne se trouve pas dans le dossier Spam de votre boîte de réception."</string>
+    <string name="resend_email_reach_limit_title">"Trop d'essais"</string>
+    <string name="resend_email_success">Envoyé avec succès</string>
+    <string name="restart_action">Recommencer</string>
+    <string name="restart_phone_bind_message">La réception des SMS peut prendre un certain temps. Recommencer quand même ?</string>
+    <string name="restart_phone_bind_title">Changer de téléphone de récupération</string>
+    <string name="same_new_and_old_pwd">Ne peut pas être identique au mot de passe actuel</string>
     <string name="saturday">Samedi</string>
     <string name="saturday_short">Sam</string>
     <string name="saturday_shortest">Sam</string>
@@ -654,6 +684,7 @@ Lisez et acceptez la nouvelle version de %3$s avant de continuer."</string>
     <string name="sign_in">Connexion</string>
     <string name="sign_in_progress">Connexion…</string>
     <string name="sign_in_title">Se connecter avec votre Compte Mi</string>
+    <string name="skip_query_account">Ignorer</string>
     <string name="sms_send_success">Envoyé avec succès</string>
     <string name="sns_access_token_expired_warning">La session a expiré. Connectez-vous à nouveau pour reconnecter ce compte.</string>
     <string name="sns_bind_limit">"Trop d'essais. Essayez d'autres moyens de vous connecter."</string>
@@ -702,7 +733,8 @@ Lisez et acceptez la nouvelle version de %3$s avant de continuer."</string>
     <string name="sunday_short">Dim</string>
     <string name="sunday_shortest">Dim</string>
     <string name="system_app_select">Applications système</string>
-    <string name="tab_title_chat">F.A.Q</string>
+    <string name="system_error_info">Le système est occupé. Attendez une minute ou deux et réessayez.</string>
+    <string name="tab_title_chat">FAQ</string>
     <string name="tab_title_my_reports">Mes rapports</string>
     <string name="tab_title_preferences">Paramètres</string>
     <string name="tab_title_report">Rapports</string>
@@ -793,6 +825,7 @@ Lisez et acceptez la nouvelle version de %3$s avant de continuer."</string>
     <string name="tuesday">Mardi</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
+    <string name="unknown_error_info">Erreur inconnue</string>
     <string name="update_dialog_cancel">Annuler</string>
     <string name="update_dialog_confirm">Rafraîchir</string>
     <string name="update_dialog_content_log">"Nouveautés :
@@ -805,11 +838,24 @@ Taille : %2$s"</string>
     <string name="update_phone_notice">Modifier les paramètres de sécurité</string>
     <string name="upload_error_log">Envoyer le journal</string>
     <string name="upload_log_failed">"Impossible d'envoyer les journaux"</string>
+    <string name="user_agreement_hint_3rd_app"><Data>"J'ai lu et j'accepte le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>, ainsi que le &lt;a href=\"%3$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%4$s\">Politique de confidentialité&lt;/a> du Compte Mi."</Data></string>
+    <string name="user_agreement_hint_3rd_app_mobile"><Data>"J'ai lu et j'accepte le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>, le &lt;a href=\"%3$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%4$s\">Politique de confidentialité&lt;/a> du Compte Mi, ainsi que les &lt;a href =\"%5$s\">Conditions générales des services de vérification de China Mobile&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_telecom"><Data>"J'ai lu et j'accepte le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>, le &lt;a href=\"%3$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%4$s\">Politique de confidentialité&lt;/a> du Compte Mi, ainsi que les &lt;a href=\"%5$s\">Termes et conditions des services de vérification de compte eSurfing&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_unicom"><Data>"J'ai lu et j'accepte le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>, le &lt;a href=\"%3$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%4$s\">Politique de confidentialité&lt;/a> du Compte Mi, ainsi que les &lt;a href=\"%5$s\">Termes et conditions des services de vérification de China Unicom&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_default"><Data>"J'ai lu et j'accepte le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a> du Compte Mi."</Data></string>
+    <string name="user_agreement_hint_default_1"><Data>"J'ai lu et j'accepte le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>"</Data></string>
+    <string name="user_agreement_hint_default_extra"><Data>"J'ai lu et j'accepte le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>. La première connexion créera automatiquement un Compte Mi"</Data></string>
+    <string name="user_agreement_hint_first_login">Nous créerons un compte automatiquement si vous utilisez votre numéro de téléphone pour la première fois.</string>
+    <string name="user_agreement_hint_with_mobile"><Data>"J'ai lu et j'accepte le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> du Compte Mi et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>, ainsi que les &lt;a href=\"%3$s\">Termes et conditions des services de vérification de China Mobile&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_with_telecom"><Data>"J'ai lu et j'accepte le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> du Compte Mi et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>, ainsi que les &lt;a href=\"%3$s\">Termes et conditions des services de vérification de compte eSurfing&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_with_unicom"><Data>"J'ai lu et j'accepte le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> du Compte Mi et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>, ainsi que les &lt;a href=\"%3$s\">Termes et conditions des services de vérification de China Mobile&lt;/a>."</Data></string>
+    <string name="user_agreement_protocal_dialog_hint_default"><Data>"Lisez et acceptez le &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> et la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>, et l'&lt;a href=\"%3$s\">Accord de l'utilisateur&lt;/a> et la &lt;a href=\"%4$s\">Politique de confidentialité&lt;/a> du Compte Mi."</Data></string>
     <string name="user_avatar_update_title">Modifier la photo de profil</string>
     <string name="user_avatar_uploading">Un instant…</string>
     <string name="user_id_hint">E-mail/Téléphone/ID du Compte Mi</string>
     <string name="user_must_known">Attention</string>
     <string name="user_must_known_content">"Vous ne pourrez continuer à utiliser nos services que si vous acceptez la nouvelle version de notre %s. Accepter la Politique de confidentialité mise à jour maintenant ?"</string>
+    <string name="user_name_phone_number">Numéro de téléphone</string>
     <string name="v7_preference_off">Actif</string>
     <string name="v7_preference_on">Inactif</string>
     <string name="v_code_title">Entrez le code de vérification</string>

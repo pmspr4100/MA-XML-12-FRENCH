@@ -1930,7 +1930,7 @@ de vos sessions de jeu"</string>
     <string name="gd_setting_group_custom_line_location">Emplacement de la boîte à outils</string>
     <string name="gd_setting_group_custom_settings">Personalisation</string>
     <string name="gd_setting_group_custom_vtb_apps">Applications vidéo</string>
-    <string name="gd_setting_group_smart_tool_box">Boîte à outils intelligente</string>
+    <string name="gd_setting_group_smart_tool_box">Barre latérale</string>
     <string name="gd_setting_group_title_switch">Scènes</string>
     <string name="gd_setting_gtb">Afficher en jouant à des jeux</string>
     <string name="gd_setting_gtb_desc">Fonctionnalités spéciales pour les jeux</string>
@@ -1939,7 +1939,7 @@ de vos sessions de jeu"</string>
     <string name="gd_setting_guide_two">Faites glisser depuis le bord pour ouvrir la boîte à outils vidéo</string>
     <string name="gd_setting_miui_dock">Toujours afficher</string>
     <string name="gd_setting_shorthand">Notes rapides</string>
-    <string name="gd_setting_title">Boîte à outils intelligente</string>
+    <string name="gd_setting_title">Barre latérale</string>
     <string name="gd_setting_vtb">Afficher en lisant des vidéos</string>
     <string name="gd_setting_vtb_desc">Fonctionnalités spéciales pour la lecture vidéo</string>
     <string name="gdpr_msg"><Data>"Pour pouvoir détecter les risques de sécurité et protéger vos données, nous devons collecter la quantité nécessaire d'informations sur votre appareil. Lisez et acceptez notre &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Politique de confidentialité&lt;/a> avant d'utiliser nos services. Si vous ne nous autorisez pas à collecter de telles informations, vous pourrez toujours utiliser cette application, mais certaines fonctionnalités ne vous seront pas disponibles."</Data></string>
@@ -2907,7 +2907,7 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
     <string name="permission_instruction_read_contacts">"Cette autorisation permet aux applications d'accéder aux informations de contact stockées sur votre appareil. Ces informations peuvent contenir la fréquence de vos communications avec des contacts spécifiques via des appels, des e-mails et d'autres méthodes. Cette autorisation permet également aux applications d'enregistrer des contacts. Des applications malveillantes peuvent utiliser cette autorisation pour partager des contacts sans votre consentement."</string>
     <string name="permission_instruction_read_notify_sms">Cette autorisation permet aux applications de lire les messages texte de notification stockés sur votre appareil ou votre carte SIM.</string>
     <string name="permission_instruction_read_phone_state">"Cette autorisation permet aux applications d'accéder à votre numéro de téléphone, IMEI, IMSI et d'autres identifiants d'appareil. Les applications utilisent normalement cette autorisation pour déterminer si vos appels sont transférés. Si vous utilisez un ID d'appareil virtuel, les applications ne pourront pas accéder à vos identifiants d'appareil réels."</string>
-    <string name="permission_instruction_read_sms">"Cette autorisation permet aux applications de lire tous les messages texte stockés sur votre appareil ou votre carte SIM. Ces messages peuvent contenir des mots de passe, des coordonnées bancaires et d'autres informations personnelles."</string>
+    <string name="permission_instruction_read_sms">"Cette autorisation permet aux applications de lire tous les messages texte et multimédia stockés sur votre appareil ou votre carte SIM. Ces messages peuvent contenir des mots de passe, des coordonnées bancaires et d'autres informations personnelles."</string>
     <string name="permission_instruction_read_write_calendar">"Cette autorisation permet aux applications d'accéder à votre calendrier, ainsi que de lire, ajouter, supprimer, modifier, partager et enregistrer des événements de calendrier. Des applications malveillantes peuvent utiliser cette autorisation pour envoyer des messages à partir de votre nom ou modifier des événements d'agenda sans votre consentement."</string>
     <string name="permission_instruction_receive_mms">"Cette autorisation permet aux applications de lire tous les messages multimédias stockés sur votre appareil ou votre carte SIM. Ces messages peuvent contenir des mots de passe, des coordonnées bancaires et d'autres informations personnelles."</string>
     <string name="permission_instruction_record_audio">"Cette autorisation permet aux applications d'utiliser le microphone pour enregistrer de l'audio. N'oubliez pas que cette autorisation permet aux applications d'enregistrer n'importe quoi, y compris vos conversations avec les autres. Il est préférable d'autoriser les applications à utiliser cette autorisation uniquement lorsque vous utilisez les applications."</string>
@@ -3251,6 +3251,8 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
     <string name="power_optimize_save_on_lockscreen">"Économiser de l'énergie pendant que l'appareil est verrouillé"</string>
     <string name="power_optimize_set_lockscreen_time_holder">"Verrouiller l'appareil après %d secondes d'inactivité"</string>
     <string name="power_phone">Appels</string>
+    <string name="power_rank_surface_flinger">Rendu</string>
+    <string name="power_rank_system">Système Android</string>
     <string name="power_recovery_mode">Retour au profil %1$s</string>
     <string name="power_save_choose_mode">Sélectionnez un profil</string>
     <string name="power_save_choose_recovery_mode">Sélectionnez un profil</string>
@@ -4615,6 +4617,11 @@ Le formatage effacera le contenu existant sur le ^2. Pour éviter de perdre du c
     <string name="sys_freememory_title">Disponible</string>
     <string name="sys_title_gamebooster_unit_gb">" Go"</string>
     <string name="sys_title_gamebooster_unit_mb">" Mo"</string>
+    <string name="system_anti_fraud_dialog_confirm_btn_txt">Compris</string>
+    <string name="system_anti_fraud_dialog_content">"Il semble que vous venez de recevoir un appel ou un message frauduleux. Procéder à ce paiement peut entraîner des pertes financières."</string>
+    <string name="system_anti_fraud_dialog_hint">"&lt;font = color=#747474>Si le personnel du service client, les autorités ou les personnes que vous connaissez peut-être vous demandent d'effectuer ce paiement, &lt;/font>&lt;font = color=#F22424>vérifiez leur identité avant de continuer.&lt;/font>"</string>
+    <string name="system_anti_fraud_dialog_image_txt">Protection anti-fraude</string>
+    <string name="system_anti_fraud_dialog_title">Alerte anti-fraude</string>
     <string name="system_app">Applications système</string>
     <string name="system_app_permission_instruction">"Cette application a besoin des autorisations suivantes pour fournir des services système de base. La gestion des autorisations est limitée pour cette application, car la modification des statuts d'autorisation entraînera des anomalies de fonctionnement du système."</string>
     <string name="system_application">Applications système</string>
