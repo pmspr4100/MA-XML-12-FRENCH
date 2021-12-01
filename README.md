@@ -1,10 +1,9 @@
 # MIUI V12 French Translation
 [![License: CC BY-NC-SA 3.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%203.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 
-## Référentiel MIUI v12
-* Support des ROM Stable pour xiaomi.eu
-* Support des ROM Bêta pour xiaomi.eu
-
+## Référentiel MIUI v12.x
+* Support des ROM Stable & Bêta pour xiaomi.eu
+* 
 ## Traducteur
 * Pseudo : pmspr4100
 * Appareil : Redmi Note 10 Pro
@@ -24,6 +23,6 @@
 ## Structure
 Dossiers | Descriptions
 :------------: | :------------:
-/ French / device | Applications MIUI spécifique au modèle Xiaomi
-/ French / extras | Widgets MIUI pour tous les appareils Xiaomi
-/ French / main | Applications MIUI pour tous les appareils Xiaomi
+/ French / device | Applications spécifique au modèle Xiaomi
+/ French / extras | Widgets pour tous les appareils Xiaomi
+/ French / main | Applications pour tous les appareils Xiaomi
