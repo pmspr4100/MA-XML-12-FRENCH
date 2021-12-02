@@ -2488,7 +2488,7 @@ Ce paramètre affecte tous les utilisateurs de cet appareil."</string>
     <string name="dev_settings_disabled_warning">"Veuillez tout d'abord activer les options pour les développeurs."</string>
     <string name="dev_settings_warning_message">"Ces paramètres sont destinés uniquement aux développeurs. Ils peuvent provoquer une panne ou un dysfonctionnement de votre appareil et des applications qu'il contient."</string>
     <string name="dev_settings_warning_title">Activer les paramètres de développement ?</string>
-    <string name="developer_build">Bêta</string>
+    <string name="developer_build">" Bêta"</string>
     <string name="developer_smallest_width">La plus petite largeur</string>
     <string name="development_enable">Options développeur</string>
     <string name="development_settings_enable">Activer les options développeur</string>
@@ -7496,7 +7496,7 @@ Retirer le consentement à %s maintenant ?"</string>
     <string name="ssl_ca_cert_warning_message">"Des tiers ont la possibilité de surveiller votre activité sur le réseau, y compris en ce qui concerne les Emails, les applications et les sites Web sécurisés.
 
 Un certificat de confiance installé sur votre appareil rend cela possible."</string>
-    <string name="stable_build">Stable</string>
+    <string name="stable_build">" Stable"</string>
     <string name="standard">Silencieux</string>
     <string name="standard_info">Les appels et les notifications seront réduits au silence</string>
     <string name="standby_bucket_summary">Application en état de veille : %s</string>
@@ -7651,7 +7651,7 @@ La mémoire de stockage \"^1\" a été configurée pour ne fonctionner que sur c
     <string name="storage_type_internal">Stockage interne</string>
     <string name="storage_unmount_failure">"Impossible d'éjecter la mémoire de stockage \"%1$s\" de manière sécurisée."</string>
     <string name="storage_unmount_success">La mémoire de stockage \"%1$s\" a bien été éjectée de manière sécurisée.</string>
-    <string name="storage_usage_summary">%1$s %2$s used</string>
+    <string name="storage_usage_summary">%1$s %2$s utilisé</string>
     <string name="storage_usb">Stockage USB</string>
     <string name="storage_usb_settings">Stockage</string>
     <string name="storage_use_title">Occupé</string>
