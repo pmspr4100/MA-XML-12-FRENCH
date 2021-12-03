@@ -9,8 +9,10 @@
   <string name="connect_hint_text">Vous devrez peut-être approuver cette connexion sur le panneau avant de votre imprimante</string>
   <string name="connecting_to">"Connexion à %1$s"</string>
   <string name="connections">Connexions</string>
-  <string name="connects_via_network">"Se connecte via le réseau actuel à l'adresse %1$s"</string>
-  <string name="connects_via_wifi_direct">Se connecte via Wi-Fi Direct</string>
+  <string name="connects_via_network">"Se connecte via le réseau actuel à l'adresse %1$s"</string>
+  <string name="connects_via_wifi_direct">Se connecte via Wi-Fi Direct</string>
+  <string name="disable_wifi_direct">Désactiver Wi-Fi Direct</string>
+  <string name="enable_location">Activer la localisation</string>
   <string name="failed_connection">"Impossible de se connecter à l'imprimante %1$s"</string>
   <string name="failed_printer_connection">"Impossible de se connecter à l'imprimante"</string>
   <string name="find_wifi_direct">Rechercher des imprimantes Wi-Fi Direct</string>
@@ -50,8 +52,10 @@
   <string name="title_activity_add_printer">Ajouter une imprimante</string>
   <string name="unreadable_input">Impossible de lire le document</string>
   <string name="waiting_to_send">Envoi en attente</string>
-  <string name="wifi_direct">Wi-Fi Direct</string>
+  <string name="wifi_direct">Wi-Fi Direct</string>
+  <string name="wifi_direct_location_rationale">"Le service d'impression par défaut nécessite que les services de localisation soient activés pour trouver les appareils à proximité."</string>
   <string name="wifi_direct_permission_rationale">"Le service d'impression par défaut a besoin d'une localisation pour rechercher les périphériques à proximité."</string>
-  <string name="wifi_direct_printers">Imprimantes Wi-Fi Direct</string>
+  <string name="wifi_direct_printers">Imprimantes Wi-Fi Direct</string>
   <string name="wifi_direct_printing">Impression Wi-Fi Direct</string>
+  <string name="wifi_direct_problem">Le service d'impression par défaut ne trouve pas les imprimantes Wi-Fi Direct</string>
 </resources>

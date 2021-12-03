@@ -220,11 +220,11 @@
   <string name="pbap_notification_group">Partage de contact Bluetooth</string>
   <string name="pbap_session_key_dialog_header">Clé de session Bluetooth requise</string>
   <string name="pbap_session_key_dialog_title">Entrer la clé de session de %1$s</string>
+  <string name="permdesc_bluetoothAcceptlist">"Permet à l'application d'accepter temporairement la liste d'un appareil Bluetooth, ce qui permet à cet appareil d'envoyer des fichiers à cet appareil sans confirmation de l'utilisateur."</string>
   <string name="permdesc_bluetoothShareManager">"Permet à l'application d'accéder au gestionnaire BluetoothShare et de l'utiliser pour le transfert de fichiers."</string>
-  <string name="permdesc_bluetoothWhitelist">"Permet à l'application d'ajouter temporairement un périphérique Bluetooth à la liste blanche. Ainsi, celui-ci peut envoyer des fichiers à cet appareil sans que la confirmation de l'utilisateur ne soit nécessaire."</string>
   <string name="permlab_bluetoothShareManager">Accéder au gestionnaire de téléchargement</string>
-  <string name="permlab_bluetoothWhitelist">Ajouter des périphériques Bluetooth à la liste blanche</string>
   <string name="permlab_handoverStatus">Recevez des diffusions de transfert BT.</string>
+  <string name="permlab_bluetoothAcceptlist">"Accepter l'accès aux périphériques Bluetooth de la liste."</string>
   <string name="phonebook_advance_feature_support">Fonctionnalité avancée du répertoire pris en charge</string>
   <string name="pm">PM</string>
   <string name="remote_pbap_version_change">Modification de la version du profil du répertoire à distance</string>
