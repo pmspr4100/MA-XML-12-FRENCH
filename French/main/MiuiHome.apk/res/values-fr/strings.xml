@@ -384,7 +384,7 @@
     <string name="lock_screen_wallpaper">"Fond d'écran de verrouillage"</string>
     <string name="maml_download_dialog_cancel_text">En attente du Wi-Fi</string>
     <string name="maml_download_dialog_cancel_text_china">En attente du Wi-Fi</string>
-    <string name="maml_download_dialog_checkbox_text">Ne plus afficher</string>
+    <string name="maml_download_dialog_checkbox_text">Ne plus afficher pendant %d minutes</string>
     <string name="maml_download_dialog_confirm_text">Télécharger</string>
     <string name="maml_download_dialog_message">%s Mo de données mobiles seront utilisés pour télécharger cet élément. Télécharger quand même ?</string>
     <string name="maml_download_dialog_title">"Avertissement sur l'utilisation des données"</string>
@@ -730,6 +730,7 @@
     <string name="thursday">Jeudi</string>
     <string name="thursday_short">Jeu</string>
     <string name="thursday_shortest">Jeu</string>
+    <string name="time_picker_dialog_title">"Régler l'heure"</string>
     <string name="title_jeejen">"Écran d'accueil Jeejen"</string>
     <string name="title_select_live_folder">Sélectionner un dossier</string>
     <string name="title_select_shortcut">Sélectionner un raccourci</string>
