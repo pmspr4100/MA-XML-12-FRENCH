@@ -864,6 +864,7 @@ Si cette autorisation est désactivée, les alarmes existantes et les événemen
     <string name="auto_sync_account_title">Synchronisation auto. données</string>
     <string name="auto_sync_personal_account_title">Synchronisation automatique des données personnelles</string>
     <string name="auto_sync_work_account_title">Synchronisation automatique des données professionnelles</string>
+    <string name="auto_task_operation_close">Fermer</string>
     <string name="autofill_app">Service de saisie automatique</string>
     <string name="autofill_confirmation_message">"&lt;b>Assurez-vous de faire confiance à cette application&lt;/b> &lt;br/> &lt;br/> &lt;xliff:g id=app_name example=Google Autofill>%1$s&lt;/xliff:g> utilise les éléments affichés à l'écran pour déterminer les champs qui peuvent bénéficier de la saisie automatique."</string>
     <string name="autofill_keywords">automatique, saisie, saisie automatique</string>
@@ -1303,6 +1304,8 @@ Applications :
     <string name="bluetooth_enable_gabeldorsche_summary">Active la pile de fonctionnalités Gabeldorsche.</string>
     <string name="bluetooth_enable_page_scan">"Activer l'analyse de page Bluetooth"</string>
     <string name="bluetooth_enable_page_scan_summary">"Désactiver/activer l'analyse de page pour le test Bluetooth"</string>
+    <string name="bluetooth_enable_pts_test">enable bluetooth PTS test</string>
+    <string name="bluetooth_enable_pts_test_summary">disable/enable PTS for Bluetooth test</string>
     <string name="bluetooth_enter_passkey_msg">Saisissez le code de couplage, puis appuyez sur Retour ou Entrée</string>
     <string name="bluetooth_enter_passkey_other_device">"Vous devrez peut-être également saisir ce mot de passe sur l'autre appareil."</string>
     <string name="bluetooth_enter_pin_other_device">"Vous devrez peut-être également saisir ce code sur l'autre appareil."</string>
@@ -2485,7 +2488,7 @@ Ce paramètre affecte tous les utilisateurs de cet appareil."</string>
     <string name="dev_settings_disabled_warning">"Veuillez tout d'abord activer les options pour les développeurs."</string>
     <string name="dev_settings_warning_message">"Ces paramètres sont destinés uniquement aux développeurs. Ils peuvent provoquer une panne ou un dysfonctionnement de votre appareil et des applications qu'il contient."</string>
     <string name="dev_settings_warning_title">Activer les paramètres de développement ?</string>
-    <string name="developer_build">Bêta</string>
+    <string name="developer_build">" Bêta"</string>
     <string name="developer_smallest_width">La plus petite largeur</string>
     <string name="development_enable">Options développeur</string>
     <string name="development_settings_enable">Activer les options développeur</string>
@@ -3008,6 +3011,7 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="enterprise_privacy_settings_summary_with_name">Modifications et paramètres gérés par %s</string>
     <string name="enterprise_privacy_usage_stats">Durée et consommation des données dans chaque application</string>
     <string name="enterprise_privacy_wipe_device">"L'administrateur peut supprimer toutes les données de l'appareil"</string>
+    <string name="environmental_speech_recognition">Reconnaissance du son ambiant</string>
     <string name="eq_auto">Personnaliser</string>
     <string name="eq_blues">Blues</string>
     <string name="eq_cancel">Annuler</string>
@@ -3070,6 +3074,7 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="experimental_category_title">Expérimental</string>
     <string name="experimental_preference">(Expérimental)</string>
     <string name="expert_detail_content_description">Afficher les détails</string>
+    <string name="exposed_dropdown_menu_content_description">Afficher le menu déroulant</string>
     <string name="extended_power_menu">"Menu d'alimentation étendu"</string>
     <string name="exterior">Jeu de couleurs</string>
     <string name="external_code_size_label">Application sur USB</string>
@@ -4587,6 +4592,7 @@ D'autres personnes utilisent cet appareil.
     <string name="menu_duration_3h">3 heures</string>
     <string name="menu_duration_6h">6 heures</string>
     <string name="menu_hide_system">Masquer les processus système</string>
+    <string name="menu_item_notification_power_text">Optimisation de la batterie</string>
     <string name="menu_key">Menu</string>
     <string name="menu_new">Nouvel APN</string>
     <string name="menu_proc_stats_duration">Durée</string>
@@ -5586,6 +5592,7 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="owner_info_settings_summary">Aucun</string>
     <string name="owner_info_settings_title">"Signature de l'écran de verrouillage"</string>
     <string name="owner_space">Premier espace</string>
+    <string name="p2p_summary_enable_GPS">Cette fonctionnalité fonctionne lorsque les services de localisation sont activés</string>
     <string name="packages_subtitle">Modules inclus</string>
     <string name="pad_backup_summary">Sauvegarder et restaurer des éléments sur cet appareil</string>
     <string name="pad_backup_title">Appareil mobile</string>
@@ -7472,8 +7479,10 @@ Retirer le consentement à %s maintenant ?"</string>
     <string name="speed_label_slow">Lent</string>
     <string name="speed_label_very_fast">Très rapide</string>
     <string name="speed_label_very_slow">Très lent</string>
-    <string name="speed_mode">Mode vitesse</string>
-    <string name="speed_mode_summary">Pour déboguer des applications.</string>
+    <string name="speed_mode">Mode Vitesse</string>
+    <string name="speed_mode_noti_summary">"Le mode Vitesse augmentera la consommation d'énergie et la production de chaleur"</string>
+    <string name="speed_mode_noti_title">Mode vitesse activé</string>
+    <string name="speed_mode_summary">"Lorsqu'il est allumé, les performances atteindront l'état extrême, mais cela augmentera la consommation d'énergie et générera de la chaleur. Veuillez l'activer avec précaution"</string>
     <string name="spell_checker_master_switch_title">Utiliser le correcteur orthographique</string>
     <string name="spell_checker_not_selected">Non sélectionné</string>
     <string name="spell_checker_primary_switch_title">Use spell checker</string>
@@ -7489,7 +7498,7 @@ Retirer le consentement à %s maintenant ?"</string>
     <string name="ssl_ca_cert_warning_message">"Des tiers ont la possibilité de surveiller votre activité sur le réseau, y compris en ce qui concerne les Emails, les applications et les sites Web sécurisés.
 
 Un certificat de confiance installé sur votre appareil rend cela possible."</string>
-    <string name="stable_build">Stable</string>
+    <string name="stable_build">" Stable"</string>
     <string name="standard">Silencieux</string>
     <string name="standard_info">Les appels et les notifications seront réduits au silence</string>
     <string name="standby_bucket_summary">Application en état de veille : %s</string>
@@ -7644,7 +7653,7 @@ La mémoire de stockage \"^1\" a été configurée pour ne fonctionner que sur c
     <string name="storage_type_internal">Stockage interne</string>
     <string name="storage_unmount_failure">"Impossible d'éjecter la mémoire de stockage \"%1$s\" de manière sécurisée."</string>
     <string name="storage_unmount_success">La mémoire de stockage \"%1$s\" a bien été éjectée de manière sécurisée.</string>
-    <string name="storage_usage_summary">%1$s %2$s used</string>
+    <string name="storage_usage_summary">%1$s %2$s utilisé</string>
     <string name="storage_usb">Stockage USB</string>
     <string name="storage_usb_settings">Stockage</string>
     <string name="storage_use_title">Occupé</string>
@@ -8326,7 +8335,7 @@ Vos empreintes digitales enregistrées seront également supprimées de ce profi
     <string name="unlogin_account_summary">Tous les services Mi. Un Compte Mi.</string>
     <string name="unlogin_account_title">Se connecter avec le Compte Mi</string>
     <string name="unmount_inform_text">La carte SD va être désinstallée.</string>
-    <string name="unmute_sound_title">Activer le son</string>
+    <string name="unmute_sound_title">Jouer du son lorsque le mode silencieux est désactivé</string>
     <string name="unrestrict_max_aspect_ratio_title">Ces applications sont optimisées pour le mode plein écran</string>
     <string name="unrestricted_app_summary">"Autoriser l'accès non restreint aux données lorsque l'économiseur de données est activé"</string>
     <string name="unrestricted_app_title">Conso. données non restreinte</string>
