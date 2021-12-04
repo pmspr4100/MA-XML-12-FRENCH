@@ -147,6 +147,13 @@
   <string name="album_page_empty">Vide</string>
   <string name="album_page_label">Albums</string>
   <string name="album_pano_name">Panoramas</string>
+  <string name="album_permission_activity_title">Manage permissions</string>
+  <string name="album_permission_state_granted">Granted</string>
+  <string name="album_permission_state_non_granted">Grant</string>
+  <string name="album_permission_subtitle_single">%2$d album (%1$s)</string>
+  <string name="album_permission_tip_text">Gallery needs permissions to be able to sync, edit, and manage the items shown below.</string>
+  <string name="album_permission_title_granted">Granted</string>
+  <string name="album_permission_title_non_granted">Not granted</string>
   <string name="album_quota_fulfiled">"Maximum d'albums atteint…"</string>
   <string name="album_rubbish_cant_change_status">"Impossible de synchroniser les albums qui ont été placés dans la corbeille"</string>
   <string name="album_rubbish_clear_all_item_description">Effacer la corbeille</string>
@@ -277,6 +284,7 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
   <string name="backup_device_space_low_title">"Pas assez d'espace de stockage"</string>
   <string name="backup_dirty_num">Total : %s</string>
   <string name="backup_dirty_tip">Photos et vidéos non sauvegardées</string>
+  <string name="backup_disable_message">Gallery needs to clear app cache because you turned off sync with the cloud.</string>
   <string name="backup_file_over_size_desc">Photos plus grosses que %1$s et les vidéos plus grosses que %2$s ne peuvent pas être sauvegardées.</string>
   <string name="backup_immediately">Sauvegarder</string>
   <string name="backup_need_sync_desc">Appuyer pour continuer la sauvegarde</string>
@@ -564,6 +572,7 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
   <string name="default_relation_name">Nouveau groupe</string>
   <string name="define_by_user">Personnalisé</string>
   <string name="delete">Supprimer</string>
+  <string name="delete_account_message">Gallery needs to clear app cache because you signed out of your Mi Account.</string>
   <string name="delete_album_failed">"Impossible de supprimer l'album"</string>
   <string name="delete_album_msg_format">"Supprimer l'album \"%2$s\" %1$s %3$s ?"</string>
   <string name="delete_album_msg_format_cloud">Supprimer %1$s %2$s depuis Xiaomi Cloud et tous les appareils synchronisés ?</string>
@@ -589,6 +598,12 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
   <string name="device_status_sending">Sending…</string>
   <string name="device_status_success">Sent successfully</string>
   <string name="device_status_waiting">Waiting…</string>
+  <string name="device_storage_space_low_dialog_des">Store original photos and videos in the cloud while keeping smaller high-quality copies on this device to free up %s of storage.</string>
+  <string name="device_storage_space_low_dialog_title">Not enough storage space</string>
+  <string name="device_storage_space_low_notice_des">Sync photos and videos with the cloud to free up %s</string>
+  <string name="device_storage_space_low_notice_title">Running out of storage</string>
+  <string name="device_storage_space_low_textline_button">Start</string>
+  <string name="device_storage_space_low_textline_des">"Free up %s of storage. "</string>
   <string name="device_type_pc">Ordinateur</string>
   <string name="disable_auto_upload_tip">Désactiver la synchronisation avec le Cloud pour cet album ?</string>
   <string name="disable_auto_upload_title">Désactiver la synchronisation avec le Cloud</string>
@@ -716,6 +731,8 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
   <string name="error_storage_full_action">"Libérer de l'espace"</string>
   <string name="error_storage_full_msg">"Libérez de l'espace de stockage sur votre appareil et réessayez."</string>
   <string name="error_storage_full_tip">Espace de stockage insuffisant</string>
+  <string name="error_storage_no_write_permission_tip_action">Grant</string>
+  <string name="error_storage_no_write_permission_tip_title">"Some albums require permissions to be synced. "</string>
   <string name="error_sync_off_action">Activer</string>
   <string name="error_sync_off_msg">Assurez-vous que vous avez activé la synchronisation avec le Cloud.</string>
   <string name="error_sync_off_tip">La synchronisation est désactivée</string>
@@ -842,6 +859,7 @@ sont disponibles"</string>
   <string name="filter_popular_autumn">Automne</string>
   <string name="filter_popular_blackred">Sangria</string>
   <string name="filter_popular_bluedream">Sommeil</string>
+  <string name="filter_popular_blues">Blues</string>
   <string name="filter_popular_coffee">Café</string>
   <string name="filter_popular_coldsmoke">Brume rafraîchissante</string>
   <string name="filter_popular_comic">Anime</string>
@@ -861,6 +879,7 @@ sont disponibles"</string>
   <string name="filter_popular_shallow_summer">Juin</string>
   <string name="filter_popular_summercloud">Vêpres</string>
   <string name="filter_popular_sunset">Tombée du jour</string>
+  <string name="filter_popular_sunset_gold">Radiance</string>
   <string name="filter_popular_wakakusa">Wakakusa</string>
   <string name="filter_popular_windchime">Carillon</string>
   <string name="filter_popular_wintersun">Midwinter</string>
@@ -994,6 +1013,7 @@ sont disponibles"</string>
   <string name="help">"Vous ne trouvez pas les appareils ?"</string>
   <string name="help_content">"Si vous ne trouvez pas l'appareil dont vous avez besoin, demandez à l'autre personne d'activer Mi Share."</string>
   <string name="hidden_album_display_name">Album privé</string>
+  <string name="hide_nearby_photos">Hide nearby photos and videos</string>
   <string name="hisense">Hisense</string>
   <string name="hisense_phone">Hisense</string>
   <string name="home_menu_all_photos">Afficher tous les éléments</string>
@@ -1061,6 +1081,7 @@ sont disponibles"</string>
   <string name="input_or_select_a_name">Saisir ou choisir un nom</string>
   <string name="input_relation_name">Saisissez le nom du groupe</string>
   <string name="install_fail">"Impossible de charger votre plug-in en raison d'une erreur."</string>
+  <string name="install_media_editor_latest_message">To be able to edit items, download the latest plug-in first.</string>
   <string name="install_media_editor_message">"Pour pouvoir modifier des éléments, téléchargez d'abord le plug-in. Télécharger maintenant ?"</string>
   <string name="install_media_editor_title">Télécharger le plug-in</string>
   <string name="invalid_invition_url">"Adresse d'invitation non valide"</string>
@@ -1088,7 +1109,7 @@ sont disponibles"</string>
   <string name="kilobyteShort">" Ko"</string>
   <string name="limit_height">La hauteur doit être > 0</string>
   <string name="limit_width">La largeur doit être > 0</string>
-  <string name="live_photo">Live photo</string>
+  <string name="live_photo">Dynamic shot</string>
   <string name="load_complete">Aucun élément ici</string>
   <string name="load_failed">Impossible de charger les informations, appuyez pour réessayer</string>
   <string name="load_relations">Chargement…</string>
@@ -1228,6 +1249,7 @@ sont disponibles"</string>
   <string name="map_grant_position_permission_after_declined_twice_message">"Pour afficher des photos et des vidéos sur la carte, autorisez d'abord la Galerie à accéder à votre position."</string>
   <string name="map_grant_position_permission_subtitle">Pour afficher les photos et vidéos à proximité sur la carte</string>
   <string name="map_guide_message">Visualisez vos photos et vidéos sur la carte</string>
+  <string name="map_location">Move to current location</string>
   <string name="map_positioning_failed_tip">"Impossible d'obtenir les informations de localisation en raison d'un signal faible"</string>
   <string name="map_privacy_dialog_message"><Data>Ce service vous permet de visualiser des photos et des vidéos avec des informations de localisation sur une carte. Nous utilisons Baidu Map Open SDK pour vous fournir ce service. Lisez la &lt;a href=\"%1$s\">Politique de confidentialité de Baidu Map pour les produits et services Open Platform&lt;/a> pour en savoir plus.</Data></string>
   <string name="map_privacy_dialog_title">Carte de la Galerie</string>
@@ -1262,6 +1284,13 @@ pour personnaliser Galerie"</string>
   <string name="mi_mover_working_desc">Mi Mover transfère des éléments…</string>
   <string name="micloud_introduce">Synchronisez les photos et les vidéos automatiquement (Compte Mi requis)</string>
   <string name="midnight">Nuit</string>
+  <string name="migrate_msg">Some albums require permissions to move items after a system update.</string>
+  <string name="miplay_adjust_volume">Set volume to %d</string>
+  <string name="miplay_pause_video">Pause</string>
+  <string name="miplay_play_video">Play</string>
+  <string name="miplay_seekbar_content_description">Playback progress: %1$s %2$s</string>
+  <string name="miplay_stop_video">Stop video playback</string>
+  <string name="miplay_volume_btn">Volume</string>
   <string name="mishare_all_devices">Tous les appareils</string>
   <string name="miuix_access_state_desc">Sélectionné</string>
   <string name="miuix_alphabet_indexer_name">"Barre d'index"</string>
@@ -1349,6 +1378,7 @@ pour personnaliser Galerie"</string>
   <string name="mosaic_item_talkback_effect8">Fleurs</string>
   <string name="mosaic_item_talkback_effect9">Étoiles</string>
   <string name="mosaic_item_talkback_eraser">Gomme</string>
+  <string name="motion_photo_enter">Dynamic shot</string>
   <string name="motion_photo_play">Lecture</string>
   <string name="move_to_other_albums_tip">Déplacer cet album vers les Autres albums ?</string>
   <string name="move_to_rubbish_albums_tip">Déplacer les albums sélectionnés dans la corbeille ?</string>
@@ -1470,6 +1500,7 @@ pour personnaliser Galerie"</string>
   <string name="ocr_using_cellular_text">"La reconnaissance de texte à l'aide de données mobiles peut générer des frais supplémentaires pour les opérateurs. Reconnaître quand même ?"</string>
   <string name="ok">OK</string>
   <string name="onekey_auto">Auto</string>
+  <string name="onekey_beautify_tag_done">Effects applied</string>
   <string name="onekey_food">Nourriture</string>
   <string name="onekey_none">Original</string>
   <string name="onekey_portrait">Portrait</string>
@@ -1542,6 +1573,7 @@ Le transcodage peut prendre un certain temps lorsque vous utilisez cette fonctio
   <string name="operation_unforce_top">Détacher</string>
   <string name="operation_unhide">Afficher</string>
   <string name="operation_video_compress">Compress video</string>
+  <string name="operation_watermark">Protective watermark</string>
   <string name="orientation_lock_tip">Rotation automatique désactivée</string>
   <string name="orientation_unlock_tip">Rotation automatique activée</string>
   <string name="origin_gif_name">fichier original</string>
@@ -1561,10 +1593,16 @@ Le transcodage peut prendre un certain temps lorsque vous utilisez cette fonctio
   <string name="people_mark_mode_title_no_mark_name">Sélectionner une personne</string>
   <string name="people_page_label">Personnes</string>
   <string name="people_page_unname">Sans nom</string>
-  <string name="permissin_contract_desc">Pour nommer des personnes sur des photos</string>
-  <string name="permission_contacts_desc">Pour attribuer des contacts à des personnes sur des photos</string>
+  <string name="permission_contacts_desc">For assigning contacts to people on photos</string>
+  <string name="permission_contacts_desc_2">For associating people on photos with contacts</string>
   <string name="permission_contacts_name">Contacts</string>
-  <string name="permission_contract_name">Contacts</string>
+  <string name="permission_contacts_name_2">Access contacts</string>
+  <string name="permission_custom_cta_network_button_negative">"Don't agree"</string>
+  <string name="permission_custom_cta_network_button_positive">Agree</string>
+  <string name="permission_custom_cta_network_title">Attention</string>
+  <string name="permission_location">Location</string>
+  <string name="permission_location_desc">For displaying photos and videos on the map</string>
+  <string name="permission_optional_category">Optional permissions</string>
   <string name="permission_optional_category">Autorisations optionnelles</string>
   <string name="permission_phone_desc">"Pour les requêtes réseau basées sur l'ID de l'appareil"</string>
   <string name="permission_phone_name">Téléphone</string>
@@ -1627,6 +1665,7 @@ Le transcodage peut prendre un certain temps lorsque vous utilisez cette fonctio
   <string name="photo_editor_navigator_sticker_download_without_wifi_msg">"Il semble que vous n'êtes pas connecté au Wi-Fi. Utiliser %1$d Mo de données mobiles pour télécharger le plug-in ?"</string>
   <string name="photo_editor_navigator_sticker_download_without_wifi_msg_china">"Il semble que vous n'êtes pas connecté au Wi-Fi. Utiliser %1$d Mo de données mobiles pour télécharger le plug-in ?"</string>
   <string name="photo_editor_navigator_sticker_download_without_wifi_title">Télécharger le plug-in</string>
+  <string name="photo_editor_privacy_watermark">Protective watermark</string>
   <string name="photo_editor_remove_watermark">Supprimer filigrane</string>
   <string name="photo_editor_remove_watermark_on">Ajouter un filigrane</string>
   <string name="photo_editor_remover">Supprimer</string>
@@ -1683,6 +1722,7 @@ Le transcodage peut prendre un certain temps lorsque vous utilisez cette fonctio
   <string name="photo_editor_talkback_sky_audio_open">Jouer le son</string>
   <string name="photo_editor_talkback_undo">Annuler</string>
   <string name="photo_editor_text">Texte</string>
+  <string name="photo_editor_watermark_default">DO NOT COPY</string>
   <string name="photo_font_cancel_download">Annuler</string>
   <string name="photo_font_download">Télécharger</string>
   <string name="photo_font_download_failed_for_notwork">Impossible de télécharger. Veuillez vous connecter au réseau et réessayez.</string>
@@ -1883,6 +1923,15 @@ Le transcodage peut prendre un certain temps lorsque vous utilisez cette fonctio
   <string name="rubbish_album_move_to_other_album_success">Vous pouvez voir ces fichiers dès maintenant dans \"Autres albums\".</string>
   <string name="rubbish_nomedia_manager_button_text">Gérer les albums avec fichiers \".nomedia\"</string>
   <string name="runtime_permission_ungranted">Galerie fermée, aucune autorisation requise</string>
+  <string name="saf_hyper_link_text">Manage permissions</string>
+  <string name="saf_operation_guide_1">"Gallery needs your permission to be able to protect and manage your data. "</string>
+  <string name="saf_operation_guide_2">To grant the permission, tap \"%1$s\" and then select \"%2$s\".</string>
+  <string name="saf_operation_guide_param1">Next</string>
+  <string name="saf_operation_guide_param2">Access this folder</string>
+  <string name="saf_requester_cancel">Cancel</string>
+  <string name="saf_requester_title">Allow Gallery to access \"%s\"</string>
+  <string name="saf_secret_album">Private album</string>
+  <string name="saf_secret_album_guide">This app needs permissions to display items from your private album.</string>
   <string name="same_name_album_exist_and_toast">"Un album avec un même nom existe déjà. L'album '%s' a été créé."</string>
   <string name="samsung">Samsung</string>
   <string name="samsung_phone">Téléphone Samsung</string>
@@ -1893,6 +1942,14 @@ Le transcodage peut prendre un certain temps lorsque vous utilisez cette fonctio
   <string name="scan_barcode_to_join">Scannez le QR code pour ajouter un album</string>
   <string name="scan_qr_code_buttom_text">Scanner le QR code pour voir cet album</string>
   <string name="scanning_device_tips">"Recherche d'appareils à proximité… Assurez-vous que l'autre appareil est en mode détectable."</string>
+  <string name="scope_storage_dialog_cancel_btn">Cancel</string>
+  <string name="scope_storage_dialog_confirm_btn">Next</string>
+  <string name="scope_storage_dialog_description">Gallery permissions were updated. Allow Gallery to access this folder to be able to view its content.</string>
+  <string name="scope_storage_dialog_guide_content"><Data>Tap &lt;b>\"%1$s\"&lt;/b> and then select &lt;b>\"%2$s\"&lt;/b>.</Data></string>
+  <string name="scope_storage_dialog_guide_title">How to grant permission</string>
+  <string name="scope_storage_dialog_title">Permissions required</string>
+  <string name="scope_storage_operation_btn_1">Save</string>
+  <string name="scope_storage_operation_btn_2">Access this folder</string>
   <string name="screen_doodle_talkback_size">Largeur de ligne de Doodle</string>
   <string name="screen_editor_btn_delete">Supprimer</string>
   <string name="screen_editor_btn_save">Enreg.</string>
@@ -2036,6 +2093,7 @@ Le transcodage peut prendre un certain temps lorsque vous utilisez cette fonctio
   <string name="show_in_other_albums_disable_toast_long_press_menu">Déplacé avec succès, allez à Autres albums pour afficher</string>
   <string name="show_in_other_albums_enable_toast_long_press_menu">Déplacé avec succès, allez à Albums pour afficher</string>
   <string name="show_in_rubbish_albums_enable_toast_long_press_menu">Déplacé avec succès vers la corbeille</string>
+  <string name="show_nearby_photos">Show nearby photos and videos</string>
   <string name="signature_dialog_clear">Effacer</string>
   <string name="signature_manage_dialog_title_string">Signature</string>
   <string name="signature_view_add_signature_String">Ajouter une autre signature</string>
@@ -2153,6 +2211,7 @@ Le transcodage peut prendre un certain temps lorsque vous utilisez cette fonctio
   <string name="sticker_tab_talkback_frog">Grenouille</string>
   <string name="sticker_tab_talkback_graduate">Graduation</string>
   <string name="sticker_tab_talkback_graffito">Crayon</string>
+  <string name="sticker_tab_talkback_halloween">Halloween</string>
   <string name="sticker_tab_talkback_line">Lignes</string>
   <string name="sticker_tab_talkback_lovely">Mignonnerie</string>
   <string name="sticker_tab_talkback_markpen">Marqueur</string>
@@ -2832,6 +2891,9 @@ Le transcodage peut prendre un certain temps lorsque vous utilisez cette fonctio
   <string name="vlog_video_trans_code_cons">Importation…</string>
   <string name="voice_assistant">Assistant vocal</string>
   <string name="watch_all_photo">Galerie</string>
+  <string name="watermark_enter">Protective watermark</string>
+  <string name="watermark_summary">Recognize photos of IDs stored on this device and receive prompts to add protective watermarks</string>
+  <string name="watermark_title">Protective watermark</string>
   <string name="web_sso_login_fail">Vous devez vous reconnecter</string>
   <string name="web_sso_login_message">Identification…</string>
   <string name="webview_reload">Réessayez</string>
