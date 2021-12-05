@@ -4,5 +4,5 @@
     <string name="date_time_12" value="EEEE dd MMMM"/>
     <string name="desc_date_format" value="EEEE dd MMMM"/>
     <string name="desc_date_format_12" value="EEEE dd MMMM"/>
-    <string name="desc_time" value="'heure actuelle' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', Appuyez deux fois pour accéder à l'application horloge'"/>
+    <string name="desc_time" value="'heure actuelle' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', appuyez deux fois pour accéder à l'application horloge'"/>
 </strings>
