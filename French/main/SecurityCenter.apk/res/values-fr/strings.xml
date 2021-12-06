@@ -972,7 +972,6 @@ Vous ne perdrez aucune donnée d'application."</string>
     <string name="card_main_gamebooster_title">Game Turbo</string>
     <string name="card_main_hbassistant_summary">Utilisez cet outil pour saisir les enveloppes plus rapidement</string>
     <string name="card_main_hbassistant_title">"Assistant de l'enveloppe rouge"</string>
-    <string name="card_main_hwtest_title">Test du matériel</string>
     <string name="card_main_monthreport_action">Afficher</string>
     <string name="card_main_netcheck_action">Test</string>
     <string name="card_main_netcheck_summary">Tester la connexion pour des problèmes de réseau</string>
@@ -1942,6 +1941,7 @@ de vos sessions de jeu"</string>
     <string name="gd_setting_title">Barre latérale</string>
     <string name="gd_setting_vtb">Afficher en lisant des vidéos</string>
     <string name="gd_setting_vtb_desc">Fonctionnalités spéciales pour la lecture vidéo</string>
+    <string name="gd_splite_screen_tips">"Split screen doesn't support floating windows"</string>
     <string name="gdpr_msg"><Data>"Pour pouvoir détecter les risques de sécurité et protéger vos données, nous devons collecter la quantité nécessaire d'informations sur votre appareil. Lisez et acceptez notre &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Politique de confidentialité&lt;/a> avant d'utiliser nos services. Si vous ne nous autorisez pas à collecter de telles informations, vous pourrez toujours utiliser cette application, mais certaines fonctionnalités ne vous seront pas disponibles."</Data></string>
     <string name="get_detail_by_click">Appuyez pour afficher les détails</string>
     <string name="get_sys_info">"Obtention d'informations…"</string>
@@ -2792,6 +2792,7 @@ Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs con
     <string name="pc_abnormal_scan_reason_use_GPS">Utilise les services de localisation trop fréquemment</string>
     <string name="pc_abnormal_scan_reason_wake_system">Réveille le système trop souvent</string>
     <string name="pc_activity_title">Optimiser la batterie</string>
+    <string name="pc_battery_chart_loading">Un instant…</string>
     <string name="pc_battery_detail_curve_reference_now">Maintenant</string>
     <string name="pc_battery_detail_device_item_title">"Statistiques d'utilisations"</string>
     <string name="pc_battery_history_battery_detail_menu_item">Détails</string>
@@ -5152,6 +5153,7 @@ Le volume de données restant inclut l'excédent du mois précédent."</string>
     <string name="vb_ve_settings_picture_stronger">Animations améliorées</string>
     <string name="vb_video_effects_3d">Son Surround</string>
     <string name="vb_video_effects_3d_summary">Améliore la profondeur de la reproduction sonore pour les écouteurs et les haut-parleurs</string>
+    <string name="vb_video_effects_3d_summary_headset">Increase the sense of immersion and envelopment when listening to audio in the earphones</string>
     <string name="vb_video_effects_3d_surround">Son Surround</string>
     <string name="vb_video_effects_display_style">Style</string>
     <string name="vb_video_effects_dolby">Dolby Atmos</string>
