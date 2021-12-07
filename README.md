@@ -21,8 +21,8 @@
 * Correction orthographique
 
 ## Structure
-Dossiers | Descriptions
-:------------: | :------------:
-/ French / Bêta / main | Applications pour tous les appareils Xiaomi.
-/ French / Stable / devices | Applications pour tous les appareils Xiaomi.
-/ French / Widgets / extras | Widgets pour tous les appareils Xiaomi.
+Dossiers |  ROM | Descriptions |
+:------------: | :------------:| :------------:
+/ French | Bêta | main | Applications pour tous les appareils Xiaomi.
+/ French | Stable | devices | Applications pour tous les appareils Xiaomi.
+/ French | Widgets | extras | Widgets pour tous les appareils Xiaomi.
