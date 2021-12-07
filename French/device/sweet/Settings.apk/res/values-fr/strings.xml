@@ -2482,6 +2482,8 @@ Ce paramètre affecte tous les utilisateurs de cet appareil."</string>
     <string name="deny">Refuser</string>
     <string name="detail_app_button">Informations</string>
     <string name="detail_question">Détails</string>
+    <string name="detailed_wifi_logging_disabled">Detailed Wi-Fi logging is off</string>
+    <string name="detailed_wifi_logging_enabled">Detailed Wi-Fi logging is on</string>
     <string name="details_subtitle">"Détails d'utilisation"</string>
     <string name="dev_logpersist_clear_warning_message">"Lorsque nous ne surveillons plus avec l'enregistreur persistant, nous sommes tenus d'effacer les données de l'enregistreur résident sur votre appareil."</string>
     <string name="dev_logpersist_clear_warning_title">Effacer le stockage des journaux persistants ?</string>
@@ -3468,6 +3470,7 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="game_driver_dashboard_title">Préférences du pilote de jeu</string>
     <string name="game_driver_footer_text">"Lorsque le pilote de jeu est activé, vous pouvez choisir d'utiliser le pilote graphique mis à jour pour les applications installées sur le périphérique."</string>
     <string name="game_storage_settings">Jeux</string>
+    <string name="gd_setting_title">Sidebar</string>
     <string name="general_text">Champ texte</string>
     <string name="general_time">"Heure : %1$d:%2$d. Les longues vibrations représentent les heures, les courtes vibrations représentent les minutes. Il y aura une courte pause entre les heures et les minutes. Appuyez deux fois pour essayer."</string>
     <string name="gentle_notifications_also_display">Afficher également en</string>
@@ -4425,7 +4428,10 @@ pour le Deuxième espace"</string>
     <string name="low_label">Faible</string>
     <string name="low_storage_summary">Stockage faible. %1$s utilisé - %2$s disponible</string>
     <string name="macaddr_label">Adresse MAC :</string>
+    <string name="magic_list_empty_text">Aucune application compatible avec cette fonctionnalité pour le moment </string>
+    <string name="magic_list_empty_text_pad">Aucune application compatible avec cette fonctionnalité pour le moment </string>
     <string name="magic_window_name">Fenêtres parallèles</string>
+    <string name="magic_window_name_pad">Optimiser les applications pour la vue paysage</string>
     <string name="mah">%d mAh</string>
     <string name="main_netcheck_summary">Tester la connexion pour des problèmes de réseau</string>
     <string name="main_running_process_description">"Processus principal en cours d'utilisation."</string>
@@ -4584,6 +4590,7 @@ D'autres personnes utilisent cet appareil.
     <string name="memory_usage">Utilisation de la mémoire</string>
     <string name="memory_usage_apps">Mémoire utilisée par les applications</string>
     <string name="memory_use_summary">%1$s de mémoire utilisé(s) au cours des trois dernières heures en moyenne</string>
+    <string name="memorycard_calculating">Calculating…</string>
     <string name="menu_cancel">Annuler</string>
     <string name="menu_check">Expérience</string>
     <string name="menu_delete">"Supprimer l'APN"</string>
@@ -7260,8 +7267,8 @@ Le code PIN est peut-être incorrect."</string>
     <string name="sim_lock_settings_summary_off">Désactivé</string>
     <string name="sim_lock_settings_summary_on">Verrouillée</string>
     <string name="sim_lock_settings_title">Verrouillage de la carte SIM</string>
-    <string name="sim_management_title">Cartes SIM &amp; réseaux mobiles</string>
-    <string name="sim_management_title_singlesim">Carte SIM &amp; réseaux mobiles</string>
+    <string name="sim_management_title">Réseaux cellulaires</string>
+    <string name="sim_management_title_singlesim">Réseaux cellulaires</string>
     <string name="sim_multi_sims_summary">Sélectionnez la carte SIM à utiliser en priorité pour les données mobiles.</string>
     <string name="sim_multi_sims_title">Plusieurs cartes SIM détectées</string>
     <string name="sim_name_hint">Saisir le nom de la carte SIM</string>
