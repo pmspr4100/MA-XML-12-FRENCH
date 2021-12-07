@@ -20,9 +20,9 @@
 * Ajustement des traductions
 * Correction orthographique
 
-## StructureDossiers
+## Structure
 GitHub |  Dossiers | ROM | Descriptions
 :------------: | :------------:| :------------:| :------------:
-/ French | main | Bêta | Applications pour tous les appareils Xiaomi.
-/ French | devices | Stable | Applications pour tous les appareils Xiaomi.
-/ French | extras | Widgets | Widgets pour tous les appareils Xiaomi.
+French | main | Bêta | Applications pour tous les appareils Xiaomi.
+French | devices | Stable | Applications pour tous les appareils Xiaomi.
+French | extras | Widgets | Widgets pour tous les appareils Xiaomi.
