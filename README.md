@@ -23,6 +23,6 @@
 ## Structure
 Dossiers | Descriptions
 :------------: | :------------:
-/ French / device | Applications spécifiques au modèle Xiaomi
-/ French / extras | Widgets pour tous les appareils Xiaomi
-/ French / main | Applications pour tous les appareils Xiaomi
+/ French / Bêta / main | Applications pour tous les appareils Xiaomi.
+/ French / Stable / devices | Applications pour tous les appareils Xiaomi.
+/ French / Widgets / extras | Widgets pour tous les appareils Xiaomi.
