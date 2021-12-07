@@ -116,6 +116,7 @@ Si cette autorisation est désactivée, les alarmes existantes et les événemen
     <string name="alertdialogtitle">Résultats</string>
     <string name="all_day">" Toute la journée "</string>
     <string name="all_empty_alert">Entrez les détails du nouveau compte SIP.</string>
+    <string name="allow">Accepté</string>
     <string name="allow_mock_location">Positions fictives</string>
     <string name="allow_mock_location_summary">Autoriser les positions fictives</string>
     <string name="already_auto">La sélection automatique est déjà activée.</string>
@@ -135,6 +136,7 @@ Si cette autorisation est désactivée, les alarmes existantes et les événemen
     <string name="app_process_limit_title">Limite processus arr.-plan</string>
     <string name="arrears_sim_summary">Top up your phone balance to stay connected.</string>
     <string name="arrears_sim_title">Insufficient funds</string>
+    <string name="ask">Demander</string>
     <string name="atr_disable">Les rapports de trafic aérien sont désactivés</string>
     <string name="atr_enable">Les rapports de trafic aérien sont activés</string>
     <string name="audio_mode_bluetooth">Bluetooth</string>
@@ -1555,8 +1557,9 @@ Please contact your operators"</string>
     <string name="not_set">Non défini</string>
     <string name="not_support_forbidden_fakecell">"Your device doesn't support chip level protection from fake base stations."</string>
     <string name="not_voice_capable">Appels vocaux non pris en charge</string>
-    <string name="notification_channel_demo">Demo device</string>
-    <string name="notification_channel_sip_account">Deprecated SIP accounts</string>
+    <string name="notallow">Refusé</string>
+    <string name="notification_channel_demo">Appareil de démonstration</string>
+    <string name="notification_channel_sip_account">Comptes SIP périmés</string>
     <string name="notification_demo_version_text">"Impossible de passer des appels ou d'utiliser des données mobiles"</string>
     <string name="notification_demo_version_title">Ceci est un appareil de démonstration</string>
     <string name="notification_network_selection_text">Réseau sélectionné %s non disponible</string>
@@ -1576,6 +1579,8 @@ Please contact your operators"</string>
     <string name="nr_usaged_used_time">"Durée d'utilisation"</string>
     <string name="number">Numéro</string>
     <string name="numerous_emergency_numbers_title">Emergency numbers</string>
+    <string name="obtain_location_information">Localisation</string>
+    <string name="obtain_location_information_summary">"Pour optimiser l'environnement réseau actuel"</string>
     <string name="oem_radio_info_label">Infos / paramètres OEM</string>
     <string name="oem_unlock_enable">Déverrouillage OEM</string>
     <string name="oem_unlock_enable_summary">Autoriser le déverrouillage du bootloader</string>
@@ -1795,6 +1800,7 @@ Veuillez réessayer ou appeler le service client pour plus d'options."</string>
     <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_ERROR">SP EHPLMN demande de déverrouillage infructueuse.</string>
     <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_IN_PROGRESS">Demande de déverrouillage du SP EHPLMN...</string>
     <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_SUCCESS">SP EHPLMN débloqué avec succès.</string>
+    <string name="permission_description">Détails des autorisations</string>
     <string name="phoneAppLabel">Services téléphoniques</string>
     <string name="phoneIconLabel">Téléphone</string>
     <string name="phone_account_settings">Comptes des appels</string>
@@ -1873,6 +1879,7 @@ Votre téléphone sera automatiquement bloqué en cas de nouvel échec"</string>
     <string name="prefered_network_type_3g_promp">Vous devez désactiver VoLTE avant de choisir la 3G comme type de réseau préféré. Désactiver maintenant ?</string>
     <string name="preference_auto_ip_summary_disable">Désactivé</string>
     <string name="preference_category_ringtone">Sonnerie et vibreur</string>
+    <string name="preference_check_privacy">Voir la Politique de confidentialité</string>
     <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
     <string name="preference_data_usage_summary">"Définissez votre plan de données pour contrôler l'utilisation de vos données mobiles"</string>
     <string name="preference_data_usage_title">Définir un forfait de données</string>
@@ -1880,6 +1887,7 @@ Votre téléphone sera automatiquement bloqué en cas de nouvel échec"</string>
     <string name="preference_dial_pad_touch_tone_off">Désactivé</string>
     <string name="preference_dial_pad_touch_tone_piano">Touches de piano</string>
     <string name="preference_dial_pad_touch_tone_title">Sons des touches du pavé numérique</string>
+    <string name="preference_permission_related">Autorisations</string>
     <string name="preference_telocation_summary_countrycode_off">Ne composez pas automatiquement le code pays</string>
     <string name="preference_telocation_summary_countrycode_on">Ajouter automatiquement le code Pays</string>
     <string name="preference_telocation_summary_teloc_off">Cacher la localisation du contact</string>
@@ -1949,6 +1957,7 @@ Votre téléphone sera automatiquement bloqué en cas de nouvel échec"</string>
     <string name="preferred_phone_account">"Compte d'appel préféré"</string>
     <string name="preferred_wificall_title">Préférences réseau</string>
     <string name="privacy_policy_title">Politique de confidentialité</string>
+    <string name="privacy_setting">Vie privée</string>
     <string name="private_dns_broken">"Le serveur DNS privé n'est pas accessible"</string>
     <string name="private_dns_mode_off">Désactivé</string>
     <string name="private_dns_mode_opportunistic">Automatique</string>
@@ -2060,6 +2069,8 @@ Interface UT : %5$s"</string>
     <string name="radio_info_nr_state">NR State:</string>
     <string name="radio_off_during_emergency_call">"Impossible d'activer le mode Avion pendant un appel d'urgence."</string>
     <string name="radio_off_error">"Activez le signal radio avant d'afficher ces paramètres."</string>
+    <string name="read_call_log">"Enregistrer l'audio"</string>
+    <string name="read_call_log_summary">Pour enregistrer les appels</string>
     <string name="reading_settings">Lecture des paramètres…</string>
     <string name="regional_disable">Les informations régionales sont désactivées</string>
     <string name="regional_enable">Les informations régionales sont activées</string>

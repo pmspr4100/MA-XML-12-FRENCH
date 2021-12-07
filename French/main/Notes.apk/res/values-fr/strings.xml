@@ -538,6 +538,7 @@
   <string name="pc_todo_fast_create_hint">Entrez du texte et appuyez sur \"Entrée\" pour ajouter une tâche indéfinie</string>
   <string name="pc_todo_set_remind_time_hint">"Régler l'heure"</string>
   <string name="permdesc_accessNote">"Des applications malveillantes peuvent l'utiliser pour accéder à vos informations personnelles."</string>
+  <string name="permission_data_shared_desc">Remarques sur la déclaration de partage de données avec des tiers</string>
   <string name="permission_get_account_desc">Synchronisation des notes avec le cloud</string>
   <string name="permission_intro_contact">Pour marquer les notes prises pendant les appels</string>
   <string name="permission_intro_microphone">Pour enregistrer des notes vocales</string>
@@ -551,6 +552,8 @@
   <string name="permission_storage_desc_pad_v12">"Pour ajouter des images aux notes et enregistrer des notes sous forme d'images"</string>
   <string name="permission_storage_desc_v12">"Pour ajouter des images aux notes et enregistrer des notes sous forme d'images"</string>
   <string name="permission_xiaoai_desc"><Data>"Mi IA collectera vos enregistrements vocaux et votre ID d'appareil pour transcrire l'audio et créer des notes vocales. En savoir plus sur Mi IA &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a>."</Data></string>
+  <string name="permission_xiaoai_desc_new"><Data>"Afin de fournir des services de Speech-to-text, Mi IA doit collecter l'entrée audio et l'identifiant de votre appareil, qui est généré de manière aléatoire. Lisez et acceptez nos &lt;a href=\"%1$s\">Notes sur la Déclaration de partage de données avec des tiers&lt;/a> avant de continuer. Vous pouvez également en savoir plus en lisant &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a> de Mi IA."</Data></string>
+  <string name="permission_xiaoai_title">Speech-to-text</string>
   <string name="permlab_accessNote">Accès aux notes</string>
   <string name="pref_category_title_quick_func">Fonctionnalités rapides</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">Faites glisser votre doigt vers le haut pour supprimer des notes sans confirmation.</string>

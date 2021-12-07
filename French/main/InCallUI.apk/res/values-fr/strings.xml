@@ -271,6 +271,8 @@
     <string name="night">Soirée</string>
     <string name="noon">Midi</string>
     <string name="msim_select_default_time_left">(%d s)</string>
+    <string name="night">Soirée</string>
+    <string name="noon">Midi</string>
     <string name="notification_action_accept">Accepter</string>
     <string name="notification_action_answer_video">Vidéo</string>
     <string name="notification_action_answer_voice">Voix</string>
@@ -311,6 +313,11 @@
     <string name="pm">PM</string>
     <string name="private_num">Numéro masqué</string>
     <string name="prompt_no_volte_when_failed">Impossible de faire des appels. Assurez-vous que votre appareil est connecté à un réseau 4G avec prise en charge VoLTE</string>
+    <string name="relay_cal_from_device_name">Depuis %1$s</string>
+    <string name="relay_call">Appel relai</string>
+    <string name="relay_call_device_name">Appareil connecté (%1$s)</string>
+    <string name="relay_deny_permission_msg">"Impossible de transférer des appels sans l'autorisation d'enregistrer l'audio"</string>
+    <string name="relay_grant_permissions_on_phone">"Accordez la permission d'enregistrer de l'audio sur votre téléphone"</string>
     <string name="remind_unlock_message">Votre appareil est actuellement verrouillé. \"%s\" sera disponible lorsque vous déverrouillerez votre appareil. Déverrouiller maintenant ?</string>
     <string name="respond_via_sms_custom_message">Réponse personnalisée</string>
     <string name="saturday">Samedi</string>
