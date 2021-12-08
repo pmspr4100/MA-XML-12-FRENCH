@@ -382,7 +382,7 @@
     <string name="invalid_destination">"L'adresse saisie n'est pas valide."</string>
     <string name="invalid_private_contact">Contact non valide</string>
     <string name="invalid_recipient_message">Corrigez le ou les noms des destinataires, faute de quoi ils ne recevront pas le message.</string>
-    <string name="invisible_mode_on">Vous êtes incognito</string>
+    <string name="invisible_mode_on">Vous êtes en navigation privée</string>
     <string name="is_composing">Saisie…</string>
     <string name="kilobyte">" Ko"</string>
     <string name="layout_selector_title">"Mise en page du diaporama "</string>
@@ -1329,9 +1329,9 @@ Si vous n'acceptez pas d'accorder de telles autorisations ou de partager et tél
     <string name="type_to_compose_text_or_leave_blank">Saisissez votre texte ou laissez le champ vide.</string>
     <string name="type_vcard">vCard</string>
     <string name="type_video">vidéo</string>
-    <string name="unable_connect_camera">"Vous êtes incognito. Impossible d'utiliser l'appareil photo maintenant."</string>
-    <string name="unable_get_location">"Vous êtes incognito. Impossible d'utiliser les services de localisation pour le moment."</string>
-    <string name="unable_use_microphone">"Vous êtes incognito. Impossible d'utiliser le microphone maintenant."</string>
+    <string name="unable_connect_camera">"Vous êtes en navigation privée. Impossible d'utiliser l'appareil photo maintenant."</string>
+    <string name="unable_get_location">"Vous êtes en navigation privée. Impossible d'utiliser les services de localisation pour le moment."</string>
+    <string name="unable_use_microphone">"Vous êtes en navigation privée. Impossible d'utiliser le microphone maintenant."</string>
     <string name="undelivered_msg_dialog_body">"Impossible d'envoyer ce message.
 Dernière tentative : %s."</string>
     <string name="undelivered_msg_dialog_title">Message non transmis</string>
