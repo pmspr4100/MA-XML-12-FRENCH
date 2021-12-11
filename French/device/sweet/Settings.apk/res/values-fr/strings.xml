@@ -723,6 +723,7 @@ Si cette autorisation est désactivée, les alarmes existantes et les événemen
     <string name="app_special_disable_dlg_text">"Si vous désactivez cette application, il est possible qu'Android et d'autres applications ne fonctionnent plus comme prévu. Vos données seront également supprimées."</string>
     <string name="app_special_disable_dlg_title">"Supprimer les données et désactiver l'application ?"</string>
     <string name="app_switch_key">Récents</string>
+    <string name="app_uninstall_sounds_enable_title">Son de désinstallation des applications</string>
     <string name="app_usage_cycle">Cycle de conso des données</string>
     <string name="app_usage_preference">"Préférences d'utilisation de l'application"</string>
     <string name="app_version">Version</string>
@@ -2080,7 +2081,7 @@ Si vous installez un certificat CA, le propriétaire du certificat peut accéder
     <string name="continue_reset_factory">"Retour aux paramètres d'usine"</string>
     <string name="contributors_title">Collaborateurs</string>
     <string name="control_center">Centre de contrôle</string>
-    <string name="control_center_style">Style du Centre de contrôle</string>
+    <string name="control_center_style">Style du centre de contrôle</string>
     <string name="control_center_style_summary">"Sélectionnez la façon dont vous souhaitez afficher les boutons et les notifications"</string>
     <string name="control_panel_switch_side">Changer le côté du Centre de contrôle</string>
     <string name="controls_label">Commandes</string>
@@ -3498,7 +3499,7 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="gesture_prevent_ringing_title">Appuyer simultanément sur les boutons \"Marche/Arrêt\" et \"Volume +\"</string>
     <string name="gesture_setting_off">Désactivé</string>
     <string name="gesture_setting_on">Activé</string>
-    <string name="gesture_settings_title">Gestes-raccourcis</string>
+    <string name="gesture_settings_title">Gestes et raccourcis</string>
     <string name="gesture_w">Modèle W</string>
     <string name="gesture_wakeup_summary">"Vous pouvez appuyer deux fois pour éteindre l'écran lorsque le thème par défaut ou classique est appliqué"</string>
     <string name="gesture_wakeup_title">"Appuyez deux fois pour réveiller ou éteindre l'écran"</string>
@@ -8337,12 +8338,12 @@ Vos empreintes digitales enregistrées seront également supprimées de ce profi
     <string name="unlock_set_unlock_pin_title">Code PIN</string>
     <string name="unlock_set_unlock_summary">Définir un écran de verrouillage</string>
     <string name="unlock_setup_wizard_fingerprint_details">"Une fois que vous avez configuré un verrouillage de l'écran, vous pouvez également configurer votre empreinte digitale dans Paramètres > Sécurité."</string>
-    <string name="unlock_sound_effect_enable_title">Play sound when unlocking device</string>
+    <string name="unlock_sound_effect_enable_title">"Son du déverrouillage de l'appareil"</string>
     <string name="unlock_type_category_title">Méthode de reconnaissance</string>
     <string name="unlogin_account_summary">Tous les services Mi. Un Compte Mi.</string>
     <string name="unlogin_account_title">Se connecter avec le Compte Mi</string>
     <string name="unmount_inform_text">La carte SD va être désinstallée.</string>
-    <string name="unmute_sound_title">Jouer du son lorsque le mode silencieux est désactivé</string>
+    <string name="unmute_sound_title">Son lorsque le mode silencieux est désactivé</string>
     <string name="unrestrict_max_aspect_ratio_title">Ces applications sont optimisées pour le mode plein écran</string>
     <string name="unrestricted_app_summary">"Autoriser l'accès non restreint aux données lorsque l'économiseur de données est activé"</string>
     <string name="unrestricted_app_title">Conso. données non restreinte</string>
@@ -8353,7 +8354,7 @@ Vos empreintes digitales enregistrées seront également supprimées de ce profi
     <string name="unused_apps_switch">Remove permissions and free up space</string>
     <string name="update_new_version">Mise à jour disponible</string>
     <string name="update_progress_for_updates">Mise à jour (%s)</string>
-    <string name="update_sourceinfo_btn_txt">Update Source Info</string>
+    <string name="update_sourceinfo_btn_txt">Mettre à jour les informations sur la source</string>
     <string name="updating_settings">Mise à jour des paramètres…</string>
     <string name="uplmn_list_setting_add_plmn">Nouveau PLMN</string>
     <string name="uplmn_settings_summary">Définissez les PLMN préférés par ordre de priorité</string>
