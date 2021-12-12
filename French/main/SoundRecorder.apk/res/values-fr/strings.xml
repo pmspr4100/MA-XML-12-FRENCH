@@ -43,6 +43,7 @@
     <string name="app_record">"Enregistrements de l'application"</string>
     <string name="app_record_preference_title">"Enregistrements de l'application"</string>
     <string name="back">Retour</string>
+    <string name="bottomsheet_action_expand_halfway">Agrandir à mi-chemin</string>
     <string name="button_queue_for_wifi">Attendre</string>
     <string name="button_start_now">Télécharger</string>
     <string name="call_record">Appels enregistrés</string>
@@ -50,7 +51,13 @@
     <string name="call_record_list_group_connected">Connecté</string>
     <string name="call_record_list_group_unconnected">Non connecté</string>
     <string name="cancel_rename">Annuler</string>
+    <string name="character_counter_content_description">Caractères saisis  %1$d sur %2$d</string>
+    <string name="character_counter_overflowed_content_description">Limite de caractères dépassée  %1$d sur %2$d</string>
+    <string name="chip_text">Chip text</string>
+    <string name="clear_data_dialog_content">"Les éléments mis en cache, les données d'application et les paramètres personnalisés seront supprimés, mais vos enregistrements resteront en place. "</string>
+    <string name="clear_data_dialog_title">Effacer les données maintenant ?</string>
     <string name="clear_records">Supprimer les enregistrements synchronisés</string>
+    <string name="clear_text_end_icon_content_description">Effacer le texte</string>
     <string name="clearable_edittext_clear_description">Supprimer</string>
     <string name="close">Fermer</string>
     <string name="cloud_record_open">Synchroniser les enregistrements</string>
@@ -144,6 +151,16 @@
     <string name="low_battery_error_title">Batterie faible</string>
     <string name="lyric_item_point_count">%1$d à %2$d</string>
     <string name="mark_point_list_title">Marques</string>
+    <string name="material_clock_toggle_content_description">Select AM or PM</string>
+    <string name="material_hour_selection">Select hour</string>
+    <string name="material_hour_suffix">"%1$s o'clock"</string>
+    <string name="material_minute_selection">Select minutes</string>
+    <string name="material_slider_range_end">Range end,</string>
+    <string name="material_slider_range_start">Range start,</string>
+    <string name="material_timepicker_clock_mode_description">Switch to clock mode for the time input.</string>
+    <string name="material_timepicker_hour">Hour</string>
+    <string name="material_timepicker_select_time">Select time</string>
+    <string name="material_timepicker_text_input_mode_description">Switch to text input mode for the time input.</string>
     <string name="menu">Menu</string>
     <string name="message_file_size_error">"L'enregistrement a atteint la taille maximum supportée par %s"</string>
     <string name="mi_account_msg">Connectez-vous avec un Compte Mi pour transcrire des fichiers dans le cloud et bénéficiez des 60 premières minutes gratuites.</string>
@@ -157,6 +174,9 @@
     <string name="miuix_appcompat_action_mode_title_empty">Sélectionner des éléments</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Plus</string>
     <string name="miuix_appcompat_cancel_description">Annuler</string>
+    <string name="miuix_appcompat_cloud_state_disabled">Sync with the cloud is off</string>
+    <string name="miuix_appcompat_cloud_state_finished">Synced with the cloud successfully</string>
+    <string name="miuix_appcompat_cloud_state_syncing">Syncing with the cloud…</string>
     <string name="miuix_appcompat_confirm_description">Confirmer</string>
     <string name="miuix_appcompat_delete_description">Supprimer</string>
     <string name="miuix_appcompat_deselect_all">Désélectionner</string>
@@ -217,6 +237,35 @@
     <string name="month_september_shortest">Sept</string>
     <string name="more">Plus</string>
     <string name="morning">Matin</string>
+    <string name="mtrl_badge_numberless_content_description">New notification</string>
+    <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">More than %1$d new notifications</string>
+
+    <string name="mtrl_picker_a11y_next_month">Change to next month</string>
+    <string name="mtrl_picker_a11y_prev_month">Change to previous month</string>
+    <string name="mtrl_picker_announce_current_selection">Current selection: %1$s</string>
+    <string name="mtrl_picker_date_header_title">Select Date</string>
+    <string name="mtrl_picker_date_header_unselected">Selected date</string>
+    <string name="mtrl_picker_day_of_week_column_header">Column of days: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Invalid format.</string>
+    <string name="mtrl_picker_invalid_format_example">Example: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Use: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Invalid range.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Navigate to year %1$s</string>
+    <string name="mtrl_picker_out_of_range">Out of range: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Start date – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – End date</string>
+
+    <string name="mtrl_picker_range_header_title">Select Range</string>
+    <string name="mtrl_picker_range_header_unselected">Start date – End date</string>
+    <string name="mtrl_picker_save">Save</string>
+    <string name="mtrl_picker_text_input_date_hint">Date</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">End date</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Start date</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Switch to calendar input mode</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Tap to switch to selecting a day</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Switch to text input mode</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Tap to switch to selecting a year</string>
     <string name="network_tip_dialog_cancel">Je refuse</string>
     <string name="network_tip_dialog_content">Le magnétophone a besoin de se connecter à internet pour fonctionner normalement. Acceptez-vous ?</string>
     <string name="network_tip_dialog_ok">Accepter</string>
@@ -224,6 +273,7 @@
     <string name="network_unavailable_tip">Se connecter au réseau, puis réessayez.</string>
     <string name="new_record_name">Nouvel enregistrement</string>
     <string name="night">Soirée</string>
+    <string name="no_content">No items here yet</string>
     <string name="no_file">Vide</string>
     <string name="no_network">Connexion au réseau impossible</string>
     <string name="no_playback_file">Sélectionnez un enregistrement pour afficher les détails</string>
@@ -263,11 +313,14 @@
     <string name="online_recognize_order_upload">Confirmer et envoyer</string>
     <string name="online_recognize_order_uploading">Envoi en cours %s…</string>
     <string name="online_recognize_other_order_upload">Attendez que les téléchargements en cours soient terminés et réessayez.</string>
-    <string name="online_recognize_running">Transcription en cours…</string>
+    <string name="online_recognize_progress">Transcription %s…</string>
+    <string name="online_recognize_running">Transcription…</string>
     <string name="online_recognize_service_unavailable">Le service nest pas disponible maintenant. Attendez une minute ou deux, puis réessayez.</string>
     <string name="order_item_duration">Durée : %s</string>
     <string name="order_item_number">Numéro de commande : %s</string>
     <string name="order_item_price">%s CNY</string>
+    <string name="other_settings_pref_title">Paramètres additionnels</string>
+    <string name="password_toggle_content_description">Afficher le mot de passe</string>
     <string name="path_soundrecorder_setting">Applications système/Magnétophone</string>
     <string name="pause">Pause</string>
     <string name="pay_error_cancel">Le paiement a été annulé</string>
@@ -285,7 +338,7 @@
     <string name="play_speed">Vitesse %1$.1f×</string>
     <string name="playback_delete_records">"Supprimer l'enregistrement"</string>
     <string name="playback_share_records">"Partager l'enregistrement"</string>
-    <string name="pm">PM</string>
+    <string name="preference_clear_data">Effacer les données</string>
     <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
     <string name="preference_enable_earpiece_summary">Utiliser les haut-parleurs pour la lecture</string>
     <string name="preference_enable_earpiece_title">Utiliser les haut-parleurs</string>
@@ -373,7 +426,8 @@
     <string name="record_permission_dialog_title">Autorisations micro requises</string>
     <string name="record_quliaty_preference_title">"Qualité d'enregistrement"</string>
     <string name="record_resotre">Récupérer les enregistrements</string>
-    <string name="recording">Enregistrement audio</string>
+    <string name="recorder_record">Audio</string>
+    <string name="recording">Enregistrement</string>
     <string name="recording_quality_high">Haute qualité</string>
     <string name="recording_quality_low">Qualité faible</string>
     <string name="recording_quality_standard">Qualité moyenne</string>
@@ -474,7 +528,8 @@
     <string name="tab_all">Tous</string>
     <string name="tab_apps">Applications</string>
     <string name="tab_call">Appels</string>
-    <string name="tab_fm">FM</string>
+
+    <string name="tap_to_record">"Appuyez sur le bouton pour commencer l'enregistrement "</string>
     <string name="text_btn_backward_3_seconds">3 secondes en arrière</string>
     <string name="text_btn_complete">Arrêter</string>
     <string name="text_btn_forward_3_seconds">3 secondes en avant</string>
