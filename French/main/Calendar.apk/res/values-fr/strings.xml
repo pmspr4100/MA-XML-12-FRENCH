@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="add_holiday_desc">Add holidays here</string>
     <string name="add_holiday_title">Add holiday</string>
     <string name="additional_cal_dialog_title">Select calendar</string>
@@ -56,6 +66,7 @@
     <string name="predict_menstruation">Expected period</string>
     <string name="preferences_show_indic_date_title">Show Indic calendar</string>
     <string name="remind_me">Remind</string>
+    <string name="fmt_time_12hour">"h 'o''horloge'"</string>
     <string name="remind_menstruation_acquired_start">Your period might start in %d days</string>
     <string name="remind_query_menstruation_end">"Has your period ended? Don't forget to record it."</string>
     <string name="remind_query_menstruation_start">"Has your period started? Don't forget to record it."</string>

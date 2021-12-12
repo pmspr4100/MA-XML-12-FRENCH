@@ -247,4 +247,8 @@
         <item quantity="other">%1$d appareils connectés</item>
         <item quantity="one">%1$d appareil connecté</item>
     </plurals>
+     <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nouvelles notifications</item>
+        <item quantity="one">%d nouvelle notification</item>
+     </plurals>
 </resources>

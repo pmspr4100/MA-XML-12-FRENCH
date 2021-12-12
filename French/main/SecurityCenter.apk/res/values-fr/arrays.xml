@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string-array name="auto_task_text_layout_size_level">
+        <item>Extra small</item>
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+        <item>Extra large</item>
+        <item>XXL</item>
+     </string-array>
+     <string-array name="daily_brand">
+        <item>Custom</item>
+        <item>Mi Fan card</item>
+        <item>Xiao Tiansheng card</item>
+        <item>Tencent King card</item>
+     </string-array>
+     <string-array name="daily_rent_card_brands">
+        <item>Custom</item>
+        <item>Mi Mobile</item>
+        <item>Mi Fan card</item>
+        <item>Tianshen card</item>
+        <item>Tencent card</item>
+     </string-array>
+     <string-array name="gb_adv_touch_custom_level">
+        <item>Lowest</item>
+        <item>Low</item>
+        <item>Regular</item>
+        <item>High</item>
+        <item>Highest</item>
+     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Une fois</item>
         <item>Chaque jour</item>
