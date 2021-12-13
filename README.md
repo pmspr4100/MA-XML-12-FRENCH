@@ -15,3 +15,4 @@ Github |  Dossiers | ROM | Descriptions
 French | main | Bêta | Applications pour tous les appareils Xiaomi.
 French | devices | Stable | Applications pour tous les appareils Xiaomi.
 French | extras | Widgets | Widgets pour tous les appareils Xiaomi.
+French | translate | Bêta / Stable | Nouvelles chaînes ajoutées dans MIUI 12.x.
