@@ -1,3 +1,5 @@
+[![MIUI12 logo](https://i.imgur.com/etEBUXw.png)](https://xiaomi.eu/)
+
 # MIUI V12.x French Translation
 [![License: CC BY-NC-SA 3.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%203.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 
