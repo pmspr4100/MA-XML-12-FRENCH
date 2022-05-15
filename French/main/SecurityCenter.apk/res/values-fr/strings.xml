@@ -843,7 +843,7 @@ Vous ne perdrez aucune donnée d'application."</string>
     <string name="auto_task_default_task_summary_listen_music">"Jouer de la musique et sélectionner le type d'écouteur"</string>
     <string name="auto_task_default_task_summary_meet">"Planifier l'heure de la réunion et activer le mode NPD"</string>
     <string name="auto_task_default_task_summary_noon_break">"Planifiez l'heure de la sieste et activez le mode NPD"</string>
-    <string name="auto_task_default_task_summary_save_power">"Activer l'économiseur de batterie lorsque la batterie est inférieure à %s"</string>
+    <string name="auto_task_default_task_summary_save_power">"Activer l'économiseur de batterie lorsque la batterie est inférieure à 30%"</string>
     <string name="auto_task_default_task_summary_sleep">"Planifiez l'heure du coucher et personnalisez le comportement de l'appareil"</string>
     <string name="auto_task_default_task_summary_watch_video">"Ouvrez l'application, activez le Wi-Fi, réglez le volume"</string>
     <string name="auto_task_default_task_title_driver_car">Conduire</string>
@@ -1293,7 +1293,7 @@ Votre opérateur peut vous facturer des frais supplémentaires si vous activer l
     <string name="deep_power_save_item_title_lock_screen_time">"Mettre l'écran en veille"</string>
     <string name="deep_save_memory_clean_summary">Nettoyer le cache lorsque vous verrouillez votre appareil pour éviter que les applicaitons déchargent la batterie</string>
     <string name="deep_save_ontime_boot_shutdown_summary">"Définir l'heure pour allumer et éteindre l'appareil"</string>
-    <string name="default_condition_summary">Par exemple : \"La batterie est inférieure à %s\"</string>
+    <string name="default_condition_summary">Par exemple : \"La batterie est inférieure à 20%\"</string>
     <string name="default_condition_title">Ajouter une condition</string>
     <string name="default_condition_title_continue">Ajouter une condition</string>
     <string name="default_result_summary">Par exemple : \"Désactiver le mode Avion\"</string>
